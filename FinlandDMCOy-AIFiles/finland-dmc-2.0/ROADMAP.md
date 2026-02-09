@@ -10,8 +10,8 @@
 | **Next 3 Tasks** | 1. Sign up for Claude Teams               |
 |                  | 2. Enable M365 connector                   |
 |                  | 3. Connect M365 account                    |
-| **Blockers**     | None                                       |
-| **Last Session** | 2026-02-09 — Initial setup: created project structure, CLAUDE.md, ROADMAP.md, MINING_PROTOCOL.md |
+| **Blockers**     | M365 admin on holiday this week — Phase 0 M365 tasks blocked until next week |
+| **Last Session** | 2026-02-09 — Deep research on Claude Code orchestration, two-zone architecture, CLAUDE.md hierarchy, custom subagents |
 
 ---
 
@@ -318,3 +318,36 @@
 - Begin Phase 0: Sign up for Claude Teams, enable M365 connector
 - Validate shared mailbox search works
 - Create empty Claude Projects
+
+---
+
+### Session 2026-02-09 (continued) | Phase 0 | Duration: ~2h
+
+**Accomplished:**
+- Deep research: Claude Code orchestration patterns for multi-company holdings (2 rounds)
+- Established two-zone file architecture: Workshop (local+Git) vs. Company Knowledge (OneDrive→SharePoint)
+- Created CLAUDE.md hierarchy: user-level → holdings-level → company-level → project-level
+- Created 3 custom subagents: mining-organizer, company-setup, file-builder
+- Created _shared/ folder structure for cross-company resources
+- Initialized Git repository with first commit
+- Installed GitHub CLI (gh)
+- Created GitHub account: patrick.heiskanen@finland-dmc.com
+- Moved 11 reference/template files from Downloads into project
+- Installed VS Code recommendation noted (not yet done)
+
+**Decisions made:**
+- Two-zone architecture: Workshop files stay local+Git, Company Knowledge goes to OneDrive for M365 access
+- Local Git + OneDrive sync = sufficient, no GitHub push needed
+- VS Code recommended as editor (free, Microsoft ecosystem, Claude Code extension)
+- Agent Teams available but overkill now — start with custom subagents
+- M365 admin blocker: use this week for research and fundamentals instead of Phase 0 M365 tasks
+
+**Blockers:**
+- M365 account admin on holiday this week — cannot set up M365 connector until next week
+- OneDrive sync folder not yet configured on Mac — need to sign in and set up sync
+
+**Next session:**
+- Set up OneDrive sync on Mac → create Zone B folder structure
+- Install VS Code + Claude Code extension
+- Continue AI best practices research for holdings-wide use
+- Phase 0 M365 tasks resume when admin returns

@@ -11,9 +11,13 @@
 .claude/settings.local.json
 CLAUDE.local.md
 
-# Large binary files (don't version these)
+# Large binary files (don't version these — they go to OneDrive/SharePoint)
 *.docx
 *.xlsx
 *.pptx
 *.pdf
 *.zip
+
+# Agent memory (project-specific, accumulates over time)
+.claude/agent-memory/
+.claude/agent-memory-local/
