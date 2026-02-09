@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+._*
+
+# OneDrive sync files
+~$*
+*.tmp
+.~lock.*
+
+# Claude Code local settings (personal, not shared)
+.claude/settings.local.json
+CLAUDE.local.md
+
+# Large binary files (don't version these)
+*.docx
+*.xlsx
+*.pptx
+*.pdf
+*.zip

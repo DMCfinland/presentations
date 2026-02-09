@@ -1,0 +1,176 @@
+EMAIL ARCHIVE MINING SESSION
+═══════════════════════════════════════════════════════
+When: Thursday of Week 1 (after M365 connector is working)
+Where: Client Communications project (or any project with M365 connected)
+Model: Opus 4.5 or 4.6 (this requires careful analysis)
+Duration: ~1 hour
+═══════════════════════════════════════════════════════
+
+This session extracts the best emails, phrases, and patterns from your
+3-year email archive to seed the example files and Best Lines document.
+
+═══════════════════════════════════════════════════════
+PHASE 1: FIND BEST EMAILS BY TYPE
+═══════════════════════════════════════════════════════
+
+Paste each of the following prompts one at a time. For each email type,
+Claude searches the shared mailbox, finds candidates, and you pick the best.
+
+--- PROMPT 1: New Inquiries ---
+
+Search our shared mailbox (info@finlanddmc.fi) for emails we SENT in response
+to new group travel inquiries in the past 2 years.
+
+Find 5-10 of our best response emails. I'm looking for responses that are:
+- Warm and professional
+- Show genuine enthusiasm for the client's trip
+- Reference specific details from the client's inquiry
+- Suggest relevant activities
+- Include clear next steps
+
+For each email, show me:
+1. Date sent and client/company name
+2. Subject line
+3. First 3 sentences
+4. Group size and season (if visible)
+5. Your assessment: what makes it strong?
+
+I'll pick the best one as our example template.
+
+--- PROMPT 2: Follow-Ups ---
+
+Now search for our best follow-up emails to warm leads. These are emails
+we sent AFTER an initial response, following up on a proposal or inquiry
+that hasn't been confirmed yet.
+
+Same criteria: find 5-10 candidates, show me the same details.
+I'm looking for follow-ups that create value (not just "checking in")
+and have gentle urgency without being pushy.
+
+--- PROMPT 3: Complaint Responses ---
+
+Search for emails we sent in response to client complaints or issues.
+These could be about service quality, logistics problems, weather
+disruptions, supplier issues, etc.
+
+Find 3-5 strong examples where we handled the complaint well:
+empathetic, took responsibility, offered solutions.
+
+--- PROMPT 4: Cold Outreach ---
+
+Search for cold sales emails we sent to potential clients who hadn't
+contacted us first. These are outbound prospecting emails.
+
+Find 3-5 examples. I'm looking for emails that are brief,
+lead with value, and have a clear hook.
+
+--- PROMPT 5: Returning Client Emails ---
+
+Search for emails we sent to clients who have booked with us before.
+These should show personalization — referencing past trips, known
+preferences, or shared history.
+
+Find 3-5 strong examples that show how we welcome back
+returning clients.
+
+--- PROMPT 6: Booking Confirmations ---
+
+Search for booking confirmation emails we sent. These should be
+clear, organized, and contain all practical details.
+
+Find 2-3 well-structured examples.
+
+--- PROMPT 7: Price Quotes ---
+
+Search for emails where we sent pricing or quoted rates.
+Find 3-5 examples that present pricing clearly and frame
+value well (not just a price list).
+
+--- PROMPT 8: Logistics / Quick Answers ---
+
+Search for short, efficient emails where we answered a quick
+logistics question (dates, transfers, meeting points, etc.).
+Find 2-3 examples that are direct and helpful.
+
+
+═══════════════════════════════════════════════════════
+PHASE 2: EXTRACT BEST LINES
+═══════════════════════════════════════════════════════
+
+After picking your best emails from Phase 1, paste this:
+
+---
+
+Now analyze all the strong emails we found across all types.
+Extract the best language into categories:
+
+1. STRONG OPENERS (first 1-2 sentences that hook the reader)
+2. SEASONAL DESCRIPTIONS (beautiful descriptions of Finnish seasons/nature)
+3. ACTIVITY DESCRIPTIONS (compelling descriptions of activities we offer)
+4. CLOSING LINES (sign-offs that encourage action or build warmth)
+5. PERSONALIZATION PHRASES (how we reference past trips or known preferences)
+6. OBJECTION HANDLING (smart responses to price, weather, or logistics concerns)
+7. VALUE FRAMING (how we position our services as worth the investment)
+
+Format each as a standalone phrase or sentence I can add to Best_Lines.txt.
+Mark which email each came from so I can verify.
+
+
+═══════════════════════════════════════════════════════
+PHASE 3: DISCOVER PATTERNS FOR DOs/DON'Ts
+═══════════════════════════════════════════════════════
+
+---
+
+One more analysis. Look across all the emails we reviewed and identify:
+
+1. WHAT OUR BEST EMAILS HAVE IN COMMON:
+   - Structure patterns (what comes first, second, third?)
+   - Length patterns (how long are the good ones?)
+   - Tone patterns (what voice/personality shines through?)
+   - What they always include that weaker emails miss?
+
+2. WHAT OUR WEAKER EMAILS LACK:
+   - Common gaps or mistakes?
+   - Too long? Too short? Wrong tone?
+   - Missing information?
+
+3. CLIENT REPLY ANALYSIS:
+   Search for client replies to our proposals and emails from the past year.
+   - What language do clients use when they confirm/book? (What convinced them?)
+   - What follow-up questions do clients ask? (What did we fail to address?)
+   - Any negative replies or lost deals? What went wrong?
+
+Based on all this, suggest 5 new DOs and 5 new DON'Ts rules to add
+to our existing starter list.
+
+
+═══════════════════════════════════════════════════════
+AFTER MINING: WHAT PATRICK DOES
+═══════════════════════════════════════════════════════
+
+1. For each email type: select the single best email from Phase 1
+   → Save as Example_Email_[Type].txt using this format:
+
+   EMAIL TYPE: [Type]
+   CONTEXT: [Brief description of the situation]
+   WHAT MAKES THIS GOOD: [2-3 bullet points]
+   ---
+   Subject: [Subject line]
+   [Full email text]
+   ---
+   RATING: 4/4
+   NOTES: [Why this works]
+
+2. Copy Phase 2 extracted lines into Best_Lines.txt
+
+3. Add Phase 3 rules to DOs_and_DONTs.txt
+
+4. Upload all files to Client Communications project
+   (upload in order: DOs_and_DONTs, Tone_Guide, Best_Lines, then examples)
+
+5. Copy shared files (DOs_and_DONTs, Tone_Guide, Best_Lines) to
+   Proposals & Itineraries project
+
+6. Test: paste a recent real inquiry and compare Claude's draft
+   to what was actually sent. Is it better? Same quality? Gaps?

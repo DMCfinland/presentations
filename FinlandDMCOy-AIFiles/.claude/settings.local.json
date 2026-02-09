@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(unzip:*)",
+      "Bash(defaults read:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nInitial commit: 1658 Holdings AI Files project structure\n\n- Finland DMC 2.0: CLAUDE.md, ROADMAP.md, MINING_PROTOCOL.md\n- Template files \\(7\\): example prompts to rework after mining\n- Reference files: mining instructions, search protocol, M365 research\n- Full directory structure for mining outputs and project files\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\nEOF\n\\)\")"
+    ]
+  }
+}
