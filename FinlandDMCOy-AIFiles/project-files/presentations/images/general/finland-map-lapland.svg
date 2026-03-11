@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 700" width="500" height="700">
+  <defs>
+    <style>
+      .pin-label { font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif; font-weight:700; font-size:13px; fill:white; }
+      .pin-label-sm { font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif; font-weight:600; font-size:11px; fill:white; }
+      .iata { font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif; font-weight:700; font-size:10px; fill:#D4AF37; }
+      .drive-time { font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif; font-size:9px; fill:#D4AF37; opacity:0.85; }
+      .region { font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif; font-weight:600; font-size:10px; fill:rgba(255,255,255,0.25); letter-spacing:3; }
+      .arctic-label { font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif; font-size:9px; font-style:italic; fill:#D4AF37; opacity:0.8; }
+    </style>
+  </defs>
+
+  <!--
+    Zoomed in on Lapland: lat 64.5°N–70.1°N, lon 20°E–30.5°E
+    Projection:
+      x = (lon - 20.0) / 10.5 * 500
+      y = (70.1 - lat) / 5.6 * 700
+  -->
+
+  <!-- Sea/background -->
+  <rect width="500" height="700" fill="#C8DDE8"/>
+
+  <!-- Finland land (Lapland region, simplified) -->
+  <!-- Key border points in this projection:
+    Tornio (65.85, 24.14): x=(24.14-20)/10.5*500=197, y=(70.1-65.85)/5.6*700=531
+    Oulu (65.01, 25.47): x=260, y=637
+    (NW Norway border 68.5, 20.1): x=5, y=195
+    (Norway border 69.0, 21.5): x=71, y=133
+    (N tip 70.1, 27.5): x=357, y=0
+    (NE 68.5, 29.2): x=453, y=195
+    (Salla 66.8, 28.7): x=414, y=326
+    (Suomussalmi 65.0, 28.9): x=424, y=637 -- off screen
+  -->
+  <path d="M197,531
+           L260,637 L295,700
+           M-10,700 L-10,700"
+        fill="none"/>
+
+  <!-- Full Finland land for this viewport -->
+  <path d="M-20,700 L197,531 L250,490 L260,637 L290,700
+           L490,700 L453,195 L414,326 L400,420 L380,490
+           L357,0 L320,17 L260,37 L71,133 L5,195
+           L10,240 L197,531 Z"
+        fill="#2D5A3D"/>
+
+  <!-- Sweden/Russia labels -->
+  <text x="20" y="400" class="region" transform="rotate(-90,20,400)">SWEDEN</text>
+  <text x="462" y="250" class="region">RUSSIA</text>
+  <text x="55" y="80" class="region">NORWAY</text>
+
+  <!-- Arctic Circle (66.56°N) → y = (70.1-66.56)/5.6*700 = 3.54/5.6*700 = 443 -->
+  <line x1="0" y1="443" x2="500" y2="443" stroke="#D4AF37" stroke-width="1.5" stroke-dasharray="8,5" opacity="0.7"/>
+  <text x="12" y="438" class="arctic-label">Arctic Circle 66.5°N</text>
+
+  <!-- Drive-time connections (thin lines) -->
+  <!-- RVN to Pyhä: 1.5h -->
+  <!-- Pyhä (67.02, 27.00): x=(27.0-20)/10.5*500=333, y=(70.1-67.02)/5.6*700=385 -->
+  <!-- RVN (66.56, 25.73): x=(25.73-20)/10.5*500=273, y=(70.1-66.56)/5.6*700=443 -->
+  <line x1="273" y1="443" x2="333" y2="385" stroke="rgba(212,175,55,0.5)" stroke-width="1.2" stroke-dasharray="4,3"/>
+  <text x="303" y="410" class="drive-time" text-anchor="middle">1.5 h</text>
+
+  <!-- RVN to Levi: 1.5h drive -->
+  <!-- Levi (67.80, 24.83): x=(24.83-20)/10.5*500=230, y=(70.1-67.80)/5.6*700=288 -->
+  <line x1="273" y1="443" x2="230" y2="288" stroke="rgba(212,175,55,0.5)" stroke-width="1.2" stroke-dasharray="4,3"/>
+  <text x="246" y="370" class="drive-time" text-anchor="middle">1.5 h</text>
+
+  <!-- IVL to Saariselkä: 30 min -->
+  <!-- IVL (68.61, 27.41): x=(27.41-20)/10.5*500=353, y=(70.1-68.61)/5.6*700=186 -->
+  <!-- Saariselkä (68.43, 27.43): x=354, y=209 -->
+  <line x1="353" y1="186" x2="354" y2="209" stroke="rgba(212,175,55,0.5)" stroke-width="1.2"/>
+
+  <!-- HEL flight lines (very faint) -->
+  <!-- HEL shown at bottom as a label, not plotted (off-screen) -->
+
+  <!-- ── AIRPORTS ── -->
+  <!-- RVN -->
+  <!-- RVN (66.56, 25.73): x=273, y=443 -->
+  <polygon points="273,435 280,442 273,449 266,442" fill="#D4AF37" stroke="white" stroke-width="1.5"/>
+  <text x="283" y="446" class="iata">RVN</text>
+
+  <!-- KTT (67.70, 24.85): x=(24.85-20)/10.5*500=231, y=(70.1-67.70)/5.6*700=300 -->
+  <polygon points="231,292 238,299 231,306 224,299" fill="#D4AF37" stroke="white" stroke-width="1.5"/>
+  <text x="175" y="303" class="iata" text-anchor="end">KTT</text>
+
+  <!-- IVL (68.61, 27.41): x=353, y=186 -->
+  <polygon points="353,178 360,185 353,192 346,185" fill="#D4AF37" stroke="white" stroke-width="1.5"/>
+  <text x="343" y="177" class="iata" text-anchor="end">IVL</text>
+
+  <!-- ── DESTINATION PINS ── -->
+  <!-- Levi (67.80, 24.83): x=230, y=288 -->
+  <circle cx="230" cy="288" r="7" fill="#D4AF37" stroke="white" stroke-width="2"/>
+  <text x="218" y="277" class="pin-label" text-anchor="end">Levi</text>
+
+  <!-- Saariselkä (68.43, 27.43): x=354, y=209 -->
+  <circle cx="354" cy="209" r="7" fill="#D4AF37" stroke="white" stroke-width="2"/>
+  <text x="364" y="207" class="pin-label-sm">Saariselkä</text>
+
+  <!-- Pyhä-Luosto (67.02, 27.00): x=333, y=385 -->
+  <circle cx="333" cy="385" r="7" fill="#D4AF37" stroke="white" stroke-width="2"/>
+  <text x="343" y="383" class="pin-label">Pyhä-Luosto</text>
+
+  <!-- Rovaniemi (66.56, 25.73): x=273, y=443 — placed just above airport -->
+  <circle cx="260" cy="458" r="7" fill="#D4AF37" stroke="white" stroke-width="2"/>
+  <text x="248" y="474" class="pin-label" text-anchor="middle">Rovaniemi</text>
+
+  <!-- ── HELSINKI indicator at bottom ── -->
+  <rect x="10" y="648" width="220" height="44" rx="4" fill="rgba(0,0,0,0.35)"/>
+  <text x="20" y="665" font-family="'Montserrat',Arial,sans-serif" font-size="10" font-weight="600" fill="white">Direct flights from Helsinki (HEL)</text>
+  <text x="20" y="681" font-family="'Montserrat',Arial,sans-serif" font-size="9" fill="rgba(255,255,255,0.75)">KTT 1h 20min · RVN 1h 25min · IVL 1h 35min</text>
+
+</svg>

@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 700" width="500" height="700">
+  <defs>
+    <style>
+      .pin-label { font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif; font-weight:700; font-size:13px; fill:white; }
+      .pin-label-sm { font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif; font-weight:600; font-size:11px; fill:white; }
+      .iata { font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif; font-weight:700; font-size:10px; fill:#D4AF37; }
+      .drive-time { font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif; font-size:9.5px; fill:#D4AF37; opacity:0.9; }
+      .region { font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif; font-weight:600; font-size:11px; fill:rgba(255,255,255,0.3); letter-spacing:3; }
+    </style>
+  </defs>
+
+  <!--
+    Zoomed into Southern/Central Finland: lat 59.5°N–64.5°N, lon 21°E–31°E
+    Projection:
+      x = (lon - 21.0) / 10.0 * 500
+      y = (64.5 - lat) / 5.0 * 700
+  -->
+
+  <!-- Background (lakes = light blue) -->
+  <rect width="500" height="700" fill="#C8DDE8"/>
+
+  <!-- Finland land (SW to NE outline for this region) -->
+  <!--
+    Hanko (59.82, 22.93): x=96, y=660
+    Helsinki (60.17, 24.94): x=197, y=611
+    Kotka (60.47, 26.95): x=297, y=569
+    SE corner (60.48, 28.05): x=352, y=568
+    Lappeenranta (61.05, 28.19): x=359, y=507
+    Joensuu (62.60, 29.76): x=438, y=390  [top-right, eastern border]
+    Border N: (63.5, 29.5): x=425, y=280  [goes off N edge at ~64.5°N]
+    N edge (64.5, 29.0): x=400, y=0
+    Oulu/NW: (64.5, 25.0): x=200, y=0    [top edge at 64.5°N]
+    West coast: Kokkola (63.84, 23.13): x=107, y=92
+    Vaasa (63.10, 21.62): x=31, y=196
+    Kristiinankaupunki (62.27, 21.39): x=20, y=312
+    Pori (61.49, 21.79): x=40, y=422
+    Rauma (61.12, 21.49): x=25, y=476
+    Uusikaupunki (60.79, 21.41): x=21, y=522
+    Turku (60.45, 22.27): x=63, y=570
+    Hanko (59.82, 22.93): x=96, y=660
+  -->
+  <path d="M96,700 L96,660 L63,570 L21,522 L25,476 L40,422 L20,312 L31,196 L107,92 L200,0 L400,0 L425,280 L438,390 L359,507 L352,568 L297,569 L197,611 L96,660 L96,700 Z"
+        fill="#2D5A3D"/>
+
+  <!-- Lake highlights (stylized blue patches for Lake Saimaa region) -->
+  <ellipse cx="365" cy="510" rx="28" ry="18" fill="#8BB8CC" opacity="0.6"/>
+  <ellipse cx="340" cy="490" rx="22" ry="12" fill="#8BB8CC" opacity="0.5"/>
+  <ellipse cx="385" cy="490" rx="16" ry="10" fill="#8BB8CC" opacity="0.5"/>
+  <ellipse cx="350" cy="455" rx="18" ry="14" fill="#8BB8CC" opacity="0.4"/>
+  <ellipse cx="320" cy="440" rx="14" ry="10" fill="#8BB8CC" opacity="0.4"/>
+  <ellipse cx="370" cy="430" rx="20" ry="8" fill="#8BB8CC" opacity="0.4"/>
+  <!-- Tahko lake area -->
+  <ellipse cx="372" cy="360" rx="25" ry="15" fill="#8BB8CC" opacity="0.45"/>
+  <ellipse cx="390" cy="345" rx="14" ry="10" fill="#8BB8CC" opacity="0.4"/>
+
+  <!-- Region label -->
+  <text x="340" y="480" class="region" text-anchor="middle">SAIMAA</text>
+  <text x="370" y="350" class="region" text-anchor="middle">KALLAVESI</text>
+
+  <!-- ── DRIVE ROUTES ── -->
+  <!--
+    Helsinki (60.17, 24.94): x=197, y=611
+    Järvisydän/Rantasalmi (62.07, 28.28): x=364, y=437
+    Tahko (63.30, 27.95): x=349, y=266
+    HEL to Rantasalmi: ~2.5h drive
+    HEL to Kuopio: ~3.5h drive
+    Rantasalmi to Tahko: ~1.5h drive
+  -->
+  <!-- HEL → Järvisydän road -->
+  <path d="M197,611 C250,580 300,520 364,437" stroke="rgba(212,175,55,0.55)" stroke-width="2" fill="none" stroke-dasharray="6,4"/>
+  <text x="285" y="538" class="drive-time" text-anchor="middle">2.5 h</text>
+
+  <!-- Järvisydän → Tahko road -->
+  <path d="M364,437 C360,400 352,340 349,266" stroke="rgba(212,175,55,0.55)" stroke-width="2" fill="none" stroke-dasharray="6,4"/>
+  <text x="370" y="360" class="drive-time">1.5 h</text>
+
+  <!-- HEL flight to KUO indicator (not shown as airport, just note) -->
+
+  <!-- ── HEL AIRPORT ── -->
+  <!-- Helsinki (60.17, 24.94): x=197, y=611 -->
+  <polygon points="197,601 204,608 197,615 190,608" fill="#D4AF37" stroke="white" stroke-width="1.5"/>
+  <text x="185" y="629" class="iata" text-anchor="middle">HEL</text>
+
+  <!-- ── DESTINATION PINS ── -->
+  <!-- Helsinki -->
+  <circle cx="197" cy="611" r="7" fill="#D4AF37" stroke="white" stroke-width="2"/>
+  <text x="185" y="649" class="pin-label" text-anchor="middle">Helsinki</text>
+
+  <!-- Järvisydän (Rantasalmi, 62.07, 28.28): x=364, y=437 -->
+  <circle cx="364" cy="437" r="7.5" fill="#D4AF37" stroke="white" stroke-width="2"/>
+  <text x="375" y="435" class="pin-label">Järvisydän</text>
+  <text x="375" y="449" class="pin-label-sm" style="fill:rgba(255,255,255,0.75)">Rantasalmi</text>
+
+  <!-- Tahko (63.30, 27.95): x=349, y=266 -->
+  <circle cx="349" cy="266" r="7" fill="#D4AF37" stroke="white" stroke-width="2"/>
+  <text x="360" y="264" class="pin-label">Tahko</text>
+
+  <!-- ── KEY INFO BOX ── -->
+  <rect x="10" y="18" width="230" height="62" rx="4" fill="rgba(0,0,0,0.35)"/>
+  <text x="20" y="36" font-family="'Montserrat',Arial,sans-serif" font-size="10" font-weight="700" fill="white">LAKELAND — GETTING HERE</text>
+  <text x="20" y="52" font-family="'Montserrat',Arial,sans-serif" font-size="9" fill="rgba(255,255,255,0.8)">Helsinki → Järvisydän: 2.5 h drive</text>
+  <text x="20" y="65" font-family="'Montserrat',Arial,sans-serif" font-size="9" fill="rgba(255,255,255,0.8)">Helsinki → Tahko: 4 h / train to Kuopio</text>
+  <text x="20" y="72" font-family="'Montserrat',Arial,sans-serif" font-size="9" fill="rgba(255,255,255,0.8)">Järvisydän → Tahko: 1.5 h drive</text>
+
+</svg>
