@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finland DMC - Lakeland Summer</title>
+
+    <!-- Open Graph for social sharing -->
+    <meta property="og:title" content="Finland DMC - Lakeland Summer">
+    <meta property="og:description" content="Three iconic Finnish lakeland destinations — Järvisydän, Tahko, and Sahalahti. 188,000 lakes, Nordic luxury, and experiences no booking engine can offer.">
+    <meta property="og:image" content="images/lakeland/saimaa-islands-autumn-aerial.jpg">
+    <meta property="og:type" content="website">
+
+    <!-- Shared design system v3 -->
+    <link rel="stylesheet" href="template-styles-v3.css">
+
+    <!-- Background-image slides only (cover + closing) -->
+    <style>
+        .cover-bg  { background-image: url('images/lakeland/saimaa-islands-autumn-aerial.jpg'); }
+        .closing-bg { background-image: url('images/lakeland/wooden-boat-cruise.jpg'); }
+    </style>
+
+    <!-- Print / PDF — Landscape A4 -->
+    <style>
+        @page {
+            size: A4 landscape;
+            margin: 0;
+        }
+        @media print {
+            html, body {
+                margin: 0 !important;
+                padding: 0 !important;
+                width: 297mm !important;
+                background: #F8F4ED !important;
+                -webkit-print-color-adjust: exact !important;
+                print-color-adjust: exact !important;
+            }
+            .slide {
+                width: 297mm !important;
+                height: 210mm !important;
+                min-height: 210mm !important;
+                max-height: 210mm !important;
+                margin: 0 !important;
+                padding: 0 !important;
+                overflow: hidden !important;
+                box-sizing: border-box !important;
+                page-break-inside: avoid !important;
+                break-inside: avoid !important;
+                -webkit-print-color-adjust: exact !important;
+                print-color-adjust: exact !important;
+                position: relative;
+            }
+            .slide + .slide {
+                page-break-before: always !important;
+                break-before: page !important;
+            }
+            .slide:last-child {
+                page-break-after: avoid !important;
+            }
+            .slide-stats,
+            .slide-content-lr,
+            .slide-content-rl,
+            .slide-activities,
+            .slide-map,
+            .slide-product,
+            .slide-destinations {
+                height: 210mm !important;
+                min-height: 210mm !important;
+                align-items: stretch !important;
+            }
+            .photo-side,
+            .slide-activities .photo-grid,
+            .slide-content-rl .photo-side {
+                height: 210mm !important;
+                min-height: 210mm !important;
+                flex-shrink: 0 !important;
+            }
+            .text-side,
+            .stats-side,
+            .slide-map .text-side {
+                padding: 52px 55px !important;
+                height: 210mm !important;
+                overflow-y: hidden !important;
+            }
+            .slide-cover,
+            .slide-impact {
+                height: 210mm !important;
+                background-size: cover !important;
+                background-position: center !important;
+            }
+            .slide-cover .content,
+            .slide-impact .content {
+                height: 100% !important;
+            }
+            .slide-company {
+                height: 210mm !important;
+                padding: 60px !important;
+                display: flex !important;
+                align-items: center !important;
+                justify-content: center !important;
+            }
+            .slide-product {
+                padding: 52px 55px !important;
+            }
+            .slide-map .map-side img {
+                max-height: 175mm !important;
+            }
+        }
+    </style>
+
+    <script>
+    window.addEventListener('beforeprint', () => {
+        document.title = 'Finland DMC - Lakeland Summer';
+    });
+    </script>
+</head>
+<body>
+<div id="slide-counter" class="slide-counter"></div>
+<div id="overview-container" class="overview-container"></div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 1: COVER                                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-cover cover-bg">
+    <div class="overlay"></div>
+    <div class="content">
+        <h1>Lakeland Finland</h1>
+        <p class="tagline">Where 188,000 Lakes Meet Nordic Luxury</p>
+    </div>
+    <div class="brand-bar">
+        <img src="logo.png" alt="Finland DMC">
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 2: WELCOME TO LAKELAND — Stats                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-stats">
+    <div class="photo-side">
+        <img src="images/lakeland/kota-glass-roof-couple.jpg"
+             style="--focal-x: 50%; --focal-y: 40%;"
+             alt="Couple under glass roof at Järvisydän, Saimaa lakeland">
+    </div>
+    <div class="stats-side">
+        <h2>Welcome to<br>Finnish Lakeland</h2>
+        <p class="intro-text">Europe's largest lake district — where pristine water, ancient forests, and the silence of nature create the ultimate escape. Three extraordinary destinations. One seamless journey. All arranged by your local expert.</p>
+        <div class="stats-grid">
+            <div class="stat-item">
+                <div class="number">188K</div>
+                <div class="label">Lakes in Finland</div>
+            </div>
+            <div class="stat-item">
+                <div class="number">#1</div>
+                <div class="label">Happiest country</div>
+            </div>
+            <div class="stat-item">
+                <div class="number">4,400</div>
+                <div class="label">km² Lake Saimaa</div>
+            </div>
+            <div class="stat-item">
+                <div class="number">3h</div>
+                <div class="label">From Helsinki</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 3: JÄRVISYDÄN RESORT — Aerial overview               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-lr">
+    <div class="text-side">
+        <h2>Järvisydän Resort</h2>
+        <p>In the heart of Saimaa — Finland's most celebrated lake region — Järvisydän is a full-service resort offering world-class accommodation, an award-winning cave spa, top-10 dining, and a complete range of lakeland activities.</p>
+        <p>From glass-roofed Scenery Suites to lakeside Kuru Lake Suites and floating houseboats, every room type frames the water and forest. The resort serves as our primary Lakeland hub, with all experiences and excursions departing from one beautiful location.</p>
+        <p>Järvisydän welcomes groups from intimate couples' retreats to incentive programmes of 200 guests — the same seamless quality at every scale.</p>
+    </div>
+    <div class="photo-side">
+        <img src="images/lakeland/jarvisydan-summer-aerial.jpg"
+             style="--focal-x: 50%; --focal-y: 45%;"
+             alt="Järvisydän resort aerial view, summer, Lake Saimaa">
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 4: ACCOMMODATION — Scenery Suites & Kota Hotel       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-lr">
+    <div class="text-side">
+        <h2>Scenery Suites &<br>Kota Hotel</h2>
+        <p><strong>Scenery Suites</strong> — Panoramic glass igloos with floor-to-ceiling windows frame the lake and forest from your bed. The glass roof experience your clients dream about — in a full-size luxury suite, not a capsule.</p>
+        <p><strong>Kota Hotel</strong> — Glass-roofed suites frame the night sky and star-filled darkness. Dark luxury suites with lake panoramas and private terraces. The sky is part of the room.</p>
+        <p><strong>Kuru Lake Suites</strong> — Contemporary Finnish design steps from the award-winning restaurant. Private sauna, lake panorama windows, and the most peaceful part of the resort.</p>
+        <div class="feature-icons">
+            <span class="feature-icon">Glass roof</span>
+            <span class="feature-icon">Lake panorama</span>
+            <span class="feature-icon">Private terrace</span>
+            <span class="feature-icon">Bathtub</span>
+        </div>
+    </div>
+    <div class="photo-side">
+        <img src="images/lakeland/kota-night-stars-candlelit.jpg"
+             style="--focal-x: 50%; --focal-y: 40%;"
+             alt="Kota Hotel suite at night, candlelit with starry sky through glass roof">
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 5: ACTIVITIES MOSAIC                                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-activities">
+    <div class="text-side">
+        <h2>Lakeland<br>Experiences</h2>
+        <p class="subtitle">Spring, summer, autumn &amp; winter activities on Europe's largest lake</p>
+        <ul class="activity-list">
+            <li>Saimaa ringed seal safari</li>
+            <li>Wooden boat lake cruises</li>
+            <li>Kayaking &amp; canoeing</li>
+            <li>Trip to Linnansaari National Park</li>
+            <li>Fat biking forest trails</li>
+            <li>Berry &amp; mushroom foraging</li>
+            <li>Fishing (summer &amp; winter)</li>
+            <li>Snowshoeing</li>
+            <li>Champagne sunset cruise</li>
+            <li>Campfire dining in nature</li>
+            <li>Savonlinna Opera Festival</li>
+            <li>Olavinlinna Castle visit</li>
+            <li>Linnansaari National Park</li>
+        </ul>
+    </div>
+    <div class="photo-grid">
+        <div class="photo"><img src="images/lakeland/saimaa-seal.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Saimaa ringed seal"></div>
+        <div class="photo"><img src="images/lakeland/ice-fishing-lakeland.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Ice fishing on frozen Saimaa lake"></div>
+        <div class="photo"><img src="images/lakeland/wooden-boat-cruise.jpg" style="--focal-x:50%;--focal-y:45%;" alt="Traditional wooden boat cruise on Saimaa"></div>
+        <div class="photo"><img src="images/lakeland/sunset-champagne.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Champagne at sunset on the lake"></div>
+        <div class="photo"><img src="images/lakeland/evening-campfire.jpg" style="--focal-x:50%;--focal-y:55%;" alt="Evening campfire by the lake"></div>
+        <div class="photo"><img src="images/lakeland/fatbike-lake-view.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Fat biking with lake view in forest"></div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 6: SPA & WELLNESS                                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-rl">
+    <div class="photo-side">
+        <div class="photo">
+            <img src="images/lakeland/jarvisydan-cave-spa.jpg"
+                 style="--focal-x: 50%; --focal-y: 40%;"
+                 alt="Järvisydän cave spa — turquoise pool in natural rock">
+        </div>
+        <div class="photo">
+            <img src="images/lakeland/outside-pool.jpg"
+                 style="--focal-x: 50%; --focal-y: 60%;"
+                 alt="Outdoor heated pool overlooking Lake Saimaa">
+        </div>
+    </div>
+    <div class="text-side">
+        <h2>Award-Winning<br>Spa &amp; Wellness</h2>
+        <p>Voted Best Spa in Finland multiple times, Järvisydän's wellness offering is built around the unique combination of underground stone and open lake.</p>
+        <p><strong>Lake Spa</strong> — Finland's first cave spa, carved into natural rock. Turquoise pools, log-and-stone architecture, and an atmosphere unlike any other wellness space in the Nordics.</p>
+        <p><strong>Lake Spa</strong> — Outdoor pools overlooking Saimaa. Traditional smoke sauna, cold plunge pools, and peat treatments using local ingredients. A holistic journey from underground stone to open sky.</p>
+        <div class="feature-icons">
+            <span class="feature-icon">Cave spa pools</span>
+            <span class="feature-icon">Outdoor pool</span>
+            <span class="feature-icon">Smoke sauna</span>
+            <span class="feature-icon">Peat treatments</span>
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 7: DINING                                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-lr">
+    <div class="text-side">
+        <h2>Dining</h2>
+        <p><strong>Solitary by Kuru</strong> — Top 10 restaurant in Finland. An intimate dining concept where the chef, the ingredients, and the landscape are all within arm's reach. The ultimate Saimaa culinary experience.</p>
+        <p><strong>Tulimenu</strong> — Our signature fire menu experience. Seasonal ingredients cooked over open flame at your table — an interactive dining moment that brings the Finnish campfire tradition indoors.</p>
+        <p><strong>Kota Restaurant Savonloitsu</strong> — The resort's iconic teepee restaurant. Open-flame cooking under a traditional kota roof, smoked meats, and Finnish campfire cuisine.</p>
+        <p><strong>Dinner Cruise</strong> — A floating restaurant on the Saimaa waterway. Multi-course dinner as islands and forests glide past at sunset.</p>
+    </div>
+    <div class="photo-side">
+        <img src="images/lakeland/kuru-restaurant.jpg"
+             style="--focal-x: 50%; --focal-y: 50%;"
+             alt="Restaurant Kuru — fine dining with lake view">
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 8: TAHKO                                             -->
+<!-- TODO: Need Tahko photos                                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-lr">
+    <div class="text-side">
+        <h2>Tahko Resort</h2>
+        <p>Finland's most versatile resort destination, set in Northern Savonia. Tahko delivers year-round adventure — winter skiing and snowsports meet summer golf, cycling, and water activities — all against a backdrop of rolling lakeland hills.</p>
+        <p><strong>Summer &amp; Autumn:</strong> 200&nbsp;km of cycling and mountain-bike trails, championship golf, lake cruises, hiking, kayaking, and guided nature experiences. The forested hills and open water create a contrast that changes completely with the seasons.</p>
+        <p><strong>Winter:</strong> 23 ski slopes, cross-country tracks, fat biking on frozen lake, and snowshoeing through silent birch forest. Ice fishing on Nilsiänjärvi lake.</p>
+        <p><strong>Accommodation:</strong> Resort hotels, private villas, and lakeside cabins. Group capacity from small incentive teams to large conference programmes.</p>
+        <div class="feature-icons">
+            <span class="feature-icon">23 ski slopes</span>
+            <span class="feature-icon">200km trails</span>
+            <span class="feature-icon">Championship golf</span>
+            <span class="feature-icon">Lake cruises</span>
+        </div>
+    </div>
+    <!-- TODO: Need Tahko photos — placeholder panel until photos sourced -->
+    <div class="photo-side" style="background: linear-gradient(160deg, #2d5a3d 0%, #1a3a28 50%, #0f2419 100%); display:flex; flex-direction:column; align-items:center; justify-content:center; padding: 40px; text-align:center;">
+        <div style="color:rgba(255,255,255,0.35); font-size:3rem; margin-bottom:16px;">⛰</div>
+        <p style="color:rgba(255,255,255,0.5); font-size:0.9rem; font-style:italic; line-height:1.6;">Photos coming soon.<br>Contact us for a full Tahko visual package.</p>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 9: SAHALAHTI                                         -->
+<!-- TODO: Need Sahalahti photos                                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-lr">
+    <div class="text-side">
+        <h2>Sahalahti</h2>
+        <p>A peaceful lakeside destination on the shores of Lake Längelmävesi. Sahalahti embodies traditional Finnish countryside at its most authentic — rolling farmland, mirror-calm bays, and a rhythm of life measured by the seasons.</p>
+        <p>For clients who want the full Finnish countryside experience, Sahalahti offers a genuine alternative to resort-based programmes. The intimacy here is the point — small groups, private villas, and experiences you cannot find on any booking platform.</p>
+        <p><strong>Activities:</strong> Lake swimming from private docks, rowing across morning-mist bays, berry and mushroom picking in season, traditional lakeside sauna rituals, and slow forest walks. Evening bonfire by the water is a standard, not an upsell.</p>
+        <p><strong>Accommodation:</strong> Traditional Finnish villas and lakeside cottages sleeping 8–30 guests. Fully catered or self-catering. Ideal for executive retreats, intimate incentive groups, and private family travel.</p>
+        <div class="feature-icons">
+            <span class="feature-icon">Lake swimming</span>
+            <span class="feature-icon">Lakeside sauna</span>
+            <span class="feature-icon">Berry picking</span>
+            <span class="feature-icon">Lake Längelmävesi</span>
+        </div>
+    </div>
+    <!-- TODO: Need Sahalahti photos — placeholder panel until photos sourced -->
+    <div class="photo-side" style="background: linear-gradient(160deg, #3a5a6d 0%, #22404f 50%, #142830 100%); display:flex; flex-direction:column; align-items:center; justify-content:center; padding: 40px; text-align:center;">
+        <div style="color:rgba(255,255,255,0.35); font-size:3rem; margin-bottom:16px;">🌊</div>
+        <p style="color:rgba(255,255,255,0.5); font-size:0.9rem; font-style:italic; line-height:1.6;">Photos coming soon.<br>Contact us for a full Sahalahti visual package.</p>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 10: THREE DESTINATIONS OVERVIEW                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-map">
+    <div class="map-side">
+        <img src="images/general/finland-map-airports.jpg" alt="Map of Finnish Lakeland — Saimaa waterway and surrounding region">
+    </div>
+    <div class="text-side">
+        <h2>Three Destinations,<br>One Lakeland Journey</h2>
+        <p>Each destination has its own character. Together they form the complete Finnish lakeland experience.</p>
+        <ul class="route-list">
+            <li><span>Järvisydän Resort</span> <span class="time">Saimaa, South Savonia</span></li>
+            <li><span>Tahko Resort</span> <span class="time">Nilsiä, North Savonia</span></li>
+            <li><span>Sahalahti</span> <span class="time">Längelmävesi, Pirkanmaa</span></li>
+        </ul>
+        <p style="margin-top: 1.5em;"><strong>Järvisydän</strong> — flagship resort with cave spa and top dining. <strong>Tahko</strong> — active adventure, skiing and golf. <strong>Sahalahti</strong> — authentic countryside immersion.</p>
+        <p>We handle all routing, transfers, and logistics across all three — your clients experience the best of each without a single coordination headache.</p>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 11: BUILD YOUR STAY                                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-product">
+    <h2>Build Your Lakeland Experience</h2>
+    <p class="product-subtitle">Programs from 2 to 7 nights — choose your highlights and we build the perfect itinerary</p>
+    <div class="night-options">
+        <div class="night-card">
+            <div class="nights">3</div>
+            <div class="nights-label">nights</div>
+            <div class="includes">Järvisydän Essentials. Scenery Suite or Kota Hotel, cave spa, Kuru dinner, lake cruise. The core Saimaa experience — complete in itself.</div>
+            <div class="price">from €990 pp</div>
+        </div>
+        <div class="night-card">
+            <div class="nights">5</div>
+            <div class="nights-label">nights</div>
+            <div class="includes">Multi-Destination. Järvisydän base plus Tahko active day or Sahalahti countryside. Kayaking, foraging walk, Solitary dinner, seal safari. Deeper immersion.</div>
+            <div class="price">from €1,890 pp</div>
+        </div>
+        <div class="night-card">
+            <div class="nights">7</div>
+            <div class="nights-label">nights</div>
+            <div class="includes">Complete Lakeland Journey. All three destinations. Houseboat nights, Savonlinna castle, M/S Puijo cruise, national park, Tahko activities, Sahalahti retreat.</div>
+            <div class="price">from €3,250 pp</div>
+        </div>
+    </div>
+    <p style="font-size: 0.85rem; color: var(--text-light); font-style: italic; margin-top: 1em;">Prices are indicative and vary by season, group size, and accommodation choice. Full custom quotations on request.</p>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 12: HIDDEN GEMS OF SAIMAA                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-lr">
+    <div class="text-side">
+        <h2>Hidden Gems<br>of Saimaa</h2>
+        <p>Järvisydän is your base, but the Saimaa region holds a collection of authentic boutique resorts and experiences that no booking engine can find. As your local DMC, we open doors others can't.</p>
+        <p><strong>Sahanlahti Resort</strong> — Intimate lakeside retreat with private villas, and farm-to-table dining. The hidden pearl of Saimaa.</p>
+        <p><strong>Linnansaari National Park</strong> — Pristine islands accessible by boat only. Home to the endangered Saimaa ringed seal. Wilderness that earns its name.</p>
+        <p><strong>Savonlinna &amp; Olavinlinna</strong> — Medieval castle, world-famous opera festival, charming lakeside town. A full cultural counterpoint to nature immersion.</p>
+        <p style="margin-top: 0.5em; font-style: italic; color: var(--text-forest);">This is why you need a DMC — we know every corner personally.</p>
+    </div>
+    <div class="photo-side">
+        <img src="images/lakeland/linnavuori-couple.jpg"
+             style="--focal-x: 50%; --focal-y: 45%;"
+             alt="Couple at Linnavuori viewpoint overlooking Saimaa lakeland">
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 13: CLOSING                                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-impact closing-bg">
+    <div class="overlay"></div>
+    <div class="content">
+        <h2>Where the lakes<br>tell the story.</h2>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 14: COMPANY                                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-company">
+    <div style="max-width: 680px; margin: 0 auto;">
+        <img src="logo.png" alt="Finland DMC" class="logo">
+        <p class="company-tagline">We know hospitality.</p>
+
+        <p class="description">Finland DMC is a specialist destination management company covering all of Finland — from the thousand lakes of Saimaa to the Arctic wilderness of Lapland and the design capital Helsinki.</p>
+
+        <p class="description">We craft seamless, end-to-end travel experiences for international tour operators. Accommodation, dining, activities, transfers — we bring every element together into one memorable journey across three extraordinary lakeland destinations.</p>
+
+        <div class="contact-info">
+            <strong>Finland DMC Oy</strong><br>
+            sales@finland-dmc.com<br>
+            www.finland-dmc.com
+        </div>
+
+        <p class="version-banner">Finland DMC Lakeland Summer 2026 v3.1</p>
+    </div>
+</section>
+
+<script src="presentation-mode.js"></script>
+</body>
+</html>

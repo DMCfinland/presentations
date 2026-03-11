@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finland DMC — Presentations</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            background: #F8F4ED;
+            color: #2C2C2C;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 40px 20px;
+        }
+        .logo { max-width: 180px; margin-bottom: 20px; }
+        h1 { font-size: 1.6rem; font-weight: 400; color: #1a1a1a; margin-bottom: 8px; }
+        .subtitle { color: #666; font-size: 0.95rem; margin-bottom: 40px; }
+        .deck-grid { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; max-width: 800px; }
+        .deck-card {
+            background: white;
+            border-radius: 8px;
+            padding: 28px 24px;
+            width: 360px;
+            text-decoration: none;
+            color: inherit;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .deck-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+        }
+        .deck-card h2 { font-size: 1.15rem; margin-bottom: 6px; color: #1a1a1a; }
+        .deck-card p { font-size: 0.85rem; color: #666; line-height: 1.5; }
+        .deck-card .slides { font-size: 0.75rem; color: #D4AF37; margin-top: 10px; text-transform: uppercase; letter-spacing: 0.5px; }
+        .footer { margin-top: 50px; font-size: 0.8rem; color: #999; text-align: center; }
+        .footer a { color: #D4AF37; }
+    </style>
+</head>
+<body>
+    <img src="logo.png" alt="Finland DMC" class="logo">
+    <h1>Presentation Series 2026</h1>
+    <p class="subtitle">Press P or F5 to start fullscreen presentation</p>
+
+    <div class="deck-grid">
+        <a href="01-Finland-Overview.html" class="deck-card">
+            <h2>Finland Overview</h2>
+            <p>What is Finland? Three regions, four seasons, endless experiences. The complete introduction for tour operators.</p>
+            <div class="slides">9 slides</div>
+        </a>
+
+        <a href="03-lapland-winter.html" class="deck-card">
+            <h2>Lapland — Arctic Winter</h2>
+            <p>Northern Lights, husky safaris, glass igloos, and luxury lodges. Four destinations: Levi, Saariselka, Pyha-Luosto, Rantasalmi.</p>
+            <div class="slides">13 slides</div>
+        </a>
+
+        <a href="04-Lakeland-Summer-v3.html" class="deck-card">
+            <h2>Lakeland — Summer</h2>
+            <p>188,000 lakes, cave spa, cruise dining, Saimaa seals. Three destinations: Jarvisydan, Tahko, Sahalahti.</p>
+            <div class="slides">14 slides</div>
+        </a>
+
+        <a href="05-Helsinki-Capital.html" class="deck-card">
+            <h2>Helsinki — Capital City</h2>
+            <p>UNESCO Design City, sauna culture, archipelago, Nordic cuisine. The gateway to Finland.</p>
+            <div class="slides">11 slides</div>
+        </a>
+    </div>
+
+    <div class="footer">
+        Finland DMC Oy &middot; <a href="mailto:sales@finland-dmc.com">sales@finland-dmc.com</a> &middot; www.finland-dmc.com
+    </div>
+</body>
+</html>
