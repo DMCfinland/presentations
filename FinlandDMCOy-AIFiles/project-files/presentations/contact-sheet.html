@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Photo Contact Sheet — Finland DMC</title>
+<style>
+body {
+    background: #F8F4ED;
+    padding: 30px;
+    font-family: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
+    color: #1C1C1C;
+}
+h1 {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 0.3em;
+}
+.instructions {
+    color: #5A5A5A;
+    font-size: 0.9rem;
+    font-weight: 300;
+    margin-bottom: 1.5em;
+    line-height: 1.6;
+}
+.folder-input {
+    margin-bottom: 1.5em;
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.folder-input label {
+    font-weight: 500;
+    font-size: 0.9rem;
+}
+.folder-input input[type="file"] {
+    font-size: 0.85rem;
+}
+.filter-bar {
+    margin-bottom: 1em;
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.filter-bar input {
+    padding: 6px 12px;
+    border: 1px solid #F0E8DC;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    font-family: inherit;
+    background: #FBF9F5;
+}
+.count {
+    font-size: 0.85rem;
+    color: #8A8A8A;
+    font-weight: 300;
+}
+#grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+.thumb-wrapper {
+    position: relative;
+    width: 220px;
+    cursor: pointer;
+}
+.thumb-wrapper img {
+    width: 220px;
+    height: 165px;
+    object-fit: cover;
+    border-radius: 4px;
+    border: 3px solid transparent;
+    transition: border-color 200ms, box-shadow 200ms;
+    display: block;
+}
+.thumb-wrapper.selected img {
+    border-color: #D4AF37;
+    box-shadow: 0 0 0 4px rgba(212,175,55,0.3);
+}
+.thumb-wrapper .filename {
+    font-size: 0.7rem;
+    color: #5A5A5A;
+    margin-top: 2px;
+    word-break: break-all;
+    line-height: 1.2;
+}
+.thumb-wrapper .dimensions {
+    font-size: 0.65rem;
+    color: #8A8A8A;
+}
+#output {
+    margin-top: 2em;
+    padding: 20px;
+    background: #FBF9F5;
+    border: 1px solid #F0E8DC;
+    border-radius: 8px;
+    display: none;
+}
+#output h3 {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 1.3rem;
+    margin-bottom: 0.5em;
+}
+#output .copy-btn {
+    display: inline-block;
+    padding: 8px 20px;
+    background: #D4AF37;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 0.85rem;
+    font-weight: 500;
+    margin-top: 0.8em;
+}
+#output .copy-btn:hover {
+    background: #C49F2F;
+}
+#filelist {
+    font-family: monospace;
+    font-size: 0.8rem;
+    white-space: pre-wrap;
+    line-height: 1.6;
+    color: #2C3E2F;
+    margin-top: 0.5em;
+}
+</style>
+</head>
+<body>
+
+<h1>Photo Contact Sheet</h1>
+<p class="instructions">
+    Select a folder of photos below. Click thumbnails to select the ones you want in your presentation.
+    Copy the filename list and paste it to Claude Code.
+</p>
+
+<div class="folder-input">
+    <label>Choose photo folder:</label>
+    <input type="file" id="folderPicker" webkitdirectory multiple>
+</div>
+
+<div class="filter-bar">
+    <input type="text" id="searchFilter" placeholder="Filter by filename...">
+    <span class="count" id="countDisplay">0 photos loaded</span>
+    <span class="count" id="selectedCount">0 selected</span>
+</div>
+
+<div id="grid"></div>
+
+<div id="output">
+    <h3>Selected Photos</h3>
+    <div id="filelist"></div>
+    <button class="copy-btn" onclick="copyList()">Copy to Clipboard</button>
+</div>
+
+<script>
+const grid = document.getElementById('grid');
+const output = document.getElementById('output');
+const filelist = document.getElementById('filelist');
+const countDisplay = document.getElementById('countDisplay');
+const selectedCount = document.getElementById('selectedCount');
+const searchFilter = document.getElementById('searchFilter');
+let allWrappers = [];
+
+document.getElementById('folderPicker').addEventListener('change', function(e) {
+    grid.innerHTML = '';
+    allWrappers = [];
+    const files = Array.from(e.target.files)
+        .filter(f => /\.(jpe?g|png|webp)$/i.test(f.name) && f.size > 100000)
+        .sort((a, b) => a.name.localeCompare(b.name));
+
+    countDisplay.textContent = files.length + ' photos loaded';
+
+    files.forEach(file => {
+        const url = URL.createObjectURL(file);
+        const wrapper = document.createElement('div');
+        wrapper.className = 'thumb-wrapper';
+        wrapper.dataset.filename = file.name.toLowerCase();
+        wrapper.dataset.path = file.webkitRelativePath || file.name;
+
+        const img = document.createElement('img');
+        img.src = url;
+        img.alt = file.name;
+        img.loading = 'lazy';
+
+        const label = document.createElement('div');
+        label.className = 'filename';
+        label.textContent = file.name;
+
+        const dims = document.createElement('div');
+        dims.className = 'dimensions';
+        dims.textContent = (file.size / 1024).toFixed(0) + ' KB';
+
+        img.onload = () => {
+            dims.textContent = img.naturalWidth + 'x' + img.naturalHeight + ' | ' + (file.size / 1024).toFixed(0) + ' KB';
+        };
+
+        wrapper.onclick = () => {
+            wrapper.classList.toggle('selected');
+            updateOutput();
+        };
+
+        wrapper.appendChild(img);
+        wrapper.appendChild(label);
+        wrapper.appendChild(dims);
+        grid.appendChild(wrapper);
+        allWrappers.push(wrapper);
+    });
+});
+
+searchFilter.addEventListener('input', function() {
+    const q = this.value.toLowerCase();
+    allWrappers.forEach(w => {
+        w.style.display = w.dataset.filename.includes(q) ? '' : 'none';
+    });
+});
+
+function updateOutput() {
+    const selected = allWrappers.filter(w => w.classList.contains('selected'));
+    selectedCount.textContent = selected.length + ' selected';
+    if (selected.length === 0) {
+        output.style.display = 'none';
+        return;
+    }
+    output.style.display = 'block';
+    filelist.textContent = selected.map(w => w.dataset.path).join('\n');
+}
+
+function copyList() {
+    const text = filelist.textContent;
+    navigator.clipboard.writeText(text).then(() => {
+        const btn = document.querySelector('.copy-btn');
+        btn.textContent = 'Copied!';
+        setTimeout(() => btn.textContent = 'Copy to Clipboard', 2000);
+    });
+}
+</script>
+</body>
+</html>

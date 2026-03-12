@@ -1,0 +1,677 @@
+/* Finland DMC — Presentation Template System v2.0
+   Design system per Grok 4.20 research (2026-03-10)
+   Fonts: Cormorant Garamond + Montserrat
+   Palette: Warm cream + charcoal + soft gold + forest green
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400&display=swap');
+
+/* ========== VARIABLES ========== */
+:root {
+    /* Warm Cream (Grok: #F8F4ED) */
+    --cream: #F8F4ED;
+    --cream-light: #FBF9F5;
+    --cream-dark: #F0E8DC;
+
+    /* Text (Grok: charcoal + deep forest) */
+    --text-charcoal: #1C1C1C;
+    --text-forest: #2C3E2F;
+    --text-medium: #5A5A5A;
+    --text-light: #8A8A8A;
+    --text-white: #FFFFFF;
+
+    /* Accents (Grok) */
+    --gold: #D4AF37;
+    --gold-light: #E0C35C;
+    --nordic-blue: #A3BFFA;
+    --brand-blue: #0035A0;
+
+    /* Typography (Grok: Cormorant Garamond + Montserrat) */
+    --font-display: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+    --font-body: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
+
+    /* Spacing (Grok: 60px outer, 40px internal, 30px blocks) */
+    --margin-outer: 60px;
+    --padding-inner: 40px;
+    --spacing-block: 30px;
+}
+
+/* ========== RESET & BASE ========== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+}
+
+body {
+    font-family: var(--font-body);
+    color: var(--text-charcoal);
+    line-height: 1.6;
+    background: var(--cream);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* ========== SLIDE SYSTEM ========== */
+.slide {
+    width: 100%;
+    min-height: 100vh;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    page-break-after: always;
+    break-after: page;
+}
+
+/* ========== T1: COVER — Full-bleed hero ========== */
+.slide-cover {
+    background-size: cover;
+    background-position: center;
+    color: var(--text-white);
+    text-align: center;
+}
+
+.slide-cover .overlay {
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: linear-gradient(180deg, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.55) 100%);
+    z-index: 1;
+}
+
+.slide-cover .content {
+    position: relative;
+    z-index: 2;
+    padding: var(--margin-outer);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.slide-cover h1 {
+    font-family: var(--font-display);
+    font-size: clamp(3.5rem, 8vw, 6rem);
+    font-weight: 600;
+    margin-bottom: 0.3em;
+    letter-spacing: -0.01em;
+    text-shadow: 0 2px 30px rgba(0,0,0,0.4);
+}
+
+.slide-cover .tagline {
+    font-family: var(--font-display);
+    font-size: clamp(1.3rem, 2.5vw, 2rem);
+    font-weight: 400;
+    font-style: italic;
+    opacity: 0.95;
+    max-width: 700px;
+    text-shadow: 0 1px 15px rgba(0,0,0,0.3);
+}
+
+.slide-cover .brand-bar {
+    position: absolute;
+    bottom: 40px;
+    right: var(--margin-outer);
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    opacity: 0.85;
+}
+
+.slide-cover .brand-bar img {
+    height: 40px;
+}
+
+/* ========== T2: STATS / WELCOME ========== */
+.slide-stats {
+    background: var(--cream);
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+}
+
+.slide-stats .photo-side {
+    flex: 0 0 42%;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
+
+.slide-stats .stats-side {
+    flex: 1;
+    padding: var(--margin-outer);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.slide-stats h2 {
+    font-family: var(--font-display);
+    font-size: clamp(2.2rem, 4vw, 3.2rem);
+    font-weight: 600;
+    color: var(--text-charcoal);
+    margin-bottom: 0.5em;
+}
+
+.slide-stats .intro-text {
+    font-size: 1.05rem;
+    font-weight: 300;
+    color: var(--text-medium);
+    line-height: 1.8;
+    margin-bottom: 2em;
+    max-width: 500px;
+}
+
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+}
+
+.stat-item .number {
+    font-family: var(--font-body);
+    font-size: clamp(2.8rem, 5vw, 4.5rem);
+    font-weight: 700;
+    color: var(--gold);
+    line-height: 1;
+}
+
+.stat-item .label {
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: var(--text-medium);
+    margin-top: 0.3em;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* ========== T3: CONTENT (TEXT LEFT, PHOTO RIGHT) ========== */
+.slide-content-lr {
+    background: var(--cream);
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+}
+
+.slide-content-lr .text-side {
+    flex: 5;
+    padding: var(--margin-outer);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 55%;
+}
+
+.slide-content-lr .photo-side {
+    flex: 7;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
+
+.slide-content-lr h2,
+.slide-content-rl h2 {
+    font-family: var(--font-display);
+    font-size: clamp(2rem, 4vw, 2.8rem);
+    font-weight: 600;
+    color: var(--text-charcoal);
+    margin-bottom: 0.8em;
+}
+
+.slide-content-lr p,
+.slide-content-rl p {
+    font-size: 1.05rem;
+    font-weight: 300;
+    color: var(--text-medium);
+    margin-bottom: 1em;
+    line-height: 1.8;
+}
+
+/* ========== T4: CONTENT (PHOTO LEFT, TEXT RIGHT) ========== */
+.slide-content-rl {
+    background: var(--cream);
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+}
+
+.slide-content-rl .photo-side {
+    flex: 0 0 42%;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    min-height: 100vh;
+}
+
+.slide-content-rl .photo-side .photo {
+    flex: 1;
+    background-size: cover;
+    background-position: center;
+}
+
+.slide-content-rl .text-side {
+    flex: 1;
+    padding: var(--margin-outer);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* ========== T5: ACTIVITIES / MOSAIC ========== */
+.slide-activities {
+    background: var(--cream);
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+}
+
+.slide-activities .text-side {
+    flex: 1;
+    padding: var(--margin-outer);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.slide-activities h2 {
+    font-family: var(--font-display);
+    font-size: clamp(2rem, 3.5vw, 2.8rem);
+    font-weight: 600;
+    color: var(--text-charcoal);
+    margin-bottom: 0.5em;
+}
+
+.slide-activities .subtitle {
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: 300;
+    color: var(--text-medium);
+    margin-bottom: 1.5em;
+}
+
+.activity-list {
+    columns: 2;
+    column-gap: 2rem;
+    list-style: none;
+}
+
+.activity-list li {
+    font-size: 0.95rem;
+    font-weight: 400;
+    color: var(--text-charcoal);
+    padding: 0.45em 0;
+    padding-left: 1.2em;
+    position: relative;
+}
+
+.activity-list li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0.7em;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--gold);
+}
+
+.slide-activities .photo-grid {
+    flex: 0 0 45%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 4px;
+    min-height: 100vh;
+}
+
+.slide-activities .photo-grid .photo {
+    background-size: cover;
+    background-position: center;
+}
+
+/* ========== T6: IMPACT / CLOSING ========== */
+.slide-impact {
+    background-size: cover;
+    background-position: center;
+    color: var(--text-white);
+    text-align: center;
+}
+
+.slide-impact .overlay {
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0.45);
+    z-index: 1;
+}
+
+.slide-impact .content {
+    position: relative;
+    z-index: 2;
+    padding: var(--margin-outer);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.slide-impact h2 {
+    font-family: var(--font-display);
+    font-size: clamp(2.2rem, 5vw, 3.8rem);
+    font-weight: 400;
+    font-style: italic;
+    max-width: 800px;
+    text-shadow: 0 2px 20px rgba(0,0,0,0.5);
+    line-height: 1.4;
+}
+
+/* ========== T7: COMPANY / CONTACT ========== */
+.slide-company {
+    background: var(--cream-light);
+    text-align: center;
+    padding: var(--margin-outer);
+}
+
+.slide-company .logo {
+    max-width: 220px;
+    margin: 0 auto 1.5rem;
+}
+
+.slide-company .company-tagline {
+    font-family: var(--font-display);
+    font-size: 1.5rem;
+    font-style: italic;
+    color: var(--text-medium);
+    margin-bottom: 2rem;
+}
+
+.slide-company .description {
+    max-width: 680px;
+    margin: 0 auto 1.5rem;
+    font-size: 1rem;
+    font-weight: 300;
+    color: var(--text-medium);
+    line-height: 1.8;
+}
+
+.slide-company .contact-info {
+    margin-top: 2.5rem;
+    font-size: 0.95rem;
+    color: var(--text-charcoal);
+    line-height: 1.8;
+}
+
+.slide-company .contact-info a {
+    color: var(--brand-blue);
+    text-decoration: none;
+}
+
+/* ========== T8: PRODUCT / BUILD YOUR STAY ========== */
+.slide-product {
+    background: var(--cream);
+    padding: var(--margin-outer);
+}
+
+.slide-product h2 {
+    font-family: var(--font-display);
+    font-size: clamp(2rem, 3.5vw, 2.8rem);
+    font-weight: 600;
+    color: var(--text-charcoal);
+    margin-bottom: 0.3em;
+}
+
+.slide-product .product-subtitle {
+    font-size: 1rem;
+    font-weight: 300;
+    font-style: italic;
+    color: var(--text-medium);
+    margin-bottom: 2.5em;
+}
+
+.night-options {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.2rem;
+    margin-bottom: 2rem;
+}
+
+.night-card {
+    background: var(--cream-light);
+    border: 1px solid var(--cream-dark);
+    border-radius: 8px;
+    padding: 2rem 1.2rem;
+    text-align: center;
+}
+
+.night-card .nights {
+    font-family: var(--font-display);
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--gold);
+    line-height: 1;
+}
+
+.night-card .nights-label {
+    font-size: 0.85rem;
+    color: var(--text-medium);
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-top: 0.2em;
+    margin-bottom: 0.8em;
+}
+
+.night-card .includes {
+    font-size: 0.85rem;
+    color: var(--text-medium);
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+.night-card .price {
+    display: inline-block;
+    margin-top: 1em;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--text-forest);
+    border-top: 1px solid var(--cream-dark);
+    padding-top: 0.8em;
+}
+
+/* ========== MAP SLIDE ========== */
+.slide-map {
+    background: var(--cream);
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+}
+
+.slide-map .map-side {
+    flex: 0 0 62%;
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+    padding: 0;
+}
+
+.slide-map .map-side img {
+    max-height: 80vh;
+    width: auto;
+}
+
+.slide-map .text-side {
+    flex: 1;
+    padding: var(--margin-outer);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.slide-map h2 {
+    font-family: var(--font-display);
+    font-size: clamp(2rem, 4vw, 2.8rem);
+    font-weight: 600;
+    color: var(--text-charcoal);
+    margin-bottom: 1em;
+}
+
+.slide-map p {
+    font-size: 1.05rem;
+    font-weight: 300;
+    color: var(--text-medium);
+    line-height: 1.8;
+    margin-bottom: 1em;
+}
+
+.route-list {
+    list-style: none;
+    margin-top: 1em;
+}
+
+.route-list li {
+    font-size: 1rem;
+    font-weight: 400;
+    color: var(--text-charcoal);
+    padding: 0.6em 0;
+    border-bottom: 1px solid var(--cream-dark);
+    display: flex;
+    justify-content: space-between;
+}
+
+.route-list li span.time {
+    font-weight: 600;
+    color: var(--text-forest);
+}
+
+/* ========== PHOTO PLACEHOLDER (for missing images) ========== */
+.photo-placeholder {
+    background: linear-gradient(135deg, #E8E0D4 0%, #D8CFC2 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-light);
+    font-size: 0.85rem;
+    font-weight: 300;
+    font-style: italic;
+    text-align: center;
+    padding: 1rem;
+}
+
+/* ========== LOGO CORNER (non-cover slides) ========== */
+.logo-corner {
+    position: absolute;
+    bottom: 20px;
+    right: 30px;
+    z-index: 10;
+    height: 28px;
+    opacity: 0.5;
+}
+
+/* ========== ICON ROW (accommodation features) ========== */
+.feature-icons {
+    display: flex;
+    gap: 1.5rem;
+    margin-top: 1em;
+    flex-wrap: wrap;
+}
+
+.feature-icon {
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--text-forest);
+    display: flex;
+    align-items: center;
+    gap: 0.4em;
+}
+
+.feature-icon::before {
+    content: '';
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--gold);
+    flex-shrink: 0;
+}
+
+/* ========== RESPONSIVE ========== */
+@media (max-width: 900px) {
+    :root {
+        --margin-outer: 30px;
+        --padding-inner: 20px;
+    }
+
+    .slide-stats,
+    .slide-content-lr,
+    .slide-content-rl,
+    .slide-activities,
+    .slide-map {
+        flex-direction: column;
+    }
+
+    .slide-stats .photo-side,
+    .slide-content-lr .photo-side,
+    .slide-content-rl .photo-side,
+    .slide-activities .photo-grid,
+    .slide-map .map-side {
+        flex: none;
+        min-height: 40vh;
+    }
+
+    .slide-content-lr .text-side {
+        max-width: 100%;
+    }
+
+    .activity-list { columns: 1; }
+    .night-options { grid-template-columns: repeat(2, 1fr); }
+}
+
+/* ==================== PRINT OPTIMIZATIONS — GROK 4.20 (2026) ==================== */
+@page {
+    size: A4 landscape;
+    margin: 0;
+}
+
+@media print {
+    * {
+        -webkit-print-color-adjust: exact !important;
+        print-color-adjust: exact !important;
+        color-adjust: exact !important;
+    }
+
+    /* Luxury typography & spacing tweaks for print sharpness */
+    .slide h2 {
+        font-weight: 600 !important;
+        letter-spacing: -0.015em !important;
+    }
+    .slide-cover h1 {
+        font-size: 5.8rem !important;
+        letter-spacing: -0.02em !important;
+    }
+    .stat-item .number {
+        font-size: 4.4rem !important;
+    }
+
+    /* Subtle depth on product cards (premium B2B touch) */
+    .night-card {
+        box-shadow: 0 4px 20px rgba(0,0,0,0.06) !important;
+    }
+
+    /* Slightly deeper vignette on full-bleed slides for cinematic luxury */
+    .slide-cover .overlay,
+    .slide-impact .overlay {
+        background: linear-gradient(180deg, rgba(0,0,0,0.12) 0%, rgba(0,0,0,0.48) 100%) !important;
+    }
+}

@@ -5,6 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lapland — Arctic Winter Experience | Finland DMC</title>
     <link rel="stylesheet" href="template-styles-v2.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,400;1,500&family=Playfair+Display:wght@500;600&display=swap" rel="stylesheet">
     <style>
         /* ====== SLIDE-SPECIFIC PHOTO ASSIGNMENTS ====== */
 
@@ -41,8 +44,10 @@
         .activity-2 { background-image: url('images/lapland/arctic-snowmobile.jpeg'); }
         .activity-3 { background-image: url('images/lapland/arctic-skiing.jpg'); }
         .activity-4 { background-image: url('images/lapland/arctic-campfire-snowmobile.jpeg'); }
-        .activity-5 { background-image: url('images/lapland/dmc-snowshoeing.jpeg'); }
-        .activity-6 { background-image: url('images/lapland/lodge-resort-003.jpg'); }
+        /* Bottom-left: husky safari — save photo as images/lapland/lapland-husky-safari.jpg */
+        .activity-5 { background-image: url('images/lapland/lapland-husky-safari.jpg'); }
+        /* Bottom-right: Santa Claus / Rovaniemi — save photo as images/lapland/lapland-santa-claus.jpg */
+        .activity-6 { background-image: url('images/lapland/lapland-santa-claus.jpg'); }
 
         /* Slide 7: Accommodation — Luxury Lodges & Villas */
         .lodge-photo-1 { background-image: url('images/lapland/lodge-resort-000.jpg'); }
@@ -60,6 +65,7 @@
         .closing-bg {
             background-image: url('images/lapland/lapland-fell-sunset.jpg');
         }
+
     </style>
 </head>
 <body>
@@ -125,7 +131,156 @@
 <!-- ============================================================ -->
 <section class="slide slide-map">
     <div class="map-side">
-        <img src="images/general/finland-map-lapland.svg" alt="Map of Finnish Lapland — destinations and airports" style="width:100%;height:100%;object-fit:contain;">
+        <!-- ═══ INLINE SVG MAP — zero external deps, bulletproof offline ═══ -->
+        <!--
+          Projection: x = (lon - 10.0) / 29.0 * 500  |  y = (70.4 - lat) / 11.4 * 455
+          Bounds: lon 10–39°E, lat 59.0–70.4°N  |  viewBox 500×455 matches 62vw×100vh (16:9)
+        -->
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 455"
+             width="100%" height="100%" style="display:block;min-height:82vh;"
+             preserveAspectRatio="xMidYMid meet">
+          <defs>
+            <style>
+              .lbl    { font-family: -apple-system,'Helvetica Neue',Arial,sans-serif; font-size:11px; font-weight:600; fill:#f0e8d0; letter-spacing:0.02em; }
+              .lbl-sm { font-family: -apple-system,'Helvetica Neue',Arial,sans-serif; font-size:10px; font-weight:600; fill:#f0e8d0; letter-spacing:0.02em; }
+              .iata   { font-family: -apple-system,'Helvetica Neue',Arial,sans-serif; font-size:8px;  font-weight:700; fill:#C9A84C; }
+              .region { font-family: -apple-system,'Helvetica Neue',Arial,sans-serif; font-size:9px;  font-weight:500; fill:rgba(255,255,255,0.18); letter-spacing:2.5px; }
+              .nbr    { font-family: -apple-system,'Helvetica Neue',Arial,sans-serif; font-size:8px;  font-weight:500; fill:rgba(180,200,215,0.28); letter-spacing:3px; }
+              .arctic { font-family:Georgia,serif; font-size:9px; font-style:italic; fill:#C9A84C; opacity:0.75; }
+            </style>
+          </defs>
+
+          <!-- ── BACKGROUNDS ── -->
+          <rect width="500" height="455" fill="#111a24"/>
+
+          <!-- ══════════════════════════════════════════════════════ -->
+          <!-- MAP BASE LAYER — REPLACE WITH REAL CARTOGRAPHIC MAP   -->
+          <!-- Download VeMaps fi-05 SVG from vemaps.com/finland/fi-05 -->
+          <!-- or use Finland Toolbox map from toolbox.finland.fi    -->
+          <!-- Embed as <image> tag here, then recalibrate pin coords -->
+          <!-- Projection: x=(lon-10)/29*500 | y=(70.4-lat)/11.4*455 -->
+          <!-- ══════════════════════════════════════════════════════ -->
+
+          <!-- ── NEIGHBOUR LABELS ── -->
+          <text x="48" y="280" class="nbr" transform="rotate(-90,48,280)">SWEDEN</text>
+          <text x="55" y="50"  class="nbr">NORWAY</text>
+          <text x="415" y="210" class="nbr">RUSSIA</text>
+          <text x="214" y="452" class="nbr" style="font-size:7px;letter-spacing:2px">ESTONIA</text>
+
+          <!-- ── ARCTIC CIRCLE (66.56°N → y=153) ── -->
+          <line x1="0" y1="153" x2="500" y2="153" stroke="#C9A84C" stroke-width="1.2" stroke-dasharray="7,5" opacity="0.55"/>
+          <text x="12" y="148" class="arctic">Arctic Circle 66.5°N</text>
+
+          <!-- ── REGION WATERMARKS ── -->
+          <text x="218" y="92"  class="region" text-anchor="middle">LAPLAND</text>
+          <text x="315" y="328" class="region" text-anchor="middle">LAKELAND</text>
+          <text x="248" y="415" class="region" text-anchor="middle" style="font-size:8px">SOUTH</text>
+
+          <!-- ── FLIGHT ROUTES HEL → Lapland airports (faint gold dashes) ── -->
+          <line x1="258" y1="402" x2="256" y2="118" stroke="#C9A84C" stroke-width="1" stroke-dasharray="5,6" opacity="0.28"/>
+          <line x1="258" y1="402" x2="300" y2="74"  stroke="#C9A84C" stroke-width="1" stroke-dasharray="5,6" opacity="0.28"/>
+          <line x1="258" y1="402" x2="273" y2="143" stroke="#C9A84C" stroke-width="1" stroke-dasharray="5,6" opacity="0.28"/>
+
+          <!-- ── AIRPORTS (✈ gray, IATA gold label) ── -->
+          <text x="258" y="406" text-anchor="middle" font-size="12" fill="#888" font-family="Arial,sans-serif">✈</text><!-- HEL -->
+          <text x="256" y="122" text-anchor="middle" font-size="11" fill="#888" font-family="Arial,sans-serif">✈</text><!-- KTT -->
+          <text x="244" y="120" class="iata" text-anchor="end">KTT</text>
+          <text x="300" y="70"  text-anchor="middle" font-size="11" fill="#888" font-family="Arial,sans-serif">✈</text><!-- IVL -->
+          <text x="288" y="67"  class="iata" text-anchor="end">IVL</text>
+          <text x="273" y="148" text-anchor="middle" font-size="11" fill="#888" font-family="Arial,sans-serif">✈</text><!-- RVN -->
+          <text x="285" y="146" class="iata">RVN</text>
+          <text x="307" y="299" text-anchor="middle" font-size="11" fill="#888" font-family="Arial,sans-serif">✈</text><!-- KUO -->
+          <text x="313" y="379" text-anchor="middle" font-size="11" fill="#888" font-family="Arial,sans-serif">✈</text><!-- LPP -->
+          <text x="332" y="343" text-anchor="middle" font-size="11" fill="#888" font-family="Arial,sans-serif">✈</text><!-- SVL -->
+          <text x="154" y="44"  text-anchor="middle" font-size="11" fill="#888" font-family="Arial,sans-serif">✈</text><!-- TOS -->
+
+          <!-- ── TRAIN STATIONS (small dark rect) ── -->
+          <rect x="305" y="320" width="6" height="6" rx="1" fill="#2a2a1a" stroke="rgba(255,255,255,0.55)" stroke-width="0.8"/><!-- Varkaus -->
+          <rect x="295" y="345" width="6" height="6" rx="1" fill="#2a2a1a" stroke="rgba(255,255,255,0.55)" stroke-width="0.8"/><!-- Mikkeli -->
+          <rect x="320" y="372" width="6" height="6" rx="1" fill="#2a2a1a" stroke="rgba(255,255,255,0.55)" stroke-width="0.8"/><!-- Lappeenranta -->
+          <rect x="235" y="120" width="6" height="6" rx="1" fill="#2a2a1a" stroke="rgba(255,255,255,0.55)" stroke-width="0.8"/><!-- Kolari -->
+          <rect x="235" y="353" width="6" height="6" rx="1" fill="#2a2a1a" stroke="rgba(255,255,255,0.55)" stroke-width="0.8"/><!-- Tampere -->
+
+          <!-- ── ICEBREAKER SHIP — Kemi (65.736, 24.50 → x=250, y=186) ── -->
+          <g transform="translate(235,181)" style="filter:drop-shadow(0 1px 4px rgba(0,0,0,0.9))">
+            <polygon points="0,11 2,7 23,7 23,11" fill="#1B3A5C" stroke="#0D1B2A" stroke-width="0.5"/>
+            <polygon points="-1,13 0,11 2,7 1,7"  fill="#1B3A5C" stroke="#0D1B2A" stroke-width="0.5"/>
+            <line x1="-1" y1="13" x2="23" y2="13" stroke="#4A7FA5" stroke-width="0.8"/>
+            <rect x="13" y="3" width="8" height="4" rx="0.5" fill="#E8EDF2" stroke="#c8cdd2" stroke-width="0.4"/>
+            <rect x="14" y="1" width="4" height="3" rx="0.4" fill="#E8EDF2" stroke="#c8cdd2" stroke-width="0.4"/>
+            <rect x="17" y="0" width="1.5" height="1.8" rx="0.3" fill="#2D2D2D"/>
+          </g>
+
+          <!-- ── BUS — Järvisydän transfer (offset right of star) ── -->
+          <g transform="translate(345,328)">
+            <rect x="0" y="0" width="10" height="7" rx="1" fill="#1a1a1a" stroke="rgba(255,255,255,0.65)" stroke-width="0.7"/>
+            <rect x="1.5" y="1.5" width="2"   height="2.5" rx="0.3" fill="white" opacity="0.8"/>
+            <rect x="4.2" y="1.5" width="2"   height="2.5" rx="0.3" fill="white" opacity="0.8"/>
+            <rect x="6.8" y="1.5" width="2"   height="2.5" rx="0.3" fill="white" opacity="0.8"/>
+            <circle cx="2.5" cy="8.5" r="1.2" fill="#444" stroke="rgba(255,255,255,0.7)" stroke-width="0.5"/>
+            <circle cx="7.5" cy="8.5" r="1.2" fill="#444" stroke="rgba(255,255,255,0.7)" stroke-width="0.5"/>
+          </g>
+
+          <!-- ══════════════════════════════════════════════════════ -->
+          <!--  DESTINATION PINS + LABELS                            -->
+          <!--  Big star (✦ 18px): Levi, Rovaniemi, Helsinki         -->
+          <!--  Small star (✦ 14px): Saariselkä, Pyhä-Luosto,       -->
+          <!--                        Järvisydän, Tallinn, Tromsø    -->
+          <!-- ══════════════════════════════════════════════════════ -->
+
+          <!-- Levi (67.80, 24.83 → 256, 104) — BIG, label right -->
+          <rect x="268" y="96"  width="38" height="16" fill="rgba(10,10,14,0.82)" rx="1"/>
+          <rect x="268" y="96"  width="2"  height="16" fill="#C9A84C"/>
+          <text x="272" y="108" class="lbl">Levi</text>
+          <text x="256" y="109" text-anchor="middle" font-size="18" fill="#C9A84C" font-family="Arial,sans-serif" style="filter:drop-shadow(0 1px 4px rgba(0,0,0,0.8))">✦</text>
+
+          <!-- Saariselkä (68.42, 27.40 → 300, 79) — small, label left -->
+          <rect x="218" y="71" width="72" height="15" fill="rgba(10,10,14,0.82)" rx="1"/>
+          <rect x="218" y="71" width="2"  height="15" fill="#C9A84C"/>
+          <text x="222" y="83" class="lbl-sm">Saariselkä</text>
+          <text x="300" y="84" text-anchor="middle" font-size="14" fill="#C9A84C" font-family="Arial,sans-serif" style="filter:drop-shadow(0 1px 3px rgba(0,0,0,0.8))">✦</text>
+
+          <!-- Pyhä-Luosto (67.02, 27.19 → 296, 135) — small, label left -->
+          <rect x="208" y="127" width="78" height="15" fill="rgba(10,10,14,0.82)" rx="1"/>
+          <rect x="208" y="127" width="2"  height="15" fill="#C9A84C"/>
+          <text x="212" y="139" class="lbl-sm">Pyhä-Luosto</text>
+          <text x="296" y="140" text-anchor="middle" font-size="14" fill="#C9A84C" font-family="Arial,sans-serif" style="filter:drop-shadow(0 1px 3px rgba(0,0,0,0.8))">✦</text>
+
+          <!-- Rovaniemi (66.50, 25.73 → 271, 163) — BIG, label left -->
+          <rect x="191" y="155" width="68" height="16" fill="rgba(10,10,14,0.82)" rx="1"/>
+          <rect x="191" y="155" width="2"  height="16" fill="#C9A84C"/>
+          <text x="195" y="167" class="lbl">Rovaniemi</text>
+          <text x="271" y="168" text-anchor="middle" font-size="18" fill="#C9A84C" font-family="Arial,sans-serif" style="filter:drop-shadow(0 1px 4px rgba(0,0,0,0.8))">✦</text>
+
+          <!-- Järvisydän (62.06, 29.40 → 335, 333) — small, label left -->
+          <rect x="255" y="325" width="70" height="15" fill="rgba(10,10,14,0.82)" rx="1"/>
+          <rect x="255" y="325" width="2"  height="15" fill="#C9A84C"/>
+          <text x="259" y="337" class="lbl-sm">Järvisydän</text>
+          <text x="335" y="338" text-anchor="middle" font-size="14" fill="#C9A84C" font-family="Arial,sans-serif" style="filter:drop-shadow(0 1px 3px rgba(0,0,0,0.8))">✦</text>
+
+          <!-- Helsinki (60.17, 24.94 → 258, 409) — BIG, label right -->
+          <rect x="270" y="401" width="57" height="16" fill="rgba(10,10,14,0.82)" rx="1"/>
+          <rect x="270" y="401" width="2"  height="16" fill="#C9A84C"/>
+          <text x="274" y="413" class="lbl">Helsinki</text>
+          <text x="258" y="414" text-anchor="middle" font-size="18" fill="#C9A84C" font-family="Arial,sans-serif" style="filter:drop-shadow(0 1px 4px rgba(0,0,0,0.8))">✦</text>
+
+          <!-- Tallinn (59.437, 24.745 → 254, 438) — small, label right -->
+          <rect x="264" y="430" width="50" height="15" fill="rgba(10,10,14,0.82)" rx="1"/>
+          <rect x="264" y="430" width="2"  height="15" fill="#C9A84C"/>
+          <text x="268" y="442" class="lbl-sm">Tallinn</text>
+          <text x="254" y="443" text-anchor="middle" font-size="14" fill="#C9A84C" font-family="Arial,sans-serif" style="filter:drop-shadow(0 1px 3px rgba(0,0,0,0.8))">✦</text>
+
+          <!-- Tromsø (68.75, 18.956 → 154, 66) — small, label right -->
+          <rect x="164" y="58" width="46" height="15" fill="rgba(10,10,14,0.82)" rx="1"/>
+          <rect x="164" y="58" width="2"  height="15" fill="#C9A84C"/>
+          <text x="168" y="70" class="lbl-sm">Tromsø</text>
+          <text x="154" y="71" text-anchor="middle" font-size="14" fill="#C9A84C" font-family="Arial,sans-serif" style="filter:drop-shadow(0 1px 3px rgba(0,0,0,0.8))">✦</text>
+
+          <!-- ── Flight times legend ── -->
+          <rect x="8" y="430" width="198" height="22" rx="3" fill="rgba(0,0,0,0.45)"/>
+          <text x="16" y="439" font-family="-apple-system,Arial,sans-serif" font-size="8.5" font-weight="600" fill="white">Direct flights from Helsinki</text>
+          <text x="16" y="450" font-family="-apple-system,Arial,sans-serif" font-size="7.5" fill="rgba(255,255,255,0.7)">KTT 1h 20min · RVN 1h 25min · IVL 1h 35min</text>
+        </svg>
     </div>
     <div class="text-side">
         <h2>Getting Here</h2>

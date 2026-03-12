@@ -209,9 +209,53 @@
         </ul>
     </div>
     <div class="photo-side" style="display:flex;align-items:center;justify-content:center;background:#C8DDE8;">
-        <img src="images/general/finland-map-overview.svg"
-             style="width:100%;height:100%;object-fit:contain;"
-             alt="Map of Finland — Helsinki and main destinations">
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+             viewBox="0 0 500 700" preserveAspectRatio="xMidYMid meet"
+             style="max-height:80vh;width:auto;display:block;margin:auto;"
+             aria-label="Map of Finland — Helsinki and main destinations">
+          <defs><style>
+            .ml{font-family:'Montserrat',Arial,sans-serif;font-weight:700;font-size:11px;fill:white;text-anchor:middle}
+            .ms{font-family:'Montserrat',Arial,sans-serif;font-size:9px;fill:#D4AF37;text-anchor:middle}
+            .mr{font-family:'Montserrat',Arial,sans-serif;font-weight:700;font-size:10px;fill:rgba(255,255,255,0.22);letter-spacing:4px;text-anchor:middle}
+            .mn{font-family:'Montserrat',Arial,sans-serif;font-size:7px;fill:rgba(255,255,255,0.3);letter-spacing:2px;text-anchor:middle}
+            .ma{font-family:'Montserrat',Arial,sans-serif;font-size:7px;font-style:italic;fill:#D4AF37;opacity:0.65}
+          </style></defs>
+          <!-- Sea / background -->
+          <rect width="500" height="700" fill="#C8DDE8"/>
+          <!-- Finland land mass -->
+          <path fill="#2D5A3D" d="M 139,698 L 226,675 L 255,660 L 309,655 L 319,648 L 386,643 L 359,615 L 383,606 L 404,584 L 416,550 L 423,510 L 479,478 L 397,444 L 412,420 L 399,375 L 399,344 L 412,298 L 399,278 L 383,244 L 371,210 L 371,183 L 352,108 L 388,86 L 372,60 L 352,26 L 343,0 L 311,6 L 270,26 L 250,47 L 221,67 L 167,74 L 126,88 L 54,71 L 84,108 L 173,145 L 174,257 L 193,288 L 210,296 L 247,345 L 187,393 L 151,425 L 89,476 L 79,532 L 96,585 L 84,610 L 80,633 L 116,655 L 139,698 Z"/>
+          <!-- Arctic Circle -->
+          <line x1="50" y1="241" x2="445" y2="241" stroke="#D4AF37" stroke-width="0.8" stroke-dasharray="6,4" opacity="0.45"/>
+          <text x="68" y="237" class="ma">Arctic Circle</text>
+          <!-- Neighbour labels -->
+          <text x="20" y="90" class="mn" transform="rotate(-90,20,90)">NORWAY</text>
+          <text x="20" y="220" class="mn" transform="rotate(-90,20,220)">SWEDEN</text>
+          <text x="476" y="200" class="mn" transform="rotate(90,476,200)">RUSSIA</text>
+          <!-- Region labels -->
+          <text x="200" y="172" class="mr">LAPLAND</text>
+          <text x="185" y="490" class="mr">LAKELAND</text>
+          <!-- Flight routes HEL → Lapland (gold dashed) -->
+          <line x1="227" y1="660" x2="224" y2="168" stroke="#D4AF37" stroke-width="1" stroke-dasharray="5,5" opacity="0.4"/>
+          <line x1="227" y1="660" x2="331" y2="95" stroke="#D4AF37" stroke-width="1" stroke-dasharray="5,5" opacity="0.4"/>
+          <line x1="227" y1="660" x2="257" y2="250" stroke="#D4AF37" stroke-width="1" stroke-dasharray="5,5" opacity="0.4"/>
+          <!-- Train route HEL → Järvisydän (white dashed) -->
+          <line x1="227" y1="660" x2="350" y2="555" stroke="white" stroke-width="0.8" stroke-dasharray="4,4" opacity="0.3"/>
+          <!-- Lapland destination dots (small) -->
+          <circle cx="331" cy="95" r="4" fill="white" opacity="0.7"/>
+          <text x="331" y="83" class="ml" font-size="8">Saariselkä</text>
+          <circle cx="224" cy="163" r="4" fill="white" opacity="0.7"/>
+          <text x="224" y="155" class="ml" font-size="8">Levi</text>
+          <circle cx="257" cy="245" r="4" fill="white" opacity="0.7"/>
+          <text x="257" y="237" class="ml" font-size="8">Rovaniemi</text>
+          <!-- Järvisydän small logo (secondary) -->
+          <circle cx="364" cy="558" r="4" fill="white" opacity="0.6"/>
+          <image href="images/logos/jarvisydan-logo-white.png" xlink:href="images/logos/jarvisydan-logo-white.png" x="314" y="530" width="65" height="26" opacity="0.75"/>
+          <text x="347" y="564" font-family="'Montserrat',Arial,sans-serif" font-size="6.5" fill="rgba(255,255,255,0.45)" text-anchor="middle">Järvisydän</text>
+          <!-- HELSINKI — main focus, large gold marker -->
+          <polygon points="227,645 245,662 227,679 209,662" fill="#D4AF37" stroke="none"/>
+          <text x="227" y="695" font-family="'Montserrat',Arial,sans-serif" font-weight="700" font-size="13" fill="#D4AF37" text-anchor="middle" letter-spacing="1">HELSINKI</text>
+          <text x="227" y="706" class="ms" font-size="8">HEL ✈</text>
+        </svg>
     </div>
 </section>
 

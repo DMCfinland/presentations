@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Levi — The Home of The Northern Lights | Finland DMC</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        /* ========== RESET ========== */
+        *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+        :root {
+            --cream: #F4EDE4;
+            --cream-light: #F9F5F0;
+            --text-dark: #2A2520;
+            --text-body: #4A4540;
+            --text-light: #8A8580;
+            --serif: 'Cormorant Garamond', 'Georgia', serif;
+            --sans: 'Montserrat', 'Helvetica Neue', sans-serif;
+        }
+
+        html { scroll-behavior: smooth; }
+
+        body {
+            font-family: var(--sans);
+            color: var(--text-dark);
+            background: var(--cream);
+            -webkit-print-color-adjust: exact;
+            print-color-adjust: exact;
+        }
+
+        /* ========== SLIDE SYSTEM ========== */
+        .slide {
+            width: 100vw;
+            height: 100vh;
+            position: relative;
+            overflow: hidden;
+            page-break-after: always;
+            break-after: page;
+        }
+
+        /* ========== SLIDE 1: COVER ========== */
+        .cover {
+            display: flex;
+            flex-direction: column;
+        }
+        .cover-photo {
+            flex: 1;
+            background: url('https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=1920&q=85') center/cover no-repeat;
+        }
+        .cover-band {
+            background: var(--cream);
+            padding: 2.5rem 3rem 3rem;
+            text-align: center;
+        }
+        .cover-band h1 {
+            font-family: var(--serif);
+            font-size: clamp(3.5rem, 7vw, 5.5rem);
+            font-weight: 400;
+            letter-spacing: 0.05em;
+            color: var(--text-dark);
+            margin-bottom: 0.3em;
+        }
+        .cover-band .tagline {
+            font-family: var(--serif);
+            font-size: clamp(1.1rem, 2vw, 1.5rem);
+            font-weight: 300;
+            font-style: italic;
+            color: var(--text-body);
+            line-height: 1.5;
+        }
+
+        /* ========== SLIDE 2: STATS ========== */
+        .stats {
+            display: flex;
+            background: var(--cream);
+        }
+        .stats-photo {
+            flex: 0 0 38%;
+            background: url('https://images.unsplash.com/photo-1549880338-65ddcdfd017b?w=1200&q=85') center/cover no-repeat;
+        }
+        .stats-content {
+            flex: 1;
+            padding: 4rem 3.5rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .stats-content h2 {
+            font-family: var(--serif);
+            font-size: 2.8rem;
+            font-weight: 400;
+            color: var(--text-dark);
+            margin-bottom: 2rem;
+        }
+        .stats-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1.8rem 2.5rem;
+        }
+        .stat .number {
+            font-family: var(--serif);
+            font-size: 3.2rem;
+            font-weight: 600;
+            color: var(--text-dark);
+            line-height: 1;
+        }
+        .stat .label {
+            font-family: var(--sans);
+            font-size: 0.85rem;
+            font-weight: 400;
+            color: var(--text-light);
+            margin-top: 0.3rem;
+            line-height: 1.4;
+        }
+        .stat.wide {
+            grid-column: 1 / -1;
+            text-align: center;
+            margin-top: 0.5rem;
+        }
+
+        /* ========== SLIDE 3: TEXT + PHOTO ========== */
+        .text-photo {
+            display: flex;
+            background: var(--cream);
+        }
+        .text-photo .text-side {
+            flex: 1;
+            padding: 4rem 3rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .text-photo .text-side h2 {
+            font-family: var(--serif);
+            font-size: 2.6rem;
+            font-weight: 400;
+            color: var(--text-dark);
+            margin-bottom: 1.5rem;
+        }
+        .text-photo .text-side p {
+            font-family: var(--sans);
+            font-size: 0.95rem;
+            font-weight: 300;
+            color: var(--text-body);
+            line-height: 1.8;
+            margin-bottom: 1.2rem;
+            max-width: 520px;
+        }
+        .text-photo .photo-side {
+            flex: 0 0 48%;
+            background-size: cover;
+            background-position: center;
+        }
+
+        /* ========== SLIDE 4: ACTIVITIES ========== */
+        .activities {
+            display: flex;
+            background: var(--cream);
+        }
+        .activities .text-side {
+            flex: 1;
+            padding: 3rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .activities .text-side h2 {
+            font-family: var(--serif);
+            font-size: 2.2rem;
+            font-weight: 400;
+            color: var(--text-dark);
+            margin-bottom: 0.5rem;
+            line-height: 1.3;
+        }
+        .activities .text-side .subtitle {
+            font-family: var(--sans);
+            font-size: 0.85rem;
+            font-weight: 300;
+            font-style: italic;
+            color: var(--text-light);
+            margin-bottom: 1.5rem;
+            line-height: 1.5;
+        }
+        .activity-cols {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 0 2rem;
+        }
+        .activity-cols li {
+            list-style: disc;
+            margin-left: 1.2rem;
+            font-family: var(--sans);
+            font-size: 0.9rem;
+            font-weight: 400;
+            color: var(--text-dark);
+            padding: 0.3rem 0;
+        }
+        .activities .more {
+            font-style: italic;
+            color: var(--text-light);
+            font-size: 0.85rem;
+            margin-top: 1rem;
+        }
+        .photo-mosaic {
+            flex: 0 0 46%;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-template-rows: 1fr 1fr 1fr;
+            gap: 3px;
+        }
+        .photo-mosaic .ph {
+            background-size: cover;
+            background-position: center;
+        }
+
+        /* ========== SLIDE 5-7: ACCOMMODATION ========== */
+        .accommodation {
+            display: flex;
+            background: var(--cream);
+        }
+        .accommodation .photos-side {
+            flex: 0 0 40%;
+            display: flex;
+            flex-direction: column;
+            gap: 3px;
+        }
+        .accommodation .photos-side .ph {
+            flex: 1;
+            background-size: cover;
+            background-position: center;
+        }
+        .accommodation .text-side {
+            flex: 1;
+            padding: 4rem 3.5rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .accommodation .text-side h2 {
+            font-family: var(--serif);
+            font-size: 2.4rem;
+            font-weight: 400;
+            color: var(--text-dark);
+            margin-bottom: 1.5rem;
+            line-height: 1.2;
+        }
+        .accommodation .text-side p {
+            font-family: var(--sans);
+            font-size: 0.95rem;
+            font-weight: 300;
+            color: var(--text-body);
+            line-height: 1.8;
+            margin-bottom: 1.2rem;
+            max-width: 550px;
+        }
+
+        /* ========== SLIDE 8: CLOSING ========== */
+        .closing {
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+        .closing h2 {
+            font-family: var(--serif);
+            font-size: clamp(2rem, 4vw, 3rem);
+            font-weight: 400;
+            font-style: italic;
+            color: #fff;
+            text-shadow: 0 2px 20px rgba(0,0,0,0.5);
+            line-height: 1.5;
+            max-width: 700px;
+        }
+
+        /* ========== SLIDE 9: COMPANY ========== */
+        .company {
+            background: var(--cream);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 3rem;
+        }
+        .company-inner {
+            max-width: 650px;
+        }
+        .company .logo-text {
+            font-family: var(--serif);
+            font-size: 2rem;
+            font-weight: 500;
+            letter-spacing: 0.1em;
+            color: var(--text-dark);
+            margin-bottom: 0.3rem;
+        }
+        .company .logo-sub {
+            font-family: var(--sans);
+            font-size: 0.7rem;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            color: var(--text-light);
+            margin-bottom: 2rem;
+        }
+        .company .co-tagline {
+            font-family: var(--serif);
+            font-size: 1.2rem;
+            font-style: italic;
+            color: var(--text-body);
+            margin-bottom: 2rem;
+        }
+        .company p {
+            font-family: var(--sans);
+            font-size: 0.85rem;
+            font-weight: 300;
+            color: var(--text-body);
+            line-height: 1.8;
+            margin-bottom: 1rem;
+            text-align: justify;
+        }
+        .company .contact {
+            margin-top: 2rem;
+            font-size: 0.85rem;
+            color: var(--text-dark);
+        }
+        .company .contact a {
+            color: var(--text-dark);
+            text-decoration: underline;
+        }
+
+        /* ========== PRINT ========== */
+        @media print {
+            @page {
+                size: landscape;
+                margin: 0;
+            }
+            body { background: white; }
+            .slide {
+                width: 100vw;
+                height: 100vh;
+                page-break-after: always;
+                overflow: hidden;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<!-- ====== SLIDE 1: COVER ====== -->
+<div class="slide cover">
+    <div class="cover-photo"></div>
+    <div class="cover-band">
+        <h1>Levi</h1>
+        <p class="tagline">The Home of The Northern Lights<br>in Finnish Lapland</p>
+    </div>
+</div>
+
+<!-- ====== SLIDE 2: WELCOME + STATS ====== -->
+<div class="slide stats">
+    <div class="stats-photo"></div>
+    <div class="stats-content">
+        <h2>Welcome to Levi!</h2>
+        <div class="stats-grid">
+            <div class="stat">
+                <div class="number">#1</div>
+                <div class="label">largest ski resort<br>in Lapland</div>
+            </div>
+            <div class="stat">
+                <div class="number">111</div>
+                <div class="label">yearly Northern<br>Lights sightings</div>
+            </div>
+            <div class="stat">
+                <div class="number">60</div>
+                <div class="label">restaurants<br>and bars</div>
+            </div>
+            <div class="stat">
+                <div class="number">25,000</div>
+                <div class="label">beds for<br>accommodation</div>
+            </div>
+            <div class="stat wide">
+                <div class="number">750,000</div>
+                <div class="label">visitors a year</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ====== SLIDE 3: NORTHERN LIGHTS ====== -->
+<div class="slide text-photo">
+    <div class="text-side">
+        <h2>The Northern Lights</h2>
+        <p>Levi is one of the best places in the world to experience the Northern Lights.</p>
+        <p>Located far above the Arctic Circle and directly under the auroral oval, Levi offers excellent chances to see the Aurora Borealis on clear nights.</p>
+        <p>Thanks to long polar nights, clean Arctic air, and very low light pollution, the skies around Levi are ideal for aurora watching.</p>
+    </div>
+    <div class="photo-side" style="background-image: url('https://images.unsplash.com/photo-1483347756197-71ef80e95f73?w=1200&q=85')"></div>
+</div>
+
+<!-- ====== SLIDE 4: ACTIVITIES ====== -->
+<div class="slide activities">
+    <div class="text-side">
+        <h2>Things to do in the<br>unforgettable Lappish settings!</h2>
+        <p class="subtitle">To offer the best possible experience for all the family, in Levi we have a plenty of things to do and explore:</p>
+        <div class="activity-cols">
+            <ul>
+                <li>Snowmobile safari</li>
+                <li>Northern Lights sighting</li>
+                <li>Snow Castle visit</li>
+                <li>Snowshoeing</li>
+                <li>Icekarting</li>
+                <li>Husky & Reindeer Safaris</li>
+            </ul>
+            <ul>
+                <li>Cross country skiing</li>
+                <li>Alpine skiing</li>
+                <li>Spa & Water World</li>
+                <li>Day spas & Wellness</li>
+                <li>Helicopter & Snowcat tours</li>
+                <li>Meeting Santa Claus</li>
+            </ul>
+        </div>
+        <p class="more">...and many more!</p>
+    </div>
+    <div class="photo-mosaic">
+        <div class="ph" style="background-image: url('https://images.unsplash.com/photo-1517783999520-f068d7431571?w=600&q=80')"></div>
+        <div class="ph" style="background-image: url('https://images.unsplash.com/photo-1545579133-99bb5ab189bd?w=600&q=80')"></div>
+        <div class="ph" style="background-image: url('https://images.unsplash.com/photo-1610128983896-0b87b36638c3?w=600&q=80')"></div>
+        <div class="ph" style="background-image: url('https://images.unsplash.com/photo-1609621838510-5ad474b7d25d?w=600&q=80')"></div>
+        <div class="ph" style="background-image: url('https://images.unsplash.com/photo-1477601263568-180e2c6d046e?w=600&q=80')"></div>
+        <div class="ph" style="background-image: url('https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&q=80')"></div>
+    </div>
+</div>
+
+<!-- ====== SLIDE 5: ACCOMMODATION — HOTELS ====== -->
+<div class="slide accommodation">
+    <div class="photos-side">
+        <div class="ph" style="background-image: url('https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=900&q=85')"></div>
+        <div class="ph" style="background-image: url('https://images.unsplash.com/photo-1566073771259-6a8506099945?w=900&q=85')"></div>
+    </div>
+    <div class="text-side">
+        <h2>Accommodation –<br>Hotels</h2>
+        <p>The range of hotels in Levi offer a perfect balance of Arctic atmosphere and modern comfort. From cosy alpine hotels to stylish design stays and family-friendly spa hotel, there's something for every type of traveller.</p>
+        <p>Many hotels are located close to the slopes, activities, and village services ensuring easy access.</p>
+    </div>
+</div>
+
+<!-- ====== SLIDE 6: ACCOMMODATION — CHALETS ====== -->
+<div class="slide accommodation">
+    <div class="photos-side">
+        <div class="ph" style="background-image: url('https://images.unsplash.com/photo-1510798831971-661eb04b3739?w=900&q=85')"></div>
+        <div class="ph" style="background-image: url('https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=900&q=85')"></div>
+    </div>
+    <div class="text-side">
+        <h2>Accommodation –<br>Private Chalets</h2>
+        <p>Levi offers private chalet accommodation from bigger private villas to smaller apartments in the Alpine chalets.</p>
+        <p>Whether you are looking for complete privacy or easy access to the centre of the village, there is something for everyone.</p>
+        <p>This accommodation type provides more flexibility to the stay and can be tailored to the customer's needs.</p>
+    </div>
+</div>
+
+<!-- ====== SLIDE 7: ACCOMMODATION — IGLOOS ====== -->
+<div class="slide accommodation">
+    <div class="photos-side">
+        <div class="ph" style="background-image: url('https://images.unsplash.com/photo-1544892709-4cfe0bc5f4e8?w=900&q=85')"></div>
+        <div class="ph" style="background-image: url('https://images.unsplash.com/photo-1609621838510-5ad474b7d25d?w=900&q=85')"></div>
+    </div>
+    <div class="text-side">
+        <h2>Accommodation –<br>Northern Lights Igloos</h2>
+        <p>The Aurora Cabins and Northern Light Igloos are a magical way to experience the wintry star-filled sky and the Northern Lights, while lying comfortably in the warm bed.</p>
+        <p>Levi has multiple resorts that are located further away from the light pollution offering a peaceful stay and optimal setting for Northern lights travelling.</p>
+    </div>
+</div>
+
+<!-- ====== SLIDE 8: CLOSING ====== -->
+<div class="slide closing" style="background-image: url('https://images.unsplash.com/photo-1483347756197-71ef80e95f73?w=1920&q=85')">
+    <h2>All of this and much more<br>– Lapland awaits!</h2>
+</div>
+
+<!-- ====== SLIDE 9: COMPANY ====== -->
+<div class="slide company">
+    <div class="company-inner">
+        <div class="logo-text">FIN+LAND</div>
+        <div class="logo-sub">Destination Management Company</div>
+        <p class="co-tagline">We know hospitality.</p>
+        <p>Finland DMC is a specialist destination management company covering all of Finland. For over a decade, we have been crafting beautifully detailed holidays that combine authentic Arctic nature with comfort, quality, and local expertise.</p>
+        <p>We operate at the very heart of our guests' journeys, offering seamless, end-to-end travel experiences. From carefully selected accommodation and dining to inspiring activities and excursions, we bring every element together into one smooth and memorable whole.</p>
+        <p>We serve a wide range of travellers — from couples and families to larger groups, corporate teams, and event organisers. With deep local knowledge, long-term partnerships, and a genuine passion for Finland, we turn trips into meaningful experiences.</p>
+        <div class="contact">
+            <a href="https://www.finland-dmc.com">www.finland-dmc.com</a><br>
+            +358 43 2010 687 &nbsp;|&nbsp; info@finland-dmc.com
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

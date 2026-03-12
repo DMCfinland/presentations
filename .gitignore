@@ -1,3 +1,16 @@
+# ============================================================
+# SECURITY POLICY — READ BEFORE ADDING A REMOTE
+# ============================================================
+# This repo is intentionally LOCAL ONLY. It contains:
+# - Board minutes + restructuring financials
+# - Shareholder breakdowns + personal guarantees
+# - Client data + staff personal data (GDPR sensitive)
+#
+# DO NOT add a remote or push to GitHub/GitLab/any host.
+# A pre-push hook blocks pushes automatically.
+# If you intentionally want to push: git push --no-verify
+# ============================================================
+
 # macOS
 .DS_Store
 ._*
@@ -21,3 +34,19 @@ CLAUDE.local.md
 # Agent memory (project-specific, accumulates over time)
 .claude/agent-memory/
 .claude/agent-memory-local/
+
+# Sensitive files and credentials (NEVER commit these)
+.env
+.env.*
+!.env.example
+!.env.1password
+credentials.json
+secrets.json
+*secret*
+*credential*
+*.key
+*.pem
+*.p12
+*.pfx
+apikey*
+api-key*

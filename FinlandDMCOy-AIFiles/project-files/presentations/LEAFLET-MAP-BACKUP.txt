@@ -1,0 +1,154 @@
+# Leaflet Map Backup — Session 66
+# Saved from 03-Lapland-Winter-v2.html before replacing with static SVG
+# All marker positions, icons, and labels preserved here for future reference
+#
+# Destinations (lat/lng):
+#   Levi        67.80, 24.84  — big star, label right
+#   Saariselkä  68.42, 27.40  — small star, label right
+#   Pyhä-Luosto 67.02, 27.19  — small star, label right
+#   Rovaniemi   66.50, 25.73  — big star, label left
+#   Järvisydän  62.06, 29.40  — small star, label left
+#   Helsinki    60.17, 24.94  — big star, label right
+#   Tallinn     59.437, 24.745 — small star, label left
+#   Tromsø      68.75, 18.956 — small star, label right
+#
+# Kemi icebreaker ship: 65.736, 24.50 (no label)
+#
+# Airports (✈ icon, no label):
+#   HEL  60.32, 24.97
+#   KTT  67.70, 24.85
+#   IVL  68.61, 27.41
+#   RVN  66.62, 25.83
+#   KUO  63.01, 27.80
+#   LPP  61.04, 28.14
+#   SVL  61.94, 28.94
+#   TOS  69.40, 18.92
+#
+# Train stations (SVG locomotive icon, no label):
+#   Varkaus      62.32, 27.89
+#   Mikkeli      61.69, 27.27
+#   Lappeenranta 61.06, 28.19
+#   Kolari       67.33, 23.80
+#   Tampere      61.498, 23.773
+#
+# Bus: Järvisydän  62.03, 29.44
+
+<!-- SAVE LINE — HTML to paste back if needed: -->
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+
+<div id="lapland-map" style="width:100%;height:82vh;border-radius:3px;overflow:hidden;"></div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+(function() {
+  var map = L.map('lapland-map', {
+    center: [64.2, 24.5],
+    zoom: 4.9,
+    zoomSnap: 0,
+    zoomControl: false,
+    dragging: false,
+    scrollWheelZoom: false,
+    doubleClickZoom: false,
+    touchZoom: false,
+    keyboard: false,
+    attributionControl: false
+  });
+
+  // CARTO Voyager No Labels — clean atlas colors, vivid blue lakes, zero tile text (we add our own labels)
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png', {
+    subdomains: 'abcd',
+    maxZoom: 19,
+    attribution: '&copy; CARTO'
+  }).addTo(map);
+
+  // Mute Russia — semi-transparent cream wash over the Russia area visible in viewport
+  L.rectangle([[59, 28.6], [72, 38]], {
+    fillColor: '#f0ece3', fillOpacity: 0.55,
+    stroke: false, interactive: false
+  }).addTo(map);
+
+  // --- Icons ---
+  var starIcon = function(big) {
+    var sz = big ? 20 : 15;
+    return L.divIcon({
+      className: '',
+      html: '<div style="color:#C9A84C;font-size:' + sz + 'px;line-height:1;filter:drop-shadow(0 1px 4px rgba(0,0,0,0.7));">✦</div>',
+      iconSize: [sz, sz], iconAnchor: [sz/2, sz/2]
+    });
+  };
+  var airportIcon = L.divIcon({
+    className: '',
+    html: '<div style="color:#333;font-size:13px;line-height:1;filter:drop-shadow(0 0 3px rgba(255,255,255,0.9));">✈</div>',
+    iconSize: [14, 14], iconAnchor: [7, 7]
+  });
+  // Train icon — Material Design "directions_railway", half size (11px)
+  var trainIcon = L.divIcon({
+    className: '',
+    html: '<svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 24 24" style="fill:#3a3a2a;filter:drop-shadow(0 1px 2px rgba(255,255,255,0.9));"><path d="M4 15.5C4 17.43 5.57 19 7.5 19L6 20.5v.5h12v-.5L16.5 19c1.93 0 3.5-1.57 3.5-3.5V5c0-3.5-3.58-4-8-4s-8 .5-8 4v10.5zm8 1.5c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zm6-7H6V5h12v5z"/></svg>',
+    iconSize: [11, 11], iconAnchor: [5, 5]
+  });
+  // Bus icon — black, slightly larger than train
+  var busIcon = L.divIcon({
+    className: '',
+    html: '<svg viewBox="0 0 20 14" width="15" height="11" xmlns="http://www.w3.org/2000/svg"><rect x="0.5" y="1" width="19" height="9" rx="1.5" fill="#1a1a1a" stroke="white" stroke-width="1.2"/><rect x="2" y="2.8" width="3.5" height="3.5" rx="0.5" fill="white" opacity="0.85"/><rect x="7" y="2.8" width="3.5" height="3.5" rx="0.5" fill="white" opacity="0.85"/><rect x="12" y="2.8" width="3.5" height="3.5" rx="0.5" fill="white" opacity="0.85"/><circle cx="5" cy="12.5" r="1.8" fill="#444" stroke="white" stroke-width="0.8"/><circle cx="15" cy="12.5" r="1.8" fill="#444" stroke="white" stroke-width="0.8"/></svg>',
+    iconSize: [15, 11], iconAnchor: [7, 5]
+  });
+  // Icebreaker icon — navy hull, raked icebreaker bow (left), white superstructure, dark funnel
+  var shipIcon = L.divIcon({
+    className: '',
+    html: '<svg viewBox="0 0 34 18" width="34" height="18" xmlns="http://www.w3.org/2000/svg" style="filter:drop-shadow(0 1px 5px rgba(0,0,0,0.9));"><polygon points="1,15 5,9 32,9 32,15" fill="#1B3A5C" stroke="#0D1B2A" stroke-width="0.6"/><polygon points="0,17 1,15 5,9 3,9" fill="#1B3A5C" stroke="#0D1B2A" stroke-width="0.6"/><line x1="0" y1="17" x2="32" y2="17" stroke="#4A7FA5" stroke-width="1"/><line x1="1" y1="15" x2="32" y2="15" stroke="#E8EDF2" stroke-width="0.6" opacity="0.6"/><rect x="18" y="4" width="11" height="5" rx="0.8" fill="#E8EDF2" stroke="#c8cdd2" stroke-width="0.5"/><rect x="20" y="1.5" width="5" height="3" rx="0.5" fill="#E8EDF2" stroke="#c8cdd2" stroke-width="0.5"/><rect x="23" y="0" width="2" height="2.5" rx="0.4" fill="#2D2D2D" stroke="#444" stroke-width="0.4"/></svg>',
+    iconSize: [34, 18], iconAnchor: [17, 17]
+  });
+
+  var labelStyle = 'background:rgba(255,252,245,0.95);border-left:2px solid #C9A84C;padding:2px 7px 2px 5px;font-family:Georgia,serif;font-size:11px;font-weight:600;color:#2a1a05;white-space:nowrap;box-shadow:0 1px 4px rgba(0,0,0,0.18);';
+
+  // --- Destinations (gold star + label) — per-item direction to avoid overlaps ---
+  [
+    { latlng: [67.80, 24.84],  label: 'Levi',        big: true,  dir: 'right', off: [8, 0]  },
+    { latlng: [68.42, 27.40],  label: 'Saariselkä',  big: false, dir: 'right', off: [8, 0]  },
+    { latlng: [67.02, 27.19],  label: 'Pyhä-Luosto', big: false, dir: 'right', off: [8, 0]  },
+    { latlng: [66.50, 25.73],  label: 'Rovaniemi',   big: true,  dir: 'left',  off: [-8, 0] },
+    { latlng: [62.06, 29.40],  label: 'Järvisydän',  big: false, dir: 'left',  off: [-8, 0] },
+    { latlng: [60.17, 24.94],  label: 'Helsinki',    big: true,  dir: 'right', off: [8, 0]  },
+    { latlng: [59.437, 24.745],label: 'Tallinn',     big: false, dir: 'left',  off: [-8, 0] },
+    { latlng: [68.75, 18.956], label: 'Tromsø',      big: false, dir: 'right', off: [8, 0]  }
+  ].forEach(function(d) {
+    L.marker(d.latlng, { icon: starIcon(d.big), interactive: false }).addTo(map)
+      .bindTooltip('<span style="' + labelStyle + '">' + d.label + '</span>',
+        { permanent: true, direction: d.dir, offset: d.off, opacity: 1 }).openTooltip();
+  });
+
+  // --- Kemi icebreaker (Sampo) ship marker ---
+  L.marker([65.736, 24.50], { icon: shipIcon, interactive: false }).addTo(map);
+
+  // --- Airports: ✈ icon only, no text ---
+  [
+    [60.32, 24.97],  // HEL
+    [67.70, 24.85],  // KTT Kittilä
+    [68.61, 27.41],  // IVL Ivalo
+    [66.62, 25.83],  // RVN Rovaniemi — shifted N to clear Rovaniemi label
+    [63.01, 27.80],  // KUO Kuopio
+    [61.04, 28.14],  // LPP Lappeenranta
+    [61.94, 28.94],  // SVL Savonlinna
+    [69.40, 18.92]   // TOS Tromsø
+  ].forEach(function(ll) {
+    L.marker(ll, { icon: airportIcon, interactive: false }).addTo(map);
+  });
+
+  // --- Train stations: SVG locomotive icon, no text ---
+  [
+    [62.32, 27.89],  // Varkaus
+    [61.69, 27.27],  // Mikkeli
+    [61.06, 28.19],  // Lappeenranta
+    [67.33, 23.80],  // Kolari
+    [61.498, 23.773] // Tampere
+  ].forEach(function(ll) {
+    L.marker(ll, { icon: trainIcon, interactive: false }).addTo(map);
+  });
+
+  // --- Bus stop: Järvisydän (no rail, bus connection only) ---
+  L.marker([62.03, 29.44], { icon: busIcon, interactive: false }).addTo(map);
+
+})();
+</script>

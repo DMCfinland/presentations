@@ -1,0 +1,626 @@
+/* Finland DMC — Presentation Template System
+   Based on: Levi Tour "Introduction to Levi as a Destination" structure
+   Brand: FIN+LAND DMC identity (Stone & Ice + Nature Blue)
+   Date: 2026-03-09
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+
+/* ========== VARIABLES ========== */
+:root {
+    /* Warm Cream (Levi Tour style) */
+    --cream: #F5F0EB;
+    --cream-light: #FAF8F5;
+    --cream-dark: #EDE6DD;
+
+    /* Stone (Finland DMC brand) */
+    --stone-dark: #1A2634;
+    --stone-medium: #2D3E50;
+    --stone-light: #3D5266;
+
+    /* FIN+LAND Blue */
+    --brand-blue: #0035A0;
+    --brand-blue-light: #1A5BC4;
+
+    /* Ice */
+    --ice-white: #F8FBFF;
+    --ice-light: #E8F4FC;
+    --ice-blue: #B8D4E8;
+    --ice-accent: #7EB8D8;
+
+    /* Gold Accent */
+    --gold: #C9A227;
+    --gold-light: #D4B84A;
+
+    /* Text */
+    --text-dark: #2C2C2C;
+    --text-medium: #5A5A5A;
+    --text-light: #8A8A8A;
+    --text-white: #FFFFFF;
+
+    /* Typography */
+    --font-display: 'Playfair Display', Georgia, serif;
+    --font-body: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
+
+    /* Spacing */
+    --slide-padding: 60px;
+    --slide-padding-mobile: 30px;
+}
+
+/* ========== RESET & BASE ========== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+}
+
+body {
+    font-family: var(--font-body);
+    color: var(--text-dark);
+    line-height: 1.6;
+    background: var(--cream);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* ========== SLIDE SYSTEM ========== */
+.slide {
+    width: 100%;
+    min-height: 100vh;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    page-break-after: always;
+    break-after: page;
+}
+
+/* ========== T1: COVER SLIDE ========== */
+.slide-cover {
+    background-size: cover;
+    background-position: center;
+    color: var(--text-white);
+    text-align: center;
+}
+
+.slide-cover .overlay {
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: linear-gradient(180deg, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.5) 100%);
+    z-index: 1;
+}
+
+.slide-cover .content {
+    position: relative;
+    z-index: 2;
+    padding: var(--slide-padding);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.slide-cover h1 {
+    font-family: var(--font-display);
+    font-size: clamp(3rem, 7vw, 5.5rem);
+    font-weight: 700;
+    margin-bottom: 0.5em;
+    letter-spacing: -0.02em;
+    text-shadow: 0 2px 20px rgba(0,0,0,0.3);
+}
+
+.slide-cover .tagline {
+    font-family: var(--font-display);
+    font-size: clamp(1.2rem, 2.5vw, 1.8rem);
+    font-weight: 400;
+    font-style: italic;
+    opacity: 0.95;
+    max-width: 700px;
+    text-shadow: 0 1px 10px rgba(0,0,0,0.3);
+}
+
+.slide-cover .brand-bar {
+    position: absolute;
+    bottom: 40px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    opacity: 0.9;
+}
+
+.slide-cover .brand-bar img {
+    height: 40px;
+}
+
+.slide-cover .brand-bar span {
+    font-size: 0.85rem;
+    font-weight: 500;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+/* ========== T2: STATS / WELCOME SLIDE ========== */
+.slide-stats {
+    background: var(--cream);
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+}
+
+.slide-stats .photo-side {
+    flex: 0 0 40%;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
+
+.slide-stats .stats-side {
+    flex: 1;
+    padding: var(--slide-padding);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.slide-stats h2 {
+    font-family: var(--font-display);
+    font-size: clamp(2rem, 4vw, 3rem);
+    font-weight: 700;
+    color: var(--stone-dark);
+    margin-bottom: 1.5em;
+}
+
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+}
+
+.stat-item .number {
+    font-family: var(--font-display);
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    font-weight: 700;
+    color: var(--brand-blue);
+    line-height: 1;
+}
+
+.stat-item .label {
+    font-size: 0.95rem;
+    font-weight: 400;
+    color: var(--text-medium);
+    margin-top: 0.3em;
+}
+
+.stat-item.featured .number {
+    font-size: clamp(3rem, 6vw, 5rem);
+    color: var(--gold);
+}
+
+/* ========== T3: CONTENT (TEXT LEFT, PHOTO RIGHT) ========== */
+.slide-content-lr {
+    background: var(--cream);
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+}
+
+.slide-content-lr .text-side {
+    flex: 1;
+    padding: var(--slide-padding);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.slide-content-lr .photo-side {
+    flex: 0 0 45%;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
+
+.slide-content-lr h2 {
+    font-family: var(--font-display);
+    font-size: clamp(2rem, 4vw, 3rem);
+    font-weight: 700;
+    color: var(--stone-dark);
+    margin-bottom: 1em;
+}
+
+.slide-content-lr p {
+    font-size: 1.05rem;
+    font-weight: 300;
+    color: var(--text-medium);
+    margin-bottom: 1em;
+    line-height: 1.7;
+}
+
+/* ========== T4: CONTENT (PHOTO LEFT, TEXT RIGHT) ========== */
+.slide-content-rl {
+    background: var(--cream);
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+}
+
+.slide-content-rl .photo-side {
+    flex: 0 0 40%;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    min-height: 100vh;
+}
+
+.slide-content-rl .photo-side .photo {
+    flex: 1;
+    background-size: cover;
+    background-position: center;
+}
+
+.slide-content-rl .text-side {
+    flex: 1;
+    padding: var(--slide-padding);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.slide-content-rl h2 {
+    font-family: var(--font-display);
+    font-size: clamp(2rem, 4vw, 2.8rem);
+    font-weight: 700;
+    color: var(--stone-dark);
+    margin-bottom: 1em;
+}
+
+.slide-content-rl p {
+    font-size: 1.05rem;
+    font-weight: 300;
+    color: var(--text-medium);
+    margin-bottom: 1em;
+    line-height: 1.7;
+}
+
+/* ========== T5: ACTIVITIES / GRID ========== */
+.slide-activities {
+    background: var(--cream);
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+}
+
+.slide-activities .text-side {
+    flex: 1;
+    padding: var(--slide-padding);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.slide-activities h2 {
+    font-family: var(--font-display);
+    font-size: clamp(1.8rem, 3.5vw, 2.5rem);
+    font-weight: 700;
+    color: var(--stone-dark);
+    margin-bottom: 0.5em;
+}
+
+.slide-activities .subtitle {
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: 300;
+    color: var(--text-medium);
+    margin-bottom: 1.5em;
+}
+
+.activity-list {
+    columns: 2;
+    column-gap: 2rem;
+    list-style: none;
+}
+
+.activity-list li {
+    font-size: 1rem;
+    font-weight: 400;
+    color: var(--text-dark);
+    padding: 0.4em 0;
+    padding-left: 1.2em;
+    position: relative;
+}
+
+.activity-list li::before {
+    content: '\2022';
+    position: absolute;
+    left: 0;
+    color: var(--brand-blue);
+    font-weight: 700;
+}
+
+.slide-activities .photo-grid {
+    flex: 0 0 45%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 4px;
+    min-height: 100vh;
+}
+
+.slide-activities .photo-grid .photo {
+    background-size: cover;
+    background-position: center;
+}
+
+/* ========== T6: IMPACT / CLOSING SLIDE ========== */
+.slide-impact {
+    background-size: cover;
+    background-position: center;
+    color: var(--text-white);
+    text-align: center;
+}
+
+.slide-impact .overlay {
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0.4);
+    z-index: 1;
+}
+
+.slide-impact .content {
+    position: relative;
+    z-index: 2;
+    padding: var(--slide-padding);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.slide-impact h2 {
+    font-family: var(--font-display);
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 400;
+    font-style: italic;
+    max-width: 800px;
+    text-shadow: 0 2px 15px rgba(0,0,0,0.4);
+}
+
+/* ========== T7: COMPANY / CONTACT SLIDE ========== */
+.slide-company {
+    background: var(--cream-light);
+    text-align: center;
+    padding: var(--slide-padding);
+}
+
+.slide-company .logo {
+    max-width: 200px;
+    margin: 0 auto 2rem;
+}
+
+.slide-company .company-tagline {
+    font-family: var(--font-display);
+    font-size: 1.4rem;
+    font-style: italic;
+    color: var(--text-medium);
+    margin-bottom: 2rem;
+}
+
+.slide-company .description {
+    max-width: 700px;
+    margin: 0 auto 2rem;
+    font-size: 1rem;
+    font-weight: 300;
+    color: var(--text-medium);
+    line-height: 1.8;
+}
+
+.slide-company .contact-info {
+    margin-top: 2rem;
+    font-size: 0.95rem;
+    color: var(--text-dark);
+}
+
+.slide-company .contact-info a {
+    color: var(--brand-blue);
+    text-decoration: none;
+}
+
+.slide-company .website {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--brand-blue);
+    margin-top: 1rem;
+}
+
+/* ========== T8: PRODUCT / ITINERARY SLIDE ========== */
+.slide-product {
+    background: var(--cream);
+    padding: var(--slide-padding);
+}
+
+.slide-product h2 {
+    font-family: var(--font-display);
+    font-size: clamp(1.8rem, 3.5vw, 2.5rem);
+    font-weight: 700;
+    color: var(--stone-dark);
+    margin-bottom: 0.3em;
+}
+
+.slide-product .product-subtitle {
+    font-size: 1rem;
+    font-weight: 300;
+    font-style: italic;
+    color: var(--text-medium);
+    margin-bottom: 2em;
+}
+
+.night-options {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.night-card {
+    flex: 1;
+    min-width: 140px;
+    background: var(--cream-light);
+    border: 1px solid var(--cream-dark);
+    border-radius: 8px;
+    padding: 1.5rem 1rem;
+    text-align: center;
+    transition: all 0.2s ease;
+}
+
+.night-card:hover {
+    border-color: var(--brand-blue);
+    box-shadow: 0 4px 15px rgba(0,53,160,0.1);
+}
+
+.night-card .nights {
+    font-family: var(--font-display);
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--brand-blue);
+}
+
+.night-card .nights-label {
+    font-size: 0.85rem;
+    color: var(--text-medium);
+    font-weight: 400;
+}
+
+.night-card .includes {
+    font-size: 0.8rem;
+    color: var(--text-light);
+    margin-top: 0.5em;
+    font-weight: 300;
+}
+
+/* ========== T9: MAP SLIDE ========== */
+.slide-map {
+    background: var(--cream);
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+}
+
+.slide-map .map-side {
+    flex: 0 0 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: var(--slide-padding);
+}
+
+.slide-map .text-side {
+    flex: 1;
+    padding: var(--slide-padding);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.slide-map h2 {
+    font-family: var(--font-display);
+    font-size: clamp(2rem, 4vw, 2.8rem);
+    font-weight: 700;
+    color: var(--stone-dark);
+    margin-bottom: 1em;
+}
+
+/* ========== DESTINATION BADGE ========== */
+.destination-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5em;
+    background: var(--brand-blue);
+    color: white;
+    padding: 0.4em 1em;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+/* ========== PHOTO PLACEHOLDER ========== */
+.photo-placeholder {
+    background: linear-gradient(135deg, var(--ice-light) 0%, var(--cream-dark) 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-light);
+    font-size: 0.9rem;
+    font-weight: 400;
+    font-style: italic;
+    text-align: center;
+    padding: 2rem;
+    min-height: 300px;
+    border: 2px dashed var(--ice-blue);
+    border-radius: 4px;
+}
+
+/* ========== LOGO IN CORNER ========== */
+.logo-corner {
+    position: absolute;
+    bottom: 20px;
+    right: 30px;
+    z-index: 10;
+    height: 30px;
+    opacity: 0.7;
+}
+
+/* ========== RESPONSIVE ========== */
+@media (max-width: 900px) {
+    .slide-stats,
+    .slide-content-lr,
+    .slide-content-rl,
+    .slide-activities,
+    .slide-map {
+        flex-direction: column;
+    }
+
+    .slide-stats .photo-side,
+    .slide-content-lr .photo-side,
+    .slide-content-rl .photo-side,
+    .slide-activities .photo-grid,
+    .slide-map .map-side {
+        flex: none;
+        min-height: 40vh;
+    }
+
+    .activity-list {
+        columns: 1;
+    }
+
+    .night-options {
+        flex-direction: column;
+    }
+}
+
+/* ========== PRINT ========== */
+@media print {
+    .slide {
+        min-height: 100vh;
+        page-break-after: always;
+    }
+
+    body {
+        background: white;
+    }
+}
