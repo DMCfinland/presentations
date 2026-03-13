@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finland DMC - Private Finland</title>
+
+    <!-- Open Graph for social sharing -->
+    <meta property="og:title" content="Finland DMC - Private Finland">
+    <meta property="og:description" content="Private Finland — Bespoke Nordic journeys curated for the discerning traveller. Aurora wilderness, pristine lakes, rare wildlife and Nordic culture. All arranged by your local expert.">
+    <meta property="og:image" content="images/lapland/nlv-aurora-cabin.jpg">
+    <meta property="og:type" content="website">
+
+    <!-- Shared design system v3 -->
+    <link rel="stylesheet" href="template-styles-v3.css">
+
+    <!-- Background-image slides only (cover + closing) -->
+    <style>
+        .cover-bg  { background-image: url('images/lapland/nlv-aurora-cabin.jpg'); }
+        .closing-bg { background-image: url('images/lapland/aurora-saana-fell.jpg'); }
+    </style>
+
+    <!-- Luxury overrides — deeper tones, more dramatic cover overlay -->
+    <style>
+        .slide-cover .overlay,
+        .slide-impact .overlay {
+            background: linear-gradient(
+                160deg,
+                rgba(0, 0, 0, 0.55) 0%,
+                rgba(10, 20, 30, 0.38) 60%,
+                rgba(0, 0, 0, 0.20) 100%
+            );
+        }
+        /* Subtle gold rule under slide headings */
+        .slide-content-lr .text-side h2::after,
+        .slide-content-rl .text-side h2::after,
+        .slide-stats .stats-side h2::after,
+        .slide-activities .text-side h2::after {
+            content: '';
+            display: block;
+            width: 40px;
+            height: 2px;
+            background: var(--gold);
+            margin-top: 10px;
+            margin-bottom: 14px;
+        }
+    </style>
+
+    <!-- Compact product slide — fits A4 without price row -->
+    <style>
+        .slide-product h2 { font-size: 2rem; margin-bottom: 0.2em; }
+        .slide-product .product-subtitle { margin-bottom: 1.2em; font-size: 0.9rem; }
+        .night-options { gap: 0.9rem; margin-bottom: 1rem; }
+        .night-card { padding: 1.2rem 1rem; }
+        .night-card .nights { font-size: 2rem; }
+        .night-card .nights-label { margin-bottom: 0.5em; }
+        .night-card .includes { font-size: 0.8rem; line-height: 1.45; }
+        @media print {
+            .slide-product { padding: 42px 50px !important; }
+            .slide-product h2 { font-size: 2rem !important; margin-bottom: 0.2em !important; }
+            .slide-product .product-subtitle { margin-bottom: 1.2em !important; }
+            .night-options { gap: 0.9rem !important; margin-bottom: 1rem !important; }
+            .night-card { padding: 1.2rem 1rem !important; }
+            .night-card .nights { font-size: 2rem !important; }
+            .night-card .nights-label { margin-bottom: 0.5em !important; }
+            .night-card .includes { font-size: 0.8rem !important; line-height: 1.45 !important; }
+        }
+    </style>
+
+    <!-- Print / PDF — Landscape A4 -->
+    <style>
+        @page {
+            size: A4 landscape;
+            margin: 0;
+        }
+        @media print {
+            html, body {
+                margin: 0 !important;
+                padding: 0 !important;
+                width: 297mm !important;
+                background: #F8F4ED !important;
+                -webkit-print-color-adjust: exact !important;
+                print-color-adjust: exact !important;
+            }
+            .slide {
+                width: 297mm !important;
+                height: 210mm !important;
+                min-height: 210mm !important;
+                max-height: 210mm !important;
+                margin: 0 !important;
+                padding: 0 !important;
+                overflow: hidden !important;
+                box-sizing: border-box !important;
+                page-break-inside: avoid !important;
+                break-inside: avoid !important;
+                -webkit-print-color-adjust: exact !important;
+                print-color-adjust: exact !important;
+                position: relative;
+            }
+            .slide + .slide {
+                page-break-before: always !important;
+                break-before: page !important;
+            }
+            .slide:last-child {
+                page-break-after: avoid !important;
+            }
+            .slide-stats,
+            .slide-content-lr,
+            .slide-content-rl,
+            .slide-activities,
+            .slide-map,
+            .slide-product,
+            .slide-destinations {
+                height: 210mm !important;
+                min-height: 210mm !important;
+                align-items: stretch !important;
+            }
+            .photo-side,
+            .slide-activities .photo-grid,
+            .slide-content-rl .photo-side {
+                height: 210mm !important;
+                min-height: 210mm !important;
+                flex-shrink: 0 !important;
+            }
+            .text-side,
+            .stats-side,
+            .slide-map .text-side {
+                padding: 52px 55px !important;
+                height: 210mm !important;
+                overflow-y: hidden !important;
+            }
+            .slide-cover,
+            .slide-impact {
+                height: 210mm !important;
+                background-size: cover !important;
+                background-position: center !important;
+            }
+            .slide-cover .content,
+            .slide-impact .content {
+                height: 100% !important;
+            }
+            .slide-company {
+                height: 210mm !important;
+                padding: 60px !important;
+                display: flex !important;
+                align-items: center !important;
+                justify-content: center !important;
+            }
+        }
+    </style>
+
+    <script>
+    window.addEventListener('beforeprint', () => {
+        document.title = 'Finland DMC - Private Finland';
+    });
+    </script>
+</head>
+<body>
+<div id="slide-counter" class="slide-counter"></div>
+<div id="overview-container" class="overview-container"></div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 1: COVER                                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-cover cover-bg">
+    <div class="overlay"></div>
+    <div class="content">
+        <h1>Private Finland</h1>
+        <p class="tagline">Bespoke Nordic Journeys — Curated for the Few</p>
+    </div>
+    <div class="brand-bar">
+        <img src="logo.png" alt="Finland DMC">
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 2: WHY FINLAND — Stats                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-stats">
+    <div class="photo-side">
+        <img src="images/lapland/arctic-glass-lounge.jpeg"
+             style="--focal-x: 50%; --focal-y: 50%;"
+             alt="Private arctic lounge — luxury hospitality in Finnish Lapland">
+    </div>
+    <div class="stats-side">
+        <h2>The World's Last<br>True Wilderness</h2>
+        <p class="intro-text">Finland is Europe's greatest wilderness — vast boreal forests, 188,000 private lakes, and Lapland skies that dance with the Northern Lights. For travellers who have seen everything, Finland offers what cannot be found anywhere else: 100,000 km² of Arctic Lapland, 75% forest cover, and an entire lake for your private use. Clean air, deep silence, and complete solitude — arranged exclusively by Finland DMC.</p>
+        <div class="stats-grid">
+            <div class="stat-item">
+                <div class="number">188K</div>
+                <div class="label">Private lakes — yours to explore</div>
+            </div>
+            <div class="stat-item">
+                <div class="number">200+</div>
+                <div class="label">Aurora nights per year</div>
+            </div>
+            <div class="stat-item">
+                <div class="number">#1</div>
+                <div class="label">Happiest nation, 8 years</div>
+            </div>
+            <div class="stat-item">
+                <div class="number">Europe's</div>
+                <div class="label">Largest wilderness — reserved for you</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 3: LAPLAND WINTER — Sleeping under the Aurora       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-lr">
+    <div class="text-side">
+        <h2>Sleeping Under<br>the Northern Lights</h2>
+        <p>In Finnish Lapland, the sky becomes part of the room. Glass-roofed private cabins frame the aurora borealis from your bed — no alarm clocks, no tour groups, no scheduled moments. The lights appear when they choose, and when they do, the entire sky is yours.</p>
+        <p>Winter in Lapland is the world's most immersive natural spectacle. Deep snow silences everything. Reindeer cross the fell at dusk. The air is the cleanest you have ever breathed. Each cabin is a private world set within endless white wilderness.</p>
+        <p>This is not a hotel. It is a destination with no equal.</p>
+        <div class="feature-icons">
+            <span class="feature-icon">Glass-roof cabin</span>
+            <span class="feature-icon">Private terrace</span>
+            <span class="feature-icon">Aurora views</span>
+            <span class="feature-icon">Total privacy</span>
+        </div>
+    </div>
+    <div class="photo-side">
+        <img src="images/lapland/dmc-aurora-kota.jpeg"
+             style="--focal-x: 50%; --focal-y: 35%;"
+             alt="Arctic kota cabin under the Northern Lights — Finnish Lapland at night">
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 4: LAPLAND EXPERIENCES MOSAIC                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-activities">
+    <div class="text-side">
+        <h2>Arctic<br>Experiences</h2>
+        <p class="subtitle">Every experience arranged privately — no shared groups, no fixed schedules</p>
+        <ul class="activity-list">
+            <li>Private husky safari at dawn</li>
+            <li>Reindeer herding with Sámi family</li>
+            <li>Snowmobile expedition into wilderness</li>
+            <li>Ice fishing on a frozen fell lake</li>
+            <li>Snowshoeing through old-growth forest</li>
+            <li>Private aurora guide &amp; viewing</li>
+            <li>Kota dinner under starlit sky</li>
+            <li>Fell summit at midnight sun</li>
+            <li>Ice swimming &amp; smoke sauna ritual</li>
+            <li>Sámi cultural immersion</li>
+            <li>Helicopter over Arctic wilderness</li>
+            <li>Private ski resort access</li>
+        </ul>
+    </div>
+    <div class="photo-grid">
+        <div class="photo"><img src="images/lapland/husky-sled-finland.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Private husky sled safari in Finnish Lapland"></div>
+        <div class="photo"><img src="images/lapland/arctic-reindeer-aurora.jpg" style="--focal-x:50%;--focal-y:45%;" alt="Reindeer under the Northern Lights, Lapland Finland"></div>
+        <div class="photo"><img src="images/lapland/santa-portrait.jpg" style="--focal-x:50%;--focal-y:30%;" alt="Santa Claus — Finnish Lapland"></div>
+        <div class="photo"><img src="images/lapland/arctic-snowmobile.jpeg" style="--focal-x:50%;--focal-y:50%;" alt="Private snowmobile expedition, Arctic Lapland"></div>
+        <div class="photo"><img src="images/lapland/arctic-campfire-snowmobile.jpeg" style="--focal-x:50%;--focal-y:50%;" alt="Campfire and snowmobile in the Arctic wilderness, Lapland"></div>
+        <div class="photo"><img src="images/lapland/dmc-aurora-kota.jpeg" style="--focal-x:50%;--focal-y:40%;" alt="Aurora borealis over a kota shelter in Lapland"></div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 5: PRIVATE ARCTIC RESIDENCES                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-rl">
+    <div class="photo-side">
+        <div class="photo">
+            <img src="images/lapland/villa-lumi-2-000.jpg"
+                 style="--focal-x: 50%; --focal-y: 40%;"
+                 alt="Villa Lumi — private luxury residence in Finnish Lapland winter">
+        </div>
+        <div class="photo">
+            <img src="images/lapland/villa-lumi-1-000.jpg"
+                 style="--focal-x: 50%; --focal-y: 45%;"
+                 alt="Villa Lumi — private luxury residence in Finnish Lapland">
+        </div>
+    </div>
+    <div class="text-side">
+        <h2>Private Arctic<br>Residences</h2>
+        <p>For travellers who require complete privacy, Finland offers a collection of exclusive private residences that cannot be found through any booking platform. These are homes, not hotels — staffed, fully catered, and designed to disappear into the landscape.</p>
+        <p><strong>Private Villas</strong> — Architect-designed residences set in their own wilderness. Private chef, private sauna, private guide. The fell, the forest, and the aurora belong entirely to your party.</p>
+        <p><strong>Boutique Lodges</strong> — Intimate lodges with a handful of suites, offering the service of a private residence with the amenities of a world-class property. Your programme. Your pace. Your Finland.</p>
+        <div class="feature-icons">
+            <span class="feature-icon">Private chef</span>
+            <span class="feature-icon">Private sauna</span>
+            <span class="feature-icon">Dedicated guide</span>
+            <span class="feature-icon">No shared spaces</span>
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 6: FINNISH LAKELAND — Summer                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-lr">
+    <div class="text-side">
+        <h2>Finnish Lakeland —<br>All Four Seasons</h2>
+        <p>In winter, 188,000 frozen lakes create one of the most extraordinary landscapes on earth — snow-covered islands, black ice, and complete silence. A world most travellers never see. Finland DMC arranges private access to lake resorts that operate year-round, each surrounded by snow-draped forest.</p>
+        <p>In summer, the same lakes shimmer under the midnight sun that never fully sets. A private houseboat on Lake Saimaa, a glass-roofed suite at the water's edge, a champagne cruise at 2am in golden light. Two completely different Finlands, both available, both private.</p>
+        <div class="feature-icons">
+            <span class="feature-icon">Frozen lake winter</span>
+            <span class="feature-icon">Midnight sun summer</span>
+            <span class="feature-icon">Private houseboat</span>
+            <span class="feature-icon">Year-round access</span>
+        </div>
+    </div>
+    <div class="photo-side">
+        <img src="images/lapland/jarvisydan-winter-drone.jpeg"
+             style="--focal-x: 50%; --focal-y: 40%;"
+             alt="Aerial winter view of Järvisydän Resort — snow-covered islands on Lake Saimaa">
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 7: SAIMAA RINGED SEAL — Exclusive wildlife           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-rl">
+    <div class="photo-side">
+        <img src="images/lakeland/saimaa-seal.jpg"
+             style="--focal-x: 50%; --focal-y: 40%;"
+             alt="Saimaa ringed seal — one of the world's rarest seals, endemic to Lake Saimaa">
+    </div>
+    <div class="text-side">
+        <h2>Your Private Encounter<br>with the World's Rarest Seal</h2>
+        <p>The Saimaa ringed seal exists in one place on earth: Lake Saimaa, Finland. With only around 530 remaining — and thriving under strict protection — this is a wildlife encounter reserved for those who know exactly where to look. Finland DMC knows.</p>
+        <p>A silent wooden boat, a still summer morning, and the world's rarest freshwater seal surfacing beside you. Our expert naturalist guides know the seal families personally. This is your private audience with a living treasure found nowhere else on the planet.</p>
+        <p>This is the definition of exclusive access: not a tour, not a ticket — a moment arranged only for you.</p>
+        <div class="feature-icons">
+            <span class="feature-icon">Only in Saimaa</span>
+            <span class="feature-icon">Private boat</span>
+            <span class="feature-icon">Expert naturalist</span>
+            <span class="feature-icon">~530 remain on earth</span>
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 8: SPA & WELLNESS                                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-lr">
+    <div class="text-side">
+        <h2>Ancient Rituals.<br>Nordic Wellness.</h2>
+        <p>The Finnish sauna is not a spa amenity — it is a 2,000-year-old healing ritual. Steam, birch, cold water, silence. At Järvisydän Resort, the sauna ritual takes place beside the lake at dusk, with a private smoke sauna heated for hours before your arrival.</p>
+        <p><strong>Cave Spa</strong> — Carved into natural bedrock, the cave spa at Järvisydän is one of the most extraordinary wellness spaces in the Nordic world. Turquoise pools, ancient stone, and the quiet of underground Finland.</p>
+        <p><strong>Lake Spa</strong> — Outdoor thermal pools overlooking Saimaa. Peat treatments sourced from Finnish bogs. Cold plunge directly into the lake. A complete journey from underground stone to open sky.</p>
+        <div class="feature-icons">
+            <span class="feature-icon">Private smoke sauna</span>
+            <span class="feature-icon">Cave spa pools</span>
+            <span class="feature-icon">Peat treatments</span>
+            <span class="feature-icon">Lake plunge</span>
+        </div>
+    </div>
+    <div class="photo-side">
+        <img src="images/lakeland/jarvisydan-cave-spa.jpg"
+             style="--focal-x: 50%; --focal-y: 40%;"
+             alt="Järvisydän cave spa — turquoise pools carved into natural rock">
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 9: NORDIC GASTRONOMY                                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-rl">
+    <div class="photo-side">
+        <img src="images/food/fire-grilling-chef.jpg"
+             style="--focal-x: 50%; --focal-y: 35%;"
+             alt="Open-fire cooking by a Finnish chef — Nordic gastronomy at its finest">
+    </div>
+    <div class="text-side">
+        <h2>Nordic<br>Gastronomy</h2>
+        <p>Finnish cuisine is built on the same principles as the landscape: clean, honest, and entirely seasonal. Wild mushrooms gathered that morning. Lake fish caught an hour ago. Reindeer slow-smoked over Arctic birch. Cloudberries from the fell above the lodge.</p>
+        <p><strong>Private Chef Table</strong> — An intimate dining experience where the chef cooks directly at your table over an open flame. Finland's finest ingredients, prepared as you watch. The forest as your dining room.</p>
+        <p><strong>Kota Dinner</strong> — A traditional Finnish tent shelter over an open fire. Smoked meats, cast-iron pots, and the deep smoke of a birchwood fire. Dining as ceremony, not service.</p>
+        <div class="feature-icons">
+            <span class="feature-icon">Wild-foraged</span>
+            <span class="feature-icon">Open-fire cooking</span>
+            <span class="feature-icon">Private chef</span>
+            <span class="feature-icon">Seasonal &amp; local</span>
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 10: HELSINKI — Design Capital Gateway               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-lr">
+    <div class="text-side">
+        <h2>Helsinki —<br>The Nordic Gateway</h2>
+        <p>Most Finland journeys begin and end in Helsinki — a compact, walkable design capital on the Baltic Sea that rewards those who look beyond the obvious. As a gateway city it is unmatched in Europe: direct connections from Shanghai, Beijing, and Hong Kong, with the Arctic wilderness reachable within two hours.</p>
+        <p><strong>Private sauna on the waterfront</strong> — Löyly, Helsinki's most celebrated public sauna, is available for private hire. Heated for your party only, with a private terrace over the Baltic.</p>
+        <p><strong>Design &amp; culture</strong> — Private after-hours access to the Design Museum, Marimekko flagship, and Alvar Aalto's architectural masterpieces. Helsinki as few visitors ever experience it.</p>
+        <div class="feature-icons">
+            <span class="feature-icon">Direct flights Asia</span>
+            <span class="feature-icon">UNESCO Design City</span>
+            <span class="feature-icon">Private sauna hire</span>
+            <span class="feature-icon">Archipelago cruises</span>
+        </div>
+    </div>
+    <div class="photo-side">
+        <img src="images/helsinki/loyly-sauna-2.jpg"
+             style="--focal-x: 50%; --focal-y: 40%;"
+             alt="Löyly sauna and terrace on the Helsinki waterfront, Baltic Sea">
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 11: SAMPLE JOURNEYS — Private itineraries           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-product">
+    <h2>Sample Private Journeys</h2>
+    <p class="product-subtitle">Every programme is designed from scratch — these are starting points, not packages</p>
+    <div class="night-options">
+        <div class="night-card">
+            <div class="nights">4</div>
+            <div class="nights-label">nights</div>
+            <div class="includes">Arctic Immersion. Private glass-cabin under the aurora. Husky safari at dawn, snowmobile deep into the wilderness, kota dinner under a starlit sky. Everything private, everything yours.</div>
+        </div>
+        <div class="night-card">
+            <div class="nights">7</div>
+            <div class="nights-label">nights</div>
+            <div class="includes">Finland Complete. Lapland aurora wilderness, Lakeland summer serenity, Helsinki design gateway. Private villa accommodation throughout. Three Finlands in one journey.</div>
+        </div>
+        <div class="night-card">
+            <div class="nights">10</div>
+            <div class="nights-label">nights</div>
+            <div class="includes">The Grand Journey. Multi-destination across Lapland, Saimaa and the archipelago. Private yacht, helicopter transfer, exclusive wildlife encounters. A journey designed only once — for you.</div>
+        </div>
+    </div>
+    <p style="font-size: 0.85rem; color: var(--text-light); font-style: italic; margin-top: 1em; text-align: center;">All journeys are built to your requirements. Contact us to begin designing yours.</p>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 12: IMPACT — The DMC Promise                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-impact closing-bg">
+    <div class="overlay"></div>
+    <div class="content">
+        <h2>All of Finland.<br>All for You.</h2>
+        <p class="tagline" style="font-size: 1.15rem; max-width: 540px; margin: 1.2em auto 0; line-height: 1.7;">Everything is possible. We know every corner personally.</p>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 12: COMPANY                                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-company">
+    <div style="max-width: 680px; margin: 0 auto;">
+        <img src="logo.png" alt="Finland DMC" class="logo">
+        <p class="company-tagline">We know Finland. We know hospitality.</p>
+
+        <p class="description">Finland DMC is a specialist destination management company covering all of Finland — from the glass-cabin wilderness of Lapland and the seal-inhabited lakes of Saimaa to the design capital Helsinki. We arrange the experiences that no booking engine can offer.</p>
+
+        <p class="description">Every journey we design is entirely private, entirely bespoke, and built around one principle: the best of Finland should be accessible only to those who know exactly where to look. We know where to look.</p>
+
+        <p class="description" style="font-style: italic; color: var(--text-forest);">No group tours. No fixed programmes. No limits.</p>
+
+        <div class="contact-info">
+            <strong>Finland DMC Oy</strong><br>
+            sales@finland-dmc.com<br>
+            www.finland-dmc.com
+        </div>
+
+        <p class="version-banner">Finland DMC Private Finland 2026 v1.0</p>
+    </div>
+</section>
+
+<script src="presentation-mode.js"></script>
+</body>
+</html>
