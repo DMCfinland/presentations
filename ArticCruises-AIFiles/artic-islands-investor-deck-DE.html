@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artic Islands — Investitionspräsentation 2026</title>
+
+    <!-- Shared design system from Finland DMC -->
+    <link rel="stylesheet" href="../FinlandDMCOy-AIFiles/project-files/presentations/template-styles-v3.css">
+
+    <style>
+        .cover-bg   { background-image: url('../FinlandDMCOy-AIFiles/project-files/presentations/images/lakeland/saimaa-islands-autumn-aerial.jpg'); }
+        .closing-bg { background-image: url('../FinlandDMCOy-AIFiles/project-files/presentations/images/lakeland/saimaa-islands-summer-aerial.jpg'); }
+    </style>
+
+    <!-- Print / PDF — Landscape A4 -->
+    <style>
+        @page { size: A4 landscape; margin: 0; }
+        @media print {
+            html, body { margin: 0 !important; padding: 0 !important; width: 297mm !important; background: #F8F4ED !important; -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important; }
+            .slide { width: 297mm !important; height: 210mm !important; min-height: 210mm !important; max-height: 210mm !important; margin: 0 !important; padding: 0 !important; overflow: hidden !important; box-sizing: border-box !important; page-break-inside: avoid !important; break-inside: avoid !important; -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important; position: relative; }
+            .slide + .slide { page-break-before: always !important; break-before: page !important; }
+            .slide:last-child { page-break-after: avoid !important; }
+            .slide-stats, .slide-content-lr, .slide-content-rl, .slide-activities, .slide-map, .slide-product, .slide-destinations { height: 210mm !important; min-height: 210mm !important; align-items: stretch !important; }
+            .photo-side, .slide-activities .photo-grid, .slide-content-rl .photo-side { height: 210mm !important; min-height: 210mm !important; flex-shrink: 0 !important; }
+            .text-side, .stats-side, .slide-map .text-side { padding: 52px 55px !important; height: 210mm !important; overflow-y: hidden !important; }
+            .slide-cover, .slide-impact { height: 210mm !important; background-size: cover !important; background-position: center !important; }
+            .slide-cover .content, .slide-impact .content { height: 100% !important; }
+            .slide-company { height: 210mm !important; padding: 60px !important; display: flex !important; align-items: center !important; justify-content: center !important; }
+            .slide-product { padding: 52px 55px !important; }
+        }
+    </style>
+
+    <script>
+    window.addEventListener('beforeprint', () => {
+        document.title = 'Artic Islands — Investitionspräsentation 2026';
+    });
+    </script>
+</head>
+<body>
+<div id="slide-counter" class="slide-counter"></div>
+<div id="overview-container" class="overview-container"></div>
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- FOLIE 1: COVER                                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-cover cover-bg">
+    <div class="overlay"></div>
+    <div class="content">
+        <h1>Artic Islands</h1>
+        <p class="tagline">Privatinseln im größten See Europas — Familienabenteuer &amp; Naturinvestition am Saimaa-See, Finnland</p>
+    </div>
+    <div class="brand-bar">
+        <span style="color:white;font-size:15px;letter-spacing:3px;font-weight:300;text-transform:uppercase;">Investitionspräsentation · 2026</span>
+    </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- FOLIE 2: WARUM SAIMAA                                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-stats">
+    <div class="photo-side">
+        <img src="../FinlandDMCOy-AIFiles/project-files/presentations/images/lakeland/saimaa-islands-summer-aerial.jpg"
+             style="--focal-x: 50%; --focal-y: 40%;"
+             alt="Saimaa-See Inseln Luftaufnahme, Sommer">
+    </div>
+    <div class="stats-side">
+        <h2>Der Saimaa-See —<br>Europas verborgene Krone</h2>
+        <p class="intro-text">Finnlands Saimaa ist Europas unberührteste Süßwasser-Wildnis: 14.000 Inseln aus uraltem Wald, kristallklarem Wasser und einer Stille, die keine Stadt kaufen kann. Im Herzen des Linnansaari-Nationalparks — Heimat der seltensten Süßwasserrobbe der Welt. Artic Islands baut hier ein privates Inselnetzwerk auf, solange diese Möglichkeit noch besteht.</p>
+        <div class="stats-grid">
+            <div class="stat-item">
+                <div class="number">4.400</div>
+                <div class="label">km² Saimaa-See</div>
+            </div>
+            <div class="stat-item">
+                <div class="number">14.000+</div>
+                <div class="label">Inseln</div>
+            </div>
+            <div class="stat-item">
+                <div class="number">Natura</div>
+                <div class="label">2000 Schutzgebiet</div>
+            </div>
+            <div class="stat-item">
+                <div class="number">&lt; 400</div>
+                <div class="label">Saimaa-Robben weltweit</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- FOLIE 3: DIE VISION                                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-lr">
+    <div class="text-side">
+        <h2>Für Familien,<br>Abenteurer &amp;<br>Naturliebhaber</h2>
+        <p>Artic Islands schafft ein verbundenes Netzwerk privater Inseldestinationen am Saimaa-See — ein Ort, an dem Familien Erinnerungen schaffen, Outdoor-Begeisterte ihre Grenzen finden und jeder, der echte finnische Natur sucht, durchatmen kann.</p>
+        <p>Kleinere Inseln bieten <strong>exklusives Glamping und private Aufenthalte</strong> — nur Sie, der Wald und der See. Zwei größere Hub-Inseln bieten Vollservice: geführte Aktivitäten, Catering und Saunaanlagen für Schullandheime, Retreats und Familiengruppen.</p>
+        <p>Im <strong>Sommer</strong> paddeln Sie von Insel zu Insel per Kajak. Im <strong>Winter</strong> skifahren Sie von Unterkunft zu Unterkunft über den zugefrorenen See. Finnlands ikonischstes Naturerlebnis — betrieben von einer Familie, die seit über 30 Jahren Tourismus am Saimaa-See aufbaut.</p>
+        <div class="feature-icons">
+            <span class="feature-icon">Familien</span>
+            <span class="feature-icon">Glamping</span>
+            <span class="feature-icon">Schullandheime</span>
+            <span class="feature-icon">Winterabenteuer</span>
+        </div>
+    </div>
+    <div class="photo-side">
+        <img src="../FinlandDMCOy-AIFiles/project-files/presentations/images/lakeland/kayaking-couple-2.jpg"
+             style="--focal-x: 50%; --focal-y: 50%;"
+             alt="Kajak zwischen den Inseln des Saimaa-Sees">
+    </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- FOLIE 4: SOMMER AUF DEN INSELN                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-activities">
+    <div class="text-side">
+        <h2>Sommer auf<br>den Inseln</h2>
+        <p class="subtitle">Paddeln, Angeln, Schwimmen, Robbensafaris — Saimaas zauberhafteste Jahreszeit</p>
+        <ul class="activity-list">
+            <li>Kajaktour von Insel zu Insel im eigenen Tempo</li>
+            <li>Private Insel-Komplettmiete für Familien &amp; Gruppen</li>
+            <li>Glamping in Seeufer-Zeltlodges</li>
+            <li>Geführtes Angeln: Barsch, Hecht, Zander</li>
+            <li>Saimaa-Ringelrobbe Wildtier-Safari</li>
+            <li>Rauchsauna &amp; Seeschwimmen</li>
+            <li>Lagerfeuer-Catering auf der Insel</li>
+            <li>Yoga-, Achtsamkeits- &amp; Digital-Detox-Retreats</li>
+            <li>Schullandheim-Programme (finnisch &amp; international)</li>
+            <li>Naturfotografie im Natura-2000-Gebiet</li>
+            <li>Ruder- &amp; Segelrouten zwischen den Inseln</li>
+            <li>Beeren- &amp; Pilzesammeln im Inselwald</li>
+        </ul>
+    </div>
+    <div class="photo-grid">
+        <div class="photo"><img src="../FinlandDMCOy-AIFiles/project-files/presentations/images/lakeland/saimaa-seal.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Saimaa-Ringelrobbe"></div>
+        <div class="photo"><img src="../FinlandDMCOy-AIFiles/project-files/presentations/images/lakeland/kayaking-couple.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Kajak auf dem Saimaa-See"></div>
+        <div class="photo"><img src="../FinlandDMCOy-AIFiles/project-files/presentations/images/lakeland/wooden-boat-cruise.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Traditionelles Holzbootfahrt auf dem Saimaa"></div>
+        <div class="photo"><img src="../FinlandDMCOy-AIFiles/project-files/presentations/images/lakeland/evening-campfire.jpg" style="--focal-x:50%;--focal-y:55%;" alt="Lagerfeuer auf der Insel am Abend"></div>
+        <div class="photo"><img src="../FinlandDMCOy-AIFiles/project-files/presentations/images/lakeland/loon-catching-fish.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Natur und Angeln am Saimaa-See"></div>
+        <div class="photo"><img src="../FinlandDMCOy-AIFiles/project-files/presentations/images/lakeland/ms-puijo-ship.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Traditionelles Ruderboot auf dem Saimaa-See"></div>
+    </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- FOLIE 5: WINTERWUNDERLAND                                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-activities">
+    <div class="text-side">
+        <h2>Winter-<br>wunderland</h2>
+        <p class="subtitle">Wenn der See zufriert, beginnt die wahre Magie — Skifahren, Eisangeln und Stille. Das Järvisydän Resort ist die sichere, komfortable Basis, von der aus die Gäste aufbrechen.</p>
+        <ul class="activity-list">
+            <li>Langlauf von Unterkunft zu Unterkunft über den zugefrorenen See</li>
+            <li>Eisangeln auf Barsch, Hecht und Regenbogenforelle</li>
+            <li>Schneeschuhwandern durch uralten Inselwald</li>
+            <li>Schlittschuhlaufen auf spiegelglattem natürlichem Eis</li>
+            <li>Wintercamping in Inselschutzhütten</li>
+            <li>Warme Sauna nach dem Eisbad im See</li>
+            <li>Sternengucken von schneebedeckten Inselstränden</li>
+            <li>Arktische Übernachtung in beheizter Inselkabine</li>
+            <li>Skitouren zwischen Inseln mit Gepäcktransfer</li>
+            <li>Geführte Wildtierspurverfolgung auf dem Eis</li>
+            <li>Weihnachts- und Neujahrs-Inselpakete</li>
+            <li>Firmen-Winterteambuilding-Programme</li>
+        </ul>
+    </div>
+    <div class="photo-grid">
+        <div class="photo"><img src="../FinlandDMCOy-AIFiles/project-files/presentations/images/lakeland/web-jarvisydan/winter-activities.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Langlauf auf dem zugefrorenen Saimaa-See"></div>
+        <div class="photo"><img src="../FinlandDMCOy-AIFiles/project-files/presentations/images/lakeland/snowshoeing-frozen-lake.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Schneeschuhwandern auf dem zugefrorenen Saimaa-See"></div>
+        <div class="photo"><img src="../FinlandDMCOy-AIFiles/project-files/presentations/images/lakeland/ice-fishing-lakeland.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Eisangeln auf dem Saimaa-See"></div>
+        <div class="photo"><img src="../FinlandDMCOy-AIFiles/project-files/presentations/images/lakeland/ice-skating-couple.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Schlittschuhlaufen auf dem Saimaa-See"></div>
+        <div class="photo"><img src="../FinlandDMCOy-AIFiles/project-files/presentations/images/lakeland/snowshoeing-lake.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Winterwildnis am Saimaa-See"></div>
+        <div class="photo"><img src="../FinlandDMCOy-AIFiles/project-files/presentations/images/lakeland/web-jarvisydan/kota-arrival.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Järvisydän — sichere Basis und Ankunftspunkt für Inselabenteuer"></div>
+    </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- FOLIE 6: INSELPORTFOLIO                                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-lr">
+    <div class="text-side">
+        <h2>Das Inselportfolio</h2>
+        <p>Sieben bis acht Inseln am Saimaa-See — innerhalb und angrenzend an den Linnansaari-Nationalpark. Jede Insel hat ihren eigenen Charakter: felsige Vorsprünge für dramatisches Camping, bewaldete Ufer für Wildtiere und geschützte Buchten für Familien. Derzeit im Besitz von Patrick, Sebastian und Markus Heiskanen.</p>
+
+        <table style="width:100%;border-collapse:collapse;font-size:13px;margin-top:14px;">
+            <thead>
+                <tr style="border-bottom:2px solid #2C4A2E;">
+                    <th style="text-align:left;padding:6px 4px;color:#2C4A2E;">Insel</th>
+                    <th style="text-align:right;padding:6px 4px;color:#2C4A2E;">Schätzwert</th>
+                    <th style="text-align:left;padding:6px 4px;color:#2C4A2E;">Rolle im Netzwerk</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr style="border-bottom:1px solid #e0d8c8;">
+                    <td style="padding:7px 4px;font-weight:600;">Satusaari</td>
+                    <td style="text-align:right;padding:7px 4px;">61 T€</td>
+                    <td style="padding:7px 4px;">Private Glamping-Insel</td>
+                </tr>
+                <tr style="border-bottom:1px solid #e0d8c8;">
+                    <td style="padding:7px 4px;font-weight:600;">Vattusaari</td>
+                    <td style="text-align:right;padding:7px 4px;">200 T€</td>
+                    <td style="padding:7px 4px;">Eigene Lagune — Familien-Basiscamp</td>
+                </tr>
+                <tr style="border-bottom:1px solid #e0d8c8;">
+                    <td style="padding:7px 4px;font-weight:600;">Norpanpesä</td>
+                    <td style="text-align:right;padding:7px 4px;">30 T€</td>
+                    <td style="padding:7px 4px;">Robbenlebensraum — Wildtierinsel</td>
+                </tr>
+                <tr style="border-bottom:1px solid #e0d8c8;">
+                    <td style="padding:7px 4px;font-weight:600;">Antin luoto + Pukkiluodot</td>
+                    <td style="text-align:right;padding:7px 4px;">110 T€</td>
+                    <td style="padding:7px 4px;">Kajak- &amp; Ski-Zwischenstopps</td>
+                </tr>
+                <tr style="border-bottom:1px solid #e0d8c8;">
+                    <td style="padding:7px 4px;font-weight:600;">Iso-Virkasaari Grundstücke</td>
+                    <td style="text-align:right;padding:7px 4px;">60 T€+</td>
+                    <td style="padding:7px 4px;">Große Insel — Vollservice</td>
+                </tr>
+                <tr style="background:#f5f1e8;">
+                    <td style="padding:7px 4px;font-weight:700;color:#8B4513;">Kaarnetsaari ★</td>
+                    <td style="text-align:right;padding:7px 4px;font-weight:700;color:#8B4513;">≤ 400 T€</td>
+                    <td style="padding:7px 4px;color:#8B4513;">Ankerinsel — Kirchenauktion Frühjahr 2026</td>
+                </tr>
+            </tbody>
+        </table>
+        <p style="margin-top:10px;font-size:12px;color:#999;font-style:italic;">★ Bebaute Fläche ~3 ha: Lagergebäude, Holzkapelle, Sauna, Anlegesteg. Auktion Frühjahr 2026.</p>
+    </div>
+    <div class="photo-side">
+        <img src="../FinlandDMCOy-AIFiles/project-files/presentations/images/lakeland/saimaa-islands-autumn-aerial.jpg"
+             style="--focal-x: 50%; --focal-y: 50%;"
+             alt="Saimaa-See Inseln aus der Luft, Herbst">
+    </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- FOLIE 7: KAARNETSAARI                                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-rl">
+    <div class="photo-side">
+        <div class="photo">
+            <img src="../FinlandDMCOy-AIFiles/project-files/presentations/images/lakeland/saimaa-islands-summer-aerial.jpg"
+                 style="--focal-x: 50%; --focal-y: 45%;"
+                 alt="Saimaa-See Inselarchipel Luftaufnahme, Linnansaari-Nationalpark">
+        </div>
+        <div class="photo">
+            <img src="../FinlandDMCOy-AIFiles/project-files/presentations/images/lakeland/linnavuori-couple.jpg"
+                 style="--focal-x: 50%; --focal-y: 50%;"
+                 alt="Paar genießt die unberührte finnische Seewildnis">
+        </div>
+    </div>
+    <div class="text-side">
+        <h2>Kaarnetsaari —<br>Die Ankerinsel</h2>
+        <p>Eine kircheneigene Insel in Rantasalmi, direkt neben dem Linnansaari-Nationalpark — zum öffentlichen Verkauf im <strong>Frühjahr 2026</strong>. Jahrzehntelang betrieb die Gemeinde Rantasalmi sie als Feriencamp. Das Järvisydän Resort ist der aktuelle Pächter und kennt die Insel in- und auswendig.</p>
+        <p>Die zum Verkauf stehende <strong>bebaute Fläche (~3 ha)</strong> umfasst: ein Holz-Lagergebäude mit Speisesaal und Unterkunft, die wunderschöne <em>Kaunis Valo</em>-Kapelle aus Inselkiefern, Sauna, Anlegesteg und einen 1,5 km Naturlehrpfad. Fertige Infrastruktur — kein Bau von Grund auf nötig.</p>
+        <p>Als zentraler Knotenpunkt des Artic-Islands-Netzwerks übernimmt Kaarnetsaari Ankünfte, Catering und Ausrüstung der Gäste für Inselrouten. Maximales Gebot reserviert: <strong>400.000 €</strong>.</p>
+        <div class="feature-icons">
+            <span class="feature-icon">Lagergebäude fertig</span>
+            <span class="feature-icon">Holzkapelle</span>
+            <span class="feature-icon">Sauna &amp; Steg</span>
+            <span class="feature-icon">Auktion Frühjahr 2026</span>
+        </div>
+    </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- FOLIE 8: DREI PRODUKTE                                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-company">
+    <div style="max-width:940px;width:100%;">
+        <h2 style="text-align:center;margin-bottom:8px;">Drei Produkte, Drei Märkte</h2>
+        <p style="text-align:center;color:#666;font-size:14px;margin-bottom:26px;">Ein vollständiges Produktangebot — vom Budget-Einzelreisenden bis zur Premium-Familiengruppe. Alles auf denselben Inseln.</p>
+
+        <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:18px;margin-bottom:20px;">
+
+            <div style="background:#F5F0E8;border:2px solid #2C4A2E;padding:24px 20px;border-radius:8px;">
+                <div style="font-size:11px;font-weight:700;letter-spacing:2px;color:#2C4A2E;margin-bottom:8px;text-transform:uppercase;">Produkt 1</div>
+                <div style="font-size:20px;font-weight:700;margin-bottom:4px;color:#2C4A2E;">Budget Öko-Aufenthalt</div>
+                <div style="font-size:13px;font-weight:600;color:#8B4513;margin-bottom:14px;">Selbstverpflegung · Ungeführt</div>
+                <ul style="font-size:13px;color:#444;line-height:1.8;padding-left:16px;margin:0;">
+                    <li>Inselnacht-Buchung</li>
+                    <li>Brennholz, Gas, Basisausrüstung</li>
+                    <li>Kajak / Kanuverleih</li>
+                    <li>Einfache Karte &amp; Sicherheitseinweisung</li>
+                    <li>Kein Führer, eigener Zeitplan</li>
+                </ul>
+                <div style="margin-top:16px;padding-top:12px;border-top:1px solid #ddd;font-size:14px;font-weight:700;color:#2C4A2E;">40 – 90 € / Person / Nacht</div>
+            </div>
+
+            <div style="background:#2C4A2E;padding:24px 20px;border-radius:8px;color:white;">
+                <div style="font-size:11px;font-weight:700;letter-spacing:2px;opacity:0.7;margin-bottom:8px;text-transform:uppercase;">Produkt 2</div>
+                <div style="font-size:20px;font-weight:700;margin-bottom:4px;">Geführte Gruppensafari</div>
+                <div style="font-size:13px;font-weight:600;opacity:0.8;margin-bottom:14px;">Schullandheime · Familien · Teams</div>
+                <ul style="font-size:13px;opacity:0.9;line-height:1.8;padding-left:16px;margin:0;">
+                    <li>Professioneller Naturführer</li>
+                    <li>Kajak- oder Ski-Insel-zu-Insel-Route</li>
+                    <li>Ausrüstung inklusive</li>
+                    <li>Sicherheitsbegleitung &amp; Logistik</li>
+                    <li>Schullandheime &amp; Firmengruppen</li>
+                </ul>
+                <div style="margin-top:16px;padding-top:12px;border-top:1px solid rgba(255,255,255,0.2);font-size:14px;font-weight:700;">80 – 150 € / Person / Nacht</div>
+            </div>
+
+            <div style="background:#8B4513;padding:24px 20px;border-radius:8px;color:white;">
+                <div style="font-size:11px;font-weight:700;letter-spacing:2px;opacity:0.7;margin-bottom:8px;text-transform:uppercase;">Produkt 3</div>
+                <div style="font-size:20px;font-weight:700;margin-bottom:4px;">Premium Vollservice</div>
+                <div style="font-size:13px;font-weight:600;opacity:0.8;margin-bottom:14px;">Familien · Retreats · Incentives</div>
+                <ul style="font-size:13px;opacity:0.9;line-height:1.8;padding-left:16px;margin:0;">
+                    <li>Insel-Catering &amp; Mahlzeiten inklusive</li>
+                    <li>Private Inselmiete</li>
+                    <li>Geführte Aktivitäten &amp; Sauna</li>
+                    <li>Bootstransfers &amp; Ausrüstung</li>
+                    <li>Glamping-Lodge-Unterkunft</li>
+                </ul>
+                <div style="margin-top:16px;padding-top:12px;border-top:1px solid rgba(255,255,255,0.2);font-size:14px;font-weight:700;">150 – 400 € / Person / Nacht</div>
+            </div>
+
+        </div>
+
+        <div style="background:#F5F0E8;padding:13px 24px;border-radius:8px;text-align:center;font-size:13.5px;color:#555;line-height:1.6;">
+            Das Järvisydän Resort fungiert als <strong>sichere Ankunftsbasis</strong> für alle Produkte — Ausrüstungsverleih, Einweisungen, Transfers und Unterkunft für größere Gruppen.
+        </div>
+    </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- FOLIE 9: GLAMPING — GESCHÄFTSMÖGLICHKEIT                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-lr">
+    <div class="text-side">
+        <h2>Glamping —<br>Der clevere Start</h2>
+        <p>Glamping ist das am schnellsten wachsende Segment im europäischen Naturtourismus — und das perfekte Erstprodukt für Artic Islands. Canvas-Lodges und Glockenzelte erfordern minimale Investitionen, können Saison für Saison eingesetzt werden und generieren vom ersten Tag an Premium-Einnahmen.</p>
+        <p><strong>Warum Glamping perfekt passt:</strong><br>
+        Kein Festbau nötig — Zelte sind mobil, skalierbar und benötigen keine Baugenehmigung für saisonale Nutzung. Eine vollausgestattete Canvas-Lodge auf einer privaten finnischen Insel erzielt <em>120–300 € pro Nacht</em> und ist Monate im Voraus ausgebucht.</p>
+        <p><strong>Kaarnetsaari und Iso-Virkasaari</strong> sind die idealen Standorte: Kaarnetsaari hat bereits Küche, Sauna und Speisesaal-Infrastruktur für Glamping-Gäste. Iso-Virkasaari bietet Platz für ein ganzes Glamping-Dorf mit Seeblick auf allen Seiten.</p>
+        <p>Jahr 1: 5–10 Zelte. Jahr 3: 20–30 Zelte im gesamten Netzwerk. Niedrige Kosten, hohe Marge, hohe Nachfrage.</p>
+        <div class="feature-icons">
+            <span class="feature-icon">Niedrige Startkosten</span>
+            <span class="feature-icon">120–300€/Nacht</span>
+            <span class="feature-icon">Skalierbar</span>
+            <span class="feature-icon">Einnahmen ab Saison 1</span>
+        </div>
+    </div>
+    <div class="photo-side">
+        <img src="../FinlandDMCOy-AIFiles/project-files/presentations/images/lakeland/safarihouse-1.jpg"
+             style="--focal-x: 50%; --focal-y: 50%;"
+             alt="Glamping Safari-Lodge in finnischer Natur">
+    </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- FOLIE 10: DAS SAIMAA-ÖKOSYSTEM                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-rl">
+    <div class="photo-side">
+        <div class="photo">
+            <img src="../FinlandDMCOy-AIFiles/project-files/presentations/images/lakeland/ms-puijo-exterior.jpg"
+                 style="--focal-x: 50%; --focal-y: 50%;"
+                 alt="Passagierschiff auf dem Saimaa-See">
+        </div>
+        <div class="photo">
+            <img src="../FinlandDMCOy-AIFiles/project-files/presentations/images/lakeland/resort-autumn.jpg"
+                 style="--focal-x: 50%; --focal-y: 40%;"
+                 alt="Järvisydän Resort, Saimaa-See Herbst">
+        </div>
+    </div>
+    <div class="text-side">
+        <h2>Das Saimaa-<br>Ökosystem</h2>
+        <p>Artic Islands ist eingebunden in eine 30-jährige Saimaa-Tourismus-Infrastruktur der Familie Heiskanen — bewährte Vertriebskanäle, Logistik und Gastgewerbe-Betrieb ab Tag eins verfügbar.</p>
+        <p><strong>Arctic Cruises</strong> — Ein Saimaa-Mehrtages-Kreuzfahrtkonzept mit geplanten Insel-Stopp-Vereinbarungen. Kreuzfahrtpassagiere gehen für geführte Inselerlebnisse an Land. <em>Tagesausflug-Einnahmen ohne zusätzliche Marketingkosten.</em></p>
+        <p><strong>Järvisydän Resort</strong> — Finnlands führendes Seenland-Resort, 3 km von Kaarnetsaari entfernt. Überlauf-Unterkunft, Catering-Logistik, Spa-Partnerschaft und Basis für mehrtägige Inselpakete. Bereits aktueller Pächter von Kaarnetsaari.</p>
+        <p><strong>Finland DMC</strong> — Internationaler B2B-Vertrieb an europäische Reiseveranstalter. Direkter Zugang zu Einkäufern, die Finnland-Naturreisen an den deutschen, österreichischen, Schweizer und Benelux-Markt verkaufen.</p>
+        <div class="feature-icons">
+            <span class="feature-icon">Arctic Cruises Stopps</span>
+            <span class="feature-icon">Järvisydän 3 km entfernt</span>
+            <span class="feature-icon">Finland DMC B2B</span>
+            <span class="feature-icon">30 Jahre Saimaa-Netzwerk</span>
+        </div>
+    </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- FOLIE 11: PHASENWEISER INVESTITIONSANSATZ                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-company">
+    <div style="max-width:940px;width:100%;">
+        <h2 style="text-align:center;margin-bottom:8px;">Ein phasenweiser Investitionsansatz</h2>
+        <p style="text-align:center;color:#666;font-size:14px;margin-bottom:26px;">Mit realen Vermögenswerten starten. Mit Ergebnissen skalieren. Gesamtkapital 1.000.000 € — in drei klaren Phasen.</p>
+
+        <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px;margin-bottom:20px;">
+
+            <div style="background:#2C4A2E;color:white;padding:22px 18px;border-radius:8px;">
+                <div style="font-size:11px;font-weight:700;letter-spacing:2px;opacity:0.7;margin-bottom:6px;text-transform:uppercase;">Phase 1 · Jetzt</div>
+                <div style="font-size:34px;font-weight:700;margin-bottom:6px;">400 T€</div>
+                <div style="font-size:12px;font-weight:700;letter-spacing:1px;opacity:0.8;margin-bottom:12px;text-transform:uppercase;">Familieninseln kaufen</div>
+                <div style="font-size:12.5px;opacity:0.9;line-height:1.6;">Rückzahlung der Heiskanen-Familiendarlehen. Satusaari, Vattusaari, Norpanpesä, Antin luoto, Pukkiluodot, Iso-Virkasaari. Echte finnische Grundstücke ab Tag 1. Familie wandelt verbleibendes Eigenkapital in Gründeranteile um.</div>
+            </div>
+
+            <div style="background:#8B4513;color:white;padding:22px 18px;border-radius:8px;">
+                <div style="font-size:11px;font-weight:700;letter-spacing:2px;opacity:0.7;margin-bottom:6px;text-transform:uppercase;">Phase 2 · Frühjahr 2026</div>
+                <div style="font-size:34px;font-weight:700;margin-bottom:6px;">400 T€</div>
+                <div style="font-size:12px;font-weight:700;letter-spacing:1px;opacity:0.8;margin-bottom:12px;text-transform:uppercase;">Kaarnetsaari-Gebot</div>
+                <div style="font-size:12.5px;opacity:0.9;line-height:1.6;">Gebot bei der Kirchenauktion (max. 400 T€). Fertige Lagergebäude, Kapelle, Sauna, Steg. <strong>Bei Zuschlag:</strong> Ankerhub gesichert. <strong>Kein Zuschlag:</strong> Mittel für weitere Inseln &amp; Reserve umgewidmet.</div>
+            </div>
+
+            <div style="background:#5C7A5C;color:white;padding:22px 18px;border-radius:8px;">
+                <div style="font-size:11px;font-weight:700;letter-spacing:2px;opacity:0.7;margin-bottom:6px;text-transform:uppercase;">Phase 3 · Nach der Auktion</div>
+                <div style="font-size:34px;font-weight:700;margin-bottom:6px;">200 T€</div>
+                <div style="font-size:12px;font-weight:700;letter-spacing:1px;opacity:0.8;margin-bottom:12px;text-transform:uppercase;">Aufbau &amp; Start</div>
+                <div style="font-size:12.5px;opacity:0.9;line-height:1.6;">Glamping-Zelte, Stege, Saunen, Wege, Ausrüstung. Erst wenn das Gesamtportfolio feststeht, wird dieses Kapital gezielt eingesetzt. Jahr 1–2: Talkoot-Gemeinschaftsarbeitspartys senken Baukosten.</div>
+            </div>
+
+        </div>
+
+        <div style="background:#F5F0E8;padding:14px 24px;border-radius:8px;display:grid;grid-template-columns:1fr 1fr 1fr 1fr;gap:16px;align-items:center;text-align:center;">
+            <div>
+                <div style="font-size:11px;color:#999;margin-bottom:3px;text-transform:uppercase;letter-spacing:0.5px;">Mindestinvestition</div>
+                <div style="font-size:22px;font-weight:700;color:#2C4A2E;">10.000 €</div>
+            </div>
+            <div>
+                <div style="font-size:11px;color:#999;margin-bottom:3px;text-transform:uppercase;letter-spacing:0.5px;">Gesamtkapital</div>
+                <div style="font-size:22px;font-weight:700;color:#2C4A2E;">1.000.000 €</div>
+            </div>
+            <div>
+                <div style="font-size:11px;color:#999;margin-bottom:3px;text-transform:uppercase;letter-spacing:0.5px;">Struktur</div>
+                <div style="font-size:16px;font-weight:600;color:#2C4A2E;">Finnische Oy<br>Pro-rata-Anteile</div>
+            </div>
+            <div>
+                <div style="font-size:11px;color:#999;margin-bottom:3px;text-transform:uppercase;letter-spacing:0.5px;">Vermögensdeckung</div>
+                <div style="font-size:16px;font-weight:600;color:#2C4A2E;">Echtes finnisches<br>Inselgrundstück</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- FOLIE 12: WIE IHRE INVESTITION FUNKTIONIERT                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-lr">
+    <div class="text-side">
+        <h2>Wie Ihre<br>Investition funktioniert</h2>
+
+        <p><strong>Schritt 1 — Gründung der Artic Islands Oy</strong><br>
+        Finnische Kapitalgesellschaft. Investoren erhalten Anteile proportional zu ihrer Einlage. Mindestens 10.000 €. Patrick, Sebastian und Markus Heiskanen als Gründungsaktionäre neben deutschen Investoren.</p>
+
+        <p><strong>Schritt 2 — Erwerb der Familieninseln (Phase 1)</strong><br>
+        Das Unternehmen kauft alle Heiskanen-Inseln. Die Familie erhält Rückzahlung ihrer 400.000 € Darlehen. Ihr verbleibendes Eigenkapital wird in Gründeranteile umgewandelt — vollständige Interessengleichrichtung.</p>
+
+        <p><strong>Schritt 3 — Gebot für Kaarnetsaari (Phase 2)</strong><br>
+        Kirchenauktion Frühjahr 2026. Max. Gebot 400 T€. Egal ob Zuschlag oder nicht — Investoren kennen das Ergebnis, bevor Phase-3-Kapital abgerufen wird. Keine Überraschungen.</p>
+
+        <p><strong>Schritt 4 — Aufbau &amp; Betrieb (Phase 3)</strong><br>
+        200 T€ für Glamping-Zelte, Saunen, Stege, Wege. Jahr 1–2: Talkoot-Arbeitspartys. Erste Buchungen öffnen inselweise, sobald jede Insel bereit ist.</p>
+
+        <div class="feature-icons">
+            <span class="feature-icon">Grundstücke ab Tag 1</span>
+            <span class="feature-icon">Phasenweises Risiko</span>
+            <span class="feature-icon">Ab 10.000 €</span>
+            <span class="feature-icon">Finnische Oy</span>
+        </div>
+    </div>
+    <div class="photo-side">
+        <img src="../FinlandDMCOy-AIFiles/project-files/presentations/images/lakeland/safarihouse-5.jpg"
+             style="--focal-x: 50%; --focal-y: 50%;"
+             alt="Natur-Glamping-Unterkunft am finnischen Seeufer">
+    </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- FOLIE 13: DAS TEAM                                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-company">
+    <div style="max-width:880px;width:100%;">
+        <h2 style="text-align:center;margin-bottom:8px;">Das Team</h2>
+        <p style="text-align:center;color:#666;font-size:14px;margin-bottom:30px;">Die Familie Heiskanen betreibt seit über 30 Jahren Tourismus- und Gastgewerbeunternehmen am Saimaa-See — dies ist ihr Heimatsee</p>
+
+        <div style="display:grid;grid-template-columns:1fr 1fr 1fr 1fr;gap:16px;margin-bottom:22px;">
+            <div style="text-align:center;padding:20px 14px;background:#F5F0E8;border-radius:8px;">
+                <div style="width:48px;height:48px;background:#2C4A2E;border-radius:50%;margin:0 auto 10px;display:flex;align-items:center;justify-content:center;color:white;font-size:18px;font-weight:700;">P</div>
+                <div style="font-size:15px;font-weight:700;margin-bottom:4px;">Patrick Heiskanen</div>
+                <div style="font-size:10px;color:#8B4513;font-weight:700;letter-spacing:0.8px;text-transform:uppercase;margin-bottom:8px;">CEO · Finland DMC Oy</div>
+                <div style="font-size:12px;color:#555;line-height:1.5;">Leitet die Artic-Islands-Vision, Investorenbeziehungen und internationalen Vertrieb. 10+ Jahre Aufbau des finnischen Naturtourismus für europäische Märkte.</div>
+            </div>
+            <div style="text-align:center;padding:20px 14px;background:#F5F0E8;border-radius:8px;">
+                <div style="width:48px;height:48px;background:#2C4A2E;border-radius:50%;margin:0 auto 10px;display:flex;align-items:center;justify-content:center;color:white;font-size:18px;font-weight:700;">S</div>
+                <div style="font-size:15px;font-weight:700;margin-bottom:4px;">Sebastian Heiskanen</div>
+                <div style="font-size:10px;color:#8B4513;font-weight:700;letter-spacing:0.8px;text-transform:uppercase;margin-bottom:8px;">Vertrieb · Finland DMC Oy</div>
+                <div style="font-size:12px;color:#555;line-height:1.5;">Boutique- &amp; FIT-Reisespezialist. Hochwertige Kundenbeziehungen und maßgeschneiderte Finnland-Pakete für den deutschsprachigen Markt.</div>
+            </div>
+            <div style="text-align:center;padding:20px 14px;background:#F5F0E8;border-radius:8px;">
+                <div style="width:48px;height:48px;background:#2C4A2E;border-radius:50%;margin:0 auto 10px;display:flex;align-items:center;justify-content:center;color:white;font-size:18px;font-weight:700;">M</div>
+                <div style="font-size:15px;font-weight:700;margin-bottom:4px;">Markus Heiskanen</div>
+                <div style="font-size:10px;color:#8B4513;font-weight:700;letter-spacing:0.8px;text-transform:uppercase;margin-bottom:8px;">CEO · Järvisydän Resort</div>
+                <div style="font-size:12px;color:#555;line-height:1.5;">Betreibt das Järvisydän Resort. Aktueller Pächter von Kaarnetsaari — kennt die Insel und ihr Potenzial aus erster Hand.</div>
+            </div>
+            <div style="text-align:center;padding:20px 14px;background:#F5F0E8;border-radius:8px;">
+                <div style="width:48px;height:48px;background:#2C4A2E;border-radius:50%;margin:0 auto 10px;display:flex;align-items:center;justify-content:center;color:white;font-size:18px;font-weight:700;">J</div>
+                <div style="font-size:15px;font-weight:700;margin-bottom:4px;">Jari Heiskanen</div>
+                <div style="font-size:10px;color:#8B4513;font-weight:700;letter-spacing:0.8px;text-transform:uppercase;margin-bottom:8px;">Naturführer · Inselexperte</div>
+                <div style="font-size:12px;color:#555;line-height:1.5;">Tiefes Wissen über Saimaa-Inseln, Wildtiere und Wasserwege. Leitet geführte Safaris, Angelausflüge und den Inselbetrieb vor Ort.</div>
+            </div>
+        </div>
+
+        <div style="background:#2C4A2E;color:white;padding:13px 24px;border-radius:8px;text-align:center;font-size:13.5px;line-height:1.6;">
+            Unterstützt von <strong>Finland DMC Oy</strong> (int'l B2B-Vertrieb) &nbsp;·&nbsp; <strong>Järvisydän Resort</strong> (Betrieb &amp; 3 km entfernt) &nbsp;·&nbsp; <strong>Arctic Cruises</strong> (Insel-Stopp-Vertrieb)
+        </div>
+    </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- FOLIE 14: ABSCHLUSS                                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-impact closing-bg">
+    <div class="overlay"></div>
+    <div class="content">
+        <h2>Ihre Insel<br>wartet auf Sie.</h2>
+        <div style="margin-top:34px;background:rgba(255,255,255,0.12);padding:20px 44px;border-radius:8px;display:inline-block;backdrop-filter:blur(4px);">
+            <p style="color:white;font-size:13px;margin:0 0 6px;opacity:0.7;text-transform:uppercase;letter-spacing:1px;">Investitionsanfragen</p>
+            <p style="color:white;font-size:21px;font-weight:600;margin:0 0 3px;">Patrick Heiskanen</p>
+            <p style="color:white;font-size:14px;margin:0;opacity:0.85;">patrick.heiskanen@finland-dmc.com &nbsp;·&nbsp; Finland DMC Oy / Artic Islands Oy</p>
+        </div>
+        <p style="color:rgba(255,255,255,0.45);font-size:11px;margin-top:28px;letter-spacing:1.5px;">ARTIC ISLANDS OY — GRÜNDUNG 2026 &nbsp;·&nbsp; LINNANSAARI-NATIONALPARK, SAIMAA-SEE, FINNLAND</p>
+    </div>
+</section>
+
+
+<script src="../FinlandDMCOy-AIFiles/project-files/presentations/presentation-mode.js"></script>
+</body>
+</html>
