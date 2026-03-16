@@ -28,8 +28,10 @@ CLAUDE.local.md
 *.docx
 *.xlsx
 *.pptx
-*.pdf
 *.zip
+# PDFs blocked globally — except presentation PDFs for GitHub Pages download
+*.pdf
+!pdfs/*.pdf
 
 # Agent memory (project-specific, accumulates over time)
 .claude/agent-memory/
