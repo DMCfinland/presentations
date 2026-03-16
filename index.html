@@ -17,27 +17,53 @@
             justify-content: center;
             padding: 40px 20px;
         }
-        .logo { max-width: 180px; margin-bottom: 20px; }
+        .logo { max-width: 120px; margin-bottom: 20px; }
         h1 { font-size: 1.6rem; font-weight: 400; color: #1a1a1a; margin-bottom: 8px; }
         .subtitle { color: #666; font-size: 0.95rem; margin-bottom: 40px; }
         .deck-grid { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; max-width: 800px; }
         .deck-card {
             background: white;
             border-radius: 8px;
-            padding: 28px 24px;
             width: 360px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            overflow: hidden;
+        }
+        .card-main {
+            display: block;
+            padding: 28px 24px 16px;
             text-decoration: none;
             color: inherit;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
-            transition: transform 0.2s, box-shadow 0.2s;
+            transition: background 0.15s;
         }
-        .deck-card:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+        .card-main:hover { background: #f5f1ea; }
+        .card-main h2 { font-size: 1.15rem; margin-bottom: 6px; color: #1a1a1a; }
+        .card-main p { font-size: 0.85rem; color: #666; line-height: 1.5; }
+        .card-main .slides { font-size: 0.75rem; color: #D4AF37; margin-top: 10px; text-transform: uppercase; letter-spacing: 0.5px; }
+        .card-actions {
+            display: flex;
+            border-top: 1px solid #f0ebe3;
         }
-        .deck-card h2 { font-size: 1.15rem; margin-bottom: 6px; color: #1a1a1a; }
-        .deck-card p { font-size: 0.85rem; color: #666; line-height: 1.5; }
-        .deck-card .slides { font-size: 0.75rem; color: #D4AF37; margin-top: 10px; text-transform: uppercase; letter-spacing: 0.5px; }
+        .card-actions a {
+            flex: 1;
+            padding: 10px 14px;
+            font-size: 0.78rem;
+            font-weight: 600;
+            text-align: center;
+            text-decoration: none;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+            transition: background 0.15s;
+        }
+        .btn-view {
+            color: #1a3a5c;
+            background: #f5f1ea;
+        }
+        .btn-view:hover { background: #ede8df; }
+        .btn-pdf {
+            color: white;
+            background: #1a3a5c;
+        }
+        .btn-pdf:hover { background: #122a45; }
         .footer { margin-top: 50px; font-size: 0.8rem; color: #999; text-align: center; }
         .footer a { color: #D4AF37; }
     </style>
@@ -45,38 +71,70 @@
 <body>
     <img src="logo.png" alt="Finland DMC" class="logo">
     <h1>Presentation Series 2026</h1>
-    <p class="subtitle">Press P or F5 to start fullscreen presentation</p>
+    <p class="subtitle">Click a deck to view · Download PDF for offline sharing</p>
 
     <div class="deck-grid">
-        <a href="01-Finland-Overview.html" class="deck-card">
-            <h2>Finland Overview</h2>
-            <p>What is Finland? Three regions, four seasons, endless experiences. The complete introduction for tour operators.</p>
-            <div class="slides">9 slides</div>
-        </a>
 
-        <a href="03-lapland-winter.html" class="deck-card">
-            <h2>Lapland — Arctic Winter</h2>
-            <p>Northern Lights, husky safaris, glass igloos, and luxury lodges. Four destinations: Levi, Saariselka, Pyha-Luosto, Rantasalmi.</p>
-            <div class="slides">13 slides</div>
-        </a>
+        <div class="deck-card">
+            <a href="01-Finland-Overview.html" class="card-main">
+                <h2>Finland Overview</h2>
+                <p>What is Finland? Three regions, four seasons, endless experiences. The complete introduction for tour operators.</p>
+                <div class="slides">9 slides</div>
+            </a>
+            <div class="card-actions">
+                <a href="01-Finland-Overview.html" class="btn-view">▶ View</a>
+                <a href="pdfs/Finland-DMC-Overview-2026.pdf" download class="btn-pdf">↓ Download PDF</a>
+            </div>
+        </div>
 
-        <a href="04-Lakeland-Summer-v3.html" class="deck-card">
-            <h2>Lakeland — Summer</h2>
-            <p>188,000 lakes, cave spa, cruise dining, Saimaa seals. Three destinations: Järvisydän, Tahko, Sahanlahti.</p>
-            <div class="slides">14 slides</div>
-        </a>
+        <div class="deck-card">
+            <a href="03-lapland-winter.html" class="card-main">
+                <h2>Lapland — Arctic Winter</h2>
+                <p>Northern Lights, husky safaris, glass igloos, and luxury lodges. Four destinations: Levi, Saariselkä, Pyhä-Luosto, Rovaniemi.</p>
+                <div class="slides">13 slides</div>
+            </a>
+            <div class="card-actions">
+                <a href="03-lapland-winter.html" class="btn-view">▶ View</a>
+                <a href="pdfs/Finland-DMC-Lapland-Winter-2026.pdf" download class="btn-pdf">↓ Download PDF</a>
+            </div>
+        </div>
 
-        <a href="05-Helsinki-Capital.html" class="deck-card">
-            <h2>Helsinki — Capital City</h2>
-            <p>UNESCO Design City, sauna culture, archipelago, Nordic cuisine. The gateway to Finland.</p>
-            <div class="slides">11 slides</div>
-        </a>
+        <div class="deck-card">
+            <a href="04-Lakeland-Summer-v3.html" class="card-main">
+                <h2>Lakeland — Summer</h2>
+                <p>188,000 lakes, cave spa, cruise dining, Saimaa seals. Three destinations: Järvisydän, Tahko, Sahanlahti.</p>
+                <div class="slides">14 slides</div>
+            </a>
+            <div class="card-actions">
+                <a href="04-Lakeland-Summer-v3.html" class="btn-view">▶ View</a>
+                <a href="pdfs/Finland-DMC-Lakeland-Summer-2026.pdf" download class="btn-pdf">↓ Download PDF</a>
+            </div>
+        </div>
 
-        <a href="06-Private-Finland-Luxury.html" class="deck-card">
-            <h2>Private Finland — Luxury</h2>
-            <p>Bespoke Nordic journeys for the discerning traveller. Aurora wilderness, ringed seals, private residences. No prices. No group tours.</p>
-            <div class="slides">12 slides</div>
-        </a>
+        <div class="deck-card">
+            <a href="05-Helsinki-Capital.html" class="card-main">
+                <h2>Helsinki — Capital City</h2>
+                <p>UNESCO Design City, sauna culture, archipelago, Nordic cuisine. The gateway to Finland.</p>
+                <div class="slides">11 slides</div>
+            </a>
+            <div class="card-actions">
+                <a href="05-Helsinki-Capital.html" class="btn-view">▶ View</a>
+                <a href="pdfs/Finland-DMC-Helsinki-2026.pdf" download class="btn-pdf">↓ Download PDF</a>
+            </div>
+        </div>
+
+        <div class="deck-card">
+            <a href="06-Private-Finland-Luxury.html" class="card-main">
+                <h2>Private Finland — Luxury</h2>
+                <p>Bespoke Nordic journeys for the discerning traveller. Aurora wilderness, ringed seals, private residences. No prices. No group tours.</p>
+                <div class="slides">12 slides</div>
+            </a>
+            <div class="card-actions">
+                <a href="06-Private-Finland-Luxury.html" class="btn-view">▶ View</a>
+                <a href="pdfs/Finland-DMC-Private-Luxury-2026.pdf" download class="btn-pdf">↓ Download PDF</a>
+            </div>
+        </div>
+
     </div>
 
     <div class="footer">
