@@ -52,3 +52,20 @@ secrets.json
 *.pfx
 apikey*
 api-key*
+
+# Sensitive business document folders — NEVER push these
+documents/
+get-to-know-jarvisydan/
+JarvisydanOy-AIFiles/
+SystemsOy-AIFiles/
+_archive/
+_drafts/
+scripts/
+liite-*.md
+CURRENT-STATUS.md
+ROADMAP.md
+IDEAS.md
+PENDING-PATTERNS.md
+**/mining-outputs/
+**/batch-results/
+**/second-brain*/

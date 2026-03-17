@@ -9,7 +9,7 @@
 ## MAIN PROMPT (paste first, then upload photos)
 
 ```
-Build a single-page scroll investor website for "Saimaa Islands" — a private island investment concept on Lake Saimaa, Finland. The name is intentionally spelled "Artic" (one c).
+Build a single-page scroll investor website for "Saimaa Islands" — a private island investment concept on Lake Saimaa, Finland.
 
 ---
 
