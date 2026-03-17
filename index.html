@@ -8,7 +8,7 @@
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
             font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
-            background: #F8F4ED;
+            background: #F8F4ED url('images/lakeland/saimaa-islands-summer-aerial.jpg') center/cover fixed no-repeat;
             color: #2C2C2C;
             min-height: 100vh;
             display: flex;
@@ -17,6 +17,14 @@
             justify-content: center;
             padding: 40px 20px;
         }
+        body::before {
+            content: '';
+            position: fixed;
+            inset: 0;
+            background: rgba(248, 244, 237, 0.88);
+            z-index: 0;
+        }
+        body > * { position: relative; z-index: 1; }
         .logo { max-width: 120px; margin-bottom: 20px; }
         h1 { font-size: 1.6rem; font-weight: 400; color: #1a1a1a; margin-bottom: 8px; }
         .subtitle { color: #666; font-size: 0.95rem; margin-bottom: 40px; }
