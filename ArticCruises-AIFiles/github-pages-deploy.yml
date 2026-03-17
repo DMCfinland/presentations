@@ -1,0 +1,60 @@
+# GitHub Actions — Deploy to GitHub Pages
+# Instructions:
+# 1. In your GitHub repo, go to Settings → Pages → Source → select "GitHub Actions"
+# 2. Create the file .github/workflows/deploy.yml in the repo and paste this content
+# 3. Push — GitHub will build and deploy automatically
+# 4. Your site will be live at: https://dmcfinland.github.io/saimaa-island-retreat/
+#
+# ALSO: Add this line to vite.config.ts before deploying:
+#   base: '/saimaa-island-retreat/',
+
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build
+        run: npm run build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

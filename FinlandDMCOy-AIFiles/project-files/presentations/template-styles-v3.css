@@ -259,9 +259,18 @@ img {
 
 .slide-content-lr .photo-side {
     flex: 7;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
     background-size: cover;
     background-position: center;
     min-height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+
+.slide-content-lr .photo-side .photo {
+    flex: 1;
     position: relative;
     overflow: hidden;
 }

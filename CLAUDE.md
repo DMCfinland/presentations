@@ -42,7 +42,7 @@ Finland DMC Oy is the pilot company. Others will follow the same pattern.
 1. Read `CURRENT-STATUS.md` — has status, recent sessions, and context pack with warm pack ID
 2. Load warm pack section from `_shared/warm-packs.md` (grep the `warm_pack:` ID from context pack)
 3. Show Current State to user, increment `session_number`
-4. Compression due? → `session_number == next_compression`. Opus review? → check `next_opus_review` in CURRENT-STATUS.md Meta (bootstrap phase; next: session 70)
+4. Compression due? → `session_number == next_compression`. Opus review? → check `next_opus_review` in CURRENT-STATUS.md Meta (mature phase — every 30 sessions; next: session 110)
 5. **Context health:** In file-heavy sessions (corporate-knowledge, strategic-research), use `/compact` after phase breaks or ~turn 12. All key outputs should already be in `.md` files before compacting. Saves ~47% of remaining session cost. See `_shared/best-practices/session-compaction-strategy.md`.
 
 ### Session End (ALWAYS do this)
@@ -50,6 +50,7 @@ Finland DMC Oy is the pilot company. Others will follow the same pattern.
    - **Yes** → Write a 5-line note to `_shared/best-practices/` (name, what, why, when-to-apply, source-session). Quality > quantity. **Then immediately add entry to `_shared/best-practices/_index.yaml`** — unindexed files are invisible to the system (9 files found unindexed at session 60 review).
    - **No** → Write one line in the session YAML: `harvest_note: "nothing new — [reason, e.g. routine compression / brief Q&A / no novel decisions]"`. This keeps the metric honest.
    - **Patrick corrections get `source: patrick` tag** in the BP file. These are highest-signal — fast-track to Tier A after 1 confirmation (not 3). If a Patrick correction gets ignored in a later session, escalate immediately.
+   - **GEPA loop (mandatory if corrections occurred):** If Patrick made ANY correction this session → run `gepa-correction-harvest.md` process → propose a rule → add to `_index.yaml`. Corrections are the highest-signal input. One missed correction = repeated mistake.
 2. **One write to CURRENT-STATUS.md** — append session log + overwrite Current State + set context pack:
    - Session log: open with a YAML meta block (machine-parseable for Opus review), then free text
    - YAML schema (required, at top of every session log):
@@ -113,7 +114,11 @@ These rules are validated across 50+ sessions. Follow them without exception.
 - For any Excel file: run sniffer first before smart extractor — see `excel-mining-protocol.md` v2.0
 
 ### Orchestration
-- **Task subagents > Agent Teams for sequential-wave analysis.** Use Agent Teams ONLY when same-wave agents need overlapping targets requiring real-time debate. (3-4× cheaper, same quality — source: patrick, confirmed session 48)
+Three distinct modes — choose based on task structure (arXiv:2512.08296, cross-validated Grok+Gemini 2026-03-16):
+- **Main thread + task subagents (centralized orchestration):** Default for parallel analysis. Main thread = orchestrator + validator. Subagents = isolated executors. Error amplification 4.4× (contained by validation). This is what we call "task subagents" — it IS centralized coordination.
+- **Single agent:** Best for sequential tasks with deep state dependencies. Coordination degrades -39% to -70% on sequential work.
+- **Agent Teams (peer debate):** ONLY when: (1) overlapping targets requiring real-time debate, (2) high-entropy exploration, AND (3) base model accuracy < ~45% baseline. Above saturation threshold (β = -0.408), adding peer agents adds noise. Rarely justified with Sonnet/Opus.
+- **Validation bottleneck is mandatory.** Without orchestrator review, isolated executors amplify errors 17.2×. PWJ loop = the validation mechanism. Never aggregate subagent outputs without review.
 - **Never skip source material — distill instead.** "SKIP IF 130K+" = false economy; $0.50 savings propagates incomplete analysis downstream. (source: patrick, confirmed session 48)
 
 ### Safety
