@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finland DMC - Järvisydän Resort</title>
+
+    <!-- Open Graph for social sharing -->
+    <meta property="og:title" content="Finland DMC - Järvisydän Resort">
+    <meta property="og:description" content="Järvisydän Resort — the heart of Finnish Lakeland. Lake Spa, award-winning dining, unique accommodations, and year-round activities on Lake Saimaa.">
+    <meta property="og:image" content="images/lakeland/jarvisydan-summer-aerial.jpg">
+    <meta property="og:type" content="website">
+
+    <!-- Shared design system v3 -->
+    <link rel="stylesheet" href="template-styles-v3.css">
+
+    <!-- Background-image slides only (cover + closing) -->
+    <style>
+        .cover-bg  { background-image: url('images/lakeland/jarvisydan-summer-aerial.jpg'); }
+        .closing-bg { background-image: url('images/lakeland/saimaa-islands-autumn-aerial.jpg'); }
+    </style>
+
+    <!-- Print / PDF — Landscape A4 -->
+    <style>
+        @page {
+            size: A4 landscape;
+            margin: 0;
+        }
+        @media print {
+            html, body {
+                margin: 0 !important;
+                padding: 0 !important;
+                width: 297mm !important;
+                background: #F8F4ED !important;
+                -webkit-print-color-adjust: exact !important;
+                print-color-adjust: exact !important;
+            }
+            .slide {
+                width: 297mm !important;
+                height: 210mm !important;
+                min-height: 210mm !important;
+                max-height: 210mm !important;
+                margin: 0 !important;
+                padding: 0 !important;
+                overflow: hidden !important;
+                box-sizing: border-box !important;
+                page-break-inside: avoid !important;
+                break-inside: avoid !important;
+                -webkit-print-color-adjust: exact !important;
+                print-color-adjust: exact !important;
+                position: relative;
+            }
+            .slide + .slide {
+                page-break-before: always !important;
+                break-before: page !important;
+            }
+            .slide:last-child {
+                page-break-after: avoid !important;
+            }
+            .slide-stats,
+            .slide-content-lr,
+            .slide-content-rl,
+            .slide-activities,
+            .slide-map,
+            .slide-product,
+            .slide-destinations {
+                height: 210mm !important;
+                min-height: 210mm !important;
+                align-items: stretch !important;
+            }
+            .photo-side,
+            .slide-activities .photo-grid,
+            .slide-content-rl .photo-side {
+                height: 210mm !important;
+                min-height: 210mm !important;
+                flex-shrink: 0 !important;
+            }
+            .text-side,
+            .stats-side,
+            .slide-map .text-side {
+                padding: 52px 55px !important;
+                height: 210mm !important;
+                overflow-y: hidden !important;
+            }
+            .slide-cover,
+            .slide-impact {
+                height: 210mm !important;
+                background-size: cover !important;
+                background-position: center !important;
+            }
+            .slide-cover .content,
+            .slide-impact .content {
+                height: 100% !important;
+            }
+            .slide-company {
+                height: 210mm !important;
+                padding: 60px !important;
+                display: flex !important;
+                align-items: center !important;
+                justify-content: center !important;
+            }
+            .slide-product {
+                padding: 52px 55px !important;
+            }
+            .slide-map .map-side img {
+                max-height: 175mm !important;
+            }
+        }
+    </style>
+
+    <script>
+    window.addEventListener('beforeprint', () => {
+        document.title = 'Finland DMC - Järvisydän Resort';
+    });
+    </script>
+</head>
+<body>
+<div id="slide-counter" class="slide-counter"></div>
+<div id="overview-container" class="overview-container"></div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 1: COVER                                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-cover cover-bg">
+    <div class="overlay"></div>
+    <div class="content">
+        <h1>Järvisydän Resort</h1>
+        <p class="tagline">The Heart of Lake Saimaa</p>
+    </div>
+    <div class="brand-bar">
+        <img src="logo.png" alt="Finland DMC">
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 2: LOCATION — Where We Are                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-rl">
+    <div class="photo-side">
+        <img src="images/general/saimaa-waterway-map.jpg"
+             style="--focal-x: 50%; --focal-y: 50%;"
+             alt="Saimaa waterway map showing Järvisydän location">
+    </div>
+    <div class="text-side">
+        <h2>Where We Are</h2>
+        <p>Järvisydän Resort is located in Rantasalmi, in the heart of the Finnish Lakeland on the shores of Lake Saimaa — Europe's fourth largest lake.</p>
+        <ul class="route-list">
+            <li><span>Helsinki (HEL)</span> <span class="time">3.5 h by train</span></li>
+            <li><span>Savonlinna</span> <span class="time">40 min by car</span></li>
+            <li><span>Linnansaari Nat. Park</span> <span class="time">30 min by boat</span></li>
+        </ul>
+        <p style="margin-top: 1.5em;">Surrounded by 4,400 km² of pristine lake, islands, and ancient forest. Linnansaari National Park — home to the endangered Saimaa ringed seal — is our neighbor, reachable by boat directly from the resort.</p>
+        <p style="font-style: italic; color: var(--text-forest);">One resort. Everything you need. On the most beautiful lake in Finland.</p>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 3: LINNANSAARI NATIONAL PARK & BOAT TRIPS             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-rl">
+    <div class="photo-side">
+        <div class="photo">
+            <img src="images/lakeland/saimaa-islands-summer-aerial.jpg"
+                 style="--focal-x: 50%; --focal-y: 45%;"
+                 alt="Saimaa islands and waterways aerial view, summer">
+        </div>
+        <div class="photo">
+            <img src="images/lakeland/wooden-boat-cruise.jpg"
+                 style="--focal-x: 50%; --focal-y: 45%;"
+                 alt="Traditional wooden boat cruise on Lake Saimaa">
+        </div>
+    </div>
+    <div class="text-side">
+        <h2>Linnansaari<br>National Park</h2>
+        <p>One of Finland's most treasured national parks lies just 30 minutes by boat from Järvisydän. A pristine archipelago of forested islands, hidden coves, and crystal-clear waters.</p>
+        <p><strong>Boat excursions</strong> depart directly from the resort — guided tours, private cruises, and the iconic M/S Puijo dinner cruise through the Saimaa waterway.</p>
+        <p><strong>Saimaa Ringed Seal</strong> — one of the world's rarest seals, with only ~450 individuals. Our guided seal safaris offer a unique chance to observe them in their natural habitat.</p>
+        <p><strong>Island experiences:</strong> Hiking trails, campfire lunch on a private island, kayak excursions through the archipelago, and sunset champagne cruises.</p>
+        <div class="feature-icons">
+            <span class="feature-icon">National Park</span>
+            <span class="feature-icon">Seal safari</span>
+            <span class="feature-icon">Boat cruises</span>
+            <span class="feature-icon">Island dining</span>
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 4: LAKE SPA                                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-rl">
+    <div class="photo-side">
+        <div class="photo">
+            <img src="images/lakeland/lakespa-hero.jpg"
+                 style="--focal-x: 50%; --focal-y: 40%;"
+                 alt="Lake Spa at Järvisydän — outdoor pools overlooking Saimaa">
+        </div>
+        <div class="photo">
+            <img src="images/lakeland/lakespa-pool.jpg"
+                 style="--focal-x: 50%; --focal-y: 50%;"
+                 alt="Lake Spa heated pool with lake views">
+        </div>
+    </div>
+    <div class="text-side">
+        <h2>Lake Spa</h2>
+        <p>Järvisydän's Lake Spa brings together the best of Finnish wellness with the Saimaa lakefront as your backdrop. Open sky, warm water, and the silence of nature.</p>
+        <p><strong>Outdoor heated pools</strong> overlooking Lake Saimaa — swim in warm water while watching the seasons change across the lake and forest.</p>
+        <p><strong>Sauna World</strong> — Traditional Finnish smoke sauna, wood-burning saunas, and cold plunge pools. The authentic sauna ritual that Finland is famous for.</p>
+        <p><strong>Treatments</strong> — Peat and herb treatments using local natural ingredients. Massage, facials, and holistic wellness packages designed around the lakeside setting.</p>
+        <div class="feature-icons">
+            <span class="feature-icon">Outdoor pools</span>
+            <span class="feature-icon">Smoke sauna</span>
+            <span class="feature-icon">Cold plunge</span>
+            <span class="feature-icon">Peat treatments</span>
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 5: SUMMER ACTIVITIES                                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-activities">
+    <div class="text-side">
+        <h2>Summer<br>Activities</h2>
+        <p class="subtitle">May — September on Lake Saimaa</p>
+        <ul class="activity-list">
+            <li>Saimaa ringed seal safari</li>
+            <li>Wooden boat lake cruises</li>
+            <li>Kayaking &amp; canoeing</li>
+            <li>Linnansaari National Park trips</li>
+            <li>Champagne sunset cruise</li>
+            <li>Fat biking forest trails</li>
+            <li>Berry &amp; mushroom foraging</li>
+            <li>Fishing excursions</li>
+            <li>Campfire dining in nature</li>
+            <li>Savonlinna Opera Festival</li>
+            <li>Olavinlinna Castle visit</li>
+            <li>Stand-up paddleboarding</li>
+        </ul>
+    </div>
+    <div class="photo-grid">
+        <div class="photo"><img src="images/lakeland/saimaa-seal.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Saimaa ringed seal"></div>
+        <div class="photo"><img src="images/lakeland/kayaking-couple.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Kayaking on Lake Saimaa"></div>
+        <div class="photo"><img src="images/lakeland/wooden-boat-cruise.jpg" style="--focal-x:50%;--focal-y:45%;" alt="Traditional wooden boat cruise"></div>
+        <div class="photo"><img src="images/lakeland/sunset-champagne.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Champagne at sunset on the lake"></div>
+        <div class="photo"><img src="images/lakeland/evening-campfire.jpg" style="--focal-x:50%;--focal-y:55%;" alt="Evening campfire by the lake"></div>
+        <div class="photo"><img src="images/lakeland/fatbike-lake-view.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Fat biking with lake view"></div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 6: WINTER ACTIVITIES                                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-activities">
+    <div class="text-side">
+        <h2>Winter<br>Activities</h2>
+        <p class="subtitle">November — April on frozen Lake Saimaa</p>
+        <ul class="activity-list">
+            <li>Cross-country skiing on lake ice</li>
+            <li>Ice fishing on frozen Saimaa</li>
+            <li>Snowshoeing through forest</li>
+            <li>Fat biking on ice trails</li>
+            <li>Ice skating on natural ice</li>
+            <li>Reindeer encounters</li>
+            <li>Northern lights viewing</li>
+            <li>Smoke sauna &amp; ice swimming</li>
+            <li>Campfire lunch on frozen lake</li>
+            <li>Snowmobile safari</li>
+            <li>Winter forest hiking</li>
+            <li>Ice karting</li>
+        </ul>
+    </div>
+    <div class="photo-grid">
+        <div class="photo"><img src="images/lakeland/ice-fishing-lakeland.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Ice fishing on frozen Saimaa lake"></div>
+        <div class="photo"><img src="images/lakeland/snowshoeing-frozen-lake.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Snowshoeing on frozen lake"></div>
+        <div class="photo"><img src="images/lakeland/jarvisydan-hiihto-1.jpg" style="--focal-x:50%;--focal-y:45%;" alt="Cross-country skiing at Järvisydän"></div>
+        <div class="photo"><img src="images/lakeland/ice-skating-couple.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Ice skating on natural ice"></div>
+        <div class="photo"><img src="images/lakeland/reindeer-lakeland.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Reindeer encounter in Lakeland winter"></div>
+        <div class="photo"><img src="images/lakeland/winter-fatbike.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Winter fat biking on ice"></div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 7: ACCOMMODATION — Scenery Suites & Kota Suites      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-rl">
+    <div class="photo-side">
+        <img src="images/lakeland/kota-glass-roof-couple.jpg"
+             style="--focal-x: 50%; --focal-y: 40%;"
+             alt="Glass roof suite — couple under the stars at Järvisydän">
+    </div>
+    <div class="text-side">
+        <h2>Scenery Suites &amp;<br>Kota Suites</h2>
+        <p><strong>Scenery Suites (Maisemasviiitit)</strong> — Our signature glass igloos. Panoramic floor-to-ceiling windows frame the lake and forest from your bed. Full-size luxury suites with private terrace, bathtub, and the glass roof experience your clients dream about.</p>
+        <p><strong>Kota Suites</strong> — Glass-roofed suites inspired by the traditional Finnish kota. The night sky and star-filled darkness become part of the room. Dark luxury interiors with lake panoramas and private terraces.</p>
+        <div class="feature-icons">
+            <span class="feature-icon">Glass roof</span>
+            <span class="feature-icon">Lake panorama</span>
+            <span class="feature-icon">Private terrace</span>
+            <span class="feature-icon">Bathtub</span>
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 8: ACCOMMODATION — Hotel, Rinnehuvilat, Panorama     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-lr">
+    <div class="text-side">
+        <h2>Hotel, Hill Villas<br>&amp; Panorama</h2>
+        <p><strong>Hotel</strong> — Comfortable hotel rooms in the heart of the resort. Modern Nordic design, easy access to all restaurants, spa, and activities. The practical base for larger groups and conference guests.</p>
+        <p><strong>Rinnehuvilat (Hill Villas)</strong> — Private hillside villas with lakeside panoramas. Spacious, self-contained, ideal for families and small groups who want their own space while staying steps from the resort's services.</p>
+        <p><strong>Panorama Rooms</strong> — Elevated rooms designed around the view. Large windows capture the lake and forest landscape in every season. A premium hotel experience with nature always in frame.</p>
+        <div class="feature-icons">
+            <span class="feature-icon">Hotel rooms</span>
+            <span class="feature-icon">Private villas</span>
+            <span class="feature-icon">Lake panorama</span>
+            <span class="feature-icon">Group capacity</span>
+        </div>
+    </div>
+    <div class="photo-side">
+        <!-- NOTE: Replace with actual rinnehuvilat/panorama photos when available -->
+        <img src="images/lakeland/web-jarvisydan/panorama-suite.jpg"
+             style="--focal-x: 50%; --focal-y: 45%;"
+             alt="Panorama accommodation at Järvisydän">
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 9: ACCOMMODATION — Houseboat, Birdnest, Lake Villa  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-activities">
+    <div class="text-side">
+        <h2>Unique<br>Accommodation</h2>
+        <p class="subtitle">Houseboat, Birdnest &amp; Lake Villa</p>
+        <p>For clients seeking something truly extraordinary — accommodation that floats on the lake, perches above the treetops, or sits right at the water's edge. These are the experiences no booking engine can offer.</p>
+        <div class="feature-icons" style="margin-top: 1.5em;">
+            <span class="feature-icon">On the water</span>
+            <span class="feature-icon">In the treetops</span>
+            <span class="feature-icon">By the lake</span>
+        </div>
+    </div>
+    <div class="photo-grid">
+        <div class="photo"><img src="images/lakeland/houseboat-summer.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Houseboat on Lake Saimaa, summer"></div>
+        <div class="photo"><img src="images/lakeland/houseboat-deck.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Houseboat deck with lake views"></div>
+        <div class="photo"><img src="images/lakeland/houseboat-autumn.jpg" style="--focal-x:50%;--focal-y:45%;" alt="Houseboat on Lake Saimaa, autumn colors"></div>
+        <!-- NOTE: Birdnest and Lake Villa photos needed — using best available alternatives -->
+        <div class="photo"><img src="images/lakeland/houseboats-aerial.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Houseboats aerial view on Saimaa"></div>
+        <div class="photo"><img src="images/lakeland/saimaa-islands-summer-aerial.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Saimaa islands — Birdnest & Lake Villa location"></div>
+        <div class="photo"><img src="images/lakeland/lakeside-suite-panorama.jpg" style="--focal-x:50%;--focal-y:50%;" alt="Lakeside accommodation with panoramic views"></div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 10: RESTAURANTS — Tavern Fire Menu & TeePee           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-rl">
+    <div class="photo-side">
+        <div class="photo">
+            <img src="images/lakeland/web-jarvisydan/fire-kitchen-dining.jpg"
+                 style="--focal-x: 50%; --focal-y: 40%;"
+                 alt="Tavern's Fire Menu — open flame cooking">
+        </div>
+        <div class="photo">
+            <img src="images/lakeland/kota-building-night-xmas.jpg"
+                 style="--focal-x: 50%; --focal-y: 50%;"
+                 alt="Traditional TeePee Restaurant — kota exterior at night">
+        </div>
+    </div>
+    <div class="text-side">
+        <h2>Tavern &amp;<br>TeePee Restaurant</h2>
+        <p><strong>Tavern's Fire Menu</strong> — Our signature dining experience. Seasonal ingredients cooked over open flame at your table — an interactive fire-cooking moment that brings the Finnish campfire tradition indoors. The scent of birch smoke, the crackle of flame, and flavors drawn directly from the forest and lake.</p>
+        <p><strong>Traditional TeePee Restaurant</strong> — The resort's iconic kota restaurant. Open-flame cooking under a traditional teepee roof. Smoked meats, grilled fish, and Finnish campfire cuisine served in an atmosphere that connects you to centuries of lakeland tradition.</p>
+        <div class="feature-icons">
+            <span class="feature-icon">Fire cooking</span>
+            <span class="feature-icon">Local ingredients</span>
+            <span class="feature-icon">Kota tradition</span>
+            <span class="feature-icon">Group dining</span>
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 11: RESTAURANTS — Solitary & Kuru                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-lr">
+    <div class="text-side">
+        <h2>Solitary &amp; Kuru</h2>
+        <p><strong>Solitary — 9th Best Restaurant in Finland</strong></p>
+        <p>An intimate fine dining concept where the chef, the ingredients, and the landscape are all within arm's reach. Ranked among Finland's top 10 restaurants. The menu changes with the seasons, the setting is the lake, and every course tells the story of Saimaa.</p>
+        <p><strong>Restaurant Kuru</strong></p>
+        <p>Contemporary Finnish cuisine in a lakeside setting. Kuru serves as the resort's culinary anchor — refined but relaxed, with a menu built around local producers and the rhythms of the Finnish seasons. Breakfast, lunch, and dinner with lake views.</p>
+        <div class="feature-icons">
+            <span class="feature-icon">Top 10 Finland</span>
+            <span class="feature-icon">Seasonal menus</span>
+            <span class="feature-icon">Lake views</span>
+            <span class="feature-icon">Local produce</span>
+        </div>
+    </div>
+    <div class="photo-side">
+        <div class="photo">
+            <img src="images/lakeland/solitary-dish-1.jpg"
+                 style="--focal-x: 50%; --focal-y: 50%;"
+                 alt="Restaurant Solitary — signature dish, 9th best in Finland">
+        </div>
+        <div class="photo">
+            <img src="images/lakeland/kuru-restaurant.jpg"
+                 style="--focal-x: 50%; --focal-y: 50%;"
+                 alt="Restaurant Kuru — contemporary Finnish dining">
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 12: RESORT AREA MAP                                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-rl" style="--photo-width: 62%;">
+    <div class="photo-side" style="flex: 0 0 62%;">
+        <img src="images/general/jarvisydan-resort-map.jpg"
+             style="--focal-x: 50%; --focal-y: 50%; object-fit: contain; background: #F8F4ED; padding: 20px;"
+             alt="Järvisydän resort area map">
+    </div>
+    <div class="text-side" style="flex: 0 0 38%;">
+        <h2>Resort Area</h2>
+        <p>All accommodation, dining, spa, and activities within walking distance — connected by forest paths along the lakeshore.</p>
+        <p><strong>Key areas:</strong></p>
+        <ul class="activity-list">
+            <li>Scenery Suites &amp; Kota Suites</li>
+            <li>Hotel &amp; Panorama rooms</li>
+            <li>Hill Villas (Rinnehuvilat)</li>
+            <li>Lake Spa &amp; Sauna World</li>
+            <li>Restaurant Kuru &amp; Solitary</li>
+            <li>Tavern &amp; TeePee Restaurant</li>
+            <li>Houseboat marina</li>
+            <li>Activity center &amp; boat departures</li>
+        </ul>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 13: CLOSING                                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-impact closing-bg">
+    <div class="overlay"></div>
+    <div class="content">
+        <h2>Welcome to the<br>Heart of Saimaa.</h2>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 14: THANK YOU & CONTACTS                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-company">
+    <div style="max-width: 680px; margin: 0 auto;">
+        <img src="logo.png" alt="Finland DMC" class="logo">
+        <p class="company-tagline">Thank you.</p>
+
+        <p class="description">Finland DMC is a specialist destination management company covering all of Finland. We craft seamless, end-to-end travel experiences for international tour operators — accommodation, dining, activities, and transfers, all in one package.</p>
+
+        <p class="description">Järvisydän is our flagship Lakeland partner. We know every room, every trail, every dish — and we bring it all together for your clients.</p>
+
+        <div class="contact-info">
+            <strong>Finland DMC Oy</strong><br>
+            sales@finland-dmc.com<br>
+            www.finland-dmc.com
+        </div>
+
+        <p class="version-banner">Finland DMC — Järvisydän Resort 2026 v1.0</p>
+    </div>
+</section>
+
+<script src="presentation-mode.js"></script>
+</body>
+</html>
