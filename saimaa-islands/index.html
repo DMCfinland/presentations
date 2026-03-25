@@ -1,20 +1,74 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" type="image/png" href="/presentations/saimaa-islands/favicon.png" />
-    <title>Saimaa Islands — Private Island Investment on Lake Saimaa, Finland</title>
-    <meta name="description" content="A private island network investment on Lake Saimaa, Finland — inside Europe's last great freshwater wilderness. Natura 2000 protected zone. Minimum €10,000 entry." />
-    <meta name="author" content="Saimaa Islands Oy" />
-    <meta property="og:title" content="Saimaa Islands — Private Island Investment" />
-    <meta property="og:description" content="Assembling a private island network on Lake Saimaa, Finland. Natura 2000 protected zone. From €10,000." />
-    <meta property="og:type" content="website" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <script type="module" crossorigin src="/presentations/saimaa-islands/assets/index-rvL2fg9K.js"></script>
-    <link rel="stylesheet" crossorigin href="/presentations/saimaa-islands/assets/index-DwW8bst_.css">
-  </head>
-  <body>
-    <div id="root"></div>
-  </body>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <title>Saimaa Islands — Private Island Investment</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: Georgia, serif;
+      background: #1a2e1a;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .card {
+      background: #f5f0e8;
+      padding: 60px 80px;
+      text-align: center;
+      max-width: 480px;
+      width: 90%;
+    }
+    .logo {
+      font-size: 11px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #8B4513;
+      margin-bottom: 32px;
+    }
+    h1 {
+      font-size: 28px;
+      color: #2C4A2E;
+      margin-bottom: 8px;
+      font-weight: normal;
+    }
+    .sub {
+      font-size: 14px;
+      color: #666;
+      margin-bottom: 40px;
+    }
+    .btn {
+      display: block;
+      padding: 16px 32px;
+      margin: 12px 0;
+      text-decoration: none;
+      font-size: 14px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      transition: opacity 0.2s;
+    }
+    .btn:hover { opacity: 0.85; }
+    .btn-de {
+      background: #2C4A2E;
+      color: white;
+    }
+    .btn-en {
+      background: transparent;
+      color: #2C4A2E;
+      border: 1.5px solid #2C4A2E;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="logo">Saimaa Islands</div>
+    <h1>Private Island Investment</h1>
+    <p class="sub">Lake Saimaa, Finland</p>
+    <a class="btn btn-de" href="deck-de.html">Auf Deutsch lesen</a>
+    <a class="btn btn-en" href="deck-en.html">Read in English</a>
+  </div>
+</body>
 </html>
