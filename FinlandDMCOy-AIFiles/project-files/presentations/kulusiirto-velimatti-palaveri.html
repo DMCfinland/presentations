@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kulusiirto Rantasalmelle — Päätöspalaveri 21.3.2026</title>
+    <link rel="stylesheet" href="template-styles-v3.css">
+    <style>
+        .cover-bg   { background-image: url('images/lakeland/xc-ski-mining/jarvisydan-winter-aerial.jpg'); background-position: center 60%; }
+        .closing-bg { background-image: url('images/lakeland/jys-aerial-resort-autumn.jpg'); background-position: center 45%; }
+
+        :root { --dark: #1C1C1C; --accent: #D4AF37; }
+
+        /* LUOTTAMUKSELLINEN */
+        .confidential-badge {
+            position: absolute; top: 24px; right: 60px; z-index: 3;
+            font-family: 'Montserrat', sans-serif; font-size: 0.7rem; font-weight: 600;
+            letter-spacing: 0.12em; text-transform: uppercase; color: rgba(255,255,255,0.7);
+            border: 1px solid rgba(255,255,255,0.35); padding: 4px 10px; border-radius: 2px;
+        }
+        /* COVER TAGLINE SMALL */
+        .cover-goal {
+            margin-top: 16px; font-family: 'Montserrat', sans-serif; font-size: 0.95rem;
+            font-weight: 500; opacity: 0.9; letter-spacing: 0.04em; color: #f0e8d0;
+        }
+
+        /* GOALS SLIDE — two-column layout */
+        .slide-goals {
+            display: flex; flex-direction: column; justify-content: center;
+            padding: 56px 80px; background: var(--cream); min-height: 100vh;
+        }
+        .slide-goals h2 {
+            font-family: 'Cormorant Garamond', Georgia, serif; font-size: 2.4rem;
+            font-weight: 600; margin-bottom: 36px; color: var(--dark);
+        }
+        .goals-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; }
+        .goal-col { padding: 28px 32px; border-radius: 4px; }
+        .goal-col.yes { background: rgba(45,122,45,0.07); border-left: 5px solid #2d7a2d; }
+        .goal-col.no  { background: rgba(180,30,30,0.06); border-left: 5px solid #b41e1e; }
+        .goal-col h3 {
+            font-family: 'Montserrat', sans-serif; font-size: 0.78rem; font-weight: 700;
+            text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 16px;
+        }
+        .goal-col.yes h3 { color: #2d7a2d; }
+        .goal-col.no h3  { color: #b41e1e; }
+        .goal-col ul { list-style: none; padding: 0; margin: 0; }
+        .goal-col ul li {
+            font-family: 'Montserrat', sans-serif; font-size: 0.93rem; font-weight: 300;
+            color: var(--dark); padding: 9px 0; border-bottom: 1px solid rgba(0,0,0,0.07);
+            line-height: 1.5;
+        }
+        .goal-col ul li:last-child { border-bottom: none; }
+        .goal-col ul li strong { font-weight: 700; color: var(--dark); }
+        .goals-footnote {
+            margin-top: 24px; font-family: 'Montserrat', sans-serif; font-size: 0.82rem;
+            color: #666; font-style: italic;
+        }
+
+        /* TABLE SLIDES */
+        .slide-table {
+            display: flex; flex-direction: column; justify-content: center;
+            padding: 56px 80px; background: var(--cream); min-height: 100vh;
+        }
+        .slide-table h2 {
+            font-family: 'Cormorant Garamond', Georgia, serif; font-size: 2.2rem;
+            font-weight: 600; margin-bottom: 8px; color: var(--dark);
+        }
+        .slide-table .table-subtitle {
+            font-family: 'Montserrat', sans-serif; font-size: 0.88rem; font-weight: 300;
+            color: #666; font-style: italic; margin-bottom: 28px;
+        }
+        .data-table {
+            width: 100%; border-collapse: collapse;
+            font-family: 'Montserrat', sans-serif; font-size: 0.87rem;
+        }
+        .data-table th {
+            background: var(--dark); color: var(--cream); padding: 11px 16px;
+            text-align: left; font-weight: 600; letter-spacing: 0.05em;
+            text-transform: uppercase; font-size: 0.71rem;
+        }
+        .data-table td {
+            padding: 12px 16px; border-bottom: 1px solid rgba(0,0,0,0.08);
+            color: var(--dark); vertical-align: top; line-height: 1.5;
+        }
+        .data-table tr:last-child td { border-bottom: none; }
+        .data-table tr:hover td { background: rgba(0,0,0,0.02); }
+        .highlight-row td { font-weight: 700; background: rgba(212,175,55,0.09); }
+        .total-row td { font-weight: 700; color: var(--dark); background: rgba(212,175,55,0.15); font-size: 0.93rem; }
+        .negative-row td { font-weight: 600; color: #2d7a2d; background: rgba(45,122,45,0.06); }
+        .green { color: #2d7a2d; font-weight: 700; }
+        .footnote { margin-top: 16px; font-family: 'Montserrat', sans-serif; font-size: 0.76rem; color: #8A8A8A; font-style: italic; }
+
+        /* NEGOTIATION POWER SLIDE — uses T3 base with custom text-side tables */
+        .neuvottelu-tables { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin-top: 8px; }
+        .neuvottelu-table-block h4 {
+            font-family: 'Montserrat', sans-serif; font-size: 0.76rem; font-weight: 700;
+            text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 10px;
+        }
+        .neuvottelu-table-block.saa h4 { color: #2d7a2d; }
+        .neuvottelu-table-block.antaa h4 { color: #b41e1e; }
+        .mini-data-table { width: 100%; border-collapse: collapse; font-family: 'Montserrat', sans-serif; font-size: 0.78rem; }
+        .mini-data-table td { padding: 6px 8px; border-bottom: 1px solid rgba(0,0,0,0.07); color: var(--dark); vertical-align: top; }
+        .mini-data-table td:last-child { text-align: right; font-weight: 600; }
+        .mini-data-table tr.total-mini td { font-weight: 700; font-size: 0.82rem; border-top: 2px solid rgba(0,0,0,0.15); border-bottom: none; padding-top: 8px; }
+        .roi-callout {
+            margin-top: 20px; background: rgba(212,175,55,0.1); border-left: 4px solid var(--accent);
+            padding: 12px 16px;
+        }
+        .roi-callout strong { font-size: 1.1rem; color: var(--dark); }
+        .roi-callout span { font-size: 0.85rem; color: #5A5A5A; }
+
+        /* VASTAVÄITTEET SLIDE */
+        .script-pairs { list-style: none; padding: 0; margin: 0; }
+        .script-pairs li { margin-bottom: 16px; line-height: 1.6; }
+        .objection {
+            font-family: 'Montserrat', sans-serif; font-size: 0.88rem; font-weight: 600;
+            color: var(--dark); display: block; margin-bottom: 4px;
+        }
+        .response {
+            font-family: 'Montserrat', sans-serif; font-size: 0.87rem; font-weight: 300;
+            color: #5A5A5A; display: block; padding-left: 16px;
+            border-left: 3px solid var(--accent);
+        }
+
+        /* MEETING TABLE SLIDE */
+        .meeting-table { width: 100%; border-collapse: collapse; font-family: 'Montserrat', sans-serif; font-size: 0.84rem; }
+        .meeting-table th { background: var(--dark); color: var(--cream); padding: 11px 14px; text-align: left; font-size: 0.7rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; }
+        .meeting-table td { padding: 12px 14px; border-bottom: 1px solid rgba(0,0,0,0.07); color: var(--dark); vertical-align: top; line-height: 1.5; }
+        .meeting-table td em { font-style: italic; font-size: 0.82rem; color: #666; }
+        .meeting-table tr:last-child td { border-bottom: none; }
+        .meeting-note { margin-top: 20px; font-family: 'Montserrat', sans-serif; font-size: 0.82rem; color: #666; font-style: italic; border-top: 1px solid rgba(0,0,0,0.1); padding-top: 12px; }
+
+        /* CHECKLIST SLIDE */
+        .slide-checklist {
+            display: flex; flex-direction: column; justify-content: center;
+            padding: 56px 100px; background: var(--cream); min-height: 100vh;
+        }
+        .slide-checklist h2 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 2.4rem; font-weight: 600; margin-bottom: 36px; color: var(--dark); }
+        .checklist-items { display: flex; flex-direction: column; gap: 0; }
+        .checklist-item { display: flex; align-items: flex-start; gap: 14px; font-family: 'Montserrat', sans-serif; font-size: 0.92rem; color: var(--dark); padding: 11px 0; border-bottom: 1px solid rgba(0,0,0,0.07); }
+        .checklist-item:last-child { border-bottom: none; }
+        .checkbox { width: 20px; height: 20px; border: 2px solid var(--dark); border-radius: 3px; flex-shrink: 0; margin-top: 1px; }
+        .checklist-label { flex: 1; line-height: 1.5; }
+        .checklist-label strong { font-weight: 700; }
+        .checklist-options { font-size: 0.78rem; color: #888; margin-left: 4px; }
+
+        /* PHOTO FILLS */
+        .photo-single { flex: 1; min-height: 100vh; position: relative; overflow: hidden; }
+    </style>
+    <script>
+    window.addEventListener('beforeprint', () => {
+        document.title = 'Kulusiirto-Velimatti-21032026';
+    });
+    </script>
+</head>
+<body>
+<div id="slide-counter" class="slide-counter"></div>
+<div id="overview-container" class="overview-container"></div>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SLIDE 1: OTSIKKO                                   -->
+<!-- ═══════════════════════════════════════════════════ -->
+<section class="slide slide-cover cover-bg">
+    <div class="overlay"></div>
+    <div class="confidential-badge">Luottamuksellinen</div>
+    <div class="content">
+        <h1>Kulusiirto Rantasalmelle</h1>
+        <p class="tagline">Tavoite: 80 000 €/v (2027) — 100 000 €/v (2028)</p>
+        <p class="cover-goal">21.3.2026 | Markus &amp; Velimatti</p>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SLIDE 2: TAVOITTEET (EI NEUVOTELTAVISSA)           -->
+<!-- ═══════════════════════════════════════════════════ -->
+<section class="slide slide-goals">
+    <h2>Mitä tavoittelemme — ja mitä emme hyväksy</h2>
+    <div class="goals-grid">
+        <div class="goal-col yes">
+            <h3>✅ TAVOITE</h3>
+            <ul>
+                <li><strong>2027: 80 000 €/v</strong> kuluja siirretty kunnalle</li>
+                <li><strong>2028: 100 000 €+/v</strong> — kasvu jatkuu</li>
+                <li><strong>Visio: 200 000 €/v</strong> — täysi infrakumppanuus</li>
+            </ul>
+        </div>
+        <div class="goal-col no">
+            <h3>❌ EI HYVÄKSYTÄ</h3>
+            <ul>
+                <li>Pelkkä vesiliikenne 10–20k = murusia</li>
+                <li>"Katsotaan ensi vuonna" ilman kirjallista sitoumusta</li>
+                <li>Suullinen lupaus ilman talousarviokirjausta</li>
+            </ul>
+        </div>
+    </div>
+    <p class="goals-footnote">Jos Rainer tarjoaa pelkän vesiliikennepilotoinnin 15k:lla — se on viivytys, ei onnistuminen. Meidän pitää olla yhtä mieltä tästä ennen tapaamista.</p>
+</section>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SLIDE 3: MIKSI MEILLÄ ON NEUVOTTELUVOIMA          -->
+<!-- ═══════════════════════════════════════════════════ -->
+<section class="slide slide-content-lr">
+    <div class="text-side" style="max-width: 58%;">
+        <h2>Kunta tarvitsee meitä<br>enemmän kuin me kuntaa</h2>
+        <div class="neuvottelu-tables">
+            <div class="neuvottelu-table-block saa">
+                <h4>Mitä kunta SAA meiltä (vuosittain)</h4>
+                <table class="mini-data-table">
+                    <tr><td>Kunnallisvero (80–90 hlö)</td><td>190–250 k€</td></tr>
+                    <tr><td>Kiinteistövero</td><td>50–150 k€</td></tr>
+                    <tr><td>Yhteisövero-osuus</td><td>5–30 k€</td></tr>
+                    <tr><td>Kerrannaisvaikutukset</td><td>50–100 k€</td></tr>
+                    <tr class="total-mini"><td><strong>YHTEENSÄ</strong></td><td><strong>300–500 k€</strong></td></tr>
+                </table>
+            </div>
+            <div class="neuvottelu-table-block antaa">
+                <h4>Mitä kunta ANTAA vastineeksi</h4>
+                <table class="mini-data-table">
+                    <tr><td>Matkailuinfra Porosalmelle</td><td>0 €</td></tr>
+                    <tr><td>Matkailuhankkeet</td><td>3 000 €</td></tr>
+                    <tr><td>Yksityistieavustus (osuus)</td><td>~2–5 k€</td></tr>
+                    <tr class="total-mini"><td><strong>YHTEENSÄ</strong></td><td><strong>~5–8 k€</strong></td></tr>
+                </table>
+            </div>
+        </div>
+        <div class="roi-callout">
+            <strong>31–80× tuotto</strong>&nbsp;
+            <span>Kunta investoi 5–8 t€ ja saa 300–500 t€ takaisin. Meillä on absoluuttinen neuvotteluvoima — nyt käytämme sen.</span>
+        </div>
+    </div>
+    <div class="photo-side">
+        <img src="images/lakeland/lkl-acc-houseboats-aerial.jpg"
+             style="--focal-x: 50%; --focal-y: 50%;"
+             alt="Järvisydän houseboats ilmasta">
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SLIDE 4: LIEKSA-KORTTI (TAKTINEN)                 -->
+<!-- ═══════════════════════════════════════════════════ -->
+<section class="slide slide-content-lr">
+    <div class="text-side">
+        <h2>Malli on jo olemassa —<br>Lieksa 2026</h2>
+        <p style="font-size: 1rem; font-weight: 300; color: #5A5A5A; line-height: 1.8;">Lieksan kaupunki solmi markkinointisopimuksen risteilyliikenteen tukemiseksi. <strong>10 000 €/kausi</strong> — Heinäkuu + Elokuu (aiemmin vain Heinäkuu). Kolin matkailukeskus auki pidempään → enemmän verotuloja.</p>
+        <p style="font-size: 1rem; font-weight: 300; color: #5A5A5A; line-height: 1.8;">Laajennettavissa: <strong>+10 000 € = +Syyskuu</strong>.</p>
+        <p style="font-size: 0.78rem; color: #8A8A8A; margin-bottom: 20px; font-style: italic;">Lähde: Petri Korhonen, varmennettu 19.3.2026</p>
+        <div style="background: rgba(212,175,55,0.1); border-left: 4px solid #D4AF37; padding: 14px 16px; margin-top: 8px;">
+            <strong style="font-size: 0.85rem; color: var(--dark);">TAKTINEN KÄYTTÖ — EI STRATEGINEN:</strong>
+            <p style="font-size: 0.87rem; font-weight: 300; color: #5A5A5A; margin-top: 6px; line-height: 1.6;">Lieksa avaa oven Rainerin kanssa. Meidän tavoite on <strong>kymmenkertaisesti isompi</strong> — 80 000 €, ei 10 000 €.</p>
+        </div>
+    </div>
+    <div class="photo-side">
+        <img src="images/lakeland/ms-puijo-cruise.jpg"
+             style="--focal-x: 50%; --focal-y: 50%;"
+             alt="MS Puijo risteilyalus Saimaalla">
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SLIDE 5: KOLME TOIMENPIDETTÄ YHDESSÄ              -->
+<!-- ═══════════════════════════════════════════════════ -->
+<section class="slide slide-table">
+    <h2>Pyydämme kaikkia kolmea — heti — vuodelle 2027</h2>
+    <p class="table-subtitle">EU-rahoituksen (Leader/EAKR) jälkeen nettokustannus kunnalle on 30–50 000 €/v</p>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>Toimenpide</th>
+                <th>Sisältö</th>
+                <th>Nettokustannus kunnalle / vuosi</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>1. Tieinfra</strong></td>
+                <td>Auraus, hiekoitus, valaistus, pysäköinti</td>
+                <td>~15 000–20 000 €</td>
+            </tr>
+            <tr>
+                <td><strong>2. Ulkoilureitistö</strong></td>
+                <td>Ladut, jääreitit, luontopolut, tulipaikat</td>
+                <td>~20 000–30 000 €</td>
+            </tr>
+            <tr>
+                <td><strong>3. Vesiliikenne</strong></td>
+                <td>Markkinointisopimus Heinäkuu + Elokuu (Lieksa-malli)</td>
+                <td>~10 000–20 000 €</td>
+            </tr>
+            <tr class="negative-row">
+                <td><strong>EU-rahoitus (Leader/EAKR)</strong></td>
+                <td>Kattaa tyypillisesti 50–70 % investoinneista</td>
+                <td class="green">−25 000–40 000 €</td>
+            </tr>
+            <tr class="total-row">
+                <td><strong>NETTO KUNNALLE</strong></td>
+                <td></td>
+                <td><strong>~30 000–50 000 €/v</strong></td>
+            </tr>
+        </tbody>
+    </table>
+    <p class="footnote">Netto 30–50k vastineeksi 300–500k verotulosta = 6–15× tuotto. Yksikään pankki ei tarjoa tätä.</p>
+</section>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SLIDE 6: RAINERIN VASTAVÄITTEIDEN VALMISTELU      -->
+<!-- ═══════════════════════════════════════════════════ -->
+<section class="slide slide-content-rl">
+    <div class="photo-side">
+        <div class="photo-single">
+            <img src="images/lakeland/lkl-act-campfire-summer.jpg"
+                 style="--focal-x: 50%; --focal-y: 55%;"
+                 alt="Nuotio illalla">
+        </div>
+    </div>
+    <div class="text-side">
+        <h2>Mitä Rainer sanoo —<br>ja mitä me vastataan</h2>
+        <ul class="script-pairs">
+            <li>
+                <span class="objection">"Talous ei kestä."</span>
+                <span class="response">Netto 30–50k. EU kattaa 50–70 %. Vastineeksi saat 300–500k verotulot turvatuksi. Ei yhtäkään pankkia jossa tämä ei menisi läpi.</span>
+            </li>
+            <li>
+                <span class="objection">"Tasapuolisuus — miten muut alueet?"</span>
+                <span class="response">Kunta hoitaa latuja jo muualla Rantasalmessa. Porosalmi on kunnan nimetty kärkikohde — huonoin palvelutaso kärkikohteessa ei ole tasapuolista.</span>
+            </li>
+            <li>
+                <span class="objection">"Valtuusto ei hyväksy."</span>
+                <span class="response">Sotkamo 3,3 M€, Lieksa 10k — nämä ovat yleisiä käytäntöjä. Kukaan valtuutettu ei äänestä matkailua vastaan julkisesti kun 80–90 työpaikkaa on kyseessä.</span>
+            </li>
+            <li>
+                <span class="objection">"Aloitetaan pienellä pilotilla."</span>
+                <span class="response">Ymmärrämme. Mutta pilotti ilman sitoutumista jatkolle ei riitä. Haluamme talousarviokirjauksen 2027 ja kirjallisen suunnitelman kaikille kolmelle toimenpiteelle viimeistään 2028.</span>
+            </li>
+        </ul>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SLIDE 7: TAPAAMISEN KULKU RAINERIN KANSSA         -->
+<!-- ═══════════════════════════════════════════════════ -->
+<section class="slide slide-table">
+    <h2>Miten Rainer-tapaaminen menee — vaihe vaiheelta</h2>
+    <table class="meeting-table">
+        <thead>
+            <tr>
+                <th>Vaihe</th>
+                <th>Aika</th>
+                <th>Sisältö</th>
+                <th>Avainlause</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Kiitos + tilannekuva</strong></td>
+                <td>5 min</td>
+                <td>80–90 tp, 300–500k verotulot</td>
+                <td><em>"Kunta saa meiltä 300–500k vuodessa"</em></td>
+            </tr>
+            <tr>
+                <td><strong>Vertailu</strong></td>
+                <td>5 min</td>
+                <td>Sotkamo, Lieksa — normaali käytäntö</td>
+                <td><em>"Muualla tämä on itsestäänselvyys"</em></td>
+            </tr>
+            <tr>
+                <td><strong>Ehdotus</strong></td>
+                <td>5 min</td>
+                <td>Kaikki 3 toimenpidettä + euroreaalita</td>
+                <td><em>"30–50k netto, 300–500k suoja"</em></td>
+            </tr>
+            <tr>
+                <td><strong>YES Package</strong></td>
+                <td>3 min</td>
+                <td>Paperi pöydälle — kaikki valmiina</td>
+                <td><em>"Ei tarvitse tehdä mitään — tässä on kaikki"</em></td>
+            </tr>
+            <tr>
+                <td><strong>Seuraava askel</strong></td>
+                <td>5 min</td>
+                <td>Talousarviokirjaus syyskuu 2026</td>
+                <td><em>"Miten etenee? Mitä tarvitset?"</em></td>
+            </tr>
+        </tbody>
+    </table>
+    <p class="meeting-note">Muista: Rainer ei saa päätöstä tänään — hän saa paperin ja tietää mitä haluamme. Anna hänen ottaa omistajuus seuraavasta askeleesta.</p>
+</section>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SLIDE 8: TÄNÄÄN PÄÄTETÄÄN                         -->
+<!-- ═══════════════════════════════════════════════════ -->
+<section class="slide slide-checklist">
+    <h2>Ennen kuin lähdemme täältä</h2>
+    <div class="checklist-items">
+        <div class="checklist-item">
+            <div class="checkbox"></div>
+            <div class="checklist-label"><strong>Tavoite sovittu:</strong> 80k/2027, 100k+/2028 — pakollinen, ei neuvoteltavissa <span class="checklist-options">✓ / ✗</span></div>
+        </div>
+        <div class="checklist-item">
+            <div class="checkbox"></div>
+            <div class="checklist-label"><strong>Strategia:</strong> Pyydämme kaikkia kolmea toimenpidettä Rainerilta — ei pienoisversiota <span class="checklist-options">✓ / ✗</span></div>
+        </div>
+        <div class="checklist-item">
+            <div class="checkbox"></div>
+            <div class="checklist-label"><strong>Velimatin sähköposti</strong> → T1:een tänään <span class="checklist-options">✓ / ✗</span></div>
+        </div>
+        <div class="checklist-item">
+            <div class="checkbox"></div>
+            <div class="checklist-label"><strong>Metsähallitus-kirje:</strong> kuka lähettää ma 24.3.? <span class="checklist-options">✓ / ✗</span></div>
+        </div>
+        <div class="checklist-item">
+            <div class="checkbox"></div>
+            <div class="checklist-label"><strong>Rainer-ennakkomateriaali:</strong> lähetetäänkö pe-iltana? <span class="checklist-options">✓ / ✗</span></div>
+        </div>
+        <div class="checklist-item">
+            <div class="checkbox"></div>
+            <div class="checklist-label"><strong>Aku Kärki:</strong> mitä kysytään pe-iltana? <span class="checklist-options">✓ / ✗</span></div>
+        </div>
+        <div class="checklist-item">
+            <div class="checkbox"></div>
+            <div class="checklist-label"><strong>Lausunto:</strong> la 22.3. tai su 23.3. lausuntopalvelu.fi:ssä <span class="checklist-options">✓ / ✗</span></div>
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SLIDE 9: SULKU                                     -->
+<!-- ═══════════════════════════════════════════════════ -->
+<section class="slide slide-impact closing-bg">
+    <div class="overlay"></div>
+    <div class="content">
+        <h2>"300–500 tuhatta verotuloja vuodessa.<br>80–90 rantasalmelaista perhettä.<br>Pyyntö: 30–50 tuhatta netto — EU:n tukemana.<br>Tätä ei voi järjellä kieltää."</h2>
+    </div>
+</section>
+
+<script src="presentation-mode.js"></script>
+</body>
+</html>

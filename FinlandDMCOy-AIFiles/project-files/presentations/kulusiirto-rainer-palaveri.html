@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rantasalmen matkailun kasvuinvestointi</title>
+    <link rel="stylesheet" href="template-styles-v3.css">
+    <style>
+        .cover-bg   { background-image: url('images/lakeland/lkl-aerial-saimaa-summer.jpg'); background-position: center 50%; }
+        .closing-bg { background-image: url('images/lakeland/jys-aerial-resort-autumn.jpg'); background-position: center 45%; }
+
+        :root { --dark: #1C1C1C; --accent: #D4AF37; }
+
+        /* TABLE SLIDES */
+        .slide-table {
+            display: flex; flex-direction: column; justify-content: center;
+            padding: 52px 80px; background: var(--cream); min-height: 100vh;
+        }
+        .slide-table h2 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 2.2rem; font-weight: 600; margin-bottom: 8px; color: var(--dark); }
+        .slide-table .subtitle { font-family: 'Montserrat', sans-serif; font-size: 0.88rem; font-weight: 300; color: #666; font-style: italic; margin-bottom: 24px; }
+        .data-table { width: 100%; border-collapse: collapse; font-family: 'Montserrat', sans-serif; font-size: 0.87rem; }
+        .data-table th { background: var(--dark); color: var(--cream); padding: 11px 16px; text-align: left; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; font-size: 0.7rem; }
+        .data-table td { padding: 12px 16px; border-bottom: 1px solid rgba(0,0,0,0.08); color: var(--dark); vertical-align: top; line-height: 1.5; }
+        .data-table tr:last-child td { border-bottom: none; }
+        .total-row td { font-weight: 700; background: rgba(212,175,55,0.12); font-size: 0.93rem; }
+        .negative-row td { font-weight: 600; color: #2d7a2d; background: rgba(45,122,45,0.06); }
+        .highlight-row td { background: rgba(212,175,55,0.07); }
+        .green { color: #2d7a2d; font-weight: 700; }
+        .red { color: #b41e1e; font-weight: 700; }
+        .footnote { margin-top: 14px; font-family: 'Montserrat', sans-serif; font-size: 0.76rem; color: #8A8A8A; font-style: italic; }
+
+        /* ROI COMPARISON SLIDE — dual table */
+        .roi-section-label {
+            font-family: 'Montserrat', sans-serif; font-size: 0.76rem; font-weight: 700;
+            text-transform: uppercase; letter-spacing: 0.08em; margin: 20px 0 8px; color: var(--dark);
+        }
+        .roi-section-label:first-of-type { margin-top: 0; }
+        .roi-note {
+            font-family: 'Montserrat', sans-serif; font-size: 0.8rem; font-weight: 300;
+            color: #666; font-style: italic; margin: 4px 0 0;
+        }
+
+        /* BIG NUMBER SLIDE (T2 variant for Slide 2) */
+        .slide-stats .big-number {
+            font-family: 'Montserrat', sans-serif; font-size: clamp(3rem,6vw,5rem);
+            font-weight: 700; color: var(--accent); line-height: 1; margin-bottom: 4px;
+        }
+        .slide-stats .big-label {
+            font-family: 'Montserrat', sans-serif; font-size: 0.88rem; font-weight: 400;
+            color: #5A5A5A; text-transform: uppercase; letter-spacing: 0.06em;
+            margin-bottom: 24px;
+        }
+        .income-table { width: 100%; border-collapse: collapse; font-family: 'Montserrat', sans-serif; font-size: 0.82rem; }
+        .income-table thead tr th { background: var(--dark); color: var(--cream); padding: 8px 12px; text-align: left; font-size: 0.7rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; }
+        .income-table tbody tr td { padding: 8px 12px; border-bottom: 1px solid rgba(0,0,0,0.07); color: var(--dark); }
+        .income-table tbody tr.total td { font-weight: 700; background: rgba(212,175,55,0.1); font-size: 0.85rem; }
+        .source-small { font-size: 0.72rem; color: #8A8A8A; font-style: italic; margin-top: 10px; }
+
+        /* RISK/LOSS SLIDE */
+        .risk-scenario {
+            font-family: 'Montserrat', sans-serif; font-size: 0.88rem; font-weight: 600;
+            color: var(--dark); margin-bottom: 12px; padding: 10px 14px;
+            background: rgba(180,30,30,0.05); border-left: 4px solid #b41e1e;
+        }
+
+        /* CARDS SLIDE */
+        .slide-cards { display: flex; flex-direction: column; justify-content: center; padding: 56px 80px; background: var(--cream); min-height: 100vh; }
+        .slide-cards h2 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 2.2rem; font-weight: 600; margin-bottom: 6px; color: var(--dark); }
+        .cards-intro { font-family: 'Montserrat', sans-serif; font-size: 0.88rem; font-weight: 300; color: #666; font-style: italic; margin-bottom: 32px; }
+        .cards-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 22px; }
+        .card { background: white; border: 1px solid rgba(0,0,0,0.08); border-radius: 4px; padding: 26px 26px 22px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+        .card-icon { font-size: 1.8rem; margin-bottom: 10px; }
+        .card h3 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.3rem; font-weight: 600; margin-bottom: 7px; color: var(--dark); }
+        .card p { font-family: 'Montserrat', sans-serif; font-size: 0.82rem; color: #666; line-height: 1.5; margin: 0; }
+
+        /* ASK SPLIT SLIDE */
+        .ask-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; margin-top: 24px; }
+        .ask-col { padding: 24px 28px; border-radius: 4px; }
+        .ask-col.no-ask { background: rgba(180,30,30,0.05); border-left: 5px solid #b41e1e; }
+        .ask-col.yes-ask { background: rgba(45,122,45,0.07); border-left: 5px solid #2d7a2d; }
+        .ask-col h3 { font-family: 'Montserrat', sans-serif; font-size: 0.76rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 14px; }
+        .ask-col.no-ask h3 { color: #b41e1e; }
+        .ask-col.yes-ask h3 { color: #2d7a2d; }
+        .ask-col ul { list-style: none; padding: 0; margin: 0; }
+        .ask-col ul li { font-family: 'Montserrat', sans-serif; font-size: 0.9rem; font-weight: 300; color: var(--dark); padding: 8px 0; border-bottom: 1px solid rgba(0,0,0,0.07); line-height: 1.5; }
+        .ask-col ul li:last-child { border-bottom: none; }
+        .ask-col ul li strong { font-weight: 600; }
+        .rainer-question { margin-top: 28px; font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.3rem; font-style: italic; color: var(--dark); border-top: 1px solid rgba(0,0,0,0.1); padding-top: 20px; }
+
+        /* CONTENT EXTRAS */
+        .bullet-list { list-style: none; padding: 0; margin: 0; }
+        .bullet-list li { font-family: 'Montserrat', sans-serif; font-size: 0.95rem; font-weight: 300; color: #5A5A5A; padding: 7px 0 7px 1.4em; line-height: 1.65; border-bottom: 1px solid rgba(0,0,0,0.06); position: relative; }
+        .bullet-list li:last-child { border-bottom: none; }
+        .bullet-list li::before { content: ''; position: absolute; left: 0; top: 0.8em; width: 6px; height: 6px; border-radius: 50%; background: var(--accent); }
+        .bullet-list li strong { color: var(--dark); font-weight: 600; }
+        .key-idea { margin-top: 18px; font-style: italic; font-size: 0.93rem; color: #5A5A5A; border-left: 3px solid var(--accent); padding-left: 14px; line-height: 1.6; }
+
+        /* PHOTO FILLS */
+        .photo-single { flex: 1; min-height: 100vh; position: relative; overflow: hidden; }
+    </style>
+    <script>
+    window.addEventListener('beforeprint', () => {
+        document.title = 'Rantasalmen-matkailun-kasvuinvestointi';
+    });
+    </script>
+</head>
+<body>
+<div id="slide-counter" class="slide-counter"></div>
+<div id="overview-container" class="overview-container"></div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 1: OTSIKKO                                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-cover cover-bg">
+    <div class="overlay"></div>
+    <div class="content">
+        <h1>Rantasalmen matkailun kasvuinvestointi</h1>
+        <p class="tagline">Miten 30–50 000 € tuottaa 300–500 000 € vuodessa</p>
+        <p style="margin-top: 20px; font-family: 'Montserrat', sans-serif; font-size: 0.85rem; font-weight: 300; opacity: 0.85; letter-spacing: 0.05em;">Markus Heiskanen &amp; Velimatti Koivula — Porosalmen matkailuyrityskylä</p>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 2: MITÄ RANTASALMI SAA                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-stats">
+    <div class="photo-side">
+        <img src="images/lakeland/loon-catching-fish.jpg"
+             style="--focal-x: 50%; --focal-y: 40%;"
+             alt="Kuikka Saimaalla">
+    </div>
+    <div class="stats-side">
+        <h2>Porosalmi tuottaa Rantasalmelle<br>300–500 000 € vuodessa</h2>
+        <div class="big-number">300–500 k€</div>
+        <div class="big-label">Kokonaistalousvaikutus kunnalle vuosittain</div>
+        <table class="income-table">
+            <thead>
+                <tr>
+                    <th>Tuloerä</th>
+                    <th>Alaraja</th>
+                    <th>Yläraja</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Kunnallisvero (80–90 tp)</td>
+                    <td>190 000 €</td>
+                    <td>250 000 €</td>
+                </tr>
+                <tr>
+                    <td>Kiinteistövero</td>
+                    <td>50 000 €</td>
+                    <td>150 000 €</td>
+                </tr>
+                <tr>
+                    <td>Yhteisövero-osuus</td>
+                    <td>5 000 €</td>
+                    <td>30 000 €</td>
+                </tr>
+                <tr>
+                    <td>Kerrannaisvaikutukset</td>
+                    <td>50 000 €</td>
+                    <td>100 000 €</td>
+                </tr>
+                <tr class="total">
+                    <td><strong>Yhteensä</strong></td>
+                    <td><strong>295 000 €</strong></td>
+                    <td><strong>530 000 €</strong></td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="source-small">Lähde: talousanalyysi + kunnan talousarvio 2025</p>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 3: MITÄ KUNTA ANTAA VASTINEEKSI                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-table">
+    <h2>Vertailu: mitä kunta antaa — ja mitä se saa</h2>
+    <p class="roi-section-label">NYKYTILANNE</p>
+    <table class="data-table">
+        <thead>
+            <tr><th></th><th>Kunta panostaa</th><th>Kunta saa</th><th>Tuottokerroin</th></tr>
+        </thead>
+        <tbody>
+            <tr class="highlight-row">
+                <td><strong>Porosalmi (2025)</strong></td>
+                <td>~5 000–8 000 €/v</td>
+                <td class="green">300 000–500 000 €/v</td>
+                <td class="green"><strong>31–80×</strong></td>
+            </tr>
+        </tbody>
+    </table>
+    <p class="roi-note">Porosalmi on Rantasalmen paras "sijoitus" — jo nyt, ilman mitään lisätoimia.</p>
+
+    <p class="roi-section-label" style="margin-top: 28px;">EHDOTETTU KUMPPANUUS</p>
+    <table class="data-table">
+        <thead>
+            <tr><th></th><th>Kunta panostaa</th><th>Kunta saa</th><th>Kerroin</th></tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Vaihe 1 (2027)</strong></td>
+                <td>~30 000–50 000 € netto</td>
+                <td class="green">300 000–500 000 €/v</td>
+                <td class="green"><strong>6–15×</strong></td>
+            </tr>
+            <tr>
+                <td><strong>Vaihe 2 (2028)</strong></td>
+                <td>~50 000–80 000 € netto</td>
+                <td class="green">350 000–550 000 €/v</td>
+                <td class="green"><strong>5–10×</strong></td>
+            </tr>
+        </tbody>
+    </table>
+    <p class="footnote">EU-rahoitus (Leader/EAKR) kattaa tyypillisesti 50–70 % investoinneista — bruttoluvut ovat korkeammat. Yksikään sijoittaja ei hylkää 6–15-kertaista tuottoa.</p>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 4: MIKSI JUURI NYT                                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-lr">
+    <div class="text-side">
+        <h2>Elinkeino-ohjelma 2026–2029 —<br>ikkuna on auki</h2>
+        <ul class="bullet-list">
+            <li><strong>WSP Finland Oy</strong> (kunnan tilaama): matkailu = Rantasalmen <strong>#1 vahvuus</strong></li>
+            <li><strong>Elinkeino-ohjelma 2026–2029:</strong> norppa-brändin vahvistaminen = <strong>kärkitavoite</strong></li>
+            <li><strong>Kuntastrategia 2030:</strong> Porosalmi = <strong>nimetty kärkikohde</strong></li>
+            <li><strong>Linnansaari:</strong> 31 600 kävijää 2024 — saavutettavissa vain laivalla</li>
+        </ul>
+        <p style="font-family: 'Montserrat', sans-serif; font-size: 0.93rem; font-weight: 300; color: #5A5A5A; margin-top: 18px; line-height: 1.7;">Lieksa solmi sopimuksen helmikuussa 2026. Sotkamo käyttää 3,3 M€/v matkailuinfrastruktuuriin. <strong style="color: var(--dark);">Rantasalmi käyttää 5 000–8 000 €.</strong></p>
+        <p class="key-idea">"Teidän strategia sanoo 'matkailu on #1 vahvuus'. Meidän pyyntö toteuttaa sen. Emme pyydä mitään uutta — pyydämme toteuttamaan sen mitä kunta on jo päättänyt tehdä."</p>
+    </div>
+    <div class="photo-side">
+        <img src="images/lakeland/lkl-general-lkl-general-saimaa-seal.jpg"
+             style="--focal-x: 50%; --focal-y: 40%;"
+             alt="Saimaan norppa — kunnan kärkibrändi">
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 5: MITÄ PYYDÄMME                                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-table">
+    <h2>Kolme toimenpidettä — talousarvioon 2027</h2>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>Toimenpide</th>
+                <th>Mitä tarkoittaa käytännössä</th>
+                <th>Netto kunnalle / v</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>1. Tieinfra</strong></td>
+                <td>Auraus, hiekoitus, valaistus, pysäköinti — sama mitä kunta hoitaa muualla</td>
+                <td>~15 000–20 000 €</td>
+            </tr>
+            <tr>
+                <td><strong>2. Ulkoilureitistö</strong></td>
+                <td>Ladut, jääreitit, luontopolut — kunnan latuverkon luonteva laajennus</td>
+                <td>~15 000–25 000 €</td>
+            </tr>
+            <tr>
+                <td><strong>3. Vesiliikenne</strong></td>
+                <td>Markkinointisopimus (Lieksa-malli) — Heinäkuu + Elokuu, laajennettavissa</td>
+                <td>~10 000–20 000 €</td>
+            </tr>
+            <tr class="negative-row">
+                <td><strong>EU-rahoitus</strong></td>
+                <td>Leader / EAKR kattaa 50–70 % investoinneista</td>
+                <td class="green">−25 000–40 000 €</td>
+            </tr>
+            <tr class="total-row">
+                <td><strong>Netto yhteensä</strong></td>
+                <td></td>
+                <td><strong>~30 000–50 000 €/v</strong></td>
+            </tr>
+        </tbody>
+    </table>
+    <p style="font-family: 'Montserrat', sans-serif; font-size: 0.83rem; color: var(--dark); margin-top: 18px; line-height: 1.6;"><strong>Tavoiteaikataulu:</strong> Talousarviokirjaus <strong>syyskuu 2026</strong> · Toimenpide 1+2: talvikausi 2027 · Toimenpide 3: kesäkausi 2027</p>
+    <p class="footnote">Ei investointipäätöstä. Palvelualueen laajentamista — kunta tekee jo samaa muualla Rantasalmessa. Normalisointi, ei poikkeus.</p>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 6: VERTAILUKUNTIEN MALLI                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-table">
+    <h2>Jokainen matkailukunta tekee tämän —<br>Rantasalmi on poikkeus</h2>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>Kunta</th>
+                <th>Investointi matkailuinfrastruktuuriin</th>
+                <th>Malli</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Sotkamo</strong></td>
+                <td>3 300 000 €/v</td>
+                <td>Tiet, Itärinne, reitit — täysi infrahoito</td>
+            </tr>
+            <tr>
+                <td><strong>Kittilä / Levi</strong></td>
+                <td>2 500 000 €/v</td>
+                <td>Kunta hoitaa matkailualueen koko infran</td>
+            </tr>
+            <tr>
+                <td><strong>Lieksa / Koli</strong></td>
+                <td>10 000 €/kausi (2026)</td>
+                <td>Markkinointisopimus risteilyliikenteelle</td>
+            </tr>
+            <tr class="highlight-row">
+                <td><strong>Rantasalmi / Porosalmi</strong></td>
+                <td class="red">~5 000–8 000 €/v</td>
+                <td class="red">Käytännössä nolla</td>
+            </tr>
+        </tbody>
+    </table>
+    <p style="font-family: 'Montserrat', sans-serif; font-size: 0.9rem; color: var(--dark); margin-top: 20px; line-height: 1.6;"><strong>Pyyntömme Rantasalmelle: 30 000–50 000 €/v netto</strong></p>
+    <p class="footnote">Sotkamon tasosta murto-osa. Lieksan mallista kymmenkertainen. Silti — paras ROI kaikista vertailukunnista. Emme pyydä Sotkamo-tasoa. Pyydämme kohtuullista, oikeasuhtaista investointia.</p>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 7: JOS EI TEHDÄ MITÄÄN                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-rl">
+    <div class="photo-side">
+        <div class="photo-single">
+            <img src="images/lakeland/jys-act-retkiluistelu-lake-winter.jpg"
+                 style="--focal-x: 50%; --focal-y: 45%;"
+                 alt="Yksin jäätyneellä järvellä">
+        </div>
+    </div>
+    <div class="text-side">
+        <h2>Mitä tapahtuu jos<br>jatketaan nykymallilla</h2>
+        <div class="risk-scenario">Infra rapistuu → investointihalukkuus laskee → matkailukausi lyhenee → verotulot pienenevät</div>
+        <table class="data-table" style="font-size: 0.83rem; margin-top: 4px;">
+            <thead>
+                <tr><th>Tappio</th><th>Arvio vuodessa</th></tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Suorat verotulot menetetään</td>
+                    <td>250 000–400 000 €</td>
+                </tr>
+                <tr>
+                    <td>Kerrannaisvaikutukset</td>
+                    <td>50 000–100 000 €</td>
+                </tr>
+                <tr>
+                    <td>Työttömyyskulut (80–90 hlö)</td>
+                    <td>~200 000–300 000 €</td>
+                </tr>
+                <tr class="total-row">
+                    <td><strong>Kokonaistappio</strong></td>
+                    <td class="red"><strong>~500 000–800 000 €/v</strong></td>
+                </tr>
+            </tbody>
+        </table>
+        <p style="font-family: 'Montserrat', sans-serif; font-size: 0.84rem; font-weight: 300; color: #666; margin-top: 14px; font-style: italic; line-height: 1.6;">Tämä ei ole draama. Tämä on talouslogiikka: jos perusinfra ei toimi, yritykset eivät investoi. Jos investoinnit loppuvat, verotulot loppuvat.</p>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 8: YES PACKAGE                                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-cards">
+    <h2>Kaikki on valmiina — tarvitsemme vain päätöksen</h2>
+    <p class="cards-intro">Haluamme tehdä tästä mahdollisimman helpon teidän prosessille.</p>
+    <div class="cards-grid">
+        <div class="card">
+            <div class="card-icon">📋</div>
+            <h3>Sopimusluonnos</h3>
+            <p>Markkinointisopimuksen pohja vesiliikenneyhteyteen — muokattavissa kunnan tarpeiden mukaan. Lieksa-mallin mukainen rakenne.</p>
+        </div>
+        <div class="card">
+            <div class="card-icon">📊</div>
+            <h3>ROI-sensitiivisyystaulukko</h3>
+            <p>Kustannusvaikutus kaikilla EU-rahoitusskenaarioilla (0–70 %). Laskelmat auki, tarkastettavissa.</p>
+        </div>
+        <div class="card">
+            <div class="card-icon">📈</div>
+            <h3>KPI-dashboard</h3>
+            <p>Mittarit joita seurataan yhdessä: kävijämäärät, liikennöintivuorokaudet, verotulotrendi. Raportti kunnalle kauden päätteeksi.</p>
+        </div>
+        <div class="card">
+            <div class="card-icon">⚠️</div>
+            <h3>Riskimatriisi</h3>
+            <p>Tunnistetut riskit + varasuunnitelmat. Metsähallitus-rajaus mukana. Sesonki, sää, kustannusylitykset — kaikki arvioitu.</p>
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 9: SEURAAVA ASKEL                                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-content-rl">
+    <div class="photo-side">
+        <div class="photo-single">
+            <img src="images/lakeland/lkl-act-fatbike-lake-winter.jpg"
+                 style="--focal-x: 50%; --focal-y: 45%;"
+                 alt="Fatbike järvimaisema">
+        </div>
+    </div>
+    <div class="text-side">
+        <h2>Mitä pyydämme tänään</h2>
+        <div class="ask-grid">
+            <div class="ask-col no-ask">
+                <h3>❌ EMME PYYDÄ</h3>
+                <ul>
+                    <li>Välitöntä päätöstä</li>
+                    <li>Valtuuston hyväksyntää nyt</li>
+                    <li>Sitovaa sopimusta</li>
+                </ul>
+            </div>
+            <div class="ask-col yes-ask">
+                <h3>✅ PYYDÄMME</h3>
+                <ul>
+                    <li><strong>Periaatteellista hyväksyntää</strong> — "kyllä, tämä on oikea suunta"</li>
+                    <li><strong>Prosessin käynnistymistä</strong> — talousarviokäsittelyyn syyskuu 2026</li>
+                    <li><strong>Jatkopalaveria</strong> — kuntatekniikka mukaan tekniseen suunnitteluun</li>
+                </ul>
+            </div>
+        </div>
+        <p class="rainer-question">"Miten sinä näet tämän? Mikä on se seuraava askel joka vie tämän eteenpäin?"</p>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 10: SULKU                                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<section class="slide slide-impact closing-bg">
+    <div class="overlay"></div>
+    <div class="content">
+        <h2>"300–500 tuhatta verotuloja vuodessa.<br>80–90 rantasalmelaista perhettä työssä.<br>Pyyntö: 30–50 tuhatta euroa netto vuodessa.<br>Tuotto: 6–15-kertainen.<br>Norppa maailman kartalle."</h2>
+        <p style="margin-top: 36px; font-family: 'Montserrat', sans-serif; font-size: 0.9rem; font-weight: 300; opacity: 0.85; line-height: 2.1;">
+            Markus Heiskanen — markus.heiskanen@jarvisydan.com<br>
+            Velimatti Koivula — [sähköposti]
+        </p>
+    </div>
+</section>
+
+<script src="presentation-mode.js"></script>
+</body>
+</html>

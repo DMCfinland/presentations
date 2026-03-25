@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+<meta charset="UTF-8">
+<title>Kuvavalinnat — Kulusiirto Rantasalmelle</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+    background: #f8f4ee;
+    padding: 40px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    color: #1c1c1c;
+}
+h1 {
+    font-family: Georgia, serif;
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+.subtitle {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 32px;
+    line-height: 1.6;
+}
+.group {
+    margin-bottom: 40px;
+}
+.group-title {
+    font-family: Georgia, serif;
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 16px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #1c1c1c;
+    color: #1c1c1c;
+}
+.photos {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+}
+.photo-card {
+    background: white;
+    border: 2px solid transparent;
+    border-radius: 4px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: border-color 0.15s, box-shadow 0.15s;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+.photo-card:hover {
+    border-color: #8b5a2b;
+    box-shadow: 0 4px 16px rgba(139,90,43,0.2);
+}
+.photo-card.selected {
+    border-color: #2d7a2d;
+    box-shadow: 0 4px 16px rgba(45,122,45,0.25);
+}
+.photo-card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    display: block;
+}
+.photo-info {
+    padding: 10px 12px;
+}
+.photo-name {
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: #333;
+    word-break: break-all;
+    margin-bottom: 4px;
+}
+.photo-note {
+    font-size: 0.72rem;
+    color: #777;
+    font-style: italic;
+}
+.selected-badge {
+    display: none;
+    background: #2d7a2d;
+    color: white;
+    font-size: 0.7rem;
+    font-weight: 700;
+    padding: 2px 8px;
+    border-radius: 2px;
+    margin-top: 4px;
+}
+.photo-card.selected .selected-badge { display: inline-block; }
+
+/* Output panel */
+.output-panel {
+    position: fixed;
+    bottom: 0; left: 0; right: 0;
+    background: #1c1c1c;
+    color: #f8f4ee;
+    padding: 16px 40px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    z-index: 100;
+    box-shadow: 0 -4px 20px rgba(0,0,0,0.3);
+}
+.output-panel strong { font-size: 0.9rem; white-space: nowrap; }
+.output-panel textarea {
+    flex: 1;
+    background: #333;
+    border: none;
+    color: #f8f4ee;
+    font-family: monospace;
+    font-size: 0.8rem;
+    padding: 8px;
+    resize: none;
+    height: 52px;
+    border-radius: 3px;
+}
+.copy-btn {
+    background: #8b5a2b;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 3px;
+    white-space: nowrap;
+}
+.copy-btn:hover { background: #a0692f; }
+.count { color: #aaa; font-size: 0.85rem; white-space: nowrap; }
+body { padding-bottom: 100px; }
+</style>
+</head>
+<body>
+
+<h1>Kuvavalinnat — Kulusiirto Rantasalmelle</h1>
+<p class="subtitle">
+    Klikkaa kuvaa valitaksesi sen. Vihreä reunus = valittu.<br>
+    Kun olet valinnut kuvat, kopioi lista alla olevasta kentästä ja liitä Claudelle.
+</p>
+
+<!-- GROUP 1: COVER-KUVAT -->
+<div class="group">
+    <div class="group-title">📸 Cover-kuvat (Velimatti-presentaatio + Rainer-presentaatio)</div>
+    <div class="photos">
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/jarvisydan-summer-aerial.jpg">
+            <img src="images/lakeland/jarvisydan-summer-aerial.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">jarvisydan-summer-aerial.jpg</div>
+                <div class="photo-note">Ehdotettu: Cover (Velimatti-deck)</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/saimaa-islands-summer-aerial.jpg">
+            <img src="images/lakeland/saimaa-islands-summer-aerial.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">saimaa-islands-summer-aerial.jpg</div>
+                <div class="photo-note">Ehdotettu: Cover (Rainer-deck)</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/kota-hotel-aerial-autumn.jpg">
+            <img src="images/lakeland/kota-hotel-aerial-autumn.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">kota-hotel-aerial-autumn.jpg</div>
+                <div class="photo-note">Vaihtoehto cover tai alue-slide</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/xc-ski-mining/jarvisydan-winter-aerial.jpg">
+            <img src="images/lakeland/xc-ski-mining/jarvisydan-winter-aerial.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">xc-ski-mining/jarvisydan-winter-aerial.jpg</div>
+                <div class="photo-note">Talvi-vaihtoehto coverille</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- GROUP 2: NORPPA + BRÄNDI -->
+<div class="group">
+    <div class="group-title">🦭 Norppa ja Saimaa-brändi</div>
+    <div class="photos">
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/saimaa-seal.jpg">
+            <img src="images/lakeland/saimaa-seal.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">saimaa-seal.jpg</div>
+                <div class="photo-note">Ehdotettu: Norppa-slide (täydellinen)</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/loon-catching-fish.jpg">
+            <img src="images/lakeland/loon-catching-fish.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">loon-catching-fish.jpg</div>
+                <div class="photo-note">Vaihtoehto: luonto-slide (Rainer-deck)</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- GROUP 3: VESILIIKENNE -->
+<div class="group">
+    <div class="group-title">🚢 Vesiliikenne — MS Puijo</div>
+    <div class="photos">
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/ms-puijo-cruise.jpg">
+            <img src="images/lakeland/ms-puijo-cruise.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">ms-puijo-cruise.jpg</div>
+                <div class="photo-note">Ehdotettu: Lieksa-slide</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/jys-general-couple-evening-winter.jpg">
+            <img src="images/lakeland/jys-general-couple-evening-winter.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">ms-puijo-exterior.jpg</div>
+                <div class="photo-note">Vaihtoehto: Lieksa-slide</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/lkl-acc-ms-puijo-boarding-winter.jpg">
+            <img src="images/lakeland/lkl-acc-ms-puijo-boarding-winter.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">ms-puijo-ship.jpg</div>
+                <div class="photo-note">Vaihtoehto: laiva-slide</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- GROUP 4: AKTIVITEETIT -->
+<div class="group">
+    <div class="group-title">🚣 Aktiviteetit ja tunnelma</div>
+    <div class="photos">
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/kayaking-couple.jpg">
+            <img src="images/lakeland/kayaking-couple.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">kayaking-couple.jpg</div>
+                <div class="photo-note">Ehdotettu: Rainer-strategia / Ehdotus-slide</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/kayaking-couple-2.jpg">
+            <img src="images/lakeland/kayaking-couple-2.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">kayaking-couple-2.jpg</div>
+                <div class="photo-note">Vaihtoehto: aktiviteetti</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/champagne-cruise.jpg">
+            <img src="images/lakeland/champagne-cruise.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">champagne-cruise.jpg</div>
+                <div class="photo-note">Ehdotettu: Rainer-strategia-slide</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/fatbike-lake-view.jpg">
+            <img src="images/lakeland/fatbike-lake-view.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">fatbike-lake-view.jpg</div>
+                <div class="photo-note">Ehdotettu: Seuraava askel -slide (Rainer)</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- GROUP 5: TALVI / LATUVERKOSTO -->
+<div class="group">
+    <div class="group-title">⛷️ Talvi ja latuverkosto (Haaste-slide)</div>
+    <div class="photos">
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/jys-act-retkiluistelu-lake-winter.jpg">
+            <img src="images/lakeland/jys-act-retkiluistelu-lake-winter.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">snowshoeing-frozen-lake.jpg</div>
+                <div class="photo-note">Ehdotettu: Haaste-slide (Rainer)</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/jys-act-retkiluistelu-lake-winter.jpg">
+            <img src="images/lakeland/jys-act-retkiluistelu-lake-winter.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">snowshoeing-lake.jpg</div>
+                <div class="photo-note">Vaihtoehto: talvislide</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/xc-ski-mining/vl-jaalatu-frozen-lake-ski.jpg">
+            <img src="images/lakeland/xc-ski-mining/vl-jaalatu-frozen-lake-ski.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">xc-ski-mining/vl-jaalatu-frozen-lake-ski.jpg</div>
+                <div class="photo-note">Jäällä hiihto — latuverkosto-slide</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/xc-ski-mining/vl-walking-on-ice.jpg">
+            <img src="images/lakeland/xc-ski-mining/vl-walking-on-ice.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">xc-ski-mining/vl-walking-on-ice.jpg</div>
+                <div class="photo-note">Jäällä kävely — talvi-slide</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/xc-ski-mining/vl-koli-snowshoeing.jpg">
+            <img src="images/lakeland/xc-ski-mining/vl-koli-snowshoeing.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">xc-ski-mining/vl-koli-snowshoeing.jpg</div>
+                <div class="photo-note">Lumikenkäily Koli — talvi-slide</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/jys-act-retkiluistelu-winter.jpg">
+            <img src="images/lakeland/jys-act-retkiluistelu-winter.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">ice-skating-couple.jpg</div>
+                <div class="photo-note">Luistelu — talvi-slide</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- GROUP 6: SULKEVA KUVA -->
+<div class="group">
+    <div class="group-title">🍂 Sulkeva kuva (tunnelmallisin)</div>
+    <div class="photos">
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/saimaa-islands-autumn-aerial.jpg">
+            <img src="images/lakeland/saimaa-islands-autumn-aerial.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">saimaa-islands-autumn-aerial.jpg</div>
+                <div class="photo-note">Ehdotettu: Sulku molempiin (kultainen syksy)</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/lappeenranta-harbor-sunset.jpg">
+            <img src="images/lakeland/lappeenranta-harbor-sunset.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">lappeenranta-harbor-sunset.jpg</div>
+                <div class="photo-note">Vaihtoehto: auringonlasku Saimaa</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/resort-autumn.jpg">
+            <img src="images/lakeland/resort-autumn.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">resort-autumn.jpg</div>
+                <div class="photo-note">Vaihtoehto: resort syksyllä</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/resort-autumn-2.jpg">
+            <img src="images/lakeland/resort-autumn-2.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">resort-autumn-2.jpg</div>
+                <div class="photo-note">Vaihtoehto: resort syksyllä 2</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- GROUP 7: NEUTRAALIT MAISEMAKUVAT -->
+<div class="group">
+    <div class="group-title">🌿 Neutraalit maisemakuvat (avoimet kysymykset -slide ym.)</div>
+    <div class="photos">
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/houseboat-summer.jpg">
+            <img src="images/lakeland/houseboat-summer.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">houseboat-summer.jpg</div>
+                <div class="photo-note">Tunnelma-kuva</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/houseboats-aerial.jpg">
+            <img src="images/lakeland/houseboats-aerial.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">houseboats-aerial.jpg</div>
+                <div class="photo-note">Ilmakuva houseboatit</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/evening-campfire.jpg">
+            <img src="images/lakeland/evening-campfire.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">evening-campfire.jpg</div>
+                <div class="photo-note">Tunnelma: nuotio illalla</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+        <div class="photo-card" onclick="toggle(this)" data-file="images/lakeland/xc-ski-mining/vl-campfire-tahko.jpg">
+            <img src="images/lakeland/xc-ski-mining/vl-campfire-tahko.jpg" alt="">
+            <div class="photo-info">
+                <div class="photo-name">xc-ski-mining/vl-campfire-tahko.jpg</div>
+                <div class="photo-note">Nuotio talvella</div>
+                <div class="selected-badge">✓ VALITTU</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Fixed output panel -->
+<div class="output-panel">
+    <strong>Valitut kuvat (<span id="count">0</span>):</strong>
+    <textarea id="output" readonly placeholder="Klikkaa kuvia yläpuolella..."></textarea>
+    <button class="copy-btn" onclick="copyList()">📋 Kopioi lista</button>
+</div>
+
+<script>
+const selected = new Set();
+
+function toggle(card) {
+    const file = card.dataset.file;
+    if (selected.has(file)) {
+        selected.delete(file);
+        card.classList.remove('selected');
+    } else {
+        selected.add(file);
+        card.classList.add('selected');
+    }
+    updateOutput();
+}
+
+function updateOutput() {
+    const list = Array.from(selected).join('\n');
+    document.getElementById('output').value = list;
+    document.getElementById('count').textContent = selected.size;
+}
+
+function copyList() {
+    const ta = document.getElementById('output');
+    ta.select();
+    document.execCommand('copy');
+    const btn = document.querySelector('.copy-btn');
+    btn.textContent = '✓ Kopioitu!';
+    setTimeout(() => btn.textContent = '📋 Kopioi lista', 2000);
+}
+</script>
+
+</body>
+</html>

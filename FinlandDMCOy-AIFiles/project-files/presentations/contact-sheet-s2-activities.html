@@ -1,0 +1,715 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+<meta charset="UTF-8">
+<title>Photo Library S2 — Activities + Dining + Aerials</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+    background: #f0ece4;
+    padding: 40px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    color: #1c1c1c;
+}
+h1 {
+    font-family: Georgia, serif;
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+.subtitle {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 10px;
+    line-height: 1.5;
+}
+.instructions {
+    background: #fff;
+    border-left: 4px solid #2a6049;
+    padding: 12px 16px;
+    margin-bottom: 36px;
+    font-size: 0.85rem;
+    line-height: 1.6;
+    border-radius: 0 4px 4px 0;
+}
+.instructions strong { color: #2a6049; }
+.group {
+    margin-bottom: 48px;
+}
+.group-title {
+    font-family: Georgia, serif;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #2a6049;
+    border-bottom: 2px solid #2a6049;
+    padding-bottom: 8px;
+    margin-bottom: 20px;
+}
+.group-desc {
+    font-size: 0.8rem;
+    color: #888;
+    margin-top: 4px;
+    margin-bottom: 16px;
+    font-style: italic;
+}
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 16px;
+}
+.card {
+    background: white;
+    border-radius: 6px;
+    overflow: hidden;
+    cursor: pointer;
+    border: 3px solid transparent;
+    transition: border-color 0.15s, box-shadow 0.15s;
+    position: relative;
+}
+.card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.15); }
+.card.selected { border-color: #2a6049; }
+.card.rejected { border-color: #cc3333; opacity: 0.5; }
+.card.selected::after {
+    content: '✓ PIDÄ';
+    position: absolute;
+    top: 8px; left: 8px;
+    background: #2a6049;
+    color: white;
+    font-size: 0.7rem;
+    font-weight: bold;
+    padding: 3px 8px;
+    border-radius: 3px;
+    letter-spacing: 0.05em;
+}
+.card.rejected::after {
+    content: '✕ HYLKÄÄ';
+    position: absolute;
+    top: 8px; left: 8px;
+    background: #cc3333;
+    color: white;
+    font-size: 0.7rem;
+    font-weight: bold;
+    padding: 3px 8px;
+    border-radius: 3px;
+    letter-spacing: 0.05em;
+}
+.card img {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+    display: block;
+}
+.card-info {
+    padding: 8px 10px 10px;
+}
+.card-current {
+    font-size: 0.7rem;
+    color: #888;
+    word-break: break-all;
+    line-height: 1.3;
+    margin-bottom: 4px;
+}
+.card-new {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #2a6049;
+    word-break: break-all;
+    line-height: 1.3;
+}
+.card-new.tbd { color: #cc8800; font-style: italic; }
+.zone-badge {
+    display: inline-block;
+    font-size: 0.6rem;
+    padding: 1px 5px;
+    border-radius: 2px;
+    margin-left: 4px;
+    font-weight: bold;
+    vertical-align: middle;
+}
+.zone-a { background: #d4edda; color: #155724; }
+.zone-b { background: #cce5ff; color: #004085; }
+.in-deck { background: #fff3cd; color: #856404; }
+.actions {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    z-index: 100;
+}
+button {
+    padding: 12px 20px;
+    border: none;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+.btn-copy { background: #2a6049; color: white; }
+.btn-clear { background: #888; color: white; }
+#output {
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 20px;
+    margin-top: 48px;
+    font-size: 0.8rem;
+    white-space: pre-wrap;
+    display: none;
+    font-family: monospace;
+}
+</style>
+</head>
+<body>
+
+<h1>Photo Library S2 — Activities + Dining + Aerials</h1>
+<p class="subtitle">2026-03-25 | ~42 photos | 6 groups</p>
+
+<div class="instructions">
+  <strong>Ohjeet:</strong> Klikkaa kerran = PIDÄ (vihreä). Klikkaa uudelleen = HYLKÄÄ (punainen). Kolmas kerta = ei valintaa.<br>
+  <strong>Värikoodit:</strong> <span class="zone-badge zone-a">A</span> = production (git) &nbsp; <span class="zone-badge zone-b">B</span> = arkisto (ei git) &nbsp; <span class="zone-badge in-deck">DECK</span> = jo esityksessä<br>
+  <strong>Uusi nimi</strong> = ehdotus — voit muuttaa kommenteissasi. Kun valmis → Kopioi tulokset.
+</div>
+
+<!-- GROUP 1: JYS WINTER ACTIVITIES -->
+<div class="group">
+<div class="group-title">1. Järvisydän — Talviaktiviteetit</div>
+<p class="group-desc">Järvisydän-brandatut talvikuvat: avanto, hiihto, rekiajelut, kelkkailu</p>
+<div class="grid">
+
+  <div class="card" onclick="toggle(this)" data-current="jarvisydan-avanto.jpg" data-zone="A" data-new="jys-act-avanto-winter.jpg">
+    <img src="../../../images/lakeland/jarvisydan-avanto.jpg" alt="avanto">
+    <div class="card-info">
+      <div class="card-current">jarvisydan-avanto.jpg <span class="zone-badge zone-a">A</span></div>
+      <div class="card-new">→ jys-act-avanto-winter.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="jarvisydan-hiihto-1.jpg" data-zone="A" data-new="jys-act-xc-ski-winter.jpg">
+    <img src="../../../images/lakeland/jarvisydan-hiihto-1.jpg" alt="hiihto 1">
+    <div class="card-info">
+      <div class="card-current">jarvisydan-hiihto-1.jpg <span class="zone-badge zone-a">A</span></div>
+      <div class="card-new">→ jys-act-xc-ski-winter.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="jarvisydan-hiihto-2.jpg" data-zone="B" data-new="jys-act-xc-ski-winter-2.jpg">
+    <img src="images/lakeland/jarvisydan-hiihto-2.jpg" alt="hiihto 2">
+    <div class="card-info">
+      <div class="card-current">jarvisydan-hiihto-2.jpg <span class="zone-badge zone-b">B</span></div>
+      <div class="card-new">→ jys-act-xc-ski-winter-2.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="jarvisydan-sleigh-stars.jpg" data-zone="A" data-new="jys-act-sleigh-stars-winter.jpg">
+    <img src="../../../images/lakeland/jarvisydan-sleigh-stars.jpg" alt="sleigh stars">
+    <div class="card-info">
+      <div class="card-current">jarvisydan-sleigh-stars.jpg <span class="zone-badge zone-a">A</span> <span class="zone-badge in-deck">DECK</span></div>
+      <div class="card-new">→ jys-act-sleigh-stars-winter.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="vl-ice-sledding-saimaa.jpg" data-zone="B" data-new="lkl-act-ice-sledding-winter.jpg">
+    <img src="images/lakeland/vl-ice-sledding-saimaa.jpg" alt="ice sledding">
+    <div class="card-info">
+      <div class="card-current">vl-ice-sledding-saimaa.jpg <span class="zone-badge zone-b">B</span></div>
+      <div class="card-new">→ lkl-act-ice-sledding-winter.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="vl-jaalatu-frozen-lake-ski.jpg" data-zone="B" data-new="lkl-act-lake-ski-winter.jpg">
+    <img src="images/lakeland/vl-jaalatu-frozen-lake-ski.jpg" alt="frozen lake ski">
+    <div class="card-info">
+      <div class="card-current">vl-jaalatu-frozen-lake-ski.jpg <span class="zone-badge zone-b">B</span></div>
+      <div class="card-new">→ lkl-act-lake-ski-winter.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="vl-koli-snowshoeing.jpg" data-zone="B" data-new="lkl-act-snowshoe-koli-winter.jpg">
+    <img src="images/lakeland/vl-koli-snowshoeing.jpg" alt="koli snowshoeing">
+    <div class="card-info">
+      <div class="card-current">vl-koli-snowshoeing.jpg <span class="zone-badge zone-b">B</span> <span class="zone-badge in-deck">DECK</span></div>
+      <div class="card-new">→ lkl-act-snowshoe-koli-winter.jpg</div>
+    </div>
+  </div>
+
+</div>
+</div>
+
+<!-- GROUP 2: JYS SUMMER ACTIVITIES -->
+<div class="group">
+<div class="group-title">2. Järvisydän — Kesäaktiviteetit</div>
+<p class="group-desc">SUP, melonta, kalastus, veneily</p>
+<div class="grid">
+
+  <div class="card" onclick="toggle(this)" data-current="jarvisydan-sup.jpg" data-zone="A" data-new="jys-act-sup-summer.jpg">
+    <img src="../../../images/lakeland/jarvisydan-sup.jpg" alt="sup">
+    <div class="card-info">
+      <div class="card-current">jarvisydan-sup.jpg <span class="zone-badge zone-a">A</span></div>
+      <div class="card-new">→ jys-act-sup-summer.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="jarvisydan-fishing-boat.jpg" data-zone="A" data-new="jys-act-fishing-boat-summer.jpg">
+    <img src="../../../images/lakeland/jarvisydan-fishing-boat.jpg" alt="fishing boat">
+    <div class="card-info">
+      <div class="card-current">jarvisydan-fishing-boat.jpg <span class="zone-badge zone-a">A</span></div>
+      <div class="card-new">→ jys-act-fishing-boat-summer.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="kayaking-couple.jpg" data-zone="A" data-new="lkl-act-kayaking-summer.jpg">
+    <img src="../../../images/lakeland/kayaking-couple.jpg" alt="kayaking couple">
+    <div class="card-info">
+      <div class="card-current">kayaking-couple.jpg <span class="zone-badge zone-a">A</span></div>
+      <div class="card-new">→ lkl-act-kayaking-summer.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="kayaking-couple-2.jpg" data-zone="B" data-new="lkl-act-kayaking-summer-2.jpg">
+    <img src="images/lakeland/kayaking-couple-2.jpg" alt="kayaking 2">
+    <div class="card-info">
+      <div class="card-current">kayaking-couple-2.jpg <span class="zone-badge zone-b">B</span></div>
+      <div class="card-new">→ lkl-act-kayaking-summer-2.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="champagne-cruise.jpg" data-zone="B" data-new="lkl-act-champagne-cruise-summer.jpg">
+    <img src="images/lakeland/champagne-cruise.jpg" alt="champagne cruise">
+    <div class="card-info">
+      <div class="card-current">champagne-cruise.jpg <span class="zone-badge zone-b">B</span></div>
+      <div class="card-new">→ lkl-act-champagne-cruise-summer.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="sunset-cruise.jpg" data-zone="B" data-new="lkl-act-sunset-cruise-summer.jpg">
+    <img src="images/lakeland/sunset-cruise.jpg" alt="sunset cruise">
+    <div class="card-info">
+      <div class="card-current">sunset-cruise.jpg <span class="zone-badge zone-b">B</span></div>
+      <div class="card-new">→ lkl-act-sunset-cruise-summer.jpg</div>
+    </div>
+  </div>
+
+</div>
+</div>
+
+<!-- GROUP 3: LAKELAND ACTIVITIES -->
+<div class="group">
+<div class="group-title">3. Lakeland — Muut aktiviteetit</div>
+<p class="group-desc">Jäänkalastus, talvipyöräily, nuotio, retkiluistelu, poro, vene</p>
+<div class="grid">
+
+  <div class="card" onclick="toggle(this)" data-current="ice-fishing-lakeland.jpg" data-zone="A" data-new="lkl-act-ice-fishing-winter.jpg">
+    <img src="../../../images/lakeland/ice-fishing-lakeland.jpg" alt="ice fishing">
+    <div class="card-info">
+      <div class="card-current">ice-fishing-lakeland.jpg <span class="zone-badge zone-a">A</span> <span class="zone-badge in-deck">DECK</span></div>
+      <div class="card-new">→ lkl-act-ice-fishing-winter.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="vl-ice-fishing-evo.jpg" data-zone="B" data-new="lkl-act-ice-fishing-evo-winter.jpg">
+    <img src="images/lakeland/vl-ice-fishing-evo.jpg" alt="ice fishing evo">
+    <div class="card-info">
+      <div class="card-current">vl-ice-fishing-evo.jpg <span class="zone-badge zone-b">B</span></div>
+      <div class="card-new">→ lkl-act-ice-fishing-evo-winter.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="evening-campfire.jpg" data-zone="A" data-new="lkl-act-campfire-summer.jpg">
+    <img src="../../../images/lakeland/evening-campfire.jpg" alt="campfire">
+    <div class="card-info">
+      <div class="card-current">evening-campfire.jpg <span class="zone-badge zone-a">A</span> <span class="zone-badge in-deck">DECK</span></div>
+      <div class="card-new">→ lkl-act-campfire-summer.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="vl-campfire-tahko.jpg" data-zone="B" data-new="lkl-act-campfire-tahko-summer.jpg">
+    <img src="images/lakeland/vl-campfire-tahko.jpg" alt="campfire tahko">
+    <div class="card-info">
+      <div class="card-current">vl-campfire-tahko.jpg <span class="zone-badge zone-b">B</span></div>
+      <div class="card-new">→ lkl-act-campfire-tahko-summer.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="winter-fatbike.jpg" data-zone="A" data-new="lkl-act-fatbike-winter.jpg">
+    <img src="../../../images/lakeland/winter-fatbike.jpg" alt="fatbike winter">
+    <div class="card-info">
+      <div class="card-current">winter-fatbike.jpg <span class="zone-badge zone-a">A</span> <span class="zone-badge in-deck">DECK</span></div>
+      <div class="card-new">→ lkl-act-fatbike-winter.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="fatbike-lake-view.jpg" data-zone="A" data-new="lkl-act-fatbike-lake-winter.jpg">
+    <img src="../../../images/lakeland/fatbike-lake-view.jpg" alt="fatbike lake view">
+    <div class="card-info">
+      <div class="card-current">fatbike-lake-view.jpg <span class="zone-badge zone-a">A</span></div>
+      <div class="card-new">→ lkl-act-fatbike-lake-winter.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="vl-nordic-skiing-lahti.jpg" data-zone="B" data-new="lkl-act-nordic-ski-winter.jpg">
+    <img src="images/lakeland/vl-nordic-skiing-lahti.jpg" alt="nordic skiing">
+    <div class="card-info">
+      <div class="card-current">vl-nordic-skiing-lahti.jpg <span class="zone-badge zone-b">B</span></div>
+      <div class="card-new">→ lkl-act-nordic-ski-winter.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="vl-walking-on-ice.jpg" data-zone="B" data-new="lkl-act-ice-walk-winter.jpg">
+    <img src="images/lakeland/vl-walking-on-ice.jpg" alt="walking on ice">
+    <div class="card-info">
+      <div class="card-current">vl-walking-on-ice.jpg <span class="zone-badge zone-b">B</span></div>
+      <div class="card-new">→ lkl-act-ice-walk-winter.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="reindeer-lakeland.jpg" data-zone="A" data-new="lkl-act-reindeer.jpg">
+    <img src="../../../images/lakeland/reindeer-lakeland.jpg" alt="reindeer">
+    <div class="card-info">
+      <div class="card-current">reindeer-lakeland.jpg <span class="zone-badge zone-a">A</span></div>
+      <div class="card-new">→ lkl-act-reindeer.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="wooden-boat-cruise.jpg" data-zone="A" data-new="lkl-act-wooden-boat-summer.jpg">
+    <img src="../../../images/lakeland/wooden-boat-cruise.jpg" alt="wooden boat">
+    <div class="card-info">
+      <div class="card-current">wooden-boat-cruise.jpg <span class="zone-badge zone-a">A</span></div>
+      <div class="card-new">→ lkl-act-wooden-boat-summer.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="loon-catching-fish.jpg" data-zone="B" data-new="lkl-general-loon.jpg">
+    <img src="images/lakeland/loon-catching-fish.jpg" alt="loon">
+    <div class="card-info">
+      <div class="card-current">loon-catching-fish.jpg <span class="zone-badge zone-b">B</span></div>
+      <div class="card-new">→ lkl-general-loon.jpg</div>
+    </div>
+  </div>
+
+</div>
+</div>
+
+<!-- GROUP 4: DINING -->
+<div class="group">
+<div class="group-title">4. Ruokailu — Restaurant Solitary + Kuru</div>
+<p class="group-desc">Annoskuvat, ravintolan tunnelma, Kuru-ruokailu</p>
+<div class="grid">
+
+  <div class="card" onclick="toggle(this)" data-current="solitary-dish-1.jpg" data-zone="A" data-new="jys-dining-solitary-dish-1.jpg">
+    <img src="../../../images/lakeland/solitary-dish-1.jpg" alt="solitary dish 1">
+    <div class="card-info">
+      <div class="card-current">solitary-dish-1.jpg <span class="zone-badge zone-a">A</span> <span class="zone-badge in-deck">DECK</span></div>
+      <div class="card-new">→ jys-dining-solitary-dish-1.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="solitary-dish-2.jpg" data-zone="B" data-new="jys-dining-solitary-dish-2.jpg">
+    <img src="images/lakeland/solitary-dish-2.jpg" alt="solitary dish 2">
+    <div class="card-info">
+      <div class="card-current">solitary-dish-2.jpg <span class="zone-badge zone-b">B</span></div>
+      <div class="card-new">→ jys-dining-solitary-dish-2.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="solitary-dish-3.jpg" data-zone="B" data-new="jys-dining-solitary-dish-3.jpg">
+    <img src="images/lakeland/solitary-dish-3.jpg" alt="solitary dish 3">
+    <div class="card-info">
+      <div class="card-current">solitary-dish-3.jpg <span class="zone-badge zone-b">B</span></div>
+      <div class="card-new">→ jys-dining-solitary-dish-3.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="solitary-Restaurant-Solitary.jpg" data-zone="B" data-new="jys-dining-solitary-interior.jpg">
+    <img src="images/lakeland/solitary-Restaurant-Solitary.jpg" alt="solitary interior">
+    <div class="card-info">
+      <div class="card-current">solitary-Restaurant-Solitary.jpg <span class="zone-badge zone-b">B</span></div>
+      <div class="card-new">→ jys-dining-solitary-interior.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="solitary-Restaurant-Solitary--1-.jpg" data-zone="B" data-new="jys-dining-solitary-interior-2.jpg">
+    <img src="images/lakeland/solitary-Restaurant-Solitary--1-.jpg" alt="solitary 1">
+    <div class="card-info">
+      <div class="card-current">solitary-Restaurant-Solitary--1-.jpg <span class="zone-badge zone-b">B</span></div>
+      <div class="card-new">→ jys-dining-solitary-interior-2.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="solitary-Restaurant-Solitary--2-.jpg" data-zone="B" data-new="jys-dining-solitary-interior-3.jpg">
+    <img src="images/lakeland/solitary-Restaurant-Solitary--2-.jpg" alt="solitary 2">
+    <div class="card-info">
+      <div class="card-current">solitary-Restaurant-Solitary--2-.jpg <span class="zone-badge zone-b">B</span></div>
+      <div class="card-new">→ jys-dining-solitary-interior-3.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="kuru-restaurant.jpg" data-zone="A" data-new="kuru-dining-restaurant.jpg">
+    <img src="../../../images/lakeland/kuru-restaurant.jpg" alt="kuru restaurant">
+    <div class="card-info">
+      <div class="card-current">kuru-restaurant.jpg <span class="zone-badge zone-a">A</span></div>
+      <div class="card-new">→ kuru-dining-restaurant.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="kuru-autumn-dining.jpg" data-zone="B" data-new="kuru-dining-interior-autumn.jpg">
+    <img src="images/lakeland/kuru-autumn-dining.jpg" alt="kuru autumn dining">
+    <div class="card-info">
+      <div class="card-current">kuru-autumn-dining.jpg <span class="zone-badge zone-b">B</span></div>
+      <div class="card-new">→ kuru-dining-interior-autumn.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="kuru-autumn-dining-2.jpg" data-zone="B" data-new="kuru-dining-interior-autumn-2.jpg">
+    <img src="images/lakeland/kuru-autumn-dining-2.jpg" alt="kuru autumn dining 2">
+    <div class="card-info">
+      <div class="card-current">kuru-autumn-dining-2.jpg <span class="zone-badge zone-b">B</span></div>
+      <div class="card-new">→ kuru-dining-interior-autumn-2.jpg</div>
+    </div>
+  </div>
+
+</div>
+</div>
+
+<!-- GROUP 5: AERIALS -->
+<div class="group">
+<div class="group-title">5. Ilmakuvat</div>
+<p class="group-desc">Järvisydän, Saimaa, Tahko — kesä + syksy + talvi</p>
+<div class="grid">
+
+  <div class="card" onclick="toggle(this)" data-current="jarvisydan-summer-aerial.jpg" data-zone="A" data-new="jys-aerial-summer.jpg">
+    <img src="../../../images/lakeland/jarvisydan-summer-aerial.jpg" alt="jys aerial summer">
+    <div class="card-info">
+      <div class="card-current">jarvisydan-summer-aerial.jpg <span class="zone-badge zone-a">A</span> <span class="zone-badge in-deck">DECK</span></div>
+      <div class="card-new">→ jys-aerial-summer.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="kota-hotel-aerial-autumn.jpg" data-zone="A" data-new="jys-aerial-kota-autumn.jpg">
+    <img src="../../../images/lakeland/kota-hotel-aerial-autumn.jpg" alt="kota aerial autumn">
+    <div class="card-info">
+      <div class="card-current">kota-hotel-aerial-autumn.jpg <span class="zone-badge zone-a">A</span> <span class="zone-badge in-deck">DECK</span></div>
+      <div class="card-new">→ jys-aerial-kota-autumn.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="saimaa-islands-summer-aerial.jpg" data-zone="A" data-new="lkl-aerial-saimaa-summer.jpg">
+    <img src="../../../images/lakeland/saimaa-islands-summer-aerial.jpg" alt="saimaa summer aerial">
+    <div class="card-info">
+      <div class="card-current">saimaa-islands-summer-aerial.jpg <span class="zone-badge zone-a">A</span></div>
+      <div class="card-new">→ lkl-aerial-saimaa-summer.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="saimaa-islands-autumn-aerial.jpg" data-zone="A" data-new="lkl-aerial-saimaa-autumn.jpg">
+    <img src="../../../images/lakeland/saimaa-islands-autumn-aerial.jpg" alt="saimaa autumn aerial">
+    <div class="card-info">
+      <div class="card-current">saimaa-islands-autumn-aerial.jpg <span class="zone-badge zone-a">A</span></div>
+      <div class="card-new">→ lkl-aerial-saimaa-autumn.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="resort-autumn-2.jpg" data-zone="A" data-new="jys-aerial-resort-autumn.jpg">
+    <img src="../../../images/lakeland/resort-autumn-2.jpg" alt="resort autumn 2">
+    <div class="card-info">
+      <div class="card-current">resort-autumn-2.jpg <span class="zone-badge zone-a">A</span></div>
+      <div class="card-new">→ jys-aerial-resort-autumn.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="resort-autumn.jpg" data-zone="B" data-new="jys-aerial-resort-autumn-2.jpg">
+    <img src="images/lakeland/resort-autumn.jpg" alt="resort autumn">
+    <div class="card-info">
+      <div class="card-current">resort-autumn.jpg <span class="zone-badge zone-b">B</span></div>
+      <div class="card-new">→ jys-aerial-resort-autumn-2.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="tahko-aerial-drone.jpg" data-zone="A" data-new="lkl-aerial-tahko.jpg">
+    <img src="../../../images/lakeland/tahko-aerial-drone.jpg" alt="tahko aerial">
+    <div class="card-info">
+      <div class="card-current">tahko-aerial-drone.jpg <span class="zone-badge zone-a">A</span></div>
+      <div class="card-new">→ lkl-aerial-tahko.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="houseboats-aerial.jpg" data-zone="A" data-new="lkl-acc-houseboats-aerial.jpg">
+    <img src="../../../images/lakeland/houseboats-aerial.jpg" alt="houseboats aerial">
+    <div class="card-info">
+      <div class="card-current">houseboats-aerial.jpg <span class="zone-badge zone-a">A</span></div>
+      <div class="card-new">→ lkl-acc-houseboats-aerial.jpg</div>
+    </div>
+  </div>
+
+</div>
+</div>
+
+<!-- GROUP 6: GENERAL / LIFESTYLE -->
+<div class="group">
+<div class="group-title">6. Yleinen — Järvi, elämys, tunnelma</div>
+<p class="group-desc">Norppa, auringonlasku, houseboat, Kangasala, Linnavuori, Sahanlahti</p>
+<div class="grid">
+
+  <div class="card" onclick="toggle(this)" data-current="saimaa-seal.jpg" data-zone="A" data-new="lkl-general-saimaa-seal.jpg">
+    <img src="../../../images/lakeland/saimaa-seal.jpg" alt="saimaa seal">
+    <div class="card-info">
+      <div class="card-current">saimaa-seal.jpg <span class="zone-badge zone-a">A</span></div>
+      <div class="card-new">→ lkl-general-saimaa-seal.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="sunset-champagne.jpg" data-zone="A" data-new="jys-general-sunset-champagne.jpg">
+    <img src="../../../images/lakeland/sunset-champagne.jpg" alt="sunset champagne">
+    <div class="card-info">
+      <div class="card-current">sunset-champagne.jpg <span class="zone-badge zone-a">A</span></div>
+      <div class="card-new">→ jys-general-sunset-champagne.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="houseboat-summer.jpg" data-zone="A" data-new="lkl-acc-houseboat-summer.jpg">
+    <img src="../../../images/lakeland/houseboat-summer.jpg" alt="houseboat summer">
+    <div class="card-info">
+      <div class="card-current">houseboat-summer.jpg <span class="zone-badge zone-a">A</span></div>
+      <div class="card-new">→ lkl-acc-houseboat-summer.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="houseboat-autumn.jpg" data-zone="A" data-new="lkl-acc-houseboat-autumn.jpg">
+    <img src="../../../images/lakeland/houseboat-autumn.jpg" alt="houseboat autumn">
+    <div class="card-info">
+      <div class="card-current">houseboat-autumn.jpg <span class="zone-badge zone-a">A</span></div>
+      <div class="card-new">→ lkl-acc-houseboat-autumn.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="houseboat-deck.jpg" data-zone="A" data-new="lkl-acc-houseboat-deck-summer.jpg">
+    <img src="../../../images/lakeland/houseboat-deck.jpg" alt="houseboat deck">
+    <div class="card-info">
+      <div class="card-current">houseboat-deck.jpg <span class="zone-badge zone-a">A</span></div>
+      <div class="card-new">→ lkl-acc-houseboat-deck-summer.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="kangasala-panorama.jpg" data-zone="A" data-new="lkl-general-kangasala-panorama.jpg">
+    <img src="../../../images/lakeland/kangasala-panorama.jpg" alt="kangasala panorama">
+    <div class="card-info">
+      <div class="card-current">kangasala-panorama.jpg <span class="zone-badge zone-a">A</span></div>
+      <div class="card-new">→ lkl-general-kangasala-panorama.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="kangasala-lake.jpg" data-zone="B" data-new="lkl-general-kangasala-lake.jpg">
+    <img src="images/lakeland/kangasala-lake.jpg" alt="kangasala lake">
+    <div class="card-info">
+      <div class="card-current">kangasala-lake.jpg <span class="zone-badge zone-b">B</span></div>
+      <div class="card-new">→ lkl-general-kangasala-lake.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="linnavuori-couple.jpg" data-zone="A" data-new="lkl-general-linnavuori-couple.jpg">
+    <img src="../../../images/lakeland/linnavuori-couple.jpg" alt="linnavuori couple">
+    <div class="card-info">
+      <div class="card-current">linnavuori-couple.jpg <span class="zone-badge zone-a">A</span></div>
+      <div class="card-new">→ lkl-general-linnavuori-couple.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="linnavuori-autumn.jpg" data-zone="B" data-new="lkl-general-linnavuori-autumn.jpg">
+    <img src="images/lakeland/linnavuori-autumn.jpg" alt="linnavuori autumn">
+    <div class="card-info">
+      <div class="card-current">linnavuori-autumn.jpg <span class="zone-badge zone-b">B</span></div>
+      <div class="card-new">→ lkl-general-linnavuori-autumn.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="sahanlahti-header-summer.jpg" data-zone="A" data-new="lkl-general-sahanlahti-summer.jpg">
+    <img src="../../../images/lakeland/sahanlahti-header-summer.jpg" alt="sahanlahti summer">
+    <div class="card-info">
+      <div class="card-current">sahanlahti-header-summer.jpg <span class="zone-badge zone-a">A</span></div>
+      <div class="card-new">→ lkl-general-sahanlahti-summer.jpg</div>
+    </div>
+  </div>
+
+  <div class="card" onclick="toggle(this)" data-current="lappeenranta-harbor-sunset.jpg" data-zone="B" data-new="lkl-general-lappeenranta-sunset.jpg">
+    <img src="images/lakeland/lappeenranta-harbor-sunset.jpg" alt="lappeenranta sunset">
+    <div class="card-info">
+      <div class="card-current">lappeenranta-harbor-sunset.jpg <span class="zone-badge zone-b">B</span></div>
+      <div class="card-new">→ lkl-general-lappeenranta-sunset.jpg</div>
+    </div>
+  </div>
+
+</div>
+</div>
+
+<div id="output"></div>
+
+<div class="actions">
+  <button class="btn-copy" onclick="copyResults()">Kopioi tulokset</button>
+  <button class="btn-clear" onclick="clearAll()">Tyhjennä</button>
+</div>
+
+<script>
+function toggle(card) {
+    if (card.classList.contains('selected')) {
+        card.classList.remove('selected');
+        card.classList.add('rejected');
+    } else if (card.classList.contains('rejected')) {
+        card.classList.remove('rejected');
+    } else {
+        card.classList.add('selected');
+    }
+}
+
+function clearAll() {
+    document.querySelectorAll('.card').forEach(c => {
+        c.classList.remove('selected', 'rejected');
+    });
+    document.getElementById('output').style.display = 'none';
+}
+
+function copyResults() {
+    const keeps = [];
+    const rejects = [];
+    const unselected = [];
+
+    document.querySelectorAll('.card').forEach(card => {
+        const current = card.dataset.current;
+        const newName = card.dataset.new;
+        const zone = card.dataset.zone;
+        const entry = `${current} [Zone ${zone}] → ${newName}`;
+
+        if (card.classList.contains('selected')) {
+            keeps.push(entry);
+        } else if (card.classList.contains('rejected')) {
+            rejects.push(entry);
+        } else {
+            unselected.push(current + ' [Zone ' + zone + ']');
+        }
+    });
+
+    let text = 'PHOTO LIBRARY S2 — TULOKSET\n';
+    text += '============================\n\n';
+    text += `PIDÄ (${keeps.length}):\n`;
+    keeps.forEach(e => text += `  ✓ ${e}\n`);
+    text += `\nHYLKÄÄ (${rejects.length}):\n`;
+    rejects.forEach(e => text += `  ✕ ${e}\n`);
+    if (unselected.length > 0) {
+        text += `\nEI VALITTU (${unselected.length}):\n`;
+        unselected.forEach(e => text += `  ? ${e}\n`);
+    }
+
+    const out = document.getElementById('output');
+    out.textContent = text;
+    out.style.display = 'block';
+
+    navigator.clipboard.writeText(text).then(() => {
+        const btn = document.querySelector('.btn-copy');
+        btn.textContent = 'Kopioitu! ✓';
+        setTimeout(() => btn.textContent = 'Kopioi tulokset', 2000);
+    });
+}
+</script>
+</body>
+</html>
