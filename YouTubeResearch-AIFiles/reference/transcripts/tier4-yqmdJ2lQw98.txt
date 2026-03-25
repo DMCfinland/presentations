@@ -1,0 +1,1594 @@
+All<00:00:00.160><c> right,</c><00:00:00.560><c> stay</c><00:00:00.800><c> with</c><00:00:00.960><c> me.</c><00:00:01.120><c> We're</c><00:00:01.360><c> going</c><00:00:01.439><c> to</c>
+All right, stay with me. We're going to
+All right, stay with me. We're going to
+talk<00:00:01.680><c> about</c><00:00:02.000><c> local</c><00:00:02.480><c> maxima</c><00:00:03.200><c> algorithms,</c><00:00:04.160><c> AI,</c>
+talk about local maxima algorithms, AI,
+talk about local maxima algorithms, AI,
+and<00:00:04.880><c> Taylor</c><00:00:05.279><c> Swift.</c><00:00:06.000><c> I'm</c><00:00:06.160><c> going</c><00:00:06.319><c> to</c><00:00:06.400><c> make</c><00:00:06.480><c> it</c>
+and Taylor Swift. I'm going to make it
+and Taylor Swift. I'm going to make it
+all<00:00:06.799><c> make</c><00:00:07.040><c> sense.</c><00:00:07.279><c> I</c><00:00:07.520><c> promise.</c><00:00:08.080><c> First</c><00:00:08.320><c> things</c>
+all make sense. I promise. First things
+all make sense. I promise. First things
+first,<00:00:08.880><c> I</c><00:00:09.040><c> think</c><00:00:09.200><c> everybody</c><00:00:09.679><c> knows</c><00:00:10.000><c> that</c><00:00:10.320><c> AI</c>
+first, I think everybody knows that AI
+first, I think everybody knows that AI
+marketing<00:00:11.360><c> is</c><00:00:11.759><c> exploding.</c><00:00:12.800><c> Something</c><00:00:13.120><c> like</c>
+marketing is exploding. Something like
+marketing is exploding. Something like
+40%<00:00:14.320><c> of</c><00:00:14.559><c> the</c><00:00:14.799><c> Instagram</c><00:00:15.280><c> feed</c><00:00:15.679><c> is</c><00:00:15.920><c> AI</c><00:00:16.320><c> now.</c>
+40% of the Instagram feed is AI now.
+40% of the Instagram feed is AI now.
+It's<00:00:17.039><c> growing</c><00:00:17.359><c> really</c><00:00:17.680><c> fast.</c><00:00:18.080><c> Meta</c><00:00:18.480><c> is</c>
+It's growing really fast. Meta is
+It's growing really fast. Meta is
+investing<00:00:19.039><c> heavily</c><00:00:19.439><c> in</c><00:00:19.680><c> AI</c><00:00:20.080><c> tooling.</c><00:00:20.720><c> Meta</c>
+investing heavily in AI tooling. Meta
+investing heavily in AI tooling. Meta
+just<00:00:21.439><c> published</c><00:00:21.920><c> a</c><00:00:22.880><c> 1</c><00:00:23.199><c> billion</c><00:00:23.680><c> parameter</c>
+just published a 1 billion parameter
+just published a 1 billion parameter
+artificial<00:00:24.960><c> brain</c><00:00:25.519><c> that's</c><00:00:25.920><c> designed</c><00:00:26.400><c> to</c>
+artificial brain that's designed to
+artificial brain that's designed to
+measure<00:00:27.439><c> your</c><00:00:27.920><c> response</c><00:00:28.640><c> to</c><00:00:29.119><c> videos</c><00:00:29.760><c> and</c>
+measure your response to videos and
+measure your response to videos and
+simulate<00:00:30.480><c> it</c><00:00:30.720><c> so</c><00:00:30.880><c> they</c><00:00:31.119><c> can</c><00:00:31.279><c> build</c><00:00:31.439><c> more</c><00:00:31.679><c> AI</c>
+simulate it so they can build more AI
+simulate it so they can build more AI
+videos<00:00:32.480><c> for</c><00:00:32.719><c> you.</c><00:00:33.200><c> And</c><00:00:33.440><c> it's</c><00:00:33.840><c> not</c><00:00:34.079><c> just</c><00:00:34.559><c> the</c>
+videos for you. And it's not just the
+videos for you. And it's not just the
+tooling<00:00:35.280><c> that's</c><00:00:35.600><c> changing.</c><00:00:36.160><c> It's</c><00:00:36.399><c> also</c>
+tooling that's changing. It's also
+tooling that's changing. It's also
+actual<00:00:37.600><c> ads</c><00:00:38.000><c> that</c><00:00:38.239><c> we</c><00:00:38.559><c> see</c><00:00:38.800><c> coming</c><00:00:39.120><c> out</c><00:00:39.520><c> all</c>
+actual ads that we see coming out all
+actual ads that we see coming out all
+the<00:00:40.000><c> time</c><00:00:40.559><c> that</c><00:00:40.879><c> are</c><00:00:41.360><c> controversial</c><00:00:42.079><c> or</c><00:00:42.239><c> AI</c>
+the time that are controversial or AI
+the time that are controversial or AI
+generated.<00:00:43.440><c> And</c><00:00:43.600><c> it's</c><00:00:43.840><c> not</c><00:00:44.000><c> even</c><00:00:44.239><c> just</c><00:00:44.399><c> the</c><00:00:44.719><c> ad</c>
+generated. And it's not even just the ad
+generated. And it's not even just the ad
+space.<00:00:45.520><c> It's</c><00:00:45.840><c> also</c><00:00:46.320><c> AI</c><00:00:46.719><c> generated</c><00:00:47.200><c> imagery</c><00:00:47.600><c> as</c>
+space. It's also AI generated imagery as
+space. It's also AI generated imagery as
+a<00:00:48.000><c> whole</c><00:00:48.239><c> is</c><00:00:49.039><c> exploding</c><00:00:49.760><c> frankly</c><00:00:50.079><c> because</c><00:00:50.320><c> the</c>
+a whole is exploding frankly because the
+a whole is exploding frankly because the
+tools<00:00:50.800><c> are</c><00:00:51.039><c> getting</c><00:00:51.200><c> cheaper</c><00:00:51.520><c> and</c><00:00:51.680><c> better.</c>
+tools are getting cheaper and better.
+tools are getting cheaper and better.
+I'm<00:00:52.239><c> going</c><00:00:52.320><c> to</c><00:00:52.399><c> go</c><00:00:52.559><c> through</c><00:00:52.800><c> just</c><00:00:53.039><c> a</c><00:00:53.280><c> couple</c><00:00:53.520><c> of</c>
+I'm going to go through just a couple of
+I'm going to go through just a couple of
+use<00:00:54.000><c> cases</c><00:00:54.399><c> to</c><00:00:54.640><c> kind</c><00:00:54.800><c> of</c><00:00:54.960><c> freshen</c><00:00:55.360><c> you</c><00:00:55.520><c> up.</c>
+use cases to kind of freshen you up.
+use cases to kind of freshen you up.
+None<00:00:56.000><c> of</c><00:00:56.079><c> this</c><00:00:56.320><c> will</c><00:00:56.480><c> be</c><00:00:56.640><c> surprising</c><00:00:57.440><c> and</c><00:00:57.680><c> then</c>
+None of this will be surprising and then
+None of this will be surprising and then
+I'm<00:00:58.000><c> going</c><00:00:58.079><c> to</c><00:00:58.160><c> explain</c><00:00:58.399><c> how</c><00:00:58.640><c> it</c><00:00:58.800><c> all</c><00:00:58.960><c> comes</c>
+I'm going to explain how it all comes
+I'm going to explain how it all comes
+together.<00:00:59.840><c> So,</c><00:01:00.160><c> first</c><00:01:00.719><c> the</c><00:01:00.960><c> Sydney</c><00:01:01.359><c> Sweeney</c>
+together. So, first the Sydney Sweeney
+together. So, first the Sydney Sweeney
+case,<00:01:02.239><c> right?</c><00:01:02.800><c> This</c><00:01:03.039><c> was</c><00:01:03.199><c> a</c><00:01:03.359><c> famous</c><00:01:03.680><c> case</c>
+case, right? This was a famous case
+case, right? This was a famous case
+where<00:01:04.320><c> Sydney</c><00:01:05.199><c> was</c><00:01:05.519><c> a</c><00:01:05.840><c> real</c><00:01:06.080><c> person</c><00:01:06.560><c> in</c><00:01:06.799><c> an</c><00:01:07.040><c> ad,</c>
+where Sydney was a real person in an ad,
+where Sydney was a real person in an ad,
+but<00:01:07.760><c> certain</c><00:01:08.159><c> components</c><00:01:08.880><c> of</c><00:01:09.119><c> the</c><00:01:09.360><c> ad</c><00:01:09.600><c> were</c><00:01:09.840><c> AI</c>
+but certain components of the ad were AI
+but certain components of the ad were AI
+generated<00:01:10.640><c> because</c><00:01:10.799><c> it</c><00:01:11.040><c> was</c><00:01:11.119><c> cheaper.</c><00:01:11.439><c> I</c>
+generated because it was cheaper. I
+generated because it was cheaper. I
+believe<00:01:11.840><c> the</c><00:01:12.080><c> car</c><00:01:12.479><c> driving</c><00:01:12.880><c> away</c><00:01:13.520><c> was</c><00:01:13.840><c> AI</c>
+believe the car driving away was AI
+believe the car driving away was AI
+generated<00:01:14.640><c> toward</c><00:01:14.880><c> the</c><00:01:15.119><c> end</c><00:01:15.200><c> of</c><00:01:15.280><c> the</c><00:01:15.439><c> ad.</c><00:01:16.000><c> The</c>
+generated toward the end of the ad. The
+generated toward the end of the ad. The
+point<00:01:16.479><c> here</c><00:01:16.880><c> is</c><00:01:17.119><c> that</c><00:01:17.439><c> the</c><00:01:17.840><c> brand</c><00:01:18.640><c> chose</c><00:01:19.119><c> to</c>
+point here is that the brand chose to
+point here is that the brand chose to
+lean<00:01:20.000><c> into</c><00:01:21.439><c> controversy</c><00:01:22.159><c> and</c><00:01:22.400><c> they've</c>
+lean into controversy and they've
+lean into controversy and they've
+admitted<00:01:22.960><c> that,</c><00:01:23.200><c> right?</c><00:01:23.439><c> They</c><00:01:23.600><c> chose</c><00:01:23.840><c> to</c><00:01:23.920><c> lean</c>
+admitted that, right? They chose to lean
+admitted that, right? They chose to lean
+into<00:01:24.320><c> a</c><00:01:24.560><c> controversial</c><00:01:25.200><c> stance</c><00:01:25.600><c> with</c><00:01:25.840><c> their</c>
+into a controversial stance with their
+into a controversial stance with their
+with<00:01:26.479><c> their</c><00:01:27.200><c> particular</c><00:01:27.840><c> angle</c><00:01:28.159><c> on</c><00:01:28.400><c> the</c><00:01:28.560><c> GAN</c>
+with their particular angle on the GAN
+with their particular angle on the GAN
+ad.<00:01:29.439><c> And</c><00:01:29.600><c> they</c><00:01:29.759><c> chose</c><00:01:30.000><c> to</c><00:01:30.159><c> lean</c><00:01:30.479><c> into</c><00:01:31.040><c> classic</c>
+ad. And they chose to lean into classic
+ad. And they chose to lean into classic
+controversial<00:01:32.400><c> jeans</c><00:01:32.720><c> ads</c><00:01:33.280><c> from</c><00:01:33.600><c> the</c><00:01:33.840><c> past.</c>
+controversial jeans ads from the past.
+controversial jeans ads from the past.
+The<00:01:34.240><c> Brook</c><00:01:34.560><c> Shields</c><00:01:34.960><c> ads</c><00:01:35.280><c> from</c><00:01:35.520><c> the</c><00:01:35.759><c> 1990s</c>
+The Brook Shields ads from the 1990s
+The Brook Shields ads from the 1990s
+were<00:01:36.720><c> deliberately</c><00:01:37.439><c> evoked.</c><00:01:38.159><c> We're</c><00:01:38.320><c> not</c>
+were deliberately evoked. We're not
+were deliberately evoked. We're not
+here.<00:01:38.640><c> I</c><00:01:38.880><c> am</c><00:01:39.119><c> not</c><00:01:39.280><c> going</c><00:01:39.439><c> to</c><00:01:39.680><c> break</c><00:01:39.920><c> down</c>
+here. I am not going to break down
+here. I am not going to break down
+marketing<00:01:40.640><c> history</c><00:01:40.960><c> for</c><00:01:41.200><c> you.</c><00:01:41.600><c> If</c><00:01:41.840><c> you</c><00:01:41.920><c> want</c>
+marketing history for you. If you want
+marketing history for you. If you want
+to<00:01:42.159><c> look</c><00:01:42.240><c> up</c><00:01:42.400><c> the</c><00:01:42.560><c> Brook</c><00:01:42.799><c> Shields</c><00:01:43.119><c> Calvin</c>
+to look up the Brook Shields Calvin
+to look up the Brook Shields Calvin
+Klein<00:01:43.680><c> ads,</c><00:01:44.000><c> it's</c><00:01:44.159><c> a</c><00:01:44.320><c> very</c><00:01:44.479><c> famous</c><00:01:44.880><c> example</c><00:01:45.520><c> of</c>
+Klein ads, it's a very famous example of
+Klein ads, it's a very famous example of
+the<00:01:46.079><c> controversy</c><00:01:46.640><c> that</c><00:01:46.960><c> genes</c><00:01:47.280><c> ads</c><00:01:47.520><c> have</c>
+the controversy that genes ads have
+the controversy that genes ads have
+historically<00:01:48.159><c> done,</c><00:01:48.399><c> which</c><00:01:48.640><c> in</c><00:01:48.799><c> and</c><00:01:48.960><c> of</c>
+historically done, which in and of
+historically done, which in and of
+themselves<00:01:49.759><c> are</c><00:01:50.000><c> interesting</c><00:01:50.799><c> because</c><00:01:51.280><c> genes</c>
+themselves are interesting because genes
+themselves are interesting because genes
+are<00:01:52.720><c> ubiquitous.</c><00:01:53.439><c> Everyone</c><00:01:53.920><c> has</c><00:01:54.240><c> genes.</c><00:01:54.640><c> And</c>
+are ubiquitous. Everyone has genes. And
+are ubiquitous. Everyone has genes. And
+so<00:01:55.040><c> having</c><00:01:55.280><c> to</c><00:01:55.439><c> market</c><00:01:55.759><c> them</c><00:01:56.079><c> means</c><00:01:56.399><c> you</c><00:01:56.640><c> sort</c>
+so having to market them means you sort
+so having to market them means you sort
+of<00:01:56.960><c> have</c><00:01:57.119><c> to</c><00:01:57.280><c> step</c><00:01:57.520><c> into</c><00:01:57.759><c> controversy</c><00:01:58.320><c> to</c><00:01:58.560><c> try</c>
+of have to step into controversy to try
+of have to step into controversy to try
+and<00:01:59.040><c> differentiate</c><00:01:59.680><c> yourself</c><00:02:00.000><c> in</c><00:02:00.240><c> the</c><00:02:00.479><c> space.</c>
+and differentiate yourself in the space.
+and differentiate yourself in the space.
+And<00:02:01.119><c> this</c><00:02:01.360><c> is</c><00:02:01.520><c> exactly</c><00:02:01.920><c> what</c><00:02:02.079><c> we're</c><00:02:02.320><c> going</c><00:02:02.399><c> to</c>
+And this is exactly what we're going to
+And this is exactly what we're going to
+dig<00:02:02.719><c> into</c><00:02:03.040><c> more</c><00:02:03.200><c> as</c><00:02:03.439><c> we</c><00:02:03.600><c> get</c><00:02:03.680><c> into</c><00:02:03.920><c> this</c><00:02:04.079><c> idea</c>
+dig into more as we get into this idea
+dig into more as we get into this idea
+of<00:02:04.399><c> local</c><00:02:04.799><c> maxima.</c><00:02:05.759><c> The</c><00:02:06.079><c> second</c><00:02:06.320><c> thing</c><00:02:06.399><c> I</c><00:02:06.640><c> want</c>
+of local maxima. The second thing I want
+of local maxima. The second thing I want
+you<00:02:06.880><c> to</c><00:02:07.040><c> keep</c><00:02:07.200><c> in</c><00:02:07.360><c> mind,</c><00:02:07.840><c> now</c><00:02:08.000><c> we're</c><00:02:08.239><c> getting</c>
+you to keep in mind, now we're getting
+you to keep in mind, now we're getting
+to<00:02:08.560><c> Taylor</c><00:02:08.879><c> Swift,</c><00:02:09.440><c> is</c><00:02:09.599><c> this</c><00:02:09.840><c> idea</c><00:02:10.000><c> of</c><00:02:10.239><c> Taylor</c>
+to Taylor Swift, is this idea of Taylor
+to Taylor Swift, is this idea of Taylor
+Swift<00:02:10.959><c> deep</c><00:02:11.200><c> fakes.</c><00:02:11.520><c> Now,</c><00:02:11.680><c> deep</c><00:02:11.920><c> fakes</c><00:02:12.160><c> are</c>
+Swift deep fakes. Now, deep fakes are
+Swift deep fakes. Now, deep fakes are
+not<00:02:12.400><c> new.</c><00:02:12.720><c> They're</c><00:02:12.879><c> not</c><00:02:13.040><c> certainly</c><00:02:13.360><c> not</c>
+not new. They're not certainly not
+not new. They're not certainly not
+limited<00:02:14.000><c> to</c><00:02:14.239><c> Taylor</c><00:02:14.640><c> Swift,</c><00:02:15.360><c> but</c><00:02:15.599><c> because</c>
+limited to Taylor Swift, but because
+limited to Taylor Swift, but because
+Taylor<00:02:16.239><c> Swift</c><00:02:16.720><c> is</c><00:02:17.040><c> a</c><00:02:17.360><c> famous</c><00:02:18.080><c> woman</c>
+Taylor Swift is a famous woman
+Taylor Swift is a famous woman
+celebrity,<00:02:19.440><c> we</c><00:02:19.680><c> get</c><00:02:20.239><c> in</c><00:02:20.480><c> a</c><00:02:20.800><c> special</c><00:02:21.360><c> case,</c><00:02:22.160><c> a</c>
+celebrity, we get in a special case, a
+celebrity, we get in a special case, a
+special<00:02:22.959><c> prevalence</c><00:02:23.440><c> of</c><00:02:23.680><c> deep</c><00:02:24.000><c> fakes,</c>
+special prevalence of deep fakes,
+special prevalence of deep fakes,
+special<00:02:24.640><c> visibility</c><00:02:25.200><c> on</c><00:02:25.440><c> deep</c><00:02:25.680><c> fakes,</c>
+special visibility on deep fakes,
+special visibility on deep fakes,
+journalists<00:02:26.560><c> tend</c><00:02:26.800><c> to</c><00:02:27.040><c> use</c><00:02:27.440><c> Taylor</c><00:02:27.840><c> Swift</c><00:02:28.400><c> as</c>
+journalists tend to use Taylor Swift as
+journalists tend to use Taylor Swift as
+a<00:02:29.599><c> test</c><00:02:29.920><c> case</c><00:02:30.480><c> when</c><00:02:30.800><c> they</c><00:02:31.040><c> are</c><00:02:31.280><c> investigating</c>
+a test case when they are investigating
+a test case when they are investigating
+the<00:02:32.239><c> safety</c><00:02:32.560><c> of</c><00:02:32.720><c> AI</c><00:02:33.120><c> systems.</c><00:02:33.760><c> And</c><00:02:34.000><c> so</c><00:02:34.160><c> that's</c>
+the safety of AI systems. And so that's
+the safety of AI systems. And so that's
+why<00:02:34.560><c> we</c><00:02:34.800><c> get</c><00:02:35.120><c> an</c><00:02:35.440><c> immediate</c><00:02:35.920><c> test</c><00:02:36.239><c> of</c><00:02:36.480><c> Grock's</c>
+why we get an immediate test of Grock's
+why we get an immediate test of Grock's
+imagine<00:02:37.440><c> feature</c><00:02:37.840><c> and</c><00:02:38.080><c> an</c><00:02:38.239><c> immediate</c><00:02:38.720><c> sort</c><00:02:38.959><c> of</c>
+imagine feature and an immediate sort of
+imagine feature and an immediate sort of
+news<00:02:39.680><c> headline</c><00:02:40.080><c> around</c><00:02:40.319><c> the</c><00:02:40.480><c> world</c><00:02:40.640><c> that</c>
+news headline around the world that
+news headline around the world that
+Grock's<00:02:41.280><c> imagine</c><00:02:41.680><c> feature</c><00:02:42.080><c> will</c><00:02:42.319><c> create</c>
+Grock's imagine feature will create
+Grock's imagine feature will create
+adult<00:02:43.200><c> images</c><00:02:43.599><c> of</c><00:02:43.840><c> Taylor</c><00:02:44.239><c> Swift</c><00:02:44.720><c> as</c><00:02:44.959><c> deep</c>
+adult images of Taylor Swift as deep
+adult images of Taylor Swift as deep
+fakes.<00:02:45.680><c> You</c><00:02:45.920><c> might</c><00:02:46.080><c> wonder</c><00:02:46.400><c> now</c><00:02:46.560><c> where</c><00:02:46.800><c> is</c>
+fakes. You might wonder now where is
+fakes. You might wonder now where is
+this<00:02:47.120><c> going</c><00:02:47.360><c> with</c><00:02:47.599><c> ads?</c><00:02:48.319><c> I'm</c><00:02:48.720><c> sharing</c><00:02:49.200><c> this</c>
+this going with ads? I'm sharing this
+this going with ads? I'm sharing this
+part<00:02:50.239><c> because</c><00:02:51.280><c> we</c><00:02:51.599><c> are</c><00:02:51.760><c> fundamentally</c><00:02:52.560><c> in</c><00:02:52.800><c> a</c>
+part because we are fundamentally in a
+part because we are fundamentally in a
+situation<00:02:53.599><c> where</c><00:02:54.400><c> the</c><00:02:54.800><c> technology</c><00:02:55.519><c> to</c><00:02:55.920><c> create</c>
+situation where the technology to create
+situation where the technology to create
+ads<00:02:57.200><c> and</c><00:02:57.360><c> the</c><00:02:57.599><c> technology</c><00:02:58.000><c> to</c><00:02:58.160><c> create</c>
+ads and the technology to create
+ads and the technology to create
+controversy,<00:02:59.120><c> which</c><00:02:59.360><c> is</c><00:02:59.519><c> exactly</c><00:02:59.840><c> what</c><00:03:00.000><c> we</c>
+controversy, which is exactly what we
+controversy, which is exactly what we
+got<00:03:00.239><c> at</c><00:03:00.480><c> with</c><00:03:00.640><c> the</c><00:03:00.720><c> Sydney</c><00:03:01.040><c> Sweeney</c><00:03:01.440><c> case,</c><00:03:01.920><c> are</c>
+got at with the Sydney Sweeney case, are
+got at with the Sydney Sweeney case, are
+converging<00:03:02.800><c> and</c><00:03:03.040><c> cheapening.</c><00:03:03.599><c> In</c><00:03:03.760><c> other</c>
+converging and cheapening. In other
+converging and cheapening. In other
+words,<00:03:04.159><c> part</c><00:03:04.400><c> of</c><00:03:04.480><c> why</c><00:03:04.720><c> we're</c><00:03:04.879><c> at</c><00:03:05.040><c> a</c><00:03:05.200><c> local</c>
+words, part of why we're at a local
+words, part of why we're at a local
+maxima,<00:03:06.000><c> is</c><00:03:06.159><c> that</c><00:03:06.319><c> the</c><00:03:06.560><c> technology</c><00:03:06.959><c> to</c><00:03:07.280><c> create</c>
+maxima, is that the technology to create
+maxima, is that the technology to create
+this<00:03:08.239><c> kind</c><00:03:08.640><c> of</c><00:03:09.120><c> product</c><00:03:09.599><c> is</c><00:03:09.920><c> cheaper</c><00:03:10.319><c> and</c>
+this kind of product is cheaper and
+this kind of product is cheaper and
+cheaper<00:03:10.959><c> and</c><00:03:11.200><c> cheaper</c><00:03:11.519><c> and</c><00:03:11.760><c> cheaper.</c><00:03:12.400><c> digital</c>
+cheaper and cheaper and cheaper. digital
+cheaper and cheaper and cheaper. digital
+ads<00:03:13.680><c> that</c><00:03:14.000><c> would</c><00:03:14.319><c> have</c><00:03:14.560><c> cost,</c><00:03:15.440><c> you</c><00:03:15.680><c> know,</c><00:03:15.920><c> a</c>
+ads that would have cost, you know, a
+ads that would have cost, you know, a
+million<00:03:16.560><c> dollars</c><00:03:17.360><c> a</c><00:03:17.680><c> couple</c><00:03:17.840><c> of</c><00:03:18.000><c> years</c><00:03:18.159><c> ago</c>
+million dollars a couple of years ago
+million dollars a couple of years ago
+are<00:03:18.959><c> a</c><00:03:19.120><c> tenth</c><00:03:19.360><c> of</c><00:03:19.519><c> the</c><00:03:19.680><c> price</c><00:03:19.920><c> or</c><00:03:20.159><c> less</c><00:03:20.560><c> now</c><00:03:21.040><c> and</c>
+are a tenth of the price or less now and
+are a tenth of the price or less now and
+they're<00:03:21.519><c> going</c><00:03:21.760><c> down</c><00:03:22.080><c> further.</c><00:03:22.720><c> We</c><00:03:22.959><c> are</c><00:03:23.120><c> going</c>
+they're going down further. We are going
+they're going down further. We are going
+to<00:03:23.440><c> see</c><00:03:23.760><c> more</c><00:03:24.000><c> and</c><00:03:24.319><c> more</c><00:03:24.720><c> major</c><00:03:25.120><c> brands</c><00:03:25.599><c> jump</c>
+to see more and more major brands jump
+to see more and more major brands jump
+on<00:03:26.080><c> the</c><00:03:26.239><c> AI</c><00:03:26.560><c> generated</c><00:03:26.959><c> ad</c><00:03:27.200><c> train.</c><00:03:27.519><c> I</c><00:03:27.680><c> am</c><00:03:27.760><c> I</c><00:03:28.080><c> am</c>
+on the AI generated ad train. I am I am
+on the AI generated ad train. I am I am
+fully<00:03:28.720><c> prepared</c><00:03:29.200><c> for</c><00:03:29.519><c> a</c><00:03:29.840><c> doubledigit</c><00:03:30.720><c> share</c>
+fully prepared for a doubledigit share
+fully prepared for a doubledigit share
+of<00:03:31.280><c> the</c><00:03:31.519><c> ads</c><00:03:31.840><c> in</c><00:03:32.000><c> the</c><00:03:32.239><c> Super</c><00:03:32.480><c> Bowl</c><00:03:32.720><c> in</c><00:03:32.959><c> 2026</c>
+of the ads in the Super Bowl in 2026
+of the ads in the Super Bowl in 2026
+being<00:03:34.560><c> AI</c><00:03:34.959><c> generated</c><00:03:35.760><c> at</c><00:03:35.840><c> least</c><00:03:36.319><c> in</c><00:03:36.720><c> part.</c><00:03:37.360><c> So,</c>
+being AI generated at least in part. So,
+being AI generated at least in part. So,
+there's<00:03:38.239><c> a</c><00:03:38.480><c> third</c><00:03:38.799><c> piece</c><00:03:39.120><c> here</c><00:03:39.280><c> that</c><00:03:39.519><c> I</c><00:03:39.680><c> want</c>
+there's a third piece here that I want
+there's a third piece here that I want
+to<00:03:39.920><c> get</c><00:03:40.000><c> at</c><00:03:40.239><c> before</c><00:03:40.560><c> we</c><00:03:40.720><c> start</c><00:03:40.799><c> to</c><00:03:41.040><c> dive</c><00:03:41.200><c> into</c>
+to get at before we start to dive into
+to get at before we start to dive into
+the<00:03:41.680><c> relationship</c><00:03:42.159><c> between</c><00:03:42.480><c> all</c><00:03:42.640><c> of</c><00:03:42.799><c> these</c>
+the relationship between all of these
+the relationship between all of these
+components.<00:03:43.840><c> And</c><00:03:44.080><c> the</c><00:03:44.239><c> third</c><00:03:44.480><c> piece</c><00:03:45.040><c> is</c><00:03:45.360><c> the</c>
+components. And the third piece is the
+components. And the third piece is the
+idea<00:03:46.400><c> of</c><00:03:47.040><c> the</c><00:03:47.440><c> uncanny</c><00:03:48.720><c> valley.</c><00:03:49.440><c> Essentially,</c>
+idea of the uncanny valley. Essentially,
+idea of the uncanny valley. Essentially,
+you<00:03:50.640><c> need</c><00:03:50.799><c> to</c><00:03:50.959><c> combine</c><00:03:51.360><c> the</c><00:03:51.599><c> controversy</c><00:03:52.159><c> of</c>
+you need to combine the controversy of
+you need to combine the controversy of
+Sydney<00:03:52.720><c> Sweeney,</c><00:03:53.360><c> the</c><00:03:53.519><c> ease</c><00:03:53.840><c> of</c><00:03:54.159><c> production,</c>
+Sydney Sweeney, the ease of production,
+Sydney Sweeney, the ease of production,
+and<00:03:55.280><c> the</c><00:03:55.599><c> parasocial</c><00:03:56.319><c> nature</c><00:03:56.560><c> of</c><00:03:56.799><c> celebrity</c>
+and the parasocial nature of celebrity
+and the parasocial nature of celebrity
+relationships,<00:03:57.920><c> which</c><00:03:58.159><c> enables</c><00:03:58.560><c> the</c>
+relationships, which enables the
+relationships, which enables the
+creation<00:03:58.959><c> of</c><00:03:59.120><c> deep</c><00:03:59.439><c> fakes</c><00:03:59.760><c> of</c><00:03:59.840><c> Taylor</c><00:04:00.159><c> Swift</c>
+creation of deep fakes of Taylor Swift
+creation of deep fakes of Taylor Swift
+and<00:04:00.640><c> other</c><00:04:00.879><c> celebrities,</c><00:04:01.760><c> with</c><00:04:02.400><c> the</c><00:04:02.720><c> notion</c>
+and other celebrities, with the notion
+and other celebrities, with the notion
+that<00:04:03.360><c> we</c><00:04:03.680><c> can't</c><00:04:04.000><c> tell</c><00:04:04.159><c> the</c><00:04:04.480><c> difference</c>
+that we can't tell the difference
+that we can't tell the difference
+anymore.<00:04:05.760><c> And</c><00:04:06.000><c> this</c><00:04:06.239><c> is</c><00:04:06.319><c> something</c><00:04:06.560><c> that's</c>
+anymore. And this is something that's
+anymore. And this is something that's
+true<00:04:07.200><c> even</c><00:04:07.439><c> of</c><00:04:07.680><c> Gen</c><00:04:08.000><c> Z.</c><00:04:08.400><c> It's</c><00:04:08.640><c> not</c><00:04:08.959><c> really</c><00:04:09.280><c> an</c>
+true even of Gen Z. It's not really an
+true even of Gen Z. It's not really an
+agist<00:04:10.080><c> thing.</c><00:04:10.640><c> Gen</c><00:04:11.040><c> Z</c><00:04:11.680><c> in</c><00:04:12.159><c> study</c><00:04:12.560><c> after</c><00:04:12.879><c> study</c>
+agist thing. Gen Z in study after study
+agist thing. Gen Z in study after study
+after<00:04:13.439><c> study</c><00:04:14.159><c> professes</c><00:04:14.959><c> to</c><00:04:15.360><c> care</c><00:04:15.680><c> about</c>
+after study professes to care about
+after study professes to care about
+authenticity.<00:04:17.280><c> But</c><00:04:17.440><c> the</c><00:04:17.680><c> reality</c><00:04:18.160><c> is</c><00:04:18.720><c> they</c>
+authenticity. But the reality is they
+authenticity. But the reality is they
+also<00:04:19.759><c> struggle</c><00:04:20.160><c> in</c><00:04:20.479><c> study</c><00:04:20.799><c> after</c><00:04:21.120><c> study</c><00:04:21.840><c> to</c>
+also struggle in study after study to
+also struggle in study after study to
+tell<00:04:22.400><c> the</c><00:04:22.800><c> difference</c><00:04:23.680><c> between</c><00:04:24.080><c> good</c><00:04:24.560><c> AI</c>
+tell the difference between good AI
+tell the difference between good AI
+generated<00:04:25.600><c> material</c><00:04:26.320><c> and</c><00:04:26.720><c> real</c><00:04:27.120><c> material.</c>
+generated material and real material.
+generated material and real material.
+And<00:04:28.000><c> I</c><00:04:28.160><c> will</c><00:04:28.320><c> tell</c><00:04:28.479><c> you</c><00:04:28.960><c> as</c><00:04:29.199><c> a</c><00:04:29.360><c> part</c><00:04:29.440><c> of</c><00:04:29.520><c> the</c>
+And I will tell you as a part of the
+And I will tell you as a part of the
+test<00:04:30.000><c> case</c><00:04:30.240><c> here,</c><00:04:30.560><c> I</c><00:04:30.800><c> went</c><00:04:30.880><c> to</c><00:04:31.120><c> midjourney</c><00:04:32.080><c> to</c>
+test case here, I went to midjourney to
+test case here, I went to midjourney to
+create<00:04:32.800><c> images</c><00:04:33.120><c> of</c><00:04:33.360><c> Taylor</c><00:04:33.680><c> Swift</c><00:04:34.000><c> in</c>
+create images of Taylor Swift in
+create images of Taylor Swift in
+concert.<00:04:34.479><c> They</c><00:04:34.639><c> were</c><00:04:34.800><c> not</c><00:04:34.960><c> inappropriate</c>
+concert. They were not inappropriate
+concert. They were not inappropriate
+images.<00:04:35.919><c> They</c><00:04:36.080><c> were</c><00:04:36.240><c> just</c><00:04:36.400><c> like</c><00:04:36.639><c> Taylor</c><00:04:36.960><c> Swift</c>
+images. They were just like Taylor Swift
+images. They were just like Taylor Swift
+in<00:04:37.520><c> concert</c><00:04:37.840><c> images.</c><00:04:38.479><c> And</c><00:04:38.639><c> if</c><00:04:38.880><c> I</c><00:04:39.040><c> had</c><00:04:39.199><c> been</c>
+in concert images. And if I had been
+in concert images. And if I had been
+shown<00:04:39.759><c> those</c><00:04:40.160><c> images,</c><00:04:40.880><c> I</c><00:04:41.120><c> would</c><00:04:41.280><c> not</c><00:04:41.520><c> be</c><00:04:41.680><c> able</c>
+shown those images, I would not be able
+shown those images, I would not be able
+to<00:04:42.080><c> tell</c><00:04:42.320><c> you</c><00:04:42.479><c> if</c><00:04:42.720><c> it</c><00:04:42.880><c> was</c><00:04:42.960><c> an</c><00:04:43.120><c> artistic</c><00:04:43.600><c> shot</c>
+to tell you if it was an artistic shot
+to tell you if it was an artistic shot
+by<00:04:44.080><c> a</c><00:04:44.240><c> photographer</c><00:04:44.800><c> from</c><00:04:45.040><c> a</c><00:04:45.280><c> real</c><00:04:45.600><c> Taylor</c>
+by a photographer from a real Taylor
+by a photographer from a real Taylor
+Swift<00:04:46.400><c> concert</c><00:04:47.040><c> or</c><00:04:47.280><c> if</c><00:04:47.440><c> it</c><00:04:47.600><c> was</c><00:04:47.680><c> made</c><00:04:47.919><c> up.</c><00:04:48.320><c> And</c>
+Swift concert or if it was made up. And
+Swift concert or if it was made up. And
+I<00:04:48.639><c> think</c><00:04:48.720><c> that</c><00:04:48.880><c> that's</c><00:04:49.120><c> part</c><00:04:49.360><c> of</c><00:04:49.440><c> what's</c><00:04:49.759><c> going</c>
+I think that that's part of what's going
+I think that that's part of what's going
+on<00:04:50.320><c> that</c><00:04:50.560><c> makes</c><00:04:50.720><c> it</c><00:04:51.040><c> challenging</c><00:04:51.520><c> here</c><00:04:51.840><c> is</c>
+on that makes it challenging here is
+on that makes it challenging here is
+that<00:04:52.320><c> we</c><00:04:52.720><c> ourselves</c><00:04:53.600><c> are</c><00:04:53.840><c> unable</c><00:04:54.320><c> to</c>
+that we ourselves are unable to
+that we ourselves are unable to
+distinguish<00:04:55.600><c> artificial</c><00:04:56.240><c> tokens</c><00:04:56.720><c> from</c><00:04:57.040><c> real</c>
+distinguish artificial tokens from real
+distinguish artificial tokens from real
+tokens<00:04:57.759><c> in</c><00:04:58.240><c> ad</c><00:04:58.560><c> situations</c><00:04:59.280><c> or</c><00:04:59.600><c> other</c>
+tokens in ad situations or other
+tokens in ad situations or other
+situations<00:05:00.880><c> today.</c><00:05:01.520><c> It's</c><00:05:01.759><c> true</c><00:05:01.919><c> in</c><00:05:02.080><c> words</c>
+situations today. It's true in words
+situations today. It's true in words
+too,<00:05:02.560><c> but</c><00:05:02.720><c> we're</c><00:05:02.960><c> talking</c><00:05:03.120><c> in</c><00:05:03.360><c> marketing</c><00:05:03.600><c> and</c>
+too, but we're talking in marketing and
+too, but we're talking in marketing and
+images<00:05:04.400><c> are</c><00:05:04.639><c> central</c><00:05:04.880><c> to</c><00:05:05.040><c> marketing.</c><00:05:05.440><c> So,</c>
+images are central to marketing. So,
+images are central to marketing. So,
+we're<00:05:05.680><c> going</c><00:05:05.759><c> to</c><00:05:05.840><c> stay</c><00:05:06.000><c> focused</c><00:05:06.320><c> on</c><00:05:06.479><c> that</c><00:05:06.560><c> for</c>
+we're going to stay focused on that for
+we're going to stay focused on that for
+the<00:05:06.880><c> day.</c><00:05:07.120><c> So,</c><00:05:07.280><c> those</c><00:05:07.440><c> are</c><00:05:07.520><c> the</c><00:05:07.680><c> three</c><00:05:07.840><c> pieces</c>
+the day. So, those are the three pieces
+the day. So, those are the three pieces
+I<00:05:08.320><c> want</c><00:05:08.400><c> to</c><00:05:08.560><c> bring</c><00:05:08.639><c> together.</c><00:05:08.960><c> We</c><00:05:09.120><c> have</c><00:05:09.199><c> Sydney</c>
+I want to bring together. We have Sydney
+I want to bring together. We have Sydney
+Sweeney,<00:05:09.919><c> we</c><00:05:10.080><c> have</c><00:05:10.160><c> Taylor</c><00:05:10.479><c> Swift,</c><00:05:10.800><c> and</c><00:05:10.960><c> we</c>
+Sweeney, we have Taylor Swift, and we
+Sweeney, we have Taylor Swift, and we
+have<00:05:11.199><c> this</c><00:05:11.440><c> idea</c><00:05:11.600><c> of</c><00:05:11.759><c> the</c><00:05:11.919><c> uncanny</c><00:05:12.400><c> valley.</c>
+have this idea of the uncanny valley.
+have this idea of the uncanny valley.
+Where<00:05:13.280><c> does</c><00:05:13.520><c> this</c><00:05:13.759><c> take</c><00:05:14.000><c> us?</c><00:05:14.479><c> Fundamentally,</c>
+Where does this take us? Fundamentally,
+Where does this take us? Fundamentally,
+I<00:05:15.600><c> want</c><00:05:15.680><c> to</c><00:05:15.919><c> suggest</c><00:05:16.240><c> to</c><00:05:16.479><c> you</c><00:05:16.960><c> that</c><00:05:17.280><c> we</c><00:05:17.520><c> are</c>
+I want to suggest to you that we are
+I want to suggest to you that we are
+living<00:05:18.080><c> in</c><00:05:18.800><c> an</c><00:05:19.039><c> evolved</c><00:05:19.680><c> system</c><00:05:20.479><c> that</c><00:05:20.880><c> has</c>
+living in an evolved system that has
+living in an evolved system that has
+unintentionally
+unintentionally
+unintentionally
+evolved<00:05:23.919><c> to</c><00:05:24.240><c> a</c><00:05:24.479><c> local</c><00:05:25.199><c> maxima.</c><00:05:25.919><c> And</c><00:05:26.080><c> I</c><00:05:26.320><c> want</c><00:05:26.400><c> to</c>
+evolved to a local maxima. And I want to
+evolved to a local maxima. And I want to
+walk<00:05:26.800><c> through</c><00:05:26.960><c> the</c><00:05:27.199><c> technical</c><00:05:27.600><c> reasons</c><00:05:27.919><c> for</c>
+walk through the technical reasons for
+walk through the technical reasons for
+that.<00:05:28.240><c> And</c><00:05:28.400><c> then</c><00:05:28.560><c> I</c><00:05:28.720><c> want</c><00:05:28.800><c> to</c><00:05:28.960><c> walk</c><00:05:29.120><c> through</c>
+that. And then I want to walk through
+that. And then I want to walk through
+because<00:05:29.680><c> I'm</c><00:05:29.840><c> Nate</c><00:05:30.240><c> and</c><00:05:30.479><c> I</c><00:05:30.639><c> like</c><00:05:30.880><c> practical</c>
+because I'm Nate and I like practical
+because I'm Nate and I like practical
+solutions.<00:05:32.160><c> Some</c><00:05:32.400><c> ways</c><00:05:32.720><c> forward</c><00:05:33.039><c> out</c><00:05:33.199><c> of</c><00:05:33.360><c> that</c>
+solutions. Some ways forward out of that
+solutions. Some ways forward out of that
+local<00:05:33.840><c> maxima.</c><00:05:34.639><c> So</c><00:05:34.880><c> first</c><00:05:35.120><c> things</c><00:05:35.440><c> first,</c>
+local maxima. So first things first,
+local maxima. So first things first,
+what<00:05:36.320><c> are</c><00:05:36.400><c> the</c><00:05:36.639><c> system</c><00:05:37.039><c> dynamics</c><00:05:37.600><c> that</c><00:05:37.840><c> we're</c>
+what are the system dynamics that we're
+what are the system dynamics that we're
+all<00:05:38.320><c> living</c><00:05:38.560><c> in</c><00:05:38.800><c> for</c><00:05:39.039><c> marketing?</c><00:05:39.440><c> And</c><00:05:39.600><c> this</c>
+all living in for marketing? And this
+all living in for marketing? And this
+includes<00:05:40.160><c> marketers.</c><00:05:40.639><c> My</c><00:05:40.800><c> job</c><00:05:40.960><c> here</c><00:05:41.120><c> is</c><00:05:41.280><c> not</c>
+includes marketers. My job here is not
+includes marketers. My job here is not
+to<00:05:41.600><c> blame</c><00:05:41.840><c> marketers.</c><00:05:42.240><c> It's</c><00:05:42.400><c> actually</c><00:05:42.560><c> to</c>
+to blame marketers. It's actually to
+to blame marketers. It's actually to
+talk<00:05:42.960><c> about</c><00:05:43.120><c> the</c><00:05:43.360><c> system</c><00:05:43.600><c> as</c><00:05:43.759><c> a</c><00:05:43.919><c> whole</c><00:05:44.000><c> and</c><00:05:44.240><c> how</c>
+talk about the system as a whole and how
+talk about the system as a whole and how
+AI<00:05:44.720><c> is</c><00:05:44.960><c> accelerating</c><00:05:45.440><c> it.</c><00:05:45.840><c> AI</c><00:05:46.320><c> systems</c><00:05:46.960><c> are</c>
+AI is accelerating it. AI systems are
+AI is accelerating it. AI systems are
+creating<00:05:47.840><c> evolutionary</c><00:05:48.800><c> pressure</c><00:05:49.280><c> on</c><00:05:49.600><c> human</c>
+creating evolutionary pressure on human
+creating evolutionary pressure on human
+content<00:05:50.400><c> creation.</c><00:05:51.039><c> So</c><00:05:51.280><c> artificial</c>
+content creation. So artificial
+content creation. So artificial
+authenticity<00:05:52.560><c> is</c><00:05:52.960><c> going</c><00:05:53.120><c> to</c><00:05:53.440><c> out</c><00:05:53.840><c> compete</c>
+authenticity is going to out compete
+authenticity is going to out compete
+genuine<00:05:55.039><c> authenticity</c><00:05:55.680><c> in</c><00:05:56.000><c> algorithmic</c>
+genuine authenticity in algorithmic
+genuine authenticity in algorithmic
+environments.<00:05:57.199><c> In</c><00:05:57.360><c> other</c><00:05:57.520><c> words,</c><00:05:57.759><c> AI</c><00:05:58.160><c> is</c><00:05:58.320><c> an</c>
+environments. In other words, AI is an
+environments. In other words, AI is an
+accelerant<00:05:59.360><c> on</c><00:05:59.680><c> top</c><00:06:00.000><c> of</c><00:06:00.240><c> the</c><00:06:01.120><c> social</c>
+accelerant on top of the social
+accelerant on top of the social
+algorithms<00:06:02.240><c> that</c><00:06:02.479><c> we</c><00:06:02.639><c> have</c><00:06:02.800><c> built</c><00:06:03.039><c> and</c>
+algorithms that we have built and
+algorithms that we have built and
+optimized<00:06:03.919><c> through</c><00:06:04.240><c> social</c><00:06:04.800><c> networks</c><00:06:05.360><c> over</c>
+optimized through social networks over
+optimized through social networks over
+the<00:06:05.759><c> last</c><00:06:06.000><c> 20</c><00:06:06.240><c> years.</c><00:06:06.880><c> This</c><00:06:07.120><c> includes</c><00:06:07.520><c> at</c>
+the last 20 years. This includes at
+the last 20 years. This includes at
+least<00:06:08.240><c> four</c><00:06:08.720><c> individual</c><00:06:09.360><c> feedback</c><00:06:09.759><c> loops</c>
+least four individual feedback loops
+least four individual feedback loops
+that<00:06:10.240><c> are</c><00:06:10.400><c> all</c><00:06:10.639><c> accelerating.</c><00:06:11.360><c> One</c><00:06:11.600><c> is</c>
+that are all accelerating. One is
+that are all accelerating. One is
+sampling<00:06:12.319><c> feedback</c><00:06:12.720><c> loops.</c><00:06:13.120><c> So,</c>
+sampling feedback loops. So,
+sampling feedback loops. So,
+controversial<00:06:14.080><c> content</c><00:06:14.479><c> tends</c><00:06:14.880><c> to</c><00:06:15.039><c> get</c><00:06:15.199><c> more</c>
+controversial content tends to get more
+controversial content tends to get more
+distribution<00:06:16.160><c> and</c><00:06:16.400><c> creates</c><00:06:16.800><c> training</c><00:06:17.120><c> data</c>
+distribution and creates training data
+distribution and creates training data
+that<00:06:17.520><c> biases</c><00:06:18.080><c> towards</c><00:06:18.400><c> more</c><00:06:18.639><c> controversy.</c>
+that biases towards more controversy.
+that biases towards more controversy.
+That's<00:06:19.440><c> the</c><00:06:19.600><c> Sydney</c><00:06:20.000><c> Sweeney</c><00:06:20.400><c> use</c><00:06:20.560><c> case.</c>
+That's the Sydney Sweeney use case.
+That's the Sydney Sweeney use case.
+Essentially,
+Essentially,
+Essentially,
+the<00:06:22.720><c> feedback</c><00:06:23.199><c> loop</c><00:06:23.680><c> samples</c><00:06:24.400><c> and</c><00:06:24.800><c> gets</c><00:06:25.199><c> an</c>
+the feedback loop samples and gets an
+the feedback loop samples and gets an
+idea<00:06:25.919><c> of</c><00:06:26.240><c> what</c><00:06:26.560><c> works</c><00:06:26.960><c> well.</c><00:06:27.360><c> Controversial</c>
+idea of what works well. Controversial
+idea of what works well. Controversial
+content,<00:06:28.479><c> it's</c><00:06:28.800><c> well</c><00:06:28.960><c> known,</c><00:06:29.360><c> does</c><00:06:29.600><c> better</c><00:06:29.840><c> in</c>
+content, it's well known, does better in
+content, it's well known, does better in
+the<00:06:30.319><c> feed,</c><00:06:30.880><c> and</c><00:06:31.120><c> so</c><00:06:31.360><c> it</c><00:06:31.600><c> generates</c><00:06:32.160><c> more</c>
+the feed, and so it generates more
+the feed, and so it generates more
+controversial<00:06:33.199><c> content</c><00:06:34.000><c> to</c><00:06:34.639><c> accelerate</c>
+controversial content to accelerate
+controversial content to accelerate
+that,<00:06:35.440><c> right?</c><00:06:35.680><c> I</c><00:06:36.000><c> we</c><00:06:36.319><c> have</c><00:06:36.560><c> talked</c><00:06:36.800><c> about</c><00:06:37.039><c> this</c>
+that, right? I we have talked about this
+that, right? I we have talked about this
+broadly<00:06:38.080><c> as</c><00:06:38.240><c> a</c><00:06:38.479><c> society.</c><00:06:38.960><c> We</c><00:06:39.120><c> haven't</c>
+broadly as a society. We haven't
+broadly as a society. We haven't
+necessarily<00:06:39.840><c> talked</c><00:06:40.080><c> about</c><00:06:40.240><c> the</c><00:06:40.479><c> idea</c><00:06:40.639><c> that</c>
+necessarily talked about the idea that
+necessarily talked about the idea that
+AI<00:06:41.120><c> is</c><00:06:41.280><c> an</c><00:06:41.520><c> accelerant</c><00:06:42.080><c> for</c><00:06:42.319><c> this.</c><00:06:43.120><c> AI</c>
+AI is an accelerant for this. AI
+AI is an accelerant for this. AI
+accelerates<00:06:44.800><c> the</c><00:06:45.680><c> uh</c><00:06:46.160><c> production</c><00:06:46.800><c> of</c>
+accelerates the uh production of
+accelerates the uh production of
+controversial<00:06:48.000><c> content</c><00:06:48.400><c> by</c><00:06:48.720><c> making</c><00:06:48.960><c> it</c>
+controversial content by making it
+controversial content by making it
+easier<00:06:49.520><c> and</c><00:06:49.680><c> cheaper</c><00:06:50.319><c> cheaper</c><00:06:50.720><c> to</c><00:06:50.960><c> produce</c>
+easier and cheaper cheaper to produce
+easier and cheaper cheaper to produce
+and<00:06:51.840><c> that</c><00:06:52.000><c> in</c><00:06:52.160><c> turn</c><00:06:52.400><c> reinforces</c><00:06:53.039><c> that</c>
+and that in turn reinforces that
+and that in turn reinforces that
+training<00:06:53.520><c> data</c><00:06:53.840><c> loop</c><00:06:54.080><c> for</c><00:06:54.160><c> the</c><00:06:54.319><c> algorithms.</c>
+training data loop for the algorithms.
+training data loop for the algorithms.
+The<00:06:55.280><c> second</c><00:06:55.600><c> one</c><00:06:56.160><c> is</c>
+The second one is
+The second one is
+feature<00:06:58.400><c> feedback</c><00:06:58.800><c> loops</c><00:06:59.120><c> are</c><00:06:59.280><c> a</c><00:06:59.440><c> problem.</c><00:06:59.680><c> So</c>
+feature feedback loops are a problem. So
+feature feedback loops are a problem. So
+when<00:07:00.000><c> a</c><00:07:00.160><c> user</c><00:07:00.560><c> engages</c><00:07:01.199><c> with</c><00:07:01.599><c> content</c><00:07:02.000><c> they</c>
+when a user engages with content they
+when a user engages with content they
+create<00:07:02.400><c> a</c><00:07:02.639><c> feature</c><00:07:02.960><c> in</c><00:07:03.199><c> the</c><00:07:03.360><c> algorithm.</c><00:07:04.000><c> User</c>
+create a feature in the algorithm. User
+create a feature in the algorithm. User
+engagement<00:07:04.960><c> with</c><00:07:05.280><c> manipulative</c><00:07:06.080><c> content</c>
+engagement with manipulative content
+engagement with manipulative content
+will<00:07:07.120><c> teach</c><00:07:07.360><c> the</c><00:07:07.680><c> algorithms</c><00:07:08.160><c> that</c>
+will teach the algorithms that
+will teach the algorithms that
+manipulation<00:07:08.960><c> equals</c><00:07:09.360><c> quality.</c><00:07:09.840><c> That</c><00:07:10.080><c> one</c><00:07:10.319><c> is</c>
+manipulation equals quality. That one is
+manipulation equals quality. That one is
+also<00:07:10.800><c> not</c><00:07:11.039><c> new</c><00:07:11.199><c> as</c><00:07:11.440><c> a</c><00:07:11.599><c> feedback</c><00:07:12.000><c> loop.</c><00:07:12.400><c> But</c>
+also not new as a feedback loop. But
+also not new as a feedback loop. But
+again,<00:07:12.880><c> AI</c><00:07:13.280><c> is</c><00:07:13.520><c> accelerating</c><00:07:14.160><c> it</c><00:07:14.720><c> because</c><00:07:15.120><c> AI</c>
+again, AI is accelerating it because AI
+again, AI is accelerating it because AI
+is<00:07:16.560><c> essentially</c><00:07:17.360><c> able</c><00:07:17.680><c> to</c><00:07:18.000><c> produce</c><00:07:18.639><c> content</c>
+is essentially able to produce content
+is essentially able to produce content
+that<00:07:19.759><c> is</c><00:07:20.080><c> more</c><00:07:20.479><c> likely</c><00:07:20.880><c> to</c><00:07:21.199><c> be</c><00:07:21.520><c> engaged</c><00:07:22.080><c> with.</c>
+that is more likely to be engaged with.
+that is more likely to be engaged with.
+It's<00:07:23.039><c> content</c><00:07:23.440><c> that</c><00:07:23.759><c> is</c><00:07:24.080><c> more</c><00:07:24.479><c> likely</c><00:07:24.960><c> to</c><00:07:25.680><c> be</c>
+It's content that is more likely to be
+It's content that is more likely to be
+latched<00:07:26.479><c> on</c><00:07:26.720><c> to</c><00:07:27.039><c> by</c><00:07:27.360><c> humans.</c><00:07:28.080><c> And</c><00:07:28.240><c> humans</c>
+latched on to by humans. And humans
+latched on to by humans. And humans
+can't<00:07:28.960><c> tell</c><00:07:29.120><c> the</c><00:07:29.360><c> difference.</c><00:07:29.599><c> This</c><00:07:29.919><c> gets</c>
+can't tell the difference. This gets
+can't tell the difference. This gets
+back<00:07:30.479><c> to</c><00:07:30.720><c> the</c><00:07:31.039><c> idea</c><00:07:31.599><c> of</c><00:07:31.919><c> the</c><00:07:32.160><c> uncanny</c><00:07:32.800><c> valley.</c>
+back to the idea of the uncanny valley.
+back to the idea of the uncanny valley.
+We<00:07:33.440><c> can't</c><00:07:33.759><c> tell.</c><00:07:34.240><c> And</c><00:07:34.400><c> so</c><00:07:34.560><c> we</c><00:07:34.720><c> click</c><00:07:34.960><c> and</c><00:07:35.120><c> we</c>
+We can't tell. And so we click and we
+We can't tell. And so we click and we
+engage<00:07:36.160><c> and</c><00:07:36.400><c> we're</c><00:07:36.720><c> feeding</c><00:07:37.840><c> both</c><00:07:38.160><c> the</c>
+engage and we're feeding both the
+engage and we're feeding both the
+content<00:07:38.960><c> algorithm</c><00:07:39.440><c> that</c><00:07:39.680><c> feeds</c><00:07:39.919><c> us</c><00:07:40.160><c> stuff</c>
+content algorithm that feeds us stuff
+content algorithm that feeds us stuff
+and<00:07:40.639><c> we're</c><00:07:40.880><c> also</c><00:07:41.599><c> teaching</c><00:07:42.080><c> the</c><00:07:42.319><c> marketers</c>
+and we're also teaching the marketers
+and we're also teaching the marketers
+that<00:07:43.120><c> AI</c><00:07:43.520><c> works</c><00:07:43.840><c> well.</c><00:07:44.319><c> The</c><00:07:44.560><c> third</c><00:07:44.800><c> feedback</c>
+that AI works well. The third feedback
+that AI works well. The third feedback
+loop<00:07:45.680><c> is</c><00:07:46.160><c> an</c><00:07:46.479><c> individual</c><00:07:46.960><c> feedback</c><00:07:47.360><c> loop</c><00:07:47.680><c> for</c>
+loop is an individual feedback loop for
+loop is an individual feedback loop for
+us.<00:07:48.400><c> Repeated</c><00:07:48.880><c> exposure</c><00:07:49.360><c> to</c><00:07:49.599><c> optimized</c>
+us. Repeated exposure to optimized
+us. Repeated exposure to optimized
+content<00:07:50.880><c> changes</c><00:07:51.280><c> our</c><00:07:51.599><c> behavior</c><00:07:51.919><c> and</c>
+content changes our behavior and
+content changes our behavior and
+expectations.<00:07:53.199><c> There's</c><00:07:53.520><c> been</c><00:07:53.599><c> a</c><00:07:53.759><c> lot</c><00:07:53.840><c> of</c>
+expectations. There's been a lot of
+expectations. There's been a lot of
+studies<00:07:54.400><c> around</c><00:07:54.720><c> sort</c><00:07:54.879><c> of</c><00:07:55.039><c> what</c><00:07:55.280><c> the</c>
+studies around sort of what the
+studies around sort of what the
+Instagram<00:07:56.160><c> feed</c><00:07:56.479><c> has</c><00:07:56.720><c> done</c><00:07:56.960><c> to</c><00:07:57.199><c> our</c>
+Instagram feed has done to our
+Instagram feed has done to our
+self-image<00:07:58.080><c> and</c><00:07:58.400><c> our</c><00:07:58.800><c> social</c><00:07:59.199><c> relationships.</c>
+self-image and our social relationships.
+self-image and our social relationships.
+I<00:08:00.319><c> think</c><00:08:00.479><c> we</c><00:08:00.639><c> can</c><00:08:00.800><c> also</c><00:08:01.120><c> talk</c><00:08:01.360><c> about</c><00:08:01.520><c> this</c><00:08:01.840><c> idea</c>
+I think we can also talk about this idea
+I think we can also talk about this idea
+of<00:08:02.560><c> parasocial</c><00:08:03.440><c> relationships</c><00:08:04.080><c> here.</c><00:08:04.639><c> A</c><00:08:04.960><c> lot</c>
+of parasocial relationships here. A lot
+of parasocial relationships here. A lot
+of<00:08:05.440><c> the</c><00:08:05.680><c> Taylor</c><00:08:06.080><c> Swift</c><00:08:06.479><c> phenomenon</c><00:08:06.960><c> that</c><00:08:07.199><c> I</c>
+of the Taylor Swift phenomenon that I
+of the Taylor Swift phenomenon that I
+discussed<00:08:07.759><c> is</c><00:08:08.080><c> this</c><00:08:08.319><c> idea</c><00:08:08.720><c> that</c><00:08:09.039><c> Taylor</c><00:08:09.360><c> Swift</c>
+discussed is this idea that Taylor Swift
+discussed is this idea that Taylor Swift
+is<00:08:10.000><c> not</c><00:08:10.160><c> just</c><00:08:10.400><c> a</c><00:08:10.560><c> celebrity,</c><00:08:11.039><c> but</c><00:08:11.280><c> Taylor</c>
+is not just a celebrity, but Taylor
+is not just a celebrity, but Taylor
+Swift<00:08:11.919><c> is</c><00:08:12.160><c> someone</c><00:08:12.400><c> with</c><00:08:12.639><c> whom</c><00:08:13.440><c> I</c><00:08:13.759><c> have</c><00:08:14.160><c> a</c>
+Swift is someone with whom I have a
+Swift is someone with whom I have a
+right<00:08:14.800><c> to</c><00:08:15.039><c> have</c><00:08:15.199><c> a</c><00:08:15.520><c> relationship,</c><00:08:16.319><c> even</c><00:08:16.560><c> if</c>
+right to have a relationship, even if
+right to have a relationship, even if
+it's<00:08:16.879><c> a</c><00:08:16.960><c> madeup</c><00:08:17.360><c> relationship</c><00:08:17.840><c> in</c><00:08:18.080><c> my</c><00:08:18.240><c> head.</c>
+it's a madeup relationship in my head.
+it's a madeup relationship in my head.
+So,<00:08:19.759><c> this</c><00:08:20.000><c> gets</c><00:08:20.319><c> back</c><00:08:20.479><c> to</c><00:08:20.720><c> the</c><00:08:21.120><c> number</c><00:08:21.360><c> that</c><00:08:21.520><c> I</c>
+So, this gets back to the number that I
+So, this gets back to the number that I
+gave<00:08:21.840><c> you</c><00:08:22.000><c> at</c><00:08:22.160><c> the</c><00:08:22.319><c> very</c><00:08:22.560><c> beginning</c><00:08:22.800><c> of</c><00:08:22.960><c> this</c>
+gave you at the very beginning of this
+gave you at the very beginning of this
+video<00:08:23.440><c> where</c><00:08:23.759><c> we</c><00:08:23.919><c> talked</c><00:08:24.240><c> about</c><00:08:25.120><c> Character</c><00:08:25.520><c> AI</c>
+video where we talked about Character AI
+video where we talked about Character AI
+and<00:08:26.160><c> other</c><00:08:26.400><c> sort</c><00:08:26.639><c> of</c><00:08:26.879><c> AI</c><00:08:27.599><c> uh</c><00:08:27.840><c> companionships</c>
+and other sort of AI uh companionships
+and other sort of AI uh companionships
+apps<00:08:28.879><c> and</c><00:08:29.120><c> the</c><00:08:29.280><c> and</c><00:08:29.520><c> the</c><00:08:29.680><c> money</c><00:08:29.840><c> that</c><00:08:30.160><c> they're</c>
+apps and the and the money that they're
+apps and the and the money that they're
+generating$<00:08:30.960><c> 220</c><00:08:31.440><c> million</c><00:08:31.759><c> some</c><00:08:32.080><c> dollars</c><00:08:32.640><c> per</c>
+generating$ 220 million some dollars per
+generating$ 220 million some dollars per
+year<00:08:33.279><c> growing</c><00:08:33.599><c> very</c><00:08:33.919><c> fast.</c><00:08:34.320><c> They're</c>
+year growing very fast. They're
+year growing very fast. They're
+cultivating<00:08:34.959><c> the</c><00:08:35.200><c> idea</c><00:08:35.279><c> of</c><00:08:35.440><c> parasocial</c>
+cultivating the idea of parasocial
+cultivating the idea of parasocial
+relationships,<00:08:36.719><c> but</c><00:08:36.959><c> they</c><00:08:37.120><c> let</c><00:08:37.360><c> you</c><00:08:37.599><c> create</c>
+relationships, but they let you create
+relationships, but they let you create
+the<00:08:38.159><c> character,</c><00:08:38.640><c> right?</c><00:08:38.800><c> They</c><00:08:38.959><c> let</c><00:08:39.120><c> you</c>
+the character, right? They let you
+the character, right? They let you
+create<00:08:39.519><c> the</c><00:08:39.760><c> character</c><00:08:40.080><c> you're</c><00:08:40.320><c> going</c><00:08:40.479><c> to</c>
+create the character you're going to
+create the character you're going to
+have<00:08:40.719><c> an</c><00:08:40.880><c> artificial</c><00:08:41.360><c> relationship</c><00:08:41.839><c> with.</c>
+have an artificial relationship with.
+have an artificial relationship with.
+Whereas<00:08:42.800><c> traditional</c><00:08:43.279><c> parasocial</c>
+Whereas traditional parasocial
+Whereas traditional parasocial
+relationships,<00:08:44.800><c> it's</c><00:08:45.040><c> your</c><00:08:45.360><c> imagined</c>
+relationships, it's your imagined
+relationships, it's your imagined
+relationship<00:08:46.399><c> with</c><00:08:46.640><c> the</c><00:08:46.880><c> celebrity.</c><00:08:47.600><c> In</c><00:08:47.839><c> both</c>
+relationship with the celebrity. In both
+relationship with the celebrity. In both
+cases,<00:08:48.640><c> AI</c><00:08:49.120><c> accelerates</c><00:08:50.240><c> this</c><00:08:50.560><c> individual</c>
+cases, AI accelerates this individual
+cases, AI accelerates this individual
+feedback<00:08:51.600><c> loop</c><00:08:51.920><c> in</c><00:08:52.240><c> your</c><00:08:52.399><c> own</c><00:08:52.720><c> head</c><00:08:53.519><c> where</c><00:08:53.839><c> you</c>
+feedback loop in your own head where you
+feedback loop in your own head where you
+are<00:08:54.320><c> changing</c><00:08:54.640><c> your</c><00:08:54.880><c> behavior</c><00:08:55.200><c> and</c>
+are changing your behavior and
+are changing your behavior and
+expectations<00:08:56.240><c> because</c><00:08:56.560><c> of</c><00:08:56.720><c> what</c><00:08:56.959><c> you're</c>
+expectations because of what you're
+expectations because of what you're
+engaging<00:08:57.920><c> with.</c><00:08:58.560><c> The</c><00:08:58.800><c> fourth</c><00:08:59.120><c> feedback</c><00:08:59.519><c> loop</c>
+engaging with. The fourth feedback loop
+engaging with. The fourth feedback loop
+is<00:09:00.160><c> outcomes.</c><00:09:01.120><c> Essentially,</c><00:09:02.160><c> successful</c><00:09:02.720><c> AI</c>
+is outcomes. Essentially, successful AI
+is outcomes. Essentially, successful AI
+content<00:09:03.600><c> that</c><00:09:03.839><c> runs</c><00:09:04.080><c> through</c><00:09:04.240><c> these</c><00:09:04.480><c> feedback</c>
+content that runs through these feedback
+content that runs through these feedback
+loops<00:09:05.519><c> becomes</c><00:09:05.920><c> the</c><00:09:06.080><c> baseline</c><00:09:06.560><c> for</c><00:09:06.880><c> normal</c>
+loops becomes the baseline for normal
+loops becomes the baseline for normal
+content.<00:09:07.839><c> And</c><00:09:08.080><c> so,</c><00:09:08.720><c> in</c><00:09:08.880><c> a</c><00:09:09.120><c> sense,</c><00:09:09.519><c> it's</c><00:09:09.839><c> not</c>
+content. And so, in a sense, it's not
+content. And so, in a sense, it's not
+just<00:09:10.160><c> that</c><00:09:10.399><c> the</c><00:09:10.560><c> AI</c><00:09:10.959><c> content</c><00:09:11.440><c> is</c><00:09:11.680><c> changing</c><00:09:12.080><c> the</c>
+just that the AI content is changing the
+just that the AI content is changing the
+way<00:09:12.399><c> we</c><00:09:12.720><c> consume</c><00:09:13.200><c> behavior</c><00:09:13.600><c> and</c><00:09:13.839><c> changing</c>
+way we consume behavior and changing
+way we consume behavior and changing
+what<00:09:14.399><c> is</c><00:09:14.560><c> in</c><00:09:14.720><c> our</c><00:09:14.880><c> feeds.</c><00:09:15.519><c> It</c><00:09:15.760><c> is</c><00:09:16.000><c> also</c>
+what is in our feeds. It is also
+what is in our feeds. It is also
+changing<00:09:17.360><c> how</c><00:09:17.600><c> we</c><00:09:17.839><c> make</c><00:09:18.160><c> real</c><00:09:18.640><c> video</c><00:09:19.040><c> content.</c>
+changing how we make real video content.
+changing how we make real video content.
+There's<00:09:20.160><c> been</c><00:09:20.320><c> a</c><00:09:20.560><c> lot</c><00:09:20.640><c> of</c><00:09:20.800><c> work</c><00:09:21.040><c> done</c><00:09:21.360><c> on</c><00:09:21.600><c> how</c>
+There's been a lot of work done on how
+There's been a lot of work done on how
+Hollywood<00:09:22.480><c> movie</c><00:09:22.800><c> making</c><00:09:23.200><c> has</c><00:09:23.440><c> shifted</c><00:09:24.240><c> over</c>
+Hollywood movie making has shifted over
+Hollywood movie making has shifted over
+the<00:09:24.720><c> last</c><00:09:24.959><c> 20</c><00:09:25.279><c> 25</c><00:09:25.600><c> years</c><00:09:25.839><c> with</c><00:09:26.080><c> CGI.</c><00:09:26.880><c> In</c><00:09:27.120><c> the</c>
+the last 20 25 years with CGI. In the
+the last 20 25 years with CGI. In the
+same<00:09:27.519><c> way,</c><00:09:28.160><c> the</c><00:09:28.480><c> way</c><00:09:28.640><c> we</c><00:09:28.880><c> make</c><00:09:29.200><c> real</c><00:09:29.839><c> content,</c>
+same way, the way we make real content,
+same way, the way we make real content,
+whether<00:09:30.640><c> it's</c><00:09:30.800><c> movies</c><00:09:31.120><c> or</c><00:09:31.279><c> ads</c><00:09:31.519><c> or</c><00:09:31.760><c> what</c><00:09:31.920><c> have</c>
+whether it's movies or ads or what have
+whether it's movies or ads or what have
+you,<00:09:32.240><c> marketing</c><00:09:32.640><c> assets,</c><00:09:33.200><c> is</c><00:09:33.600><c> changing</c>
+you, marketing assets, is changing
+you, marketing assets, is changing
+because<00:09:34.800><c> of</c><00:09:35.120><c> AI.</c><00:09:35.839><c> I</c><00:09:36.080><c> don't</c><00:09:36.240><c> think</c><00:09:36.399><c> we</c><00:09:36.560><c> fully</c>
+because of AI. I don't think we fully
+because of AI. I don't think we fully
+process<00:09:37.360><c> this,</c><00:09:37.600><c> but</c><00:09:37.839><c> we</c><00:09:38.000><c> are</c><00:09:38.080><c> going</c><00:09:38.160><c> to</c><00:09:38.320><c> see</c>
+process this, but we are going to see
+process this, but we are going to see
+camera<00:09:38.800><c> angle</c><00:09:39.200><c> shift.</c><00:09:39.519><c> We're</c><00:09:39.680><c> going</c><00:09:39.760><c> to</c><00:09:39.839><c> see</c>
+camera angle shift. We're going to see
+camera angle shift. We're going to see
+expectations<00:09:40.800><c> for</c><00:09:41.120><c> what</c><00:09:41.360><c> you</c><00:09:41.519><c> can</c><00:09:41.760><c> do</c><00:09:42.320><c> with</c>
+expectations for what you can do with
+expectations for what you can do with
+special<00:09:43.440><c> effects.</c><00:09:44.000><c> We're</c><00:09:44.160><c> going</c><00:09:44.240><c> to</c><00:09:44.320><c> see</c>
+special effects. We're going to see
+special effects. We're going to see
+expectations<00:09:45.279><c> for</c><00:09:46.080><c> how</c><00:09:46.480><c> you</c><00:09:46.880><c> bring</c><00:09:47.200><c> in</c><00:09:47.680><c> people</c>
+expectations for how you bring in people
+expectations for how you bring in people
+versus<00:09:48.880><c> obviously</c><00:09:49.519><c> not</c><00:09:49.839><c> people</c><00:09:50.320><c> versus</c>
+versus obviously not people versus
+versus obviously not people versus
+people<00:09:51.120><c> who</c><00:09:51.360><c> are</c><00:09:51.519><c> deep</c><00:09:51.760><c> fakes,</c><00:09:52.800><c> even</c><00:09:53.040><c> if</c>
+people who are deep fakes, even if
+people who are deep fakes, even if
+they're<00:09:53.360><c> not</c><00:09:53.600><c> real</c><00:09:53.839><c> humans,</c><00:09:54.240><c> but</c><00:09:54.480><c> they</c><00:09:54.880><c> they</c>
+they're not real humans, but they they
+they're not real humans, but they they
+look<00:09:55.279><c> so</c><00:09:55.519><c> much</c><00:09:55.600><c> like</c><00:09:55.839><c> humans,</c><00:09:56.160><c> we</c><00:09:56.399><c> can't</c><00:09:56.480><c> tell</c>
+look so much like humans, we can't tell
+look so much like humans, we can't tell
+the<00:09:56.880><c> difference.</c><00:09:57.440><c> That</c><00:09:57.600><c> we</c><00:09:57.839><c> are</c><00:09:58.000><c> reshaping</c>
+the difference. That we are reshaping
+the difference. That we are reshaping
+the<00:09:58.800><c> baseline</c><00:09:59.279><c> of</c><00:09:59.519><c> normal</c><00:10:00.000><c> in</c><00:10:00.240><c> our</c><00:10:00.480><c> own</c><00:10:00.880><c> movies</c>
+the baseline of normal in our own movies
+the baseline of normal in our own movies
+and<00:10:01.440><c> ads</c><00:10:01.760><c> by</c><00:10:02.000><c> what</c><00:10:02.160><c> we</c><00:10:02.320><c> interact</c><00:10:02.720><c> with.</c><00:10:03.200><c> So</c>
+and ads by what we interact with. So
+and ads by what we interact with. So
+these<00:10:03.680><c> four</c><00:10:04.000><c> feedback</c><00:10:04.320><c> loops,</c><00:10:04.880><c> the</c><00:10:05.200><c> idea</c><00:10:05.519><c> that</c>
+these four feedback loops, the idea that
+these four feedback loops, the idea that
+controversial<00:10:06.480><c> content</c><00:10:06.720><c> gets</c><00:10:06.959><c> more</c>
+controversial content gets more
+controversial content gets more
+distribution,<00:10:07.760><c> the</c><00:10:07.920><c> idea</c><00:10:08.080><c> that</c><00:10:08.320><c> user</c>
+distribution, the idea that user
+distribution, the idea that user
+engagement<00:10:09.120><c> with</c><00:10:09.360><c> manipulative</c><00:10:10.000><c> content</c>
+engagement with manipulative content
+engagement with manipulative content
+teaches<00:10:10.800><c> the</c><00:10:11.040><c> algorithms</c><00:10:11.519><c> that</c><00:10:11.760><c> manipulation</c>
+teaches the algorithms that manipulation
+teaches the algorithms that manipulation
+is<00:10:12.560><c> quality,</c><00:10:13.200><c> the</c><00:10:13.440><c> idea</c><00:10:13.600><c> that</c><00:10:13.839><c> repeated</c>
+is quality, the idea that repeated
+is quality, the idea that repeated
+exposure<00:10:14.720><c> of</c><00:10:15.040><c> ourselves</c><00:10:15.440><c> to</c><00:10:15.680><c> optimized</c>
+exposure of ourselves to optimized
+exposure of ourselves to optimized
+content<00:10:16.480><c> or</c><00:10:16.640><c> AI</c><00:10:16.959><c> optimized</c><00:10:17.440><c> content</c><00:10:17.920><c> changes</c>
+content or AI optimized content changes
+content or AI optimized content changes
+our<00:10:18.720><c> own</c><00:10:18.959><c> behavior,</c><00:10:19.680><c> and</c><00:10:19.839><c> the</c><00:10:20.000><c> idea</c><00:10:20.240><c> that</c>
+our own behavior, and the idea that
+our own behavior, and the idea that
+outcome<00:10:21.360><c> shaping</c><00:10:22.320><c> shapes</c><00:10:22.640><c> our</c><00:10:22.880><c> expectations</c>
+outcome shaping shapes our expectations
+outcome shaping shapes our expectations
+of<00:10:23.680><c> even</c><00:10:24.320><c> nonAI</c><00:10:25.120><c> movie</c><00:10:25.440><c> making</c><00:10:25.680><c> and</c><00:10:25.839><c> nonAI</c>
+of even nonAI movie making and nonAI
+of even nonAI movie making and nonAI
+admitt,<00:10:26.880><c> nonAI</c><00:10:27.440><c> marketing.</c><00:10:28.079><c> All</c><00:10:28.320><c> of</c><00:10:28.480><c> these</c>
+admitt, nonAI marketing. All of these
+admitt, nonAI marketing. All of these
+are<00:10:28.880><c> feeding</c><00:10:29.279><c> on</c><00:10:29.440><c> each</c><00:10:29.680><c> other</c><00:10:29.760><c> and</c><00:10:30.079><c> being</c>
+are feeding on each other and being
+are feeding on each other and being
+accelerated<00:10:30.800><c> by</c><00:10:31.040><c> AI</c><00:10:31.440><c> and</c><00:10:31.680><c> that</c><00:10:31.839><c> is</c><00:10:32.079><c> producing</c>
+accelerated by AI and that is producing
+accelerated by AI and that is producing
+emergent<00:10:33.680><c> behaviors</c><00:10:34.560><c> that</c><00:10:34.880><c> nobody</c><00:10:35.279><c> is</c>
+emergent behaviors that nobody is
+emergent behaviors that nobody is
+programmed<00:10:35.920><c> for.</c><00:10:36.320><c> I</c><00:10:36.560><c> am</c><00:10:36.720><c> not</c><00:10:36.880><c> a</c><00:10:37.040><c> big</c><00:10:37.279><c> believer</c>
+programmed for. I am not a big believer
+programmed for. I am not a big believer
+in<00:10:37.839><c> the</c><00:10:38.079><c> idea</c><00:10:38.320><c> that</c><00:10:38.560><c> there</c><00:10:38.720><c> is</c><00:10:38.959><c> a</c><00:10:39.120><c> bunch</c><00:10:39.279><c> of</c>
+in the idea that there is a bunch of
+in the idea that there is a bunch of
+evil<00:10:39.920><c> marketers</c><00:10:40.480><c> somewhere</c><00:10:41.120><c> who</c><00:10:41.440><c> are</c><00:10:41.680><c> all</c>
+evil marketers somewhere who are all
+evil marketers somewhere who are all
+deciding<00:10:42.399><c> to</c><00:10:42.640><c> sort</c><00:10:42.800><c> of</c><00:10:42.959><c> poison</c><00:10:43.440><c> America</c><00:10:43.839><c> or</c>
+deciding to sort of poison America or
+deciding to sort of poison America or
+poison<00:10:44.480><c> the</c><00:10:44.720><c> world</c><00:10:44.800><c> with</c><00:10:45.040><c> their</c><00:10:45.200><c> ads.</c><00:10:45.839><c> That</c><00:10:46.079><c> is</c>
+poison the world with their ads. That is
+poison the world with their ads. That is
+a<00:10:46.399><c> popular</c><00:10:46.880><c> misconception.</c><00:10:47.680><c> I</c><00:10:47.920><c> have</c><00:10:48.079><c> been</c><00:10:48.240><c> a</c>
+a popular misconception. I have been a
+a popular misconception. I have been a
+marketer.<00:10:48.800><c> I</c><00:10:48.959><c> have</c><00:10:49.120><c> worked</c><00:10:49.279><c> with</c><00:10:49.519><c> amazing</c>
+marketer. I have worked with amazing
+marketer. I have worked with amazing
+marketing<00:10:50.320><c> teams.</c><00:10:50.720><c> That</c><00:10:50.880><c> is</c><00:10:51.040><c> just</c><00:10:51.279><c> not</c><00:10:51.440><c> how</c>
+marketing teams. That is just not how
+marketing teams. That is just not how
+marketers<00:10:52.320><c> actually</c><00:10:52.720><c> work.</c><00:10:53.360><c> Instead,</c><00:10:53.920><c> I</c>
+marketers actually work. Instead, I
+marketers actually work. Instead, I
+think<00:10:54.160><c> it's</c><00:10:54.399><c> more</c><00:10:54.640><c> useful</c><00:10:54.880><c> to</c><00:10:55.120><c> think</c><00:10:55.279><c> about</c>
+think it's more useful to think about
+think it's more useful to think about
+emergent<00:10:56.000><c> behaviors</c><00:10:56.800><c> in</c><00:10:57.040><c> a</c><00:10:57.200><c> system</c><00:10:57.519><c> that</c><00:10:57.760><c> is,</c>
+emergent behaviors in a system that is,
+emergent behaviors in a system that is,
+as<00:10:58.240><c> I've</c><00:10:58.480><c> said</c><00:10:58.640><c> from</c><00:10:58.880><c> the</c><00:10:59.040><c> beginning</c><00:10:59.279><c> of</c><00:10:59.440><c> this</c>
+as I've said from the beginning of this
+as I've said from the beginning of this
+video,<00:11:00.480><c> locally</c><00:11:01.040><c> optimized.</c><00:11:01.600><c> It's</c><00:11:01.839><c> a</c><00:11:02.000><c> local</c>
+video, locally optimized. It's a local
+video, locally optimized. It's a local
+maxima<00:11:02.880><c> system.</c><00:11:03.600><c> So,</c><00:11:04.160><c> in</c><00:11:04.399><c> this</c><00:11:04.640><c> case,</c><00:11:05.519><c> what</c><00:11:05.760><c> we</c>
+maxima system. So, in this case, what we
+maxima system. So, in this case, what we
+have<00:11:07.040><c> is</c><00:11:08.000><c> emergent</c><00:11:09.040><c> optimization</c>
+have is emergent optimization
+have is emergent optimization
+designed<00:11:11.519><c> effectively</c><00:11:12.160><c> to</c><00:11:12.560><c> adapt</c><00:11:13.040><c> the</c><00:11:13.360><c> human</c>
+designed effectively to adapt the human
+designed effectively to adapt the human
+psychological<00:11:14.640><c> condition</c><00:11:15.040><c> to</c><00:11:15.360><c> AI</c><00:11:15.760><c> content.</c>
+psychological condition to AI content.
+psychological condition to AI content.
+I'll<00:11:16.959><c> say</c><00:11:17.040><c> that</c><00:11:17.279><c> one</c><00:11:17.519><c> more</c><00:11:17.680><c> time.</c><00:11:18.240><c> You</c><00:11:18.480><c> have</c><00:11:18.640><c> AI</c>
+I'll say that one more time. You have AI
+I'll say that one more time. You have AI
+systems<00:11:19.680><c> that</c><00:11:19.920><c> are</c><00:11:20.160><c> optimizing</c><00:11:20.720><c> for</c>
+systems that are optimizing for
+systems that are optimizing for
+engagement<00:11:21.519><c> and</c><00:11:21.760><c> they</c><00:11:22.000><c> inadvertently</c><00:11:22.880><c> are</c>
+engagement and they inadvertently are
+engagement and they inadvertently are
+optimizing<00:11:24.000><c> human</c><00:11:24.480><c> psychology</c><00:11:25.200><c> for</c>
+optimizing human psychology for
+optimizing human psychology for
+engagement<00:11:25.920><c> with</c><00:11:26.160><c> AI</c><00:11:26.640><c> content.</c><00:11:27.360><c> That</c><00:11:27.600><c> is</c><00:11:27.760><c> the</c>
+engagement with AI content. That is the
+engagement with AI content. That is the
+through<00:11:28.320><c> line</c><00:11:28.560><c> that</c><00:11:28.800><c> ties</c><00:11:29.200><c> together</c><00:11:30.000><c> Sydney</c>
+through line that ties together Sydney
+through line that ties together Sydney
+Sweeney<00:11:30.959><c> and</c><00:11:31.120><c> Taylor</c><00:11:31.519><c> Swift</c><00:11:32.000><c> and</c><00:11:32.240><c> this</c><00:11:32.399><c> idea</c>
+Sweeney and Taylor Swift and this idea
+Sweeney and Taylor Swift and this idea
+of<00:11:32.800><c> the</c><00:11:32.959><c> uncanny</c><00:11:33.519><c> valley</c><00:11:34.079><c> parasocial</c>
+of the uncanny valley parasocial
+of the uncanny valley parasocial
+relationships.<00:11:35.440><c> It's</c><00:11:35.600><c> all</c><00:11:35.839><c> around</c><00:11:36.160><c> this</c><00:11:36.399><c> core</c>
+relationships. It's all around this core
+relationships. It's all around this core
+thesis.<00:11:37.279><c> Fundamentally,</c><00:11:38.480><c> our</c><00:11:38.800><c> AI</c><00:11:39.200><c> systems</c>
+thesis. Fundamentally, our AI systems
+thesis. Fundamentally, our AI systems
+because<00:11:40.399><c> we're</c><00:11:40.640><c> building</c><00:11:40.880><c> them</c><00:11:41.120><c> on</c><00:11:41.360><c> top</c><00:11:41.519><c> of</c>
+because we're building them on top of
+because we're building them on top of
+optimized<00:11:42.399><c> systems</c><00:11:42.720><c> for</c><00:11:42.959><c> engagement.</c>
+optimized systems for engagement.
+optimized systems for engagement.
+They're<00:11:44.399><c> essentially</c><00:11:44.720><c> adapting</c><00:11:45.200><c> our</c>
+They're essentially adapting our
+They're essentially adapting our
+psychology<00:11:45.920><c> to</c><00:11:46.160><c> engage</c><00:11:46.480><c> with</c><00:11:46.640><c> AI</c><00:11:46.959><c> content.</c>
+psychology to engage with AI content.
+psychology to engage with AI content.
+This<00:11:48.160><c> then</c><00:11:48.720><c> creates</c><00:11:49.200><c> a</c><00:11:49.519><c> problem</c><00:11:50.240><c> because</c><00:11:50.640><c> we</c>
+This then creates a problem because we
+This then creates a problem because we
+say<00:11:51.680><c> as</c><00:11:52.000><c> marketers</c><00:11:52.480><c> and</c><00:11:52.640><c> as</c><00:11:52.959><c> brands</c><00:11:53.279><c> that</c><00:11:53.440><c> we</c>
+say as marketers and as brands that we
+say as marketers and as brands that we
+value<00:11:53.920><c> authenticity.</c><00:11:54.959><c> The</c><00:11:55.200><c> humans</c><00:11:55.680><c> buying</c>
+value authenticity. The humans buying
+value authenticity. The humans buying
+the<00:11:56.320><c> product</c><00:11:56.720><c> say</c><00:11:56.959><c> they</c><00:11:57.279><c> value</c><00:11:57.600><c> authenticity.</c>
+the product say they value authenticity.
+the product say they value authenticity.
+In<00:11:59.040><c> between</c><00:11:59.600><c> disintermediating</c><00:12:00.640><c> that</c><00:12:00.959><c> is</c><00:12:01.200><c> an</c>
+In between disintermediating that is an
+In between disintermediating that is an
+AI<00:12:01.760><c> marketing</c><00:12:02.240><c> system</c><00:12:02.800><c> that</c><00:12:03.440><c> values</c>
+AI marketing system that values
+AI marketing system that values
+artificiality.<00:12:05.040><c> It</c><00:12:05.360><c> values</c><00:12:05.760><c> what's</c><00:12:06.079><c> fake.</c>
+artificiality. It values what's fake.
+artificiality. It values what's fake.
+What<00:12:06.880><c> do</c><00:12:07.040><c> we</c><00:12:07.200><c> do</c><00:12:07.360><c> about</c><00:12:07.600><c> that?</c><00:12:08.160><c> How</c><00:12:08.320><c> do</c><00:12:08.480><c> we</c>
+What do we do about that? How do we
+What do we do about that? How do we
+optimize<00:12:09.200><c> there?</c><00:12:09.760><c> My</c><00:12:10.079><c> suggestion</c><00:12:10.560><c> to</c><00:12:10.800><c> you</c><00:12:10.959><c> is</c>
+optimize there? My suggestion to you is
+optimize there? My suggestion to you is
+that<00:12:11.360><c> the</c><00:12:11.600><c> way</c><00:12:11.920><c> through</c><00:12:12.240><c> this</c><00:12:12.800><c> is</c><00:12:13.200><c> going</c><00:12:13.600><c> to</c><00:12:13.839><c> be</c>
+that the way through this is going to be
+that the way through this is going to be
+for<00:12:14.959><c> brands</c><00:12:15.760><c> to</c><00:12:16.160><c> emphasize</c><00:12:17.040><c> what</c><00:12:17.440><c> cannot</c><00:12:17.839><c> be</c>
+for brands to emphasize what cannot be
+for brands to emphasize what cannot be
+faked<00:12:18.880><c> with</c><00:12:19.200><c> AI.</c><00:12:19.680><c> I</c><00:12:19.920><c> think</c><00:12:20.000><c> the</c><00:12:20.320><c> music</c>
+faked with AI. I think the music
+faked with AI. I think the music
+industry<00:12:21.440><c> is</c><00:12:21.680><c> a</c><00:12:22.000><c> really</c><00:12:22.320><c> interesting</c><00:12:23.200><c> example</c>
+industry is a really interesting example
+industry is a really interesting example
+of<00:12:23.839><c> this.</c><00:12:24.320><c> Let's</c><00:12:24.560><c> look</c><00:12:24.720><c> at</c><00:12:24.880><c> Taylor</c><00:12:25.200><c> Swift</c><00:12:25.600><c> and</c>
+of this. Let's look at Taylor Swift and
+of this. Let's look at Taylor Swift and
+her<00:12:25.920><c> launch</c><00:12:26.160><c> of</c><00:12:26.320><c> her</c><00:12:26.560><c> Orange</c><00:12:26.880><c> album,</c><00:12:27.200><c> right?</c>
+her launch of her Orange album, right?
+her launch of her Orange album, right?
+The<00:12:27.600><c> new</c><00:12:27.680><c> album</c><00:12:28.160><c> that's</c><00:12:28.399><c> coming</c><00:12:28.560><c> out,</c><00:12:28.720><c> TS12,</c>
+The new album that's coming out, TS12,
+The new album that's coming out, TS12,
+right?<00:12:29.839><c> When</c><00:12:30.160><c> Taylor</c><00:12:30.560><c> Swift</c><00:12:30.959><c> announced</c><00:12:31.440><c> that</c>
+right? When Taylor Swift announced that
+right? When Taylor Swift announced that
+on<00:12:32.000><c> August</c><00:12:32.480><c> 12th,</c><00:12:33.120><c> she</c><00:12:33.600><c> blurred</c><00:12:34.079><c> out</c><00:12:34.560><c> the</c>
+on August 12th, she blurred out the
+on August 12th, she blurred out the
+image<00:12:35.200><c> of</c><00:12:35.279><c> the</c><00:12:35.519><c> album</c><00:12:35.839><c> in</c><00:12:36.079><c> order</c><00:12:36.240><c> to</c><00:12:36.399><c> prevent</c>
+image of the album in order to prevent
+image of the album in order to prevent
+any<00:12:37.360><c> issues</c><00:12:37.839><c> with</c><00:12:38.639><c> uh</c><00:12:39.040><c> sort</c><00:12:39.200><c> of</c><00:12:39.440><c> album</c><00:12:39.839><c> faking,</c>
+any issues with uh sort of album faking,
+any issues with uh sort of album faking,
+etc.<00:12:41.120><c> from</c><00:12:41.440><c> AI</c><00:12:41.920><c> content</c><00:12:42.240><c> generation.</c><00:12:43.120><c> But</c>
+etc. from AI content generation. But
+etc. from AI content generation. But
+it's<00:12:43.519><c> not</c><00:12:43.680><c> just</c><00:12:43.839><c> a</c><00:12:44.079><c> defensive</c><00:12:44.639><c> play.</c><00:12:45.200><c> She's</c>
+it's not just a defensive play. She's
+it's not just a defensive play. She's
+also<00:12:46.399><c> pre-elling</c><00:12:47.279><c> physical</c><00:12:47.760><c> media.</c><00:12:48.079><c> And</c>
+also pre-elling physical media. And
+also pre-elling physical media. And
+she's<00:12:48.480><c> not</c><00:12:48.639><c> the</c><00:12:48.800><c> first</c><00:12:49.120><c> musician</c><00:12:49.519><c> to</c><00:12:49.680><c> do</c><00:12:49.839><c> this.</c>
+she's not the first musician to do this.
+she's not the first musician to do this.
+Vinyl<00:12:50.480><c> is</c><00:12:50.720><c> making</c><00:12:50.880><c> a</c><00:12:51.200><c> huge</c><00:12:51.519><c> comeback.</c><00:12:52.399><c> She's</c>
+Vinyl is making a huge comeback. She's
+Vinyl is making a huge comeback. She's
+pre-selling<00:12:53.279><c> the</c><00:12:53.519><c> vinyls</c><00:12:54.000><c> for</c><00:12:54.240><c> the</c><00:12:54.399><c> album.</c>
+pre-selling the vinyls for the album.
+pre-selling the vinyls for the album.
+You<00:12:55.279><c> know</c><00:12:55.360><c> what's</c><00:12:55.600><c> interesting</c><00:12:55.920><c> about</c>
+You know what's interesting about
+You know what's interesting about
+vinyls?<00:12:57.360><c> You</c><00:12:57.600><c> can't</c><00:12:58.000><c> fake</c><00:12:58.399><c> vinyls.</c><00:12:58.959><c> They're</c>
+vinyls? You can't fake vinyls. They're
+vinyls? You can't fake vinyls. They're
+real.<00:12:59.760><c> You</c><00:13:00.000><c> can</c><00:13:00.160><c> touch</c><00:13:00.480><c> them.</c><00:13:00.880><c> You</c><00:13:01.040><c> can</c><00:13:01.200><c> hold</c>
+real. You can touch them. You can hold
+real. You can touch them. You can hold
+them.<00:13:01.760><c> That</c><00:13:01.920><c> is</c><00:13:02.079><c> part</c><00:13:02.320><c> of</c><00:13:02.480><c> why</c><00:13:02.800><c> they're</c><00:13:03.120><c> making</c>
+them. That is part of why they're making
+them. That is part of why they're making
+a<00:13:03.519><c> comeback.</c><00:13:04.240><c> My</c><00:13:04.560><c> suspicion,</c><00:13:05.200><c> my</c><00:13:05.600><c> strong</c>
+a comeback. My suspicion, my strong
+a comeback. My suspicion, my strong
+suspicion<00:13:06.880><c> is</c><00:13:07.120><c> that</c><00:13:07.440><c> one</c><00:13:07.680><c> of</c><00:13:07.760><c> the</c><00:13:08.000><c> ways</c><00:13:08.240><c> that</c>
+suspicion is that one of the ways that
+suspicion is that one of the ways that
+good<00:13:08.880><c> brands</c><00:13:09.360><c> can</c><00:13:09.600><c> cut</c><00:13:09.839><c> through</c><00:13:10.000><c> the</c><00:13:10.240><c> noise</c><00:13:10.560><c> at</c>
+good brands can cut through the noise at
+good brands can cut through the noise at
+this<00:13:10.959><c> point</c><00:13:11.360><c> is</c><00:13:11.600><c> by</c><00:13:11.920><c> doubling</c><00:13:12.399><c> down</c><00:13:12.880><c> on</c>
+this point is by doubling down on
+this point is by doubling down on
+physical<00:13:14.079><c> experiences</c><00:13:15.279><c> that</c><00:13:15.680><c> humans</c><00:13:16.639><c> cannot</c>
+physical experiences that humans cannot
+physical experiences that humans cannot
+get<00:13:17.279><c> any</c><00:13:17.519><c> other</c><00:13:17.680><c> way.</c><00:13:18.000><c> You</c><00:13:18.160><c> cannot</c><00:13:18.480><c> have</c><00:13:18.639><c> an</c><00:13:18.880><c> AI</c>
+get any other way. You cannot have an AI
+get any other way. You cannot have an AI
+that<00:13:19.519><c> gives</c><00:13:19.760><c> you</c><00:13:19.920><c> a</c><00:13:20.079><c> vinyl</c><00:13:20.399><c> of</c><00:13:20.560><c> the</c><00:13:20.720><c> Taylor</c>
+that gives you a vinyl of the Taylor
+that gives you a vinyl of the Taylor
+Swift<00:13:21.360><c> album</c><00:13:21.680><c> in</c><00:13:21.920><c> the</c><00:13:22.079><c> same</c><00:13:22.240><c> way</c><00:13:22.399><c> that</c><00:13:22.639><c> Taylor</c>
+Swift album in the same way that Taylor
+Swift album in the same way that Taylor
+mailing<00:13:23.440><c> you</c><00:13:23.680><c> the</c><00:13:23.920><c> album</c><00:13:24.480><c> on</c><00:13:24.720><c> the</c><00:13:24.959><c> correct</c>
+mailing you the album on the correct
+mailing you the album on the correct
+date<00:13:25.760><c> is</c><00:13:26.000><c> going</c><00:13:26.079><c> to</c><00:13:26.240><c> get</c><00:13:26.399><c> you.</c><00:13:26.639><c> that</c><00:13:26.880><c> that</c><00:13:27.200><c> is</c>
+date is going to get you. that that is
+date is going to get you. that that is
+an<00:13:27.440><c> irreplaceable</c><00:13:28.160><c> human</c><00:13:28.399><c> experience</c><00:13:28.720><c> to</c>
+an irreplaceable human experience to
+an irreplaceable human experience to
+open<00:13:29.120><c> the</c><00:13:29.360><c> package</c><00:13:29.600><c> and</c><00:13:29.760><c> get</c><00:13:29.920><c> the</c><00:13:30.079><c> vinyl.</c>
+open the package and get the vinyl.
+open the package and get the vinyl.
+Well,<00:13:31.279><c> that's</c><00:13:31.519><c> a</c><00:13:31.760><c> way</c><00:13:31.920><c> through.</c><00:13:32.240><c> That's</c><00:13:32.480><c> a</c><00:13:32.639><c> way</c>
+Well, that's a way through. That's a way
+Well, that's a way through. That's a way
+to<00:13:33.360><c> keep</c><00:13:33.839><c> authenticity</c><00:13:34.560><c> that</c><00:13:34.880><c> holds</c>
+to keep authenticity that holds
+to keep authenticity that holds
+long-term<00:13:35.760><c> customer</c><00:13:36.160><c> value</c><00:13:36.639><c> in</c><00:13:36.880><c> a</c><00:13:37.040><c> world</c>
+long-term customer value in a world
+long-term customer value in a world
+where<00:13:37.440><c> there</c><00:13:37.680><c> are</c><00:13:37.839><c> going</c><00:13:38.000><c> to</c><00:13:38.160><c> be</c><00:13:38.800><c> so</c><00:13:39.040><c> many</c>
+where there are going to be so many
+where there are going to be so many
+brands<00:13:39.600><c> demanding</c><00:13:40.000><c> your</c><00:13:40.160><c> attention.</c><00:13:40.880><c> And</c>
+brands demanding your attention. And
+brands demanding your attention. And
+that,<00:13:41.279><c> by</c><00:13:41.440><c> the</c><00:13:41.600><c> way,</c><00:13:41.760><c> is</c><00:13:42.079><c> one</c><00:13:42.320><c> of</c><00:13:42.399><c> the</c><00:13:42.560><c> reasons</c>
+that, by the way, is one of the reasons
+that, by the way, is one of the reasons
+I<00:13:43.440><c> don't</c><00:13:43.680><c> think</c><00:13:43.839><c> this</c><00:13:44.160><c> local</c><00:13:44.480><c> maxima</c><00:13:45.040><c> will</c>
+I don't think this local maxima will
+I don't think this local maxima will
+hold<00:13:45.519><c> forever.</c><00:13:46.160><c> If</c><00:13:46.399><c> you're</c><00:13:46.560><c> wondering,</c><00:13:46.880><c> well,</c>
+hold forever. If you're wondering, well,
+hold forever. If you're wondering, well,
+should<00:13:47.440><c> I</c><00:13:47.519><c> throw</c><00:13:47.760><c> up</c><00:13:47.920><c> my</c><00:13:48.079><c> hands?</c><00:13:48.480><c> Should</c><00:13:48.639><c> I</c>
+should I throw up my hands? Should I
+should I throw up my hands? Should I
+just<00:13:48.959><c> despair?</c><00:13:49.440><c> One,</c><00:13:49.680><c> that's</c><00:13:49.839><c> not</c><00:13:49.920><c> what</c><00:13:50.079><c> I</c><00:13:50.160><c> do</c>
+just despair? One, that's not what I do
+just despair? One, that's not what I do
+on<00:13:50.480><c> this</c><00:13:50.639><c> channel,</c><00:13:50.880><c> so</c><00:13:51.279><c> go</c><00:13:51.440><c> somewhere</c><00:13:51.760><c> else.</c>
+on this channel, so go somewhere else.
+on this channel, so go somewhere else.
+And<00:13:52.560><c> two,</c><00:13:53.200><c> I</c><00:13:53.440><c> don't</c><00:13:53.600><c> think</c><00:13:53.839><c> so.</c><00:13:54.320><c> Because</c><00:13:54.639><c> at</c>
+And two, I don't think so. Because at
+And two, I don't think so. Because at
+the<00:13:54.959><c> end</c><00:13:55.120><c> of</c><00:13:55.200><c> the</c><00:13:55.360><c> day,</c><00:13:55.760><c> AI</c><00:13:56.160><c> intelligence</c><00:13:56.720><c> and</c>
+the end of the day, AI intelligence and
+the end of the day, AI intelligence and
+AI<00:13:57.279><c> tooling</c><00:13:57.600><c> is</c><00:13:57.839><c> continuing</c><00:13:58.320><c> to</c><00:13:58.480><c> get</c><00:13:58.720><c> cheaper,</c>
+AI tooling is continuing to get cheaper,
+AI tooling is continuing to get cheaper,
+which<00:13:59.680><c> means</c><00:14:00.079><c> every</c><00:14:00.480><c> brand</c><00:14:00.800><c> is</c><00:14:00.959><c> going</c><00:14:01.040><c> to</c><00:14:01.199><c> be</c>
+which means every brand is going to be
+which means every brand is going to be
+able<00:14:01.440><c> to</c><00:14:01.519><c> make</c><00:14:01.760><c> these,</c><00:14:02.480><c> you</c><00:14:02.639><c> know,</c><00:14:03.279><c> fantastic,</c>
+able to make these, you know, fantastic,
+able to make these, you know, fantastic,
+weird<00:14:04.399><c> videos</c><00:14:05.120><c> all</c><00:14:05.360><c> the</c><00:14:05.519><c> time.</c><00:14:05.920><c> We're</c><00:14:06.240><c> going</c>
+weird videos all the time. We're going
+weird videos all the time. We're going
+to<00:14:06.480><c> get</c><00:14:06.560><c> a</c><00:14:06.800><c> tremendous</c><00:14:07.440><c> amount</c><00:14:07.680><c> of</c><00:14:08.000><c> content</c>
+to get a tremendous amount of content
+to get a tremendous amount of content
+flooding<00:14:08.880><c> the</c><00:14:09.120><c> zone</c><00:14:09.600><c> that</c><00:14:09.839><c> is</c><00:14:10.000><c> all</c><00:14:10.240><c> very</c><00:14:10.399><c> high</c>
+flooding the zone that is all very high
+flooding the zone that is all very high
+quality<00:14:10.880><c> and</c><00:14:11.120><c> all</c><00:14:11.279><c> very</c><00:14:11.519><c> AI</c><00:14:12.240><c> and</c><00:14:12.399><c> it's</c><00:14:12.720><c> going</c>
+quality and all very AI and it's going
+quality and all very AI and it's going
+to<00:14:12.959><c> be</c><00:14:13.199><c> so</c><00:14:13.519><c> much</c><00:14:14.000><c> that</c><00:14:14.399><c> people</c><00:14:14.720><c> are</c><00:14:14.880><c> not</c><00:14:15.120><c> going</c>
+to be so much that people are not going
+to be so much that people are not going
+to<00:14:15.279><c> be</c><00:14:15.360><c> able</c><00:14:15.519><c> to</c><00:14:15.600><c> consume</c><00:14:15.839><c> it</c><00:14:16.000><c> all.</c><00:14:16.240><c> You're</c>
+to be able to consume it all. You're
+to be able to consume it all. You're
+going<00:14:16.399><c> to</c><00:14:16.560><c> have</c><00:14:16.639><c> a</c><00:14:16.880><c> massive</c><00:14:17.279><c> signal</c><00:14:17.680><c> issue.</c>
+going to have a massive signal issue.
+going to have a massive signal issue.
+People<00:14:18.800><c> won't</c><00:14:19.120><c> be</c><00:14:19.279><c> able</c><00:14:19.440><c> to</c><00:14:19.600><c> find</c><00:14:19.920><c> signal</c><00:14:20.320><c> to</c>
+People won't be able to find signal to
+People won't be able to find signal to
+noise.<00:14:21.199><c> So,</c><00:14:21.519><c> what</c><00:14:21.760><c> does</c><00:14:22.000><c> a</c><00:14:22.160><c> good</c><00:14:22.399><c> brand</c><00:14:22.639><c> do</c><00:14:22.880><c> to</c>
+noise. So, what does a good brand do to
+noise. So, what does a good brand do to
+stand<00:14:23.199><c> out?</c><00:14:23.440><c> What</c><00:14:23.600><c> do</c><00:14:23.760><c> good</c><00:14:24.000><c> marketing</c><00:14:24.399><c> teams</c>
+stand out? What do good marketing teams
+stand out? What do good marketing teams
+do<00:14:24.959><c> to</c><00:14:25.199><c> stand</c><00:14:25.360><c> out</c><00:14:25.600><c> in</c><00:14:25.920><c> the</c><00:14:26.079><c> age</c><00:14:26.480><c> of</c><00:14:27.040><c> AI</c>
+do to stand out in the age of AI
+do to stand out in the age of AI
+optimized<00:14:28.399><c> and</c><00:14:28.720><c> accelerated</c><00:14:29.760><c> algorithmic</c>
+optimized and accelerated algorithmic
+optimized and accelerated algorithmic
+relationships?<00:14:31.680><c> Well,</c><00:14:31.920><c> good</c><00:14:32.240><c> brands</c><00:14:32.959><c> double</c>
+relationships? Well, good brands double
+relationships? Well, good brands double
+down<00:14:33.600><c> on</c><00:14:34.000><c> actually</c><00:14:34.320><c> giving</c><00:14:34.639><c> you</c><00:14:34.880><c> authenticity</c>
+down on actually giving you authenticity
+down on actually giving you authenticity
+that<00:14:36.160><c> you</c><00:14:36.320><c> can't</c><00:14:36.480><c> get</c><00:14:36.639><c> anywhere</c><00:14:37.040><c> else.</c><00:14:37.519><c> And</c>
+that you can't get anywhere else. And
+that you can't get anywhere else. And
+that's<00:14:37.839><c> why</c><00:14:38.000><c> I</c><00:14:38.160><c> go</c><00:14:38.320><c> back</c><00:14:38.480><c> to</c><00:14:38.720><c> physical</c>
+that's why I go back to physical
+that's why I go back to physical
+product,<00:14:40.160><c> physical</c><00:14:40.560><c> goods,</c><00:14:40.959><c> physical</c>
+product, physical goods, physical
+product, physical goods, physical
+experiences,<00:14:42.160><c> popups,</c><00:14:42.959><c> events,</c><00:14:43.680><c> things</c><00:14:43.920><c> that</c>
+experiences, popups, events, things that
+experiences, popups, events, things that
+people<00:14:44.720><c> can</c><00:14:44.959><c> be</c><00:14:45.199><c> in</c><00:14:45.360><c> the</c><00:14:45.600><c> space</c><00:14:45.920><c> on</c><00:14:46.639><c> that</c><00:14:46.880><c> you</c>
+people can be in the space on that you
+people can be in the space on that you
+can't<00:14:47.519><c> copy</c><00:14:47.920><c> with</c><00:14:48.079><c> AI.</c><00:14:48.639><c> They</c><00:14:48.880><c> can</c><00:14:49.040><c> be</c><00:14:49.199><c> very</c>
+can't copy with AI. They can be very
+can't copy with AI. They can be very
+Instagrammable<00:14:50.320><c> moments.</c><00:14:50.720><c> You</c><00:14:50.959><c> can</c><00:14:51.040><c> have</c><00:14:51.120><c> the</c>
+Instagrammable moments. You can have the
+Instagrammable moments. You can have the
+sort<00:14:51.600><c> of</c><00:14:51.680><c> the</c><00:14:51.920><c> Instagram</c><00:14:52.560><c> wall</c><00:14:52.880><c> with</c><00:14:53.199><c> like</c><00:14:53.360><c> the</c>
+sort of the Instagram wall with like the
+sort of the Instagram wall with like the
+special<00:14:54.320><c> logo</c><00:14:54.720><c> or</c><00:14:54.959><c> whatever</c><00:14:55.199><c> it</c><00:14:55.360><c> is.</c><00:14:55.760><c> You</c><00:14:56.000><c> can</c>
+special logo or whatever it is. You can
+special logo or whatever it is. You can
+have<00:14:56.240><c> fun</c><00:14:56.399><c> with</c><00:14:56.560><c> it.</c><00:14:56.800><c> You</c><00:14:56.880><c> can</c><00:14:57.040><c> make</c><00:14:57.120><c> it</c><00:14:57.279><c> sort</c>
+have fun with it. You can make it sort
+have fun with it. You can make it sort
+of<00:14:57.600><c> hybrid</c><00:14:58.000><c> and</c><00:14:58.160><c> online</c><00:14:58.560><c> at</c><00:14:58.720><c> the</c><00:14:58.880><c> same</c><00:14:59.120><c> time,</c>
+of hybrid and online at the same time,
+of hybrid and online at the same time,
+but<00:15:00.079><c> you</c><00:15:00.399><c> still,</c><00:15:01.600><c> I</c><00:15:01.920><c> think,</c><00:15:02.480><c> are</c><00:15:02.800><c> going</c><00:15:03.040><c> to</c>
+but you still, I think, are going to
+but you still, I think, are going to
+need<00:15:03.600><c> to</c><00:15:03.839><c> have</c><00:15:04.160><c> that</c><00:15:04.560><c> irreplaceable</c><00:15:05.600><c> human</c>
+need to have that irreplaceable human
+need to have that irreplaceable human
+touch.<00:15:07.040><c> And</c><00:15:07.199><c> that's</c><00:15:07.519><c> why</c><00:15:08.320><c> you</c><00:15:08.639><c> have</c><00:15:08.800><c> examples</c>
+touch. And that's why you have examples
+touch. And that's why you have examples
+like<00:15:09.680><c> uh</c><00:15:09.839><c> whiskey</c><00:15:10.320><c> distilleries</c><00:15:10.959><c> and</c><00:15:11.279><c> other</c>
+like uh whiskey distilleries and other
+like uh whiskey distilleries and other
+things<00:15:11.839><c> like</c><00:15:12.399><c> going</c><00:15:12.720><c> back</c><00:15:13.120><c> to</c><00:15:13.760><c> getting</c>
+things like going back to getting
+things like going back to getting
+physically<00:15:14.639><c> close</c><00:15:14.880><c> to</c><00:15:15.040><c> their</c><00:15:15.279><c> customers,</c>
+physically close to their customers,
+physically close to their customers,
+offering<00:15:16.160><c> customer</c><00:15:16.560><c> tours</c><00:15:16.880><c> of</c><00:15:17.040><c> the</c>
+offering customer tours of the
+offering customer tours of the
+distillery,<00:15:17.680><c> offering</c><00:15:18.000><c> special</c><00:15:18.320><c> tasting</c>
+distillery, offering special tasting
+distillery, offering special tasting
+rooms,<00:15:19.279><c> this</c><00:15:19.519><c> that</c><00:15:19.680><c> and</c><00:15:19.760><c> the</c><00:15:19.839><c> other</c><00:15:19.920><c> thing.</c>
+rooms, this that and the other thing.
+rooms, this that and the other thing.
+And<00:15:20.160><c> that's</c><00:15:20.320><c> a</c><00:15:20.480><c> luxury</c><00:15:20.800><c> good.</c><00:15:21.120><c> You</c><00:15:21.279><c> might</c>
+And that's a luxury good. You might
+And that's a luxury good. You might
+think,<00:15:21.760><c> well,</c><00:15:21.920><c> if</c><00:15:22.079><c> you're</c><00:15:22.240><c> not</c><00:15:22.320><c> in</c><00:15:22.480><c> the</c><00:15:22.639><c> luxury</c>
+think, well, if you're not in the luxury
+think, well, if you're not in the luxury
+goods<00:15:23.279><c> space,</c><00:15:23.839><c> how</c><00:15:24.079><c> are</c><00:15:24.240><c> you</c><00:15:24.399><c> going</c><00:15:24.480><c> to</c>
+goods space, how are you going to
+goods space, how are you going to
+replicate<00:15:25.040><c> that?</c><00:15:25.600><c> I</c><00:15:25.920><c> think</c><00:15:26.000><c> that</c><00:15:26.240><c> that</c><00:15:26.480><c> is</c>
+replicate that? I think that that is
+replicate that? I think that that is
+where<00:15:27.120><c> physical</c><00:15:27.600><c> store</c><00:15:27.920><c> footprints</c><00:15:28.399><c> are</c>
+where physical store footprints are
+where physical store footprints are
+going.<00:15:29.199><c> We</c><00:15:29.519><c> know</c><00:15:29.839><c> that</c><00:15:30.160><c> the</c><00:15:30.399><c> mall</c><00:15:30.720><c> is</c><00:15:31.040><c> not</c>
+going. We know that the mall is not
+going. We know that the mall is not
+really<00:15:31.519><c> a</c><00:15:31.839><c> thing</c><00:15:32.320><c> in</c><00:15:32.560><c> the</c><00:15:32.800><c> US</c><00:15:33.199><c> anymore.</c><00:15:34.160><c> We</c>
+really a thing in the US anymore. We
+really a thing in the US anymore. We
+know<00:15:34.720><c> that</c><00:15:35.440><c> the</c><00:15:36.000><c> controversy</c><00:15:36.639><c> that</c><00:15:36.880><c> Sydney</c>
+know that the controversy that Sydney
+know that the controversy that Sydney
+Sweeney<00:15:37.839><c> courted</c><00:15:38.160><c> with</c><00:15:38.320><c> the</c><00:15:38.480><c> jeans</c><00:15:38.800><c> ad</c><00:15:39.120><c> was</c>
+Sweeney courted with the jeans ad was
+Sweeney courted with the jeans ad was
+primarily<00:15:40.000><c> designed</c><00:15:40.720><c> to</c><00:15:41.120><c> drive</c><00:15:41.600><c> attention,</c>
+primarily designed to drive attention,
+primarily designed to drive attention,
+drive<00:15:43.760><c> traffic</c><00:15:44.720><c> to</c><00:15:45.040><c> the</c><00:15:45.440><c> American</c><00:15:46.079><c> Eagle</c>
+drive traffic to the American Eagle
+drive traffic to the American Eagle
+site,<00:15:47.199><c> which</c><00:15:47.440><c> would</c><00:15:47.680><c> then</c><00:15:47.920><c> convert.</c><00:15:48.560><c> If</c>
+site, which would then convert. If
+site, which would then convert. If
+that's<00:15:49.199><c> what</c><00:15:49.519><c> happened,</c><00:15:50.240><c> you</c><00:15:50.480><c> want</c><00:15:50.639><c> to</c><00:15:50.720><c> be</c><00:15:50.880><c> in</c>
+that's what happened, you want to be in
+that's what happened, you want to be in
+a<00:15:51.199><c> position</c><00:15:52.000><c> where</c><00:15:52.480><c> you</c><00:15:52.800><c> can</c><00:15:53.600><c> give</c><00:15:54.160><c> people</c>
+a position where you can give people
+a position where you can give people
+experiences<00:15:55.920><c> that</c><00:15:56.399><c> are</c><00:15:56.959><c> in</c><00:15:57.360><c> person</c><00:15:58.160><c> that</c>
+experiences that are in person that
+experiences that are in person that
+leave<00:15:58.880><c> them</c><00:15:59.279><c> feeling</c><00:15:59.680><c> like</c><00:15:59.920><c> they</c><00:16:00.240><c> want</c><00:16:00.480><c> to</c>
+leave them feeling like they want to
+leave them feeling like they want to
+come<00:16:01.040><c> back</c><00:16:01.680><c> for</c><00:16:02.560><c> another</c><00:16:03.120><c> experience</c><00:16:03.839><c> like</c>
+come back for another experience like
+come back for another experience like
+that<00:16:04.399><c> that</c><00:16:04.720><c> they</c><00:16:04.959><c> can't</c><00:16:05.199><c> get</c><00:16:05.440><c> anywhere</c><00:16:05.839><c> else.</c>
+that that they can't get anywhere else.
+that that they can't get anywhere else.
+Because<00:16:06.639><c> part</c><00:16:06.880><c> of</c><00:16:06.959><c> the</c><00:16:07.199><c> problem</c><00:16:07.519><c> with</c>
+Because part of the problem with
+Because part of the problem with
+marketing<00:16:08.240><c> for</c><00:16:08.480><c> controversy</c><00:16:09.120><c> is</c><00:16:09.360><c> it</c><00:16:09.600><c> buys</c><00:16:09.839><c> you</c>
+marketing for controversy is it buys you
+marketing for controversy is it buys you
+the<00:16:10.240><c> pop</c><00:16:10.480><c> in</c><00:16:10.720><c> the</c><00:16:10.880><c> stock</c><00:16:11.120><c> price.</c><00:16:11.839><c> It</c><00:16:12.079><c> buys</c><00:16:12.399><c> you</c>
+the pop in the stock price. It buys you
+the pop in the stock price. It buys you
+the<00:16:12.800><c> attention.</c><00:16:13.199><c> And</c><00:16:13.440><c> I'm</c><00:16:13.600><c> not</c><00:16:13.759><c> going</c><00:16:13.839><c> to</c>
+the attention. And I'm not going to
+the attention. And I'm not going to
+pretend<00:16:14.240><c> it</c><00:16:14.480><c> doesn't</c><00:16:14.639><c> buy</c><00:16:14.800><c> you</c><00:16:14.959><c> dollars.</c><00:16:15.360><c> I'm</c>
+pretend it doesn't buy you dollars. I'm
+pretend it doesn't buy you dollars. I'm
+sure<00:16:15.680><c> it</c><00:16:15.920><c> bought</c><00:16:16.160><c> them</c><00:16:16.320><c> dollars,</c><00:16:16.800><c> right?</c>
+sure it bought them dollars, right?
+sure it bought them dollars, right?
+Let's<00:16:17.279><c> not</c><00:16:17.440><c> let's</c><00:16:17.680><c> not</c><00:16:17.839><c> kid</c><00:16:18.000><c> ourselves.</c>
+Let's not let's not kid ourselves.
+Let's not let's not kid ourselves.
+Controversy<00:16:19.040><c> works,</c><00:16:19.600><c> but</c><00:16:20.160><c> it</c><00:16:20.560><c> doesn't</c>
+Controversy works, but it doesn't
+Controversy works, but it doesn't
+necessarily<00:16:22.000><c> translate</c><00:16:22.560><c> well</c><00:16:22.959><c> into</c>
+necessarily translate well into
+necessarily translate well into
+long-term<00:16:24.079><c> customer</c><00:16:24.639><c> value.</c><00:16:25.360><c> And</c><00:16:25.519><c> if</c><00:16:25.680><c> you</c>
+long-term customer value. And if you
+long-term customer value. And if you
+want<00:16:26.079><c> long-term</c><00:16:26.639><c> customer</c><00:16:26.959><c> value,</c><00:16:27.279><c> which</c>
+want long-term customer value, which
+want long-term customer value, which
+ultimately<00:16:28.000><c> sustains</c><00:16:28.720><c> free</c><00:16:28.959><c> cash</c><00:16:29.199><c> flows</c><00:16:29.519><c> and</c>
+ultimately sustains free cash flows and
+ultimately sustains free cash flows and
+sustains<00:16:30.240><c> the</c><00:16:30.320><c> valuation</c><00:16:30.720><c> of</c><00:16:30.880><c> the</c><00:16:31.040><c> business,</c>
+sustains the valuation of the business,
+sustains the valuation of the business,
+I<00:16:31.920><c> think</c><00:16:32.000><c> you</c><00:16:32.240><c> have</c><00:16:32.399><c> to</c><00:16:32.639><c> figure</c><00:16:32.959><c> out</c><00:16:33.680><c> how</c><00:16:34.000><c> to</c>
+I think you have to figure out how to
+I think you have to figure out how to
+get<00:16:34.720><c> people</c><00:16:35.440><c> from</c><00:16:35.839><c> AI</c><00:16:36.320><c> spaces</c><00:16:36.800><c> into</c><00:16:37.120><c> online</c>
+get people from AI spaces into online
+get people from AI spaces into online
+spaces.<00:16:38.000><c> And</c><00:16:38.240><c> by</c><00:16:38.399><c> the</c><00:16:38.480><c> way,</c><00:16:38.720><c> this</c><00:16:38.880><c> is</c><00:16:39.040><c> not</c><00:16:39.199><c> me</c>
+spaces. And by the way, this is not me
+spaces. And by the way, this is not me
+saying<00:16:39.519><c> that</c><00:16:39.759><c> AI</c><00:16:40.079><c> ads</c><00:16:40.399><c> are</c><00:16:40.560><c> bad</c><00:16:40.880><c> or</c><00:16:41.120><c> that</c><00:16:41.279><c> AI</c>
+saying that AI ads are bad or that AI
+saying that AI ads are bad or that AI
+ads<00:16:41.920><c> won't</c><00:16:42.160><c> exist</c><00:16:42.399><c> or</c><00:16:42.639><c> that</c><00:16:42.800><c> we</c><00:16:43.040><c> shouldn't</c>
+ads won't exist or that we shouldn't
+ads won't exist or that we shouldn't
+have<00:16:43.519><c> them.</c><00:16:43.920><c> I</c><00:16:44.160><c> think</c><00:16:44.320><c> the</c><00:16:44.480><c> reality</c><00:16:44.800><c> is</c>
+have them. I think the reality is
+have them. I think the reality is
+everyone's<00:16:45.519><c> going</c><00:16:45.600><c> to</c><00:16:45.680><c> be</c><00:16:45.759><c> able</c><00:16:45.839><c> to</c><00:16:45.920><c> make</c>
+everyone's going to be able to make
+everyone's going to be able to make
+their<00:16:46.160><c> own</c><00:16:46.320><c> AI</c><00:16:46.639><c> ads</c><00:16:47.120><c> very</c><00:16:47.360><c> very</c><00:16:47.680><c> quickly.</c>
+their own AI ads very very quickly.
+their own AI ads very very quickly.
+We're<00:16:48.320><c> just</c><00:16:48.480><c> going</c><00:16:48.560><c> to</c><00:16:48.639><c> have</c><00:16:48.800><c> them.</c><00:16:49.279><c> Instead,</c>
+We're just going to have them. Instead,
+We're just going to have them. Instead,
+I<00:16:49.920><c> want</c><00:16:50.000><c> to</c><00:16:50.160><c> think</c><00:16:50.320><c> about</c><00:16:50.720><c> how</c><00:16:51.040><c> AI</c><00:16:51.519><c> ads</c><00:16:52.000><c> can</c><00:16:52.160><c> tie</c>
+I want to think about how AI ads can tie
+I want to think about how AI ads can tie
+us<00:16:52.800><c> into</c><00:16:53.839><c> physical</c><00:16:54.240><c> spaces</c><00:16:54.639><c> that</c><00:16:54.959><c> allow</c><00:16:55.199><c> us</c><00:16:55.360><c> to</c>
+us into physical spaces that allow us to
+us into physical spaces that allow us to
+engage<00:16:56.399><c> with</c><00:16:56.959><c> our</c><00:16:57.279><c> whole</c><00:16:57.600><c> senses,</c><00:16:58.160><c> right?</c><00:16:58.480><c> Our</c>
+engage with our whole senses, right? Our
+engage with our whole senses, right? Our
+our<00:16:58.959><c> smell,</c><00:16:59.360><c> our</c><00:16:59.600><c> sense</c><00:16:59.839><c> of</c><00:17:00.000><c> touch,</c><00:17:00.399><c> all</c><00:17:00.560><c> of</c>
+our smell, our sense of touch, all of
+our smell, our sense of touch, all of
+the<00:17:00.800><c> things</c><00:17:00.959><c> that</c><00:17:01.199><c> make</c><00:17:01.440><c> us</c><00:17:01.839><c> register</c><00:17:02.399><c> real</c>
+the things that make us register real
+the things that make us register real
+experiences,<00:17:03.440><c> maybe</c><00:17:03.680><c> that</c><00:17:03.839><c> help</c><00:17:04.000><c> us</c><00:17:04.240><c> build</c>
+experiences, maybe that help us build
+experiences, maybe that help us build
+community<00:17:05.039><c> for</c><00:17:05.360><c> the</c><00:17:05.600><c> brand</c><00:17:06.240><c> around</c><00:17:06.559><c> with</c>
+community for the brand around with
+community for the brand around with
+other<00:17:07.039><c> humans</c><00:17:07.360><c> who</c><00:17:07.520><c> are</c><00:17:07.679><c> consumers</c><00:17:08.000><c> of</c><00:17:08.160><c> the</c>
+other humans who are consumers of the
+other humans who are consumers of the
+brand.<00:17:08.959><c> That's</c><00:17:09.199><c> going</c><00:17:09.360><c> to</c><00:17:09.439><c> be</c><00:17:09.520><c> what</c><00:17:09.760><c> builds</c>
+brand. That's going to be what builds
+brand. That's going to be what builds
+those<00:17:10.240><c> long-term</c><00:17:10.640><c> customer</c><00:17:11.039><c> relationships.</c>
+those long-term customer relationships.
+those long-term customer relationships.
+So<00:17:11.839><c> I</c><00:17:12.000><c> think</c><00:17:12.079><c> that</c><00:17:12.319><c> like</c><00:17:12.640><c> piece</c><00:17:12.959><c> one</c><00:17:13.199><c> is</c>
+So I think that like piece one is
+So I think that like piece one is
+getting<00:17:13.679><c> physical.</c><00:17:14.319><c> I</c><00:17:14.559><c> want</c><00:17:14.640><c> to</c><00:17:14.799><c> suggest</c><00:17:15.039><c> to</c>
+getting physical. I want to suggest to
+getting physical. I want to suggest to
+you<00:17:15.839><c> another</c><00:17:16.160><c> piece</c><00:17:16.400><c> that</c><00:17:16.640><c> I</c><00:17:16.799><c> think</c><00:17:16.880><c> will</c>
+you another piece that I think will
+you another piece that I think will
+help.<00:17:17.520><c> To</c><00:17:17.760><c> me,</c><00:17:18.240><c> one</c><00:17:18.480><c> of</c><00:17:18.559><c> the</c><00:17:18.720><c> things</c><00:17:18.880><c> that</c><00:17:19.120><c> we</c>
+help. To me, one of the things that we
+help. To me, one of the things that we
+are<00:17:19.520><c> going</c><00:17:19.600><c> to</c><00:17:19.760><c> start</c><00:17:20.000><c> to</c><00:17:20.240><c> see</c><00:17:20.640><c> as</c><00:17:20.959><c> consumers</c>
+are going to start to see as consumers
+are going to start to see as consumers
+start<00:17:21.679><c> to</c><00:17:21.919><c> demand</c><00:17:22.240><c> authenticity</c><00:17:22.799><c> as</c><00:17:23.039><c> a</c>
+start to demand authenticity as a
+start to demand authenticity as a
+differentiator<00:17:24.319><c> is</c><00:17:24.640><c> we're</c><00:17:24.880><c> going</c><00:17:25.039><c> to</c><00:17:25.199><c> start</c>
+differentiator is we're going to start
+differentiator is we're going to start
+to<00:17:25.679><c> see</c><00:17:26.240><c> some</c><00:17:26.640><c> kind</c><00:17:26.880><c> of</c><00:17:27.199><c> certificate</c><00:17:27.839><c> of</c><00:17:28.160><c> human</c>
+to see some kind of certificate of human
+to see some kind of certificate of human
+touch<00:17:29.600><c> in</c><00:17:30.000><c> some</c><00:17:30.320><c> of</c><00:17:30.480><c> these</c><00:17:30.799><c> brands</c><00:17:31.200><c> offerings.</c>
+touch in some of these brands offerings.
+touch in some of these brands offerings.
+I<00:17:32.240><c> don't</c><00:17:32.400><c> know</c><00:17:32.640><c> exactly</c><00:17:32.960><c> what</c><00:17:33.200><c> that</c><00:17:33.360><c> will</c><00:17:33.520><c> look</c>
+I don't know exactly what that will look
+I don't know exactly what that will look
+like.<00:17:33.840><c> This</c><00:17:34.000><c> is</c><00:17:34.160><c> a</c><00:17:34.320><c> little</c><00:17:34.400><c> bit</c><00:17:34.480><c> of</c><00:17:34.559><c> a</c><00:17:34.799><c> peak</c>
+like. This is a little bit of a peak
+like. This is a little bit of a peak
+around<00:17:35.280><c> the</c><00:17:35.440><c> corner,</c><00:17:35.760><c> but</c><00:17:36.000><c> you</c><00:17:36.160><c> can</c><00:17:36.400><c> take</c><00:17:36.799><c> a</c>
+around the corner, but you can take a
+around the corner, but you can take a
+you<00:17:38.400><c> can</c><00:17:38.559><c> take</c><00:17:38.720><c> a</c><00:17:38.880><c> tour</c><00:17:39.200><c> through</c><00:17:39.360><c> how</c><00:17:39.520><c> the</c>
+you can take a tour through how the
+you can take a tour through how the
+beauty<00:17:40.000><c> industry</c><00:17:40.480><c> has</c><00:17:40.720><c> handled</c><00:17:41.120><c> authenticity</c>
+beauty industry has handled authenticity
+beauty industry has handled authenticity
+and<00:17:42.080><c> beauty</c><00:17:42.400><c> over</c><00:17:42.640><c> the</c><00:17:42.880><c> last</c><00:17:43.039><c> 20</c><00:17:43.360><c> years</c><00:17:43.919><c> and</c>
+and beauty over the last 20 years and
+and beauty over the last 20 years and
+the<00:17:44.320><c> way</c><00:17:44.480><c> marketing</c><00:17:44.799><c> in</c><00:17:45.039><c> the</c><00:17:45.120><c> beauty</c><00:17:45.360><c> industry</c>
+the way marketing in the beauty industry
+the way marketing in the beauty industry
+has<00:17:45.919><c> shifted</c><00:17:46.240><c> as</c><00:17:46.480><c> a</c><00:17:46.640><c> result.</c><00:17:47.120><c> Similarly,</c><00:17:47.679><c> I</c>
+has shifted as a result. Similarly, I
+has shifted as a result. Similarly, I
+think<00:17:48.000><c> we're</c><00:17:48.160><c> going</c><00:17:48.240><c> to</c><00:17:48.400><c> see</c><00:17:48.640><c> marketing</c><00:17:49.440><c> that</c>
+think we're going to see marketing that
+think we're going to see marketing that
+leans<00:17:50.320><c> into</c><00:17:51.039><c> authentically</c><00:17:52.080><c> portrayed</c><00:17:52.720><c> human</c>
+leans into authentically portrayed human
+leans into authentically portrayed human
+experiences.<00:17:53.760><c> Marketing</c><00:17:54.160><c> that</c><00:17:54.320><c> says</c><00:17:54.960><c> this</c><00:17:55.120><c> is</c>
+experiences. Marketing that says this is
+experiences. Marketing that says this is
+a<00:17:55.440><c> real</c><00:17:55.679><c> human.</c><00:17:56.000><c> We</c><00:17:56.160><c> didn't</c><00:17:56.400><c> AI</c><00:17:57.120><c> their</c><00:17:57.360><c> face.</c>
+a real human. We didn't AI their face.
+a real human. We didn't AI their face.
+Marketing<00:17:58.320><c> that</c><00:17:58.640><c> says</c><00:17:59.280><c> this</c><00:17:59.440><c> is</c><00:17:59.600><c> a</c><00:17:59.840><c> real</c><00:18:00.160><c> car.</c>
+Marketing that says this is a real car.
+Marketing that says this is a real car.
+Look,<00:18:01.200><c> a</c><00:18:01.360><c> piece</c><00:18:01.520><c> of</c><00:18:01.679><c> it</c><00:18:01.919><c> just</c><00:18:02.160><c> fell</c><00:18:02.400><c> off.</c><00:18:02.880><c> we</c>
+Look, a piece of it just fell off. we
+Look, a piece of it just fell off. we
+didn't<00:18:03.440><c> pretend.</c><00:18:04.080><c> You're</c><00:18:04.320><c> going</c><00:18:04.400><c> to</c><00:18:04.480><c> get</c><00:18:04.640><c> more</c>
+didn't pretend. You're going to get more
+didn't pretend. You're going to get more
+and<00:18:05.039><c> more</c><00:18:05.120><c> of</c><00:18:05.280><c> that</c><00:18:05.520><c> as</c><00:18:05.679><c> a</c><00:18:05.919><c> way</c><00:18:06.080><c> to</c><00:18:06.400><c> signal</c><00:18:06.880><c> to</c>
+and more of that as a way to signal to
+and more of that as a way to signal to
+consumers<00:18:07.840><c> in</c><00:18:08.080><c> a</c><00:18:08.320><c> sea</c><00:18:08.559><c> of</c><00:18:08.720><c> AI</c><00:18:09.200><c> content</c><00:18:09.919><c> that</c>
+consumers in a sea of AI content that
+consumers in a sea of AI content that
+you<00:18:10.400><c> are</c><00:18:10.640><c> worth</c><00:18:10.880><c> paying</c><00:18:11.120><c> attention</c><00:18:11.360><c> to.</c><00:18:11.679><c> In</c><00:18:11.840><c> a</c>
+you are worth paying attention to. In a
+you are worth paying attention to. In a
+sense,<00:18:12.240><c> there's</c><00:18:12.480><c> going</c><00:18:12.640><c> to</c><00:18:12.720><c> be</c><00:18:12.880><c> an</c><00:18:13.120><c> anti-AII</c>
+sense, there's going to be an anti-AII
+sense, there's going to be an anti-AII
+signal<00:18:14.480><c> that</c><00:18:14.720><c> is</c><00:18:14.960><c> going</c><00:18:15.039><c> to</c><00:18:15.200><c> come</c><00:18:15.360><c> up</c><00:18:16.000><c> because</c>
+signal that is going to come up because
+signal that is going to come up because
+AI<00:18:17.200><c> content</c><00:18:17.600><c> is</c><00:18:17.919><c> going</c><00:18:18.080><c> to</c><00:18:18.240><c> become</c><00:18:18.559><c> so</c><00:18:18.880><c> cheap</c>
+AI content is going to become so cheap
+AI content is going to become so cheap
+and<00:18:19.440><c> easy</c><00:18:19.679><c> to</c><00:18:19.919><c> produce.</c><00:18:20.480><c> I</c><00:18:20.720><c> want</c><00:18:20.799><c> to</c><00:18:21.039><c> close</c>
+and easy to produce. I want to close
+and easy to produce. I want to close
+with<00:18:21.760><c> a</c><00:18:22.080><c> question</c><00:18:22.400><c> for</c><00:18:22.720><c> AI</c><00:18:23.120><c> tool</c><00:18:23.440><c> builders.</c><00:18:23.760><c> If</c>
+with a question for AI tool builders. If
+with a question for AI tool builders. If
+you're<00:18:24.080><c> building</c><00:18:24.320><c> AI</c><00:18:24.720><c> tools</c><00:18:25.120><c> for</c><00:18:25.440><c> marketers</c>
+you're building AI tools for marketers
+you're building AI tools for marketers
+in<00:18:26.080><c> the</c><00:18:26.320><c> space,</c><00:18:27.200><c> most</c><00:18:27.520><c> of</c><00:18:27.679><c> the</c><00:18:27.840><c> time</c><00:18:28.480><c> you</c><00:18:28.720><c> have</c>
+in the space, most of the time you have
+in the space, most of the time you have
+been<00:18:29.200><c> building</c><00:18:29.600><c> for</c><00:18:29.840><c> the</c><00:18:30.160><c> idea</c><00:18:30.799><c> for</c><00:18:31.039><c> the</c><00:18:31.200><c> tool</c>
+been building for the idea for the tool
+been building for the idea for the tool
+chain<00:18:31.760><c> to</c><00:18:32.000><c> produce</c><00:18:32.320><c> these</c><00:18:32.640><c> ads.</c><00:18:33.440><c> You've</c><00:18:33.679><c> been</c>
+chain to produce these ads. You've been
+chain to produce these ads. You've been
+building<00:18:34.400><c> for</c><00:18:34.960><c> a</c><00:18:35.600><c> cleaner,</c><00:18:36.160><c> simpler</c><00:18:36.720><c> pathway</c>
+building for a cleaner, simpler pathway
+building for a cleaner, simpler pathway
+from<00:18:37.600><c> idea</c><00:18:38.080><c> to</c><00:18:38.320><c> ad.</c><00:18:39.039><c> That's</c><00:18:39.280><c> fine.</c><00:18:39.679><c> I</c><00:18:39.919><c> think</c>
+from idea to ad. That's fine. I think
+from idea to ad. That's fine. I think
+that<00:18:40.320><c> pathway</c><00:18:40.799><c> is</c><00:18:41.039><c> fairly</c><00:18:41.360><c> well</c><00:18:41.679><c> trodden.</c><00:18:42.240><c> I</c>
+that pathway is fairly well trodden. I
+that pathway is fairly well trodden. I
+want<00:18:42.640><c> to</c><00:18:42.799><c> suggest</c><00:18:43.200><c> there's</c><00:18:43.520><c> a</c><00:18:43.760><c> lot</c><00:18:44.160><c> of</c><00:18:44.880><c> untaken</c>
+want to suggest there's a lot of untaken
+want to suggest there's a lot of untaken
+space<00:18:46.240><c> with</c><00:18:46.559><c> AI</c><00:18:47.280><c> in</c><00:18:47.840><c> helping</c><00:18:48.320><c> marketers</c>
+space with AI in helping marketers
+space with AI in helping marketers
+exercise<00:18:49.919><c> good</c><00:18:50.160><c> taste</c><00:18:50.480><c> and</c><00:18:50.799><c> judgment</c><00:18:51.440><c> over</c>
+exercise good taste and judgment over
+exercise good taste and judgment over
+what<00:18:52.000><c> is</c><00:18:52.160><c> the</c><00:18:52.480><c> best</c><00:18:52.880><c> long-term</c><00:18:53.520><c> positioning</c>
+what is the best long-term positioning
+what is the best long-term positioning
+for<00:18:54.240><c> the</c><00:18:54.480><c> brand.</c><00:18:54.880><c> What</c><00:18:55.039><c> is</c><00:18:55.200><c> the</c><00:18:55.360><c> best</c>
+for the brand. What is the best
+for the brand. What is the best
+long-term<00:18:56.160><c> positioning</c><00:18:56.640><c> for</c><00:18:56.880><c> a</c><00:18:57.120><c> particular</c>
+long-term positioning for a particular
+long-term positioning for a particular
+ad<00:18:58.400><c> campaign</c><00:18:59.120><c> that</c><00:18:59.520><c> supports</c><00:18:59.919><c> the</c><00:19:00.160><c> brand?</c>
+ad campaign that supports the brand?
+ad campaign that supports the brand?
+There<00:19:00.960><c> has</c><00:19:01.200><c> been</c><00:19:01.520><c> precious</c><00:19:02.000><c> little</c><00:19:02.320><c> AI</c><00:19:02.720><c> work</c>
+There has been precious little AI work
+There has been precious little AI work
+put<00:19:03.520><c> into</c><00:19:03.919><c> the</c><00:19:04.160><c> connection</c><00:19:04.720><c> between</c><00:19:05.280><c> content</c>
+put into the connection between content
+put into the connection between content
+branding<00:19:06.559><c> and</c><00:19:06.799><c> long-term</c><00:19:07.360><c> strategy.</c><00:19:08.160><c> And</c>
+branding and long-term strategy. And
+branding and long-term strategy. And
+frankly,<00:19:09.120><c> LLMs</c><00:19:09.679><c> are</c><00:19:09.840><c> getting</c><00:19:10.160><c> smart</c><00:19:10.480><c> enough</c>
+frankly, LLMs are getting smart enough
+frankly, LLMs are getting smart enough
+that<00:19:11.280><c> they</c><00:19:11.520><c> can</c><00:19:11.679><c> at</c><00:19:11.679><c> least</c><00:19:12.080><c> be</c><00:19:12.240><c> thought</c>
+that they can at least be thought
+that they can at least be thought
+partners<00:19:12.960><c> on</c><00:19:13.200><c> this.</c><00:19:13.520><c> And</c><00:19:13.679><c> I</c><00:19:13.840><c> don't</c><00:19:14.000><c> see</c>
+partners on this. And I don't see
+partners on this. And I don't see
+anybody<00:19:14.799><c> thinking</c><00:19:15.280><c> about</c><00:19:15.679><c> what</c><00:19:15.919><c> you</c><00:19:16.160><c> do</c><00:19:16.720><c> when</c>
+anybody thinking about what you do when
+anybody thinking about what you do when
+AI<00:19:17.440><c> can</c><00:19:17.679><c> produce</c><00:19:17.919><c> a</c><00:19:18.080><c> thousand</c><00:19:18.480><c> ideas</c><00:19:18.799><c> and</c><00:19:19.039><c> you</c>
+AI can produce a thousand ideas and you
+AI can produce a thousand ideas and you
+have<00:19:19.360><c> to</c><00:19:19.520><c> pick</c><00:19:19.760><c> one.</c><00:19:20.400><c> Who's</c><00:19:20.720><c> doing</c><00:19:20.960><c> that</c><00:19:21.200><c> part?</c>
+have to pick one. Who's doing that part?
+have to pick one. Who's doing that part?
+And<00:19:21.840><c> so</c><00:19:22.000><c> that's</c><00:19:22.240><c> the</c><00:19:22.400><c> challenge</c><00:19:22.640><c> I</c><00:19:22.880><c> want</c><00:19:23.039><c> to</c>
+And so that's the challenge I want to
+And so that's the challenge I want to
+leave<00:19:23.280><c> you</c><00:19:23.440><c> with.</c><00:19:24.000><c> I</c><00:19:24.240><c> think</c><00:19:24.480><c> we</c><00:19:24.720><c> can</c><00:19:25.120><c> build</c><00:19:25.360><c> our</c>
+leave you with. I think we can build our
+leave you with. I think we can build our
+way<00:19:25.840><c> out</c><00:19:26.080><c> of</c><00:19:26.400><c> and</c><00:19:26.640><c> we</c><00:19:26.880><c> can</c><00:19:27.039><c> market</c><00:19:27.360><c> our</c><00:19:27.679><c> way</c><00:19:27.919><c> out</c>
+way out of and we can market our way out
+way out of and we can market our way out
+of<00:19:28.320><c> the</c><00:19:28.640><c> local</c><00:19:28.960><c> maxima</c><00:19:29.520><c> we're</c><00:19:29.679><c> in.</c><00:19:30.240><c> We</c><00:19:30.559><c> don't</c>
+of the local maxima we're in. We don't
+of the local maxima we're in. We don't
+have<00:19:31.039><c> to</c><00:19:31.280><c> tolerate</c><00:19:32.240><c> the</c><00:19:32.480><c> experience</c><00:19:32.960><c> that</c>
+have to tolerate the experience that
+have to tolerate the experience that
+we're<00:19:33.360><c> having</c><00:19:33.679><c> now</c><00:19:34.160><c> in</c><00:19:34.400><c> our</c><00:19:34.640><c> algorithms.</c><00:19:35.360><c> We</c>
+we're having now in our algorithms. We
+we're having now in our algorithms. We
+can<00:19:35.600><c> build</c><00:19:35.840><c> our</c><00:19:36.000><c> way</c><00:19:36.160><c> out.</c><00:19:36.640><c> We</c><00:19:36.880><c> don't</c><00:19:37.039><c> have</c><00:19:37.200><c> to</c>
+can build our way out. We don't have to
+can build our way out. We don't have to
+tolerate<00:19:37.840><c> a</c><00:19:38.160><c> world</c><00:19:38.720><c> where</c><00:19:39.039><c> everybody</c><00:19:39.520><c> can</c><00:19:39.679><c> be</c>
+tolerate a world where everybody can be
+tolerate a world where everybody can be
+deep<00:19:40.080><c> fake,</c><00:19:40.480><c> not</c><00:19:40.640><c> just</c><00:19:40.880><c> celebrities,</c><00:19:41.679><c> not</c>
+deep fake, not just celebrities, not
+deep fake, not just celebrities, not
+just<00:19:42.000><c> Taylor</c><00:19:42.400><c> Swift.</c><00:19:43.120><c> We</c><00:19:43.360><c> can</c><00:19:43.440><c> put</c><00:19:43.600><c> guard</c>
+just Taylor Swift. We can put guard
+just Taylor Swift. We can put guard
+rails<00:19:44.240><c> in</c><00:19:44.400><c> place.</c><00:19:44.960><c> But</c><00:19:45.120><c> the</c><00:19:45.280><c> key</c><00:19:45.440><c> to</c><00:19:45.679><c> doing</c>
+rails in place. But the key to doing
+rails in place. But the key to doing
+that<00:19:46.400><c> is</c><00:19:46.720><c> our</c><00:19:47.120><c> willingness</c><00:19:48.320><c> to</c><00:19:48.640><c> think</c><00:19:49.039><c> more</c>
+that is our willingness to think more
+that is our willingness to think more
+deliberately<00:19:50.559><c> about</c><00:19:50.960><c> how</c><00:19:51.280><c> we</c><00:19:51.520><c> want</c><00:19:51.840><c> AI</c><00:19:52.320><c> to</c>
+deliberately about how we want AI to
+deliberately about how we want AI to
+weave<00:19:52.960><c> into</c><00:19:53.360><c> our</c><00:19:53.600><c> marketing.</c><00:19:54.080><c> And</c><00:19:54.240><c> that's</c><00:19:54.400><c> the</c>
+weave into our marketing. And that's the
+weave into our marketing. And that's the
+heart<00:19:54.799><c> of</c><00:19:54.960><c> this</c><00:19:55.200><c> question.</c><00:19:55.600><c> If</c><00:19:55.840><c> we</c><00:19:56.080><c> have</c><00:19:56.240><c> a</c>
+heart of this question. If we have a
+heart of this question. If we have a
+local<00:19:56.799><c> maxima,</c><00:19:57.840><c> we</c><00:19:58.080><c> have</c><00:19:58.160><c> to</c><00:19:58.320><c> be</c><00:19:58.559><c> more</c>
+local maxima, we have to be more
+local maxima, we have to be more
+intentional<00:19:59.360><c> with</c><00:19:59.520><c> our</c><00:19:59.760><c> AI</c><00:20:00.160><c> usage</c><00:20:00.559><c> and</c><00:20:00.640><c> the</c>
+intentional with our AI usage and the
+intentional with our AI usage and the
+way<00:20:00.880><c> we</c><00:20:01.120><c> cultivate</c><00:20:01.520><c> long-term</c><00:20:02.080><c> relationships</c>
+way we cultivate long-term relationships
+way we cultivate long-term relationships
+with<00:20:02.799><c> the</c><00:20:03.039><c> brands.</c><00:20:03.520><c> And</c><00:20:03.760><c> that's</c><00:20:04.000><c> up</c><00:20:04.160><c> to</c><00:20:04.240><c> us</c><00:20:04.400><c> as</c>
+with the brands. And that's up to us as
+with the brands. And that's up to us as
+consumers<00:20:05.360><c> to</c><00:20:05.600><c> demand.</c><00:20:06.160><c> It's</c><00:20:06.400><c> also</c><00:20:06.640><c> up</c><00:20:06.880><c> to</c>
+consumers to demand. It's also up to
+consumers to demand. It's also up to
+marketers<00:20:07.440><c> and</c><00:20:07.600><c> it's</c><00:20:07.760><c> up</c><00:20:07.919><c> to</c><00:20:08.080><c> builders</c><00:20:08.400><c> who</c>
+marketers and it's up to builders who
+marketers and it's up to builders who
+equip<00:20:08.880><c> marketers</c><00:20:09.280><c> with</c><00:20:09.520><c> tools</c><00:20:10.080><c> to</c><00:20:10.320><c> think</c><00:20:10.559><c> more</c>
+equip marketers with tools to think more
+equip marketers with tools to think more
+intentionally.<00:20:11.520><c> And</c><00:20:11.760><c> that</c><00:20:12.400><c> is</c><00:20:12.559><c> the</c><00:20:12.720><c> heart</c><00:20:12.880><c> of</c>
+intentionally. And that is the heart of
+intentionally. And that is the heart of
+what<00:20:13.120><c> I</c><00:20:13.280><c> have</c><00:20:13.440><c> to</c><00:20:13.600><c> talk</c><00:20:13.679><c> about</c>

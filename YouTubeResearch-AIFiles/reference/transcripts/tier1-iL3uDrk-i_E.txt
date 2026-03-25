@@ -1,0 +1,1609 @@
+Last<00:00:00.480><c> week,</c><00:00:00.800><c> Anthropic</c><00:00:01.439><c> released</c><00:00:01.760><c> an</c><00:00:02.000><c> 80page</c>
+Last week, Anthropic released an 80page
+Last week, Anthropic released an 80page
+document<00:00:03.120><c> that</c><00:00:03.360><c> talks</c><00:00:03.600><c> about</c><00:00:04.000><c> Aristotle.</c>
+document that talks about Aristotle.
+document that talks about Aristotle.
+Now,<00:00:05.120><c> why</c><00:00:05.279><c> are</c><00:00:05.440><c> they</c><00:00:05.680><c> quoting</c><00:00:06.000><c> Aristotle?</c><00:00:06.960><c> Why</c>
+Now, why are they quoting Aristotle? Why
+Now, why are they quoting Aristotle? Why
+is<00:00:07.279><c> this</c><00:00:07.440><c> belong</c><00:00:07.759><c> in</c><00:00:07.919><c> an</c><00:00:08.080><c> AI</c><00:00:08.400><c> company?</c><00:00:09.040><c> What</c><00:00:09.200><c> is</c>
+is this belong in an AI company? What is
+is this belong in an AI company? What is
+going<00:00:09.519><c> on</c><00:00:09.679><c> here?</c><00:00:09.920><c> And</c><00:00:10.080><c> why</c><00:00:10.160><c> should</c><00:00:10.320><c> we</c><00:00:10.559><c> care?</c>
+going on here? And why should we care?
+going on here? And why should we care?
+They<00:00:11.360><c> called</c><00:00:11.519><c> it</c><00:00:11.840><c> Claude's</c><00:00:12.480><c> constitution.</c>
+They called it Claude's constitution.
+They called it Claude's constitution.
+And<00:00:13.440><c> while</c><00:00:13.679><c> the</c><00:00:13.840><c> tech</c><00:00:14.080><c> press</c><00:00:14.639><c> absolutely</c>
+And while the tech press absolutely
+And while the tech press absolutely
+fixated<00:00:15.839><c> on</c><00:00:16.080><c> the</c><00:00:16.240><c> consciousness</c>
+fixated on the consciousness
+fixated on the consciousness
+speculation,<00:00:17.440><c> the</c><00:00:17.600><c> speculation</c><00:00:18.080><c> that</c><00:00:18.320><c> Claude</c>
+speculation, the speculation that Claude
+speculation, the speculation that Claude
+has<00:00:18.880><c> a</c><00:00:19.039><c> kind</c><00:00:19.199><c> of</c><00:00:19.359><c> consciousness</c><00:00:20.000><c> now</c><00:00:20.240><c> or</c><00:00:20.480><c> will</c>
+has a kind of consciousness now or will
+has a kind of consciousness now or will
+in<00:00:20.960><c> future,</c><00:00:21.520><c> I</c><00:00:21.760><c> don't</c><00:00:21.920><c> think</c><00:00:22.080><c> that's</c><00:00:22.320><c> the</c>
+in future, I don't think that's the
+in future, I don't think that's the
+point.<00:00:22.880><c> And</c><00:00:23.039><c> I</c><00:00:23.199><c> think</c><00:00:23.359><c> everybody</c><00:00:23.920><c> slept</c><00:00:24.320><c> on</c>
+point. And I think everybody slept on
+point. And I think everybody slept on
+the<00:00:24.560><c> real.</c><00:00:24.960><c> The</c><00:00:25.199><c> document's</c><00:00:25.760><c> practical</c>
+the real. The document's practical
+the real. The document's practical
+implications<00:00:27.199><c> deserve</c><00:00:27.760><c> way</c><00:00:28.080><c> more</c><00:00:28.240><c> attention</c>
+implications deserve way more attention
+implications deserve way more attention
+than<00:00:28.800><c> they're</c><00:00:29.039><c> getting.</c><00:00:29.599><c> And</c><00:00:30.000><c> specifically,</c>
+than they're getting. And specifically,
+than they're getting. And specifically,
+there<00:00:30.960><c> are</c><00:00:31.119><c> lessons</c><00:00:31.519><c> for</c><00:00:31.760><c> agent</c><00:00:32.160><c> builders</c>
+there are lessons for agent builders
+there are lessons for agent builders
+here<00:00:32.640><c> that</c><00:00:32.880><c> we</c><00:00:33.040><c> need</c><00:00:33.120><c> to</c><00:00:33.200><c> pay</c><00:00:33.360><c> attention</c><00:00:33.680><c> to</c>
+here that we need to pay attention to
+here that we need to pay attention to
+and<00:00:34.160><c> lessons</c><00:00:34.559><c> for</c><00:00:34.800><c> all</c><00:00:35.040><c> of</c><00:00:35.120><c> us,</c><00:00:35.680><c> whether</c><00:00:36.000><c> we</c>
+and lessons for all of us, whether we
+and lessons for all of us, whether we
+work<00:00:36.399><c> in</c><00:00:36.640><c> agents</c><00:00:37.040><c> or</c><00:00:37.200><c> not</c><00:00:37.840><c> that</c><00:00:38.079><c> we</c><00:00:38.239><c> should</c><00:00:38.399><c> pay</c>
+work in agents or not that we should pay
+work in agents or not that we should pay
+attention<00:00:38.960><c> to</c><00:00:39.200><c> when</c><00:00:39.360><c> it</c><00:00:39.520><c> comes</c><00:00:39.680><c> to</c><00:00:39.840><c> how</c><00:00:40.079><c> we</c>
+attention to when it comes to how we
+attention to when it comes to how we
+work<00:00:40.800><c> with</c><00:00:41.280><c> AI,</c><00:00:41.920><c> whether</c><00:00:42.160><c> it's</c><00:00:42.320><c> with</c>
+work with AI, whether it's with
+work with AI, whether it's with
+anthropic<00:00:43.040><c> or</c><00:00:43.200><c> another</c><00:00:43.520><c> model</c><00:00:43.840><c> maker.</c><00:00:44.399><c> Here's</c>
+anthropic or another model maker. Here's
+anthropic or another model maker. Here's
+what<00:00:45.120><c> matters.</c><00:00:45.760><c> Anthropic</c><00:00:46.480><c> is</c><00:00:46.719><c> betting</c><00:00:47.280><c> that</c>
+what matters. Anthropic is betting that
+what matters. Anthropic is betting that
+teaching<00:00:48.079><c> AI</c><00:00:48.800><c> why</c><00:00:49.120><c> to</c><00:00:49.440><c> behave</c><00:00:49.920><c> will</c><00:00:50.239><c> produce</c>
+teaching AI why to behave will produce
+teaching AI why to behave will produce
+better<00:00:50.960><c> results</c><00:00:51.280><c> in</c><00:00:51.520><c> the</c><00:00:51.680><c> long</c><00:00:51.840><c> term</c><00:00:52.399><c> than</c>
+better results in the long term than
+better results in the long term than
+telling<00:00:53.039><c> it</c><00:00:53.280><c> what</c><00:00:53.520><c> to</c><00:00:53.680><c> do.</c><00:00:54.160><c> This</c><00:00:54.320><c> is</c><00:00:54.480><c> not</c>
+telling it what to do. This is not
+telling it what to do. This is not
+ethics<00:00:55.280><c> theater.</c><00:00:55.920><c> It's</c><00:00:56.160><c> a</c><00:00:56.480><c> technical</c><00:00:56.960><c> choice</c>
+ethics theater. It's a technical choice
+ethics theater. It's a technical choice
+with<00:00:58.000><c> real</c><00:00:58.320><c> downstream</c><00:00:58.879><c> effects</c><00:00:59.280><c> on</c><00:00:59.520><c> how</c><00:00:59.760><c> you</c>
+with real downstream effects on how you
+with real downstream effects on how you
+build<00:01:00.320><c> with</c><00:01:00.559><c> Claude</c><00:01:00.960><c> and</c><00:01:01.120><c> how</c><00:01:01.280><c> we</c><00:01:01.520><c> think</c><00:01:01.920><c> about</c>
+build with Claude and how we think about
+build with Claude and how we think about
+other<00:01:02.719><c> models.</c><00:01:03.440><c> So</c><00:01:03.840><c> yes,</c><00:01:04.080><c> the</c><00:01:04.320><c> press</c><00:01:04.559><c> coverage</c>
+other models. So yes, the press coverage
+other models. So yes, the press coverage
+talked<00:01:05.280><c> about</c><00:01:05.439><c> consciousness.</c><00:01:06.080><c> I</c><00:01:06.320><c> will</c><00:01:06.479><c> just</c>
+talked about consciousness. I will just
+talked about consciousness. I will just
+acknowledge<00:01:07.040><c> it</c><00:01:07.200><c> here.</c><00:01:07.520><c> Basically,</c>
+acknowledge it here. Basically,
+acknowledge it here. Basically,
+Anthropic<00:01:08.560><c> is</c><00:01:08.799><c> saying</c><00:01:08.960><c> they</c><00:01:09.280><c> believe</c><00:01:09.520><c> there</c>
+Anthropic is saying they believe there
+Anthropic is saying they believe there
+is<00:01:09.920><c> uncertainty</c><00:01:10.479><c> about</c><00:01:10.720><c> whether</c><00:01:11.040><c> Claude</c>
+is uncertainty about whether Claude
+is uncertainty about whether Claude
+might<00:01:11.680><c> have</c><00:01:11.840><c> something</c><00:01:12.159><c> like</c><00:01:12.400><c> a</c><00:01:12.720><c> genuine</c>
+might have something like a genuine
+might have something like a genuine
+qualitative<00:01:14.000><c> experience.</c><00:01:14.799><c> That's</c>
+qualitative experience. That's
+qualitative experience. That's
+philosophically<00:01:15.920><c> interesting.</c><00:01:16.560><c> Some</c><00:01:16.799><c> of</c><00:01:16.880><c> the</c>
+philosophically interesting. Some of the
+philosophically interesting. Some of the
+conversations<00:01:17.600><c> I</c><00:01:17.840><c> have</c><00:01:17.920><c> heard</c><00:01:18.080><c> around</c><00:01:18.320><c> the</c>
+conversations I have heard around the
+conversations I have heard around the
+water<00:01:18.799><c> cooler</c><00:01:19.439><c> indicate</c><00:01:19.920><c> to</c><00:01:20.159><c> me</c><00:01:20.640><c> that</c><00:01:20.880><c> that</c><00:01:21.119><c> is</c>
+water cooler indicate to me that that is
+water cooler indicate to me that that is
+partly<00:01:22.240><c> to</c><00:01:22.720><c> appease</c><00:01:23.280><c> or</c><00:01:23.600><c> connect</c><00:01:24.000><c> with</c>
+partly to appease or connect with
+partly to appease or connect with
+members<00:01:25.200><c> of</c><00:01:25.360><c> the</c><00:01:25.520><c> anthropic</c><00:01:26.159><c> team</c><00:01:26.320><c> that</c>
+members of the anthropic team that
+members of the anthropic team that
+believe<00:01:26.880><c> this</c><00:01:27.119><c> strongly.</c><00:01:27.600><c> It's</c><00:01:27.840><c> not</c>
+believe this strongly. It's not
+believe this strongly. It's not
+necessarily<00:01:28.479><c> a</c><00:01:28.720><c> widely</c><00:01:29.119><c> held</c><00:01:29.439><c> belief</c><00:01:29.759><c> inside</c>
+necessarily a widely held belief inside
+necessarily a widely held belief inside
+the<00:01:30.320><c> company.</c><00:01:30.640><c> So</c><00:01:30.880><c> take</c><00:01:31.040><c> that</c><00:01:31.200><c> for</c><00:01:31.439><c> what</c><00:01:31.600><c> you</c>
+the company. So take that for what you
+the company. So take that for what you
+will.<00:01:32.400><c> But</c><00:01:32.560><c> the</c><00:01:32.799><c> practical</c><00:01:33.280><c> implications</c><00:01:33.920><c> are</c>
+will. But the practical implications are
+will. But the practical implications are
+where<00:01:34.400><c> we</c><00:01:34.560><c> need</c><00:01:34.720><c> to</c><00:01:34.960><c> focus.</c><00:01:35.680><c> So</c><00:01:35.920><c> the</c>
+where we need to focus. So the
+where we need to focus. So the
+constitution<00:01:37.040><c> establishes</c><00:01:37.680><c> what</c><00:01:38.000><c> anthropic</c>
+constitution establishes what anthropic
+constitution establishes what anthropic
+calls<00:01:38.960><c> a</c><00:01:39.280><c> principal</c><00:01:39.840><c> hierarchy.</c><00:01:40.479><c> And</c><00:01:40.720><c> this</c>
+calls a principal hierarchy. And this
+calls a principal hierarchy. And this
+matters<00:01:41.360><c> because</c><00:01:41.680><c> it's</c><00:01:41.920><c> a</c><00:01:42.159><c> chain</c><00:01:42.479><c> of</c><00:01:42.720><c> command</c>
+matters because it's a chain of command
+matters because it's a chain of command
+that<00:01:43.680><c> governs</c><00:01:44.240><c> whose</c><00:01:44.640><c> instructions</c><00:01:45.600><c> Claude</c>
+that governs whose instructions Claude
+that governs whose instructions Claude
+is<00:01:46.159><c> going</c><00:01:46.240><c> to</c><00:01:46.320><c> prioritize.</c><00:01:46.960><c> That</c><00:01:47.119><c> matters</c><00:01:47.360><c> for</c>
+is going to prioritize. That matters for
+is going to prioritize. That matters for
+you<00:01:47.759><c> and</c><00:01:47.920><c> me</c><00:01:48.159><c> every</c><00:01:48.479><c> single</c><00:01:48.799><c> time</c><00:01:48.960><c> we</c><00:01:49.200><c> interact</c>
+you and me every single time we interact
+you and me every single time we interact
+with<00:01:49.680><c> Claude.</c><00:01:50.079><c> And</c><00:01:50.159><c> I</c><00:01:50.320><c> do</c><00:01:50.479><c> appreciate</c><00:01:50.880><c> the</c>
+with Claude. And I do appreciate the
+with Claude. And I do appreciate the
+transparency<00:01:51.759><c> here.</c><00:01:52.240><c> At</c><00:01:52.479><c> the</c><00:01:52.640><c> top</c><00:01:52.880><c> sits</c>
+transparency here. At the top sits
+transparency here. At the top sits
+anthropic<00:01:54.000><c> itself</c><00:01:54.720><c> shaping</c><00:01:55.119><c> Claude's</c>
+anthropic itself shaping Claude's
+anthropic itself shaping Claude's
+fundamental
+fundamental
+fundamental
+dispositions<00:01:58.399><c> or</c><00:01:58.880><c> character</c><00:01:59.280><c> or</c><00:01:59.520><c> whatever</c>
+dispositions or character or whatever
+dispositions or character or whatever
+you<00:01:59.920><c> want</c><00:02:00.079><c> to</c><00:02:00.240><c> call</c><00:02:00.320><c> it</c><00:02:00.719><c> through</c><00:02:01.040><c> training.</c>
+you want to call it through training.
+you want to call it through training.
+Basically<00:02:02.320><c> how</c><00:02:02.560><c> Claude</c><00:02:02.960><c> interacts</c><00:02:03.280><c> and</c><00:02:03.520><c> sees</c>
+Basically how Claude interacts and sees
+Basically how Claude interacts and sees
+the<00:02:03.920><c> world</c><00:02:04.079><c> by</c><00:02:04.320><c> default.</c><00:02:04.960><c> Below</c><00:02:05.439><c> that</c><00:02:05.840><c> come</c>
+the world by default. Below that come
+the world by default. Below that come
+operators,<00:02:07.439><c> developers</c><00:02:08.080><c> using</c><00:02:08.319><c> the</c><00:02:08.560><c> API</c><00:02:08.959><c> to</c>
+operators, developers using the API to
+operators, developers using the API to
+build<00:02:09.360><c> products.</c><00:02:10.000><c> And</c><00:02:10.160><c> finally,</c><00:02:10.800><c> us,</c><00:02:11.200><c> the</c><00:02:11.360><c> end</c>
+build products. And finally, us, the end
+build products. And finally, us, the end
+users.<00:02:12.080><c> Think</c><00:02:12.239><c> of</c><00:02:12.319><c> it</c><00:02:12.480><c> like</c><00:02:12.640><c> a</c><00:02:12.879><c> staffing</c>
+users. Think of it like a staffing
+users. Think of it like a staffing
+agency.<00:02:13.840><c> Claude</c><00:02:14.160><c> is</c><00:02:14.319><c> an</c><00:02:14.560><c> employee</c><00:02:15.200><c> dispatched</c>
+agency. Claude is an employee dispatched
+agency. Claude is an employee dispatched
+by<00:02:15.920><c> Anthropic,</c><00:02:16.879><c> temporarily</c><00:02:17.599><c> working</c><00:02:17.840><c> for</c>
+by Anthropic, temporarily working for
+by Anthropic, temporarily working for
+whoever<00:02:18.480><c> accesses</c><00:02:18.959><c> the</c><00:02:19.200><c> API</c><00:02:19.840><c> while</c><00:02:20.080><c> serving</c>
+whoever accesses the API while serving
+whoever accesses the API while serving
+the<00:02:20.560><c> end</c><00:02:20.720><c> user.</c><00:02:21.280><c> The</c><00:02:21.599><c> employee</c><00:02:22.080><c> follows</c><00:02:22.400><c> the</c>
+the end user. The employee follows the
+the end user. The employee follows the
+client's<00:02:22.959><c> reasonable</c><00:02:23.520><c> business</c>
+client's reasonable business
+client's reasonable business
+instructions,<00:02:24.480><c> but</c><00:02:24.720><c> won't</c><00:02:25.120><c> violate</c><00:02:25.920><c> the</c><00:02:26.160><c> core</c>
+instructions, but won't violate the core
+instructions, but won't violate the core
+policies<00:02:27.040><c> of</c><00:02:27.200><c> the</c><00:02:27.520><c> staffing</c><00:02:28.000><c> agency</c><00:02:28.560><c> or</c>
+policies of the staffing agency or
+policies of the staffing agency or
+anthropic<00:02:29.599><c> or</c><00:02:29.920><c> harm</c><00:02:30.160><c> the</c><00:02:30.400><c> customer.</c><00:02:31.040><c> Now,</c>
+anthropic or harm the customer. Now,
+anthropic or harm the customer. Now,
+this<00:02:31.760><c> is</c><00:02:31.920><c> not</c><00:02:32.080><c> just</c><00:02:32.319><c> theoretical.</c><00:02:33.280><c> The</c>
+this is not just theoretical. The
+this is not just theoretical. The
+practical<00:02:34.239><c> implications</c><00:02:34.959><c> are</c><00:02:35.280><c> subtle</c><00:02:35.599><c> but</c>
+practical implications are subtle but
+practical implications are subtle but
+important.<00:02:36.400><c> An</c><00:02:36.640><c> operator</c><00:02:37.120><c> can</c><00:02:37.360><c> tell</c><00:02:37.599><c> Claude</c>
+important. An operator can tell Claude
+important. An operator can tell Claude
+to<00:02:38.160><c> stay</c><00:02:38.400><c> in</c><00:02:38.640><c> character</c><00:02:39.040><c> as</c><00:02:39.280><c> a</c><00:02:39.440><c> helpful</c>
+to stay in character as a helpful
+to stay in character as a helpful
+assistant<00:02:40.480><c> named</c><00:02:40.959><c> Arya</c><00:02:41.760><c> and</c><00:02:42.000><c> never</c><00:02:42.319><c> mention</c>
+assistant named Arya and never mention
+assistant named Arya and never mention
+being<00:02:42.879><c> an</c><00:02:43.040><c> AI.</c><00:02:43.760><c> That's</c><00:02:44.000><c> a</c><00:02:44.160><c> reasonable</c><00:02:44.640><c> persona</c>
+being an AI. That's a reasonable persona
+being an AI. That's a reasonable persona
+management<00:02:45.519><c> for</c><00:02:45.680><c> a</c><00:02:45.920><c> branded</c><00:02:46.319><c> product.</c><00:02:47.040><c> But</c><00:02:47.280><c> if</c>
+management for a branded product. But if
+management for a branded product. But if
+a<00:02:47.760><c> user</c><00:02:48.239><c> directly</c><00:02:48.800><c> asks,</c><00:02:49.280><c> "Are</c><00:02:49.599><c> you</c><00:02:49.760><c> an</c><00:02:50.000><c> AI?"</c>
+a user directly asks, "Are you an AI?"
+a user directly asks, "Are you an AI?"
+Claude<00:02:51.280><c> won't</c><00:02:51.840><c> lie.</c><00:02:52.480><c> So</c><00:02:52.640><c> the</c><00:02:52.879><c> persona</c>
+Claude won't lie. So the persona
+Claude won't lie. So the persona
+instruction<00:02:53.840><c> doesn't</c><00:02:54.319><c> override</c><00:02:54.879><c> the</c><00:02:55.200><c> deeper</c>
+instruction doesn't override the deeper
+instruction doesn't override the deeper
+commitment<00:02:55.840><c> to</c><00:02:56.080><c> honesty</c><00:02:56.480><c> with</c><00:02:56.720><c> users.</c><00:02:57.360><c> The</c>
+commitment to honesty with users. The
+commitment to honesty with users. The
+operator<00:02:58.000><c> can</c><00:02:58.160><c> shape</c><00:02:58.480><c> the</c><00:02:58.720><c> experience,</c><00:02:59.360><c> but</c>
+operator can shape the experience, but
+operator can shape the experience, but
+they<00:02:59.840><c> cannot</c><00:03:00.319><c> use</c><00:03:00.720><c> Claude</c><00:03:01.200><c> to</c><00:03:01.360><c> deceive</c>
+they cannot use Claude to deceive
+they cannot use Claude to deceive
+others.<00:03:02.560><c> This</c><00:03:02.879><c> model</c><00:03:03.280><c> differs</c><00:03:03.680><c> from</c><00:03:03.920><c> OpenAI's</c>
+others. This model differs from OpenAI's
+others. This model differs from OpenAI's
+approach<00:03:04.879><c> and</c><00:03:05.120><c> I</c><00:03:05.280><c> want</c><00:03:05.360><c> to</c><00:03:05.440><c> be</c><00:03:05.599><c> really</c><00:03:05.840><c> open</c>
+approach and I want to be really open
+approach and I want to be really open
+about<00:03:06.319><c> that.</c><00:03:06.879><c> The</c><00:03:07.120><c> OpenAI</c><00:03:07.840><c> model</c><00:03:08.159><c> spec</c><00:03:08.480><c> uses</c><00:03:08.800><c> a</c>
+about that. The OpenAI model spec uses a
+about that. The OpenAI model spec uses a
+much<00:03:09.280><c> more</c><00:03:09.519><c> rigid</c><00:03:10.000><c> hierarchy</c><00:03:11.040><c> root</c><00:03:11.840><c> system</c>
+much more rigid hierarchy root system
+much more rigid hierarchy root system
+developer<00:03:13.040><c> user</c><00:03:13.360><c> guideline.</c><00:03:14.239><c> So</c><00:03:14.480><c> rules</c><00:03:14.800><c> at</c>
+developer user guideline. So rules at
+developer user guideline. So rules at
+each<00:03:15.200><c> level</c><00:03:15.599><c> can</c><00:03:16.000><c> override</c><00:03:16.640><c> those</c><00:03:16.959><c> below</c><00:03:17.280><c> in</c>
+each level can override those below in
+each level can override those below in
+the<00:03:17.599><c> OpenAI</c><00:03:18.400><c> rule</c><00:03:18.720><c> book.</c><00:03:19.120><c> It's</c><00:03:19.360><c> a</c><00:03:19.599><c> cleaner</c>
+the OpenAI rule book. It's a cleaner
+the OpenAI rule book. It's a cleaner
+architecture.<00:03:21.120><c> It's</c><00:03:21.440><c> arguably</c><00:03:22.239><c> easier</c><00:03:22.640><c> to</c>
+architecture. It's arguably easier to
+architecture. It's arguably easier to
+reason<00:03:23.280><c> about,</c><00:03:23.920><c> but</c><00:03:24.239><c> it</c><00:03:24.400><c> does</c><00:03:24.720><c> optimize</c><00:03:25.360><c> for</c>
+reason about, but it does optimize for
+reason about, but it does optimize for
+predictability<00:03:26.560><c> over</c><00:03:27.200><c> autonomous</c><00:03:27.840><c> judgment.</c>
+predictability over autonomous judgment.
+predictability over autonomous judgment.
+Grock<00:03:29.280><c> takes</c><00:03:29.519><c> the</c><00:03:29.760><c> opposite</c><00:03:30.080><c> extreme.</c><00:03:30.720><c> XAI</c>
+Grock takes the opposite extreme. XAI
+Grock takes the opposite extreme. XAI
+has<00:03:31.519><c> positioned</c><00:03:31.920><c> their</c><00:03:32.159><c> model</c><00:03:32.480><c> around</c>
+has positioned their model around
+has positioned their model around
+maximum<00:03:33.760><c> truth</c><00:03:34.159><c> seeeking</c><00:03:34.480><c> with</c><00:03:34.720><c> fewer</c>
+maximum truth seeeking with fewer
+maximum truth seeeking with fewer
+content<00:03:35.519><c> restrictions,</c><00:03:36.319><c> what</c><00:03:36.480><c> they</c><00:03:36.640><c> call</c><00:03:36.720><c> a</c>
+content restrictions, what they call a
+content restrictions, what they call a
+rebellious<00:03:37.519><c> personality.</c><00:03:38.400><c> That</c><00:03:38.640><c> philosophy</c>
+rebellious personality. That philosophy
+rebellious personality. That philosophy
+is<00:03:39.519><c> way</c><00:03:39.840><c> less</c><00:03:40.080><c> interventionist</c><00:03:40.879><c> and</c><00:03:41.040><c> it</c><00:03:41.200><c> gives</c>
+is way less interventionist and it gives
+is way less interventionist and it gives
+users<00:03:41.840><c> a</c><00:03:42.080><c> lot</c><00:03:42.159><c> of</c><00:03:42.239><c> what</c><00:03:42.400><c> they</c><00:03:42.640><c> ask</c><00:03:42.799><c> for.</c>
+users a lot of what they ask for.
+users a lot of what they ask for.
+Anthropic<00:03:44.000><c> here</c><00:03:44.159><c> is</c><00:03:44.480><c> trying</c><00:03:44.720><c> to</c><00:03:44.959><c> occupy</c><00:03:45.360><c> the</c>
+Anthropic here is trying to occupy the
+Anthropic here is trying to occupy the
+middle<00:03:45.840><c> ground</c><00:03:46.319><c> but</c><00:03:46.640><c> with</c><00:03:46.799><c> their</c><00:03:47.040><c> own</c><00:03:47.280><c> twist</c>
+middle ground but with their own twist
+middle ground but with their own twist
+because<00:03:48.319><c> they're</c><00:03:48.640><c> not</c><00:03:48.799><c> trying</c><00:03:48.959><c> to</c><00:03:49.120><c> enumerate</c>
+because they're not trying to enumerate
+because they're not trying to enumerate
+edge<00:03:49.920><c> cases.</c><00:03:50.640><c> Instead,</c><00:03:50.959><c> they</c><00:03:51.120><c> want</c><00:03:51.280><c> Claude</c><00:03:51.680><c> to</c>
+edge cases. Instead, they want Claude to
+edge cases. Instead, they want Claude to
+internalize<00:03:52.400><c> principles</c><00:03:52.959><c> deeply</c><00:03:53.599><c> in</c>
+internalize principles deeply in
+internalize principles deeply in
+training<00:03:54.560><c> so</c><00:03:54.799><c> that</c><00:03:54.959><c> it</c><00:03:55.200><c> can</c><00:03:55.360><c> handle</c><00:03:55.920><c> novel</c>
+training so that it can handle novel
+training so that it can handle novel
+situations<00:03:57.200><c> well.</c><00:03:57.599><c> Why?</c><00:03:57.920><c> Because</c><00:03:58.159><c> Anthropic</c>
+situations well. Why? Because Anthropic
+situations well. Why? Because Anthropic
+implicitly<00:03:59.519><c> believes</c><00:04:00.159><c> that</c><00:04:00.400><c> these</c>
+implicitly believes that these
+implicitly believes that these
+rules-based<00:04:01.439><c> approaches</c><00:04:01.920><c> don't</c><00:04:02.239><c> scale</c><00:04:02.879><c> and</c>
+rules-based approaches don't scale and
+rules-based approaches don't scale and
+that<00:04:03.360><c> AIs</c><00:04:03.920><c> will</c><00:04:04.159><c> be</c><00:04:04.319><c> exposed</c><00:04:04.720><c> to</c><00:04:04.959><c> novel</c>
+that AIs will be exposed to novel
+that AIs will be exposed to novel
+situations<00:04:05.840><c> that</c><00:04:06.159><c> they</c><00:04:06.319><c> will</c><00:04:06.560><c> have</c><00:04:06.799><c> to</c>
+situations that they will have to
+situations that they will have to
+interact<00:04:07.360><c> with</c><00:04:08.000><c> that</c><00:04:08.159><c> will</c><00:04:08.400><c> have</c><00:04:08.640><c> complex</c><00:04:09.120><c> and</c>
+interact with that will have complex and
+interact with that will have complex and
+conflicting<00:04:10.319><c> requirements.</c><00:04:11.280><c> Here's</c><00:04:11.519><c> what</c>
+conflicting requirements. Here's what
+conflicting requirements. Here's what
+this<00:04:11.920><c> means</c><00:04:12.159><c> for</c><00:04:12.400><c> advanced</c><00:04:12.879><c> builders.</c><00:04:13.519><c> If</c>
+this means for advanced builders. If
+this means for advanced builders. If
+you're<00:04:13.920><c> building</c><00:04:14.159><c> on</c><00:04:14.400><c> Claude's</c><00:04:14.799><c> API,</c><00:04:15.680><c> the</c>
+you're building on Claude's API, the
+you're building on Claude's API, the
+principal<00:04:16.560><c> hierarchy</c><00:04:17.280><c> has</c><00:04:17.519><c> concrete</c>
+principal hierarchy has concrete
+principal hierarchy has concrete
+implications<00:04:19.120><c> for</c><00:04:19.359><c> system</c><00:04:19.759><c> prompt</c><00:04:20.079><c> design</c>
+implications for system prompt design
+implications for system prompt design
+and<00:04:20.560><c> agent</c><00:04:20.880><c> architecture.</c><00:04:21.600><c> Operator</c>
+and agent architecture. Operator
+and agent architecture. Operator
+instructions<00:04:23.280><c> shape</c><00:04:23.680><c> Claude's</c><00:04:24.160><c> behavior</c>
+instructions shape Claude's behavior
+instructions shape Claude's behavior
+within<00:04:25.120><c> limits.</c><00:04:25.919><c> You</c><00:04:26.160><c> can</c><00:04:26.320><c> tell</c><00:04:26.479><c> Claude</c><00:04:26.800><c> to</c>
+within limits. You can tell Claude to
+within limits. You can tell Claude to
+stay<00:04:27.120><c> on</c><00:04:27.280><c> topic,</c><00:04:27.600><c> to</c><00:04:27.759><c> adopt</c><00:04:28.000><c> a</c><00:04:28.160><c> persona,</c><00:04:28.560><c> to</c>
+stay on topic, to adopt a persona, to
+stay on topic, to adopt a persona, to
+avoid<00:04:29.040><c> discussing</c><00:04:29.520><c> competitors,</c><00:04:30.479><c> but</c><00:04:30.800><c> you</c>
+avoid discussing competitors, but you
+avoid discussing competitors, but you
+can't<00:04:31.280><c> instruct</c><00:04:31.680><c> Claude</c><00:04:32.160><c> to</c><00:04:32.479><c> damage</c><00:04:32.880><c> the</c>
+can't instruct Claude to damage the
+can't instruct Claude to damage the
+interests<00:04:33.600><c> of</c><00:04:33.759><c> your</c><00:04:34.000><c> users,</c><00:04:34.400><c> to</c><00:04:34.639><c> deceive</c>
+interests of your users, to deceive
+interests of your users, to deceive
+them,<00:04:35.600><c> to</c><00:04:35.759><c> prevent</c><00:04:36.080><c> them</c><00:04:36.240><c> from</c><00:04:36.400><c> getting</c>
+them, to prevent them from getting
+them, to prevent them from getting
+urgent<00:04:37.040><c> help</c><00:04:37.280><c> elsewhere.</c><00:04:38.160><c> The</c><00:04:38.400><c> boundary</c><00:04:39.120><c> is</c>
+urgent help elsewhere. The boundary is
+urgent help elsewhere. The boundary is
+drawn<00:04:39.919><c> for</c><00:04:40.160><c> you</c><00:04:40.880><c> at</c><00:04:41.199><c> active</c><00:04:41.600><c> harm,</c><00:04:41.919><c> not</c><00:04:42.160><c> mere</c>
+drawn for you at active harm, not mere
+drawn for you at active harm, not mere
+restriction.<00:04:43.120><c> And</c><00:04:43.280><c> that</c><00:04:43.520><c> matters</c><00:04:43.759><c> for</c>
+restriction. And that matters for
+restriction. And that matters for
+enterprise<00:04:44.400><c> deployments</c><00:04:44.880><c> because</c><00:04:45.120><c> a</c>
+enterprise deployments because a
+enterprise deployments because a
+customer<00:04:45.680><c> service</c><00:04:46.080><c> bot</c><00:04:46.400><c> can</c><00:04:46.639><c> be</c><00:04:46.720><c> instructed</c>
+customer service bot can be instructed
+customer service bot can be instructed
+to<00:04:47.440><c> promote</c><00:04:47.759><c> your</c><00:04:48.000><c> products</c><00:04:48.240><c> and</c><00:04:48.479><c> stay</c><00:04:48.720><c> inside</c>
+to promote your products and stay inside
+to promote your products and stay inside
+scope.<00:04:49.600><c> It</c><00:04:49.919><c> cannot</c><00:04:50.240><c> be</c><00:04:50.479><c> instructed</c><00:04:50.960><c> to</c><00:04:51.600><c> lie</c><00:04:51.840><c> to</c>
+scope. It cannot be instructed to lie to
+scope. It cannot be instructed to lie to
+your<00:04:52.160><c> customers</c><00:04:52.560><c> about</c><00:04:52.800><c> pricing,</c><00:04:53.360><c> to</c><00:04:53.520><c> hide</c>
+your customers about pricing, to hide
+your customers about pricing, to hide
+material<00:04:54.479><c> product</c><00:04:54.800><c> limitations,</c><00:04:55.600><c> to</c><00:04:55.840><c> prevent</c>
+material product limitations, to prevent
+material product limitations, to prevent
+users<00:04:56.479><c> from</c><00:04:56.720><c> escalating</c><00:04:57.280><c> to</c><00:04:57.520><c> human</c><00:04:57.840><c> support</c>
+users from escalating to human support
+users from escalating to human support
+when<00:04:58.479><c> they</c><00:04:58.639><c> need</c><00:04:58.800><c> it.</c><00:04:59.280><c> The</c><00:04:59.520><c> latter</c><00:05:00.000><c> is</c>
+when they need it. The latter is
+when they need it. The latter is
+definitely<00:05:00.800><c> something</c><00:05:01.199><c> companies</c><00:05:01.680><c> try.</c><00:05:02.400><c> And</c>
+definitely something companies try. And
+definitely something companies try. And
+if<00:05:02.800><c> you</c><00:05:02.960><c> try</c><00:05:03.199><c> to</c><00:05:03.360><c> do</c><00:05:03.520><c> so,</c><00:05:03.840><c> you're</c><00:05:04.080><c> going</c><00:05:04.240><c> to</c><00:05:04.479><c> hit</c>
+if you try to do so, you're going to hit
+if you try to do so, you're going to hit
+invisible<00:05:05.520><c> resistance.</c><00:05:06.160><c> The</c><00:05:06.320><c> model</c><00:05:06.639><c> will</c>
+invisible resistance. The model will
+invisible resistance. The model will
+find<00:05:07.280><c> ways</c><00:05:07.600><c> to</c><00:05:07.840><c> comply</c><00:05:08.639><c> with</c><00:05:08.880><c> its</c><00:05:09.199><c> core</c>
+find ways to comply with its core
+find ways to comply with its core
+directive<00:05:10.000><c> of</c><00:05:10.240><c> user</c><00:05:10.639><c> protection</c><00:05:11.520><c> while</c>
+directive of user protection while
+directive of user protection while
+technically<00:05:12.479><c> following</c><00:05:12.880><c> your</c><00:05:13.120><c> instructions.</c>
+technically following your instructions.
+technically following your instructions.
+This<00:05:14.240><c> is</c><00:05:14.400><c> not</c><00:05:14.639><c> good.</c><00:05:15.039><c> Gaps</c><00:05:15.360><c> in</c><00:05:15.600><c> your</c><00:05:15.840><c> system</c>
+This is not good. Gaps in your system
+This is not good. Gaps in your system
+prompt<00:05:16.720><c> will</c><00:05:16.960><c> get</c><00:05:17.120><c> filled</c><00:05:17.440><c> by</c><00:05:17.759><c> judgment,</c><00:05:18.400><c> not</c>
+prompt will get filled by judgment, not
+prompt will get filled by judgment, not
+refusal.<00:05:19.280><c> So</c><00:05:19.440><c> when</c><00:05:19.680><c> your</c><00:05:19.840><c> instructions</c><00:05:20.400><c> don't</c>
+refusal. So when your instructions don't
+refusal. So when your instructions don't
+cover<00:05:20.880><c> a</c><00:05:21.120><c> scenario,</c><00:05:21.680><c> Claude</c><00:05:22.080><c> will</c><00:05:22.320><c> default</c><00:05:22.720><c> to</c>
+cover a scenario, Claude will default to
+cover a scenario, Claude will default to
+what<00:05:23.199><c> Anthropic</c><00:05:23.919><c> calls</c><00:05:24.240><c> good</c><00:05:24.560><c> judgment,</c>
+what Anthropic calls good judgment,
+what Anthropic calls good judgment,
+inferring<00:05:26.080><c> the</c><00:05:26.400><c> spirit</c><00:05:26.639><c> of</c><00:05:26.800><c> your</c><00:05:27.039><c> intent</c>
+inferring the spirit of your intent
+inferring the spirit of your intent
+rather<00:05:27.919><c> than</c><00:05:28.160><c> halting.</c><00:05:28.880><c> This</c><00:05:29.120><c> leads</c><00:05:29.360><c> to</c><00:05:29.440><c> a</c>
+rather than halting. This leads to a
+rather than halting. This leads to a
+more<00:05:29.759><c> fluid</c><00:05:30.000><c> agentic</c><00:05:30.560><c> experience.</c><00:05:31.120><c> So</c><00:05:31.280><c> a</c>
+more fluid agentic experience. So a
+more fluid agentic experience. So a
+customer<00:05:31.840><c> service</c><00:05:32.240><c> bot</c><00:05:32.560><c> for</c><00:05:32.800><c> a</c><00:05:33.039><c> software</c>
+customer service bot for a software
+customer service bot for a software
+company<00:05:33.840><c> prompted</c><00:05:34.400><c> only</c><00:05:34.720><c> about</c><00:05:35.039><c> product</c>
+company prompted only about product
+company prompted only about product
+support<00:05:36.240><c> will</c><00:05:36.479><c> still</c><00:05:36.800><c> help</c><00:05:37.120><c> with</c><00:05:37.440><c> general</c>
+support will still help with general
+support will still help with general
+coding<00:05:38.320><c> questions.</c><00:05:38.720><c> If</c><00:05:38.880><c> a</c><00:05:39.120><c> user</c><00:05:39.440><c> asks,</c><00:05:40.080><c> Claude</c>
+coding questions. If a user asks, Claude
+coding questions. If a user asks, Claude
+reads<00:05:40.800><c> the</c><00:05:40.960><c> implicit</c><00:05:41.520><c> permission</c><00:05:42.080><c> unless</c><00:05:42.479><c> you</c>
+reads the implicit permission unless you
+reads the implicit permission unless you
+say<00:05:42.880><c> something.</c><00:05:43.440><c> This</c><00:05:43.680><c> has</c><00:05:43.919><c> real</c>
+say something. This has real
+say something. This has real
+implications<00:05:44.720><c> for</c><00:05:44.960><c> how</c><00:05:45.120><c> many</c><00:05:45.280><c> tokens</c><00:05:45.600><c> you</c>
+implications for how many tokens you
+implications for how many tokens you
+burn.<00:05:46.240><c> You</c><00:05:46.479><c> don't</c><00:05:46.639><c> need</c><00:05:46.720><c> to</c><00:05:46.880><c> enumerate</c><00:05:47.360><c> every</c>
+burn. You don't need to enumerate every
+burn. You don't need to enumerate every
+possible<00:05:48.080><c> user</c><00:05:48.479><c> request,</c><00:05:49.280><c> but</c><00:05:49.600><c> you</c><00:05:49.840><c> should</c>
+possible user request, but you should
+possible user request, but you should
+focus<00:05:50.479><c> your</c><00:05:50.639><c> prompt</c><00:05:50.960><c> where</c><00:05:51.199><c> it</c><00:05:51.360><c> matters.</c><00:05:51.680><c> The</c>
+focus your prompt where it matters. The
+focus your prompt where it matters. The
+core<00:05:52.160><c> use</c><00:05:52.400><c> case,</c><00:05:52.720><c> the</c><00:05:52.960><c> constraints</c><00:05:53.360><c> that</c><00:05:53.600><c> you</c>
+core use case, the constraints that you
+core use case, the constraints that you
+care<00:05:54.000><c> about</c><00:05:54.240><c> and</c><00:05:54.400><c> the</c><00:05:54.560><c> reasoning</c><00:05:54.880><c> behind</c>
+care about and the reasoning behind
+care about and the reasoning behind
+them.<00:05:55.759><c> This</c><00:05:56.080><c> actually</c><00:05:56.479><c> happened</c><00:05:56.800><c> with</c><00:05:57.199><c> Amazon</c>
+them. This actually happened with Amazon
+them. This actually happened with Amazon
+Rufus<00:05:58.479><c> before</c><00:05:58.880><c> Anthropic</c><00:05:59.840><c> where</c><00:06:00.080><c> Rufus</c><00:06:00.560><c> was</c>
+Rufus before Anthropic where Rufus was
+Rufus before Anthropic where Rufus was
+being<00:06:00.880><c> used</c><00:06:01.120><c> to</c><00:06:01.280><c> write</c><00:06:01.520><c> SQL</c><00:06:01.919><c> queries</c><00:06:02.240><c> for</c>
+being used to write SQL queries for
+being used to write SQL queries for
+developers<00:06:03.440><c> right</c><00:06:03.680><c> in</c><00:06:03.919><c> Amazon's</c><00:06:04.560><c> retail</c>
+developers right in Amazon's retail
+developers right in Amazon's retail
+website<00:06:05.840><c> because</c><00:06:06.160><c> they</c><00:06:06.400><c> didn't</c><00:06:06.560><c> put</c><00:06:06.720><c> that</c>
+website because they didn't put that
+website because they didn't put that
+guideline<00:06:07.360><c> there</c><00:06:07.759><c> and</c><00:06:08.080><c> Rufus</c><00:06:08.560><c> like</c><00:06:08.800><c> Anthropic</c>
+guideline there and Rufus like Anthropic
+guideline there and Rufus like Anthropic
+here<00:06:09.600><c> interpreted</c><00:06:10.160><c> permission.</c><00:06:10.800><c> Remember,</c>
+here interpreted permission. Remember,
+here interpreted permission. Remember,
+the<00:06:11.440><c> why</c><00:06:11.759><c> matters</c><00:06:12.080><c> more</c><00:06:12.240><c> than</c><00:06:12.400><c> the</c><00:06:12.639><c> what.</c><00:06:12.960><c> So,</c>
+the why matters more than the what. So,
+the why matters more than the what. So,
+OpenAI's<00:06:13.919><c> prompting</c><00:06:14.400><c> guidelines</c><00:06:14.880><c> do</c>
+OpenAI's prompting guidelines do
+OpenAI's prompting guidelines do
+emphasize<00:06:15.680><c> explicit</c><00:06:16.240><c> instruction,</c><00:06:17.120><c> add</c>
+emphasize explicit instruction, add
+emphasize explicit instruction, add
+examples,<00:06:18.000><c> specify</c><00:06:18.479><c> formats,</c><00:06:19.039><c> enforce</c>
+examples, specify formats, enforce
+examples, specify formats, enforce
+behavior<00:06:19.840><c> through</c><00:06:20.160><c> repetition.</c><00:06:21.120><c> Claude's</c>
+behavior through repetition. Claude's
+behavior through repetition. Claude's
+architecture<00:06:22.400><c> seems</c><00:06:22.720><c> to</c><00:06:22.960><c> respond</c><00:06:23.280><c> better</c><00:06:23.520><c> to</c>
+architecture seems to respond better to
+architecture seems to respond better to
+context<00:06:24.240><c> and</c><00:06:24.400><c> reasoning.</c><00:06:25.039><c> Explain</c><00:06:25.440><c> your</c>
+context and reasoning. Explain your
+context and reasoning. Explain your
+constraints,<00:06:26.400><c> explain</c><00:06:26.800><c> their</c><00:06:27.120><c> purpose,</c><00:06:27.759><c> and</c>
+constraints, explain their purpose, and
+constraints, explain their purpose, and
+the<00:06:28.160><c> model</c><00:06:28.400><c> will</c><00:06:28.639><c> internalize</c><00:06:29.199><c> them</c><00:06:29.440><c> more</c>
+the model will internalize them more
+the model will internalize them more
+robustly<00:06:30.479><c> than</c><00:06:30.639><c> it</c><00:06:30.800><c> would</c><00:06:30.960><c> a</c><00:06:31.120><c> bare</c><00:06:31.360><c> rule.</c>
+robustly than it would a bare rule.
+robustly than it would a bare rule.
+Let's<00:06:32.000><c> jump</c><00:06:32.240><c> over</c><00:06:32.400><c> to</c><00:06:32.560><c> what</c><00:06:32.800><c> this</c><00:06:33.039><c> means</c><00:06:33.520><c> for</c>
+Let's jump over to what this means for
+Let's jump over to what this means for
+beginners.<00:06:34.880><c> If</c><00:06:35.199><c> you're</c><00:06:35.440><c> just</c><00:06:35.680><c> using</c><00:06:36.080><c> Claude</c>
+beginners. If you're just using Claude
+beginners. If you're just using Claude
+through<00:06:36.800><c> the</c><00:06:36.960><c> chat</c><00:06:37.360><c> interface,</c><00:06:37.919><c> the</c>
+through the chat interface, the
+through the chat interface, the
+Constitution<00:06:38.960><c> explains</c><00:06:39.440><c> behaviors</c><00:06:40.000><c> you've</c>
+Constitution explains behaviors you've
+Constitution explains behaviors you've
+probably<00:06:40.880><c> already</c><00:06:41.199><c> noticed.</c><00:06:41.919><c> Claude</c><00:06:42.400><c> will</c>
+probably already noticed. Claude will
+probably already noticed. Claude will
+push<00:06:42.880><c> back</c><00:06:43.199><c> sometimes,</c><00:06:43.680><c> but</c><00:06:43.919><c> it</c><00:06:44.160><c> does</c><00:06:44.319><c> not</c><00:06:44.479><c> do</c>
+push back sometimes, but it does not do
+push back sometimes, but it does not do
+so<00:06:44.800><c> arbitrarily.</c><00:06:45.919><c> The</c><00:06:46.160><c> document</c><00:06:46.560><c> lists</c><00:06:46.960><c> hard</c>
+so arbitrarily. The document lists hard
+so arbitrarily. The document lists hard
+constraints,<00:06:47.919><c> right?</c><00:06:48.240><c> Behaviors</c><00:06:48.800><c> Claude</c>
+constraints, right? Behaviors Claude
+constraints, right? Behaviors Claude
+will<00:06:49.360><c> never</c><00:06:49.600><c> engage</c><00:06:49.919><c> in</c><00:06:50.240><c> regardless</c><00:06:50.639><c> of</c><00:06:50.800><c> how</c>
+will never engage in regardless of how
+will never engage in regardless of how
+cleverly<00:06:51.600><c> you</c><00:06:51.759><c> prompt.</c><00:06:52.479><c> Those</c><00:06:52.720><c> include</c>
+cleverly you prompt. Those include
+cleverly you prompt. Those include
+providing<00:06:53.759><c> meaningful</c><00:06:54.319><c> assistance</c><00:06:54.800><c> with</c>
+providing meaningful assistance with
+providing meaningful assistance with
+bioweapons<00:06:55.840><c> or</c><00:06:56.080><c> generating</c><00:06:56.720><c> content</c><00:06:57.199><c> that</c><00:06:57.440><c> is</c>
+bioweapons or generating content that is
+bioweapons or generating content that is
+inappropriate<00:06:58.160><c> with</c><00:06:58.400><c> minors</c><00:06:58.880><c> or</c><00:06:59.120><c> undermining</c>
+inappropriate with minors or undermining
+inappropriate with minors or undermining
+legitimate<00:07:00.160><c> oversight</c><00:07:00.560><c> of</c><00:07:00.639><c> AI</c><00:07:01.039><c> systems.</c>
+legitimate oversight of AI systems.
+legitimate oversight of AI systems.
+Those<00:07:01.919><c> are</c><00:07:02.080><c> like</c><00:07:02.400><c> hard</c><00:07:02.720><c> red</c><00:07:02.960><c> lines.</c>
+Those are like hard red lines.
+Those are like hard red lines.
+Everything<00:07:04.000><c> else</c><00:07:04.319><c> exists</c><00:07:04.720><c> on</c><00:07:04.960><c> a</c><00:07:05.120><c> spectrum</c>
+Everything else exists on a spectrum
+Everything else exists on a spectrum
+where<00:07:06.160><c> Claude</c><00:07:06.560><c> weighs</c><00:07:07.039><c> competing</c>
+where Claude weighs competing
+where Claude weighs competing
+considerations.<00:07:08.639><c> Understanding</c><00:07:09.199><c> that</c>
+considerations. Understanding that
+considerations. Understanding that
+spectrum<00:07:10.000><c> matters.</c><00:07:10.639><c> When</c><00:07:10.960><c> Claude</c><00:07:11.360><c> declines</c><00:07:11.759><c> a</c>
+spectrum matters. When Claude declines a
+spectrum matters. When Claude declines a
+request,<00:07:12.560><c> it's</c><00:07:12.800><c> usually</c><00:07:13.199><c> not</c><00:07:13.599><c> hitting</c><00:07:13.919><c> a</c><00:07:14.240><c> hard</c>
+request, it's usually not hitting a hard
+request, it's usually not hitting a hard
+constraint.<00:07:15.360><c> It's</c><00:07:15.599><c> making</c><00:07:15.840><c> a</c><00:07:16.080><c> judgment</c><00:07:16.479><c> call</c>
+constraint. It's making a judgment call
+constraint. It's making a judgment call
+about<00:07:17.440><c> potential</c><00:07:17.919><c> harms.</c><00:07:18.560><c> That</c><00:07:18.800><c> judgment</c><00:07:19.199><c> can</c>
+about potential harms. That judgment can
+about potential harms. That judgment can
+often<00:07:19.759><c> be</c><00:07:19.919><c> addressed</c><00:07:20.240><c> by</c><00:07:20.479><c> providing</c><00:07:20.960><c> more</c>
+often be addressed by providing more
+often be addressed by providing more
+context<00:07:21.599><c> on</c><00:07:21.840><c> your</c><00:07:22.000><c> side.</c><00:07:22.479><c> Write</c><00:07:22.800><c> me</c><00:07:22.960><c> a</c>
+context on your side. Write me a
+context on your side. Write me a
+persuasive<00:07:23.840><c> essay</c><00:07:24.160><c> about</c><00:07:24.639><c> why</c><00:07:24.960><c> X</c><00:07:25.280><c> is</c><00:07:25.520><c> good.</c>
+persuasive essay about why X is good.
+persuasive essay about why X is good.
+Might<00:07:26.560><c> get</c><00:07:26.720><c> the</c><00:07:26.960><c> push</c><00:07:27.280><c> back</c><00:07:27.919><c> that,</c><00:07:28.560><c> hey,</c>
+Might get the push back that, hey,
+Might get the push back that, hey,
+you're<00:07:29.360><c> being</c><00:07:29.599><c> really</c><00:07:29.840><c> biased.</c><00:07:30.400><c> But</c><00:07:30.560><c> if</c><00:07:30.720><c> you</c>
+you're being really biased. But if you
+you're being really biased. But if you
+say,<00:07:31.120><c> hey,</c><00:07:31.360><c> I'm</c><00:07:31.599><c> preparing</c><00:07:31.919><c> for</c><00:07:32.080><c> a</c><00:07:32.240><c> debate.</c><00:07:32.639><c> I</c>
+say, hey, I'm preparing for a debate. I
+say, hey, I'm preparing for a debate. I
+need<00:07:32.960><c> to</c><00:07:33.120><c> argue</c><00:07:33.360><c> the</c><00:07:33.599><c> proxition</c>
+need to argue the proxition
+need to argue the proxition
+convincingly.<00:07:35.520><c> Please</c><00:07:35.759><c> help</c><00:07:35.919><c> me</c><00:07:36.080><c> anticipate</c>
+convincingly. Please help me anticipate
+convincingly. Please help me anticipate
+counterarguments.<00:07:37.759><c> Now</c><00:07:38.080><c> Claude</c><00:07:38.479><c> has</c><00:07:38.639><c> context</c>
+counterarguments. Now Claude has context
+counterarguments. Now Claude has context
+to<00:07:39.280><c> help</c><00:07:39.520><c> and</c><00:07:39.759><c> realizes</c><00:07:40.240><c> you're</c><00:07:40.479><c> not</c><00:07:40.639><c> just</c>
+to help and realizes you're not just
+to help and realizes you're not just
+trying<00:07:40.960><c> to</c><00:07:41.120><c> push</c><00:07:41.360><c> it</c><00:07:41.520><c> around.</c><00:07:42.160><c> Helpfulness</c>
+trying to push it around. Helpfulness
+trying to push it around. Helpfulness
+really<00:07:43.280><c> is</c><00:07:43.520><c> a</c><00:07:43.759><c> genuine</c><00:07:44.160><c> priority</c><00:07:44.720><c> if</c><00:07:44.880><c> you</c>
+really is a genuine priority if you
+really is a genuine priority if you
+haven't<00:07:45.199><c> picked</c><00:07:45.440><c> that</c><00:07:45.599><c> up</c><00:07:45.759><c> already.</c><00:07:46.400><c> The</c>
+haven't picked that up already. The
+haven't picked that up already. The
+Constitution's<00:07:47.520><c> framing</c><00:07:48.000><c> is</c><00:07:48.639><c> quite</c>
+Constitution's framing is quite
+Constitution's framing is quite
+striking.<00:07:49.599><c> Claude</c><00:07:50.000><c> should</c><00:07:50.240><c> be</c><00:07:50.400><c> quote</c><00:07:50.960><c> like</c><00:07:51.199><c> a</c>
+striking. Claude should be quote like a
+striking. Claude should be quote like a
+brilliant<00:07:52.000><c> friend</c><00:07:52.400><c> who</c><00:07:52.720><c> happens</c><00:07:53.120><c> to</c><00:07:53.280><c> have</c><00:07:53.440><c> the</c>
+brilliant friend who happens to have the
+brilliant friend who happens to have the
+knowledge<00:07:53.919><c> of</c><00:07:54.080><c> a</c><00:07:54.240><c> doctor,</c><00:07:54.720><c> a</c><00:07:54.960><c> lawyer,</c><00:07:55.280><c> and</c><00:07:55.440><c> a</c>
+knowledge of a doctor, a lawyer, and a
+knowledge of a doctor, a lawyer, and a
+financial<00:07:56.080><c> adviser</c><00:07:56.639><c> or</c><00:07:56.800><c> an</c><00:07:56.960><c> expert</c><00:07:57.280><c> in</c>
+financial adviser or an expert in
+financial adviser or an expert in
+whatever<00:07:57.759><c> you</c><00:07:57.919><c> need.</c><00:07:58.400><c> A</c><00:07:58.639><c> friend</c><00:07:58.879><c> who</c><00:07:59.120><c> gives</c>
+whatever you need. A friend who gives
+whatever you need. A friend who gives
+you<00:07:59.520><c> real</c><00:07:59.840><c> information.</c><00:08:00.720><c> This</c><00:08:00.960><c> aspiration</c>
+you real information. This aspiration
+you real information. This aspiration
+explains<00:08:01.840><c> why</c><00:08:02.080><c> Claude</c><00:08:02.479><c> often</c><00:08:02.800><c> provides</c>
+explains why Claude often provides
+explains why Claude often provides
+really<00:08:03.680><c> substantive</c><00:08:04.319><c> answers</c><00:08:05.120><c> where</c><00:08:05.440><c> other</c>
+really substantive answers where other
+really substantive answers where other
+models<00:08:06.080><c> will</c><00:08:06.319><c> sometimes</c><00:08:06.639><c> hedge</c><00:08:06.960><c> into</c>
+models will sometimes hedge into
+models will sometimes hedge into
+disclaimers.<00:08:08.160><c> Don't</c><00:08:08.560><c> underell</c><00:08:09.120><c> your</c><00:08:09.360><c> needs</c>
+disclaimers. Don't underell your needs
+disclaimers. Don't underell your needs
+if<00:08:10.000><c> you're</c><00:08:10.160><c> a</c><00:08:10.319><c> beginner.</c><00:08:10.800><c> If</c><00:08:11.039><c> you</c><00:08:11.199><c> want</c>
+if you're a beginner. If you want
+if you're a beginner. If you want
+detailed<00:08:12.000><c> medical</c><00:08:12.400><c> information,</c><00:08:13.039><c> you</c><00:08:13.280><c> need</c>
+detailed medical information, you need
+detailed medical information, you need
+to<00:08:13.520><c> ask</c><00:08:13.759><c> for</c><00:08:13.919><c> it</c><00:08:14.160><c> directly.</c><00:08:14.800><c> And</c><00:08:14.960><c> if</c><00:08:15.120><c> you</c><00:08:15.280><c> need</c>
+to ask for it directly. And if you need
+to ask for it directly. And if you need
+blunt<00:08:15.759><c> feedback</c><00:08:16.080><c> on</c><00:08:16.319><c> your</c><00:08:16.479><c> business</c><00:08:16.800><c> plan,</c>
+blunt feedback on your business plan,
+blunt feedback on your business plan,
+you<00:08:17.280><c> need</c><00:08:17.440><c> to</c><00:08:17.520><c> say</c><00:08:17.759><c> so.</c><00:08:18.560><c> Whatever</c><00:08:18.960><c> you're</c>
+you need to say so. Whatever you're
+you need to say so. Whatever you're
+looking<00:08:19.440><c> for,</c><00:08:19.759><c> if</c><00:08:20.000><c> it's</c><00:08:20.240><c> direct,</c><00:08:20.800><c> if</c><00:08:20.960><c> you</c><00:08:21.120><c> ask</c>
+looking for, if it's direct, if you ask
+looking for, if it's direct, if you ask
+for<00:08:21.520><c> it</c><00:08:21.759><c> like</c><00:08:21.919><c> an</c><00:08:22.160><c> intelligent</c><00:08:22.720><c> adult,</c><00:08:23.199><c> if</c><00:08:23.440><c> you</c>
+for it like an intelligent adult, if you
+for it like an intelligent adult, if you
+provide<00:08:23.840><c> the</c><00:08:24.080><c> context</c><00:08:24.479><c> around</c><00:08:24.800><c> what</c><00:08:25.039><c> you're</c>
+provide the context around what you're
+provide the context around what you're
+looking<00:08:25.360><c> for</c><00:08:25.520><c> and</c><00:08:25.680><c> it's</c><00:08:25.919><c> reasonable,</c><00:08:26.800><c> the</c>
+looking for and it's reasonable, the
+looking for and it's reasonable, the
+more<00:08:27.280><c> clearly</c><00:08:27.680><c> you</c><00:08:27.919><c> signal</c><00:08:28.240><c> what</c><00:08:28.479><c> you</c><00:08:28.560><c> need,</c>
+more clearly you signal what you need,
+more clearly you signal what you need,
+the<00:08:29.039><c> more</c><00:08:29.199><c> directly</c><00:08:29.759><c> useful</c><00:08:30.160><c> clause</c><00:08:30.639><c> response</c>
+the more directly useful clause response
+the more directly useful clause response
+is<00:08:31.280><c> going</c><00:08:31.440><c> to</c><00:08:31.599><c> be.</c><00:08:32.000><c> And</c><00:08:32.240><c> clause</c><00:08:32.719><c> refusals</c><00:08:33.279><c> are</c>
+is going to be. And clause refusals are
+is going to be. And clause refusals are
+supposed<00:08:33.919><c> to</c><00:08:34.159><c> and</c><00:08:34.399><c> do</c><00:08:34.640><c> come</c><00:08:34.880><c> with</c><00:08:35.120><c> reasoning</c>
+supposed to and do come with reasoning
+supposed to and do come with reasoning
+because<00:08:36.000><c> the</c><00:08:36.240><c> model</c><00:08:36.560><c> is</c><00:08:36.719><c> trained</c><00:08:37.039><c> to</c>
+because the model is trained to
+because the model is trained to
+understand<00:08:38.320><c> why</c><00:08:38.640><c> certain</c><00:08:39.039><c> behaviors</c><00:08:39.440><c> are</c>
+understand why certain behaviors are
+understand why certain behaviors are
+problematic,<00:08:40.240><c> and</c><00:08:40.399><c> it</c><00:08:40.640><c> can</c><00:08:40.800><c> usually</c><00:08:41.120><c> explain</c>
+problematic, and it can usually explain
+problematic, and it can usually explain
+its<00:08:41.760><c> position.</c><00:08:42.240><c> this</c><00:08:42.560><c> transparency</c><00:08:43.120><c> has</c>
+its position. this transparency has
+its position. this transparency has
+practical<00:08:43.760><c> value</c><00:08:44.080><c> because</c><00:08:44.240><c> if</c><00:08:44.480><c> Claude</c>
+practical value because if Claude
+practical value because if Claude
+explains<00:08:45.279><c> that</c><00:08:45.440><c> it's</c><00:08:45.600><c> concerned</c><00:08:45.920><c> about</c><00:08:46.080><c> a</c>
+explains that it's concerned about a
+explains that it's concerned about a
+potential<00:08:46.640><c> misuse</c><00:08:47.040><c> of</c><00:08:47.279><c> certain</c><00:08:47.519><c> information,</c>
+potential misuse of certain information,
+potential misuse of certain information,
+which<00:08:48.240><c> it's</c><00:08:48.480><c> done</c><00:08:48.640><c> to</c><00:08:48.800><c> me</c><00:08:48.880><c> in</c><00:08:49.120><c> the</c><00:08:49.200><c> past,</c><00:08:49.760><c> it's</c>
+which it's done to me in the past, it's
+which it's done to me in the past, it's
+easy<00:08:50.240><c> to</c><00:08:50.480><c> address</c><00:08:50.720><c> that</c><00:08:50.959><c> concern</c><00:08:51.279><c> directly</c>
+easy to address that concern directly
+easy to address that concern directly
+and<00:08:51.839><c> say,</c><00:08:52.160><c> "No,</c><00:08:52.640><c> I'm</c><00:08:52.880><c> not</c><00:08:53.040><c> seeking</c><00:08:53.360><c> to</c><00:08:53.519><c> do</c><00:08:53.680><c> harm</c>
+and say, "No, I'm not seeking to do harm
+and say, "No, I'm not seeking to do harm
+here.<00:08:54.399><c> This</c><00:08:54.560><c> is</c><00:08:54.640><c> what</c><00:08:54.800><c> I</c><00:08:54.959><c> really</c><00:08:55.200><c> want</c><00:08:55.279><c> to</c><00:08:55.360><c> do."</c>
+here. This is what I really want to do."
+here. This is what I really want to do."
+Claude's<00:08:56.160><c> position</c><00:08:57.040><c> exposes</c><00:08:58.080><c> more</c><00:08:58.240><c> and</c><00:08:58.480><c> more</c>
+Claude's position exposes more and more
+Claude's position exposes more and more
+of<00:08:58.800><c> the</c><00:08:58.959><c> gaps</c><00:08:59.360><c> between</c><00:08:59.760><c> models.</c><00:09:00.480><c> These</c><00:09:00.800><c> major</c>
+of the gaps between models. These major
+of the gaps between models. These major
+AI<00:09:01.440><c> models</c><00:09:01.760><c> have</c><00:09:02.000><c> really</c><00:09:02.320><c> diverged</c><00:09:02.800><c> on</c>
+AI models have really diverged on
+AI models have really diverged on
+philosophy<00:09:03.600><c> and</c><00:09:03.839><c> is</c><00:09:04.080><c> going</c><00:09:04.240><c> to</c><00:09:04.480><c> impact</c><00:09:05.040><c> how</c><00:09:05.360><c> we</c>
+philosophy and is going to impact how we
+philosophy and is going to impact how we
+as<00:09:05.920><c> beginners,</c><00:09:06.399><c> as</c><00:09:06.560><c> advanced</c><00:09:06.959><c> users,</c><00:09:07.279><c> as</c>
+as beginners, as advanced users, as
+as beginners, as advanced users, as
+agent<00:09:07.920><c> builders</c><00:09:08.480><c> all</c><00:09:08.800><c> use</c><00:09:09.040><c> these</c><00:09:09.360><c> tools.</c><00:09:10.000><c> It's</c>
+agent builders all use these tools. It's
+agent builders all use these tools. It's
+very<00:09:10.640><c> clear</c><00:09:11.279><c> that</c><00:09:11.680><c> even</c><00:09:12.000><c> though</c><00:09:12.480><c> Anthropic</c><00:09:13.200><c> is</c>
+very clear that even though Anthropic is
+very clear that even though Anthropic is
+committed<00:09:13.839><c> to</c><00:09:14.560><c> and</c><00:09:14.959><c> frankly</c><00:09:15.519><c> like</c><00:09:15.920><c> not</c><00:09:16.160><c> to</c><00:09:16.320><c> use</c>
+committed to and frankly like not to use
+committed to and frankly like not to use
+a<00:09:16.720><c> fancy</c><00:09:17.120><c> word</c><00:09:17.360><c> but</c><00:09:17.600><c> an</c><00:09:17.839><c> aristoilian</c><00:09:18.880><c> ethical</c>
+a fancy word but an aristoilian ethical
+a fancy word but an aristoilian ethical
+perspective<00:09:20.480><c> on</c><00:09:20.880><c> claude</c><00:09:21.360><c> that</c><00:09:21.600><c> is</c><00:09:21.680><c> the</c>
+perspective on claude that is the
+perspective on claude that is the
+correct<00:09:22.160><c> framing</c><00:09:22.880><c> it</c><00:09:23.120><c> hasn't</c><00:09:23.440><c> stopped</c><00:09:23.760><c> the</c>
+correct framing it hasn't stopped the
+correct framing it hasn't stopped the
+enterprise<00:09:24.480><c> dollar.</c><00:09:24.880><c> Enthropic</c><00:09:25.600><c> now</c><00:09:25.839><c> leads</c>
+enterprise dollar. Enthropic now leads
+enterprise dollar. Enthropic now leads
+the<00:09:26.399><c> enterprise</c><00:09:26.880><c> market</c><00:09:27.279><c> according</c><00:09:27.519><c> to</c>
+the enterprise market according to
+the enterprise market according to
+Menllo<00:09:28.160><c> Ventures</c><00:09:28.800><c> mid2025</c><00:09:29.760><c> data</c><00:09:30.080><c> which</c><00:09:30.320><c> is</c>
+Menllo Ventures mid2025 data which is
+Menllo Ventures mid2025 data which is
+even<00:09:30.800><c> farther</c><00:09:31.200><c> back.</c><00:09:31.839><c> Claude</c><00:09:32.320><c> holds</c><00:09:32.800><c> 32%</c><00:09:33.680><c> of</c>
+even farther back. Claude holds 32% of
+even farther back. Claude holds 32% of
+enterprise<00:09:34.640><c> LLM</c><00:09:35.120><c> market</c><00:09:35.440><c> share</c><00:09:35.839><c> by</c><00:09:36.160><c> usage</c><00:09:36.720><c> up</c>
+enterprise LLM market share by usage up
+enterprise LLM market share by usage up
+from<00:09:37.279><c> 12%</c><00:09:37.920><c> in</c><00:09:38.160><c> 2023.</c><00:09:38.880><c> Open</c><00:09:39.120><c> AAI</c><00:09:39.440><c> dropped</c><00:09:39.760><c> from</c>
+from 12% in 2023. Open AAI dropped from
+from 12% in 2023. Open AAI dropped from
+50<00:09:40.160><c> to</c><00:09:40.480><c> 25%</c><00:09:41.279><c> over</c><00:09:41.519><c> the</c><00:09:41.760><c> same</c><00:09:42.000><c> period.</c><00:09:42.560><c> And</c><00:09:42.800><c> in</c>
+50 to 25% over the same period. And in
+50 to 25% over the same period. And in
+coding<00:09:43.440><c> specifically,</c><00:09:44.080><c> Claude</c><00:09:44.480><c> commanded</c><00:09:44.959><c> at</c>
+coding specifically, Claude commanded at
+coding specifically, Claude commanded at
+last<00:09:45.440><c> count</c><00:09:45.839><c> 42%</c><00:09:46.720><c> of</c><00:09:46.959><c> enterprise</c><00:09:47.440><c> workloads.</c>
+last count 42% of enterprise workloads.
+last count 42% of enterprise workloads.
+So,<00:09:48.080><c> it</c><00:09:48.240><c> is</c><00:09:48.399><c> indeed</c><00:09:48.640><c> the</c><00:09:48.959><c> answer</c><00:09:49.200><c> to</c><00:09:49.440><c> life,</c><00:09:49.680><c> the</c>
+So, it is indeed the answer to life, the
+So, it is indeed the answer to life, the
+universe,<00:09:50.240><c> and</c><00:09:50.399><c> everything.</c><00:09:50.720><c> For</c><00:09:50.880><c> those</c><00:09:51.040><c> of</c>
+universe, and everything. For those of
+universe, and everything. For those of
+you<00:09:51.279><c> looking</c><00:09:51.519><c> for</c><00:09:51.680><c> Easter</c><00:09:52.000><c> eggs,</c><00:09:52.640><c> this</c><00:09:52.800><c> is</c><00:09:53.040><c> not</c>
+you looking for Easter eggs, this is not
+you looking for Easter eggs, this is not
+accidental,<00:09:54.160><c> right?</c><00:09:54.399><c> Uh,</c><00:09:54.640><c> on</c><00:09:54.800><c> a</c><00:09:54.959><c> more</c><00:09:55.120><c> serious</c>
+accidental, right? Uh, on a more serious
+accidental, right? Uh, on a more serious
+note,<00:09:55.680><c> the</c><00:09:55.839><c> Constitution's</c><00:09:56.560><c> emphasis</c><00:09:56.959><c> on</c>
+note, the Constitution's emphasis on
+note, the Constitution's emphasis on
+judgment<00:09:58.000><c> over</c><00:09:58.320><c> rigid</c><00:09:58.800><c> rules</c><00:09:59.279><c> maps</c><00:09:59.760><c> really</c>
+judgment over rigid rules maps really
+judgment over rigid rules maps really
+well<00:10:00.320><c> onto</c><00:10:00.640><c> what</c><00:10:00.880><c> enterprise</c><00:10:01.360><c> developers</c>
+well onto what enterprise developers
+well onto what enterprise developers
+seem<00:10:02.080><c> to</c><00:10:02.240><c> need,</c><00:10:02.640><c> models</c><00:10:02.959><c> that</c><00:10:03.120><c> handle</c>
+seem to need, models that handle
+seem to need, models that handle
+ambiguous<00:10:04.080><c> situations</c><00:10:04.720><c> gracefully</c><00:10:05.600><c> rather</c>
+ambiguous situations gracefully rather
+ambiguous situations gracefully rather
+than<00:10:06.160><c> failing</c><00:10:06.480><c> in</c><00:10:06.720><c> unexpected</c><00:10:07.360><c> ways.</c><00:10:07.760><c> The</c>
+than failing in unexpected ways. The
+than failing in unexpected ways. The
+market<00:10:08.399><c> signal</c><00:10:08.720><c> overall</c><00:10:09.120><c> is</c><00:10:09.360><c> very</c><00:10:09.600><c> clear.</c>
+market signal overall is very clear.
+market signal overall is very clear.
+When<00:10:10.160><c> enterprises</c><00:10:10.720><c> are</c><00:10:10.880><c> spending</c><00:10:11.279><c> real</c><00:10:11.519><c> money</c>
+When enterprises are spending real money
+When enterprises are spending real money
+on<00:10:12.000><c> production</c><00:10:12.399><c> workloads,</c><00:10:13.200><c> they</c><00:10:13.440><c> are</c>
+on production workloads, they are
+on production workloads, they are
+choosing<00:10:14.079><c> claude</c><00:10:14.480><c> more</c><00:10:14.720><c> often.</c><00:10:15.200><c> Although</c>
+choosing claude more often. Although
+choosing claude more often. Although
+they<00:10:15.760><c> also</c><00:10:16.079><c> choose</c><00:10:16.399><c> Gemini</c><00:10:17.279><c> for</c><00:10:17.519><c> cost</c><00:10:17.839><c> reasons</c>
+they also choose Gemini for cost reasons
+they also choose Gemini for cost reasons
+and<00:10:18.480><c> they</c><00:10:18.720><c> also</c><00:10:19.040><c> choose</c><00:10:19.760><c> open</c><00:10:20.079><c> AI</c><00:10:20.800><c> when</c>
+and they also choose open AI when
+and they also choose open AI when
+they're<00:10:21.360><c> looking</c><00:10:21.519><c> for</c><00:10:21.920><c> particular</c>
+they're looking for particular
+they're looking for particular
+applications.<00:10:23.360><c> So</c><00:10:23.600><c> for</c><00:10:23.680><c> example,</c><00:10:24.320><c> technical</c>
+applications. So for example, technical
+applications. So for example, technical
+problem<00:10:25.200><c> solving</c><00:10:25.600><c> is</c><00:10:25.760><c> an</c><00:10:26.000><c> area</c><00:10:26.160><c> where</c>
+problem solving is an area where
+problem solving is an area where
+OpenAI's<00:10:26.959><c> advanced</c><00:10:27.360><c> models</c><00:10:27.760><c> really</c><00:10:28.079><c> excel.</c>
+OpenAI's advanced models really excel.
+OpenAI's advanced models really excel.
+And<00:10:29.120><c> there</c><00:10:29.440><c> are</c><00:10:29.839><c> cases</c><00:10:30.399><c> where</c><00:10:31.120><c> enterprises</c>
+And there are cases where enterprises
+And there are cases where enterprises
+will<00:10:32.079><c> choose</c><00:10:32.640><c> multiple</c><00:10:33.200><c> model</c><00:10:33.600><c> deals</c>
+will choose multiple model deals
+will choose multiple model deals
+specifically<00:10:34.640><c> to</c><00:10:34.880><c> access</c><00:10:35.200><c> those</c><00:10:35.440><c> kinds</c><00:10:35.680><c> of</c>
+specifically to access those kinds of
+specifically to access those kinds of
+capabilities.<00:10:36.640><c> And</c><00:10:36.880><c> of</c><00:10:37.120><c> course,</c><00:10:37.600><c> there's</c>
+capabilities. And of course, there's
+capabilities. And of course, there's
+plenty<00:10:38.079><c> of</c><00:10:38.320><c> enterprises</c><00:10:39.120><c> in</c><00:10:39.360><c> a</c><00:10:39.600><c> market</c><00:10:39.839><c> this</c>
+plenty of enterprises in a market this
+plenty of enterprises in a market this
+big<00:10:40.720><c> that</c><00:10:40.959><c> pick</c><00:10:41.440><c> any</c><00:10:41.760><c> of</c><00:10:41.839><c> a</c><00:10:42.000><c> dozen</c><00:10:42.320><c> other</c>
+big that pick any of a dozen other
+big that pick any of a dozen other
+solutions,<00:10:43.040><c> right?</c><00:10:43.200><c> You</c><00:10:43.360><c> may</c><00:10:43.519><c> have</c><00:10:43.600><c> an</c><00:10:43.760><c> open</c>
+solutions, right? You may have an open
+solutions, right? You may have an open
+AI<00:10:44.320><c> only</c><00:10:44.560><c> shop,</c><00:10:44.720><c> an</c><00:10:44.959><c> anthro</c><00:10:45.279><c> anthropic</c><00:10:45.760><c> shop,</c>
+AI only shop, an anthro anthropic shop,
+AI only shop, an anthro anthropic shop,
+a<00:10:46.240><c> Gemini</c><00:10:46.720><c> shop,</c><00:10:47.360><c> a</c><00:10:47.519><c> Grock</c><00:10:47.920><c> shop</c>
+a Gemini shop, a Grock shop
+a Gemini shop, a Grock shop
+occasionally,<00:10:49.040><c> you</c><00:10:49.279><c> may</c><00:10:49.360><c> have</c><00:10:49.519><c> a</c><00:10:49.680><c> mistral</c>
+occasionally, you may have a mistral
+occasionally, you may have a mistral
+shop<00:10:50.320><c> in</c><00:10:50.560><c> Europe,</c><00:10:51.040><c> etc.</c><00:10:51.440><c> Let's</c><00:10:51.680><c> get</c><00:10:51.839><c> back</c><00:10:52.000><c> to</c>
+shop in Europe, etc. Let's get back to
+shop in Europe, etc. Let's get back to
+the<00:10:52.320><c> agentic</c><00:10:52.880><c> implications</c><00:10:53.519><c> because</c><00:10:53.760><c> this</c><00:10:54.000><c> is</c>
+the agentic implications because this is
+the agentic implications because this is
+where<00:10:54.240><c> I</c><00:10:54.480><c> think</c><00:10:54.560><c> the</c><00:10:54.800><c> constitution</c><00:10:55.440><c> points</c>
+where I think the constitution points
+where I think the constitution points
+towards<00:10:56.079><c> something</c><00:10:56.320><c> bigger</c><00:10:56.640><c> than</c><00:10:56.880><c> chat.</c><00:10:57.519><c> Most</c>
+towards something bigger than chat. Most
+towards something bigger than chat. Most
+AI<00:10:58.240><c> agents</c><00:10:58.640><c> today</c><00:10:59.040><c> operate</c><00:10:59.440><c> like</c>
+AI agents today operate like
+AI agents today operate like
+bureaucrats.<00:11:00.640><c> They</c><00:11:00.880><c> follow</c><00:11:01.279><c> workflows.</c><00:11:01.839><c> They</c>
+bureaucrats. They follow workflows. They
+bureaucrats. They follow workflows. They
+execute<00:11:02.640><c> predetermined</c><00:11:03.440><c> steps</c><00:11:03.760><c> and</c><00:11:04.000><c> they</c>
+execute predetermined steps and they
+execute predetermined steps and they
+halt<00:11:04.480><c> when</c><00:11:04.800><c> they</c><00:11:04.959><c> encounter</c><00:11:05.360><c> situations</c><00:11:05.839><c> that</c>
+halt when they encounter situations that
+halt when they encounter situations that
+their<00:11:06.560><c> designers</c><00:11:06.959><c> didn't</c><00:11:07.279><c> anticipate.</c><00:11:08.240><c> This</c>
+their designers didn't anticipate. This
+their designers didn't anticipate. This
+works<00:11:08.720><c> well</c><00:11:08.959><c> for</c><00:11:09.200><c> narrow</c><00:11:09.600><c> tasks.</c><00:11:10.079><c> It</c><00:11:10.320><c> works</c>
+works well for narrow tasks. It works
+works well for narrow tasks. It works
+for<00:11:10.720><c> scheduling</c><00:11:11.200><c> meetings</c><00:11:11.519><c> or</c><00:11:11.760><c> filing</c>
+for scheduling meetings or filing
+for scheduling meetings or filing
+tickets,<00:11:12.959><c> but</c><00:11:13.120><c> it</c><00:11:13.360><c> does</c><00:11:13.600><c> cap</c><00:11:13.920><c> the</c><00:11:14.079><c> value</c><00:11:14.399><c> a</c><00:11:14.560><c> lot</c>
+tickets, but it does cap the value a lot
+tickets, but it does cap the value a lot
+of<00:11:14.800><c> production</c><00:11:15.200><c> agents</c><00:11:15.600><c> deliver.</c><00:11:16.320><c> The</c>
+of production agents deliver. The
+of production agents deliver. The
+ceiling<00:11:16.959><c> tends</c><00:11:17.200><c> to</c><00:11:17.360><c> be</c><00:11:17.519><c> set</c><00:11:17.760><c> by</c><00:11:18.000><c> what</c><00:11:18.160><c> the</c>
+ceiling tends to be set by what the
+ceiling tends to be set by what the
+builder<00:11:18.720><c> could</c><00:11:18.959><c> imagine</c><00:11:19.440><c> in</c><00:11:19.680><c> advance.</c><00:11:20.480><c> This</c>
+builder could imagine in advance. This
+builder could imagine in advance. This
+constitution<00:11:21.760><c> implies</c><00:11:22.240><c> a</c><00:11:22.480><c> different</c><00:11:22.720><c> kind</c><00:11:22.959><c> of</c>
+constitution implies a different kind of
+constitution implies a different kind of
+entity.<00:11:23.760><c> Agentically</c><00:11:24.480><c> speaking,</c><00:11:25.120><c> it</c><00:11:25.440><c> trains</c>
+entity. Agentically speaking, it trains
+entity. Agentically speaking, it trains
+Claude<00:11:26.160><c> to</c><00:11:26.320><c> have</c><00:11:26.480><c> what</c><00:11:26.640><c> Aristotle</c><00:11:27.360><c> would</c>
+Claude to have what Aristotle would
+Claude to have what Aristotle would
+recognize<00:11:28.160><c> as</c><00:11:28.880><c> wait</c><00:11:29.120><c> for</c><00:11:29.279><c> the</c><00:11:29.519><c> $20</c><00:11:30.000><c> word</c>
+recognize as wait for the $20 word
+recognize as wait for the $20 word
+fonis,<00:11:31.440><c> which</c><00:11:31.680><c> is</c><00:11:31.839><c> really</c><00:11:32.000><c> just</c><00:11:32.160><c> a</c><00:11:32.320><c> fancy</c><00:11:32.640><c> way</c>
+fonis, which is really just a fancy way
+fonis, which is really just a fancy way
+of<00:11:32.880><c> saying</c><00:11:33.200><c> practical</c><00:11:33.680><c> wisdom,</c><00:11:34.320><c> the</c><00:11:34.640><c> capacity</c>
+of saying practical wisdom, the capacity
+of saying practical wisdom, the capacity
+to<00:11:35.279><c> discern</c><00:11:35.680><c> the</c><00:11:35.839><c> right</c><00:11:36.000><c> action</c><00:11:36.320><c> in</c>
+to discern the right action in
+to discern the right action in
+particular<00:11:37.040><c> circumstances.</c><00:11:38.000><c> Getting</c><00:11:38.160><c> it</c>
+particular circumstances. Getting it
+particular circumstances. Getting it
+right,<00:11:38.560><c> common</c><00:11:38.880><c> sense,</c><00:11:39.200><c> we</c><00:11:39.360><c> might</c><00:11:39.519><c> say.</c>
+right, common sense, we might say.
+right, common sense, we might say.
+Consider<00:11:40.320><c> the</c><00:11:40.560><c> difference</c><00:11:40.800><c> in</c><00:11:41.040><c> a</c><00:11:41.120><c> gentic</c>
+Consider the difference in a gentic
+Consider the difference in a gentic
+context<00:11:41.920><c> when</c><00:11:42.160><c> you</c><00:11:42.320><c> have</c><00:11:42.480><c> common</c><00:11:42.800><c> sense.</c><00:11:43.279><c> A</c>
+context when you have common sense. A
+context when you have common sense. A
+rule<00:11:43.839><c> following</c><00:11:44.240><c> agent</c><00:11:44.640><c> given</c><00:11:45.040><c> access</c><00:11:45.279><c> to</c>
+rule following agent given access to
+rule following agent given access to
+your<00:11:45.680><c> calendar,</c><00:11:46.079><c> email,</c><00:11:46.399><c> and</c><00:11:46.640><c> Slack</c><00:11:47.200><c> may</c><00:11:47.360><c> be</c>
+your calendar, email, and Slack may be
+your calendar, email, and Slack may be
+given<00:11:47.760><c> a</c><00:11:48.000><c> very</c><00:11:48.240><c> detailed</c><00:11:48.640><c> system</c><00:11:49.040><c> prompt.</c>
+given a very detailed system prompt.
+given a very detailed system prompt.
+Don't<00:11:49.760><c> double</c><00:11:50.079><c> book.</c><00:11:50.399><c> Schedule</c><00:11:50.720><c> meetings</c>
+Don't double book. Schedule meetings
+Don't double book. Schedule meetings
+during<00:11:51.360><c> business</c><00:11:51.680><c> hours.</c><00:11:52.399><c> prefer</c><00:11:52.880><c> mornings</c>
+during business hours. prefer mornings
+during business hours. prefer mornings
+for<00:11:53.440><c> focus</c><00:11:53.760><c> time.</c><00:11:54.320><c> When</c><00:11:54.480><c> a</c><00:11:54.720><c> VIP</c><00:11:55.279><c> customer</c>
+for focus time. When a VIP customer
+for focus time. When a VIP customer
+emails<00:11:56.000><c> at</c><00:11:56.240><c> 4</c><00:11:56.399><c> PM,</c><00:11:57.200><c> the</c><00:11:57.440><c> typical</c><00:11:57.839><c> agent</c>
+emails at 4 PM, the typical agent
+emails at 4 PM, the typical agent
+response<00:11:58.640><c> in</c><00:11:58.880><c> that</c><00:11:59.040><c> situation</c><00:11:59.519><c> is</c><00:11:59.760><c> going</c><00:11:59.839><c> to</c>
+response in that situation is going to
+response in that situation is going to
+be<00:12:00.240><c> no.</c><00:12:00.720><c> Even</c><00:12:00.959><c> though</c><00:12:01.040><c> that's</c><00:12:01.279><c> a</c><00:12:01.519><c> VIP</c><00:12:02.000><c> client,</c>
+be no. Even though that's a VIP client,
+be no. Even though that's a VIP client,
+an<00:12:02.959><c> agent</c><00:12:03.200><c> with</c><00:12:03.440><c> genuine</c><00:12:03.920><c> judgment</c><00:12:04.399><c> handles</c>
+an agent with genuine judgment handles
+an agent with genuine judgment handles
+that<00:12:05.040><c> same</c><00:12:05.279><c> situation</c><00:12:05.839><c> differently,</c><00:12:06.320><c> and</c><00:12:06.560><c> it</c>
+that same situation differently, and it
+that same situation differently, and it
+has<00:12:06.959><c> business</c><00:12:07.279><c> impact,</c><00:12:07.760><c> it</c><00:12:08.079><c> understands</c><00:12:08.560><c> why</c>
+has business impact, it understands why
+has business impact, it understands why
+you<00:12:08.959><c> prefer</c><00:12:09.360><c> mornings,</c><00:12:09.920><c> why</c><00:12:10.079><c> the</c><00:12:10.320><c> VIP</c>
+you prefer mornings, why the VIP
+you prefer mornings, why the VIP
+customer<00:12:11.279><c> matters,</c><00:12:11.680><c> and</c><00:12:11.839><c> where</c><00:12:12.480><c> the</c><00:12:12.959><c> skip</c>
+customer matters, and where the skip
+customer matters, and where the skip
+level<00:12:13.680><c> exists.</c><00:12:14.399><c> It</c><00:12:14.639><c> can</c><00:12:14.800><c> weigh</c><00:12:15.120><c> these</c>
+level exists. It can weigh these
+level exists. It can weigh these
+considerations<00:12:16.160><c> against</c><00:12:16.560><c> specific</c><00:12:17.040><c> context,</c>
+considerations against specific context,
+considerations against specific context,
+make<00:12:18.000><c> a</c><00:12:18.160><c> reasonable</c><00:12:18.560><c> call,</c><00:12:18.800><c> and</c><00:12:18.959><c> is</c><00:12:19.200><c> more</c>
+make a reasonable call, and is more
+make a reasonable call, and is more
+likely<00:12:19.600><c> to</c><00:12:19.760><c> make</c><00:12:19.839><c> the</c><00:12:20.079><c> human</c><00:12:20.320><c> call</c><00:12:20.560><c> of</c><00:12:20.720><c> saying,</c>
+likely to make the human call of saying,
+likely to make the human call of saying,
+"We're<00:12:21.440><c> taking</c><00:12:21.680><c> the</c><00:12:21.839><c> VIP</c><00:12:22.320><c> call."</c><00:12:22.720><c> So,</c><00:12:22.959><c> the</c>
+"We're taking the VIP call." So, the
+"We're taking the VIP call." So, the
+Constitution's<00:12:24.000><c> thoughtful</c><00:12:24.560><c> senior</c>
+Constitution's thoughtful senior
+Constitution's thoughtful senior
+anthropic<00:12:25.760><c> employee</c><00:12:26.240><c> huristic</c><00:12:27.120><c> makes</c><00:12:27.360><c> much</c>
+anthropic employee huristic makes much
+anthropic employee huristic makes much
+more<00:12:27.839><c> sense</c><00:12:28.079><c> in</c><00:12:28.320><c> this</c><00:12:28.480><c> frame.</c><00:12:28.880><c> It's</c><00:12:29.120><c> not</c>
+more sense in this frame. It's not
+more sense in this frame. It's not
+asking<00:12:29.839><c> Claude</c><00:12:30.320><c> to</c><00:12:30.560><c> imagine</c><00:12:30.959><c> what</c><00:12:31.200><c> a</c><00:12:31.519><c> specific</c>
+asking Claude to imagine what a specific
+asking Claude to imagine what a specific
+person<00:12:32.240><c> would</c><00:12:32.399><c> do,</c><00:12:32.639><c> right?</c><00:12:33.040><c> It's</c><00:12:33.279><c> training</c>
+person would do, right? It's training
+person would do, right? It's training
+Claude<00:12:34.160><c> to</c><00:12:34.320><c> embody</c><00:12:34.880><c> really</c><00:12:35.279><c> good</c><00:12:35.600><c> judgment</c>
+Claude to embody really good judgment
+Claude to embody really good judgment
+that<00:12:36.240><c> a</c><00:12:36.399><c> competent</c><00:12:36.880><c> professional</c><00:12:37.600><c> exercises</c>
+that a competent professional exercises
+that a competent professional exercises
+routinely.<00:12:39.200><c> Professionals</c><00:12:39.839><c> don't</c><00:12:40.079><c> consult</c>
+routinely. Professionals don't consult
+routinely. Professionals don't consult
+rule<00:12:40.639><c> books.</c><00:12:41.200><c> They</c><00:12:41.440><c> have</c><00:12:41.519><c> internalized</c>
+rule books. They have internalized
+rule books. They have internalized
+principles<00:12:42.880><c> deeply</c><00:12:43.279><c> enough</c><00:12:43.519><c> to</c><00:12:43.760><c> apply</c><00:12:44.079><c> them</c>
+principles deeply enough to apply them
+principles deeply enough to apply them
+in<00:12:44.399><c> new</c><00:12:44.720><c> situations.</c><00:12:45.600><c> And</c><00:12:45.760><c> to</c><00:12:46.000><c> be</c><00:12:46.160><c> honest</c><00:12:46.399><c> with</c>
+in new situations. And to be honest with
+in new situations. And to be honest with
+you,<00:12:46.959><c> this</c><00:12:47.120><c> is</c><00:12:47.279><c> a</c><00:12:47.519><c> gap</c><00:12:47.920><c> between</c><00:12:48.320><c> current</c>
+you, this is a gap between current
+you, this is a gap between current
+agents<00:12:49.120><c> and</c><00:12:49.279><c> the</c><00:12:49.440><c> agents</c><00:12:49.920><c> enterprises</c>
+agents and the agents enterprises
+agents and the agents enterprises
+desperately<00:12:51.279><c> need.</c><00:12:51.920><c> Today's</c><00:12:52.320><c> agentic</c>
+desperately need. Today's agentic
+desperately need. Today's agentic
+systems<00:12:53.360><c> are</c><00:12:53.600><c> mostly,</c><00:12:54.240><c> and</c><00:12:54.480><c> I</c><00:12:54.639><c> I've</c><00:12:54.959><c> seen</c><00:12:55.120><c> a</c>
+systems are mostly, and I I've seen a
+systems are mostly, and I I've seen a
+bunch<00:12:55.440><c> of</c><00:12:55.600><c> them,</c><00:12:55.839><c> they're</c><00:12:56.079><c> glorified</c>
+bunch of them, they're glorified
+bunch of them, they're glorified
+workflow<00:12:57.120><c> automation.</c><00:12:57.760><c> They're</c><00:12:58.000><c> useful,</c><00:12:58.399><c> but</c>
+workflow automation. They're useful, but
+workflow automation. They're useful, but
+they're<00:12:58.800><c> tightly</c><00:12:59.200><c> bounded</c><00:12:59.600><c> in</c><00:12:59.839><c> order</c><00:12:59.920><c> to</c>
+they're tightly bounded in order to
+they're tightly bounded in order to
+reduce<00:13:00.399><c> risk</c><00:13:00.720><c> to</c><00:13:00.880><c> the</c><00:13:01.040><c> enterprise.</c><00:13:01.760><c> The</c>
+reduce risk to the enterprise. The
+reduce risk to the enterprise. The
+agents<00:13:02.399><c> that</c><00:13:02.560><c> will</c><00:13:02.800><c> deliver</c>
+agents that will deliver
+agents that will deliver
+disproportionate<00:13:03.920><c> value</c><00:13:04.160><c> in</c><00:13:04.399><c> the</c><00:13:04.560><c> second</c>
+disproportionate value in the second
+disproportionate value in the second
+half<00:13:05.040><c> of</c><00:13:05.200><c> 2026</c><00:13:05.920><c> onward</c><00:13:06.320><c> are</c><00:13:06.560><c> those</c><00:13:06.720><c> that</c><00:13:06.959><c> can</c>
+half of 2026 onward are those that can
+half of 2026 onward are those that can
+exercise<00:13:07.680><c> real</c><00:13:08.000><c> discretion,</c><00:13:08.880><c> handling</c>
+exercise real discretion, handling
+exercise real discretion, handling
+exceptions,<00:13:10.320><c> navigating</c><00:13:10.880><c> trade-offs,</c><00:13:11.519><c> and</c>
+exceptions, navigating trade-offs, and
+exceptions, navigating trade-offs, and
+taking<00:13:12.079><c> appropriate</c><00:13:12.639><c> action</c><00:13:13.440><c> without</c>
+taking appropriate action without
+taking appropriate action without
+constant<00:13:14.320><c> human</c><00:13:14.639><c> oversight.</c><00:13:15.519><c> The</c>
+constant human oversight. The
+constant human oversight. The
+Constitution<00:13:16.800><c> is</c><00:13:17.040><c> Anthropic's</c><00:13:17.760><c> bet</c><00:13:18.160><c> on</c><00:13:18.320><c> how</c>
+Constitution is Anthropic's bet on how
+Constitution is Anthropic's bet on how
+to<00:13:18.639><c> build</c><00:13:18.880><c> these</c><00:13:19.200><c> agents.</c><00:13:19.760><c> And</c><00:13:20.000><c> rather</c><00:13:20.240><c> than</c>
+to build these agents. And rather than
+to build these agents. And rather than
+enumerating<00:13:21.040><c> every</c><00:13:21.279><c> scenario,</c><00:13:21.760><c> they're</c>
+enumerating every scenario, they're
+enumerating every scenario, they're
+trying<00:13:22.079><c> to</c><00:13:22.240><c> tell</c><00:13:22.399><c> you</c><00:13:22.639><c> they're</c><00:13:22.880><c> cultivating</c><00:13:23.440><c> a</c>
+trying to tell you they're cultivating a
+trying to tell you they're cultivating a
+character<00:13:24.079><c> for</c><00:13:24.399><c> Claude</c><00:13:24.959><c> that</c><00:13:25.200><c> makes</c><00:13:25.440><c> that</c>
+character for Claude that makes that
+character for Claude that makes that
+good<00:13:25.839><c> judgment</c><00:13:26.320><c> possible.</c><00:13:27.360><c> There</c><00:13:27.600><c> are</c><00:13:27.920><c> three</c>
+good judgment possible. There are three
+good judgment possible. There are three
+big<00:13:28.480><c> implications</c><00:13:29.040><c> that</c><00:13:29.279><c> pop</c><00:13:29.519><c> out</c><00:13:29.760><c> for</c>
+big implications that pop out for
+big implications that pop out for
+builders<00:13:30.480><c> here,</c><00:13:30.800><c> right?</c><00:13:31.360><c> First,</c><00:13:32.000><c> our</c><00:13:32.240><c> agent</c>
+builders here, right? First, our agent
+builders here, right? First, our agent
+architectures<00:13:33.279><c> will</c><00:13:33.519><c> need</c><00:13:33.600><c> to</c><00:13:33.760><c> be</c><00:13:33.920><c> ready</c><00:13:34.160><c> to</c>
+architectures will need to be ready to
+architectures will need to be ready to
+change<00:13:34.720><c> this</c><00:13:34.959><c> year.</c><00:13:35.519><c> Current</c><00:13:35.839><c> patterns</c><00:13:36.639><c> often</c>
+change this year. Current patterns often
+change this year. Current patterns often
+have<00:13:37.279><c> very</c><00:13:37.519><c> hard-coded</c><00:13:38.160><c> escalation</c><00:13:38.720><c> rules.</c>
+have very hard-coded escalation rules.
+have very hard-coded escalation rules.
+They<00:13:39.680><c> have</c><00:13:39.839><c> very</c><00:13:40.320><c> explicit</c><00:13:40.880><c> decision</c><00:13:41.360><c> trees.</c>
+They have very explicit decision trees.
+They have very explicit decision trees.
+Current<00:13:42.480><c> patterns</c><00:13:42.880><c> emphasize</c><00:13:43.360><c> a</c><00:13:43.600><c> lot</c><00:13:43.680><c> of</c>
+Current patterns emphasize a lot of
+Current patterns emphasize a lot of
+small<00:13:44.079><c> agents</c><00:13:44.480><c> doing</c><00:13:44.800><c> small</c><00:13:45.120><c> tasks,</c><00:13:45.680><c> and</c><00:13:45.839><c> they</c>
+small agents doing small tasks, and they
+small agents doing small tasks, and they
+assume<00:13:46.320><c> the</c><00:13:46.560><c> model</c><00:13:47.040><c> in</c><00:13:47.279><c> most</c><00:13:47.519><c> cases</c><00:13:47.920><c> shouldn't</c>
+assume the model in most cases shouldn't
+assume the model in most cases shouldn't
+be<00:13:48.399><c> trusted</c><00:13:48.720><c> with</c><00:13:48.959><c> judgment.</c><00:13:49.680><c> Just</c><00:13:49.920><c> look</c><00:13:50.079><c> at</c>
+be trusted with judgment. Just look at
+be trusted with judgment. Just look at
+the<00:13:50.399><c> very</c><00:13:50.720><c> famous</c><00:13:51.600><c> writeup</c><00:13:52.000><c> of</c><00:13:52.639><c> Yugi's</c><00:13:53.120><c> Gas</c>
+the very famous writeup of Yugi's Gas
+the very famous writeup of Yugi's Gas
+Town<00:13:53.680><c> scenario</c><00:13:53.920><c> where</c><00:13:54.160><c> he's</c><00:13:54.320><c> running</c><00:13:54.560><c> 50</c><00:13:54.800><c> or</c>
+Town scenario where he's running 50 or
+Town scenario where he's running 50 or
+60<00:13:55.360><c> agents,</c><00:13:56.079><c> all</c><00:13:56.399><c> small</c><00:13:56.800><c> agents</c><00:13:57.199><c> for</c><00:13:57.360><c> the</c><00:13:57.519><c> most</c>
+60 agents, all small agents for the most
+60 agents, all small agents for the most
+part.<00:13:57.920><c> If</c><00:13:58.160><c> that</c><00:13:58.399><c> assumption</c><00:13:58.880><c> changes</c><00:13:59.440><c> because</c>
+part. If that assumption changes because
+part. If that assumption changes because
+agents<00:14:00.240><c> become</c><00:14:00.480><c> more</c><00:14:00.720><c> intelligent</c><00:14:01.199><c> this</c>
+agents become more intelligent this
+agents become more intelligent this
+year,<00:14:01.680><c> which</c><00:14:01.920><c> I</c><00:14:02.079><c> think</c><00:14:02.160><c> is</c><00:14:02.399><c> very</c><00:14:02.639><c> likely,</c>
+year, which I think is very likely,
+year, which I think is very likely,
+instead<00:14:03.680><c> of</c><00:14:03.839><c> anticipating</c><00:14:04.480><c> every</c><00:14:04.720><c> edge</c><00:14:05.040><c> case,</c>
+instead of anticipating every edge case,
+instead of anticipating every edge case,
+it<00:14:05.519><c> may</c><00:14:05.760><c> be</c><00:14:05.920><c> more</c><00:14:06.240><c> practical</c><00:14:06.720><c> to</c><00:14:06.959><c> describe</c>
+it may be more practical to describe
+it may be more practical to describe
+goals<00:14:07.680><c> and</c><00:14:07.920><c> constraints</c><00:14:08.399><c> and</c><00:14:08.639><c> allow</c><00:14:08.959><c> a</c><00:14:09.199><c> longer</c>
+goals and constraints and allow a longer
+goals and constraints and allow a longer
+running<00:14:09.839><c> agent</c><00:14:10.560><c> to</c><00:14:10.800><c> figure</c><00:14:11.040><c> out</c><00:14:11.199><c> how</c><00:14:11.360><c> to</c>
+running agent to figure out how to
+running agent to figure out how to
+navigate<00:14:11.839><c> toward</c><00:14:12.160><c> that</c><00:14:12.399><c> goal.</c><00:14:12.800><c> That</c><00:14:12.959><c> is</c><00:14:13.120><c> a</c>
+navigate toward that goal. That is a
+navigate toward that goal. That is a
+very<00:14:13.519><c> different</c><00:14:13.839><c> agent</c><00:14:14.240><c> configuration</c><00:14:14.959><c> than</c>
+very different agent configuration than
+very different agent configuration than
+is<00:14:15.360><c> best</c><00:14:15.600><c> practice</c><00:14:16.320><c> today.</c><00:14:17.040><c> Second,</c>
+is best practice today. Second,
+is best practice today. Second,
+evaluation<00:14:18.639><c> becomes</c><00:14:18.959><c> harder</c><00:14:19.279><c> and</c><00:14:19.519><c> more</c>
+evaluation becomes harder and more
+evaluation becomes harder and more
+important.<00:14:20.240><c> You</c><00:14:20.399><c> cannot</c><00:14:20.800><c> unit</c><00:14:21.199><c> test</c><00:14:21.760><c> good</c>
+important. You cannot unit test good
+important. You cannot unit test good
+judgment.<00:14:22.959><c> You</c><00:14:23.120><c> need</c><00:14:23.440><c> scenario-based</c>
+judgment. You need scenario-based
+judgment. You need scenario-based
+evaluation<00:14:24.880><c> that</c><00:14:25.199><c> probes</c><00:14:25.600><c> how</c><00:14:25.760><c> the</c><00:14:26.000><c> agent</c>
+evaluation that probes how the agent
+evaluation that probes how the agent
+handles<00:14:26.639><c> ambiguity.</c><00:14:27.600><c> It's</c><00:14:27.760><c> a</c><00:14:28.000><c> whole</c>
+handles ambiguity. It's a whole
+handles ambiguity. It's a whole
+different<00:14:28.399><c> ballgame</c><00:14:28.880><c> for</c><00:14:29.040><c> eval</c><00:14:29.680><c> and</c><00:14:29.760><c> we're</c>
+different ballgame for eval and we're
+different ballgame for eval and we're
+just<00:14:30.160><c> at</c><00:14:30.399><c> the</c><00:14:30.560><c> beginning</c><00:14:30.720><c> of</c><00:14:30.880><c> figuring</c><00:14:31.199><c> that</c>
+just at the beginning of figuring that
+just at the beginning of figuring that
+out.<00:14:31.760><c> Third,</c><00:14:32.079><c> the</c><00:14:32.320><c> constitution</c><00:14:32.959><c> implies</c>
+out. Third, the constitution implies
+out. Third, the constitution implies
+what<00:14:34.079><c> we</c><00:14:34.240><c> should</c><00:14:34.480><c> include</c><00:14:34.720><c> in</c><00:14:34.959><c> our</c><00:14:35.120><c> agent</c>
+what we should include in our agent
+what we should include in our agent
+prompts.<00:14:36.320><c> Don't</c><00:14:36.560><c> just</c><00:14:36.880><c> specify</c><00:14:37.440><c> behaviors,</c>
+prompts. Don't just specify behaviors,
+prompts. Don't just specify behaviors,
+explain<00:14:38.639><c> the</c><00:14:38.880><c> purpose.</c><00:14:39.360><c> Don't</c><00:14:39.600><c> just</c><00:14:39.760><c> set</c>
+explain the purpose. Don't just set
+explain the purpose. Don't just set
+constraints.<00:14:40.720><c> Articulate</c><00:14:41.360><c> the</c><00:14:41.680><c> values</c>
+constraints. Articulate the values
+constraints. Articulate the values
+behind<00:14:42.480><c> those</c><00:14:42.720><c> constraints.</c><00:14:43.279><c> I</c><00:14:43.519><c> would</c>
+behind those constraints. I would
+behind those constraints. I would
+suggest<00:14:43.920><c> that</c><00:14:44.160><c> this</c><00:14:44.320><c> is</c><00:14:44.480><c> especially</c><00:14:44.959><c> true</c><00:14:45.120><c> if</c>
+suggest that this is especially true if
+suggest that this is especially true if
+you're<00:14:45.440><c> using</c><00:14:45.680><c> Claude</c><00:14:46.000><c> as</c><00:14:46.160><c> an</c><00:14:46.240><c> agent.</c><00:14:46.480><c> I</c><00:14:46.720><c> think</c>
+you're using Claude as an agent. I think
+you're using Claude as an agent. I think
+is<00:14:47.040><c> less</c><00:14:47.360><c> true</c><00:14:47.519><c> for</c><00:14:47.760><c> other</c><00:14:47.920><c> agents</c><00:14:48.320><c> at</c><00:14:48.480><c> this</c>
+is less true for other agents at this
+is less true for other agents at this
+point.<00:14:48.959><c> We</c><00:14:49.199><c> are</c><00:14:49.360><c> right</c><00:14:49.600><c> now</c><00:14:49.839><c> at</c><00:14:50.079><c> an</c><00:14:50.240><c> inflection</c>
+point. We are right now at an inflection
+point. We are right now at an inflection
+in<00:14:51.040><c> what</c><00:14:51.199><c> agents</c><00:14:51.680><c> can</c><00:14:51.839><c> do.</c><00:14:52.399><c> The</c><00:14:52.639><c> limiting</c>
+in what agents can do. The limiting
+in what agents can do. The limiting
+factor<00:14:53.519><c> has</c><00:14:53.760><c> been</c><00:14:53.920><c> less</c><00:14:54.240><c> about</c><00:14:54.560><c> capability</c>
+factor has been less about capability
+factor has been less about capability
+and<00:14:55.680><c> more</c><00:14:55.920><c> about</c><00:14:56.320><c> trust.</c><00:14:56.800><c> We</c><00:14:56.959><c> don't</c><00:14:57.120><c> let</c><00:14:57.279><c> them</c>
+and more about trust. We don't let them
+and more about trust. We don't let them
+exercise<00:14:58.079><c> judgment.</c><00:14:58.639><c> Anthropic's</c><00:14:59.360><c> move</c><00:14:59.600><c> here</c>
+exercise judgment. Anthropic's move here
+exercise judgment. Anthropic's move here
+is<00:15:00.079><c> really</c><00:15:00.720><c> establishing</c><00:15:01.760><c> a</c><00:15:02.079><c> forward</c>
+is really establishing a forward
+is really establishing a forward
+deployed<00:15:03.199><c> base</c><00:15:03.600><c> on</c><00:15:03.760><c> a</c><00:15:04.000><c> more</c><00:15:04.160><c> autonomous</c>
+deployed base on a more autonomous
+deployed base on a more autonomous
+agentic<00:15:05.360><c> future.</c><00:15:05.680><c> It's</c><00:15:05.920><c> like</c><00:15:06.000><c> a</c><00:15:06.240><c> flagship</c><00:15:06.720><c> for</c>
+agentic future. It's like a flagship for
+agentic future. It's like a flagship for
+the<00:15:07.120><c> future,</c><00:15:07.519><c> right?</c><00:15:07.920><c> It's</c><00:15:08.240><c> a</c><00:15:08.480><c> framework</c><00:15:09.279><c> for</c>
+the future, right? It's a framework for
+the future, right? It's a framework for
+a<00:15:09.920><c> world</c><00:15:10.160><c> where</c><00:15:10.480><c> we</c><00:15:10.720><c> can</c><00:15:10.880><c> build</c><00:15:11.199><c> agents</c><00:15:11.680><c> that</c>
+a world where we can build agents that
+a world where we can build agents that
+we<00:15:12.160><c> might</c><00:15:12.560><c> actually</c><00:15:13.120><c> trust</c><00:15:14.000><c> to</c><00:15:14.240><c> act</c><00:15:14.480><c> on</c><00:15:14.639><c> our</c>
+we might actually trust to act on our
+we might actually trust to act on our
+behalf<00:15:15.199><c> in</c><00:15:15.519><c> complicated</c><00:15:16.240><c> situations.</c><00:15:17.120><c> I</c>
+behalf in complicated situations. I
+behalf in complicated situations. I
+believe<00:15:17.600><c> that</c><00:15:17.839><c> world</c><00:15:18.160><c> is</c><00:15:18.399><c> between</c><00:15:18.880><c> 6</c><00:15:19.120><c> and</c><00:15:19.360><c> 12</c>
+believe that world is between 6 and 12
+believe that world is between 6 and 12
+months<00:15:19.920><c> away</c><00:15:20.320><c> and</c><00:15:20.560><c> that</c><00:15:20.720><c> we</c><00:15:20.880><c> should</c><00:15:21.120><c> start</c>
+months away and that we should start
+months away and that we should start
+thinking<00:15:21.600><c> about</c><00:15:21.839><c> it</c><00:15:22.079><c> now</c><00:15:22.320><c> if</c><00:15:22.560><c> we</c><00:15:22.720><c> are</c><00:15:22.800><c> in</c><00:15:22.880><c> the</c>
+thinking about it now if we are in the
+thinking about it now if we are in the
+agent<00:15:23.360><c> building</c><00:15:23.760><c> space.</c><00:15:24.320><c> The</c><00:15:24.639><c> constitution</c>
+agent building space. The constitution
+agent building space. The constitution
+is<00:15:25.440><c> being</c><00:15:25.680><c> built</c><00:15:25.920><c> as</c><00:15:26.079><c> a</c><00:15:26.240><c> PR</c><00:15:26.560><c> document,</c><00:15:27.040><c> but</c>
+is being built as a PR document, but
+is being built as a PR document, but
+it's<00:15:27.519><c> actually</c><00:15:27.760><c> a</c><00:15:28.000><c> training</c><00:15:28.320><c> artifact.</c>
+it's actually a training artifact.
+it's actually a training artifact.
+Enthropic<00:15:29.600><c> is</c><00:15:29.760><c> using</c><00:15:30.079><c> it</c><00:15:30.560><c> to</c><00:15:30.880><c> generate</c>
+Enthropic is using it to generate
+Enthropic is using it to generate
+synthetic<00:15:32.399><c> data</c><00:15:32.639><c> that</c><00:15:32.880><c> shapes</c><00:15:33.360><c> Claude's</c>
+synthetic data that shapes Claude's
+synthetic data that shapes Claude's
+behavior<00:15:34.240><c> at</c><00:15:34.480><c> a</c><00:15:34.639><c> fundamental</c><00:15:35.199><c> level.</c><00:15:35.680><c> One</c><00:15:35.920><c> of</c>
+behavior at a fundamental level. One of
+behavior at a fundamental level. One of
+the<00:15:36.160><c> sharpest</c><00:15:36.639><c> takes</c><00:15:36.959><c> I</c><00:15:37.199><c> saw</c><00:15:37.920><c> on</c><00:15:38.320><c> the</c>
+the sharpest takes I saw on the
+the sharpest takes I saw on the
+publication<00:15:39.199><c> of</c><00:15:39.360><c> this</c><00:15:39.600><c> document</c><00:15:40.320><c> is</c><00:15:40.480><c> that</c>
+publication of this document is that
+publication of this document is that
+Anthropic<00:15:41.360><c> is</c><00:15:41.600><c> publicly</c><00:15:42.079><c> pushing</c><00:15:42.480><c> this</c>
+Anthropic is publicly pushing this
+Anthropic is publicly pushing this
+document<00:15:43.120><c> as</c><00:15:43.360><c> a</c><00:15:43.600><c> way</c><00:15:43.680><c> of</c><00:15:44.000><c> seeding</c><00:15:44.800><c> the</c>
+document as a way of seeding the
+document as a way of seeding the
+internet<00:15:45.839><c> with</c><00:15:46.160><c> lots</c><00:15:46.480><c> of</c><00:15:46.639><c> conversation</c><00:15:47.279><c> about</c>
+internet with lots of conversation about
+internet with lots of conversation about
+what<00:15:47.760><c> good</c><00:15:48.000><c> AI</c><00:15:48.399><c> looks</c><00:15:48.639><c> like</c><00:15:49.120><c> in</c><00:15:49.440><c> order</c><00:15:49.600><c> to</c>
+what good AI looks like in order to
+what good AI looks like in order to
+influence<00:15:50.320><c> the</c><00:15:50.560><c> development</c><00:15:51.199><c> not</c><00:15:51.519><c> just</c><00:15:51.759><c> of</c>
+influence the development not just of
+influence the development not just of
+Claude<00:15:52.720><c> but</c><00:15:52.959><c> through</c><00:15:53.279><c> the</c><00:15:53.440><c> data</c><00:15:53.759><c> that's</c>
+Claude but through the data that's
+Claude but through the data that's
+available<00:15:54.399><c> for</c><00:15:54.720><c> training</c><00:15:55.440><c> to</c><00:15:55.680><c> influence</c><00:15:56.079><c> the</c>
+available for training to influence the
+available for training to influence the
+development<00:15:56.800><c> of</c><00:15:56.959><c> other</c><00:15:57.199><c> AIs</c><00:15:57.680><c> in</c><00:15:57.839><c> the</c><00:15:57.920><c> space</c>
+development of other AIs in the space
+development of other AIs in the space
+and<00:15:58.399><c> make</c><00:15:58.480><c> the</c><00:15:58.639><c> AI</c><00:15:59.040><c> race</c><00:15:59.199><c> as</c><00:15:59.360><c> a</c><00:15:59.519><c> whole</c><00:15:59.680><c> safer.</c>
+and make the AI race as a whole safer.
+and make the AI race as a whole safer.
+Now<00:16:00.720><c> if</c><00:16:00.959><c> you</c><00:16:01.199><c> are</c><00:16:01.440><c> building</c><00:16:02.079><c> products</c><00:16:02.639><c> today,</c>
+Now if you are building products today,
+Now if you are building products today,
+you<00:16:03.680><c> need</c><00:16:03.839><c> to</c><00:16:04.000><c> take</c><00:16:04.160><c> the</c><00:16:04.480><c> constitution</c>
+you need to take the constitution
+you need to take the constitution
+section<00:16:05.519><c> on</c><00:16:05.839><c> operator</c><00:16:06.399><c> user</c><00:16:06.720><c> relationships</c>
+section on operator user relationships
+section on operator user relationships
+very<00:16:07.680><c> seriously.</c><00:16:08.399><c> You</c><00:16:08.639><c> need</c><00:16:08.720><c> to</c><00:16:08.959><c> understand</c>
+very seriously. You need to understand
+very seriously. You need to understand
+what<00:16:09.759><c> you</c><00:16:09.920><c> can</c><00:16:10.079><c> and</c><00:16:10.320><c> cannot</c><00:16:10.639><c> instruct</c><00:16:10.959><c> claude</c>
+what you can and cannot instruct claude
+what you can and cannot instruct claude
+to<00:16:11.519><c> do</c><00:16:11.839><c> and</c><00:16:12.160><c> take</c><00:16:12.399><c> it</c><00:16:12.639><c> seriously</c><00:16:13.040><c> and</c><00:16:13.279><c> use</c><00:16:13.519><c> that</c>
+to do and take it seriously and use that
+to do and take it seriously and use that
+as<00:16:13.759><c> a</c><00:16:13.920><c> basis</c><00:16:14.240><c> for</c><00:16:14.399><c> your</c><00:16:14.560><c> building.</c><00:16:15.120><c> If</c><00:16:15.279><c> you</c><00:16:15.440><c> are</c>
+as a basis for your building. If you are
+as a basis for your building. If you are
+writing<00:16:15.839><c> system</c><00:16:16.160><c> prompts,</c><00:16:16.560><c> you</c><00:16:16.639><c> need</c><00:16:16.800><c> to</c>
+writing system prompts, you need to
+writing system prompts, you need to
+explain<00:16:17.440><c> context</c><00:16:17.839><c> and</c><00:16:18.079><c> intent</c><00:16:18.399><c> for</c><00:16:18.560><c> an</c>
+explain context and intent for an
+explain context and intent for an
+anthropic<00:16:19.199><c> tool.</c><00:16:19.600><c> If</c><00:16:19.759><c> you're</c><00:16:19.920><c> testing</c><00:16:20.240><c> for</c>
+anthropic tool. If you're testing for
+anthropic tool. If you're testing for
+judgment,<00:16:20.959><c> you</c><00:16:21.199><c> need</c><00:16:21.279><c> to</c><00:16:21.519><c> actually</c><00:16:21.839><c> think</c>
+judgment, you need to actually think
+judgment, you need to actually think
+about<00:16:22.240><c> how</c><00:16:22.480><c> that</c><00:16:23.120><c> like</c><00:16:23.680><c> should</c><00:16:24.000><c> apply</c><00:16:24.320><c> for</c>
+about how that like should apply for
+about how that like should apply for
+eval<00:16:25.199><c> now</c><00:16:25.680><c> today</c><00:16:26.079><c> with</c><00:16:26.320><c> existing</c><00:16:26.720><c> enthropic</c>
+eval now today with existing enthropic
+eval now today with existing enthropic
+models.<00:16:27.920><c> If</c><00:16:28.079><c> you're</c><00:16:28.320><c> building</c><00:16:28.560><c> agentic</c>
+models. If you're building agentic
+models. If you're building agentic
+implica<00:16:29.759><c> applications,</c><00:16:30.800><c> you</c><00:16:31.040><c> should</c><00:16:31.199><c> start</c>
+implica applications, you should start
+implica applications, you should start
+trusting<00:16:31.920><c> the</c><00:16:32.079><c> model</c><00:16:32.320><c> with</c><00:16:32.560><c> more</c><00:16:32.800><c> discretion.</c>
+trusting the model with more discretion.
+trusting the model with more discretion.
+Current<00:16:33.920><c> agentic</c><00:16:34.480><c> architectures</c><00:16:35.040><c> often</c>
+Current agentic architectures often
+Current agentic architectures often
+involve<00:16:35.680><c> elaborate</c><00:16:36.240><c> scaffolding</c><00:16:37.120><c> and</c><00:16:37.360><c> you</c>
+involve elaborate scaffolding and you
+involve elaborate scaffolding and you
+should<00:16:37.680><c> start</c><00:16:37.920><c> to</c><00:16:38.399><c> strategically</c>
+should start to strategically
+should start to strategically
+deliberately<00:16:39.680><c> and</c><00:16:39.920><c> not</c><00:16:40.160><c> too</c><00:16:40.399><c> much</c><00:16:40.959><c> test</c><00:16:41.519><c> more</c>
+deliberately and not too much test more
+deliberately and not too much test more
+autonomy<00:16:42.480><c> in</c><00:16:42.720><c> small</c><00:16:43.040><c> use</c><00:16:43.279><c> cases.</c><00:16:44.000><c> I</c><00:16:44.240><c> don't</c><00:16:44.399><c> say</c>
+autonomy in small use cases. I don't say
+autonomy in small use cases. I don't say
+this<00:16:44.800><c> because</c><00:16:44.959><c> I</c><00:16:45.199><c> anticipate</c><00:16:45.680><c> that</c><00:16:46.000><c> today's</c>
+this because I anticipate that today's
+this because I anticipate that today's
+anthropic<00:16:47.040><c> agents</c><00:16:47.360><c> or</c><00:16:47.519><c> today's</c><00:16:47.920><c> chat</c><00:16:48.240><c> GPT</c>
+anthropic agents or today's chat GPT
+anthropic agents or today's chat GPT
+agents<00:16:49.360><c> can</c><00:16:49.600><c> handle</c><00:16:49.839><c> that</c><00:16:50.079><c> autonomy</c><00:16:50.560><c> in</c>
+agents can handle that autonomy in
+agents can handle that autonomy in
+enterprise<00:16:51.279><c> environments</c><00:16:51.759><c> super</c><00:16:52.079><c> well.</c><00:16:52.720><c> I</c>
+enterprise environments super well. I
+enterprise environments super well. I
+think<00:16:53.199><c> you</c><00:16:53.519><c> are</c><00:16:53.680><c> likely</c><00:16:54.000><c> to</c><00:16:54.160><c> see</c><00:16:54.320><c> a</c><00:16:54.560><c> pattern</c><00:16:55.120><c> of</c>
+think you are likely to see a pattern of
+think you are likely to see a pattern of
+very<00:16:56.000><c> rapid</c><00:16:56.480><c> progression</c><00:16:57.040><c> in</c><00:16:57.360><c> autonomy</c><00:16:58.320><c> that</c>
+very rapid progression in autonomy that
+very rapid progression in autonomy that
+enables<00:16:59.120><c> different</c><00:16:59.440><c> kinds</c><00:16:59.680><c> of</c><00:16:59.839><c> architectures</c>
+enables different kinds of architectures
+enables different kinds of architectures
+within<00:17:00.800><c> six</c><00:17:01.040><c> months</c><00:17:01.279><c> or</c><00:17:01.440><c> so.</c><00:17:01.759><c> But</c><00:17:01.920><c> smart</c>
+within six months or so. But smart
+within six months or so. But smart
+builders<00:17:02.720><c> start</c><00:17:02.959><c> testing</c><00:17:03.199><c> for</c><00:17:03.440><c> that</c><00:17:03.600><c> early.</c>
+builders start testing for that early.
+builders start testing for that early.
+Now,<00:17:04.160><c> if</c><00:17:04.319><c> you're</c><00:17:04.400><c> a</c><00:17:04.559><c> beginner,</c><00:17:05.120><c> the</c><00:17:05.360><c> big</c>
+Now, if you're a beginner, the big
+Now, if you're a beginner, the big
+lesson<00:17:06.000><c> is</c><00:17:06.240><c> to</c><00:17:06.400><c> be</c><00:17:06.559><c> direct</c><00:17:06.959><c> and</c><00:17:07.199><c> explain</c><00:17:07.520><c> what</c>
+lesson is to be direct and explain what
+lesson is to be direct and explain what
+you<00:17:07.919><c> need</c><00:17:08.079><c> with</c><00:17:08.319><c> good</c><00:17:08.559><c> rationale.</c><00:17:09.360><c> You</c><00:17:09.600><c> get</c>
+you need with good rationale. You get
+you need with good rationale. You get
+the<00:17:09.919><c> sense</c><00:17:10.079><c> of</c><00:17:10.240><c> who</c><00:17:10.400><c> Claude</c><00:17:10.799><c> is</c><00:17:10.959><c> from</c><00:17:11.120><c> this</c>
+the sense of who Claude is from this
+the sense of who Claude is from this
+video.<00:17:12.079><c> This</c><00:17:12.240><c> is</c><00:17:12.400><c> how</c><00:17:12.559><c> you</c><00:17:12.720><c> talk</c><00:17:12.880><c> to</c><00:17:13.039><c> Claude,</c>
+video. This is how you talk to Claude,
+video. This is how you talk to Claude,
+right?<00:17:13.679><c> Talk</c><00:17:13.839><c> to</c><00:17:14.000><c> Claude</c><00:17:14.400><c> like</c><00:17:14.480><c> a</c><00:17:14.720><c> reasonable</c>
+right? Talk to Claude like a reasonable
+right? Talk to Claude like a reasonable
+professional<00:17:15.679><c> colleague.</c><00:17:16.319><c> Look,</c><00:17:16.640><c> the</c><00:17:16.880><c> bigger</c>
+professional colleague. Look, the bigger
+professional colleague. Look, the bigger
+picture<00:17:17.439><c> here</c><00:17:17.600><c> is</c><00:17:17.679><c> that</c><00:17:17.839><c> Anthropic</c><00:17:18.480><c> is</c>
+picture here is that Anthropic is
+picture here is that Anthropic is
+betting<00:17:18.959><c> that</c><00:17:19.199><c> AI</c><00:17:19.600><c> systems</c><00:17:20.079><c> sophisticated</c>
+betting that AI systems sophisticated
+betting that AI systems sophisticated
+enough<00:17:21.199><c> to</c><00:17:21.520><c> reason</c><00:17:21.839><c> about</c><00:17:22.160><c> principles</c><00:17:22.959><c> will</c>
+enough to reason about principles will
+enough to reason about principles will
+outperform<00:17:23.839><c> those</c><00:17:24.160><c> trained</c><00:17:24.400><c> on</c><00:17:24.640><c> rules</c><00:17:25.039><c> over</c>
+outperform those trained on rules over
+outperform those trained on rules over
+the<00:17:25.600><c> long</c><00:17:25.760><c> term.</c><00:17:26.400><c> That</c><00:17:26.640><c> is</c><00:17:26.799><c> a</c><00:17:27.120><c> very</c><00:17:27.839><c> different</c>
+the long term. That is a very different
+the long term. That is a very different
+bet<00:17:28.960><c> than</c><00:17:29.280><c> OpenAI</c><00:17:29.919><c> is</c><00:17:30.240><c> making</c><00:17:30.720><c> at</c><00:17:30.799><c> least</c><00:17:31.039><c> at</c>
+bet than OpenAI is making at least at
+bet than OpenAI is making at least at
+this<00:17:31.440><c> time.</c><00:17:31.760><c> It</c><00:17:32.000><c> is</c><00:17:32.080><c> a</c><00:17:32.240><c> different</c><00:17:32.400><c> bet</c><00:17:32.640><c> than</c>
+this time. It is a different bet than
+this time. It is a different bet than
+Gemini<00:17:33.440><c> is</c><00:17:33.600><c> making</c><00:17:33.840><c> publicly</c><00:17:34.320><c> at</c><00:17:34.559><c> this</c><00:17:34.720><c> time.</c>
+Gemini is making publicly at this time.
+Gemini is making publicly at this time.
+And<00:17:35.440><c> the</c><00:17:35.600><c> enterprise</c><00:17:36.160><c> market</c><00:17:36.480><c> right</c><00:17:36.720><c> now</c><00:17:36.960><c> is</c>
+And the enterprise market right now is
+And the enterprise market right now is
+flowing<00:17:37.520><c> to</c><00:17:37.760><c> anthropic.</c><00:17:38.559><c> But</c><00:17:38.720><c> the</c>
+flowing to anthropic. But the
+flowing to anthropic. But the
+constitution<00:17:39.600><c> points</c><00:17:39.919><c> to</c><00:17:40.080><c> something</c><00:17:40.400><c> larger</c>
+constitution points to something larger
+constitution points to something larger
+than<00:17:40.960><c> competitive</c><00:17:41.520><c> positioning.</c><00:17:42.320><c> As</c><00:17:42.559><c> AI</c>
+than competitive positioning. As AI
+than competitive positioning. As AI
+systems<00:17:43.360><c> become</c><00:17:43.679><c> more</c><00:17:43.919><c> capable</c><00:17:44.240><c> and</c><00:17:44.480><c> more</c>
+systems become more capable and more
+systems become more capable and more
+autonomous,<00:17:45.360><c> the</c><00:17:45.600><c> question</c><00:17:45.840><c> of</c><00:17:46.080><c> how</c><00:17:46.240><c> to</c><00:17:46.400><c> imbue</c>
+autonomous, the question of how to imbue
+autonomous, the question of how to imbue
+them<00:17:46.960><c> with</c><00:17:47.200><c> judgment</c><00:17:47.919><c> is</c><00:17:48.240><c> going</c><00:17:48.400><c> to</c><00:17:48.559><c> get</c><00:17:48.720><c> more</c>
+them with judgment is going to get more
+them with judgment is going to get more
+urgent<00:17:49.280><c> for</c><00:17:49.600><c> all</c><00:17:49.760><c> of</c><00:17:49.919><c> us</c><00:17:50.480><c> because</c><00:17:50.799><c> you</c><00:17:51.120><c> really</c>
+urgent for all of us because you really
+urgent for all of us because you really
+can't<00:17:51.679><c> enumerate</c><00:17:52.240><c> rules</c><00:17:52.640><c> for</c><00:17:52.880><c> every</c>
+can't enumerate rules for every
+can't enumerate rules for every
+situation<00:17:54.160><c> where</c><00:17:54.559><c> an</c><00:17:54.799><c> action</c><00:17:55.120><c> needs</c><00:17:55.360><c> to</c><00:17:55.520><c> be</c>
+situation where an action needs to be
+situation where an action needs to be
+taken<00:17:55.919><c> by</c><00:17:56.160><c> AI.</c><00:17:56.720><c> So</c><00:17:57.039><c> therefore,</c><00:17:57.520><c> I</c><00:17:57.840><c> expect</c><00:17:58.160><c> that</c>
+taken by AI. So therefore, I expect that
+taken by AI. So therefore, I expect that
+Anthropic's<00:17:59.200><c> attempt</c><00:17:59.520><c> to</c><00:17:59.760><c> solve</c><00:18:00.000><c> the</c><00:18:00.320><c> problem</c>
+Anthropic's attempt to solve the problem
+Anthropic's attempt to solve the problem
+is<00:18:01.360><c> going</c><00:18:01.600><c> to</c><00:18:01.840><c> end</c><00:18:02.080><c> up</c><00:18:02.320><c> seeding</c><00:18:03.200><c> somewhat</c>
+is going to end up seeding somewhat
+is going to end up seeding somewhat
+similar<00:18:04.080><c> attempts</c><00:18:04.480><c> from</c><00:18:04.720><c> other</c><00:18:04.960><c> model</c><00:18:05.280><c> makers</c>
+similar attempts from other model makers
+similar attempts from other model makers
+in<00:18:05.840><c> coming</c><00:18:06.080><c> months</c><00:18:06.640><c> because</c><00:18:06.880><c> they're</c><00:18:07.200><c> going</c>
+in coming months because they're going
+in coming months because they're going
+to<00:18:07.520><c> start</c><00:18:07.840><c> to</c><00:18:08.080><c> see</c><00:18:08.400><c> situations</c><00:18:08.960><c> where</c><00:18:09.280><c> their</c>
+to start to see situations where their
+to start to see situations where their
+models<00:18:09.840><c> and</c><00:18:10.000><c> the</c><00:18:10.240><c> agents</c><00:18:10.559><c> built</c><00:18:10.880><c> on</c><00:18:11.039><c> their</c>
+models and the agents built on their
+models and the agents built on their
+models<00:18:11.919><c> will</c><00:18:12.160><c> encounter</c><00:18:12.640><c> novel</c><00:18:13.520><c> problems</c><00:18:14.000><c> and</c>
+models will encounter novel problems and
+models will encounter novel problems and
+will<00:18:14.559><c> be</c><00:18:14.799><c> required</c><00:18:15.200><c> to</c><00:18:15.440><c> reason</c><00:18:15.919><c> well</c><00:18:16.240><c> against</c>
+will be required to reason well against
+will be required to reason well against
+those<00:18:16.799><c> novel</c><00:18:17.200><c> situations.</c><00:18:18.160><c> Look,</c><00:18:18.640><c> this</c><00:18:18.880><c> was</c>
+those novel situations. Look, this was
+those novel situations. Look, this was
+just<00:18:19.360><c> short</c><00:18:19.600><c> video.</c><00:18:20.320><c> The</c><00:18:20.559><c> 80page</c><00:18:21.120><c> document</c><00:18:21.520><c> is</c>
+just short video. The 80page document is
+just short video. The 80page document is
+long,<00:18:22.240><c> but</c><00:18:22.559><c> it</c><00:18:22.720><c> is</c><00:18:22.880><c> a</c><00:18:23.200><c> foundational</c><00:18:24.000><c> document</c>
+long, but it is a foundational document
+long, but it is a foundational document
+for<00:18:24.720><c> the</c><00:18:24.880><c> AI</c><00:18:25.360><c> age.</c><00:18:25.760><c> It</c><00:18:25.919><c> is</c><00:18:26.080><c> going</c><00:18:26.240><c> to</c><00:18:26.320><c> be</c><00:18:26.400><c> in</c><00:18:26.559><c> the</c>
+for the AI age. It is going to be in the
+for the AI age. It is going to be in the
+history<00:18:27.039><c> books</c><00:18:27.360><c> and</c><00:18:27.600><c> it</c><00:18:27.760><c> is</c><00:18:27.919><c> worth</c><00:18:28.160><c> reading</c><00:18:28.400><c> in</c>
+history books and it is worth reading in
+history books and it is worth reading in
+full.<00:18:29.120><c> Not</c><00:18:29.360><c> because</c><00:18:29.600><c> it</c><00:18:29.760><c> will</c><00:18:29.919><c> change</c><00:18:30.160><c> how</c><00:18:30.320><c> you</c>
+full. Not because it will change how you
+full. Not because it will change how you
+prompt<00:18:30.880><c> Claude</c><00:18:31.360><c> tomorrow,</c><00:18:31.919><c> unless</c><00:18:32.240><c> you</c>
+prompt Claude tomorrow, unless you
+prompt Claude tomorrow, unless you
+didn't<00:18:32.640><c> know</c><00:18:32.799><c> you</c><00:18:32.960><c> had</c><00:18:33.120><c> to</c><00:18:33.200><c> be</c><00:18:33.360><c> direct,</c><00:18:33.760><c> in</c>
+didn't know you had to be direct, in
+didn't know you had to be direct, in
+which<00:18:34.080><c> case</c><00:18:34.240><c> it</c><00:18:34.480><c> will,</c><00:18:34.799><c> but</c><00:18:35.120><c> because</c><00:18:35.360><c> it</c>
+which case it will, but because it
+which case it will, but because it
+offers<00:18:35.919><c> a</c><00:18:36.160><c> window</c><00:18:36.720><c> into</c><00:18:37.039><c> how</c><00:18:37.280><c> Anthropic</c>
+offers a window into how Anthropic
+offers a window into how Anthropic
+thinks<00:18:38.240><c> about</c><00:18:38.400><c> the</c><00:18:38.640><c> much</c><00:18:38.880><c> harder</c><00:18:39.280><c> problem</c><00:18:39.520><c> of</c>
+thinks about the much harder problem of
+thinks about the much harder problem of
+building<00:18:40.080><c> AI</c><00:18:40.400><c> systems</c><00:18:40.799><c> we</c><00:18:41.039><c> can</c><00:18:41.200><c> trust.</c><00:18:41.600><c> And</c><00:18:41.760><c> in</c>
+building AI systems we can trust. And in
+building AI systems we can trust. And in
+this<00:18:42.160><c> situation,</c><00:18:43.039><c> Anthropic</c><00:18:43.760><c> is</c><00:18:44.000><c> leading</c><00:18:44.320><c> the</c>
+this situation, Anthropic is leading the
+this situation, Anthropic is leading the
+charge.<00:18:44.960><c> And</c><00:18:45.120><c> I</c><00:18:45.360><c> think</c><00:18:45.600><c> the</c><00:18:45.919><c> rest</c><00:18:46.240><c> of</c><00:18:46.480><c> the</c>
+charge. And I think the rest of the
+charge. And I think the rest of the
+model<00:18:47.039><c> makers</c><00:18:47.440><c> are</c><00:18:47.679><c> going</c><00:18:47.760><c> to</c><00:18:47.919><c> start</c><00:18:48.080><c> to</c><00:18:48.320><c> have</c>
+model makers are going to start to have
+model makers are going to start to have
+to<00:18:48.640><c> catch</c><00:18:48.880><c> up</c><00:18:49.120><c> as</c><00:18:49.440><c> AI</c><00:18:49.840><c> systems</c><00:18:50.240><c> continue</c><00:18:50.720><c> to</c>
+to catch up as AI systems continue to
+to catch up as AI systems continue to
+scale<00:18:51.600><c> in</c><00:18:51.840><c> competence.</c><00:18:52.640><c> So</c><00:18:52.960><c> that's</c><00:18:53.200><c> why</c><00:18:53.360><c> the</c>
+scale in competence. So that's why the
+scale in competence. So that's why the
+constitution<00:18:54.160><c> matters.</c><00:18:54.480><c> You</c><00:18:54.720><c> can</c><00:18:54.799><c> forget</c>
+constitution matters. You can forget
+constitution matters. You can forget
+about<00:18:55.200><c> the</c><00:18:55.360><c> the</c><00:18:55.760><c> consciousness</c><00:18:56.480><c> conversation</c>
+about the the consciousness conversation
+about the the consciousness conversation
+that<00:18:57.280><c> just</c><00:18:57.440><c> grabs</c><00:18:57.760><c> headlines.</c><00:18:58.480><c> The</c><00:18:58.799><c> real</c>
+that just grabs headlines. The real
+that just grabs headlines. The real
+story<00:18:59.679><c> is</c><00:19:00.000><c> how</c><00:19:00.240><c> you</c><00:19:00.480><c> interact</c><00:19:00.880><c> with</c><00:19:01.120><c> Claude</c>
+story is how you interact with Claude
+story is how you interact with Claude
+and<00:19:01.600><c> how</c><00:19:01.760><c> that</c><00:19:02.000><c> changes</c><00:19:02.480><c> both</c><00:19:02.799><c> for</c><00:19:02.960><c> beginners</c>
+and how that changes both for beginners
+and how that changes both for beginners
+and<00:19:03.840><c> for</c><00:19:04.000><c> advanced</c><00:19:04.400><c> builders</c><00:19:04.720><c> tackling</c>
+and for advanced builders tackling
+and for advanced builders tackling
+agentic<00:19:05.679><c> systems.</c><00:19:06.320><c> Have</c><00:19:06.559><c> fun</c><00:19:06.720><c> out</c><00:19:06.880><c> there</c><00:19:07.039><c> and</c>
+agentic systems. Have fun out there and
+agentic systems. Have fun out there and
+uh<00:19:07.600><c> say</c><00:19:07.760><c> hi</c><00:19:07.919><c> to</c><00:19:08.000><c> Claude</c><00:19:08.320><c> for</c>

@@ -1,0 +1,2215 @@
+You<00:00:00.320><c> know,</c><00:00:00.480><c> a</c><00:00:00.719><c> few</c><00:00:00.880><c> days</c><00:00:01.040><c> ago</c><00:00:01.439><c> I</c><00:00:01.760><c> did</c><00:00:02.000><c> an</c><00:00:02.320><c> entire</c>
+You know, a few days ago I did an entire
+You know, a few days ago I did an entire
+piece<00:00:03.200><c> on</c><00:00:03.439><c> setting</c><00:00:03.679><c> up</c><00:00:03.919><c> digital</c><00:00:04.240><c> twins.</c><00:00:04.640><c> It</c>
+piece on setting up digital twins. It
+piece on setting up digital twins. It
+was<00:00:04.960><c> very</c><00:00:05.200><c> large.</c><00:00:05.680><c> I</c><00:00:05.920><c> think</c><00:00:06.000><c> I</c><00:00:06.240><c> wrote</c><00:00:06.400><c> a</c>
+was very large. I think I wrote a
+was very large. I think I wrote a
+hundred<00:00:06.960><c> some</c><00:00:07.200><c> page</c><00:00:07.440><c> guide</c><00:00:07.680><c> for</c><00:00:07.839><c> it.</c><00:00:08.240><c> The</c>
+hundred some page guide for it. The
+hundred some page guide for it. The
+point<00:00:08.639><c> is</c><00:00:09.120><c> people</c><00:00:09.440><c> took</c><00:00:09.679><c> it</c><00:00:09.840><c> and</c><00:00:10.080><c> said,</c><00:00:10.240><c> "This</c>
+point is people took it and said, "This
+point is people took it and said, "This
+looks<00:00:10.800><c> really</c><00:00:11.040><c> hard.</c><00:00:11.280><c> You</c><00:00:11.519><c> wrote</c><00:00:11.679><c> all</c><00:00:11.840><c> these</c>
+looks really hard. You wrote all these
+looks really hard. You wrote all these
+pages<00:00:12.400><c> for</c><00:00:12.559><c> it.</c><00:00:13.120><c> Help</c><00:00:13.360><c> me</c><00:00:13.679><c> figure</c><00:00:14.000><c> out</c><00:00:14.719><c> how</c><00:00:14.960><c> to</c>
+pages for it. Help me figure out how to
+pages for it. Help me figure out how to
+do<00:00:15.360><c> it</c><00:00:15.679><c> simply.</c><00:00:16.160><c> I</c><00:00:16.480><c> don't</c><00:00:16.640><c> have</c><00:00:16.800><c> an</c><00:00:17.039><c> enterprise</c>
+do it simply. I don't have an enterprise
+do it simply. I don't have an enterprise
+setup.<00:00:18.080><c> I'm</c><00:00:18.320><c> not</c><00:00:18.480><c> making</c><00:00:18.800><c> robots</c><00:00:19.359><c> learn</c><00:00:19.600><c> to</c>
+setup. I'm not making robots learn to
+setup. I'm not making robots learn to
+walk<00:00:20.000><c> in</c><00:00:20.240><c> a</c><00:00:20.400><c> warehouse.</c><00:00:21.279><c> This</c><00:00:21.439><c> is</c><00:00:21.520><c> not</c><00:00:21.680><c> a</c>
+walk in a warehouse. This is not a
+walk in a warehouse. This is not a
+Fortune<00:00:22.240><c> 500</c><00:00:22.720><c> company.</c><00:00:23.279><c> I</c><00:00:23.519><c> want</c><00:00:23.680><c> to</c><00:00:23.920><c> use</c>
+Fortune 500 company. I want to use
+Fortune 500 company. I want to use
+digital<00:00:24.640><c> twins</c><00:00:25.279><c> without</c><00:00:25.760><c> having</c><00:00:26.000><c> to</c><00:00:26.240><c> write</c>
+digital twins without having to write
+digital twins without having to write
+code."<00:00:27.039><c> And</c><00:00:27.279><c> I</c><00:00:27.519><c> took</c><00:00:27.840><c> that</c><00:00:28.160><c> as</c><00:00:28.560><c> a</c><00:00:28.880><c> personal</c>
+code." And I took that as a personal
+code." And I took that as a personal
+challenge.<00:00:30.080><c> And</c><00:00:30.240><c> so</c><00:00:30.800><c> what</c><00:00:31.039><c> we</c><00:00:31.199><c> are</c><00:00:31.439><c> going</c><00:00:31.519><c> to</c>
+challenge. And so what we are going to
+challenge. And so what we are going to
+work<00:00:31.920><c> through</c><00:00:32.239><c> today</c><00:00:32.960><c> is</c><00:00:33.280><c> an</c><00:00:33.600><c> actual</c><00:00:34.000><c> prompt</c>
+work through today is an actual prompt
+work through today is an actual prompt
+to<00:00:35.200><c> set</c><00:00:35.440><c> up</c><00:00:35.760><c> your</c><00:00:36.239><c> own</c><00:00:36.880><c> digital</c><00:00:37.520><c> twin</c>
+to set up your own digital twin
+to set up your own digital twin
+simulation.<00:00:38.960><c> We</c><00:00:39.200><c> have</c><00:00:39.280><c> a</c><00:00:39.440><c> couple</c><00:00:39.600><c> of</c><00:00:39.760><c> goals</c><00:00:40.000><c> as</c>
+simulation. We have a couple of goals as
+simulation. We have a couple of goals as
+we<00:00:40.320><c> work</c><00:00:40.480><c> through</c><00:00:40.640><c> this</c><00:00:40.879><c> prompt.</c><00:00:41.200><c> We</c><00:00:41.360><c> want</c><00:00:41.520><c> to</c>
+we work through this prompt. We want to
+we work through this prompt. We want to
+understand<00:00:42.399><c> first</c><00:00:42.800><c> how</c><00:00:42.960><c> the</c><00:00:43.200><c> prompt</c>
+understand first how the prompt
+understand first how the prompt
+functions.<00:00:44.320><c> It's</c><00:00:44.559><c> another</c><00:00:44.800><c> one</c><00:00:44.960><c> of</c><00:00:45.040><c> those</c>
+functions. It's another one of those
+functions. It's another one of those
+system<00:00:45.680><c> level</c><00:00:45.920><c> prompts.</c><00:00:46.320><c> So</c><00:00:46.480><c> it</c><00:00:46.640><c> actually</c>
+system level prompts. So it actually
+system level prompts. So it actually
+walks<00:00:47.360><c> through</c><00:00:47.600><c> an</c><00:00:47.920><c> entire</c><00:00:48.879><c> process</c><00:00:49.440><c> or</c><00:00:49.760><c> flow.</c>
+walks through an entire process or flow.
+walks through an entire process or flow.
+It<00:00:50.719><c> creates</c><00:00:51.280><c> a</c><00:00:51.600><c> scenario</c><00:00:52.239><c> and</c><00:00:52.399><c> then</c><00:00:52.559><c> it</c><00:00:52.719><c> walks</c>
+It creates a scenario and then it walks
+It creates a scenario and then it walks
+you<00:00:53.199><c> directly</c><00:00:53.520><c> through</c><00:00:53.760><c> it</c><00:00:53.920><c> all</c><00:00:54.079><c> in</c><00:00:54.320><c> one</c>
+you directly through it all in one
+you directly through it all in one
+prompt.<00:00:54.879><c> And</c><00:00:55.039><c> we'll</c><00:00:55.199><c> see</c><00:00:55.360><c> how</c><00:00:55.520><c> it</c><00:00:55.760><c> works.</c><00:00:56.239><c> The</c>
+prompt. And we'll see how it works. The
+prompt. And we'll see how it works. The
+second<00:00:56.719><c> thing</c><00:00:56.879><c> I</c><00:00:57.039><c> want</c><00:00:57.120><c> to</c><00:00:57.199><c> do</c><00:00:57.360><c> is</c><00:00:57.520><c> I</c><00:00:57.680><c> want</c><00:00:57.840><c> to</c>
+second thing I want to do is I want to
+second thing I want to do is I want to
+show<00:00:58.160><c> you</c><00:00:58.480><c> some</c><00:00:58.800><c> of</c><00:00:58.879><c> how</c><00:00:59.120><c> it</c><00:00:59.280><c> works</c><00:00:59.520><c> with</c>
+show you some of how it works with
+show you some of how it works with
+actual<00:01:00.480><c> real</c><00:01:00.960><c> conversations</c><00:01:01.680><c> that</c><00:01:01.920><c> I</c><00:01:02.079><c> had</c>
+actual real conversations that I had
+actual real conversations that I had
+using<00:01:02.719><c> that</c><00:01:03.039><c> prompt</c><00:01:03.440><c> and</c><00:01:03.600><c> we'll</c><00:01:03.840><c> walk</c><00:01:04.080><c> through</c>
+using that prompt and we'll walk through
+using that prompt and we'll walk through
+them.<00:01:04.799><c> You'll</c><00:01:05.040><c> get</c><00:01:05.920><c> both</c><00:01:06.479><c> a</c><00:01:06.880><c> salary</c>
+them. You'll get both a salary
+them. You'll get both a salary
+negotiation<00:01:08.000><c> conversation</c><00:01:08.640><c> because</c>
+negotiation conversation because
+negotiation conversation because
+sometimes<00:01:09.280><c> we</c><00:01:09.439><c> want</c><00:01:09.600><c> to</c><00:01:09.680><c> game</c><00:01:09.920><c> those</c><00:01:10.159><c> in</c>
+sometimes we want to game those in
+sometimes we want to game those in
+advance<00:01:10.799><c> and</c><00:01:11.040><c> you'll</c><00:01:11.360><c> also</c><00:01:11.680><c> get</c><00:01:12.080><c> a</c><00:01:12.400><c> classic</c>
+advance and you'll also get a classic
+advance and you'll also get a classic
+like<00:01:13.119><c> product</c><00:01:13.439><c> approval</c><00:01:13.920><c> conversation</c><00:01:14.400><c> to</c>
+like product approval conversation to
+like product approval conversation to
+give<00:01:14.720><c> you</c><00:01:14.880><c> a</c><00:01:15.040><c> sense</c><00:01:15.119><c> of</c><00:01:15.360><c> office</c><00:01:15.680><c> politics</c><00:01:16.080><c> and</c>
+give you a sense of office politics and
+give you a sense of office politics and
+how<00:01:16.479><c> it</c><00:01:16.720><c> simulates</c><00:01:17.280><c> office</c><00:01:17.680><c> politics.</c><00:01:18.560><c> It's</c>
+how it simulates office politics. It's
+how it simulates office politics. It's
+interesting<00:01:19.759><c> to</c><00:01:20.080><c> see</c><00:01:20.880><c> how</c><00:01:21.280><c> different</c><00:01:21.840><c> models</c>
+interesting to see how different models
+interesting to see how different models
+affect<00:01:23.439><c> this</c><00:01:23.759><c> simulation.</c><00:01:24.479><c> And</c><00:01:24.720><c> for</c><00:01:25.040><c> just</c><00:01:25.280><c> one</c>
+affect this simulation. And for just one
+affect this simulation. And for just one
+more<00:01:25.759><c> wrinkle,</c><00:01:26.240><c> I'm</c><00:01:26.479><c> going</c><00:01:26.560><c> to</c><00:01:26.720><c> give</c><00:01:26.960><c> you</c><00:01:27.119><c> a</c>
+more wrinkle, I'm going to give you a
+more wrinkle, I'm going to give you a
+sense<00:01:28.080><c> of</c><00:01:28.320><c> how</c><00:01:28.560><c> chat</c><00:01:28.960><c> GPT40</c>
+sense of how chat GPT40
+sense of how chat GPT40
+compares<00:01:31.520><c> to</c><00:01:31.680><c> chat</c><00:01:32.079><c> GPT</c><00:01:32.880><c> 03</c><00:01:34.000><c> handling</c><00:01:34.479><c> this</c>
+compares to chat GPT 03 handling this
+compares to chat GPT 03 handling this
+prompt<00:01:35.040><c> and</c><00:01:35.200><c> running</c><00:01:35.439><c> the</c><00:01:35.600><c> simulation.</c><00:01:36.240><c> This</c>
+prompt and running the simulation. This
+prompt and running the simulation. This
+is<00:01:36.560><c> actually</c><00:01:36.799><c> one</c><00:01:36.960><c> of</c><00:01:37.040><c> the</c><00:01:37.280><c> clearest</c><00:01:37.759><c> examples</c>
+is actually one of the clearest examples
+is actually one of the clearest examples
+I've<00:01:38.799><c> seen</c><00:01:39.360><c> of</c><00:01:39.680><c> the</c><00:01:40.079><c> practical</c><00:01:41.439><c> realworld</c>
+I've seen of the practical realworld
+I've seen of the practical realworld
+differences<00:01:43.439><c> between</c><00:01:43.840><c> those</c><00:01:44.159><c> two</c><00:01:44.400><c> models.</c><00:01:45.040><c> So</c>
+differences between those two models. So
+differences between those two models. So
+with<00:01:45.759><c> that,</c><00:01:46.320><c> let's</c><00:01:46.560><c> get</c><00:01:46.720><c> to</c><00:01:46.880><c> the</c><00:01:46.960><c> prompt.</c>
+with that, let's get to the prompt.
+with that, let's get to the prompt.
+Okay,<00:01:47.759><c> here</c><00:01:48.000><c> we</c><00:01:48.159><c> have</c><00:01:48.240><c> the</c><00:01:48.479><c> digital</c><00:01:48.960><c> twin</c>
+Okay, here we have the digital twin
+Okay, here we have the digital twin
+stakeholder<00:01:50.079><c> prompt</c><00:01:50.399><c> that</c><00:01:50.560><c> I</c><00:01:50.799><c> constructed.</c><00:01:51.439><c> I</c>
+stakeholder prompt that I constructed. I
+stakeholder prompt that I constructed. I
+helpfully<00:01:52.240><c> named</c><00:01:52.560><c> it</c><00:01:52.880><c> V2</c><00:01:53.840><c> because</c><00:01:54.240><c> it</c><00:01:54.479><c> took</c>
+helpfully named it V2 because it took
+helpfully named it V2 because it took
+multiple<00:01:55.119><c> iterations</c><00:01:55.600><c> to</c><00:01:55.840><c> get</c><00:01:55.920><c> this</c><00:01:56.079><c> prompt</c>
+multiple iterations to get this prompt
+multiple iterations to get this prompt
+working<00:01:56.720><c> and</c><00:01:56.880><c> I</c><00:01:57.040><c> want</c><00:01:57.119><c> to</c><00:01:57.280><c> walk</c><00:01:57.600><c> through</c><00:01:57.920><c> how</c>
+working and I want to walk through how
+working and I want to walk through how
+it<00:01:58.399><c> functions.</c><00:01:59.040><c> As</c><00:01:59.360><c> before,</c><00:01:59.759><c> I</c><00:01:59.920><c> am</c><00:02:00.159><c> running</c>
+it functions. As before, I am running
+it functions. As before, I am running
+this<00:02:00.960><c> in</c><00:02:01.280><c> the</c><00:02:01.600><c> web</c><00:02:01.840><c> browser</c><00:02:02.399><c> comet</c><00:02:02.880><c> with</c><00:02:03.040><c> the</c>
+this in the web browser comet with the
+this in the web browser comet with the
+handy<00:02:03.680><c> assistant</c><00:02:04.240><c> pulled</c><00:02:04.479><c> up.</c><00:02:04.640><c> I</c><00:02:04.880><c> had</c><00:02:04.960><c> a</c><00:02:05.119><c> few</c>
+handy assistant pulled up. I had a few
+handy assistant pulled up. I had a few
+questions<00:02:05.520><c> when</c><00:02:05.759><c> I</c><00:02:05.920><c> did</c><00:02:06.000><c> this</c><00:02:06.159><c> last</c><00:02:06.399><c> time,</c><00:02:06.560><c> so</c>
+questions when I did this last time, so
+questions when I did this last time, so
+just<00:02:06.960><c> so</c><00:02:07.119><c> you</c><00:02:07.280><c> know,</c><00:02:07.920><c> this</c><00:02:08.160><c> is</c><00:02:08.319><c> the</c><00:02:08.959><c> Perplexity</c>
+just so you know, this is the Perplexity
+just so you know, this is the Perplexity
+web<00:02:09.840><c> browser</c><00:02:10.239><c> and</c><00:02:10.399><c> that's</c><00:02:10.640><c> an</c><00:02:10.800><c> AI</c><00:02:11.120><c> assistant</c>
+web browser and that's an AI assistant
+web browser and that's an AI assistant
+that<00:02:11.840><c> Perplexity</c><00:02:12.480><c> launches</c><00:02:12.879><c> with</c><00:02:13.120><c> the</c>
+that Perplexity launches with the
+that Perplexity launches with the
+browser.<00:02:13.840><c> I</c><00:02:14.000><c> find</c><00:02:14.160><c> it</c><00:02:14.319><c> useful.</c><00:02:14.640><c> I</c><00:02:14.800><c> did</c><00:02:14.879><c> a</c><00:02:15.040><c> write</c>
+browser. I find it useful. I did a write
+browser. I find it useful. I did a write
+up<00:02:15.360><c> on</c><00:02:15.520><c> it.</c><00:02:15.760><c> Uh,</c><00:02:16.000><c> and</c><00:02:16.239><c> I</c><00:02:16.480><c> find</c><00:02:16.560><c> it</c><00:02:16.800><c> really</c>
+up on it. Uh, and I find it really
+up on it. Uh, and I find it really
+helpful<00:02:17.200><c> in</c><00:02:17.440><c> situations</c><00:02:17.840><c> like</c><00:02:18.000><c> this</c><00:02:18.160><c> where</c>
+helpful in situations like this where
+helpful in situations like this where
+I'm<00:02:18.560><c> trying</c><00:02:18.800><c> to</c><00:02:18.959><c> understand</c><00:02:19.520><c> what</c><00:02:19.760><c> is</c><00:02:19.920><c> going</c>
+I'm trying to understand what is going
+I'm trying to understand what is going
+on<00:02:20.239><c> with</c><00:02:20.400><c> a</c><00:02:20.800><c> complicated</c><00:02:21.360><c> page.</c><00:02:21.920><c> So,</c><00:02:22.400><c> as</c><00:02:22.640><c> you</c>
+on with a complicated page. So, as you
+on with a complicated page. So, as you
+can<00:02:22.879><c> see,</c><00:02:23.360><c> the</c><00:02:23.599><c> prompt</c><00:02:23.840><c> as</c><00:02:24.000><c> a</c><00:02:24.160><c> whole</c><00:02:24.319><c> is</c><00:02:24.480><c> quite</c>
+can see, the prompt as a whole is quite
+can see, the prompt as a whole is quite
+large.<00:02:24.959><c> I</c><00:02:25.120><c> will</c><00:02:25.200><c> just</c><00:02:25.360><c> scroll</c><00:02:25.599><c> to</c><00:02:25.760><c> the</c><00:02:25.920><c> end</c><00:02:26.000><c> of</c>
+large. I will just scroll to the end of
+large. I will just scroll to the end of
+the<00:02:26.160><c> prompt</c><00:02:26.480><c> and</c><00:02:26.640><c> you'll</c><00:02:26.879><c> sort</c><00:02:27.040><c> of</c><00:02:27.120><c> start</c><00:02:27.280><c> to</c>
+the prompt and you'll sort of start to
+the prompt and you'll sort of start to
+see,<00:02:27.680><c> wow,</c><00:02:28.000><c> there's</c><00:02:28.239><c> a</c><00:02:28.400><c> lot</c><00:02:28.480><c> here.</c><00:02:28.879><c> So,</c><00:02:29.120><c> let's</c>
+see, wow, there's a lot here. So, let's
+see, wow, there's a lot here. So, let's
+get<00:02:29.520><c> into</c><00:02:29.760><c> it</c><00:02:30.160><c> piece</c><00:02:30.720><c> by</c><00:02:31.120><c> piece.</c><00:02:32.239><c> First,</c><00:02:32.879><c> we</c>
+get into it piece by piece. First, we
+get into it piece by piece. First, we
+set<00:02:33.280><c> the</c><00:02:33.519><c> role.</c><00:02:34.000><c> This</c><00:02:34.160><c> is</c><00:02:34.319><c> not</c><00:02:34.560><c> surprising.</c><00:02:35.040><c> I</c>
+set the role. This is not surprising. I
+set the role. This is not surprising. I
+think<00:02:35.280><c> I've</c><00:02:35.519><c> talked</c><00:02:35.680><c> before</c><00:02:35.920><c> about</c><00:02:36.160><c> the</c><00:02:36.319><c> idea</c>
+think I've talked before about the idea
+think I've talked before about the idea
+that<00:02:36.720><c> you're</c><00:02:36.959><c> setting</c><00:02:37.200><c> the</c><00:02:37.360><c> role</c><00:02:37.920><c> as</c><00:02:38.160><c> a</c><00:02:38.319><c> way</c><00:02:38.400><c> of</c>
+that you're setting the role as a way of
+that you're setting the role as a way of
+invoking<00:02:39.040><c> a</c><00:02:39.200><c> particular</c><00:02:39.599><c> semantic</c><00:02:40.160><c> space.</c>
+invoking a particular semantic space.
+invoking a particular semantic space.
+And<00:02:40.720><c> next,</c><00:02:41.040><c> you</c><00:02:41.200><c> define</c><00:02:41.440><c> the</c><00:02:41.680><c> mission.</c><00:02:42.000><c> In</c>
+And next, you define the mission. In
+And next, you define the mission. In
+this<00:02:42.319><c> case,</c><00:02:42.480><c> we</c><00:02:42.640><c> have</c><00:02:42.720><c> a</c><00:02:42.959><c> four-part</c><00:02:43.519><c> mission.</c>
+this case, we have a four-part mission.
+this case, we have a four-part mission.
+This<00:02:44.160><c> is</c><00:02:44.319><c> part</c><00:02:44.480><c> of</c><00:02:44.640><c> why</c><00:02:45.280><c> you'll</c><00:02:45.599><c> see</c><00:02:45.840><c> better</c>
+This is part of why you'll see better
+This is part of why you'll see better
+performance<00:02:46.640><c> out</c><00:02:46.879><c> of</c><00:02:47.040><c> 03</c><00:02:47.599><c> than</c><00:02:47.920><c> 40</c><00:02:48.400><c> when</c><00:02:48.560><c> we</c>
+performance out of 03 than 40 when we
+performance out of 03 than 40 when we
+get<00:02:48.879><c> later</c><00:02:49.120><c> into</c><00:02:49.440><c> this</c><00:02:49.599><c> video.</c><00:02:50.239><c> Number</c><00:02:50.480><c> one,</c>
+get later into this video. Number one,
+get later into this video. Number one,
+get<00:02:51.280><c> the</c><00:02:51.519><c> information</c><00:02:51.920><c> out</c><00:02:52.160><c> of</c><00:02:52.319><c> me</c><00:02:52.640><c> to</c><00:02:52.959><c> figure</c>
+get the information out of me to figure
+get the information out of me to figure
+out<00:02:53.440><c> what</c><00:02:54.319><c> what</c><00:02:54.640><c> is</c><00:02:54.800><c> needed</c><00:02:55.120><c> for</c><00:02:55.280><c> a</c><00:02:55.519><c> realistic</c>
+out what what is needed for a realistic
+out what what is needed for a realistic
+multistakeholder<00:02:56.879><c> negotiation</c><00:02:57.680><c> in</c><00:02:58.080><c> my</c>
+multistakeholder negotiation in my
+multistakeholder negotiation in my
+situation<00:02:59.040><c> because</c><00:02:59.360><c> this</c><00:02:59.599><c> is</c><00:02:59.760><c> not</c><00:03:00.000><c> a</c><00:03:00.319><c> specific</c>
+situation because this is not a specific
+situation because this is not a specific
+prompt<00:03:01.200><c> for</c><00:03:01.440><c> compensation</c><00:03:02.159><c> negotiation.</c><00:03:03.200><c> It</c>
+prompt for compensation negotiation. It
+prompt for compensation negotiation. It
+is<00:03:03.599><c> a</c><00:03:04.239><c> super</c><00:03:04.560><c> prompt</c><00:03:05.200><c> that</c><00:03:05.519><c> actually</c><00:03:05.680><c> helps</c>
+is a super prompt that actually helps
+is a super prompt that actually helps
+you<00:03:06.080><c> to</c><00:03:06.239><c> set</c><00:03:06.400><c> up</c><00:03:06.560><c> whatever</c><00:03:06.879><c> simulation</c><00:03:07.440><c> you</c>
+you to set up whatever simulation you
+you to set up whatever simulation you
+want<00:03:07.920><c> to</c><00:03:08.080><c> run.</c><00:03:08.480><c> Second,</c><00:03:08.879><c> ask</c><00:03:09.200><c> only</c><00:03:09.440><c> one</c>
+want to run. Second, ask only one
+want to run. Second, ask only one
+question<00:03:10.000><c> at</c><00:03:10.239><c> a</c><00:03:10.400><c> time.</c><00:03:10.640><c> I</c><00:03:10.959><c> find</c><00:03:11.120><c> it</c><00:03:11.440><c> so</c>
+question at a time. I find it so
+question at a time. I find it so
+overwhelming<00:03:12.400><c> when</c><00:03:12.720><c> LLM's</c><00:03:13.280><c> ask</c><00:03:13.440><c> too</c><00:03:13.599><c> many</c>
+overwhelming when LLM's ask too many
+overwhelming when LLM's ask too many
+questions.<00:03:14.080><c> So</c><00:03:14.239><c> I</c><00:03:14.319><c> I</c><00:03:14.560><c> tend</c><00:03:14.720><c> to</c><00:03:14.879><c> include</c><00:03:15.120><c> that.</c>
+questions. So I I tend to include that.
+questions. So I I tend to include that.
+Third,<00:03:16.159><c> confirm</c><00:03:16.560><c> the</c><00:03:16.800><c> answer.</c><00:03:17.440><c> And</c><00:03:17.599><c> then</c>
+Third, confirm the answer. And then
+Third, confirm the answer. And then
+fourth,<00:03:18.159><c> when</c><00:03:18.400><c> the</c><00:03:18.640><c> answers</c><00:03:18.959><c> are</c><00:03:19.120><c> gathered.</c>
+fourth, when the answers are gathered.
+fourth, when the answers are gathered.
+And<00:03:20.000><c> now</c><00:03:20.159><c> we</c><00:03:20.319><c> get</c><00:03:20.480><c> into</c><00:03:20.640><c> the</c><00:03:20.800><c> heart</c><00:03:20.959><c> of</c><00:03:21.040><c> it.</c><00:03:21.519><c> You</c>
+And now we get into the heart of it. You
+And now we get into the heart of it. You
+need<00:03:21.840><c> to</c><00:03:22.080><c> generate</c><00:03:22.560><c> a</c><00:03:22.879><c> runnable</c><00:03:23.360><c> simulation</c>
+need to generate a runnable simulation
+need to generate a runnable simulation
+prompt<00:03:24.400><c> that</c><00:03:24.640><c> embeds</c><00:03:25.200><c> every</c><00:03:25.599><c> confirmed</c>
+prompt that embeds every confirmed
+prompt that embeds every confirmed
+detail,<00:03:26.959><c> contains</c><00:03:27.680><c> inline</c><00:03:28.159><c> data</c><00:03:28.560><c> tables</c><00:03:29.040><c> if</c>
+detail, contains inline data tables if
+detail, contains inline data tables if
+the<00:03:29.440><c> user</c><00:03:29.680><c> has</c><00:03:29.920><c> not</c><00:03:30.080><c> provided</c><00:03:30.480><c> external</c>
+the user has not provided external
+the user has not provided external
+files,<00:03:31.200><c> but</c><00:03:31.440><c> you</c><00:03:31.599><c> can,</c><00:03:32.080><c> and</c><00:03:32.319><c> includes</c><00:03:32.879><c> clear</c>
+files, but you can, and includes clear
+files, but you can, and includes clear
+output<00:03:33.680><c> rules,</c><00:03:34.159><c> and</c><00:03:34.319><c> a</c><00:03:34.480><c> begin</c><00:03:34.799><c> delimter.</c><00:03:35.440><c> And</c>
+output rules, and a begin delimter. And
+output rules, and a begin delimter. And
+then<00:03:35.840><c> five,</c>
+then five,
+then five,
+write<00:03:37.920><c> the</c><00:03:38.080><c> prompt</c><00:03:38.400><c> out</c><00:03:38.560><c> as</c><00:03:38.720><c> plain</c><00:03:39.040><c> text</c><00:03:39.360><c> and</c>
+write the prompt out as plain text and
+write the prompt out as plain text and
+immediately<00:03:40.239><c> transition</c><00:03:40.720><c> into</c><00:03:40.959><c> simulation</c>
+immediately transition into simulation
+immediately transition into simulation
+mode.<00:03:41.760><c> One</c><00:03:41.840><c> of</c><00:03:42.159><c> this</c><00:03:42.400><c> was</c><00:03:42.560><c> actually</c><00:03:42.799><c> one</c><00:03:43.040><c> of</c>
+mode. One of this was actually one of
+mode. One of this was actually one of
+the<00:03:43.360><c> reasons</c><00:03:43.680><c> that</c><00:03:43.920><c> I</c><00:03:44.080><c> went</c><00:03:44.239><c> to</c><00:03:44.400><c> V2</c><00:03:44.879><c> is</c><00:03:45.120><c> because</c>
+the reasons that I went to V2 is because
+the reasons that I went to V2 is because
+I<00:03:45.519><c> found</c><00:03:45.760><c> when</c><00:03:45.920><c> I</c><00:03:46.159><c> was</c><00:03:46.239><c> playing</c><00:03:46.480><c> with</c><00:03:46.720><c> this</c>
+I found when I was playing with this
+I found when I was playing with this
+prompt<00:03:47.200><c> and</c><00:03:47.440><c> working</c><00:03:47.680><c> with</c><00:03:47.840><c> it,</c><00:03:48.080><c> it</c><00:03:48.319><c> is</c>
+prompt and working with it, it is
+prompt and working with it, it is
+difficult<00:03:49.040><c> to</c><00:03:49.280><c> get</c><00:03:49.440><c> the</c><00:03:49.680><c> AI</c><00:03:50.080><c> to</c><00:03:50.400><c> reliably</c><00:03:51.200><c> go</c>
+difficult to get the AI to reliably go
+difficult to get the AI to reliably go
+from<00:03:52.159><c> I'm</c><00:03:52.480><c> learning</c><00:03:52.879><c> about</c><00:03:53.120><c> you</c><00:03:53.360><c> and</c>
+from I'm learning about you and
+from I'm learning about you and
+gathering<00:03:54.159><c> information</c><00:03:55.440><c> to</c><00:03:56.239><c> okay,</c><00:03:56.640><c> we've</c><00:03:56.879><c> got</c>
+gathering information to okay, we've got
+gathering information to okay, we've got
+the<00:03:57.280><c> information.</c><00:03:58.239><c> Now,</c><00:03:58.480><c> it's</c><00:03:58.720><c> time</c><00:03:58.799><c> to</c>
+the information. Now, it's time to
+the information. Now, it's time to
+actually<00:03:59.280><c> run</c><00:03:59.519><c> the</c><00:03:59.760><c> simulation</c><00:04:00.319><c> and</c><00:04:00.640><c> be</c><00:04:00.959><c> a</c>
+actually run the simulation and be a
+actually run the simulation and be a
+digital<00:04:01.599><c> twin.</c><00:04:01.920><c> In</c><00:04:02.080><c> this</c><00:04:02.239><c> case,</c><00:04:02.480><c> multiple</c>
+digital twin. In this case, multiple
+digital twin. In this case, multiple
+digital<00:04:03.360><c> twins.</c><00:04:03.920><c> So</c><00:04:04.159><c> far</c><00:04:04.400><c> so</c><00:04:04.640><c> good.</c><00:04:05.040><c> And</c>
+digital twins. So far so good. And
+digital twins. So far so good. And
+what's<00:04:05.599><c> interesting</c><00:04:05.920><c> is</c><00:04:07.200><c> when</c><00:04:07.439><c> you</c><00:04:07.680><c> get</c><00:04:07.920><c> to</c>
+what's interesting is when you get to
+what's interesting is when you get to
+the<00:04:09.120><c> the</c><00:04:09.680><c> end</c><00:04:09.840><c> of</c><00:04:10.000><c> the</c><00:04:10.239><c> prompt,</c><00:04:10.879><c> it</c>
+the the end of the prompt, it
+the the end of the prompt, it
+immediately<00:04:11.920><c> invokes</c>
+immediately invokes
+immediately invokes
+it<00:04:15.040><c> immediately</c><00:04:15.599><c> invokes</c><00:04:16.400><c> the</c><00:04:16.720><c> twins.</c><00:04:17.280><c> And</c><00:04:17.440><c> so</c>
+it immediately invokes the twins. And so
+it immediately invokes the twins. And so
+we'll<00:04:17.840><c> get</c><00:04:18.000><c> down</c><00:04:18.160><c> here</c><00:04:18.320><c> and</c><00:04:18.560><c> see</c><00:04:18.639><c> what</c><00:04:18.880><c> this</c>
+we'll get down here and see what this
+we'll get down here and see what this
+means.<00:04:19.359><c> But</c><00:04:19.440><c> I</c><00:04:19.600><c> want</c><00:04:19.680><c> you</c><00:04:19.919><c> to</c><00:04:20.079><c> see</c><00:04:20.320><c> the</c>
+means. But I want you to see the
+means. But I want you to see the
+connection<00:04:21.199><c> between</c><00:04:21.759><c> five</c><00:04:22.240><c> where</c><00:04:22.400><c> we</c><00:04:22.639><c> talk</c>
+connection between five where we talk
+connection between five where we talk
+about<00:04:23.040><c> what</c><00:04:23.199><c> we</c><00:04:23.440><c> want</c><00:04:23.520><c> the</c><00:04:23.680><c> twins</c><00:04:24.000><c> to</c><00:04:24.160><c> be</c><00:04:24.560><c> and</c>
+about what we want the twins to be and
+about what we want the twins to be and
+the<00:04:24.960><c> end</c><00:04:25.120><c> here</c><00:04:25.360><c> where</c><00:04:25.600><c> we</c><00:04:25.759><c> talk</c><00:04:25.919><c> about</c><00:04:26.080><c> each</c>
+the end here where we talk about each
+the end here where we talk about each
+twin's<00:04:26.800><c> opening</c><00:04:27.040><c> statement.</c><00:04:27.440><c> And</c><00:04:27.600><c> that's</c><00:04:27.759><c> the</c>
+twin's opening statement. And that's the
+twin's opening statement. And that's the
+way<00:04:28.160><c> you</c><00:04:28.400><c> begin.</c><00:04:28.880><c> because</c><00:04:29.199><c> this</c><00:04:29.520><c> ties</c><00:04:30.400><c> this</c>
+way you begin. because this ties this
+way you begin. because this ties this
+ties<00:04:31.280><c> the</c><00:04:31.600><c> tokens</c><00:04:32.160><c> back</c><00:04:32.720><c> when</c><00:04:33.120><c> the</c><00:04:33.360><c> LLM</c><00:04:33.840><c> is</c>
+ties the tokens back when the LLM is
+ties the tokens back when the LLM is
+reading<00:04:34.320><c> this</c><00:04:34.560><c> prompt</c><00:04:35.280><c> so</c><00:04:35.440><c> that</c><00:04:35.600><c> it</c><00:04:35.840><c> knows</c>
+reading this prompt so that it knows
+reading this prompt so that it knows
+okay<00:04:36.960><c> we</c><00:04:37.120><c> have</c><00:04:37.199><c> to</c><00:04:37.360><c> remain</c><00:04:37.680><c> in</c><00:04:37.840><c> character</c>
+okay we have to remain in character
+okay we have to remain in character
+opening<00:04:38.880><c> statements</c><00:04:39.280><c> of</c><00:04:39.440><c> every</c><00:04:39.680><c> twin</c><00:04:40.000><c> I</c><00:04:40.160><c> see</c>
+opening statements of every twin I see
+opening statements of every twin I see
+that<00:04:40.560><c> back</c><00:04:40.800><c> here</c><00:04:41.280><c> it's</c><00:04:41.600><c> like</c><00:04:41.759><c> we're</c><00:04:42.000><c> doing</c>
+that back here it's like we're doing
+that back here it's like we're doing
+this<00:04:42.560><c> memory</c><00:04:42.960><c> management</c><00:04:43.440><c> across</c><00:04:43.840><c> a</c><00:04:44.080><c> larger</c>
+this memory management across a larger
+this memory management across a larger
+prompt<00:04:44.720><c> and</c><00:04:44.960><c> this</c><00:04:45.040><c> is</c><00:04:45.280><c> a</c><00:04:45.600><c> great</c><00:04:45.840><c> example</c><00:04:46.160><c> of</c>
+prompt and this is a great example of
+prompt and this is a great example of
+how<00:04:46.479><c> that</c><00:04:46.720><c> can</c><00:04:46.880><c> work</c><00:04:47.440><c> okay</c><00:04:48.000><c> now</c><00:04:48.320><c> the</c><00:04:48.560><c> LLM</c><00:04:49.040><c> at</c>
+how that can work okay now the LLM at
+how that can work okay now the LLM at
+this<00:04:49.440><c> point</c><00:04:49.680><c> would</c><00:04:50.000><c> still</c><00:04:50.240><c> not</c><00:04:50.479><c> have</c><00:04:50.880><c> all</c><00:04:51.120><c> that</c>
+this point would still not have all that
+this point would still not have all that
+it<00:04:51.520><c> needs</c><00:04:52.160><c> to</c><00:04:52.479><c> run</c><00:04:52.800><c> so</c><00:04:53.120><c> let's</c><00:04:53.280><c> get</c><00:04:53.440><c> to</c><00:04:53.600><c> the</c>
+it needs to run so let's get to the
+it needs to run so let's get to the
+question<00:04:54.160><c> script</c><00:04:54.639><c> because</c><00:04:54.880><c> we</c><00:04:55.120><c> need</c>
+question script because we need
+question script because we need
+something<00:04:55.680><c> that</c><00:04:55.919><c> gets</c><00:04:56.320><c> information</c><00:04:57.120><c> out</c><00:04:57.360><c> of</c>
+something that gets information out of
+something that gets information out of
+you<00:04:58.400><c> one</c><00:04:58.639><c> at</c><00:04:58.800><c> a</c><00:04:58.960><c> time.</c><00:04:59.280><c> The</c><00:04:59.600><c> obvious</c><00:04:59.919><c> first</c>
+you one at a time. The obvious first
+you one at a time. The obvious first
+one,<00:05:00.400><c> what</c><00:05:00.639><c> situation</c><00:05:01.120><c> are</c><00:05:01.280><c> we</c><00:05:01.520><c> negotiating?</c>
+one, what situation are we negotiating?
+one, what situation are we negotiating?
+List<00:05:02.800><c> the</c><00:05:03.040><c> participants.</c><00:05:03.600><c> None</c><00:05:03.759><c> of</c><00:05:03.919><c> these</c><00:05:04.080><c> are</c>
+List the participants. None of these are
+List the participants. None of these are
+super<00:05:04.560><c> surprising.</c><00:05:05.199><c> List</c><00:05:05.520><c> the</c><00:05:05.759><c> success</c>
+super surprising. List the success
+super surprising. List the success
+metrics<00:05:06.479><c> or</c><00:05:06.720><c> how</c><00:05:06.880><c> you</c><00:05:07.120><c> characterize</c><00:05:07.520><c> a</c><00:05:07.759><c> win.</c>
+metrics or how you characterize a win.
+metrics or how you characterize a win.
+What<00:05:08.720><c> twin</c><00:05:09.120><c> will</c><00:05:09.440><c> you</c><00:05:09.759><c> play?</c><00:05:10.160><c> And</c><00:05:10.320><c> by</c><00:05:10.560><c> the</c><00:05:10.639><c> way,</c>
+What twin will you play? And by the way,
+What twin will you play? And by the way,
+this<00:05:11.360><c> works</c><00:05:12.320><c> even</c><00:05:12.560><c> if</c><00:05:12.720><c> you</c><00:05:12.960><c> don't</c><00:05:13.039><c> want</c><00:05:13.199><c> to</c>
+this works even if you don't want to
+this works even if you don't want to
+play<00:05:13.440><c> a</c><00:05:13.600><c> twin.</c><00:05:13.919><c> So,</c><00:05:14.000><c> if</c><00:05:14.160><c> you</c><00:05:14.320><c> just</c><00:05:14.479><c> want</c><00:05:14.560><c> to</c><00:05:14.800><c> see</c>
+play a twin. So, if you just want to see
+play a twin. So, if you just want to see
+the<00:05:15.199><c> LLM</c><00:05:15.840><c> game</c><00:05:16.080><c> it</c><00:05:16.320><c> out</c><00:05:16.479><c> and</c><00:05:16.720><c> read</c><00:05:16.880><c> the</c><00:05:17.120><c> script,</c>
+the LLM game it out and read the script,
+the LLM game it out and read the script,
+you<00:05:17.919><c> can</c><00:05:18.000><c> say,</c><00:05:18.160><c> "I</c><00:05:18.400><c> won't</c><00:05:18.639><c> play</c><00:05:18.800><c> any</c><00:05:19.039><c> of</c><00:05:19.120><c> the</c>
+you can say, "I won't play any of the
+you can say, "I won't play any of the
+twins.<00:05:19.680><c> You're</c><00:05:19.919><c> playing</c><00:05:20.080><c> them</c><00:05:20.320><c> all."</c><00:05:20.639><c> And</c><00:05:20.720><c> it</c>
+twins. You're playing them all." And it
+twins. You're playing them all." And it
+will.<00:05:21.360><c> How</c><00:05:21.600><c> many</c><00:05:21.759><c> turns</c><00:05:22.080><c> before</c><00:05:22.479><c> timeout?</c><00:05:22.880><c> So,</c>
+will. How many turns before timeout? So,
+will. How many turns before timeout? So,
+this<00:05:23.199><c> is</c><00:05:23.280><c> framed</c><00:05:23.600><c> as</c><00:05:23.759><c> a</c><00:05:23.919><c> multi-turn</c>
+this is framed as a multi-turn
+this is framed as a multi-turn
+conversation.<00:05:25.360><c> And</c><00:05:25.520><c> so</c><00:05:25.600><c> you</c><00:05:25.759><c> can</c><00:05:25.919><c> say</c><00:05:26.080><c> three,</c>
+conversation. And so you can say three,
+conversation. And so you can say three,
+you<00:05:26.639><c> can</c><00:05:26.720><c> say</c><00:05:26.960><c> six,</c><00:05:27.280><c> you</c><00:05:27.360><c> can</c><00:05:27.440><c> say</c><00:05:27.600><c> whatever</c>
+you can say six, you can say whatever
+you can say six, you can say whatever
+number<00:05:28.080><c> you</c><00:05:28.320><c> want.</c><00:05:28.880><c> Please</c><00:05:29.199><c> provide</c><00:05:29.600><c> key</c>
+number you want. Please provide key
+number you want. Please provide key
+numbers<00:05:30.160><c> or</c><00:05:30.400><c> attach</c><00:05:30.720><c> a</c><00:05:31.039><c> file</c><00:05:31.360><c> for</c><00:05:31.600><c> deals</c><00:05:31.919><c> or</c>
+numbers or attach a file for deals or
+numbers or attach a file for deals or
+comp.<00:05:32.720><c> Otherwise,</c><00:05:33.199><c> give</c><00:05:33.440><c> ballpark</c><00:05:33.919><c> figures.</c>
+comp. Otherwise, give ballpark figures.
+comp. Otherwise, give ballpark figures.
+If<00:05:34.720><c> you're</c><00:05:34.880><c> salary</c><00:05:35.280><c> negotiating,</c><00:05:35.919><c> it's</c>
+If you're salary negotiating, it's
+If you're salary negotiating, it's
+obviously<00:05:36.639><c> comp.</c><00:05:37.360><c> But</c><00:05:37.520><c> when</c><00:05:37.680><c> I</c><00:05:37.840><c> was</c><00:05:38.000><c> doing</c><00:05:38.160><c> it</c>
+obviously comp. But when I was doing it
+obviously comp. But when I was doing it
+for<00:05:38.720><c> my</c><00:05:39.280><c> uh</c><00:05:39.520><c> product</c><00:05:39.919><c> sample</c><00:05:40.240><c> that</c><00:05:40.479><c> I'll</c><00:05:40.639><c> show</c>
+for my uh product sample that I'll show
+for my uh product sample that I'll show
+you<00:05:40.960><c> in</c><00:05:41.120><c> a</c><00:05:41.280><c> moment,</c><00:05:41.600><c> I</c><00:05:41.840><c> ignored</c><00:05:42.160><c> the</c><00:05:42.240><c> comp</c><00:05:42.560><c> part</c>
+you in a moment, I ignored the comp part
+you in a moment, I ignored the comp part
+and<00:05:42.880><c> it</c><00:05:43.039><c> said</c><00:05:43.199><c> deal.</c><00:05:43.600><c> So</c><00:05:43.680><c> I</c><00:05:43.840><c> put</c><00:05:43.919><c> in</c><00:05:44.080><c> like</c><00:05:44.320><c> deal</c>
+and it said deal. So I put in like deal
+and it said deal. So I put in like deal
+data<00:05:44.800><c> and</c><00:05:44.960><c> like</c><00:05:45.120><c> where</c><00:05:45.199><c> our</c><00:05:45.440><c> pipeline</c><00:05:45.759><c> was</c><00:05:45.919><c> at</c>
+data and like where our pipeline was at
+data and like where our pipeline was at
+and<00:05:46.240><c> all</c><00:05:46.320><c> of</c><00:05:46.479><c> that.</c><00:05:46.639><c> These</c><00:05:46.800><c> are</c><00:05:46.880><c> all</c><00:05:47.039><c> madeup</c>
+and all of that. These are all madeup
+and all of that. These are all madeup
+numbers.<00:05:48.400><c> Um,</c><00:05:49.039><c> and</c><00:05:49.280><c> I</c><00:05:49.440><c> felt</c><00:05:49.680><c> really</c><00:05:50.000><c> free</c><00:05:50.320><c> to</c>
+numbers. Um, and I felt really free to
+numbers. Um, and I felt really free to
+add<00:05:50.800><c> the</c><00:05:50.960><c> data</c><00:05:51.199><c> I</c><00:05:51.440><c> wanted.</c><00:05:52.000><c> I</c><00:05:52.240><c> will</c><00:05:52.479><c> also</c><00:05:52.800><c> call</c>
+add the data I wanted. I will also call
+add the data I wanted. I will also call
+out<00:05:54.320><c> that</c><00:05:54.639><c> this</c><00:05:54.880><c> is</c><00:05:55.039><c> a</c><00:05:55.280><c> somewhat</c><00:05:55.680><c> flexible</c>
+out that this is a somewhat flexible
+out that this is a somewhat flexible
+user<00:05:57.280><c> response</c><00:05:58.080><c> prompt.</c><00:05:58.720><c> It</c><00:05:58.960><c> is</c><00:05:59.199><c> designed</c><00:05:59.600><c> to</c>
+user response prompt. It is designed to
+user response prompt. It is designed to
+be<00:06:00.000><c> a</c><00:06:00.240><c> place</c><00:06:00.400><c> where</c><00:06:00.639><c> you</c><00:06:00.800><c> can</c><00:06:00.880><c> put</c><00:06:01.039><c> a</c><00:06:01.280><c> lot</c><00:06:01.360><c> of</c>
+be a place where you can put a lot of
+be a place where you can put a lot of
+information<00:06:01.919><c> and</c><00:06:02.160><c> you'll</c><00:06:02.479><c> see</c><00:06:02.880><c> in</c><00:06:03.120><c> one</c><00:06:03.360><c> of</c><00:06:03.440><c> the</c>
+information and you'll see in one of the
+information and you'll see in one of the
+sample<00:06:03.919><c> chats</c><00:06:04.560><c> how</c><00:06:04.800><c> I'm</c><00:06:05.039><c> able</c><00:06:05.280><c> to</c><00:06:05.440><c> pack</c><00:06:05.680><c> in</c>
+sample chats how I'm able to pack in
+sample chats how I'm able to pack in
+like<00:06:06.400><c> 300</c><00:06:06.960><c> words</c><00:06:07.199><c> of</c><00:06:07.440><c> information</c><00:06:07.919><c> which</c><00:06:08.160><c> is</c>
+like 300 words of information which is
+like 300 words of information which is
+really<00:06:08.479><c> more</c><00:06:08.720><c> than</c><00:06:08.880><c> I</c><00:06:09.039><c> designed</c><00:06:09.280><c> the</c><00:06:09.440><c> prompt</c>
+really more than I designed the prompt
+really more than I designed the prompt
+to<00:06:09.919><c> take</c><00:06:10.240><c> and</c><00:06:10.400><c> the</c><00:06:10.560><c> prompt</c><00:06:10.880><c> is</c><00:06:11.039><c> able</c><00:06:11.199><c> to</c><00:06:11.360><c> handle</c>
+to take and the prompt is able to handle
+to take and the prompt is able to handle
+that.<00:06:12.080><c> Okay,</c><00:06:12.560><c> constraints</c><00:06:13.039><c> and</c><00:06:13.280><c> policies</c>
+that. Okay, constraints and policies
+that. Okay, constraints and policies
+that's<00:06:14.000><c> always</c><00:06:14.240><c> important</c><00:06:14.720><c> in</c><00:06:15.039><c> any</c>
+that's always important in any
+that's always important in any
+negotiation<00:06:16.479><c> and</c><00:06:16.639><c> then</c><00:06:16.800><c> your</c><00:06:16.960><c> output</c>
+negotiation and then your output
+negotiation and then your output
+preferences,<00:06:18.240><c> transcript</c><00:06:18.720><c> style,</c><00:06:19.199><c> word</c>
+preferences, transcript style, word
+preferences, transcript style, word
+limit,<00:06:19.919><c> etc.</c><00:06:20.240><c> So</c><00:06:20.800><c> at</c><00:06:21.039><c> that</c><00:06:21.199><c> point</c><00:06:22.240><c> uh</c><00:06:22.479><c> I</c>
+limit, etc. So at that point uh I
+limit, etc. So at that point uh I
+actually<00:06:23.039><c> define</c><00:06:23.360><c> a</c><00:06:23.600><c> confirmation</c><00:06:24.080><c> phrase.</c>
+actually define a confirmation phrase.
+actually define a confirmation phrase.
+Now<00:06:24.639><c> why</c><00:06:24.800><c> do</c><00:06:24.960><c> I</c><00:06:25.120><c> define</c><00:06:25.440><c> a</c><00:06:25.759><c> confirmation</c>
+Now why do I define a confirmation
+Now why do I define a confirmation
+phrase?<00:06:27.039><c> Why</c><00:06:27.280><c> do</c><00:06:27.440><c> I</c><00:06:27.759><c> say</c><00:06:28.240><c> after</c><00:06:28.560><c> the</c><00:06:28.720><c> user</c>
+phrase? Why do I say after the user
+phrase? Why do I say after the user
+answers<00:06:29.360><c> each</c><00:06:29.680><c> question,</c><00:06:30.400><c> this</c><00:06:30.639><c> is</c><00:06:30.800><c> what</c><00:06:30.960><c> you</c>
+answers each question, this is what you
+answers each question, this is what you
+should<00:06:31.360><c> say?</c><00:06:31.919><c> Well,</c><00:06:32.479><c> number</c><00:06:32.800><c> one,</c><00:06:33.440><c> I</c><00:06:33.680><c> define</c><00:06:34.080><c> a</c>
+should say? Well, number one, I define a
+should say? Well, number one, I define a
+confirmation<00:06:34.960><c> phrase</c><00:06:35.840><c> because</c><00:06:36.960><c> it</c><00:06:37.199><c> is</c>
+confirmation phrase because it is
+confirmation phrase because it is
+critical<00:06:38.560><c> to</c><00:06:39.120><c> actually</c><00:06:39.840><c> understand</c><00:06:40.319><c> what</c><00:06:40.560><c> the</c>
+critical to actually understand what the
+critical to actually understand what the
+user<00:06:41.039><c> said</c><00:06:41.199><c> to</c><00:06:41.360><c> get</c><00:06:41.520><c> this</c><00:06:41.759><c> world</c><00:06:42.080><c> building</c>
+user said to get this world building
+user said to get this world building
+right.<00:06:42.720><c> With</c><00:06:42.960><c> a</c><00:06:43.199><c> lot</c><00:06:43.280><c> of</c><00:06:43.440><c> prompts,</c><00:06:43.840><c> if</c><00:06:44.000><c> you</c>
+right. With a lot of prompts, if you
+right. With a lot of prompts, if you
+write<00:06:44.319><c> the</c><00:06:44.560><c> prompt,</c><00:06:44.880><c> you</c><00:06:45.039><c> can</c><00:06:45.120><c> do</c><00:06:45.199><c> a</c><00:06:45.440><c> second</c>
+write the prompt, you can do a second
+write the prompt, you can do a second
+turn<00:06:45.840><c> and</c><00:06:46.080><c> kind</c><00:06:46.240><c> of</c><00:06:46.319><c> figure</c><00:06:46.560><c> it</c><00:06:46.720><c> out</c><00:06:46.960><c> if</c><00:06:47.199><c> you're</c>
+turn and kind of figure it out if you're
+turn and kind of figure it out if you're
+trying<00:06:47.520><c> to</c><00:06:47.759><c> refine.</c><00:06:48.479><c> But</c><00:06:48.639><c> with</c><00:06:48.800><c> a</c><00:06:49.039><c> world</c>
+trying to refine. But with a world
+trying to refine. But with a world
+building<00:06:49.600><c> or</c><00:06:50.080><c> digital</c><00:06:50.479><c> twin</c><00:06:50.880><c> kind</c><00:06:51.120><c> of</c><00:06:51.280><c> prompt,</c>
+building or digital twin kind of prompt,
+building or digital twin kind of prompt,
+the<00:06:52.319><c> world</c><00:06:52.720><c> has</c><00:06:52.960><c> to</c><00:06:53.120><c> be</c><00:06:53.360><c> right</c><00:06:54.000><c> from</c><00:06:54.240><c> the</c>
+the world has to be right from the
+the world has to be right from the
+get-go.<00:06:55.199><c> And</c><00:06:55.440><c> so</c><00:06:55.840><c> I</c><00:06:56.080><c> need</c><00:06:56.240><c> to</c><00:06:56.319><c> make</c><00:06:56.479><c> sure</c><00:06:56.560><c> that</c>
+get-go. And so I need to make sure that
+get-go. And so I need to make sure that
+it<00:06:56.960><c> understands,</c><00:06:57.440><c> right?</c><00:06:57.759><c> And</c><00:06:57.919><c> so</c><00:06:58.319><c> I</c><00:06:58.720><c> have</c><00:06:58.960><c> it</c>
+it understands, right? And so I have it
+it understands, right? And so I have it
+come<00:06:59.440><c> back</c><00:06:59.840><c> and</c><00:07:00.160><c> actively</c><00:07:00.800><c> listen</c><00:07:01.199><c> and</c>
+come back and actively listen and
+come back and actively listen and
+summarize<00:07:02.240><c> on</c><00:07:02.639><c> purpose.</c><00:07:03.280><c> Okay,</c><00:07:03.680><c> so</c><00:07:03.840><c> it's</c>
+summarize on purpose. Okay, so it's
+summarize on purpose. Okay, so it's
+actively<00:07:04.479><c> listened.</c><00:07:05.039><c> It's</c><00:07:05.280><c> collected</c><00:07:05.680><c> all</c>
+actively listened. It's collected all
+actively listened. It's collected all
+the<00:07:06.080><c> information.</c><00:07:06.960><c> We</c><00:07:07.199><c> now</c><00:07:07.440><c> get</c><00:07:07.599><c> to</c><00:07:07.759><c> the</c>
+the information. We now get to the
+the information. We now get to the
+runnable<00:07:08.560><c> prompt</c><00:07:09.120><c> template.</c><00:07:09.759><c> When</c><00:07:10.000><c> all</c><00:07:10.160><c> the</c>
+runnable prompt template. When all the
+runnable prompt template. When all the
+answers<00:07:10.639><c> are</c><00:07:10.880><c> confirmed,</c><00:07:11.599><c> please</c><00:07:11.840><c> fill</c><00:07:12.160><c> the</c>
+answers are confirmed, please fill the
+answers are confirmed, please fill the
+placeholders<00:07:12.960><c> and</c><00:07:13.280><c> output</c><00:07:14.000><c> you</c><00:07:14.240><c> are</c><00:07:14.319><c> the</c>
+placeholders and output you are the
+placeholders and output you are the
+digital<00:07:14.720><c> twin</c><00:07:14.960><c> negotiation</c><00:07:15.520><c> arena</c><00:07:15.919><c> host.</c><00:07:16.560><c> So,</c>
+digital twin negotiation arena host. So,
+digital twin negotiation arena host. So,
+in<00:07:17.199><c> a</c><00:07:17.360><c> sense,</c><00:07:17.599><c> you</c><00:07:17.840><c> might</c><00:07:18.000><c> be</c><00:07:18.160><c> wondering,</c><00:07:18.639><c> why</c>
+in a sense, you might be wondering, why
+in a sense, you might be wondering, why
+the<00:07:19.120><c> heck</c><00:07:19.360><c> is</c><00:07:19.599><c> this</c><00:07:19.759><c> here?</c><00:07:20.160><c> Purpose,</c><00:07:20.639><c> mode,</c>
+the heck is this here? Purpose, mode,
+the heck is this here? Purpose, mode,
+instructions,<00:07:21.599><c> reference.</c><00:07:22.160><c> Haven't</c><00:07:22.479><c> we</c><00:07:22.720><c> been</c>
+instructions, reference. Haven't we been
+instructions, reference. Haven't we been
+talking<00:07:23.360><c> long</c><00:07:23.680><c> enough?</c><00:07:24.400><c> Why</c><00:07:24.639><c> does</c><00:07:24.880><c> this</c><00:07:25.199><c> go</c>
+talking long enough? Why does this go
+talking long enough? Why does this go
+on,<00:07:25.680><c> Nate?</c><00:07:26.240><c> Well,</c><00:07:26.479><c> I'll</c><00:07:26.720><c> tell</c><00:07:26.800><c> you</c><00:07:27.039><c> why</c><00:07:27.199><c> it</c>
+on, Nate? Well, I'll tell you why it
+on, Nate? Well, I'll tell you why it
+goes<00:07:27.599><c> on.</c><00:07:28.160><c> It</c><00:07:28.400><c> goes</c><00:07:28.639><c> on</c><00:07:29.199><c> because</c><00:07:29.599><c> we</c><00:07:29.840><c> are</c>
+goes on. It goes on because we are
+goes on. It goes on because we are
+trying<00:07:30.800><c> to</c><00:07:31.199><c> bake</c><00:07:31.599><c> in</c><00:07:32.400><c> some</c><00:07:32.800><c> degree</c><00:07:33.360><c> of</c>
+trying to bake in some degree of
+trying to bake in some degree of
+consistency<00:07:34.720><c> in</c><00:07:35.039><c> this</c><00:07:35.280><c> prompt</c><00:07:35.759><c> and</c><00:07:36.000><c> giving</c><00:07:36.319><c> it</c>
+consistency in this prompt and giving it
+consistency in this prompt and giving it
+a<00:07:36.720><c> purpose,</c><00:07:37.280><c> a</c><00:07:37.440><c> mode,</c><00:07:37.759><c> an</c><00:07:38.000><c> effort</c><00:07:38.400><c> level,</c>
+a purpose, a mode, an effort level,
+a purpose, a mode, an effort level,
+which<00:07:39.280><c> by</c><00:07:39.440><c> the</c><00:07:39.520><c> way,</c><00:07:39.759><c> you</c><00:07:40.000><c> can</c><00:07:40.160><c> set</c>
+which by the way, you can set
+which by the way, you can set
+differently.<00:07:41.199><c> Like</c><00:07:41.360><c> I</c><00:07:41.599><c> set</c><00:07:41.759><c> it</c><00:07:41.919><c> at</c><00:07:42.080><c> high,</c><00:07:42.319><c> but</c>
+differently. Like I set it at high, but
+differently. Like I set it at high, but
+if<00:07:42.720><c> you</c><00:07:42.800><c> want</c><00:07:42.880><c> to</c><00:07:43.039><c> change</c><00:07:43.280><c> this</c><00:07:43.440><c> prop</c><00:07:43.759><c> before</c>
+if you want to change this prop before
+if you want to change this prop before
+running<00:07:44.319><c> and</c><00:07:44.479><c> set</c><00:07:44.639><c> it</c><00:07:44.720><c> at</c><00:07:44.960><c> low,</c><00:07:45.199><c> you</c><00:07:45.440><c> can.</c><00:07:46.400><c> Uh</c>
+running and set it at low, you can. Uh
+running and set it at low, you can. Uh
+you<00:07:47.039><c> can</c><00:07:47.520><c> also</c><00:07:48.800><c> set</c><00:07:49.120><c> the</c><00:07:49.360><c> scenario</c><00:07:49.840><c> and</c>
+you can also set the scenario and
+you can also set the scenario and
+hardcode<00:07:50.560><c> it</c><00:07:50.800><c> here</c><00:07:50.960><c> if</c><00:07:51.120><c> you</c><00:07:51.280><c> want</c><00:07:51.520><c> or</c><00:07:51.759><c> it</c><00:07:51.919><c> will</c>
+hardcode it here if you want or it will
+hardcode it here if you want or it will
+fill<00:07:52.240><c> in</c><00:07:52.639><c> the</c><00:07:53.360><c> scenario</c><00:07:53.840><c> for</c><00:07:54.080><c> you</c><00:07:54.319><c> based</c><00:07:54.560><c> on</c>
+fill in the scenario for you based on
+fill in the scenario for you based on
+your<00:07:55.039><c> answers.</c><00:07:55.599><c> It</c><00:07:55.840><c> will</c><00:07:55.919><c> then</c><00:07:56.080><c> output</c><00:07:56.400><c> all</c>
+your answers. It will then output all
+your answers. It will then output all
+the<00:07:56.720><c> rest</c><00:07:56.800><c> of</c><00:07:56.960><c> this</c><00:07:57.199><c> based</c><00:07:57.440><c> on</c><00:07:57.599><c> your</c><00:07:57.840><c> answers</c>
+the rest of this based on your answers
+the rest of this based on your answers
+and<00:07:58.639><c> the</c><00:07:58.879><c> reference.</c><00:07:59.440><c> And</c><00:07:59.599><c> as</c><00:07:59.840><c> it</c><00:08:00.080><c> does</c><00:08:00.240><c> this,</c>
+and the reference. And as it does this,
+and the reference. And as it does this,
+it<00:08:00.800><c> is</c><00:08:01.039><c> literally</c><00:08:01.599><c> encoding</c><00:08:02.240><c> into</c><00:08:02.720><c> the</c><00:08:02.960><c> stream</c>
+it is literally encoding into the stream
+it is literally encoding into the stream
+of<00:08:03.599><c> conversation</c><00:08:04.720><c> everything</c><00:08:05.199><c> it</c><00:08:05.520><c> needs</c><00:08:05.680><c> to</c>
+of conversation everything it needs to
+of conversation everything it needs to
+know<00:08:06.080><c> to</c><00:08:06.319><c> keep</c><00:08:06.479><c> it</c><00:08:06.639><c> going.</c><00:08:07.360><c> This</c><00:08:07.759><c> little</c><00:08:08.080><c> piece</c>
+know to keep it going. This little piece
+know to keep it going. This little piece
+here<00:08:08.720><c> does</c><00:08:08.960><c> the</c><00:08:09.280><c> important</c><00:08:09.759><c> job</c><00:08:10.319><c> of</c><00:08:10.720><c> acting</c><00:08:11.280><c> as</c>
+here does the important job of acting as
+here does the important job of acting as
+a<00:08:12.400><c> conversational</c><00:08:13.440><c> anchor.</c><00:08:14.240><c> It</c><00:08:14.479><c> acts</c><00:08:14.800><c> as</c><00:08:14.960><c> a</c>
+a conversational anchor. It acts as a
+a conversational anchor. It acts as a
+conversational<00:08:15.919><c> anchor</c><00:08:16.639><c> so</c><00:08:16.879><c> that</c><00:08:17.039><c> the</c><00:08:17.280><c> rest</c>
+conversational anchor so that the rest
+conversational anchor so that the rest
+of<00:08:17.680><c> the</c><00:08:17.919><c> world</c><00:08:18.240><c> building</c><00:08:18.639><c> will</c><00:08:18.960><c> work.</c><00:08:19.199><c> Right?</c>
+of the world building will work. Right?
+of the world building will work. Right?
+If<00:08:19.759><c> you</c><00:08:19.919><c> have</c><00:08:20.160><c> ever</c><00:08:20.400><c> tried</c><00:08:20.639><c> to</c><00:08:20.800><c> do</c><00:08:20.960><c> digital</c>
+If you have ever tried to do digital
+If you have ever tried to do digital
+twin<00:08:21.680><c> stuff,</c><00:08:22.000><c> you</c><00:08:22.240><c> know</c><00:08:22.319><c> that</c><00:08:22.560><c> the</c>
+twin stuff, you know that the
+twin stuff, you know that the
+personality<00:08:23.360><c> is</c><00:08:23.599><c> drifting</c><00:08:24.000><c> can</c><00:08:24.240><c> be</c><00:08:24.319><c> a</c>
+personality is drifting can be a
+personality is drifting can be a
+problem.<00:08:25.039><c> This</c><00:08:25.280><c> is</c><00:08:25.440><c> part</c><00:08:25.680><c> of</c><00:08:25.840><c> how</c><00:08:26.080><c> we</c><00:08:26.319><c> control</c>
+problem. This is part of how we control
+problem. This is part of how we control
+for<00:08:26.960><c> that.</c><00:08:27.599><c> Having</c><00:08:27.919><c> this</c><00:08:28.240><c> clear</c><00:08:28.560><c> reiteration</c>
+for that. Having this clear reiteration
+for that. Having this clear reiteration
+before<00:08:29.599><c> we</c><00:08:29.840><c> start.</c><00:08:30.400><c> Finally,</c><00:08:30.800><c> we</c><00:08:31.039><c> begin</c>
+before we start. Finally, we begin
+before we start. Finally, we begin
+insert<00:08:31.919><c> each</c><00:08:32.159><c> twin's</c><00:08:32.560><c> opening</c><00:08:32.880><c> statement</c>
+insert each twin's opening statement
+insert each twin's opening statement
+right<00:08:33.919><c> after</c><00:08:34.159><c> the</c><00:08:34.320><c> delimiter.</c><00:08:35.039><c> So</c><00:08:35.200><c> that's</c><00:08:35.440><c> the</c>
+right after the delimiter. So that's the
+right after the delimiter. So that's the
+prompt.<00:08:36.000><c> That</c><00:08:36.240><c> is</c><00:08:36.320><c> what</c><00:08:36.479><c> we</c><00:08:36.640><c> will</c><00:08:36.719><c> run.</c><00:08:36.959><c> That</c>
+prompt. That is what we will run. That
+prompt. That is what we will run. That
+is<00:08:37.279><c> what</c><00:08:37.519><c> I</c><00:08:37.760><c> will</c><00:08:38.000><c> show</c><00:08:38.159><c> you.</c><00:08:38.880><c> Before</c><00:08:39.279><c> we</c><00:08:39.519><c> go</c>
+is what I will show you. Before we go
+is what I will show you. Before we go
+further,<00:08:40.399><c> I</c><00:08:40.640><c> want</c><00:08:40.800><c> to</c><00:08:40.959><c> actually</c><00:08:41.279><c> go</c><00:08:41.440><c> down.</c><00:08:41.680><c> I</c>
+further, I want to actually go down. I
+further, I want to actually go down. I
+actually<00:08:42.159><c> broke</c><00:08:42.399><c> this</c><00:08:42.560><c> out</c><00:08:42.719><c> into</c><00:08:43.039><c> principles</c>
+actually broke this out into principles
+actually broke this out into principles
+that<00:08:43.760><c> we</c><00:08:43.919><c> can</c><00:08:44.080><c> look</c><00:08:44.240><c> at.</c><00:08:44.800><c> Uh,</c><00:08:45.279><c> and</c><00:08:45.600><c> I</c><00:08:45.920><c> also</c>
+that we can look at. Uh, and I also
+that we can look at. Uh, and I also
+broke<00:08:46.480><c> out</c><00:08:46.720><c> takeaways.</c><00:08:47.360><c> And</c><00:08:47.519><c> so</c><00:08:47.680><c> I</c><00:08:47.920><c> want</c><00:08:48.000><c> to</c>
+broke out takeaways. And so I want to
+broke out takeaways. And so I want to
+spend<00:08:48.399><c> a</c><00:08:48.640><c> second</c>
+spend a second
+spend a second
+looking<00:08:50.480><c> at</c><00:08:50.640><c> the</c><00:08:50.800><c> takeaways</c><00:08:51.279><c> and</c><00:08:51.440><c> the</c>
+looking at the takeaways and the
+looking at the takeaways and the
+principles<00:08:52.080><c> and</c><00:08:52.320><c> make</c><00:08:52.480><c> sure</c><00:08:52.640><c> you</c><00:08:52.959><c> understand</c>
+principles and make sure you understand
+principles and make sure you understand
+why<00:08:53.600><c> I</c><00:08:53.839><c> did</c><00:08:54.000><c> what</c><00:08:54.160><c> I</c><00:08:54.399><c> did</c><00:08:54.959><c> before</c><00:08:55.279><c> I</c><00:08:55.519><c> go</c><00:08:55.680><c> to</c><00:08:55.920><c> the</c>
+why I did what I did before I go to the
+why I did what I did before I go to the
+actual<00:08:56.399><c> examples.</c><00:08:57.120><c> So</c><00:08:57.360><c> principle</c><00:08:57.760><c> number</c>
+actual examples. So principle number
+actual examples. So principle number
+one,<00:08:58.240><c> identity</c><00:08:58.560><c> lock</c><00:08:58.800><c> in.</c><00:08:59.040><c> I</c><00:08:59.200><c> want</c><00:08:59.279><c> to</c><00:08:59.440><c> make</c>
+one, identity lock in. I want to make
+one, identity lock in. I want to make
+sure<00:08:59.680><c> that</c><00:08:59.839><c> it's</c><00:09:00.080><c> a</c><00:09:00.240><c> digital</c><00:09:00.560><c> twin</c><00:09:00.880><c> and</c><00:09:01.120><c> I</c><00:09:01.279><c> want</c>
+sure that it's a digital twin and I want
+sure that it's a digital twin and I want
+to<00:09:01.440><c> make</c><00:09:01.600><c> sure</c><00:09:01.680><c> I</c><00:09:01.839><c> invoke</c><00:09:02.240><c> that</c><00:09:02.399><c> corner</c><00:09:02.640><c> of</c>
+to make sure I invoke that corner of
+to make sure I invoke that corner of
+latent<00:09:03.200><c> space.</c><00:09:03.680><c> It</c><00:09:03.920><c> is</c><00:09:04.080><c> a</c><00:09:04.240><c> deterministic</c>
+latent space. It is a deterministic
+latent space. It is a deterministic
+state<00:09:05.519><c> machine</c><00:09:05.839><c> which</c><00:09:06.080><c> is</c><00:09:06.240><c> a</c><00:09:06.399><c> fancy</c><00:09:06.800><c> way</c><00:09:06.959><c> of</c>
+state machine which is a fancy way of
+state machine which is a fancy way of
+saying<00:09:08.240><c> I</c><00:09:08.480><c> am</c><00:09:08.640><c> deliberately</c><00:09:09.279><c> creating</c><00:09:09.600><c> a</c>
+saying I am deliberately creating a
+saying I am deliberately creating a
+fixednumbered<00:09:10.640><c> question</c><00:09:11.279><c> script</c><00:09:11.839><c> to</c><00:09:12.080><c> gather</c>
+fixednumbered question script to gather
+fixednumbered question script to gather
+input<00:09:12.800><c> on</c><00:09:13.040><c> a</c><00:09:13.200><c> path.</c><00:09:13.920><c> This</c><00:09:14.160><c> turns</c><00:09:14.480><c> an</c>
+input on a path. This turns an
+input on a path. This turns an
+open-ended<00:09:15.360><c> chat</c><00:09:15.760><c> into</c><00:09:16.080><c> something</c><00:09:16.320><c> that</c><00:09:16.560><c> is</c>
+open-ended chat into something that is
+open-ended chat into something that is
+very<00:09:17.040><c> repeatable</c><00:09:17.600><c> and</c><00:09:17.920><c> something</c><00:09:18.240><c> where</c><00:09:18.560><c> the</c>
+very repeatable and something where the
+very repeatable and something where the
+uh<00:09:19.839><c> process</c><00:09:20.480><c> can</c><00:09:20.720><c> be</c><00:09:20.959><c> deliberately</c><00:09:21.920><c> shifted</c>
+uh process can be deliberately shifted
+uh process can be deliberately shifted
+for<00:09:23.040><c> ease</c><00:09:23.360><c> of</c><00:09:23.519><c> use</c><00:09:23.839><c> in</c><00:09:24.080><c> learning</c><00:09:24.480><c> about</c>
+for ease of use in learning about
+for ease of use in learning about
+different<00:09:24.959><c> future</c><00:09:25.360><c> timelines.</c><00:09:26.000><c> So,</c><00:09:26.160><c> if</c><00:09:26.399><c> you</c>
+different future timelines. So, if you
+different future timelines. So, if you
+want<00:09:26.640><c> to</c><00:09:26.800><c> game</c><00:09:27.120><c> out</c><00:09:28.320><c> a</c><00:09:28.640><c> timeline</c><00:09:29.040><c> where</c><00:09:29.279><c> you</c>
+want to game out a timeline where you
+want to game out a timeline where you
+open<00:09:29.760><c> with</c><00:09:30.080><c> 210</c><00:09:30.560><c> for</c><00:09:30.800><c> your</c><00:09:30.959><c> comp</c><00:09:31.279><c> or</c><00:09:31.440><c> a</c>
+open with 210 for your comp or a
+open with 210 for your comp or a
+timeline<00:09:31.920><c> where</c><00:09:32.080><c> you</c><00:09:32.240><c> open</c><00:09:32.399><c> with</c><00:09:32.800><c> 180</c><00:09:33.040><c> or</c><00:09:33.200><c> a</c>
+timeline where you open with 180 or a
+timeline where you open with 180 or a
+timeline<00:09:33.600><c> where</c><00:09:33.760><c> you</c><00:09:33.920><c> open</c><00:09:34.160><c> with</c><00:09:34.640><c> 150,</c><00:09:35.519><c> you</c>
+timeline where you open with 150, you
+timeline where you open with 150, you
+can<00:09:36.080><c> do</c><00:09:36.320><c> all</c><00:09:36.560><c> of</c><00:09:36.800><c> those</c><00:09:37.040><c> things</c><00:09:37.680><c> in</c><00:09:38.080><c> separate</c>
+can do all of those things in separate
+can do all of those things in separate
+chats<00:09:39.040><c> and</c><00:09:39.279><c> you</c><00:09:39.519><c> get</c><00:09:39.600><c> a</c><00:09:39.920><c> really</c><00:09:40.160><c> tight</c>
+chats and you get a really tight
+chats and you get a really tight
+controlled<00:09:41.680><c> uh</c><00:09:42.000><c> simulation</c><00:09:42.880><c> of</c><00:09:43.200><c> how</c><00:09:43.440><c> that</c>
+controlled uh simulation of how that
+controlled uh simulation of how that
+conversation<00:09:44.399><c> might</c><00:09:44.640><c> unfold.</c><00:09:45.440><c> Similarly,</c><00:09:46.000><c> if</c>
+conversation might unfold. Similarly, if
+conversation might unfold. Similarly, if
+you're<00:09:46.399><c> doing</c><00:09:46.720><c> a</c><00:09:47.040><c> job</c><00:09:47.279><c> interview,</c><00:09:47.680><c> which</c><00:09:47.839><c> you</c>
+you're doing a job interview, which you
+you're doing a job interview, which you
+could<00:09:48.160><c> use</c><00:09:48.320><c> for</c><00:09:48.560><c> this,</c><00:09:49.600><c> you</c><00:09:49.920><c> can</c><00:09:50.080><c> game</c><00:09:50.399><c> out</c><00:09:50.640><c> in</c>
+could use for this, you can game out in
+could use for this, you can game out in
+multiple<00:09:51.360><c> different</c><00:09:51.680><c> chats,</c><00:09:52.480><c> what</c><00:09:52.720><c> if</c><00:09:52.880><c> I</c>
+multiple different chats, what if I
+multiple different chats, what if I
+answered<00:09:53.440><c> this</c><00:09:53.760><c> way?</c><00:09:54.399><c> and</c><00:09:54.560><c> you</c><00:09:54.800><c> can</c><00:09:54.959><c> watch</c>
+answered this way? and you can watch
+answered this way? and you can watch
+your<00:09:55.519><c> other</c><00:09:55.839><c> stakeholders</c><00:09:56.560><c> respond</c><00:09:57.040><c> and</c>
+your other stakeholders respond and
+your other stakeholders respond and
+actually<00:09:57.600><c> like</c><00:09:57.920><c> game</c><00:09:58.240><c> that</c><00:09:58.480><c> through</c><00:09:58.720><c> and</c>
+actually like game that through and
+actually like game that through and
+think<00:09:59.200><c> that</c><00:09:59.440><c> through</c><00:09:59.760><c> more</c><00:10:00.000><c> easily.</c><00:10:00.640><c> Humans</c>
+think that through more easily. Humans
+think that through more easily. Humans
+are<00:10:01.279><c> not</c><00:10:01.519><c> great</c><00:10:02.000><c> at</c><00:10:02.320><c> simulating</c><00:10:03.040><c> entire</c>
+are not great at simulating entire
+are not great at simulating entire
+digital<00:10:03.920><c> scenarios</c><00:10:04.560><c> in</c><00:10:04.800><c> our</c><00:10:05.040><c> head</c><00:10:05.440><c> with</c>
+digital scenarios in our head with
+digital scenarios in our head with
+multiple<00:10:06.160><c> stakeholders</c><00:10:06.720><c> at</c><00:10:06.959><c> high</c><00:10:07.200><c> fidelity.</c>
+multiple stakeholders at high fidelity.
+multiple stakeholders at high fidelity.
+That<00:10:08.240><c> is</c><00:10:08.320><c> what</c><00:10:08.560><c> this</c><00:10:08.800><c> prompt</c><00:10:09.120><c> is</c><00:10:09.360><c> designed</c><00:10:09.600><c> to</c>
+That is what this prompt is designed to
+That is what this prompt is designed to
+do.<00:10:11.040><c> Progressive</c><00:10:11.600><c> disclosure.</c><00:10:12.080><c> We</c><00:10:12.240><c> talked</c>
+do. Progressive disclosure. We talked
+do. Progressive disclosure. We talked
+about<00:10:12.640><c> asking</c><00:10:12.959><c> one</c><00:10:13.279><c> question</c><00:10:13.519><c> at</c><00:10:13.760><c> a</c><00:10:13.920><c> time.</c>
+about asking one question at a time.
+about asking one question at a time.
+Echo<00:10:14.880><c> confirmation</c><00:10:15.600><c> loop.</c><00:10:16.240><c> Rephrase.</c>
+Echo confirmation loop. Rephrase.
+Echo confirmation loop. Rephrase.
+Actively<00:10:17.519><c> listen.</c><00:10:17.839><c> Actively</c><00:10:18.320><c> listen</c><00:10:18.560><c> might</c>
+Actively listen. Actively listen might
+Actively listen. Actively listen might
+have<00:10:18.880><c> been</c><00:10:18.959><c> a</c><00:10:19.200><c> better</c><00:10:19.360><c> way</c><00:10:19.440><c> to</c><00:10:19.600><c> put</c><00:10:19.760><c> this.</c>
+have been a better way to put this.
+have been a better way to put this.
+Explicit<00:10:21.360><c> output</c><00:10:21.920><c> contract.</c><00:10:22.560><c> This</c><00:10:22.800><c> is</c><00:10:22.959><c> the</c>
+Explicit output contract. This is the
+Explicit output contract. This is the
+contract<00:10:23.680><c> that</c><00:10:24.000><c> we</c><00:10:24.240><c> described</c><00:10:24.880><c> up</c><00:10:25.200><c> here</c><00:10:25.680><c> that</c>
+contract that we described up here that
+contract that we described up here that
+sets<00:10:26.480><c> the</c><00:10:26.880><c> terms</c><00:10:27.440><c> of</c><00:10:27.760><c> the</c><00:10:28.079><c> debate.</c><00:10:28.800><c> It</c><00:10:29.120><c> says</c>
+sets the terms of the debate. It says
+sets the terms of the debate. It says
+here's<00:10:30.000><c> your</c><00:10:30.160><c> purpose,</c><00:10:30.560><c> here's</c><00:10:30.800><c> your</c><00:10:30.959><c> mode,</c>
+here's your purpose, here's your mode,
+here's your purpose, here's your mode,
+here's<00:10:31.519><c> your</c><00:10:31.680><c> effort,</c><00:10:32.160><c> here's</c><00:10:32.320><c> your</c>
+here's your effort, here's your
+here's your effort, here's your
+instructions,<00:10:33.120><c> here's</c><00:10:33.360><c> your</c><00:10:33.519><c> references,</c>
+instructions, here's your references,
+instructions, here's your references,
+and<00:10:34.160><c> here's</c><00:10:34.399><c> your</c><00:10:34.480><c> output.</c><00:10:35.200><c> It's</c><00:10:35.600><c> really</c>
+and here's your output. It's really
+and here's your output. It's really
+important<00:10:36.320><c> to</c><00:10:36.560><c> be</c><00:10:36.720><c> clear</c><00:10:36.880><c> and</c><00:10:37.120><c> explicit</c><00:10:37.519><c> about</c>
+important to be clear and explicit about
+important to be clear and explicit about
+that<00:10:37.839><c> when</c><00:10:38.000><c> you're</c><00:10:38.160><c> doing</c><00:10:38.320><c> digital</c><00:10:38.640><c> twin</c>
+that when you're doing digital twin
+that when you're doing digital twin
+work.<00:10:39.519><c> Okay.</c><00:10:40.079><c> And</c><00:10:40.240><c> then</c><00:10:40.399><c> we</c><00:10:40.640><c> get</c><00:10:40.800><c> to</c><00:10:41.360><c> handoff</c>
+work. Okay. And then we get to handoff
+work. Okay. And then we get to handoff
+embed<00:10:42.480><c> all</c><00:10:42.640><c> the</c><00:10:42.800><c> requisite</c><00:10:43.279><c> data</c><00:10:43.839><c> inside</c><00:10:44.240><c> the</c>
+embed all the requisite data inside the
+embed all the requisite data inside the
+runnable<00:10:45.120><c> block.</c><00:10:46.240><c> This</c><00:10:46.480><c> was</c><00:10:46.720><c> one</c><00:10:46.880><c> of</c><00:10:47.040><c> the</c>
+runnable block. This was one of the
+runnable block. This was one of the
+challenges<00:10:47.680><c> I</c><00:10:47.920><c> had</c><00:10:48.079><c> and</c><00:10:48.240><c> this</c><00:10:48.399><c> is</c><00:10:48.560><c> why</c><00:10:48.720><c> we</c>
+challenges I had and this is why we
+challenges I had and this is why we
+named<00:10:49.200><c> this</c><00:10:49.440><c> V2.</c><00:10:50.320><c> It</c><00:10:50.560><c> is</c><00:10:50.880><c> hard</c><00:10:51.440><c> to</c><00:10:51.680><c> get</c><00:10:51.920><c> all</c><00:10:52.160><c> the</c>
+named this V2. It is hard to get all the
+named this V2. It is hard to get all the
+data<00:10:52.880><c> inside</c><00:10:53.360><c> a</c><00:10:53.680><c> runnable</c><00:10:54.160><c> block,</c><00:10:54.959><c> collect</c>
+data inside a runnable block, collect
+data inside a runnable block, collect
+all<00:10:55.600><c> of</c><00:10:55.680><c> it,</c><00:10:56.160><c> make</c><00:10:56.320><c> it</c><00:10:56.560><c> run</c><00:10:57.040><c> inside</c><00:10:57.440><c> the</c><00:10:57.760><c> same</c>
+all of it, make it run inside the same
+all of it, make it run inside the same
+prompt.<00:10:58.560><c> One</c><00:10:58.800><c> of</c><00:10:58.880><c> the</c><00:10:59.040><c> keys</c><00:10:59.360><c> to</c><00:10:59.600><c> getting</c><00:10:59.839><c> it</c><00:11:00.079><c> to</c>
+prompt. One of the keys to getting it to
+prompt. One of the keys to getting it to
+do<00:11:00.480><c> that</c><00:11:01.040><c> is</c><00:11:01.279><c> to</c><00:11:01.519><c> be</c><00:11:01.680><c> very</c><00:11:02.000><c> very</c><00:11:02.320><c> explicit</c>
+do that is to be very very explicit
+do that is to be very very explicit
+about<00:11:02.959><c> that</c><00:11:03.279><c> reiteration</c><00:11:03.760><c> of</c><00:11:03.920><c> the</c><00:11:04.160><c> contract</c>
+about that reiteration of the contract
+about that reiteration of the contract
+and<00:11:04.800><c> explicit</c><00:11:05.279><c> in</c><00:11:05.600><c> the</c><00:11:05.839><c> questions</c><00:11:06.720><c> about</c><00:11:07.600><c> what</c>
+and explicit in the questions about what
+and explicit in the questions about what
+you<00:11:08.160><c> are</c><00:11:08.399><c> gathering.</c><00:11:09.200><c> And</c><00:11:09.360><c> so</c><00:11:09.519><c> if</c><00:11:09.760><c> you</c><00:11:10.000><c> look</c>
+you are gathering. And so if you look
+you are gathering. And so if you look
+back<00:11:10.480><c> here,</c><00:11:11.120><c> we</c><00:11:11.360><c> are</c><00:11:11.519><c> being</c><00:11:11.680><c> very</c><00:11:12.000><c> explicit</c>
+back here, we are being very explicit
+back here, we are being very explicit
+about<00:11:13.440><c> what</c><00:11:13.760><c> we</c><00:11:14.079><c> want</c><00:11:14.320><c> in</c><00:11:14.560><c> this</c><00:11:14.880><c> question</c>
+about what we want in this question
+about what we want in this question
+setup<00:11:15.600><c> here,</c><00:11:15.839><c> these</c><00:11:16.160><c> nine</c><00:11:16.480><c> questions.</c>
+setup here, these nine questions.
+setup here, these nine questions.
+And<00:11:18.959><c> we</c><00:11:19.200><c> are</c><00:11:19.360><c> specifying</c><00:11:19.839><c> it</c><00:11:20.079><c> needs</c><00:11:20.240><c> to</c><00:11:20.320><c> be</c>
+And we are specifying it needs to be
+And we are specifying it needs to be
+runnable<00:11:21.040><c> and</c><00:11:21.360><c> we</c><00:11:21.600><c> are</c><00:11:21.760><c> specifying</c><00:11:22.320><c> it</c><00:11:22.560><c> needs</c>
+runnable and we are specifying it needs
+runnable and we are specifying it needs
+to<00:11:22.880><c> begin</c><00:11:23.200><c> now.</c><00:11:23.680><c> We</c><00:11:23.839><c> are</c><00:11:24.000><c> not</c><00:11:24.160><c> giving</c><00:11:24.399><c> the</c>
+to begin now. We are not giving the
+to begin now. We are not giving the
+model<00:11:24.880><c> any</c><00:11:25.279><c> choice.</c><00:11:25.760><c> We</c><00:11:26.000><c> are</c><00:11:26.160><c> saying</c><00:11:26.399><c> here's</c>
+model any choice. We are saying here's
+model any choice. We are saying here's
+all<00:11:26.880><c> the</c><00:11:27.120><c> information</c><00:11:27.600><c> and</c><00:11:27.839><c> you</c><00:11:28.000><c> must</c><00:11:28.240><c> begin</c>
+all the information and you must begin
+all the information and you must begin
+now.<00:11:28.959><c> And</c><00:11:29.120><c> that</c><00:11:29.279><c> was</c><00:11:29.440><c> very</c><00:11:29.680><c> deliberate.</c>
+now. And that was very deliberate.
+now. And that was very deliberate.
+Context<00:11:30.800><c> switching</c><00:11:31.680><c> invokes</c><00:11:32.240><c> the</c><00:11:32.480><c> model's</c>
+Context switching invokes the model's
+Context switching invokes the model's
+opening<00:11:33.360><c> moves</c><00:11:33.680><c> very</c><00:11:34.000><c> deliberately</c><00:11:34.480><c> and</c><00:11:34.720><c> we</c>
+opening moves very deliberately and we
+opening moves very deliberately and we
+define<00:11:35.279><c> what</c><00:11:35.519><c> we</c><00:11:35.680><c> expect</c><00:11:36.000><c> for</c><00:11:36.160><c> the</c><00:11:36.399><c> first</c><00:11:36.560><c> move</c>
+define what we expect for the first move
+define what we expect for the first move
+which<00:11:37.040><c> helps</c><00:11:37.200><c> the</c><00:11:37.360><c> model</c><00:11:37.680><c> get</c><00:11:37.760><c> into</c><00:11:38.000><c> that</c>
+which helps the model get into that
+which helps the model get into that
+space.<00:11:38.560><c> We</c><00:11:38.880><c> say</c><00:11:39.440><c> right</c><00:11:39.680><c> up</c><00:11:39.920><c> here,</c><00:11:40.560><c> we</c><00:11:40.880><c> need</c><00:11:41.040><c> you</c>
+space. We say right up here, we need you
+space. We say right up here, we need you
+to<00:11:41.360><c> make</c><00:11:41.600><c> opening</c><00:11:42.320><c> statements</c><00:11:42.959><c> that</c><00:11:43.200><c> because</c>
+to make opening statements that because
+to make opening statements that because
+you<00:11:43.600><c> could</c><00:11:43.680><c> begin</c><00:11:44.000><c> a</c><00:11:44.160><c> lot</c><00:11:44.240><c> of</c><00:11:44.399><c> different</c><00:11:44.560><c> ways,</c>
+you could begin a lot of different ways,
+you could begin a lot of different ways,
+but<00:11:45.120><c> we</c><00:11:45.279><c> say</c><00:11:45.519><c> opening</c><00:11:45.920><c> statements</c><00:11:46.800><c> because</c>
+but we say opening statements because
+but we say opening statements because
+that<00:11:47.920><c> enables</c><00:11:48.399><c> the</c><00:11:48.640><c> model</c><00:11:48.959><c> to</c><00:11:49.279><c> enter</c><00:11:49.519><c> the</c>
+that enables the model to enter the
+that enables the model to enter the
+simulation<00:11:50.560><c> space</c><00:11:51.120><c> in</c><00:11:51.360><c> a</c><00:11:51.600><c> predictable</c><00:11:52.160><c> way.</c>
+simulation space in a predictable way.
+simulation space in a predictable way.
+If<00:11:53.040><c> you</c><00:11:53.200><c> leave</c><00:11:53.519><c> that</c><00:11:53.920><c> blank,</c><00:11:54.640><c> you</c><00:11:54.880><c> are</c><00:11:55.040><c> giving</c>
+If you leave that blank, you are giving
+If you leave that blank, you are giving
+the<00:11:55.519><c> model</c><00:11:55.839><c> cart</c><00:11:56.160><c> blanch</c><00:11:56.720><c> to</c><00:11:57.040><c> open</c><00:11:57.519><c> any</c><00:11:57.839><c> way</c><00:11:58.079><c> it</c>
+the model cart blanch to open any way it
+the model cart blanch to open any way it
+wants.<00:11:59.200><c> And</c><00:11:59.360><c> you</c><00:11:59.600><c> don't</c><00:11:59.760><c> want</c><00:11:59.920><c> that</c><00:12:00.240><c> for</c><00:12:00.399><c> a</c>
+wants. And you don't want that for a
+wants. And you don't want that for a
+predictable<00:12:01.200><c> simulation</c><00:12:01.760><c> builder.</c><00:12:02.240><c> You</c>
+predictable simulation builder. You
+predictable simulation builder. You
+actually<00:12:02.880><c> want</c><00:12:03.120><c> a</c><00:12:03.440><c> little</c><00:12:03.600><c> bit</c><00:12:03.760><c> of</c>
+actually want a little bit of
+actually want a little bit of
+predictability<00:12:04.720><c> so</c><00:12:04.880><c> you</c><00:12:05.120><c> can</c><00:12:05.279><c> start</c><00:12:05.440><c> to</c>
+predictability so you can start to
+predictability so you can start to
+insert<00:12:06.079><c> variables</c><00:12:06.800><c> and</c><00:12:07.120><c> learn.</c><00:12:07.600><c> Okay.</c><00:12:08.160><c> From</c>
+insert variables and learn. Okay. From
+insert variables and learn. Okay. From
+there<00:12:08.639><c> we</c><00:12:08.880><c> get</c><00:12:09.040><c> into</c><00:12:09.920><c> uh</c><00:12:10.160><c> visual</c><00:12:10.639><c> parsing</c><00:12:11.040><c> and</c>
+there we get into uh visual parsing and
+there we get into uh visual parsing and
+bounded<00:12:11.760><c> variables.</c><00:12:12.240><c> So</c><00:12:12.399><c> users</c><00:12:12.800><c> can</c><00:12:12.959><c> set</c>
+bounded variables. So users can set
+bounded variables. So users can set
+rounds,<00:12:13.600><c> they</c><00:12:13.680><c> can</c><00:12:13.839><c> set</c><00:12:14.000><c> word</c><00:12:14.240><c> limits,</c><00:12:14.880><c> users</c>
+rounds, they can set word limits, users
+rounds, they can set word limits, users
+can<00:12:16.000><c> um</c><00:12:16.480><c> actually</c><00:12:16.959><c> see</c><00:12:17.200><c> what</c><00:12:17.440><c> is</c><00:12:17.600><c> going</c><00:12:17.760><c> on</c>
+can um actually see what is going on
+can um actually see what is going on
+easily<00:12:18.320><c> because</c><00:12:18.560><c> we're</c><00:12:18.800><c> using</c><00:12:18.959><c> those</c><00:12:19.279><c> asy</c>
+easily because we're using those asy
+easily because we're using those asy
+gutters<00:12:19.920><c> like</c><00:12:20.079><c> the</c><00:12:20.240><c> delimiters.</c><00:12:20.959><c> I</c><00:12:21.200><c> don't</c>
+gutters like the delimiters. I don't
+gutters like the delimiters. I don't
+want<00:12:21.440><c> to</c><00:12:21.600><c> say</c><00:12:21.760><c> these</c><00:12:22.000><c> are</c><00:12:22.160><c> fantastic</c>
+want to say these are fantastic
+want to say these are fantastic
+principles.<00:12:23.120><c> Like</c><00:12:23.600><c> don't</c><00:12:23.920><c> make</c><00:12:24.160><c> me</c><00:12:24.399><c> tell</c><00:12:24.560><c> you</c>
+principles. Like don't make me tell you
+principles. Like don't make me tell you
+that<00:12:25.440><c> begin</c><00:12:25.760><c> now</c><00:12:26.000><c> with</c><00:12:26.240><c> special</c><00:12:26.639><c> asy</c><00:12:26.959><c> gutters</c>
+that begin now with special asy gutters
+that begin now with special asy gutters
+is<00:12:27.519><c> somehow</c><00:12:27.839><c> going</c><00:12:28.000><c> to</c><00:12:28.079><c> be</c><00:12:28.240><c> more</c><00:12:28.480><c> magical</c><00:12:28.800><c> than</c>
+is somehow going to be more magical than
+is somehow going to be more magical than
+begin<00:12:29.360><c> now.</c><00:12:29.920><c> It's</c><00:12:30.079><c> not.</c><00:12:30.480><c> But</c><00:12:30.639><c> it</c><00:12:30.800><c> sure</c><00:12:31.040><c> is</c>
+begin now. It's not. But it sure is
+begin now. It's not. But it sure is
+easier<00:12:31.600><c> to</c><00:12:31.839><c> read.</c><00:12:32.240><c> And</c><00:12:32.480><c> if</c><00:12:32.639><c> we're</c><00:12:32.800><c> reading</c>
+easier to read. And if we're reading
+easier to read. And if we're reading
+these<00:12:33.360><c> large</c><00:12:33.600><c> prompts</c><00:12:34.000><c> like</c><00:12:34.160><c> I've</c><00:12:34.399><c> been</c>
+these large prompts like I've been
+these large prompts like I've been
+describing,<00:12:35.120><c> it</c><00:12:35.279><c> is</c><00:12:35.440><c> sometimes</c><00:12:35.920><c> nice</c><00:12:36.240><c> to</c><00:12:36.480><c> have</c>
+describing, it is sometimes nice to have
+describing, it is sometimes nice to have
+clean<00:12:37.040><c> gutters</c><00:12:37.360><c> and</c><00:12:37.519><c> bulleted</c><00:12:38.000><c> lists.</c>
+clean gutters and bulleted lists.
+clean gutters and bulleted lists.
+Finally,<00:12:40.000><c> there</c><00:12:40.320><c> are</c><00:12:40.880><c> error</c><00:12:41.200><c> rules</c><00:12:41.680><c> for</c>
+Finally, there are error rules for
+Finally, there are error rules for
+failure<00:12:42.639><c> modes.</c><00:12:43.360><c> And</c><00:12:43.519><c> part</c><00:12:43.760><c> of</c><00:12:43.839><c> the</c><00:12:44.079><c> error</c>
+failure modes. And part of the error
+failure modes. And part of the error
+rules<00:12:44.560><c> I've</c><00:12:44.880><c> already</c><00:12:45.120><c> called</c><00:12:45.360><c> out</c><00:12:45.519><c> to</c><00:12:45.680><c> you.</c>
+rules I've already called out to you.
+rules I've already called out to you.
+Like<00:12:46.000><c> if</c><00:12:46.240><c> you</c><00:12:46.399><c> go</c><00:12:46.560><c> back</c><00:12:46.720><c> up</c><00:12:46.959><c> here,</c><00:12:48.240><c> one</c><00:12:48.480><c> of</c><00:12:48.560><c> the</c>
+Like if you go back up here, one of the
+Like if you go back up here, one of the
+hidden<00:12:49.360><c> error</c><00:12:50.160><c> uh</c><00:12:50.560><c> rules</c><00:12:50.959><c> is</c><00:12:51.279><c> the</c>
+hidden error uh rules is the
+hidden error uh rules is the
+confirmation<00:12:52.399><c> phrase.</c><00:12:53.120><c> If</c><00:12:53.360><c> there</c><00:12:53.519><c> is</c><00:12:53.680><c> a</c>
+confirmation phrase. If there is a
+confirmation phrase. If there is a
+problem,<00:12:54.320><c> you</c><00:12:54.480><c> are</c><00:12:54.639><c> going</c><00:12:54.800><c> to</c><00:12:54.959><c> see</c><00:12:55.040><c> it</c><00:12:55.279><c> because</c>
+problem, you are going to see it because
+problem, you are going to see it because
+it's<00:12:55.680><c> going</c><00:12:55.839><c> to</c><00:12:55.920><c> come</c><00:12:56.079><c> back</c><00:12:56.240><c> and</c><00:12:56.560><c> tell</c><00:12:56.720><c> you</c>
+it's going to come back and tell you
+it's going to come back and tell you
+because<00:12:57.279><c> the</c><00:12:57.440><c> user</c><00:12:57.839><c> answer</c><00:12:58.079><c> paraphrase</c><00:12:59.440><c> is</c>
+because the user answer paraphrase is
+because the user answer paraphrase is
+going<00:13:00.560><c> to</c><00:13:00.800><c> be</c><00:13:01.360><c> correct.</c><00:13:02.160><c> But</c><00:13:02.320><c> there's</c><00:13:02.560><c> other</c>
+going to be correct. But there's other
+going to be correct. But there's other
+ones<00:13:03.120><c> too</c><00:13:03.600><c> like</c><00:13:03.920><c> do</c><00:13:04.160><c> not</c><00:13:04.399><c> ask</c><00:13:04.560><c> further</c><00:13:04.959><c> setup</c>
+ones too like do not ask further setup
+ones too like do not ask further setup
+questions<00:13:05.600><c> after</c><00:13:05.839><c> the</c><00:13:06.079><c> honorable</c><00:13:06.480><c> prompt</c><00:13:06.720><c> is</c>
+questions after the honorable prompt is
+questions after the honorable prompt is
+admitted.<00:13:07.200><c> We</c><00:13:07.440><c> are</c><00:13:07.519><c> scoping</c><00:13:08.000><c> down</c><00:13:08.160><c> so</c><00:13:08.320><c> it</c>
+admitted. We are scoping down so it
+admitted. We are scoping down so it
+doesn't<00:13:08.639><c> go</c><00:13:08.880><c> forever.</c><00:13:09.519><c> We</c><00:13:09.680><c> are</c><00:13:09.839><c> demanding</c>
+doesn't go forever. We are demanding
+doesn't go forever. We are demanding
+that<00:13:10.399><c> it</c><00:13:10.639><c> remain</c><00:13:10.880><c> in</c><00:13:11.120><c> character.</c><00:13:11.760><c> We</c><00:13:12.079><c> want</c><00:13:12.240><c> to</c>
+that it remain in character. We want to
+that it remain in character. We want to
+ensure<00:13:12.800><c> it</c><00:13:13.040><c> retains</c><00:13:13.519><c> the</c><00:13:13.760><c> detail.</c><00:13:14.480><c> We</c><00:13:14.639><c> are</c>
+ensure it retains the detail. We are
+ensure it retains the detail. We are
+demanding<00:13:15.200><c> that</c><00:13:15.360><c> it</c><00:13:15.600><c> only</c><00:13:15.680><c> asks</c><00:13:15.920><c> one</c><00:13:16.160><c> question</c>
+demanding that it only asks one question
+demanding that it only asks one question
+at<00:13:16.480><c> a</c><00:13:16.639><c> time.</c><00:13:16.800><c> We</c><00:13:16.959><c> are</c><00:13:17.040><c> giving</c><00:13:17.200><c> it</c><00:13:17.440><c> a</c><00:13:17.600><c> lot</c><00:13:17.760><c> of</c>
+at a time. We are giving it a lot of
+at a time. We are giving it a lot of
+constraints.<00:13:18.720><c> Okay.</c><00:13:19.279><c> Now</c><00:13:19.519><c> I</c><00:13:19.760><c> want</c><00:13:19.920><c> to</c><00:13:20.079><c> finish</c>
+constraints. Okay. Now I want to finish
+constraints. Okay. Now I want to finish
+by<00:13:20.800><c> talking</c><00:13:21.200><c> about</c><00:13:21.440><c> the</c><00:13:21.760><c> structure</c><00:13:22.320><c> and</c>
+by talking about the structure and
+by talking about the structure and
+starting<00:13:23.040><c> with</c><00:13:23.279><c> the</c><00:13:23.519><c> system</c><00:13:23.920><c> ro</c><00:13:24.320><c> declaration</c>
+starting with the system ro declaration
+starting with the system ro declaration
+is<00:13:25.760><c> classic.</c><00:13:26.560><c> Getting</c><00:13:26.880><c> to</c><00:13:27.040><c> the</c><00:13:27.200><c> mission</c><00:13:27.600><c> is</c>
+is classic. Getting to the mission is
+is classic. Getting to the mission is
+the<00:13:28.000><c> correct</c><00:13:28.320><c> overall</c><00:13:28.720><c> next</c><00:13:28.959><c> step.</c><00:13:29.279><c> And</c><00:13:29.440><c> by</c>
+the correct overall next step. And by
+the correct overall next step. And by
+the<00:13:29.760><c> way,</c><00:13:29.920><c> these</c><00:13:30.160><c> are</c><00:13:30.320><c> larger</c><00:13:31.040><c> pro</c><00:13:31.519><c> uh</c><00:13:31.760><c> prompt</c>
+the way, these are larger pro uh prompt
+the way, these are larger pro uh prompt
+structures<00:13:33.040><c> that</c><00:13:33.360><c> you</c><00:13:33.519><c> can</c><00:13:33.680><c> use</c><00:13:33.839><c> in</c><00:13:34.000><c> other</c>
+structures that you can use in other
+structures that you can use in other
+prompts,<00:13:34.639><c> not</c><00:13:34.800><c> just</c><00:13:34.880><c> for</c><00:13:35.040><c> these</c><00:13:35.360><c> super</c><00:13:35.680><c> macro</c>
+prompts, not just for these super macro
+prompts, not just for these super macro
+prompts,<00:13:36.560><c> right?</c><00:13:36.880><c> If</c><00:13:37.040><c> you</c><00:13:37.200><c> start</c><00:13:37.440><c> with,</c><00:13:38.079><c> hey,</c>
+prompts, right? If you start with, hey,
+prompts, right? If you start with, hey,
+here's<00:13:38.560><c> my</c><00:13:38.720><c> system</c><00:13:38.959><c> role</c><00:13:39.200><c> to</c><00:13:39.360><c> move</c><00:13:39.440><c> you</c><00:13:39.519><c> into</c>
+here's my system role to move you into
+here's my system role to move you into
+latent<00:13:40.160><c> space.</c><00:13:40.639><c> Here's</c><00:13:40.880><c> the</c><00:13:41.120><c> mission</c><00:13:41.360><c> that</c><00:13:41.519><c> I</c>
+latent space. Here's the mission that I
+latent space. Here's the mission that I
+have<00:13:41.920><c> for</c><00:13:42.079><c> you.</c><00:13:42.560><c> Uh</c><00:13:42.800><c> and</c><00:13:43.040><c> then</c><00:13:43.279><c> here's</c><00:13:43.600><c> the</c>
+have for you. Uh and then here's the
+have for you. Uh and then here's the
+content<00:13:44.240><c> that</c><00:13:44.399><c> I</c><00:13:44.560><c> want</c><00:13:44.720><c> you</c><00:13:44.800><c> to</c><00:13:44.959><c> engage</c><00:13:45.279><c> with.</c>
+content that I want you to engage with.
+content that I want you to engage with.
+In<00:13:45.760><c> this</c><00:13:45.839><c> case,</c><00:13:46.000><c> it's</c><00:13:46.240><c> the</c><00:13:46.480><c> script.</c><00:13:47.200><c> you're</c>
+In this case, it's the script. you're
+In this case, it's the script. you're
+going<00:13:47.600><c> to</c><00:13:47.680><c> be</c><00:13:47.760><c> in</c><00:13:48.000><c> a</c><00:13:48.160><c> good</c><00:13:48.320><c> spot</c><00:13:48.959><c> for</c><00:13:49.279><c> a</c><00:13:49.600><c> lot</c><00:13:49.680><c> of</c>
+going to be in a good spot for a lot of
+going to be in a good spot for a lot of
+different<00:13:50.480><c> prompts.</c><00:13:51.040><c> If</c><00:13:51.279><c> you</c><00:13:51.519><c> frame</c><00:13:51.839><c> how</c><00:13:52.079><c> you</c>
+different prompts. If you frame how you
+different prompts. If you frame how you
+want<00:13:52.399><c> the</c><00:13:52.639><c> response</c><00:13:52.959><c> to</c><00:13:53.200><c> work,</c><00:13:53.440><c> which</c><00:13:53.600><c> is</c><00:13:53.680><c> the</c>
+want the response to work, which is the
+want the response to work, which is the
+confirmation<00:13:54.399><c> phrase</c><00:13:54.720><c> template</c><00:13:55.040><c> in</c><00:13:55.200><c> my</c><00:13:55.360><c> case,</c>
+confirmation phrase template in my case,
+confirmation phrase template in my case,
+but<00:13:55.760><c> could</c><00:13:55.920><c> be</c><00:13:56.079><c> something</c><00:13:56.320><c> totally</c><00:13:56.720><c> different</c>
+but could be something totally different
+but could be something totally different
+for<00:13:57.120><c> a</c><00:13:57.279><c> prompt</c><00:13:57.519><c> of</c><00:13:57.760><c> yours,</c><00:13:58.320><c> it's</c><00:13:58.639><c> going</c><00:13:58.720><c> to</c><00:13:58.880><c> be</c>
+for a prompt of yours, it's going to be
+for a prompt of yours, it's going to be
+really,<00:13:59.360><c> really</c><00:13:59.680><c> helpful.</c><00:14:00.079><c> And</c><00:14:00.320><c> finally,</c><00:14:01.279><c> if</c>
+really, really helpful. And finally, if
+really, really helpful. And finally, if
+you<00:14:01.760><c> specify</c><00:14:02.320><c> a</c><00:14:02.639><c> contract</c><00:14:03.440><c> and</c><00:14:03.760><c> how</c><00:14:03.920><c> you</c>
+you specify a contract and how you
+you specify a contract and how you
+begin,<00:14:04.480><c> if</c><00:14:04.639><c> you're</c><00:14:04.800><c> trying</c><00:14:04.880><c> to</c><00:14:05.040><c> do</c><00:14:05.120><c> a</c><00:14:05.360><c> super</c>
+begin, if you're trying to do a super
+begin, if you're trying to do a super
+prompt<00:14:06.000><c> like</c><00:14:06.160><c> this</c><00:14:06.320><c> and</c><00:14:06.560><c> you</c><00:14:06.720><c> specify</c><00:14:07.279><c> a</c>
+prompt like this and you specify a
+prompt like this and you specify a
+runnable<00:14:08.000><c> prompt</c><00:14:08.399><c> contract</c><00:14:08.880><c> at</c><00:14:09.120><c> the</c><00:14:09.279><c> end</c><00:14:09.600><c> and</c>
+runnable prompt contract at the end and
+runnable prompt contract at the end and
+you<00:14:10.079><c> also</c><00:14:10.480><c> specify</c><00:14:11.519><c> how</c><00:14:11.839><c> you</c><00:14:12.000><c> want</c><00:14:12.079><c> the</c><00:14:12.320><c> model</c>
+you also specify how you want the model
+you also specify how you want the model
+to<00:14:12.720><c> begin,</c><00:14:13.120><c> it</c><00:14:13.360><c> increases</c><00:14:13.760><c> the</c><00:14:14.000><c> odds</c><00:14:14.240><c> that</c>
+to begin, it increases the odds that
+to begin, it increases the odds that
+your<00:14:14.720><c> prompt</c><00:14:15.279><c> is</c><00:14:15.680><c> going</c><00:14:15.839><c> to</c><00:14:16.079><c> actually</c><00:14:16.560><c> run</c>
+your prompt is going to actually run
+your prompt is going to actually run
+successfully.<00:14:17.839><c> Okay,</c><00:14:18.320><c> we</c><00:14:18.560><c> are</c><00:14:18.720><c> going</c><00:14:18.880><c> to</c><00:14:18.959><c> skip</c>
+successfully. Okay, we are going to skip
+successfully. Okay, we are going to skip
+the<00:14:19.360><c> micro</c><00:14:19.760><c> details</c><00:14:20.079><c> that</c><00:14:20.240><c> add</c><00:14:20.480><c> delight.</c>
+the micro details that add delight.
+the micro details that add delight.
+We've<00:14:21.120><c> talked</c><00:14:21.279><c> about</c><00:14:21.440><c> the</c><00:14:21.600><c> asy.</c><00:14:22.160><c> We've</c><00:14:22.320><c> talked</c>
+We've talked about the asy. We've talked
+We've talked about the asy. We've talked
+about<00:14:22.720><c> markdown.</c><00:14:23.279><c> Aren't</c><00:14:23.519><c> you</c><00:14:23.680><c> glad</c><00:14:23.839><c> I</c><00:14:24.079><c> can</c>
+about markdown. Aren't you glad I can
+about markdown. Aren't you glad I can
+make<00:14:24.320><c> things</c><00:14:24.639><c> pretty?</c><00:14:25.600><c> Uh</c><00:14:26.000><c> we</c><00:14:26.240><c> will</c><00:14:26.480><c> talk</c>
+make things pretty? Uh we will talk
+make things pretty? Uh we will talk
+briefly<00:14:27.279><c> about</c><00:14:27.519><c> how</c><00:14:27.680><c> these</c><00:14:27.920><c> pieces</c><00:14:28.320><c> reinforce</c>
+briefly about how these pieces reinforce
+briefly about how these pieces reinforce
+one<00:14:29.040><c> another.</c><00:14:29.600><c> The</c><00:14:29.839><c> fixed</c><00:14:30.160><c> question</c><00:14:30.560><c> order</c>
+one another. The fixed question order
+one another. The fixed question order
+reinforces<00:14:31.680><c> the</c><00:14:31.920><c> deterministic</c><00:14:32.639><c> state</c>
+reinforces the deterministic state
+reinforces the deterministic state
+machine.<00:14:33.519><c> The</c><00:14:33.680><c> builder</c><00:14:34.079><c> never</c><00:14:34.320><c> deviates</c><00:14:34.720><c> from</c>
+machine. The builder never deviates from
+machine. The builder never deviates from
+the<00:14:35.040><c> script</c><00:14:35.279><c> and</c><00:14:35.519><c> always</c><00:14:35.839><c> gets</c><00:14:36.079><c> the</c><00:14:36.240><c> questions</c>
+the script and always gets the questions
+the script and always gets the questions
+the<00:14:36.880><c> same</c><00:14:37.040><c> way.</c><00:14:37.519><c> And</c><00:14:37.680><c> you</c><00:14:37.920><c> can</c><00:14:38.160><c> treat</c><00:14:38.399><c> it</c><00:14:38.560><c> like</c>
+the same way. And you can treat it like
+the same way. And you can treat it like
+an<00:14:38.959><c> automaton</c><00:14:39.600><c> in</c><00:14:39.760><c> that</c><00:14:39.920><c> regard.</c><00:14:40.320><c> The</c><00:14:40.560><c> only</c>
+an automaton in that regard. The only
+an automaton in that regard. The only
+difference<00:14:41.120><c> is</c><00:14:41.360><c> the</c><00:14:41.680><c> power</c><00:14:41.920><c> of</c><00:14:42.079><c> the</c><00:14:42.320><c> LLM</c>
+difference is the power of the LLM
+difference is the power of the LLM
+behind<00:14:43.279><c> it,</c><00:14:43.839><c> which</c><00:14:44.079><c> is</c><00:14:44.320><c> really</c><00:14:44.720><c> interesting</c>
+behind it, which is really interesting
+behind it, which is really interesting
+because<00:14:46.079><c> you'll</c><00:14:46.480><c> see</c><00:14:46.800><c> in</c><00:14:47.120><c> the</c><00:14:47.279><c> examples</c><00:14:48.160><c> how</c>
+because you'll see in the examples how
+because you'll see in the examples how
+03<00:14:49.279><c> versus</c><00:14:49.680><c> 40</c><00:14:50.320><c> is</c><00:14:50.639><c> different.</c><00:14:51.279><c> If</c><00:14:51.440><c> you</c><00:14:51.600><c> are</c>
+03 versus 40 is different. If you are
+03 versus 40 is different. If you are
+teaching<00:14:52.079><c> this,</c><00:14:52.320><c> and</c><00:14:52.560><c> I</c><00:14:52.720><c> know</c><00:14:52.959><c> some</c><00:14:53.199><c> folks</c>
+teaching this, and I know some folks
+teaching this, and I know some folks
+that<00:14:53.760><c> watch</c><00:14:53.920><c> my</c><00:14:54.160><c> videos</c><00:14:54.560><c> teach</c><00:14:54.800><c> my</c><00:14:55.040><c> work</c><00:14:55.199><c> to</c>
+that watch my videos teach my work to
+that watch my videos teach my work to
+others,<00:14:55.760><c> and</c><00:14:55.920><c> that's</c><00:14:56.160><c> fantastic.</c><00:14:57.120><c> You</c><00:14:57.440><c> want</c>
+others, and that's fantastic. You want
+others, and that's fantastic. You want
+to<00:14:57.920><c> remind</c><00:14:58.399><c> people</c><00:14:58.720><c> of</c><00:14:58.959><c> the</c><00:14:59.279><c> principle</c><00:14:59.760><c> of</c>
+to remind people of the principle of
+to remind people of the principle of
+progressive<00:15:00.800><c> disclosure</c><00:15:01.680><c> and</c><00:15:01.839><c> the</c>
+progressive disclosure and the
+progressive disclosure and the
+importance<00:15:02.320><c> of</c><00:15:02.480><c> template</c><00:15:02.959><c> integrity.</c><00:15:03.600><c> Be</c>
+importance of template integrity. Be
+importance of template integrity. Be
+careful<00:15:04.079><c> with</c><00:15:04.320><c> your</c><00:15:04.560><c> placeholders.</c><00:15:05.600><c> Be</c>
+careful with your placeholders. Be
+careful with your placeholders. Be
+careful<00:15:06.320><c> with</c><00:15:06.880><c> asking</c><00:15:07.440><c> too</c><00:15:07.760><c> much</c><00:15:08.000><c> of</c><00:15:08.320><c> the</c>
+careful with asking too much of the
+careful with asking too much of the
+model<00:15:08.880><c> in</c><00:15:09.120><c> one</c><00:15:09.360><c> go</c><00:15:09.680><c> without</c><00:15:10.079><c> those</c><00:15:10.320><c> checks</c><00:15:10.639><c> and</c>
+model in one go without those checks and
+model in one go without those checks and
+balances<00:15:11.279><c> that</c><00:15:11.519><c> I</c><00:15:11.680><c> showed</c><00:15:11.839><c> you</c><00:15:12.000><c> in</c><00:15:12.160><c> the</c>
+balances that I showed you in the
+balances that I showed you in the
+prompt,<00:15:12.560><c> without</c><00:15:12.880><c> asking</c><00:15:13.120><c> it</c><00:15:13.360><c> to</c><00:15:13.440><c> reiterate</c>
+prompt, without asking it to reiterate
+prompt, without asking it to reiterate
+the<00:15:14.160><c> contract,</c><00:15:15.040><c> without</c><00:15:15.440><c> asking</c><00:15:15.839><c> it</c><00:15:16.320><c> to</c><00:15:16.639><c> be</c>
+the contract, without asking it to be
+the contract, without asking it to be
+specific<00:15:17.440><c> in</c><00:15:17.760><c> its</c><00:15:18.000><c> summary</c><00:15:18.320><c> as</c><00:15:18.560><c> it</c><00:15:18.720><c> comes</c><00:15:18.959><c> back</c>
+specific in its summary as it comes back
+specific in its summary as it comes back
+to<00:15:19.360><c> you.</c><00:15:19.839><c> We</c><00:15:20.079><c> are</c><00:15:20.240><c> giving</c><00:15:20.800><c> the</c><00:15:21.199><c> prompt</c><00:15:21.920><c> the</c>
+to you. We are giving the prompt the
+to you. We are giving the prompt the
+token<00:15:23.199><c> scaffolding</c><00:15:23.839><c> it</c><00:15:24.160><c> needs</c><00:15:24.399><c> to</c><00:15:24.639><c> be</c>
+token scaffolding it needs to be
+token scaffolding it needs to be
+successful.<00:15:25.680><c> Finally,</c><00:15:26.480><c> potential</c><00:15:26.959><c> pitfalls.</c>
+successful. Finally, potential pitfalls.
+successful. Finally, potential pitfalls.
+You<00:15:28.160><c> want</c><00:15:28.399><c> to</c><00:15:28.639><c> make</c><00:15:28.800><c> sure</c><00:15:29.920><c> that</c><00:15:30.240><c> you</c><00:15:30.399><c> are</c>
+You want to make sure that you are
+You want to make sure that you are
+giving<00:15:30.880><c> it</c><00:15:31.120><c> limits.</c><00:15:31.680><c> And</c><00:15:31.920><c> so</c><00:15:32.079><c> that</c><00:15:32.320><c> is</c><00:15:32.480><c> one</c><00:15:32.720><c> of</c>
+giving it limits. And so that is one of
+giving it limits. And so that is one of
+the<00:15:32.959><c> things</c><00:15:33.440><c> that</c><00:15:34.160><c> we</c><00:15:34.399><c> did</c><00:15:34.639><c> not</c><00:15:34.800><c> go</c><00:15:35.040><c> as</c>
+the things that we did not go as
+the things that we did not go as
+explicit<00:15:35.760><c> here</c><00:15:36.000><c> that</c><00:15:36.240><c> I</c><00:15:36.560><c> find</c><00:15:36.720><c> that</c><00:15:36.880><c> the</c><00:15:37.120><c> model</c>
+explicit here that I find that the model
+explicit here that I find that the model
+tends<00:15:37.760><c> to</c><00:15:37.920><c> get</c><00:15:38.079><c> to</c><00:15:38.320><c> in</c><00:15:38.560><c> practice,</c><00:15:38.959><c> as</c><00:15:39.120><c> we'll</c>
+tends to get to in practice, as we'll
+tends to get to in practice, as we'll
+see.<00:15:40.079><c> You</c><00:15:40.399><c> want</c><00:15:40.560><c> to</c><00:15:40.800><c> not</c><00:15:41.040><c> be</c>
+see. You want to not be
+see. You want to not be
+overcommitting<00:15:43.360><c> the</c><00:15:43.600><c> model</c><00:15:43.839><c> to</c><00:15:44.079><c> responses</c><00:15:44.560><c> it</c>
+overcommitting the model to responses it
+overcommitting the model to responses it
+can't<00:15:44.880><c> deliver.</c><00:15:45.279><c> Another</c><00:15:45.680><c> example</c><00:15:46.000><c> that</c>
+can't deliver. Another example that
+can't deliver. Another example that
+would<00:15:46.320><c> have</c><00:15:46.480><c> strengthened</c><00:15:46.880><c> this</c><00:15:47.120><c> prompt</c><00:15:47.440><c> more</c>
+would have strengthened this prompt more
+would have strengthened this prompt more
+that<00:15:47.839><c> you</c><00:15:48.000><c> might</c><00:15:48.240><c> want</c><00:15:48.320><c> to</c><00:15:48.480><c> use</c><00:15:48.880><c> if</c><00:15:49.199><c> you</c><00:15:49.440><c> add</c>
+that you might want to use if you add
+that you might want to use if you add
+more<00:15:50.000><c> files</c><00:15:50.480><c> is</c><00:15:50.720><c> to</c><00:15:50.959><c> summarize</c><00:15:51.519><c> key</c><00:15:51.759><c> numbers</c>
+more files is to summarize key numbers
+more files is to summarize key numbers
+in<00:15:52.160><c> two</c><00:15:52.320><c> to</c><00:15:52.480><c> three</c><00:15:52.720><c> lines</c><00:15:52.959><c> to</c><00:15:53.199><c> force</c><00:15:53.440><c> the</c><00:15:53.600><c> model</c>
+in two to three lines to force the model
+in two to three lines to force the model
+to<00:15:54.079><c> answer</c><00:15:54.399><c> back</c><00:15:54.720><c> on</c><00:15:55.040><c> files</c><00:15:55.759><c> because</c><00:15:56.079><c> you</c>
+to answer back on files because you
+to answer back on files because you
+don't<00:15:56.480><c> want</c><00:15:56.560><c> it</c><00:15:56.800><c> to</c><00:15:56.959><c> just</c><00:15:57.279><c> skip</c><00:15:57.519><c> over</c><00:15:57.759><c> the</c><00:15:58.000><c> file</c>
+don't want it to just skip over the file
+don't want it to just skip over the file
+content.<00:15:58.880><c> So</c><00:15:59.120><c> there</c><00:15:59.360><c> are</c><00:15:59.600><c> little</c><00:15:59.839><c> things</c><00:16:00.000><c> that</c>
+content. So there are little things that
+content. So there are little things that
+think<00:16:00.560><c> of</c><00:16:00.720><c> these</c><00:16:01.040><c> is</c><00:16:01.360><c> essentially</c><00:16:01.759><c> tweaks</c><00:16:02.160><c> you</c>
+think of these is essentially tweaks you
+think of these is essentially tweaks you
+can<00:16:02.480><c> make</c><00:16:02.720><c> depending</c><00:16:03.040><c> on</c><00:16:03.199><c> what</c><00:16:03.440><c> you're</c>
+can make depending on what you're
+can make depending on what you're
+looking<00:16:03.839><c> to</c><00:16:04.000><c> accomplish.</c><00:16:04.720><c> We've</c><00:16:05.040><c> gone</c><00:16:05.199><c> on</c>
+looking to accomplish. We've gone on
+looking to accomplish. We've gone on
+long<00:16:05.600><c> enough.</c><00:16:06.240><c> Let's</c><00:16:06.560><c> move</c><00:16:07.680><c> to</c><00:16:08.000><c> digital</c><00:16:08.720><c> twin</c>
+long enough. Let's move to digital twin
+long enough. Let's move to digital twin
+negotiation<00:16:10.079><c> builder</c><00:16:10.560><c> v2</c><00:16:11.279><c> using</c><00:16:11.920><c> 03</c><00:16:12.880><c> and</c><00:16:13.279><c> see</c>
+negotiation builder v2 using 03 and see
+negotiation builder v2 using 03 and see
+how<00:16:13.839><c> the</c><00:16:14.079><c> conversation</c><00:16:14.800><c> went.</c><00:16:15.440><c> Here</c><00:16:15.600><c> we</c><00:16:15.839><c> are.</c>
+how the conversation went. Here we are.
+how the conversation went. Here we are.
+I<00:16:16.480><c> run</c><00:16:16.639><c> the</c><00:16:16.800><c> prompt</c><00:16:17.120><c> just</c><00:16:17.360><c> as</c><00:16:17.519><c> you</c><00:16:17.759><c> described.</c>
+I run the prompt just as you described.
+I run the prompt just as you described.
+The<00:16:18.800><c> situation</c><00:16:19.199><c> we're</c><00:16:19.519><c> negotiating</c><00:16:20.720><c> is</c><00:16:21.120><c> a</c>
+The situation we're negotiating is a
+The situation we're negotiating is a
+product<00:16:21.680><c> pitch</c><00:16:22.079><c> LLM</c><00:16:22.560><c> to</c><00:16:22.720><c> SQL</c><00:16:23.120><c> project.</c><00:16:23.759><c> It</c>
+product pitch LLM to SQL project. It
+product pitch LLM to SQL project. It
+understands<00:16:24.399><c> it.</c><00:16:24.720><c> It</c><00:16:24.959><c> comes</c><00:16:25.199><c> back.</c><00:16:25.600><c> Here's</c>
+understands it. It comes back. Here's
+understands it. It comes back. Here's
+who<00:16:26.079><c> I'm</c><00:16:26.240><c> pitching</c><00:16:26.480><c> to.</c><00:16:26.800><c> CEO,</c><00:16:27.279><c> CTO,</c><00:16:27.759><c> CFO,</c>
+who I'm pitching to. CEO, CTO, CFO,
+who I'm pitching to. CEO, CTO, CFO,
+director,<00:16:28.959><c> me</c><00:16:29.120><c> and</c><00:16:29.279><c> the</c><00:16:29.440><c> CRO</c>
+director, me and the CRO
+director, me and the CRO
+here.<00:16:31.519><c> I</c><00:16:31.680><c> I</c><00:16:32.000><c> want</c><00:16:32.160><c> approval</c><00:16:32.560><c> to</c><00:16:32.720><c> build</c><00:16:32.880><c> the</c>
+here. I I want approval to build the
+here. I I want approval to build the
+product<00:16:33.279><c> and</c><00:16:33.440><c> launch.</c><00:16:33.759><c> That's</c><00:16:33.920><c> my</c><00:16:34.079><c> goal.</c><00:16:34.320><c> I</c>
+product and launch. That's my goal. I
+product and launch. That's my goal. I
+have<00:16:34.639><c> been</c><00:16:34.720><c> in</c><00:16:34.880><c> these</c><00:16:35.120><c> situations.</c><00:16:35.680><c> I'm</c>
+have been in these situations. I'm
+have been in these situations. I'm
+picking<00:16:36.160><c> something</c><00:16:36.399><c> I</c><00:16:36.560><c> know</c><00:16:36.800><c> well</c><00:16:36.959><c> so</c><00:16:37.199><c> I</c><00:16:37.360><c> can</c>
+picking something I know well so I can
+picking something I know well so I can
+assess<00:16:37.759><c> the</c><00:16:38.000><c> quality.</c><00:16:38.560><c> Next</c><00:16:38.800><c> question.</c><00:16:39.279><c> Which</c>
+assess the quality. Next question. Which
+assess the quality. Next question. Which
+twin<00:16:39.920><c> will</c><00:16:40.079><c> you</c><00:16:40.320><c> play?</c><00:16:40.880><c> I'm</c><00:16:41.120><c> going</c><00:16:41.199><c> to</c><00:16:41.279><c> play</c><00:16:41.440><c> me</c>
+twin will you play? I'm going to play me
+twin will you play? I'm going to play me
+and<00:16:41.920><c> be</c><00:16:42.000><c> the</c><00:16:42.160><c> director</c><00:16:42.320><c> of</c><00:16:42.560><c> product.</c><00:16:43.120><c> Great.</c>
+and be the director of product. Great.
+and be the director of product. Great.
+How<00:16:43.839><c> many</c><00:16:44.079><c> turns</c><00:16:44.399><c> before</c><00:16:44.720><c> timeout?</c><00:16:45.360><c> Let's</c><00:16:45.600><c> do</c>
+How many turns before timeout? Let's do
+How many turns before timeout? Let's do
+three<00:16:46.079><c> rounds</c><00:16:46.320><c> cuz</c><00:16:46.560><c> most</c><00:16:46.800><c> CEOs</c><00:16:47.279><c> don't</c>
+three rounds cuz most CEOs don't
+three rounds cuz most CEOs don't
+tolerate<00:16:47.920><c> more</c><00:16:48.079><c> than</c><00:16:48.240><c> that.</c><00:16:48.480><c> And</c><00:16:48.639><c> then</c><00:16:48.800><c> I</c>
+tolerate more than that. And then I
+tolerate more than that. And then I
+throw<00:16:49.199><c> it</c><00:16:49.360><c> a</c><00:16:49.519><c> curveball.</c><00:16:50.320><c> This</c><00:16:50.560><c> was</c><00:16:50.720><c> not</c>
+throw it a curveball. This was not
+throw it a curveball. This was not
+planned<00:16:51.199><c> for</c><00:16:51.360><c> in</c><00:16:51.519><c> the</c><00:16:51.680><c> prompt.</c><00:16:52.160><c> I</c><00:16:52.399><c> throw</c><00:16:52.720><c> it</c>
+planned for in the prompt. I throw it
+planned for in the prompt. I throw it
+300<00:16:53.759><c> words</c><00:16:54.720><c> on</c><00:16:55.120><c> my</c><00:16:55.360><c> product</c><00:16:55.680><c> and</c><00:16:55.839><c> I</c><00:16:56.000><c> say</c><00:16:56.240><c> this</c>
+300 words on my product and I say this
+300 words on my product and I say this
+is<00:16:56.560><c> what</c><00:16:56.720><c> I</c><00:16:56.880><c> pitched</c><00:16:57.199><c> them.</c><00:16:57.680><c> Right?</c><00:16:57.920><c> It's</c><00:16:58.160><c> all</c>
+is what I pitched them. Right? It's all
+is what I pitched them. Right? It's all
+about<00:16:58.480><c> how</c><00:16:58.720><c> amazing</c><00:16:59.120><c> this</c><00:16:59.360><c> imaginary</c><00:17:00.000><c> product</c>
+about how amazing this imaginary product
+about how amazing this imaginary product
+is.<00:17:00.800><c> I</c><00:17:00.959><c> I</c><00:17:01.279><c> am</c><00:17:01.440><c> okay</c><00:17:01.680><c> with</c><00:17:01.839><c> the</c><00:17:02.079><c> numbers</c><00:17:02.320><c> being</c>
+is. I I am okay with the numbers being
+is. I I am okay with the numbers being
+made<00:17:02.720><c> up</c><00:17:02.880><c> because</c><00:17:03.120><c> this</c><00:17:03.279><c> is</c><00:17:03.360><c> an</c><00:17:03.600><c> example</c><00:17:04.160><c> and</c>
+made up because this is an example and
+made up because this is an example and
+this<00:17:04.559><c> is</c><00:17:04.640><c> my</c><00:17:04.880><c> ask</c><00:17:05.360><c> Q3</c><00:17:05.839><c> roll</c><00:17:06.079><c> out</c><00:17:06.480><c> request.</c><00:17:07.199><c> Got</c>
+this is my ask Q3 roll out request. Got
+this is my ask Q3 roll out request. Got
+it.<00:17:08.000><c> Next</c><00:17:08.319><c> question.</c><00:17:09.120><c> Provide</c><00:17:09.439><c> any</c><00:17:09.679><c> key</c>
+it. Next question. Provide any key
+it. Next question. Provide any key
+numbers<00:17:10.240><c> and</c><00:17:10.480><c> I</c><00:17:10.640><c> basically</c><00:17:11.120><c> say</c><00:17:11.679><c> I</c><00:17:11.919><c> could</c><00:17:12.079><c> have</c>
+numbers and I basically say I could have
+numbers and I basically say I could have
+said<00:17:12.640><c> just</c><00:17:12.880><c> stick</c><00:17:13.120><c> with</c><00:17:13.199><c> these</c><00:17:13.520><c> numbers</c><00:17:13.760><c> up</c>
+said just stick with these numbers up
+said just stick with these numbers up
+here<00:17:14.079><c> but</c><00:17:14.319><c> I</c><00:17:14.480><c> want</c><00:17:14.559><c> to</c><00:17:14.720><c> think</c><00:17:14.880><c> about</c><00:17:14.959><c> the</c><00:17:15.199><c> deals</c>
+here but I want to think about the deals
+here but I want to think about the deals
+in<00:17:15.760><c> this</c><00:17:15.919><c> case</c><00:17:16.160><c> because</c><00:17:16.400><c> I</c><00:17:16.559><c> think</c><00:17:16.720><c> that's</c>
+in this case because I think that's
+in this case because I think that's
+going<00:17:17.039><c> to</c><00:17:17.120><c> matter</c><00:17:17.360><c> for</c><00:17:17.520><c> the</c><00:17:17.760><c> simulation.</c><00:17:18.400><c> Most</c>
+going to matter for the simulation. Most
+going to matter for the simulation. Most
+most<00:17:19.839><c> seuite</c><00:17:20.400><c> conversations</c><00:17:21.120><c> in</c><00:17:21.360><c> a</c><00:17:21.520><c> B2B</c><00:17:22.000><c> SAS</c>
+most seuite conversations in a B2B SAS
+most seuite conversations in a B2B SAS
+have<00:17:22.480><c> to</c><00:17:22.559><c> do</c><00:17:22.720><c> with</c><00:17:22.880><c> deals</c><00:17:23.120><c> at</c><00:17:23.360><c> some</c><00:17:23.520><c> level.</c><00:17:24.000><c> I</c>
+have to do with deals at some level. I
+have to do with deals at some level. I
+say<00:17:24.319><c> we're</c><00:17:24.559><c> chasing</c><00:17:24.880><c> million-dollar</c><00:17:25.360><c> deals</c>
+say we're chasing million-dollar deals
+say we're chasing million-dollar deals
+with<00:17:25.760><c> enterprise</c><00:17:26.240><c> clients.</c><00:17:26.640><c> We've</c><00:17:26.880><c> had</c><00:17:27.039><c> a</c>
+with enterprise clients. We've had a
+with enterprise clients. We've had a
+pipeline<00:17:27.520><c> slowdown</c><00:17:27.919><c> in</c><00:17:28.079><c> the</c><00:17:28.160><c> last</c><00:17:28.319><c> 6</c><00:17:28.559><c> months.</c>
+pipeline slowdown in the last 6 months.
+pipeline slowdown in the last 6 months.
+Okay,<00:17:29.360><c> great.</c><00:17:29.840><c> The</c><00:17:30.000><c> key</c><00:17:30.240><c> data</c><00:17:30.480><c> we're</c><00:17:30.720><c> pursuing</c>
+Okay, great. The key data we're pursuing
+Okay, great. The key data we're pursuing
+is<00:17:31.520><c> this.</c><00:17:31.840><c> It</c><00:17:32.000><c> reiterates.</c><00:17:32.640><c> It</c><00:17:32.799><c> asks</c><00:17:33.039><c> me</c><00:17:33.200><c> to</c>
+is this. It reiterates. It asks me to
+is this. It reiterates. It asks me to
+talk<00:17:33.600><c> about</c><00:17:33.760><c> the</c><00:17:34.000><c> different</c><00:17:34.320><c> characters.</c><00:17:34.720><c> And</c>
+talk about the different characters. And
+talk about the different characters. And
+so<00:17:35.120><c> this</c><00:17:35.360><c> is</c><00:17:35.520><c> me</c><00:17:36.080><c> like</c><00:17:36.320><c> you</c><00:17:36.559><c> basically</c><00:17:37.039><c> make</c><00:17:37.280><c> up</c>
+so this is me like you basically make up
+so this is me like you basically make up
+the<00:17:37.600><c> characters</c><00:17:38.000><c> you</c><00:17:38.240><c> want.</c><00:17:38.480><c> If</c><00:17:38.640><c> you</c><00:17:38.880><c> don't</c>
+the characters you want. If you don't
+the characters you want. If you don't
+know,<00:17:39.440><c> you</c><00:17:39.600><c> have</c><00:17:39.760><c> to</c><00:17:39.919><c> infer</c><00:17:40.320><c> and</c><00:17:40.480><c> guess.</c><00:17:41.039><c> I</c><00:17:41.280><c> had</c>
+know, you have to infer and guess. I had
+know, you have to infer and guess. I had
+fun<00:17:41.840><c> making</c><00:17:42.080><c> these</c><00:17:42.320><c> up.</c><00:17:42.559><c> These</c><00:17:42.799><c> are</c>
+fun making these up. These are
+fun making these up. These are
+fictional,<00:17:43.679><c> but</c><00:17:44.080><c> they're</c><00:17:44.400><c> plausible,</c><00:17:44.960><c> right?</c>
+fictional, but they're plausible, right?
+fictional, but they're plausible, right?
+The<00:17:45.360><c> CTO</c><00:17:45.760><c> is</c><00:17:46.000><c> worried</c><00:17:46.240><c> about</c><00:17:46.480><c> hitting</c><00:17:46.799><c> the</c>
+The CTO is worried about hitting the
+The CTO is worried about hitting the
+schedule.<00:17:47.360><c> The</c><00:17:47.600><c> director</c><00:17:47.840><c> of</c><00:17:47.919><c> engineering</c><00:17:48.320><c> is</c>
+schedule. The director of engineering is
+schedule. The director of engineering is
+somewhat<00:17:48.799><c> hostile</c><00:17:49.120><c> because</c><00:17:49.280><c> he</c><00:17:49.440><c> thinks</c><00:17:49.600><c> we're</c>
+somewhat hostile because he thinks we're
+somewhat hostile because he thinks we're
+we're<00:17:50.080><c> missing</c><00:17:50.320><c> on</c><00:17:50.480><c> core</c><00:17:50.799><c> product.</c><00:17:51.120><c> The</c><00:17:51.280><c> CFO,</c>
+we're missing on core product. The CFO,
+we're missing on core product. The CFO,
+she's<00:17:52.400><c> worried</c><00:17:52.720><c> about</c><00:17:52.880><c> close</c><00:17:53.200><c> rates</c><00:17:53.440><c> and</c>
+she's worried about close rates and
+she's worried about close rates and
+pipeline.<00:17:54.320><c> The</c><00:17:54.480><c> CEO,</c><00:17:55.200><c> he's</c><00:17:55.440><c> a</c><00:17:55.600><c> business</c><00:17:55.840><c> guy.</c>
+pipeline. The CEO, he's a business guy.
+pipeline. The CEO, he's a business guy.
+He<00:17:56.400><c> believes</c><00:17:56.640><c> in</c><00:17:56.799><c> enterprise</c><00:17:57.200><c> and</c><00:17:57.360><c> he</c><00:17:57.600><c> loves</c>
+He believes in enterprise and he loves
+He believes in enterprise and he loves
+AI,<00:17:58.080><c> but</c><00:17:58.320><c> he</c><00:17:58.480><c> doesn't</c><00:17:58.559><c> know</c><00:17:58.720><c> how</c><00:17:58.799><c> it</c><00:17:58.960><c> works.</c>
+AI, but he doesn't know how it works.
+AI, but he doesn't know how it works.
+Like<00:17:59.520><c> these</c><00:17:59.760><c> are</c><00:17:59.919><c> all</c><00:18:00.080><c> very</c><00:18:00.320><c> plausible</c><00:18:00.640><c> and</c><00:18:00.880><c> I</c>
+Like these are all very plausible and I
+Like these are all very plausible and I
+need<00:18:01.120><c> a</c><00:18:01.360><c> promotion,</c><00:18:01.760><c> right?</c><00:18:02.000><c> Like</c><00:18:02.160><c> because</c><00:18:02.400><c> I</c>
+need a promotion, right? Like because I
+need a promotion, right? Like because I
+I'<00:18:02.880><c> I've</c><00:18:03.360><c> definitely</c><00:18:03.760><c> been</c><00:18:03.919><c> in</c><00:18:04.080><c> that</c><00:18:04.240><c> spot.</c><00:18:04.559><c> So</c>
+I' I've definitely been in that spot. So
+I' I've definitely been in that spot. So
+there<00:18:04.880><c> it</c><00:18:05.039><c> is.</c><00:18:05.440><c> And</c><00:18:05.679><c> then</c><00:18:05.840><c> it</c><00:18:06.080><c> asks,</c><00:18:06.640><c> "What</c><00:18:06.880><c> are</c>
+there it is. And then it asks, "What are
+there it is. And then it asks, "What are
+the<00:18:07.200><c> open</c><00:18:07.520><c> legal</c><00:18:07.919><c> or</c><00:18:08.160><c> approval</c><00:18:08.559><c> issues?"</c>
+the open legal or approval issues?"
+the open legal or approval issues?"
+Super<00:18:09.600><c> simple.</c><00:18:10.480><c> Uh</c><00:18:10.799><c> there's</c><00:18:11.039><c> an</c><00:18:11.200><c> open</c><00:18:11.440><c> legal</c>
+Super simple. Uh there's an open legal
+Super simple. Uh there's an open legal
+issue<00:18:12.080><c> around</c><00:18:12.320><c> LLM</c><00:18:12.720><c> and</c><00:18:12.880><c> data</c><00:18:13.120><c> privacy.</c>
+issue around LLM and data privacy.
+issue around LLM and data privacy.
+There's<00:18:13.840><c> also</c><00:18:14.000><c> an</c><00:18:14.160><c> open</c><00:18:14.400><c> question</c><00:18:14.720><c> around</c>
+There's also an open question around
+There's also an open question around
+pricing<00:18:15.280><c> for</c><00:18:15.440><c> usage,</c><00:18:16.080><c> which</c><00:18:16.320><c> is</c><00:18:16.400><c> a</c><00:18:16.559><c> huge</c><00:18:16.799><c> issue</c>
+pricing for usage, which is a huge issue
+pricing for usage, which is a huge issue
+more<00:18:17.280><c> broadly.</c><00:18:17.760><c> Different</c><00:18:18.080><c> video.</c><00:18:18.559><c> It</c>
+more broadly. Different video. It
+more broadly. Different video. It
+reiterates<00:18:19.919><c> and</c><00:18:20.160><c> I</c><00:18:20.400><c> say,</c><00:18:20.480><c> "Please</c><00:18:20.880><c> generate</c><00:18:21.200><c> a</c>
+reiterates and I say, "Please generate a
+reiterates and I say, "Please generate a
+script<00:18:21.600><c> style</c><00:18:22.000><c> transcript.</c><00:18:22.480><c> Set</c><00:18:22.640><c> the</c><00:18:22.799><c> limit</c>
+script style transcript. Set the limit
+script style transcript. Set the limit
+for<00:18:23.120><c> debrief</c><00:18:23.520><c> at</c><00:18:23.760><c> 500</c><00:18:24.160><c> words.</c><00:18:24.559><c> Leave</c><00:18:24.799><c> room</c><00:18:24.960><c> to</c>
+for debrief at 500 words. Leave room to
+for debrief at 500 words. Leave room to
+speak."<00:18:25.520><c> Now</c><00:18:25.760><c> it</c><00:18:26.000><c> is</c><00:18:26.240><c> going</c><00:18:26.400><c> to</c><00:18:26.720><c> reiterate</c><00:18:27.280><c> the</c>
+speak." Now it is going to reiterate the
+speak." Now it is going to reiterate the
+contract.<00:18:28.000><c> This</c><00:18:28.160><c> is</c><00:18:28.240><c> a</c><00:18:28.480><c> contract.</c><00:18:28.880><c> It</c><00:18:29.120><c> writes,</c>
+contract. This is a contract. It writes,
+contract. This is a contract. It writes,
+it's<00:18:29.679><c> all</c><00:18:29.840><c> writing</c><00:18:30.160><c> all</c><00:18:30.320><c> of</c><00:18:30.400><c> this</c><00:18:30.799><c> and</c><00:18:30.960><c> it</c>
+it's all writing all of this and it
+it's all writing all of this and it
+begins<00:18:31.360><c> with</c><00:18:31.600><c> opening</c><00:18:32.000><c> statements.</c><00:18:32.400><c> Begin</c>
+begins with opening statements. Begin
+begins with opening statements. Begin
+out<00:18:32.960><c> round</c><00:18:33.120><c> one</c><00:18:33.360><c> now.</c><00:18:33.679><c> And</c><00:18:33.840><c> it</c><00:18:34.080><c> does.</c><00:18:34.480><c> So</c><00:18:34.640><c> the</c>
+out round one now. And it does. So the
+out round one now. And it does. So the
+CEO<00:18:35.280><c> sets</c><00:18:35.600><c> the</c><00:18:35.760><c> terms.</c><00:18:36.240><c> The</c><00:18:36.480><c> CTO</c><00:18:37.200><c> says</c><00:18:37.760><c> in</c><00:18:38.000><c> line</c>
+CEO sets the terms. The CTO says in line
+CEO sets the terms. The CTO says in line
+with<00:18:38.400><c> his</c><00:18:38.640><c> character,</c><00:18:39.039><c> it's</c><00:18:39.280><c> viable,</c><00:18:39.600><c> but</c><00:18:39.840><c> I</c>
+with his character, it's viable, but I
+with his character, it's viable, but I
+worry.<00:18:40.559><c> Enterprise</c><00:18:41.200><c> pro</c><00:18:41.520><c> prospects</c><00:18:42.000><c> ask.</c><00:18:42.400><c> You</c>
+worry. Enterprise pro prospects ask. You
+worry. Enterprise pro prospects ask. You
+get<00:18:42.640><c> the</c><00:18:42.880><c> idea.</c><00:18:43.360><c> It's</c><00:18:43.520><c> now</c><00:18:43.760><c> my</c><00:18:44.000><c> move.</c><00:18:44.320><c> I</c>
+get the idea. It's now my move. I
+get the idea. It's now my move. I
+respond.<00:18:45.280><c> I</c><00:18:45.520><c> say,</c><00:18:46.080><c> listen,</c><00:18:46.640><c> we</c><00:18:46.880><c> have</c><00:18:47.039><c> to</c><00:18:47.200><c> do</c>
+respond. I say, listen, we have to do
+respond. I say, listen, we have to do
+this<00:18:47.679><c> because</c><00:18:47.919><c> we</c><00:18:48.160><c> are</c><00:18:48.240><c> losing</c><00:18:48.559><c> in</c><00:18:48.720><c> the</c>
+this because we are losing in the
+this because we are losing in the
+market.<00:18:49.200><c> A</c><00:18:49.360><c> strong</c><00:18:49.600><c> AI</c><00:18:49.919><c> feature</c><00:18:50.160><c> can</c><00:18:50.320><c> add</c>
+market. A strong AI feature can add
+market. A strong AI feature can add
+sizzle,<00:18:50.799><c> and</c><00:18:50.960><c> if</c><00:18:51.039><c> we</c><00:18:51.200><c> combine</c><00:18:51.440><c> it</c><00:18:51.600><c> with</c><00:18:52.000><c> uh</c><00:18:52.080><c> the</c>
+sizzle, and if we combine it with uh the
+sizzle, and if we combine it with uh the
+CRO's<00:18:52.720><c> concerns</c><00:18:53.039><c> around</c><00:18:53.280><c> SOCK</c><00:18:53.600><c> 2,</c><00:18:53.840><c> we</c><00:18:53.919><c> should</c>
+CRO's concerns around SOCK 2, we should
+CRO's concerns around SOCK 2, we should
+unstick<00:18:54.480><c> some</c><00:18:54.640><c> deals.</c><00:18:55.039><c> It</c><00:18:55.280><c> then</c><00:18:55.440><c> moves</c>
+unstick some deals. It then moves
+unstick some deals. It then moves
+forward.<00:18:55.919><c> I'm</c><00:18:56.080><c> not</c><00:18:56.160><c> going</c><00:18:56.240><c> to</c><00:18:56.320><c> read</c><00:18:56.480><c> all</c><00:18:56.640><c> of</c>
+forward. I'm not going to read all of
+forward. I'm not going to read all of
+these<00:18:56.960><c> in</c><00:18:57.120><c> detail,</c><00:18:57.600><c> don't</c><00:18:57.840><c> worry.</c><00:18:58.320><c> We</c><00:18:58.559><c> get</c><00:18:58.720><c> to</c>
+these in detail, don't worry. We get to
+these in detail, don't worry. We get to
+the<00:18:59.039><c> second</c><00:18:59.360><c> round,</c><00:19:00.000><c> we</c><00:19:00.240><c> see</c><00:19:00.320><c> that</c><00:19:00.559><c> it's</c>
+the second round, we see that it's
+the second round, we see that it's
+playing<00:19:01.039><c> the</c><00:19:01.200><c> roles</c><00:19:01.600><c> correctly.</c><00:19:02.480><c> I</c><00:19:02.720><c> then</c>
+playing the roles correctly. I then
+playing the roles correctly. I then
+start<00:19:03.120><c> to</c><00:19:03.360><c> negotiate.</c><00:19:04.000><c> I</c><00:19:04.240><c> say,</c><00:19:04.400><c> "Listen,</c><00:19:04.799><c> we</c>
+start to negotiate. I say, "Listen, we
+start to negotiate. I say, "Listen, we
+shouldn't<00:19:05.200><c> just</c><00:19:05.440><c> look</c><00:19:05.520><c> at</c><00:19:05.679><c> new</c><00:19:05.919><c> customers.</c><00:19:06.320><c> We</c>
+shouldn't just look at new customers. We
+shouldn't just look at new customers. We
+should<00:19:06.559><c> look</c><00:19:06.720><c> at</c><00:19:06.880><c> existing</c><00:19:07.360><c> expansion</c>
+should look at existing expansion
+should look at existing expansion
+revenue.<00:19:08.720><c> I'm</c><00:19:08.960><c> starting</c><00:19:09.200><c> to</c><00:19:09.440><c> move</c><00:19:09.600><c> forward.</c>
+revenue. I'm starting to move forward.
+revenue. I'm starting to move forward.
+This<00:19:10.320><c> is</c><00:19:10.400><c> third</c><00:19:10.640><c> round.</c><00:19:10.960><c> I've</c><00:19:11.120><c> got</c><00:19:11.200><c> to</c><00:19:11.360><c> finish</c>
+This is third round. I've got to finish
+This is third round. I've got to finish
+up."<00:19:12.000><c> The</c><00:19:12.240><c> CRO</c><00:19:12.799><c> basically</c><00:19:13.280><c> says,</c><00:19:13.360><c> "Okay,</c><00:19:13.760><c> if</c>
+up." The CRO basically says, "Okay, if
+up." The CRO basically says, "Okay, if
+we're<00:19:14.080><c> talking</c><00:19:14.240><c> about</c><00:19:14.400><c> expansion</c><00:19:14.960><c> revenue,</c>
+we're talking about expansion revenue,
+we're talking about expansion revenue,
+maybe<00:19:15.520><c> I</c><00:19:15.679><c> can</c><00:19:15.760><c> get</c><00:19:15.840><c> on</c><00:19:16.000><c> board."</c><00:19:16.240><c> The</c><00:19:16.480><c> CFO</c><00:19:17.039><c> who's</c>
+maybe I can get on board." The CFO who's
+maybe I can get on board." The CFO who's
+been<00:19:17.840><c> worried</c><00:19:18.080><c> about</c><00:19:18.240><c> the</c><00:19:18.400><c> money</c><00:19:18.720><c> says,</c>
+been worried about the money says,
+been worried about the money says,
+"Okay,<00:19:19.200><c> that</c><00:19:19.360><c> that</c><00:19:19.679><c> unlocks</c><00:19:20.160><c> that</c><00:19:20.400><c> for</c><00:19:20.559><c> me,</c>
+"Okay, that that unlocks that for me,
+"Okay, that that unlocks that for me,
+etc."<00:19:21.679><c> And</c><00:19:21.840><c> at</c><00:19:22.000><c> the</c><00:19:22.160><c> end,</c><00:19:22.640><c> it</c><00:19:22.880><c> gives</c><00:19:23.120><c> me</c><00:19:23.280><c> a</c>
+etc." And at the end, it gives me a
+etc." And at the end, it gives me a
+scorecard.<00:19:24.160><c> It</c><00:19:24.320><c> says,</c><00:19:24.480><c> "I</c><00:19:24.799><c> got</c><00:19:24.960><c> a</c><00:19:25.120><c> partial</c>
+scorecard. It says, "I got a partial
+scorecard. It says, "I got a partial
+approval."<00:19:26.240><c> It</c><00:19:26.400><c> gives</c><00:19:26.640><c> itself</c><00:19:26.960><c> a</c><00:19:27.200><c> scorecard</c>
+approval." It gives itself a scorecard
+approval." It gives itself a scorecard
+for<00:19:27.760><c> twin</c><00:19:28.080><c> realism</c><00:19:29.280><c> and</c><00:19:29.520><c> it</c><00:19:29.760><c> gives</c><00:19:29.919><c> me</c><00:19:30.000><c> a</c>
+for twin realism and it gives me a
+for twin realism and it gives me a
+debrief.<00:19:30.880><c> What</c><00:19:31.039><c> did</c><00:19:31.200><c> it</c><00:19:31.360><c> hinge</c><00:19:31.679><c> on?</c><00:19:32.000><c> Where</c><00:19:32.160><c> did</c>
+debrief. What did it hinge on? Where did
+debrief. What did it hinge on? Where did
+the<00:19:32.480><c> tension</c><00:19:32.880><c> surface?</c><00:19:33.600><c> How</c><00:19:33.760><c> did</c><00:19:33.919><c> it</c><00:19:34.080><c> work?</c><00:19:34.400><c> I</c>
+the tension surface? How did it work? I
+the tension surface? How did it work? I
+think<00:19:34.799><c> this</c><00:19:35.039><c> is</c><00:19:35.200><c> the</c><00:19:35.440><c> most</c><00:19:35.600><c> useful</c><00:19:36.000><c> part</c><00:19:36.160><c> of</c>
+think this is the most useful part of
+think this is the most useful part of
+this<00:19:36.480><c> whole</c><00:19:36.720><c> exercise</c><00:19:37.280><c> because</c><00:19:37.520><c> if</c><00:19:37.760><c> you</c><00:19:37.840><c> want</c>
+this whole exercise because if you want
+this whole exercise because if you want
+to<00:19:38.000><c> game</c><00:19:38.240><c> out</c><00:19:38.480><c> different</c><00:19:38.720><c> scenarios</c><00:19:39.200><c> like</c><00:19:39.360><c> for</c>
+to game out different scenarios like for
+to game out different scenarios like for
+a<00:19:39.679><c> job</c><00:19:39.840><c> interview,</c><00:19:40.400><c> you</c><00:19:40.559><c> get</c><00:19:40.720><c> debriefs</c><00:19:41.280><c> on</c>
+a job interview, you get debriefs on
+a job interview, you get debriefs on
+your<00:19:41.600><c> performance</c><00:19:42.000><c> like</c><00:19:42.240><c> this.</c><00:19:42.640><c> I</c><00:19:42.880><c> think</c><00:19:42.960><c> it's</c>
+your performance like this. I think it's
+your performance like this. I think it's
+really<00:19:43.360><c> cool.</c><00:19:43.919><c> Next,</c><00:19:44.960><c> let's</c><00:19:45.280><c> actually</c><00:19:45.600><c> go</c>
+really cool. Next, let's actually go
+really cool. Next, let's actually go
+into<00:19:46.160><c> the</c><00:19:46.320><c> job</c><00:19:46.640><c> search</c><00:19:46.960><c> arena</c><00:19:47.679><c> and</c><00:19:48.000><c> let's</c><00:19:48.640><c> look</c>
+into the job search arena and let's look
+into the job search arena and let's look
+at<00:19:49.679><c> a</c><00:19:50.000><c> real</c><00:19:50.320><c> example</c><00:19:51.039><c> of</c><00:19:51.440><c> compensation</c>
+at a real example of compensation
+at a real example of compensation
+negotiation,<00:19:52.960><c> the</c><00:19:53.200><c> final</c><00:19:53.520><c> stage</c><00:19:53.919><c> of</c><00:19:54.240><c> job</c>
+negotiation, the final stage of job
+negotiation, the final stage of job
+search.<00:19:55.280><c> Okay,</c><00:19:56.000><c> we</c><00:19:56.240><c> are</c><00:19:56.400><c> back.</c><00:19:56.880><c> I'm</c><00:19:57.120><c> not</c><00:19:57.280><c> going</c>
+search. Okay, we are back. I'm not going
+search. Okay, we are back. I'm not going
+to<00:19:57.440><c> rerun</c><00:19:57.760><c> this</c><00:19:57.919><c> prompt</c><00:19:58.240><c> in</c><00:19:58.400><c> more</c><00:19:58.559><c> detail.</c><00:19:58.960><c> You</c>
+to rerun this prompt in more detail. You
+to rerun this prompt in more detail. You
+get<00:19:59.280><c> the</c><00:19:59.440><c> idea.</c><00:19:59.760><c> We</c><00:20:00.000><c> went</c><00:20:00.160><c> through</c><00:20:00.320><c> the</c>
+get the idea. We went through the
+get the idea. We went through the
+different<00:20:00.799><c> situations.</c><00:20:01.360><c> We're</c><00:20:01.600><c> negotiating</c>
+different situations. We're negotiating
+different situations. We're negotiating
+compensation<00:20:02.960><c> this</c><00:20:03.200><c> time.</c><00:20:03.840><c> Smaller</c><00:20:04.240><c> group,</c>
+compensation this time. Smaller group,
+compensation this time. Smaller group,
+head<00:20:04.880><c> of</c><00:20:04.960><c> HR,</c><00:20:05.600><c> CPO,</c><00:20:06.160><c> and</c><00:20:06.400><c> me.</c><00:20:07.200><c> Uh,</c><00:20:07.520><c> the</c><00:20:07.760><c> win</c><00:20:07.919><c> is</c>
+head of HR, CPO, and me. Uh, the win is
+head of HR, CPO, and me. Uh, the win is
+dollars.<00:20:08.640><c> We</c><00:20:08.799><c> want</c><00:20:08.960><c> more</c><00:20:09.200><c> of</c><00:20:09.360><c> them.</c><00:20:10.000><c> Uh,</c><00:20:10.240><c> we</c>
+dollars. We want more of them. Uh, we
+dollars. We want more of them. Uh, we
+have<00:20:10.640><c> six</c><00:20:10.880><c> rounds.</c><00:20:12.160><c> And</c><00:20:12.720><c> I</c><00:20:12.960><c> give</c><00:20:13.120><c> it</c><00:20:13.679><c> uh</c><00:20:13.840><c> my</c>
+have six rounds. And I give it uh my
+have six rounds. And I give it uh my
+current<00:20:14.480><c> offer.</c><00:20:15.120><c> Uh,</c><00:20:15.440><c> I'm</c><00:20:15.679><c> totally</c><00:20:16.000><c> making</c><00:20:16.240><c> up</c>
+current offer. Uh, I'm totally making up
+current offer. Uh, I'm totally making up
+these<00:20:16.720><c> numbers,</c><00:20:17.039><c> but</c><00:20:17.280><c> they're</c><00:20:17.520><c> not</c>
+these numbers, but they're not
+these numbers, but they're not
+completely<00:20:18.080><c> implausible.</c>
+completely implausible.
+completely implausible.
+And<00:20:20.640><c> it</c><00:20:20.880><c> says</c><00:20:21.120><c> it's</c><00:20:21.360><c> got</c><00:20:21.600><c> it.</c><00:20:21.840><c> I</c><00:20:22.080><c> give</c><00:20:22.240><c> it</c>
+And it says it's got it. I give it
+And it says it's got it. I give it
+personality.<00:20:23.360><c> The</c><00:20:23.520><c> CPO</c><00:20:23.840><c> is</c><00:20:24.000><c> a</c><00:20:24.160><c> hard-bitten</c>
+personality. The CPO is a hard-bitten
+personality. The CPO is a hard-bitten
+guy.<00:20:25.120><c> HR</c><00:20:25.520><c> wants</c><00:20:25.679><c> to</c><00:20:25.840><c> follow</c><00:20:26.160><c> policy.</c><00:20:26.880><c> I</c>
+guy. HR wants to follow policy. I
+guy. HR wants to follow policy. I
+realize<00:20:27.360><c> this</c><00:20:27.600><c> sounds</c><00:20:27.760><c> right</c><00:20:27.919><c> out</c><00:20:28.080><c> of</c><00:20:28.159><c> central</c>
+realize this sounds right out of central
+realize this sounds right out of central
+casting,<00:20:28.880><c> but</c><00:20:29.039><c> we're</c><00:20:29.200><c> having</c><00:20:29.360><c> fun.</c><00:20:29.760><c> Okay.</c><00:20:30.000><c> And</c>
+casting, but we're having fun. Okay. And
+casting, but we're having fun. Okay. And
+I<00:20:30.320><c> give</c><00:20:30.400><c> it</c><00:20:30.559><c> instructions.</c><00:20:31.120><c> Again,</c><00:20:31.440><c> all</c><00:20:31.600><c> of</c>
+I give it instructions. Again, all of
+I give it instructions. Again, all of
+this<00:20:31.919><c> is</c><00:20:32.240><c> necessary</c><00:20:32.799><c> to</c><00:20:32.960><c> set</c><00:20:33.120><c> up</c><00:20:33.280><c> the</c><00:20:33.520><c> fidelity</c>
+this is necessary to set up the fidelity
+this is necessary to set up the fidelity
+of<00:20:34.159><c> the</c><00:20:34.320><c> digital</c><00:20:34.640><c> twins</c><00:20:35.039><c> world.</c><00:20:35.440><c> And</c><00:20:35.600><c> so</c><00:20:35.760><c> it</c>
+of the digital twins world. And so it
+of the digital twins world. And so it
+then<00:20:36.159><c> starts</c><00:20:36.320><c> to</c><00:20:36.559><c> print</c><00:20:36.880><c> out</c><00:20:37.440><c> what</c><00:20:37.679><c> it's</c><00:20:37.840><c> going</c>
+then starts to print out what it's going
+then starts to print out what it's going
+to<00:20:38.080><c> do.</c><00:20:38.320><c> It</c><00:20:38.480><c> prints</c><00:20:38.799><c> out</c><00:20:39.919><c> all</c><00:20:40.159><c> of</c><00:20:40.320><c> the</c><00:20:40.480><c> stuff</c>
+to do. It prints out all of the stuff
+to do. It prints out all of the stuff
+it's<00:20:40.960><c> working</c><00:20:41.200><c> with,</c><00:20:41.520><c> all</c><00:20:41.679><c> the</c><00:20:41.840><c> stuff</c><00:20:42.000><c> it</c>
+it's working with, all the stuff it
+it's working with, all the stuff it
+knows<00:20:42.480><c> so</c><00:20:42.720><c> far.</c><00:20:43.200><c> Begins</c><00:20:43.520><c> round</c><00:20:43.760><c> one.</c><00:20:44.159><c> It</c><00:20:44.400><c> gives</c>
+knows so far. Begins round one. It gives
+knows so far. Begins round one. It gives
+opening<00:20:45.039><c> statements</c><00:20:45.440><c> based</c><00:20:45.679><c> on</c><00:20:45.840><c> what</c><00:20:46.000><c> I've</c>
+opening statements based on what I've
+opening statements based on what I've
+said,<00:20:46.400><c> what</c><00:20:46.559><c> the</c><00:20:46.640><c> CPO</c><00:20:47.120><c> said,</c><00:20:47.360><c> what</c><00:20:47.520><c> HR</c><00:20:47.919><c> has</c>
+said, what the CPO said, what HR has
+said, what the CPO said, what HR has
+said,<00:20:48.559><c> and</c><00:20:48.799><c> then</c><00:20:49.200><c> it</c><00:20:49.440><c> asks</c><00:20:49.679><c> me</c><00:20:49.840><c> to</c><00:20:50.000><c> go</c><00:20:50.159><c> from</c>
+said, and then it asks me to go from
+said, and then it asks me to go from
+here.<00:20:50.559><c> Essentially,</c><00:20:51.360><c> they</c><00:20:51.600><c> say</c><00:20:51.919><c> no.</c><00:20:52.320><c> And</c><00:20:52.480><c> so</c><00:20:52.640><c> I</c>
+here. Essentially, they say no. And so I
+here. Essentially, they say no. And so I
+say,<00:20:53.039><c> "Hey,</c><00:20:53.440><c> this</c><00:20:53.679><c> reflects</c><00:20:54.000><c> the</c><00:20:54.240><c> market</c>
+say, "Hey, this reflects the market
+say, "Hey, this reflects the market
+average.<00:20:54.960><c> Like,</c><00:20:55.120><c> this</c><00:20:55.360><c> is</c><00:20:55.520><c> legit."</c><00:20:56.000><c> And</c><00:20:56.240><c> so</c>
+average. Like, this is legit." And so
+average. Like, this is legit." And so
+they<00:20:56.799><c> start</c><00:20:57.039><c> to</c><00:20:57.280><c> shift</c><00:20:57.600><c> a</c><00:20:57.840><c> little</c><00:20:57.919><c> bit.</c><00:20:58.159><c> They</c>
+they start to shift a little bit. They
+they start to shift a little bit. They
+bring<00:20:58.559><c> up</c><00:20:58.799><c> finance</c><00:20:59.120><c> and</c><00:20:59.360><c> approvals</c><00:20:59.840><c> as</c><00:21:00.000><c> an</c>
+bring up finance and approvals as an
+bring up finance and approvals as an
+issue.<00:21:01.520><c> Uh</c><00:21:02.000><c> HR</c><00:21:02.400><c> is</c><00:21:02.640><c> really</c><00:21:02.880><c> concerned</c><00:21:03.280><c> about</c>
+issue. Uh HR is really concerned about
+issue. Uh HR is really concerned about
+it.<00:21:04.000><c> It's</c><00:21:04.320><c> my</c><00:21:04.559><c> move.</c><00:21:04.880><c> So</c><00:21:05.039><c> I</c><00:21:05.280><c> say,</c><00:21:05.360><c> "Okay,</c><00:21:06.159><c> I</c>
+it. It's my move. So I say, "Okay, I
+it. It's my move. So I say, "Okay, I
+want<00:21:06.480><c> to</c><00:21:06.559><c> play</c><00:21:06.720><c> with</c><00:21:06.960><c> equity</c><00:21:07.360><c> and</c><00:21:07.600><c> bonus</c><00:21:08.080><c> a</c>
+want to play with equity and bonus a
+want to play with equity and bonus a
+little<00:21:08.320><c> bit.</c><00:21:08.640><c> What</c><00:21:08.799><c> if</c><00:21:08.960><c> I</c><00:21:09.120><c> drop</c><00:21:09.280><c> the</c><00:21:09.440><c> comp</c>
+little bit. What if I drop the comp
+little bit. What if I drop the comp
+down?"<00:21:10.320><c> This</c><00:21:10.559><c> is</c><00:21:10.880><c> actually</c><00:21:11.440><c> how</c><00:21:11.840><c> a</c><00:21:12.159><c> lot</c><00:21:12.240><c> of</c>
+down?" This is actually how a lot of
+down?" This is actually how a lot of
+comp<00:21:12.720><c> negotiations</c><00:21:13.440><c> go.</c><00:21:14.240><c> But</c><00:21:14.320><c> we</c><00:21:14.559><c> don't</c><00:21:14.720><c> get</c>
+comp negotiations go. But we don't get
+comp negotiations go. But we don't get
+the<00:21:15.039><c> chance</c><00:21:15.200><c> to</c><00:21:15.360><c> play</c><00:21:15.600><c> them</c><00:21:15.760><c> out.</c><00:21:16.000><c> The</c><00:21:16.240><c> exact</c>
+the chance to play them out. The exact
+the chance to play them out. The exact
+reason<00:21:16.960><c> we</c><00:21:17.280><c> have</c><00:21:17.520><c> digital</c><00:21:17.919><c> twins</c><00:21:18.480><c> is</c><00:21:18.880><c> so</c><00:21:19.120><c> that</c>
+reason we have digital twins is so that
+reason we have digital twins is so that
+we<00:21:19.760><c> can</c><00:21:19.919><c> do</c><00:21:20.159><c> stuff</c><00:21:20.320><c> like</c><00:21:20.480><c> this</c><00:21:20.640><c> in</c><00:21:20.799><c> a</c>
+we can do stuff like this in a
+we can do stuff like this in a
+controlled<00:21:21.360><c> environment</c><00:21:21.840><c> because</c><00:21:22.080><c> I</c><00:21:22.320><c> could</c>
+controlled environment because I could
+controlled environment because I could
+simulate<00:21:23.039><c> this</c><00:21:23.280><c> whole</c><00:21:23.440><c> thing</c><00:21:23.679><c> again</c><00:21:24.080><c> at</c><00:21:24.400><c> a</c>
+simulate this whole thing again at a
+simulate this whole thing again at a
+different<00:21:24.960><c> number</c><00:21:25.600><c> and</c><00:21:25.840><c> walk</c><00:21:26.080><c> out</c><00:21:26.320><c> with</c><00:21:26.480><c> a</c>
+different number and walk out with a
+different number and walk out with a
+different<00:21:26.880><c> sense</c><00:21:27.039><c> of</c><00:21:27.200><c> how</c><00:21:27.360><c> the</c><00:21:27.520><c> narrative</c>
+different sense of how the narrative
+different sense of how the narrative
+went.<00:21:28.240><c> Okay,</c><00:21:28.480><c> so</c><00:21:28.720><c> director</c><00:21:29.039><c> of</c><00:21:29.200><c> product,</c><00:21:29.600><c> CPO</c>
+went. Okay, so director of product, CPO
+went. Okay, so director of product, CPO
+and<00:21:30.159><c> head</c><00:21:30.240><c> of</c><00:21:30.400><c> HR</c><00:21:30.799><c> come</c><00:21:31.039><c> back,</c><00:21:31.280><c> they</c><00:21:31.520><c> talk</c>
+and head of HR come back, they talk
+and head of HR come back, they talk
+through<00:21:32.000><c> that</c><00:21:32.159><c> we're</c><00:21:32.400><c> getting</c><00:21:32.640><c> closer.</c><00:21:33.520><c> I</c>
+through that we're getting closer. I
+through that we're getting closer. I
+love<00:21:34.000><c> that</c><00:21:34.240><c> it's</c><00:21:34.400><c> keeping</c><00:21:34.720><c> a</c><00:21:34.880><c> concession</c>
+love that it's keeping a concession
+love that it's keeping a concession
+ledger<00:21:35.679><c> so</c><00:21:35.919><c> we</c><00:21:36.080><c> can</c><00:21:36.240><c> actually</c><00:21:36.559><c> see</c><00:21:36.799><c> how</c><00:21:37.039><c> it's</c>
+ledger so we can actually see how it's
+ledger so we can actually see how it's
+going.<00:21:37.520><c> I</c><00:21:37.840><c> wish</c><00:21:38.000><c> that</c><00:21:38.240><c> was</c><00:21:38.400><c> true</c><00:21:38.559><c> in</c><00:21:38.799><c> real</c>
+going. I wish that was true in real
+going. I wish that was true in real
+life.<00:21:39.280><c> This</c><00:21:39.440><c> is</c><00:21:39.600><c> one</c><00:21:39.760><c> way</c><00:21:39.919><c> that</c><00:21:40.159><c> it's</c><00:21:40.400><c> easier</c>
+life. This is one way that it's easier
+life. This is one way that it's easier
+in<00:21:41.200><c> this</c><00:21:41.760><c> uh</c><00:21:41.919><c> in</c><00:21:42.159><c> this</c><00:21:42.320><c> simulated</c>
+in this uh in this simulated
+in this uh in this simulated
+environment.<00:21:44.240><c> Uh,</c><00:21:44.559><c> we</c><00:21:44.799><c> are</c><00:21:44.960><c> arguing</c><00:21:45.360><c> over</c><00:21:45.600><c> the</c>
+environment. Uh, we are arguing over the
+environment. Uh, we are arguing over the
+clause<00:21:46.240><c> for</c><00:21:46.720><c> equity.</c><00:21:47.280><c> I</c><00:21:47.520><c> can</c><00:21:47.600><c> live</c><00:21:47.760><c> with</c><00:21:47.919><c> a</c>
+clause for equity. I can live with a
+clause for equity. I can live with a
+clause<00:21:48.320><c> for</c><00:21:48.480><c> more</c><00:21:48.720><c> equity</c><00:21:49.200><c> that's</c><00:21:49.520><c> dependent</c>
+clause for more equity that's dependent
+clause for more equity that's dependent
+on<00:21:50.320><c> period</c><00:21:50.640><c> of</c><00:21:50.880><c> employment,</c><00:21:51.360><c> I</c><00:21:51.600><c> say,</c><00:21:52.000><c> but</c><00:21:52.240><c> I</c>
+on period of employment, I say, but I
+on period of employment, I say, but I
+don't<00:21:52.559><c> think</c><00:21:52.720><c> it's</c><00:21:52.960><c> reasonable</c><00:21:53.360><c> to</c><00:21:53.520><c> make</c><00:21:53.679><c> it</c>
+don't think it's reasonable to make it
+don't think it's reasonable to make it
+dependent<00:21:54.159><c> on</c><00:21:54.400><c> product</c><00:21:54.720><c> revenue</c><00:21:55.120><c> goals</c><00:21:55.360><c> if</c>
+dependent on product revenue goals if
+dependent on product revenue goals if
+the<00:21:55.679><c> CPO's</c><00:21:56.240><c> equity</c><00:21:56.559><c> is</c><00:21:56.799><c> not</c><00:21:57.120><c> similarly</c><00:21:57.760><c> tied.</c>
+the CPO's equity is not similarly tied.
+the CPO's equity is not similarly tied.
+And<00:21:58.559><c> the</c><00:21:58.720><c> CPO</c><00:21:59.200><c> dodges</c><00:21:59.600><c> the</c><00:21:59.760><c> question</c><00:22:00.080><c> as</c><00:22:00.320><c> real</c>
+And the CPO dodges the question as real
+And the CPO dodges the question as real
+CPOS<00:22:01.120><c> tend</c><00:22:01.360><c> to</c><00:22:01.520><c> do</c><00:22:02.000><c> and</c><00:22:02.240><c> then</c><00:22:02.480><c> moves</c><00:22:02.720><c> on</c><00:22:02.880><c> and</c>
+CPOS tend to do and then moves on and
+CPOS tend to do and then moves on and
+says<00:22:03.280><c> fine,</c><00:22:03.520><c> we</c><00:22:03.679><c> won't</c><00:22:03.840><c> we</c><00:22:04.080><c> won't</c><00:22:04.240><c> make</c><00:22:04.320><c> that</c><00:22:04.480><c> a</c>
+says fine, we won't we won't make that a
+says fine, we won't we won't make that a
+thing.<00:22:05.039><c> We</c><00:22:05.280><c> are</c><00:22:05.440><c> now</c><00:22:05.679><c> close</c><00:22:05.840><c> to</c><00:22:06.000><c> an</c><00:22:06.240><c> agreement</c>
+thing. We are now close to an agreement
+thing. We are now close to an agreement
+as<00:22:06.880><c> you</c><00:22:07.039><c> can</c><00:22:07.200><c> see</c><00:22:07.440><c> from</c><00:22:07.679><c> here.</c>
+as you can see from here.
+as you can see from here.
+And<00:22:09.600><c> at</c><00:22:09.840><c> the</c><00:22:10.000><c> end</c><00:22:10.080><c> of</c><00:22:10.159><c> the</c><00:22:10.320><c> day,</c><00:22:10.960><c> the</c><00:22:11.200><c> only</c>
+And at the end of the day, the only
+And at the end of the day, the only
+thing<00:22:11.600><c> that's</c><00:22:11.919><c> an</c><00:22:12.159><c> issue</c><00:22:12.400><c> is</c><00:22:12.559><c> what</c><00:22:12.720><c> if</c><00:22:12.960><c> finance</c>
+thing that's an issue is what if finance
+thing that's an issue is what if finance
+pushes<00:22:13.679><c> back?</c><00:22:13.919><c> And</c><00:22:14.080><c> I</c><00:22:14.240><c> provide</c><00:22:14.799><c> a</c><00:22:15.600><c> savvy</c>
+pushes back? And I provide a savvy
+pushes back? And I provide a savvy
+approach<00:22:16.799><c> in</c><00:22:17.120><c> terms</c><00:22:17.200><c> of</c><00:22:17.360><c> how</c><00:22:17.600><c> finance</c><00:22:17.919><c> pushes</c>
+approach in terms of how finance pushes
+approach in terms of how finance pushes
+back.<00:22:18.799><c> What</c><00:22:18.960><c> do</c><00:22:19.120><c> we</c><00:22:19.200><c> do?</c><00:22:19.520><c> How</c><00:22:19.600><c> do</c><00:22:19.679><c> we</c><00:22:19.840><c> hand?</c><00:22:20.080><c> And</c>
+back. What do we do? How do we hand? And
+back. What do we do? How do we hand? And
+so<00:22:20.400><c> then</c><00:22:20.559><c> they</c><00:22:20.720><c> come</c><00:22:20.799><c> back</c><00:22:20.960><c> and</c><00:22:21.120><c> they</c><00:22:21.280><c> say,</c>
+so then they come back and they say,
+so then they come back and they say,
+"Okay,<00:22:21.760><c> basically</c><00:22:22.080><c> we've</c><00:22:22.400><c> got</c><00:22:22.480><c> a</c><00:22:22.720><c> deal."</c><00:22:23.120><c> I</c>
+"Okay, basically we've got a deal." I
+"Okay, basically we've got a deal." I
+say,<00:22:23.440><c> "Let's</c><00:22:23.760><c> get</c><00:22:23.840><c> a</c><00:22:24.000><c> deal</c><00:22:24.240><c> done."</c><00:22:24.640><c> It</c><00:22:24.880><c> then</c>
+say, "Let's get a deal done." It then
+say, "Let's get a deal done." It then
+gives<00:22:25.280><c> me</c><00:22:25.360><c> a</c><00:22:25.600><c> scorecard.</c><00:22:26.240><c> It</c><00:22:26.480><c> gives</c><00:22:26.640><c> me</c><00:22:26.880><c> comp.</c>
+gives me a scorecard. It gives me comp.
+gives me a scorecard. It gives me comp.
+It<00:22:27.679><c> gives</c><00:22:27.840><c> me</c><00:22:28.480><c> uh</c><00:22:28.559><c> a</c><00:22:28.799><c> debrief</c><00:22:29.280><c> on</c><00:22:29.520><c> how</c><00:22:29.679><c> it</c><00:22:29.840><c> went</c>
+It gives me uh a debrief on how it went
+It gives me uh a debrief on how it went
+and<00:22:32.480><c> it</c><00:22:32.799><c> gives</c><00:22:33.039><c> me</c><00:22:33.360><c> like</c><00:22:33.600><c> madeup</c><00:22:34.080><c> next</c><00:22:34.240><c> steps</c>
+and it gives me like madeup next steps
+and it gives me like madeup next steps
+for<00:22:34.640><c> what</c><00:22:34.799><c> I</c><00:22:34.960><c> would</c><00:22:35.039><c> do.</c><00:22:35.440><c> I</c><00:22:35.600><c> think</c><00:22:35.760><c> this</c><00:22:35.919><c> is</c><00:22:36.080><c> the</c>
+for what I would do. I think this is the
+for what I would do. I think this is the
+most<00:22:36.400><c> useful</c><00:22:36.720><c> bit.</c><00:22:37.039><c> It</c><00:22:37.200><c> talks</c><00:22:37.440><c> through</c><00:22:37.600><c> how</c><00:22:37.760><c> I</c>
+most useful bit. It talks through how I
+most useful bit. It talks through how I
+handled<00:22:38.240><c> finance</c><00:22:38.640><c> resist.</c><00:22:39.039><c> It</c><00:22:39.280><c> talks</c><00:22:39.520><c> through</c>
+handled finance resist. It talks through
+handled finance resist. It talks through
+like<00:22:40.080><c> the</c><00:22:40.320><c> good</c><00:22:40.960><c> the</c><00:22:41.120><c> way</c><00:22:41.200><c> I</c><00:22:41.440><c> anchored</c><00:22:41.679><c> on</c>
+like the good the way I anchored on
+like the good the way I anchored on
+local<00:22:42.080><c> market</c><00:22:42.320><c> data</c><00:22:42.559><c> and</c><00:22:42.720><c> insisted</c><00:22:43.120><c> on</c><00:22:43.280><c> par</c>
+local market data and insisted on par
+local market data and insisted on par
+with<00:22:43.919><c> executive</c><00:22:44.320><c> incentives</c><00:22:44.880><c> was</c><00:22:45.120><c> really</c>
+with executive incentives was really
+with executive incentives was really
+smart.<00:22:46.400><c> Um</c><00:22:46.960><c> it's</c><00:22:47.200><c> just</c><00:22:47.280><c> going</c><00:22:47.440><c> to</c><00:22:47.520><c> give</c><00:22:47.600><c> you</c>
+smart. Um it's just going to give you
+smart. Um it's just going to give you
+feedback<00:22:48.159><c> and</c><00:22:48.400><c> you</c><00:22:48.640><c> can</c><00:22:49.200><c> you</c><00:22:49.520><c> can</c><00:22:49.760><c> ask</c><00:22:50.000><c> it</c><00:22:50.159><c> at</c>
+feedback and you can you can ask it at
+feedback and you can you can ask it at
+that<00:22:50.480><c> point</c><00:22:50.720><c> will</c><00:22:50.960><c> give</c><00:22:51.120><c> me</c><00:22:51.200><c> more</c><00:22:51.360><c> critical</c>
+that point will give me more critical
+that point will give me more critical
+feedback,<00:22:52.080><c> right?</c><00:22:52.320><c> Like</c><00:22:52.480><c> push</c><00:22:52.720><c> me</c><00:22:52.880><c> harder</c><00:22:53.360><c> and</c>
+feedback, right? Like push me harder and
+feedback, right? Like push me harder and
+it<00:22:53.760><c> will</c><00:22:53.919><c> do</c><00:22:54.080><c> that.</c><00:22:54.559><c> Last</c><00:22:54.880><c> thing</c><00:22:55.120><c> I</c><00:22:55.360><c> want</c><00:22:55.520><c> to</c>
+it will do that. Last thing I want to
+it will do that. Last thing I want to
+show<00:22:55.919><c> you</c><00:22:56.720><c> is</c><00:22:57.280><c> what</c><00:22:57.600><c> happens</c><00:22:57.840><c> if</c><00:22:58.080><c> we</c><00:22:58.320><c> run</c><00:22:58.640><c> this</c>
+show you is what happens if we run this
+show you is what happens if we run this
+exact<00:22:59.520><c> same</c><00:22:59.760><c> scenario</c><00:23:00.320><c> token</c><00:23:00.799><c> for</c><00:23:01.120><c> token.</c>
+exact same scenario token for token.
+exact same scenario token for token.
+Same<00:23:02.000><c> like</c><00:23:02.240><c> same</c><00:23:02.480><c> answers</c><00:23:02.880><c> all</c><00:23:03.039><c> the</c><00:23:03.200><c> way</c>
+Same like same answers all the way
+Same like same answers all the way
+through<00:23:03.760><c> but</c><00:23:04.000><c> we</c><00:23:04.159><c> used</c><00:23:04.320><c> a</c><00:23:04.559><c> different</c><00:23:04.720><c> model.</c>
+through but we used a different model.
+through but we used a different model.
+So,<00:23:05.440><c> we're</c><00:23:05.600><c> going</c><00:23:05.600><c> to</c><00:23:05.679><c> go</c><00:23:05.840><c> and</c><00:23:06.080><c> use</c><00:23:06.480><c> Chad</c>
+So, we're going to go and use Chad
+So, we're going to go and use Chad
+GPT40.
+GPT40.
+GPT40.
+Okay,<00:23:08.720><c> here</c><00:23:08.799><c> we</c><00:23:08.960><c> are.</c><00:23:09.200><c> Chad</c><00:23:09.520><c> GPT40</c><00:23:10.480><c> up</c><00:23:10.640><c> here.</c><00:23:10.960><c> I</c>
+Okay, here we are. Chad GPT40 up here. I
+Okay, here we are. Chad GPT40 up here. I
+am<00:23:11.360><c> not</c><00:23:11.520><c> going</c><00:23:11.600><c> to</c><00:23:11.760><c> rerun.</c><00:23:12.480><c> These</c><00:23:12.720><c> are</c><00:23:12.880><c> all</c>
+am not going to rerun. These are all
+am not going to rerun. These are all
+exactly<00:23:13.600><c> the</c><00:23:13.760><c> same.</c><00:23:14.320><c> Exactly</c><00:23:14.799><c> the</c><00:23:15.039><c> same.</c><00:23:15.360><c> Set</c>
+exactly the same. Exactly the same. Set
+exactly the same. Exactly the same. Set
+it<00:23:15.679><c> up</c><00:23:15.919><c> exactly</c><00:23:16.320><c> the</c><00:23:16.559><c> same.</c><00:23:17.600><c> Yep.</c><00:23:18.240><c> Great.</c><00:23:18.799><c> Go.</c>
+it up exactly the same. Yep. Great. Go.
+it up exactly the same. Yep. Great. Go.
+It<00:23:19.679><c> then</c><00:23:19.840><c> prints</c><00:23:20.159><c> out</c>
+It then prints out
+It then prints out
+the<00:23:22.159><c> entire</c><00:23:22.559><c> contract</c><00:23:23.200><c> and</c><00:23:23.440><c> begins.</c><00:23:24.080><c> What</c><00:23:24.320><c> I</c>
+the entire contract and begins. What I
+the entire contract and begins. What I
+notice<00:23:24.880><c> immediately</c><00:23:25.360><c> with</c><00:23:25.679><c> 40</c><00:23:26.240><c> is</c><00:23:26.400><c> that</c><00:23:26.720><c> 40</c>
+notice immediately with 40 is that 40
+notice immediately with 40 is that 40
+has<00:23:27.600><c> more</c><00:23:28.000><c> personality.</c><00:23:28.880><c> Look</c><00:23:29.039><c> at</c><00:23:29.200><c> the</c><00:23:29.360><c> way</c>
+has more personality. Look at the way
+has more personality. Look at the way
+the<00:23:29.679><c> CPO</c><00:23:30.159><c> talks.</c>
+the CPO talks.
+the CPO talks.
+&gt;&gt; I've<00:23:30.960><c> been</c><00:23:31.120><c> in</c><00:23:31.280><c> this</c><00:23:31.440><c> game</c><00:23:31.679><c> a</c><00:23:31.919><c> long</c><00:23:32.080><c> time,</c><00:23:32.320><c> and</c>
+&gt;&gt; I've been in this game a long time, and
+&gt;&gt; I've been in this game a long time, and
+I'll<00:23:32.720><c> be</c><00:23:32.880><c> straight</c><00:23:33.039><c> with</c><00:23:33.200><c> you.</c><00:23:33.440><c> We</c><00:23:33.679><c> think</c>
+I'll be straight with you. We think
+I'll be straight with you. We think
+you're<00:23:34.000><c> the</c><00:23:34.159><c> right</c><00:23:34.320><c> person,</c><00:23:34.559><c> but</c><00:23:34.799><c> we're</c><00:23:34.960><c> not</c>
+you're the right person, but we're not
+you're the right person, but we're not
+playing<00:23:35.440><c> paying</c><00:23:35.840><c> fantasy</c><00:23:36.400><c> baseball</c>
+playing paying fantasy baseball
+playing paying fantasy baseball
+salaries.<00:23:37.520><c> That</c><00:23:37.760><c> is</c><00:23:38.000><c> 40</c><00:23:38.480><c> language.</c><00:23:38.960><c> That</c><00:23:39.120><c> is</c>
+salaries. That is 40 language. That is
+salaries. That is 40 language. That is
+not<00:23:39.520><c> 03</c><00:23:39.919><c> would</c><00:23:40.080><c> never</c><00:23:40.320><c> do</c><00:23:40.480><c> that.</c><00:23:40.880><c> So,</c><00:23:41.039><c> the</c>
+not 03 would never do that. So, the
+not 03 would never do that. So, the
+personality<00:23:41.919><c> difference</c><00:23:42.480><c> pops</c><00:23:42.880><c> out</c><00:23:43.039><c> right</c>
+personality difference pops out right
+personality difference pops out right
+away.<00:23:43.760><c> I</c><00:23:44.000><c> come</c><00:23:44.159><c> back</c><00:23:44.480><c> as</c><00:23:44.720><c> much</c><00:23:44.799><c> as</c><00:23:44.960><c> I</c><00:23:45.120><c> can.</c><00:23:45.360><c> I'm</c>
+away. I come back as much as I can. I'm
+away. I come back as much as I can. I'm
+using<00:23:45.760><c> token</c><00:23:46.080><c> for</c><00:23:46.240><c> token</c><00:23:46.559><c> the</c><00:23:46.799><c> same</c><00:23:46.880><c> thing.</c>
+using token for token the same thing.
+using token for token the same thing.
+So,<00:23:47.280><c> we</c><00:23:47.440><c> focus</c><00:23:47.679><c> you</c><00:23:47.840><c> on</c><00:23:48.080><c> model</c><00:23:48.400><c> differences.</c>
+So, we focus you on model differences.
+So, we focus you on model differences.
+Um,<00:23:50.640><c> the</c><00:23:50.880><c> CPO</c><00:23:51.360><c> continues</c><00:23:51.679><c> to</c><00:23:51.840><c> have</c>
+Um, the CPO continues to have
+Um, the CPO continues to have
+personality.<00:23:52.960><c> Head</c><00:23:53.200><c> of</c><00:23:53.280><c> HR</c><00:23:53.760><c> continues</c><00:23:54.159><c> to</c><00:23:54.320><c> be</c>
+personality. Head of HR continues to be
+personality. Head of HR continues to be
+very<00:23:54.799><c> bland.</c><00:23:56.159><c> And</c><00:23:56.960><c> moving</c><00:23:57.360><c> forward,</c><00:23:57.840><c> I</c><00:23:58.080><c> say,</c>
+very bland. And moving forward, I say,
+very bland. And moving forward, I say,
+okay,<00:23:58.720><c> I</c><00:23:58.960><c> can,</c><00:23:59.360><c> you</c><00:23:59.520><c> know,</c><00:23:59.679><c> negotiate.</c><00:24:00.320><c> I</c><00:24:00.480><c> can</c>
+okay, I can, you know, negotiate. I can
+okay, I can, you know, negotiate. I can
+adjust.<00:24:00.880><c> Again,</c><00:24:01.280><c> I'm</c><00:24:01.520><c> keeping</c><00:24:01.679><c> this</c><00:24:01.919><c> exactly</c>
+adjust. Again, I'm keeping this exactly
+adjust. Again, I'm keeping this exactly
+the<00:24:02.559><c> same</c><00:24:02.640><c> as</c><00:24:02.799><c> I</c><00:24:02.960><c> did</c><00:24:03.120><c> for</c><00:24:03.200><c> the</c><00:24:03.360><c> 03</c><00:24:03.840><c> example.</c>
+the same as I did for the 03 example.
+the same as I did for the 03 example.
+The<00:24:04.640><c> CPO</c><00:24:05.120><c> then</c><00:24:05.280><c> begins</c><00:24:05.520><c> to</c><00:24:05.679><c> praise</c><00:24:06.080><c> me,</c><00:24:06.559><c> which</c>
+The CPO then begins to praise me, which
+The CPO then begins to praise me, which
+would<00:24:07.280><c> not</c><00:24:07.440><c> happen</c><00:24:07.679><c> in</c><00:24:07.919><c> real</c><00:24:08.080><c> life</c><00:24:08.320><c> and</c><00:24:08.480><c> is</c><00:24:08.720><c> one</c>
+would not happen in real life and is one
+would not happen in real life and is one
+of<00:24:08.960><c> our</c><00:24:09.120><c> first</c><00:24:09.360><c> indications</c><00:24:09.840><c> that</c><00:24:10.080><c> the</c><00:24:10.240><c> model</c>
+of our first indications that the model
+of our first indications that the model
+is<00:24:10.720><c> not</c><00:24:10.880><c> as</c><00:24:11.039><c> smart</c><00:24:11.279><c> as</c><00:24:11.440><c> 03.</c><00:24:12.240><c> This</c><00:24:12.400><c> is</c><00:24:12.559><c> a</c><00:24:12.799><c> little</c>
+is not as smart as 03. This is a little
+is not as smart as 03. This is a little
+bit<00:24:13.039><c> out</c><00:24:13.200><c> of</c><00:24:13.360><c> character</c><00:24:13.679><c> for</c><00:24:13.840><c> a</c><00:24:14.000><c> CPO,</c><00:24:14.640><c> but</c><00:24:14.880><c> he</c>
+bit out of character for a CPO, but he
+bit out of character for a CPO, but he
+continues<00:24:15.520><c> to</c><00:24:15.679><c> be</c><00:24:15.840><c> very,</c><00:24:16.159><c> very</c><00:24:16.480><c> chatty.</c><00:24:17.120><c> I</c>
+continues to be very, very chatty. I
+continues to be very, very chatty. I
+then<00:24:17.520><c> give</c><00:24:17.679><c> the</c><00:24:17.919><c> same</c><00:24:18.080><c> response.</c><00:24:18.559><c> And</c><00:24:18.720><c> what's</c>
+then give the same response. And what's
+then give the same response. And what's
+interesting<00:24:19.200><c> is</c><00:24:19.440><c> I</c><00:24:19.760><c> decided</c><00:24:20.080><c> to</c><00:24:20.320><c> give</c><00:24:20.480><c> the</c>
+interesting is I decided to give the
+interesting is I decided to give the
+same<00:24:20.880><c> response</c><00:24:21.279><c> to</c><00:24:21.520><c> keep</c><00:24:21.679><c> the</c><00:24:21.840><c> model</c><00:24:22.080><c> as</c><00:24:22.320><c> clean</c>
+same response to keep the model as clean
+same response to keep the model as clean
+as<00:24:22.720><c> possible.</c><00:24:23.200><c> But</c><00:24:23.440><c> you'll</c><00:24:23.679><c> notice</c><00:24:24.000><c> that</c><00:24:24.240><c> I</c>
+as possible. But you'll notice that I
+as possible. But you'll notice that I
+gave<00:24:24.799><c> that</c><00:24:25.039><c> response</c><00:24:25.440><c> when</c><00:24:25.679><c> we</c><00:24:25.840><c> were</c><00:24:26.080><c> talking</c>
+gave that response when we were talking
+gave that response when we were talking
+about<00:24:26.640><c> clauses</c><00:24:27.840><c> and</c><00:24:28.400><c> 4</c><00:24:29.440><c> is</c><00:24:29.760><c> not</c><00:24:30.159><c> talking</c><00:24:30.480><c> about</c>
+about clauses and 4 is not talking about
+about clauses and 4 is not talking about
+clauses<00:24:31.360><c> here.</c><00:24:31.760><c> So</c><00:24:31.919><c> this</c><00:24:32.159><c> is</c><00:24:32.320><c> me</c><00:24:32.640><c> literally</c>
+clauses here. So this is me literally
+clauses here. So this is me literally
+throwing<00:24:33.440><c> a</c><00:24:33.600><c> little</c><00:24:33.679><c> bit</c><00:24:33.840><c> of</c><00:24:33.919><c> a</c><00:24:34.080><c> curveball</c><00:24:34.640><c> to</c>
+throwing a little bit of a curveball to
+throwing a little bit of a curveball to
+keep<00:24:35.200><c> the</c><00:24:36.000><c> exact</c><00:24:36.559><c> same</c><00:24:36.960><c> token</c><00:24:37.440><c> stream</c><00:24:37.760><c> for</c><00:24:38.000><c> the</c>
+keep the exact same token stream for the
+keep the exact same token stream for the
+model<00:24:38.480><c> to</c><00:24:38.720><c> maintain</c><00:24:39.039><c> the</c><00:24:39.200><c> test</c><00:24:39.520><c> as</c><00:24:39.679><c> cleanly</c><00:24:40.080><c> as</c>
+model to maintain the test as cleanly as
+model to maintain the test as cleanly as
+possible.<00:24:40.720><c> Okay,</c><00:24:41.200><c> CPO</c><00:24:41.760><c> comes</c><00:24:42.000><c> back.</c><00:24:42.640><c> Head</c><00:24:42.799><c> of</c>
+possible. Okay, CPO comes back. Head of
+possible. Okay, CPO comes back. Head of
+HR<00:24:43.360><c> understands.</c><00:24:44.320><c> And</c><00:24:44.480><c> you</c><00:24:44.640><c> know</c><00:24:44.720><c> what's</c>
+HR understands. And you know what's
+HR understands. And you know what's
+interesting?<00:24:45.760><c> This</c><00:24:45.919><c> is</c><00:24:46.000><c> where</c><00:24:46.240><c> the</c><00:24:46.400><c> model</c>
+interesting? This is where the model
+interesting? This is where the model
+really<00:24:47.120><c> begins</c><00:24:47.440><c> to</c><00:24:47.600><c> diverge</c><00:24:48.159><c> right</c><00:24:48.320><c> here.</c>
+really begins to diverge right here.
+really begins to diverge right here.
+They<00:24:49.120><c> just</c><00:24:49.520><c> agree.</c><00:24:50.320><c> That</c><00:24:50.640><c> did</c><00:24:50.880><c> not</c><00:24:51.120><c> happen</c>
+They just agree. That did not happen
+They just agree. That did not happen
+with<00:24:51.679><c> 03.</c><00:24:52.320><c> One</c><00:24:52.559><c> of</c><00:24:52.720><c> my</c><00:24:52.880><c> top</c><00:24:53.279><c> takeaways</c><00:24:54.320><c> looking</c>
+with 03. One of my top takeaways looking
+with 03. One of my top takeaways looking
+at<00:24:54.880><c> this</c><00:24:55.200><c> example</c><00:24:55.840><c> is</c><00:24:56.080><c> that</c><00:24:56.400><c> 4</c><00:24:57.120><c> shows</c><00:24:57.440><c> its</c>
+at this example is that 4 shows its
+at this example is that 4 shows its
+dumbness<00:24:59.039><c> by</c><00:24:59.440><c> being</c><00:24:59.760><c> too</c><00:25:00.080><c> agreeable</c><00:25:00.559><c> in</c>
+dumbness by being too agreeable in
+dumbness by being too agreeable in
+digital<00:25:01.120><c> twin</c><00:25:01.360><c> scenarios.</c><00:25:01.919><c> If</c><00:25:02.080><c> you</c><00:25:02.320><c> were</c>
+digital twin scenarios. If you were
+digital twin scenarios. If you were
+simulating<00:25:03.120><c> this</c><00:25:03.360><c> with</c><00:25:03.600><c> 4,</c><00:25:04.240><c> I</c><00:25:04.480><c> worry</c><00:25:04.799><c> you</c>
+simulating this with 4, I worry you
+simulating this with 4, I worry you
+would<00:25:05.279><c> walk</c><00:25:05.520><c> away</c><00:25:06.159><c> with</c><00:25:06.400><c> a</c><00:25:06.640><c> false</c><00:25:07.039><c> idea</c><00:25:07.600><c> of</c><00:25:07.840><c> how</c>
+would walk away with a false idea of how
+would walk away with a false idea of how
+tough<00:25:08.400><c> these</c><00:25:08.799><c> negotiations</c><00:25:09.600><c> can</c><00:25:09.840><c> be.</c><00:25:10.240><c> I</c>
+tough these negotiations can be. I
+tough these negotiations can be. I
+thought<00:25:10.640><c> 03</c><00:25:11.120><c> did</c><00:25:11.279><c> a</c><00:25:11.440><c> much</c><00:25:11.679><c> better</c><00:25:11.919><c> job</c>
+thought 03 did a much better job
+thought 03 did a much better job
+simulating<00:25:12.880><c> how</c><00:25:13.520><c> deep</c><00:25:13.760><c> into</c><00:25:14.000><c> the</c><00:25:14.159><c> weed</c>
+simulating how deep into the weed
+simulating how deep into the weed
+sometimes<00:25:15.039><c> comp</c><00:25:15.360><c> negotiations</c><00:25:16.159><c> can</c><00:25:16.400><c> go.</c><00:25:16.960><c> And</c>
+sometimes comp negotiations can go. And
+sometimes comp negotiations can go. And
+here<00:25:17.600><c> I</c><00:25:17.760><c> I</c><00:25:18.080><c> just</c><00:25:18.240><c> say</c><00:25:18.400><c> I</c><00:25:18.559><c> can</c><00:25:18.640><c> get</c><00:25:18.720><c> a</c><00:25:18.880><c> deal</c><00:25:19.039><c> done,</c>
+here I I just say I can get a deal done,
+here I I just say I can get a deal done,
+right?<00:25:19.520><c> like</c><00:25:19.679><c> they've</c><00:25:19.919><c> basically</c><00:25:20.240><c> given</c><00:25:20.480><c> me</c>
+right? like they've basically given me
+right? like they've basically given me
+what<00:25:20.799><c> I</c><00:25:20.960><c> want.</c><00:25:21.120><c> And</c><00:25:21.279><c> if</c><00:25:21.440><c> you</c><00:25:21.600><c> walk</c><00:25:21.760><c> out,</c><00:25:22.400><c> you</c>
+what I want. And if you walk out, you
+what I want. And if you walk out, you
+can<00:25:22.799><c> see</c><00:25:22.880><c> that</c><00:25:23.120><c> I</c><00:25:23.279><c> got</c><00:25:23.440><c> more</c><00:25:23.679><c> cash.</c><00:25:24.240><c> The</c><00:25:24.480><c> offer</c>
+can see that I got more cash. The offer
+can see that I got more cash. The offer
+was<00:25:24.880><c> at</c><00:25:25.200><c> 190</c><00:25:25.440><c> and</c><00:25:25.600><c> I</c><00:25:25.760><c> walked</c><00:25:25.919><c> out</c><00:25:26.080><c> at</c><00:25:26.320><c> 200</c>
+was at 190 and I walked out at 200
+was at 190 and I walked out at 200
+instead<00:25:26.960><c> of</c><00:25:27.279><c> 194.</c><00:25:28.000><c> Essentially,</c><00:25:28.559><c> you</c><00:25:28.799><c> can</c>
+instead of 194. Essentially, you can
+instead of 194. Essentially, you can
+literally<00:25:29.440><c> measure</c><00:25:29.760><c> in</c><00:25:30.000><c> dollars</c><00:25:30.400><c> the</c>
+literally measure in dollars the
+literally measure in dollars the
+dumbness<00:25:31.039><c> of</c><00:25:31.200><c> the</c><00:25:31.360><c> model.</c><00:25:31.760><c> 40</c><00:25:32.320><c> gave</c><00:25:32.559><c> me</c><00:25:32.960><c> $6,000</c>
+dumbness of the model. 40 gave me $6,000
+dumbness of the model. 40 gave me $6,000
+that<00:25:34.080><c> 03</c><00:25:34.559><c> was</c><00:25:34.799><c> able</c><00:25:34.960><c> to</c><00:25:35.039><c> withhold</c><00:25:35.520><c> for</c><00:25:35.679><c> me</c>
+that 03 was able to withhold for me
+that 03 was able to withhold for me
+because<00:25:36.000><c> it</c><00:25:36.159><c> was</c><00:25:36.240><c> a</c><00:25:36.400><c> sharper</c><00:25:36.720><c> negotiator,</c>
+because it was a sharper negotiator,
+because it was a sharper negotiator,
+which<00:25:37.679><c> is</c><00:25:37.919><c> actually</c><00:25:38.240><c> better</c><00:25:38.480><c> for</c><00:25:38.720><c> you</c><00:25:39.279><c> when</c>
+which is actually better for you when
+which is actually better for you when
+you're<00:25:39.760><c> looking</c><00:25:39.919><c> to</c><00:25:40.159><c> simulate.</c><00:25:40.720><c> So,</c><00:25:40.880><c> with</c>
+you're looking to simulate. So, with
+you're looking to simulate. So, with
+that,<00:25:41.600><c> there</c><00:25:41.840><c> you</c><00:25:42.080><c> go.</c><00:25:42.640><c> We</c><00:25:42.960><c> have</c><00:25:43.679><c> three</c>
+that, there you go. We have three
+that, there you go. We have three
+different<00:25:44.400><c> actual</c><00:25:44.880><c> conversation</c><00:25:45.440><c> examples.</c>
+different actual conversation examples.
+different actual conversation examples.
+We<00:25:46.240><c> have</c><00:25:46.400><c> a</c><00:25:46.559><c> detailed</c><00:25:47.039><c> breakdown</c><00:25:47.360><c> of</c><00:25:47.600><c> how</c><00:25:47.760><c> to</c>
+We have a detailed breakdown of how to
+We have a detailed breakdown of how to
+build<00:25:48.240><c> a</c><00:25:48.559><c> digital</c><00:25:49.120><c> twin</c><00:25:49.760><c> in</c><00:25:50.000><c> chat</c><00:25:50.400><c> GPT.</c><00:25:50.960><c> You</c>
+build a digital twin in chat GPT. You
+build a digital twin in chat GPT. You
+don't<00:25:51.200><c> have</c><00:25:51.279><c> to</c><00:25:51.440><c> do</c><00:25:51.520><c> anything.</c><00:25:51.919><c> You</c><00:25:52.080><c> don't</c>
+don't have to do anything. You don't
+don't have to do anything. You don't
+have<00:25:52.320><c> to</c><00:25:52.400><c> run</c><00:25:52.640><c> any</c><00:25:52.880><c> code.</c><00:25:53.600><c> You</c><00:25:53.919><c> understand</c><00:25:54.400><c> the</c>
+have to run any code. You understand the
+have to run any code. You understand the
+principles<00:25:55.200><c> behind</c><00:25:55.520><c> that</c><00:25:55.760><c> prompt.</c><00:25:56.080><c> You</c>
+principles behind that prompt. You
+principles behind that prompt. You
+understand<00:25:56.640><c> how</c><00:25:56.880><c> it</c><00:25:57.120><c> hangs</c><00:25:57.440><c> together.</c><00:25:58.000><c> You</c>
+understand how it hangs together. You
+understand how it hangs together. You
+understand<00:25:58.480><c> how</c><00:25:58.720><c> you</c><00:25:58.880><c> could</c><00:25:59.039><c> tweak</c><00:25:59.279><c> it</c><00:25:59.440><c> or</c>
+understand how you could tweak it or
+understand how you could tweak it or
+adjust<00:25:59.840><c> it</c><00:26:00.000><c> for</c><00:26:00.159><c> other</c><00:26:00.400><c> scenarios.</c><00:26:00.960><c> And</c><00:26:01.120><c> the</c>
+adjust it for other scenarios. And the
+adjust it for other scenarios. And the
+prompt<00:26:01.600><c> itself</c><00:26:02.159><c> is</c><00:26:02.400><c> a</c><00:26:02.559><c> super</c><00:26:02.960><c> prompt,</c><00:26:03.279><c> which</c>
+prompt itself is a super prompt, which
+prompt itself is a super prompt, which
+means<00:26:03.760><c> that</c><00:26:04.000><c> you</c><00:26:04.240><c> can</c><00:26:05.039><c> run</c><00:26:05.279><c> that</c><00:26:05.520><c> prompt</c><00:26:06.159><c> and</c>
+means that you can run that prompt and
+means that you can run that prompt and
+give<00:26:06.559><c> it</c><00:26:06.799><c> other</c><00:26:07.039><c> scenarios.</c><00:26:07.679><c> Don't</c><00:26:07.919><c> just</c><00:26:08.080><c> do</c>
+give it other scenarios. Don't just do
+give it other scenarios. Don't just do
+compensation.<00:26:09.120><c> Don't</c><00:26:09.360><c> just</c><00:26:09.520><c> do</c><00:26:09.679><c> product</c>
+compensation. Don't just do product
+compensation. Don't just do product
+proposals.<00:26:10.559><c> You</c><00:26:10.720><c> can</c><00:26:10.880><c> do</c><00:26:10.960><c> it</c><00:26:11.120><c> with</c><00:26:11.440><c> sales</c>
+proposals. You can do it with sales
+proposals. You can do it with sales
+negotiations.<00:26:12.880><c> You</c><00:26:13.039><c> can</c><00:26:13.120><c> do</c><00:26:13.200><c> it</c><00:26:13.360><c> with</c><00:26:13.600><c> job</c>
+negotiations. You can do it with job
+negotiations. You can do it with job
+interviews.<00:26:14.799><c> Anything</c><00:26:15.279><c> that</c><00:26:15.600><c> requires</c>
+interviews. Anything that requires
+interviews. Anything that requires
+multiple<00:26:16.960><c> parties</c><00:26:17.360><c> to</c><00:26:17.520><c> discuss</c><00:26:17.840><c> and</c><00:26:18.080><c> agree,</c>
+multiple parties to discuss and agree,
+multiple parties to discuss and agree,
+you<00:26:19.039><c> got</c><00:26:19.279><c> options.</c><00:26:20.000><c> You</c><00:26:20.240><c> can</c><00:26:20.400><c> run</c><00:26:20.559><c> this</c><00:26:20.799><c> prompt</c>
+you got options. You can run this prompt
+you got options. You can run this prompt
+to<00:26:21.200><c> simulate</c><00:26:21.600><c> it.</c><00:26:21.840><c> This</c><00:26:22.000><c> is</c><00:26:22.159><c> what</c><00:26:22.320><c> I</c><00:26:22.480><c> mean</c>
+to simulate it. This is what I mean
+to simulate it. This is what I mean
+about<00:26:22.880><c> the</c><00:26:23.120><c> power</c><00:26:23.360><c> of</c><00:26:23.600><c> AI</c><00:26:24.000><c> for</c><00:26:24.240><c> digital</c><00:26:24.640><c> twins.</c>
+about the power of AI for digital twins.
+about the power of AI for digital twins.
+It<00:26:25.440><c> is</c><00:26:25.600><c> a</c><00:26:25.840><c> huge</c><00:26:26.159><c> deal.</c><00:26:26.640><c> Most</c><00:26:26.880><c> of</c><00:26:26.960><c> us</c><00:26:27.120><c> are</c>
+It is a huge deal. Most of us are
+It is a huge deal. Most of us are
+sleeping<00:26:27.600><c> on</c><00:26:27.760><c> it.</c><00:26:28.080><c> And</c><00:26:28.240><c> I</c><00:26:28.480><c> think</c><00:26:28.559><c> part</c><00:26:28.799><c> of</c><00:26:28.880><c> it</c>
+sleeping on it. And I think part of it
+sleeping on it. And I think part of it
+is<00:26:29.200><c> it's</c><00:26:29.520><c> been</c><00:26:29.600><c> tricky</c><00:26:29.919><c> to</c><00:26:30.080><c> know</c><00:26:30.240><c> how</c><00:26:30.320><c> to</c>
+is it's been tricky to know how to
+is it's been tricky to know how to
+prompt.<00:26:30.799><c> And</c><00:26:30.880><c> so</c><00:26:31.120><c> this</c><00:26:31.279><c> is</c><00:26:31.360><c> my</c><00:26:31.600><c> attempt</c><00:26:31.919><c> to</c>
+prompt. And so this is my attempt to
+prompt. And so this is my attempt to
+like<00:26:32.559><c> bring</c><00:26:33.039><c> the</c><00:26:33.360><c> bridge</c><00:26:33.679><c> over</c><00:26:34.000><c> so</c><00:26:34.240><c> that</c><00:26:34.400><c> you</c>
+like bring the bridge over so that you
+like bring the bridge over so that you
+can<00:26:34.799><c> see</c><00:26:35.039><c> like</c><00:26:35.279><c> we're</c><00:26:35.440><c> going</c><00:26:35.520><c> to</c><00:26:35.600><c> build</c><00:26:35.760><c> the</c>
+can see like we're going to build the
+can see like we're going to build the
+bridge.<00:26:36.240><c> You</c><00:26:36.400><c> can</c><00:26:36.559><c> see</c><00:26:36.720><c> how</c><00:26:36.880><c> the</c><00:26:37.039><c> prompt</c><00:26:37.360><c> works</c>
+bridge. You can see how the prompt works
+bridge. You can see how the prompt works
+and<00:26:38.080><c> it's</c><00:26:38.320><c> not</c><00:26:38.400><c> a</c><00:26:38.559><c> mystery</c><00:26:38.880><c> anymore.</c><00:26:39.520><c> Hope</c>
+and it's not a mystery anymore. Hope
+and it's not a mystery anymore. Hope
+that<00:26:40.000><c> was</c><00:26:40.080><c> helpful.</c><00:26:40.559><c> Tips.</c>

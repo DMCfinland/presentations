@@ -1,0 +1,1474 @@
+Most<00:00:00.400><c> of</c><00:00:00.560><c> what</c><00:00:00.800><c> you</c><00:00:01.040><c> read</c><00:00:01.360><c> about</c><00:00:01.680><c> how</c><00:00:01.839><c> to</c><00:00:02.000><c> break</c>
+Most of what you read about how to break
+Most of what you read about how to break
+into<00:00:02.560><c> AI</c><00:00:03.200><c> is</c><00:00:03.600><c> wrong.</c><00:00:04.640><c> Not</c><00:00:05.040><c> because</c><00:00:05.359><c> it's</c>
+into AI is wrong. Not because it's
+into AI is wrong. Not because it's
+incorrect,<00:00:06.319><c> but</c><00:00:06.560><c> because</c><00:00:06.720><c> it's</c><00:00:07.040><c> too</c><00:00:07.279><c> vague</c><00:00:07.680><c> to</c>
+incorrect, but because it's too vague to
+incorrect, but because it's too vague to
+be<00:00:08.080><c> useful.</c><00:00:08.720><c> It's</c><00:00:08.880><c> too</c><00:00:09.120><c> high</c><00:00:09.280><c> level.</c><00:00:09.840><c> It's</c><00:00:10.000><c> too</c>
+be useful. It's too high level. It's too
+be useful. It's too high level. It's too
+general.<00:00:10.559><c> Learn</c><00:00:10.800><c> AI.</c><00:00:11.440><c> Don't</c><00:00:11.759><c> do</c><00:00:11.920><c> that.</c><00:00:12.480><c> Get</c>
+general. Learn AI. Don't do that. Get
+general. Learn AI. Don't do that. Get
+specific.<00:00:13.360><c> Get</c><00:00:13.599><c> useful.</c><00:00:14.400><c> I</c><00:00:14.719><c> have</c><00:00:14.880><c> spent</c><00:00:15.200><c> the</c>
+specific. Get useful. I have spent the
+specific. Get useful. I have spent the
+last<00:00:15.599><c> few</c><00:00:15.839><c> days</c><00:00:16.160><c> taking</c><00:00:16.480><c> apart</c><00:00:17.119><c> 17</c><00:00:17.680><c> different</c>
+last few days taking apart 17 different
+last few days taking apart 17 different
+career<00:00:18.480><c> paths</c><00:00:19.119><c> in</c><00:00:19.439><c> AI</c><00:00:20.000><c> that</c><00:00:20.240><c> people</c><00:00:20.480><c> are</c>
+career paths in AI that people are
+career paths in AI that people are
+hiring<00:00:20.960><c> for</c><00:00:21.439><c> right</c><00:00:21.760><c> now.</c><00:00:22.000><c> I've</c><00:00:22.240><c> looked</c><00:00:22.400><c> into</c>
+hiring for right now. I've looked into
+hiring for right now. I've looked into
+the<00:00:22.880><c> job</c><00:00:23.119><c> market,</c><00:00:23.680><c> both</c><00:00:24.080><c> where</c><00:00:24.400><c> we're</c><00:00:24.720><c> hiring</c>
+the job market, both where we're hiring
+the job market, both where we're hiring
+and<00:00:25.439><c> also</c><00:00:25.760><c> where</c><00:00:26.000><c> jobs</c><00:00:26.320><c> are</c><00:00:26.480><c> being</c><00:00:26.720><c> destroyed.</c>
+and also where jobs are being destroyed.
+and also where jobs are being destroyed.
+And<00:00:27.760><c> I've</c><00:00:28.080><c> come</c><00:00:28.160><c> out</c><00:00:28.320><c> of</c><00:00:28.480><c> all</c><00:00:28.640><c> of</c><00:00:28.720><c> it</c><00:00:28.960><c> with</c><00:00:29.279><c> some</c>
+And I've come out of all of it with some
+And I've come out of all of it with some
+overall<00:00:29.840><c> takeaways</c><00:00:30.400><c> for</c><00:00:30.640><c> you</c><00:00:30.960><c> as</c><00:00:31.199><c> well</c><00:00:31.279><c> as</c>
+overall takeaways for you as well as
+overall takeaways for you as well as
+some<00:00:31.760><c> approaches</c><00:00:32.160><c> to</c><00:00:32.480><c> prompting</c><00:00:33.360><c> that</c><00:00:33.680><c> help</c>
+some approaches to prompting that help
+some approaches to prompting that help
+you<00:00:34.160><c> to</c><00:00:34.399><c> figure</c><00:00:34.559><c> out</c><00:00:34.960><c> where</c><00:00:35.280><c> you</c><00:00:35.440><c> can</c><00:00:35.680><c> career</c>
+you to figure out where you can career
+you to figure out where you can career
+path<00:00:36.320><c> yourselves</c><00:00:37.040><c> and</c><00:00:37.360><c> where</c><00:00:38.000><c> you</c><00:00:38.320><c> can</c><00:00:38.559><c> scale</c>
+path yourselves and where you can scale
+path yourselves and where you can scale
+up<00:00:39.200><c> if</c><00:00:39.440><c> you</c><00:00:39.600><c> have</c><00:00:39.680><c> a</c><00:00:39.840><c> particular</c><00:00:40.239><c> job</c><00:00:40.480><c> role</c><00:00:40.719><c> in</c>
+up if you have a particular job role in
+up if you have a particular job role in
+mind.<00:00:41.440><c> So</c><00:00:41.920><c> let's</c><00:00:42.160><c> dive</c><00:00:42.399><c> into</c><00:00:42.559><c> it.</c><00:00:42.800><c> First</c><00:00:43.040><c> up,</c>
+mind. So let's dive into it. First up,
+mind. So let's dive into it. First up,
+let's<00:00:43.520><c> get</c><00:00:43.680><c> at</c><00:00:43.920><c> the</c><00:00:44.320><c> overall</c><00:00:45.200><c> job</c><00:00:45.520><c> situation.</c>
+let's get at the overall job situation.
+let's get at the overall job situation.
+The<00:00:46.239><c> World</c><00:00:46.480><c> Economic</c><00:00:46.960><c> Forum,</c><00:00:47.520><c> I</c><00:00:47.680><c> know</c><00:00:47.840><c> you</c>
+The World Economic Forum, I know you
+The World Economic Forum, I know you
+love<00:00:48.160><c> to</c><00:00:48.320><c> read</c><00:00:48.480><c> them,</c><00:00:48.879><c> says</c><00:00:49.680><c> 170</c><00:00:50.079><c> million</c><00:00:50.399><c> new</c>
+love to read them, says 170 million new
+love to read them, says 170 million new
+AI<00:00:50.960><c> jobs</c><00:00:51.280><c> will</c><00:00:51.440><c> be</c><00:00:51.600><c> created</c><00:00:51.840><c> by</c><00:00:52.000><c> 2030.</c><00:00:52.559><c> Yay,</c>
+AI jobs will be created by 2030. Yay,
+AI jobs will be created by 2030. Yay,
+yay.<00:00:53.120><c> Break</c><00:00:53.280><c> out</c><00:00:53.440><c> the</c><00:00:53.600><c> party</c><00:00:53.840><c> hats.</c><00:00:54.559><c> But</c><00:00:55.440><c> 92</c>
+yay. Break out the party hats. But 92
+yay. Break out the party hats. But 92
+million<00:00:56.160><c> jobs</c><00:00:56.480><c> will</c><00:00:56.640><c> be</c><00:00:56.800><c> destroyed</c><00:00:57.120><c> in</c><00:00:57.280><c> the</c>
+million jobs will be destroyed in the
+million jobs will be destroyed in the
+same<00:00:57.600><c> period.</c><00:00:58.239><c> So</c><00:00:58.480><c> net</c><00:00:58.719><c> gain</c><00:00:59.359><c> just</c><00:00:59.760><c> 78</c><00:01:00.239><c> million</c>
+same period. So net gain just 78 million
+same period. So net gain just 78 million
+positions<00:01:01.359><c> projected.</c><00:01:02.239><c> Stanford</c><00:01:02.719><c> published</c>
+positions projected. Stanford published
+positions projected. Stanford published
+research<00:01:03.520><c> showing</c><00:01:04.000><c> 13%</c><00:01:04.720><c> unemploy</c><00:01:05.360><c> or</c>
+research showing 13% unemploy or
+research showing 13% unemploy or
+employment<00:01:06.159><c> decline</c><00:01:06.479><c> for</c><00:01:06.720><c> workers</c><00:01:07.040><c> aged</c><00:01:07.360><c> 22</c>
+employment decline for workers aged 22
+employment decline for workers aged 22
+to<00:01:08.080><c> 25</c><00:01:08.479><c> and</c><00:01:08.640><c> AI</c><00:01:09.040><c> exposed</c><00:01:09.439><c> roles</c><00:01:09.760><c> since</c><00:01:10.000><c> late</c>
+to 25 and AI exposed roles since late
+to 25 and AI exposed roles since late
+2022.<00:01:11.040><c> That</c><00:01:11.200><c> is</c><00:01:11.360><c> not</c><00:01:11.520><c> news</c><00:01:11.760><c> to</c><00:01:11.920><c> anybody</c><00:01:12.240><c> I</c><00:01:12.479><c> know</c>
+2022. That is not news to anybody I know
+2022. That is not news to anybody I know
+who<00:01:12.880><c> is</c><00:01:12.960><c> in</c><00:01:13.119><c> that</c><00:01:13.280><c> age</c><00:01:13.520><c> demographic.</c><00:01:14.159><c> Look</c><00:01:14.240><c> at</c>
+who is in that age demographic. Look at
+who is in that age demographic. Look at
+my<00:01:14.560><c> gray</c><00:01:14.799><c> hairs.</c><00:01:15.119><c> I</c><00:01:15.280><c> am</c><00:01:15.360><c> not.</c><00:01:15.760><c> So</c><00:01:16.080><c> AI</c><00:01:16.400><c> is</c>
+my gray hairs. I am not. So AI is
+my gray hairs. I am not. So AI is
+simultaneously<00:01:17.520><c> creating</c><00:01:17.920><c> opportunities</c>
+simultaneously creating opportunities
+simultaneously creating opportunities
+and<00:01:19.040><c> it's</c><00:01:19.360><c> automating</c><00:01:19.920><c> entry-level</c>
+and it's automating entry-level
+and it's automating entry-level
+positions<00:01:21.439><c> people</c><00:01:21.759><c> use</c><00:01:22.000><c> to</c><00:01:22.159><c> break</c><00:01:22.400><c> in.</c><00:01:22.799><c> That's</c>
+positions people use to break in. That's
+positions people use to break in. That's
+the<00:01:23.360><c> paradox</c><00:01:23.759><c> that</c><00:01:24.000><c> we</c><00:01:24.159><c> need</c><00:01:24.240><c> to</c><00:01:24.400><c> wrestle</c><00:01:24.640><c> with</c>
+the paradox that we need to wrestle with
+the paradox that we need to wrestle with
+and<00:01:25.040><c> solve.</c><00:01:25.600><c> So</c><00:01:25.759><c> when</c><00:01:26.000><c> you</c><00:01:26.159><c> search</c><00:01:26.400><c> how</c><00:01:26.560><c> to</c>
+and solve. So when you search how to
+and solve. So when you search how to
+break<00:01:26.880><c> into</c><00:01:27.119><c> AI</c><00:01:27.600><c> in</c><00:01:27.840><c> that</c><00:01:28.159><c> world,</c><00:01:28.720><c> you</c><00:01:28.960><c> get</c><00:01:29.119><c> one</c>
+break into AI in that world, you get one
+break into AI in that world, you get one
+of<00:01:29.439><c> two</c><00:01:29.680><c> extremes.</c><00:01:30.479><c> You</c><00:01:30.640><c> get</c><00:01:31.119><c> let's</c><00:01:31.439><c> learn</c>
+of two extremes. You get let's learn
+of two extremes. You get let's learn
+Python<00:01:32.320><c> in</c><00:01:32.640><c> 30</c><00:01:32.880><c> days</c><00:01:33.119><c> and</c><00:01:33.360><c> become</c><00:01:33.600><c> an</c><00:01:33.759><c> ML</c>
+Python in 30 days and become an ML
+Python in 30 days and become an ML
+engineer.<00:01:34.799><c> Lots</c><00:01:35.119><c> of</c><00:01:35.360><c> lots</c><00:01:35.680><c> of</c><00:01:36.240><c> that.</c><00:01:36.720><c> Or</c><00:01:36.880><c> you</c>
+engineer. Lots of lots of that. Or you
+engineer. Lots of lots of that. Or you
+get<00:01:37.119><c> a</c><00:01:37.280><c> little</c><00:01:37.360><c> bit</c><00:01:37.520><c> of</c><00:01:37.600><c> gatekeeping</c><00:01:38.240><c> like</c><00:01:38.400><c> you</c>
+get a little bit of gatekeeping like you
+get a little bit of gatekeeping like you
+need<00:01:38.640><c> to</c><00:01:38.720><c> be</c><00:01:38.799><c> a</c><00:01:38.960><c> PhD</c><00:01:39.439><c> from</c><00:01:39.680><c> Stanford</c><00:01:40.079><c> or</c><00:01:40.240><c> you</c>
+need to be a PhD from Stanford or you
+need to be a PhD from Stanford or you
+need<00:01:40.479><c> to</c><00:01:40.560><c> get</c><00:01:40.640><c> into</c><00:01:40.880><c> Y</c><00:01:41.119><c> Combinator,</c><00:01:41.759><c> you</c><00:01:41.840><c> need</c>
+need to get into Y Combinator, you need
+need to get into Y Combinator, you need
+to<00:01:42.079><c> found</c><00:01:42.320><c> your</c><00:01:42.479><c> own</c><00:01:42.640><c> startup.</c><00:01:43.280><c> Both</c><00:01:43.600><c> of</c><00:01:43.759><c> these</c>
+to found your own startup. Both of these
+to found your own startup. Both of these
+are<00:01:44.960><c> suboptimal</c><00:01:46.159><c> because</c><00:01:46.399><c> they</c><00:01:46.720><c> only</c><00:01:47.040><c> apply</c>
+are suboptimal because they only apply
+are suboptimal because they only apply
+to<00:01:47.600><c> a</c><00:01:47.840><c> very</c><00:01:48.000><c> narrow</c><00:01:48.560><c> subsegment</c><00:01:49.360><c> of</c><00:01:49.600><c> the</c>
+to a very narrow subsegment of the
+to a very narrow subsegment of the
+overall<00:01:50.240><c> population.</c><00:01:50.880><c> If</c><00:01:51.040><c> you</c><00:01:51.119><c> look</c><00:01:51.280><c> at</c><00:01:51.360><c> the</c>
+overall population. If you look at the
+overall population. If you look at the
+overall<00:01:51.840><c> number</c><00:01:52.000><c> of</c><00:01:52.240><c> people</c><00:01:52.479><c> interested</c><00:01:52.880><c> in</c>
+overall number of people interested in
+overall number of people interested in
+AI<00:01:53.439><c> roles,</c><00:01:54.079><c> not</c><00:01:54.320><c> very</c><00:01:54.560><c> many</c><00:01:54.720><c> of</c><00:01:54.880><c> them</c><00:01:55.040><c> are</c>
+AI roles, not very many of them are
+AI roles, not very many of them are
+going<00:01:55.280><c> to</c><00:01:55.439><c> be</c><00:01:55.520><c> learning</c><00:01:55.840><c> Python</c><00:01:56.240><c> in</c><00:01:56.560><c> 30</c><00:01:56.799><c> days.</c>
+going to be learning Python in 30 days.
+going to be learning Python in 30 days.
+If<00:01:57.280><c> you</c><00:01:57.360><c> look</c><00:01:57.439><c> at</c><00:01:57.600><c> the</c><00:01:57.840><c> overall</c><00:01:58.159><c> number</c><00:01:58.399><c> of</c>
+If you look at the overall number of
+If you look at the overall number of
+people<00:01:58.799><c> interested</c><00:01:59.119><c> in</c><00:01:59.360><c> AI,</c><00:01:59.759><c> not</c><00:02:00.000><c> very</c><00:02:00.159><c> many</c>
+people interested in AI, not very many
+people interested in AI, not very many
+of<00:02:00.479><c> them</c><00:02:00.880><c> are</c><00:02:01.119><c> getting</c><00:02:01.280><c> into</c><00:02:01.520><c> Y</c><00:02:01.759><c> Combinator</c>
+of them are getting into Y Combinator
+of them are getting into Y Combinator
+and<00:02:02.399><c> founding</c><00:02:02.640><c> a</c><00:02:02.880><c> company.</c><00:02:03.119><c> And</c><00:02:03.360><c> nobody</c><00:02:03.759><c> talks</c>
+and founding a company. And nobody talks
+and founding a company. And nobody talks
+about<00:02:04.240><c> it</c><00:02:04.479><c> as</c><00:02:04.719><c> if</c><00:02:04.960><c> AI</c><00:02:05.280><c> is</c><00:02:05.520><c> not</c><00:02:05.680><c> a</c><00:02:05.840><c> single</c><00:02:06.079><c> career</c>
+about it as if AI is not a single career
+about it as if AI is not a single career
+path<00:02:06.719><c> but</c><00:02:06.880><c> a</c><00:02:07.119><c> but</c><00:02:07.360><c> a</c><00:02:07.840><c> wild</c><00:02:08.399><c> maze</c><00:02:08.800><c> of</c><00:02:09.039><c> career</c>
+path but a but a wild maze of career
+path but a but a wild maze of career
+paths<00:02:09.759><c> that's</c><00:02:10.080><c> developing.</c><00:02:10.560><c> And</c><00:02:10.720><c> I</c><00:02:10.879><c> want</c><00:02:10.959><c> to</c>
+paths that's developing. And I want to
+paths that's developing. And I want to
+start<00:02:11.360><c> talking</c><00:02:11.680><c> about</c><00:02:11.840><c> it</c><00:02:12.000><c> like</c><00:02:12.239><c> that</c><00:02:12.879><c> because</c>
+start talking about it like that because
+start talking about it like that because
+that's<00:02:13.440><c> how</c><00:02:13.599><c> it</c><00:02:13.920><c> actually</c><00:02:14.319><c> is.</c><00:02:14.959><c> Right</c><00:02:15.200><c> now,</c>
+that's how it actually is. Right now,
+that's how it actually is. Right now,
+when<00:02:15.680><c> people</c><00:02:15.840><c> say,</c><00:02:16.000><c> "How</c><00:02:16.319><c> do</c><00:02:16.400><c> I</c><00:02:16.560><c> break</c><00:02:16.800><c> into</c>
+when people say, "How do I break into
+when people say, "How do I break into
+AI?"<00:02:17.680><c> It's</c><00:02:18.000><c> sort</c><00:02:18.160><c> of</c><00:02:18.239><c> like</c><00:02:18.480><c> a</c><00:02:18.720><c> chef</c><00:02:19.040><c> hearing,</c>
+AI?" It's sort of like a chef hearing,
+AI?" It's sort of like a chef hearing,
+"How<00:02:20.000><c> do</c><00:02:20.080><c> I</c><00:02:20.319><c> break</c><00:02:20.480><c> into</c><00:02:20.800><c> food?"</c><00:02:21.360><c> I</c><00:02:21.520><c> mean,</c>
+"How do I break into food?" I mean,
+"How do I break into food?" I mean,
+that's<00:02:21.840><c> a</c><00:02:22.080><c> pretty</c><00:02:22.400><c> general</c><00:02:22.720><c> statement.</c><00:02:23.200><c> Do</c>
+that's a pretty general statement. Do
+that's a pretty general statement. Do
+you<00:02:23.680><c> do</c><00:02:23.840><c> you</c><00:02:23.920><c> want</c><00:02:24.080><c> to</c><00:02:24.319><c> cook?</c><00:02:24.879><c> Do</c><00:02:25.040><c> you</c><00:02:25.200><c> want</c><00:02:25.280><c> to</c>
+you do you want to cook? Do you want to
+you do you want to cook? Do you want to
+do<00:02:25.520><c> front</c><00:02:25.680><c> of</c><00:02:25.760><c> the</c><00:02:25.840><c> house?</c><00:02:26.080><c> You</c><00:02:26.160><c> want</c><00:02:26.239><c> to</c><00:02:26.319><c> do</c>
+do front of the house? You want to do
+do front of the house? You want to do
+back<00:02:26.640><c> of</c><00:02:26.800><c> the</c><00:02:26.879><c> house?</c><00:02:27.120><c> You</c><00:02:27.200><c> want</c><00:02:27.280><c> to</c><00:02:27.360><c> get</c><00:02:27.520><c> into</c>
+back of the house? You want to get into
+back of the house? You want to get into
+investing<00:02:28.400><c> and</c><00:02:28.640><c> owning</c><00:02:29.040><c> restaurants?</c><00:02:29.680><c> Uh,</c><00:02:29.920><c> do</c>
+investing and owning restaurants? Uh, do
+investing and owning restaurants? Uh, do
+you<00:02:30.160><c> want</c><00:02:30.319><c> to</c><00:02:30.400><c> just</c><00:02:30.560><c> be</c><00:02:30.720><c> a</c><00:02:30.879><c> taste</c><00:02:31.200><c> maker</c><00:02:31.440><c> and</c>
+you want to just be a taste maker and
+you want to just be a taste maker and
+hang<00:02:31.760><c> out</c><00:02:31.920><c> like</c><00:02:32.160><c> Anthony</c><00:02:32.560><c> Bourdain?</c><00:02:33.040><c> Like,</c>
+hang out like Anthony Bourdain? Like,
+hang out like Anthony Bourdain? Like,
+who<00:02:33.440><c> knows?</c><00:02:34.000><c> It's</c><00:02:34.319><c> Anthony</c><00:02:34.640><c> was</c><00:02:34.879><c> a</c><00:02:35.040><c> chef,</c><00:02:35.280><c> but</c>
+who knows? It's Anthony was a chef, but
+who knows? It's Anthony was a chef, but
+you<00:02:35.519><c> get</c><00:02:35.680><c> the</c><00:02:35.840><c> idea.</c><00:02:36.319><c> My</c><00:02:36.640><c> point</c><00:02:37.120><c> is</c><00:02:37.280><c> that</c><00:02:37.519><c> we</c>
+you get the idea. My point is that we
+you get the idea. My point is that we
+need<00:02:37.840><c> to</c><00:02:37.920><c> get</c><00:02:38.080><c> specific</c><00:02:38.480><c> with</c><00:02:38.720><c> career</c>
+need to get specific with career
+need to get specific with career
+pathing.<00:02:39.440><c> And</c><00:02:39.599><c> that's</c><00:02:39.680><c> what</c><00:02:39.920><c> this</c><00:02:40.080><c> video</c><00:02:40.239><c> is</c>
+pathing. And that's what this video is
+pathing. And that's what this video is
+designed<00:02:40.720><c> to</c><00:02:40.959><c> help</c><00:02:41.200><c> get</c><00:02:41.360><c> you</c><00:02:41.599><c> to.</c><00:02:42.000><c> First,</c>
+designed to help get you to. First,
+designed to help get you to. First,
+let's<00:02:42.480><c> get</c><00:02:42.560><c> into</c><00:02:42.800><c> some</c><00:02:43.040><c> examples.</c><00:02:43.519><c> An</c><00:02:43.760><c> AI</c>
+let's get into some examples. An AI
+let's get into some examples. An AI
+research<00:02:44.560><c> scientist</c><00:02:45.040><c> will</c><00:02:45.280><c> need</c><00:02:45.360><c> a</c><00:02:45.519><c> PhD,</c><00:02:46.160><c> will</c>
+research scientist will need a PhD, will
+research scientist will need a PhD, will
+need<00:02:46.640><c> published</c><00:02:47.040><c> papers,</c><00:02:47.360><c> and</c><00:02:47.519><c> Meta</c><00:02:47.840><c> is</c><00:02:48.000><c> going</c>
+need published papers, and Meta is going
+need published papers, and Meta is going
+to<00:02:48.160><c> pay</c><00:02:48.239><c> them</c><00:02:48.400><c> a</c><00:02:48.640><c> lot,</c><00:02:48.879><c> right?</c><00:02:49.120><c> Like</c><00:02:49.280><c> Meta</c>
+to pay them a lot, right? Like Meta
+to pay them a lot, right? Like Meta
+might<00:02:49.840><c> pay</c><00:02:50.000><c> them</c><00:02:50.239><c> half</c><00:02:50.400><c> a</c><00:02:50.560><c> million</c><00:02:50.800><c> dollars.</c>
+might pay them half a million dollars.
+might pay them half a million dollars.
+An<00:02:51.519><c> AI</c><00:02:51.840><c> prompt</c><00:02:52.160><c> engineer</c><00:02:52.879><c> needs</c><00:02:53.200><c> strong</c>
+An AI prompt engineer needs strong
+An AI prompt engineer needs strong
+writing,<00:02:54.160><c> doesn't</c><00:02:54.480><c> need</c><00:02:54.720><c> coding.</c><00:02:55.519><c> They're</c>
+writing, doesn't need coding. They're
+writing, doesn't need coding. They're
+not<00:02:55.920><c> going</c><00:02:56.000><c> to</c><00:02:56.160><c> make</c><00:02:56.319><c> as</c><00:02:56.480><c> much</c><00:02:56.640><c> as</c><00:02:56.720><c> the</c><00:02:56.879><c> meta</c>
+not going to make as much as the meta
+not going to make as much as the meta
+seller.<00:02:57.599><c> They</c><00:02:57.760><c> might</c><00:02:57.840><c> make</c><00:02:58.000><c> around</c><00:02:58.319><c> six</c>
+seller. They might make around six
+seller. They might make around six
+figures,<00:02:59.280><c> but</c><00:02:59.440><c> they</c><00:02:59.680><c> also</c><00:02:59.920><c> don't</c><00:03:00.080><c> need</c><00:03:00.239><c> the</c>
+figures, but they also don't need the
+figures, but they also don't need the
+same<00:03:00.560><c> background.</c><00:03:01.040><c> A</c><00:03:01.200><c> machine</c><00:03:01.519><c> learning</c>
+same background. A machine learning
+same background. A machine learning
+engineer,<00:03:02.640><c> wow,</c><00:03:02.959><c> that's</c><00:03:03.280><c> showing</c><00:03:03.599><c> tremendous</c>
+engineer, wow, that's showing tremendous
+engineer, wow, that's showing tremendous
+growth<00:03:04.480><c> year-over-year,</c><00:03:05.440><c> but</c><00:03:05.599><c> it</c><00:03:05.760><c> is</c><00:03:05.920><c> a</c>
+growth year-over-year, but it is a
+growth year-over-year, but it is a
+technical<00:03:06.480><c> role,</c><00:03:06.720><c> and</c><00:03:06.879><c> you</c><00:03:07.040><c> have</c><00:03:07.120><c> to</c><00:03:07.200><c> lean</c><00:03:07.360><c> in</c>
+technical role, and you have to lean in
+technical role, and you have to lean in
+on<00:03:07.680><c> the</c><00:03:07.840><c> technical</c><00:03:08.159><c> chops.</c><00:03:08.720><c> Meanwhile,</c><00:03:09.280><c> AI</c>
+on the technical chops. Meanwhile, AI
+on the technical chops. Meanwhile, AI
+Coach<00:03:10.080><c> shows</c><00:03:10.400><c> even</c><00:03:10.640><c> stronger</c><00:03:11.120><c> year-over-year</c>
+Coach shows even stronger year-over-year
+Coach shows even stronger year-over-year
+growth<00:03:12.000><c> at</c><00:03:12.239><c> I</c><00:03:12.400><c> think</c><00:03:12.560><c> almost</c><00:03:13.040><c> 60%</c><00:03:13.760><c> according</c>
+growth at I think almost 60% according
+growth at I think almost 60% according
+to<00:03:14.159><c> the</c><00:03:14.400><c> research</c><00:03:14.640><c> I</c><00:03:14.879><c> did,</c><00:03:15.360><c> but</c><00:03:15.920><c> it</c><00:03:16.159><c> doesn't</c>
+to the research I did, but it doesn't
+to the research I did, but it doesn't
+require<00:03:16.640><c> the</c><00:03:16.879><c> same</c><00:03:17.040><c> technical</c><00:03:17.440><c> chops</c><00:03:17.680><c> as</c><00:03:17.840><c> a</c>
+require the same technical chops as a
+require the same technical chops as a
+machine<00:03:18.239><c> learning</c><00:03:18.480><c> engineer.</c><00:03:18.959><c> These</c><00:03:19.200><c> are</c>
+machine learning engineer. These are
+machine learning engineer. These are
+entirely<00:03:19.840><c> different</c><00:03:20.000><c> roles</c><00:03:20.319><c> with</c><00:03:20.480><c> different</c>
+entirely different roles with different
+entirely different roles with different
+prerequisites.<00:03:21.760><c> So,</c><00:03:22.000><c> I</c><00:03:22.159><c> want</c><00:03:22.239><c> to</c><00:03:22.400><c> get</c><00:03:22.480><c> at</c><00:03:22.720><c> ROS</c>
+prerequisites. So, I want to get at ROS
+prerequisites. So, I want to get at ROS
+specific<00:03:23.519><c> qualification</c><00:03:24.239><c> assessments</c><00:03:25.040><c> that</c>
+specific qualification assessments that
+specific qualification assessments that
+help<00:03:25.519><c> get</c><00:03:25.760><c> you</c><00:03:25.920><c> an</c><00:03:26.159><c> idea</c><00:03:26.319><c> of</c><00:03:26.480><c> where</c><00:03:26.640><c> you</c><00:03:26.800><c> stand</c>
+help get you an idea of where you stand
+help get you an idea of where you stand
+and<00:03:27.280><c> that's</c><00:03:27.599><c> the</c><00:03:27.920><c> project</c><00:03:28.239><c> that</c><00:03:28.480><c> I've</c><00:03:28.720><c> been</c>
+and that's the project that I've been
+and that's the project that I've been
+working<00:03:29.040><c> on.</c><00:03:29.599><c> So,</c><00:03:29.760><c> let</c><00:03:29.920><c> me</c><00:03:30.080><c> set</c><00:03:30.159><c> it</c><00:03:30.319><c> up</c><00:03:30.480><c> for</c>
+working on. So, let me set it up for
+working on. So, let me set it up for
+you.<00:03:30.959><c> I</c><00:03:31.280><c> built</c><00:03:31.840><c> 17</c><00:03:32.560><c> different</c><00:03:33.519><c> assessment</c>
+you. I built 17 different assessment
+you. I built 17 different assessment
+prompts.<00:03:35.040><c> Each</c><00:03:35.360><c> one</c><00:03:35.519><c> is</c><00:03:35.760><c> designed</c><00:03:36.239><c> around</c><00:03:36.560><c> a</c>
+prompts. Each one is designed around a
+prompts. Each one is designed around a
+core<00:03:37.120><c> insight</c><00:03:37.760><c> about</c><00:03:38.319><c> prediction.</c><00:03:39.200><c> There's</c><00:03:39.360><c> a</c>
+core insight about prediction. There's a
+core insight about prediction. There's a
+piece<00:03:39.760><c> that</c><00:03:39.920><c> came</c><00:03:40.080><c> out</c><00:03:40.319><c> over</c><00:03:40.560><c> the</c><00:03:40.799><c> weekend</c>
+piece that came out over the weekend
+piece that came out over the weekend
+from<00:03:41.440><c> A16Z</c><00:03:42.720><c> about</c><00:03:43.040><c> how</c><00:03:43.280><c> prediction</c><00:03:43.840><c> is</c>
+from A16Z about how prediction is
+from A16Z about how prediction is
+replacing<00:03:44.799><c> postmodernism</c><00:03:46.000><c> as</c><00:03:46.239><c> the</c><00:03:46.480><c> defining</c>
+replacing postmodernism as the defining
+replacing postmodernism as the defining
+framework<00:03:47.680><c> of</c><00:03:48.000><c> our</c><00:03:48.480><c> era.</c><00:03:48.879><c> The</c><00:03:49.040><c> idea</c><00:03:49.280><c> is</c>
+framework of our era. The idea is
+framework of our era. The idea is
+simple.<00:03:49.920><c> Value</c><00:03:50.319><c> creation</c><00:03:51.120><c> is</c><00:03:51.360><c> now</c><00:03:51.599><c> about</c>
+simple. Value creation is now about
+simple. Value creation is now about
+being<00:03:52.159><c> predictive</c><00:03:52.720><c> of</c><00:03:52.959><c> the</c><00:03:53.200><c> game</c><00:03:53.519><c> rather</c><00:03:53.840><c> than</c>
+being predictive of the game rather than
+being predictive of the game rather than
+being<00:03:54.319><c> predicted</c><00:03:54.879><c> by</c><00:03:55.120><c> the</c><00:03:55.360><c> game.</c><00:03:55.920><c> And</c><00:03:56.080><c> that's</c>
+being predicted by the game. And that's
+being predicted by the game. And that's
+exactly<00:03:56.799><c> what</c><00:03:57.040><c> these</c><00:03:57.280><c> career</c><00:03:57.680><c> assessments</c>
+exactly what these career assessments
+exactly what these career assessments
+set<00:03:58.319><c> out</c><00:03:58.480><c> to</c><00:03:58.720><c> do.</c><00:03:58.959><c> They</c><00:03:59.280><c> help</c><00:03:59.439><c> you</c><00:03:59.599><c> be</c>
+set out to do. They help you be
+set out to do. They help you be
+predictive<00:04:00.640><c> of</c><00:04:00.959><c> your</c><00:04:01.280><c> career</c><00:04:01.680><c> path</c><00:04:02.080><c> rather</c>
+predictive of your career path rather
+predictive of your career path rather
+than<00:04:02.640><c> being</c><00:04:02.879><c> predicted</c><00:04:03.280><c> by</c><00:04:03.519><c> it.</c><00:04:03.920><c> And</c><00:04:04.159><c> that</c><00:04:04.400><c> may</c>
+than being predicted by it. And that may
+than being predicted by it. And that may
+sound<00:04:04.959><c> like</c><00:04:05.439><c> philosophy</c><00:04:06.159><c> mumbo</c><00:04:06.720><c> jumbo,</c><00:04:07.439><c> but</c>
+sound like philosophy mumbo jumbo, but
+sound like philosophy mumbo jumbo, but
+it's<00:04:07.840><c> really</c><00:04:08.080><c> relevant.</c><00:04:08.560><c> I</c><00:04:08.799><c> find</c><00:04:08.959><c> the</c><00:04:09.200><c> people</c>
+it's really relevant. I find the people
+it's really relevant. I find the people
+who<00:04:09.519><c> are</c><00:04:09.680><c> able</c><00:04:09.840><c> to</c><00:04:10.080><c> make</c><00:04:10.239><c> progress</c><00:04:10.799><c> in</c><00:04:11.200><c> AI</c><00:04:11.680><c> are</c>
+who are able to make progress in AI are
+who are able to make progress in AI are
+people<00:04:12.239><c> who</c><00:04:12.560><c> are</c><00:04:12.799><c> able</c><00:04:13.120><c> to</c><00:04:13.599><c> accurately</c><00:04:14.640><c> show</c>
+people who are able to accurately show
+people who are able to accurately show
+intent<00:04:15.599><c> and</c><00:04:16.000><c> bridge</c><00:04:16.320><c> that</c><00:04:16.639><c> intent</c><00:04:17.120><c> forward</c>
+intent and bridge that intent forward
+intent and bridge that intent forward
+into<00:04:17.840><c> the</c><00:04:18.000><c> future</c><00:04:18.560><c> by</c><00:04:18.880><c> making</c><00:04:19.440><c> specific</c><00:04:20.079><c> bets</c>
+into the future by making specific bets
+into the future by making specific bets
+on<00:04:20.799><c> themselves.</c><00:04:21.759><c> And</c><00:04:21.919><c> what</c><00:04:22.160><c> all</c><00:04:22.320><c> I'm</c><00:04:22.560><c> trying</c>
+on themselves. And what all I'm trying
+on themselves. And what all I'm trying
+to<00:04:22.800><c> do</c><00:04:22.960><c> is</c><00:04:23.120><c> set</c><00:04:23.280><c> up</c><00:04:23.440><c> prompts</c><00:04:23.759><c> that</c><00:04:23.919><c> help</c><00:04:24.080><c> you</c>
+to do is set up prompts that help you
+to do is set up prompts that help you
+make<00:04:24.400><c> that</c><00:04:24.560><c> kind</c><00:04:24.720><c> of</c><00:04:24.880><c> bet</c><00:04:25.120><c> on</c><00:04:25.280><c> yourself.</c><00:04:25.759><c> The</c>
+make that kind of bet on yourself. The
+make that kind of bet on yourself. The
+alternative<00:04:26.479><c> is</c><00:04:26.720><c> really</c><00:04:27.040><c> simple.</c><00:04:27.440><c> It's</c>
+alternative is really simple. It's
+alternative is really simple. It's
+wasting<00:04:28.160><c> 6</c><00:04:28.400><c> months,</c><00:04:28.720><c> 12</c><00:04:28.960><c> months,</c><00:04:29.199><c> or</c><00:04:29.440><c> more</c>
+wasting 6 months, 12 months, or more
+wasting 6 months, 12 months, or more
+during<00:04:30.080><c> a</c><00:04:30.320><c> really</c><00:04:30.479><c> high</c><00:04:30.720><c> leveraged</c><00:04:31.199><c> period</c><00:04:31.440><c> in</c>
+during a really high leveraged period in
+during a really high leveraged period in
+human<00:04:31.919><c> history</c><00:04:32.320><c> pursuing</c><00:04:32.880><c> goals</c><00:04:33.199><c> that</c><00:04:33.440><c> don't</c>
+human history pursuing goals that don't
+human history pursuing goals that don't
+fit<00:04:33.919><c> you</c><00:04:34.080><c> well.</c><00:04:34.639><c> And</c><00:04:34.800><c> that's</c><00:04:35.040><c> what</c><00:04:35.199><c> happens</c>
+fit you well. And that's what happens
+fit you well. And that's what happens
+when<00:04:36.000><c> we</c><00:04:36.160><c> just</c><00:04:36.400><c> generically</c><00:04:37.120><c> pursue</c><00:04:37.600><c> AI.</c><00:04:38.080><c> The</c>
+when we just generically pursue AI. The
+when we just generically pursue AI. The
+old<00:04:38.560><c> postmodern</c><00:04:39.280><c> career</c><00:04:39.600><c> advice</c><00:04:40.320><c> was</c>
+old postmodern career advice was
+old postmodern career advice was
+everyone<00:04:41.040><c> gets</c><00:04:41.280><c> a</c><00:04:41.520><c> personalized</c><00:04:42.080><c> version</c><00:04:42.240><c> of</c>
+everyone gets a personalized version of
+everyone gets a personalized version of
+their<00:04:42.639><c> career,</c><00:04:43.040><c> right?</c><00:04:43.360><c> Take</c><00:04:43.600><c> this</c><00:04:43.840><c> boot</c>
+their career, right? Take this boot
+their career, right? Take this boot
+camp,<00:04:44.400><c> learn</c><00:04:44.639><c> this</c><00:04:44.800><c> framework,</c><00:04:45.280><c> you</c><00:04:45.360><c> get</c><00:04:45.520><c> a</c>
+camp, learn this framework, you get a
+camp, learn this framework, you get a
+unique<00:04:45.919><c> resume,</c><00:04:46.400><c> you'll</c><00:04:46.639><c> be</c><00:04:46.800><c> fine.</c><00:04:47.440><c> That's</c>
+unique resume, you'll be fine. That's
+unique resume, you'll be fine. That's
+not<00:04:47.919><c> really</c><00:04:48.160><c> true</c><00:04:48.400><c> anymore.</c><00:04:48.800><c> And</c><00:04:48.960><c> we're</c>
+not really true anymore. And we're
+not really true anymore. And we're
+seeing<00:04:49.440><c> that</c><00:04:49.680><c> breakdown.</c><00:04:50.479><c> What</c><00:04:50.800><c> matters</c><00:04:51.199><c> now</c>
+seeing that breakdown. What matters now
+seeing that breakdown. What matters now
+is<00:04:52.080><c> timing</c><00:04:52.720><c> relative</c><00:04:53.040><c> to</c><00:04:53.280><c> the</c><00:04:53.440><c> AI</c><00:04:53.840><c> revolution.</c>
+is timing relative to the AI revolution.
+is timing relative to the AI revolution.
+where<00:04:55.040><c> you</c><00:04:55.280><c> engage</c><00:04:55.600><c> and</c><00:04:55.840><c> when</c><00:04:56.080><c> you</c><00:04:56.240><c> engage</c>
+where you engage and when you engage
+where you engage and when you engage
+with<00:04:56.800><c> the</c><00:04:56.880><c> AI</c><00:04:57.280><c> snowball</c><00:04:57.759><c> that</c><00:04:58.000><c> is</c><00:04:58.320><c> rolling</c><00:04:58.720><c> and</c>
+with the AI snowball that is rolling and
+with the AI snowball that is rolling and
+tearing<00:04:59.280><c> down</c><00:04:59.440><c> the</c><00:04:59.600><c> hill.</c><00:05:00.000><c> Are</c><00:05:00.240><c> you</c><00:05:00.400><c> early</c><00:05:00.560><c> on</c>
+tearing down the hill. Are you early on
+tearing down the hill. Are you early on
+AI<00:05:01.199><c> governance</c><00:05:01.840><c> when</c><00:05:02.080><c> the</c><00:05:02.240><c> EU</c><00:05:02.560><c> AI</c><00:05:02.880><c> act</c><00:05:03.120><c> makes</c>
+AI governance when the EU AI act makes
+AI governance when the EU AI act makes
+it<00:05:03.520><c> the</c><00:05:03.600><c> hottest</c><00:05:03.919><c> role</c><00:05:04.240><c> next</c><00:05:04.560><c> year</c><00:05:04.880><c> or</c><00:05:05.040><c> are</c><00:05:05.280><c> you</c>
+it the hottest role next year or are you
+it the hottest role next year or are you
+late<00:05:05.680><c> to</c><00:05:05.840><c> entry-level</c><00:05:06.400><c> software</c><00:05:06.800><c> engineering</c>
+late to entry-level software engineering
+late to entry-level software engineering
+when<00:05:07.520><c> those</c><00:05:07.759><c> positions</c><00:05:08.080><c> are</c><00:05:08.320><c> down</c><00:05:08.720><c> a</c><00:05:08.960><c> bunch</c><00:05:09.199><c> of</c>
+when those positions are down a bunch of
+when those positions are down a bunch of
+percent.<00:05:09.919><c> The</c><00:05:10.160><c> assessment</c><00:05:10.720><c> tells</c><00:05:10.960><c> you</c><00:05:11.520><c> where</c>
+percent. The assessment tells you where
+percent. The assessment tells you where
+you<00:05:12.080><c> stand</c><00:05:12.400><c> and</c><00:05:12.560><c> that's</c><00:05:12.720><c> what</c><00:05:12.880><c> I</c><00:05:13.039><c> set</c><00:05:13.199><c> out</c><00:05:13.360><c> to</c>
+you stand and that's what I set out to
+you stand and that's what I set out to
+do<00:05:13.840><c> because</c><00:05:14.080><c> then</c><00:05:14.320><c> you</c><00:05:14.479><c> can</c><00:05:14.560><c> make</c><00:05:14.720><c> a</c><00:05:14.880><c> bet</c><00:05:15.039><c> about</c>
+do because then you can make a bet about
+do because then you can make a bet about
+where<00:05:15.520><c> you</c><00:05:15.680><c> want</c><00:05:15.840><c> to</c><00:05:15.919><c> go.</c><00:05:16.240><c> So,</c><00:05:16.479><c> how</c><00:05:16.639><c> did</c><00:05:16.720><c> I</c>
+where you want to go. So, how did I
+where you want to go. So, how did I
+build<00:05:17.039><c> these</c><00:05:17.280><c> prompts?</c><00:05:17.919><c> Building</c><00:05:18.240><c> the</c>
+build these prompts? Building the
+build these prompts? Building the
+prompts<00:05:18.960><c> required</c><00:05:19.440><c> me</c><00:05:19.600><c> to</c><00:05:19.840><c> think</c><00:05:20.160><c> about</c>
+prompts required me to think about
+prompts required me to think about
+prediction<00:05:21.199><c> and</c><00:05:21.600><c> anticipation</c><00:05:22.400><c> deeply.</c><00:05:23.039><c> I</c>
+prediction and anticipation deeply. I
+prediction and anticipation deeply. I
+took<00:05:23.600><c> each</c><00:05:23.840><c> prompt</c><00:05:24.160><c> and</c><00:05:24.400><c> structured</c><00:05:24.800><c> it</c><00:05:24.880><c> out</c>
+took each prompt and structured it out
+took each prompt and structured it out
+as<00:05:25.199><c> an</c><00:05:25.360><c> eight</c><00:05:25.759><c> question</c><00:05:26.160><c> interview,</c><00:05:26.560><c> but</c><00:05:26.800><c> the</c>
+as an eight question interview, but the
+as an eight question interview, but the
+questions<00:05:27.360><c> are</c><00:05:27.600><c> not</c><00:05:27.759><c> random.</c><00:05:28.479><c> They're</c>
+questions are not random. They're
+questions are not random. They're
+designed<00:05:29.120><c> to</c><00:05:29.360><c> extract</c><00:05:29.840><c> signal</c><00:05:30.240><c> about</c><00:05:30.479><c> your</c>
+designed to extract signal about your
+designed to extract signal about your
+qualification<00:05:31.440><c> level</c><00:05:31.759><c> from</c><00:05:32.000><c> relatively</c>
+qualification level from relatively
+qualification level from relatively
+limited<00:05:33.039><c> information.</c><00:05:33.840><c> Here's</c><00:05:34.160><c> how</c><00:05:34.240><c> I</c><00:05:34.479><c> think</c>
+limited information. Here's how I think
+limited information. Here's how I think
+about<00:05:34.720><c> it.</c><00:05:35.120><c> A</c><00:05:35.440><c> good</c><00:05:35.680><c> prompt</c><00:05:36.479><c> anticipate</c><00:05:37.120><c> what</c>
+about it. A good prompt anticipate what
+about it. A good prompt anticipate what
+matters<00:05:38.000><c> and</c><00:05:38.240><c> it</c><00:05:38.479><c> anticipates</c><00:05:39.120><c> what</c><00:05:39.440><c> doesn't.</c>
+matters and it anticipates what doesn't.
+matters and it anticipates what doesn't.
+So<00:05:40.080><c> for</c><00:05:40.240><c> an</c><00:05:40.400><c> ML</c><00:05:40.720><c> engineer</c><00:05:41.199><c> assessment,</c><00:05:41.919><c> I</c>
+So for an ML engineer assessment, I
+So for an ML engineer assessment, I
+don't<00:05:42.400><c> ask,</c><00:05:42.560><c> "Do</c><00:05:42.880><c> you</c><00:05:43.039><c> know</c><00:05:43.280><c> AI?"</c><00:05:43.759><c> I</c><00:05:44.000><c> ask,</c>
+don't ask, "Do you know AI?" I ask,
+don't ask, "Do you know AI?" I ask,
+"Rate<00:05:44.560><c> your</c><00:05:44.720><c> Python</c><00:05:45.280><c> proficiency</c><00:05:46.080><c> 1</c><00:05:46.240><c> to</c><00:05:46.560><c> 10</c>
+"Rate your Python proficiency 1 to 10
+"Rate your Python proficiency 1 to 10
+and<00:05:47.360><c> describe</c><00:05:47.759><c> your</c><00:05:48.000><c> experience</c><00:05:48.320><c> with</c>
+and describe your experience with
+and describe your experience with
+TensorFlow<00:05:49.039><c> or</c><00:05:49.199><c> PyTorch.</c><00:05:50.080><c> Have</c><00:05:50.320><c> you</c><00:05:50.479><c> deployed</c>
+TensorFlow or PyTorch. Have you deployed
+TensorFlow or PyTorch. Have you deployed
+models<00:05:51.120><c> to</c><00:05:51.360><c> production?"</c><00:05:52.000><c> That</c><00:05:52.320><c> second</c><00:05:52.560><c> part,</c>
+models to production?" That second part,
+models to production?" That second part,
+the<00:05:53.120><c> deployment</c><00:05:53.600><c> piece,</c><00:05:54.080><c> that's</c><00:05:54.400><c> heavy</c>
+the deployment piece, that's heavy
+the deployment piece, that's heavy
+signal.<00:05:55.199><c> Lots</c><00:05:55.520><c> of</c><00:05:55.680><c> people</c><00:05:55.840><c> will</c><00:05:56.080><c> take</c><00:05:56.240><c> a</c>
+signal. Lots of people will take a
+signal. Lots of people will take a
+course.<00:05:56.800><c> Relatively</c><00:05:57.280><c> few</c><00:05:57.600><c> will</c><00:05:57.840><c> deploy</c><00:05:58.160><c> to</c>
+course. Relatively few will deploy to
+course. Relatively few will deploy to
+production<00:05:58.720><c> with</c><00:05:58.960><c> something</c><00:05:59.280><c> meaningful.</c>
+production with something meaningful.
+production with something meaningful.
+For<00:06:00.000><c> an</c><00:06:00.160><c> AI</c><00:06:00.400><c> prompt</c><00:06:00.720><c> engineer,</c><00:06:01.199><c> I</c><00:06:01.360><c> ask,</c><00:06:01.680><c> can</c>
+For an AI prompt engineer, I ask, can
+For an AI prompt engineer, I ask, can
+you<00:06:02.080><c> share</c><00:06:02.240><c> an</c><00:06:02.479><c> example</c><00:06:03.440><c> of</c><00:06:03.759><c> heavily</c><00:06:04.240><c> editing</c>
+you share an example of heavily editing
+you share an example of heavily editing
+AI<00:06:05.120><c> content</c><00:06:05.520><c> to</c><00:06:05.759><c> publication</c><00:06:06.720><c> quality?</c>
+AI content to publication quality?
+AI content to publication quality?
+Because<00:06:07.759><c> that's</c><00:06:08.080><c> a</c><00:06:08.319><c> real</c><00:06:08.560><c> skill.</c><00:06:09.120><c> Anyone</c><00:06:09.600><c> can</c>
+Because that's a real skill. Anyone can
+Because that's a real skill. Anyone can
+generate<00:06:10.240><c> the</c><00:06:10.479><c> content.</c><00:06:10.880><c> I've</c><00:06:11.120><c> talked</c><00:06:11.360><c> about</c>
+generate the content. I've talked about
+generate the content. I've talked about
+this.<00:06:11.840><c> The</c><00:06:12.080><c> value</c><00:06:12.560><c> is</c><00:06:12.800><c> in</c><00:06:13.039><c> the</c><00:06:13.280><c> editing.</c><00:06:14.000><c> The</c>
+this. The value is in the editing. The
+this. The value is in the editing. The
+prompt<00:06:14.960><c> anticipates</c><00:06:15.600><c> the</c><00:06:15.919><c> gap</c><00:06:16.479><c> between</c><00:06:16.800><c> what</c>
+prompt anticipates the gap between what
+prompt anticipates the gap between what
+people<00:06:17.280><c> think</c><00:06:17.440><c> the</c><00:06:17.680><c> job</c><00:06:17.840><c> is</c><00:06:18.080><c> and</c><00:06:18.240><c> what</c><00:06:18.400><c> it</c>
+people think the job is and what it
+people think the job is and what it
+really<00:06:18.800><c> requires.</c><00:06:19.440><c> for</c><00:06:19.680><c> AI</c><00:06:20.000><c> governance</c>
+really requires. for AI governance
+really requires. for AI governance
+specialists.<00:06:21.120><c> Another</c><00:06:21.440><c> one</c><00:06:21.840><c> I</c><00:06:22.080><c> ask</c><00:06:22.240><c> about</c><00:06:22.400><c> the</c>
+specialists. Another one I ask about the
+specialists. Another one I ask about the
+EU<00:06:22.960><c> AI</c><00:06:23.280><c> act</c><00:06:23.520><c> specifically,</c><00:06:24.240><c> not</c><00:06:24.560><c> do</c><00:06:24.720><c> you</c><00:06:24.880><c> know</c>
+EU AI act specifically, not do you know
+EU AI act specifically, not do you know
+regulations<00:06:25.600><c> in</c><00:06:25.840><c> general,</c><00:06:26.240><c> but</c><00:06:26.400><c> the</c><00:06:26.560><c> EU</c><00:06:26.960><c> AI</c>
+regulations in general, but the EU AI
+regulations in general, but the EU AI
+act<00:06:27.520><c> is</c><00:06:27.840><c> one</c><00:06:28.000><c> of</c><00:06:28.080><c> the</c><00:06:28.800><c> biggest</c><00:06:29.600><c> pieces</c><00:06:29.919><c> of</c>
+act is one of the biggest pieces of
+act is one of the biggest pieces of
+regulation<00:06:30.639><c> on</c><00:06:30.880><c> the</c><00:06:31.120><c> planet</c><00:06:31.440><c> around</c><00:06:31.759><c> AI</c><00:06:32.160><c> right</c>
+regulation on the planet around AI right
+regulation on the planet around AI right
+now.<00:06:32.720><c> Any</c><00:06:33.039><c> company</c><00:06:33.440><c> anywhere</c><00:06:34.000><c> in</c><00:06:34.400><c> the</c>
+now. Any company anywhere in the
+now. Any company anywhere in the
+European<00:06:34.960><c> Union,</c><00:06:35.280><c> whether</c><00:06:35.600><c> based</c><00:06:35.919><c> there</c><00:06:36.080><c> or</c>
+European Union, whether based there or
+European Union, whether based there or
+not,<00:06:36.639><c> has</c><00:06:36.880><c> to</c><00:06:37.039><c> deal</c><00:06:37.199><c> with</c><00:06:37.360><c> it.</c><00:06:37.840><c> It's</c><00:06:38.160><c> the</c>
+not, has to deal with it. It's the
+not, has to deal with it. It's the
+hottest<00:06:39.199><c> governance</c><00:06:39.680><c> role</c><00:06:40.240><c> in</c><00:06:40.479><c> the</c><00:06:40.560><c> new</c><00:06:40.800><c> year.</c>
+hottest governance role in the new year.
+hottest governance role in the new year.
+And<00:06:41.440><c> the</c><00:06:41.600><c> prompt</c><00:06:42.000><c> anticipates</c><00:06:42.560><c> the</c><00:06:42.720><c> market</c>
+And the prompt anticipates the market
+And the prompt anticipates the market
+reality.<00:06:43.759><c> So</c><00:06:43.919><c> these</c><00:06:44.240><c> questions</c><00:06:44.560><c> are</c>
+reality. So these questions are
+reality. So these questions are
+structured<00:06:45.520><c> to</c><00:06:45.840><c> predict</c><00:06:46.319><c> one</c><00:06:46.560><c> of</c><00:06:46.800><c> four</c>
+structured to predict one of four
+structured to predict one of four
+outcomes.<00:06:47.680><c> either</c><00:06:48.160><c> you're</c><00:06:48.319><c> qualified</c><00:06:48.880><c> now</c>
+outcomes. either you're qualified now
+outcomes. either you're qualified now
+for<00:06:49.280><c> the</c><00:06:49.440><c> role,</c><00:06:50.080><c> you're</c><00:06:50.319><c> almost</c><00:06:50.639><c> qualified,</c>
+for the role, you're almost qualified,
+for the role, you're almost qualified,
+there's<00:06:51.840><c> significant</c><00:06:52.319><c> gaps,</c><00:06:52.720><c> or</c><00:06:52.880><c> it</c><00:06:53.039><c> will</c>
+there's significant gaps, or it will
+there's significant gaps, or it will
+just<00:06:53.280><c> say</c><00:06:53.440><c> you're</c><00:06:53.680><c> straight</c><00:06:53.919><c> up</c><00:06:54.080><c> not</c><00:06:54.319><c> viable.</c>
+just say you're straight up not viable.
+just say you're straight up not viable.
+And<00:06:55.039><c> I</c><00:06:55.199><c> think</c><00:06:55.280><c> the</c><00:06:55.440><c> honesty</c><00:06:55.840><c> is</c><00:06:56.000><c> helpful.</c><00:06:56.400><c> And</c>
+And I think the honesty is helpful. And
+And I think the honesty is helpful. And
+also<00:06:56.880><c> each</c><00:06:57.120><c> category</c><00:06:57.600><c> gets</c><00:06:57.840><c> to</c><00:06:57.919><c> a</c><00:06:58.080><c> timeline.</c>
+also each category gets to a timeline.
+also each category gets to a timeline.
+And<00:06:58.639><c> that's</c><00:06:58.800><c> where</c><00:06:58.960><c> the</c><00:06:59.120><c> prediction</c><00:06:59.520><c> piece</c><00:06:59.759><c> is</c>
+And that's where the prediction piece is
+And that's where the prediction piece is
+there<00:07:00.400><c> and</c><00:07:00.639><c> it</c><00:07:00.800><c> gets</c><00:07:00.960><c> a</c><00:07:01.120><c> little</c><00:07:01.280><c> fuzzy,</c><00:07:01.759><c> right?</c>
+there and it gets a little fuzzy, right?
+there and it gets a little fuzzy, right?
+Like<00:07:02.160><c> 3</c><00:07:02.400><c> to</c><00:07:02.560><c> 6</c><00:07:02.800><c> months</c><00:07:03.039><c> for</c><00:07:03.280><c> nearly</c><00:07:03.599><c> qualified.</c>
+Like 3 to 6 months for nearly qualified.
+Like 3 to 6 months for nearly qualified.
+Some<00:07:04.400><c> people</c><00:07:04.639><c> speedrun</c><00:07:05.120><c> that</c><00:07:05.280><c> with</c><00:07:05.440><c> AI,</c>
+Some people speedrun that with AI,
+Some people speedrun that with AI,
+right?<00:07:06.400><c> 6</c><00:07:06.560><c> to</c><00:07:06.800><c> 18</c><00:07:07.120><c> months</c><00:07:07.360><c> for</c><00:07:07.599><c> significant</c>
+right? 6 to 18 months for significant
+right? 6 to 18 months for significant
+gaps.<00:07:08.800><c> That's</c><00:07:09.120><c> fair,</c><00:07:09.599><c> but</c><00:07:09.919><c> again,</c><00:07:10.240><c> people</c><00:07:10.479><c> can</c>
+gaps. That's fair, but again, people can
+gaps. That's fair, but again, people can
+sometimes<00:07:11.120><c> accelerate</c><00:07:11.599><c> that</c><00:07:11.759><c> if</c><00:07:11.919><c> they</c><00:07:12.080><c> lean</c>
+sometimes accelerate that if they lean
+sometimes accelerate that if they lean
+into<00:07:12.479><c> AI</c><00:07:12.800><c> really</c><00:07:13.120><c> hard.</c><00:07:13.599><c> One</c><00:07:13.759><c> of</c><00:07:13.840><c> the</c><00:07:14.000><c> things</c>
+into AI really hard. One of the things
+into AI really hard. One of the things
+we<00:07:14.400><c> forget</c><00:07:14.639><c> is</c><00:07:14.800><c> that</c><00:07:14.960><c> AI</c><00:07:15.360><c> is</c><00:07:15.440><c> a</c><00:07:15.599><c> kind</c><00:07:15.759><c> of</c><00:07:15.919><c> super</c>
+we forget is that AI is a kind of super
+we forget is that AI is a kind of super
+skill.<00:07:16.800><c> And</c><00:07:17.039><c> if</c><00:07:17.199><c> you</c><00:07:17.360><c> learn</c><00:07:17.520><c> how</c><00:07:17.759><c> to</c><00:07:17.840><c> learn</c>
+skill. And if you learn how to learn
+skill. And if you learn how to learn
+with<00:07:18.240><c> AI,</c><00:07:18.960><c> you</c><00:07:19.199><c> can</c><00:07:19.360><c> speedrun</c><00:07:20.160><c> some</c><00:07:20.400><c> of</c><00:07:20.560><c> these</c>
+with AI, you can speedrun some of these
+with AI, you can speedrun some of these
+challenges.<00:07:21.520><c> So</c><00:07:21.680><c> the</c><00:07:21.840><c> prompt</c><00:07:22.160><c> doesn't</c><00:07:22.400><c> just</c>
+challenges. So the prompt doesn't just
+challenges. So the prompt doesn't just
+assess<00:07:22.960><c> current</c><00:07:23.280><c> state.</c><00:07:23.759><c> It</c><00:07:24.000><c> predicts</c><00:07:24.639><c> the</c>
+assess current state. It predicts the
+assess current state. It predicts the
+path<00:07:25.520><c> forward</c><00:07:26.319><c> based</c><00:07:26.639><c> on</c><00:07:26.880><c> patterns</c><00:07:27.520><c> that</c><00:07:27.759><c> I've</c>
+path forward based on patterns that I've
+path forward based on patterns that I've
+seen<00:07:28.160><c> in</c><00:07:28.400><c> real</c><00:07:28.639><c> career</c><00:07:28.960><c> changes</c><00:07:29.199><c> in</c><00:07:29.440><c> the</c><00:07:29.599><c> data</c>
+seen in real career changes in the data
+seen in real career changes in the data
+in<00:07:30.000><c> 2024</c><00:07:30.560><c> and</c><00:07:30.720><c> 2025.</c>
+in 2024 and 2025.
+in 2024 and 2025.
+It's<00:07:33.280><c> not</c><00:07:33.520><c> theory,</c><00:07:34.160><c> it's</c><00:07:34.400><c> this</c><00:07:34.639><c> has</c><00:07:34.800><c> worked</c>
+It's not theory, it's this has worked
+It's not theory, it's this has worked
+for<00:07:35.280><c> people</c><00:07:35.440><c> with</c><00:07:35.680><c> your</c><00:07:35.840><c> background.</c><00:07:36.479><c> Let's</c>
+for people with your background. Let's
+for people with your background. Let's
+look<00:07:36.800><c> at</c><00:07:36.880><c> a</c><00:07:37.039><c> pro.</c><00:07:37.360><c> Okay,</c><00:07:37.599><c> this</c><00:07:37.759><c> is</c><00:07:37.840><c> an</c><00:07:38.080><c> AI</c>
+look at a pro. Okay, this is an AI
+look at a pro. Okay, this is an AI
+product<00:07:38.800><c> management</c><00:07:39.280><c> prompt.</c><00:07:39.680><c> As</c><00:07:39.919><c> you</c><00:07:40.000><c> can</c>
+product management prompt. As you can
+product management prompt. As you can
+see,<00:07:40.319><c> I</c><00:07:40.560><c> have</c><00:07:40.720><c> the</c><00:07:40.880><c> same</c><00:07:41.039><c> idea.</c><00:07:41.440><c> You're</c>
+see, I have the same idea. You're
+see, I have the same idea. You're
+setting<00:07:41.919><c> up</c><00:07:42.000><c> the</c><00:07:42.160><c> interview</c><00:07:42.479><c> at</c><00:07:42.639><c> the</c><00:07:42.800><c> top</c><00:07:42.960><c> here</c>
+setting up the interview at the top here
+setting up the interview at the top here
+and<00:07:43.759><c> you</c><00:07:43.919><c> just</c><00:07:44.160><c> want</c><00:07:44.319><c> to</c><00:07:44.560><c> ask</c><00:07:45.120><c> eight</c><00:07:45.440><c> targeted</c>
+and you just want to ask eight targeted
+and you just want to ask eight targeted
+questions<00:07:46.880><c> you're</c><00:07:47.120><c> looking</c><00:07:47.360><c> to</c><00:07:47.520><c> get</c><00:07:47.759><c> signal</c>
+questions you're looking to get signal
+questions you're looking to get signal
+you<00:07:48.319><c> can</c><00:07:48.479><c> predict</c><00:07:48.800><c> against.</c><00:07:49.199><c> In</c><00:07:49.440><c> this</c><00:07:49.599><c> case,</c>
+you can predict against. In this case,
+you can predict against. In this case,
+we're<00:07:50.080><c> targeting</c><00:07:50.639><c> product</c><00:07:50.960><c> management.</c><00:07:51.520><c> So,</c>
+we're targeting product management. So,
+we're targeting product management. So,
+we<00:07:51.919><c> ask</c><00:07:52.240><c> about</c><00:07:52.560><c> overall</c><00:07:52.960><c> PM</c><00:07:53.360><c> experience.</c><00:07:54.080><c> We</c>
+we ask about overall PM experience. We
+we ask about overall PM experience. We
+ask<00:07:54.479><c> about</c><00:07:54.720><c> a</c><00:07:54.879><c> IML</c><00:07:55.520><c> concepts</c><00:07:56.240><c> and</c><00:07:56.479><c> we</c><00:07:56.639><c> ask</c>
+ask about a IML concepts and we ask
+ask about a IML concepts and we ask
+specific<00:07:57.840><c> questions</c><00:07:58.240><c> there,</c><00:07:58.560><c> right?</c><00:07:58.879><c> What</c><00:07:58.960><c> is</c>
+specific questions there, right? What is
+specific questions there, right? What is
+the<00:07:59.280><c> difference</c><00:07:59.520><c> between</c><00:07:59.919><c> supervised</c><00:08:00.400><c> and</c>
+the difference between supervised and
+the difference between supervised and
+unsupervised<00:08:01.280><c> learning</c><00:08:01.840><c> as</c><00:08:02.000><c> an</c><00:08:02.240><c> example?</c><00:08:02.879><c> I</c>
+unsupervised learning as an example? I
+unsupervised learning as an example? I
+want<00:08:03.360><c> to</c><00:08:03.599><c> make</c><00:08:03.759><c> sure</c><00:08:04.240><c> that</c><00:08:04.479><c> you're</c><00:08:04.720><c> not</c><00:08:04.879><c> just</c>
+want to make sure that you're not just
+want to make sure that you're not just
+rating<00:08:05.440><c> yourself</c><00:08:05.759><c> 1</c><00:08:06.000><c> to</c><00:08:06.160><c> 10</c><00:08:06.319><c> and</c><00:08:06.479><c> kind</c><00:08:06.639><c> of</c>
+rating yourself 1 to 10 and kind of
+rating yourself 1 to 10 and kind of
+guessing<00:08:07.039><c> or</c><00:08:07.280><c> using</c><00:08:07.599><c> cluyly</c><00:08:08.080><c> to</c><00:08:08.240><c> answer</c><00:08:08.560><c> that</c>
+guessing or using cluyly to answer that
+guessing or using cluyly to answer that
+you're<00:08:08.960><c> actually</c><00:08:09.199><c> able</c><00:08:09.440><c> to</c><00:08:09.599><c> be</c><00:08:09.759><c> honest</c><00:08:10.000><c> about</c>
+you're actually able to be honest about
+you're actually able to be honest about
+it.<00:08:10.639><c> We</c><00:08:10.879><c> go</c><00:08:11.039><c> through,</c><00:08:11.280><c> we</c><00:08:11.440><c> talk</c><00:08:11.599><c> about</c>
+it. We go through, we talk about
+it. We go through, we talk about
+stakeholder<00:08:12.400><c> management,</c><00:08:12.879><c> strategic</c><00:08:13.280><c> and</c>
+stakeholder management, strategic and
+stakeholder management, strategic and
+analytic<00:08:13.919><c> skills.</c><00:08:14.639><c> We</c><00:08:14.879><c> talk</c><00:08:15.039><c> about</c>
+analytic skills. We talk about
+analytic skills. We talk about
+leadership<00:08:15.759><c> and</c><00:08:16.000><c> communication.</c><00:08:16.720><c> One</c><00:08:16.879><c> of</c><00:08:16.960><c> the</c>
+leadership and communication. One of the
+leadership and communication. One of the
+things<00:08:17.280><c> I</c><00:08:17.520><c> want</c><00:08:17.680><c> you</c><00:08:17.840><c> to</c><00:08:18.000><c> notice</c><00:08:18.639><c> AI</c><00:08:18.960><c> product</c>
+things I want you to notice AI product
+things I want you to notice AI product
+management<00:08:19.599><c> is</c><00:08:19.759><c> a</c><00:08:19.919><c> great</c><00:08:20.080><c> example</c><00:08:20.319><c> of</c><00:08:20.479><c> a</c><00:08:20.720><c> role</c>
+management is a great example of a role
+management is a great example of a role
+that's<00:08:21.199><c> transforming</c><00:08:21.680><c> and</c><00:08:21.919><c> evolving.</c><00:08:22.400><c> Right?</c>
+that's transforming and evolving. Right?
+that's transforming and evolving. Right?
+We<00:08:23.120><c> are</c><00:08:23.280><c> looking</c><00:08:23.599><c> at</c><00:08:24.160><c> classic</c><00:08:24.960><c> areas</c><00:08:25.440><c> of</c>
+We are looking at classic areas of
+We are looking at classic areas of
+product<00:08:26.319><c> management</c><00:08:26.960><c> expertise</c><00:08:27.840><c> that</c><00:08:28.080><c> are</c>
+product management expertise that are
+product management expertise that are
+evolving<00:08:28.720><c> and</c><00:08:28.960><c> changing</c><00:08:29.199><c> in</c><00:08:29.360><c> the</c><00:08:29.520><c> age</c><00:08:29.680><c> of</c><00:08:29.840><c> AI.</c>
+evolving and changing in the age of AI.
+evolving and changing in the age of AI.
+And<00:08:30.479><c> I</c><00:08:30.639><c> think</c><00:08:30.800><c> part</c><00:08:30.960><c> of</c><00:08:31.039><c> the</c><00:08:31.199><c> way</c><00:08:31.360><c> forward</c><00:08:31.759><c> is</c>
+And I think part of the way forward is
+And I think part of the way forward is
+to<00:08:32.320><c> map</c><00:08:32.640><c> them</c><00:08:32.880><c> to</c><00:08:33.360><c> specific</c><00:08:34.080><c> competencies.</c>
+to map them to specific competencies.
+to map them to specific competencies.
+And<00:08:35.279><c> so</c><00:08:35.440><c> we</c><00:08:35.680><c> start</c><00:08:35.839><c> to</c><00:08:36.080><c> look</c><00:08:36.240><c> and</c><00:08:36.560><c> say</c><00:08:37.279><c> how</c><00:08:37.440><c> do</c>
+And so we start to look and say how do
+And so we start to look and say how do
+we<00:08:37.760><c> take</c><00:08:38.000><c> classic</c><00:08:38.399><c> experience</c><00:08:38.880><c> with</c><00:08:39.120><c> stuff</c>
+we take classic experience with stuff
+we take classic experience with stuff
+like<00:08:39.519><c> product</c><00:08:39.839><c> strategy</c><00:08:40.240><c> and</c><00:08:40.399><c> road</c><00:08:40.640><c> mapping</c>
+like product strategy and road mapping
+like product strategy and road mapping
+and<00:08:41.519><c> start</c><00:08:41.760><c> to</c><00:08:42.080><c> crosscalibrate</c><00:08:43.120><c> it</c><00:08:43.599><c> with</c><00:08:44.159><c> how</c>
+and start to crosscalibrate it with how
+and start to crosscalibrate it with how
+you've<00:08:44.640><c> built</c><00:08:44.880><c> stuff</c><00:08:45.040><c> with</c><00:08:45.279><c> AI</c><00:08:45.600><c> capabilities</c>
+you've built stuff with AI capabilities
+you've built stuff with AI capabilities
+in<00:08:46.399><c> the</c><00:08:46.560><c> product.</c><00:08:47.040><c> And</c><00:08:47.200><c> so</c><00:08:47.440><c> a</c><00:08:47.600><c> lot</c><00:08:47.680><c> of</c><00:08:47.760><c> the</c>
+in the product. And so a lot of the
+in the product. And so a lot of the
+magic<00:08:48.560><c> of</c><00:08:48.959><c> this</c><00:08:49.360><c> assessment</c><00:08:50.240><c> is</c><00:08:50.640><c> actually</c>
+magic of this assessment is actually
+magic of this assessment is actually
+putting<00:08:51.360><c> it</c><00:08:51.600><c> together</c><00:08:52.399><c> analyzing</c><00:08:52.880><c> the</c>
+putting it together analyzing the
+putting it together analyzing the
+responses<00:08:54.080><c> and</c><00:08:54.320><c> assessing</c><00:08:54.880><c> how</c><00:08:55.040><c> you</c><00:08:55.279><c> qualify</c>
+responses and assessing how you qualify
+responses and assessing how you qualify
+as<00:08:56.399><c> an</c><00:08:56.800><c> evolved</c><00:08:57.360><c> role</c><00:08:57.680><c> where</c><00:08:57.920><c> you</c><00:08:58.160><c> have</c><00:08:58.320><c> both</c>
+as an evolved role where you have both
+as an evolved role where you have both
+the<00:08:58.800><c> PM</c><00:08:59.200><c> piece</c><00:08:59.600><c> and</c><00:08:59.920><c> the</c><00:09:00.080><c> AI</c><00:09:00.560><c> piece.</c><00:09:01.040><c> And</c><00:09:01.200><c> then</c>
+the PM piece and the AI piece. And then
+the PM piece and the AI piece. And then
+there's<00:09:01.519><c> a</c><00:09:01.680><c> personalized</c><00:09:02.160><c> road</c><00:09:02.399><c> map</c><00:09:02.560><c> at</c><00:09:02.720><c> the</c>
+there's a personalized road map at the
+there's a personalized road map at the
+end<00:09:02.880><c> because</c><00:09:03.040><c> I</c><00:09:03.200><c> want</c><00:09:03.279><c> to</c><00:09:03.360><c> leave</c><00:09:03.519><c> you</c><00:09:03.680><c> with</c>
+end because I want to leave you with
+end because I want to leave you with
+something<00:09:04.080><c> that's</c><00:09:04.320><c> actually</c><00:09:04.560><c> actionable,</c>
+something that's actually actionable,
+something that's actually actionable,
+right?<00:09:05.600><c> What</c><00:09:05.839><c> are</c><00:09:06.000><c> some</c><00:09:06.240><c> recommendations</c>
+right? What are some recommendations
+right? What are some recommendations
+that<00:09:07.279><c> you</c><00:09:07.440><c> can</c><00:09:07.600><c> take</c><00:09:07.839><c> with</c><00:09:08.080><c> you?</c><00:09:08.560><c> And</c><00:09:08.800><c> this</c><00:09:08.959><c> is</c>
+that you can take with you? And this is
+that you can take with you? And this is
+useful<00:09:09.680><c> by</c><00:09:09.920><c> the</c><00:09:10.000><c> way</c><00:09:10.640><c> because</c>
+useful by the way because
+useful by the way because
+you<00:09:12.480><c> can</c><00:09:12.720><c> depend</c><00:09:13.120><c> on</c><00:09:13.440><c> language</c><00:09:14.000><c> models</c><00:09:14.560><c> given</c>
+you can depend on language models given
+you can depend on language models given
+this<00:09:15.279><c> kind</c><00:09:15.519><c> of</c><00:09:15.760><c> prompt</c><00:09:16.560><c> to</c><00:09:16.880><c> go</c><00:09:17.200><c> and</c><00:09:17.519><c> search</c><00:09:17.839><c> the</c>
+this kind of prompt to go and search the
+this kind of prompt to go and search the
+web<00:09:18.959><c> for</c><00:09:19.200><c> the</c><00:09:19.519><c> most</c><00:09:19.920><c> relevant</c><00:09:20.640><c> current</c>
+web for the most relevant current
+web for the most relevant current
+courses<00:09:21.600><c> and</c><00:09:21.839><c> certification.</c><00:09:22.560><c> I</c><00:09:22.800><c> could</c><00:09:23.040><c> have</c>
+courses and certification. I could have
+courses and certification. I could have
+hardcoded<00:09:24.000><c> all</c><00:09:24.160><c> of</c><00:09:24.320><c> these</c><00:09:24.560><c> and</c><00:09:24.800><c> I</c><00:09:24.959><c> chose</c><00:09:25.279><c> not</c>
+hardcoded all of these and I chose not
+hardcoded all of these and I chose not
+to<00:09:26.160><c> because</c><00:09:26.480><c> the</c><00:09:26.800><c> space</c><00:09:27.120><c> is</c><00:09:27.360><c> moving</c><00:09:27.680><c> so</c><00:09:28.000><c> fast.</c>
+to because the space is moving so fast.
+to because the space is moving so fast.
+And<00:09:28.880><c> so</c><00:09:29.200><c> instead,</c><00:09:30.080><c> given</c><00:09:30.399><c> that</c><00:09:30.560><c> we</c><00:09:30.720><c> have</c>
+And so instead, given that we have
+And so instead, given that we have
+reasoning<00:09:31.360><c> models</c><00:09:31.680><c> that</c><00:09:31.920><c> search</c><00:09:32.160><c> the</c><00:09:32.399><c> web</c>
+reasoning models that search the web
+reasoning models that search the web
+effectively<00:09:33.200><c> with</c><00:09:33.440><c> a</c><00:09:33.680><c> very</c><00:09:33.920><c> strong</c><00:09:34.240><c> anchor</c>
+effectively with a very strong anchor
+effectively with a very strong anchor
+prompt<00:09:34.959><c> like</c><00:09:35.120><c> this,</c><00:09:35.360><c> when</c><00:09:35.600><c> it</c><00:09:35.760><c> comes</c><00:09:35.920><c> time</c><00:09:36.160><c> to</c>
+prompt like this, when it comes time to
+prompt like this, when it comes time to
+recommend,<00:09:37.200><c> they</c><00:09:37.440><c> are</c><00:09:37.519><c> going</c><00:09:37.600><c> to</c><00:09:37.760><c> look</c><00:09:37.920><c> across</c>
+recommend, they are going to look across
+recommend, they are going to look across
+your<00:09:38.640><c> response</c><00:09:39.040><c> set</c><00:09:39.200><c> and</c><00:09:39.440><c> be</c><00:09:39.519><c> able</c><00:09:39.680><c> to</c>
+your response set and be able to
+your response set and be able to
+generate<00:09:40.320><c> a</c><00:09:40.720><c> custom</c><00:09:41.279><c> list</c><00:09:42.000><c> of</c><00:09:42.240><c> courses</c><00:09:42.640><c> for</c>
+generate a custom list of courses for
+generate a custom list of courses for
+you<00:09:43.360><c> that</c><00:09:43.760><c> reflect</c><00:09:44.399><c> your</c><00:09:44.800><c> specific</c><00:09:45.360><c> answers</c>
+you that reflect your specific answers
+you that reflect your specific answers
+in<00:09:46.240><c> a</c><00:09:46.399><c> way</c><00:09:46.480><c> that</c><00:09:46.640><c> hard</c><00:09:46.959><c> coding</c><00:09:47.279><c> never</c><00:09:47.519><c> could.</c>
+in a way that hard coding never could.
+in a way that hard coding never could.
+And<00:09:48.240><c> that's</c><00:09:48.800><c> a</c><00:09:49.040><c> reflection</c><00:09:49.440><c> of</c><00:09:49.600><c> where</c><00:09:49.760><c> we're</c>
+And that's a reflection of where we're
+And that's a reflection of where we're
+at<00:09:50.080><c> with</c><00:09:50.320><c> language</c><00:09:50.640><c> models</c><00:09:50.959><c> at</c><00:09:51.120><c> this</c><00:09:51.279><c> point</c><00:09:51.360><c> in</c>
+at with language models at this point in
+at with language models at this point in
+2025.<00:09:52.399><c> It's</c><00:09:52.640><c> incredible.</c><00:09:53.040><c> like</c><00:09:53.279><c> you</c><00:09:53.440><c> can</c><00:09:53.519><c> get</c>
+2025. It's incredible. like you can get
+2025. It's incredible. like you can get
+them<00:09:53.839><c> to</c><00:09:54.000><c> actually</c><00:09:54.320><c> think</c><00:09:54.480><c> through</c><00:09:54.720><c> all</c><00:09:54.880><c> of</c>
+them to actually think through all of
+them to actually think through all of
+this<00:09:55.120><c> and</c><00:09:55.360><c> on</c><00:09:55.519><c> the-fly</c><00:09:56.000><c> recommend</c><00:09:56.480><c> courses</c><00:09:56.959><c> as</c>
+this and on the-fly recommend courses as
+this and on the-fly recommend courses as
+long<00:09:57.279><c> as</c><00:09:57.360><c> you</c><00:09:57.600><c> have</c><00:09:57.680><c> a</c><00:09:57.839><c> solid</c><00:09:58.160><c> prompt.</c><00:09:58.560><c> The</c>
+long as you have a solid prompt. The
+long as you have a solid prompt. The
+salary<00:09:59.200><c> reality</c><00:09:59.600><c> check.</c><00:10:00.240><c> This</c><00:10:00.399><c> is</c><00:10:00.560><c> one</c><00:10:00.880><c> based</c>
+salary reality check. This is one based
+salary reality check. This is one based
+on<00:10:02.000><c> current</c><00:10:02.399><c> market</c><00:10:02.800><c> conditions.</c><00:10:03.279><c> I</c><00:10:03.519><c> could</c>
+on current market conditions. I could
+on current market conditions. I could
+have<00:10:03.839><c> also</c><00:10:04.160><c> soft</c><00:10:04.480><c> coded</c><00:10:04.800><c> this</c><00:10:04.959><c> and</c><00:10:05.120><c> had</c><00:10:05.360><c> them</c>
+have also soft coded this and had them
+have also soft coded this and had them
+go<00:10:05.839><c> the</c><00:10:06.080><c> the</c><00:10:06.320><c> prompt</c><00:10:06.640><c> go</c><00:10:06.800><c> out</c><00:10:06.959><c> and</c><00:10:07.519><c> benchmark</c>
+go the the prompt go out and benchmark
+go the the prompt go out and benchmark
+the<00:10:08.320><c> salary.</c><00:10:09.120><c> I</c><00:10:09.360><c> decided</c><00:10:09.760><c> that</c><00:10:10.080><c> was</c><00:10:10.240><c> not</c><00:10:10.480><c> worth</c>
+the salary. I decided that was not worth
+the salary. I decided that was not worth
+it.<00:10:11.040><c> I</c><00:10:11.200><c> would</c><00:10:11.360><c> rather</c><00:10:11.680><c> prioritize</c><00:10:12.320><c> the</c>
+it. I would rather prioritize the
+it. I would rather prioritize the
+learning<00:10:12.800><c> piece</c><00:10:13.040><c> with</c><00:10:13.200><c> the</c><00:10:13.360><c> LLM</c><00:10:13.920><c> tokens</c><00:10:14.240><c> than</c>
+learning piece with the LLM tokens than
+learning piece with the LLM tokens than
+the<00:10:14.560><c> salary</c><00:10:14.959><c> piece.</c><00:10:15.360><c> And</c><00:10:15.519><c> we</c><00:10:15.760><c> can</c><00:10:15.839><c> always</c>
+the salary piece. And we can always
+the salary piece. And we can always
+update<00:10:16.399><c> that</c><00:10:16.640><c> over</c><00:10:16.880><c> time,</c><00:10:17.440><c> but</c><00:10:17.760><c> it</c><00:10:18.000><c> is</c>
+update that over time, but it is
+update that over time, but it is
+reflective<00:10:18.880><c> of</c><00:10:19.120><c> where</c><00:10:19.360><c> the</c><00:10:19.519><c> market</c><00:10:19.760><c> is</c><00:10:19.920><c> at</c>
+reflective of where the market is at
+reflective of where the market is at
+this<00:10:20.320><c> point</c><00:10:20.800><c> in</c><00:10:21.040><c> the</c><00:10:21.279><c> US.</c><00:10:21.760><c> you'll</c><00:10:22.079><c> need</c><00:10:22.160><c> to</c>
+this point in the US. you'll need to
+this point in the US. you'll need to
+discount<00:10:22.640><c> it</c><00:10:22.880><c> some</c><00:10:23.040><c> for</c><00:10:23.200><c> the</c><00:10:23.360><c> EU.</c><00:10:23.920><c> Finally,</c><00:10:24.240><c> we</c>
+discount it some for the EU. Finally, we
+discount it some for the EU. Finally, we
+get<00:10:24.480><c> to</c><00:10:24.560><c> the</c><00:10:24.720><c> assessment</c><00:10:25.120><c> criteria.</c><00:10:25.680><c> I</c><00:10:25.839><c> want</c>
+get to the assessment criteria. I want
+get to the assessment criteria. I want
+you<00:10:26.160><c> to</c><00:10:26.320><c> understand</c><00:10:26.640><c> how</c><00:10:26.880><c> I</c><00:10:27.120><c> assess</c><00:10:27.440><c> this</c>
+you to understand how I assess this
+you to understand how I assess this
+stuff<00:10:27.839><c> so</c><00:10:28.079><c> it's</c><00:10:28.399><c> bold</c><00:10:28.640><c> and</c><00:10:28.880><c> transparent.</c><00:10:29.360><c> I</c>
+stuff so it's bold and transparent. I
+stuff so it's bold and transparent. I
+also<00:10:29.680><c> want</c><00:10:29.760><c> the</c><00:10:29.920><c> LLM</c><00:10:30.399><c> to</c><00:10:30.560><c> be</c><00:10:30.640><c> consistent</c><00:10:31.440><c> about</c>
+also want the LLM to be consistent about
+also want the LLM to be consistent about
+how<00:10:31.920><c> to</c><00:10:32.079><c> assess</c><00:10:32.399><c> it.</c><00:10:32.800><c> And</c><00:10:32.959><c> that's</c><00:10:33.120><c> it.</c><00:10:33.440><c> Begin</c>
+how to assess it. And that's it. Begin
+how to assess it. And that's it. Begin
+now<00:10:33.839><c> by</c><00:10:34.079><c> introducing</c><00:10:34.480><c> yourself.</c><00:10:35.040><c> So</c><00:10:35.200><c> there</c>
+now by introducing yourself. So there
+now by introducing yourself. So there
+that<00:10:35.680><c> that's</c><00:10:36.000><c> the</c><00:10:36.160><c> prompt.</c><00:10:36.640><c> It's</c><00:10:36.959><c> actually</c>
+that that's the prompt. It's actually
+that that's the prompt. It's actually
+not<00:10:37.279><c> a</c><00:10:37.519><c> magic</c><00:10:37.760><c> prompt.</c><00:10:38.160><c> I'm</c><00:10:38.320><c> a</c><00:10:38.480><c> big</c><00:10:38.720><c> fan</c><00:10:39.040><c> of</c>
+not a magic prompt. I'm a big fan of
+not a magic prompt. I'm a big fan of
+showing<00:10:39.920><c> how</c><00:10:40.160><c> I</c><00:10:40.399><c> prompt</c><00:10:41.120><c> so</c><00:10:41.360><c> you</c><00:10:41.519><c> don't</c><00:10:41.760><c> think</c>
+showing how I prompt so you don't think
+showing how I prompt so you don't think
+I<00:10:42.320><c> just</c><00:10:42.480><c> do</c><00:10:42.640><c> this</c><00:10:42.800><c> stuff</c><00:10:43.040><c> magically</c><00:10:43.760><c> and</c><00:10:44.000><c> it</c>
+I just do this stuff magically and it
+I just do this stuff magically and it
+works.<00:10:44.480><c> I</c><00:10:44.640><c> want</c><00:10:44.800><c> you</c><00:10:44.880><c> to</c><00:10:45.040><c> understand</c><00:10:45.279><c> how</c><00:10:45.519><c> it</c>
+works. I want you to understand how it
+works. I want you to understand how it
+works.<00:10:46.079><c> You</c><00:10:46.160><c> know,</c><00:10:46.320><c> the</c><00:10:46.480><c> hardest</c><00:10:46.800><c> part</c><00:10:46.880><c> of</c>
+works. You know, the hardest part of
+works. You know, the hardest part of
+building<00:10:47.279><c> these</c><00:10:47.600><c> prompts</c><00:10:47.920><c> was</c><00:10:48.160><c> building</c><00:10:48.480><c> in</c>
+building these prompts was building in
+building these prompts was building in
+anticipation<00:10:49.760><c> of</c><00:10:50.000><c> what</c><00:10:50.240><c> people</c><00:10:50.640><c> don't</c><00:10:50.880><c> know.</c>
+anticipation of what people don't know.
+anticipation of what people don't know.
+They<00:10:51.440><c> don't</c><00:10:51.600><c> know.</c><00:10:52.079><c> Most</c><00:10:52.399><c> people</c><00:10:52.640><c> applying</c><00:10:52.959><c> to</c>
+They don't know. Most people applying to
+They don't know. Most people applying to
+AI<00:10:53.360><c> roles</c><00:10:53.760><c> don't</c><00:10:54.000><c> realize</c><00:10:54.640><c> how</c><00:10:54.959><c> transferable</c>
+AI roles don't realize how transferable
+AI roles don't realize how transferable
+some<00:10:55.760><c> of</c><00:10:55.839><c> their</c><00:10:56.000><c> skills</c><00:10:56.320><c> are.</c><00:10:56.800><c> A</c><00:10:57.040><c> compliance</c>
+some of their skills are. A compliance
+some of their skills are. A compliance
+professional<00:10:58.160><c> doesn't</c><00:10:58.560><c> recognize</c><00:10:59.440><c> the</c>
+professional doesn't recognize the
+professional doesn't recognize the
+transference<00:11:00.240><c> potential</c><00:11:00.560><c> to</c><00:11:00.800><c> AI</c><00:11:01.120><c> governance</c>
+transference potential to AI governance
+transference potential to AI governance
+necessarily,<00:11:02.240><c> and</c><00:11:02.480><c> if</c><00:11:02.640><c> they</c><00:11:02.800><c> do,</c><00:11:03.360><c> they</c><00:11:03.600><c> don't</c>
+necessarily, and if they do, they don't
+necessarily, and if they do, they don't
+know<00:11:03.920><c> which</c><00:11:04.160><c> skills</c><00:11:04.480><c> transfer</c><00:11:04.880><c> and</c><00:11:05.040><c> which</c>
+know which skills transfer and which
+know which skills transfer and which
+don't.<00:11:05.839><c> Someone</c><00:11:06.160><c> with</c><00:11:06.480><c> 5</c><00:11:06.720><c> years</c><00:11:06.959><c> of</c><00:11:07.120><c> change</c>
+don't. Someone with 5 years of change
+don't. Someone with 5 years of change
+management<00:11:08.000><c> might</c><00:11:08.240><c> not</c><00:11:08.399><c> realize</c><00:11:08.720><c> they're</c>
+management might not realize they're
+management might not realize they're
+qualified<00:11:09.360><c> for</c><00:11:09.519><c> an</c><00:11:09.680><c> AI</c><00:11:10.079><c> coaching</c><00:11:10.399><c> role</c><00:11:10.959><c> with</c>
+qualified for an AI coaching role with
+qualified for an AI coaching role with
+tremendous<00:11:11.760><c> year-over-year</c><00:11:12.399><c> growth.</c><00:11:12.880><c> So,</c><00:11:13.040><c> I</c>
+tremendous year-over-year growth. So, I
+tremendous year-over-year growth. So, I
+structured<00:11:13.680><c> questions</c><00:11:14.079><c> intended</c><00:11:14.560><c> to</c><00:11:14.720><c> surface</c>
+structured questions intended to surface
+structured questions intended to surface
+those<00:11:15.440><c> realities.</c><00:11:16.320><c> I</c><00:11:16.480><c> didn't</c><00:11:16.720><c> just</c><00:11:16.959><c> ask,</c><00:11:17.440><c> "Do</c>
+those realities. I didn't just ask, "Do
+those realities. I didn't just ask, "Do
+you<00:11:18.000><c> have</c><00:11:18.240><c> AI</c><00:11:18.640><c> experience?"</c><00:11:19.680><c> I</c><00:11:20.000><c> asked</c><00:11:20.560><c> about</c>
+you have AI experience?" I asked about
+you have AI experience?" I asked about
+the<00:11:21.040><c> background,</c><00:11:21.440><c> the</c><00:11:21.680><c> real</c><00:11:21.920><c> background,</c><00:11:22.320><c> and</c>
+the background, the real background, and
+the background, the real background, and
+the<00:11:22.720><c> prompt</c><00:11:23.120><c> explains</c><00:11:23.519><c> how</c><00:11:23.680><c> it</c><00:11:23.839><c> maps.</c><00:11:24.480><c> You</c>
+the prompt explains how it maps. You
+the prompt explains how it maps. You
+have<00:11:24.880><c> compliance</c><00:11:25.360><c> background.</c><00:11:26.000><c> That's</c><00:11:26.240><c> a</c>
+have compliance background. That's a
+have compliance background. That's a
+scarce<00:11:26.800><c> resource,</c><00:11:27.200><c> right?</c><00:11:27.360><c> You</c><00:11:27.519><c> can</c><00:11:27.600><c> get</c>
+scarce resource, right? You can get
+scarce resource, right? You can get
+there<00:11:27.920><c> faster</c><00:11:28.560><c> than</c><00:11:28.720><c> a</c><00:11:28.959><c> software</c><00:11:29.279><c> engineer</c>
+there faster than a software engineer
+there faster than a software engineer
+could.<00:11:30.000><c> This</c><00:11:30.240><c> all</c><00:11:30.399><c> connects</c><00:11:30.800><c> back</c><00:11:30.959><c> to</c><00:11:31.120><c> that</c>
+could. This all connects back to that
+could. This all connects back to that
+prediction<00:11:31.760><c> framework.</c><00:11:32.640><c> We</c><00:11:33.360><c> create</c><00:11:34.079><c> more</c>
+prediction framework. We create more
+prediction framework. We create more
+order<00:11:34.640><c> in</c><00:11:34.880><c> the</c><00:11:35.040><c> universe</c><00:11:35.760><c> by</c><00:11:36.000><c> contributing</c>
+order in the universe by contributing
+order in the universe by contributing
+information.<00:11:37.200><c> That's</c><00:11:37.440><c> sort</c><00:11:37.519><c> of</c><00:11:37.600><c> the</c><00:11:37.839><c> central</c>
+information. That's sort of the central
+information. That's sort of the central
+thesis<00:11:38.399><c> of</c><00:11:38.560><c> the</c><00:11:38.720><c> A16</c><00:11:39.279><c> Zpoint.</c><00:11:39.760><c> It's</c><00:11:40.000><c> been</c><00:11:40.160><c> kind</c>
+thesis of the A16 Zpoint. It's been kind
+thesis of the A16 Zpoint. It's been kind
+of<00:11:40.320><c> bouncing</c><00:11:40.800><c> around</c><00:11:41.040><c> in</c><00:11:41.279><c> my</c><00:11:41.440><c> head.</c><00:11:41.839><c> And</c><00:11:42.079><c> I</c>
+of bouncing around in my head. And I
+of bouncing around in my head. And I
+think<00:11:42.320><c> that</c><00:11:42.560><c> part</c><00:11:42.800><c> of</c><00:11:42.880><c> what</c><00:11:43.120><c> we're</c><00:11:43.360><c> doing</c><00:11:43.519><c> with</c>
+think that part of what we're doing with
+think that part of what we're doing with
+prompts<00:11:44.160><c> like</c><00:11:44.320><c> this</c><00:11:44.880><c> is</c><00:11:45.200><c> we</c><00:11:45.519><c> are</c><00:11:46.079><c> collecting</c>
+prompts like this is we are collecting
+prompts like this is we are collecting
+information<00:11:47.360><c> about</c><00:11:47.680><c> what</c><00:11:48.000><c> you</c><00:11:48.240><c> actually</c><00:11:48.480><c> have</c>
+information about what you actually have
+information about what you actually have
+and<00:11:48.880><c> bring</c><00:11:49.040><c> to</c><00:11:49.200><c> the</c><00:11:49.360><c> table.</c><00:11:49.920><c> Not</c><00:11:50.079><c> what</c><00:11:50.240><c> you</c>
+and bring to the table. Not what you
+and bring to the table. Not what you
+think<00:11:50.480><c> you're</c><00:11:50.720><c> missing,</c><00:11:51.040><c> but</c><00:11:51.200><c> what</c><00:11:51.440><c> you</c>
+think you're missing, but what you
+think you're missing, but what you
+actually<00:11:51.920><c> possess.</c><00:11:52.720><c> And</c><00:11:52.880><c> then</c><00:11:53.040><c> we</c><00:11:53.200><c> predict</c>
+actually possess. And then we predict
+actually possess. And then we predict
+the<00:11:53.680><c> most</c><00:11:53.920><c> efficient</c><00:11:54.320><c> path</c><00:11:54.560><c> to</c><00:11:54.800><c> contribute</c>
+the most efficient path to contribute
+the most efficient path to contribute
+that<00:11:55.839><c> information</c><00:11:56.240><c> into</c><00:11:56.480><c> the</c><00:11:56.640><c> AI</c><00:11:57.040><c> job</c><00:11:57.279><c> market.</c>
+that information into the AI job market.
+that information into the AI job market.
+That<00:11:57.839><c> is</c><00:11:57.920><c> a</c><00:11:58.079><c> path</c><00:11:58.240><c> to</c><00:11:58.480><c> value.</c><00:11:58.880><c> That</c><00:11:59.040><c> is</c><00:11:59.120><c> a</c><00:11:59.279><c> path</c>
+That is a path to value. That is a path
+That is a path to value. That is a path
+to<00:11:59.760><c> career</c><00:12:00.160><c> success.</c><00:12:00.959><c> And</c><00:12:01.120><c> that's</c><00:12:01.360><c> why</c><00:12:01.440><c> I</c>
+to career success. And that's why I
+to career success. And that's why I
+built<00:12:01.839><c> this.</c><00:12:02.240><c> The</c><00:12:02.480><c> assessment</c><00:12:02.959><c> also</c>
+built this. The assessment also
+built this. The assessment also
+anticipates<00:12:04.000><c> mistakes.</c><00:12:04.800><c> I</c><00:12:05.040><c> designed</c><00:12:05.360><c> it</c><00:12:05.519><c> to</c>
+anticipates mistakes. I designed it to
+anticipates mistakes. I designed it to
+call<00:12:05.839><c> out</c><00:12:06.079><c> common</c><00:12:06.399><c> failures,</c><00:12:07.120><c> analysis</c>
+call out common failures, analysis
+call out common failures, analysis
+paralysis,<00:12:08.399><c> targeting</c><00:12:08.800><c> the</c><00:12:09.040><c> wrong</c><00:12:09.200><c> role,</c>
+paralysis, targeting the wrong role,
+paralysis, targeting the wrong role,
+unrealistic<00:12:10.320><c> timelines.</c><00:12:11.120><c> There's</c><00:12:11.440><c> a</c><00:12:11.600><c> lot</c>
+unrealistic timelines. There's a lot
+unrealistic timelines. There's a lot
+that<00:12:12.000><c> potentially</c><00:12:12.399><c> derails</c><00:12:12.959><c> people</c><00:12:13.440><c> and</c><00:12:13.680><c> the</c>
+that potentially derails people and the
+that potentially derails people and the
+prompt<00:12:14.880><c> strives</c><00:12:15.680><c> to</c><00:12:16.000><c> get</c><00:12:16.240><c> after</c><00:12:16.639><c> failure</c>
+prompt strives to get after failure
+prompt strives to get after failure
+modes<00:12:17.279><c> and</c><00:12:17.519><c> address</c><00:12:17.760><c> them</c><00:12:17.920><c> up</c><00:12:18.079><c> front.</c><00:12:18.399><c> Here's</c>
+modes and address them up front. Here's
+modes and address them up front. Here's
+what<00:12:18.800><c> I</c><00:12:18.959><c> keep</c><00:12:19.120><c> coming</c><00:12:19.360><c> back</c><00:12:19.519><c> to.</c><00:12:20.000><c> The</c><00:12:20.240><c> A16Z</c>
+what I keep coming back to. The A16Z
+what I keep coming back to. The A16Z
+piece<00:12:21.519><c> talks</c><00:12:21.760><c> about</c><00:12:21.920><c> how</c><00:12:22.160><c> being</c><00:12:22.399><c> good</c><00:12:22.560><c> at</c><00:12:22.720><c> the</c>
+piece talks about how being good at the
+piece talks about how being good at the
+internet<00:12:23.279><c> became</c><00:12:23.600><c> a</c><00:12:23.760><c> monetizable</c><00:12:24.560><c> career</c>
+internet became a monetizable career
+internet became a monetizable career
+because<00:12:25.839><c> prediction</c><00:12:26.320><c> is</c><00:12:26.480><c> an</c><00:12:27.360><c> the</c><00:12:27.600><c> entire</c><00:12:28.000><c> meta</c>
+because prediction is an the entire meta
+because prediction is an the entire meta
+game.<00:12:28.639><c> It's</c><00:12:28.880><c> the</c><00:12:29.040><c> entire</c><00:12:29.760><c> game</c><00:12:30.000><c> that</c><00:12:30.160><c> we're</c>
+game. It's the entire game that we're
+game. It's the entire game that we're
+playing<00:12:30.560><c> in</c><00:12:30.720><c> the</c><00:12:30.880><c> economy</c><00:12:31.279><c> right</c><00:12:31.519><c> now.</c><00:12:31.760><c> We</c>
+playing in the economy right now. We
+playing in the economy right now. We
+literally<00:12:32.560><c> share</c><00:12:32.880><c> memes</c><00:12:33.680><c> with</c><00:12:34.480><c> probability</c>
+literally share memes with probability
+literally share memes with probability
+prediction<00:12:36.079><c> for</c><00:12:36.800><c> game</c><00:12:37.120><c> results,</c><00:12:37.600><c> right?</c><00:12:37.839><c> like</c>
+prediction for game results, right? like
+prediction for game results, right? like
+I<00:12:38.800><c> am</c><00:12:38.959><c> a</c><00:12:39.200><c> Seattle</c><00:12:39.519><c> Mariners</c><00:12:40.000><c> fan</c><00:12:40.240><c> and</c><00:12:40.399><c> there</c>
+I am a Seattle Mariners fan and there
+I am a Seattle Mariners fan and there
+were<00:12:41.040><c> memes</c><00:12:41.519><c> circling</c><00:12:42.240><c> about</c><00:12:42.480><c> the</c>
+were memes circling about the
+were memes circling about the
+probability<00:12:43.200><c> of</c><00:12:43.360><c> the</c><00:12:43.519><c> Mariners</c><00:12:44.240><c> winning</c><00:12:44.800><c> this</c>
+probability of the Mariners winning this
+probability of the Mariners winning this
+past<00:12:45.360><c> weekend.</c><00:12:45.760><c> And</c><00:12:45.920><c> that's</c><00:12:46.079><c> not</c><00:12:46.160><c> the</c><00:12:46.320><c> first</c>
+past weekend. And that's not the first
+past weekend. And that's not the first
+time<00:12:46.560><c> I've</c><00:12:46.720><c> seen</c><00:12:46.800><c> that.</c><00:12:47.040><c> I've</c><00:12:47.200><c> seen</c><00:12:47.279><c> that</c><00:12:47.440><c> for</c>
+time I've seen that. I've seen that for
+time I've seen that. I've seen that for
+game<00:12:47.760><c> after</c><00:12:48.000><c> game</c><00:12:48.160><c> after</c><00:12:48.720><c> game,</c><00:12:48.959><c> sports</c><00:12:49.279><c> team</c>
+game after game after game, sports team
+game after game after game, sports team
+after<00:12:49.760><c> sports</c><00:12:50.079><c> team</c><00:12:50.240><c> after</c><00:12:50.560><c> sports</c><00:12:50.880><c> team.</c>
+after sports team after sports team.
+after sports team after sports team.
+Prediction<00:12:51.920><c> is</c><00:12:52.160><c> a</c><00:12:52.320><c> meme.</c><00:12:52.880><c> The</c><00:12:53.120><c> farther</c>
+Prediction is a meme. The farther
+Prediction is a meme. The farther
+upstream<00:12:54.079><c> you</c><00:12:54.240><c> are</c><00:12:54.399><c> in</c><00:12:54.560><c> that</c><00:12:54.800><c> information</c>
+upstream you are in that information
+upstream you are in that information
+flow,<00:12:55.920><c> the</c><00:12:56.160><c> more</c><00:12:56.320><c> likely</c><00:12:56.720><c> you</c><00:12:56.959><c> will</c><00:12:57.200><c> be</c>
+flow, the more likely you will be
+flow, the more likely you will be
+predictive<00:12:57.920><c> of</c><00:12:58.079><c> the</c><00:12:58.240><c> game</c><00:12:58.639><c> as</c><00:12:58.880><c> opposed</c><00:12:59.120><c> to</c>
+predictive of the game as opposed to
+predictive of the game as opposed to
+being<00:12:59.519><c> predicted</c><00:12:59.920><c> by</c><00:13:00.160><c> the</c><00:13:00.320><c> game.</c><00:13:00.639><c> And</c><00:13:00.800><c> that's</c>
+being predicted by the game. And that's
+being predicted by the game. And that's
+where<00:13:01.120><c> these</c><00:13:01.360><c> what</c><00:13:01.600><c> these</c><00:13:01.839><c> assessments</c><00:13:02.320><c> do</c>
+where these what these assessments do
+where these what these assessments do
+for<00:13:02.720><c> AI</c><00:13:03.120><c> careers.</c><00:13:03.760><c> They</c><00:13:04.000><c> put</c><00:13:04.160><c> you</c><00:13:04.399><c> upstream</c><00:13:04.880><c> in</c>
+for AI careers. They put you upstream in
+for AI careers. They put you upstream in
+the<00:13:05.279><c> information</c><00:13:05.680><c> flow.</c><00:13:06.160><c> Instead</c><00:13:06.399><c> of</c>
+the information flow. Instead of
+the information flow. Instead of
+spending<00:13:07.120><c> 6</c><00:13:07.360><c> months</c><00:13:07.600><c> learning</c><00:13:07.920><c> Python</c><00:13:08.320><c> and</c>
+spending 6 months learning Python and
+spending 6 months learning Python and
+then<00:13:08.880><c> realizing</c><00:13:09.360><c> ML</c><00:13:09.760><c> engineer</c><00:13:10.079><c> isn't</c><00:13:10.399><c> viable</c>
+then realizing ML engineer isn't viable
+then realizing ML engineer isn't viable
+with<00:13:10.959><c> your</c><00:13:11.200><c> background,</c><00:13:11.920><c> you</c><00:13:12.079><c> know</c><00:13:12.240><c> it</c><00:13:12.399><c> very</c>
+with your background, you know it very
+with your background, you know it very
+quickly<00:13:12.880><c> in</c><00:13:13.120><c> like</c><00:13:13.440><c> 15</c><00:13:13.760><c> minutes.</c><00:13:14.240><c> Instead</c><00:13:14.560><c> of</c>
+quickly in like 15 minutes. Instead of
+quickly in like 15 minutes. Instead of
+applying<00:13:14.959><c> to</c><00:13:15.120><c> a</c><00:13:15.200><c> 100</c><00:13:15.440><c> jobs</c><00:13:15.680><c> and</c><00:13:15.839><c> getting</c>
+applying to a 100 jobs and getting
+applying to a 100 jobs and getting
+nowhere,<00:13:16.800><c> you</c><00:13:17.040><c> know</c><00:13:17.279><c> more</c><00:13:17.440><c> of</c><00:13:17.600><c> which</c><00:13:18.160><c> door</c><00:13:18.480><c> to</c>
+nowhere, you know more of which door to
+nowhere, you know more of which door to
+try<00:13:18.959><c> first</c><00:13:19.519><c> based</c><00:13:19.839><c> on</c><00:13:20.079><c> real</c><00:13:20.320><c> market</c><00:13:20.720><c> data</c><00:13:21.200><c> and</c>
+try first based on real market data and
+try first based on real market data and
+an<00:13:21.680><c> AI</c><00:13:22.079><c> customized</c><00:13:22.639><c> conversation.</c><00:13:23.440><c> So</c><00:13:23.680><c> maybe</c>
+an AI customized conversation. So maybe
+an AI customized conversation. So maybe
+you're<00:13:24.160><c> going</c><00:13:24.320><c> after</c><00:13:24.560><c> the</c><00:13:24.800><c> 41%</c><00:13:25.600><c> growth</c><00:13:25.839><c> in</c><00:13:26.000><c> ML</c>
+you're going after the 41% growth in ML
+you're going after the 41% growth in ML
+engineering<00:13:26.800><c> roles</c><00:13:27.200><c> or</c><00:13:27.519><c> even</c><00:13:27.680><c> the</c><00:13:28.240><c> 134%</c>
+engineering roles or even the 134%
+engineering roles or even the 134%
+growth<00:13:29.279><c> in</c><00:13:29.519><c> AI</c><00:13:29.839><c> content</c><00:13:30.160><c> creator</c><00:13:30.480><c> roles.</c>
+growth in AI content creator roles.
+growth in AI content creator roles.
+That's<00:13:30.959><c> insane.</c><00:13:31.519><c> You're</c><00:13:31.760><c> being</c><00:13:31.920><c> predictive</c>
+That's insane. You're being predictive
+That's insane. You're being predictive
+instead<00:13:32.720><c> of</c><00:13:32.880><c> being</c><00:13:33.120><c> predictive.</c><00:13:33.839><c> You're</c>
+instead of being predictive. You're
+instead of being predictive. You're
+contributing<00:13:34.720><c> information</c><00:13:35.120><c> about</c><00:13:35.440><c> your</c>
+contributing information about your
+contributing information about your
+actual<00:13:36.079><c> qualifications</c><00:13:36.639><c> to</c><00:13:36.880><c> the</c><00:13:37.040><c> market</c>
+actual qualifications to the market
+actual qualifications to the market
+rather<00:13:37.440><c> than</c><00:13:37.600><c> getting</c><00:13:37.839><c> lost</c><00:13:38.079><c> in</c><00:13:38.320><c> generic</c>
+rather than getting lost in generic
+rather than getting lost in generic
+advice<00:13:39.279><c> that</c><00:13:39.519><c> doesn't</c><00:13:39.760><c> account</c><00:13:40.000><c> for</c><00:13:40.160><c> who</c><00:13:40.399><c> you</c>
+advice that doesn't account for who you
+advice that doesn't account for who you
+are.<00:13:41.120><c> And</c><00:13:41.360><c> this</c><00:13:41.600><c> matters</c><00:13:41.920><c> more</c><00:13:42.240><c> now</c><00:13:42.959><c> because</c>
+are. And this matters more now because
+are. And this matters more now because
+of<00:13:43.440><c> that</c><00:13:43.680><c> entry-level</c><00:13:44.240><c> job</c><00:13:44.480><c> displacement</c>
+of that entry-level job displacement
+of that entry-level job displacement
+that<00:13:45.200><c> I</c><00:13:45.360><c> talked</c><00:13:45.519><c> about</c><00:13:45.680><c> at</c><00:13:45.839><c> the</c><00:13:46.000><c> top</c><00:13:46.160><c> of</c><00:13:46.240><c> this</c>
+that I talked about at the top of this
+that I talked about at the top of this
+video.<00:13:47.120><c> The</c><00:13:47.360><c> old</c><00:13:47.519><c> path</c><00:13:47.839><c> was</c><00:13:48.240><c> get</c><00:13:48.480><c> your</c>
+video. The old path was get your
+video. The old path was get your
+entry-level<00:13:49.120><c> job,</c><00:13:49.519><c> learn</c><00:13:49.760><c> on</c><00:13:50.000><c> the</c><00:13:50.160><c> job,</c>
+entry-level job, learn on the job,
+entry-level job, learn on the job,
+advance<00:13:51.360><c> that</c><00:13:51.680><c> is</c><00:13:51.920><c> disappearing.</c><00:13:52.800><c> The</c><00:13:53.040><c> new</c>
+advance that is disappearing. The new
+advance that is disappearing. The new
+path<00:13:53.600><c> requires</c><00:13:54.000><c> you</c><00:13:54.160><c> to</c><00:13:54.320><c> be</c><00:13:54.480><c> strategic</c><00:13:54.959><c> about</c>
+path requires you to be strategic about
+path requires you to be strategic about
+which<00:13:55.440><c> door</c><00:13:55.680><c> you</c><00:13:55.839><c> try</c><00:13:56.160><c> first,</c><00:13:56.560><c> and</c><00:13:56.720><c> that</c>
+which door you try first, and that
+which door you try first, and that
+requires<00:13:57.600><c> prediction.</c><00:13:58.320><c> But</c><00:13:58.480><c> there</c><00:13:58.639><c> haven't</c>
+requires prediction. But there haven't
+requires prediction. But there haven't
+been<00:13:59.040><c> very</c><00:13:59.279><c> many</c><00:13:59.440><c> resources</c><00:13:59.920><c> about</c><00:14:00.160><c> it,</c><00:14:00.399><c> and</c>
+been very many resources about it, and
+been very many resources about it, and
+that's<00:14:00.720><c> why</c><00:14:00.880><c> I</c><00:14:01.040><c> created</c><00:14:01.279><c> these</c><00:14:01.519><c> prompts.</c><00:14:02.000><c> I</c>
+that's why I created these prompts. I
+that's why I created these prompts. I
+identified<00:14:02.880><c> four</c><00:14:03.199><c> overall</c><00:14:03.680><c> pathways,</c><00:14:04.480><c> if</c><00:14:04.720><c> you</c>
+identified four overall pathways, if you
+identified four overall pathways, if you
+want<00:14:04.880><c> to</c><00:14:05.040><c> ladder</c><00:14:05.360><c> all</c><00:14:05.519><c> of</c><00:14:05.600><c> this</c><00:14:05.760><c> up,</c><00:14:06.240><c> that</c><00:14:06.560><c> work</c>
+want to ladder all of this up, that work
+want to ladder all of this up, that work
+in<00:14:07.040><c> late</c><00:14:07.279><c> 2025</c><00:14:08.000><c> headed</c><00:14:08.240><c> into</c><00:14:08.560><c> 2026.</c><00:14:09.600><c> There's</c><00:14:09.839><c> a</c>
+in late 2025 headed into 2026. There's a
+in late 2025 headed into 2026. There's a
+technical<00:14:10.480><c> bridge</c><00:14:10.720><c> for</c><00:14:10.959><c> people</c><00:14:11.120><c> with</c><00:14:11.279><c> a</c>
+technical bridge for people with a
+technical bridge for people with a
+coding<00:14:11.839><c> background</c><00:14:12.480><c> into</c><00:14:12.880><c> AI.</c><00:14:13.440><c> It's</c><00:14:13.680><c> a</c>
+coding background into AI. It's a
+coding background into AI. It's a
+timeline<00:14:14.160><c> of</c><00:14:14.399><c> 6</c><00:14:14.560><c> to</c><00:14:14.800><c> 18</c><00:14:15.040><c> months,</c><00:14:15.360><c> depending</c><00:14:15.600><c> on</c>
+timeline of 6 to 18 months, depending on
+timeline of 6 to 18 months, depending on
+how<00:14:16.000><c> fast</c><00:14:16.160><c> you</c><00:14:16.399><c> learn.</c><00:14:16.959><c> There's</c><00:14:17.120><c> a</c>
+how fast you learn. There's a
+how fast you learn. There's a
+non-technical<00:14:18.079><c> entry</c><00:14:18.399><c> role</c><00:14:18.720><c> for</c><00:14:18.880><c> writers</c><00:14:19.199><c> and</c>
+non-technical entry role for writers and
+non-technical entry role for writers and
+creatives.<00:14:20.160><c> That</c><00:14:20.320><c> one's</c><00:14:20.639><c> faster.</c><00:14:21.040><c> It</c><00:14:21.199><c> tends</c>
+creatives. That one's faster. It tends
+creatives. That one's faster. It tends
+to<00:14:21.519><c> be</c><00:14:21.680><c> 1</c><00:14:21.839><c> to</c><00:14:22.000><c> six</c><00:14:22.240><c> months</c><00:14:22.480><c> if</c><00:14:22.639><c> you</c><00:14:22.800><c> really</c><00:14:22.959><c> lean</c>
+to be 1 to six months if you really lean
+to be 1 to six months if you really lean
+in.<00:14:23.600><c> There</c><00:14:23.839><c> is</c><00:14:24.000><c> a</c><00:14:24.240><c> domain</c><00:14:24.720><c> expert</c><00:14:25.199><c> pivot,</c><00:14:25.680><c> and</c>
+in. There is a domain expert pivot, and
+in. There is a domain expert pivot, and
+that<00:14:26.079><c> one</c><00:14:26.320><c> really</c><00:14:26.639><c> varies</c><00:14:27.040><c> by</c><00:14:27.279><c> your</c>
+that one really varies by your
+that one really varies by your
+experience<00:14:28.000><c> level</c><00:14:28.160><c> with</c><00:14:28.399><c> AI</c><00:14:28.800><c> and</c><00:14:29.040><c> the</c><00:14:29.279><c> exact</c>
+experience level with AI and the exact
+experience level with AI and the exact
+domain<00:14:29.920><c> you're</c><00:14:30.079><c> in.</c><00:14:30.240><c> It's</c><00:14:30.399><c> tough</c><00:14:30.639><c> to</c><00:14:30.800><c> predict,</c>
+domain you're in. It's tough to predict,
+domain you're in. It's tough to predict,
+but<00:14:31.600><c> from</c><00:14:31.920><c> what</c><00:14:32.079><c> I've</c><00:14:32.240><c> seen,</c><00:14:32.560><c> 3</c><00:14:32.720><c> to</c><00:14:32.959><c> 12</c><00:14:33.199><c> months</c>
+but from what I've seen, 3 to 12 months
+but from what I've seen, 3 to 12 months
+is<00:14:33.680><c> pretty</c><00:14:33.839><c> reasonable.</c><00:14:34.399><c> And</c><00:14:34.560><c> then</c><00:14:34.720><c> there's</c><00:14:34.880><c> a</c>
+is pretty reasonable. And then there's a
+is pretty reasonable. And then there's a
+whole<00:14:35.600><c> burgeoning</c><00:14:36.320><c> exploding</c><00:14:36.880><c> governance</c>
+whole burgeoning exploding governance
+whole burgeoning exploding governance
+and<00:14:37.440><c> compliance</c><00:14:38.320><c> uh</c><00:14:38.480><c> route.</c><00:14:38.800><c> And</c><00:14:38.959><c> that</c><00:14:39.120><c> one</c><00:14:39.519><c> is</c>
+and compliance uh route. And that one is
+and compliance uh route. And that one is
+fairly<00:14:40.240><c> linear.</c><00:14:40.639><c> It's</c><00:14:40.880><c> about</c><00:14:41.040><c> 3</c><00:14:41.279><c> to</c><00:14:41.440><c> nine</c>
+fairly linear. It's about 3 to nine
+fairly linear. It's about 3 to nine
+months<00:14:41.920><c> if</c><00:14:42.079><c> you</c><00:14:42.240><c> have</c><00:14:42.399><c> some</c><00:14:42.560><c> prior</c><00:14:42.959><c> experience</c>
+months if you have some prior experience
+months if you have some prior experience
+in<00:14:44.000><c> any</c><00:14:44.320><c> of</c><00:14:44.399><c> the</c><00:14:44.639><c> compliance</c><00:14:45.120><c> roles.</c><00:14:45.680><c> The</c><00:14:45.920><c> key</c>
+in any of the compliance roles. The key
+in any of the compliance roles. The key
+is<00:14:46.240><c> those</c><00:14:46.480><c> pathways</c><00:14:46.959><c> have</c><00:14:47.120><c> different</c><00:14:47.360><c> timing.</c>
+is those pathways have different timing.
+is those pathways have different timing.
+That's<00:14:48.240><c> the</c><00:14:48.399><c> prediction</c><00:14:48.800><c> element.</c><00:14:49.199><c> If</c><00:14:49.360><c> you're</c>
+That's the prediction element. If you're
+That's the prediction element. If you're
+a<00:14:49.600><c> compliance</c><00:14:50.079><c> professional,</c><00:14:50.959><c> you</c><00:14:51.120><c> can</c>
+a compliance professional, you can
+a compliance professional, you can
+become<00:14:51.519><c> an</c><00:14:51.600><c> AI</c><00:14:51.920><c> governance</c><00:14:52.320><c> specialist</c><00:14:52.720><c> a</c>
+become an AI governance specialist a
+become an AI governance specialist a
+whole<00:14:53.120><c> lot</c><00:14:53.279><c> faster</c><00:14:53.920><c> than</c><00:14:54.160><c> you</c><00:14:54.320><c> would</c><00:14:54.639><c> become</c>
+whole lot faster than you would become
+whole lot faster than you would become
+an<00:14:55.120><c> ML</c><00:14:55.519><c> engineer.</c><00:14:56.079><c> And</c><00:14:56.240><c> so</c><00:14:56.480><c> the</c><00:14:56.639><c> prompts</c><00:14:57.120><c> help</c>
+an ML engineer. And so the prompts help
+an ML engineer. And so the prompts help
+you<00:14:57.519><c> predict</c><00:14:57.839><c> the</c><00:14:58.079><c> pathway</c><00:14:58.399><c> that</c><00:14:58.639><c> fits</c><00:14:58.880><c> your</c>
+you predict the pathway that fits your
+you predict the pathway that fits your
+background.<00:14:59.760><c> and</c><00:15:00.000><c> then</c><00:15:00.240><c> give</c><00:15:00.399><c> you</c><00:15:00.959><c> a</c><00:15:01.279><c> little</c>
+background. and then give you a little
+background. and then give you a little
+bit<00:15:01.600><c> of</c><00:15:01.760><c> a</c><00:15:01.920><c> sense</c><00:15:02.079><c> of</c><00:15:02.240><c> the</c><00:15:02.480><c> timeline.</c><00:15:03.279><c> And</c><00:15:03.440><c> they</c>
+bit of a sense of the timeline. And they
+bit of a sense of the timeline. And they
+might<00:15:03.839><c> not</c><00:15:04.000><c> give</c><00:15:04.160><c> you</c><00:15:04.320><c> what</c><00:15:04.560><c> you</c><00:15:04.720><c> want</c><00:15:04.800><c> to</c>
+might not give you what you want to
+might not give you what you want to
+hear,<00:15:05.279><c> right?</c><00:15:05.600><c> I</c><00:15:05.920><c> wrote</c><00:15:06.160><c> them</c><00:15:06.399><c> to</c><00:15:06.639><c> be</c><00:15:06.800><c> honest,</c>
+hear, right? I wrote them to be honest,
+hear, right? I wrote them to be honest,
+not<00:15:07.920><c> to</c><00:15:08.079><c> be</c><00:15:08.240><c> comforting,</c><00:15:08.800><c> because</c><00:15:09.040><c> I</c><00:15:09.279><c> think</c>
+not to be comforting, because I think
+not to be comforting, because I think
+that's<00:15:09.600><c> what</c><00:15:09.760><c> we</c><00:15:10.000><c> need</c><00:15:10.160><c> in</c><00:15:10.399><c> this</c><00:15:10.639><c> moment.</c><00:15:11.120><c> I</c>
+that's what we need in this moment. I
+that's what we need in this moment. I
+wrote<00:15:11.519><c> them</c><00:15:11.760><c> to</c><00:15:11.920><c> be</c><00:15:12.160><c> true</c><00:15:12.560><c> based</c><00:15:12.880><c> on</c><00:15:13.040><c> what</c><00:15:13.279><c> we</c>
+wrote them to be true based on what we
+wrote them to be true based on what we
+see<00:15:13.680><c> in</c><00:15:14.000><c> actual</c><00:15:14.480><c> 2025</c><00:15:15.199><c> hiring</c><00:15:15.680><c> requirements.</c>
+see in actual 2025 hiring requirements.
+see in actual 2025 hiring requirements.
+The<00:15:16.720><c> market</c><00:15:16.959><c> is</c><00:15:17.279><c> real.</c><00:15:17.680><c> Amazon</c><00:15:18.160><c> posted</c>
+The market is real. Amazon posted
+The market is real. Amazon posted
+hundreds<00:15:20.000><c> and</c><00:15:20.160><c> hundreds</c><00:15:20.480><c> of</c><00:15:20.639><c> AI</c><00:15:21.040><c> positions</c>
+hundreds and hundreds of AI positions
+hundreds and hundreds of AI positions
+just<00:15:22.560><c> in</c><00:15:22.880><c> the</c><00:15:23.120><c> first</c><00:15:23.279><c> few</c><00:15:23.519><c> quarters</c><00:15:23.760><c> of</c><00:15:24.000><c> 2025.</c>
+just in the first few quarters of 2025.
+just in the first few quarters of 2025.
+Apple<00:15:24.959><c> ditto,</c><00:15:25.360><c> Tik</c><00:15:25.519><c> Tok</c><00:15:25.839><c> ditto.</c><00:15:26.320><c> Everywhere</c>
+Apple ditto, Tik Tok ditto. Everywhere
+Apple ditto, Tik Tok ditto. Everywhere
+you<00:15:26.959><c> look,</c><00:15:27.360><c> the</c><00:15:27.600><c> AI</c><00:15:28.079><c> related</c><00:15:28.399><c> roles</c><00:15:28.720><c> are</c>
+you look, the AI related roles are
+you look, the AI related roles are
+exploding.<00:15:29.760><c> But</c><00:15:30.399><c> everyone's</c><00:15:30.959><c> talking</c><00:15:31.120><c> about</c>
+exploding. But everyone's talking about
+exploding. But everyone's talking about
+AI<00:15:31.920><c> like</c><00:15:32.160><c> a</c><00:15:32.399><c> singular</c><00:15:32.880><c> thing.</c><00:15:33.279><c> You</c><00:15:33.440><c> need</c><00:15:33.600><c> a</c>
+AI like a singular thing. You need a
+AI like a singular thing. You need a
+personalized<00:15:34.480><c> approach</c><00:15:34.800><c> that's</c><00:15:35.120><c> based</c><00:15:35.279><c> on</c>
+personalized approach that's based on
+personalized approach that's based on
+the<00:15:35.600><c> real</c><00:15:35.839><c> market</c><00:15:36.160><c> data</c><00:15:36.399><c> in</c><00:15:36.639><c> 2025.</c><00:15:37.600><c> Something</c>
+the real market data in 2025. Something
+the real market data in 2025. Something
+that<00:15:38.160><c> allows</c><00:15:38.560><c> you</c><00:15:39.279><c> to</c><00:15:39.519><c> start</c><00:15:39.760><c> to</c><00:15:39.920><c> be</c>
+that allows you to start to be
+that allows you to start to be
+predictive<00:15:41.040><c> rather</c><00:15:41.360><c> than</c><00:15:41.440><c> the</c><00:15:41.680><c> one</c><00:15:41.920><c> being</c>
+predictive rather than the one being
+predictive rather than the one being
+predicted.<00:15:42.880><c> You</c><00:15:43.040><c> know,</c><00:15:43.279><c> every</c><00:15:43.600><c> prompt</c><00:15:43.920><c> I</c>
+predicted. You know, every prompt I
+predicted. You know, every prompt I
+write<00:15:44.560><c> and</c><00:15:44.800><c> every</c><00:15:45.040><c> prompt</c><00:15:45.279><c> you</c><00:15:45.519><c> write</c><00:15:45.680><c> is</c>
+write and every prompt you write is
+write and every prompt you write is
+fundamentally<00:15:46.560><c> about</c><00:15:46.800><c> prediction.</c><00:15:47.600><c> Given</c>
+fundamentally about prediction. Given
+fundamentally about prediction. Given
+this<00:15:48.160><c> chain</c><00:15:48.399><c> of</c><00:15:48.560><c> information,</c><00:15:49.040><c> predict</c><00:15:49.360><c> the</c>
+this chain of information, predict the
+this chain of information, predict the
+next<00:15:49.759><c> good</c><00:15:50.000><c> thing.</c><00:15:50.399><c> That's</c><00:15:50.639><c> what</c><00:15:50.800><c> good</c><00:15:51.040><c> LLMs</c>
+next good thing. That's what good LLMs
+next good thing. That's what good LLMs
+do.<00:15:51.920><c> But</c><00:15:52.240><c> prompts</c><00:15:52.720><c> anticipate</c><00:15:53.199><c> what</c><00:15:53.440><c> the</c>
+do. But prompts anticipate what the
+do. But prompts anticipate what the
+model<00:15:53.839><c> needs</c><00:15:54.079><c> to</c><00:15:54.160><c> predict.</c><00:15:54.399><c> as</c><00:15:54.560><c> well.</c><00:15:54.720><c> They</c>
+model needs to predict. as well. They
+model needs to predict. as well. They
+structure<00:15:55.279><c> the</c><00:15:55.600><c> information</c><00:15:56.079><c> flow.</c><00:15:56.720><c> They</c>
+structure the information flow. They
+structure the information flow. They
+extract<00:15:57.279><c> signal.</c><00:15:57.759><c> They</c><00:15:57.920><c> account</c><00:15:58.160><c> for</c><00:15:58.320><c> what's</c>
+extract signal. They account for what's
+extract signal. They account for what's
+missing.<00:15:59.279><c> That's</c><00:15:59.440><c> what</c><00:15:59.600><c> these</c><00:15:59.920><c> career</c>
+missing. That's what these career
+missing. That's what these career
+assessments<00:16:00.800><c> do.</c><00:16:01.279><c> Given</c><00:16:01.680><c> this</c><00:16:01.920><c> person's</c>
+assessments do. Given this person's
+assessments do. Given this person's
+background,<00:16:02.880><c> predict</c><00:16:03.199><c> their</c><00:16:03.440><c> qualification</c>
+background, predict their qualification
+background, predict their qualification
+level.<00:16:04.480><c> Predict</c><00:16:04.800><c> their</c><00:16:05.040><c> optimal</c><00:16:05.519><c> path.</c><00:16:06.079><c> And</c><00:16:06.240><c> I</c>
+level. Predict their optimal path. And I
+level. Predict their optimal path. And I
+had<00:16:06.560><c> to</c><00:16:06.720><c> anticipate</c><00:16:07.279><c> what</c><00:16:07.680><c> information</c>
+had to anticipate what information
+had to anticipate what information
+mattered.<00:16:08.560><c> As</c><00:16:08.720><c> I</c><00:16:08.959><c> was</c><00:16:09.120><c> constructing</c><00:16:09.519><c> the</c>
+mattered. As I was constructing the
+mattered. As I was constructing the
+prompt,<00:16:10.160><c> the</c><00:16:10.320><c> prompt</c><00:16:10.639><c> acted</c><00:16:10.959><c> as</c><00:16:11.120><c> a</c><00:16:11.360><c> bridge</c><00:16:11.680><c> to</c>
+prompt, the prompt acted as a bridge to
+prompt, the prompt acted as a bridge to
+help<00:16:12.160><c> you</c><00:16:12.720><c> put</c><00:16:12.880><c> your</c><00:16:13.120><c> intent</c><00:16:13.519><c> together</c><00:16:14.240><c> and</c>
+help you put your intent together and
+help you put your intent together and
+predict<00:16:14.959><c> across</c><00:16:15.279><c> the</c><00:16:15.519><c> future</c><00:16:15.759><c> where</c><00:16:16.079><c> you</c>
+predict across the future where you
+predict across the future where you
+should<00:16:16.399><c> go</c><00:16:16.560><c> from</c><00:16:16.800><c> a</c><00:16:16.959><c> role</c><00:16:17.279><c> perspective.</c><00:16:17.920><c> I</c><00:16:18.160><c> had</c>
+should go from a role perspective. I had
+should go from a role perspective. I had
+to<00:16:18.399><c> account</c><00:16:18.639><c> for</c><00:16:18.800><c> what</c><00:16:18.959><c> PE</c><00:16:19.279><c> people</c><00:16:19.600><c> typically</c>
+to account for what PE people typically
+to account for what PE people typically
+miss,<00:16:20.320><c> the</c><00:16:20.560><c> transferable</c><00:16:21.120><c> skills,</c><00:16:21.440><c> the</c>
+miss, the transferable skills, the
+miss, the transferable skills, the
+market<00:16:21.839><c> timing,</c><00:16:22.240><c> the</c><00:16:22.399><c> entry-level</c>
+market timing, the entry-level
+market timing, the entry-level
+displacement,<00:16:23.759><c> and</c><00:16:23.920><c> I</c><00:16:24.079><c> had</c><00:16:24.240><c> to</c><00:16:24.320><c> package</c><00:16:24.639><c> all</c>
+displacement, and I had to package all
+displacement, and I had to package all
+of<00:16:24.880><c> that</c><00:16:25.040><c> into</c><00:16:25.279><c> a</c><00:16:25.440><c> prompt</c><00:16:26.160><c> so</c><00:16:26.399><c> that</c><00:16:26.560><c> the</c><00:16:26.880><c> LLM</c>
+of that into a prompt so that the LLM
+of that into a prompt so that the LLM
+could<00:16:28.000><c> predict</c><00:16:28.720><c> the</c><00:16:29.040><c> future</c><00:16:29.360><c> in</c><00:16:29.519><c> a</c><00:16:29.680><c> way</c><00:16:29.839><c> that</c>
+could predict the future in a way that
+could predict the future in a way that
+was<00:16:30.160><c> useful</c><00:16:30.480><c> for</c><00:16:30.720><c> you.</c><00:16:31.279><c> Building</c><00:16:31.600><c> good</c>
+was useful for you. Building good
+was useful for you. Building good
+prompts<00:16:32.480><c> is</c><00:16:32.880><c> really</c><00:16:33.360><c> about</c><00:16:33.759><c> understanding</c>
+prompts is really about understanding
+prompts is really about understanding
+what<00:16:35.120><c> you</c><00:16:35.360><c> are</c><00:16:35.519><c> trying</c><00:16:35.680><c> to</c><00:16:35.839><c> predict,</c><00:16:36.639><c> working</c>
+what you are trying to predict, working
+what you are trying to predict, working
+backwards<00:16:37.839><c> to</c><00:16:38.160><c> figure</c><00:16:38.480><c> out</c><00:16:38.639><c> what</c><00:16:38.959><c> information</c>
+backwards to figure out what information
+backwards to figure out what information
+you<00:16:39.600><c> need</c><00:16:39.759><c> to</c><00:16:39.920><c> predict</c><00:16:40.240><c> it</c><00:16:40.480><c> accurately,</c><00:16:41.279><c> and</c>
+you need to predict it accurately, and
+you need to predict it accurately, and
+then<00:16:41.680><c> building</c><00:16:41.920><c> that</c><00:16:42.160><c> bridge.</c><00:16:42.880><c> That</c><00:16:43.120><c> is</c><00:16:43.279><c> the</c>
+then building that bridge. That is the
+then building that bridge. That is the
+craft<00:16:43.839><c> of</c><00:16:44.160><c> prompting,</c><00:16:44.800><c> and</c><00:16:45.040><c> I</c><00:16:45.199><c> wish</c><00:16:45.440><c> more</c>
+craft of prompting, and I wish more
+craft of prompting, and I wish more
+people<00:16:46.000><c> understood</c><00:16:46.399><c> it.</c><00:16:46.800><c> But</c><00:16:47.199><c> TLDDR,</c><00:16:48.079><c> I</c><00:16:48.320><c> built</c>
+people understood it. But TLDDR, I built
+people understood it. But TLDDR, I built
+17<00:16:49.199><c> different</c><00:16:49.519><c> role</c><00:16:49.839><c> prediction</c><00:16:50.240><c> prompts</c><00:16:50.800><c> so</c>
+17 different role prediction prompts so
+17 different role prediction prompts so
+that<00:16:51.199><c> you</c><00:16:51.360><c> aren't</c><00:16:51.600><c> asking</c><00:16:52.000><c> about</c><00:16:52.240><c> AI</c><00:16:52.560><c> as</c><00:16:52.720><c> a</c>
+that you aren't asking about AI as a
+that you aren't asking about AI as a
+whole.<00:16:53.279><c> You're</c><00:16:53.519><c> asking</c><00:16:53.759><c> about</c><00:16:54.000><c> specific</c>
+whole. You're asking about specific
+whole. You're asking about specific
+roles.<00:16:55.120><c> So</c><00:16:55.279><c> if</c><00:16:55.440><c> you</c><00:16:55.600><c> want</c><00:16:55.680><c> to</c><00:16:55.759><c> learn</c><00:16:55.920><c> more,</c><00:16:56.240><c> you</c>
+roles. So if you want to learn more, you
+roles. So if you want to learn more, you
+can<00:16:56.560><c> head</c><00:16:56.720><c> over</c><00:16:56.800><c> to</c><00:16:56.959><c> the</c><00:16:57.040><c> Substack.</c><00:16:57.519><c> I</c><00:16:57.680><c> have</c>
+can head over to the Substack. I have
+can head over to the Substack. I have
+all<00:16:57.839><c> the</c><00:16:58.000><c> prompts</c><00:16:58.320><c> there.</c><00:16:58.800><c> If</c><00:16:58.959><c> you</c><00:16:59.120><c> wanted</c><00:16:59.279><c> to</c>
+all the prompts there. If you wanted to
+all the prompts there. If you wanted to
+just<00:16:59.600><c> dig</c><00:16:59.759><c> into</c><00:17:00.000><c> that</c><00:17:00.240><c> prompt</c><00:17:00.480><c> and</c><00:17:00.720><c> dig</c><00:17:00.880><c> into</c>
+just dig into that prompt and dig into
+just dig into that prompt and dig into
+how<00:17:01.279><c> I</c><00:17:01.519><c> think</c><00:17:01.600><c> about</c><00:17:01.839><c> prediction</c><00:17:02.240><c> and</c><00:17:02.480><c> how</c><00:17:02.560><c> I</c>
+how I think about prediction and how I
+how I think about prediction and how I
+think<00:17:02.880><c> about</c><00:17:03.040><c> getting</c><00:17:03.279><c> into</c><00:17:03.440><c> the</c><00:17:03.600><c> job</c><00:17:03.839><c> market,</c>
+think about getting into the job market,
+think about getting into the job market,
+I<00:17:04.559><c> hope</c><00:17:04.640><c> this</c><00:17:04.880><c> video</c><00:17:05.120><c> has</c><00:17:05.360><c> been</c><00:17:05.600><c> helpful</c><00:17:06.400><c> as</c>

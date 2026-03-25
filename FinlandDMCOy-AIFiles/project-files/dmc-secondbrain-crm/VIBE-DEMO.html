@@ -1,0 +1,1262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Finland DMC — Client Pipeline</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --blue: #003580;
+    --blue-light: #e8eef8;
+    --blue-mid: #0050b3;
+    --green: #0a7c3e;
+    --green-light: #e6f4ec;
+    --amber: #b45309;
+    --amber-light: #fef3c7;
+    --red: #c0392b;
+    --red-light: #fde8e6;
+    --closed-bg: #f0f7f0;
+    --border: #e2e6ea;
+    --text: #1a2332;
+    --text-muted: #6b7a8d;
+    --shadow-card: 0 1px 3px rgba(0,0,0,0.10), 0 1px 2px rgba(0,0,0,0.06);
+    --shadow-hover: 0 4px 12px rgba(0,0,0,0.12);
+    --shadow-modal: 0 20px 60px rgba(0,0,0,0.18);
+    --radius: 8px;
+    --transition: 0.15s ease;
+  }
+
+  body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: #f4f6f9;
+    color: var(--text);
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* ─── HEADER ─── */
+  .header {
+    background: var(--blue);
+    color: white;
+    padding: 0 24px;
+    height: 56px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  }
+  .header-left { display: flex; align-items: center; gap: 16px; }
+  .header-logo {
+    width: 32px; height: 32px;
+    background: white;
+    border-radius: 6px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 16px; font-weight: 700; color: var(--blue);
+    letter-spacing: -0.5px;
+  }
+  .header-title { font-size: 15px; font-weight: 600; letter-spacing: 0.01em; }
+  .header-subtitle { font-size: 12px; opacity: 0.7; margin-top: 1px; }
+  .header-right { display: flex; align-items: center; gap: 12px; }
+  .header-user {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 13px; opacity: 0.85;
+  }
+  .avatar {
+    width: 28px; height: 28px; border-radius: 50%;
+    background: rgba(255,255,255,0.25);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 11px; font-weight: 600; color: white;
+  }
+  .total-badge {
+    background: rgba(255,255,255,0.15);
+    border: 1px solid rgba(255,255,255,0.25);
+    border-radius: 20px;
+    padding: 4px 12px;
+    font-size: 12px;
+    font-weight: 500;
+  }
+
+  /* ─── TOOLBAR ─── */
+  .toolbar {
+    background: white;
+    border-bottom: 1px solid var(--border);
+    padding: 10px 24px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .toolbar-label { font-size: 12px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; }
+  .filter-btn {
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 5px 12px;
+    font-size: 13px;
+    color: var(--text);
+    cursor: pointer;
+    transition: all var(--transition);
+    display: flex; align-items: center; gap: 5px;
+  }
+  .filter-btn:hover { border-color: var(--blue); color: var(--blue); background: var(--blue-light); }
+  .filter-btn.active { background: var(--blue-light); border-color: var(--blue); color: var(--blue); font-weight: 500; }
+  .filter-btn .arrow { font-size: 10px; opacity: 0.6; }
+  .spacer { flex: 1; }
+  .search-box {
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 5px 12px;
+    font-size: 13px;
+    color: var(--text);
+    width: 200px;
+    transition: all var(--transition);
+    font-family: inherit;
+  }
+  .search-box:focus { outline: none; border-color: var(--blue); box-shadow: 0 0 0 3px rgba(0,53,128,0.1); }
+  .search-box::placeholder { color: var(--text-muted); }
+
+  /* ─── BOARD ─── */
+  .board-wrap {
+    padding: 20px 24px 40px;
+    overflow-x: auto;
+    min-height: calc(100vh - 110px);
+  }
+  .board {
+    display: flex;
+    gap: 16px;
+    min-width: max-content;
+    align-items: flex-start;
+  }
+
+  /* ─── COLUMN ─── */
+  .column {
+    width: 280px;
+    min-width: 280px;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+  .col-header {
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: var(--radius) var(--radius) 0 0;
+    padding: 12px 14px 10px;
+    border-bottom: 3px solid transparent;
+  }
+  .col-header.inquiry  { border-bottom-color: #94a3b8; }
+  .col-header.qualified { border-bottom-color: var(--amber); }
+  .col-header.proposal  { border-bottom-color: var(--blue); }
+  .col-header.confirmed { border-bottom-color: var(--green); }
+  .col-header.closed    { border-bottom-color: #059669; }
+
+  .col-title-row { display: flex; align-items: center; justify-content: space-between; margin-bottom: 6px; }
+  .col-name { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-muted); }
+  .col-count {
+    background: #e8eaf0;
+    color: var(--text-muted);
+    border-radius: 10px;
+    padding: 2px 8px;
+    font-size: 11px;
+    font-weight: 600;
+  }
+  .col-value { font-size: 15px; font-weight: 700; color: var(--text); letter-spacing: -0.02em; }
+  .col-value-label { font-size: 11px; color: var(--text-muted); margin-top: 1px; }
+
+  .col-body {
+    background: #eef0f5;
+    border: 1px solid var(--border);
+    border-top: none;
+    border-radius: 0 0 var(--radius) var(--radius);
+    padding: 8px;
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    transition: background var(--transition);
+  }
+  .col-body.drag-over { background: #dde3ef; }
+
+  /* ─── DEAL CARD ─── */
+  .card {
+    background: white;
+    border-radius: 7px;
+    box-shadow: var(--shadow-card);
+    padding: 12px 12px 10px;
+    cursor: pointer;
+    transition: box-shadow var(--transition), transform var(--transition);
+    position: relative;
+    border-left: 3px solid transparent;
+    user-select: none;
+  }
+  .card:hover { box-shadow: var(--shadow-hover); transform: translateY(-1px); }
+  .card.dragging { opacity: 0.55; transform: rotate(1.5deg) scale(0.97); box-shadow: var(--shadow-hover); }
+
+  .card.health-green  { border-left-color: #22c55e; }
+  .card.health-amber  { border-left-color: #f59e0b; }
+  .card.health-red    { border-left-color: #ef4444; }
+  .card.health-blue   { border-left-color: var(--blue); }
+  .card.health-closed { border-left-color: #059669; background: var(--closed-bg); }
+
+  .card-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 6px; margin-bottom: 5px; }
+  .card-company { font-size: 13px; font-weight: 600; color: var(--text); line-height: 1.3; flex: 1; }
+  .card-badges { display: flex; gap: 4px; flex-shrink: 0; flex-wrap: wrap; justify-content: flex-end; }
+
+  .badge {
+    font-size: 10px; font-weight: 600; border-radius: 4px;
+    padding: 2px 5px; letter-spacing: 0.02em; white-space: nowrap;
+  }
+  .badge-fit   { background: #dbeafe; color: #1e40af; }
+  .badge-group { background: #ede9fe; color: #5b21b6; }
+  .badge-ai {
+    background: #f0fdf4; color: #15803d;
+    border: 1px solid #bbf7d0;
+    cursor: default;
+    position: relative;
+  }
+  .badge-ai .tooltip {
+    display: none;
+    position: absolute;
+    bottom: calc(100% + 6px);
+    right: 0;
+    background: #1a2332;
+    color: white;
+    font-size: 11px;
+    font-weight: 400;
+    padding: 5px 9px;
+    border-radius: 5px;
+    white-space: nowrap;
+    z-index: 50;
+    pointer-events: none;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  }
+  .badge-ai .tooltip::after {
+    content: '';
+    position: absolute;
+    top: 100%; right: 8px;
+    border: 4px solid transparent;
+    border-top-color: #1a2332;
+  }
+  .badge-ai:hover .tooltip { display: block; }
+  .badge-hot  { background: #fff1f2; color: #be123c; border: 1px solid #fecdd3; }
+  .badge-stale { background: #fef9c3; color: #713f12; }
+
+  .card-value { font-size: 15px; font-weight: 700; color: var(--text); letter-spacing: -0.02em; margin-bottom: 3px; }
+
+  .card-meta { display: flex; gap: 10px; margin-bottom: 6px; }
+  .card-meta-item { font-size: 11px; color: var(--text-muted); display: flex; align-items: center; gap: 3px; }
+  .dot { width: 6px; height: 6px; border-radius: 50%; display: inline-block; flex-shrink: 0; }
+  .dot-green  { background: #22c55e; }
+  .dot-amber  { background: #f59e0b; }
+  .dot-red    { background: #ef4444; }
+
+  .card-footer { display: flex; align-items: center; justify-content: space-between; }
+  .card-owner { font-size: 11px; color: var(--text-muted); }
+  .owner-chip {
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 22px; height: 22px; border-radius: 50%;
+    background: var(--blue-light); color: var(--blue);
+    font-size: 10px; font-weight: 700;
+  }
+  .card-days { font-size: 11px; color: var(--text-muted); }
+
+  /* ─── MODAL OVERLAY ─── */
+  .modal-overlay {
+    display: none;
+    position: fixed; inset: 0; z-index: 200;
+    background: rgba(0,0,0,0.4);
+    align-items: flex-start;
+    justify-content: flex-end;
+    backdrop-filter: blur(2px);
+  }
+  .modal-overlay.open { display: flex; }
+
+  .modal {
+    background: white;
+    width: 420px;
+    max-width: 100vw;
+    height: 100vh;
+    overflow-y: auto;
+    box-shadow: var(--shadow-modal);
+    display: flex;
+    flex-direction: column;
+    animation: slideIn 0.2s ease;
+  }
+  @keyframes slideIn {
+    from { transform: translateX(40px); opacity: 0; }
+    to   { transform: translateX(0);   opacity: 1; }
+  }
+
+  .modal-header {
+    padding: 20px 20px 16px;
+    border-bottom: 1px solid var(--border);
+    position: sticky; top: 0; background: white; z-index: 10;
+  }
+  .modal-close {
+    float: right; background: none; border: none;
+    font-size: 20px; cursor: pointer; color: var(--text-muted);
+    padding: 0 4px; line-height: 1;
+    transition: color var(--transition);
+  }
+  .modal-close:hover { color: var(--text); }
+  .modal-company { font-size: 17px; font-weight: 700; margin-bottom: 3px; }
+  .modal-contact { font-size: 13px; color: var(--text-muted); }
+
+  .modal-body { padding: 20px; flex: 1; display: flex; flex-direction: column; gap: 20px; }
+
+  .modal-section-label {
+    font-size: 11px; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.07em; color: var(--text-muted); margin-bottom: 6px;
+  }
+  .email-snippet {
+    background: #f8f9fb;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 12px;
+    font-size: 13px;
+    line-height: 1.55;
+    color: #374151;
+  }
+  .email-sender { font-weight: 600; color: var(--text); font-size: 12px; margin-bottom: 4px; }
+
+  .tour-grid {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 10px;
+  }
+  .tour-item { background: #f8f9fb; border-radius: 6px; padding: 10px 12px; }
+  .tour-item-label { font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-muted); margin-bottom: 3px; }
+  .tour-item-value { font-size: 13px; font-weight: 600; color: var(--text); }
+
+  .notes-text {
+    font-size: 13px; color: #374151; line-height: 1.55;
+    padding: 10px 12px;
+    background: var(--amber-light);
+    border-radius: 6px;
+    border-left: 3px solid #f59e0b;
+  }
+
+  .btn {
+    border-radius: 7px; font-size: 13px; font-weight: 600;
+    padding: 9px 16px; cursor: pointer; border: none;
+    transition: all var(--transition); font-family: inherit;
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .btn-primary { background: var(--blue); color: white; }
+  .btn-primary:hover { background: var(--blue-mid); }
+  .btn-disabled {
+    background: #e5e7eb; color: #9ca3af;
+    cursor: not-allowed;
+    position: relative;
+  }
+  .btn-disabled .tooltip {
+    display: none;
+    position: absolute;
+    bottom: calc(100% + 6px); left: 50%;
+    transform: translateX(-50%);
+    background: #1a2332; color: white;
+    font-size: 11px; font-weight: 400;
+    padding: 5px 9px; border-radius: 5px;
+    white-space: nowrap; z-index: 50;
+    pointer-events: none;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  }
+  .btn-disabled .tooltip::after {
+    content: '';
+    position: absolute;
+    top: 100%; left: 50%;
+    transform: translateX(-50%);
+    border: 4px solid transparent;
+    border-top-color: #1a2332;
+  }
+  .btn-disabled:hover .tooltip { display: block; }
+  .btn-ghost { background: white; color: var(--text); border: 1px solid var(--border); }
+  .btn-ghost:hover { background: #f8f9fb; border-color: #c5ccd5; }
+  .btn-success { background: var(--green); color: white; }
+  .btn-success:hover { background: #0a6832; }
+
+  .btn-row { display: flex; gap: 8px; flex-wrap: wrap; }
+
+  .reviewed-indicator {
+    display: inline-flex; align-items: center; gap: 6px;
+    font-size: 12px; font-weight: 600;
+    padding: 5px 10px; border-radius: 20px;
+  }
+  .reviewed-indicator.pending { background: var(--amber-light); color: var(--amber); }
+  .reviewed-indicator.done    { background: var(--green-light); color: var(--green); }
+  .reviewed-dot {
+    width: 8px; height: 8px; border-radius: 50%;
+    transition: background var(--transition);
+  }
+  .reviewed-indicator.pending .reviewed-dot { background: var(--amber); }
+  .reviewed-indicator.done    .reviewed-dot { background: var(--green); }
+
+  /* ─── FOOTER ─── */
+  .footer {
+    text-align: center;
+    padding: 16px;
+    font-size: 12px;
+    color: var(--text-muted);
+    background: white;
+    border-top: 1px solid var(--border);
+    margin-top: auto;
+  }
+
+  /* ─── DRAG PLACEHOLDER ─── */
+  .drag-placeholder {
+    height: 80px;
+    border: 2px dashed #c5ccd5;
+    border-radius: 7px;
+    background: rgba(0,53,128,0.03);
+    pointer-events: none;
+  }
+
+  /* ─── MOBILE ─── */
+  @media (max-width: 768px) {
+    .board { flex-direction: column; min-width: unset; }
+    .column { width: 100%; min-width: unset; }
+    .modal { width: 100%; height: 90vh; border-radius: 16px 16px 0 0; align-self: flex-end; }
+    .modal-overlay { align-items: flex-end; }
+    .toolbar { gap: 8px; }
+    .search-box { width: 100%; }
+    .header-subtitle { display: none; }
+    .total-badge { display: none; }
+    .board-wrap { padding: 12px 12px 40px; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ─── HEADER ─── -->
+<header class="header">
+  <div class="header-left">
+    <div class="header-logo">FD</div>
+    <div>
+      <div class="header-title">Finland DMC — Client Pipeline</div>
+      <div class="header-subtitle">393 proposals/year · 6 staff · Helsinki</div>
+    </div>
+  </div>
+  <div class="header-right">
+    <div class="total-badge">Total pipeline: €1,247,500</div>
+    <div class="header-user">
+      <div class="avatar">LV</div>
+      Liisa
+    </div>
+  </div>
+</header>
+
+<!-- ─── TOOLBAR ─── -->
+<div class="toolbar">
+  <span class="toolbar-label">Filter</span>
+  <button class="filter-btn active">All Staff <span class="arrow">▾</span></button>
+  <button class="filter-btn">All Seasons <span class="arrow">▾</span></button>
+  <button class="filter-btn">All Types <span class="arrow">▾</span></button>
+  <button class="filter-btn">Client Tier <span class="arrow">▾</span></button>
+  <div class="spacer"></div>
+  <input class="search-box" type="text" placeholder="Search companies…">
+</div>
+
+<!-- ─── BOARD ─── -->
+<div class="board-wrap">
+<div class="board" id="board">
+
+  <!-- INQUIRY -->
+  <div class="column" data-col="inquiry">
+    <div class="col-header inquiry">
+      <div class="col-title-row">
+        <span class="col-name">Inquiry</span>
+        <span class="col-count">3</span>
+      </div>
+      <div class="col-value">€172,500</div>
+      <div class="col-value-label">pipeline value</div>
+    </div>
+    <div class="col-body" id="col-inquiry">
+
+      <div class="card health-red"
+           draggable="true"
+           data-id="1"
+           onclick="openModal(1)">
+        <div class="card-top">
+          <div class="card-company">AHI Travel Group</div>
+          <div class="card-badges">
+            <span class="badge badge-group">G</span>
+            <span class="badge badge-ai">✦ Auto<span class="tooltip">Auto-discovered from email</span></span>
+          </div>
+        </div>
+        <div class="card-value">€89,000</div>
+        <div class="card-meta">
+          <span class="card-meta-item"><span class="dot dot-red"></span> 16 days</span>
+          <span class="card-meta-item">48 pax</span>
+          <span class="card-meta-item">Lapland Winter</span>
+        </div>
+        <div class="card-footer">
+          <span class="owner-chip">LV</span>
+          <span class="card-days">In stage 16d · Needs follow-up</span>
+        </div>
+      </div>
+
+      <div class="card health-amber"
+           draggable="true"
+           data-id="2"
+           onclick="openModal(2)">
+        <div class="card-top">
+          <div class="card-company">Scandinavian Voyage Tours</div>
+          <div class="card-badges">
+            <span class="badge badge-fit">FIT</span>
+            <span class="badge badge-ai">✦ Auto<span class="tooltip">Auto-discovered from email</span></span>
+          </div>
+        </div>
+        <div class="card-value">€54,500</div>
+        <div class="card-meta">
+          <span class="card-meta-item"><span class="dot dot-amber"></span> 9 days</span>
+          <span class="card-meta-item">8 pax</span>
+          <span class="card-meta-item">Helsinki + Lakeland</span>
+        </div>
+        <div class="card-footer">
+          <span class="owner-chip">RV</span>
+          <span class="card-days">In stage 9d</span>
+        </div>
+      </div>
+
+      <div class="card health-green"
+           draggable="true"
+           data-id="3"
+           onclick="openModal(3)">
+        <div class="card-top">
+          <div class="card-company">Nordic Experience DMC</div>
+          <div class="card-badges">
+            <span class="badge badge-group">G</span>
+          </div>
+        </div>
+        <div class="card-value">€29,000</div>
+        <div class="card-meta">
+          <span class="card-meta-item"><span class="dot dot-green"></span> 2 days</span>
+          <span class="card-meta-item">22 pax</span>
+          <span class="card-meta-item">Archipelago</span>
+        </div>
+        <div class="card-footer">
+          <span class="owner-chip">SH</span>
+          <span class="card-days">In stage 2d · New</span>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- QUALIFIED -->
+  <div class="column" data-col="qualified">
+    <div class="col-header qualified">
+      <div class="col-title-row">
+        <span class="col-name">Qualified</span>
+        <span class="col-count">3</span>
+      </div>
+      <div class="col-value">€198,500</div>
+      <div class="col-value-label">pipeline value</div>
+    </div>
+    <div class="col-body" id="col-qualified">
+
+      <div class="card health-green"
+           draggable="true"
+           data-id="4"
+           onclick="openModal(4)">
+        <div class="card-top">
+          <div class="card-company">Arctic Explorer Group</div>
+          <div class="card-badges">
+            <span class="badge badge-group">G</span>
+            <span class="badge badge-hot">🔥 Hot</span>
+          </div>
+        </div>
+        <div class="card-value">€112,000</div>
+        <div class="card-meta">
+          <span class="card-meta-item"><span class="dot dot-green"></span> 5 days</span>
+          <span class="card-meta-item">64 pax</span>
+          <span class="card-meta-item">Lapland + Rovaniemi</span>
+        </div>
+        <div class="card-footer">
+          <span class="owner-chip">LV</span>
+          <span class="card-days">In stage 5d · High intent</span>
+        </div>
+      </div>
+
+      <div class="card health-amber"
+           draggable="true"
+           data-id="5"
+           onclick="openModal(5)">
+        <div class="card-top">
+          <div class="card-company">Baltic Heritage Tours</div>
+          <div class="card-badges">
+            <span class="badge badge-fit">FIT</span>
+            <span class="badge badge-ai">✦ Auto<span class="tooltip">Auto-discovered from email</span></span>
+          </div>
+        </div>
+        <div class="card-value">€57,500</div>
+        <div class="card-meta">
+          <span class="card-meta-item"><span class="dot dot-amber"></span> 11 days</span>
+          <span class="card-meta-item">12 pax</span>
+          <span class="card-meta-item">Saimaa Lakeland</span>
+        </div>
+        <div class="card-footer">
+          <span class="owner-chip">LI</span>
+          <span class="card-days">In stage 11d</span>
+        </div>
+      </div>
+
+      <div class="card health-green"
+           draggable="true"
+           data-id="6"
+           onclick="openModal(6)">
+        <div class="card-top">
+          <div class="card-company">Northern Lights Expeditions</div>
+          <div class="card-badges">
+            <span class="badge badge-group">G</span>
+          </div>
+        </div>
+        <div class="card-value">€29,000</div>
+        <div class="card-meta">
+          <span class="card-meta-item"><span class="dot dot-green"></span> 4 days</span>
+          <span class="card-meta-item">18 pax</span>
+          <span class="card-meta-item">Inari + Saariselka</span>
+        </div>
+        <div class="card-footer">
+          <span class="owner-chip">PL</span>
+          <span class="card-days">In stage 4d</span>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- PROPOSAL SENT -->
+  <div class="column" data-col="proposal">
+    <div class="col-header proposal">
+      <div class="col-title-row">
+        <span class="col-name">Proposal Sent</span>
+        <span class="col-count">4</span>
+      </div>
+      <div class="col-value">€439,500</div>
+      <div class="col-value-label">pipeline value</div>
+    </div>
+    <div class="col-body" id="col-proposal">
+
+      <div class="card health-amber"
+           draggable="true"
+           data-id="7"
+           onclick="openModal(7)">
+        <div class="card-top">
+          <div class="card-company">Midnight Sun Adventures</div>
+          <div class="card-badges">
+            <span class="badge badge-group">G</span>
+            <span class="badge badge-hot">🔥 Hot</span>
+          </div>
+        </div>
+        <div class="card-value">€178,000</div>
+        <div class="card-meta">
+          <span class="card-meta-item"><span class="dot dot-amber"></span> 8 days</span>
+          <span class="card-meta-item">96 pax</span>
+          <span class="card-meta-item">Multi-region</span>
+        </div>
+        <div class="card-footer">
+          <span class="owner-chip">RV</span>
+          <span class="card-days">Opened 4× · High intent</span>
+        </div>
+      </div>
+
+      <div class="card health-red"
+           draggable="true"
+           data-id="8"
+           onclick="openModal(8)">
+        <div class="card-top">
+          <div class="card-company">Finnish Forest Retreats</div>
+          <div class="card-badges">
+            <span class="badge badge-fit">FIT</span>
+            <span class="badge badge-stale">Stale</span>
+          </div>
+        </div>
+        <div class="card-value">€94,000</div>
+        <div class="card-meta">
+          <span class="card-meta-item"><span class="dot dot-red"></span> 17 days</span>
+          <span class="card-meta-item">6 pax</span>
+          <span class="card-meta-item">Lakeland Premium</span>
+        </div>
+        <div class="card-footer">
+          <span class="owner-chip">JK</span>
+          <span class="card-days">17d — follow up urgent</span>
+        </div>
+      </div>
+
+      <div class="card health-green"
+           draggable="true"
+           data-id="9"
+           onclick="openModal(9)">
+        <div class="card-top">
+          <div class="card-company">Helsinki City Breaks</div>
+          <div class="card-badges">
+            <span class="badge badge-group">G</span>
+          </div>
+        </div>
+        <div class="card-value">€108,500</div>
+        <div class="card-meta">
+          <span class="card-meta-item"><span class="dot dot-green"></span> 3 days</span>
+          <span class="card-meta-item">52 pax</span>
+          <span class="card-meta-item">Helsinki Capital</span>
+        </div>
+        <div class="card-footer">
+          <span class="owner-chip">LV</span>
+          <span class="card-days">Sent 3d ago</span>
+        </div>
+      </div>
+
+      <div class="card health-amber"
+           draggable="true"
+           data-id="10"
+           onclick="openModal(10)">
+        <div class="card-top">
+          <div class="card-company">Saimaa Lake Escapes</div>
+          <div class="card-badges">
+            <span class="badge badge-fit">FIT</span>
+            <span class="badge badge-ai">✦ Auto<span class="tooltip">Auto-discovered from email</span></span>
+          </div>
+        </div>
+        <div class="card-value">€59,000</div>
+        <div class="card-meta">
+          <span class="card-meta-item"><span class="dot dot-amber"></span> 10 days</span>
+          <span class="card-meta-item">14 pax</span>
+          <span class="card-meta-item">Saimaa + Savonlinna</span>
+        </div>
+        <div class="card-footer">
+          <span class="owner-chip">LI</span>
+          <span class="card-days">Opened 2× · 10d</span>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- CONFIRMED -->
+  <div class="column" data-col="confirmed">
+    <div class="col-header confirmed">
+      <div class="col-title-row">
+        <span class="col-name">Confirmed</span>
+        <span class="col-count">3</span>
+      </div>
+      <div class="col-value">€341,000</div>
+      <div class="col-value-label">pipeline value</div>
+    </div>
+    <div class="col-body" id="col-confirmed">
+
+      <div class="card health-blue"
+           draggable="true"
+           data-id="11"
+           onclick="openModal(11)">
+        <div class="card-top">
+          <div class="card-company">Lapland Wildlife Tours</div>
+          <div class="card-badges">
+            <span class="badge badge-group">G</span>
+          </div>
+        </div>
+        <div class="card-value">€168,000</div>
+        <div class="card-meta">
+          <span class="card-meta-item">80 pax</span>
+          <span class="card-meta-item">Wilderness Circuit</span>
+          <span class="card-meta-item">Feb 2026</span>
+        </div>
+        <div class="card-footer">
+          <span class="owner-chip">LV</span>
+          <span class="card-days">Departs in 18d</span>
+        </div>
+      </div>
+
+      <div class="card health-blue"
+           draggable="true"
+           data-id="12"
+           onclick="openModal(12)">
+        <div class="card-top">
+          <div class="card-company">Finnish Archipelago Cruises</div>
+          <div class="card-badges">
+            <span class="badge badge-fit">FIT</span>
+          </div>
+        </div>
+        <div class="card-value">€118,000</div>
+        <div class="card-meta">
+          <span class="card-meta-item">28 pax</span>
+          <span class="card-meta-item">Archipelago Sea</span>
+          <span class="card-meta-item">May 2026</span>
+        </div>
+        <div class="card-footer">
+          <span class="owner-chip">PL</span>
+          <span class="card-days">Departs in 79d</span>
+        </div>
+      </div>
+
+      <div class="card health-blue"
+           draggable="true"
+           data-id="13"
+           onclick="openModal(13)">
+        <div class="card-top">
+          <div class="card-company">AHI Travel Group</div>
+          <div class="card-badges">
+            <span class="badge badge-group">G</span>
+          </div>
+        </div>
+        <div class="card-value">€55,000</div>
+        <div class="card-meta">
+          <span class="card-meta-item">24 pax</span>
+          <span class="card-meta-item">Helsinki Summer</span>
+          <span class="card-meta-item">Jun 2026</span>
+        </div>
+        <div class="card-footer">
+          <span class="owner-chip">RV</span>
+          <span class="card-days">Departs in 105d</span>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- CLOSED -->
+  <div class="column" data-col="closed">
+    <div class="col-header closed">
+      <div class="col-title-row">
+        <span class="col-name">Closed</span>
+        <span class="col-count">2</span>
+      </div>
+      <div class="col-value">€96,000</div>
+      <div class="col-value-label">won this quarter</div>
+    </div>
+    <div class="col-body" id="col-closed">
+
+      <div class="card health-closed"
+           draggable="true"
+           data-id="14"
+           onclick="openModal(14)">
+        <div class="card-top">
+          <div class="card-company">Arctic Explorer Group</div>
+          <div class="card-badges">
+            <span class="badge badge-group">G</span>
+          </div>
+        </div>
+        <div class="card-value">€58,000</div>
+        <div class="card-meta">
+          <span class="card-meta-item">32 pax</span>
+          <span class="card-meta-item">Lapland Classic</span>
+          <span class="card-meta-item">Jan 2026</span>
+        </div>
+        <div class="card-footer">
+          <span class="owner-chip">LV</span>
+          <span class="card-days">Completed · Invoiced</span>
+        </div>
+      </div>
+
+      <div class="card health-closed"
+           draggable="true"
+           data-id="15"
+           onclick="openModal(15)">
+        <div class="card-top">
+          <div class="card-company">Midnight Sun Adventures</div>
+          <div class="card-badges">
+            <span class="badge badge-group">G</span>
+          </div>
+        </div>
+        <div class="card-value">€38,000</div>
+        <div class="card-meta">
+          <span class="card-meta-item">44 pax</span>
+          <span class="card-meta-item">Helsinki Winter</span>
+          <span class="card-meta-item">Dec 2025</span>
+        </div>
+        <div class="card-footer">
+          <span class="owner-chip">JK</span>
+          <span class="card-days">Completed · Invoiced</span>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</div><!-- /board -->
+</div><!-- /board-wrap -->
+
+<!-- ─── FOOTER ─── -->
+<div class="footer">
+  Your pipeline, powered by your own data
+</div>
+
+<!-- ─── MODAL ─── -->
+<div class="modal-overlay" id="modalOverlay" onclick="closeModalOnBg(event)">
+  <div class="modal" id="modal">
+    <div class="modal-header">
+      <button class="modal-close" onclick="closeModal()">✕</button>
+      <div class="modal-company" id="modal-company"></div>
+      <div class="modal-contact" id="modal-contact"></div>
+    </div>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div>
+
+<script>
+// ─── DATA ───────────────────────────────────────────────────────────────────
+const deals = {
+  1: {
+    company: "AHI Travel Group",
+    contact: "Margaret Holst, VP Destinations",
+    email: {
+      sender: "Margaret Holst <m.holst@ahitravelgroup.com>",
+      body: "Hi Liisa, following up on our initial inquiry. We're particularly interested in the Northern Lights safaris for our March 2026 incentive group. Could you include the Kakslauttanen Glass Igloo option in the proposal? Budget flexibility exists if the experience is right."
+    },
+    tour: { dest: "Rovaniemi + Saariselka", dates: "9–15 Mar 2026", pax: "48 pax", type: "Incentive Group" },
+    notes: "AHI is our largest account (75% revenue). Liisa has personal relationship with Margaret. Respond before end of week — 16 days in stage.",
+    reviewed: false
+  },
+  2: {
+    company: "Scandinavian Voyage Tours",
+    contact: "Erik Lindqvist, Product Manager",
+    email: {
+      sender: "Erik Lindqvist <e.lindqvist@scandinavianvoyage.com>",
+      body: "Thank you for the quick response. We'd like to combine a Helsinki city stay with a Lakeland nature experience for a small executive group. Preferably late May. Please include private guide options and a lakeside sauna evening."
+    },
+    tour: { dest: "Helsinki + Saimaa Lakeland", dates: "Late May 2026", pax: "8 pax", type: "Executive FIT" },
+    notes: "New client, referred by Baltic Heritage. High per-pax value. Reeta handles follow-up.",
+    reviewed: false
+  },
+  3: {
+    company: "Nordic Experience DMC",
+    contact: "Anja Berglund, Operations Lead",
+    email: {
+      sender: "Anja Berglund <a.berglund@nordicexperience.fi>",
+      body: "Good morning, we received your contact details from the Finland Tourism Board. We are looking for a partner DMC for an archipelago circuit in summer 2026 for a corporate group of approximately 22 people. Could you share your availability and capacity?"
+    },
+    tour: { dest: "Turku Archipelago", dates: "Jul 2026", pax: "22 pax", type: "Corporate Group" },
+    notes: "Fresh inquiry — Sebastian to qualify and assign. Competitive RFP likely.",
+    reviewed: false
+  },
+  4: {
+    company: "Arctic Explorer Group",
+    contact: "Simon Brauer, Head of Programs",
+    email: {
+      sender: "Simon Brauer <s.brauer@arcticexplorer.de>",
+      body: "Liisa, we loved your initial outline. The aurora photography focus is exactly what our clients are requesting for next season. We'd like to see final pricing for Option A (full 7-night circuit) with the option to add a reindeer farm visit on Day 3. Can you send the full proposal this week?"
+    },
+    tour: { dest: "Rovaniemi + Inari + Saariselka", dates: "Jan 2026", pax: "64 pax", type: "Specialist Group" },
+    notes: "Very high intent — opened messages 3 times. Prioritize proposal. Option B (5-night) as fallback.",
+    reviewed: false
+  },
+  5: {
+    company: "Baltic Heritage Tours",
+    contact: "Kristina Pärn, Tour Designer",
+    email: {
+      sender: "Kristina Pärn <k.parn@balticheriage.ee>",
+      body: "Dear Laura, we are designing a premium FIT itinerary for a family group interested in Finnish lake culture. Cottage stays, fishing, and local cuisine are priorities. The Saimaa region is preferred. Budget is not the primary concern — quality and authenticity are."
+    },
+    tour: { dest: "Saimaa Lakeland", dates: "Jun 2026", pax: "12 pax", type: "Premium FIT" },
+    notes: "Premium segment — high per-pax spend. Laura managing. Consider Järvisydän resort partnership.",
+    reviewed: false
+  },
+  6: {
+    company: "Northern Lights Expeditions",
+    contact: "Finn Haugen, Product Director",
+    email: {
+      sender: "Finn Haugen <f.haugen@northernlightsexp.no>",
+      body: "Hi Piia, we're expanding our Nordic portfolio and Finland is the next destination. Looking at Inari and Saariselka for aurora experiences. Can you provide availability for Feb–Mar 2026 and your rate card for guided aurora programs?"
+    },
+    tour: { dest: "Inari + Saariselka", dates: "Feb–Mar 2026", pax: "18 pax", type: "Specialist Group" },
+    notes: "Norwegian operator, good fit. Piia to send rate card and availability this week.",
+    reviewed: false
+  },
+  7: {
+    company: "Midnight Sun Adventures",
+    contact: "Yuki Tanaka, Head of European Operations",
+    email: {
+      sender: "Yuki Tanaka <y.tanaka@midnightsun.jp>",
+      body: "Reeta-san, thank you for the comprehensive proposal. We reviewed it as a team and there is strong enthusiasm. We have a few questions about the Saariselka accommodation and whether the reindeer safari can be extended to 3 hours. We will likely confirm within the week."
+    },
+    tour: { dest: "Helsinki + Lapland + Lakeland", dates: "Mar 2026", pax: "96 pax", type: "MICE Group" },
+    notes: "Japanese operator — large group. Opened proposal 4 times. Near confirmation. Reeta to answer their questions today.",
+    reviewed: false
+  },
+  8: {
+    company: "Finnish Forest Retreats",
+    contact: "David Mäkinen, Director",
+    email: {
+      sender: "David Mäkinen <d.makinen@finnishforest.com>",
+      body: "Janna, we sent the inquiry 17 days ago and haven't heard back beyond the initial acknowledgement. Our clients are waiting and we may need to look at alternatives if we don't receive a proposal in the next few days. Please advise."
+    },
+    tour: { dest: "Lakeland Premium Circuit", dates: "Aug 2026", pax: "6 pax", type: "Premium FIT" },
+    notes: "URGENT — 17 days without proposal. Janna to address immediately. Risk of losing deal.",
+    reviewed: false
+  },
+  9: {
+    company: "Helsinki City Breaks",
+    contact: "Rachel Morrison, Groups Manager",
+    email: {
+      sender: "Rachel Morrison <r.morrison@helsinkicitybreaks.co.uk>",
+      body: "Liisa, we are very impressed with the proposal. The Design District walking tour and sauna evening add exactly the character we want for our clients. Could you also include an optional Nuuksio national park day trip? We'd like to decide by end of next week."
+    },
+    tour: { dest: "Helsinki Capital Region", dates: "Apr 2026", pax: "52 pax", type: "Cultural Group" },
+    notes: "Positive feedback. Liisa to add Nuuksio option to proposal v2. Decide expected before 20 Mar.",
+    reviewed: false
+  },
+  10: {
+    company: "Saimaa Lake Escapes",
+    contact: "Heidi Korhonen, Product Manager",
+    email: {
+      sender: "Heidi Korhonen <h.korhonen@saimaalakeescapes.fi>",
+      body: "Laura, we had a look at the proposal and the pricing seems a bit above our initial budget. Could you see if there's flexibility on the private transfers, perhaps using shared transfers on Days 1 and 5? The rest of the program looks excellent.",
+      },
+    tour: { dest: "Saimaa + Savonlinna", dates: "Jun 2026", pax: "14 pax", type: "Premium FIT" },
+    notes: "Finnish client — negotiations on transfers. Laura to revise pricing. Opened proposal 2×.",
+    reviewed: false
+  },
+  11: {
+    company: "Lapland Wildlife Tours",
+    contact: "Thomas Baxter, Managing Director",
+    email: {
+      sender: "Thomas Baxter <t.baxter@laplandwildlife.com>",
+      body: "Liisa, everything is confirmed from our side. Deposits transferred yesterday. We'll need the final rooming list format by 1 February. Our guests are very excited — this will be their first Finland experience.",
+      },
+    tour: { dest: "Wilderness Circuit — Muotkatunturi", dates: "8–17 Feb 2026", pax: "80 pax", type: "Wildlife Group" },
+    notes: "Deposit received. Pre-departure docs due. Liisa is operations lead. Very important account.",
+    reviewed: true
+  },
+  12: {
+    company: "Finnish Archipelago Cruises",
+    contact: "Camille Dupont, Travel Director",
+    email: {
+      sender: "Camille Dupont <c.dupont@archipelagocruises.fr>",
+      body: "Piia, confirmation received on your end. Looking forward to the archipelago experience. Could you confirm the exact embarkation point in Turku and whether we need ferry tickets in advance for the Nauvo crossing?",
+      },
+    tour: { dest: "Turku Archipelago Sea", dates: "15–22 May 2026", pax: "28 pax", type: "Premium FIT" },
+    notes: "French operator — first booking with Finland DMC. Piia to confirm logistics. Potential repeat.",
+    reviewed: true
+  },
+  13: {
+    company: "AHI Travel Group",
+    contact: "James Holloway, Program Manager",
+    email: {
+      sender: "James Holloway <j.holloway@ahitravelgroup.com>",
+      body: "Reeta, the Helsinki Summer program is confirmed. Please proceed with the hotel blocks and local guide reservations. Our clients are expecting a strong cultural focus — Design Week timing is perfect.",
+      },
+    tour: { dest: "Helsinki Design District", dates: "4–10 Jun 2026", pax: "24 pax", type: "Cultural Group" },
+    notes: "Second AHI group this season — confirmed without negotiation. Reeta managing.",
+    reviewed: true
+  },
+  14: {
+    company: "Arctic Explorer Group",
+    contact: "Lena Vogel, Operations",
+    email: {
+      sender: "Lena Vogel <l.vogel@arcticexplorer.de>",
+      body: "Liisa, invoice received and payment processed. The group had an absolutely wonderful experience — particularly the reindeer farm visit. We will definitely be back next season. Thank you and the whole team.",
+      },
+    tour: { dest: "Lapland Classic Circuit", dates: "10–17 Jan 2026", pax: "32 pax", type: "Specialist Group" },
+    notes: "Completed. Client expressed interest in repeat booking for Jan 2027. Liisa to follow up in September.",
+    reviewed: true
+  },
+  15: {
+    company: "Midnight Sun Adventures",
+    contact: "Yuki Tanaka, Head of European Operations",
+    email: {
+      sender: "Yuki Tanaka <y.tanaka@midnightsun.jp>",
+      body: "Janna, thank you for a seamless operation. Helsinki in winter was exactly as our clients hoped. We received very positive feedback on the sauna evening and the Market Square visit. Final invoice settled. We look forward to working with Finland DMC again.",
+      },
+    tour: { dest: "Helsinki Winter Program", dates: "5–9 Dec 2025", pax: "44 pax", type: "MICE Group" },
+    notes: "Second completed deal with Midnight Sun. Repeat client — now discussing the large March group (card 7).",
+    reviewed: true
+  }
+};
+
+// ─── MODAL ──────────────────────────────────────────────────────────────────
+function openModal(id) {
+  const d = deals[id];
+  if (!d) return;
+  document.getElementById('modal-company').textContent = d.company;
+  document.getElementById('modal-contact').textContent = d.contact;
+
+  const reviewedState = d.reviewed
+    ? `<span class="reviewed-indicator done"><span class="reviewed-dot"></span>Reviewed</span>`
+    : `<span class="reviewed-indicator pending" id="rev-indicator-${id}"><span class="reviewed-dot"></span>Needs review</span>`;
+
+  document.getElementById('modal-body').innerHTML = `
+    <div>
+      <div class="modal-section-label">Last email</div>
+      <div class="email-snippet">
+        <div class="email-sender">${d.email.sender}</div>
+        ${d.email.body}
+      </div>
+    </div>
+
+    <div>
+      <div class="modal-section-label">Tour details</div>
+      <div class="tour-grid">
+        <div class="tour-item">
+          <div class="tour-item-label">Destination</div>
+          <div class="tour-item-value">${d.tour.dest}</div>
+        </div>
+        <div class="tour-item">
+          <div class="tour-item-label">Travel dates</div>
+          <div class="tour-item-value">${d.tour.dates}</div>
+        </div>
+        <div class="tour-item">
+          <div class="tour-item-label">Group size</div>
+          <div class="tour-item-value">${d.tour.pax}</div>
+        </div>
+        <div class="tour-item">
+          <div class="tour-item-label">Type</div>
+          <div class="tour-item-value">${d.tour.type}</div>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <div class="modal-section-label">Notes</div>
+      <div class="notes-text">${d.notes}</div>
+    </div>
+
+    <div>
+      <div class="modal-section-label">Actions</div>
+      <div class="btn-row">
+        <button class="btn btn-disabled" style="cursor:not-allowed">
+          Open in TravelTree ↗
+          <span class="tooltip">Available after launch</span>
+        </button>
+        <button class="btn ${d.reviewed ? 'btn-success' : 'btn-ghost'}" id="mark-btn-${id}" onclick="toggleReviewed(${id}); event.stopPropagation();">
+          ${d.reviewed ? '✓ Marked reviewed' : 'Mark as reviewed'}
+        </button>
+      </div>
+    </div>
+
+    <div style="margin-top:auto; padding-top: 8px; border-top: 1px solid var(--border); display: flex; align-items: center; gap: 10px;">
+      ${reviewedState}
+    </div>
+  `;
+
+  document.getElementById('modalOverlay').classList.add('open');
+  document.body.style.overflow = 'hidden';
+  window._openModalId = id;
+}
+
+function toggleReviewed(id) {
+  deals[id].reviewed = !deals[id].reviewed;
+  const btn = document.getElementById(`mark-btn-${id}`);
+  const ind = document.getElementById(`rev-indicator-${id}`);
+
+  if (btn) {
+    if (deals[id].reviewed) {
+      btn.textContent = '✓ Marked reviewed';
+      btn.className = 'btn btn-success';
+    } else {
+      btn.textContent = 'Mark as reviewed';
+      btn.className = 'btn btn-ghost';
+    }
+  }
+  if (ind) {
+    if (deals[id].reviewed) {
+      ind.outerHTML = `<span class="reviewed-indicator done"><span class="reviewed-dot"></span>Reviewed</span>`;
+    }
+  }
+}
+
+function closeModal() {
+  document.getElementById('modalOverlay').classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+function closeModalOnBg(e) {
+  if (e.target === document.getElementById('modalOverlay')) closeModal();
+}
+
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
+// ─── DRAG AND DROP ──────────────────────────────────────────────────────────
+let dragCard = null;
+let placeholder = null;
+
+function makePlaceholder() {
+  const p = document.createElement('div');
+  p.className = 'drag-placeholder';
+  p.id = 'drag-placeholder';
+  return p;
+}
+
+document.addEventListener('dragstart', e => {
+  const card = e.target.closest('.card');
+  if (!card) return;
+  dragCard = card;
+  setTimeout(() => { if (dragCard) dragCard.classList.add('dragging'); }, 0);
+  placeholder = makePlaceholder();
+  e.dataTransfer.effectAllowed = 'move';
+});
+
+document.addEventListener('dragend', () => {
+  if (dragCard) dragCard.classList.remove('dragging');
+  if (placeholder && placeholder.parentNode) placeholder.parentNode.removeChild(placeholder);
+  document.querySelectorAll('.col-body').forEach(c => c.classList.remove('drag-over'));
+  dragCard = null;
+  placeholder = null;
+});
+
+document.querySelectorAll('.col-body').forEach(col => {
+  col.addEventListener('dragover', e => {
+    e.preventDefault();
+    col.classList.add('drag-over');
+
+    const afterEl = getDragAfterElement(col, e.clientY);
+    const ph = document.getElementById('drag-placeholder');
+    if (ph) ph.parentNode && ph.parentNode.removeChild(ph);
+    const newPh = makePlaceholder();
+    placeholder = newPh;
+
+    if (afterEl) {
+      col.insertBefore(newPh, afterEl);
+    } else {
+      col.appendChild(newPh);
+    }
+  });
+
+  col.addEventListener('dragleave', e => {
+    if (!col.contains(e.relatedTarget)) {
+      col.classList.remove('drag-over');
+    }
+  });
+
+  col.addEventListener('drop', e => {
+    e.preventDefault();
+    col.classList.remove('drag-over');
+    if (!dragCard) return;
+
+    const ph = document.getElementById('drag-placeholder');
+    if (ph && ph.parentNode === col) {
+      col.insertBefore(dragCard, ph);
+      ph.parentNode.removeChild(ph);
+    } else {
+      col.appendChild(dragCard);
+    }
+
+    // Update column counts + values
+    updateColumnStats();
+  });
+});
+
+function getDragAfterElement(container, y) {
+  const draggables = [...container.querySelectorAll('.card:not(.dragging)')];
+  return draggables.reduce((closest, child) => {
+    const box = child.getBoundingClientRect();
+    const offset = y - box.top - box.height / 2;
+    if (offset < 0 && offset > closest.offset) {
+      return { offset, element: child };
+    }
+    return closest;
+  }, { offset: Number.NEGATIVE_INFINITY }).element;
+}
+
+function updateColumnStats() {
+  document.querySelectorAll('.column').forEach(col => {
+    const body = col.querySelector('.col-body');
+    const cards = body.querySelectorAll('.card');
+    const countEl = col.querySelector('.col-count');
+    if (countEl) countEl.textContent = cards.length;
+  });
+}
+</script>
+
+</body>
+</html>

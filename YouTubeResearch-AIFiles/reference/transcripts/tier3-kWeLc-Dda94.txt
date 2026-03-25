@@ -1,0 +1,940 @@
+We<00:00:00.320><c> are</c><00:00:00.480><c> going</c><00:00:00.560><c> to</c><00:00:00.640><c> talk</c><00:00:00.880><c> about</c><00:00:01.439><c> the</c><00:00:01.839><c> six</c>
+We are going to talk about the six
+We are going to talk about the six
+principles<00:00:03.679><c> for</c><00:00:04.000><c> AI</c><00:00:04.480><c> systems</c><00:00:05.200><c> that</c><00:00:05.520><c> I</c><00:00:05.759><c> wish</c>
+principles for AI systems that I wish
+principles for AI systems that I wish
+everyone<00:00:06.319><c> knew.</c><00:00:06.799><c> I've</c><00:00:07.120><c> been</c><00:00:07.279><c> building</c>
+everyone knew. I've been building
+everyone knew. I've been building
+Agentic<00:00:08.160><c> systems.</c><00:00:08.480><c> I've</c><00:00:08.639><c> worked</c><00:00:08.800><c> with</c><00:00:08.960><c> teams</c>
+Agentic systems. I've worked with teams
+Agentic systems. I've worked with teams
+building<00:00:09.599><c> agentic</c><00:00:10.160><c> systems.</c><00:00:10.880><c> What</c><00:00:11.200><c> I</c><00:00:11.599><c> see</c>
+building agentic systems. What I see
+building agentic systems. What I see
+people<00:00:12.320><c> miss</c><00:00:12.800><c> is</c><00:00:13.120><c> what</c><00:00:13.360><c> we're</c><00:00:13.599><c> covering</c><00:00:13.840><c> here.</c>
+people miss is what we're covering here.
+people miss is what we're covering here.
+And<00:00:14.240><c> these</c><00:00:14.480><c> are</c><00:00:14.639><c> principles</c><00:00:15.040><c> you</c><00:00:15.280><c> can</c><00:00:15.440><c> scale</c>
+And these are principles you can scale
+And these are principles you can scale
+regardless<00:00:16.400><c> of</c><00:00:16.560><c> whether</c><00:00:16.880><c> you're</c><00:00:17.039><c> building</c><00:00:17.279><c> a</c>
+regardless of whether you're building a
+regardless of whether you're building a
+system<00:00:17.760><c> for</c><00:00:18.320><c> a</c><00:00:18.400><c> 100</c><00:00:18.720><c> agents</c><00:00:19.279><c> or</c><00:00:19.520><c> just</c><00:00:19.760><c> one</c>
+system for a 100 agents or just one
+system for a 100 agents or just one
+agent.<00:00:20.640><c> Principle</c><00:00:21.279><c> number</c><00:00:21.600><c> one,</c><00:00:22.320><c> you</c><00:00:22.560><c> need</c>
+agent. Principle number one, you need
+agent. Principle number one, you need
+stateful<00:00:24.080><c> intelligence.</c><00:00:25.119><c> In</c><00:00:25.359><c> other</c><00:00:25.519><c> words,</c>
+stateful intelligence. In other words,
+stateful intelligence. In other words,
+context<00:00:26.800><c> preservation</c><00:00:27.760><c> is</c><00:00:28.080><c> a</c><00:00:28.320><c> core</c><00:00:28.640><c> principle</c>
+context preservation is a core principle
+context preservation is a core principle
+of<00:00:29.439><c> good</c><00:00:29.679><c> AI</c><00:00:30.080><c> architectures.</c><00:00:31.119><c> And</c><00:00:31.279><c> that</c><00:00:31.519><c> is</c><00:00:31.679><c> so</c>
+of good AI architectures. And that is so
+of good AI architectures. And that is so
+different<00:00:32.640><c> from</c><00:00:32.960><c> what</c><00:00:33.200><c> we</c><00:00:33.440><c> learned</c><00:00:33.760><c> when</c><00:00:34.000><c> we</c>
+different from what we learned when we
+different from what we learned when we
+were<00:00:34.399><c> learning</c><00:00:34.640><c> how</c><00:00:34.800><c> to</c><00:00:34.960><c> build</c><00:00:35.280><c> systems</c><00:00:35.600><c> in</c>
+were learning how to build systems in
+were learning how to build systems in
+the<00:00:36.559><c> when</c><00:00:36.719><c> we</c><00:00:36.880><c> were</c><00:00:37.040><c> taught</c><00:00:37.600><c> stateless</c>
+the when we were taught stateless
+the when we were taught stateless
+services<00:00:38.879><c> matter</c><00:00:39.280><c> which</c><00:00:39.440><c> is</c><00:00:39.520><c> a</c><00:00:39.680><c> fancy</c><00:00:39.920><c> way</c><00:00:40.079><c> of</c>
+services matter which is a fancy way of
+services matter which is a fancy way of
+saying<00:00:40.480><c> you</c><00:00:40.640><c> need</c><00:00:40.719><c> to</c><00:00:40.879><c> have</c><00:00:40.960><c> a</c><00:00:41.200><c> clean</c><00:00:41.520><c> start</c>
+saying you need to have a clean start
+saying you need to have a clean start
+with<00:00:42.239><c> anything</c><00:00:42.559><c> because</c><00:00:42.800><c> it</c><00:00:43.040><c> enables</c><00:00:43.440><c> easy</c>
+with anything because it enables easy
+with anything because it enables easy
+scaling.<00:00:44.480><c> Now</c><00:00:44.879><c> AI</c><00:00:45.280><c> systems</c><00:00:45.760><c> require</c><00:00:46.320><c> context</c>
+scaling. Now AI systems require context
+scaling. Now AI systems require context
+and<00:00:47.440><c> learn</c><00:00:47.760><c> behaviors</c><00:00:48.239><c> and</c><00:00:48.480><c> those</c><00:00:48.719><c> disappear</c>
+and learn behaviors and those disappear
+and learn behaviors and those disappear
+on<00:00:49.280><c> a</c><00:00:49.440><c> restart.</c><00:00:49.920><c> That</c><00:00:50.239><c> is</c><00:00:50.480><c> why</c><00:00:51.200><c> the</c><00:00:51.520><c> new</c><00:00:51.760><c> OpenAI</c>
+on a restart. That is why the new OpenAI
+on a restart. That is why the new OpenAI
+responses<00:00:53.039><c> API</c><00:00:53.680><c> is</c><00:00:54.079><c> stateful.</c><00:00:54.879><c> It's</c><00:00:55.199><c> why</c><00:00:55.360><c> it</c>
+responses API is stateful. It's why it
+responses API is stateful. It's why it
+preserves<00:00:56.239><c> context</c><00:00:56.879><c> that</c><00:00:57.120><c> they</c><00:00:57.360><c> deliberately</c>
+preserves context that they deliberately
+preserves context that they deliberately
+added<00:00:58.160><c> that</c><00:00:58.399><c> in</c><00:00:58.719><c> because</c><00:00:58.960><c> it</c><00:00:59.199><c> is</c><00:00:59.359><c> so</c><00:00:59.680><c> important</c>
+added that in because it is so important
+added that in because it is so important
+to<00:01:00.160><c> have</c><00:01:00.399><c> context</c><00:01:00.879><c> preservation</c><00:01:01.680><c> as</c><00:01:02.000><c> an</c>
+to have context preservation as an
+to have context preservation as an
+architectural<00:01:02.960><c> component</c><00:01:03.680><c> of</c><00:01:04.080><c> agentic</c>
+architectural component of agentic
+architectural component of agentic
+workflows.<00:01:05.760><c> And</c><00:01:05.920><c> I</c><00:01:06.159><c> wish</c><00:01:06.400><c> that</c><00:01:06.720><c> people</c>
+workflows. And I wish that people
+workflows. And I wish that people
+understood<00:01:07.439><c> that</c><00:01:08.080><c> because</c><00:01:08.720><c> everything</c><00:01:09.119><c> else</c>
+understood that because everything else
+understood that because everything else
+gets<00:01:09.600><c> easier</c><00:01:10.080><c> if</c><00:01:10.400><c> you</c><00:01:10.560><c> can</c><00:01:10.720><c> retain</c><00:01:11.439><c> context</c><00:01:12.080><c> in</c>
+gets easier if you can retain context in
+gets easier if you can retain context in
+a<00:01:12.479><c> way</c><00:01:12.560><c> that's</c><00:01:12.880><c> intelligent.</c><00:01:13.680><c> So</c><00:01:13.920><c> much</c><00:01:14.320><c> of</c>
+a way that's intelligent. So much of
+a way that's intelligent. So much of
+good<00:01:15.119><c> agentic</c><00:01:15.760><c> architecture</c><00:01:16.479><c> is</c><00:01:16.799><c> just</c><00:01:17.040><c> good</c>
+good agentic architecture is just good
+good agentic architecture is just good
+context<00:01:18.159><c> engineering</c><00:01:18.640><c> and</c><00:01:18.960><c> good</c><00:01:19.200><c> context</c>
+context engineering and good context
+context engineering and good context
+preservation.<00:01:20.720><c> It's</c><00:01:20.960><c> not</c><00:01:21.360><c> rescending</c><00:01:21.920><c> the</c>
+preservation. It's not rescending the
+preservation. It's not rescending the
+same<00:01:22.320><c> tokens.</c><00:01:22.799><c> You</c><00:01:22.960><c> don't</c><00:01:23.119><c> you</c><00:01:23.360><c> don't</c><00:01:23.520><c> have</c><00:01:23.680><c> to</c>
+same tokens. You don't you don't have to
+same tokens. You don't you don't have to
+send<00:01:24.080><c> again.</c><00:01:24.479><c> That's</c><00:01:24.720><c> wasteful.</c><00:01:25.520><c> So</c><00:01:25.759><c> the</c>
+send again. That's wasteful. So the
+send again. That's wasteful. So the
+first<00:01:26.240><c> principle</c><00:01:27.040><c> is</c><00:01:27.360><c> stateful</c>
+first principle is stateful
+first principle is stateful
+intelligence.<00:01:28.640><c> You</c><00:01:28.880><c> want</c><00:01:28.960><c> to</c><00:01:29.119><c> make</c><00:01:29.280><c> sure</c><00:01:29.680><c> that</c>
+intelligence. You want to make sure that
+intelligence. You want to make sure that
+your<00:01:30.240><c> intelligent</c><00:01:30.960><c> systems</c><00:01:31.840><c> recognize</c><00:01:32.400><c> and</c>
+your intelligent systems recognize and
+your intelligent systems recognize and
+preserve<00:01:33.280><c> state</c><00:01:33.920><c> in</c><00:01:34.240><c> ways</c><00:01:34.479><c> that</c><00:01:34.720><c> are</c>
+preserve state in ways that are
+preserve state in ways that are
+meaningful<00:01:35.360><c> to</c><00:01:35.520><c> the</c><00:01:35.759><c> agent.</c><00:01:36.479><c> The</c><00:01:36.799><c> second</c>
+meaningful to the agent. The second
+meaningful to the agent. The second
+principle<00:01:37.600><c> is</c><00:01:37.920><c> bounded</c><00:01:38.640><c> uncertainty.</c><00:01:39.840><c> So</c>
+principle is bounded uncertainty. So
+principle is bounded uncertainty. So
+we're<00:01:40.320><c> used</c><00:01:40.560><c> to</c><00:01:40.720><c> deterministic</c><00:01:41.600><c> systems.</c>
+we're used to deterministic systems.
+we're used to deterministic systems.
+Traditional<00:01:42.880><c> engineering</c><00:01:43.439><c> has</c><00:01:43.680><c> the</c><00:01:43.920><c> same</c>
+Traditional engineering has the same
+Traditional engineering has the same
+input<00:01:44.479><c> with</c><00:01:44.799><c> the</c><00:01:45.040><c> same</c><00:01:45.200><c> output</c><00:01:45.680><c> and</c><00:01:46.000><c> very</c>
+input with the same output and very
+input with the same output and very
+predictable<00:01:46.799><c> testing</c><00:01:47.200><c> which</c><00:01:47.439><c> is</c><00:01:47.600><c> why</c><00:01:47.840><c> most</c><00:01:48.240><c> QA</c>
+predictable testing which is why most QA
+predictable testing which is why most QA
+is<00:01:49.439><c> before</c><00:01:50.000><c> launch.</c><00:01:50.799><c> The</c><00:01:51.040><c> new</c><00:01:51.280><c> model</c><00:01:52.000><c> you</c><00:01:52.320><c> have</c>
+is before launch. The new model you have
+is before launch. The new model you have
+to<00:01:52.799><c> bound</c><00:01:53.520><c> uncertainty.</c><00:01:54.640><c> And</c><00:01:54.799><c> so</c><00:01:55.040><c> you</c><00:01:55.360><c> have</c><00:01:55.520><c> to</c>
+to bound uncertainty. And so you have to
+to bound uncertainty. And so you have to
+essentially<00:01:56.560><c> put</c><00:01:57.200><c> rappers</c><00:01:57.600><c> that</c><00:01:57.759><c> are</c><00:01:57.920><c> as</c>
+essentially put rappers that are as
+essentially put rappers that are as
+deterministic<00:01:58.960><c> as</c><00:01:59.280><c> possible</c><00:02:00.000><c> on</c><00:02:00.320><c> top</c><00:02:00.479><c> of</c>
+deterministic as possible on top of
+deterministic as possible on top of
+probabilistic<00:02:01.680><c> cores.</c><00:02:02.320><c> And</c><00:02:02.560><c> so</c><00:02:02.719><c> you</c><00:02:03.040><c> have</c><00:02:03.200><c> to</c>
+probabilistic cores. And so you have to
+probabilistic cores. And so you have to
+do<00:02:03.520><c> things</c><00:02:03.759><c> like</c><00:02:04.079><c> mess</c><00:02:04.399><c> with</c><00:02:04.560><c> the</c><00:02:04.799><c> API</c><00:02:05.360><c> and</c>
+do things like mess with the API and
+do things like mess with the API and
+turn<00:02:05.920><c> the</c><00:02:06.159><c> temperature</c><00:02:06.399><c> of</c><00:02:06.560><c> the</c><00:02:06.719><c> LLM</c><00:02:07.200><c> down</c><00:02:07.360><c> to</c>
+turn the temperature of the LLM down to
+turn the temperature of the LLM down to
+zero<00:02:08.000><c> and</c><00:02:08.239><c> define</c><00:02:08.640><c> your</c><00:02:08.800><c> inputs</c><00:02:09.200><c> extremely</c>
+zero and define your inputs extremely
+zero and define your inputs extremely
+precisely<00:02:10.640><c> in</c><00:02:10.879><c> the</c><00:02:11.120><c> same</c><00:02:11.360><c> sequence</c><00:02:11.920><c> every</c>
+precisely in the same sequence every
+precisely in the same sequence every
+single<00:02:12.560><c> time</c><00:02:13.120><c> so</c><00:02:13.280><c> that</c><00:02:13.440><c> what</c><00:02:13.680><c> you</c><00:02:13.920><c> get</c><00:02:14.080><c> back</c>
+single time so that what you get back
+single time so that what you get back
+for<00:02:14.480><c> order</c><00:02:14.800><c> 1</c><00:02:15.120><c> 2</c><00:02:15.360><c> 3</c><00:02:15.599><c> when</c><00:02:15.760><c> you</c><00:02:15.920><c> make</c><00:02:16.000><c> a</c><00:02:16.239><c> query</c><00:02:16.560><c> is</c>
+for order 1 2 3 when you make a query is
+for order 1 2 3 when you make a query is
+always<00:02:17.120><c> the</c><00:02:17.440><c> same.</c><00:02:18.000><c> That</c><00:02:18.319><c> is</c><00:02:18.640><c> a</c><00:02:18.959><c> whole</c><00:02:19.440><c> another</c>
+always the same. That is a whole another
+always the same. That is a whole another
+level<00:02:20.239><c> of</c><00:02:20.480><c> engineering</c><00:02:20.879><c> that</c><00:02:21.120><c> we're</c><00:02:21.280><c> we</c><00:02:21.520><c> we're</c>
+level of engineering that we're we we're
+level of engineering that we're we we're
+not<00:02:21.920><c> used</c><00:02:22.080><c> to,</c><00:02:22.400><c> right?</c><00:02:22.640><c> Like</c><00:02:23.200><c> traditionally</c>
+not used to, right? Like traditionally
+not used to, right? Like traditionally
+you<00:02:24.319><c> didn't</c><00:02:24.560><c> have</c><00:02:24.800><c> to</c><00:02:25.040><c> think</c><00:02:25.280><c> about</c><00:02:25.520><c> whether</c>
+you didn't have to think about whether
+you didn't have to think about whether
+the<00:02:26.080><c> program</c><00:02:26.400><c> would</c><00:02:26.640><c> respond</c><00:02:27.520><c> to</c><00:02:27.680><c> the</c><00:02:27.920><c> same</c>
+the program would respond to the same
+the program would respond to the same
+input<00:02:28.480><c> with</c><00:02:28.640><c> the</c><00:02:28.800><c> same</c><00:02:28.959><c> output</c><00:02:29.360><c> every</c><00:02:29.599><c> time.</c>
+input with the same output every time.
+input with the same output every time.
+It<00:02:30.160><c> just</c><00:02:30.319><c> always</c><00:02:30.640><c> did.</c><00:02:30.879><c> you</c><00:02:31.120><c> could</c><00:02:31.280><c> worry</c>
+It just always did. you could worry
+It just always did. you could worry
+about<00:02:31.680><c> other</c><00:02:32.000><c> things.</c><00:02:32.560><c> We</c><00:02:32.879><c> don't</c><00:02:33.040><c> live</c><00:02:33.280><c> in</c><00:02:33.440><c> a</c>
+about other things. We don't live in a
+about other things. We don't live in a
+deterministic<00:02:34.400><c> world</c><00:02:34.640><c> anymore.</c><00:02:35.360><c> We</c><00:02:35.760><c> have</c><00:02:36.080><c> to</c>
+deterministic world anymore. We have to
+deterministic world anymore. We have to
+engineer<00:02:37.920><c> deterministic</c><00:02:38.959><c> bridges</c><00:02:39.840><c> on</c><00:02:40.160><c> top</c><00:02:40.480><c> of</c>
+engineer deterministic bridges on top of
+engineer deterministic bridges on top of
+probabilistic<00:02:41.840><c> cores.</c><00:02:42.480><c> Our</c><00:02:42.879><c> world</c><00:02:43.200><c> is</c>
+probabilistic cores. Our world is
+probabilistic cores. Our world is
+running<00:02:43.840><c> on</c><00:02:44.160><c> probabilistic</c><00:02:44.959><c> cores</c><00:02:45.440><c> now.</c><00:02:45.680><c> And</c>
+running on probabilistic cores now. And
+running on probabilistic cores now. And
+not<00:02:46.080><c> enough</c><00:02:46.400><c> people</c><00:02:46.640><c> have</c><00:02:46.879><c> sort</c><00:02:47.040><c> of</c><00:02:47.120><c> fully</c>
+not enough people have sort of fully
+not enough people have sort of fully
+realized<00:02:48.480><c> that</c><00:02:48.800><c> we</c><00:02:49.120><c> need</c><00:02:49.360><c> to</c><00:02:50.319><c> bound</c>
+realized that we need to bound
+realized that we need to bound
+uncertainty<00:02:51.840><c> and</c><00:02:52.000><c> it's</c><00:02:52.239><c> part</c><00:02:52.400><c> of</c><00:02:52.480><c> our</c>
+uncertainty and it's part of our
+uncertainty and it's part of our
+fundamental<00:02:53.200><c> role.</c><00:02:53.519><c> This</c><00:02:53.680><c> changes</c><00:02:54.160><c> how</c>
+fundamental role. This changes how
+fundamental role. This changes how
+engineers<00:02:55.519><c> evaluate.</c><00:02:56.480><c> Engineers</c><00:02:57.040><c> need</c><00:02:57.200><c> to</c>
+engineers evaluate. Engineers need to
+engineers evaluate. Engineers need to
+spend<00:02:57.599><c> a</c><00:02:57.760><c> lot</c><00:02:57.920><c> more</c><00:02:58.080><c> time</c><00:02:58.319><c> from</c><00:02:58.480><c> a</c><00:02:58.720><c> data</c>
+spend a lot more time from a data
+spend a lot more time from a data
+science<00:02:59.280><c> perspective</c><00:03:00.080><c> understanding</c><00:03:00.640><c> what</c>
+science perspective understanding what
+science perspective understanding what
+probabilistic<00:03:01.840><c> metrics</c><00:03:02.400><c> look</c><00:03:02.560><c> like</c><00:03:02.720><c> in</c>
+probabilistic metrics look like in
+probabilistic metrics look like in
+production,<00:03:03.519><c> not</c><00:03:03.680><c> just</c><00:03:03.840><c> deterministic</c>
+production, not just deterministic
+production, not just deterministic
+metrics.<00:03:05.440><c> We</c><00:03:05.680><c> also</c><00:03:06.000><c> need</c><00:03:06.239><c> to</c><00:03:06.480><c> have</c><00:03:06.800><c> much</c><00:03:07.120><c> more</c>
+metrics. We also need to have much more
+metrics. We also need to have much more
+investment<00:03:07.840><c> in</c><00:03:08.080><c> QA</c><00:03:08.720><c> post</c><00:03:09.120><c> production</c><00:03:09.920><c> because</c>
+investment in QA post production because
+investment in QA post production because
+QA<00:03:10.800><c> needs</c><00:03:10.959><c> to</c><00:03:11.120><c> be</c><00:03:11.200><c> able</c><00:03:11.440><c> to</c><00:03:11.680><c> measure</c><00:03:12.720><c> events</c>
+QA needs to be able to measure events
+QA needs to be able to measure events
+that<00:03:13.360><c> are</c><00:03:13.519><c> occurring</c><00:03:14.159><c> in</c><00:03:14.560><c> production</c>
+that are occurring in production
+that are occurring in production
+pipelines<00:03:16.000><c> that</c><00:03:16.400><c> may</c><00:03:16.720><c> not</c><00:03:17.040><c> be</c><00:03:17.280><c> in</c><00:03:17.519><c> line</c><00:03:17.760><c> with</c>
+pipelines that may not be in line with
+pipelines that may not be in line with
+expectations,<00:03:18.879><c> that</c><00:03:19.040><c> may</c><00:03:19.280><c> be</c><00:03:19.440><c> edge</c><00:03:19.760><c> cases,</c>
+expectations, that may be edge cases,
+expectations, that may be edge cases,
+that<00:03:20.480><c> may</c><00:03:20.640><c> be</c><00:03:20.800><c> things</c><00:03:20.959><c> that</c><00:03:21.280><c> break</c><00:03:21.519><c> our</c>
+that may be things that break our
+that may be things that break our
+expectations<00:03:22.400><c> of</c><00:03:22.640><c> what</c><00:03:22.879><c> works</c><00:03:23.120><c> and</c><00:03:23.280><c> what</c>
+expectations of what works and what
+expectations of what works and what
+doesn't.<00:03:23.920><c> We</c><00:03:24.159><c> need</c><00:03:24.319><c> to</c><00:03:24.480><c> move</c><00:03:24.640><c> from</c><00:03:24.879><c> an</c>
+doesn't. We need to move from an
+doesn't. We need to move from an
+assumption<00:03:25.360><c> that</c><00:03:25.599><c> our</c><00:03:25.840><c> world</c><00:03:26.239><c> is</c><00:03:26.560><c> just</c>
+assumption that our world is just
+assumption that our world is just
+building<00:03:27.360><c> these</c><00:03:27.680><c> deterministic</c><00:03:28.400><c> blocks</c><00:03:28.800><c> to</c>
+building these deterministic blocks to
+building these deterministic blocks to
+the<00:03:29.200><c> assumption</c><00:03:29.519><c> that</c><00:03:29.760><c> we</c><00:03:29.920><c> are</c><00:03:30.159><c> working</c><00:03:30.400><c> with</c>
+the assumption that we are working with
+the assumption that we are working with
+probabilistic<00:03:31.760><c> systems</c><00:03:32.480><c> that</c><00:03:32.799><c> need</c>
+probabilistic systems that need
+probabilistic systems that need
+continued<00:03:33.680><c> sustained</c><00:03:34.239><c> operation</c><00:03:35.040><c> after</c><00:03:35.680><c> we</c>
+continued sustained operation after we
+continued sustained operation after we
+launch.<00:03:36.720><c> And</c><00:03:36.879><c> so</c><00:03:37.120><c> we</c><00:03:37.360><c> will</c><00:03:37.519><c> have</c><00:03:37.680><c> to</c><00:03:37.840><c> go</c><00:03:38.000><c> back</c>
+launch. And so we will have to go back
+launch. And so we will have to go back
+in<00:03:38.319><c> and</c><00:03:38.480><c> we</c><00:03:38.720><c> will</c><00:03:38.799><c> have</c><00:03:38.959><c> to</c><00:03:39.120><c> measure.</c><00:03:39.519><c> We</c><00:03:39.760><c> will</c>
+in and we will have to measure. We will
+in and we will have to measure. We will
+have<00:03:40.080><c> to</c><00:03:40.720><c> pay</c><00:03:40.879><c> attention.</c><00:03:41.360><c> We</c><00:03:41.599><c> will</c><00:03:41.760><c> have</c><00:03:41.920><c> to</c>
+have to pay attention. We will have to
+have to pay attention. We will have to
+maintain<00:03:42.959><c> not</c><00:03:43.280><c> just</c><00:03:43.519><c> because</c><00:03:43.760><c> there</c><00:03:44.000><c> are</c>
+maintain not just because there are
+maintain not just because there are
+deterministic<00:03:44.879><c> bugs,</c><00:03:45.599><c> but</c><00:03:45.840><c> because</c><00:03:46.159><c> our</c><00:03:46.560><c> job</c>
+deterministic bugs, but because our job
+deterministic bugs, but because our job
+is<00:03:47.280><c> to</c><00:03:47.519><c> continue</c><00:03:47.920><c> to</c><00:03:48.239><c> bound</c><00:03:48.640><c> uncertainty</c><00:03:49.599><c> as</c>
+is to continue to bound uncertainty as
+is to continue to bound uncertainty as
+models<00:03:50.239><c> drift</c><00:03:50.560><c> over</c><00:03:50.799><c> time,</c><00:03:51.280><c> as</c><00:03:51.599><c> perhaps</c><00:03:52.080><c> we</c>
+models drift over time, as perhaps we
+models drift over time, as perhaps we
+get<00:03:52.480><c> different</c><00:03:52.799><c> inputs</c><00:03:53.280><c> over</c><00:03:53.519><c> time,</c><00:03:54.319><c> as</c><00:03:54.640><c> we</c>
+get different inputs over time, as we
+get different inputs over time, as we
+have<00:03:55.280><c> different</c><00:03:55.599><c> models</c><00:03:56.000><c> being</c><00:03:56.239><c> swapped</c><00:03:56.640><c> out,</c>
+have different models being swapped out,
+have different models being swapped out,
+as<00:03:57.200><c> context</c><00:03:57.599><c> emerges</c><00:03:58.080><c> and</c><00:03:58.239><c> changes</c><00:03:58.560><c> in</c><00:03:58.720><c> our</c>
+as context emerges and changes in our
+as context emerges and changes in our
+context<00:03:59.280><c> structures.</c><00:04:00.080><c> All</c><00:04:00.239><c> of</c><00:04:00.400><c> those</c><00:04:00.640><c> things</c>
+context structures. All of those things
+context structures. All of those things
+shift<00:04:02.080><c> how</c><00:04:02.480><c> our</c><00:04:02.879><c> production</c><00:04:03.360><c> systems</c><00:04:03.840><c> behave</c>
+shift how our production systems behave
+shift how our production systems behave
+in<00:04:04.400><c> ways</c><00:04:04.560><c> that</c><00:04:04.720><c> weren't</c><00:04:05.040><c> true</c><00:04:05.200><c> when</c><00:04:05.439><c> we</c><00:04:05.599><c> were</c>
+in ways that weren't true when we were
+in ways that weren't true when we were
+in<00:04:05.840><c> a</c><00:04:06.000><c> deterministic</c><00:04:06.640><c> output</c><00:04:07.040><c> world.</c><00:04:07.680><c> That's</c>
+in a deterministic output world. That's
+in a deterministic output world. That's
+number<00:04:08.239><c> two.</c><00:04:08.879><c> Number</c><00:04:09.280><c> three,</c><00:04:10.000><c> fail</c><00:04:10.879><c> fast</c>
+number two. Number three, fail fast
+number two. Number three, fail fast
+design.<00:04:12.480><c> We</c><00:04:12.879><c> assumed</c><00:04:13.519><c> in</c><00:04:13.840><c> the</c><00:04:14.000><c> past</c><00:04:14.640><c> that</c><00:04:14.959><c> if</c>
+design. We assumed in the past that if
+design. We assumed in the past that if
+something<00:04:16.079><c> crashed</c><00:04:16.639><c> on</c><00:04:17.199><c> error</c><00:04:17.600><c> and</c><00:04:17.840><c> it</c><00:04:18.000><c> had</c><00:04:18.160><c> a</c>
+something crashed on error and it had a
+something crashed on error and it had a
+clear<00:04:18.639><c> failure</c><00:04:19.040><c> mode,</c><00:04:19.600><c> then</c><00:04:19.840><c> we</c><00:04:20.079><c> were</c><00:04:20.239><c> doing</c>
+clear failure mode, then we were doing
+clear failure mode, then we were doing
+our<00:04:20.720><c> jobs</c><00:04:21.280><c> because</c><00:04:21.600><c> we</c><00:04:21.840><c> could</c><00:04:22.079><c> immediately</c>
+our jobs because we could immediately
+our jobs because we could immediately
+kill<00:04:23.280><c> that</c><00:04:23.520><c> micros</c><00:04:23.919><c> service</c><00:04:24.479><c> and</c><00:04:24.800><c> restart</c><00:04:25.280><c> it</c>
+kill that micros service and restart it
+kill that micros service and restart it
+and<00:04:25.919><c> we</c><00:04:26.160><c> didn't</c><00:04:26.479><c> have</c><00:04:26.639><c> to</c><00:04:26.800><c> have</c><00:04:26.960><c> it</c><00:04:27.120><c> sort</c><00:04:27.360><c> of</c>
+and we didn't have to have it sort of
+and we didn't have to have it sort of
+slowly<00:04:27.840><c> dragging</c><00:04:28.240><c> down</c><00:04:28.400><c> the</c><00:04:28.639><c> rest</c><00:04:28.720><c> of</c><00:04:28.880><c> the</c>
+slowly dragging down the rest of the
+slowly dragging down the rest of the
+system.<00:04:29.600><c> Now</c><00:04:30.240><c> we</c><00:04:30.560><c> actually</c><00:04:30.960><c> have</c><00:04:31.199><c> failures</c>
+system. Now we actually have failures
+system. Now we actually have failures
+that<00:04:31.759><c> are</c><00:04:31.919><c> harder</c><00:04:32.240><c> to</c><00:04:32.400><c> detect.</c><00:04:32.880><c> AI</c><00:04:33.360><c> can</c><00:04:33.600><c> fail</c>
+that are harder to detect. AI can fail
+that are harder to detect. AI can fail
+by<00:04:34.320><c> hallucinating.</c><00:04:35.199><c> AI</c><00:04:35.520><c> can</c><00:04:35.680><c> fail</c><00:04:35.919><c> by</c>
+by hallucinating. AI can fail by
+by hallucinating. AI can fail by
+drifting.<00:04:36.720><c> It</c><00:04:36.960><c> can</c><00:04:37.120><c> still</c><00:04:37.360><c> be</c><00:04:37.680><c> functional</c><00:04:38.560><c> but</c>
+drifting. It can still be functional but
+drifting. It can still be functional but
+be<00:04:39.199><c> completely</c><00:04:39.840><c> wrong.</c><00:04:40.639><c> This</c><00:04:40.800><c> is</c><00:04:40.960><c> not</c><00:04:41.120><c> a</c>
+be completely wrong. This is not a
+be completely wrong. This is not a
+failure<00:04:41.600><c> mode</c><00:04:41.840><c> we're</c><00:04:42.160><c> used</c><00:04:42.320><c> to.</c><00:04:42.800><c> We</c><00:04:43.120><c> need</c>
+failure mode we're used to. We need
+failure mode we're used to. We need
+intelligent<00:04:44.080><c> failure</c><00:04:44.639><c> detection.</c><00:04:45.440><c> We</c><00:04:45.680><c> need</c>
+intelligent failure detection. We need
+intelligent failure detection. We need
+the<00:04:46.080><c> ability</c><00:04:46.320><c> to</c><00:04:46.560><c> monitor</c><00:04:47.040><c> reasoning</c>
+the ability to monitor reasoning
+the ability to monitor reasoning
+quality,<00:04:48.560><c> not</c><00:04:48.800><c> just</c><00:04:49.040><c> system</c><00:04:49.600><c> health.</c><00:04:50.240><c> And</c><00:04:50.400><c> how</c>
+quality, not just system health. And how
+quality, not just system health. And how
+you<00:04:50.880><c> measure</c><00:04:51.120><c> that</c><00:04:51.360><c> is</c><00:04:51.520><c> going</c><00:04:51.600><c> to</c><00:04:51.759><c> depend</c><00:04:52.080><c> on</c>
+you measure that is going to depend on
+you measure that is going to depend on
+the<00:04:52.479><c> kind</c><00:04:52.639><c> of</c><00:04:52.880><c> inference</c><00:04:53.360><c> you</c><00:04:53.680><c> want</c><00:04:53.759><c> to</c><00:04:54.000><c> build</c>
+the kind of inference you want to build
+the kind of inference you want to build
+into<00:04:54.560><c> your</c><00:04:54.720><c> agentic</c><00:04:55.360><c> system.</c><00:04:56.000><c> But</c><00:04:56.160><c> you</c><00:04:56.400><c> got</c><00:04:56.479><c> to</c>
+into your agentic system. But you got to
+into your agentic system. But you got to
+measure<00:04:56.880><c> it.</c><00:04:57.600><c> You've</c><00:04:57.919><c> got</c><00:04:58.080><c> to</c><00:04:58.320><c> be</c><00:04:58.479><c> able</c><00:04:58.720><c> to</c>
+measure it. You've got to be able to
+measure it. You've got to be able to
+detect<00:05:00.000><c> failures</c><00:05:00.479><c> that</c><00:05:00.800><c> occur</c><00:05:01.120><c> that</c><00:05:01.440><c> are</c><00:05:01.680><c> not</c>
+detect failures that occur that are not
+detect failures that occur that are not
+just<00:05:02.479><c> catastrophic</c><00:05:03.360><c> program</c><00:05:03.840><c> didn't</c><00:05:04.160><c> want</c>
+just catastrophic program didn't want
+just catastrophic program didn't want
+failures.<00:05:05.360><c> And</c><00:05:05.600><c> you</c><00:05:05.840><c> have</c><00:05:06.000><c> to</c><00:05:06.320><c> build</c><00:05:06.560><c> your</c>
+failures. And you have to build your
+failures. And you have to build your
+system<00:05:07.680><c> not</c><00:05:08.000><c> from</c><00:05:08.160><c> the</c><00:05:08.400><c> perspective</c><00:05:08.880><c> of</c><00:05:09.199><c> what</c>
+system not from the perspective of what
+system not from the perspective of what
+would<00:05:09.680><c> happen</c><00:05:09.919><c> if</c><00:05:10.160><c> the</c><00:05:10.400><c> whole</c><00:05:10.560><c> thing</c><00:05:10.720><c> went</c>
+would happen if the whole thing went
+would happen if the whole thing went
+down,<00:05:11.360><c> but</c><00:05:11.600><c> from</c><00:05:11.840><c> the</c><00:05:12.000><c> perspective</c><00:05:12.479><c> of</c><00:05:13.199><c> how</c>
+down, but from the perspective of how
+down, but from the perspective of how
+can<00:05:13.600><c> the</c><00:05:13.840><c> system</c><00:05:14.160><c> work</c><00:05:14.479><c> well</c><00:05:15.120><c> if</c><00:05:15.360><c> it's</c>
+can the system work well if it's
+can the system work well if it's
+difficult<00:05:16.160><c> to</c><00:05:16.400><c> detect</c><00:05:16.960><c> a</c><00:05:17.280><c> degradation</c><00:05:18.000><c> in</c>
+difficult to detect a degradation in
+difficult to detect a degradation in
+reasoning<00:05:18.800><c> quality.</c><00:05:19.680><c> You</c><00:05:19.919><c> need</c><00:05:20.080><c> to</c><00:05:20.400><c> assume</c>
+reasoning quality. You need to assume
+reasoning quality. You need to assume
+that<00:05:21.440><c> you</c><00:05:21.680><c> are</c><00:05:21.919><c> moving</c><00:05:22.320><c> from</c><00:05:23.280><c> a</c><00:05:23.600><c> fail</c><00:05:24.240><c> fast</c>
+that you are moving from a fail fast
+that you are moving from a fail fast
+world<00:05:25.840><c> to</c><00:05:26.160><c> a</c><00:05:26.479><c> subtle</c><00:05:26.960><c> failure</c><00:05:27.440><c> world</c><00:05:27.680><c> where</c>
+world to a subtle failure world where
+world to a subtle failure world where
+the<00:05:28.240><c> failure</c><00:05:28.639><c> is</c><00:05:28.880><c> going</c><00:05:28.960><c> to</c><00:05:29.199><c> be</c><00:05:29.360><c> hard</c><00:05:29.680><c> to</c>
+the failure is going to be hard to
+the failure is going to be hard to
+detect.<00:05:30.639><c> And</c><00:05:30.800><c> so</c><00:05:31.039><c> you</c><00:05:31.280><c> need</c><00:05:31.440><c> to</c><00:05:31.600><c> think</c><00:05:31.759><c> a</c><00:05:32.000><c> lot</c>
+detect. And so you need to think a lot
+detect. And so you need to think a lot
+about<00:05:32.400><c> how</c><00:05:32.639><c> you</c><00:05:32.880><c> monitor</c><00:05:33.280><c> quality</c><00:05:33.680><c> in</c><00:05:33.840><c> that</c>
+about how you monitor quality in that
+about how you monitor quality in that
+world.<00:05:34.320><c> And</c><00:05:34.479><c> that's</c><00:05:34.639><c> another</c><00:05:34.960><c> huge</c><00:05:35.360><c> shift</c><00:05:35.600><c> for</c>
+world. And that's another huge shift for
+world. And that's another huge shift for
+engineers<00:05:36.320><c> because</c><00:05:36.560><c> they're</c><00:05:36.800><c> used</c><00:05:36.960><c> to</c><00:05:37.199><c> very</c>
+engineers because they're used to very
+engineers because they're used to very
+simple<00:05:37.919><c> failure</c><00:05:38.320><c> modes</c><00:05:38.880><c> and</c><00:05:39.199><c> making</c><00:05:39.440><c> sure</c>
+simple failure modes and making sure
+simple failure modes and making sure
+that<00:05:39.840><c> they</c><00:05:40.080><c> have</c><00:05:40.240><c> like</c><00:05:40.400><c> a</c><00:05:40.639><c> really</c><00:05:41.039><c> clean</c><00:05:41.440><c> break</c>
+that they have like a really clean break
+that they have like a really clean break
+and<00:05:42.240><c> there's</c><00:05:42.479><c> no</c><00:05:42.720><c> massive</c><00:05:43.120><c> dependencies</c><00:05:43.680><c> if</c>
+and there's no massive dependencies if
+and there's no massive dependencies if
+something<00:05:44.080><c> goes</c><00:05:44.320><c> down</c><00:05:44.479><c> and</c><00:05:44.639><c> they</c><00:05:44.800><c> could</c><00:05:44.960><c> bring</c>
+something goes down and they could bring
+something goes down and they could bring
+it<00:05:45.280><c> back</c><00:05:45.440><c> up.</c><00:05:45.919><c> Not</c><00:05:46.160><c> anymore.</c><00:05:46.880><c> You</c><00:05:47.120><c> can</c><00:05:47.199><c> have</c>
+it back up. Not anymore. You can have
+it back up. Not anymore. You can have
+things<00:05:47.600><c> that</c><00:05:47.759><c> are</c><00:05:48.000><c> running</c><00:05:48.240><c> in</c><00:05:48.560><c> production</c>
+things that are running in production
+things that are running in production
+that<00:05:49.199><c> look</c><00:05:49.440><c> successful</c><00:05:50.000><c> by</c><00:05:50.240><c> most</c>
+that look successful by most
+that look successful by most
+deterministic<00:05:51.280><c> metrics</c><00:05:51.680><c> that</c><00:05:51.919><c> still</c><00:05:52.080><c> don't</c>
+deterministic metrics that still don't
+deterministic metrics that still don't
+work.<00:05:52.639><c> Next</c><00:05:52.960><c> principle,</c><00:05:53.520><c> this</c><00:05:53.680><c> is</c><00:05:53.840><c> number</c>
+work. Next principle, this is number
+work. Next principle, this is number
+four.<00:05:54.560><c> Uniform</c><00:05:55.199><c> load</c><00:05:55.600><c> distribution</c><00:05:56.160><c> is</c><00:05:56.400><c> the</c>
+four. Uniform load distribution is the
+four. Uniform load distribution is the
+old<00:05:56.880><c> way</c><00:05:57.120><c> of</c><00:05:57.360><c> doing</c><00:05:57.520><c> things.</c><00:05:57.840><c> We</c><00:05:58.000><c> had</c>
+old way of doing things. We had
+old way of doing things. We had
+identical<00:05:58.560><c> nodes.</c><00:05:58.880><c> They</c><00:05:59.039><c> handle</c><00:05:59.360><c> identical</c>
+identical nodes. They handle identical
+identical nodes. They handle identical
+requests.<00:06:00.080><c> They've</c><00:06:00.240><c> built</c><00:06:00.479><c> out</c><00:06:00.639><c> systems</c><00:06:01.039><c> like</c>
+requests. They've built out systems like
+requests. They've built out systems like
+this<00:06:01.680><c> and</c><00:06:02.000><c> different</c><00:06:02.320><c> requests</c><00:06:03.199><c> all</c><00:06:03.680><c> get</c><00:06:03.919><c> fed</c>
+this and different requests all get fed
+this and different requests all get fed
+the<00:06:04.479><c> same</c><00:06:04.639><c> way</c><00:06:05.199><c> because</c><00:06:05.840><c> basically</c><00:06:06.479><c> no</c><00:06:06.560><c> matter</c>
+the same way because basically no matter
+the same way because basically no matter
+sort<00:06:07.199><c> of</c><00:06:07.360><c> what</c><00:06:07.600><c> device</c><00:06:08.000><c> you're</c><00:06:08.160><c> on,</c><00:06:08.479><c> you're</c>
+sort of what device you're on, you're
+sort of what device you're on, you're
+getting<00:06:08.800><c> the</c><00:06:09.039><c> same</c><00:06:09.199><c> experience.</c><00:06:10.160><c> That</c><00:06:10.479><c> is</c><00:06:10.800><c> not</c>
+getting the same experience. That is not
+getting the same experience. That is not
+true<00:06:11.520><c> anymore.</c><00:06:12.400><c> Different</c><00:06:12.800><c> requests</c><00:06:13.280><c> to</c><00:06:13.520><c> the</c>
+true anymore. Different requests to the
+true anymore. Different requests to the
+system<00:06:14.080><c> in</c><00:06:14.319><c> an</c><00:06:14.479><c> agentic</c><00:06:15.120><c> system</c><00:06:15.440><c> can</c><00:06:15.759><c> mean</c>
+system in an agentic system can mean
+system in an agentic system can mean
+dramatically<00:06:16.800><c> different</c><00:06:17.280><c> computes,</c>
+dramatically different computes,
+dramatically different computes,
+hundreds<00:06:18.800><c> of</c><00:06:19.280><c> multiples</c><00:06:19.919><c> of</c><00:06:20.160><c> different</c>
+hundreds of multiples of different
+hundreds of multiples of different
+computes.<00:06:21.120><c> A</c><00:06:21.520><c> high</c><00:06:21.840><c> inference</c><00:06:22.479><c> compute</c>
+computes. A high inference compute
+computes. A high inference compute
+request<00:06:23.440><c> can</c><00:06:23.680><c> be</c><00:06:24.160><c> thousands</c><00:06:24.639><c> and</c><00:06:24.880><c> thousands</c>
+request can be thousands and thousands
+request can be thousands and thousands
+and<00:06:25.360><c> thousands</c><00:06:25.680><c> of</c><00:06:25.840><c> tokens.</c><00:06:26.560><c> and</c><00:06:26.720><c> you</c><00:06:26.880><c> can</c>
+and thousands of tokens. and you can
+and thousands of tokens. and you can
+serve<00:06:27.199><c> a</c><00:06:27.360><c> low</c><00:06:27.520><c> inference</c><00:06:28.080><c> compute</c><00:06:28.400><c> request</c><00:06:29.039><c> in</c>
+serve a low inference compute request in
+serve a low inference compute request in
+1/100th<00:06:30.240><c> of</c><00:06:30.400><c> the</c><00:06:30.560><c> space</c><00:06:30.960><c> like</c><00:06:31.199><c> it's</c><00:06:31.440><c> a</c><00:06:31.600><c> very</c>
+1/100th of the space like it's a very
+1/100th of the space like it's a very
+token<00:06:32.240><c> efficient</c><00:06:32.639><c> request.</c><00:06:33.520><c> So</c><00:06:33.759><c> you</c><00:06:34.000><c> need</c><00:06:34.160><c> to</c>
+token efficient request. So you need to
+token efficient request. So you need to
+think<00:06:34.800><c> not</c><00:06:35.199><c> about</c><00:06:36.080><c> identical</c><00:06:36.560><c> nodes</c><00:06:36.880><c> and</c><00:06:37.039><c> how</c>
+think not about identical nodes and how
+think not about identical nodes and how
+you<00:06:37.440><c> uniformly</c><00:06:38.000><c> distribute</c><00:06:38.479><c> a</c><00:06:38.720><c> load</c><00:06:38.880><c> that</c><00:06:39.120><c> you</c>
+you uniformly distribute a load that you
+you uniformly distribute a load that you
+presume<00:06:39.600><c> is</c><00:06:39.919><c> consistent.</c><00:06:40.880><c> Instead</c><00:06:41.360><c> think</c>
+presume is consistent. Instead think
+presume is consistent. Instead think
+about<00:06:41.840><c> capability</c><00:06:42.639><c> based</c><00:06:42.960><c> routing.</c><00:06:43.520><c> Think</c>
+about capability based routing. Think
+about capability based routing. Think
+about<00:06:44.000><c> how</c><00:06:44.319><c> you</c><00:06:44.560><c> rate</c><00:06:44.960><c> route</c><00:06:45.520><c> based</c><00:06:45.840><c> on</c><00:06:46.160><c> task</c>
+about how you rate route based on task
+about how you rate route based on task
+complexity<00:06:47.360><c> and</c><00:06:47.520><c> the</c><00:06:47.759><c> confidence</c><00:06:48.080><c> that</c><00:06:48.319><c> AI</c>
+complexity and the confidence that AI
+complexity and the confidence that AI
+has<00:06:49.039><c> in</c><00:06:49.280><c> a</c><00:06:49.520><c> particular</c><00:06:49.919><c> problem</c><00:06:50.319><c> space.</c><00:06:50.880><c> Is</c><00:06:51.039><c> AI</c>
+has in a particular problem space. Is AI
+has in a particular problem space. Is AI
+going<00:06:51.520><c> to</c><00:06:51.680><c> have</c><00:06:51.840><c> to</c><00:06:52.000><c> burn</c><00:06:52.240><c> a</c><00:06:52.400><c> lot</c><00:06:52.479><c> of</c><00:06:52.560><c> tokens</c>
+going to have to burn a lot of tokens
+going to have to burn a lot of tokens
+understanding<00:06:53.600><c> their</c><00:06:53.840><c> request?</c><00:06:54.319><c> Is</c><00:06:54.479><c> it</c>
+understanding their request? Is it
+understanding their request? Is it
+complex?<00:06:55.039><c> So</c><00:06:55.120><c> we</c><00:06:55.360><c> need</c><00:06:55.440><c> to</c><00:06:55.520><c> route</c><00:06:55.840><c> it</c>
+complex? So we need to route it
+complex? So we need to route it
+differently<00:06:56.720><c> than</c><00:06:56.960><c> if</c><00:06:57.199><c> AI</c><00:06:57.600><c> understands</c>
+differently than if AI understands
+differently than if AI understands
+what's<00:06:58.400><c> going</c><00:06:58.479><c> on.</c><00:06:58.800><c> It's</c><00:06:58.960><c> a</c><00:06:59.120><c> very</c><00:06:59.280><c> low</c>
+what's going on. It's a very low
+what's going on. It's a very low
+inference<00:07:00.080><c> task.</c><00:07:00.880><c> So</c><00:07:01.360><c> again,</c><00:07:01.680><c> we're</c><00:07:01.840><c> we're</c>
+inference task. So again, we're we're
+inference task. So again, we're we're
+changing<00:07:02.479><c> the</c><00:07:02.639><c> way</c><00:07:02.720><c> we</c><00:07:02.960><c> think.</c><00:07:03.280><c> It's</c><00:07:03.520><c> not</c>
+changing the way we think. It's not
+changing the way we think. It's not
+about<00:07:04.319><c> distributing</c><00:07:05.039><c> massive</c><00:07:05.599><c> consistent</c>
+about distributing massive consistent
+about distributing massive consistent
+load<00:07:06.400><c> evenly</c><00:07:06.960><c> across</c><00:07:07.360><c> a</c><00:07:07.680><c> bunch</c><00:07:08.080><c> of</c><00:07:08.560><c> identical</c>
+load evenly across a bunch of identical
+load evenly across a bunch of identical
+nodes.<00:07:09.440><c> It's</c><00:07:09.680><c> about</c><00:07:10.000><c> understanding</c><00:07:10.479><c> the</c>
+nodes. It's about understanding the
+nodes. It's about understanding the
+differential<00:07:11.599><c> capabilities</c><00:07:12.240><c> of</c><00:07:12.400><c> your</c><00:07:12.639><c> nodes</c>
+differential capabilities of your nodes
+differential capabilities of your nodes
+and<00:07:13.440><c> making</c><00:07:13.759><c> really</c><00:07:14.080><c> really</c><00:07:14.400><c> smart</c><00:07:14.720><c> choices</c>
+and making really really smart choices
+and making really really smart choices
+about<00:07:15.840><c> where</c><00:07:16.160><c> you</c><00:07:16.400><c> put</c><00:07:16.560><c> the</c><00:07:16.800><c> capabilities</c><00:07:17.440><c> you</c>
+about where you put the capabilities you
+about where you put the capabilities you
+have.<00:07:17.919><c> Where</c><00:07:18.080><c> do</c><00:07:18.240><c> you</c><00:07:18.319><c> burn</c><00:07:18.639><c> the</c><00:07:18.800><c> tokens</c><00:07:19.199><c> with</c>
+have. Where do you burn the tokens with
+have. Where do you burn the tokens with
+a<00:07:19.599><c> smarter</c><00:07:19.919><c> model?</c><00:07:20.479><c> It's</c><00:07:20.639><c> a</c><00:07:20.880><c> new</c><00:07:21.039><c> thing,</c>
+a smarter model? It's a new thing,
+a smarter model? It's a new thing,
+right?<00:07:21.599><c> We</c><00:07:21.759><c> have</c><00:07:21.840><c> to</c><00:07:22.080><c> think</c><00:07:22.240><c> about</c><00:07:22.560><c> routing</c>
+right? We have to think about routing
+right? We have to think about routing
+differently.<00:07:23.919><c> We</c><00:07:24.160><c> have</c><00:07:24.240><c> to</c><00:07:24.400><c> think</c><00:07:24.479><c> about</c>
+differently. We have to think about
+differently. We have to think about
+routing<00:07:25.120><c> intelligently.</c><00:07:25.759><c> There</c><00:07:25.919><c> are</c><00:07:26.080><c> people</c>
+routing intelligently. There are people
+routing intelligently. There are people
+who<00:07:26.319><c> are</c><00:07:26.479><c> building</c><00:07:26.720><c> agentic</c><00:07:27.280><c> systems</c><00:07:27.599><c> with</c>
+who are building agentic systems with
+who are building agentic systems with
+reasoners<00:07:28.400><c> just</c><00:07:28.560><c> to</c><00:07:28.800><c> solve</c><00:07:29.039><c> this</c><00:07:29.280><c> problem.</c>
+reasoners just to solve this problem.
+reasoners just to solve this problem.
+Principle<00:07:30.160><c> number</c><00:07:30.400><c> five</c><00:07:30.560><c> is</c><00:07:30.880><c> binary</c><00:07:31.440><c> health</c>
+Principle number five is binary health
+Principle number five is binary health
+state.<00:07:32.160><c> So</c><00:07:32.319><c> we're</c><00:07:32.560><c> used</c><00:07:32.800><c> to</c><00:07:32.960><c> system</c><00:07:33.360><c> up</c><00:07:33.759><c> system</c>
+state. So we're used to system up system
+state. So we're used to system up system
+down.<00:07:34.720><c> Again</c><00:07:35.280><c> I</c><00:07:35.599><c> want</c><00:07:35.680><c> to</c><00:07:35.840><c> call</c><00:07:36.080><c> out</c><00:07:36.240><c> for</c><00:07:36.479><c> you</c>
+down. Again I want to call out for you
+down. Again I want to call out for you
+that<00:07:37.199><c> it</c><00:07:37.440><c> is</c><00:07:37.599><c> not</c><00:07:37.840><c> that</c><00:07:38.080><c> simple</c><00:07:38.240><c> in</c><00:07:38.400><c> an</c><00:07:38.560><c> agentic</c>
+that it is not that simple in an agentic
+that it is not that simple in an agentic
+system.<00:07:39.840><c> You</c><00:07:40.080><c> can</c><00:07:40.240><c> have</c><00:07:40.960><c> system</c><00:07:41.280><c> up</c><00:07:41.599><c> system</c>
+system. You can have system up system
+system. You can have system up system
+down<00:07:42.240><c> and</c><00:07:42.400><c> you</c><00:07:42.560><c> can</c><00:07:42.720><c> have</c><00:07:43.280><c> a</c><00:07:43.599><c> lot</c><00:07:43.680><c> of</c><00:07:43.919><c> complex</c>
+down and you can have a lot of complex
+down and you can have a lot of complex
+states<00:07:44.720><c> in</c><00:07:44.880><c> between</c><00:07:45.280><c> when</c><00:07:45.440><c> you</c><00:07:45.599><c> have</c><00:07:45.680><c> a</c>
+states in between when you have a
+states in between when you have a
+multi-agentic<00:07:46.720><c> system.</c><00:07:47.280><c> I</c><00:07:47.520><c> talked</c><00:07:47.840><c> earlier</c>
+multi-agentic system. I talked earlier
+multi-agentic system. I talked earlier
+about<00:07:48.319><c> the</c><00:07:48.560><c> idea</c><00:07:48.720><c> that</c><00:07:48.960><c> you</c><00:07:49.120><c> can</c><00:07:49.360><c> have</c><00:07:49.759><c> a</c><00:07:50.000><c> fail</c>
+about the idea that you can have a fail
+about the idea that you can have a fail
+fast<00:07:50.720><c> design</c><00:07:51.039><c> that</c><00:07:51.280><c> gets</c><00:07:51.440><c> to</c><00:07:51.599><c> intelligent</c>
+fast design that gets to intelligent
+fast design that gets to intelligent
+failure<00:07:52.479><c> detection</c><00:07:52.880><c> and</c><00:07:53.120><c> how</c><00:07:53.280><c> you</c><00:07:53.520><c> have</c><00:07:53.599><c> to</c>
+failure detection and how you have to
+failure detection and how you have to
+understand<00:07:54.479><c> reasoning</c><00:07:54.879><c> quality.</c><00:07:55.520><c> This</c><00:07:55.680><c> is</c>
+understand reasoning quality. This is
+understand reasoning quality. This is
+sort<00:07:56.000><c> of</c><00:07:56.000><c> the</c><00:07:56.240><c> next</c><00:07:56.479><c> level</c><00:07:56.720><c> of</c><00:07:56.879><c> that.</c><00:07:57.360><c> In</c><00:07:57.599><c> this</c>
+sort of the next level of that. In this
+sort of the next level of that. In this
+case,<00:07:57.919><c> it's</c><00:07:58.080><c> a</c><00:07:58.240><c> multi-</c><00:07:58.560><c> aent</c><00:07:59.039><c> system</c><00:07:59.680><c> and</c><00:07:59.919><c> you</c>
+case, it's a multi- aent system and you
+case, it's a multi- aent system and you
+have<00:08:00.319><c> to</c><00:08:00.560><c> understand</c><00:08:01.039><c> that</c><00:08:01.199><c> the</c><00:08:01.440><c> system</c><00:08:01.759><c> can</c>
+have to understand that the system can
+have to understand that the system can
+be<00:08:02.080><c> up</c><00:08:02.319><c> and</c><00:08:02.560><c> partially</c><00:08:03.120><c> functioning.</c><00:08:04.000><c> The</c>
+be up and partially functioning. The
+be up and partially functioning. The
+system<00:08:04.479><c> can</c><00:08:04.639><c> be</c><00:08:04.800><c> up</c><00:08:04.960><c> and</c><00:08:05.199><c> not</c><00:08:05.440><c> functioning.</c>
+system can be up and not functioning.
+system can be up and not functioning.
+The<00:08:06.560><c> system</c><00:08:06.800><c> can</c><00:08:06.960><c> be</c><00:08:07.120><c> up</c><00:08:07.280><c> and</c><00:08:07.440><c> some</c><00:08:07.520><c> of</c><00:08:07.599><c> the</c>
+The system can be up and some of the
+The system can be up and some of the
+handshakes<00:08:08.240><c> between</c><00:08:08.400><c> the</c><00:08:08.560><c> agents</c><00:08:08.879><c> aren't</c>
+handshakes between the agents aren't
+handshakes between the agents aren't
+working,<00:08:09.759><c> but</c><00:08:10.000><c> you</c><00:08:10.240><c> still</c><00:08:10.560><c> can</c><00:08:11.440><c> get</c><00:08:12.000><c> most</c><00:08:12.319><c> of</c>
+working, but you still can get most of
+working, but you still can get most of
+the<00:08:12.639><c> functionality</c><00:08:13.120><c> there,</c><00:08:13.360><c> but</c><00:08:13.599><c> maybe</c>
+the functionality there, but maybe
+the functionality there, but maybe
+there's<00:08:14.000><c> degraded</c><00:08:14.479><c> intelligence.</c><00:08:15.360><c> What</c><00:08:15.599><c> I'm</c>
+there's degraded intelligence. What I'm
+there's degraded intelligence. What I'm
+saying<00:08:15.919><c> is</c><00:08:16.160><c> that</c><00:08:16.319><c> you've</c><00:08:16.560><c> moved</c><00:08:16.800><c> from</c><00:08:16.960><c> a</c><00:08:17.199><c> black</c>
+saying is that you've moved from a black
+saying is that you've moved from a black
+and<00:08:17.599><c> white</c><00:08:17.840><c> world</c><00:08:18.080><c> to</c><00:08:18.240><c> a</c><00:08:18.479><c> world</c><00:08:18.639><c> where</c><00:08:18.800><c> there</c>
+and white world to a world where there
+and white world to a world where there
+are<00:08:19.520><c> lots</c><00:08:19.759><c> and</c><00:08:20.000><c> lots</c><00:08:20.160><c> of</c><00:08:20.319><c> shades</c><00:08:20.639><c> of</c><00:08:20.800><c> gray,</c>
+are lots and lots of shades of gray,
+are lots and lots of shades of gray,
+maybe<00:08:21.759><c> 50</c><00:08:22.080><c> shades</c><00:08:22.319><c> of</c><00:08:22.479><c> gray,</c><00:08:22.879><c> and</c><00:08:23.280><c> you</c><00:08:23.599><c> have</c><00:08:23.759><c> to</c>
+maybe 50 shades of gray, and you have to
+maybe 50 shades of gray, and you have to
+figure<00:08:24.240><c> out</c><00:08:24.800><c> what</c><00:08:25.120><c> to</c><00:08:25.280><c> do</c><00:08:25.919><c> with</c><00:08:26.240><c> measurement,</c>
+figure out what to do with measurement,
+figure out what to do with measurement,
+with<00:08:27.039><c> quality,</c><00:08:27.840><c> with</c><00:08:28.080><c> system</c><00:08:28.479><c> health</c><00:08:29.039><c> when</c>
+with quality, with system health when
+with quality, with system health when
+it's<00:08:29.440><c> that</c><00:08:29.680><c> complex.</c><00:08:30.240><c> And</c><00:08:30.400><c> the</c><00:08:30.560><c> more</c><00:08:30.800><c> agents</c>
+it's that complex. And the more agents
+it's that complex. And the more agents
+you<00:08:31.440><c> add</c><00:08:31.599><c> to</c><00:08:31.759><c> the</c><00:08:31.919><c> system,</c><00:08:32.560><c> the</c><00:08:32.800><c> more</c><00:08:33.039><c> complex</c>
+you add to the system, the more complex
+you add to the system, the more complex
+it<00:08:33.599><c> is</c><00:08:33.760><c> to</c><00:08:33.919><c> measure</c><00:08:34.240><c> system</c><00:08:34.560><c> health.</c><00:08:34.959><c> And</c><00:08:35.200><c> so</c>
+it is to measure system health. And so
+it is to measure system health. And so
+you<00:08:35.599><c> are</c><00:08:35.760><c> the</c><00:08:35.919><c> one</c><00:08:36.000><c> that</c><00:08:36.240><c> has</c><00:08:36.399><c> to</c><00:08:36.560><c> track</c><00:08:37.120><c> the</c>
+you are the one that has to track the
+you are the one that has to track the
+outputs<00:08:37.839><c> coming</c><00:08:38.080><c> through,</c><00:08:38.640><c> the</c><00:08:38.880><c> quality</c><00:08:39.200><c> of</c>
+outputs coming through, the quality of
+outputs coming through, the quality of
+those<00:08:39.599><c> outputs,</c><00:08:40.399><c> understand</c><00:08:40.800><c> enough</c><00:08:41.120><c> of</c><00:08:41.200><c> the</c>
+those outputs, understand enough of the
+those outputs, understand enough of the
+audit<00:08:41.680><c> trace</c><00:08:42.000><c> to</c><00:08:42.240><c> understand</c><00:08:42.800><c> where</c><00:08:43.120><c> the</c>
+audit trace to understand where the
+audit trace to understand where the
+agents<00:08:43.599><c> are</c><00:08:43.760><c> breaking</c><00:08:44.080><c> handshakes</c><00:08:44.560><c> or</c><00:08:44.720><c> where</c>
+agents are breaking handshakes or where
+agents are breaking handshakes or where
+the<00:08:44.959><c> agent</c><00:08:45.680><c> uh</c><00:08:45.839><c> reasoning</c><00:08:46.240><c> traces</c><00:08:46.640><c> aren't</c>
+the agent uh reasoning traces aren't
+the agent uh reasoning traces aren't
+working<00:08:47.120><c> well</c><00:08:47.440><c> or</c><00:08:47.680><c> where</c><00:08:47.839><c> there's</c>
+working well or where there's
+working well or where there's
+degradation<00:08:48.480><c> in</c><00:08:48.640><c> outputs</c><00:08:49.040><c> or</c><00:08:49.360><c> maybe</c><00:08:49.600><c> where</c>
+degradation in outputs or maybe where
+degradation in outputs or maybe where
+there's<00:08:49.920><c> a</c><00:08:50.080><c> context</c><00:08:50.480><c> drift</c><00:08:50.800><c> somewhere</c><00:08:51.200><c> to</c><00:08:51.440><c> pin</c>
+there's a context drift somewhere to pin
+there's a context drift somewhere to pin
+down<00:08:51.920><c> what's</c><00:08:52.240><c> going</c><00:08:52.320><c> on.</c><00:08:52.800><c> It</c><00:08:53.040><c> is</c><00:08:53.200><c> a</c><00:08:53.440><c> much</c>
+down what's going on. It is a much
+down what's going on. It is a much
+higher<00:08:54.160><c> bar</c><00:08:54.399><c> for</c><00:08:54.640><c> auditability</c><00:08:55.600><c> than</c><00:08:55.839><c> it</c><00:08:56.080><c> used</c>
+higher bar for auditability than it used
+higher bar for auditability than it used
+to<00:08:56.320><c> be.</c><00:08:56.800><c> The</c><00:08:57.040><c> last</c><00:08:57.200><c> principle</c><00:08:57.519><c> I</c><00:08:57.760><c> want</c><00:08:57.839><c> to</c><00:08:57.920><c> call</c>
+to be. The last principle I want to call
+to be. The last principle I want to call
+out<00:08:58.399><c> is</c><00:08:58.959><c> input</c><00:08:59.519><c> validation.</c><00:09:00.560><c> So</c><00:09:01.120><c> before</c><00:09:01.519><c> you</c>
+out is input validation. So before you
+out is input validation. So before you
+validated<00:09:02.240><c> once,</c><00:09:02.640><c> right?</c><00:09:02.959><c> If</c><00:09:03.120><c> you</c><00:09:03.279><c> were</c><00:09:03.440><c> doing</c>
+validated once, right? If you were doing
+validated once, right? If you were doing
+inputs,<00:09:04.160><c> it</c><00:09:04.320><c> was</c><00:09:04.480><c> like</c><00:09:04.640><c> we</c><00:09:04.800><c> need</c><00:09:04.880><c> to</c><00:09:05.040><c> validate</c>
+inputs, it was like we need to validate
+inputs, it was like we need to validate
+at<00:09:05.600><c> the</c><00:09:05.760><c> gateway.</c><00:09:06.480><c> It</c><00:09:06.640><c> goes</c><00:09:06.800><c> into</c><00:09:06.959><c> the</c><00:09:07.120><c> micros</c>
+at the gateway. It goes into the micros
+at the gateway. It goes into the micros
+service<00:09:07.680><c> and</c><00:09:07.920><c> we're</c><00:09:08.080><c> done.</c><00:09:08.399><c> So</c><00:09:08.640><c> far</c><00:09:08.880><c> so</c><00:09:09.200><c> good.</c>
+service and we're done. So far so good.
+service and we're done. So far so good.
+These<00:09:09.839><c> days</c><00:09:10.080><c> it's</c><00:09:10.399><c> not</c><00:09:10.480><c> the</c><00:09:10.720><c> same.</c><00:09:11.200><c> These</c><00:09:11.600><c> days</c>
+These days it's not the same. These days
+These days it's not the same. These days
+you<00:09:12.160><c> have</c><00:09:12.320><c> to</c><00:09:12.720><c> validate</c><00:09:13.600><c> throughout</c><00:09:14.000><c> the</c>
+you have to validate throughout the
+you have to validate throughout the
+conversation<00:09:15.120><c> state.</c><00:09:15.920><c> You</c><00:09:16.160><c> have</c><00:09:16.399><c> continuous</c>
+conversation state. You have continuous
+conversation state. You have continuous
+validation.<00:09:18.000><c> You</c><00:09:18.240><c> you</c><00:09:18.640><c> have</c><00:09:18.800><c> to</c><00:09:19.040><c> understand</c>
+validation. You you have to understand
+validation. You you have to understand
+that<00:09:19.680><c> AI</c><00:09:20.080><c> behavior</c><00:09:20.959><c> depends</c><00:09:21.360><c> on</c><00:09:21.600><c> accumulated</c>
+that AI behavior depends on accumulated
+that AI behavior depends on accumulated
+context.<00:09:22.880><c> And</c><00:09:23.040><c> so</c><00:09:23.200><c> you</c><00:09:23.360><c> need</c><00:09:23.519><c> to</c><00:09:23.680><c> validate</c><00:09:24.160><c> as</c>
+context. And so you need to validate as
+context. And so you need to validate as
+you<00:09:24.720><c> go</c><00:09:25.279><c> or</c><00:09:25.519><c> else</c><00:09:25.760><c> you're</c><00:09:26.000><c> going</c><00:09:26.160><c> to</c><00:09:26.480><c> not</c><00:09:26.720><c> know</c>
+you go or else you're going to not know
+you go or else you're going to not know
+where<00:09:27.120><c> you</c><00:09:27.279><c> are</c><00:09:27.440><c> going</c><00:09:27.600><c> off</c><00:09:27.839><c> the</c><00:09:28.000><c> tracks.</c><00:09:28.640><c> And</c>
+where you are going off the tracks. And
+where you are going off the tracks. And
+so<00:09:29.360><c> you</c><00:09:29.680><c> need</c><00:09:29.760><c> to</c><00:09:30.000><c> think</c><00:09:30.080><c> of</c><00:09:30.240><c> it</c><00:09:30.399><c> almost</c><00:09:30.640><c> as</c><00:09:30.880><c> a</c>
+so you need to think of it almost as a
+so you need to think of it almost as a
+continuous<00:09:31.519><c> edge.</c><00:09:32.000><c> You</c><00:09:32.240><c> need</c><00:09:32.320><c> to</c><00:09:32.399><c> think</c><00:09:32.560><c> of</c><00:09:32.720><c> it</c>
+continuous edge. You need to think of it
+continuous edge. You need to think of it
+as<00:09:33.440><c> each</c><00:09:33.839><c> turn</c><00:09:34.160><c> in</c><00:09:34.320><c> the</c><00:09:34.560><c> conversation</c><00:09:35.120><c> is</c>
+as each turn in the conversation is
+as each turn in the conversation is
+potentially<00:09:35.839><c> a</c><00:09:36.080><c> step</c><00:09:36.320><c> that</c><00:09:36.560><c> requires</c><00:09:36.959><c> some</c>
+potentially a step that requires some
+potentially a step that requires some
+validation<00:09:37.680><c> of</c><00:09:37.920><c> conversation</c><00:09:38.560><c> state.</c><00:09:39.120><c> So</c><00:09:39.360><c> you</c>
+validation of conversation state. So you
+validation of conversation state. So you
+know<00:09:39.680><c> there</c><00:09:39.839><c> was</c><00:09:39.920><c> a</c><00:09:40.080><c> checkpoint</c><00:09:40.480><c> there</c><00:09:40.640><c> and</c><00:09:40.800><c> it</c>
+know there was a checkpoint there and it
+know there was a checkpoint there and it
+worked.<00:09:41.360><c> Otherwise</c><00:09:41.760><c> it's</c><00:09:42.000><c> very</c><00:09:42.240><c> very</c>
+worked. Otherwise it's very very
+worked. Otherwise it's very very
+difficult<00:09:42.800><c> to</c><00:09:43.040><c> debug</c><00:09:43.440><c> these</c><00:09:43.760><c> systems.</c><00:09:44.399><c> If</c><00:09:44.640><c> all</c>
+difficult to debug these systems. If all
+difficult to debug these systems. If all
+of<00:09:44.959><c> this</c><00:09:45.360><c> sounds</c><00:09:46.320><c> difficult,</c><00:09:47.120><c> it</c><00:09:47.519><c> should.</c><00:09:48.160><c> It</c>
+of this sounds difficult, it should. It
+of this sounds difficult, it should. It
+is<00:09:48.640><c> much</c><00:09:48.959><c> much</c><00:09:49.360><c> harder</c><00:09:49.760><c> to</c><00:09:50.000><c> design</c><00:09:50.399><c> healthy</c>
+is much much harder to design healthy
+is much much harder to design healthy
+agentic<00:09:51.519><c> AI</c><00:09:51.920><c> systems</c><00:09:52.720><c> than</c><00:09:52.959><c> it</c><00:09:53.200><c> was</c><00:09:53.440><c> to</c><00:09:53.680><c> design</c>
+agentic AI systems than it was to design
+agentic AI systems than it was to design
+traditional<00:09:54.640><c> software.</c><00:09:55.440><c> And</c><00:09:55.680><c> we</c><00:09:55.920><c> have</c><00:09:56.160><c> had</c>
+traditional software. And we have had
+traditional software. And we have had
+very<00:09:57.200><c> very</c><00:09:57.680><c> few</c><00:09:58.080><c> conversations</c><00:09:58.959><c> about</c><00:09:59.279><c> how</c>
+very very few conversations about how
+very very few conversations about how
+traditional<00:10:00.080><c> engineering</c><00:10:00.640><c> principles</c><00:10:01.600><c> do</c>
+traditional engineering principles do
+traditional engineering principles do
+not<00:10:02.080><c> work</c><00:10:02.560><c> in</c><00:10:02.800><c> the</c><00:10:02.959><c> age</c><00:10:03.120><c> of</c><00:10:03.279><c> AI.</c><00:10:03.839><c> I</c><00:10:04.160><c> hope</c><00:10:04.560><c> that</c>
+not work in the age of AI. I hope that
+not work in the age of AI. I hope that
+this<00:10:05.120><c> breakdown</c><00:10:06.000><c> has</c><00:10:06.240><c> helped</c><00:10:06.480><c> you</c><00:10:06.640><c> to</c><00:10:06.880><c> see</c><00:10:07.440><c> how</c>
+this breakdown has helped you to see how
+this breakdown has helped you to see how
+some<00:10:07.839><c> of</c><00:10:07.920><c> the</c><00:10:08.080><c> traditional</c><00:10:08.480><c> principles</c><00:10:08.800><c> we</c>
+some of the traditional principles we
+some of the traditional principles we
+have<00:10:09.200><c> which</c><00:10:09.360><c> are</c><00:10:09.519><c> not</c><00:10:09.760><c> entirely</c><00:10:10.160><c> dead.</c><00:10:10.480><c> If</c>
+have which are not entirely dead. If
+have which are not entirely dead. If
+you're<00:10:10.800><c> still</c><00:10:10.959><c> building</c><00:10:11.200><c> traditional</c>
+you're still building traditional
+you're still building traditional
+software,<00:10:12.080><c> these</c><00:10:12.320><c> are</c><00:10:12.399><c> still</c><00:10:12.640><c> good</c>
+software, these are still good
+software, these are still good
+principles<00:10:13.440><c> and</c><00:10:13.760><c> many</c><00:10:13.920><c> of</c><00:10:14.079><c> our</c><00:10:14.240><c> systems</c><00:10:14.560><c> are</c>
+principles and many of our systems are
+principles and many of our systems are
+hybrid<00:10:15.279><c> systems.</c><00:10:15.839><c> And</c><00:10:16.079><c> the</c><00:10:16.320><c> post</c><00:10:16.560><c> that</c><00:10:16.720><c> I'm</c>
+hybrid systems. And the post that I'm
+hybrid systems. And the post that I'm
+writing<00:10:17.040><c> on</c><00:10:17.200><c> this</c><00:10:17.360><c> sort</c><00:10:17.519><c> of</c><00:10:17.600><c> goes</c><00:10:17.839><c> into</c><00:10:18.000><c> this</c>
+writing on this sort of goes into this
+writing on this sort of goes into this
+in<00:10:18.399><c> much</c><00:10:18.560><c> more</c><00:10:18.800><c> depth.</c><00:10:19.279><c> But</c><00:10:19.680><c> you</c><00:10:20.000><c> sometimes</c>
+in much more depth. But you sometimes
+in much more depth. But you sometimes
+have<00:10:20.720><c> to</c><00:10:20.880><c> build</c><00:10:21.200><c> systems</c><00:10:21.920><c> that</c><00:10:22.240><c> are</c><00:10:22.399><c> both</c>
+have to build systems that are both
+have to build systems that are both
+traditional<00:10:23.360><c> deterministic</c><00:10:24.079><c> software</c>
+traditional deterministic software
+traditional deterministic software
+systems<00:10:24.959><c> and</c><00:10:25.279><c> AI</c><00:10:25.680><c> systems.</c><00:10:26.160><c> In</c><00:10:26.320><c> fact,</c><00:10:26.560><c> most</c><00:10:26.800><c> of</c>
+systems and AI systems. In fact, most of
+systems and AI systems. In fact, most of
+the<00:10:26.959><c> ones</c><00:10:27.200><c> that</c><00:10:27.360><c> I</c><00:10:27.519><c> build</c><00:10:27.680><c> end</c><00:10:27.920><c> up</c><00:10:28.079><c> being</c>
+the ones that I build end up being
+the ones that I build end up being
+hybrids.<00:10:28.720><c> And</c><00:10:28.880><c> so</c><00:10:29.040><c> you</c><00:10:29.200><c> have</c><00:10:29.360><c> to</c><00:10:29.519><c> be</c><00:10:29.680><c> smart</c>
+hybrids. And so you have to be smart
+hybrids. And so you have to be smart
+enough<00:10:30.160><c> to</c><00:10:30.320><c> take</c><00:10:30.560><c> traditional</c><00:10:31.040><c> principles</c>
+enough to take traditional principles
+enough to take traditional principles
+like<00:10:31.600><c> stateless</c><00:10:32.079><c> services</c><00:10:32.480><c> where</c><00:10:32.720><c> they</c>
+like stateless services where they
+like stateless services where they
+matter<00:10:33.440><c> for</c><00:10:33.680><c> deterministic</c><00:10:34.480><c> software</c><00:10:35.279><c> and</c>
+matter for deterministic software and
+matter for deterministic software and
+also<00:10:36.399><c> take</c><00:10:36.800><c> stateful</c><00:10:37.440><c> intelligence</c><00:10:38.000><c> which</c><00:10:38.240><c> is</c>
+also take stateful intelligence which is
+also take stateful intelligence which is
+the<00:10:38.480><c> AI</c><00:10:38.880><c> principle</c><00:10:39.600><c> and</c><00:10:39.839><c> apply</c><00:10:40.160><c> that</c><00:10:40.399><c> where</c><00:10:40.720><c> it</c>
+the AI principle and apply that where it
+the AI principle and apply that where it
+matters<00:10:41.200><c> for</c><00:10:41.360><c> designing</c><00:10:41.839><c> agentic</c><00:10:42.399><c> systems.</c>
+matters for designing agentic systems.
+matters for designing agentic systems.
+We<00:10:43.360><c> need</c><00:10:43.920><c> new</c><00:10:44.240><c> schools.</c><00:10:44.880><c> We</c><00:10:45.040><c> need</c><00:10:45.279><c> new</c>
+We need new schools. We need new
+We need new schools. We need new
+principles.<00:10:46.000><c> We</c><00:10:46.240><c> need</c><00:10:46.399><c> new</c><00:10:46.720><c> understanding</c><00:10:47.279><c> of</c>
+principles. We need new understanding of
+principles. We need new understanding of
+how<00:10:47.680><c> AI</c><00:10:48.079><c> systems</c><00:10:48.480><c> truly</c><00:10:48.959><c> scale.</c><00:10:49.600><c> And</c><00:10:49.760><c> I</c><00:10:50.079><c> hope</c>
+how AI systems truly scale. And I hope
+how AI systems truly scale. And I hope
+that<00:10:50.640><c> this</c><00:10:50.959><c> breakdown</c><00:10:51.839><c> has</c><00:10:52.079><c> helped</c><00:10:52.320><c> you</c><00:10:52.480><c> to</c>
+that this breakdown has helped you to
+that this breakdown has helped you to
+get<00:10:52.800><c> a</c><00:10:53.040><c> sense</c><00:10:53.200><c> of</c><00:10:53.360><c> what</c><00:10:53.600><c> some</c><00:10:53.760><c> of</c><00:10:53.839><c> those</c><00:10:54.000><c> new</c>
+get a sense of what some of those new
+get a sense of what some of those new
+principles<00:10:54.640><c> are,</c><00:10:54.880><c> of</c><00:10:55.120><c> how</c><00:10:55.360><c> to</c><00:10:55.680><c> actually</c>
+principles are, of how to actually
+principles are, of how to actually
+construct<00:10:56.560><c> systems</c><00:10:57.040><c> based</c><00:10:57.279><c> on</c><00:10:57.600><c> principles</c>
+construct systems based on principles
+construct systems based on principles
+that<00:10:58.320><c> scale,</c><00:10:58.959><c> not</c><00:10:59.120><c> just</c><00:10:59.360><c> based</c><00:10:59.519><c> on</c><00:10:59.760><c> tactical</c>
+that scale, not just based on tactical
+that scale, not just based on tactical
+tips.<00:11:00.800><c> So</c><00:11:00.959><c> there</c><00:11:01.120><c> you</c><00:11:01.279><c> go.</c><00:11:01.600><c> Those</c><00:11:01.760><c> are</c><00:11:01.920><c> my</c><00:11:02.079><c> six</c>
+tips. So there you go. Those are my six
+tips. So there you go. Those are my six
+principles<00:11:02.720><c> for</c><00:11:02.959><c> AI.</c><00:11:03.440><c> Stateful</c>
+principles for AI. Stateful
+principles for AI. Stateful
+intelligence.<00:11:04.800><c> Bound</c><00:11:05.120><c> that</c><00:11:05.360><c> uncertainty.</c>
+intelligence. Bound that uncertainty.
+intelligence. Bound that uncertainty.
+Make<00:11:06.640><c> sure</c><00:11:06.800><c> you</c><00:11:06.959><c> have</c><00:11:07.200><c> really</c><00:11:07.519><c> intelligent</c>
+Make sure you have really intelligent
+Make sure you have really intelligent
+failure<00:11:08.399><c> detection.</c><00:11:09.120><c> Assume</c><00:11:09.519><c> you're</c><00:11:09.760><c> going</c>
+failure detection. Assume you're going
+failure detection. Assume you're going
+to<00:11:09.920><c> have</c><00:11:10.079><c> to</c><00:11:10.160><c> route</c><00:11:10.480><c> based</c><00:11:10.720><c> on</c><00:11:10.880><c> capability,</c>
+to have to route based on capability,
+to have to route based on capability,
+not<00:11:12.000><c> just</c><00:11:12.240><c> uniform</c><00:11:12.720><c> load</c><00:11:12.959><c> distribution.</c><00:11:13.920><c> Make</c>
+not just uniform load distribution. Make
+not just uniform load distribution. Make
+sure<00:11:14.320><c> that</c><00:11:14.560><c> you</c><00:11:14.880><c> have</c><00:11:15.519><c> decision</c><00:11:16.240><c> quality</c><00:11:16.880><c> and</c>
+sure that you have decision quality and
+sure that you have decision quality and
+reasoning<00:11:17.839><c> pattern</c><00:11:18.720><c> health</c><00:11:19.040><c> states</c><00:11:19.839><c> across</c>
+reasoning pattern health states across
+reasoning pattern health states across
+multi-agentic<00:11:21.120><c> systems.</c><00:11:21.440><c> You're</c><00:11:21.600><c> going</c><00:11:21.680><c> to</c>
+multi-agentic systems. You're going to
+multi-agentic systems. You're going to
+have<00:11:21.920><c> to</c><00:11:22.000><c> have</c><00:11:22.160><c> very</c><00:11:22.399><c> detailed</c><00:11:22.800><c> audit</c>
+have to have very detailed audit
+have to have very detailed audit
+tracking<00:11:23.600><c> and</c><00:11:23.760><c> then</c><00:11:23.920><c> assume</c><00:11:24.320><c> you</c><00:11:24.560><c> have</c><00:11:24.720><c> to</c>
+tracking and then assume you have to
+tracking and then assume you have to
+validate<00:11:25.600><c> your</c><00:11:25.839><c> inputs</c><00:11:26.399><c> throughout</c><00:11:26.720><c> the</c>
+validate your inputs throughout the
+validate your inputs throughout the
+conversation<00:11:27.920><c> and</c><00:11:28.160><c> not</c><00:11:28.320><c> just</c><00:11:28.480><c> as</c><00:11:28.640><c> an</c><00:11:28.800><c> input.</c>
+conversation and not just as an input.
+conversation and not just as an input.
+If<00:11:29.680><c> you</c><00:11:29.839><c> put</c><00:11:30.000><c> all</c><00:11:30.240><c> of</c><00:11:30.399><c> those</c><00:11:30.640><c> together,</c><00:11:31.279><c> you</c>
+If you put all of those together, you
+If you put all of those together, you
+are<00:11:31.680><c> going</c><00:11:31.760><c> to</c><00:11:31.920><c> be</c><00:11:32.160><c> much</c><00:11:32.480><c> more</c><00:11:32.720><c> likely</c><00:11:33.120><c> to</c><00:11:33.360><c> get</c>
+are going to be much more likely to get
+are going to be much more likely to get
+an<00:11:33.680><c> agentic</c><00:11:34.240><c> system</c><00:11:34.560><c> that</c><00:11:34.880><c> actually</c><00:11:35.279><c> works.</c>
+an agentic system that actually works.
+an agentic system that actually works.
+Best<00:11:36.160><c> of</c><00:11:36.320><c> luck.</c>

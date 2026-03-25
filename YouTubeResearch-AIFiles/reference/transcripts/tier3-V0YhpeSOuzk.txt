@@ -1,0 +1,1375 @@
+Prompting<00:00:00.560><c> is</c><00:00:00.800><c> really</c><00:00:01.040><c> weird</c><00:00:01.360><c> because</c><00:00:01.680><c> it's</c>
+Prompting is really weird because it's
+Prompting is really weird because it's
+the<00:00:02.080><c> most</c><00:00:02.320><c> wild</c><00:00:02.879><c> west</c><00:00:03.520><c> software</c><00:00:04.000><c> space</c><00:00:04.319><c> I've</c>
+the most wild west software space I've
+the most wild west software space I've
+ever<00:00:04.799><c> seen,</c><00:00:05.600><c> but</c><00:00:05.920><c> it's</c><00:00:06.240><c> also</c><00:00:06.560><c> a</c><00:00:06.799><c> highly</c>
+ever seen, but it's also a highly
+ever seen, but it's also a highly
+leveraged<00:00:07.839><c> critical</c><00:00:08.240><c> part</c><00:00:08.400><c> of</c><00:00:08.639><c> AI</c><00:00:09.040><c> workflows.</c>
+leveraged critical part of AI workflows.
+leveraged critical part of AI workflows.
+There<00:00:10.160><c> are</c><00:00:10.400><c> dozens</c><00:00:10.800><c> and</c><00:00:11.040><c> dozens</c><00:00:11.360><c> of</c><00:00:11.519><c> prompt</c>
+There are dozens and dozens of prompt
+There are dozens and dozens of prompt
+tools.<00:00:12.240><c> And</c><00:00:12.400><c> as</c><00:00:12.639><c> far</c><00:00:12.800><c> as</c><00:00:12.880><c> I</c><00:00:13.120><c> can</c><00:00:13.200><c> tell,</c><00:00:13.519><c> very</c>
+tools. And as far as I can tell, very
+tools. And as far as I can tell, very
+few<00:00:14.160><c> people</c><00:00:14.400><c> have</c><00:00:14.719><c> laid</c><00:00:14.960><c> out</c><00:00:15.120><c> or</c><00:00:15.440><c> thought</c>
+few people have laid out or thought
+few people have laid out or thought
+through<00:00:16.400><c> the</c><00:00:16.960><c> overall</c><00:00:17.600><c> life</c><00:00:17.920><c> cycle</c><00:00:18.240><c> of</c><00:00:18.400><c> a</c>
+through the overall life cycle of a
+through the overall life cycle of a
+prompt<00:00:18.960><c> and</c><00:00:19.119><c> how</c><00:00:19.279><c> we</c><00:00:19.520><c> think</c><00:00:19.680><c> about</c><00:00:19.840><c> prompting</c>
+prompt and how we think about prompting
+prompt and how we think about prompting
+systematically.<00:00:21.439><c> That</c><00:00:21.600><c> is</c><00:00:21.760><c> what</c><00:00:22.000><c> this</c><00:00:22.240><c> video</c>
+systematically. That is what this video
+systematically. That is what this video
+is<00:00:22.720><c> for.</c><00:00:23.039><c> I'm</c><00:00:23.279><c> going</c><00:00:23.359><c> to</c><00:00:23.600><c> lay</c><00:00:23.680><c> out</c><00:00:23.920><c> how</c><00:00:24.320><c> I</c><00:00:24.720><c> think</c>
+is for. I'm going to lay out how I think
+is for. I'm going to lay out how I think
+about<00:00:25.199><c> prompting</c><00:00:25.760><c> in</c><00:00:26.000><c> a</c><00:00:26.160><c> life</c><00:00:26.400><c> cycle.</c><00:00:26.960><c> And</c><00:00:27.119><c> I'm</c>
+about prompting in a life cycle. And I'm
+about prompting in a life cycle. And I'm
+going<00:00:27.599><c> to</c><00:00:28.000><c> lay</c><00:00:28.240><c> out</c><00:00:28.480><c> the</c><00:00:28.720><c> tools</c><00:00:29.439><c> that</c><00:00:29.679><c> I</c><00:00:29.920><c> think</c>
+going to lay out the tools that I think
+going to lay out the tools that I think
+are<00:00:30.320><c> relevant</c><00:00:30.800><c> at</c><00:00:31.119><c> each</c><00:00:31.439><c> stage.</c><00:00:32.160><c> So,</c><00:00:32.399><c> let's</c>
+are relevant at each stage. So, let's
+are relevant at each stage. So, let's
+jump<00:00:32.800><c> into</c><00:00:33.040><c> it.</c><00:00:33.280><c> Let's</c><00:00:33.520><c> start</c><00:00:33.760><c> where</c><00:00:34.000><c> most</c>
+jump into it. Let's start where most
+jump into it. Let's start where most
+people<00:00:34.640><c> begin.</c><00:00:35.280><c> Authoring</c><00:00:35.840><c> and</c><00:00:36.160><c> drafting.</c>
+people begin. Authoring and drafting.
+people begin. Authoring and drafting.
+So,<00:00:37.200><c> you're</c><00:00:37.440><c> writing,</c><00:00:37.840><c> you're</c><00:00:38.000><c> rewriting,</c>
+So, you're writing, you're rewriting,
+So, you're writing, you're rewriting,
+you're<00:00:38.719><c> testing</c><00:00:39.120><c> prompt</c><00:00:39.440><c> text.</c><00:00:39.840><c> I'll</c><00:00:40.079><c> be</c>
+you're testing prompt text. I'll be
+you're testing prompt text. I'll be
+honest<00:00:40.480><c> with</c><00:00:40.640><c> you,</c><00:00:40.960><c> a</c><00:00:41.120><c> lot</c><00:00:41.280><c> of</c><00:00:41.360><c> people</c><00:00:41.520><c> are</c><00:00:41.760><c> in</c>
+honest with you, a lot of people are in
+honest with you, a lot of people are in
+Claude<00:00:42.239><c> or</c><00:00:42.399><c> in</c><00:00:42.559><c> Chad</c><00:00:42.879><c> GPT</c><00:00:43.360><c> for</c><00:00:43.520><c> this,</c><00:00:43.760><c> right?</c>
+Claude or in Chad GPT for this, right?
+Claude or in Chad GPT for this, right?
+And<00:00:44.079><c> they're</c><00:00:44.239><c> like,</c><00:00:44.320><c> "Hey,</c><00:00:44.640><c> make</c><00:00:44.800><c> it</c><00:00:44.960><c> better.</c>
+And they're like, "Hey, make it better.
+And they're like, "Hey, make it better.
+Hey,<00:00:45.440><c> make</c><00:00:45.600><c> it</c><00:00:45.760><c> better."</c><00:00:46.160><c> Or</c><00:00:46.399><c> people</c><00:00:46.640><c> are</c>
+Hey, make it better." Or people are
+Hey, make it better." Or people are
+using<00:00:47.120><c> tools</c><00:00:47.520><c> like</c><00:00:47.840><c> Prompt</c><00:00:48.320><c> Perfect.</c><00:00:49.120><c> Some</c>
+using tools like Prompt Perfect. Some
+using tools like Prompt Perfect. Some
+people<00:00:49.520><c> are</c><00:00:49.760><c> in</c><00:00:50.000><c> cursor</c><00:00:50.399><c> if</c><00:00:50.640><c> they're</c><00:00:50.800><c> in</c><00:00:51.039><c> code.</c>
+people are in cursor if they're in code.
+people are in cursor if they're in code.
+This<00:00:51.920><c> is</c><00:00:52.160><c> all</c><00:00:52.399><c> about</c><00:00:52.640><c> hands-on</c>
+This is all about hands-on
+This is all about hands-on
+experimentation<00:00:53.920><c> and</c><00:00:54.160><c> wording</c><00:00:54.559><c> refinement.</c>
+experimentation and wording refinement.
+experimentation and wording refinement.
+We're<00:00:55.360><c> not</c><00:00:55.520><c> testing</c><00:00:55.920><c> the</c><00:00:56.160><c> value</c><00:00:56.399><c> of</c><00:00:56.559><c> the</c>
+We're not testing the value of the
+We're not testing the value of the
+prompt.<00:00:57.440><c> We're</c><00:00:57.680><c> just</c><00:00:57.840><c> trying</c><00:00:58.000><c> to</c><00:00:58.160><c> figure</c><00:00:58.320><c> out</c>
+prompt. We're just trying to figure out
+prompt. We're just trying to figure out
+like<00:00:59.039><c> there's</c><00:00:59.280><c> a</c><00:00:59.440><c> mental</c><00:00:59.840><c> model</c><00:01:00.079><c> we</c><00:01:00.320><c> have</c><00:01:00.399><c> of</c>
+like there's a mental model we have of
+like there's a mental model we have of
+the<00:01:00.800><c> perfect</c><00:01:01.120><c> prompt.</c><00:01:01.760><c> And</c><00:01:02.160><c> whether</c><00:01:02.480><c> it's</c>
+the perfect prompt. And whether it's
+the perfect prompt. And whether it's
+right<00:01:02.879><c> or</c><00:01:03.039><c> not,</c><00:01:03.280><c> we're</c><00:01:03.520><c> trying</c><00:01:03.760><c> to</c><00:01:04.000><c> make</c><00:01:04.640><c> the</c>
+right or not, we're trying to make the
+right or not, we're trying to make the
+prompt<00:01:05.360><c> that</c><00:01:05.600><c> we</c><00:01:05.760><c> write</c><00:01:06.159><c> fit</c><00:01:06.479><c> that</c><00:01:06.720><c> model.</c><00:01:07.280><c> And</c>
+prompt that we write fit that model. And
+prompt that we write fit that model. And
+that's<00:01:07.680><c> that</c><00:01:07.840><c> authoring</c><00:01:08.320><c> and</c><00:01:08.479><c> drafting</c>
+that's that authoring and drafting
+that's that authoring and drafting
+stage.<00:01:09.119><c> And</c><00:01:09.280><c> what</c><00:01:09.439><c> we</c><00:01:09.600><c> find</c><00:01:09.760><c> in</c><00:01:10.000><c> this</c>
+stage. And what we find in this
+stage. And what we find in this
+situation<00:01:10.720><c> is</c><00:01:10.960><c> that</c><00:01:11.200><c> the</c><00:01:11.520><c> LLMs</c><00:01:12.240><c> help</c><00:01:12.400><c> us</c><00:01:12.560><c> to</c>
+situation is that the LLMs help us to
+situation is that the LLMs help us to
+organize<00:01:13.280><c> our</c><00:01:13.520><c> thoughts</c><00:01:13.680><c> and</c><00:01:14.000><c> help</c><00:01:14.159><c> us</c><00:01:14.320><c> to</c>
+organize our thoughts and help us to
+organize our thoughts and help us to
+take<00:01:14.640><c> these</c><00:01:14.880><c> messy</c><00:01:15.280><c> thoughts</c><00:01:15.520><c> and</c><00:01:15.760><c> kind</c><00:01:15.920><c> of</c>
+take these messy thoughts and kind of
+take these messy thoughts and kind of
+clean<00:01:16.240><c> them</c><00:01:16.400><c> up.</c><00:01:16.880><c> The</c><00:01:17.119><c> next</c><00:01:17.439><c> stage</c><00:01:17.759><c> in</c>
+clean them up. The next stage in
+clean them up. The next stage in
+prompting<00:01:18.560><c> is</c><00:01:18.799><c> really</c><00:01:19.200><c> around</c><00:01:20.080><c> getting</c>
+prompting is really around getting
+prompting is really around getting
+serious<00:01:21.040><c> about</c><00:01:21.600><c> versioning.</c><00:01:22.479><c> And</c><00:01:22.640><c> so</c><00:01:23.040><c> teams</c>
+serious about versioning. And so teams
+serious about versioning. And so teams
+will<00:01:23.759><c> start</c><00:01:23.920><c> to</c><00:01:24.159><c> or</c><00:01:24.479><c> individuals</c><00:01:25.119><c> will</c><00:01:25.360><c> start</c>
+will start to or individuals will start
+will start to or individuals will start
+to<00:01:25.759><c> say</c><00:01:26.240><c> this</c><00:01:26.400><c> is</c><00:01:26.479><c> a</c><00:01:26.720><c> prompt</c><00:01:27.119><c> I</c><00:01:27.439><c> use</c><00:01:27.840><c> often.</c><00:01:28.640><c> How</c>
+to say this is a prompt I use often. How
+to say this is a prompt I use often. How
+do<00:01:29.040><c> I</c><00:01:29.439><c> keep</c><00:01:29.680><c> it</c><00:01:30.000><c> track</c><00:01:30.240><c> of</c><00:01:30.479><c> it</c><00:01:30.720><c> when</c><00:01:30.960><c> it</c><00:01:31.200><c> needs</c>
+do I keep it track of it when it needs
+do I keep it track of it when it needs
+to<00:01:31.600><c> change?</c><00:01:32.000><c> And</c><00:01:32.240><c> so</c><00:01:32.479><c> teams</c><00:01:32.880><c> will</c><00:01:33.040><c> store</c><00:01:33.280><c> their</c>
+to change? And so teams will store their
+to change? And so teams will store their
+prompts.<00:01:33.920><c> They'll</c><00:01:34.159><c> name</c><00:01:34.400><c> them</c><00:01:34.640><c> v1</c><00:01:35.280><c> v1.1.</c>
+prompts. They'll name them v1 v1.1.
+prompts. They'll name them v1 v1.1.
+They'll<00:01:37.040><c> describe</c><00:01:37.520><c> differentiation</c><00:01:38.400><c> with</c>
+They'll describe differentiation with
+They'll describe differentiation with
+them.<00:01:38.799><c> They'll</c><00:01:39.040><c> diff</c><00:01:39.439><c> them.</c><00:01:40.000><c> They'll</c><00:01:40.320><c> name</c>
+them. They'll diff them. They'll name
+them. They'll diff them. They'll name
+them.<00:01:41.200><c> And</c><00:01:41.680><c> prompts</c><00:01:42.159><c> are</c><00:01:42.400><c> then</c><00:01:43.040><c> almost</c>
+them. And prompts are then almost
+them. And prompts are then almost
+treated<00:01:43.759><c> like</c><00:01:44.079><c> code.</c><00:01:44.400><c> they</c><00:01:44.720><c> become</c><00:01:45.200><c> artifacts</c>
+treated like code. they become artifacts
+treated like code. they become artifacts
+in<00:01:46.000><c> the</c><00:01:46.159><c> business</c><00:01:46.479><c> because</c><00:01:46.799><c> they</c><00:01:47.040><c> get</c><00:01:47.200><c> reused</c>
+in the business because they get reused
+in the business because they get reused
+so<00:01:48.000><c> much.</c><00:01:48.560><c> Prompt</c><00:01:49.119><c> layer</c><00:01:49.360><c> definitely</c><00:01:49.840><c> offers</c>
+so much. Prompt layer definitely offers
+so much. Prompt layer definitely offers
+tooling<00:01:50.640><c> capability</c><00:01:51.200><c> here.</c><00:01:51.759><c> Prompt</c><00:01:52.240><c> methus</c>
+tooling capability here. Prompt methus
+tooling capability here. Prompt methus
+does<00:01:53.119><c> this.</c><00:01:53.759><c> There</c><00:01:54.000><c> are</c><00:01:54.159><c> git</c><00:01:54.479><c> based</c>
+does this. There are git based
+does this. There are git based
+approaches<00:01:55.280><c> that</c><00:01:55.520><c> do</c><00:01:55.680><c> this.</c><00:01:56.159><c> There</c><00:01:56.320><c> are</c><00:01:56.479><c> a</c><00:01:56.640><c> lot</c>
+approaches that do this. There are a lot
+approaches that do this. There are a lot
+of<00:01:56.880><c> other</c><00:01:57.119><c> approaches</c><00:01:58.159><c> as</c><00:01:58.399><c> well.</c><00:01:58.640><c> I</c><00:01:58.880><c> know</c><00:01:58.960><c> that</c>
+of other approaches as well. I know that
+of other approaches as well. I know that
+lang<00:01:59.759><c> does</c><00:02:00.000><c> this.</c><00:02:00.560><c> The</c><00:02:00.799><c> idea</c><00:02:01.280><c> is</c><00:02:02.079><c> you</c><00:02:02.320><c> are</c>
+lang does this. The idea is you are
+lang does this. The idea is you are
+trying<00:02:02.719><c> to</c><00:02:02.960><c> solve</c><00:02:03.200><c> for</c><00:02:03.439><c> the</c><00:02:03.600><c> persistence</c><00:02:04.159><c> of</c>
+trying to solve for the persistence of
+trying to solve for the persistence of
+the<00:02:04.479><c> prompt.</c><00:02:04.880><c> So</c><00:02:05.040><c> there's</c><00:02:05.280><c> one</c><00:02:05.520><c> record</c><00:02:05.920><c> for</c>
+the prompt. So there's one record for
+the prompt. So there's one record for
+it.<00:02:06.719><c> You</c><00:02:06.880><c> need</c><00:02:07.040><c> to</c><00:02:07.200><c> make</c><00:02:07.360><c> sure</c><00:02:07.520><c> it's</c><00:02:07.840><c> auditable</c>
+it. You need to make sure it's auditable
+it. You need to make sure it's auditable
+and<00:02:08.800><c> you</c><00:02:08.959><c> make</c><00:02:09.200><c> need</c><00:02:09.360><c> to</c><00:02:09.520><c> make</c><00:02:09.679><c> sure</c><00:02:09.759><c> that</c><00:02:09.920><c> you</c>
+and you make need to make sure that you
+and you make need to make sure that you
+can<00:02:10.239><c> enable</c><00:02:10.640><c> team</c><00:02:10.959><c> level</c><00:02:11.200><c> coordination</c><00:02:11.760><c> on</c>
+can enable team level coordination on
+can enable team level coordination on
+the<00:02:12.080><c> prompt.</c><00:02:12.640><c> The</c><00:02:12.879><c> next</c><00:02:13.120><c> stage</c><00:02:13.360><c> after</c>
+the prompt. The next stage after
+the prompt. The next stage after
+versioning<00:02:14.239><c> is</c><00:02:14.879><c> making</c><00:02:15.280><c> sure</c><00:02:15.520><c> that</c><00:02:15.760><c> the</c>
+versioning is making sure that the
+versioning is making sure that the
+prompt<00:02:16.480><c> is</c><00:02:16.800><c> regularly</c><00:02:17.440><c> tested.</c><00:02:17.920><c> And</c><00:02:18.080><c> this</c><00:02:18.239><c> is</c>
+prompt is regularly tested. And this is
+prompt is regularly tested. And this is
+especially<00:02:18.959><c> true</c><00:02:19.200><c> if</c><00:02:19.360><c> it's</c><00:02:19.599><c> a</c><00:02:19.760><c> production</c>
+especially true if it's a production
+especially true if it's a production
+grade<00:02:20.560><c> prompt</c><00:02:20.879><c> that</c><00:02:21.120><c> will</c><00:02:21.280><c> be</c><00:02:21.440><c> used</c><00:02:21.920><c> for</c><00:02:22.160><c> an</c>
+grade prompt that will be used for an
+grade prompt that will be used for an
+LLM<00:02:22.879><c> production</c><00:02:23.360><c> system.</c><00:02:23.840><c> And</c><00:02:24.000><c> so</c><00:02:24.160><c> you</c><00:02:24.400><c> need</c><00:02:24.480><c> a</c>
+LLM production system. And so you need a
+LLM production system. And so you need a
+situ<00:02:25.120><c> a</c><00:02:25.360><c> solution</c><00:02:25.760><c> where</c><00:02:26.000><c> you</c><00:02:26.239><c> can</c><00:02:26.400><c> compare</c>
+situ a solution where you can compare
+situ a solution where you can compare
+multiple<00:02:27.360><c> prompts.</c><00:02:27.840><c> You</c><00:02:28.000><c> can</c><00:02:28.080><c> evaluate</c>
+multiple prompts. You can evaluate
+multiple prompts. You can evaluate
+outputs<00:02:29.040><c> for</c><00:02:29.280><c> accuracy.</c><00:02:29.840><c> You</c><00:02:30.000><c> can</c><00:02:30.160><c> evaluate</c>
+outputs for accuracy. You can evaluate
+outputs for accuracy. You can evaluate
+cost<00:02:30.959><c> and</c><00:02:31.200><c> hallucinations</c><00:02:32.160><c> etc.</c><00:02:32.720><c> Tools</c><00:02:33.040><c> for</c>
+cost and hallucinations etc. Tools for
+cost and hallucinations etc. Tools for
+this<00:02:33.440><c> include</c><00:02:34.000><c> Hegel's</c><00:02:34.480><c> prompt</c><00:02:34.800><c> tools</c><00:02:35.120><c> prompt</c>
+this include Hegel's prompt tools prompt
+this include Hegel's prompt tools prompt
+flow<00:02:35.760><c> eval</c><00:02:36.239><c> components</c><00:02:37.040><c> prompt</c><00:02:37.360><c> methus.</c>
+flow eval components prompt methus.
+flow eval components prompt methus.
+Again<00:02:38.480><c> there's</c><00:02:38.800><c> some</c><00:02:38.959><c> custom</c><00:02:39.280><c> eval</c>
+Again there's some custom eval
+Again there's some custom eval
+frameworks.<00:02:40.640><c> There's</c><00:02:40.879><c> a</c><00:02:41.040><c> lot</c><00:02:41.120><c> of</c><00:02:41.200><c> other</c><00:02:41.360><c> tools</c>
+frameworks. There's a lot of other tools
+frameworks. There's a lot of other tools
+around<00:02:41.840><c> eval.</c><00:02:42.480><c> A</c><00:02:42.640><c> lot</c><00:02:42.800><c> of</c><00:02:42.959><c> people</c><00:02:43.280><c> are</c><00:02:43.840><c> writing</c>
+around eval. A lot of people are writing
+around eval. A lot of people are writing
+their<00:02:44.480><c> own</c><00:02:44.800><c> eval</c><00:02:45.280><c> solutions</c><00:02:46.000><c> and</c><00:02:46.239><c> finding</c>
+their own eval solutions and finding
+their own eval solutions and finding
+that<00:02:46.640><c> those</c><00:02:46.879><c> are</c><00:02:47.040><c> more</c><00:02:47.200><c> flexible</c><00:02:47.599><c> and</c><00:02:47.840><c> more</c>
+that those are more flexible and more
+that those are more flexible and more
+effective<00:02:48.480><c> because</c><00:02:48.800><c> they</c><00:02:49.040><c> allow</c><00:02:49.280><c> them</c><00:02:49.519><c> to</c>
+effective because they allow them to
+effective because they allow them to
+write<00:02:50.080><c> to</c><00:02:50.480><c> the</c><00:02:50.720><c> detailed</c><00:02:51.120><c> setups</c><00:02:51.519><c> they</c><00:02:51.760><c> have.</c>
+write to the detailed setups they have.
+write to the detailed setups they have.
+One<00:02:52.480><c> of</c><00:02:52.560><c> the</c><00:02:52.720><c> places</c><00:02:53.040><c> where</c><00:02:53.280><c> we</c><00:02:53.519><c> start</c><00:02:53.680><c> to</c>
+One of the places where we start to
+One of the places where we start to
+differentiate<00:02:54.640><c> between</c><00:02:55.120><c> individual</c>
+differentiate between individual
+differentiate between individual
+builders<00:02:56.720><c> and</c><00:02:57.120><c> teams</c><00:02:57.760><c> is</c><00:02:58.080><c> right</c><00:02:58.400><c> here</c><00:02:58.640><c> at</c>
+builders and teams is right here at
+builders and teams is right here at
+evaluation<00:02:59.599><c> and</c><00:02:59.920><c> testing.</c><00:03:00.640><c> Because</c><00:03:00.959><c> before</c>
+evaluation and testing. Because before
+evaluation and testing. Because before
+if<00:03:01.599><c> you</c><00:03:01.760><c> were</c><00:03:01.840><c> a</c><00:03:02.080><c> serious</c><00:03:02.400><c> individual,</c><00:03:03.040><c> you</c>
+if you were a serious individual, you
+if you were a serious individual, you
+might<00:03:03.440><c> still</c><00:03:03.840><c> have</c><00:03:04.159><c> your</c><00:03:04.400><c> own</c><00:03:04.720><c> versioning</c>
+might still have your own versioning
+might still have your own versioning
+system.<00:03:06.080><c> You</c><00:03:06.319><c> might</c><00:03:06.480><c> still</c><00:03:06.720><c> have</c><00:03:06.879><c> a</c><00:03:07.040><c> little</c>
+system. You might still have a little
+system. You might still have a little
+notion<00:03:07.680><c> database</c><00:03:08.159><c> where</c><00:03:08.400><c> you</c><00:03:08.560><c> keep</c><00:03:08.879><c> track</c><00:03:09.200><c> of</c>
+notion database where you keep track of
+notion database where you keep track of
+your<00:03:09.680><c> individual</c><00:03:10.239><c> prompts</c><00:03:10.800><c> and</c><00:03:11.040><c> it</c><00:03:11.200><c> works</c><00:03:11.440><c> for</c>
+your individual prompts and it works for
+your individual prompts and it works for
+you.<00:03:12.000><c> When</c><00:03:12.239><c> it</c><00:03:12.400><c> gets</c><00:03:12.560><c> to</c><00:03:12.720><c> eval</c><00:03:13.360><c> though,</c><00:03:13.920><c> teams</c>
+you. When it gets to eval though, teams
+you. When it gets to eval though, teams
+who<00:03:14.800><c> are</c><00:03:14.959><c> using</c><00:03:15.280><c> production</c><00:03:15.840><c> grade</c><00:03:16.159><c> prompts</c>
+who are using production grade prompts
+who are using production grade prompts
+will<00:03:16.959><c> build</c><00:03:17.440><c> entire</c><00:03:18.080><c> suites</c><00:03:18.400><c> of</c><00:03:18.640><c> tests,</c><00:03:19.680><c> 50</c>
+will build entire suites of tests, 50
+will build entire suites of tests, 50
+tests,<00:03:20.480><c> 100</c><00:03:20.800><c> tests</c><00:03:21.040><c> that</c><00:03:21.280><c> they</c><00:03:21.440><c> run</c><00:03:21.680><c> in</c><00:03:21.920><c> an</c>
+tests, 100 tests that they run in an
+tests, 100 tests that they run in an
+automated<00:03:22.640><c> fashion</c><00:03:22.879><c> in</c><00:03:23.120><c> a</c><00:03:23.280><c> pipeline</c><00:03:23.680><c> against</c>
+automated fashion in a pipeline against
+automated fashion in a pipeline against
+a<00:03:24.239><c> new</c><00:03:24.400><c> version</c><00:03:24.640><c> of</c><00:03:24.720><c> a</c><00:03:24.959><c> prompt.</c><00:03:25.599><c> Whereas</c>
+a new version of a prompt. Whereas
+a new version of a prompt. Whereas
+individuals,<00:03:26.879><c> we're</c><00:03:27.120><c> very</c><00:03:27.360><c> unlikely</c><00:03:27.760><c> to</c><00:03:28.000><c> do</c>
+individuals, we're very unlikely to do
+individuals, we're very unlikely to do
+that.<00:03:28.400><c> we</c><00:03:28.560><c> will</c><00:03:28.800><c> probably</c><00:03:29.120><c> test</c><00:03:29.519><c> in</c><00:03:29.920><c> an</c><00:03:30.239><c> ad</c><00:03:30.400><c> hoc</c>
+that. we will probably test in an ad hoc
+that. we will probably test in an ad hoc
+way<00:03:30.879><c> or</c><00:03:31.120><c> if</c><00:03:31.360><c> we</c><00:03:31.519><c> are</c><00:03:31.760><c> super</c><00:03:32.080><c> super</c><00:03:32.480><c> organized</c>
+way or if we are super super organized
+way or if we are super super organized
+we'll<00:03:33.280><c> have</c><00:03:33.599><c> a</c><00:03:33.920><c> library</c><00:03:34.239><c> of</c><00:03:34.400><c> 10</c><00:03:34.640><c> or</c><00:03:34.879><c> 15</c><00:03:35.120><c> queries</c>
+we'll have a library of 10 or 15 queries
+we'll have a library of 10 or 15 queries
+that<00:03:35.760><c> we</c><00:03:35.920><c> are</c><00:03:36.080><c> running</c><00:03:36.640><c> with</c><00:03:36.959><c> the</c><00:03:37.200><c> prompt</c><00:03:37.519><c> to</c>
+that we are running with the prompt to
+that we are running with the prompt to
+see<00:03:37.920><c> if</c><00:03:38.080><c> it</c><00:03:38.319><c> works</c><00:03:38.560><c> better</c><00:03:39.200><c> but</c><00:03:39.360><c> it's</c><00:03:39.599><c> rare</c><00:03:39.840><c> to</c>
+see if it works better but it's rare to
+see if it works better but it's rare to
+get<00:03:40.560><c> super</c><00:03:40.959><c> serious</c><00:03:41.440><c> and</c><00:03:41.599><c> so</c><00:03:41.840><c> as</c><00:03:42.000><c> we</c><00:03:42.239><c> move</c>
+get super serious and so as we move
+get super serious and so as we move
+forward<00:03:42.799><c> in</c><00:03:43.040><c> this</c><00:03:43.200><c> flow</c><00:03:43.760><c> we</c><00:03:44.000><c> see</c><00:03:44.159><c> that</c><00:03:44.319><c> these</c>
+forward in this flow we see that these
+forward in this flow we see that these
+prompt<00:03:45.040><c> tools</c><00:03:45.360><c> start</c><00:03:45.519><c> to</c><00:03:45.760><c> become</c><00:03:46.000><c> more</c><00:03:46.239><c> team</c>
+prompt tools start to become more team
+prompt tools start to become more team
+oriented<00:03:47.519><c> this</c><00:03:47.760><c> is</c><00:03:48.080><c> one</c><00:03:48.319><c> of</c><00:03:48.480><c> the</c><00:03:48.720><c> things</c><00:03:49.360><c> that</c>
+oriented this is one of the things that
+oriented this is one of the things that
+makes<00:03:50.000><c> it</c><00:03:50.319><c> really</c><00:03:50.799><c> complicated</c><00:03:51.680><c> when</c><00:03:52.000><c> you're</c>
+makes it really complicated when you're
+makes it really complicated when you're
+doing<00:03:52.400><c> prompting</c><00:03:52.959><c> because</c><00:03:53.200><c> prompting</c><00:03:53.680><c> is</c>
+doing prompting because prompting is
+doing prompting because prompting is
+both<00:03:54.080><c> an</c><00:03:54.400><c> individual</c><00:03:54.959><c> productivity</c><00:03:55.599><c> choice</c>
+both an individual productivity choice
+both an individual productivity choice
+and<00:03:56.319><c> also</c><00:03:56.799><c> something</c><00:03:57.439><c> that</c><00:03:57.760><c> supports</c><00:03:58.319><c> teams</c>
+and also something that supports teams
+and also something that supports teams
+and<00:03:59.280><c> dealing</c><00:03:59.680><c> with</c><00:04:00.000><c> that</c><00:04:00.400><c> makes</c><00:04:00.640><c> it</c><00:04:00.959><c> hard</c><00:04:01.200><c> to</c>
+and dealing with that makes it hard to
+and dealing with that makes it hard to
+write<00:04:01.760><c> good</c><00:04:02.080><c> software.</c><00:04:02.959><c> But</c><00:04:03.120><c> we're</c><00:04:03.360><c> not</c><00:04:03.599><c> done</c>
+write good software. But we're not done
+write good software. But we're not done
+with<00:04:04.000><c> evaluation.</c><00:04:05.040><c> After</c><00:04:05.519><c> evaluation</c><00:04:06.720><c> comes</c>
+with evaluation. After evaluation comes
+with evaluation. After evaluation comes
+constructing<00:04:08.080><c> workflows</c><00:04:08.560><c> or</c><00:04:08.720><c> automation.</c>
+constructing workflows or automation.
+constructing workflows or automation.
+And<00:04:09.760><c> this</c><00:04:09.920><c> is</c><00:04:10.000><c> when</c><00:04:10.239><c> prompts</c><00:04:10.879><c> become</c><00:04:11.280><c> mere</c>
+And this is when prompts become mere
+And this is when prompts become mere
+steps<00:04:12.159><c> and</c><00:04:12.319><c> workflows.</c><00:04:12.879><c> Like</c><00:04:13.040><c> the</c><00:04:13.200><c> prompt</c>
+steps and workflows. Like the prompt
+steps and workflows. Like the prompt
+becomes<00:04:14.640><c> a</c><00:04:14.959><c> guidepost</c><00:04:15.599><c> for</c><00:04:15.840><c> an</c><00:04:16.079><c> agent</c><00:04:16.400><c> that</c>
+becomes a guidepost for an agent that
+becomes a guidepost for an agent that
+might<00:04:16.880><c> have</c><00:04:17.199><c> tools,</c><00:04:17.600><c> that</c><00:04:17.840><c> might</c><00:04:18.000><c> have</c><00:04:18.639><c> memory</c>
+might have tools, that might have memory
+might have tools, that might have memory
+that<00:04:19.199><c> it</c><00:04:19.359><c> calls,</c><00:04:19.680><c> that</c><00:04:19.840><c> might</c><00:04:20.000><c> have</c>
+that it calls, that might have
+that it calls, that might have
+conditional<00:04:20.799><c> logic.</c><00:04:21.440><c> And</c><00:04:21.680><c> so</c><00:04:21.840><c> then</c><00:04:22.079><c> you</c><00:04:22.240><c> begin</c>
+conditional logic. And so then you begin
+conditional logic. And so then you begin
+to<00:04:22.639><c> need</c><00:04:22.800><c> to</c><00:04:23.040><c> build</c><00:04:23.759><c> like</c><00:04:24.240><c> with</c><00:04:24.560><c> Google's</c>
+to need to build like with Google's
+to need to build like with Google's
+agent<00:04:25.360><c> kit,</c><00:04:25.840><c> with</c><00:04:26.080><c> Langchain,</c><00:04:27.199><c> with</c>
+agent kit, with Langchain, with
+agent kit, with Langchain, with
+Langmith,<00:04:28.400><c> with</c><00:04:28.560><c> Hegel</c><00:04:29.120><c> and</c><00:04:29.360><c> Prompt</c><00:04:29.680><c> tools,</c>
+Langmith, with Hegel and Prompt tools,
+Langmith, with Hegel and Prompt tools,
+with<00:04:30.160><c> prompt</c><00:04:30.479><c> flow,</c><00:04:31.199><c> with</c><00:04:31.440><c> React</c><00:04:31.840><c> agent</c><00:04:32.240><c> for</c>
+with prompt flow, with React agent for
+with prompt flow, with React agent for
+frameworks.<00:04:33.199><c> This</c><00:04:33.440><c> is</c><00:04:33.600><c> all</c><00:04:33.759><c> about</c><00:04:34.080><c> multi-step</c>
+frameworks. This is all about multi-step
+frameworks. This is all about multi-step
+automation<00:04:35.120><c> and</c><00:04:35.280><c> agentic</c><00:04:35.919><c> behavior</c><00:04:36.320><c> and</c>
+automation and agentic behavior and
+automation and agentic behavior and
+prompting.<00:04:37.120><c> Again,</c><00:04:37.440><c> like</c><00:04:37.680><c> this</c><00:04:37.840><c> is</c><00:04:37.919><c> part</c><00:04:38.080><c> of</c>
+prompting. Again, like this is part of
+prompting. Again, like this is part of
+why<00:04:38.320><c> it's</c><00:04:38.479><c> a</c><00:04:38.720><c> tricky</c><00:04:38.960><c> subject.</c><00:04:39.360><c> It</c><00:04:39.520><c> bleeds</c>
+why it's a tricky subject. It bleeds
+why it's a tricky subject. It bleeds
+into<00:04:40.240><c> this</c><00:04:40.479><c> area</c><00:04:41.120><c> because</c><00:04:41.520><c> really,</c><00:04:41.840><c> if</c><00:04:42.080><c> you're</c>
+into this area because really, if you're
+into this area because really, if you're
+trying<00:04:42.639><c> to</c><00:04:42.880><c> build</c><00:04:43.120><c> an</c><00:04:43.360><c> agent,</c><00:04:44.080><c> you</c><00:04:44.400><c> have</c><00:04:44.639><c> to</c>
+trying to build an agent, you have to
+trying to build an agent, you have to
+consider<00:04:45.280><c> the</c><00:04:45.520><c> prompt</c><00:04:46.000><c> as</c><00:04:46.240><c> the</c><00:04:46.400><c> beating</c><00:04:46.800><c> heart</c>
+consider the prompt as the beating heart
+consider the prompt as the beating heart
+of<00:04:47.199><c> the</c><00:04:47.360><c> agent.</c><00:04:48.080><c> The</c><00:04:48.320><c> prompt</c><00:04:48.639><c> is</c><00:04:48.880><c> what</c><00:04:49.120><c> helps</c>
+of the agent. The prompt is what helps
+of the agent. The prompt is what helps
+you<00:04:49.680><c> to</c><00:04:50.000><c> predictably</c><00:04:50.800><c> guide</c><00:04:51.199><c> the</c><00:04:51.520><c> agent.</c>
+you to predictably guide the agent.
+you to predictably guide the agent.
+Finally,<00:04:52.560><c> you</c><00:04:52.800><c> have</c><00:04:53.360><c> deployment</c><00:04:54.000><c> tools.</c><00:04:54.639><c> So,</c>
+Finally, you have deployment tools. So,
+Finally, you have deployment tools. So,
+prompts<00:04:55.280><c> are</c><00:04:55.440><c> embedded</c><00:04:55.840><c> in</c><00:04:56.080><c> real</c>
+prompts are embedded in real
+prompts are embedded in real
+applications<00:04:57.360><c> and</c><00:04:57.840><c> they</c><00:04:58.400><c> need</c><00:04:58.560><c> to</c><00:04:58.800><c> be</c>
+applications and they need to be
+applications and they need to be
+tracked.<00:05:00.320><c> They</c><00:05:00.560><c> need</c><00:05:00.720><c> to</c><00:05:00.880><c> be</c><00:05:01.120><c> up</c><00:05:01.360><c> all</c><00:05:01.520><c> the</c>
+tracked. They need to be up all the
+tracked. They need to be up all the
+time.<00:05:02.000><c> They</c><00:05:02.240><c> need</c><00:05:02.320><c> to</c><00:05:02.560><c> run</c><00:05:02.800><c> correctly.</c><00:05:03.680><c> Prompt</c>
+time. They need to run correctly. Prompt
+time. They need to run correctly. Prompt
+layer<00:05:04.320><c> comes</c><00:05:04.639><c> back</c><00:05:04.880><c> through</c><00:05:05.120><c> here.</c><00:05:05.440><c> Langmith</c>
+layer comes back through here. Langmith
+layer comes back through here. Langmith
+comes<00:05:06.320><c> through</c><00:05:06.560><c> here.</c><00:05:06.880><c> There</c><00:05:07.039><c> are</c><00:05:07.199><c> model</c><00:05:07.520><c> APIs</c>
+comes through here. There are model APIs
+comes through here. There are model APIs
+that<00:05:08.240><c> are</c><00:05:08.400><c> directly</c><00:05:08.800><c> available</c><00:05:09.199><c> from</c><00:05:09.440><c> OpenAI</c>
+that are directly available from OpenAI
+that are directly available from OpenAI
+and<00:05:10.240><c> Enthropic.</c><00:05:11.199><c> You</c><00:05:11.440><c> have</c><00:05:11.520><c> to</c><00:05:11.759><c> have</c>
+and Enthropic. You have to have
+and Enthropic. You have to have
+production<00:05:12.479><c> robustness,</c><00:05:13.199><c> safety,</c>
+production robustness, safety,
+production robustness, safety,
+traceability,<00:05:14.320><c> governance.</c><00:05:14.960><c> You</c><00:05:15.280><c> can</c><00:05:15.520><c> see</c><00:05:15.680><c> as</c>
+traceability, governance. You can see as
+traceability, governance. You can see as
+we've<00:05:16.240><c> gone</c><00:05:16.479><c> through</c><00:05:16.720><c> this</c><00:05:17.039><c> overall</c><00:05:17.520><c> flow</c>
+we've gone through this overall flow
+we've gone through this overall flow
+that<00:05:18.560><c> we</c><00:05:18.800><c> have</c><00:05:18.960><c> gone</c><00:05:19.520><c> heavily</c><00:05:20.080><c> into</c><00:05:20.400><c> the</c><00:05:20.560><c> teams</c>
+that we have gone heavily into the teams
+that we have gone heavily into the teams
+and<00:05:21.840><c> companies</c><00:05:22.400><c> world</c><00:05:22.720><c> where</c><00:05:23.039><c> prompting</c><00:05:23.520><c> is</c><00:05:23.759><c> a</c>
+and companies world where prompting is a
+and companies world where prompting is a
+piece<00:05:24.639><c> of</c><00:05:24.880><c> code</c><00:05:25.199><c> that</c><00:05:25.520><c> companies</c><00:05:26.000><c> need</c><00:05:26.240><c> to</c>
+piece of code that companies need to
+piece of code that companies need to
+maintain<00:05:27.039><c> and</c><00:05:27.280><c> they</c><00:05:27.520><c> need</c><00:05:27.759><c> production</c>
+maintain and they need production
+maintain and they need production
+tooling<00:05:28.800><c> for</c><00:05:29.039><c> that</c><00:05:29.280><c> system.</c><00:05:29.680><c> I</c><00:05:30.000><c> am</c><00:05:30.160><c> here</c><00:05:30.320><c> to</c>
+tooling for that system. I am here to
+tooling for that system. I am here to
+tell<00:05:30.639><c> you</c><00:05:31.199><c> that</c><00:05:31.600><c> you</c><00:05:31.919><c> are</c><00:05:32.240><c> missing</c><00:05:32.720><c> a</c><00:05:33.039><c> stage</c><00:05:33.440><c> in</c>
+tell you that you are missing a stage in
+tell you that you are missing a stage in
+the<00:05:33.840><c> prompting</c><00:05:34.400><c> layer.</c><00:05:34.880><c> Let's</c><00:05:35.199><c> go</c><00:05:35.360><c> back</c>
+the prompting layer. Let's go back
+the prompting layer. Let's go back
+through.<00:05:36.160><c> What</c><00:05:36.320><c> if</c><00:05:36.560><c> we</c><00:05:36.880><c> thought</c><00:05:37.199><c> of</c><00:05:37.919><c> our</c><00:05:38.320><c> first</c>
+through. What if we thought of our first
+through. What if we thought of our first
+piece,<00:05:39.120><c> authoring</c><00:05:39.600><c> and</c><00:05:39.840><c> drafting</c><00:05:40.479><c> as</c><00:05:40.800><c> stage</c>
+piece, authoring and drafting as stage
+piece, authoring and drafting as stage
+two,<00:05:42.000><c> not</c><00:05:42.320><c> stage</c><00:05:42.720><c> one.</c><00:05:43.360><c> Because</c><00:05:43.600><c> it</c><00:05:43.840><c> is.</c>
+two, not stage one. Because it is.
+two, not stage one. Because it is.
+Because<00:05:44.479><c> when</c><00:05:44.720><c> you</c><00:05:44.960><c> think</c><00:05:45.199><c> about</c><00:05:45.600><c> where</c><00:05:45.919><c> you</c>
+Because when you think about where you
+Because when you think about where you
+want<00:05:46.320><c> to</c><00:05:46.400><c> go</c><00:05:46.560><c> with</c><00:05:46.800><c> prompting,</c><00:05:47.600><c> it's</c><00:05:47.919><c> actually</c>
+want to go with prompting, it's actually
+want to go with prompting, it's actually
+intent<00:05:49.039><c> formation</c><00:05:49.840><c> and</c><00:05:50.240><c> discovery</c><00:05:51.039><c> that</c><00:05:51.360><c> has</c>
+intent formation and discovery that has
+intent formation and discovery that has
+to<00:05:51.840><c> happen</c><00:05:52.160><c> first</c><00:05:52.880><c> and</c><00:05:53.039><c> then</c><00:05:53.280><c> you</c><00:05:53.440><c> get</c><00:05:53.600><c> into</c>
+to happen first and then you get into
+to happen first and then you get into
+authoring.<00:05:54.400><c> And</c><00:05:54.560><c> what</c><00:05:54.800><c> I</c><00:05:55.039><c> have</c><00:05:55.280><c> found</c><00:05:55.680><c> sitting</c>
+authoring. And what I have found sitting
+authoring. And what I have found sitting
+down<00:05:56.240><c> with</c><00:05:56.479><c> people</c><00:05:56.880><c> over</c><00:05:57.120><c> the</c><00:05:57.360><c> last</c><00:05:57.600><c> few</c>
+down with people over the last few
+down with people over the last few
+months<00:05:58.320><c> is</c><00:05:58.639><c> that</c><00:05:58.880><c> intent</c><00:05:59.360><c> formation</c><00:05:59.919><c> for</c>
+months is that intent formation for
+months is that intent formation for
+individuals<00:06:00.800><c> is</c><00:06:01.039><c> really</c><00:06:01.280><c> hard.</c><00:06:01.759><c> And</c><00:06:02.000><c> this,</c>
+individuals is really hard. And this,
+individuals is really hard. And this,
+I'll<00:06:02.479><c> be</c><00:06:02.639><c> honest</c><00:06:02.880><c> with</c><00:06:03.039><c> you,</c><00:06:03.280><c> this</c><00:06:03.520><c> is</c>
+I'll be honest with you, this is
+I'll be honest with you, this is
+definitely<00:06:04.240><c> something</c><00:06:04.639><c> that</c><00:06:04.960><c> is</c><00:06:05.440><c> more</c><00:06:05.840><c> true</c>
+definitely something that is more true
+definitely something that is more true
+the<00:06:06.800><c> earlier</c><00:06:07.199><c> you</c><00:06:07.360><c> are</c><00:06:07.520><c> in</c><00:06:07.680><c> your</c><00:06:07.840><c> AI</c><00:06:08.240><c> journey</c>
+the earlier you are in your AI journey
+the earlier you are in your AI journey
+and<00:06:09.199><c> you</c><00:06:09.440><c> are</c><00:06:09.680><c> still</c><00:06:09.919><c> trying</c><00:06:10.160><c> to</c><00:06:10.319><c> figure</c><00:06:10.479><c> out</c>
+and you are still trying to figure out
+and you are still trying to figure out
+how<00:06:10.800><c> how</c><00:06:11.120><c> prompting</c><00:06:11.600><c> actually</c><00:06:12.000><c> works.</c><00:06:12.720><c> But</c><00:06:13.120><c> it</c>
+how how prompting actually works. But it
+how how prompting actually works. But it
+remains<00:06:14.160><c> true</c><00:06:14.639><c> the</c><00:06:14.960><c> farther</c><00:06:15.280><c> you</c><00:06:15.520><c> go</c><00:06:15.680><c> in</c><00:06:15.919><c> your</c>
+remains true the farther you go in your
+remains true the farther you go in your
+journey<00:06:16.720><c> if</c><00:06:17.039><c> you</c><00:06:17.280><c> need</c><00:06:17.680><c> help</c><00:06:18.000><c> to</c><00:06:18.400><c> trade</c><00:06:19.120><c> time</c>
+journey if you need help to trade time
+journey if you need help to trade time
+for<00:06:19.680><c> expertise.</c><00:06:20.240><c> Basically,</c><00:06:20.639><c> if</c><00:06:20.800><c> you're</c>
+for expertise. Basically, if you're
+for expertise. Basically, if you're
+trying<00:06:21.199><c> to</c><00:06:21.440><c> write</c><00:06:21.600><c> a</c><00:06:21.840><c> prompt</c><00:06:22.160><c> quickly</c><00:06:22.479><c> and</c>
+trying to write a prompt quickly and
+trying to write a prompt quickly and
+formulate<00:06:23.360><c> your</c><00:06:23.520><c> intent</c><00:06:24.000><c> quickly</c><00:06:24.319><c> and</c><00:06:24.560><c> you</c>
+formulate your intent quickly and you
+formulate your intent quickly and you
+don't<00:06:25.360><c> have</c><00:06:25.600><c> the</c><00:06:25.840><c> time</c><00:06:26.080><c> to</c><00:06:26.319><c> do</c><00:06:26.479><c> it</c><00:06:26.880><c> and</c><00:06:27.120><c> you</c><00:06:27.280><c> may</c>
+don't have the time to do it and you may
+don't have the time to do it and you may
+be<00:06:27.600><c> an</c><00:06:27.759><c> advanced</c><00:06:28.160><c> prompter,</c><00:06:28.720><c> you</c><00:06:28.880><c> still</c><00:06:29.039><c> run</c>
+be an advanced prompter, you still run
+be an advanced prompter, you still run
+into<00:06:29.440><c> the</c><00:06:29.680><c> same</c><00:06:29.840><c> issue</c><00:06:30.400><c> because</c><00:06:30.639><c> you</c><00:06:30.880><c> have</c><00:06:30.960><c> a</c>
+into the same issue because you have a
+into the same issue because you have a
+fuzzy<00:06:31.520><c> goal.</c><00:06:31.840><c> You</c><00:06:32.080><c> summarize</c><00:06:32.560><c> this,</c><00:06:32.880><c> draft</c><00:06:33.120><c> a</c>
+fuzzy goal. You summarize this, draft a
+fuzzy goal. You summarize this, draft a
+plan,<00:06:33.600><c> analyze</c><00:06:33.919><c> a</c><00:06:34.160><c> sentiment,</c><00:06:34.720><c> and</c><00:06:34.960><c> now</c><00:06:35.199><c> you</c>
+plan, analyze a sentiment, and now you
+plan, analyze a sentiment, and now you
+need<00:06:35.520><c> to</c><00:06:35.600><c> get</c><00:06:35.759><c> to</c><00:06:35.919><c> a</c><00:06:36.160><c> structured,</c>
+need to get to a structured,
+need to get to a structured,
+unambiguous,<00:06:37.840><c> high</c><00:06:38.160><c> lever</c><00:06:38.639><c> prompt</c><00:06:39.199><c> that</c><00:06:39.440><c> is</c>
+unambiguous, high lever prompt that is
+unambiguous, high lever prompt that is
+going<00:06:39.680><c> to</c><00:06:39.840><c> clarify</c><00:06:40.240><c> the</c><00:06:40.479><c> objective</c><00:06:40.800><c> and</c><00:06:40.960><c> the</c>
+going to clarify the objective and the
+going to clarify the objective and the
+constraints<00:06:41.520><c> and</c><00:06:41.600><c> the</c><00:06:41.759><c> steps.</c><00:06:42.080><c> And</c><00:06:42.240><c> you</c><00:06:42.479><c> know</c>
+constraints and the steps. And you know
+constraints and the steps. And you know
+that<00:06:42.880><c> you</c><00:06:43.120><c> should,</c><00:06:43.680><c> right?</c><00:06:43.919><c> Like</c><00:06:44.160><c> we</c><00:06:44.319><c> know</c><00:06:44.400><c> we</c>
+that you should, right? Like we know we
+that you should, right? Like we know we
+should.<00:06:44.800><c> It's</c><00:06:44.960><c> like</c><00:06:45.120><c> eat</c><00:06:45.280><c> your</c><00:06:45.520><c> vegetables.</c>
+should. It's like eat your vegetables.
+should. It's like eat your vegetables.
+There<00:06:46.560><c> are</c><00:06:46.720><c> not</c><00:06:46.960><c> great</c><00:06:47.120><c> tools</c><00:06:47.440><c> at</c><00:06:47.600><c> this</c><00:06:47.759><c> stage</c>
+There are not great tools at this stage
+There are not great tools at this stage
+and<00:06:48.240><c> most</c><00:06:48.479><c> people</c><00:06:48.720><c> use</c><00:06:48.960><c> chat</c><00:06:49.199><c> GPT.</c><00:06:49.759><c> I'll</c><00:06:50.000><c> be</c>
+and most people use chat GPT. I'll be
+and most people use chat GPT. I'll be
+really<00:06:50.319><c> honest</c><00:06:50.560><c> with</c><00:06:50.720><c> you,</c><00:06:50.960><c> most</c><00:06:51.199><c> people</c><00:06:51.360><c> use</c>
+really honest with you, most people use
+really honest with you, most people use
+chat<00:06:51.840><c> GPT</c><00:06:52.319><c> for</c><00:06:52.479><c> this</c><00:06:52.560><c> or</c><00:06:52.800><c> they</c><00:06:52.880><c> use</c><00:06:53.039><c> Cloud</c><00:06:53.440><c> for</c>
+chat GPT for this or they use Cloud for
+chat GPT for this or they use Cloud for
+this<00:06:53.759><c> and</c><00:06:53.919><c> that's</c><00:06:54.160><c> fine.</c><00:06:54.800><c> But</c><00:06:55.039><c> what</c><00:06:55.280><c> I</c><00:06:55.520><c> have</c>
+this and that's fine. But what I have
+this and that's fine. But what I have
+found<00:06:56.000><c> is</c><00:06:56.240><c> that</c><00:06:56.560><c> those</c><00:06:56.960><c> tools</c><00:06:57.520><c> by</c><00:06:57.759><c> themselves</c>
+found is that those tools by themselves
+found is that those tools by themselves
+aren't<00:06:59.280><c> super</c><00:06:59.680><c> well</c><00:07:00.000><c> suited</c><00:07:00.639><c> to</c><00:07:00.880><c> the</c><00:07:01.199><c> kind</c><00:07:01.520><c> of</c>
+aren't super well suited to the kind of
+aren't super well suited to the kind of
+intent<00:07:02.319><c> formation</c><00:07:02.800><c> that</c><00:07:03.120><c> we're</c><00:07:03.360><c> doing</c><00:07:03.520><c> at</c>
+intent formation that we're doing at
+intent formation that we're doing at
+this<00:07:03.919><c> stage.</c><00:07:04.639><c> And</c><00:07:04.800><c> there's</c><00:07:05.039><c> a</c><00:07:05.199><c> really</c><00:07:05.680><c> really</c>
+this stage. And there's a really really
+this stage. And there's a really really
+simple<00:07:06.720><c> reason</c><00:07:07.120><c> why.</c><00:07:07.759><c> When</c><00:07:08.000><c> you're</c><00:07:08.240><c> crafting</c>
+simple reason why. When you're crafting
+simple reason why. When you're crafting
+a<00:07:08.800><c> prompt</c><00:07:09.280><c> in</c><00:07:09.759><c> Claude</c><00:07:10.160><c> or</c><00:07:10.319><c> Chad</c><00:07:10.560><c> GPT</c><00:07:11.039><c> or</c>
+a prompt in Claude or Chad GPT or
+a prompt in Claude or Chad GPT or
+Gemini,<00:07:12.080><c> you</c><00:07:12.240><c> are</c><00:07:12.400><c> crafting</c><00:07:12.720><c> it</c><00:07:12.960><c> and</c>
+Gemini, you are crafting it and
+Gemini, you are crafting it and
+implicitly<00:07:13.840><c> you</c><00:07:14.000><c> are</c><00:07:14.160><c> assuming</c><00:07:14.639><c> the</c><00:07:14.880><c> prompt</c>
+implicitly you are assuming the prompt
+implicitly you are assuming the prompt
+will<00:07:15.360><c> work</c><00:07:15.520><c> in</c><00:07:15.759><c> that</c><00:07:16.000><c> particular</c><00:07:16.400><c> LLM.</c>
+will work in that particular LLM.
+will work in that particular LLM.
+there's<00:07:17.199><c> not</c><00:07:17.280><c> a</c><00:07:17.440><c> cross</c><00:07:17.840><c> LLM</c><00:07:18.400><c> compatibility</c>
+there's not a cross LLM compatibility
+there's not a cross LLM compatibility
+check<00:07:19.440><c> going</c><00:07:19.599><c> on</c><00:07:19.759><c> there.</c><00:07:20.319><c> You</c><00:07:20.560><c> are</c><00:07:20.800><c> also</c>
+check going on there. You are also
+check going on there. You are also
+typically<00:07:22.319><c> not</c><00:07:23.039><c> getting</c><00:07:23.680><c> the</c><00:07:24.080><c> LLM</c><00:07:25.039><c> to</c><00:07:25.440><c> help</c>
+typically not getting the LLM to help
+typically not getting the LLM to help
+you<00:07:26.240><c> think</c><00:07:26.639><c> through</c><00:07:27.440><c> what</c><00:07:27.680><c> is</c><00:07:27.840><c> the</c><00:07:28.160><c> output</c>
+you think through what is the output
+you think through what is the output
+format<00:07:29.360><c> for</c><00:07:29.599><c> this</c><00:07:29.919><c> prompt</c><00:07:30.560><c> and</c><00:07:30.720><c> artifact</c><00:07:31.199><c> that</c>
+format for this prompt and artifact that
+format for this prompt and artifact that
+you're<00:07:31.680><c> building.</c><00:07:32.000><c> And</c><00:07:32.160><c> I</c><00:07:32.319><c> that</c><00:07:32.479><c> that</c><00:07:32.880><c> sounds</c>
+you're building. And I that that sounds
+you're building. And I that that sounds
+really<00:07:33.599><c> abstract.</c><00:07:34.240><c> So</c><00:07:34.400><c> let</c><00:07:34.560><c> me</c><00:07:34.720><c> make</c><00:07:34.800><c> it</c>
+really abstract. So let me make it
+really abstract. So let me make it
+concrete<00:07:35.360><c> for</c><00:07:35.520><c> you.</c><00:07:35.919><c> If</c><00:07:36.160><c> you</c><00:07:36.560><c> have</c><00:07:36.800><c> a</c><00:07:37.039><c> fuzzy</c>
+concrete for you. If you have a fuzzy
+concrete for you. If you have a fuzzy
+intent,<00:07:38.319><c> you</c><00:07:38.560><c> typically</c><00:07:39.039><c> know</c><00:07:39.680><c> the</c><00:07:40.000><c> output</c>
+intent, you typically know the output
+intent, you typically know the output
+needs<00:07:40.639><c> to</c><00:07:40.800><c> be</c><00:07:40.880><c> a</c><00:07:41.039><c> deck</c><00:07:41.360><c> at</c><00:07:41.520><c> the</c><00:07:41.680><c> end</c><00:07:41.759><c> of</c><00:07:41.919><c> this</c>
+needs to be a deck at the end of this
+needs to be a deck at the end of this
+process.<00:07:43.039><c> But</c><00:07:43.199><c> what</c><00:07:43.520><c> you</c><00:07:43.759><c> don't</c><00:07:44.080><c> often</c><00:07:44.560><c> do</c><00:07:44.720><c> is</c>
+process. But what you don't often do is
+process. But what you don't often do is
+you<00:07:45.199><c> don't</c><00:07:45.280><c> often</c><00:07:45.680><c> say,</c><00:07:45.840><c> "Please</c><00:07:46.319><c> tune</c><00:07:46.639><c> this</c>
+you don't often say, "Please tune this
+you don't often say, "Please tune this
+prompt<00:07:47.520><c> in</c><00:07:47.759><c> such</c><00:07:47.919><c> a</c><00:07:48.080><c> way</c><00:07:48.160><c> that</c><00:07:48.400><c> it's</c><00:07:48.639><c> specific</c>
+prompt in such a way that it's specific
+prompt in such a way that it's specific
+for<00:07:49.520><c> writing</c><00:07:49.919><c> a</c><00:07:50.240><c> deck</c><00:07:50.880><c> because</c><00:07:51.199><c> you're</c><00:07:51.360><c> at</c><00:07:51.520><c> the</c>
+for writing a deck because you're at the
+for writing a deck because you're at the
+fuzzy<00:07:52.080><c> stage.</c><00:07:52.479><c> You're</c><00:07:52.639><c> trying</c><00:07:52.800><c> to</c><00:07:52.960><c> think</c>
+fuzzy stage. You're trying to think
+fuzzy stage. You're trying to think
+through<00:07:53.360><c> the</c><00:07:53.599><c> content</c><00:07:54.000><c> first."</c><00:07:54.319><c> And</c><00:07:54.560><c> content</c>
+through the content first." And content
+through the content first." And content
+comes<00:07:55.280><c> before</c><00:07:55.919><c> format.</c><00:07:56.800><c> What</c><00:07:57.039><c> I'm</c><00:07:57.280><c> picturing</c>
+comes before format. What I'm picturing
+comes before format. What I'm picturing
+for<00:07:58.000><c> you</c><00:07:58.479><c> is</c><00:07:58.720><c> the</c><00:07:59.039><c> realworld</c><00:07:59.759><c> complexity</c><00:08:00.720><c> that</c>
+for you is the realworld complexity that
+for you is the realworld complexity that
+I<00:08:01.360><c> feel</c><00:08:01.759><c> that</c><00:08:02.080><c> others</c><00:08:02.400><c> feel</c><00:08:02.639><c> when</c><00:08:02.879><c> they're</c>
+I feel that others feel when they're
+I feel that others feel when they're
+trying<00:08:03.280><c> to</c><00:08:03.440><c> craft</c><00:08:03.840><c> prompts.</c><00:08:04.319><c> And</c><00:08:04.479><c> to</c><00:08:04.720><c> be</c>
+trying to craft prompts. And to be
+trying to craft prompts. And to be
+honest<00:08:05.120><c> with</c><00:08:05.360><c> you,</c><00:08:06.000><c> there</c><00:08:06.240><c> hasn't</c><00:08:06.879><c> been</c><00:08:07.360><c> a</c>
+honest with you, there hasn't been a
+honest with you, there hasn't been a
+great<00:08:07.840><c> tool</c><00:08:08.080><c> for</c><00:08:08.319><c> that.</c><00:08:08.800><c> And</c><00:08:08.960><c> that's</c><00:08:09.120><c> why</c><00:08:09.280><c> I</c>
+great tool for that. And that's why I
+great tool for that. And that's why I
+built<00:08:09.759><c> one.</c><00:08:10.080><c> I</c><00:08:10.400><c> built</c><00:08:10.720><c> Hey</c><00:08:10.960><c> Presto</c><00:08:11.599><c> to</c><00:08:11.840><c> solve</c>
+built one. I built Hey Presto to solve
+built one. I built Hey Presto to solve
+for<00:08:12.319><c> specifically</c><00:08:12.960><c> this</c><00:08:13.199><c> ideation</c><00:08:13.840><c> intent</c>
+for specifically this ideation intent
+for specifically this ideation intent
+formation<00:08:14.639><c> piece.</c><00:08:15.199><c> And</c><00:08:15.360><c> if</c><00:08:15.520><c> you</c><00:08:15.680><c> come</c><00:08:15.840><c> back</c><00:08:15.919><c> to</c>
+formation piece. And if you come back to
+formation piece. And if you come back to
+me<00:08:16.240><c> and</c><00:08:16.400><c> you</c><00:08:16.560><c> say,</c><00:08:16.639><c> "Nate,</c><00:08:17.039><c> I'm</c><00:08:17.280><c> using</c><00:08:17.440><c> Chad</c>
+me and you say, "Nate, I'm using Chad
+me and you say, "Nate, I'm using Chad
+GPT."<00:08:18.319><c> I</c><00:08:18.479><c> will</c><00:08:18.639><c> say,</c><00:08:18.720><c> "Bless</c><00:08:19.280><c> you.</c><00:08:19.680><c> Have</c><00:08:19.919><c> a</c>
+GPT." I will say, "Bless you. Have a
+GPT." I will say, "Bless you. Have a
+wonderful<00:08:20.400><c> time.</c><00:08:20.639><c> This</c><00:08:20.800><c> tool</c><00:08:21.039><c> is</c><00:08:21.199><c> not</c><00:08:21.360><c> for</c>
+wonderful time. This tool is not for
+wonderful time. This tool is not for
+everyone."<00:08:22.000><c> Let</c><00:08:22.160><c> me</c><00:08:22.319><c> show</c><00:08:22.400><c> you</c><00:08:22.560><c> how</c><00:08:22.720><c> it</c><00:08:22.879><c> works</c>
+everyone." Let me show you how it works
+everyone." Let me show you how it works
+and<00:08:23.280><c> then</c><00:08:23.440><c> we'll</c><00:08:23.599><c> get</c><00:08:23.680><c> into</c><00:08:23.919><c> the</c><00:08:24.080><c> rest</c><00:08:24.160><c> of</c><00:08:24.240><c> it.</c>
+and then we'll get into the rest of it.
+and then we'll get into the rest of it.
+All<00:08:24.560><c> right.</c><00:08:24.800><c> Here</c><00:08:24.960><c> we</c><00:08:25.199><c> are</c><00:08:25.520><c> in</c><00:08:25.919><c> the</c><00:08:26.319><c> prompt</c><00:08:27.039><c> tab</c>
+All right. Here we are in the prompt tab
+All right. Here we are in the prompt tab
+on<00:08:28.479><c> Hey</c><00:08:28.720><c> Presto.</c><00:08:29.599><c> And</c><00:08:29.759><c> I</c><00:08:30.000><c> have</c><00:08:30.160><c> just</c><00:08:30.319><c> pasted</c><00:08:30.720><c> in</c>
+on Hey Presto. And I have just pasted in
+on Hey Presto. And I have just pasted in
+some<00:08:31.039><c> very</c><00:08:31.360><c> rough</c><00:08:31.599><c> notes</c><00:08:31.919><c> for</c><00:08:32.080><c> an</c><00:08:32.240><c> app</c><00:08:32.399><c> I</c><00:08:32.640><c> keep</c>
+some very rough notes for an app I keep
+some very rough notes for an app I keep
+trying<00:08:33.039><c> to</c><00:08:33.200><c> build</c><00:08:33.440><c> called</c><00:08:33.680><c> my</c><00:08:33.839><c> family</c><00:08:34.159><c> travel</c>
+trying to build called my family travel
+trying to build called my family travel
+app<00:08:34.719><c> where</c><00:08:34.959><c> it</c><00:08:35.200><c> shows</c><00:08:35.440><c> me</c><00:08:35.680><c> the</c><00:08:35.839><c> different</c>
+app where it shows me the different
+app where it shows me the different
+destinations<00:08:36.719><c> around</c><00:08:36.959><c> the</c><00:08:37.120><c> world.</c><00:08:37.519><c> and</c><00:08:37.680><c> I</c>
+destinations around the world. and I
+destinations around the world. and I
+say,<00:08:37.919><c> "Please</c><00:08:38.240><c> help</c><00:08:38.399><c> me</c><00:08:38.560><c> craft</c><00:08:38.800><c> a</c><00:08:38.959><c> prompt</c><00:08:39.120><c> to</c>
+say, "Please help me craft a prompt to
+say, "Please help me craft a prompt to
+build<00:08:39.519><c> code</c><00:08:39.680><c> for</c><00:08:39.839><c> my</c><00:08:40.080><c> app."</c><00:08:40.399><c> All</c><00:08:40.640><c> I</c><00:08:40.800><c> do</c><00:08:40.880><c> is</c><00:08:41.039><c> I</c>
+build code for my app." All I do is I
+build code for my app." All I do is I
+say,<00:08:41.279><c> "I</c><00:08:41.519><c> want</c><00:08:41.599><c> to</c><00:08:41.760><c> build</c><00:08:41.919><c> code."</c><00:08:42.399><c> And</c><00:08:42.560><c> it</c>
+say, "I want to build code." And it
+say, "I want to build code." And it
+gives<00:08:42.959><c> me</c><00:08:43.039><c> an</c><00:08:43.279><c> expanded</c><00:08:43.680><c> prompt.</c><00:08:44.320><c> Look</c><00:08:44.480><c> at</c>
+gives me an expanded prompt. Look at
+gives me an expanded prompt. Look at
+that.<00:08:44.880><c> It's</c><00:08:45.120><c> going</c><00:08:45.200><c> to</c><00:08:45.360><c> give</c><00:08:45.519><c> me</c><00:08:46.480><c> lots</c><00:08:46.720><c> and</c>
+that. It's going to give me lots and
+that. It's going to give me lots and
+lots<00:08:47.200><c> and</c><00:08:47.360><c> lots</c><00:08:47.600><c> of</c><00:08:47.760><c> detail</c><00:08:48.399><c> on</c><00:08:48.640><c> the</c><00:08:48.800><c> travel</c>
+lots and lots of detail on the travel
+lots and lots of detail on the travel
+app.<00:08:49.519><c> It's</c><00:08:49.680><c> going</c><00:08:49.760><c> to</c><00:08:49.839><c> give</c><00:08:50.000><c> me</c><00:08:50.240><c> a</c><00:08:50.640><c> suggested</c>
+app. It's going to give me a suggested
+app. It's going to give me a suggested
+file<00:08:51.600><c> structure,</c><00:08:52.320><c> suggested</c><00:08:52.880><c> data</c><00:08:53.279><c> model.</c>
+file structure, suggested data model.
+file structure, suggested data model.
+And<00:08:54.080><c> keep</c><00:08:54.320><c> in</c><00:08:54.560><c> mind,</c><00:08:55.120><c> all</c><00:08:55.360><c> of</c><00:08:55.519><c> this</c><00:08:55.680><c> is</c>
+And keep in mind, all of this is
+And keep in mind, all of this is
+editable.<00:08:56.480><c> I</c><00:08:56.720><c> have</c><00:08:56.880><c> made</c><00:08:57.120><c> this</c><00:08:57.279><c> is</c><00:08:57.519><c> ideation</c>
+editable. I have made this is ideation
+editable. I have made this is ideation
+stage,<00:08:58.640><c> right?</c><00:08:58.959><c> I</c><00:08:59.200><c> have</c><00:08:59.360><c> made</c><00:08:59.519><c> no</c>
+stage, right? I have made no
+stage, right? I have made no
+commitments.<00:09:00.480><c> Nothing</c><00:09:00.720><c> is</c><00:09:01.120><c> running.</c><00:09:01.680><c> I</c><00:09:02.000><c> can</c>
+commitments. Nothing is running. I can
+commitments. Nothing is running. I can
+go<00:09:02.320><c> back</c><00:09:02.480><c> through</c><00:09:03.440><c> and</c><00:09:03.760><c> edit</c><00:09:04.160><c> all</c><00:09:04.399><c> of</c><00:09:04.480><c> this.</c><00:09:04.880><c> I</c>
+go back through and edit all of this. I
+go back through and edit all of this. I
+don't<00:09:05.279><c> have</c><00:09:05.360><c> to</c><00:09:05.519><c> believe</c><00:09:05.839><c> or</c><00:09:06.000><c> buy</c><00:09:06.240><c> any</c><00:09:06.480><c> of</c>
+don't have to believe or buy any of
+don't have to believe or buy any of
+this.<00:09:06.880><c> And</c><00:09:07.120><c> I</c><00:09:07.279><c> can</c><00:09:07.440><c> also</c><00:09:07.839><c> change</c><00:09:08.080><c> it.</c><00:09:08.560><c> And</c><00:09:08.720><c> so</c>
+this. And I can also change it. And so
+this. And I can also change it. And so
+if<00:09:09.279><c> I</c><00:09:09.600><c> want</c><00:09:09.839><c> to</c><00:09:10.560><c> change</c><00:09:10.880><c> the</c><00:09:11.120><c> stack,</c><00:09:11.519><c> this</c><00:09:11.680><c> is</c><00:09:11.760><c> a</c>
+if I want to change the stack, this is a
+if I want to change the stack, this is a
+Python<00:09:12.399><c> stack</c><00:09:12.720><c> for</c><00:09:12.880><c> those</c><00:09:13.040><c> of</c><00:09:13.120><c> you</c><00:09:13.200><c> who</c><00:09:13.360><c> are</c>
+Python stack for those of you who are
+Python stack for those of you who are
+engineers.<00:09:14.160><c> If</c><00:09:14.320><c> I</c><00:09:14.480><c> want</c><00:09:14.560><c> to</c><00:09:14.640><c> change</c><00:09:14.800><c> it</c><00:09:14.959><c> and</c>
+engineers. If I want to change it and
+engineers. If I want to change it and
+say,<00:09:15.279><c> look,</c><00:09:15.519><c> I'm</c><00:09:15.680><c> not</c><00:09:15.839><c> writing</c><00:09:16.000><c> this</c><00:09:16.160><c> in</c>
+say, look, I'm not writing this in
+say, look, I'm not writing this in
+Flask.<00:09:16.800><c> I'm</c><00:09:16.959><c> writing</c><00:09:17.200><c> this</c><00:09:17.360><c> in</c><00:09:17.600><c> React.</c><00:09:18.399><c> That</c>
+Flask. I'm writing this in React. That
+Flask. I'm writing this in React. That
+makes<00:09:18.800><c> more</c><00:09:19.040><c> sense.</c><00:09:19.440><c> All</c><00:09:19.680><c> I</c><00:09:19.839><c> have</c><00:09:19.920><c> to</c><00:09:20.080><c> do</c><00:09:20.160><c> is</c>
+makes more sense. All I have to do is
+makes more sense. All I have to do is
+append<00:09:21.440><c> a</c><00:09:22.399><c> uh</c><00:09:22.640><c> write</c><00:09:22.880><c> this</c><00:09:23.120><c> in</c><00:09:23.279><c> React</c><00:09:24.560><c> uh</c><00:09:25.120><c> and</c><00:09:25.440><c> I</c>
+append a uh write this in React uh and I
+append a uh write this in React uh and I
+can<00:09:25.760><c> just</c><00:09:26.000><c> regenerate</c><00:09:26.720><c> and</c><00:09:26.959><c> it</c><00:09:27.120><c> will</c><00:09:27.360><c> just</c>
+can just regenerate and it will just
+can just regenerate and it will just
+regenerate<00:09:28.240><c> the</c><00:09:28.640><c> uh</c><00:09:28.880><c> regenerate</c><00:09:29.360><c> the</c><00:09:29.519><c> prompt</c>
+regenerate the uh regenerate the prompt
+regenerate the uh regenerate the prompt
+and<00:09:29.920><c> it</c><00:09:30.080><c> runs</c><00:09:30.320><c> pretty</c><00:09:30.480><c> quickly.</c><00:09:31.040><c> While</c><00:09:31.279><c> we're</c>
+and it runs pretty quickly. While we're
+and it runs pretty quickly. While we're
+uh<00:09:31.760><c> letting</c><00:09:32.080><c> it</c><00:09:32.320><c> show</c><00:09:32.480><c> up,</c><00:09:33.040><c> you</c><00:09:33.279><c> have</c>
+uh letting it show up, you have
+uh letting it show up, you have
+different<00:09:33.680><c> tones</c><00:09:34.000><c> you</c><00:09:34.240><c> can</c><00:09:34.320><c> get</c><00:09:34.399><c> with</c><00:09:34.640><c> this.</c>
+different tones you can get with this.
+different tones you can get with this.
+You<00:09:35.200><c> can</c><00:09:35.279><c> select</c><00:09:35.519><c> different</c><00:09:35.839><c> paragraphs</c><00:09:36.320><c> or</c>
+You can select different paragraphs or
+You can select different paragraphs or
+options.<00:09:37.279><c> JSON,</c><00:09:37.839><c> email,</c><00:09:38.320><c> table,</c><00:09:38.800><c> numbered</c>
+options. JSON, email, table, numbered
+options. JSON, email, table, numbered
+list,<00:09:39.519><c> step</c><00:09:39.760><c> by</c><00:09:40.000><c> step,</c><00:09:40.320><c> structured</c><00:09:40.800><c> sections.</c>
+list, step by step, structured sections.
+list, step by step, structured sections.
+Oh,<00:09:42.080><c> it</c><00:09:42.320><c> generated.</c><00:09:43.040><c> Great.</c><00:09:44.480><c> Um,</c><00:09:45.360><c> and</c><00:09:45.600><c> look</c><00:09:45.760><c> at</c>
+Oh, it generated. Great. Um, and look at
+Oh, it generated. Great. Um, and look at
+that.<00:09:46.080><c> It's</c><00:09:46.240><c> getting</c><00:09:46.399><c> into</c><00:09:46.640><c> React.</c><00:09:47.040><c> It's</c>
+that. It's getting into React. It's
+that. It's getting into React. It's
+getting<00:09:47.279><c> into</c><00:09:47.519><c> Tailwind,</c><00:09:48.640><c> and</c><00:09:48.959><c> it</c><00:09:49.279><c> just</c>
+getting into Tailwind, and it just
+getting into Tailwind, and it just
+rewrites<00:09:49.920><c> it.</c><00:09:50.240><c> And</c><00:09:50.399><c> so,</c><00:09:50.800><c> it</c><00:09:51.040><c> takes</c><00:09:51.360><c> the</c><00:09:51.519><c> detail</c>
+rewrites it. And so, it takes the detail
+rewrites it. And so, it takes the detail
+you<00:09:52.160><c> give</c><00:09:52.320><c> it,</c><00:09:53.120><c> and</c><00:09:53.360><c> in</c><00:09:53.519><c> this</c><00:09:53.680><c> case,</c><00:09:53.839><c> I</c><00:09:54.000><c> gave</c><00:09:54.160><c> it</c>
+you give it, and in this case, I gave it
+you give it, and in this case, I gave it
+a<00:09:54.480><c> fair</c><00:09:54.640><c> bit,</c><00:09:55.920><c> and</c><00:09:56.560><c> it</c><00:09:56.800><c> will</c><00:09:57.040><c> turn</c><00:09:57.279><c> it</c><00:09:57.440><c> in</c><00:09:57.680><c> to</c><00:09:57.920><c> a</c>
+a fair bit, and it will turn it in to a
+a fair bit, and it will turn it in to a
+high-grade<00:09:58.560><c> prompt.</c><00:09:58.959><c> And</c><00:09:59.040><c> if</c><00:09:59.200><c> you're</c>
+high-grade prompt. And if you're
+high-grade prompt. And if you're
+wondering,<00:10:00.160><c> does</c><00:10:00.480><c> this</c><00:10:00.720><c> actually</c><00:10:01.120><c> work?</c><00:10:01.680><c> I</c>
+wondering, does this actually work? I
+wondering, does this actually work? I
+will<00:10:02.160><c> show</c><00:10:02.240><c> you</c><00:10:02.720><c> what</c><00:10:02.959><c> I've</c><00:10:03.120><c> been</c><00:10:03.279><c> working</c><00:10:03.440><c> on</c>
+will show you what I've been working on
+will show you what I've been working on
+in<00:10:03.760><c> lovable.</c><00:10:04.320><c> The</c><00:10:04.560><c> answer</c><00:10:04.720><c> is</c><00:10:04.959><c> yes.</c><00:10:05.279><c> So,</c><00:10:05.519><c> here</c>
+in lovable. The answer is yes. So, here
+in lovable. The answer is yes. So, here
+we<00:10:05.760><c> are</c><00:10:05.839><c> in</c><00:10:06.000><c> Lovable.</c><00:10:06.720><c> We're</c><00:10:06.959><c> crafting</c><00:10:07.360><c> a</c><00:10:07.680><c> cute</c>
+we are in Lovable. We're crafting a cute
+we are in Lovable. We're crafting a cute
+little<00:10:08.160><c> app.</c><00:10:08.640><c> We</c><00:10:08.880><c> can</c><00:10:09.040><c> add</c><00:10:09.200><c> our</c><00:10:09.440><c> destination.</c>
+little app. We can add our destination.
+little app. We can add our destination.
+It's<00:10:11.360><c> not</c><00:10:11.519><c> done</c><00:10:11.600><c> yet.</c><00:10:11.839><c> We</c><00:10:12.000><c> can</c><00:10:12.080><c> add</c><00:10:12.240><c> a</c><00:10:12.480><c> family</c>
+It's not done yet. We can add a family
+It's not done yet. We can add a family
+member.<00:10:14.000><c> Little</c><00:10:14.320><c> energy</c><00:10:14.720><c> levels</c><00:10:15.120><c> here</c><00:10:15.279><c> for</c>
+member. Little energy levels here for
+member. Little energy levels here for
+the<00:10:15.760><c> family</c><00:10:16.079><c> member,</c><00:10:16.720><c> whether</c><00:10:17.040><c> they're</c><00:10:17.200><c> an</c>
+the family member, whether they're an
+the family member, whether they're an
+adventure,<00:10:18.000><c> relaxer.</c><00:10:18.720><c> The</c><00:10:18.959><c> app</c><00:10:19.120><c> isn't</c><00:10:19.440><c> done</c>
+adventure, relaxer. The app isn't done
+adventure, relaxer. The app isn't done
+yet,<00:10:19.760><c> but</c><00:10:19.920><c> it's</c><00:10:20.160><c> coming</c><00:10:20.320><c> together.</c><00:10:20.720><c> And</c><00:10:20.959><c> I</c><00:10:21.120><c> was</c>
+yet, but it's coming together. And I was
+yet, but it's coming together. And I was
+able<00:10:21.519><c> to</c><00:10:21.680><c> use</c><00:10:22.399><c> the</c><00:10:22.800><c> prompt</c><00:10:23.519><c> to</c><00:10:23.920><c> craft</c><00:10:24.720><c> the</c>
+able to use the prompt to craft the
+able to use the prompt to craft the
+initial<00:10:25.279><c> piece</c><00:10:25.519><c> of</c><00:10:25.600><c> the</c><00:10:25.839><c> app.</c><00:10:26.160><c> And</c><00:10:26.320><c> this</c><00:10:26.480><c> is</c>
+initial piece of the app. And this is
+initial piece of the app. And this is
+not<00:10:26.880><c> just</c><00:10:27.040><c> for</c><00:10:27.279><c> lovable,</c><00:10:27.760><c> right?</c><00:10:28.000><c> Like,</c><00:10:28.240><c> this</c>
+not just for lovable, right? Like, this
+not just for lovable, right? Like, this
+is<00:10:28.480><c> something</c><00:10:28.640><c> I</c><00:10:28.880><c> could</c><00:10:29.040><c> have</c><00:10:29.120><c> put</c><00:10:29.279><c> into</c>
+is something I could have put into
+is something I could have put into
+anti-gravity<00:10:30.320><c> from</c><00:10:30.560><c> Google.</c><00:10:30.959><c> It's</c><00:10:31.120><c> something</c>
+anti-gravity from Google. It's something
+anti-gravity from Google. It's something
+I<00:10:31.519><c> could</c><00:10:31.680><c> have</c><00:10:31.839><c> used</c><00:10:32.320><c> uh</c><00:10:32.480><c> for</c><00:10:32.640><c> any</c><00:10:32.800><c> other</c>
+I could have used uh for any other
+I could have used uh for any other
+vibecoded<00:10:33.600><c> application</c><00:10:34.000><c> or</c><00:10:34.160><c> I</c><00:10:34.320><c> could</c><00:10:34.800><c> even</c>
+vibecoded application or I could even
+vibecoded application or I could even
+even<00:10:35.040><c> have</c><00:10:35.200><c> used</c><00:10:35.360><c> it</c><00:10:35.519><c> in</c><00:10:35.680><c> cursor</c><00:10:36.079><c> or</c><00:10:36.240><c> other</c>
+even have used it in cursor or other
+even have used it in cursor or other
+spaces<00:10:36.800><c> to</c><00:10:37.040><c> get</c><00:10:37.200><c> started.</c><00:10:37.839><c> It</c><00:10:38.079><c> is</c><00:10:38.240><c> designed</c><00:10:38.720><c> to</c>
+spaces to get started. It is designed to
+spaces to get started. It is designed to
+be<00:10:39.519><c> agnostic</c><00:10:40.240><c> of</c><00:10:40.560><c> the</c><00:10:40.800><c> tool</c><00:10:41.600><c> but</c><00:10:41.920><c> focused</c><00:10:42.320><c> on</c>
+be agnostic of the tool but focused on
+be agnostic of the tool but focused on
+the<00:10:42.800><c> outcome</c><00:10:43.200><c> you</c><00:10:43.440><c> want</c><00:10:43.760><c> which</c><00:10:43.920><c> I</c><00:10:44.160><c> think</c><00:10:44.240><c> has</c>
+the outcome you want which I think has
+the outcome you want which I think has
+been<00:10:44.560><c> a</c><00:10:44.720><c> space</c><00:10:44.959><c> that's</c><00:10:45.279><c> been</c><00:10:45.440><c> missing</c>
+been a space that's been missing
+been a space that's been missing
+strategically<00:10:46.480><c> for</c><00:10:46.720><c> us</c><00:10:46.959><c> because</c><00:10:47.200><c> when</c><00:10:47.440><c> we're</c>
+strategically for us because when we're
+strategically for us because when we're
+forming<00:10:48.399><c> intent</c><00:10:49.040><c> when</c><00:10:49.279><c> we're</c><00:10:49.519><c> at</c><00:10:49.680><c> that</c><00:10:50.000><c> fuzzy</c>
+forming intent when we're at that fuzzy
+forming intent when we're at that fuzzy
+initial<00:10:50.800><c> stage</c><00:10:51.279><c> that</c><00:10:51.519><c> I'm</c><00:10:51.760><c> arguing</c><00:10:52.160><c> we</c><00:10:52.480><c> don't</c>
+initial stage that I'm arguing we don't
+initial stage that I'm arguing we don't
+have<00:10:52.800><c> good</c><00:10:53.040><c> words</c><00:10:53.360><c> for</c><00:10:53.920><c> we</c><00:10:54.240><c> need</c><00:10:54.480><c> the</c>
+have good words for we need the
+have good words for we need the
+flexibility<00:10:55.279><c> to</c><00:10:55.519><c> go</c><00:10:55.680><c> anywhere.</c><00:10:56.399><c> Let</c><00:10:56.560><c> me</c><00:10:56.720><c> give</c>
+flexibility to go anywhere. Let me give
+flexibility to go anywhere. Let me give
+you<00:10:57.120><c> one</c><00:10:57.360><c> more</c><00:10:57.600><c> example.</c><00:10:58.079><c> This</c><00:10:58.240><c> one's</c><00:10:58.480><c> around</c>
+you one more example. This one's around
+you one more example. This one's around
+PowerPoint<00:10:59.440><c> text.</c><00:10:59.920><c> So,</c><00:11:00.160><c> here</c><00:11:00.320><c> we</c><00:11:00.560><c> are</c><00:11:00.800><c> with</c><00:11:01.040><c> a</c>
+PowerPoint text. So, here we are with a
+PowerPoint text. So, here we are with a
+PowerPoint<00:11:01.920><c> deck</c><00:11:02.320><c> summary</c><00:11:02.720><c> of</c><00:11:03.040><c> Andre</c>
+PowerPoint deck summary of Andre
+PowerPoint deck summary of Andre
+Carpathy's<00:11:04.399><c> famous</c><00:11:04.959><c> early</c><00:11:05.360><c> 2025</c><00:11:06.160><c> software</c>
+Carpathy's famous early 2025 software
+Carpathy's famous early 2025 software
+3.0<00:11:07.200><c> talk.</c><00:11:07.839><c> It's</c><00:11:08.160><c> gorgeous.</c><00:11:08.959><c> It</c><00:11:09.200><c> looks</c><00:11:09.680><c> great.</c>
+3.0 talk. It's gorgeous. It looks great.
+3.0 talk. It's gorgeous. It looks great.
+Software<00:11:10.880><c> is</c><00:11:11.120><c> changing</c><00:11:11.519><c> again.</c><00:11:12.399><c> I</c><00:11:12.640><c> just</c><00:11:12.880><c> love</c>
+Software is changing again. I just love
+Software is changing again. I just love
+the<00:11:13.279><c> look</c><00:11:13.440><c> of</c><00:11:13.600><c> this.</c><00:11:14.000><c> All</c><00:11:14.240><c> generated</c><00:11:14.800><c> by</c><00:11:15.120><c> one</c>
+the look of this. All generated by one
+the look of this. All generated by one
+prompt<00:11:15.760><c> from</c><00:11:16.000><c> Hey</c><00:11:16.240><c> Presto.</c><00:11:17.120><c> Super</c><00:11:17.519><c> easy.</c><00:11:18.240><c> And</c>
+prompt from Hey Presto. Super easy. And
+prompt from Hey Presto. Super easy. And
+I<00:11:18.560><c> got</c><00:11:18.880><c> oh,</c><00:11:19.120><c> I</c><00:11:19.279><c> don't</c><00:11:19.360><c> know,</c><00:11:19.680><c> 15</c><00:11:20.079><c> 16</c><00:11:20.480><c> I</c><00:11:20.640><c> got</c><00:11:20.800><c> 20</c>
+I got oh, I don't know, 15 16 I got 20
+I got oh, I don't know, 15 16 I got 20
+slides<00:11:21.360><c> out</c><00:11:21.519><c> of</c><00:11:21.600><c> it.</c><00:11:21.839><c> Right.</c><00:11:22.160><c> Embrace</c><00:11:22.480><c> the</c>
+slides out of it. Right. Embrace the
+slides out of it. Right. Embrace the
+Iron<00:11:22.959><c> Man</c><00:11:23.200><c> suit.</c><00:11:23.519><c> I</c><00:11:23.760><c> love</c><00:11:23.920><c> this.</c><00:11:24.240><c> What</c><00:11:24.399><c> a</c>
+Iron Man suit. I love this. What a
+Iron Man suit. I love this. What a
+finish.<00:11:25.120><c> It</c><00:11:25.680><c> makes</c><00:11:26.000><c> sense.</c><00:11:26.320><c> It's</c><00:11:26.640><c> ready</c><00:11:26.800><c> to</c>
+finish. It makes sense. It's ready to
+finish. It makes sense. It's ready to
+It's<00:11:27.360><c> ready</c><00:11:27.519><c> to</c><00:11:27.839><c> share.</c>
+It's ready to share.
+It's ready to share.
+So,<00:11:29.920><c> how</c><00:11:30.160><c> did</c><00:11:30.320><c> I</c><00:11:30.560><c> do</c><00:11:30.720><c> this?</c><00:11:31.120><c> Very</c><00:11:31.440><c> simple.</c><00:11:32.000><c> All</c>
+So, how did I do this? Very simple. All
+So, how did I do this? Very simple. All
+I<00:11:32.399><c> did</c><00:11:32.560><c> was</c><00:11:32.800><c> I</c><00:11:33.040><c> said,</c><00:11:33.200><c> I</c><00:11:33.360><c> want</c><00:11:33.440><c> to</c><00:11:33.519><c> make</c><00:11:33.600><c> a</c><00:11:33.760><c> deck</c>
+I did was I said, I want to make a deck
+I did was I said, I want to make a deck
+about<00:11:34.320><c> this</c><00:11:34.560><c> article.</c><00:11:35.040><c> I</c><00:11:35.279><c> put</c><00:11:35.440><c> in</c><00:11:35.680><c> my</c><00:11:35.839><c> notes.</c>
+about this article. I put in my notes.
+about this article. I put in my notes.
+Here's<00:11:36.959><c> my</c><00:11:37.120><c> notes</c><00:11:37.440><c> on</c><00:11:37.600><c> Andre's</c><00:11:38.160><c> article.</c><00:11:38.560><c> Dum</c>
+Here's my notes on Andre's article. Dum
+Here's my notes on Andre's article. Dum
+dum<00:11:39.120><c> dum.</c><00:11:39.600><c> I</c><00:11:39.680><c> said,</c><00:11:39.839><c> I</c><00:11:40.000><c> want</c><00:11:40.079><c> it</c><00:11:40.240><c> to</c><00:11:40.320><c> be</c><00:11:40.480><c> a</c><00:11:40.560><c> deck.</c>
+dum dum. I said, I want it to be a deck.
+dum dum. I said, I want it to be a deck.
+And<00:11:41.279><c> I</c><00:11:41.440><c> got</c><00:11:42.000><c> create</c><00:11:42.240><c> a</c><00:11:42.480><c> deck,</c><00:11:43.040><c> right?</c><00:11:43.360><c> It</c><00:11:43.600><c> has</c>
+And I got create a deck, right? It has
+And I got create a deck, right? It has
+everything.<00:11:44.160><c> It's</c><00:11:44.399><c> laid</c><00:11:44.640><c> out.</c><00:11:44.880><c> It's</c><00:11:45.040><c> got</c><00:11:45.200><c> the</c>
+everything. It's laid out. It's got the
+everything. It's laid out. It's got the
+slides<00:11:45.760><c> laid</c><00:11:46.000><c> out.</c><00:11:46.240><c> It's</c><00:11:46.480><c> all</c><00:11:46.640><c> perfect.</c><00:11:47.360><c> And</c>
+slides laid out. It's all perfect. And
+slides laid out. It's all perfect. And
+you<00:11:47.839><c> can</c><00:11:48.000><c> change</c><00:11:48.320><c> this,</c><00:11:48.640><c> right?</c><00:11:48.880><c> You</c><00:11:49.040><c> can</c>
+you can change this, right? You can
+you can change this, right? You can
+adjust<00:11:49.440><c> it.</c><00:11:49.760><c> And</c><00:11:49.920><c> by</c><00:11:50.079><c> the</c><00:11:50.240><c> way,</c><00:11:50.320><c> if</c><00:11:50.560><c> you're</c>
+adjust it. And by the way, if you're
+adjust it. And by the way, if you're
+wondering,<00:11:51.519><c> why</c><00:11:51.760><c> would</c><00:11:51.920><c> I</c><00:11:52.000><c> go</c><00:11:52.160><c> to</c><00:11:52.320><c> Hey</c><00:11:52.560><c> presto?</c>
+wondering, why would I go to Hey presto?
+wondering, why would I go to Hey presto?
+That's<00:11:53.279><c> sort</c><00:11:53.440><c> of</c><00:11:53.600><c> annoying.</c><00:11:54.720><c> Uh,</c><00:11:55.279><c> I</c><00:11:55.519><c> get</c><00:11:55.680><c> it.</c>
+That's sort of annoying. Uh, I get it.
+That's sort of annoying. Uh, I get it.
+And<00:11:56.160><c> maybe</c><00:11:56.320><c> you</c><00:11:56.560><c> don't</c><00:11:56.720><c> want</c><00:11:56.880><c> to.</c><00:11:57.519><c> But</c><00:11:58.000><c> if</c><00:11:58.240><c> you</c>
+And maybe you don't want to. But if you
+And maybe you don't want to. But if you
+do<00:11:58.560><c> want</c><00:11:58.720><c> to,</c><00:11:58.959><c> we've</c><00:11:59.279><c> made</c><00:11:59.440><c> buttons</c><00:11:59.839><c> so</c><00:12:00.000><c> it's</c>
+do want to, we've made buttons so it's
+do want to, we've made buttons so it's
+really<00:12:00.480><c> easy</c><00:12:01.040><c> to</c><00:12:01.279><c> go</c><00:12:01.519><c> into</c><00:12:02.160><c> Claude</c><00:12:02.560><c> or</c><00:12:02.640><c> to</c><00:12:02.800><c> go</c>
+really easy to go into Claude or to go
+really easy to go into Claude or to go
+into<00:12:03.040><c> chat</c><00:12:03.360><c> GPT</c><00:12:03.839><c> directly.</c><00:12:04.160><c> And</c><00:12:04.320><c> so</c><00:12:04.399><c> you</c><00:12:04.560><c> can</c>
+into chat GPT directly. And so you can
+into chat GPT directly. And so you can
+open<00:12:04.880><c> it</c><00:12:05.040><c> up</c><00:12:05.200><c> and</c><00:12:05.360><c> it</c><00:12:05.600><c> will</c><00:12:05.680><c> just</c><00:12:05.839><c> pop</c><00:12:06.079><c> open</c><00:12:06.320><c> the</c>
+open it up and it will just pop open the
+open it up and it will just pop open the
+prompt<00:12:06.800><c> right</c><00:12:07.040><c> in</c><00:12:07.279><c> Claude.</c><00:12:07.680><c> Here's</c><00:12:07.920><c> the</c>
+prompt right in Claude. Here's the
+prompt right in Claude. Here's the
+prompt<00:12:08.399><c> opened</c><00:12:08.720><c> up</c><00:12:08.880><c> right</c><00:12:09.120><c> in</c><00:12:09.360><c> Claude.</c><00:12:10.000><c> Super</c>
+prompt opened up right in Claude. Super
+prompt opened up right in Claude. Super
+super<00:12:10.720><c> easy.</c><00:12:11.120><c> Now,</c><00:12:11.360><c> this</c><00:12:11.519><c> is</c><00:12:11.600><c> the</c><00:12:11.760><c> part</c><00:12:11.920><c> where</c>
+super easy. Now, this is the part where
+super easy. Now, this is the part where
+people<00:12:12.399><c> usually</c><00:12:12.720><c> roll</c><00:12:12.959><c> their</c><00:12:13.200><c> eyes</c><00:12:13.360><c> because</c>
+people usually roll their eyes because
+people usually roll their eyes because
+they're<00:12:13.760><c> like,</c><00:12:13.839><c> "Oh,</c><00:12:14.160><c> Nate</c><00:12:14.480><c> has</c><00:12:14.639><c> sold</c><00:12:14.880><c> out.</c>
+they're like, "Oh, Nate has sold out.
+they're like, "Oh, Nate has sold out.
+He's<00:12:15.360><c> trying</c><00:12:15.519><c> to</c><00:12:15.680><c> like</c><00:12:15.920><c> shill</c><00:12:16.240><c> and</c><00:12:16.480><c> like</c><00:12:16.639><c> push</c>
+He's trying to like shill and like push
+He's trying to like shill and like push
+his<00:12:17.040><c> stupid</c><00:12:17.360><c> little</c><00:12:17.600><c> product</c><00:12:17.839><c> on</c><00:12:18.079><c> us."</c><00:12:18.399><c> And</c>
+his stupid little product on us." And
+his stupid little product on us." And
+I'll<00:12:18.880><c> be</c><00:12:19.040><c> honest</c><00:12:19.200><c> with</c><00:12:19.440><c> you,</c><00:12:20.240><c> I</c><00:12:20.560><c> could</c><00:12:20.720><c> be</c><00:12:20.880><c> the</c>
+I'll be honest with you, I could be the
+I'll be honest with you, I could be the
+person<00:12:21.279><c> who</c><00:12:21.519><c> does</c><00:12:21.680><c> that</c><00:12:22.000><c> and</c><00:12:22.240><c> I'm</c><00:12:22.480><c> not</c><00:12:22.639><c> going</c>
+person who does that and I'm not going
+person who does that and I'm not going
+to<00:12:23.279><c> because</c><00:12:24.160><c> I'm</c><00:12:24.480><c> not</c><00:12:24.720><c> interested</c><00:12:25.519><c> in</c><00:12:25.839><c> saying</c>
+to because I'm not interested in saying
+to because I'm not interested in saying
+this<00:12:26.320><c> is</c><00:12:26.480><c> the</c><00:12:26.639><c> best</c><00:12:26.880><c> product</c><00:12:27.120><c> for</c><00:12:27.440><c> everything.</c>
+this is the best product for everything.
+this is the best product for everything.
+That<00:12:28.160><c> is</c><00:12:28.399><c> why</c><00:12:29.040><c> I</c><00:12:29.279><c> spent</c><00:12:29.839><c> 15</c><00:12:30.240><c> minutes</c><00:12:30.560><c> going</c>
+That is why I spent 15 minutes going
+That is why I spent 15 minutes going
+through<00:12:31.279><c> all</c><00:12:31.440><c> the</c><00:12:31.680><c> stages</c><00:12:32.079><c> of</c><00:12:32.399><c> the</c><00:12:32.639><c> prompt</c>
+through all the stages of the prompt
+through all the stages of the prompt
+tool<00:12:33.440><c> chain</c><00:12:33.760><c> and</c><00:12:34.079><c> talking</c><00:12:34.320><c> about</c><00:12:34.480><c> all</c><00:12:34.720><c> the</c>
+tool chain and talking about all the
+tool chain and talking about all the
+other<00:12:35.200><c> great</c><00:12:35.440><c> tools</c><00:12:35.760><c> that</c><00:12:36.000><c> you</c><00:12:36.240><c> have</c><00:12:36.480><c> to</c><00:12:36.720><c> go</c>
+other great tools that you have to go
+other great tools that you have to go
+after<00:12:37.120><c> for</c><00:12:37.360><c> prompting.</c><00:12:37.920><c> I</c><00:12:38.079><c> do</c><00:12:38.320><c> not</c><00:12:38.480><c> believe</c><00:12:38.720><c> in</c>
+after for prompting. I do not believe in
+after for prompting. I do not believe in
+a<00:12:39.120><c> world</c><00:12:39.279><c> where</c><00:12:39.519><c> there</c><00:12:39.680><c> is</c><00:12:39.839><c> one</c><00:12:40.079><c> prompt</c><00:12:40.399><c> tool</c>
+a world where there is one prompt tool
+a world where there is one prompt tool
+for<00:12:40.959><c> everything.</c><00:12:41.519><c> And</c><00:12:41.680><c> that</c><00:12:42.079><c> in</c><00:12:42.320><c> turn</c><00:12:43.040><c> drives</c>
+for everything. And that in turn drives
+for everything. And that in turn drives
+the<00:12:43.680><c> way</c><00:12:43.760><c> I'm</c><00:12:44.079><c> thinking</c><00:12:44.320><c> about</c><00:12:44.639><c> pricing.</c><00:12:45.360><c> If</c>
+the way I'm thinking about pricing. If
+the way I'm thinking about pricing. If
+we<00:12:45.839><c> are</c><00:12:46.000><c> thinking</c><00:12:46.240><c> about</c><00:12:46.480><c> pricing</c><00:12:46.880><c> for</c><00:12:47.120><c> prompt</c>
+we are thinking about pricing for prompt
+we are thinking about pricing for prompt
+tooling,<00:12:47.920><c> it</c><00:12:48.160><c> needs</c><00:12:48.399><c> to</c><00:12:48.639><c> change</c><00:12:49.360><c> depending</c><00:12:49.680><c> on</c>
+tooling, it needs to change depending on
+tooling, it needs to change depending on
+whether<00:12:50.079><c> you're</c><00:12:50.240><c> a</c><00:12:50.480><c> team</c><00:12:50.720><c> solution</c><00:12:51.040><c> or</c><00:12:51.200><c> an</c>
+whether you're a team solution or an
+whether you're a team solution or an
+individual<00:12:51.920><c> solution.</c><00:12:52.560><c> And</c><00:12:52.720><c> in</c><00:12:52.880><c> my</c><00:12:53.040><c> case,</c><00:12:53.440><c> I</c>
+individual solution. And in my case, I
+individual solution. And in my case, I
+want<00:12:53.920><c> to</c><00:12:54.240><c> make</c><00:12:54.480><c> this</c><00:12:54.880><c> something</c><00:12:55.600><c> that</c><00:12:55.920><c> is</c><00:12:56.240><c> very</c>
+want to make this something that is very
+want to make this something that is very
+very<00:12:56.880><c> affordable</c><00:12:57.680><c> if</c><00:12:57.920><c> you're</c><00:12:58.160><c> already</c><00:12:58.480><c> a</c><00:12:58.720><c> part</c>
+very affordable if you're already a part
+very affordable if you're already a part
+of<00:12:59.040><c> the</c><00:12:59.279><c> Nate</c><00:12:59.600><c> Substack</c><00:13:00.079><c> community.</c><00:13:00.480><c> I</c><00:13:00.720><c> don't</c>
+of the Nate Substack community. I don't
+of the Nate Substack community. I don't
+want<00:13:01.040><c> this</c><00:13:01.279><c> to</c><00:13:01.519><c> feel</c><00:13:01.839><c> extra</c><00:13:02.240><c> fancy</c><00:13:02.560><c> or</c>
+want this to feel extra fancy or
+want this to feel extra fancy or
+complicated.<00:13:03.279><c> And</c><00:13:03.440><c> so</c><00:13:03.600><c> the</c><00:13:03.839><c> easiest</c><00:13:04.240><c> way</c><00:13:04.399><c> I</c>
+complicated. And so the easiest way I
+complicated. And so the easiest way I
+can<00:13:04.800><c> figure</c><00:13:05.040><c> it</c><00:13:05.200><c> out</c><00:13:05.440><c> is</c><00:13:05.760><c> to</c><00:13:05.920><c> just</c><00:13:06.160><c> say</c><00:13:06.480><c> if</c><00:13:06.639><c> you</c>
+can figure it out is to just say if you
+can figure it out is to just say if you
+are<00:13:07.040><c> a</c><00:13:07.279><c> member</c><00:13:07.440><c> of</c><00:13:07.600><c> the</c><00:13:07.760><c> Substack,</c><00:13:08.720><c> you</c><00:13:08.959><c> will</c>
+are a member of the Substack, you will
+are a member of the Substack, you will
+get<00:13:09.600><c> a</c><00:13:09.920><c> coupon</c><00:13:10.320><c> code</c><00:13:10.959><c> for</c><00:13:11.360><c> 70%</c><00:13:12.079><c> off</c><00:13:12.480><c> forever</c><00:13:13.120><c> on</c>
+get a coupon code for 70% off forever on
+get a coupon code for 70% off forever on
+the<00:13:13.519><c> prompt</c><00:13:13.920><c> tool.</c><00:13:14.320><c> which</c><00:13:14.720><c> makes</c><00:13:14.880><c> it</c><00:13:15.120><c> like</c>
+the prompt tool. which makes it like
+the prompt tool. which makes it like
+seven<00:13:15.839><c> bucks</c><00:13:16.079><c> a</c><00:13:16.320><c> month</c><00:13:16.480><c> or</c><00:13:16.720><c> something.</c><00:13:17.200><c> And</c>
+seven bucks a month or something. And
+seven bucks a month or something. And
+I'm<00:13:17.920><c> doing</c><00:13:18.079><c> that</c><00:13:18.320><c> because</c><00:13:18.480><c> I</c><00:13:18.720><c> want</c><00:13:18.800><c> it</c><00:13:18.959><c> to</c><00:13:19.120><c> be</c>
+I'm doing that because I want it to be
+I'm doing that because I want it to be
+super<00:13:19.519><c> easy</c><00:13:19.760><c> for</c><00:13:19.920><c> you</c><00:13:20.079><c> to</c><00:13:20.320><c> use.</c><00:13:20.800><c> And</c><00:13:20.959><c> if</c><00:13:21.200><c> it's</c>
+super easy for you to use. And if it's
+super easy for you to use. And if it's
+useful,<00:13:21.839><c> great.</c><00:13:22.399><c> And</c><00:13:22.880><c> fantastic,</c><00:13:23.519><c> right?</c><00:13:24.000><c> And</c>
+useful, great. And fantastic, right? And
+useful, great. And fantastic, right? And
+on<00:13:24.480><c> my</c><00:13:24.639><c> side,</c><00:13:24.959><c> I'm</c><00:13:25.200><c> committing</c><00:13:25.600><c> to</c><00:13:25.839><c> continuing</c>
+on my side, I'm committing to continuing
+on my side, I'm committing to continuing
+to<00:13:26.480><c> make</c><00:13:26.560><c> it</c><00:13:26.800><c> better.</c><00:13:27.120><c> And</c><00:13:27.279><c> so,</c><00:13:27.519><c> I'm</c><00:13:27.760><c> going</c><00:13:27.920><c> to</c>
+to make it better. And so, I'm going to
+to make it better. And so, I'm going to
+be<00:13:28.240><c> opening</c><00:13:28.639><c> up</c><00:13:29.440><c> a</c><00:13:30.000><c> Slack</c><00:13:30.399><c> channel</c><00:13:30.959><c> into</c><00:13:31.279><c> my</c>
+be opening up a Slack channel into my
+be opening up a Slack channel into my
+working<00:13:31.920><c> Slack</c><00:13:32.399><c> for</c><00:13:32.720><c> people</c><00:13:32.959><c> who</c><00:13:33.279><c> are</c><00:13:33.519><c> using</c>
+working Slack for people who are using
+working Slack for people who are using
+Hey<00:13:34.320><c> Presto</c><00:13:34.800><c> so</c><00:13:34.959><c> that</c><00:13:35.120><c> they</c><00:13:35.279><c> can</c><00:13:35.440><c> give</c><00:13:35.680><c> direct</c>
+Hey Presto so that they can give direct
+Hey Presto so that they can give direct
+feedback<00:13:36.399><c> to</c><00:13:36.639><c> me</c><00:13:37.040><c> and</c><00:13:37.279><c> a</c><00:13:37.519><c> couple</c><00:13:37.600><c> of</c><00:13:37.760><c> other</c>
+feedback to me and a couple of other
+feedback to me and a couple of other
+builders<00:13:38.240><c> who</c><00:13:38.399><c> are</c><00:13:38.560><c> working</c><00:13:38.720><c> on</c><00:13:38.880><c> this</c><00:13:39.120><c> so</c><00:13:39.279><c> that</c>
+builders who are working on this so that
+builders who are working on this so that
+we<00:13:39.600><c> could</c><00:13:39.680><c> make</c><00:13:39.839><c> it</c><00:13:40.000><c> better.</c><00:13:40.480><c> My</c><00:13:40.720><c> goal</c><00:13:41.120><c> is</c><00:13:41.440><c> to</c>
+we could make it better. My goal is to
+we could make it better. My goal is to
+solve<00:13:42.160><c> that</c><00:13:42.560><c> fuzzy</c><00:13:43.360><c> intent</c><00:13:44.399><c> stage.</c><00:13:44.959><c> So</c><00:13:45.120><c> if</c><00:13:45.279><c> you</c>
+solve that fuzzy intent stage. So if you
+solve that fuzzy intent stage. So if you
+remember,<00:13:45.839><c> we</c><00:13:46.079><c> have</c><00:13:46.160><c> these</c><00:13:46.560><c> multiple</c><00:13:46.959><c> stages</c>
+remember, we have these multiple stages
+remember, we have these multiple stages
+in<00:13:47.519><c> the</c><00:13:47.680><c> prompt</c><00:13:47.920><c> tool</c><00:13:48.160><c> chain.</c><00:13:48.480><c> And</c><00:13:48.560><c> I'm</c><00:13:48.800><c> going</c>
+in the prompt tool chain. And I'm going
+in the prompt tool chain. And I'm going
+to<00:13:48.959><c> show</c><00:13:49.120><c> you</c><00:13:49.680><c> what</c><00:13:49.920><c> this</c><00:13:50.160><c> looks</c><00:13:50.480><c> like</c><00:13:50.639><c> using</c><00:13:50.880><c> a</c>
+to show you what this looks like using a
+to show you what this looks like using a
+slide<00:13:51.360><c> created</c><00:13:51.600><c> by</c><00:13:51.760><c> Nano</c><00:13:52.160><c> Banana.</c><00:13:52.720><c> So</c><00:13:52.959><c> here</c><00:13:53.120><c> we</c>
+slide created by Nano Banana. So here we
+slide created by Nano Banana. So here we
+are.<00:13:53.440><c> These</c><00:13:53.680><c> are</c><00:13:53.760><c> the</c><00:13:53.920><c> six</c><00:13:54.240><c> stages</c><00:13:54.959><c> of</c><00:13:55.200><c> the</c>
+are. These are the six stages of the
+are. These are the six stages of the
+prompt<00:13:55.760><c> life</c><00:13:56.000><c> cycle.</c><00:13:56.399><c> Right?</c><00:13:56.959><c> We</c><00:13:57.199><c> have</c><00:13:57.360><c> spent</c>
+prompt life cycle. Right? We have spent
+prompt life cycle. Right? We have spent
+almost<00:13:58.000><c> all</c><00:13:58.240><c> of</c><00:13:58.320><c> our</c><00:13:58.560><c> tooling</c><00:13:58.880><c> and</c><00:13:59.120><c> thinking</c>
+almost all of our tooling and thinking
+almost all of our tooling and thinking
+time<00:13:59.839><c> around</c><00:14:00.320><c> stage</c><00:14:00.800><c> two</c><00:14:01.199><c> and</c><00:14:01.519><c> stage</c><00:14:02.000><c> three.</c>
+time around stage two and stage three.
+time around stage two and stage three.
+Writing,<00:14:03.120><c> rewriting,</c><00:14:03.680><c> testing</c><00:14:04.160><c> prompt</c><00:14:04.560><c> text.</c>
+Writing, rewriting, testing prompt text.
+Writing, rewriting, testing prompt text.
+Stage<00:14:05.680><c> three,</c><00:14:06.079><c> storage</c><00:14:06.560><c> and</c><00:14:06.720><c> versioning.</c>
+Stage three, storage and versioning.
+Stage three, storage and versioning.
+This<00:14:07.279><c> is</c><00:14:07.440><c> where</c><00:14:07.600><c> individuals</c><00:14:08.160><c> are</c><00:14:08.320><c> really</c>
+This is where individuals are really
+This is where individuals are really
+seeing<00:14:09.040><c> prompt</c><00:14:09.440><c> tools.</c><00:14:10.079><c> And</c><00:14:10.160><c> then</c><00:14:10.399><c> there's</c><00:14:10.560><c> a</c>
+seeing prompt tools. And then there's a
+seeing prompt tools. And then there's a
+lot<00:14:10.800><c> of</c><00:14:10.959><c> team</c><00:14:11.199><c> level</c><00:14:11.440><c> prompt</c><00:14:11.760><c> tools</c><00:14:11.920><c> as</c><00:14:12.160><c> we</c><00:14:12.240><c> get</c>
+lot of team level prompt tools as we get
+lot of team level prompt tools as we get
+into<00:14:12.480><c> these</c><00:14:12.720><c> more</c><00:14:12.959><c> purple</c><00:14:13.279><c> stages,</c><00:14:13.680><c> right?</c>
+into these more purple stages, right?
+into these more purple stages, right?
+Evaluations,<00:14:14.800><c> workflow</c><00:14:15.279><c> construction,</c>
+Evaluations, workflow construction,
+Evaluations, workflow construction,
+deployment,<00:14:16.320><c> and</c><00:14:16.560><c> production</c><00:14:16.959><c> integration.</c>
+deployment, and production integration.
+deployment, and production integration.
+I<00:14:19.120><c> I</c><00:14:19.519><c> really</c><00:14:19.760><c> think</c><00:14:19.920><c> this</c><00:14:20.160><c> is</c><00:14:20.320><c> important.</c><00:14:20.880><c> If</c>
+I I really think this is important. If
+I I really think this is important. If
+you<00:14:21.440><c> want</c><00:14:21.600><c> to</c><00:14:21.839><c> get</c><00:14:22.079><c> from</c><00:14:22.720><c> casual</c><00:14:23.199><c> ideiation</c><00:14:23.839><c> to</c>
+you want to get from casual ideiation to
+you want to get from casual ideiation to
+like<00:14:24.880><c> clean</c><00:14:25.279><c> intent,</c><00:14:26.079><c> there</c><00:14:26.320><c> needs</c><00:14:26.560><c> to</c><00:14:26.720><c> be</c><00:14:26.800><c> a</c>
+like clean intent, there needs to be a
+like clean intent, there needs to be a
+good<00:14:27.199><c> tool</c><00:14:27.440><c> for</c><00:14:27.680><c> that.</c><00:14:28.399><c> And</c><00:14:28.639><c> I</c><00:14:29.040><c> just</c><00:14:29.760><c> haven't</c>
+good tool for that. And I just haven't
+good tool for that. And I just haven't
+found<00:14:30.240><c> a</c><00:14:30.480><c> tool</c><00:14:30.880><c> that</c><00:14:31.279><c> more</c><00:14:31.600><c> easily</c><00:14:32.079><c> helps</c><00:14:32.399><c> me</c>
+found a tool that more easily helps me
+found a tool that more easily helps me
+to<00:14:32.800><c> name</c><00:14:33.440><c> this</c><00:14:33.600><c> is</c><00:14:33.760><c> what</c><00:14:34.000><c> I</c><00:14:34.240><c> want</c><00:14:34.480><c> to</c><00:14:34.800><c> build.</c>
+to name this is what I want to build.
+to name this is what I want to build.
+It's<00:14:35.519><c> a</c><00:14:35.680><c> deck.</c><00:14:36.000><c> It's</c><00:14:36.079><c> a</c><00:14:36.240><c> doc.</c><00:14:36.560><c> It's</c>
+It's a deck. It's a doc. It's
+It's a deck. It's a doc. It's
+communications.<00:14:37.440><c> You</c><00:14:37.600><c> can</c><00:14:37.680><c> do</c><00:14:37.839><c> Slack</c>
+communications. You can do Slack
+communications. You can do Slack
+communications.<00:14:39.120><c> It's</c><00:14:39.360><c> code.</c><00:14:39.920><c> Whatever</c><00:14:40.160><c> it</c>
+communications. It's code. Whatever it
+communications. It's code. Whatever it
+is.<00:14:41.199><c> And</c><00:14:41.360><c> that's</c><00:14:41.519><c> why</c><00:14:41.600><c> I</c><00:14:41.760><c> built</c><00:14:41.920><c> Hey</c><00:14:42.160><c> Presto.</c>
+is. And that's why I built Hey Presto.
+is. And that's why I built Hey Presto.
+If<00:14:43.279><c> it's</c><00:14:43.440><c> not</c><00:14:43.600><c> for</c><00:14:43.760><c> you,</c><00:14:44.079><c> if</c><00:14:44.320><c> you</c><00:14:44.399><c> want</c><00:14:44.560><c> to</c><00:14:44.639><c> hack</c>
+If it's not for you, if you want to hack
+If it's not for you, if you want to hack
+around<00:14:45.120><c> and</c><00:14:45.199><c> chat</c><00:14:45.519><c> GPT,</c><00:14:46.240><c> bless</c><00:14:46.639><c> you.</c><00:14:47.199><c> It</c><00:14:47.440><c> may</c>
+around and chat GPT, bless you. It may
+around and chat GPT, bless you. It may
+work<00:14:47.839><c> well.</c><00:14:48.160><c> I've</c><00:14:48.399><c> certainly</c><00:14:48.720><c> done</c><00:14:48.880><c> it</c>
+work well. I've certainly done it
+work well. I've certainly done it
+before.<00:14:49.360><c> And</c><00:14:49.600><c> if</c><00:14:49.760><c> you</c><00:14:49.920><c> disagree</c><00:14:50.240><c> with</c><00:14:50.399><c> me</c><00:14:50.560><c> and</c>
+before. And if you disagree with me and
+before. And if you disagree with me and
+you<00:14:50.880><c> think</c><00:14:50.959><c> intent</c><00:14:51.440><c> formulation</c><00:14:52.320><c> is</c><00:14:52.720><c> not</c>
+you think intent formulation is not
+you think intent formulation is not
+correct<00:14:53.839><c> for</c><00:14:54.160><c> prompting,</c><00:14:54.720><c> I</c><00:14:54.959><c> would</c><00:14:55.120><c> love</c><00:14:55.279><c> to</c>
+correct for prompting, I would love to
+correct for prompting, I would love to
+hear<00:14:55.680><c> what</c><00:14:56.079><c> you</c><00:14:56.399><c> think</c><00:14:56.560><c> the</c><00:14:56.800><c> correct</c><00:14:57.120><c> initial</c>
+hear what you think the correct initial
+hear what you think the correct initial
+stages<00:14:58.079><c> because</c><00:14:58.240><c> I</c><00:14:58.480><c> do</c><00:14:58.639><c> not</c><00:14:58.880><c> believe</c><00:14:59.040><c> the</c>
+stages because I do not believe the
+stages because I do not believe the
+correct<00:14:59.600><c> initial</c><00:15:00.000><c> stage</c><00:15:00.399><c> is</c><00:15:00.800><c> writing</c><00:15:01.199><c> or</c>
+correct initial stage is writing or
+correct initial stage is writing or
+authoring.<00:15:02.160><c> Either</c><00:15:02.480><c> way,</c><00:15:02.959><c> I</c><00:15:03.120><c> had</c><00:15:03.360><c> fun</c><00:15:03.519><c> making</c>
+authoring. Either way, I had fun making
+authoring. Either way, I had fun making
+Hey<00:15:04.000><c> Presto.</c><00:15:04.480><c> I</c><00:15:04.720><c> think</c><00:15:04.880><c> a</c><00:15:05.120><c> lot</c><00:15:05.199><c> of</c><00:15:05.279><c> the</c><00:15:05.600><c> future</c>
+Hey Presto. I think a lot of the future
+Hey Presto. I think a lot of the future
+of<00:15:06.800><c> tooling</c><00:15:07.279><c> and</c><00:15:07.519><c> tooling</c><00:15:07.920><c> development</c><00:15:08.480><c> is</c>
+of tooling and tooling development is
+of tooling and tooling development is
+talking<00:15:09.199><c> with</c><00:15:09.519><c> communities,</c><00:15:10.160><c> hearing</c><00:15:10.480><c> what's</c>
+talking with communities, hearing what's
+talking with communities, hearing what's
+going<00:15:10.800><c> on,</c><00:15:11.120><c> and</c><00:15:11.360><c> trying</c><00:15:11.680><c> something.</c><00:15:12.320><c> And</c><00:15:12.480><c> I'm</c>
+going on, and trying something. And I'm
+going on, and trying something. And I'm
+offering<00:15:13.040><c> Hey</c><00:15:13.279><c> Presto</c><00:15:13.680><c> in</c><00:15:13.920><c> that</c><00:15:14.079><c> spirit.</c><00:15:14.560><c> If</c>
+offering Hey Presto in that spirit. If
+offering Hey Presto in that spirit. If
+you're<00:15:14.959><c> part</c><00:15:15.040><c> of</c><00:15:15.120><c> my</c><00:15:15.279><c> Substack</c><00:15:15.839><c> community,</c>
+you're part of my Substack community,
+you're part of my Substack community,
+this<00:15:16.639><c> is</c><00:15:16.800><c> going</c><00:15:16.959><c> to</c><00:15:17.120><c> feel</c><00:15:17.600><c> really</c><00:15:18.000><c> affordable.</c>
+this is going to feel really affordable.
+this is going to feel really affordable.
+And<00:15:18.880><c> it's</c><00:15:19.199><c> going</c><00:15:19.279><c> to</c><00:15:19.360><c> be</c><00:15:19.519><c> something</c><00:15:19.760><c> that</c><00:15:20.240><c> I'm</c>
+And it's going to be something that I'm
+And it's going to be something that I'm
+going<00:15:20.639><c> to</c><00:15:20.720><c> be</c><00:15:21.279><c> plugged</c><00:15:21.680><c> into</c><00:15:22.000><c> on</c><00:15:22.320><c> Slack</c><00:15:22.720><c> so</c>
+going to be plugged into on Slack so
+going to be plugged into on Slack so
+that<00:15:22.959><c> I</c><00:15:23.120><c> can</c><00:15:23.199><c> evolve</c><00:15:23.600><c> it</c><00:15:23.760><c> with</c><00:15:23.920><c> you.</c><00:15:24.399><c> My</c><00:15:24.639><c> goal</c>
+that I can evolve it with you. My goal
+that I can evolve it with you. My goal
+is<00:15:24.959><c> to</c><00:15:25.199><c> make</c><00:15:25.279><c> it</c><00:15:25.440><c> useful.</c><00:15:26.160><c> I</c><00:15:26.320><c> don't</c><00:15:26.480><c> need</c><00:15:26.639><c> to</c>
+is to make it useful. I don't need to
+is to make it useful. I don't need to
+make<00:15:26.880><c> it</c><00:15:27.040><c> super</c><00:15:27.360><c> big.</c><00:15:27.839><c> I</c><00:15:28.079><c> just</c><00:15:28.240><c> want</c><00:15:28.399><c> to</c><00:15:28.560><c> serve</c>
+make it super big. I just want to serve
+make it super big. I just want to serve
+the<00:15:28.959><c> community</c><00:15:29.199><c> around</c><00:15:29.440><c> a</c><00:15:29.680><c> need</c><00:15:29.839><c> that</c><00:15:30.000><c> I</c>
+the community around a need that I
+the community around a need that I
+found.<00:15:30.560><c> I</c><00:15:30.800><c> also</c><00:15:31.120><c> think</c><00:15:31.199><c> it's</c><00:15:31.519><c> good</c><00:15:32.160><c> to</c>
+found. I also think it's good to
+found. I also think it's good to
+actually<00:15:33.120><c> build</c><00:15:33.519><c> things</c><00:15:33.680><c> and</c><00:15:34.000><c> launch</c><00:15:34.320><c> them</c><00:15:34.560><c> if</c>
+actually build things and launch them if
+actually build things and launch them if
+you<00:15:34.959><c> talk</c><00:15:35.120><c> about</c><00:15:35.360><c> AI</c><00:15:35.760><c> all</c><00:15:35.920><c> the</c><00:15:36.079><c> time.</c><00:15:36.480><c> And</c><00:15:36.639><c> so</c>
+you talk about AI all the time. And so
+you talk about AI all the time. And so
+that's<00:15:36.959><c> another</c><00:15:37.199><c> reason</c><00:15:37.440><c> I'm</c><00:15:37.680><c> putting</c><00:15:37.839><c> this</c>
+that's another reason I'm putting this
+that's another reason I'm putting this
+out<00:15:38.160><c> there.</c><00:15:38.480><c> I</c><00:15:38.639><c> think</c><00:15:38.720><c> it's</c><00:15:38.959><c> important</c><00:15:39.279><c> to</c>
+out there. I think it's important to
+out there. I think it's important to
+have<00:15:40.160><c> AI</c><00:15:40.560><c> tools</c><00:15:40.800><c> that</c><00:15:41.040><c> solve</c><00:15:41.279><c> problems</c><00:15:41.680><c> if</c><00:15:41.920><c> I</c>
+have AI tools that solve problems if I
+have AI tools that solve problems if I
+talk<00:15:42.240><c> about</c><00:15:42.399><c> AI</c><00:15:42.720><c> tools</c><00:15:42.959><c> a</c><00:15:43.120><c> lot.</c><00:15:43.279><c> And</c><00:15:43.360><c> so</c><00:15:43.519><c> that's</c>
+talk about AI tools a lot. And so that's
+talk about AI tools a lot. And so that's
+part<00:15:43.920><c> of</c><00:15:44.000><c> the</c><00:15:44.160><c> reasons</c><00:15:44.399><c> why</c><00:15:44.639><c> I've</c><00:15:44.880><c> been</c>
+part of the reasons why I've been
+part of the reasons why I've been
+involved<00:15:45.199><c> in</c><00:15:45.360><c> building</c><00:15:45.519><c> this</c><00:15:45.680><c> and</c><00:15:45.920><c> digging</c><00:15:46.079><c> in</c>
+involved in building this and digging in
+involved in building this and digging in
+and<00:15:46.720><c> constructing</c><00:15:47.120><c> this.</c><00:15:47.519><c> If</c><00:15:47.680><c> you</c><00:15:47.760><c> guys</c><00:15:47.920><c> are</c>
+and constructing this. If you guys are
+and constructing this. If you guys are
+interested,<00:15:48.480><c> I'm</c><00:15:48.720><c> happy</c><00:15:48.880><c> to</c><00:15:49.040><c> do</c><00:15:49.120><c> a</c><00:15:49.279><c> little</c><00:15:49.360><c> bit</c>
+interested, I'm happy to do a little bit
+interested, I'm happy to do a little bit
+of<00:15:49.519><c> a</c><00:15:49.680><c> deeper</c><00:15:49.920><c> dive</c><00:15:50.160><c> on</c><00:15:50.399><c> how</c><00:15:50.480><c> I</c><00:15:50.720><c> built</c><00:15:50.880><c> the</c>
+of a deeper dive on how I built the
+of a deeper dive on how I built the
+tool.<00:15:51.519><c> I</c><00:15:51.839><c> wanted</c><00:15:52.000><c> to</c><00:15:52.160><c> start</c><00:15:52.320><c> with</c><00:15:52.399><c> a</c><00:15:52.639><c> prompting</c>
+tool. I wanted to start with a prompting
+tool. I wanted to start with a prompting
+structure<00:15:53.600><c> first</c><00:15:54.160><c> because</c><00:15:54.399><c> I</c><00:15:54.639><c> think</c><00:15:54.720><c> that</c><00:15:54.880><c> we</c>
+structure first because I think that we
+structure first because I think that we
+have<00:15:55.360><c> missed</c><00:15:55.680><c> a</c><00:15:56.000><c> framework</c><00:15:56.560><c> for</c><00:15:57.279><c> prompting</c>
+have missed a framework for prompting
+have missed a framework for prompting
+and<00:15:58.320><c> I</c><00:15:58.639><c> felt</c><00:15:58.959><c> poorer</c><00:15:59.759><c> until</c><00:16:00.160><c> I</c><00:16:00.399><c> could</c><00:16:00.560><c> name</c><00:16:00.880><c> the</c>
+and I felt poorer until I could name the
+and I felt poorer until I could name the
+stages.<00:16:01.600><c> I</c><00:16:01.839><c> felt</c><00:16:02.000><c> like</c><00:16:02.240><c> I</c><00:16:02.480><c> had</c><00:16:02.720><c> trouble</c>
+stages. I felt like I had trouble
+stages. I felt like I had trouble
+understanding<00:16:03.759><c> my</c><00:16:04.000><c> own</c><00:16:04.160><c> thinking</c><00:16:04.560><c> until</c><00:16:04.800><c> I</c>
+understanding my own thinking until I
+understanding my own thinking until I
+could<00:16:05.120><c> name</c><00:16:05.360><c> the</c><00:16:05.600><c> different</c><00:16:05.759><c> stages</c><00:16:06.079><c> of</c><00:16:06.240><c> the</c>
+could name the different stages of the
+could name the different stages of the
+prompt<00:16:07.040><c> tool</c><00:16:07.360><c> chain</c><00:16:07.759><c> and</c><00:16:08.079><c> talk</c><00:16:08.320><c> about</c><00:16:08.480><c> the</c>
+prompt tool chain and talk about the
+prompt tool chain and talk about the
+tools<00:16:09.279><c> because</c><00:16:09.519><c> this</c><00:16:09.759><c> is</c><00:16:09.839><c> a</c><00:16:10.079><c> world</c><00:16:10.240><c> where</c><00:16:10.480><c> like</c>
+tools because this is a world where like
+tools because this is a world where like
+no<00:16:10.959><c> shade</c><00:16:11.199><c> on</c><00:16:11.360><c> all</c><00:16:11.440><c> these</c><00:16:11.600><c> other</c><00:16:11.759><c> tools.</c>
+no shade on all these other tools.
+no shade on all these other tools.
+They're<00:16:12.320><c> great.</c><00:16:12.560><c> That's</c><00:16:12.720><c> part</c><00:16:12.880><c> of</c><00:16:12.959><c> why</c><00:16:13.120><c> I</c><00:16:13.279><c> took</c>
+They're great. That's part of why I took
+They're great. That's part of why I took
+the<00:16:13.600><c> time</c><00:16:13.759><c> to</c><00:16:13.920><c> introduce</c><00:16:14.240><c> them.</c><00:16:14.480><c> Like</c><00:16:14.720><c> I</c><00:16:14.880><c> think</c>
+the time to introduce them. Like I think
+the time to introduce them. Like I think
+that<00:16:15.199><c> you</c><00:16:15.440><c> need</c><00:16:15.759><c> multiple</c><00:16:16.240><c> tools</c><00:16:16.560><c> for</c><00:16:16.720><c> these</c>
+that you need multiple tools for these
+that you need multiple tools for these
+different<00:16:17.279><c> stages</c><00:16:17.839><c> and</c><00:16:18.079><c> my</c><00:16:18.240><c> goal</c><00:16:18.480><c> is</c><00:16:18.639><c> just</c><00:16:18.800><c> to</c>
+different stages and my goal is just to
+different stages and my goal is just to
+help<00:16:19.120><c> you</c><00:16:19.279><c> with</c><00:16:19.519><c> that</c><00:16:19.839><c> intent</c><00:16:20.720><c> and</c><00:16:20.880><c> initial</c>
+help you with that intent and initial
+help you with that intent and initial
+sort<00:16:21.600><c> of</c><00:16:21.759><c> piece</c><00:16:22.399><c> that</c><00:16:22.639><c> I</c><00:16:22.880><c> think</c><00:16:23.040><c> hasn't</c><00:16:23.440><c> been</c>
+sort of piece that I think hasn't been
+sort of piece that I think hasn't been
+as<00:16:23.839><c> clean</c><00:16:24.079><c> as</c><00:16:24.240><c> it</c><00:16:24.399><c> needs</c><00:16:24.639><c> to</c><00:16:24.720><c> be.</c><00:16:25.199><c> So,</c><00:16:25.600><c> hope</c><00:16:25.839><c> you</c>
+as clean as it needs to be. So, hope you
+as clean as it needs to be. So, hope you
+enjoyed<00:16:26.240><c> it.</c><00:16:26.560><c> If</c><00:16:26.800><c> nothing</c><00:16:27.120><c> else,</c><00:16:27.600><c> now</c><00:16:27.759><c> you</c>
+enjoyed it. If nothing else, now you
+enjoyed it. If nothing else, now you
+have<00:16:28.160><c> some</c><00:16:28.320><c> vocabulary</c><00:16:28.959><c> to</c><00:16:29.199><c> talk</c><00:16:29.440><c> about</c><00:16:29.680><c> the</c>
+have some vocabulary to talk about the
+have some vocabulary to talk about the
+stages<00:16:30.240><c> of</c><00:16:30.320><c> the</c><00:16:30.480><c> prompt</c><00:16:30.800><c> and</c><00:16:30.959><c> I</c><00:16:31.120><c> think</c><00:16:31.199><c> that</c>
+stages of the prompt and I think that
+stages of the prompt and I think that
+will<00:16:31.519><c> be</c><00:16:31.680><c> helpful</c><00:16:31.920><c> and</c><00:16:32.160><c> maybe</c><00:16:32.639><c> you</c><00:16:32.880><c> got</c><00:16:33.040><c> some</c>
+will be helpful and maybe you got some
+will be helpful and maybe you got some
+good<00:16:33.360><c> tool</c><00:16:33.680><c> tips</c><00:16:33.839><c> for</c><00:16:34.079><c> some</c><00:16:34.160><c> of</c><00:16:34.240><c> the</c><00:16:34.320><c> other</c>
+good tool tips for some of the other
+good tool tips for some of the other
+later<00:16:34.720><c> stages.</c><00:16:35.120><c> That's</c><00:16:35.279><c> another</c><00:16:35.519><c> reason</c><00:16:35.680><c> I</c>
+later stages. That's another reason I
+later stages. That's another reason I
+made<00:16:36.079><c> this</c><00:16:36.240><c> video.</c><00:16:36.480><c> I</c><00:16:36.639><c> think</c><00:16:36.720><c> there's</c><00:16:36.880><c> a</c><00:16:37.120><c> lot</c>
+made this video. I think there's a lot
+made this video. I think there's a lot
+of<00:16:37.279><c> great</c><00:16:37.440><c> prompting</c><00:16:37.839><c> tools</c><00:16:38.160><c> out</c><00:16:38.320><c> there.</c>
+of great prompting tools out there.
+of great prompting tools out there.
+Cheers.

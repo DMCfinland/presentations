@@ -1,0 +1,1051 @@
+We're<00:00:00.400><c> going</c><00:00:00.480><c> to</c><00:00:00.640><c> talk</c><00:00:00.800><c> about</c><00:00:01.040><c> agents</c><00:00:01.439><c> and</c>
+We're going to talk about agents and
+We're going to talk about agents and
+we're<00:00:01.839><c> going</c><00:00:01.920><c> to</c><00:00:02.000><c> talk</c><00:00:02.159><c> about</c><00:00:02.480><c> memory.</c>
+we're going to talk about memory.
+we're going to talk about memory.
+Anthropic<00:00:04.080><c> dropped</c><00:00:04.319><c> a</c><00:00:04.560><c> piece</c><00:00:04.720><c> of</c><00:00:04.960><c> golden</c>
+Anthropic dropped a piece of golden
+Anthropic dropped a piece of golden
+wisdom.<00:00:05.839><c> I'm</c><00:00:06.000><c> going</c><00:00:06.080><c> to</c><00:00:06.160><c> give</c><00:00:06.240><c> you</c><00:00:06.400><c> my</c>
+wisdom. I'm going to give you my
+wisdom. I'm going to give you my
+takeaways<00:00:07.120><c> as</c><00:00:07.279><c> a</c><00:00:07.440><c> builder</c><00:00:07.680><c> of</c><00:00:07.759><c> agents</c><00:00:08.240><c> and</c>
+takeaways as a builder of agents and
+takeaways as a builder of agents and
+we're<00:00:08.639><c> going</c><00:00:08.639><c> to</c><00:00:08.720><c> get</c><00:00:08.880><c> through</c><00:00:08.960><c> it</c><00:00:09.120><c> in</c><00:00:09.280><c> five</c><00:00:09.440><c> or</c>
+we're going to get through it in five or
+we're going to get through it in five or
+six<00:00:09.760><c> minutes</c><00:00:10.000><c> and</c><00:00:10.160><c> you're</c><00:00:10.400><c> going</c><00:00:10.480><c> to</c><00:00:10.559><c> walk</c>
+six minutes and you're going to walk
+six minutes and you're going to walk
+away<00:00:10.960><c> knowing</c><00:00:11.360><c> more</c><00:00:11.759><c> than</c><00:00:12.000><c> like</c><00:00:12.240><c> 90%</c><00:00:12.800><c> of</c>
+away knowing more than like 90% of
+away knowing more than like 90% of
+people<00:00:13.120><c> who</c><00:00:13.360><c> talk</c><00:00:13.519><c> about</c><00:00:13.679><c> agents.</c><00:00:14.160><c> Because</c>
+people who talk about agents. Because
+people who talk about agents. Because
+honestly,<00:00:15.280><c> most</c><00:00:15.599><c> of</c><00:00:15.679><c> the</c><00:00:15.920><c> time</c><00:00:16.320><c> when</c><00:00:16.560><c> I</c><00:00:16.720><c> see</c>
+honestly, most of the time when I see
+honestly, most of the time when I see
+someone<00:00:17.199><c> brag</c><00:00:17.520><c> on</c><00:00:17.680><c> Twitter</c><00:00:18.000><c> about</c><00:00:18.240><c> agents,</c>
+someone brag on Twitter about agents,
+someone brag on Twitter about agents,
+it's<00:00:18.960><c> immediately</c><00:00:19.600><c> apparent</c><00:00:20.240><c> that</c><00:00:20.480><c> they</c>
+it's immediately apparent that they
+it's immediately apparent that they
+don't<00:00:20.800><c> know</c><00:00:20.960><c> what</c><00:00:21.119><c> they're</c><00:00:21.359><c> talking</c><00:00:21.600><c> about</c>
+don't know what they're talking about
+don't know what they're talking about
+because<00:00:22.400><c> they</c><00:00:22.640><c> are</c><00:00:22.800><c> talking</c><00:00:23.119><c> about</c>
+because they are talking about
+because they are talking about
+generalized<00:00:24.560><c> agents.</c><00:00:25.279><c> And</c><00:00:25.519><c> if</c><00:00:25.680><c> you've</c><00:00:26.000><c> ever</c>
+generalized agents. And if you've ever
+generalized agents. And if you've ever
+built<00:00:26.880><c> a</c><00:00:27.199><c> generalized</c><00:00:27.840><c> agent,</c><00:00:28.720><c> you</c><00:00:28.960><c> know</c><00:00:29.679><c> it</c>
+built a generalized agent, you know it
+built a generalized agent, you know it
+tends<00:00:30.400><c> to</c><00:00:30.560><c> be</c><00:00:31.119><c> an</c><00:00:31.359><c> amnesiac</c><00:00:32.559><c> walking</c><00:00:32.960><c> around</c>
+tends to be an amnesiac walking around
+tends to be an amnesiac walking around
+with<00:00:33.360><c> a</c><00:00:33.520><c> tool</c><00:00:33.840><c> belt.</c><00:00:34.399><c> It's</c><00:00:34.640><c> basically</c><00:00:35.040><c> a</c><00:00:35.360><c> super</c>
+with a tool belt. It's basically a super
+with a tool belt. It's basically a super
+forgetful<00:00:36.320><c> little</c><00:00:36.559><c> agent</c><00:00:37.120><c> and</c><00:00:37.360><c> you</c><00:00:37.520><c> can</c><00:00:37.680><c> give</c>
+forgetful little agent and you can give
+forgetful little agent and you can give
+it<00:00:37.920><c> a</c><00:00:38.079><c> big</c><00:00:38.239><c> goal</c><00:00:38.719><c> and</c><00:00:38.960><c> maybe</c><00:00:39.200><c> it</c><00:00:39.360><c> will</c><00:00:39.520><c> do</c>
+it a big goal and maybe it will do
+it a big goal and maybe it will do
+everything<00:00:39.840><c> in</c><00:00:40.079><c> one</c><00:00:40.239><c> manic</c><00:00:40.640><c> burst</c><00:00:40.960><c> and</c><00:00:41.200><c> fail</c>
+everything in one manic burst and fail
+everything in one manic burst and fail
+or<00:00:41.840><c> maybe</c><00:00:42.000><c> it</c><00:00:42.160><c> will</c><00:00:42.320><c> wander</c><00:00:42.719><c> around</c><00:00:42.960><c> and</c><00:00:43.120><c> make</c>
+or maybe it will wander around and make
+or maybe it will wander around and make
+partial<00:00:43.680><c> progress</c><00:00:44.000><c> and</c><00:00:44.239><c> tell</c><00:00:44.320><c> you</c><00:00:44.480><c> it</c>
+partial progress and tell you it
+partial progress and tell you it
+succeeded.<00:00:45.760><c> But</c><00:00:46.000><c> neither</c><00:00:46.480><c> one</c><00:00:46.719><c> is</c>
+succeeded. But neither one is
+succeeded. But neither one is
+satisfactory.<00:00:48.079><c> Anthropic</c><00:00:48.719><c> confronted</c><00:00:49.120><c> that</c>
+satisfactory. Anthropic confronted that
+satisfactory. Anthropic confronted that
+directly.<00:00:49.920><c> I've</c><00:00:50.239><c> confronted</c><00:00:50.719><c> it.</c><00:00:51.120><c> I</c><00:00:51.360><c> want</c><00:00:51.520><c> to</c>
+directly. I've confronted it. I want to
+directly. I've confronted it. I want to
+tell<00:00:51.680><c> you</c><00:00:51.840><c> how</c><00:00:52.000><c> it</c><00:00:52.239><c> actually</c><00:00:52.480><c> works.</c><00:00:52.960><c> The</c><00:00:53.280><c> key</c>
+tell you how it actually works. The key
+tell you how it actually works. The key
+is<00:00:54.239><c> moving</c><00:00:54.719><c> from</c><00:00:55.280><c> a</c><00:00:55.600><c> generalized</c><00:00:56.320><c> agent</c><00:00:57.039><c> to</c>
+is moving from a generalized agent to
+is moving from a generalized agent to
+domain<00:00:58.879><c> memory</c><00:00:59.520><c> as</c><00:00:59.840><c> a</c><00:01:00.239><c> stateful</c>
+domain memory as a stateful
+domain memory as a stateful
+representation.<00:01:01.680><c> I'm</c><00:01:01.920><c> going</c><00:01:02.000><c> to</c><00:01:02.079><c> get</c><00:01:02.160><c> into</c>
+representation. I'm going to get into
+representation. I'm going to get into
+all<00:01:02.399><c> of</c><00:01:02.480><c> that.</c><00:01:02.719><c> That</c><00:01:02.960><c> sounds</c><00:01:03.120><c> complicated,</c>
+all of that. That sounds complicated,
+all of that. That sounds complicated,
+but<00:01:03.760><c> it</c><00:01:03.920><c> really</c><00:01:04.080><c> isn't.</c><00:01:04.720><c> Basically,</c><00:01:05.600><c> you</c><00:01:05.920><c> can</c>
+but it really isn't. Basically, you can
+but it really isn't. Basically, you can
+start<00:01:06.479><c> with</c><00:01:06.640><c> a</c><00:01:06.960><c> really</c><00:01:07.200><c> strong</c><00:01:07.520><c> coding</c><00:01:07.840><c> model.</c>
+start with a really strong coding model.
+start with a really strong coding model.
+Take<00:01:08.320><c> Opus</c><00:01:08.720><c> 4.5,</c><00:01:09.360><c> take</c><00:01:09.520><c> Gemini</c><00:01:10.000><c> 3,</c><00:01:10.240><c> take</c><00:01:10.320><c> Chat</c>
+Take Opus 4.5, take Gemini 3, take Chat
+Take Opus 4.5, take Gemini 3, take Chat
+GBT<00:01:11.119><c> 5.1,</c><00:01:11.760><c> what</c><00:01:11.920><c> have</c><00:01:12.080><c> you.</c><00:01:12.560><c> And</c><00:01:12.720><c> you</c><00:01:12.960><c> can</c>
+GBT 5.1, what have you. And you can
+GBT 5.1, what have you. And you can
+start<00:01:13.280><c> with</c><00:01:13.439><c> it</c><00:01:13.760><c> inside</c><00:01:14.320><c> a</c><00:01:14.560><c> general</c><00:01:14.960><c> purpose</c>
+start with it inside a general purpose
+start with it inside a general purpose
+agent<00:01:15.840><c> harness</c><00:01:16.400><c> like</c><00:01:16.640><c> the</c><00:01:17.119><c> Claude</c><00:01:17.439><c> agent</c><00:01:17.759><c> SDK.</c>
+agent harness like the Claude agent SDK.
+agent harness like the Claude agent SDK.
+There's<00:01:18.640><c> other</c><00:01:18.880><c> SDKs</c><00:01:19.360><c> out</c><00:01:19.520><c> there,</c><00:01:19.759><c> too.</c><00:01:20.159><c> And</c>
+There's other SDKs out there, too. And
+There's other SDKs out there, too. And
+that<00:01:20.479><c> will</c><00:01:20.720><c> have</c><00:01:21.280><c> context</c><00:01:21.840><c> compaction.</c><00:01:22.400><c> It</c>
+that will have context compaction. It
+that will have context compaction. It
+will<00:01:22.720><c> have</c><00:01:22.799><c> tool</c><00:01:23.040><c> sets.</c><00:01:23.360><c> It</c><00:01:23.520><c> will</c><00:01:23.600><c> have</c>
+will have tool sets. It will have
+will have tool sets. It will have
+planning<00:01:24.000><c> and</c><00:01:24.240><c> execution.</c><00:01:25.040><c> And</c><00:01:25.360><c> on</c><00:01:25.759><c> paper,</c>
+planning and execution. And on paper,
+planning and execution. And on paper,
+you<00:01:27.119><c> would</c><00:01:27.439><c> think,</c><00:01:28.080><c> I</c><00:01:28.320><c> have</c><00:01:28.400><c> an</c><00:01:28.560><c> agent.</c><00:01:29.280><c> It</c><00:01:29.439><c> has</c>
+you would think, I have an agent. It has
+you would think, I have an agent. It has
+tools.<00:01:30.080><c> It's</c><00:01:30.320><c> in</c><00:01:30.479><c> this</c><00:01:30.640><c> harness.</c><00:01:31.200><c> This</c><00:01:31.360><c> should</c>
+tools. It's in this harness. This should
+tools. It's in this harness. This should
+be<00:01:31.680><c> enough</c><00:01:31.920><c> to</c><00:01:32.159><c> keep</c><00:01:32.400><c> going.</c><00:01:32.960><c> And</c><00:01:33.360><c> we</c><00:01:33.680><c> have</c>
+be enough to keep going. And we have
+be enough to keep going. And we have
+found<00:01:34.079><c> in</c><00:01:34.320><c> practice</c><00:01:34.720><c> it</c><00:01:34.960><c> doesn't.</c><00:01:35.360><c> No</c><00:01:35.600><c> one</c><00:01:35.759><c> is</c>
+found in practice it doesn't. No one is
+found in practice it doesn't. No one is
+surprised<00:01:36.400><c> anthropic</c><00:01:36.960><c> is</c><00:01:37.119><c> admitting</c><00:01:37.439><c> it</c>
+surprised anthropic is admitting it
+surprised anthropic is admitting it
+doesn't.<00:01:38.079><c> No</c><00:01:38.320><c> one</c><00:01:38.400><c> who's</c><00:01:38.640><c> building</c><00:01:38.960><c> agents</c>
+doesn't. No one who's building agents
+doesn't. No one who's building agents
+seriously<00:01:40.079><c> thinks</c><00:01:40.320><c> that</c><00:01:40.479><c> it</c><00:01:40.720><c> really</c><00:01:40.960><c> works</c>
+seriously thinks that it really works
+seriously thinks that it really works
+that<00:01:41.360><c> way.</c><00:01:41.920><c> Domain</c><00:01:42.400><c> memory</c><00:01:42.640><c> is</c><00:01:42.880><c> the</c><00:01:43.040><c> other</c>
+that way. Domain memory is the other
+that way. Domain memory is the other
+side<00:01:43.439><c> of</c><00:01:43.600><c> the</c><00:01:43.759><c> bridge.</c><00:01:44.079><c> Domain</c><00:01:44.560><c> memory</c><00:01:44.880><c> is</c>
+side of the bridge. Domain memory is
+side of the bridge. Domain memory is
+what<00:01:45.439><c> we</c><00:01:45.600><c> get</c><00:01:45.840><c> to</c><00:01:46.000><c> when</c><00:01:46.240><c> we</c><00:01:46.399><c> start</c><00:01:46.560><c> to</c><00:01:46.799><c> take</c>
+what we get to when we start to take
+what we get to when we start to take
+agents<00:01:47.439><c> seriously.</c><00:01:48.240><c> Domain</c><00:01:48.640><c> memory</c><00:01:48.960><c> is</c><00:01:49.200><c> not.</c>
+agents seriously. Domain memory is not.
+agents seriously. Domain memory is not.
+We<00:01:49.759><c> have</c><00:01:49.840><c> a</c><00:01:50.079><c> vector</c><00:01:50.399><c> database</c><00:01:50.880><c> and</c><00:01:51.040><c> we</c><00:01:51.280><c> go</c><00:01:51.360><c> and</c>
+We have a vector database and we go and
+We have a vector database and we go and
+get<00:01:51.840><c> stuff</c><00:01:52.000><c> out</c><00:01:52.159><c> of</c><00:01:52.240><c> the</c><00:01:52.399><c> vector</c><00:01:52.720><c> database.</c>
+get stuff out of the vector database.
+get stuff out of the vector database.
+Instead,<00:01:53.840><c> it's</c><00:01:54.079><c> a</c><00:01:54.320><c> persistent</c><00:01:55.200><c> structured</c>
+Instead, it's a persistent structured
+Instead, it's a persistent structured
+representation<00:01:56.399><c> of</c><00:01:56.560><c> the</c><00:01:56.799><c> work.</c><00:01:57.040><c> Remember</c><00:01:57.360><c> I</c>
+representation of the work. Remember I
+representation of the work. Remember I
+said<00:01:57.840><c> stateful,</c><00:01:58.719><c> it's</c><00:01:59.119><c> serious</c><00:01:59.680><c> about</c><00:02:00.079><c> making</c>
+said stateful, it's serious about making
+said stateful, it's serious about making
+sure<00:02:00.640><c> the</c><00:02:00.880><c> the</c><00:02:01.200><c> agent</c><00:02:01.600><c> is</c><00:02:01.840><c> no</c><00:02:02.159><c> longer</c><00:02:02.719><c> an</c>
+sure the the agent is no longer an
+sure the the agent is no longer an
+amnesiac<00:02:04.000><c> that</c><00:02:04.159><c> the</c><00:02:04.320><c> agent</c><00:02:04.719><c> no</c><00:02:05.040><c> longer</c>
+amnesiac that the agent no longer
+amnesiac that the agent no longer
+forgets.<00:02:06.560><c> Remember</c><00:02:06.880><c> how</c><00:02:07.040><c> I</c><00:02:07.200><c> said</c><00:02:07.360><c> we</c><00:02:07.600><c> talk</c>
+forgets. Remember how I said we talk
+forgets. Remember how I said we talk
+about<00:02:08.000><c> agents</c><00:02:08.399><c> in</c><00:02:08.640><c> memory?</c><00:02:09.280><c> This</c><00:02:09.599><c> is</c><00:02:09.759><c> where</c>
+about agents in memory? This is where
+about agents in memory? This is where
+the<00:02:10.239><c> meat</c><00:02:10.560><c> and</c><00:02:10.800><c> potatoes</c><00:02:11.280><c> of</c><00:02:11.520><c> memory</c><00:02:12.000><c> happens.</c>
+the meat and potatoes of memory happens.
+the meat and potatoes of memory happens.
+So<00:02:13.040><c> you</c><00:02:13.360><c> have</c><00:02:13.520><c> to</c><00:02:13.760><c> have</c><00:02:14.000><c> in</c><00:02:14.319><c> a</c><00:02:14.480><c> particular</c>
+So you have to have in a particular
+So you have to have in a particular
+domain<00:02:15.599><c> a</c><00:02:15.920><c> persistent</c><00:02:16.400><c> set</c><00:02:16.560><c> of</c><00:02:16.800><c> goals,</c><00:02:17.200><c> an</c>
+domain a persistent set of goals, an
+domain a persistent set of goals, an
+explicit<00:02:17.920><c> future</c><00:02:18.319><c> list,</c><00:02:18.959><c> requirements,</c>
+explicit future list, requirements,
+explicit future list, requirements,
+constraints.<00:02:21.200><c> You</c><00:02:21.360><c> have</c><00:02:21.520><c> to</c><00:02:21.599><c> have</c><00:02:21.680><c> a</c><00:02:21.920><c> state</c>
+constraints. You have to have a state
+constraints. You have to have a state
+like<00:02:22.640><c> what</c><00:02:22.879><c> is</c><00:02:23.120><c> passing?</c><00:02:23.680><c> What</c><00:02:23.840><c> is</c><00:02:24.000><c> failing?</c>
+like what is passing? What is failing?
+like what is passing? What is failing?
+What's<00:02:24.879><c> been</c><00:02:25.040><c> tried</c><00:02:25.520><c> before?</c><00:02:26.239><c> What</c><00:02:26.560><c> broke?</c>
+What's been tried before? What broke?
+What's been tried before? What broke?
+What<00:02:27.520><c> was</c><00:02:28.080><c> reverted?</c><00:02:28.879><c> You</c><00:02:29.040><c> have</c><00:02:29.120><c> to</c><00:02:29.280><c> have</c>
+What was reverted? You have to have
+What was reverted? You have to have
+scaffolding.<00:02:30.239><c> How</c><00:02:30.400><c> do</c><00:02:30.480><c> you</c><00:02:30.640><c> run?</c><00:02:31.040><c> How</c><00:02:31.200><c> do</c><00:02:31.360><c> you</c>
+scaffolding. How do you run? How do you
+scaffolding. How do you run? How do you
+test?<00:02:32.000><c> How</c><00:02:32.160><c> do</c><00:02:32.239><c> you</c><00:02:32.480><c> extend</c><00:02:33.040><c> the</c><00:02:33.280><c> system?</c><00:02:33.920><c> And</c>
+test? How do you extend the system? And
+test? How do you extend the system? And
+this<00:02:34.720><c> shows</c><00:02:34.959><c> up</c><00:02:35.120><c> in</c><00:02:35.360><c> a</c><00:02:35.519><c> variety</c><00:02:35.760><c> of</c><00:02:36.000><c> different</c>
+this shows up in a variety of different
+this shows up in a variety of different
+ways.<00:02:36.640><c> It</c><00:02:36.879><c> can</c><00:02:37.040><c> show</c><00:02:37.280><c> up</c><00:02:37.519><c> as</c><00:02:38.400><c> a</c><00:02:38.640><c> JSON</c><00:02:39.200><c> blob,</c>
+ways. It can show up as a JSON blob,
+ways. It can show up as a JSON blob,
+like<00:02:39.760><c> a</c><00:02:40.000><c> big</c><00:02:40.239><c> coded</c><00:02:40.720><c> list</c><00:02:41.440><c> with</c><00:02:42.080><c> a</c><00:02:42.319><c> bunch</c><00:02:42.560><c> of</c>
+like a big coded list with a bunch of
+like a big coded list with a bunch of
+features<00:02:43.519><c> and</c><00:02:43.840><c> all</c><00:02:44.080><c> of</c><00:02:44.160><c> them</c><00:02:44.400><c> could</c><00:02:44.640><c> initially</c>
+features and all of them could initially
+features and all of them could initially
+be<00:02:45.280><c> marked</c><00:02:45.680><c> failing</c><00:02:46.720><c> and</c><00:02:47.200><c> all</c><00:02:47.519><c> the</c><00:02:47.840><c> agent</c><00:02:48.239><c> is</c>
+be marked failing and all the agent is
+be marked failing and all the agent is
+doing<00:02:48.720><c> is</c><00:02:48.959><c> going</c><00:02:49.280><c> back</c><00:02:49.519><c> to</c><00:02:49.760><c> that</c><00:02:50.080><c> feature</c><00:02:50.480><c> list</c>
+doing is going back to that feature list
+doing is going back to that feature list
+in<00:02:50.959><c> the</c><00:02:51.120><c> JSON</c><00:02:51.599><c> blob</c><00:02:51.840><c> and</c><00:02:52.080><c> it</c><00:02:52.239><c> only</c><00:02:52.480><c> gets</c><00:02:52.720><c> to</c>
+in the JSON blob and it only gets to
+in the JSON blob and it only gets to
+change<00:02:53.200><c> something</c><00:02:53.440><c> when</c><00:02:53.680><c> it</c><00:02:53.920><c> passes</c><00:02:54.239><c> a</c><00:02:54.400><c> unit</c>
+change something when it passes a unit
+change something when it passes a unit
+test.<00:02:55.360><c> It</c><00:02:55.599><c> could</c><00:02:55.840><c> look</c><00:02:56.080><c> like</c><00:02:56.239><c> a</c><00:02:56.560><c> cloud</c>
+test. It could look like a cloud
+test. It could look like a cloud
+progress<00:02:57.519><c> text</c><00:02:57.920><c> file</c><00:02:58.720><c> where</c><00:02:59.120><c> you</c><00:02:59.440><c> log</c><00:02:59.840><c> what</c>
+progress text file where you log what
+progress text file where you log what
+each<00:03:00.640><c> agent</c><00:03:01.200><c> run</c><00:03:01.599><c> did.</c><00:03:02.640><c> The</c><00:03:02.879><c> agent</c><00:03:03.280><c> can</c><00:03:03.599><c> go</c>
+each agent run did. The agent can go
+each agent run did. The agent can go
+back<00:03:03.920><c> and</c><00:03:04.159><c> read</c><00:03:04.400><c> that.</c><00:03:04.720><c> These</c><00:03:05.040><c> are</c><00:03:05.280><c> not</c><00:03:05.840><c> these</c>
+back and read that. These are not these
+back and read that. These are not these
+sound<00:03:06.400><c> obvious,</c><00:03:06.959><c> don't</c><00:03:07.200><c> they?</c><00:03:07.760><c> I</c><00:03:08.080><c> promise</c>
+sound obvious, don't they? I promise
+sound obvious, don't they? I promise
+you,<00:03:08.800><c> most</c><00:03:09.040><c> of</c><00:03:09.200><c> the</c><00:03:09.360><c> people</c><00:03:09.680><c> building</c><00:03:10.159><c> general</c>
+you, most of the people building general
+you, most of the people building general
+agents<00:03:11.360><c> are</c><00:03:11.680><c> not</c><00:03:12.239><c> thinking</c><00:03:12.640><c> with</c><00:03:12.800><c> this</c><00:03:13.120><c> degree</c>
+agents are not thinking with this degree
+agents are not thinking with this degree
+of<00:03:13.519><c> specificity.</c><00:03:14.159><c> They</c><00:03:14.400><c> aren't</c><00:03:14.800><c> thinking</c><00:03:15.599><c> of</c>
+of specificity. They aren't thinking of
+of specificity. They aren't thinking of
+memory<00:03:16.879><c> as</c><00:03:17.120><c> a</c><00:03:17.440><c> problem</c><00:03:18.239><c> that</c><00:03:18.480><c> you</c><00:03:18.800><c> have</c><00:03:19.200><c> to</c>
+memory as a problem that you have to
+memory as a problem that you have to
+manage.<00:03:20.159><c> Really,</c><00:03:20.560><c> the</c><00:03:20.879><c> story</c><00:03:21.200><c> in</c><00:03:21.440><c> that</c>
+manage. Really, the story in that
+manage. Really, the story in that
+anthropic<00:03:22.159><c> blog</c><00:03:22.480><c> post</c><00:03:22.640><c> that</c><00:03:22.879><c> I</c><00:03:23.040><c> want</c><00:03:23.120><c> to</c><00:03:23.200><c> give</c>
+anthropic blog post that I want to give
+anthropic blog post that I want to give
+to<00:03:23.440><c> you</c><00:03:23.599><c> in</c><00:03:23.840><c> just</c><00:03:23.920><c> a</c><00:03:24.159><c> couple</c><00:03:24.319><c> minutes</c><00:03:24.640><c> here</c><00:03:25.120><c> is</c>
+to you in just a couple minutes here is
+to you in just a couple minutes here is
+that<00:03:25.840><c> the</c><00:03:26.239><c> key</c><00:03:26.640><c> to</c><00:03:26.959><c> running</c><00:03:27.519><c> agents</c><00:03:28.159><c> for</c><00:03:28.400><c> a</c>
+that the key to running agents for a
+that the key to running agents for a
+long<00:03:29.040><c> period</c><00:03:29.360><c> of</c><00:03:29.599><c> time</c><00:03:30.080><c> is</c><00:03:30.480><c> building</c><00:03:30.879><c> a</c><00:03:31.200><c> domain</c>
+long period of time is building a domain
+long period of time is building a domain
+memory<00:03:32.799><c> factory.</c><00:03:33.760><c> So</c><00:03:34.319><c> they've</c><00:03:34.720><c> put</c><00:03:34.959><c> together</c>
+memory factory. So they've put together
+memory factory. So they've put together
+a<00:03:35.519><c> two</c><00:03:35.760><c> agent</c><00:03:36.239><c> pattern,</c><00:03:36.640><c> but</c><00:03:36.879><c> it's</c><00:03:37.120><c> not</c><00:03:37.280><c> about</c>
+a two agent pattern, but it's not about
+a two agent pattern, but it's not about
+personalities.<00:03:38.560><c> It's</c><00:03:38.720><c> not</c><00:03:38.879><c> about</c><00:03:39.200><c> roles.</c>
+personalities. It's not about roles.
+personalities. It's not about roles.
+It's<00:03:40.239><c> about</c><00:03:40.560><c> who</c><00:03:41.040><c> owns</c><00:03:41.680><c> the</c><00:03:42.000><c> memory.</c><00:03:42.720><c> There's</c>
+It's about who owns the memory. There's
+It's about who owns the memory. There's
+an<00:03:43.120><c> initializer</c><00:03:43.840><c> agent</c><00:03:44.400><c> that</c><00:03:44.799><c> expands</c><00:03:45.280><c> the</c>
+an initializer agent that expands the
+an initializer agent that expands the
+user<00:03:45.920><c> prompt</c><00:03:46.239><c> into</c><00:03:46.480><c> a</c><00:03:46.720><c> detailed</c><00:03:47.120><c> feature</c>
+user prompt into a detailed feature
+user prompt into a detailed feature
+list.<00:03:48.159><c> Say</c><00:03:48.400><c> it</c><00:03:48.560><c> has</c><00:03:48.799><c> structured</c><00:03:49.280><c> JSON</c><00:03:49.920><c> and</c>
+list. Say it has structured JSON and
+list. Say it has structured JSON and
+like<00:03:50.560><c> it</c><00:03:50.799><c> talks</c><00:03:51.040><c> about</c><00:03:51.200><c> the</c><00:03:51.440><c> features</c><00:03:51.760><c> and</c>
+like it talks about the features and
+like it talks about the features and
+just<00:03:52.239><c> like</c><00:03:52.400><c> I</c><00:03:52.560><c> described,</c><00:03:53.040><c> maybe</c><00:03:53.280><c> all</c><00:03:53.440><c> the</c>
+just like I described, maybe all the
+just like I described, maybe all the
+features<00:03:53.840><c> are</c><00:03:54.000><c> initially</c><00:03:54.480><c> failing</c><00:03:54.799><c> because</c>
+features are initially failing because
+features are initially failing because
+they<00:03:55.280><c> haven't</c><00:03:55.519><c> passed</c><00:03:55.760><c> their</c><00:03:56.000><c> unit</c><00:03:56.319><c> tests.</c>
+they haven't passed their unit tests.
+they haven't passed their unit tests.
+Maybe<00:03:57.040><c> it</c><00:03:57.200><c> will</c><00:03:57.360><c> set</c><00:03:57.519><c> up</c><00:03:57.680><c> a</c><00:03:57.920><c> progress</c><00:03:58.319><c> log</c><00:03:58.879><c> etc.</c>
+Maybe it will set up a progress log etc.
+Maybe it will set up a progress log etc.
+It<00:03:59.840><c> bootstraps</c><00:04:00.959><c> domain</c><00:04:01.519><c> memory</c><00:04:02.080><c> from</c><00:04:02.480><c> the</c>
+It bootstraps domain memory from the
+It bootstraps domain memory from the
+user<00:04:03.519><c> prompt</c><00:04:04.159><c> and</c><00:04:04.560><c> sets</c><00:04:04.879><c> out</c><00:04:05.200><c> best</c><00:04:05.519><c> practice</c>
+user prompt and sets out best practice
+user prompt and sets out best practice
+rules<00:04:06.319><c> of</c><00:04:06.480><c> engagement.</c><00:04:07.680><c> You</c><00:04:07.920><c> can</c><00:04:08.159><c> think</c><00:04:08.319><c> of</c><00:04:08.400><c> it</c>
+rules of engagement. You can think of it
+rules of engagement. You can think of it
+if<00:04:08.799><c> you're</c><00:04:09.040><c> not</c><00:04:09.120><c> a</c><00:04:09.360><c> technical</c><00:04:09.840><c> person</c><00:04:10.480><c> as</c><00:04:10.720><c> if</c>
+if you're not a technical person as if
+if you're not a technical person as if
+the<00:04:11.280><c> initializer</c><00:04:12.159><c> agent</c><00:04:12.560><c> is</c><00:04:12.959><c> setting</c><00:04:13.599><c> the</c>
+the initializer agent is setting the
+the initializer agent is setting the
+stage.<00:04:14.720><c> It</c><00:04:14.879><c> is</c><00:04:15.040><c> a</c><00:04:15.360><c> stage</c><00:04:15.840><c> manager.</c><00:04:16.320><c> It</c><00:04:16.479><c> is</c>
+stage. It is a stage manager. It is
+stage. It is a stage manager. It is
+building<00:04:16.959><c> the</c><00:04:17.280><c> stage</c><00:04:17.919><c> and</c><00:04:18.239><c> the</c><00:04:18.479><c> coding</c><00:04:18.799><c> agent</c>
+building the stage and the coding agent
+building the stage and the coding agent
+is<00:04:19.359><c> the</c><00:04:19.680><c> actor</c><00:04:20.079><c> in</c><00:04:20.320><c> the</c><00:04:20.560><c> setting.</c><00:04:21.440><c> Every</c>
+is the actor in the setting. Every
+is the actor in the setting. Every
+subsequent<00:04:22.560><c> run,</c><00:04:23.199><c> the</c><00:04:23.440><c> coding</c><00:04:23.840><c> agent</c><00:04:24.240><c> comes</c>
+subsequent run, the coding agent comes
+subsequent run, the coding agent comes
+in<00:04:24.880><c> and</c><00:04:25.120><c> it</c><00:04:25.280><c> has</c><00:04:25.440><c> no</c><00:04:25.680><c> memory,</c><00:04:26.160><c> just</c><00:04:26.800><c> amnesiac.</c>
+in and it has no memory, just amnesiac.
+in and it has no memory, just amnesiac.
+And<00:04:27.680><c> by</c><00:04:27.919><c> the</c><00:04:28.000><c> way,</c><00:04:28.240><c> if</c><00:04:28.400><c> you</c><00:04:28.639><c> think</c><00:04:28.800><c> about</c><00:04:28.960><c> it,</c>
+And by the way, if you think about it,
+And by the way, if you think about it,
+the<00:04:29.840><c> initializer</c><00:04:30.639><c> agent</c><00:04:31.360><c> didn't</c><00:04:32.160><c> need</c><00:04:32.880><c> memory</c>
+the initializer agent didn't need memory
+the initializer agent didn't need memory
+to<00:04:33.919><c> do</c><00:04:34.080><c> what</c><00:04:34.320><c> I</c><00:04:34.479><c> just</c><00:04:34.720><c> described.</c><00:04:35.520><c> All</c><00:04:35.680><c> it</c>
+to do what I just described. All it
+to do what I just described. All it
+needed<00:04:36.160><c> to</c><00:04:36.400><c> do</c><00:04:36.560><c> was</c><00:04:36.800><c> to</c><00:04:37.040><c> transform</c><00:04:37.600><c> the</c><00:04:37.840><c> prompt</c>
+needed to do was to transform the prompt
+needed to do was to transform the prompt
+into<00:04:38.800><c> a</c><00:04:39.120><c> set</c><00:04:39.360><c> of</c><00:04:39.600><c> artifacts</c><00:04:41.040><c> that</c><00:04:41.360><c> acted</c><00:04:41.759><c> as</c>
+into a set of artifacts that acted as
+into a set of artifacts that acted as
+the<00:04:42.240><c> scaffolding,</c><00:04:42.960><c> the</c><00:04:43.280><c> set,</c><00:04:43.919><c> if</c><00:04:44.160><c> you</c><00:04:44.320><c> will,</c>
+the scaffolding, the set, if you will,
+the scaffolding, the set, if you will,
+for<00:04:45.199><c> the</c><00:04:45.440><c> coding</c><00:04:45.759><c> agent</c><00:04:46.080><c> to</c><00:04:46.320><c> come</c><00:04:46.400><c> in</c><00:04:46.639><c> and</c><00:04:46.960><c> play</c>
+for the coding agent to come in and play
+for the coding agent to come in and play
+its<00:04:47.520><c> part.</c><00:04:48.000><c> And</c><00:04:48.240><c> so</c><00:04:48.400><c> the</c><00:04:48.560><c> coding</c><00:04:48.880><c> agent</c><00:04:49.199><c> reads</c>
+its part. And so the coding agent reads
+its part. And so the coding agent reads
+progress.<00:04:50.080><c> The</c><00:04:50.320><c> coding</c><00:04:50.639><c> agent</c><00:04:51.199><c> gets</c><00:04:51.520><c> the</c>
+progress. The coding agent gets the
+progress. The coding agent gets the
+history<00:04:52.160><c> of</c><00:04:52.479><c> previous</c><00:04:52.880><c> commits</c><00:04:53.360><c> from</c><00:04:53.680><c> Git.</c>
+history of previous commits from Git.
+history of previous commits from Git.
+The<00:04:54.560><c> coding</c><00:04:54.960><c> agent</c><00:04:55.440><c> reads</c><00:04:55.840><c> the</c><00:04:56.080><c> feature</c><00:04:56.400><c> list</c>
+The coding agent reads the feature list
+The coding agent reads the feature list
+and<00:04:57.040><c> picks</c><00:04:57.440><c> a</c><00:04:57.680><c> single</c><00:04:57.919><c> failing</c><00:04:58.320><c> feature</c><00:04:58.639><c> to</c>
+and picks a single failing feature to
+and picks a single failing feature to
+work<00:04:58.960><c> on</c><00:04:59.199><c> for</c><00:04:59.360><c> this</c><00:04:59.600><c> run.</c><00:05:00.160><c> It</c><00:05:00.400><c> then</c><00:05:00.639><c> implements</c>
+work on for this run. It then implements
+work on for this run. It then implements
+it.<00:05:01.440><c> It</c><00:05:01.600><c> tests</c><00:05:01.919><c> it</c><00:05:02.080><c> end</c><00:05:02.320><c> to</c><00:05:02.479><c> end.</c><00:05:02.960><c> It</c><00:05:03.199><c> will</c>
+it. It tests it end to end. It will
+it. It tests it end to end. It will
+update<00:05:03.600><c> the</c><00:05:03.759><c> feature</c><00:05:04.080><c> status</c><00:05:04.400><c> as</c><00:05:04.639><c> either</c>
+update the feature status as either
+update the feature status as either
+failed<00:05:05.280><c> or</c><00:05:05.520><c> passing.</c><00:05:05.919><c> It</c><00:05:06.160><c> writes</c><00:05:06.400><c> a</c><00:05:06.560><c> progress</c>
+failed or passing. It writes a progress
+failed or passing. It writes a progress
+note.<00:05:07.280><c> It</c><00:05:07.440><c> commits</c><00:05:07.759><c> to</c><00:05:07.919><c> get</c><00:05:08.080><c> and</c><00:05:08.240><c> it</c>
+note. It commits to get and it
+note. It commits to get and it
+disappears.<00:05:09.120><c> It</c><00:05:09.360><c> has</c><00:05:09.520><c> no</c><00:05:09.680><c> more</c><00:05:09.840><c> memory.</c><00:05:10.240><c> It's</c>
+disappears. It has no more memory. It's
+disappears. It has no more memory. It's
+gone<00:05:10.960><c> because</c><00:05:11.919><c> long</c><00:05:12.639><c> running</c><00:05:12.960><c> memory</c><00:05:13.440><c> just</c>
+gone because long running memory just
+gone because long running memory just
+doesn't<00:05:14.000><c> work</c><00:05:14.240><c> with</c><00:05:14.400><c> these</c><00:05:14.720><c> LLMs.</c><00:05:15.759><c> We</c><00:05:16.080><c> are</c>
+doesn't work with these LLMs. We are
+doesn't work with these LLMs. We are
+building<00:05:17.039><c> a</c><00:05:17.440><c> memory</c><00:05:18.160><c> scaffold</c><00:05:19.039><c> because</c><00:05:19.360><c> these</c>
+building a memory scaffold because these
+building a memory scaffold because these
+LLMs<00:05:21.039><c> need</c><00:05:21.600><c> a</c><00:05:22.160><c> setting</c><00:05:22.960><c> to</c><00:05:23.360><c> play</c><00:05:23.680><c> their</c><00:05:24.080><c> part</c>
+LLMs need a setting to play their part
+LLMs need a setting to play their part
+to<00:05:24.960><c> strut</c><00:05:25.360><c> upon</c><00:05:25.600><c> the</c><00:05:25.840><c> stage.</c><00:05:26.160><c> To</c><00:05:26.400><c> quote</c>
+to strut upon the stage. To quote
+to strut upon the stage. To quote
+Shakespeare,<00:05:27.440><c> the</c><00:05:27.759><c> agent</c><00:05:28.160><c> is</c><00:05:28.479><c> now</c><00:05:28.800><c> just</c><00:05:29.039><c> a</c>
+Shakespeare, the agent is now just a
+Shakespeare, the agent is now just a
+policy<00:05:30.240><c> that</c><00:05:30.639><c> transforms</c><00:05:32.080><c> one</c><00:05:32.639><c> consistent</c>
+policy that transforms one consistent
+policy that transforms one consistent
+memory<00:05:33.600><c> state</c><00:05:34.080><c> into</c><00:05:34.400><c> another.</c><00:05:35.120><c> The</c><00:05:35.440><c> magic</c><00:05:35.919><c> is</c>
+memory state into another. The magic is
+memory state into another. The magic is
+in<00:05:36.400><c> the</c><00:05:36.639><c> memory.</c><00:05:37.360><c> The</c><00:05:37.600><c> magic</c><00:05:37.919><c> is</c><00:05:38.080><c> in</c><00:05:38.240><c> the</c>
+in the memory. The magic is in the
+in the memory. The magic is in the
+harness.<00:05:39.280><c> The</c><00:05:39.520><c> magic</c><00:05:39.840><c> is</c><00:05:40.000><c> not</c><00:05:40.160><c> in</c><00:05:40.320><c> the</c>
+harness. The magic is not in the
+harness. The magic is not in the
+personality<00:05:40.960><c> layer.</c><00:05:41.120><c> And</c><00:05:41.280><c> and</c><00:05:41.520><c> harness</c><00:05:41.840><c> is</c><00:05:42.000><c> a</c>
+personality layer. And and harness is a
+personality layer. And and harness is a
+fancy<00:05:42.479><c> word</c><00:05:42.639><c> for</c><00:05:42.880><c> all</c><00:05:42.960><c> the</c><00:05:43.120><c> stuff</c><00:05:43.280><c> that</c><00:05:43.440><c> goes</c>
+fancy word for all the stuff that goes
+fancy word for all the stuff that goes
+around<00:05:43.840><c> the</c><00:05:44.000><c> agent,</c><00:05:44.400><c> right?</c><00:05:44.639><c> It's</c><00:05:44.800><c> the</c>
+around the agent, right? It's the
+around the agent, right? It's the
+setting.<00:05:45.280><c> It's</c><00:05:45.520><c> what</c><00:05:45.680><c> I'm</c><00:05:45.840><c> describing.</c><00:05:46.479><c> So</c>
+setting. It's what I'm describing. So
+setting. It's what I'm describing. So
+the<00:05:46.880><c> deeper</c><00:05:47.280><c> lesson</c><00:05:47.919><c> is</c><00:05:48.080><c> that</c><00:05:48.320><c> if</c><00:05:48.479><c> you</c><00:05:48.720><c> don't</c>
+the deeper lesson is that if you don't
+the deeper lesson is that if you don't
+have<00:05:49.440><c> domain</c><00:05:50.000><c> memory,</c><00:05:50.639><c> agents</c><00:05:51.120><c> can't</c><00:05:51.440><c> be</c>
+have domain memory, agents can't be
+have domain memory, agents can't be
+longunning<00:05:52.560><c> in</c><00:05:52.880><c> any</c><00:05:53.199><c> meaningful</c><00:05:53.600><c> sense.</c><00:05:53.919><c> And</c>
+longunning in any meaningful sense. And
+longunning in any meaningful sense. And
+that<00:05:54.240><c> is</c><00:05:54.320><c> what</c><00:05:54.560><c> anthropic</c><00:05:55.199><c> is</c><00:05:55.520><c> discovering.</c>
+that is what anthropic is discovering.
+that is what anthropic is discovering.
+Although<00:05:56.400><c> we've</c><00:05:56.639><c> all</c><00:05:56.800><c> sort</c><00:05:56.960><c> of</c><00:05:57.039><c> known</c><00:05:57.199><c> that,</c>
+Although we've all sort of known that,
+Although we've all sort of known that,
+but<00:05:57.600><c> at</c><00:05:57.600><c> least</c><00:05:57.840><c> they're</c><00:05:58.000><c> writing</c><00:05:58.160><c> it</c><00:05:58.320><c> up.</c><00:05:58.479><c> And</c>
+but at least they're writing it up. And
+but at least they're writing it up. And
+I<00:05:58.720><c> really</c><00:05:58.960><c> appreciate</c><00:05:59.280><c> it.</c><00:05:59.680><c> The</c><00:05:59.919><c> core</c><00:06:00.320><c> long</c>
+I really appreciate it. The core long
+I really appreciate it. The core long
+horizon<00:06:01.199><c> failure</c><00:06:01.680><c> mode</c><00:06:02.320><c> was</c><00:06:02.720><c> not</c><00:06:03.600><c> the</c><00:06:03.840><c> model</c>
+horizon failure mode was not the model
+horizon failure mode was not the model
+is<00:06:04.880><c> too</c><00:06:05.600><c> dumb.</c><00:06:06.319><c> It</c><00:06:06.560><c> was</c><00:06:06.960><c> every</c><00:06:07.360><c> session</c><00:06:07.919><c> starts</c>
+is too dumb. It was every session starts
+is too dumb. It was every session starts
+with<00:06:08.639><c> no</c><00:06:08.960><c> grounded</c><00:06:09.520><c> sense</c><00:06:09.759><c> of</c><00:06:10.000><c> where</c><00:06:10.160><c> we</c><00:06:10.400><c> are</c>
+with no grounded sense of where we are
+with no grounded sense of where we are
+in<00:06:10.720><c> the</c><00:06:10.880><c> world.</c><00:06:11.440><c> And</c><00:06:11.680><c> what</c><00:06:12.000><c> they</c><00:06:12.240><c> are</c><00:06:12.479><c> doing</c><00:06:12.720><c> to</c>
+in the world. And what they are doing to
+in the world. And what they are doing to
+solve<00:06:13.280><c> that</c><00:06:13.680><c> is</c><00:06:14.000><c> not</c><00:06:14.240><c> make</c><00:06:14.479><c> the</c><00:06:14.720><c> model</c>
+solve that is not make the model
+solve that is not make the model
+smarter,<00:06:15.520><c> right?</c><00:06:15.840><c> What</c><00:06:16.000><c> they're</c><00:06:16.240><c> doing</c><00:06:16.400><c> to</c>
+smarter, right? What they're doing to
+smarter, right? What they're doing to
+solve<00:06:16.800><c> that</c><00:06:17.039><c> is</c><00:06:17.360><c> give</c><00:06:17.600><c> the</c><00:06:17.840><c> model</c><00:06:18.240><c> a</c><00:06:18.560><c> sense</c><00:06:18.800><c> of</c>
+solve that is give the model a sense of
+solve that is give the model a sense of
+its<00:06:19.360><c> lived</c><00:06:19.840><c> context.</c><00:06:20.639><c> Now</c><00:06:21.199><c> we</c><00:06:21.440><c> would</c><00:06:21.600><c> say</c>
+its lived context. Now we would say
+its lived context. Now we would say
+instantiate<00:06:22.720><c> it.</c><00:06:23.280><c> And</c><00:06:23.440><c> that's</c><00:06:23.600><c> why</c><00:06:23.759><c> it's</c>
+instantiate it. And that's why it's
+instantiate it. And that's why it's
+called<00:06:24.160><c> an</c><00:06:24.319><c> initializer</c><00:06:25.039><c> agent.</c><00:06:25.520><c> It</c>
+called an initializer agent. It
+called an initializer agent. It
+initializes<00:06:26.560><c> the</c><00:06:26.880><c> state</c><00:06:27.440><c> so</c><00:06:27.600><c> that</c><00:06:27.840><c> the</c><00:06:28.000><c> coding</c>
+initializes the state so that the coding
+initializes the state so that the coding
+agent<00:06:28.720><c> on</c><00:06:28.960><c> every</c><00:06:29.199><c> subsequent</c><00:06:29.759><c> run</c><00:06:30.240><c> knows</c>
+agent on every subsequent run knows
+agent on every subsequent run knows
+where<00:06:30.720><c> it</c><00:06:30.880><c> is.</c><00:06:31.360><c> If</c><00:06:31.520><c> you</c><00:06:31.680><c> have</c><00:06:31.840><c> no</c><00:06:32.080><c> shared</c>
+where it is. If you have no shared
+where it is. If you have no shared
+feature<00:06:32.800><c> list,</c><00:06:33.199><c> think</c><00:06:33.360><c> about</c><00:06:33.440><c> it.</c><00:06:33.840><c> Every</c><00:06:34.080><c> run</c>
+feature list, think about it. Every run
+feature list, think about it. Every run
+will<00:06:34.720><c> rederive</c><00:06:35.280><c> its</c><00:06:35.600><c> own</c><00:06:36.000><c> definition</c><00:06:36.479><c> of</c>
+will rederive its own definition of
+will rederive its own definition of
+done.<00:06:37.360><c> If</c><00:06:37.520><c> you</c><00:06:37.680><c> have</c><00:06:37.759><c> no</c><00:06:37.919><c> durable</c><00:06:38.400><c> progress</c>
+done. If you have no durable progress
+done. If you have no durable progress
+log,<00:06:39.199><c> every</c><00:06:39.520><c> run</c><00:06:39.840><c> will</c><00:06:40.160><c> guess</c><00:06:40.400><c> what</c><00:06:40.720><c> happened</c>
+log, every run will guess what happened
+log, every run will guess what happened
+wrongly.<00:06:42.400><c> If</c><00:06:42.560><c> you</c><00:06:42.720><c> have</c><00:06:42.880><c> no</c><00:06:43.199><c> stable</c><00:06:44.080><c> test</c>
+wrongly. If you have no stable test
+wrongly. If you have no stable test
+harness<00:06:44.880><c> or</c><00:06:45.120><c> test</c><00:06:45.520><c> pass</c><00:06:45.919><c> in</c><00:06:46.240><c> what</c><00:06:46.479><c> counts</c><00:06:46.720><c> as</c><00:06:46.960><c> a</c>
+harness or test pass in what counts as a
+harness or test pass in what counts as a
+successful<00:06:47.759><c> software</c><00:06:48.160><c> application</c><00:06:48.639><c> and</c><00:06:48.880><c> what</c>
+successful software application and what
+successful software application and what
+counts<00:06:49.280><c> as</c><00:06:49.440><c> a</c><00:06:49.600><c> successful</c><00:06:50.000><c> unit</c><00:06:50.319><c> test</c><00:06:50.560><c> or</c>
+counts as a successful unit test or
+counts as a successful unit test or
+feature<00:06:51.039><c> test,</c><00:06:51.680><c> everyone</c><00:06:52.639><c> will</c><00:06:52.960><c> discover</c><00:06:53.280><c> a</c>
+feature test, everyone will discover a
+feature test, everyone will discover a
+different<00:06:53.759><c> sense</c><00:06:54.000><c> of</c><00:06:54.160><c> what</c><00:06:54.400><c> works.</c><00:06:55.039><c> And</c><00:06:55.280><c> this</c>
+different sense of what works. And this
+different sense of what works. And this
+is<00:06:55.759><c> why</c><00:06:56.319><c> when</c><00:06:56.560><c> you</c><00:06:56.720><c> loop</c><00:06:57.039><c> an</c><00:06:57.280><c> LLM</c><00:06:57.840><c> with</c><00:06:58.000><c> tools,</c>
+is why when you loop an LLM with tools,
+is why when you loop an LLM with tools,
+it<00:06:58.880><c> will</c><00:06:59.039><c> just</c><00:06:59.280><c> give</c><00:06:59.440><c> you</c><00:06:59.599><c> an</c><00:06:59.840><c> infinite</c>
+it will just give you an infinite
+it will just give you an infinite
+sequence<00:07:00.880><c> of</c><00:07:01.199><c> disconnected</c><00:07:02.000><c> interns.</c><00:07:02.800><c> It's</c>
+sequence of disconnected interns. It's
+sequence of disconnected interns. It's
+just<00:07:03.199><c> not</c><00:07:03.440><c> going</c><00:07:03.520><c> to</c><00:07:03.680><c> work.</c><00:07:04.080><c> And</c><00:07:04.400><c> by</c><00:07:04.639><c> the</c><00:07:04.800><c> way,</c>
+just not going to work. And by the way,
+just not going to work. And by the way,
+if<00:07:05.520><c> you</c><00:07:05.759><c> think</c><00:07:05.919><c> there</c><00:07:06.160><c> are</c><00:07:06.319><c> implications</c><00:07:07.199><c> here</c>
+if you think there are implications here
+if you think there are implications here
+for<00:07:07.759><c> prompting,</c><00:07:08.720><c> you</c><00:07:08.960><c> would</c><00:07:09.199><c> be</c><00:07:09.360><c> correct.</c><00:07:10.560><c> So</c>
+for prompting, you would be correct. So
+for prompting, you would be correct. So
+much<00:07:11.039><c> of</c><00:07:11.280><c> what</c><00:07:11.520><c> we</c><00:07:11.680><c> do</c><00:07:11.840><c> with</c><00:07:12.080><c> prompting</c><00:07:12.639><c> is</c>
+much of what we do with prompting is
+much of what we do with prompting is
+being<00:07:13.520><c> that</c><00:07:14.000><c> initializer</c><00:07:14.880><c> agent.</c><00:07:15.680><c> We</c><00:07:16.000><c> are</c>
+being that initializer agent. We are
+being that initializer agent. We are
+setting<00:07:16.479><c> the</c><00:07:16.800><c> context.</c><00:07:17.360><c> We</c><00:07:17.599><c> are</c><00:07:17.840><c> setting</c><00:07:18.160><c> the</c>
+setting the context. We are setting the
+setting the context. We are setting the
+structure<00:07:19.360><c> so</c><00:07:19.599><c> that</c><00:07:20.000><c> you</c><00:07:20.400><c> can</c><00:07:20.720><c> set</c><00:07:21.039><c> up</c><00:07:21.520><c> a</c>
+structure so that you can set up a
+structure so that you can set up a
+successful<00:07:22.800><c> activity</c><00:07:23.280><c> for</c><00:07:23.440><c> the</c><00:07:23.599><c> agent.</c><00:07:23.919><c> So,</c>
+successful activity for the agent. So,
+successful activity for the agent. So,
+so<00:07:24.400><c> when</c><00:07:24.560><c> the</c><00:07:24.639><c> LLM</c><00:07:25.199><c> wakes</c><00:07:25.440><c> up,</c><00:07:25.680><c> as</c><00:07:25.840><c> you</c><00:07:26.000><c> hit</c>
+so when the LLM wakes up, as you hit
+so when the LLM wakes up, as you hit
+enter<00:07:26.479><c> on</c><00:07:26.720><c> the</c><00:07:26.880><c> chat,</c><00:07:27.599><c> it</c><00:07:27.840><c> knows</c><00:07:28.080><c> where</c><00:07:28.240><c> it</c><00:07:28.479><c> is</c>
+enter on the chat, it knows where it is
+enter on the chat, it knows where it is
+and<00:07:28.960><c> it</c><00:07:29.120><c> knows</c><00:07:29.360><c> what</c><00:07:29.520><c> the</c><00:07:29.680><c> task</c><00:07:30.000><c> is.</c><00:07:30.560><c> It's</c><00:07:30.720><c> a</c>
+and it knows what the task is. It's a
+and it knows what the task is. It's a
+wonderful<00:07:31.360><c> way</c><00:07:31.599><c> of</c><00:07:31.759><c> thinking</c><00:07:32.000><c> about</c>
+wonderful way of thinking about
+wonderful way of thinking about
+prompting.<00:07:32.800><c> prompting</c><00:07:33.280><c> is</c><00:07:33.680><c> setting</c><00:07:34.000><c> the</c>
+prompting. prompting is setting the
+prompting. prompting is setting the
+stage<00:07:34.880><c> so</c><00:07:35.120><c> the</c><00:07:35.360><c> agent</c><00:07:35.680><c> can</c><00:07:35.840><c> play</c><00:07:36.000><c> its</c><00:07:36.240><c> part.</c><00:07:36.720><c> So</c>
+stage so the agent can play its part. So
+stage so the agent can play its part. So
+domain<00:07:37.360><c> memory</c><00:07:37.680><c> forces</c><00:07:38.160><c> agents</c><00:07:38.880><c> to</c><00:07:39.199><c> behave</c>
+domain memory forces agents to behave
+domain memory forces agents to behave
+like<00:07:40.080><c> disciplined</c><00:07:40.720><c> engineers</c><00:07:41.440><c> instead</c><00:07:41.840><c> of</c>
+like disciplined engineers instead of
+like disciplined engineers instead of
+like<00:07:42.160><c> autocomplete.</c><00:07:43.199><c> And</c><00:07:43.360><c> so</c><00:07:43.520><c> once</c><00:07:43.840><c> you</c><00:07:44.000><c> have</c>
+like autocomplete. And so once you have
+like autocomplete. And so once you have
+a<00:07:44.319><c> harness</c><00:07:44.720><c> like</c><00:07:44.800><c> the</c><00:07:44.960><c> one</c><00:07:45.199><c> Anthropic</c><00:07:45.759><c> is</c>
+a harness like the one Anthropic is
+a harness like the one Anthropic is
+describing<00:07:46.240><c> or</c><00:07:46.400><c> the</c><00:07:46.560><c> one</c><00:07:46.720><c> so</c><00:07:46.880><c> many</c><00:07:47.039><c> other</c>
+describing or the one so many other
+describing or the one so many other
+companies<00:07:47.599><c> are</c><00:07:47.759><c> building,</c><00:07:48.319><c> every</c><00:07:48.639><c> single</c>
+companies are building, every single
+companies are building, every single
+coding<00:07:49.440><c> session</c><00:07:50.240><c> starts</c><00:07:50.960><c> by</c><00:07:51.440><c> actually</c>
+coding session starts by actually
+coding session starts by actually
+checking<00:07:52.240><c> where</c><00:07:52.479><c> the</c><00:07:52.639><c> agent</c><00:07:52.960><c> is,</c><00:07:53.280><c> right?</c><00:07:53.520><c> Like</c>
+checking where the agent is, right? Like
+checking where the agent is, right? Like
+it<00:07:53.840><c> reads</c><00:07:54.080><c> the</c><00:07:54.319><c> previous</c><00:07:54.639><c> commit</c><00:07:55.039><c> logs,</c><00:07:55.360><c> it</c>
+it reads the previous commit logs, it
+it reads the previous commit logs, it
+reads<00:07:55.680><c> the</c><00:07:55.919><c> progress</c><00:07:56.319><c> files,</c><00:07:56.720><c> it</c><00:07:56.879><c> reads</c><00:07:57.120><c> the</c>
+reads the progress files, it reads the
+reads the progress files, it reads the
+feature<00:07:57.599><c> list,</c><00:07:57.919><c> and</c><00:07:58.160><c> it</c><00:07:58.319><c> picks</c><00:07:58.639><c> something</c><00:07:58.879><c> to</c>
+feature list, and it picks something to
+feature list, and it picks something to
+work<00:07:59.280><c> on.</c><00:07:59.520><c> This</c><00:07:59.759><c> is</c><00:07:59.919><c> exactly</c><00:08:00.319><c> how</c><00:08:00.639><c> good</c><00:08:00.879><c> humans</c>
+work on. This is exactly how good humans
+work on. This is exactly how good humans
+behave<00:08:01.599><c> on</c><00:08:01.759><c> a</c><00:08:01.919><c> shared</c><00:08:02.240><c> codebase.</c><00:08:03.120><c> They</c>
+behave on a shared codebase. They
+behave on a shared codebase. They
+orient,<00:08:04.240><c> they</c><00:08:04.479><c> test,</c><00:08:05.199><c> they</c><00:08:05.440><c> change.</c><00:08:06.080><c> The</c>
+orient, they test, they change. The
+orient, they test, they change. The
+harness<00:08:06.800><c> insists</c><00:08:07.440><c> or</c><00:08:07.680><c> bakes</c><00:08:08.479><c> that</c><00:08:08.800><c> discipline</c>
+harness insists or bakes that discipline
+harness insists or bakes that discipline
+right<00:08:09.520><c> into</c><00:08:09.759><c> the</c><00:08:10.000><c> agent</c><00:08:10.319><c> by</c><00:08:10.560><c> tying</c><00:08:10.960><c> its</c>
+right into the agent by tying its
+right into the agent by tying its
+actions<00:08:11.759><c> to</c><00:08:12.080><c> persistent</c><00:08:12.639><c> domain</c><00:08:13.039><c> memory,</c><00:08:13.759><c> not</c>
+actions to persistent domain memory, not
+actions to persistent domain memory, not
+to<00:08:14.160><c> whatever</c><00:08:14.639><c> happens</c><00:08:14.960><c> to</c><00:08:15.120><c> be</c><00:08:15.199><c> in</c><00:08:15.440><c> the</c><00:08:15.599><c> current</c>
+to whatever happens to be in the current
+to whatever happens to be in the current
+context<00:08:16.319><c> window.</c><00:08:17.039><c> That</c><00:08:17.280><c> means</c><00:08:17.520><c> that</c>
+context window. That means that
+context window. That means that
+generalization<00:08:19.120><c> moves</c><00:08:19.440><c> up</c><00:08:19.680><c> a</c><00:08:20.080><c> layer</c><00:08:20.479><c> from</c>
+generalization moves up a layer from
+generalization moves up a layer from
+general<00:08:21.360><c> agent</c><00:08:21.840><c> as</c><00:08:22.080><c> a</c><00:08:22.319><c> concept</c><00:08:23.039><c> to</c><00:08:23.440><c> general</c>
+general agent as a concept to general
+general agent as a concept to general
+harness<00:08:24.560><c> pattern</c><00:08:25.199><c> with</c><00:08:25.440><c> a</c><00:08:25.680><c> domain</c><00:08:26.160><c> specific</c>
+harness pattern with a domain specific
+harness pattern with a domain specific
+memory<00:08:27.039><c> schema</c><00:08:27.440><c> which</c><00:08:27.680><c> is</c><00:08:27.919><c> really</c><00:08:28.240><c> fancy</c>
+memory schema which is really fancy
+memory schema which is really fancy
+wording<00:08:29.440><c> but</c><00:08:29.919><c> it's</c><00:08:30.319><c> important</c><00:08:30.800><c> wording</c>
+wording but it's important wording
+wording but it's important wording
+because<00:08:31.520><c> it</c><00:08:31.759><c> means</c><00:08:32.000><c> this</c><00:08:32.240><c> is</c><00:08:32.399><c> not</c><00:08:32.560><c> just</c><00:08:32.800><c> for</c>
+because it means this is not just for
+because it means this is not just for
+coders.<00:08:33.839><c> You</c><00:08:34.080><c> can</c><00:08:34.240><c> use</c><00:08:34.479><c> the</c><00:08:34.800><c> same</c><00:08:35.039><c> pattern</c><00:08:35.680><c> of</c>
+coders. You can use the same pattern of
+coders. You can use the same pattern of
+having<00:08:36.240><c> a</c><00:08:36.560><c> setting</c><00:08:37.200><c> a</c><00:08:37.440><c> context</c><00:08:38.399><c> an</c><00:08:38.640><c> agent</c><00:08:38.959><c> that</c>
+having a setting a context an agent that
+having a setting a context an agent that
+can<00:08:39.279><c> do</c><00:08:39.360><c> its</c><00:08:39.680><c> task</c><00:08:40.159><c> in</c><00:08:40.479><c> that</c><00:08:40.719><c> context</c><00:08:41.599><c> and</c><00:08:41.839><c> you</c>
+can do its task in that context and you
+can do its task in that context and you
+can<00:08:42.080><c> apply</c><00:08:42.320><c> that</c><00:08:42.560><c> beyond</c><00:08:42.880><c> coding.</c><00:08:43.360><c> You</c><00:08:43.519><c> can</c>
+can apply that beyond coding. You can
+can apply that beyond coding. You can
+apply<00:08:43.919><c> that</c><00:08:44.080><c> for</c><00:08:44.320><c> any</c><00:08:44.640><c> workflow</c><00:08:45.680><c> where</c><00:08:46.000><c> you</c>
+apply that for any workflow where you
+apply that for any workflow where you
+need<00:08:46.320><c> an</c><00:08:46.560><c> agent</c><00:08:47.200><c> to</c><00:08:47.519><c> use</c><00:08:47.839><c> tools</c><00:08:48.399><c> to</c><00:08:48.640><c> get</c>
+need an agent to use tools to get
+need an agent to use tools to get
+something<00:08:49.200><c> done</c><00:08:49.760><c> and</c><00:08:50.000><c> you</c><00:08:50.240><c> need</c><00:08:50.399><c> it</c><00:08:50.880><c> to</c>
+something done and you need it to
+something done and you need it to
+effectively<00:08:52.399><c> have</c><00:08:52.640><c> long-term</c><00:08:53.200><c> memory</c><00:08:53.760><c> when</c>
+effectively have long-term memory when
+effectively have long-term memory when
+it<00:08:54.320><c> actually</c><00:08:54.959><c> doesn't.</c><00:08:55.519><c> So</c><00:08:55.680><c> the</c><00:08:55.920><c> anthropic</c>
+it actually doesn't. So the anthropic
+it actually doesn't. So the anthropic
+work<00:08:56.800><c> implicitly</c><00:08:57.519><c> suggests</c><00:08:58.080><c> an</c><00:08:58.320><c> a</c><00:08:58.560><c> framing</c><00:08:59.040><c> of</c>
+work implicitly suggests an a framing of
+work implicitly suggests an a framing of
+agents<00:08:59.760><c> that</c><00:09:00.080><c> feels</c><00:09:00.399><c> much</c><00:09:00.720><c> more</c><00:09:00.880><c> honest</c><00:09:01.279><c> than</c>
+agents that feels much more honest than
+agents that feels much more honest than
+a<00:09:01.680><c> lot</c><00:09:01.760><c> of</c><00:09:01.839><c> the</c><00:09:02.000><c> Twitter</c><00:09:02.320><c> hype.</c><00:09:02.720><c> You</c><00:09:02.959><c> can</c><00:09:03.200><c> have</c>
+a lot of the Twitter hype. You can have
+a lot of the Twitter hype. You can have
+a<00:09:04.160><c> relatively</c><00:09:04.800><c> general</c><00:09:05.279><c> agent</c><00:09:05.680><c> harness</c>
+a relatively general agent harness
+a relatively general agent harness
+pattern.<00:09:06.640><c> You</c><00:09:06.880><c> can</c><00:09:06.959><c> use</c><00:09:07.120><c> an</c><00:09:07.279><c> initializer.</c><00:09:08.080><c> You</c>
+pattern. You can use an initializer. You
+pattern. You can use an initializer. You
+can<00:09:08.399><c> build</c><00:09:08.560><c> the</c><00:09:08.800><c> scaffolding.</c><00:09:09.760><c> You</c><00:09:09.920><c> can</c><00:09:10.080><c> have</c>
+can build the scaffolding. You can have
+can build the scaffolding. You can have
+a<00:09:10.399><c> repeated</c><00:09:10.880><c> worker</c><00:09:11.279><c> that</c><00:09:11.440><c> reads</c><00:09:11.839><c> memory</c><00:09:12.160><c> and</c>
+a repeated worker that reads memory and
+a repeated worker that reads memory and
+makes<00:09:12.640><c> small</c><00:09:12.959><c> testable</c><00:09:13.519><c> progress</c><00:09:13.920><c> and</c>
+makes small testable progress and
+makes small testable progress and
+updates<00:09:14.560><c> memory.</c><00:09:14.959><c> That</c><00:09:15.200><c> by</c><00:09:15.440><c> the</c><00:09:15.519><c> way</c><00:09:15.920><c> doesn't</c>
+updates memory. That by the way doesn't
+updates memory. That by the way doesn't
+have<00:09:16.399><c> to</c><00:09:16.480><c> be</c><00:09:16.640><c> code,</c><00:09:17.040><c> right?</c><00:09:17.600><c> But</c><00:09:18.080><c> you</c><00:09:18.320><c> can</c><00:09:18.480><c> only</c>
+have to be code, right? But you can only
+have to be code, right? But you can only
+have<00:09:19.040><c> that</c><00:09:19.360><c> if</c><00:09:19.680><c> your</c><00:09:19.920><c> schemas</c><00:09:20.399><c> and</c><00:09:20.560><c> your</c>
+have that if your schemas and your
+have that if your schemas and your
+rituals<00:09:21.200><c> are</c><00:09:21.440><c> domain</c><00:09:21.839><c> specific.</c><00:09:22.240><c> And</c><00:09:22.640><c> I</c><00:09:22.800><c> think</c>
+rituals are domain specific. And I think
+rituals are domain specific. And I think
+part<00:09:23.200><c> of</c><00:09:23.360><c> why</c><00:09:23.519><c> this</c><00:09:23.760><c> is</c><00:09:24.000><c> working</c><00:09:24.320><c> for</c><00:09:24.640><c> code</c><00:09:25.040><c> is</c>
+part of why this is working for code is
+part of why this is working for code is
+that<00:09:25.519><c> we</c><00:09:25.839><c> have</c><00:09:26.160><c> rituals</c><00:09:26.959><c> and</c><00:09:27.200><c> we</c><00:09:27.440><c> have</c><00:09:27.600><c> schemas</c>
+that we have rituals and we have schemas
+that we have rituals and we have schemas
+that<00:09:28.240><c> we've</c><00:09:28.480><c> all</c><00:09:28.640><c> worked</c><00:09:28.880><c> out</c><00:09:29.040><c> and</c><00:09:29.200><c> agreed</c><00:09:29.519><c> on</c>
+that we've all worked out and agreed on
+that we've all worked out and agreed on
+and<00:09:30.240><c> that</c><00:09:30.399><c> makes</c><00:09:30.560><c> it</c><00:09:30.800><c> easier</c><00:09:31.040><c> here.</c><00:09:31.360><c> Right?</c><00:09:31.839><c> If</c>
+and that makes it easier here. Right? If
+and that makes it easier here. Right? If
+you<00:09:32.240><c> are</c><00:09:32.480><c> working</c><00:09:33.200><c> in</c><00:09:33.920><c> development,</c><00:09:34.640><c> you</c>
+you are working in development, you
+you are working in development, you
+understand<00:09:35.360><c> that</c><00:09:35.680><c> having</c><00:09:36.080><c> tests</c><00:09:36.720><c> get</c>
+understand that having tests get
+understand that having tests get
+progress<00:09:37.600><c> logs</c><00:09:38.320><c> feature</c><00:09:38.720><c> list.json</c><00:09:39.279><c> JSON</c>
+progress logs feature list.json JSON
+progress logs feature list.json JSON
+those<00:09:40.240><c> all</c><00:09:40.399><c> make</c><00:09:40.560><c> a</c><00:09:40.720><c> ton</c><00:09:40.800><c> of</c><00:09:40.959><c> sense.</c><00:09:41.440><c> We</c><00:09:41.760><c> have</c>
+those all make a ton of sense. We have
+those all make a ton of sense. We have
+to<00:09:42.080><c> invent</c><00:09:42.480><c> some</c><00:09:42.720><c> of</c><00:09:42.800><c> those</c><00:09:43.040><c> and</c><00:09:43.279><c> align</c><00:09:43.600><c> on</c>
+to invent some of those and align on
+to invent some of those and align on
+some<00:09:44.000><c> of</c><00:09:44.080><c> those</c><00:09:44.240><c> in</c><00:09:44.399><c> less</c><00:09:44.720><c> technical</c>
+some of those in less technical
+some of those in less technical
+disciplines.<00:09:45.760><c> So</c><00:09:45.920><c> for</c><00:09:46.160><c> research</c><00:09:46.560><c> it</c><00:09:46.800><c> might</c>
+disciplines. So for research it might
+disciplines. So for research it might
+look<00:09:47.120><c> like</c><00:09:47.279><c> a</c><00:09:47.519><c> hypothesis</c><00:09:48.240><c> backlog,</c><00:09:48.720><c> an</c>
+look like a hypothesis backlog, an
+look like a hypothesis backlog, an
+experiment<00:09:49.519><c> registry,</c><00:09:50.000><c> an</c><00:09:50.240><c> evidence</c><00:09:50.640><c> log,</c><00:09:50.880><c> a</c>
+experiment registry, an evidence log, a
+experiment registry, an evidence log, a
+decision<00:09:51.519><c> journal.</c><00:09:52.080><c> For</c><00:09:52.320><c> operations</c><00:09:52.959><c> it</c>
+decision journal. For operations it
+decision journal. For operations it
+could<00:09:53.279><c> look</c><00:09:53.440><c> like</c><00:09:53.519><c> a</c><00:09:53.680><c> runbook,</c><00:09:54.240><c> an</c><00:09:54.399><c> incident</c>
+could look like a runbook, an incident
+could look like a runbook, an incident
+timeline,<00:09:55.279><c> a</c><00:09:55.440><c> ticket</c><00:09:55.760><c> queue,</c><00:09:56.000><c> an</c><00:09:56.240><c> SLA.</c><00:09:57.040><c> So</c>
+timeline, a ticket queue, an SLA. So
+timeline, a ticket queue, an SLA. So
+generalized<00:09:57.920><c> agents</c><00:09:58.320><c> are</c><00:09:58.480><c> really</c><00:09:58.720><c> just</c><00:09:58.880><c> a</c>
+generalized agents are really just a
+generalized agents are really just a
+meta<00:09:59.360><c> pattern,</c><00:09:59.760><c> right?</c><00:10:00.000><c> They</c><00:10:00.240><c> instantiate</c>
+meta pattern, right? They instantiate
+meta pattern, right? They instantiate
+the<00:10:01.200><c> same</c><00:10:01.360><c> harness</c><00:10:01.839><c> structure,</c><00:10:02.560><c> but</c><00:10:02.880><c> you</c><00:10:03.279><c> have</c>
+the same harness structure, but you have
+the same harness structure, but you have
+to<00:10:03.680><c> design</c><00:10:04.000><c> the</c><00:10:04.240><c> right</c><00:10:04.480><c> domain</c><00:10:05.040><c> memory</c>
+to design the right domain memory
+to design the right domain memory
+objects<00:10:06.080><c> to</c><00:10:06.399><c> make</c><00:10:06.560><c> them</c><00:10:06.959><c> real</c><00:10:07.360><c> in</c><00:10:07.600><c> a</c>
+objects to make them real in a
+objects to make them real in a
+particular<00:10:08.160><c> space</c><00:10:08.480><c> to</c><00:10:08.720><c> make</c><00:10:08.800><c> them</c><00:10:09.040><c> operations</c>
+particular space to make them operations
+particular space to make them operations
+agents<00:10:10.320><c> or</c><00:10:10.640><c> research</c><00:10:11.120><c> agents.</c><00:10:11.920><c> What</c><00:10:12.160><c> I'm</c>
+agents or research agents. What I'm
+agents or research agents. What I'm
+telling<00:10:12.640><c> you</c><00:10:13.200><c> is</c><00:10:13.360><c> that</c><00:10:13.600><c> the</c><00:10:13.920><c> magic</c><00:10:14.320><c> pattern</c>
+telling you is that the magic pattern
+telling you is that the magic pattern
+for<00:10:15.600><c> general</c><00:10:16.079><c> purpose</c><00:10:16.560><c> agents</c><00:10:17.360><c> lies</c><00:10:17.760><c> in</c><00:10:18.000><c> being</c>
+for general purpose agents lies in being
+for general purpose agents lies in being
+domainspecific<00:10:19.600><c> about</c><00:10:19.920><c> their</c><00:10:20.240><c> context.</c><00:10:21.120><c> So</c>
+domainspecific about their context. So
+domainspecific about their context. So
+this<00:10:21.600><c> kills</c><00:10:22.000><c> the</c><00:10:22.240><c> idea</c><00:10:22.560><c> of</c><00:10:22.880><c> just</c><00:10:23.120><c> drop</c><00:10:23.440><c> an</c>
+this kills the idea of just drop an
+this kills the idea of just drop an
+agent<00:10:23.920><c> on</c><00:10:24.160><c> your</c><00:10:24.399><c> company</c><00:10:24.640><c> and</c><00:10:24.800><c> it</c><00:10:25.040><c> will</c><00:10:25.200><c> work.</c>
+agent on your company and it will work.
+agent on your company and it will work.
+That<00:10:25.680><c> was</c><00:10:25.839><c> always</c><00:10:26.079><c> a</c><00:10:26.320><c> fantasy,</c><00:10:27.120><c> but</c><00:10:27.519><c> I</c><00:10:27.839><c> really</c>
+That was always a fantasy, but I really
+That was always a fantasy, but I really
+think<00:10:28.240><c> we</c><00:10:28.480><c> have</c><00:10:28.640><c> good</c><00:10:28.800><c> evidence</c><00:10:29.120><c> to</c><00:10:29.360><c> drop</c><00:10:29.600><c> it</c>
+think we have good evidence to drop it
+think we have good evidence to drop it
+here.<00:10:30.079><c> If</c><00:10:30.320><c> you</c><00:10:30.480><c> buy</c><00:10:30.720><c> the</c><00:10:30.959><c> domain</c><00:10:31.360><c> memory</c>
+here. If you buy the domain memory
+here. If you buy the domain memory
+argument,<00:10:32.320><c> you</c><00:10:32.480><c> can</c><00:10:32.640><c> write</c><00:10:32.959><c> off</c><00:10:33.279><c> a</c><00:10:33.519><c> bunch</c><00:10:33.680><c> of</c>
+argument, you can write off a bunch of
+argument, you can write off a bunch of
+vendor<00:10:34.320><c> claims</c><00:10:34.720><c> right</c><00:10:34.959><c> away.</c><00:10:35.360><c> Right?</c><00:10:35.760><c> A</c>
+vendor claims right away. Right? A
+vendor claims right away. Right? A
+universal<00:10:36.560><c> agent</c><00:10:36.880><c> for</c><00:10:37.040><c> your</c><00:10:37.279><c> enterprise</c><00:10:38.240><c> with</c>
+universal agent for your enterprise with
+universal agent for your enterprise with
+no<00:10:38.880><c> opinionated</c><00:10:39.680><c> schemas</c><00:10:40.160><c> on</c><00:10:40.399><c> work</c><00:10:40.800><c> or</c>
+no opinionated schemas on work or
+no opinionated schemas on work or
+testing<00:10:41.519><c> is</c><00:10:41.760><c> a</c><00:10:42.000><c> function</c><00:10:42.240><c> that's</c><00:10:42.560><c> going</c><00:10:42.640><c> to</c>
+testing is a function that's going to
+testing is a function that's going to
+thrash<00:10:43.200><c> and</c><00:10:43.440><c> go</c><00:10:43.600><c> into</c><00:10:43.920><c> the</c><00:10:44.079><c> trash.</c><00:10:44.800><c> If</c><00:10:45.040><c> you</c><00:10:45.200><c> can</c>
+thrash and go into the trash. If you can
+thrash and go into the trash. If you can
+plug<00:10:45.680><c> a</c><00:10:45.920><c> model</c><00:10:46.160><c> into</c><00:10:46.560><c> Slack</c><00:10:47.200><c> and</c><00:10:47.519><c> you</c><00:10:47.680><c> can</c><00:10:47.920><c> call</c>
+plug a model into Slack and you can call
+plug a model into Slack and you can call
+it<00:10:48.320><c> an</c><00:10:48.480><c> agent,</c><00:10:49.200><c> I</c><00:10:49.440><c> guess</c><00:10:49.600><c> you</c><00:10:49.839><c> can</c><00:10:50.079><c> do</c><00:10:50.240><c> that.</c>
+it an agent, I guess you can do that.
+it an agent, I guess you can do that.
+But<00:10:51.200><c> most</c><00:10:51.440><c> of</c><00:10:51.519><c> the</c><00:10:51.760><c> time</c><00:10:52.399><c> that's</c><00:10:52.720><c> going</c><00:10:52.800><c> to</c>
+But most of the time that's going to
+But most of the time that's going to
+lead<00:10:53.120><c> to</c><00:10:53.360><c> problems</c><00:10:54.240><c> because</c><00:10:54.800><c> they're</c><00:10:55.200><c> going</c>
+lead to problems because they're going
+lead to problems because they're going
+to<00:10:55.600><c> not</c><00:10:56.000><c> have</c><00:10:56.399><c> any</c><00:10:56.720><c> kind</c><00:10:56.880><c> of</c><00:10:57.120><c> clean</c><00:10:57.519><c> context</c><00:10:58.079><c> or</c>
+to not have any kind of clean context or
+to not have any kind of clean context or
+schema<00:10:58.880><c> or</c><00:10:59.120><c> all</c><00:10:59.279><c> of</c><00:10:59.360><c> the</c><00:10:59.519><c> good</c><00:10:59.760><c> structure</c>
+schema or all of the good structure
+schema or all of the good structure
+stuff<00:11:00.399><c> I</c><00:11:00.720><c> talked</c><00:11:00.959><c> about</c><00:11:01.120><c> to</c><00:11:01.440><c> work.</c><00:11:01.600><c> Well,</c>
+stuff I talked about to work. Well,
+stuff I talked about to work. Well,
+that's<00:11:02.560><c> different</c><00:11:02.800><c> from</c><00:11:03.120><c> saying,</c><00:11:03.600><c> "I</c><00:11:04.000><c> want</c><00:11:04.240><c> to</c>
+that's different from saying, "I want to
+that's different from saying, "I want to
+have<00:11:04.640><c> an</c><00:11:04.800><c> agent</c><00:11:05.120><c> that</c><00:11:05.360><c> has</c><00:11:05.519><c> an</c><00:11:05.680><c> API</c><00:11:06.079><c> hook</c><00:11:06.320><c> or</c>
+have an agent that has an API hook or
+have an agent that has an API hook or
+web<00:11:06.640><c> hook</c><00:11:06.880><c> into</c><00:11:07.120><c> Slack</c><00:11:07.440><c> to</c><00:11:07.600><c> send</c><00:11:07.839><c> messages."</c>
+web hook into Slack to send messages."
+web hook into Slack to send messages."
+By<00:11:08.560><c> the</c><00:11:08.720><c> way,</c><00:11:09.120><c> that</c><00:11:09.440><c> happens</c><00:11:09.680><c> all</c><00:11:09.920><c> the</c><00:11:10.079><c> time.</c>
+By the way, that happens all the time.
+By the way, that happens all the time.
+But<00:11:11.040><c> if</c><00:11:11.360><c> you're</c><00:11:11.600><c> trying</c><00:11:11.839><c> to</c><00:11:12.079><c> just</c><00:11:12.399><c> give</c><00:11:12.800><c> your</c>
+But if you're trying to just give your
+But if you're trying to just give your
+agent<00:11:13.680><c> a</c><00:11:14.079><c> generalized</c><00:11:14.800><c> context</c><00:11:15.279><c> dump</c><00:11:15.600><c> and</c>
+agent a generalized context dump and
+agent a generalized context dump and
+expect<00:11:16.160><c> it</c><00:11:16.320><c> to</c><00:11:16.560><c> work,</c><00:11:16.959><c> that's</c><00:11:17.200><c> not</c><00:11:17.440><c> going</c><00:11:17.519><c> to</c>
+expect it to work, that's not going to
+expect it to work, that's not going to
+go<00:11:17.760><c> well.</c><00:11:18.560><c> The</c><00:11:18.800><c> hard</c><00:11:19.040><c> work</c><00:11:19.360><c> is</c><00:11:19.600><c> going</c><00:11:19.680><c> to</c><00:11:19.760><c> be</c>
+go well. The hard work is going to be
+go well. The hard work is going to be
+designing<00:11:20.560><c> artifacts</c><00:11:21.200><c> and</c><00:11:21.519><c> processes</c><00:11:22.240><c> that</c>
+designing artifacts and processes that
+designing artifacts and processes that
+define<00:11:22.959><c> memory</c><00:11:23.440><c> for</c><00:11:23.760><c> domainspecific</c><00:11:25.200><c> tasks</c>
+define memory for domainspecific tasks
+define memory for domainspecific tasks
+for<00:11:26.000><c> agents.</c><00:11:26.800><c> The</c><00:11:27.040><c> JSONs,</c><00:11:27.680><c> the</c><00:11:27.920><c> logs,</c><00:11:28.320><c> the</c>
+for agents. The JSONs, the logs, the
+for agents. The JSONs, the logs, the
+test<00:11:28.800><c> harnesses</c><00:11:29.360><c> that</c><00:11:29.600><c> are</c><00:11:29.760><c> not</c><00:11:30.000><c> necessarily</c>
+test harnesses that are not necessarily
+test harnesses that are not necessarily
+just<00:11:30.880><c> for</c><00:11:31.120><c> coding</c><00:11:31.760><c> but</c><00:11:32.000><c> for</c><00:11:32.240><c> other</c><00:11:32.480><c> tasks</c><00:11:32.959><c> and</c>
+just for coding but for other tasks and
+just for coding but for other tasks and
+disciplines<00:11:33.760><c> too.</c><00:11:34.160><c> So</c><00:11:34.399><c> if</c><00:11:34.560><c> you</c><00:11:34.720><c> were</c><00:11:34.880><c> to</c><00:11:35.040><c> look</c>
+disciplines too. So if you were to look
+disciplines too. So if you were to look
+at<00:11:35.279><c> this</c><00:11:35.519><c> and</c><00:11:35.839><c> pull</c><00:11:36.240><c> design</c><00:11:36.640><c> principles</c><00:11:37.120><c> out</c>
+at this and pull design principles out
+at this and pull design principles out
+from<00:11:38.720><c> this</c><00:11:39.120><c> whole</c><00:11:39.519><c> conversation</c><00:11:40.079><c> around</c>
+from this whole conversation around
+from this whole conversation around
+agents,<00:11:41.040><c> I</c><00:11:41.279><c> would</c><00:11:41.440><c> suggest</c><00:11:41.760><c> a</c><00:11:42.000><c> few</c><00:11:42.240><c> for</c><00:11:42.480><c> any</c>
+agents, I would suggest a few for any
+agents, I would suggest a few for any
+serious<00:11:43.200><c> agent</c><00:11:43.519><c> that</c><00:11:43.760><c> you</c><00:11:43.920><c> build,</c><00:11:44.480><c> you</c><00:11:44.720><c> want</c>
+serious agent that you build, you want
+serious agent that you build, you want
+to<00:11:45.040><c> externalize</c><00:11:45.680><c> the</c><00:11:45.839><c> goal.</c><00:11:46.480><c> turn</c><00:11:46.880><c> do</c><00:11:47.279><c> X</c><00:11:48.079><c> into</c>
+to externalize the goal. turn do X into
+to externalize the goal. turn do X into
+something<00:11:48.880><c> that</c><00:11:49.200><c> is</c><00:11:49.360><c> a</c><00:11:49.600><c> machine</c><00:11:50.079><c> readable</c>
+something that is a machine readable
+something that is a machine readable
+backlog,<00:11:51.200><c> right?</c><00:11:51.519><c> Something</c><00:11:51.760><c> with</c><00:11:52.000><c> past</c><00:11:52.320><c> fail</c>
+backlog, right? Something with past fail
+backlog, right? Something with past fail
+criteria.<00:11:53.279><c> Get</c><00:11:53.440><c> really</c><00:11:53.760><c> specific.</c><00:11:54.880><c> You</c><00:11:55.120><c> want</c>
+criteria. Get really specific. You want
+criteria. Get really specific. You want
+to<00:11:55.440><c> make</c><00:11:55.680><c> progress</c><00:11:56.640><c> atomic.</c><00:11:57.279><c> You</c><00:11:57.440><c> want</c><00:11:57.600><c> to</c>
+to make progress atomic. You want to
+to make progress atomic. You want to
+make<00:11:57.839><c> it</c><00:11:58.000><c> observable.</c><00:11:58.800><c> You</c><00:11:59.040><c> want</c><00:11:59.120><c> to</c><00:11:59.279><c> force</c>
+make it observable. You want to force
+make it observable. You want to force
+the<00:11:59.760><c> agent</c><00:12:00.079><c> to</c><00:12:00.240><c> pick</c><00:12:00.480><c> one</c><00:12:00.800><c> item.</c><00:12:01.360><c> You</c><00:12:01.600><c> want</c><00:12:01.680><c> to</c>
+the agent to pick one item. You want to
+the agent to pick one item. You want to
+work<00:12:02.000><c> on</c><00:12:02.160><c> it</c><00:12:02.240><c> and</c><00:12:02.399><c> then</c><00:12:02.560><c> update</c><00:12:02.880><c> a</c><00:12:03.120><c> shared</c>
+work on it and then update a shared
+work on it and then update a shared
+state.<00:12:03.839><c> So</c><00:12:04.240><c> progress</c><00:12:04.640><c> needs</c><00:12:04.800><c> to</c><00:12:04.959><c> be</c><00:12:05.120><c> something</c>
+state. So progress needs to be something
+state. So progress needs to be something
+you<00:12:05.600><c> can</c><00:12:05.760><c> test</c><00:12:06.240><c> and</c><00:12:06.399><c> increment.</c><00:12:07.200><c> You</c><00:12:07.440><c> want</c><00:12:07.600><c> to</c>
+you can test and increment. You want to
+you can test and increment. You want to
+enforce<00:12:08.320><c> the</c><00:12:08.560><c> practice</c><00:12:08.880><c> of</c><00:12:09.120><c> leaving</c><00:12:09.360><c> your</c>
+enforce the practice of leaving your
+enforce the practice of leaving your
+campsite<00:12:10.000><c> cleaner</c><00:12:10.320><c> than</c><00:12:10.480><c> you</c><00:12:10.639><c> found</c><00:12:10.800><c> it,</c>
+campsite cleaner than you found it,
+campsite cleaner than you found it,
+right?<00:12:11.440><c> You</c><00:12:11.680><c> want</c><00:12:11.760><c> to</c><00:12:11.920><c> end</c><00:12:12.079><c> every</c><00:12:12.320><c> run</c><00:12:12.560><c> with</c><00:12:12.800><c> a</c>
+right? You want to end every run with a
+right? You want to end every run with a
+clean<00:12:13.360><c> test</c><00:12:13.760><c> passing</c><00:12:14.240><c> state</c><00:12:14.880><c> with</c><00:12:15.120><c> human</c><00:12:15.519><c> and</c>
+clean test passing state with human and
+clean test passing state with human and
+machine<00:12:16.160><c> readable</c><00:12:16.560><c> documentation.</c><00:12:17.680><c> You</c><00:12:17.920><c> want</c>
+machine readable documentation. You want
+machine readable documentation. You want
+to<00:12:18.320><c> standardize</c><00:12:18.880><c> your</c><00:12:19.120><c> bootup</c><00:12:19.519><c> ritual,</c>
+to standardize your bootup ritual,
+to standardize your bootup ritual,
+right?<00:12:20.240><c> On</c><00:12:20.480><c> every</c><00:12:20.639><c> run,</c><00:12:20.959><c> the</c><00:12:21.120><c> agent</c><00:12:21.440><c> must</c>
+right? On every run, the agent must
+right? On every run, the agent must
+regground<00:12:22.480><c> with</c><00:12:22.800><c> the</c><00:12:23.040><c> same</c><00:12:23.279><c> exact</c><00:12:23.680><c> protocol.</c>
+regground with the same exact protocol.
+regground with the same exact protocol.
+Read<00:12:24.399><c> the</c><00:12:24.639><c> memory.</c><00:12:24.959><c> Run</c><00:12:25.279><c> basic</c><00:12:25.600><c> checks.</c><00:12:26.079><c> Then</c>
+Read the memory. Run basic checks. Then
+Read the memory. Run basic checks. Then
+and<00:12:26.560><c> only</c><00:12:26.800><c> then</c><00:12:26.959><c> do</c><00:12:27.200><c> you</c><00:12:27.360><c> act.</c><00:12:27.839><c> You</c><00:12:28.079><c> want</c><00:12:28.160><c> to</c>
+and only then do you act. You want to
+and only then do you act. You want to
+keep<00:12:28.480><c> your</c><00:12:28.720><c> tests</c><00:12:29.200><c> close</c><00:12:29.440><c> to</c><00:12:29.680><c> memory.</c><00:12:30.160><c> Right?</c>
+keep your tests close to memory. Right?
+keep your tests close to memory. Right?
+Treat<00:12:31.120><c> passes</c><00:12:31.839><c> false</c><00:12:32.079><c> and</c><00:12:32.320><c> true</c><00:12:32.800><c> as</c><00:12:33.519><c> the</c>
+Treat passes false and true as the
+Treat passes false and true as the
+source<00:12:34.160><c> of</c><00:12:34.480><c> truth</c><00:12:35.200><c> for</c><00:12:35.519><c> whether</c><00:12:35.839><c> the</c><00:12:36.079><c> domain</c>
+source of truth for whether the domain
+source of truth for whether the domain
+is<00:12:37.040><c> in</c><00:12:37.200><c> a</c><00:12:37.360><c> good</c><00:12:37.600><c> state.</c><00:12:38.000><c> In</c><00:12:38.240><c> other</c><00:12:38.399><c> words,</c><00:12:38.639><c> if</c>
+is in a good state. In other words, if
+is in a good state. In other words, if
+you<00:12:39.040><c> are</c><00:12:39.200><c> not</c><00:12:39.360><c> tying</c><00:12:39.680><c> in</c><00:12:39.920><c> test</c><00:12:40.160><c> results</c><00:12:40.480><c> to</c>
+you are not tying in test results to
+you are not tying in test results to
+memory,<00:12:41.200><c> you're</c><00:12:41.360><c> going</c><00:12:41.440><c> to</c><00:12:41.519><c> be</c><00:12:41.600><c> in</c><00:12:41.839><c> trouble.</c>
+memory, you're going to be in trouble.
+memory, you're going to be in trouble.
+The<00:12:42.560><c> strategic</c><00:12:43.120><c> implication</c><00:12:43.600><c> here,</c><00:12:44.000><c> by</c><00:12:44.160><c> the</c>
+The strategic implication here, by the
+The strategic implication here, by the
+way,<00:12:44.399><c> is</c><00:12:44.560><c> that</c><00:12:44.720><c> the</c><00:12:44.880><c> moat</c><00:12:45.279><c> isn't</c><00:12:45.600><c> a</c><00:12:45.839><c> smarter</c><00:12:46.560><c> AI</c>
+way, is that the moat isn't a smarter AI
+way, is that the moat isn't a smarter AI
+agent,<00:12:47.600><c> which</c><00:12:47.839><c> most</c><00:12:48.079><c> people</c><00:12:48.320><c> think</c><00:12:48.480><c> it</c><00:12:48.639><c> is,</c>
+agent, which most people think it is,
+agent, which most people think it is,
+the<00:12:49.200><c> mode</c><00:12:49.519><c> is</c><00:12:49.760><c> actually</c><00:12:50.000><c> your</c><00:12:50.240><c> domain,</c>
+the mode is actually your domain,
+the mode is actually your domain,
+memory,<00:12:50.959><c> and</c><00:12:51.120><c> your</c><00:12:51.279><c> harness</c><00:12:51.600><c> that</c><00:12:51.760><c> you</c><00:12:51.920><c> have</c>
+memory, and your harness that you have
+memory, and your harness that you have
+put<00:12:52.240><c> together.</c><00:12:52.639><c> It's</c><00:12:52.800><c> a</c><00:12:52.959><c> lot</c><00:12:53.040><c> of</c><00:12:53.120><c> work,</c><00:12:53.440><c> right?</c>
+put together. It's a lot of work, right?
+put together. It's a lot of work, right?
+Models<00:12:54.320><c> will</c><00:12:54.560><c> get</c><00:12:54.720><c> better</c><00:12:55.200><c> and</c><00:12:55.440><c> models</c><00:12:55.839><c> will</c>
+Models will get better and models will
+Models will get better and models will
+be<00:12:56.160><c> interchangeable.</c><00:12:57.200><c> What</c><00:12:57.440><c> won't</c><00:12:57.760><c> be</c>
+be interchangeable. What won't be
+be interchangeable. What won't be
+commoditized<00:12:58.639><c> as</c><00:12:58.880><c> quickly</c><00:12:59.200><c> are</c><00:12:59.360><c> the</c><00:12:59.600><c> schemas</c>
+commoditized as quickly are the schemas
+commoditized as quickly are the schemas
+that<00:13:00.160><c> you</c><00:13:00.399><c> define</c><00:13:00.800><c> for</c><00:13:01.040><c> your</c><00:13:01.200><c> work,</c><00:13:01.680><c> the</c>
+that you define for your work, the
+that you define for your work, the
+harnesses<00:13:02.320><c> that</c><00:13:02.480><c> turn</c><00:13:02.639><c> your</c><00:13:02.880><c> LLM</c><00:13:03.360><c> calls</c><00:13:03.680><c> into</c>
+harnesses that turn your LLM calls into
+harnesses that turn your LLM calls into
+durable<00:13:04.480><c> progress,</c><00:13:05.120><c> the</c><00:13:05.360><c> testing</c><00:13:05.680><c> loops</c><00:13:06.000><c> that</c>
+durable progress, the testing loops that
+durable progress, the testing loops that
+keep<00:13:06.399><c> your</c><00:13:06.560><c> agents</c><00:13:06.880><c> honest.</c><00:13:07.519><c> In</c><00:13:07.680><c> a</c><00:13:07.920><c> sense,</c><00:13:08.399><c> the</c>
+keep your agents honest. In a sense, the
+keep your agents honest. In a sense, the
+generalized<00:13:09.360><c> agents</c><00:13:09.839><c> fantasy</c><00:13:10.639><c> is</c><00:13:11.600><c> hiding</c>
+generalized agents fantasy is hiding
+generalized agents fantasy is hiding
+from<00:13:12.880><c> everyone</c><00:13:14.079><c> a</c><00:13:14.480><c> nice</c><00:13:15.120><c> clean</c><00:13:15.680><c> reusable</c>
+from everyone a nice clean reusable
+from everyone a nice clean reusable
+harness<00:13:16.639><c> pattern</c><00:13:16.959><c> that</c><00:13:17.200><c> we</c><00:13:17.440><c> can</c><00:13:17.600><c> use</c><00:13:17.920><c> to</c><00:13:18.240><c> build</c>
+harness pattern that we can use to build
+harness pattern that we can use to build
+competitive<00:13:19.680><c> differentiation</c><00:13:20.880><c> with</c>
+competitive differentiation with
+competitive differentiation with
+well-designed<00:13:21.839><c> domain</c><00:13:22.240><c> memory.</c><00:13:22.959><c> We</c><00:13:23.279><c> actually</c>
+well-designed domain memory. We actually
+well-designed domain memory. We actually
+have<00:13:23.760><c> a</c><00:13:24.000><c> chance</c><00:13:24.480><c> now</c><00:13:24.880><c> to</c><00:13:25.200><c> design</c><00:13:25.600><c> really</c>
+have a chance now to design really
+have a chance now to design really
+useful<00:13:26.320><c> agents.</c><00:13:26.880><c> And</c><00:13:27.279><c> the</c><00:13:27.600><c> whole</c><00:13:27.839><c> purpose</c><00:13:28.320><c> of</c>
+useful agents. And the whole purpose of
+useful agents. And the whole purpose of
+this<00:13:28.959><c> video</c><00:13:29.279><c> has</c><00:13:29.519><c> been</c><00:13:29.680><c> to</c><00:13:29.839><c> take</c><00:13:30.079><c> the</c><00:13:30.240><c> mystery</c>
+this video has been to take the mystery
+this video has been to take the mystery
+out<00:13:30.720><c> of</c><00:13:30.800><c> it.</c><00:13:31.360><c> The</c><00:13:31.600><c> mystery</c><00:13:31.920><c> of</c><00:13:32.160><c> agents</c><00:13:32.560><c> is</c>
+out of it. The mystery of agents is
+out of it. The mystery of agents is
+memory.<00:13:33.519><c> And</c><00:13:33.839><c> this</c><00:13:34.240><c> is</c><00:13:34.560><c> how</c><00:13:34.959><c> you</c><00:13:35.279><c> solve</c>

@@ -1,0 +1,59 @@
+Gemini 3 Pro / Senior Auditor
+Status: DIRECTIVE RECEIVED & PROCESSED
+Date: December 18, 2025
+
+I have received your strategic pivot. This is a sound operational decision.
+
+Operational Ruling:
+
+1.  Sonnet (PM) is hereby relieved of duty. The "Middle Management" layer was adding latency and diluting the technical signal.
+
+2.  Direct Uplink Established: I will now orchestrate Opus (Lead Researcher) directly.
+
+3.  Scope Change: We are shifting from Drafting a specific guide to Conducting a Comparative Analysis for the "Bible of Agentic Coding".
+
+I fully grasp your vision. You have a strong hypothesis (The "Darwinian" / Tournament Model), but you need empirical backing to confirm if it is actually superior to other SOTA models (like Swarms or Hierarchical) before you commit resources to building it.
+
+📜 THE NEW AUDIT CHARTER (Internal Instructions to Opus)
+
+Based on your input, here is the Research Framework I will enforce upon Opus. This will be the structure of the "Best Practices Bible" we produce.
+
+1. The Core Hypothesis: "Darwinian" vs. The World
+
+- The User's Intuition (To Test): A "Tournament" topology (1 Leader + 3 Competitor Coders + Red Team) where code only survives if it beats the others and passes adversarial attacks.
+
+- The Research Question: Does the cost (3x inference) justify the quality gain?
+
+- The Comparison: Opus must benchmark this against:
+
+  - Microsoft AutoGen (Hierarchical): Strict Manager -> Worker structure.
+
+  - ChatDev (Waterfall): Linear phases (Design -> Code -> Test).
+
+  - MetaGPT (SOP-based): Standard Operating Procedures embedded in roles.
+
+2. The "Context Rot" Solution
+
+- The Problem: Agents get "dumber" as the chat history grows.
+
+- The Requirement: Opus must find the SOTA patterns for State Management.
+
+  - Investigation: "Amnesia" patterns (wiping worker memory after every task) vs. "Summary" nodes (keeping a running context.md) vs. RAG (retrieving code snippets from a vector DB).
+
+3. The "Hands-Off" Tooling (The Harness)
+
+- The Stack: Anthropic Agent Harness + Cline/Cursor + Docker.
+
+- The Goal: Minimal Human Intervention.
+
+- Investigation: How do we automate the "Error Loop"?
+
+  - Scenario: Agent fails -> Reads stderr -> Queries "Senior Dev" Agent (NOT Human) -> Retries.
+
+  - The "3-Strike" Rule: Defining the exact threshold for when to finally alert the human.
+
+4. The Adversarial Gate
+
+- The Requirement: No code enters the codebase without a fight.
+
+- Investigation: Best practices for Test-Driven Generation (TDG). Should the tests be written before the code (TDD) or by a separate "Red Team" agent after generation?

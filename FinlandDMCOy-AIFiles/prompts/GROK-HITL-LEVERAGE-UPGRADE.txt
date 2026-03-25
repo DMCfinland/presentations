@@ -1,0 +1,179 @@
+GROK 4-AGENT DEBATE: Upgrading a Human-AI Workflow System with HITL Research Findings
+Date: 2026-03-12
+Purpose: Get actionable recommendations for upgrading the 1658 Holdings AI workflow with DSPy/Mem0/MemPO findings
+
+---
+
+## CONTEXT: The Existing System
+
+A CEO (Patrick Heiskanen, 1658 Holdings Oy, 10-company portfolio) has built a manual workflow
+for human-AI collaboration across 50+ sessions. The system runs in Claude Code (Sonnet 4.6).
+Budget: zero additional tools unless clearly justified.
+
+### What the system does TODAY (manually):
+
+1. **CURRENT-STATUS.md** — session state file. Written at session END for next session START.
+   Contains: Current State block, Rolling Window (last 5 sessions), Compressed History, Context Pack.
+   The Context Pack compiles the most relevant patterns and knowledge for the NEXT session.
+   Result: each session starts with ~10% context pre-loaded, not cold.
+
+2. **Three-tier pattern system:**
+   - Tier A: Always-loaded rules in CLAUDE.md (~15 battle-tested rules)
+   - Tier B: `_shared/best-practices/` files — load on demand (15+ files, routed via _index.yaml)
+   - Tier C: `_archive/` — superseded or low-use patterns
+   - Promotion path: Tier B → Tier A after 3+ confirmed uses
+   - Demotion path: no activations in 90 days → archive
+
+3. **session-reasoning-harvest** (NEW, confidence 0.3, not yet validated):
+   At session END, write 3-5 reasoning chains — the HOW/WHY behind AI decisions, not just WHAT.
+   Example: "Why pgvector in Wave 1A: ALTER TABLE on 500+ live rows = expensive; 30-min addition
+   now vs. painful migration later." These can be pre-loaded into future spawn prompts.
+   Estimated value: 15-30 min saved per complex session once library has 20+ entries.
+
+4. **pre-brief-reduces-corrections** (NEW, confidence 0.7, 1 confirmed use):
+   Add 5-line company context card at session START before mining external sources.
+   Prevents Claude defaulting to generic assumptions (e.g. "use Slack" when company is M365).
+   3 corrections occurred in one session that a pre-brief would have prevented.
+   Estimated gain: 2-3 fewer correction rounds = ~15-20 min saved per mining session.
+
+5. **PreCompact hook** — fires before context compression, writes current state to BUILD-STATE.md.
+   Prevents reasoning chain loss at 60% context.
+
+6. **Warm packs** — pre-compiled topic-specific context bundles. On session start, the warm pack
+   ID from the context pack tells Claude which ~50-line bundle to load. Replaces full codebase reads.
+
+7. **Opus system reviews** — every 10 sessions, Opus audits: KB consultation rate, pattern harvest
+   rate, contradiction scan, cross-pack propagation. Graduate criteria: KB consulted >40% +
+   harvest >20% over 2 consecutive reviews.
+
+### Current leverage metric (estimated session 64):
+- Patrick input: ~30 min (paste source, 3 corrections, approve outputs)
+- AI output equivalent: ~3-4h manual work
+- Ratio: ~6-8x leverage
+- Target: 12-15x (same safety, fewer correction rounds)
+
+### The leverage leak identified:
+The biggest single waste is **mid-session corrections** when AI defaults to generic assumptions
+that contradict company context. Each correction = re-read + re-write + approval = ~5-7 min lost.
+3 corrections/session × 5 min = 15 min of the 30-min human time is correction overhead.
+
+---
+
+## RESEARCH FINDINGS (from web search, 2026-03-12):
+
+These tools/papers were found that may be relevant:
+
+**A. DSPy + GEPA optimizer (Stanford, 2025)**
+- Framework: treat prompts as code, not text strings
+- GEPA: human provides TEXT feedback ("why did this miss?") → optimizer automatically rewrites
+  prompts to prevent that class of mistake in future runs
+- Example result: accuracy 46.2% → 64.0% in one optimization cycle
+- Analogy to our system: each correction Patrick makes = GEPA training signal
+- Source: https://dspy.ai/api/optimizers/GEPA/overview/
+
+**B. Mem0 — production memory layer (2025)**
+- Automatically extracts what's worth remembering from conversations
+- Update phase: compares new info with existing memories, updates or deprecates
+- Graph approach: memories with relationships, confidence scores, temporal decay
+- Performance: 26% accuracy boost vs OpenAI built-in memory, 91% faster, ~2K tokens/query
+- Analogy: automated version of our session-reasoning-harvest + context pack compilation
+- Source: https://mem0.ai/research
+
+**C. MemPO: Self-Memory Policy Optimization (Feb 2026, arxiv 2603.00680)**
+- Agents learn to autonomously summarize and manage their OWN memory during a session
+- Tokens belonging to memory get richer feedback signals → guide rollout process
+- Results: +25.98% F1 over base model, -67.58% token usage
+- Analogy: automated version of our /compact + reasoning-harvest combination
+- Source: https://arxiv.org/abs/2603.00680
+
+**D. MemRL: Self-Evolving Agents via Runtime RL on Episodic Memory (Jan 2026)**
+- Agents improve their memory management via reinforcement learning at runtime
+- Not just storage — agents learn WHEN and WHAT to remember based on task outcomes
+- Source: https://arxiv.org/html/2601.03192v2
+
+**E. Agentic AI Maturity Model L1-L4 (Dextralabs, 2025)**
+- L1: Human reviews every output
+- L2: Human reviews most outputs, AI handles simple tasks
+- L3: Human reviews only exceptions and blockers
+- L4: Human sets goals, AI handles full execution + escalates edge cases
+- Patrick's current system: L2→L3 transition
+- Source: https://dextralabs.com/blog/agentic-ai-maturity-model-2025/
+
+---
+
+## YOUR TASK: 4-AGENT DEBATE
+
+Run a 3-round adversarial debate to produce ACTIONABLE upgrade recommendations.
+
+## Four debate personas:
+
+**Persona A — Pragmatist (Senior Ops Engineer)**
+Attack angle: "What actually ships in the next 30 days with zero new tools?"
+Focus: Quick wins using only Claude Code + existing files. Reject anything requiring new
+infrastructure or significant setup time. What from DSPy/Mem0 can be implemented as a
+PROMPT PATTERN rather than a new dependency?
+
+**Persona B — Memory Systems Researcher**
+Attack angle: "The manual system has fundamental limitations that tools solve at the root."
+Focus: Where does the manual system fail at scale (10+ companies, 200+ sessions)?
+Which of DSPy/Mem0/MemPO is the highest-leverage upgrade? What does the integration
+actually look like at the file/prompt level?
+
+**Persona C — Skeptic / Cost Controller**
+Attack angle: "Adding complexity reduces leverage, not increases it."
+Focus: Each new tool = new failure mode. What's the setup cost vs. payoff?
+Is the manual system ALREADY better than Mem0 for this use case (CEO with
+10 companies, not a product with 10K users)? When does tool complexity HURT leverage?
+
+**Persona D — Leverage Optimizer (McKinsey-style)**
+Attack angle: "Measure what matters. The goal is human hours in vs. business value out."
+Focus: Which upgrade gives the highest leverage ratio improvement?
+Build a simple value matrix: [upgrade] × [effort to implement] × [leverage gain].
+What is the SINGLE best next move if Patrick can only do one thing?
+
+---
+
+## Debate protocol:
+
+**Round 1:** Each persona gives independent assessment (200 words max each).
+- A: Top 2 quick wins, implementable in 30 days, no new tools
+- B: Top tool to add and exact integration point in the existing system
+- C: Biggest complexity risk + one thing that should NOT be added
+- D: Leverage value matrix (3-5 candidates, score each on effort/value)
+
+**Round 2:** Cross-challenge.
+- A challenges B's top tool pick: is the setup cost worth it for a 1-person operation?
+- B challenges C's skepticism: what's the cost of NOT upgrading at scale?
+- C challenges D's matrix: are the leverage numbers realistic or aspirational?
+- D challenges A's quick wins: do they actually move the leverage ratio or just feel good?
+
+**Round 3:** Final verdict per persona.
+Each gives: IMPLEMENT NOW / IMPLEMENT LATER / SKIP + one-line reason.
+Cover: DSPy GEPA, Mem0, MemPO concepts, Maturity Model L3 target.
+
+---
+
+## Output format:
+
+After 3 rounds, produce:
+
+**UPGRADE PRIORITY TABLE:**
+| Upgrade | Effort (1-5) | Leverage gain | Verdict | First concrete step |
+|---------|-------------|---------------|---------|---------------------|
+
+**TOP 3 RECOMMENDED CHANGES** (in priority order):
+Each with: What to change, How to implement (file/prompt level), Expected leverage improvement
+
+**ONE THING TO SKIP** (with reason)
+
+**OVERALL ASSESSMENT:** Is the manual system a liability at scale, or a strength?
+What maturity level is realistic for a 1-person CEO operation with no dedicated AI engineer?
+
+---
+
+## Constraints (apply to all personas):
+- Patrick works alone — no AI engineer, no dedicated ops team
+- Budget: €0 for new tools unless ROI is obvious and setup < 2 hours
+- Stack: Claude Code (Sonnet 4.6), markdown files, n8n, Supabase — no Python infra
+- The system runs across 10 portfolio companies — patterns must generalize
+- Safety is non-negotiable: no automation that bypasses human approval on external actions

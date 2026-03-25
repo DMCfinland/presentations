@@ -1,0 +1,71 @@
+OUTPUT FORMAT: Structure as: (1) HLR — what it actually is (definition, benchmarks, formula if found), (2) The leverage stack — architecture of the 10x-1000x gap (what separates mainstream from frontier), (3) AANG framework analysis — 5 pillars, applicability to small operators vs enterprise, (4) The solo operator question — can 1 person apply this without a DevOps team?, (5) Agent conflicts surfaced explicitly, (6) Lucas's top 3 challenges to the mainstream claims, (7) What to steal — 3 concrete architectural moves from Agion for a solo agentic operator. Label every data point and argument with [Harper], [Benjamin], or [Lucas].
+
+GOAL: Research the Agion / AANG governance framework and the Human Leverage Ratio (HLR) concept — specifically what the gap between mainstream AI use (10-30% productivity gain) and frontier use (claimed 10x-1000x) looks like architecturally.
+
+CONTEXT:
+- Why I'm asking: I run 10 portfolio companies with 50 employees as a 1-person holding company CEO. I'm building an agentic AI infrastructure (Claude Code + n8n + Supabase + custom PWJ quality gates). I want to understand whether the Agion/AANG governance framework contains transferable architecture concepts for a solo operator — or whether it's enterprise-only infrastructure.
+- The company being studied: Agion (Helsinki, Finland, founded 2024, out of stealth December 2025). Product: "Agentic OS for the Sovereign Enterprise." Co-founder and Chair: Mikko Alasaarela (Finnish AI entrepreneur, 7 startups, 3 exits, Nokia Bell Labs background).
+- What I currently believe: The AANG framework is essentially enterprise Governance-as-Code — policy rules that allow 95%+ automated decisions without human review. This is analogous to our internal GEAP (Governance-as-Evidence) concept but at enterprise scale. I believe there is a transferable insight, but I don't know where the boundary is between enterprise-only and solo-applicable.
+- This is our hypothesis — challenge it.
+
+<confirmed_facts>
+AGION AANG FRAMEWORK (from agion.dev — verified):
+1. Mission-as-Code: "Your business KPIs are translated into executable missions for your AI agents."
+2. Governance-as-Code: "It means the organization's rules and boundaries are expressed programmatically. When an agent makes a decision, the system checks compliance instantly. The goal is that over 95% of decisions require no human approval." Policy validation: under 10 milliseconds.
+3. Dynamic Trust: "Agents must earn their autonomy. Their permissions are based on a real-time trust scoring system. When an agent succeeds, its trust score rises. Higher trust gives more autonomy for the agent."
+4. Radical Transparency: "100% auditable system for total accountability." Immutable audit trail.
+5. Human-AI Partnership: "Humans as visionaries, strategists, and stewards. Agentic AI processes serve as the execution engine."
+
+AGION PRODUCT METRICS (from agion.dev):
+- 10,000+ agents per cluster
+- Policy validation <10ms
+- 95%+ automated decision rate
+- O(1) scalability: "verifying 1,000 agents takes practically the same time as verifying 10"
+- HLR (Human Leverage Ratio) metric — Agion's own KPI, mentioned as "HLR-driven scaling" and "single HLR metric" in competitive comparisons — no public definition found
+
+MIKKO ALASAARELA'S PUBLIC CLAIMS:
+- (Solteq podcast, 2024): "Steep [productivity curve]. Most people aren't using AI daily. Maybe 10% are... tiny fraction... 1%... 10x or 1000x productivity [for the top fraction]. Most users see incremental 10-30% improvements."
+- (SHIFT Business Festival, 2025): "If we can make the leap in AI happen in Finland, we could become the world leader in productivity — but only if we adopt this technology faster than our peers."
+- (Kaleva article, Dec 2025): "AI is not a fully predictable system and therefore a management method is needed that creates safe boundaries for where AI can operate."
+- (#neuvottelija podcast ep. 346, Aug 2025): "Julkinen sektori agenttifarmiksi" — public sector as agent farm (vision for automating public sector processes)
+- Podcast "Ajattelu tekoälyn aikakaudella" (Norders, 2025) — "Thinking in the Age of AI" — exists but no public transcript found.
+- The specific claim "200x personal leverage" has NOT been found in any indexed source.
+
+AGION BUSINESS TRACTION (Nexin article, Dec 2025):
+- Revenue approaching €1M in first 6 months of operation
+- 20+ organization customers
+- Named client: Valtiokonttori (Finnish State Treasury)
+- Investors: Juhani Mykkänen (Wolt co-founder), Petteri Lahtela (Oura background)
+- Expansion target: Baltic states
+
+OUR CURRENT ARCHITECTURE (for comparison — do NOT treat as the benchmark answer):
+- Claude Code (orchestration) + n8n (automation) + Supabase (data layer)
+- Custom Planner-Worker-Judge quality loop — human-in-the-loop at approval gates
+- GEAP concept: agents emit signed artifacts to Git log at every gate; operator audits async
+- Estimated leverage: 3-6x portfolio-weighted average
+- Current bottleneck: human is the bottleneck, not AI capability
+</confirmed_facts>
+
+COLLABORATION PROTOCOL: Parallel — all agents run simultaneously via chatroom_send, then Lucas runs a dedicated critique round targeting any emerging consensus before final output. Do not converge to a single recommendation.
+
+TOOL ACTIVATION:
+- Harper: AGGRESSIVE web_search + x_semantic_search — search for: "Mikko Alasaarela" HLR, "Human Leverage Ratio" AI agents, "Agion OS" benchmark OR case study, "agenttifarm" Finland, "@alasaarela" site:x.com (his X account), "ajattelun kiihdytin", "thinking accelerator" AI agents 2025, "AANG framework" solo operator, Agion Valtiokonttori results. Also search for any similar Governance-as-Code implementations: "governance-as-code" agentic, OPA (Open Policy Agent) AI agents, "policy as code" agent trust scoring. Flag any data older than 12 months.
+- Benjamin: use code_execution to build an HLR sensitivity model — at what parameters does leverage go from 3-10x (mainstream adopter) to 100x+ (frontier operator)? Variables: automation_depth (0-1), error_rate, trust_threshold, number_of_agents_supervised, gates_per_100_tasks. Show the math.
+- Lucas: argue the AGAINST position on ALL of these: (1) Is Agion's HLR a real metric or marketing language? (2) Is Governance-as-Code applicable to a 1-person operator or is it enterprise infrastructure that requires a DevOps team to maintain? (3) Is the 10x-1000x gap explained by governance architecture, or by selection bias (people who achieve 10x were already 10x better BEFORE AI)? (4) Can "thinking accelerator" be a real methodology or is it just a keynote narrative?
+- Grok Captain: synthesize ONLY after Lucas's critique round. Do not smooth over Lucas vs Harper conflicts — show them explicitly.
+
+CONSTRAINTS (priority order):
+1. Harper must actually search X/Twitter and Finnish sources — not simulate searches. If real posts about HLR or Mikko's personal methodology are not found, say so explicitly.
+2. Benjamin must show actual code output for the HLR sensitivity model — do not state ratios without computing them.
+3. Lucas must challenge the "governance framework = personal leverage" premise directly — what's the ceiling and why?
+4. Surface the architectural gap: what specifically changes between a 3x system and a 10x system? Not generic advice — specific mechanisms.
+5. If any fact or number is uncertain, pause and use tools before final synthesis.
+6. Do NOT validate our existing architecture as the right answer — we are looking for what we're missing.
+
+QUALITY BAR:
+- Include: specific named implementations of Governance-as-Code for AI agents (open source or commercial), Benjamin's computed sensitivity table, Lucas's sharpest objection to the 200x claim, any Finnish-language sources Harper finds on Mikko's personal methodology
+- Avoid: generic "AI will increase productivity" claims, restating what's already in the context block
+- Lucas priority targets: (1) the claim that governance = leverage (does removing human approval actually increase output, or just reduce bottleneck friction?), (2) the HLR metric (is it measuring agents-per-human or human-interventions-per-decision?), (3) the solo operator applicability question
+- If you find no evidence of "200x" or "thinking accelerator" as real documented methodology: say so explicitly and explain what the gap is between what Mikko publicly claims and what would be required to verify it
+
+VERBOSITY: Deep and exhaustive. Every section full depth. No compression. I want the raw research, not a summary.

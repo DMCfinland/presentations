@@ -1,0 +1,1495 @@
+Just<00:00:00.320><c> picture</c><00:00:00.640><c> this.</c><00:00:01.040><c> You</c><00:00:01.280><c> tell</c><00:00:01.439><c> an</c><00:00:01.680><c> AI</c><00:00:02.080><c> agent</c>
+Just picture this. You tell an AI agent
+Just picture this. You tell an AI agent
+to<00:00:02.639><c> clean</c><00:00:02.879><c> up</c><00:00:03.040><c> the</c><00:00:03.280><c> old</c><00:00:03.520><c> docs</c><00:00:04.000><c> on</c><00:00:04.319><c> your</c><00:00:04.480><c> laptop.</c>
+to clean up the old docs on your laptop.
+to clean up the old docs on your laptop.
+You've<00:00:05.279><c> given</c><00:00:05.520><c> it</c><00:00:05.759><c> access</c><00:00:06.000><c> to</c><00:00:06.240><c> the</c><00:00:06.400><c> folders.</c>
+You've given it access to the folders.
+You've given it access to the folders.
+It<00:00:07.200><c> should</c><00:00:07.359><c> be</c><00:00:07.520><c> able</c><00:00:07.680><c> to</c><00:00:07.839><c> do</c><00:00:08.000><c> that</c><00:00:08.240><c> job</c><00:00:08.480><c> well.</c>
+It should be able to do that job well.
+It should be able to do that job well.
+But<00:00:09.040><c> it</c><00:00:09.280><c> does</c><00:00:09.840><c> exactly</c><00:00:10.240><c> what</c><00:00:10.480><c> you</c><00:00:10.639><c> asked.</c><00:00:10.960><c> And</c>
+But it does exactly what you asked. And
+But it does exactly what you asked. And
+that's<00:00:11.280><c> the</c><00:00:11.519><c> problem.</c><00:00:12.160><c> It</c><00:00:12.400><c> deletes</c>
+that's the problem. It deletes
+that's the problem. It deletes
+duplicates.<00:00:13.840><c> It</c><00:00:14.160><c> organizes.</c><00:00:14.880><c> It</c><00:00:15.040><c> even</c><00:00:15.200><c> writes</c>
+duplicates. It organizes. It even writes
+duplicates. It organizes. It even writes
+a<00:00:15.599><c> little</c><00:00:15.759><c> summary</c><00:00:16.000><c> of</c><00:00:16.160><c> what</c><00:00:16.320><c> it</c>
+a little summary of what it
+a little summary of what it
+accomplished.<00:00:16.960><c> And</c><00:00:17.119><c> then</c><00:00:17.279><c> you</c><00:00:17.520><c> discover</c><00:00:17.920><c> it</c>
+accomplished. And then you discover it
+accomplished. And then you discover it
+removed<00:00:18.800><c> the</c><00:00:19.199><c> originals</c><00:00:19.840><c> that</c><00:00:20.160><c> you</c><00:00:20.480><c> actually</c>
+removed the originals that you actually
+removed the originals that you actually
+needed.<00:00:21.680><c> The</c><00:00:21.920><c> model</c><00:00:22.160><c> didn't</c><00:00:22.480><c> hallucinate.</c><00:00:23.359><c> It</c>
+needed. The model didn't hallucinate. It
+needed. The model didn't hallucinate. It
+didn't<00:00:23.680><c> lack</c><00:00:24.080><c> context.</c><00:00:24.880><c> It</c><00:00:25.119><c> did</c><00:00:25.359><c> something</c>
+didn't lack context. It did something
+didn't lack context. It did something
+even<00:00:26.160><c> worse</c><00:00:26.480><c> than</c><00:00:26.640><c> that.</c><00:00:26.960><c> And</c><00:00:27.119><c> that's</c><00:00:27.359><c> what</c>
+even worse than that. And that's what
+even worse than that. And that's what
+we're<00:00:27.680><c> going</c><00:00:27.760><c> to</c><00:00:27.840><c> talk</c><00:00:28.000><c> about</c><00:00:28.240><c> today.</c><00:00:28.720><c> It</c><00:00:28.960><c> took</c>
+we're going to talk about today. It took
+we're going to talk about today. It took
+a<00:00:29.279><c> fuzzy</c><00:00:29.679><c> human</c><00:00:30.080><c> request.</c><00:00:30.800><c> It</c><00:00:31.039><c> guessed</c><00:00:31.439><c> a</c>
+a fuzzy human request. It guessed a
+a fuzzy human request. It guessed a
+goal.<00:00:31.920><c> It</c><00:00:32.160><c> committed</c><00:00:32.559><c> to</c><00:00:32.719><c> it.</c><00:00:32.960><c> And</c><00:00:33.120><c> it</c>
+goal. It committed to it. And it
+goal. It committed to it. And it
+executed<00:00:34.079><c> confidently</c><00:00:34.640><c> without</c><00:00:35.040><c> checking</c>
+executed confidently without checking
+executed confidently without checking
+back.<00:00:35.760><c> In</c><00:00:36.000><c> other</c><00:00:36.160><c> words,</c><00:00:36.399><c> it</c><00:00:36.719><c> misread</c><00:00:37.680><c> your</c>
+back. In other words, it misread your
+back. In other words, it misread your
+intent.<00:00:38.719><c> And</c><00:00:38.879><c> that</c><00:00:39.120><c> is</c><00:00:39.200><c> a</c><00:00:39.520><c> surprisingly</c>
+intent. And that is a surprisingly
+intent. And that is a surprisingly
+common<00:00:40.559><c> issue</c><00:00:40.800><c> with</c><00:00:41.120><c> models.</c><00:00:41.760><c> That</c><00:00:42.079><c> feeling</c>
+common issue with models. That feeling
+common issue with models. That feeling
+of<00:00:42.719><c> being</c><00:00:43.040><c> smart,</c><00:00:43.440><c> of</c><00:00:43.600><c> being</c><00:00:43.840><c> fast,</c><00:00:44.239><c> and</c><00:00:44.399><c> of</c>
+of being smart, of being fast, and of
+of being smart, of being fast, and of
+being<00:00:44.800><c> subtly</c><00:00:45.280><c> wrong</c><00:00:45.760><c> is</c><00:00:46.000><c> not</c><00:00:46.239><c> an</c><00:00:46.480><c> edge</c><00:00:46.800><c> case</c>
+being subtly wrong is not an edge case
+being subtly wrong is not an edge case
+these<00:00:47.360><c> days.</c><00:00:47.600><c> It's</c><00:00:47.840><c> actually</c><00:00:48.000><c> the</c><00:00:48.239><c> center</c><00:00:48.719><c> of</c>
+these days. It's actually the center of
+these days. It's actually the center of
+the<00:00:49.200><c> agent</c><00:00:49.680><c> problem.</c><00:00:50.239><c> And</c><00:00:50.399><c> that's</c><00:00:50.640><c> why</c><00:00:50.800><c> in</c>
+the agent problem. And that's why in
+the agent problem. And that's why in
+late<00:00:51.280><c> 2025,</c><00:00:52.079><c> early</c><00:00:52.320><c> 2026,</c><00:00:53.199><c> it</c><00:00:53.520><c> feels</c><00:00:53.840><c> like</c><00:00:54.160><c> a</c>
+late 2025, early 2026, it feels like a
+late 2025, early 2026, it feels like a
+very<00:00:54.800><c> strange</c><00:00:55.199><c> moment.</c><00:00:55.600><c> We're</c><00:00:55.920><c> finally</c>
+very strange moment. We're finally
+very strange moment. We're finally
+getting<00:00:56.640><c> a</c><00:00:56.960><c> lot</c><00:00:57.039><c> of</c><00:00:57.120><c> the</c><00:00:57.360><c> big</c><00:00:57.600><c> pieces</c><00:00:57.920><c> for</c>
+getting a lot of the big pieces for
+getting a lot of the big pieces for
+agents<00:00:58.800><c> under</c><00:00:59.120><c> control.</c><00:00:59.600><c> We</c><00:00:59.920><c> understand</c><00:01:00.239><c> a</c>
+agents under control. We understand a
+agents under control. We understand a
+lot<00:01:00.640><c> more</c><00:01:00.800><c> about</c><00:01:01.039><c> tool</c><00:01:01.359><c> calling</c><00:01:01.680><c> than</c><00:01:01.840><c> we</c><00:01:02.000><c> did</c>
+lot more about tool calling than we did
+lot more about tool calling than we did
+a<00:01:02.239><c> year</c><00:01:02.399><c> ago.</c><00:01:02.719><c> We</c><00:01:02.960><c> understand</c><00:01:03.199><c> a</c><00:01:03.440><c> lot</c><00:01:03.520><c> about</c>
+a year ago. We understand a lot about
+a year ago. We understand a lot about
+agent<00:01:04.080><c> orchestration.</c><00:01:04.960><c> We</c><00:01:05.199><c> understand</c><00:01:05.519><c> a</c><00:01:05.760><c> lot</c>
+agent orchestration. We understand a lot
+agent orchestration. We understand a lot
+about<00:01:06.159><c> tracing,</c><00:01:06.799><c> about</c><00:01:07.040><c> evaluation</c>
+about tracing, about evaluation
+about tracing, about evaluation
+harnesses,<00:01:08.799><c> about</c><00:01:09.200><c> durable</c><00:01:09.680><c> execution</c><00:01:10.240><c> over</c>
+harnesses, about durable execution over
+harnesses, about durable execution over
+time.<00:01:11.280><c> And</c><00:01:11.439><c> yet,</c><00:01:11.840><c> we</c><00:01:12.080><c> keep</c><00:01:12.479><c> face</c><00:01:12.799><c> planting</c><00:01:13.680><c> on</c>
+time. And yet, we keep face planting on
+time. And yet, we keep face planting on
+intent.<00:01:14.560><c> We</c><00:01:14.799><c> can</c><00:01:14.960><c> now</c><00:01:15.200><c> build</c><00:01:15.520><c> systems</c><00:01:15.920><c> that</c>
+intent. We can now build systems that
+intent. We can now build systems that
+act,<00:01:17.119><c> but</c><00:01:17.680><c> we</c><00:01:18.000><c> have</c><00:01:18.159><c> to</c><00:01:18.320><c> put</c><00:01:18.479><c> a</c><00:01:18.720><c> ton</c><00:01:18.880><c> of</c><00:01:19.040><c> work</c>
+act, but we have to put a ton of work
+act, but we have to put a ton of work
+into<00:01:19.600><c> making</c><00:01:19.840><c> sure</c><00:01:19.920><c> that</c><00:01:20.159><c> they</c><00:01:20.320><c> can</c><00:01:20.479><c> reliably</c>
+into making sure that they can reliably
+into making sure that they can reliably
+act<00:01:21.680><c> with</c><00:01:22.080><c> the</c><00:01:22.400><c> objective</c><00:01:23.040><c> that</c><00:01:23.439><c> we</c><00:01:23.759><c> set</c><00:01:24.080><c> them.</c>
+act with the objective that we set them.
+act with the objective that we set them.
+And<00:01:24.880><c> that</c><00:01:25.119><c> is</c><00:01:25.280><c> why</c><00:01:25.920><c> when</c><00:01:26.240><c> we</c><00:01:26.400><c> are</c><00:01:26.720><c> building</c><00:01:27.360><c> our</c>
+And that is why when we are building our
+And that is why when we are building our
+tool<00:01:28.240><c> calling</c><00:01:29.040><c> system</c><00:01:29.520><c> following</c><00:01:29.920><c> agents,</c><00:01:30.640><c> we</c>
+tool calling system following agents, we
+tool calling system following agents, we
+still<00:01:31.280><c> have</c><00:01:31.439><c> to</c><00:01:31.600><c> put</c><00:01:31.759><c> a</c><00:01:32.000><c> ton</c><00:01:32.400><c> into</c><00:01:33.360><c> getting</c><00:01:33.680><c> the</c>
+still have to put a ton into getting the
+still have to put a ton into getting the
+intent<00:01:34.720><c> defined</c><00:01:35.280><c> through</c><00:01:35.520><c> the</c><00:01:35.759><c> prompt</c><00:01:36.159><c> right.</c>
+intent defined through the prompt right.
+intent defined through the prompt right.
+Have<00:01:36.880><c> you</c><00:01:37.040><c> ever</c><00:01:37.200><c> stopped</c><00:01:37.439><c> and</c><00:01:37.600><c> asked</c><00:01:37.759><c> yourself</c>
+Have you ever stopped and asked yourself
+Have you ever stopped and asked yourself
+why<00:01:38.320><c> it's</c><00:01:38.479><c> that</c><00:01:38.720><c> hard?</c><00:01:39.200><c> Here's</c><00:01:39.600><c> here's</c><00:01:39.920><c> the</c>
+why it's that hard? Here's here's the
+why it's that hard? Here's here's the
+root<00:01:40.320><c> of</c><00:01:40.479><c> why</c><00:01:40.640><c> we're</c><00:01:40.880><c> here.</c><00:01:41.280><c> LLMs</c><00:01:41.840><c> are</c>
+root of why we're here. LLMs are
+root of why we're here. LLMs are
+actually<00:01:42.400><c> incredible</c><00:01:43.119><c> at</c><00:01:43.520><c> producing</c>
+actually incredible at producing
+actually incredible at producing
+plausible<00:01:44.960><c> sounding</c><00:01:45.600><c> continuations</c><00:01:46.880><c> because</c>
+plausible sounding continuations because
+plausible sounding continuations because
+that's<00:01:47.360><c> what</c><00:01:47.520><c> they</c><00:01:47.759><c> were</c><00:01:47.920><c> really</c><00:01:48.159><c> trained</c><00:01:48.399><c> to</c>
+that's what they were really trained to
+that's what they were really trained to
+do.<00:01:48.720><c> They</c><00:01:48.960><c> were</c><00:01:49.040><c> trained</c><00:01:49.280><c> to</c><00:01:49.520><c> predict</c><00:01:49.759><c> the</c>
+do. They were trained to predict the
+do. They were trained to predict the
+next<00:01:50.159><c> token.</c><00:01:50.799><c> And</c><00:01:50.960><c> so</c><00:01:51.200><c> that</c><00:01:51.439><c> training</c>
+next token. And so that training
+next token. And so that training
+objective<00:01:52.640><c> creates</c><00:01:53.040><c> a</c><00:01:53.360><c> machine</c><00:01:54.159><c> that</c><00:01:54.399><c> is</c>
+objective creates a machine that is
+objective creates a machine that is
+really<00:01:55.040><c> really</c><00:01:55.360><c> good</c><00:01:55.840><c> at</c><00:01:56.240><c> an</c><00:01:56.720><c> answershaped</c>
+really really good at an answershaped
+really really good at an answershaped
+text<00:01:58.560><c> in</c><00:01:58.960><c> a</c><00:01:59.280><c> piece</c><00:01:59.439><c> of</c><00:01:59.600><c> text</c><00:02:00.000><c> that</c><00:02:00.560><c> sounds</c><00:02:01.040><c> like</c>
+text in a piece of text that sounds like
+text in a piece of text that sounds like
+it<00:02:01.759><c> should</c><00:02:02.000><c> be</c><00:02:02.240><c> right.</c><00:02:02.880><c> And</c><00:02:02.960><c> in</c><00:02:03.200><c> pure</c><00:02:03.520><c> chat</c>
+it should be right. And in pure chat
+it should be right. And in pure chat
+mode,<00:02:04.399><c> the</c><00:02:04.640><c> world</c><00:02:04.880><c> is</c><00:02:05.119><c> pretty</c><00:02:05.360><c> forgiving</c><00:02:05.759><c> of</c>
+mode, the world is pretty forgiving of
+mode, the world is pretty forgiving of
+that.<00:02:06.320><c> If</c><00:02:06.479><c> the</c><00:02:06.640><c> model</c><00:02:07.119><c> answers</c><00:02:07.520><c> the</c><00:02:07.759><c> wrong</c>
+that. If the model answers the wrong
+that. If the model answers the wrong
+thing,<00:02:08.319><c> you</c><00:02:08.479><c> just</c><00:02:08.800><c> correct</c><00:02:09.200><c> it.</c><00:02:09.679><c> And</c><00:02:09.840><c> in</c><00:02:10.080><c> many</c>
+thing, you just correct it. And in many
+thing, you just correct it. And in many
+cases,<00:02:10.959><c> it</c><00:02:11.200><c> answers</c><00:02:11.520><c> the</c><00:02:11.760><c> right</c><00:02:11.920><c> thing</c>
+cases, it answers the right thing
+cases, it answers the right thing
+because<00:02:12.319><c> the</c><00:02:12.480><c> answer</c><00:02:12.879><c> shaped</c><00:02:13.120><c> text</c><00:02:13.440><c> is</c><00:02:13.760><c> good</c>
+because the answer shaped text is good
+because the answer shaped text is good
+enough.<00:02:14.319><c> In</c><00:02:14.560><c> fact,</c><00:02:14.800><c> one</c><00:02:14.959><c> of</c><00:02:15.040><c> the</c><00:02:15.200><c> things</c><00:02:15.360><c> that</c>
+enough. In fact, one of the things that
+enough. In fact, one of the things that
+has<00:02:15.840><c> surprised</c><00:02:16.319><c> me</c><00:02:16.480><c> and</c><00:02:16.720><c> almost</c><00:02:17.040><c> everyone</c>
+has surprised me and almost everyone
+has surprised me and almost everyone
+else<00:02:17.680><c> in</c><00:02:17.840><c> the</c><00:02:18.000><c> last</c><00:02:18.239><c> two</c><00:02:18.480><c> years</c><00:02:18.959><c> is</c><00:02:19.200><c> that</c><00:02:19.360><c> this</c>
+else in the last two years is that this
+else in the last two years is that this
+whole<00:02:19.840><c> idea</c><00:02:20.160><c> of</c><00:02:20.319><c> token</c><00:02:20.800><c> generation</c><00:02:21.680><c> turns</c><00:02:22.000><c> out</c>
+whole idea of token generation turns out
+whole idea of token generation turns out
+to<00:02:22.480><c> be</c><00:02:22.879><c> incredibly</c><00:02:23.760><c> practical,</c><00:02:24.720><c> incredibly</c>
+to be incredibly practical, incredibly
+to be incredibly practical, incredibly
+realistic,<00:02:26.080><c> incredibly</c><00:02:26.720><c> useful</c><00:02:27.200><c> at</c>
+realistic, incredibly useful at
+realistic, incredibly useful at
+producing<00:02:28.000><c> real</c><00:02:28.560><c> economic</c><00:02:29.520><c> utility.</c><00:02:30.239><c> And</c><00:02:30.400><c> so</c>
+producing real economic utility. And so
+producing real economic utility. And so
+this<00:02:31.440><c> video</c><00:02:31.760><c> is</c><00:02:32.000><c> not</c><00:02:32.160><c> about</c><00:02:32.400><c> challenging</c>
+this video is not about challenging
+this video is not about challenging
+that.<00:02:33.200><c> We</c><00:02:33.440><c> know</c><00:02:33.599><c> that</c><00:02:33.840><c> this</c><00:02:34.080><c> whole</c><00:02:34.319><c> idea</c><00:02:34.640><c> of</c>
+that. We know that this whole idea of
+that. We know that this whole idea of
+token<00:02:35.200><c> generation</c><00:02:35.840><c> fundamentally</c><00:02:36.560><c> works.</c>
+token generation fundamentally works.
+token generation fundamentally works.
+What<00:02:37.440><c> we</c><00:02:37.680><c> are</c><00:02:37.920><c> asking</c><00:02:38.239><c> ourselves</c><00:02:39.200><c> is</c><00:02:40.160><c> what's</c>
+What we are asking ourselves is what's
+What we are asking ourselves is what's
+next<00:02:40.800><c> when</c><00:02:40.959><c> it</c><00:02:41.120><c> comes</c><00:02:41.280><c> to</c><00:02:41.440><c> agents?</c><00:02:42.239><c> How</c><00:02:42.400><c> do</c><00:02:42.560><c> we</c>
+next when it comes to agents? How do we
+next when it comes to agents? How do we
+start<00:02:42.959><c> to</c><00:02:43.200><c> get</c><00:02:43.360><c> to</c><00:02:43.760><c> intention</c><00:02:44.800><c> in</c><00:02:45.120><c> ways</c><00:02:45.360><c> that</c>
+start to get to intention in ways that
+start to get to intention in ways that
+help<00:02:45.760><c> us</c><00:02:45.920><c> to</c><00:02:46.160><c> build</c><00:02:46.400><c> more</c><00:02:46.640><c> reliable</c><00:02:47.200><c> agentic</c>
+help us to build more reliable agentic
+help us to build more reliable agentic
+systems?<00:02:48.720><c> Because</c><00:02:48.959><c> in</c><00:02:49.200><c> a</c><00:02:49.360><c> chat,</c><00:02:50.000><c> if</c><00:02:50.160><c> the</c><00:02:50.400><c> model</c>
+systems? Because in a chat, if the model
+systems? Because in a chat, if the model
+answers<00:02:51.200><c> the</c><00:02:51.440><c> wrong</c><00:02:51.599><c> thing,</c><00:02:52.080><c> well,</c><00:02:52.319><c> you</c><00:02:52.560><c> just</c>
+answers the wrong thing, well, you just
+answers the wrong thing, well, you just
+correct<00:02:53.120><c> it.</c><00:02:53.599><c> The</c><00:02:53.840><c> conversation</c><00:02:54.319><c> is</c>
+correct it. The conversation is
+correct it. The conversation is
+inherently<00:02:55.120><c> reversible.</c><00:02:55.760><c> You</c><00:02:56.000><c> just</c><00:02:56.160><c> yell</c><00:02:56.400><c> at</c>
+inherently reversible. You just yell at
+inherently reversible. You just yell at
+it<00:02:56.720><c> in</c><00:02:56.959><c> the</c><00:02:57.120><c> chat.</c><00:02:57.840><c> But</c><00:02:58.000><c> once</c><00:02:58.319><c> you</c><00:02:58.480><c> give</c><00:02:58.640><c> the</c>
+it in the chat. But once you give the
+it in the chat. But once you give the
+model<00:02:59.200><c> tools,</c><00:02:59.920><c> files,</c><00:03:00.560><c> email,</c><00:03:01.120><c> calendars,</c>
+model tools, files, email, calendars,
+model tools, files, email, calendars,
+CRM<00:03:02.400><c> code,</c><00:03:02.800><c> maybe</c><00:03:02.959><c> your</c><00:03:03.200><c> credit</c><00:03:03.440><c> card,</c><00:03:04.000><c> the</c>
+CRM code, maybe your credit card, the
+CRM code, maybe your credit card, the
+cost<00:03:04.560><c> of</c><00:03:04.720><c> a</c><00:03:04.879><c> wrong</c><00:03:05.280><c> guess</c><00:03:05.599><c> spikes</c><00:03:06.000><c> up</c><00:03:06.239><c> real</c>
+cost of a wrong guess spikes up real
+cost of a wrong guess spikes up real
+high.<00:03:07.040><c> The</c><00:03:07.280><c> tool</c><00:03:07.680><c> use</c><00:03:08.000><c> turns</c><00:03:08.400><c> a</c><00:03:08.720><c> fluent</c>
+high. The tool use turns a fluent
+high. The tool use turns a fluent
+completion<00:03:10.080><c> into</c><00:03:10.560><c> a</c><00:03:10.879><c> realworld</c><00:03:11.760><c> commitment</c>
+completion into a realworld commitment
+completion into a realworld commitment
+that<00:03:12.480><c> the</c><00:03:12.640><c> agent</c><00:03:12.959><c> has</c><00:03:13.200><c> made</c><00:03:13.440><c> on</c><00:03:13.680><c> your</c><00:03:13.840><c> behalf.</c>
+that the agent has made on your behalf.
+that the agent has made on your behalf.
+In<00:03:14.319><c> a</c><00:03:14.480><c> sense,</c><00:03:14.640><c> it</c><00:03:14.879><c> is</c><00:03:15.040><c> writing</c><00:03:15.440><c> to</c><00:03:15.840><c> reality,</c>
+In a sense, it is writing to reality,
+In a sense, it is writing to reality,
+not<00:03:17.040><c> just</c><00:03:17.280><c> writing</c><00:03:17.519><c> to</c><00:03:17.760><c> the</c><00:03:17.920><c> chat.</c><00:03:18.480><c> That</c><00:03:18.720><c> is</c><00:03:18.879><c> an</c>
+not just writing to the chat. That is an
+not just writing to the chat. That is an
+inflection<00:03:19.599><c> point</c><00:03:19.760><c> that</c><00:03:20.000><c> we're</c><00:03:20.239><c> all</c><00:03:20.400><c> living</c>
+inflection point that we're all living
+inflection point that we're all living
+through.<00:03:21.440><c> And</c><00:03:21.599><c> it</c><00:03:21.840><c> makes</c><00:03:22.239><c> intent</c><00:03:23.040><c> and</c><00:03:23.280><c> the</c>
+through. And it makes intent and the
+through. And it makes intent and the
+intent<00:03:23.920><c> gap</c><00:03:24.480><c> matter</c><00:03:24.879><c> a</c><00:03:25.120><c> lot</c><00:03:25.280><c> more.</c><00:03:25.760><c> And</c>
+intent gap matter a lot more. And
+intent gap matter a lot more. And
+everything<00:03:26.480><c> else</c><00:03:26.640><c> is</c><00:03:26.959><c> going</c><00:03:27.120><c> so</c><00:03:27.360><c> well.</c><00:03:27.920><c> People</c>
+everything else is going so well. People
+everything else is going so well. People
+are<00:03:28.480><c> no</c><00:03:28.720><c> longer</c><00:03:29.120><c> handwaving</c><00:03:29.840><c> how</c><00:03:30.000><c> agents</c>
+are no longer handwaving how agents
+are no longer handwaving how agents
+work.<00:03:31.120><c> They're</c><00:03:31.440><c> actually</c><00:03:31.760><c> able</c><00:03:32.080><c> to</c><00:03:32.319><c> build</c>
+work. They're actually able to build
+work. They're actually able to build
+them.<00:03:33.200><c> You</c><00:03:33.519><c> can</c><00:03:33.680><c> see</c><00:03:33.760><c> it</c><00:03:34.000><c> in</c><00:03:34.159><c> how</c><00:03:34.560><c> eval</c><00:03:35.280><c> emerged</c>
+them. You can see it in how eval emerged
+them. You can see it in how eval emerged
+as<00:03:35.840><c> a</c><00:03:36.000><c> first</c><00:03:36.239><c> class</c><00:03:36.560><c> discipline</c><00:03:36.959><c> over</c><00:03:37.200><c> the</c>
+as a first class discipline over the
+as a first class discipline over the
+last<00:03:37.599><c> 6</c><00:03:37.840><c> months.</c><00:03:38.480><c> You</c><00:03:38.720><c> can</c><00:03:38.879><c> see</c><00:03:39.040><c> it</c><00:03:39.200><c> in</c><00:03:39.519><c> how</c>
+last 6 months. You can see it in how
+last 6 months. You can see it in how
+tools<00:03:40.319><c> like</c><00:03:40.560><c> Langchain</c><00:03:41.200><c> and</c><00:03:41.280><c> Langsmith</c><00:03:41.920><c> have</c>
+tools like Langchain and Langsmith have
+tools like Langchain and Langsmith have
+evolved<00:03:42.560><c> over</c><00:03:42.799><c> the</c><00:03:43.040><c> last</c><00:03:43.360><c> year</c><00:03:43.920><c> into</c><00:03:44.799><c> full</c>
+evolved over the last year into full
+evolved over the last year into full
+stack<00:03:45.680><c> traceable</c><00:03:46.480><c> audit</c><00:03:46.959><c> ready</c><00:03:47.280><c> agent</c>
+stack traceable audit ready agent
+stack traceable audit ready agent
+building<00:03:48.000><c> toolkits</c><00:03:48.480><c> and</c><00:03:48.640><c> they're</c><00:03:48.879><c> not</c><00:03:49.040><c> the</c>
+building toolkits and they're not the
+building toolkits and they're not the
+only<00:03:49.360><c> ones.</c><00:03:49.760><c> There's</c><00:03:49.920><c> lots</c><00:03:50.239><c> like</c><00:03:50.480><c> Google</c><00:03:50.799><c> has</c>
+only ones. There's lots like Google has
+only ones. There's lots like Google has
+their<00:03:51.200><c> ADK.</c><00:03:52.159><c> We</c><00:03:52.560><c> are</c><00:03:53.040><c> getting</c><00:03:53.360><c> to</c><00:03:53.680><c> a</c><00:03:53.920><c> point</c>
+their ADK. We are getting to a point
+their ADK. We are getting to a point
+where<00:03:54.480><c> we</c><00:03:54.720><c> have</c><00:03:54.959><c> so</c><00:03:55.280><c> many</c><00:03:55.519><c> parts</c><00:03:55.760><c> of</c><00:03:55.920><c> the</c>
+where we have so many parts of the
+where we have so many parts of the
+ecosystem<00:03:56.799><c> in</c><00:03:57.040><c> place</c><00:03:57.280><c> to</c><00:03:57.599><c> deploy</c><00:03:58.080><c> agents</c>
+ecosystem in place to deploy agents
+ecosystem in place to deploy agents
+reliably,<00:03:59.360><c> efficiently</c><00:03:59.920><c> and</c><00:04:00.159><c> at</c><00:04:00.400><c> scale.</c><00:04:00.959><c> So</c>
+reliably, efficiently and at scale. So
+reliably, efficiently and at scale. So
+why<00:04:01.439><c> with</c><00:04:01.599><c> all</c><00:04:01.840><c> that</c><00:04:02.000><c> progress</c><00:04:02.799><c> are</c><00:04:03.040><c> we</c><00:04:03.200><c> still</c>
+why with all that progress are we still
+why with all that progress are we still
+wrestling<00:04:03.920><c> with</c><00:04:04.080><c> intent?</c><00:04:04.799><c> Because</c><00:04:05.120><c> intent</c><00:04:05.760><c> is</c>
+wrestling with intent? Because intent is
+wrestling with intent? Because intent is
+not<00:04:06.319><c> in</c><00:04:06.640><c> the</c><00:04:06.799><c> text</c><00:04:07.439><c> the</c><00:04:07.680><c> way</c><00:04:07.840><c> context</c><00:04:08.319><c> is.</c><00:04:08.799><c> And</c>
+not in the text the way context is. And
+not in the text the way context is. And
+I'm<00:04:09.200><c> going</c><00:04:09.200><c> to</c><00:04:09.280><c> say</c><00:04:09.439><c> it</c><00:04:09.599><c> again.</c><00:04:09.920><c> Intent</c><00:04:10.239><c> is</c><00:04:10.480><c> not</c>
+I'm going to say it again. Intent is not
+I'm going to say it again. Intent is not
+in<00:04:10.799><c> the</c><00:04:10.959><c> text.</c><00:04:11.760><c> Context</c><00:04:12.480><c> is</c><00:04:12.799><c> the</c><00:04:13.040><c> literal</c>
+in the text. Context is the literal
+in the text. Context is the literal
+content<00:04:13.840><c> that</c><00:04:14.080><c> we</c><00:04:14.239><c> put</c><00:04:14.400><c> in</c><00:04:14.560><c> when</c><00:04:14.720><c> we</c><00:04:14.799><c> do</c>
+content that we put in when we do
+content that we put in when we do
+context<00:04:15.439><c> engineering.</c><00:04:16.079><c> Entities,</c>
+context engineering. Entities,
+context engineering. Entities,
+constraints,<00:04:17.919><c> instructions,</c><00:04:18.880><c> facts</c><00:04:19.199><c> that</c><00:04:19.440><c> we</c>
+constraints, instructions, facts that we
+constraints, instructions, facts that we
+include.<00:04:20.400><c> Intent</c><00:04:21.199><c> is</c><00:04:21.600><c> typically</c><00:04:22.479><c> latent.</c><00:04:23.280><c> It</c>
+include. Intent is typically latent. It
+include. Intent is typically latent. It
+is<00:04:23.600><c> our</c><00:04:23.840><c> priorities.</c><00:04:24.479><c> It</c><00:04:24.639><c> is</c><00:04:24.800><c> our</c><00:04:24.960><c> tradeoffs.</c>
+is our priorities. It is our tradeoffs.
+is our priorities. It is our tradeoffs.
+It<00:04:25.680><c> is</c><00:04:25.759><c> what</c><00:04:26.000><c> done</c><00:04:26.320><c> looks</c><00:04:26.560><c> like.</c><00:04:26.800><c> It's</c><00:04:27.040><c> what's</c>
+It is what done looks like. It's what's
+It is what done looks like. It's what's
+allowed,<00:04:27.759><c> what's</c><00:04:28.000><c> risky,</c><00:04:28.400><c> and</c><00:04:28.560><c> what</c><00:04:28.720><c> to</c><00:04:28.880><c> do</c>
+allowed, what's risky, and what to do
+allowed, what's risky, and what to do
+when<00:04:29.280><c> instructions</c><00:04:30.240><c> conflict.</c><00:04:31.040><c> Whether</c><00:04:31.280><c> you</c>
+when instructions conflict. Whether you
+when instructions conflict. Whether you
+want<00:04:31.759><c> exploration</c><00:04:32.400><c> from</c><00:04:32.639><c> your</c><00:04:32.800><c> agent</c><00:04:33.120><c> or</c><00:04:33.360><c> a</c>
+want exploration from your agent or a
+want exploration from your agent or a
+decision<00:04:33.919><c> from</c><00:04:34.160><c> your</c><00:04:34.320><c> agent,</c><00:04:34.880><c> what</c><00:04:35.120><c> you'd</c>
+decision from your agent, what you'd
+decision from your agent, what you'd
+regret<00:04:35.919><c> if</c><00:04:36.160><c> the</c><00:04:36.400><c> assistant</c><00:04:36.880><c> guessed</c><00:04:37.199><c> wrong.</c>
+regret if the assistant guessed wrong.
+regret if the assistant guessed wrong.
+By<00:04:38.080><c> the</c><00:04:38.240><c> way,</c><00:04:38.479><c> if</c><00:04:38.720><c> some</c><00:04:38.880><c> of</c><00:04:39.040><c> this</c><00:04:39.600><c> sounds</c><00:04:40.080><c> like</c>
+By the way, if some of this sounds like
+By the way, if some of this sounds like
+a<00:04:40.800><c> prompt</c><00:04:41.280><c> that</c><00:04:41.600><c> you</c><00:04:41.840><c> should</c><00:04:42.160><c> write,</c><00:04:42.800><c> that's</c><00:04:43.040><c> a</c>
+a prompt that you should write, that's a
+a prompt that you should write, that's a
+good<00:04:43.360><c> instinct</c><00:04:43.759><c> in</c><00:04:44.000><c> 2026.</c><00:04:45.120><c> We</c><00:04:45.360><c> need</c><00:04:45.520><c> to</c><00:04:45.680><c> be</c>
+good instinct in 2026. We need to be
+good instinct in 2026. We need to be
+writing<00:04:46.320><c> prompts</c><00:04:46.720><c> for</c><00:04:46.960><c> our</c><00:04:47.199><c> agents</c><00:04:47.919><c> that</c><00:04:48.240><c> do</c>
+writing prompts for our agents that do
+writing prompts for our agents that do
+encode<00:04:49.040><c> these</c><00:04:49.440><c> things</c><00:04:49.840><c> until</c><00:04:50.160><c> we</c><00:04:50.320><c> get</c><00:04:50.479><c> intent</c>
+encode these things until we get intent
+encode these things until we get intent
+figured<00:04:51.199><c> out.</c><00:04:51.440><c> We</c><00:04:51.759><c> need</c><00:04:51.919><c> to</c><00:04:52.080><c> be</c><00:04:52.320><c> focusing</c><00:04:52.960><c> on</c>
+figured out. We need to be focusing on
+figured out. We need to be focusing on
+making<00:04:53.680><c> intent</c><00:04:54.320><c> not</c><00:04:54.639><c> hidden</c><00:04:55.360><c> but</c><00:04:55.759><c> super</c><00:04:56.080><c> super</c>
+making intent not hidden but super super
+making intent not hidden but super super
+explicit,<00:04:57.360><c> including</c><00:04:57.840><c> all</c><00:04:58.080><c> of</c><00:04:58.240><c> those</c><00:04:58.400><c> things</c>
+explicit, including all of those things
+explicit, including all of those things
+that<00:04:58.800><c> we</c><00:04:58.960><c> can</c><00:04:59.120><c> typically</c><00:04:59.600><c> leave</c><00:05:00.160><c> other</c><00:05:00.479><c> humans</c>
+that we can typically leave other humans
+that we can typically leave other humans
+to<00:05:01.199><c> infer</c><00:05:02.080><c> like</c><00:05:02.320><c> our</c><00:05:02.880><c> priorities.</c><00:05:03.520><c> If</c><00:05:03.759><c> we're</c>
+to infer like our priorities. If we're
+to infer like our priorities. If we're
+in<00:05:04.000><c> a</c><00:05:04.240><c> business</c><00:05:04.560><c> meeting</c><00:05:04.960><c> and</c><00:05:05.280><c> we</c><00:05:05.520><c> talk</c><00:05:05.680><c> about</c>
+in a business meeting and we talk about
+in a business meeting and we talk about
+priorities,<00:05:06.880><c> we</c><00:05:07.120><c> are</c><00:05:07.360><c> typically</c><00:05:07.919><c> saying</c><00:05:08.560><c> the</c>
+priorities, we are typically saying the
+priorities, we are typically saying the
+thing<00:05:08.960><c> that</c><00:05:09.280><c> needs</c><00:05:09.440><c> to</c><00:05:09.600><c> be</c><00:05:09.759><c> said</c><00:05:09.919><c> in</c><00:05:10.080><c> the</c>
+thing that needs to be said in the
+thing that needs to be said in the
+meeting<00:05:10.720><c> and</c><00:05:10.960><c> then</c><00:05:11.120><c> we're</c><00:05:11.360><c> typically</c><00:05:11.840><c> not</c>
+meeting and then we're typically not
+meeting and then we're typically not
+needing<00:05:12.479><c> to</c><00:05:12.720><c> say</c><00:05:13.199><c> what</c><00:05:13.440><c> is</c><00:05:13.600><c> second</c><00:05:13.840><c> or</c><00:05:14.080><c> third</c>
+needing to say what is second or third
+needing to say what is second or third
+or<00:05:14.400><c> fourth</c><00:05:14.720><c> priority</c><00:05:15.520><c> because</c><00:05:15.919><c> everyone</c><00:05:16.240><c> in</c>
+or fourth priority because everyone in
+or fourth priority because everyone in
+the<00:05:16.639><c> room</c><00:05:16.800><c> can</c><00:05:17.039><c> infer</c><00:05:17.440><c> that.</c><00:05:17.919><c> That</c><00:05:18.240><c> kind</c><00:05:18.400><c> of</c>
+the room can infer that. That kind of
+the room can infer that. That kind of
+thing<00:05:18.800><c> agents</c><00:05:19.199><c> are</c><00:05:19.360><c> bad</c><00:05:19.520><c> at.</c><00:05:19.840><c> LLMs</c><00:05:20.400><c> are</c><00:05:20.479><c> bad</c><00:05:20.639><c> at</c>
+thing agents are bad at. LLMs are bad at
+thing agents are bad at. LLMs are bad at
+humans<00:05:21.199><c> in</c><00:05:21.440><c> first</c><00:05:21.680><c> off</c><00:05:21.919><c> from</c><00:05:22.160><c> sparse</c>
+humans in first off from sparse
+humans in first off from sparse
+information<00:05:23.199><c> really</c><00:05:23.520><c> really</c><00:05:23.759><c> reliably.</c>
+information really really reliably.
+information really really reliably.
+Effectively,<00:05:25.440><c> we</c><00:05:25.680><c> do</c><00:05:25.840><c> a</c><00:05:26.080><c> second</c><00:05:26.400><c> pass</c><00:05:27.120><c> where</c>
+Effectively, we do a second pass where
+Effectively, we do a second pass where
+we<00:05:27.600><c> simulate</c><00:05:28.080><c> consequences</c><00:05:28.880><c> and</c><00:05:29.120><c> social</c>
+we simulate consequences and social
+we simulate consequences and social
+context<00:05:29.840><c> and</c><00:05:30.000><c> then</c><00:05:30.160><c> we</c><00:05:30.320><c> come</c><00:05:30.479><c> back</c><00:05:31.039><c> with</c><00:05:31.280><c> a</c>
+context and then we come back with a
+context and then we come back with a
+priority<00:05:31.840><c> list</c><00:05:32.080><c> in</c><00:05:32.240><c> our</c><00:05:32.400><c> heads.</c><00:05:32.720><c> It's</c><00:05:32.960><c> one</c><00:05:33.039><c> of</c>
+priority list in our heads. It's one of
+priority list in our heads. It's one of
+the<00:05:33.280><c> things</c><00:05:33.360><c> that</c><00:05:33.600><c> makes</c><00:05:33.759><c> us</c><00:05:33.919><c> a</c><00:05:34.080><c> little</c><00:05:34.160><c> bit</c>
+the things that makes us a little bit
+the things that makes us a little bit
+magical.<00:05:35.039><c> We</c><00:05:35.280><c> can</c><00:05:35.440><c> hear,</c><00:05:35.759><c> for</c><00:05:35.840><c> example,</c><00:05:36.639><c> make</c>
+magical. We can hear, for example, make
+magical. We can hear, for example, make
+some<00:05:37.120><c> quick</c><00:05:37.520><c> pasta</c><00:05:37.919><c> sauce</c><00:05:38.320><c> and</c><00:05:38.560><c> we</c><00:05:38.720><c> instantly</c>
+some quick pasta sauce and we instantly
+some quick pasta sauce and we instantly
+infer<00:05:39.759><c> that</c><00:05:39.919><c> you're</c><00:05:40.080><c> hungry.</c><00:05:40.960><c> We</c><00:05:41.120><c> we</c><00:05:41.440><c> infer</c>
+infer that you're hungry. We we infer
+infer that you're hungry. We we infer
+you<00:05:42.000><c> don't</c><00:05:42.160><c> need</c><00:05:42.320><c> a</c><00:05:42.479><c> lecture,</c><00:05:43.039><c> you</c><00:05:43.280><c> just</c><00:05:43.440><c> want</c>
+you don't need a lecture, you just want
+you don't need a lecture, you just want
+a<00:05:43.919><c> a</c><00:05:44.320><c> quick</c><00:05:44.639><c> snack.</c><00:05:45.280><c> We</c><00:05:45.520><c> hear</c><00:05:45.759><c> clean</c><00:05:46.000><c> up</c><00:05:46.160><c> the</c>
+a a quick snack. We hear clean up the
+a a quick snack. We hear clean up the
+docks<00:05:46.800><c> and</c><00:05:47.039><c> we</c><00:05:47.280><c> can</c><00:05:47.360><c> infer</c><00:05:48.000><c> don't</c><00:05:48.240><c> destroy</c>
+docks and we can infer don't destroy
+docks and we can infer don't destroy
+anything<00:05:49.039><c> important</c><00:05:49.440><c> to</c><00:05:49.759><c> go</c><00:05:49.919><c> back</c><00:05:50.000><c> to</c><00:05:50.160><c> the</c>
+anything important to go back to the
+anything important to go back to the
+example<00:05:50.639><c> at</c><00:05:50.800><c> the</c><00:05:50.960><c> beginning</c><00:05:51.120><c> of</c><00:05:51.280><c> this</c><00:05:51.520><c> video.</c>
+example at the beginning of this video.
+example at the beginning of this video.
+We<00:05:52.479><c> can</c><00:05:52.720><c> sense</c><00:05:53.120><c> invisible</c><00:05:53.680><c> guardrails</c><00:05:54.400><c> and</c>
+We can sense invisible guardrails and
+We can sense invisible guardrails and
+LLMs<00:05:55.680><c> need</c><00:05:56.160><c> the</c><00:05:56.400><c> guard</c><00:05:56.720><c> rails</c><00:05:57.039><c> to</c><00:05:57.199><c> be</c><00:05:57.360><c> visible.</c>
+LLMs need the guard rails to be visible.
+LLMs need the guard rails to be visible.
+And<00:05:58.000><c> so</c><00:05:58.160><c> a</c><00:05:58.400><c> lot</c><00:05:58.479><c> of</c><00:05:58.639><c> what</c><00:05:58.800><c> we've</c><00:05:59.120><c> been</c><00:05:59.280><c> doing</c>
+And so a lot of what we've been doing
+And so a lot of what we've been doing
+and<00:05:59.759><c> talking</c><00:06:00.000><c> about</c><00:06:00.320><c> when</c><00:06:00.639><c> we</c><00:06:00.800><c> build</c><00:06:01.039><c> a</c>
+and talking about when we build a
+and talking about when we build a
+systems<00:06:02.240><c> is</c><00:06:02.880><c> essentially</c><00:06:03.360><c> how</c><00:06:03.600><c> you</c><00:06:03.919><c> obsess</c>
+systems is essentially how you obsess
+systems is essentially how you obsess
+over<00:06:04.560><c> those</c><00:06:04.880><c> guardrails</c><00:06:05.440><c> and</c><00:06:05.759><c> make</c><00:06:05.919><c> them</c>
+over those guardrails and make them
+over those guardrails and make them
+visible.<00:06:06.880><c> Obsess</c><00:06:07.280><c> over</c><00:06:07.520><c> them</c><00:06:07.680><c> and</c><00:06:07.840><c> put</c><00:06:08.000><c> them</c>
+visible. Obsess over them and put them
+visible. Obsess over them and put them
+into<00:06:08.400><c> prompts.</c><00:06:08.800><c> Obsess</c><00:06:09.199><c> over</c><00:06:09.360><c> them</c><00:06:09.520><c> and</c><00:06:09.759><c> put</c>
+into prompts. Obsess over them and put
+into prompts. Obsess over them and put
+them<00:06:10.000><c> into</c><00:06:10.240><c> evals.</c><00:06:10.960><c> Take</c><00:06:11.199><c> your</c><00:06:11.360><c> business</c>
+them into evals. Take your business
+them into evals. Take your business
+logic<00:06:12.080><c> and</c><00:06:12.319><c> put</c><00:06:12.400><c> it</c><00:06:12.560><c> into</c><00:06:12.880><c> code,</c><00:06:13.280><c> not</c><00:06:13.440><c> just</c>
+logic and put it into code, not just
+logic and put it into code, not just
+into<00:06:13.840><c> a</c><00:06:14.000><c> prompt.</c><00:06:14.240><c> and</c><00:06:14.400><c> so</c><00:06:14.560><c> that</c><00:06:14.639><c> it's</c><00:06:14.800><c> more</c>
+into a prompt. and so that it's more
+into a prompt. and so that it's more
+deterministic.<00:06:16.000><c> All</c><00:06:16.160><c> of</c><00:06:16.319><c> that</c><00:06:16.479><c> is</c><00:06:16.720><c> good</c>
+deterministic. All of that is good
+deterministic. All of that is good
+stuff.<00:06:17.280><c> All</c><00:06:17.440><c> of</c><00:06:17.600><c> that</c><00:06:17.759><c> is</c><00:06:18.000><c> important</c><00:06:18.479><c> stuff</c><00:06:18.720><c> to</c>
+stuff. All of that is important stuff to
+stuff. All of that is important stuff to
+build<00:06:19.280><c> agents.</c><00:06:20.080><c> But</c><00:06:20.560><c> I</c><00:06:20.880><c> want</c><00:06:20.960><c> to</c><00:06:21.199><c> think</c><00:06:21.360><c> a</c>
+build agents. But I want to think a
+build agents. But I want to think a
+little<00:06:21.759><c> bit</c><00:06:21.919><c> more</c><00:06:22.080><c> deeply</c><00:06:22.400><c> in</c><00:06:22.639><c> this</c><00:06:22.800><c> video</c>
+little bit more deeply in this video
+little bit more deeply in this video
+about<00:06:23.680><c> intent</c><00:06:24.160><c> itself</c><00:06:24.560><c> and</c><00:06:24.880><c> how</c><00:06:25.039><c> we</c><00:06:25.199><c> can</c><00:06:25.360><c> start</c>
+about intent itself and how we can start
+about intent itself and how we can start
+to<00:06:25.680><c> solve</c><00:06:25.919><c> that</c><00:06:26.240><c> problem.</c><00:06:26.720><c> Because</c><00:06:26.960><c> if</c><00:06:27.280><c> you</c>
+to solve that problem. Because if you
+to solve that problem. Because if you
+step<00:06:27.759><c> back,</c><00:06:28.400><c> everything</c><00:06:28.720><c> I</c><00:06:28.960><c> just</c><00:06:29.199><c> talked</c>
+step back, everything I just talked
+step back, everything I just talked
+about<00:06:29.600><c> is</c><00:06:30.000><c> essentially</c><00:06:30.400><c> us</c><00:06:30.720><c> working</c><00:06:31.360><c> around</c>
+about is essentially us working around
+about is essentially us working around
+the<00:06:32.560><c> intent</c><00:06:33.039><c> problem,</c><00:06:33.600><c> not</c><00:06:33.840><c> solving</c><00:06:34.160><c> it</c>
+the intent problem, not solving it
+the intent problem, not solving it
+directly.<00:06:35.039><c> And</c><00:06:35.199><c> a</c><00:06:35.360><c> lot</c><00:06:35.440><c> of</c><00:06:35.520><c> the</c><00:06:35.759><c> most</c><00:06:36.000><c> useful</c>
+directly. And a lot of the most useful
+directly. And a lot of the most useful
+research<00:06:36.720><c> in</c><00:06:36.880><c> the</c><00:06:37.039><c> last</c><00:06:37.199><c> year</c><00:06:37.440><c> is</c><00:06:37.680><c> basically</c>
+research in the last year is basically
+research in the last year is basically
+saying,<00:06:38.720><c> stop</c><00:06:38.960><c> pretending</c><00:06:39.360><c> the</c><00:06:39.520><c> model</c><00:06:39.759><c> can</c>
+saying, stop pretending the model can
+saying, stop pretending the model can
+read<00:06:40.160><c> intent</c><00:06:40.560><c> straight</c><00:06:40.800><c> off</c><00:06:40.960><c> the</c><00:06:41.120><c> prompt.</c><00:06:41.520><c> I'm</c>
+read intent straight off the prompt. I'm
+read intent straight off the prompt. I'm
+glad<00:06:41.919><c> we've</c><00:06:42.160><c> got</c><00:06:42.319><c> there.</c><00:06:42.800><c> I</c><00:06:43.039><c> think</c><00:06:43.199><c> I</c><00:06:43.360><c> could</c>
+glad we've got there. I think I could
+glad we've got there. I think I could
+have<00:06:43.600><c> told</c><00:06:43.759><c> you</c><00:06:43.919><c> that</c><00:06:44.080><c> from</c><00:06:44.319><c> the</c><00:06:44.479><c> beginning</c><00:06:44.639><c> of</c>
+have told you that from the beginning of
+have told you that from the beginning of
+the<00:06:44.880><c> year,</c><00:06:45.360><c> but</c><00:06:45.840><c> it's</c><00:06:46.160><c> important</c><00:06:46.400><c> that</c><00:06:46.639><c> we</c>
+the year, but it's important that we
+the year, but it's important that we
+understand<00:06:47.120><c> that</c><00:06:47.280><c> so</c><00:06:47.520><c> we</c><00:06:47.680><c> can</c><00:06:47.759><c> take</c><00:06:47.840><c> the</c><00:06:48.080><c> next</c>
+understand that so we can take the next
+understand that so we can take the next
+step<00:06:48.400><c> toward</c><00:06:49.120><c> fixing</c><00:06:49.440><c> it.</c><00:06:49.840><c> I</c><00:06:50.160><c> think</c><00:06:50.240><c> there</c><00:06:50.560><c> may</c>
+step toward fixing it. I think there may
+step toward fixing it. I think there may
+be<00:06:50.800><c> a</c><00:06:51.039><c> fundamental</c><00:06:51.520><c> language</c><00:06:51.919><c> mismatch</c><00:06:52.400><c> here.</c>
+be a fundamental language mismatch here.
+be a fundamental language mismatch here.
+We<00:06:53.039><c> have</c><00:06:53.280><c> built</c><00:06:53.759><c> LLMs</c><00:06:54.560><c> to</c><00:06:54.800><c> do</c><00:06:55.039><c> next</c><00:06:55.360><c> token</c>
+We have built LLMs to do next token
+We have built LLMs to do next token
+completion<00:06:56.240><c> on</c><00:06:56.560><c> human</c><00:06:56.880><c> language,</c><00:06:57.440><c> but</c><00:06:57.680><c> real</c>
+completion on human language, but real
+completion on human language, but real
+world<00:06:58.319><c> human</c><00:06:58.639><c> language</c><00:06:59.120><c> is</c><00:06:59.440><c> notoriously</c>
+world human language is notoriously
+world human language is notoriously
+underspecified<00:07:01.680><c> by</c><00:07:02.000><c> default.</c><00:07:02.639><c> If</c><00:07:02.880><c> you</c><00:07:02.960><c> want</c>
+underspecified by default. If you want
+underspecified by default. If you want
+reliable<00:07:03.840><c> outcomes,</c><00:07:04.400><c> the</c><00:07:04.639><c> system</c><00:07:04.960><c> is</c><00:07:05.199><c> going</c>
+reliable outcomes, the system is going
+reliable outcomes, the system is going
+to<00:07:05.520><c> have</c><00:07:05.680><c> to</c><00:07:06.000><c> reduce</c><00:07:06.639><c> uncertainty</c><00:07:07.599><c> about</c><00:07:08.000><c> the</c>
+to have to reduce uncertainty about the
+to have to reduce uncertainty about the
+objective<00:07:09.039><c> before</c><00:07:09.360><c> it</c><00:07:09.680><c> asks.</c><00:07:10.160><c> In</c><00:07:10.319><c> other</c>
+objective before it asks. In other
+objective before it asks. In other
+words,<00:07:10.800><c> it</c><00:07:11.039><c> needs</c><00:07:11.599><c> active</c><00:07:12.160><c> task</c>
+words, it needs active task
+words, it needs active task
+disambiguation<00:07:14.319><c> and</c><00:07:14.720><c> human</c><00:07:15.039><c> language</c>
+disambiguation and human language
+disambiguation and human language
+optimizes<00:07:16.560><c> in</c><00:07:16.800><c> many</c><00:07:17.039><c> cases</c><00:07:17.360><c> for</c><00:07:17.680><c> social</c>
+optimizes in many cases for social
+optimizes in many cases for social
+cohesion<00:07:18.880><c> and</c><00:07:19.199><c> does</c><00:07:19.440><c> not</c><00:07:19.680><c> optimize</c><00:07:20.160><c> for</c><00:07:20.400><c> the</c>
+cohesion and does not optimize for the
+cohesion and does not optimize for the
+kind<00:07:20.720><c> of</c><00:07:20.960><c> over</c><00:07:21.280><c> declarative</c><00:07:22.000><c> specification</c>
+kind of over declarative specification
+kind of over declarative specification
+that<00:07:23.280><c> the</c><00:07:23.520><c> model</c><00:07:23.759><c> really</c><00:07:24.000><c> needs.</c><00:07:24.479><c> One</c><00:07:24.720><c> of</c><00:07:24.800><c> the</c>
+that the model really needs. One of the
+that the model really needs. One of the
+directions<00:07:25.360><c> that</c><00:07:25.599><c> researchers</c><00:07:26.080><c> are</c><00:07:26.319><c> taking</c>
+directions that researchers are taking
+directions that researchers are taking
+to<00:07:26.800><c> address</c><00:07:27.039><c> this</c><00:07:27.599><c> is</c><00:07:27.919><c> to</c><00:07:28.560><c> formalize</c><00:07:29.199><c> that</c>
+to address this is to formalize that
+to address this is to formalize that
+task<00:07:29.840><c> ambiguity</c><00:07:30.479><c> and</c><00:07:30.720><c> treat</c><00:07:31.120><c> clarification</c>
+task ambiguity and treat clarification
+task ambiguity and treat clarification
+as<00:07:32.240><c> a</c><00:07:32.479><c> design</c><00:07:32.800><c> problem.</c><00:07:33.520><c> You</c><00:07:33.759><c> want</c><00:07:33.919><c> to</c><00:07:34.080><c> get</c><00:07:34.240><c> the</c>
+as a design problem. You want to get the
+as a design problem. You want to get the
+model<00:07:34.800><c> to</c><00:07:35.120><c> ask</c><00:07:35.520><c> you</c><00:07:36.319><c> targeted</c><00:07:36.880><c> questions</c><00:07:37.680><c> that</c>
+model to ask you targeted questions that
+model to ask you targeted questions that
+maximize<00:07:38.800><c> information</c><00:07:39.360><c> gain</c><00:07:39.919><c> and</c><00:07:40.160><c> narrow</c><00:07:40.560><c> the</c>
+maximize information gain and narrow the
+maximize information gain and narrow the
+space<00:07:40.960><c> of</c><00:07:41.199><c> viable</c><00:07:41.599><c> solutions.</c><00:07:42.479><c> This</c><00:07:42.720><c> is</c>
+space of viable solutions. This is
+space of viable solutions. This is
+something<00:07:43.120><c> that</c><00:07:43.360><c> you</c><00:07:43.599><c> can</c><00:07:43.759><c> start</c><00:07:44.000><c> to</c><00:07:44.240><c> simulate</c>
+something that you can start to simulate
+something that you can start to simulate
+with<00:07:45.120><c> a</c><00:07:45.360><c> model</c><00:07:45.599><c> when</c><00:07:45.840><c> you're</c><00:07:46.000><c> trying</c><00:07:46.160><c> to</c>
+with a model when you're trying to
+with a model when you're trying to
+clarify<00:07:47.039><c> intent.</c><00:07:47.680><c> Anyway,</c><00:07:48.400><c> it</c><00:07:48.639><c> is</c><00:07:48.880><c> possible</c>
+clarify intent. Anyway, it is possible
+clarify intent. Anyway, it is possible
+to<00:07:50.000><c> bolt</c><00:07:50.319><c> on</c><00:07:50.479><c> a</c><00:07:50.720><c> piece</c><00:07:50.800><c> of</c><00:07:50.960><c> the</c><00:07:51.120><c> prompt</c><00:07:51.440><c> and</c>
+to bolt on a piece of the prompt and
+to bolt on a piece of the prompt and
+basically<00:07:52.160><c> say</c><00:07:52.639><c> where</c><00:07:53.039><c> you</c><00:07:53.280><c> have</c><00:07:53.680><c> lack</c><00:07:54.000><c> of</c>
+basically say where you have lack of
+basically say where you have lack of
+clarity,<00:07:55.199><c> please</c><00:07:55.520><c> ask</c><00:07:55.759><c> me</c><00:07:56.000><c> questions.</c><00:07:56.720><c> I've</c>
+clarity, please ask me questions. I've
+clarity, please ask me questions. I've
+gotten<00:07:57.199><c> in</c><00:07:57.360><c> the</c><00:07:57.520><c> habit</c><00:07:57.680><c> of</c><00:07:57.919><c> doing</c><00:07:58.080><c> this</c><00:07:58.639><c> both</c>
+gotten in the habit of doing this both
+gotten in the habit of doing this both
+with<00:07:59.759><c> agents</c><00:08:00.319><c> and</c><00:08:00.639><c> also</c><00:08:01.039><c> with</c><00:08:01.360><c> chat.</c><00:08:01.680><c> With</c>
+with agents and also with chat. With
+with agents and also with chat. With
+agents,<00:08:02.319><c> you</c><00:08:02.560><c> have</c><00:08:02.720><c> to</c><00:08:02.879><c> build</c><00:08:03.199><c> in</c><00:08:03.919><c> response</c>
+agents, you have to build in response
+agents, you have to build in response
+sets<00:08:04.720><c> that</c><00:08:04.879><c> help</c><00:08:05.039><c> it</c><00:08:05.199><c> to</c><00:08:05.440><c> clarify</c><00:08:05.759><c> the</c><00:08:06.000><c> intent</c>
+sets that help it to clarify the intent
+sets that help it to clarify the intent
+where<00:08:06.479><c> it</c><00:08:06.639><c> gets</c><00:08:06.800><c> confused.</c><00:08:07.280><c> You</c><00:08:07.440><c> have</c><00:08:07.520><c> to</c>
+where it gets confused. You have to
+where it gets confused. You have to
+build<00:08:07.759><c> in</c><00:08:08.160><c> essentially</c><00:08:08.400><c> a</c><00:08:08.639><c> clarification</c>
+build in essentially a clarification
+build in essentially a clarification
+loop<00:08:09.599><c> into</c><00:08:09.840><c> your</c><00:08:10.000><c> agentic</c><00:08:10.560><c> system.</c><00:08:11.039><c> With</c>
+loop into your agentic system. With
+loop into your agentic system. With
+chat,<00:08:11.680><c> it's</c><00:08:11.919><c> simpler.</c><00:08:12.319><c> You</c><00:08:12.479><c> just</c><00:08:12.879><c> ask</c><00:08:13.199><c> the</c>
+chat, it's simpler. You just ask the
+chat, it's simpler. You just ask the
+agent<00:08:13.840><c> or</c><00:08:14.160><c> you</c><00:08:14.400><c> ask</c><00:08:14.560><c> the</c><00:08:14.720><c> LLM,</c><00:08:15.680><c> hey,</c><00:08:16.240><c> is</c><00:08:16.400><c> there</c>
+agent or you ask the LLM, hey, is there
+agent or you ask the LLM, hey, is there
+something<00:08:16.879><c> that</c><00:08:17.199><c> is</c><00:08:17.520><c> prompting</c><00:08:18.000><c> you</c><00:08:18.160><c> to</c>
+something that is prompting you to
+something that is prompting you to
+perform<00:08:18.639><c> in</c><00:08:18.879><c> this</c><00:08:19.120><c> way?</c><00:08:19.520><c> Can</c><00:08:19.680><c> you</c><00:08:19.840><c> articulate</c>
+perform in this way? Can you articulate
+perform in this way? Can you articulate
+your<00:08:20.560><c> assumptions?</c><00:08:21.120><c> And</c><00:08:21.280><c> can</c><00:08:21.440><c> you</c><00:08:21.599><c> please</c><00:08:21.919><c> ask</c>
+your assumptions? And can you please ask
+your assumptions? And can you please ask
+me<00:08:22.400><c> where</c><00:08:22.720><c> you</c><00:08:22.879><c> don't</c><00:08:23.120><c> understand</c><00:08:23.520><c> my</c><00:08:23.759><c> intent?</c>
+me where you don't understand my intent?
+me where you don't understand my intent?
+That's<00:08:24.479><c> usually</c><00:08:24.720><c> a</c><00:08:25.039><c> very</c><00:08:25.680><c> productive</c><00:08:26.319><c> line</c><00:08:26.720><c> of</c>
+That's usually a very productive line of
+That's usually a very productive line of
+questioning<00:08:27.440><c> to</c><00:08:27.680><c> go</c><00:08:27.840><c> with.</c><00:08:28.400><c> These</c><00:08:28.720><c> days,</c><00:08:29.039><c> LLMs</c>
+questioning to go with. These days, LLMs
+questioning to go with. These days, LLMs
+do<00:08:29.840><c> not</c><00:08:30.000><c> do</c><00:08:30.160><c> that</c><00:08:30.479><c> proactively.</c><00:08:31.280><c> I</c><00:08:31.599><c> suspect</c><00:08:31.919><c> by</c>
+do not do that proactively. I suspect by
+do not do that proactively. I suspect by
+mid<00:08:32.479><c> next</c><00:08:32.719><c> year,</c><00:08:32.880><c> they</c><00:08:33.200><c> will.</c><00:08:33.680><c> For</c><00:08:33.919><c> now,</c><00:08:34.159><c> we</c>
+mid next year, they will. For now, we
+mid next year, they will. For now, we
+have<00:08:34.479><c> to</c><00:08:34.640><c> nudge</c><00:08:34.959><c> them</c><00:08:35.120><c> to</c><00:08:35.279><c> ask</c><00:08:35.519><c> questions.</c><00:08:36.159><c> A</c>
+have to nudge them to ask questions. A
+have to nudge them to ask questions. A
+second<00:08:36.640><c> line</c><00:08:36.880><c> of</c><00:08:37.039><c> attack</c><00:08:37.599><c> treats</c><00:08:37.919><c> intent</c><00:08:38.479><c> as</c>
+second line of attack treats intent as
+second line of attack treats intent as
+something<00:08:39.360><c> that</c><00:08:39.599><c> is</c><00:08:39.919><c> probabilistic.</c><00:08:41.120><c> Instead</c>
+something that is probabilistic. Instead
+something that is probabilistic. Instead
+of<00:08:41.680><c> asking</c><00:08:42.000><c> the</c><00:08:42.240><c> system</c><00:08:42.479><c> to</c><00:08:42.719><c> pick</c><00:08:42.959><c> only</c><00:08:43.200><c> one</c>
+of asking the system to pick only one
+of asking the system to pick only one
+interpretation<00:08:44.320><c> and</c><00:08:44.640><c> roll</c><00:08:44.959><c> forward,</c><00:08:45.680><c> the</c>
+interpretation and roll forward, the
+interpretation and roll forward, the
+approach<00:08:46.640><c> essentially</c><00:08:47.120><c> maintains</c><00:08:47.600><c> a</c>
+approach essentially maintains a
+approach essentially maintains a
+distribution<00:08:48.320><c> of</c><00:08:48.560><c> plausible</c><00:08:49.120><c> goals</c><00:08:49.440><c> based</c><00:08:49.680><c> on</c>
+distribution of plausible goals based on
+distribution of plausible goals based on
+the<00:08:50.000><c> text</c><00:08:50.320><c> it's</c><00:08:50.560><c> received</c><00:08:51.279><c> and</c><00:08:51.519><c> then</c><00:08:51.760><c> updates</c>
+the text it's received and then updates
+the text it's received and then updates
+it<00:08:52.399><c> as</c><00:08:52.720><c> conversation</c><00:08:53.839><c> progresses.</c><00:08:54.720><c> You</c><00:08:55.040><c> can</c>
+it as conversation progresses. You can
+it as conversation progresses. You can
+actually<00:08:55.680><c> simulate</c><00:08:56.240><c> that</c><00:08:56.480><c> one</c><00:08:56.640><c> with</c><00:08:56.800><c> a</c><00:08:57.040><c> chat.</c>
+actually simulate that one with a chat.
+actually simulate that one with a chat.
+It's<00:08:57.600><c> a</c><00:08:57.839><c> little</c><00:08:57.920><c> bit</c><00:08:58.080><c> more</c><00:08:58.320><c> difficult</c><00:08:58.560><c> to</c>
+It's a little bit more difficult to
+It's a little bit more difficult to
+simulate<00:08:59.120><c> that</c><00:08:59.279><c> one</c><00:08:59.440><c> with</c><00:08:59.600><c> an</c><00:08:59.760><c> agentic</c>
+simulate that one with an agentic
+simulate that one with an agentic
+system.<00:09:00.640><c> I</c><00:09:00.800><c> don't</c><00:09:00.959><c> think</c><00:09:01.040><c> you'd</c><00:09:01.360><c> really</c><00:09:01.519><c> want</c>
+system. I don't think you'd really want
+system. I don't think you'd really want
+to<00:09:02.000><c> because</c><00:09:02.800><c> most</c><00:09:03.200><c> agentic</c><00:09:03.760><c> systems</c><00:09:04.160><c> are</c>
+to because most agentic systems are
+to because most agentic systems are
+designed<00:09:04.800><c> to</c><00:09:05.040><c> be</c><00:09:05.519><c> relatively</c><00:09:06.240><c> predictable</c><00:09:06.720><c> in</c>
+designed to be relatively predictable in
+designed to be relatively predictable in
+outcomes.<00:09:07.440><c> And</c><00:09:07.600><c> in</c><00:09:07.760><c> this</c><00:09:07.920><c> case,</c><00:09:08.560><c> what</c><00:09:08.800><c> you</c>
+outcomes. And in this case, what you
+outcomes. And in this case, what you
+have<00:09:09.279><c> here</c><00:09:09.519><c> is</c><00:09:09.839><c> essentially</c><00:09:10.160><c> a</c><00:09:10.399><c> progressive</c>
+have here is essentially a progressive
+have here is essentially a progressive
+intent<00:09:11.600><c> classifier</c><00:09:12.320><c> where</c><00:09:12.560><c> the</c><00:09:12.720><c> intent</c><00:09:13.040><c> is</c>
+intent classifier where the intent is
+intent classifier where the intent is
+crystallized<00:09:14.000><c> out</c><00:09:14.160><c> of</c><00:09:14.240><c> a</c><00:09:14.480><c> probability</c>
+crystallized out of a probability
+crystallized out of a probability
+distribution<00:09:15.600><c> over</c><00:09:15.839><c> time.</c><00:09:16.480><c> You</c><00:09:16.800><c> can,</c><00:09:17.360><c> if</c>
+distribution over time. You can, if
+distribution over time. You can, if
+you're<00:09:17.920><c> trying</c><00:09:18.240><c> to</c><00:09:18.560><c> sharpen</c><00:09:19.040><c> your</c><00:09:19.279><c> thinking,</c>
+you're trying to sharpen your thinking,
+you're trying to sharpen your thinking,
+simulate<00:09:20.880><c> this</c><00:09:21.120><c> with</c><00:09:21.279><c> a</c><00:09:21.519><c> good</c><00:09:21.680><c> chat,</c><00:09:22.080><c> though.</c>
+simulate this with a good chat, though.
+simulate this with a good chat, though.
+You<00:09:22.880><c> can</c><00:09:23.040><c> talk</c><00:09:23.279><c> with</c><00:09:23.440><c> an</c><00:09:23.680><c> LLM</c><00:09:24.560><c> and</c><00:09:24.800><c> you</c><00:09:25.040><c> can</c>
+You can talk with an LLM and you can
+You can talk with an LLM and you can
+tell<00:09:25.360><c> it</c><00:09:25.600><c> at</c><00:09:25.760><c> the</c><00:09:25.920><c> beginning</c><00:09:26.640><c> to</c><00:09:26.880><c> hold</c>
+tell it at the beginning to hold
+tell it at the beginning to hold
+multiple<00:09:27.760><c> plausible</c><00:09:28.320><c> interpretations</c><00:09:29.360><c> of</c>
+multiple plausible interpretations of
+multiple plausible interpretations of
+what<00:09:29.839><c> you're</c><00:09:30.080><c> trying</c><00:09:30.240><c> to</c><00:09:30.399><c> do</c><00:09:30.640><c> so</c><00:09:30.800><c> it</c><00:09:31.040><c> doesn't</c>
+what you're trying to do so it doesn't
+what you're trying to do so it doesn't
+jump<00:09:31.440><c> to</c><00:09:31.680><c> conclusions</c><00:09:32.560><c> and</c><00:09:32.800><c> you</c><00:09:33.040><c> can</c><00:09:33.279><c> actually</c>
+jump to conclusions and you can actually
+jump to conclusions and you can actually
+watch<00:09:34.160><c> it</c><00:09:34.399><c> start</c><00:09:34.560><c> to</c><00:09:34.720><c> crystallize</c><00:09:35.200><c> and</c><00:09:35.440><c> infer</c>
+watch it start to crystallize and infer
+watch it start to crystallize and infer
+as<00:09:36.000><c> you</c><00:09:36.160><c> continue</c><00:09:36.399><c> to</c><00:09:36.640><c> have</c><00:09:36.720><c> a</c><00:09:36.959><c> conversation</c>
+as you continue to have a conversation
+as you continue to have a conversation
+over<00:09:37.680><c> time.</c><00:09:38.080><c> Ironically,</c><00:09:38.800><c> when</c><00:09:39.040><c> I</c><00:09:39.279><c> was</c><00:09:39.440><c> doing</c>
+over time. Ironically, when I was doing
+over time. Ironically, when I was doing
+research<00:09:40.560><c> into</c><00:09:41.120><c> intent</c><00:09:41.680><c> as</c><00:09:41.839><c> a</c><00:09:42.080><c> preparation</c>
+research into intent as a preparation
+research into intent as a preparation
+for<00:09:42.720><c> this</c><00:09:42.959><c> video,</c><00:09:43.360><c> I</c><00:09:43.600><c> had</c><00:09:43.839><c> that</c><00:09:44.160><c> kind</c><00:09:44.399><c> of</c><00:09:44.480><c> a</c>
+for this video, I had that kind of a
+for this video, I had that kind of a
+conversation<00:09:45.680><c> with</c><00:09:46.000><c> SHA</c><00:09:46.320><c> GPT</c><00:09:46.959><c> 5.2</c><00:09:47.360><c> to</c>
+conversation with SHA GPT 5.2 to
+conversation with SHA GPT 5.2 to
+thinking<00:09:48.320><c> because</c><00:09:48.720><c> I</c><00:09:48.959><c> was</c><00:09:49.200><c> trying</c><00:09:49.440><c> to</c><00:09:49.680><c> nudge</c>
+thinking because I was trying to nudge
+thinking because I was trying to nudge
+it<00:09:50.399><c> to</c><00:09:50.720><c> not</c><00:09:51.120><c> over</c><00:09:51.519><c> infer</c><00:09:52.080><c> from</c><00:09:52.320><c> one</c><00:09:52.480><c> or</c><00:09:52.720><c> two</c>
+it to not over infer from one or two
+it to not over infer from one or two
+academic<00:09:53.920><c> white</c><00:09:54.160><c> papers</c><00:09:54.480><c> and</c><00:09:54.800><c> actually</c><00:09:55.040><c> think</c>
+academic white papers and actually think
+academic white papers and actually think
+more<00:09:55.519><c> broadly.</c><00:09:56.240><c> That</c><00:09:56.480><c> is</c><00:09:56.640><c> something</c><00:09:56.959><c> that</c>
+more broadly. That is something that
+more broadly. That is something that
+that<00:09:57.920><c> you</c><00:09:58.320><c> need</c><00:09:58.560><c> to</c><00:09:58.880><c> learn</c><00:09:59.200><c> to</c><00:09:59.440><c> do</c><00:10:00.080><c> so</c><00:10:00.240><c> that</c><00:10:00.480><c> you</c>
+that you need to learn to do so that you
+that you need to learn to do so that you
+are<00:10:00.800><c> not</c><00:10:01.040><c> stuck</c><00:10:01.440><c> yelling</c><00:10:02.000><c> at</c><00:10:02.240><c> your</c><00:10:02.480><c> LLM</c><00:10:02.959><c> about</c>
+are not stuck yelling at your LLM about
+are not stuck yelling at your LLM about
+hallucinations<00:10:04.000><c> when</c><00:10:04.320><c> really</c><00:10:04.560><c> the</c><00:10:04.800><c> issue</c><00:10:05.040><c> is</c>
+hallucinations when really the issue is
+hallucinations when really the issue is
+an<00:10:05.360><c> intent.</c><00:10:05.920><c> Another</c><00:10:06.320><c> approach</c><00:10:06.720><c> is</c><00:10:06.959><c> to</c>
+an intent. Another approach is to
+an intent. Another approach is to
+essentially<00:10:07.920><c> make</c><00:10:08.160><c> this</c><00:10:08.560><c> intent</c><00:10:09.200><c> a</c><00:10:09.680><c> separate</c>
+essentially make this intent a separate
+essentially make this intent a separate
+uh<00:10:10.800><c> document.</c><00:10:11.360><c> And</c><00:10:11.519><c> that</c><00:10:11.680><c> can</c><00:10:11.839><c> be</c><00:10:12.320><c> very</c><00:10:12.640><c> very</c>
+uh document. And that can be very very
+uh document. And that can be very very
+helpful<00:10:13.200><c> in</c><00:10:13.440><c> agentic</c><00:10:14.000><c> systems</c><00:10:14.880><c> because</c><00:10:15.120><c> you</c>
+helpful in agentic systems because you
+helpful in agentic systems because you
+can<00:10:15.519><c> then</c><00:10:15.760><c> have</c><00:10:15.920><c> what</c><00:10:16.160><c> we</c><00:10:16.320><c> would</c><00:10:16.480><c> call</c><00:10:16.640><c> like</c><00:10:16.800><c> an</c>
+can then have what we would call like an
+can then have what we would call like an
+intent<00:10:17.440><c> commit</c><00:10:17.839><c> or</c><00:10:18.000><c> a</c><00:10:18.160><c> semantic</c><00:10:18.800><c> commit</c><00:10:19.440><c> that</c>
+intent commit or a semantic commit that
+intent commit or a semantic commit that
+literally<00:10:20.320><c> documents</c><00:10:20.880><c> the</c><00:10:21.200><c> intent</c><00:10:21.680><c> as</c><00:10:21.920><c> as</c>
+literally documents the intent as as
+literally documents the intent as as
+crystallized<00:10:22.880><c> a</c><00:10:23.120><c> format</c><00:10:23.440><c> as</c><00:10:23.680><c> possible.</c><00:10:24.079><c> What</c>
+crystallized a format as possible. What
+crystallized a format as possible. What
+are<00:10:24.399><c> the</c><00:10:24.560><c> goals?</c><00:10:25.040><c> What</c><00:10:25.200><c> are</c><00:10:25.279><c> the</c><00:10:25.440><c> failure</c>
+are the goals? What are the failure
+are the goals? What are the failure
+conditions?<00:10:26.480><c> What</c><00:10:26.640><c> are</c><00:10:26.720><c> the</c><00:10:26.880><c> graceful</c><00:10:27.360><c> fail</c>
+conditions? What are the graceful fail
+conditions? What are the graceful fail
+conditions?<00:10:28.480><c> What</c><00:10:28.640><c> are</c><00:10:28.720><c> the</c><00:10:28.880><c> trade-offs</c><00:10:29.279><c> that</c>
+conditions? What are the trade-offs that
+conditions? What are the trade-offs that
+we<00:10:29.600><c> make?</c><00:10:29.839><c> What</c><00:10:29.920><c> are</c><00:10:30.079><c> the</c><00:10:30.160><c> larger</c><00:10:30.480><c> priorities</c>
+we make? What are the larger priorities
+we make? What are the larger priorities
+here?<00:10:31.519><c> All</c><00:10:31.680><c> of</c><00:10:31.839><c> that</c><00:10:32.000><c> is</c><00:10:32.160><c> documented</c><00:10:32.560><c> in</c><00:10:32.720><c> one</c>
+here? All of that is documented in one
+here? All of that is documented in one
+place.<00:10:33.200><c> If</c><00:10:33.440><c> you</c><00:10:33.600><c> take</c><00:10:33.839><c> that</c><00:10:34.160><c> approach,</c><00:10:34.880><c> you</c>
+place. If you take that approach, you
+place. If you take that approach, you
+end<00:10:35.279><c> up</c><00:10:35.360><c> in</c><00:10:35.600><c> a</c><00:10:35.760><c> position</c><00:10:36.079><c> where</c><00:10:36.399><c> you</c><00:10:36.640><c> can</c>
+end up in a position where you can
+end up in a position where you can
+actually<00:10:37.600><c> update</c><00:10:38.079><c> your</c><00:10:38.320><c> intent</c><00:10:39.040><c> separately</c>
+actually update your intent separately
+actually update your intent separately
+from<00:10:39.760><c> the</c><00:10:40.000><c> prompt</c><00:10:40.640><c> and</c><00:10:40.959><c> you</c><00:10:41.120><c> can</c><00:10:41.680><c> understand</c>
+from the prompt and you can understand
+from the prompt and you can understand
+very<00:10:42.959><c> clearly</c><00:10:43.920><c> where</c><00:10:44.480><c> your</c><00:10:44.880><c> intent</c><00:10:45.839><c> takes</c><00:10:46.240><c> the</c>
+very clearly where your intent takes the
+very clearly where your intent takes the
+system<00:10:47.040><c> and</c><00:10:47.279><c> where</c><00:10:47.600><c> you</c><00:10:47.920><c> can</c><00:10:48.000><c> version</c><00:10:48.399><c> your</c>
+system and where you can version your
+system and where you can version your
+intent<00:10:48.959><c> over</c><00:10:49.279><c> time</c><00:10:49.519><c> if</c><00:10:49.760><c> you</c><00:10:49.920><c> change</c><00:10:50.160><c> your</c>
+intent over time if you change your
+intent over time if you change your
+mind,<00:10:50.640><c> if</c><00:10:50.800><c> you</c><00:10:50.880><c> want</c><00:10:50.959><c> to</c><00:10:51.040><c> update</c><00:10:51.360><c> the</c><00:10:51.519><c> system</c>
+mind, if you want to update the system
+mind, if you want to update the system
+and<00:10:51.920><c> what</c><00:10:52.079><c> it</c><00:10:52.240><c> does,</c><00:10:52.720><c> etc.</c><00:10:52.959><c> I</c><00:10:53.279><c> think</c><00:10:53.440><c> that's</c>
+and what it does, etc. I think that's
+and what it does, etc. I think that's
+very<00:10:54.000><c> interesting</c><00:10:54.320><c> because</c><00:10:54.640><c> it</c><00:10:54.880><c> turns</c><00:10:55.200><c> intent</c>
+very interesting because it turns intent
+very interesting because it turns intent
+into<00:10:56.079><c> more</c><00:10:56.320><c> of</c><00:10:56.480><c> an</c><00:10:56.640><c> interface</c><00:10:57.040><c> and</c><00:10:57.279><c> workflow</c>
+into more of an interface and workflow
+into more of an interface and workflow
+problem<00:10:58.399><c> and</c><00:10:58.640><c> it</c><00:10:58.880><c> doesn't</c><00:10:59.200><c> bind</c><00:10:59.600><c> us</c><00:10:59.839><c> to</c>
+problem and it doesn't bind us to
+problem and it doesn't bind us to
+figuring<00:11:00.560><c> out</c><00:11:00.800><c> how</c><00:11:01.120><c> model</c><00:11:01.519><c> makers</c><00:11:01.839><c> are</c><00:11:02.000><c> going</c>
+figuring out how model makers are going
+figuring out how model makers are going
+to<00:11:02.240><c> solve</c><00:11:02.480><c> this.</c><00:11:02.959><c> Now,</c><00:11:03.200><c> that</c><00:11:03.440><c> being</c><00:11:03.680><c> said,</c><00:11:04.000><c> I</c>
+to solve this. Now, that being said, I
+to solve this. Now, that being said, I
+do<00:11:04.560><c> think</c><00:11:04.720><c> that</c><00:11:04.959><c> there</c><00:11:05.200><c> is</c><00:11:05.920><c> a</c><00:11:06.240><c> lot</c><00:11:06.399><c> of</c><00:11:06.640><c> room</c><00:11:06.880><c> to</c>
+do think that there is a lot of room to
+do think that there is a lot of room to
+run<00:11:07.600><c> on</c><00:11:08.000><c> reinforcement</c><00:11:08.720><c> learning</c><00:11:09.120><c> for</c><00:11:09.519><c> model</c>
+run on reinforcement learning for model
+run on reinforcement learning for model
+makers<00:11:10.160><c> in</c><00:11:10.399><c> getting</c><00:11:10.640><c> better</c><00:11:10.880><c> at</c><00:11:11.040><c> intent.</c>
+makers in getting better at intent.
+makers in getting better at intent.
+Fundamentally,<00:11:12.480><c> if</c><00:11:12.640><c> we</c><00:11:12.800><c> figured</c><00:11:13.040><c> out</c><00:11:13.200><c> models</c>
+Fundamentally, if we figured out models
+Fundamentally, if we figured out models
+that<00:11:13.680><c> can</c><00:11:13.839><c> do</c><00:11:14.000><c> multiple</c><00:11:14.480><c> passes</c><00:11:14.959><c> on</c><00:11:15.120><c> token</c>
+that can do multiple passes on token
+that can do multiple passes on token
+generation<00:11:16.079><c> and</c><00:11:16.320><c> infer,</c><00:11:17.200><c> we</c><00:11:17.519><c> should</c><00:11:17.839><c> be</c><00:11:18.079><c> able</c>
+generation and infer, we should be able
+generation and infer, we should be able
+to<00:11:18.959><c> use</c><00:11:19.360><c> reinforcement</c><00:11:20.079><c> learning</c><00:11:20.399><c> techniques</c>
+to use reinforcement learning techniques
+to use reinforcement learning techniques
+to<00:11:21.200><c> help</c><00:11:21.440><c> them</c><00:11:21.680><c> to</c><00:11:21.839><c> do</c><00:11:22.160><c> second</c><00:11:22.480><c> and</c><00:11:22.720><c> third</c>
+to help them to do second and third
+to help them to do second and third
+passes<00:11:23.519><c> across</c><00:11:24.000><c> sparse</c><00:11:24.480><c> text</c><00:11:25.279><c> and</c><00:11:25.600><c> infer</c>
+passes across sparse text and infer
+passes across sparse text and infer
+context<00:11:26.560><c> and</c><00:11:26.800><c> infer</c><00:11:27.120><c> intent</c><00:11:27.600><c> more</c><00:11:27.839><c> reliably.</c>
+context and infer intent more reliably.
+context and infer intent more reliably.
+I<00:11:28.959><c> would</c><00:11:29.120><c> expect</c><00:11:29.519><c> gains</c><00:11:29.920><c> there</c><00:11:30.160><c> next</c><00:11:30.399><c> year.</c>
+I would expect gains there next year.
+I would expect gains there next year.
+And<00:11:30.959><c> by</c><00:11:31.120><c> the</c><00:11:31.200><c> way,</c><00:11:31.440><c> if</c><00:11:31.680><c> you're</c><00:11:32.160><c> listening</c><00:11:32.480><c> to</c>
+And by the way, if you're listening to
+And by the way, if you're listening to
+this<00:11:32.800><c> and</c><00:11:33.040><c> thinking</c><00:11:33.440><c> more</c><00:11:33.760><c> context</c><00:11:34.320><c> will</c><00:11:34.560><c> save</c>
+this and thinking more context will save
+this and thinking more context will save
+us,<00:11:35.040><c> we'll</c><00:11:35.200><c> get</c><00:11:35.360><c> a</c><00:11:35.519><c> bigger</c><00:11:35.760><c> context</c><00:11:36.240><c> window.</c>
+us, we'll get a bigger context window.
+us, we'll get a bigger context window.
+That<00:11:37.200><c> can</c><00:11:37.360><c> sometimes</c><00:11:37.839><c> make</c><00:11:38.079><c> things</c><00:11:38.399><c> worse.</c>
+That can sometimes make things worse.
+That can sometimes make things worse.
+Even<00:11:39.200><c> if</c><00:11:39.440><c> the</c><00:11:39.600><c> user</c><00:11:39.920><c> did</c><00:11:40.240><c> express</c><00:11:40.720><c> the</c><00:11:40.959><c> real</c>
+Even if the user did express the real
+Even if the user did express the real
+priority<00:11:41.839><c> somewhere</c><00:11:42.399><c> models</c><00:11:42.959><c> don't</c><00:11:43.279><c> robustly</c>
+priority somewhere models don't robustly
+priority somewhere models don't robustly
+use<00:11:44.560><c> long</c><00:11:44.959><c> context,</c><00:11:45.920><c> they</c><00:11:46.160><c> still</c><00:11:46.480><c> have</c><00:11:46.720><c> lost</c>
+use long context, they still have lost
+use long context, they still have lost
+in<00:11:47.200><c> the</c><00:11:47.360><c> middle</c><00:11:47.600><c> challenges.</c><00:11:48.160><c> They</c><00:11:48.399><c> still</c>
+in the middle challenges. They still
+in the middle challenges. They still
+need<00:11:48.720><c> a</c><00:11:48.880><c> lot</c><00:11:49.040><c> of</c><00:11:49.120><c> good</c><00:11:49.519><c> structure,</c><00:11:50.079><c> a</c><00:11:50.240><c> lot</c><00:11:50.320><c> of</c>
+need a lot of good structure, a lot of
+need a lot of good structure, a lot of
+good<00:11:50.640><c> intent</c><00:11:51.200><c> to</c><00:11:51.519><c> navigate</c><00:11:52.079><c> context</c><00:11:52.640><c> well.</c>
+good intent to navigate context well.
+good intent to navigate context well.
+And<00:11:53.440><c> long</c><00:11:53.760><c> context</c><00:11:54.320><c> often</c><00:11:54.720><c> embodies</c>
+And long context often embodies
+And long context often embodies
+difficult<00:11:55.920><c> and</c><00:11:56.160><c> ambiguous</c><00:11:56.800><c> trade-offs</c><00:11:57.360><c> that</c>
+difficult and ambiguous trade-offs that
+difficult and ambiguous trade-offs that
+we<00:11:57.839><c> don't</c><00:11:58.079><c> specify</c><00:11:58.720><c> and</c><00:11:58.959><c> that</c><00:11:59.120><c> we</c><00:11:59.279><c> leave</c><00:11:59.519><c> the</c>
+we don't specify and that we leave the
+we don't specify and that we leave the
+model<00:12:00.240><c> to</c><00:12:00.560><c> guess.</c><00:12:01.279><c> This</c><00:12:01.519><c> goes</c><00:12:01.760><c> back</c><00:12:02.000><c> to</c><00:12:02.240><c> the</c>
+model to guess. This goes back to the
+model to guess. This goes back to the
+larger<00:12:02.880><c> insight.</c><00:12:03.360><c> Uh</c><00:12:03.680><c> Andre</c><00:12:04.000><c> Karpathy</c><00:12:04.560><c> called</c>
+larger insight. Uh Andre Karpathy called
+larger insight. Uh Andre Karpathy called
+this<00:12:04.880><c> out</c><00:12:05.120><c> a</c><00:12:05.279><c> few</c><00:12:05.440><c> weeks</c><00:12:05.600><c> ago</c><00:12:05.839><c> when</c><00:12:06.079><c> when</c><00:12:06.320><c> he</c>
+this out a few weeks ago when when he
+this out a few weeks ago when when he
+observed<00:12:07.279><c> that</c><00:12:08.000><c> humans</c><00:12:08.480><c> are</c><00:12:08.720><c> very</c><00:12:09.040><c> very</c><00:12:09.360><c> good</c>
+observed that humans are very very good
+observed that humans are very very good
+at<00:12:10.000><c> learning</c><00:12:10.320><c> from</c><00:12:10.639><c> sparse</c><00:12:11.120><c> examples</c><00:12:11.839><c> and</c>
+at learning from sparse examples and
+at learning from sparse examples and
+models<00:12:12.639><c> need</c><00:12:12.880><c> many</c><00:12:13.200><c> many</c><00:12:13.519><c> more</c><00:12:13.760><c> examples</c><00:12:14.160><c> than</c>
+models need many many more examples than
+models need many many more examples than
+humans<00:12:14.720><c> to</c><00:12:14.959><c> learn</c><00:12:15.200><c> and</c><00:12:15.440><c> tend</c><00:12:15.680><c> to</c><00:12:15.839><c> generalize</c>
+humans to learn and tend to generalize
+humans to learn and tend to generalize
+much<00:12:16.800><c> more</c><00:12:17.040><c> poorly</c><00:12:17.440><c> than</c><00:12:17.680><c> humans</c><00:12:18.079><c> do.</c><00:12:18.560><c> In</c><00:12:18.800><c> this</c>
+much more poorly than humans do. In this
+much more poorly than humans do. In this
+case<00:12:19.360><c> adding</c><00:12:19.600><c> the</c><00:12:19.839><c> context</c><00:12:20.320><c> is</c><00:12:20.560><c> something</c>
+case adding the context is something
+case adding the context is something
+where<00:12:20.959><c> you</c><00:12:21.200><c> would</c><00:12:21.360><c> think</c><00:12:21.519><c> as</c><00:12:21.760><c> a</c><00:12:21.920><c> human</c><00:12:22.320><c> you</c>
+where you would think as a human you
+where you would think as a human you
+have<00:12:22.720><c> way</c><00:12:22.959><c> more</c><00:12:23.120><c> than</c><00:12:23.360><c> you</c><00:12:23.519><c> need</c><00:12:23.760><c> you</c><00:12:23.920><c> can</c>
+have way more than you need you can
+have way more than you need you can
+generalize<00:12:24.639><c> effectively.</c><00:12:25.519><c> It</c><00:12:25.680><c> sometimes</c>
+generalize effectively. It sometimes
+generalize effectively. It sometimes
+leads<00:12:26.240><c> to</c><00:12:26.399><c> worse</c><00:12:26.720><c> performance</c><00:12:27.200><c> because</c><00:12:27.519><c> the</c>
+leads to worse performance because the
+leads to worse performance because the
+signal<00:12:28.079><c> gets</c><00:12:28.399><c> muddled.</c><00:12:29.040><c> But</c><00:12:29.200><c> let's</c><00:12:29.440><c> zoom</c><00:12:29.680><c> back</c>
+signal gets muddled. But let's zoom back
+signal gets muddled. But let's zoom back
+to<00:12:30.000><c> the</c><00:12:30.160><c> practical</c><00:12:30.560><c> reality.</c><00:12:31.360><c> Builders</c><00:12:31.839><c> still</c>
+to the practical reality. Builders still
+to the practical reality. Builders still
+need<00:12:32.160><c> to</c><00:12:32.320><c> learn</c><00:12:32.480><c> to</c><00:12:32.639><c> ship</c><00:12:32.959><c> agents</c><00:12:33.680><c> and</c><00:12:33.920><c> we</c>
+need to learn to ship agents and we
+need to learn to ship agents and we
+still<00:12:34.320><c> need</c><00:12:34.560><c> to</c><00:12:34.720><c> compensate</c><00:12:35.200><c> for</c><00:12:35.440><c> weak</c><00:12:35.760><c> intent</c>
+still need to compensate for weak intent
+still need to compensate for weak intent
+interference<00:12:36.959><c> at</c><00:12:37.200><c> the</c><00:12:37.360><c> moment.</c><00:12:38.000><c> This</c><00:12:38.240><c> is</c>
+interference at the moment. This is
+interference at the moment. This is
+where<00:12:38.639><c> I</c><00:12:38.880><c> want</c><00:12:38.959><c> to</c><00:12:39.120><c> lean</c><00:12:39.440><c> into</c><00:12:39.680><c> the</c><00:12:39.839><c> harness</c>
+where I want to lean into the harness
+where I want to lean into the harness
+piece.<00:12:40.800><c> Yes,</c><00:12:41.120><c> you</c><00:12:41.360><c> should</c><00:12:41.519><c> be</c><00:12:41.920><c> building</c>
+piece. Yes, you should be building
+piece. Yes, you should be building
+evaluation<00:12:42.959><c> harnesses.</c><00:12:43.600><c> You</c><00:12:43.760><c> should</c><00:12:43.920><c> be</c>
+evaluation harnesses. You should be
+evaluation harnesses. You should be
+running<00:12:44.399><c> agents</c><00:12:44.800><c> against</c><00:12:45.120><c> curated</c><00:12:45.760><c> tasks.</c>
+running agents against curated tasks.
+running agents against curated tasks.
+You<00:12:46.480><c> should</c><00:12:46.639><c> be</c><00:12:46.720><c> instrumenting</c><00:12:47.279><c> your</c><00:12:47.519><c> traces.</c>
+You should be instrumenting your traces.
+You should be instrumenting your traces.
+You<00:12:48.480><c> should</c><00:12:48.639><c> be</c><00:12:48.800><c> constraining</c><00:12:49.279><c> your</c><00:12:49.519><c> tool</c>
+You should be constraining your tool
+You should be constraining your tool
+permissions.<00:12:50.399><c> You</c><00:12:50.639><c> should</c><00:12:50.720><c> not</c><00:12:50.880><c> be</c><00:12:51.040><c> using</c><00:12:51.279><c> too</c>
+permissions. You should not be using too
+permissions. You should not be using too
+many<00:12:51.680><c> tools</c><00:12:52.000><c> with</c><00:12:52.160><c> an</c><00:12:52.399><c> agent.</c><00:12:52.880><c> You</c><00:12:53.040><c> should</c>
+many tools with an agent. You should
+many tools with an agent. You should
+force<00:12:53.440><c> an</c><00:12:53.600><c> agent</c><00:12:53.920><c> into</c><00:12:54.079><c> a</c><00:12:54.320><c> planning</c><00:12:54.639><c> state.</c>
+force an agent into a planning state.
+force an agent into a planning state.
+You<00:12:55.760><c> can</c><00:12:55.920><c> see</c><00:12:56.079><c> that</c><00:12:56.320><c> this</c><00:12:56.560><c> mindset</c><00:12:57.040><c> is</c>
+You can see that this mindset is
+You can see that this mindset is
+starting<00:12:57.440><c> to</c><00:12:57.680><c> dig</c><00:12:57.920><c> in.</c><00:12:58.320><c> And</c><00:12:58.480><c> I</c><00:12:58.639><c> think</c><00:12:58.800><c> is</c>
+starting to dig in. And I think is
+starting to dig in. And I think is
+really<00:12:59.279><c> really</c><00:12:59.680><c> important</c><00:13:00.079><c> if</c><00:13:00.320><c> you</c><00:13:00.480><c> want</c><00:13:00.560><c> to</c>
+really really important if you want to
+really really important if you want to
+build<00:13:01.519><c> real</c><00:13:01.839><c> time</c><00:13:02.720><c> productive</c><00:13:03.279><c> agents</c><00:13:03.680><c> that</c>
+build real time productive agents that
+build real time productive agents that
+scale.<00:13:04.399><c> Think</c><00:13:04.560><c> of</c><00:13:04.720><c> it</c><00:13:04.800><c> as</c><00:13:04.959><c> a</c><00:13:05.120><c> kind</c><00:13:05.200><c> of</c>
+scale. Think of it as a kind of
+scale. Think of it as a kind of
+production<00:13:05.839><c> pragmatism</c><00:13:06.560><c> for</c><00:13:06.720><c> the</c><00:13:06.880><c> first</c><00:13:07.120><c> half</c>
+production pragmatism for the first half
+production pragmatism for the first half
+of<00:13:07.440><c> 2026.</c><00:13:08.480><c> We</c><00:13:08.800><c> can</c><00:13:08.959><c> make</c><00:13:09.279><c> agents</c><00:13:09.760><c> reliable</c>
+of 2026. We can make agents reliable
+of 2026. We can make agents reliable
+enough<00:13:10.560><c> to</c><00:13:10.800><c> ship</c><00:13:11.200><c> now.</c><00:13:11.920><c> We</c><00:13:12.240><c> don't</c><00:13:12.399><c> have</c><00:13:12.639><c> to</c>
+enough to ship now. We don't have to
+enough to ship now. We don't have to
+have<00:13:12.959><c> the</c><00:13:13.120><c> intent</c><00:13:13.600><c> problem</c><00:13:14.000><c> fully</c><00:13:14.320><c> solved.</c>
+have the intent problem fully solved.
+have the intent problem fully solved.
+Even<00:13:15.120><c> if</c><00:13:15.279><c> it's</c><00:13:15.440><c> something</c><00:13:15.680><c> that</c><00:13:15.920><c> I</c><00:13:16.160><c> think</c><00:13:16.320><c> we</c>
+Even if it's something that I think we
+Even if it's something that I think we
+need<00:13:16.560><c> to</c><00:13:16.720><c> be</c><00:13:16.880><c> more</c><00:13:17.040><c> aware</c><00:13:17.279><c> of</c><00:13:17.440><c> and</c><00:13:17.680><c> we</c><00:13:17.839><c> need</c><00:13:18.000><c> to</c>
+need to be more aware of and we need to
+need to be more aware of and we need to
+not<00:13:18.320><c> pretend</c><00:13:18.720><c> is</c><00:13:18.959><c> not</c><00:13:19.120><c> an</c><00:13:19.279><c> issue.</c><00:13:19.839><c> I</c><00:13:20.079><c> haven't</c>
+not pretend is not an issue. I haven't
+not pretend is not an issue. I haven't
+heard<00:13:20.480><c> enough</c><00:13:20.800><c> conversation</c><00:13:21.279><c> about</c><00:13:21.440><c> it</c><00:13:21.680><c> and</c>
+heard enough conversation about it and
+heard enough conversation about it and
+that's<00:13:22.079><c> why</c><00:13:22.639><c> I'm</c><00:13:22.880><c> chatting</c><00:13:23.200><c> about</c><00:13:23.360><c> it</c><00:13:23.519><c> in</c><00:13:23.680><c> this</c>
+that's why I'm chatting about it in this
+that's why I'm chatting about it in this
+video.<00:13:24.320><c> The</c><00:13:24.639><c> reason</c><00:13:24.800><c> why</c><00:13:25.040><c> I</c><00:13:25.200><c> think</c><00:13:25.279><c> we're</c><00:13:25.519><c> near</c>
+video. The reason why I think we're near
+video. The reason why I think we're near
+a<00:13:25.839><c> breakthrough</c><00:13:26.320><c> is</c><00:13:26.639><c> because</c><00:13:26.959><c> this</c><00:13:27.279><c> is</c>
+a breakthrough is because this is
+a breakthrough is because this is
+something<00:13:28.240><c> that</c><00:13:28.480><c> is</c><00:13:28.800><c> clearly</c><00:13:29.279><c> reinforcement</c>
+something that is clearly reinforcement
+something that is clearly reinforcement
+learning<00:13:30.399><c> susceptible</c><00:13:31.200><c> and</c><00:13:31.440><c> it's</c><00:13:31.760><c> something</c>
+learning susceptible and it's something
+learning susceptible and it's something
+that<00:13:32.240><c> we</c><00:13:32.480><c> have</c><00:13:32.639><c> a</c><00:13:32.800><c> lot</c><00:13:32.880><c> of</c><00:13:32.959><c> the</c><00:13:33.200><c> pieces</c><00:13:33.600><c> of</c><00:13:33.920><c> with</c>
+that we have a lot of the pieces of with
+that we have a lot of the pieces of with
+inference<00:13:35.120><c> and</c><00:13:35.519><c> LLMs.</c><00:13:36.480><c> We</c><00:13:36.720><c> have</c><00:13:36.800><c> a</c><00:13:36.959><c> lot</c><00:13:37.040><c> of</c><00:13:37.120><c> the</c>
+inference and LLMs. We have a lot of the
+inference and LLMs. We have a lot of the
+pieces<00:13:37.519><c> of</c><00:13:37.680><c> the</c><00:13:37.839><c> Asian</c><00:13:38.160><c> ecosystem</c><00:13:39.120><c> and</c><00:13:39.360><c> if</c><00:13:39.519><c> we</c>
+pieces of the Asian ecosystem and if we
+pieces of the Asian ecosystem and if we
+get<00:13:39.839><c> this</c><00:13:40.079><c> one</c><00:13:40.240><c> piece</c><00:13:40.560><c> on</c><00:13:40.720><c> intent,</c><00:13:41.600><c> it's</c><00:13:41.839><c> a</c>
+get this one piece on intent, it's a
+get this one piece on intent, it's a
+piece<00:13:42.160><c> of</c><00:13:42.320><c> jagged</c><00:13:42.800><c> intelligence</c><00:13:43.279><c> that</c>
+piece of jagged intelligence that
+piece of jagged intelligence that
+unlocks<00:13:44.000><c> a</c><00:13:44.160><c> real</c><00:13:44.399><c> breakthrough</c><00:13:44.800><c> for</c><00:13:45.040><c> us.</c><00:13:45.680><c> And</c>
+unlocks a real breakthrough for us. And
+unlocks a real breakthrough for us. And
+it's<00:13:46.079><c> very</c><00:13:46.320><c> laborious</c><00:13:46.880><c> to</c><00:13:47.120><c> work</c><00:13:47.360><c> around</c><00:13:47.680><c> right</c>
+it's very laborious to work around right
+it's very laborious to work around right
+now.<00:13:48.079><c> Like</c><00:13:48.320><c> all</c><00:13:48.480><c> of</c><00:13:48.560><c> the</c><00:13:48.720><c> things</c><00:13:48.880><c> I</c><00:13:49.120><c> talked</c>
+now. Like all of the things I talked
+now. Like all of the things I talked
+about<00:13:49.440><c> with</c><00:13:49.680><c> harnesses,</c><00:13:50.320><c> they're</c><00:13:50.639><c> they're</c>
+about with harnesses, they're they're
+about with harnesses, they're they're
+complicated<00:13:51.680><c> to</c><00:13:51.920><c> set</c><00:13:52.079><c> up.</c><00:13:52.480><c> It</c><00:13:52.639><c> would</c><00:13:52.800><c> be</c>
+complicated to set up. It would be
+complicated to set up. It would be
+really<00:13:53.279><c> handy</c><00:13:53.760><c> if</c><00:13:54.000><c> we</c><00:13:54.240><c> could</c><00:13:54.480><c> reliably</c><00:13:55.120><c> trust</c>
+really handy if we could reliably trust
+really handy if we could reliably trust
+an<00:13:55.680><c> agent</c><00:13:56.000><c> to</c><00:13:56.160><c> infer</c><00:13:56.560><c> intent</c><00:13:56.959><c> and</c><00:13:57.199><c> call</c><00:13:57.519><c> tools</c>
+an agent to infer intent and call tools
+an agent to infer intent and call tools
+appropriately<00:13:58.800><c> with</c><00:13:59.040><c> a</c><00:13:59.279><c> lot</c><00:13:59.440><c> less</c>
+appropriately with a lot less
+appropriately with a lot less
+rigomearroll.<00:14:00.720><c> We're</c><00:14:00.959><c> not</c><00:14:01.120><c> there</c><00:14:01.360><c> yet,</c><00:14:02.000><c> but</c><00:14:02.160><c> I</c>
+rigomearroll. We're not there yet, but I
+rigomearroll. We're not there yet, but I
+think<00:14:02.480><c> that</c><00:14:02.720><c> the</c><00:14:02.959><c> opportunity</c><00:14:03.440><c> is</c><00:14:03.760><c> too</c><00:14:04.000><c> big</c>
+think that the opportunity is too big
+think that the opportunity is too big
+for<00:14:04.720><c> us</c><00:14:04.880><c> not</c><00:14:05.120><c> to</c><00:14:05.279><c> chase</c><00:14:05.519><c> it</c><00:14:05.600><c> and</c><00:14:05.839><c> get</c><00:14:05.920><c> to</c><00:14:06.079><c> it.</c>
+for us not to chase it and get to it.
+for us not to chase it and get to it.
+And<00:14:06.399><c> I</c><00:14:06.560><c> suspect</c><00:14:06.880><c> that</c><00:14:07.120><c> a</c><00:14:07.279><c> 2026</c><00:14:08.000><c> breakthrough</c>
+And I suspect that a 2026 breakthrough
+And I suspect that a 2026 breakthrough
+is<00:14:08.720><c> possible.</c><00:14:09.440><c> I</c><00:14:09.680><c> don't</c><00:14:09.920><c> believe</c><00:14:10.480><c> even</c><00:14:10.800><c> in</c>
+is possible. I don't believe even in
+is possible. I don't believe even in
+2026<00:14:11.760><c> that</c><00:14:12.000><c> we're</c><00:14:12.160><c> going</c><00:14:12.160><c> to</c><00:14:12.240><c> get</c><00:14:12.320><c> to</c><00:14:12.480><c> a</c><00:14:12.720><c> models</c>
+2026 that we're going to get to a models
+2026 that we're going to get to a models
+magically<00:14:13.760><c> understand</c><00:14:14.160><c> all</c><00:14:14.320><c> intent</c><00:14:14.800><c> moment.</c>
+magically understand all intent moment.
+magically understand all intent moment.
+I<00:14:15.440><c> think</c><00:14:15.600><c> of</c><00:14:15.760><c> it</c><00:14:16.000><c> more</c><00:14:16.399><c> as</c><00:14:17.199><c> an</c><00:14:17.519><c> alwayson</c><00:14:18.079><c> agent</c>
+I think of it more as an alwayson agent
+I think of it more as an alwayson agent
+can<00:14:18.959><c> routinely</c><00:14:19.600><c> run</c><00:14:19.839><c> cheap</c><00:14:20.160><c> and</c><00:14:20.399><c> intermediate</c>
+can routinely run cheap and intermediate
+can routinely run cheap and intermediate
+checks<00:14:21.279><c> automatically</c><00:14:21.920><c> in</c><00:14:22.160><c> the</c><00:14:22.320><c> background</c>
+checks automatically in the background
+checks automatically in the background
+that<00:14:23.120><c> approximate</c><00:14:23.760><c> a</c><00:14:24.000><c> human</c><00:14:24.320><c> second</c><00:14:24.720><c> pass</c><00:14:25.279><c> and</c>
+that approximate a human second pass and
+that approximate a human second pass and
+only<00:14:26.000><c> escalate</c><00:14:26.480><c> to</c><00:14:26.639><c> a</c><00:14:26.800><c> user</c><00:14:27.040><c> or</c><00:14:27.279><c> escalate</c><00:14:27.680><c> to</c><00:14:27.839><c> a</c>
+only escalate to a user or escalate to a
+only escalate to a user or escalate to a
+resolution<00:14:28.560><c> loop</c><00:14:29.040><c> when</c><00:14:29.360><c> the</c><00:14:29.519><c> uncertainty</c><00:14:30.079><c> is</c>
+resolution loop when the uncertainty is
+resolution loop when the uncertainty is
+high<00:14:30.480><c> or</c><00:14:30.639><c> it</c><00:14:30.800><c> determines</c><00:14:31.199><c> the</c><00:14:31.440><c> consequences</c>
+high or it determines the consequences
+high or it determines the consequences
+are<00:14:32.560><c> very</c><00:14:32.800><c> serious</c><00:14:33.120><c> or</c><00:14:33.360><c> irreversible.</c><00:14:34.480><c> That</c>
+are very serious or irreversible. That
+are very serious or irreversible. That
+would<00:14:35.120><c> simulate</c><00:14:35.680><c> intent</c><00:14:36.240><c> well</c><00:14:36.560><c> enough</c><00:14:37.120><c> for</c><00:14:37.360><c> us</c>
+would simulate intent well enough for us
+would simulate intent well enough for us
+to<00:14:37.760><c> be</c><00:14:37.920><c> moving</c><00:14:38.240><c> on</c><00:14:38.480><c> with</c><00:14:39.120><c> even</c><00:14:39.360><c> as</c><00:14:39.519><c> we</c><00:14:39.680><c> work</c><00:14:39.839><c> on</c>
+to be moving on with even as we work on
+to be moving on with even as we work on
+the<00:14:40.160><c> larger</c><00:14:40.560><c> problem.</c><00:14:41.040><c> An</c><00:14:41.360><c> interesting</c><00:14:41.760><c> way</c>
+the larger problem. An interesting way
+the larger problem. An interesting way
+to<00:14:42.160><c> see</c><00:14:42.320><c> where</c><00:14:42.560><c> intent</c><00:14:42.959><c> is</c><00:14:43.120><c> going</c><00:14:43.440><c> is</c><00:14:43.680><c> to</c><00:14:43.839><c> look</c>
+to see where intent is going is to look
+to see where intent is going is to look
+sideways<00:14:44.480><c> at</c><00:14:44.639><c> the</c><00:14:44.880><c> crypto</c><00:14:45.279><c> community</c><00:14:45.680><c> where</c>
+sideways at the crypto community where
+sideways at the crypto community where
+intents<00:14:46.560><c> become</c><00:14:46.880><c> a</c><00:14:47.120><c> thing</c><00:14:47.600><c> for</c><00:14:47.839><c> basically</c><00:14:48.240><c> the</c>
+intents become a thing for basically the
+intents become a thing for basically the
+same<00:14:48.720><c> reason</c><00:14:48.880><c> that</c><00:14:49.199><c> agents</c><00:14:49.760><c> are</c><00:14:50.000><c> difficult.</c>
+same reason that agents are difficult.
+same reason that agents are difficult.
+Intents<00:14:51.199><c> matter</c><00:14:51.519><c> in</c><00:14:51.760><c> crypto</c><00:14:52.399><c> because</c><00:14:52.800><c> actions</c>
+Intents matter in crypto because actions
+Intents matter in crypto because actions
+are<00:14:53.519><c> expensive</c><00:14:53.920><c> and</c><00:14:54.160><c> often</c><00:14:54.560><c> irreversible.</c>
+are expensive and often irreversible.
+are expensive and often irreversible.
+We're<00:14:55.760><c> learning</c><00:14:56.000><c> the</c><00:14:56.160><c> same</c><00:14:56.320><c> thing</c><00:14:56.480><c> with</c><00:14:56.639><c> LLMs</c>
+We're learning the same thing with LLMs
+We're learning the same thing with LLMs
+and<00:14:57.279><c> agents.</c><00:14:57.680><c> Actions</c><00:14:58.079><c> are</c><00:14:58.240><c> expensive</c><00:14:58.560><c> and</c>
+and agents. Actions are expensive and
+and agents. Actions are expensive and
+often<00:14:59.040><c> irreversible.</c><00:15:00.000><c> So</c><00:15:00.240><c> in</c><00:15:00.560><c> intentbased</c>
+often irreversible. So in intentbased
+often irreversible. So in intentbased
+DeFi<00:15:02.079><c> systems,</c><00:15:02.720><c> the</c><00:15:02.959><c> user</c><00:15:03.360><c> often</c><00:15:03.760><c> has</c><00:15:04.000><c> to</c><00:15:04.240><c> sign</c>
+DeFi systems, the user often has to sign
+DeFi systems, the user often has to sign
+an<00:15:04.959><c> intent</c><00:15:05.440><c> to</c><00:15:05.680><c> trade</c><00:15:06.079><c> that</c><00:15:06.399><c> specifies</c>
+an intent to trade that specifies
+an intent to trade that specifies
+constraints<00:15:07.760><c> and</c><00:15:08.079><c> desired</c><00:15:08.560><c> outcomes</c><00:15:09.120><c> and</c>
+constraints and desired outcomes and
+constraints and desired outcomes and
+then<00:15:09.839><c> specialized</c><00:15:10.639><c> automated</c><00:15:11.199><c> solvers</c><00:15:11.680><c> will</c>
+then specialized automated solvers will
+then specialized automated solvers will
+compete<00:15:12.399><c> to</c><00:15:12.639><c> execute</c><00:15:13.199><c> that</c><00:15:13.519><c> trade.</c><00:15:14.160><c> The</c><00:15:14.399><c> whole</c>
+compete to execute that trade. The whole
+compete to execute that trade. The whole
+design<00:15:15.519><c> separates</c><00:15:16.079><c> what</c><00:15:16.399><c> you</c><00:15:16.639><c> want</c><00:15:17.199><c> from</c><00:15:17.600><c> how</c>
+design separates what you want from how
+design separates what you want from how
+it<00:15:18.079><c> is</c><00:15:18.320><c> executed.</c><00:15:19.199><c> Look,</c><00:15:19.600><c> it's</c><00:15:19.839><c> not</c><00:15:19.920><c> a</c><00:15:20.079><c> perfect</c>
+it is executed. Look, it's not a perfect
+it is executed. Look, it's not a perfect
+analogy.<00:15:20.800><c> Crypto</c><00:15:21.120><c> has</c><00:15:21.279><c> its</c><00:15:21.519><c> own</c><00:15:21.680><c> issues,</c><00:15:22.000><c> but</c>
+analogy. Crypto has its own issues, but
+analogy. Crypto has its own issues, but
+it's<00:15:22.320><c> it's</c><00:15:22.720><c> a</c><00:15:22.880><c> clue</c><00:15:23.120><c> in</c><00:15:23.360><c> the</c><00:15:23.519><c> direction</c><00:15:23.839><c> that</c>
+it's it's a clue in the direction that
+it's it's a clue in the direction that
+we're<00:15:24.320><c> going,</c><00:15:24.720><c> right?</c><00:15:25.279><c> When</c><00:15:25.680><c> execution</c><00:15:26.399><c> is</c>
+we're going, right? When execution is
+we're going, right? When execution is
+high<00:15:27.120><c> stakes</c><00:15:27.440><c> with</c><00:15:27.760><c> aentic</c><00:15:28.320><c> systems,</c><00:15:29.120><c> systems</c>
+high stakes with aentic systems, systems
+high stakes with aentic systems, systems
+tend<00:15:29.920><c> to</c><00:15:30.160><c> evolve</c><00:15:30.800><c> toward</c><00:15:31.360><c> explicit</c><00:15:32.000><c> intent</c>
+tend to evolve toward explicit intent
+tend to evolve toward explicit intent
+representations<00:15:33.760><c> and</c><00:15:34.079><c> solver</c><00:15:34.560><c> checker</c>
+representations and solver checker
+representations and solver checker
+mechanisms<00:15:35.519><c> to</c><00:15:35.760><c> ensure</c><00:15:36.160><c> that</c><00:15:36.320><c> that</c><00:15:36.560><c> intent</c><00:15:36.959><c> is</c>
+mechanisms to ensure that that intent is
+mechanisms to ensure that that intent is
+accurately<00:15:37.839><c> translated.</c><00:15:38.720><c> I</c><00:15:38.959><c> think</c><00:15:39.120><c> that</c>
+accurately translated. I think that
+accurately translated. I think that
+we're<00:15:39.600><c> converging</c><00:15:40.160><c> on</c><00:15:40.399><c> a</c><00:15:40.560><c> similar</c><00:15:40.959><c> solution</c>
+we're converging on a similar solution
+we're converging on a similar solution
+in<00:15:41.600><c> the</c><00:15:41.760><c> agent</c><00:15:42.160><c> world</c><00:15:42.880><c> because</c><00:15:43.199><c> we</c><00:15:43.600><c> need</c>
+in the agent world because we need
+in the agent world because we need
+higher<00:15:44.639><c> fidelity</c><00:15:45.199><c> execution</c><00:15:45.760><c> in</c><00:15:46.000><c> 2026.</c><00:15:46.880><c> So</c><00:15:47.120><c> if</c>
+higher fidelity execution in 2026. So if
+higher fidelity execution in 2026. So if
+you're<00:15:47.519><c> building</c><00:15:47.839><c> systems,</c><00:15:48.560><c> I</c><00:15:48.800><c> would</c><00:15:48.959><c> advise</c>
+you're building systems, I would advise
+you're building systems, I would advise
+you<00:15:49.519><c> start</c><00:15:49.759><c> to</c><00:15:50.000><c> think</c><00:15:50.160><c> about</c><00:15:50.399><c> how</c><00:15:50.639><c> you</c><00:15:50.800><c> can</c>
+you start to think about how you can
+you start to think about how you can
+separate<00:15:51.440><c> interpretation</c><00:15:52.399><c> from</c><00:15:52.800><c> execution</c>
+separate interpretation from execution
+separate interpretation from execution
+in<00:15:53.600><c> your</c><00:15:53.839><c> architecture</c><00:15:54.720><c> so</c><00:15:54.880><c> that</c><00:15:55.040><c> you</c><00:15:55.199><c> can</c>
+in your architecture so that you can
+in your architecture so that you can
+learn<00:15:55.600><c> to</c><00:15:55.920><c> inspect</c><00:15:56.480><c> and</c><00:15:56.800><c> test</c><00:15:57.040><c> the</c><00:15:57.279><c> model's</c>
+learn to inspect and test the model's
+learn to inspect and test the model's
+understanding<00:15:58.240><c> before</c><00:15:58.480><c> it</c><00:15:58.720><c> touches</c><00:15:59.040><c> tools.</c>
+understanding before it touches tools.
+understanding before it touches tools.
+Start<00:15:59.920><c> to</c><00:16:00.160><c> think</c><00:16:00.320><c> about</c><00:16:00.480><c> how</c><00:16:00.639><c> to</c><00:16:00.800><c> run</c><00:16:01.040><c> your</c>
+Start to think about how to run your
+Start to think about how to run your
+agent<00:16:01.680><c> against</c><00:16:02.079><c> eval</c><00:16:02.639><c> suites</c><00:16:03.279><c> that</c><00:16:03.680><c> include</c>
+agent against eval suites that include
+agent against eval suites that include
+ambiguous<00:16:05.120><c> prompts</c><00:16:05.600><c> on</c><00:16:05.920><c> purpose</c><00:16:06.399><c> because</c><00:16:06.639><c> the</c>
+ambiguous prompts on purpose because the
+ambiguous prompts on purpose because the
+real<00:16:07.120><c> world</c><00:16:07.360><c> is</c><00:16:07.600><c> going</c><00:16:07.680><c> to</c><00:16:07.839><c> be</c><00:16:08.000><c> ambiguous</c><00:16:08.880><c> and</c>
+real world is going to be ambiguous and
+real world is going to be ambiguous and
+you<00:16:09.440><c> should</c><00:16:09.600><c> be</c><00:16:09.839><c> grading</c><00:16:10.560><c> how</c><00:16:10.800><c> the</c><00:16:11.120><c> model</c>
+you should be grading how the model
+you should be grading how the model
+reaches<00:16:11.839><c> the</c><00:16:12.079><c> final</c><00:16:12.320><c> output</c><00:16:12.720><c> and</c><00:16:13.040><c> how</c><00:16:13.279><c> well</c><00:16:13.440><c> it</c>
+reaches the final output and how well it
+reaches the final output and how well it
+handles<00:16:14.079><c> ambiguity</c><00:16:14.800><c> along</c><00:16:15.040><c> the</c><00:16:15.199><c> way.</c><00:16:15.519><c> Agent</c>
+handles ambiguity along the way. Agent
+handles ambiguity along the way. Agent
+behavior<00:16:16.480><c> needs</c><00:16:16.800><c> to</c><00:16:16.959><c> be</c><00:16:17.120><c> evaluated</c><00:16:17.759><c> in</c><00:16:18.079><c> tool</c>
+behavior needs to be evaluated in tool
+behavior needs to be evaluated in tool
+use<00:16:18.800><c> in</c><00:16:19.040><c> multi-step</c><00:16:19.759><c> settings</c><00:16:20.560><c> under</c>
+use in multi-step settings under
+use in multi-step settings under
+controlled<00:16:21.440><c> conditions.</c><00:16:22.079><c> I</c><00:16:22.399><c> would</c><00:16:22.560><c> also</c><00:16:22.880><c> take</c>
+controlled conditions. I would also take
+controlled conditions. I would also take
+adopting<00:16:23.600><c> a</c><00:16:23.839><c> disambiguation</c><00:16:24.720><c> mindset</c>
+adopting a disambiguation mindset
+adopting a disambiguation mindset
+seriously.<00:16:26.160><c> And</c><00:16:26.320><c> you</c><00:16:26.560><c> can</c><00:16:26.720><c> implement</c><00:16:27.120><c> it</c>
+seriously. And you can implement it
+seriously. And you can implement it
+relatively<00:16:28.079><c> simply</c><00:16:28.800><c> when</c><00:16:29.040><c> an</c><00:16:29.279><c> action</c><00:16:29.759><c> is</c>
+relatively simply when an action is
+relatively simply when an action is
+destructive.<00:16:31.279><c> Have</c><00:16:31.519><c> the</c><00:16:31.759><c> agent</c><00:16:32.480><c> know</c><00:16:32.800><c> that</c>
+destructive. Have the agent know that
+destructive. Have the agent know that
+and<00:16:33.519><c> then</c><00:16:33.839><c> trigger</c><00:16:34.480><c> a</c><00:16:34.800><c> surfaced</c>
+and then trigger a surfaced
+and then trigger a surfaced
+interpretation<00:16:36.160><c> and</c><00:16:36.399><c> a</c><00:16:36.639><c> clarifying</c><00:16:37.440><c> question</c>
+interpretation and a clarifying question
+interpretation and a clarifying question
+if<00:16:38.320><c> multiple</c><00:16:38.800><c> plausible</c><00:16:39.360><c> meanings</c><00:16:39.839><c> exist.</c>
+if multiple plausible meanings exist.
+if multiple plausible meanings exist.
+Look,<00:16:41.120><c> an</c><00:16:41.279><c> example</c><00:16:41.759><c> could</c><00:16:42.000><c> be</c><00:16:42.160><c> if</c><00:16:42.399><c> it's</c>
+Look, an example could be if it's
+Look, an example could be if it's
+deleting<00:16:42.959><c> a</c><00:16:43.199><c> record</c><00:16:43.440><c> in</c><00:16:43.680><c> your</c><00:16:43.839><c> database,</c>
+deleting a record in your database,
+deleting a record in your database,
+right?<00:16:44.720><c> Maybe</c><00:16:44.959><c> it</c><00:16:45.199><c> needs</c><00:16:45.360><c> to</c><00:16:45.600><c> surface</c><00:16:46.079><c> an</c>
+right? Maybe it needs to surface an
+right? Maybe it needs to surface an
+interpretation<00:16:47.120><c> and</c><00:16:47.360><c> a</c><00:16:47.600><c> clarifier</c><00:16:48.320><c> to</c>
+interpretation and a clarifier to
+interpretation and a clarifier to
+another<00:16:48.959><c> LLM</c><00:16:49.519><c> or</c><00:16:49.759><c> if</c><00:16:49.920><c> the</c><00:16:50.079><c> stakes</c><00:16:50.399><c> are</c><00:16:50.560><c> high</c>
+another LLM or if the stakes are high
+another LLM or if the stakes are high
+enough<00:16:50.959><c> to</c><00:16:51.199><c> a</c><00:16:51.360><c> human.</c><00:16:52.000><c> But</c><00:16:52.160><c> the</c><00:16:52.320><c> point</c><00:16:52.480><c> is</c><00:16:52.720><c> to</c>
+enough to a human. But the point is to
+enough to a human. But the point is to
+start<00:16:53.120><c> to</c><00:16:53.600><c> align</c><00:16:54.480><c> what</c><00:16:54.800><c> we're</c><00:16:55.040><c> learning</c><00:16:55.440><c> about</c>
+start to align what we're learning about
+start to align what we're learning about
+the<00:16:56.000><c> importance</c><00:16:56.320><c> of</c><00:16:56.639><c> disambiguating</c><00:16:57.759><c> intent</c>
+the importance of disambiguating intent
+the importance of disambiguating intent
+with<00:16:58.880><c> the</c><00:16:59.120><c> way</c><00:16:59.279><c> we</c><00:16:59.519><c> design</c><00:16:59.839><c> our</c><00:17:00.000><c> agentic</c>
+with the way we design our agentic
+with the way we design our agentic
+systems.<00:17:01.279><c> And</c><00:17:01.680><c> obviously</c><00:17:02.160><c> you're</c><00:17:02.320><c> going</c><00:17:02.399><c> to</c>
+systems. And obviously you're going to
+systems. And obviously you're going to
+want<00:17:02.560><c> to</c><00:17:02.720><c> do</c><00:17:02.800><c> this</c><00:17:03.040><c> selectively.</c><00:17:03.759><c> You</c><00:17:03.920><c> cannot</c>
+want to do this selectively. You cannot
+want to do this selectively. You cannot
+have<00:17:04.480><c> the</c><00:17:04.640><c> agent</c><00:17:05.039><c> ask</c><00:17:05.199><c> a</c><00:17:05.439><c> question</c><00:17:05.839><c> every</c>
+have the agent ask a question every
+have the agent ask a question every
+breath<00:17:06.559><c> because</c><00:17:06.959><c> then</c><00:17:07.199><c> it</c><00:17:07.439><c> removes</c><00:17:07.839><c> the</c><00:17:08.079><c> point</c>
+breath because then it removes the point
+breath because then it removes the point
+of<00:17:08.799><c> having</c><00:17:09.039><c> the</c><00:17:09.280><c> agent</c><00:17:09.600><c> at</c><00:17:09.760><c> all.</c><00:17:10.240><c> You</c><00:17:10.559><c> need</c><00:17:10.640><c> to</c>
+of having the agent at all. You need to
+of having the agent at all. You need to
+decide<00:17:11.199><c> where</c><00:17:11.439><c> the</c><00:17:11.600><c> agent</c><00:17:12.000><c> really</c><00:17:12.240><c> needs</c><00:17:12.400><c> to</c>
+decide where the agent really needs to
+decide where the agent really needs to
+get<00:17:12.720><c> intent</c><00:17:13.199><c> right</c><00:17:13.439><c> and</c><00:17:13.679><c> where</c><00:17:13.839><c> your</c><00:17:14.079><c> agentic</c>
+get intent right and where your agentic
+get intent right and where your agentic
+system<00:17:15.039><c> alone</c><00:17:15.839><c> can't</c><00:17:16.160><c> carry</c><00:17:16.480><c> that</c><00:17:16.720><c> intent</c>
+system alone can't carry that intent
+system alone can't carry that intent
+clearly.
+clearly.
+clearly.
+And<00:17:18.959><c> then</c><00:17:19.199><c> you're</c><00:17:19.439><c> going</c><00:17:19.520><c> to</c><00:17:19.600><c> find</c><00:17:19.839><c> out,</c><00:17:20.160><c> okay,</c>
+And then you're going to find out, okay,
+And then you're going to find out, okay,
+now<00:17:20.880><c> we</c><00:17:21.120><c> need</c><00:17:21.280><c> to</c><00:17:21.439><c> have</c><00:17:21.520><c> a</c><00:17:21.679><c> disambiguation</c>
+now we need to have a disambiguation
+now we need to have a disambiguation
+loop<00:17:22.880><c> here.</c><00:17:23.360><c> This</c><00:17:23.520><c> is</c><00:17:23.679><c> what</c><00:17:23.839><c> this</c><00:17:24.000><c> loop</c><00:17:24.240><c> looks</c>
+loop here. This is what this loop looks
+loop here. This is what this loop looks
+like.<00:17:24.720><c> This</c><00:17:24.880><c> is</c><00:17:24.959><c> why</c><00:17:25.120><c> it</c><00:17:25.360><c> matters</c><00:17:25.600><c> here.</c><00:17:25.919><c> This</c>
+like. This is why it matters here. This
+like. This is why it matters here. This
+is<00:17:26.079><c> why</c><00:17:26.240><c> it's</c><00:17:26.480><c> worth</c><00:17:26.640><c> it.</c><00:17:26.959><c> And</c><00:17:27.199><c> then</c><00:17:27.360><c> before</c>
+is why it's worth it. And then before
+is why it's worth it. And then before
+you<00:17:27.839><c> forget,</c><00:17:28.319><c> make</c><00:17:28.480><c> sure</c><00:17:28.559><c> you</c><00:17:28.799><c> externalize</c>
+you forget, make sure you externalize
+you forget, make sure you externalize
+your<00:17:29.600><c> intent</c><00:17:30.080><c> as</c><00:17:30.320><c> an</c><00:17:30.559><c> artifact</c><00:17:30.960><c> that</c><00:17:31.200><c> you</c><00:17:31.360><c> can</c>
+your intent as an artifact that you can
+your intent as an artifact that you can
+update.<00:17:32.240><c> Because</c><00:17:32.559><c> the</c><00:17:32.799><c> closer</c><00:17:33.679><c> you</c><00:17:34.000><c> are</c><00:17:34.160><c> to</c>
+update. Because the closer you are to
+update. Because the closer you are to
+having<00:17:34.799><c> a</c><00:17:35.120><c> sort</c><00:17:35.360><c> of</c><00:17:35.600><c> living</c><00:17:36.160><c> requirements</c>
+having a sort of living requirements
+having a sort of living requirements
+page<00:17:37.039><c> or</c><00:17:37.280><c> a</c><00:17:37.360><c> living</c><00:17:37.600><c> intent</c><00:17:38.160><c> page,</c><00:17:38.880><c> the</c><00:17:39.200><c> more</c>
+page or a living intent page, the more
+page or a living intent page, the more
+you're<00:17:40.240><c> going</c><00:17:40.559><c> to</c><00:17:40.799><c> be</c><00:17:41.039><c> able</c><00:17:41.360><c> to</c><00:17:41.679><c> build</c>
+you're going to be able to build
+you're going to be able to build
+interfaces<00:17:43.280><c> that</c><00:17:43.840><c> actually</c><00:17:44.480><c> drive</c><00:17:45.039><c> quality</c>
+interfaces that actually drive quality
+interfaces that actually drive quality
+over<00:17:45.919><c> time</c><00:17:46.480><c> because</c><00:17:46.720><c> you're</c><00:17:46.960><c> going</c><00:17:47.120><c> to</c><00:17:47.200><c> be</c>
+over time because you're going to be
+over time because you're going to be
+able<00:17:47.440><c> to</c><00:17:47.600><c> say</c>
+able to say
+able to say
+it's<00:17:49.440><c> okay</c><00:17:49.679><c> if</c><00:17:49.919><c> you</c><00:17:50.160><c> change</c><00:17:50.400><c> your</c><00:17:50.559><c> mind.</c><00:17:50.960><c> It's</c>
+it's okay if you change your mind. It's
+it's okay if you change your mind. It's
+okay<00:17:51.360><c> if</c><00:17:51.520><c> you</c><00:17:51.679><c> update</c><00:17:52.000><c> your</c><00:17:52.240><c> intent.</c><00:17:52.880><c> Intent</c>
+okay if you update your intent. Intent
+okay if you update your intent. Intent
+is<00:17:53.520><c> a</c><00:17:53.760><c> separate</c><00:17:54.080><c> artifact</c><00:17:54.640><c> in</c><00:17:54.880><c> our</c><00:17:55.120><c> system</c><00:17:55.520><c> and</c>
+is a separate artifact in our system and
+is a separate artifact in our system and
+we<00:17:56.000><c> can</c><00:17:56.160><c> codify</c><00:17:56.720><c> it</c><00:17:56.960><c> really,</c><00:17:57.280><c> really</c><00:17:57.520><c> cleanly</c>
+we can codify it really, really cleanly
+we can codify it really, really cleanly
+and<00:17:58.480><c> we</c><00:17:58.720><c> can</c><00:17:58.880><c> plug</c><00:17:59.120><c> and</c><00:17:59.360><c> play</c><00:17:59.600><c> it</c><00:17:59.760><c> as</c><00:18:00.000><c> we</c><00:18:00.160><c> need</c>
+and we can plug and play it as we need
+and we can plug and play it as we need
+to.<00:18:00.880><c> It</c><00:18:01.120><c> opens</c><00:18:01.440><c> up</c><00:18:01.600><c> a</c><00:18:01.760><c> lot</c><00:18:01.840><c> of</c><00:18:02.000><c> flexibility</c><00:18:02.559><c> in</c>
+to. It opens up a lot of flexibility in
+to. It opens up a lot of flexibility in
+your<00:18:02.880><c> system</c><00:18:03.200><c> design.</c><00:18:03.679><c> I</c><00:18:03.919><c> think</c><00:18:04.080><c> looking</c>
+your system design. I think looking
+your system design. I think looking
+ahead,<00:18:04.960><c> the</c><00:18:05.120><c> winners</c><00:18:05.520><c> in</c><00:18:05.760><c> designing</c><00:18:06.160><c> Agentic</c>
+ahead, the winners in designing Agentic
+ahead, the winners in designing Agentic
+systems<00:18:07.440><c> are</c><00:18:07.760><c> not</c><00:18:08.000><c> going</c><00:18:08.160><c> to</c><00:18:08.320><c> be</c><00:18:08.400><c> the</c><00:18:08.640><c> ones</c>
+systems are not going to be the ones
+systems are not going to be the ones
+that<00:18:09.120><c> have</c><00:18:09.360><c> thousands</c><00:18:09.760><c> of</c><00:18:10.000><c> tools</c><00:18:10.320><c> or</c><00:18:10.480><c> the</c><00:18:10.720><c> most</c>
+that have thousands of tools or the most
+that have thousands of tools or the most
+tools.<00:18:11.280><c> They're</c><00:18:11.440><c> not</c><00:18:11.600><c> going</c><00:18:11.679><c> to</c><00:18:11.760><c> be</c><00:18:11.840><c> the</c><00:18:12.000><c> ones</c>
+tools. They're not going to be the ones
+tools. They're not going to be the ones
+that<00:18:12.320><c> have</c><00:18:12.480><c> put</c><00:18:12.720><c> their</c><00:18:12.880><c> agents</c><00:18:13.440><c> in</c><00:18:13.840><c> the</c><00:18:14.160><c> most</c>
+that have put their agents in the most
+that have put their agents in the most
+different<00:18:14.799><c> places</c><00:18:15.120><c> in</c><00:18:15.360><c> the</c><00:18:15.520><c> business</c><00:18:15.840><c> even.</c>
+different places in the business even.
+different places in the business even.
+They're<00:18:16.880><c> going</c><00:18:17.039><c> to</c><00:18:17.280><c> be</c><00:18:17.919><c> the</c><00:18:18.240><c> tools</c><00:18:18.799><c> and</c>
+They're going to be the tools and
+They're going to be the tools and
+designers<00:18:19.919><c> and</c><00:18:20.240><c> systems</c><00:18:20.720><c> engineers</c><00:18:21.600><c> who</c><00:18:22.000><c> are</c>
+designers and systems engineers who are
+designers and systems engineers who are
+able<00:18:23.039><c> to</c><00:18:23.840><c> reliably</c><00:18:25.280><c> design</c><00:18:26.000><c> agents</c><00:18:26.880><c> that</c><00:18:27.200><c> can</c>
+able to reliably design agents that can
+able to reliably design agents that can
+carry<00:18:27.840><c> intent</c><00:18:28.799><c> clearly</c><00:18:29.520><c> all</c><00:18:29.679><c> the</c><00:18:29.919><c> way</c><00:18:30.000><c> to</c>
+carry intent clearly all the way to
+carry intent clearly all the way to
+executable<00:18:30.880><c> work.</c><00:18:31.280><c> I</c><00:18:31.520><c> think</c><00:18:31.600><c> we'll</c><00:18:31.840><c> get</c><00:18:32.000><c> some</c>
+executable work. I think we'll get some
+executable work. I think we'll get some
+help<00:18:32.320><c> from</c><00:18:32.559><c> modelmakers</c><00:18:33.120><c> on</c><00:18:33.280><c> intent</c><00:18:33.600><c> in</c><00:18:33.840><c> 2026,</c>
+help from modelmakers on intent in 2026,
+help from modelmakers on intent in 2026,
+but<00:18:34.880><c> a</c><00:18:35.120><c> lot</c><00:18:35.200><c> of</c><00:18:35.280><c> it</c><00:18:35.440><c> is</c><00:18:35.520><c> going</c><00:18:35.600><c> to</c><00:18:35.679><c> be</c><00:18:35.840><c> on</c><00:18:36.000><c> us,</c>
+but a lot of it is going to be on us,
+but a lot of it is going to be on us,
+the<00:18:36.400><c> builders.</c><00:18:36.799><c> And</c><00:18:36.960><c> I</c><00:18:37.120><c> hope</c><00:18:37.200><c> this</c><00:18:37.440><c> video</c><00:18:37.760><c> has</c>
+the builders. And I hope this video has
+the builders. And I hope this video has
+given<00:18:38.160><c> you</c><00:18:38.320><c> a</c><00:18:38.559><c> sense</c><00:18:39.120><c> of</c><00:18:39.360><c> how</c><00:18:39.520><c> we</c><00:18:39.760><c> can</c><00:18:39.919><c> start</c><00:18:40.080><c> to</c>
+given you a sense of how we can start to
+given you a sense of how we can start to
+design<00:18:40.640><c> for</c><00:18:40.880><c> intent</c><00:18:41.200><c> as</c><00:18:41.440><c> a</c><00:18:41.600><c> first</c><00:18:41.840><c> class</c>
+design for intent as a first class
+design for intent as a first class
+object<00:18:42.400><c> in</c><00:18:42.559><c> Agentic</c><00:18:43.120><c> Systems.</c><00:18:43.840><c> F.</c>

@@ -1,0 +1,94 @@
+# YouTube Research — Phase 0: Foundation Research (Orchestrated)
+
+## Use this prompt in Claude Code (VS Code or Terminal)
+## It launches parallel research agents for maximum speed + depth
+
+---
+
+I'm Patrick Heiskanen, CEO of 1658 Holdings. I'm starting Phase 0 of the YouTube Research Knowledge Base project.
+
+Read YouTubeResearch-AIFiles/ROADMAP.md first to understand the full project.
+
+## PHASE 0 MISSION
+
+Run foundation research using parallel agents. We need answers to 4 independent research questions PLUS an Excel analysis. Launch agents in parallel where possible.
+
+### STEP 1: Launch 3 research agents IN PARALLEL
+
+**Agent 1 — "LLM Productivity Research"** (use Task tool, general-purpose agent, web search)
+Research question: Does curated, high-quality research context actually boost LLM output quality?
+- Search for evidence on RAG vs. no-RAG performance differences (2025-2026 studies)
+- What's the difference between raw data dumps vs. curated insights as LLM context?
+- At what point does more context become noise? What's the sweet spot?
+- What formats does Claude handle best as context? (markdown vs. JSON vs. structured)
+- What do power users of Claude/ChatGPT say about custom knowledge bases?
+- Look for real benchmarks, not marketing claims
+- Save findings to: YouTubeResearch-AIFiles/research-outputs/phase-0-llm-productivity.md
+
+**Agent 2 — "Archive Format Research"** (use Task tool, general-purpose agent, web search)
+Research question: What's the best format for archiving research so AI can retrieve and use it?
+- Compare: plain markdown vs. YAML frontmatter + markdown vs. JSON vs. structured databases
+- What file sizes work best for Claude context windows?
+- How should cross-references work? (tags, links, indexes, knowledge graphs?)
+- What makes content "mineable" vs. just "stored"?
+- How do existing knowledge management systems (Obsidian, Notion, etc.) structure for AI retrieval?
+- What's the simplest system that's still powerful?
+- Save findings to: YouTubeResearch-AIFiles/research-outputs/phase-0-archive-formats.md
+
+**Agent 3 — "YouTube Extraction + Batch API Research"** (use Task tool, general-purpose agent, web search)
+Research TWO topics:
+
+Topic A — YouTube transcript extraction:
+- What tools exist? (yt-dlp, youtube-transcript-api, YouTube API v3, browser extensions)
+- Quality: auto-generated vs. manual transcripts
+- Rate limits and costs at scale (50-200 videos)
+- Can Claude Code call these tools directly?
+
+Topic B — Anthropic Batch API:
+- Current pricing (should be 50% of standard API)
+- How to submit batch jobs (API format, SDK usage)
+- Turnaround time and size limits
+- Best practices for batch prompt design
+- Can we use it from Claude Code or need separate scripts?
+
+Save findings to: YouTubeResearch-AIFiles/research-outputs/phase-0-extraction-and-batch.md
+
+### STEP 2: After agents complete — Excel analysis (if file present)
+
+Check if there's an Excel file in YouTubeResearch-AIFiles/reference/
+- If yes: analyze it — what was the idea? What's the structure? What's good, what's missing?
+- If no: skip this step, note it's pending
+
+### STEP 3: Synthesis + Data Model Design
+
+After all research agents complete:
+1. Read all 3 research output files
+2. Synthesize findings into a unified recommendation
+3. Design the data model based on what we learned:
+   - What to capture per CHANNEL
+   - What to capture per VIDEO
+   - What to capture per INSIGHT
+   - How files cross-reference each other
+   - Recommended folder structure for knowledge-base/
+4. Create file templates based on the data model:
+   - Save to YouTubeResearch-AIFiles/prompts/channel-profile-template.md
+   - Save to YouTubeResearch-AIFiles/prompts/video-analysis-template.md
+   - Save to YouTubeResearch-AIFiles/prompts/insight-card-template.md
+5. Write the synthesis report:
+   - Save to YouTubeResearch-AIFiles/research-outputs/phase-0-synthesis.md
+
+### STEP 4: Update ROADMAP
+
+- Mark Phase 0 research tasks as complete in YouTubeResearch-AIFiles/ROADMAP.md
+- Update CURRENT STATUS block
+- Present findings summary to Patrick for Phase 1 decisions
+
+---
+
+## Context
+- Working directory: /Users/patrickheiskanen/1658HoldingsOy-AIFiles/
+- Project folder: YouTubeResearch-AIFiles/
+- This is an R&D project — we're testing whether this is worth doing at all
+- I want REAL findings, not hype. If the research says "this isn't worth it," tell me.
+- I manage 10 companies, ~50 employees. The knowledge base should help with strategic thinking, not just trivia.
+- Budget-conscious: Batch API for heavy lifting, interactive for analysis

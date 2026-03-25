@@ -1,0 +1,17 @@
+{
+  "batch_id": "msgbatch_015dJuvNeABvhwDjR19BjYUh",
+  "batch_file": "batch-job-comparison-20260210-222752.jsonl",
+  "uploaded_at": "2026-02-10T22:49:43.755217",
+  "status": "ended",
+  "model": "claude-opus-4-6",
+  "purpose": "comparison_test",
+  "videos_compared": 2,
+  "request_counts": {
+    "canceled": 0,
+    "errored": 0,
+    "expired": 0,
+    "processing": 0,
+    "succeeded": 2
+  },
+  "last_checked": "2026-02-10T23:35:00.000000"
+}

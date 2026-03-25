@@ -1,0 +1,151 @@
+📄 DEVELOPER BRIEF: Finland DMC Personal Travel Assistant
+
+Versio: 0.1 (Luonnos) | Kohde: MVP (Järvisydän Pilot) & Skaalautuva alusta
+
+1. Executive Summary (Visio)
+
+Rakennamme kevyen, skaalautuvan ja mullistavan digitaalisen matka-assistentin. Järjestelmä ei ole pelkkä chatbot, vaan proaktiivinen Concierge, joka yhdistää:
+
+1.  AI:n älykkyyden: Personoidut suositukset (Sää + Fiilis + Data).
+
+2.  Ihmisen lämmön: Saumaton "Human Handover" ja henkilökunnan "Kuiskaus"-työkalut.
+
+3.  DMC:n logistiikan: Myynnin, varaukset ja partneriverkoston hallinnan.
+
+Tavoite on luoda "Magic Link" -kokemus: Asiakas saa varauksen jälkeen linkin, josta aukeaa henkilökohtainen loma-assistentti ilman rekisteröitymistä.
+
+2. Solution Architecture (Tekninen Perusta)
+
+Järjestelmä perustuu Event-Driven Microservices -arkkitehtuuriin Microsoft Azure -pilvessä.
+
+- Platform: Microsoft Azure (Region: North Europe - GDPR).
+
+- AI Core: Azure OpenAI Service (Private Instances, Zero Data Retention).
+
+- Coding Strategy: 3 hengen tiimi hyödyntää "Agentic AI" -työkaluja (Cursor, Copilot, Gemini) koodauksen nopeuttamiseen (Boilerplate generation).
+
+The "Motorway" (Event Bus)
+
+Kaikki moduulit kommunikoivat keskenään viestiväylän (Azure Event Grid) kautta.
+
+- Esim: OrderPlaced -> AgentCreated -> WelcomeMessageSent.
+
+3. The Agent Ecosystem (Tekoälyn Roolitus)
+
+Emme rakenna yhtä jättiläistä, vaan tiimin erikoistuneita agentteja estääksemme hallusinaatiot.
+
+A. Master Agent (The Concierge)
+
+- Rooli: Asiakaspalvelija. Vastaa "Tone of Voice":sta.
+
+- Tehtävä: Keskustelee asiakkaan kanssa, välittää pyynnöt muille agenteille.
+
+- Rajoitus: Ei saa keksiä hintoja tai saatavuutta itse.
+
+B. Mood & Evaluator Agent (The Psychologist)
+
+- Rooli: Analyytikko.
+
+- Tehtävä: Lukee asiakkaan viestit ja päivittää "Mood Ring" -profiilia (Budget, Luxury, Urgency).
+
+- Output: JSON-data Suggestion Agentille.
+
+C. Suggestion Agent (The Chef)
+
+- Rooli: Looginen päätöksentekijä.
+
+- Tehtävä: Yhdistää datan: Mood + Weather + Inventory.
+
+- Logiikka: "Koska sataa ja asiakas on väsynyt -> Suosittele Day Spa."
+
+D. Booking Specialist (The Cashier)
+
+- Rooli: Transaktioiden hoitaja.
+
+- Tehtävä: Tarkistaa SQL-kannasta saatavuuden ja kirjaa varauksen.
+
+- Output: Onnistui / Epäonnistui -> Triggeröi tarvittaessa Human Handoverin.
+
+4. Core Microservices (Toiminnalliset Palikat)
+
+1. Ingestion & Onboarding Service
+
+- Trigger: Webhook verkkokaupasta / Sähköpostivahvistus.
+
+- Toiminto: Luo käyttäjäsission ja "Magic Linkin".
+
+- Data: Hakee asiakkaan perustiedot (Nimi, Päivät, Majoitus).
+
+2. Context Builder & RAG (Retrieval-Augmented Generation)
+
+- Tehtävä: "Injektoi" tiedon Master Agentille.
+
+- Data Source: Vektoritietokanta (Järvisydän Info PDF:t, Menut) + Asiakasprofiili.
+
+3. Traffic Control (SLA & Dashboard Logic)
+
+- Tehtävä: Priorisoi asiakkaat Staff Dashboardille.
+
+- Status Levels:
+
+  - 🟢 Green: AI hoitaa.
+
+  - 🟡 Yellow: Pending (Agentti miettii / odottaa vahvistusta).
+
+  - 🔴 Red: SLA Breach (Odotettu >30min) / Negatiivinen sentimentti.
+
+  - 🔥 FIRE RED: Hätätilanne (Sairaala/Poliisi/Tulipalo). Pysäyttää AI:n, hälyttää heti.
+
+  - 
+
+  4. Shadow Ledger (Provisiot MVP:ssä):
+
+- Muutos: Ei pelkkä loki, vaan Laskutusvalmius.
+
+- Toteutus: Rakennamme yksinkertaisen "Contract Table" -tietokannan.
+
+  - Partner_A: Commission = 15%
+
+  - Partner_B: Commission = 10%
+
+- Kun varaus tapahtuu, järjestelmä laskee heti: Myynti 200€ * 15% = 30€ receivable.
+
+5. Optimizer & Watchdog (Laadunvalvonta)
+
+- Tehtävä: Ajaa öisin. Anonymisoi datan ja etsii bugeja/kehityskohteita.
+
+- Feedback Loop: "Asiakkaat, jotka kävivät nuotiolla, valittivat savusta -> Päivitä suositusparametrit."
+
+5. User Interfaces (Käyttöliittymät)
+
+A. Traveler App (PWA)
+
+- Kevyt web-sovellus mobiiliin. Ei latausta sovelluskaupasta.
+
+- Näkymät: Chat, Oma Aikataulu, Lompakko (Cashback saldo).
+
+B. Staff Command Center
+
+- Näkymä: Reaaliaikainen lista asiakkaista (Traffic Light -järjestys).
+
+- Toiminnot:
+
+  - Whisper: Anna neuvo agentille.
+
+  - Takeover: Ota keskustelu haltuun.
+
+  - Teach: Merkitse ratkaisu hyväksi opetusdataksi.
+
+6. MVP Scope: "Project Järvisydän"
+
+Keskitymme seuraaviin ominaisuuksiin ensimmäisessä vaiheessa (3-4kk):
+
+1.  Onboarding: Varausvahvistus -> Magic Link -> Tervetuloviesti.
+
+2.  Basic RAG: Botti osaa vastata Järvisydämen UKK-kysymyksiin (Aukiolot, varusteet).
+
+3.  Mood & Suggestion: Yksinkertainen logiikka sään ja fiiliksen perusteella.
+
+4.  Hybrid Booking: Agentti tekee varauspyynnön (API tai Email).
+
+5.  Staff Dashboard v1: Liikennevalot ja Chat-monitorointi.

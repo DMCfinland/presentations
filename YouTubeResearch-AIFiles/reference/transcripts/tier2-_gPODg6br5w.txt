@@ -1,0 +1,2245 @@
+There<00:00:00.400><c> are</c><00:00:00.560><c> four</c><00:00:00.960><c> principles</c><00:00:01.439><c> that</c><00:00:01.839><c> separate</c>
+There are four principles that separate
+There are four principles that separate
+people<00:00:02.560><c> who</c><00:00:02.800><c> successfully</c><00:00:03.439><c> build</c><00:00:03.679><c> AI</c><00:00:04.080><c> systems</c>
+people who successfully build AI systems
+people who successfully build AI systems
+from<00:00:04.799><c> people</c><00:00:04.960><c> who</c><00:00:05.200><c> get</c><00:00:05.359><c> stuck</c><00:00:05.680><c> and</c><00:00:05.920><c> then</c><00:00:06.160><c> just</c>
+from people who get stuck and then just
+from people who get stuck and then just
+give<00:00:06.640><c> up.</c><00:00:07.279><c> And</c><00:00:07.440><c> I</c><00:00:07.600><c> didn't</c><00:00:07.759><c> learn</c><00:00:08.000><c> these</c><00:00:08.160><c> from</c><00:00:08.320><c> a</c>
+give up. And I didn't learn these from a
+give up. And I didn't learn these from a
+textbook.<00:00:08.880><c> And</c><00:00:08.960><c> I'm</c><00:00:09.120><c> also</c><00:00:09.360><c> not</c><00:00:09.519><c> making</c><00:00:09.760><c> them</c>
+textbook. And I'm also not making them
+textbook. And I'm also not making them
+up.<00:00:10.320><c> I</c><00:00:10.559><c> learned</c><00:00:10.880><c> them</c><00:00:11.120><c> last</c><00:00:11.519><c> week</c><00:00:11.840><c> from</c>
+up. I learned them last week from
+up. I learned them last week from
+watching<00:00:12.480><c> dozens</c><00:00:12.880><c> of</c><00:00:13.040><c> people</c><00:00:13.360><c> build</c><00:00:13.599><c> the</c><00:00:13.840><c> same</c>
+watching dozens of people build the same
+watching dozens of people build the same
+system<00:00:14.559><c> in</c><00:00:14.960><c> completely</c><00:00:15.519><c> different</c><00:00:15.759><c> ways.</c><00:00:16.400><c> So</c>
+system in completely different ways. So
+system in completely different ways. So
+last<00:00:16.960><c> week</c><00:00:17.199><c> I</c><00:00:17.440><c> posted</c><00:00:17.760><c> a</c><00:00:18.000><c> video</c><00:00:18.320><c> about</c>
+last week I posted a video about
+last week I posted a video about
+building<00:00:18.880><c> a</c><00:00:19.119><c> second</c><00:00:19.520><c> brain</c><00:00:20.080><c> without</c><00:00:20.400><c> any</c><00:00:20.720><c> code</c>
+building a second brain without any code
+building a second brain without any code
+at<00:00:21.119><c> all.</c><00:00:21.279><c> And</c><00:00:21.359><c> it</c><00:00:21.520><c> got</c><00:00:21.680><c> a</c><00:00:21.760><c> lot</c><00:00:21.920><c> of</c><00:00:22.000><c> traction.</c>
+at all. And it got a lot of traction.
+at all. And it got a lot of traction.
+But<00:00:22.880><c> what</c><00:00:23.119><c> happened</c><00:00:23.439><c> next</c><00:00:23.680><c> was</c><00:00:23.920><c> much</c><00:00:24.160><c> more</c>
+But what happened next was much more
+But what happened next was much more
+interesting<00:00:24.640><c> than</c><00:00:24.880><c> the</c><00:00:25.039><c> video</c><00:00:25.279><c> itself</c>
+interesting than the video itself
+interesting than the video itself
+because<00:00:26.000><c> it</c><00:00:26.240><c> taught</c><00:00:26.480><c> me</c><00:00:26.880><c> how</c><00:00:27.199><c> building</c>
+because it taught me how building
+because it taught me how building
+actually<00:00:28.240><c> works</c><00:00:28.480><c> in</c><00:00:28.800><c> 2026.</c><00:00:30.000><c> People</c><00:00:30.320><c> took</c><00:00:30.880><c> the</c>
+actually works in 2026. People took the
+actually works in 2026. People took the
+broad<00:00:31.519><c> strokes,</c><00:00:31.920><c> the</c><00:00:32.079><c> architecture</c><00:00:32.559><c> I</c>
+broad strokes, the architecture I
+broad strokes, the architecture I
+described,<00:00:33.200><c> and</c><00:00:33.440><c> they</c><00:00:33.600><c> implemented</c><00:00:34.079><c> it</c><00:00:34.320><c> in</c>
+described, and they implemented it in
+described, and they implemented it in
+lots<00:00:34.880><c> and</c><00:00:35.120><c> lots</c><00:00:35.360><c> of</c><00:00:35.520><c> different</c><00:00:35.760><c> tools,</c>
+lots and lots of different tools,
+lots and lots of different tools,
+including<00:00:36.559><c> tools</c><00:00:36.880><c> I</c><00:00:37.120><c> never</c><00:00:37.360><c> recommended.</c><00:00:38.160><c> So</c>
+including tools I never recommended. So
+including tools I never recommended. So
+that<00:00:38.480><c> meant</c><00:00:38.719><c> they</c><00:00:38.879><c> hit</c><00:00:39.120><c> lots</c><00:00:39.280><c> of</c><00:00:39.440><c> interesting</c>
+that meant they hit lots of interesting
+that meant they hit lots of interesting
+walls.<00:00:40.160><c> They</c><00:00:40.399><c> got</c><00:00:40.559><c> around</c><00:00:40.719><c> those</c><00:00:40.960><c> walls</c>
+walls. They got around those walls
+walls. They got around those walls
+interesting<00:00:41.680><c> ways,</c><00:00:42.239><c> and</c><00:00:42.399><c> they</c><00:00:42.640><c> ended</c><00:00:42.879><c> up</c>
+interesting ways, and they ended up
+interesting ways, and they ended up
+using<00:00:43.360><c> AI</c><00:00:43.840><c> not</c><00:00:44.079><c> just</c><00:00:44.320><c> inside</c><00:00:44.719><c> the</c><00:00:44.960><c> system,</c><00:00:45.200><c> as</c>
+using AI not just inside the system, as
+using AI not just inside the system, as
+I<00:00:45.600><c> suggested,</c><00:00:46.079><c> but</c><00:00:46.320><c> also</c><00:00:46.480><c> to</c><00:00:46.719><c> build</c><00:00:46.960><c> the</c>
+I suggested, but also to build the
+I suggested, but also to build the
+system.<00:00:47.760><c> So</c><00:00:48.160><c> today</c><00:00:48.719><c> I</c><00:00:48.960><c> want</c><00:00:49.120><c> to</c><00:00:49.200><c> dig</c><00:00:49.440><c> into</c><00:00:49.680><c> that</c>
+system. So today I want to dig into that
+system. So today I want to dig into that
+story<00:00:50.399><c> and</c><00:00:50.640><c> I</c><00:00:50.800><c> want</c><00:00:50.879><c> to</c><00:00:51.039><c> specifically</c><00:00:51.680><c> call</c>
+story and I want to specifically call
+story and I want to specifically call
+out<00:00:52.480><c> four</c><00:00:53.199><c> building</c><00:00:53.840><c> principles</c><00:00:54.719><c> that</c>
+out four building principles that
+out four building principles that
+emerged<00:00:55.920><c> from</c><00:00:56.239><c> watching</c><00:00:56.640><c> the</c><00:00:56.960><c> community</c><00:00:57.360><c> go</c>
+emerged from watching the community go
+emerged from watching the community go
+through<00:00:57.840><c> dozens</c><00:00:58.160><c> and</c><00:00:58.320><c> dozens</c><00:00:58.640><c> of</c><00:00:58.800><c> builds</c><00:00:59.120><c> over</c>
+through dozens and dozens of builds over
+through dozens and dozens of builds over
+the<00:00:59.440><c> last</c><00:00:59.680><c> week.</c><00:01:00.239><c> And</c><00:01:00.399><c> here's</c><00:01:00.719><c> the</c><00:01:00.960><c> frame</c><00:01:01.199><c> I</c>
+the last week. And here's the frame I
+the last week. And here's the frame I
+want<00:01:01.520><c> you</c><00:01:01.680><c> to</c><00:01:01.840><c> hold</c><00:01:02.000><c> on</c><00:01:02.239><c> through</c><00:01:02.480><c> all</c><00:01:02.640><c> of</c><00:01:02.719><c> this.</c>
+want you to hold on through all of this.
+want you to hold on through all of this.
+The<00:01:03.600><c> second</c><00:01:03.920><c> brain</c><00:01:04.559><c> that's</c><00:01:04.879><c> just</c><00:01:05.119><c> a</c><00:01:05.360><c> project.</c>
+The second brain that's just a project.
+The second brain that's just a project.
+What<00:01:06.799><c> we</c><00:01:07.040><c> learned</c><00:01:07.760><c> building</c><00:01:08.159><c> it</c><00:01:08.640><c> is</c><00:01:08.880><c> about</c><00:01:09.119><c> how</c>
+What we learned building it is about how
+What we learned building it is about how
+complex<00:01:10.080><c> AI</c><00:01:10.560><c> systems</c><00:01:11.040><c> get</c><00:01:11.360><c> constructed</c><00:01:12.080><c> today</c>
+complex AI systems get constructed today
+complex AI systems get constructed today
+in<00:01:12.720><c> a</c><00:01:12.880><c> world</c><00:01:13.040><c> where</c><00:01:13.280><c> you</c><00:01:13.439><c> have</c><00:01:13.600><c> AI</c><00:01:14.000><c> as</c><00:01:14.159><c> a</c>
+in a world where you have AI as a
+in a world where you have AI as a
+collaborator<00:01:15.200><c> and</c><00:01:15.520><c> peer</c><00:01:15.920><c> building</c>
+collaborator and peer building
+collaborator and peer building
+communities<00:01:16.799><c> end</c><00:01:17.040><c> up</c><00:01:17.280><c> functioning</c><00:01:17.680><c> as</c>
+communities end up functioning as
+communities end up functioning as
+pattern<00:01:18.479><c> libraries.</c><00:01:19.439><c> So</c><00:01:19.840><c> let's</c><00:01:20.159><c> start</c><00:01:20.320><c> with</c>
+pattern libraries. So let's start with
+pattern libraries. So let's start with
+the<00:01:20.720><c> principles.</c><00:01:21.360><c> First</c><00:01:22.080><c> architecture</c><00:01:22.799><c> is</c>
+the principles. First architecture is
+the principles. First architecture is
+portable<00:01:24.080><c> tools</c><00:01:24.720><c> are</c><00:01:24.960><c> not.</c><00:01:25.600><c> So</c><00:01:25.840><c> when</c><00:01:26.080><c> I</c>
+portable tools are not. So when I
+portable tools are not. So when I
+started<00:01:27.280><c> with</c><00:01:27.600><c> this</c><00:01:27.840><c> project,</c><00:01:28.320><c> when</c><00:01:28.479><c> I</c><00:01:28.640><c> laid</c>
+started with this project, when I laid
+started with this project, when I laid
+out<00:01:29.119><c> the</c><00:01:29.280><c> video,</c><00:01:29.680><c> I</c><00:01:29.920><c> mentioned</c><00:01:30.240><c> a</c><00:01:30.479><c> specific</c>
+out the video, I mentioned a specific
+out the video, I mentioned a specific
+stack.<00:01:31.280><c> I</c><00:01:31.439><c> talked</c><00:01:31.680><c> about</c><00:01:31.920><c> notion</c><00:01:32.400><c> for</c><00:01:32.640><c> storage</c>
+stack. I talked about notion for storage
+stack. I talked about notion for storage
+and<00:01:33.280><c> Zapier</c><00:01:33.759><c> for</c><00:01:33.920><c> automation</c><00:01:34.320><c> and</c><00:01:34.560><c> claude</c><00:01:34.799><c> or</c>
+and Zapier for automation and claude or
+and Zapier for automation and claude or
+chat<00:01:35.280><c> GPT</c><00:01:35.680><c> for</c><00:01:35.840><c> intelligence.</c><00:01:36.720><c> And</c><00:01:36.960><c> I</c>
+chat GPT for intelligence. And I
+chat GPT for intelligence. And I
+mentioned<00:01:37.520><c> the</c><00:01:37.840><c> different</c><00:01:38.159><c> jobs</c><00:01:38.479><c> that</c><00:01:38.720><c> these</c>
+mentioned the different jobs that these
+mentioned the different jobs that these
+tools<00:01:39.439><c> do.</c><00:01:39.920><c> I</c><00:01:40.159><c> talked</c><00:01:40.479><c> about</c><00:01:40.720><c> how</c><00:01:41.200><c> you</c><00:01:41.520><c> have</c><00:01:41.680><c> to</c>
+tools do. I talked about how you have to
+tools do. I talked about how you have to
+have<00:01:42.000><c> something</c><00:01:42.240><c> that's</c><00:01:42.479><c> kind</c><00:01:42.560><c> of</c><00:01:42.640><c> a</c><00:01:42.880><c> Dropbox,</c>
+have something that's kind of a Dropbox,
+have something that's kind of a Dropbox,
+something<00:01:43.840><c> that</c><00:01:44.079><c> sort</c><00:01:44.240><c> of</c><00:01:44.640><c> lets</c><00:01:44.960><c> you</c><00:01:45.200><c> put</c>
+something that sort of lets you put
+something that sort of lets you put
+things<00:01:46.240><c> away,</c><00:01:47.119><c> something</c><00:01:47.360><c> that</c><00:01:47.759><c> sorts,</c>
+things away, something that sorts,
+things away, something that sorts,
+something<00:01:48.799><c> that</c><00:01:49.040><c> acts</c><00:01:49.360><c> to</c><00:01:49.600><c> structure</c><00:01:50.000><c> data.</c>
+something that acts to structure data.
+something that acts to structure data.
+And<00:01:50.479><c> I</c><00:01:50.640><c> went</c><00:01:50.799><c> through</c><00:01:50.960><c> the</c><00:01:51.200><c> different</c>
+And I went through the different
+And I went through the different
+principles.<00:01:52.240><c> Now</c><00:01:52.799><c> people</c><00:01:53.119><c> were</c><00:01:53.439><c> able</c><00:01:53.680><c> to</c><00:01:53.840><c> take</c>
+principles. Now people were able to take
+principles. Now people were able to take
+those<00:01:54.399><c> principles</c><00:01:55.119><c> and</c><00:01:55.520><c> build</c><00:01:55.759><c> on</c><00:01:56.079><c> them</c><00:01:56.720><c> with</c>
+those principles and build on them with
+those principles and build on them with
+any<00:01:57.439><c> kind</c><00:01:57.600><c> of</c><00:01:57.759><c> tool.</c><00:01:58.079><c> The</c><00:01:58.320><c> tools</c><00:01:59.040><c> could</c><00:01:59.280><c> be</c>
+any kind of tool. The tools could be
+any kind of tool. The tools could be
+very<00:02:00.240><c> very</c><00:02:00.479><c> interchangeable</c><00:02:01.439><c> and</c><00:02:01.680><c> the</c>
+very very interchangeable and the
+very very interchangeable and the
+architecture<00:02:02.399><c> itself</c><00:02:02.880><c> stayed</c><00:02:03.200><c> very</c><00:02:03.520><c> stable</c>
+architecture itself stayed very stable
+architecture itself stayed very stable
+across<00:02:04.159><c> all</c><00:02:04.320><c> of</c><00:02:04.479><c> those</c><00:02:04.640><c> tools.</c><00:02:05.280><c> So</c><00:02:05.520><c> one</c>
+across all of those tools. So one
+across all of those tools. So one
+community<00:02:06.159><c> member</c><00:02:06.560><c> built</c><00:02:06.799><c> their</c><00:02:07.040><c> system</c>
+community member built their system
+community member built their system
+using<00:02:08.080><c> Discord</c><00:02:08.640><c> Obsidian</c><00:02:09.119><c> and</c><00:02:09.280><c> Mac</c><00:02:09.599><c> Whisper.</c>
+using Discord Obsidian and Mac Whisper.
+using Discord Obsidian and Mac Whisper.
+So<00:02:10.319><c> Mac</c><00:02:10.560><c> Whisper</c><00:02:10.959><c> is</c><00:02:11.039><c> a</c><00:02:11.200><c> tool</c><00:02:11.440><c> that</c>
+So Mac Whisper is a tool that
+So Mac Whisper is a tool that
+transcribes<00:02:12.160><c> audio</c><00:02:12.480><c> locally</c><00:02:12.879><c> on</c><00:02:13.040><c> your</c><00:02:13.200><c> Mac</c>
+transcribes audio locally on your Mac
+transcribes audio locally on your Mac
+and<00:02:13.599><c> Discord</c><00:02:14.160><c> is</c><00:02:14.400><c> really</c><00:02:14.560><c> the</c><00:02:14.720><c> capture</c><00:02:15.040><c> point</c>
+and Discord is really the capture point
+and Discord is really the capture point
+that<00:02:15.520><c> replaces</c><00:02:16.000><c> Slack.</c><00:02:16.720><c> And</c><00:02:16.879><c> they</c><00:02:17.040><c> set</c><00:02:17.120><c> up</c><00:02:17.280><c> a</c>
+that replaces Slack. And they set up a
+that replaces Slack. And they set up a
+Discord<00:02:17.840><c> server</c><00:02:18.239><c> with</c><00:02:18.480><c> like</c><00:02:18.640><c> a</c><00:02:18.879><c> special</c>
+Discord server with like a special
+Discord server with like a special
+structure<00:02:19.680><c> and</c><00:02:19.920><c> added</c><00:02:20.319><c> timed</c><00:02:20.720><c> prompts.</c><00:02:21.520><c> They</c>
+structure and added timed prompts. They
+structure and added timed prompts. They
+really<00:02:22.239><c> sort</c><00:02:22.480><c> of</c><00:02:22.640><c> built</c><00:02:22.959><c> it</c><00:02:23.120><c> out.</c><00:02:23.680><c> So</c><00:02:23.840><c> they</c>
+really sort of built it out. So they
+really sort of built it out. So they
+used<00:02:24.319><c> very</c><00:02:24.640><c> different</c><00:02:24.879><c> tools,</c><00:02:25.599><c> but</c><00:02:25.840><c> they</c><00:02:26.160><c> came</c>
+used very different tools, but they came
+used very different tools, but they came
+from<00:02:26.800><c> the</c><00:02:27.120><c> same</c><00:02:27.520><c> principles.</c><00:02:28.480><c> You</c><00:02:28.720><c> can</c><00:02:28.879><c> see</c>
+from the same principles. You can see
+from the same principles. You can see
+the<00:02:29.360><c> capture</c><00:02:29.760><c> point.</c><00:02:30.160><c> You</c><00:02:30.319><c> can</c><00:02:30.400><c> see</c><00:02:30.560><c> the</c>
+the capture point. You can see the
+the capture point. You can see the
+sorting<00:02:31.200><c> that</c><00:02:31.440><c> happens.</c><00:02:31.840><c> You</c><00:02:32.000><c> can</c><00:02:32.080><c> see</c><00:02:32.160><c> the</c>
+sorting that happens. You can see the
+sorting that happens. You can see the
+intelligence<00:02:33.200><c> layer.</c><00:02:33.599><c> The</c><00:02:33.840><c> implementation</c>
+intelligence layer. The implementation
+intelligence layer. The implementation
+details<00:02:35.200><c> may</c><00:02:35.440><c> be</c><00:02:35.599><c> unrecognizable.</c><00:02:36.879><c> Like</c><00:02:37.120><c> they</c>
+details may be unrecognizable. Like they
+details may be unrecognizable. Like they
+connected<00:02:37.760><c> Mac</c><00:02:38.080><c> Whisper</c><00:02:38.480><c> to</c><00:02:38.640><c> automatically</c>
+connected Mac Whisper to automatically
+connected Mac Whisper to automatically
+process<00:02:39.680><c> their</c><00:02:39.920><c> Zoom</c><00:02:40.239><c> recordings,</c><00:02:41.040><c> send</c>
+process their Zoom recordings, send
+process their Zoom recordings, send
+transcripts<00:02:41.840><c> to</c><00:02:42.000><c> Obsidian,</c><00:02:42.560><c> and</c><00:02:42.720><c> then</c><00:02:42.800><c> they</c>
+transcripts to Obsidian, and then they
+transcripts to Obsidian, and then they
+run<00:02:43.120><c> a</c><00:02:43.280><c> slash</c><00:02:43.680><c> command</c><00:02:44.000><c> that</c><00:02:44.239><c> processes</c><00:02:44.640><c> and</c>
+run a slash command that processes and
+run a slash command that processes and
+files<00:02:45.200><c> everything</c><00:02:45.519><c> by</c><00:02:45.760><c> project.</c><00:02:46.560><c> Super</c><00:02:46.959><c> cool.</c>
+files everything by project. Super cool.
+files everything by project. Super cool.
+Definitely<00:02:48.239><c> not</c><00:02:48.480><c> something</c><00:02:48.720><c> in</c><00:02:48.959><c> the</c><00:02:49.120><c> original</c>
+Definitely not something in the original
+Definitely not something in the original
+build<00:02:49.680><c> plan,</c><00:02:50.239><c> but</c><00:02:50.560><c> something</c><00:02:50.879><c> that</c><00:02:51.360><c> follows</c>
+build plan, but something that follows
+build plan, but something that follows
+the<00:02:52.080><c> arc,</c><00:02:52.480><c> the</c><00:02:52.800><c> structure</c><00:02:53.280><c> where</c><00:02:53.519><c> you're</c>
+the arc, the structure where you're
+the arc, the structure where you're
+actually<00:02:54.080><c> trying</c><00:02:54.239><c> to</c><00:02:54.480><c> process</c><00:02:54.800><c> from</c><00:02:54.959><c> a</c>
+actually trying to process from a
+actually trying to process from a
+capture<00:02:55.519><c> point</c><00:02:56.080><c> and</c><00:02:56.400><c> store</c><00:02:56.720><c> it</c><00:02:57.200><c> and</c><00:02:57.440><c> then</c><00:02:57.920><c> make</c>
+capture point and store it and then make
+capture point and store it and then make
+sure<00:02:58.319><c> that</c><00:02:58.480><c> you</c><00:02:58.640><c> can</c><00:02:58.800><c> retrieve</c><00:02:59.120><c> it</c><00:02:59.200><c> in</c><00:02:59.440><c> an</c>
+sure that you can retrieve it in an
+sure that you can retrieve it in an
+intelligent<00:03:00.080><c> way</c><00:03:00.560><c> later.</c><00:03:01.120><c> And</c><00:03:01.280><c> this</c><00:03:01.519><c> just</c>
+intelligent way later. And this just
+intelligent way later. And this just
+underlines<00:03:02.720><c> how</c><00:03:03.200><c> important</c><00:03:03.760><c> it</c><00:03:04.080><c> is</c><00:03:04.879><c> to</c><00:03:05.280><c> think</c>
+underlines how important it is to think
+underlines how important it is to think
+about<00:03:05.840><c> architecture</c><00:03:06.560><c> consistently</c><00:03:07.120><c> in</c><00:03:07.360><c> the</c>
+about architecture consistently in the
+about architecture consistently in the
+age<00:03:07.599><c> of</c><00:03:07.760><c> AI.</c><00:03:08.239><c> You</c><00:03:08.400><c> can</c><00:03:08.560><c> end</c><00:03:08.800><c> up</c><00:03:08.879><c> in</c><00:03:09.120><c> a</c><00:03:09.280><c> place</c><00:03:09.599><c> if</c>
+age of AI. You can end up in a place if
+age of AI. You can end up in a place if
+you<00:03:09.920><c> have</c><00:03:10.000><c> a</c><00:03:10.159><c> good</c><00:03:10.319><c> architecture</c><00:03:11.280><c> where</c><00:03:11.519><c> you</c>
+you have a good architecture where you
+you have a good architecture where you
+have<00:03:11.920><c> a</c><00:03:12.159><c> completely</c><00:03:12.640><c> different</c><00:03:12.959><c> tool</c><00:03:13.280><c> stack.</c>
+have a completely different tool stack.
+have a completely different tool stack.
+I<00:03:13.920><c> did</c><00:03:14.080><c> not</c><00:03:14.319><c> suggest</c><00:03:15.120><c> using</c><00:03:15.440><c> Mac</c><00:03:15.760><c> Whisper</c><00:03:16.080><c> and</c>
+I did not suggest using Mac Whisper and
+I did not suggest using Mac Whisper and
+Obsidian,<00:03:16.959><c> but</c><00:03:17.200><c> it</c><00:03:17.440><c> still</c><00:03:17.680><c> works</c><00:03:18.319><c> because</c><00:03:18.560><c> the</c>
+Obsidian, but it still works because the
+Obsidian, but it still works because the
+architecture<00:03:19.440><c> hold.</c><00:03:19.920><c> And</c><00:03:20.080><c> so</c><00:03:20.239><c> the</c>
+architecture hold. And so the
+architecture hold. And so the
+implication<00:03:21.040><c> here</c><00:03:21.599><c> is</c><00:03:21.760><c> that</c><00:03:21.920><c> when</c><00:03:22.159><c> you're</c>
+implication here is that when you're
+implication here is that when you're
+learning<00:03:22.560><c> to</c><00:03:22.720><c> build</c><00:03:22.959><c> with</c><00:03:23.120><c> AI,</c><00:03:24.000><c> don't</c>
+learning to build with AI, don't
+learning to build with AI, don't
+necessarily<00:03:25.599><c> memorize</c><00:03:26.080><c> the</c><00:03:26.319><c> tools.</c><00:03:26.959><c> Learn</c>
+necessarily memorize the tools. Learn
+necessarily memorize the tools. Learn
+the<00:03:27.599><c> patterns.</c><00:03:28.319><c> The</c><00:03:28.480><c> tools</c><00:03:28.879><c> will</c><00:03:29.120><c> shift.</c>
+the patterns. The tools will shift.
+the patterns. The tools will shift.
+Zapier<00:03:30.319><c> might</c><00:03:30.480><c> not</c><00:03:30.640><c> be</c><00:03:30.799><c> the</c><00:03:30.959><c> right</c><00:03:31.120><c> choice</c><00:03:31.360><c> for</c>
+Zapier might not be the right choice for
+Zapier might not be the right choice for
+you.<00:03:31.840><c> Maybe</c><00:03:32.080><c> notion</c><00:03:32.560><c> might</c><00:03:32.720><c> not</c><00:03:32.879><c> fit</c><00:03:33.120><c> your</c>
+you. Maybe notion might not fit your
+you. Maybe notion might not fit your
+workflow,<00:03:33.920><c> but</c><00:03:34.159><c> the</c><00:03:34.400><c> patterns,</c><00:03:35.120><c> the</c><00:03:35.440><c> idea</c><00:03:36.239><c> of</c>
+workflow, but the patterns, the idea of
+workflow, but the patterns, the idea of
+how<00:03:36.720><c> the</c><00:03:36.959><c> second</c><00:03:37.200><c> brain</c><00:03:37.519><c> is</c><00:03:37.680><c> constructed,</c>
+how the second brain is constructed,
+how the second brain is constructed,
+that<00:03:38.239><c> it</c><00:03:38.480><c> needs</c><00:03:38.640><c> a</c><00:03:38.879><c> place</c><00:03:38.959><c> to</c><00:03:39.200><c> drop</c><00:03:39.440><c> ideas,</c>
+that it needs a place to drop ideas,
+that it needs a place to drop ideas,
+that's<00:03:40.080><c> clean,</c><00:03:40.400><c> it</c><00:03:40.480><c> needs</c><00:03:40.640><c> a</c><00:03:40.799><c> way</c><00:03:40.879><c> to</c><00:03:40.959><c> sort</c>
+that's clean, it needs a way to sort
+that's clean, it needs a way to sort
+ideas,<00:03:41.760><c> etc.,</c><00:03:42.000><c> Those</c><00:03:43.040><c> are</c><00:03:43.360><c> sticky</c><00:03:43.840><c> patterns.</c>
+ideas, etc., Those are sticky patterns.
+ideas, etc., Those are sticky patterns.
+Those<00:03:44.879><c> are</c><00:03:45.120><c> steady.</c><00:03:46.000><c> Once</c><00:03:46.319><c> you</c><00:03:46.640><c> understand</c>
+Those are steady. Once you understand
+Those are steady. Once you understand
+them,<00:03:47.760><c> you</c><00:03:48.000><c> can</c><00:03:48.080><c> implement</c><00:03:48.480><c> them</c><00:03:48.640><c> anywhere.</c>
+them, you can implement them anywhere.
+them, you can implement them anywhere.
+The<00:03:49.440><c> second</c><00:03:49.599><c> of</c><00:03:49.760><c> the</c><00:03:49.920><c> four</c><00:03:50.159><c> principles</c><00:03:50.560><c> that</c><00:03:50.720><c> I</c>
+The second of the four principles that I
+The second of the four principles that I
+want<00:03:50.959><c> to</c><00:03:51.040><c> call</c><00:03:51.200><c> out</c><00:03:51.360><c> is</c><00:03:51.519><c> that</c><00:03:51.680><c> when</c><00:03:51.840><c> you're</c>
+want to call out is that when you're
+want to call out is that when you're
+working<00:03:52.319><c> with</c><00:03:52.640><c> AI,</c><00:03:53.440><c> principlesbased</c>
+working with AI, principlesbased
+working with AI, principlesbased
+guidance<00:03:55.760><c> scales</c><00:03:56.319><c> way</c><00:03:56.640><c> better</c><00:03:56.879><c> than</c>
+guidance scales way better than
+guidance scales way better than
+rules-based<00:03:57.920><c> guidance.</c><00:03:58.560><c> And</c><00:03:58.720><c> this</c><00:03:58.959><c> goes</c><00:03:59.120><c> for</c>
+rules-based guidance. And this goes for
+rules-based guidance. And this goes for
+whether<00:03:59.599><c> you're</c><00:03:59.840><c> coaching</c><00:04:00.239><c> or</c><00:04:00.480><c> whether</c>
+whether you're coaching or whether
+whether you're coaching or whether
+you're<00:04:00.959><c> teaching</c><00:04:01.280><c> or</c><00:04:01.519><c> frankly</c><00:04:01.920><c> whether</c>
+you're teaching or frankly whether
+you're teaching or frankly whether
+you're<00:04:02.319><c> trying</c><00:04:02.480><c> to</c><00:04:02.640><c> learn</c><00:04:02.959><c> for</c><00:04:03.200><c> yourself.</c><00:04:04.000><c> So,</c>
+you're trying to learn for yourself. So,
+you're trying to learn for yourself. So,
+one<00:04:04.720><c> community</c><00:04:05.120><c> member</c><00:04:05.360><c> ended</c><00:04:05.680><c> up</c><00:04:05.840><c> building</c>
+one community member ended up building
+one community member ended up building
+their<00:04:06.400><c> system</c><00:04:06.720><c> using</c><00:04:07.439><c> Claude's</c><00:04:07.920><c> computer</c><00:04:08.319><c> use</c>
+their system using Claude's computer use
+their system using Claude's computer use
+capability<00:04:09.200><c> combined</c><00:04:09.519><c> with</c><00:04:09.760><c> Obsidian</c><00:04:10.319><c> and</c><00:04:10.480><c> a</c>
+capability combined with Obsidian and a
+capability combined with Obsidian and a
+custom<00:04:11.040><c> TypeScript</c><00:04:11.599><c> agent.</c><00:04:12.159><c> And</c><00:04:12.319><c> so,</c><00:04:12.480><c> they</c>
+custom TypeScript agent. And so, they
+custom TypeScript agent. And so, they
+had<00:04:12.799><c> a</c><00:04:12.959><c> custom</c><00:04:13.200><c> agent</c><00:04:13.680><c> running</c><00:04:14.000><c> on</c><00:04:14.319><c> a</c><00:04:14.560><c> VPS,</c>
+had a custom agent running on a VPS,
+had a custom agent running on a VPS,
+which<00:04:15.200><c> is</c><00:04:15.280><c> just</c><00:04:15.439><c> a</c><00:04:15.599><c> virtual</c><00:04:15.920><c> server</c><00:04:16.239><c> in</c><00:04:16.400><c> the</c>
+which is just a virtual server in the
+which is just a virtual server in the
+cloud.<00:04:16.959><c> And</c><00:04:17.120><c> they</c><00:04:17.280><c> had</c><00:04:17.440><c> remote</c><00:04:17.759><c> access</c><00:04:18.160><c> so</c>
+cloud. And they had remote access so
+cloud. And they had remote access so
+they<00:04:18.560><c> can</c><00:04:18.639><c> connect</c><00:04:18.799><c> to</c><00:04:18.959><c> it</c><00:04:19.120><c> from</c><00:04:19.359><c> anywhere.</c>
+they can connect to it from anywhere.
+they can connect to it from anywhere.
+And<00:04:20.079><c> then</c><00:04:20.320><c> here's</c><00:04:20.560><c> the</c><00:04:20.720><c> part</c><00:04:20.799><c> that</c><00:04:21.040><c> caught</c><00:04:21.280><c> my</c>
+And then here's the part that caught my
+And then here's the part that caught my
+attention.<00:04:21.840><c> They</c><00:04:22.079><c> wrote</c><00:04:22.320><c> an</c><00:04:22.560><c> architectural</c>
+attention. They wrote an architectural
+attention. They wrote an architectural
+best<00:04:23.759><c> practices</c><00:04:24.320><c> doc</c><00:04:24.960><c> that</c><00:04:25.199><c> guides</c><00:04:25.600><c> the</c>
+best practices doc that guides the
+best practices doc that guides the
+coding<00:04:26.160><c> agent</c><00:04:26.560><c> through</c><00:04:26.880><c> fixes</c><00:04:27.280><c> when</c><00:04:27.600><c> things</c>
+coding agent through fixes when things
+coding agent through fixes when things
+go<00:04:28.160><c> wrong.</c><00:04:28.800><c> But</c><00:04:28.960><c> instead</c><00:04:29.199><c> of</c><00:04:29.360><c> hard-</c><00:04:29.680><c> coding</c>
+go wrong. But instead of hard- coding
+go wrong. But instead of hard- coding
+specific<00:04:30.400><c> rules,</c><00:04:31.040><c> they</c><00:04:31.360><c> were</c><00:04:31.520><c> smart.</c><00:04:31.919><c> And</c><00:04:32.160><c> so</c>
+specific rules, they were smart. And so
+specific rules, they were smart. And so
+they<00:04:32.639><c> said,</c><00:04:32.960><c> "Let's</c><00:04:33.440><c> write</c><00:04:33.840><c> principles.</c>
+they said, "Let's write principles.
+they said, "Let's write principles.
+Let's<00:04:34.960><c> write</c><00:04:35.280><c> use</c><00:04:35.680><c> testdriven</c><00:04:36.479><c> development</c>
+Let's write use testdriven development
+Let's write use testdriven development
+or<00:04:37.120><c> use</c><00:04:37.520><c> dependency</c><00:04:38.160><c> injection.</c><00:04:38.800><c> Don't</c>
+or use dependency injection. Don't
+or use dependency injection. Don't
+swallow<00:04:39.600><c> errors."</c><00:04:40.160><c> They</c><00:04:40.560><c> essentially</c><00:04:40.960><c> tried</c>
+swallow errors." They essentially tried
+swallow errors." They essentially tried
+to<00:04:41.520><c> give</c><00:04:41.759><c> the</c><00:04:42.000><c> agent</c><00:04:42.720><c> smart</c><00:04:43.199><c> software</c>
+to give the agent smart software
+to give the agent smart software
+development<00:04:44.160><c> principles</c><00:04:44.960><c> so</c><00:04:45.199><c> the</c><00:04:45.360><c> agent</c>
+development principles so the agent
+development principles so the agent
+could<00:04:45.840><c> interpret</c><00:04:46.320><c> those</c><00:04:46.639><c> principles</c><00:04:47.520><c> rather</c>
+could interpret those principles rather
+could interpret those principles rather
+than<00:04:48.080><c> following</c><00:04:48.479><c> rigid</c><00:04:48.880><c> rules.</c><00:04:49.440><c> And</c><00:04:49.680><c> this</c>
+than following rigid rules. And this
+than following rigid rules. And this
+matters<00:04:50.240><c> because</c><00:04:50.560><c> AI</c><00:04:51.040><c> systems</c><00:04:51.520><c> are</c><00:04:51.759><c> very</c><00:04:52.080><c> good</c>
+matters because AI systems are very good
+matters because AI systems are very good
+at<00:04:52.400><c> applying</c><00:04:52.800><c> judgment</c><00:04:53.280><c> in</c><00:04:53.600><c> context.</c><00:04:54.479><c> They're</c>
+at applying judgment in context. They're
+at applying judgment in context. They're
+not<00:04:54.960><c> just</c><00:04:55.199><c> pattern</c><00:04:55.520><c> matchers</c><00:04:55.919><c> executing</c><00:04:56.479><c> if</c>
+not just pattern matchers executing if
+not just pattern matchers executing if
+then<00:04:57.040><c> rules.</c><00:04:57.600><c> We</c><00:04:57.840><c> know</c><00:04:58.000><c> that,</c><00:04:58.320><c> right?</c><00:04:58.720><c> When</c>
+then rules. We know that, right? When
+then rules. We know that, right? When
+you<00:04:59.120><c> give</c><00:04:59.440><c> AI</c><00:04:59.840><c> a</c><00:05:00.080><c> principle</c><00:05:00.479><c> like</c><00:05:00.800><c> don't</c>
+you give AI a principle like don't
+you give AI a principle like don't
+swallow<00:05:01.680><c> errors,</c><00:05:02.080><c> it</c><00:05:02.320><c> can</c><00:05:02.479><c> figure</c><00:05:02.800><c> out</c><00:05:02.960><c> what</c>
+swallow errors, it can figure out what
+swallow errors, it can figure out what
+that<00:05:03.440><c> means</c><00:05:03.840><c> in</c><00:05:04.400><c> a</c><00:05:04.560><c> hundred</c><00:05:04.880><c> different</c>
+that means in a hundred different
+that means in a hundred different
+situations<00:05:05.759><c> that</c><00:05:06.000><c> you</c><00:05:06.240><c> did</c><00:05:06.479><c> not</c><00:05:06.639><c> anticipate.</c>
+situations that you did not anticipate.
+situations that you did not anticipate.
+And<00:05:07.680><c> when</c><00:05:07.840><c> you</c><00:05:08.000><c> give</c><00:05:08.080><c> it</c><00:05:08.240><c> a</c><00:05:08.400><c> rigid</c><00:05:08.800><c> rules</c><00:05:09.199><c> like</c>
+And when you give it a rigid rules like
+And when you give it a rigid rules like
+always<00:05:09.919><c> log</c><00:05:10.320><c> errors</c><00:05:10.560><c> to</c><00:05:10.720><c> this</c><00:05:10.960><c> specific</c><00:05:11.360><c> file,</c>
+always log errors to this specific file,
+always log errors to this specific file,
+you're<00:05:12.400><c> kind</c><00:05:12.560><c> of</c><00:05:12.800><c> limiting</c><00:05:13.120><c> it</c><00:05:13.360><c> to</c><00:05:13.600><c> do</c><00:05:13.759><c> only</c>
+you're kind of limiting it to do only
+you're kind of limiting it to do only
+that<00:05:14.479><c> one</c><00:05:14.800><c> thing,</c><00:05:15.360><c> which</c><00:05:15.759><c> sometimes</c><00:05:16.240><c> you</c><00:05:16.479><c> need</c>
+that one thing, which sometimes you need
+that one thing, which sometimes you need
+to<00:05:16.720><c> do,</c><00:05:16.960><c> but</c><00:05:17.199><c> if</c><00:05:17.360><c> you're</c><00:05:17.520><c> trying</c><00:05:17.680><c> to</c><00:05:17.840><c> build</c>
+to do, but if you're trying to build
+to do, but if you're trying to build
+with<00:05:18.240><c> AI,</c><00:05:18.639><c> it's</c><00:05:18.880><c> often</c><00:05:19.120><c> more</c><00:05:19.440><c> useful</c><00:05:20.240><c> to</c><00:05:20.479><c> go</c>
+with AI, it's often more useful to go
+with AI, it's often more useful to go
+with<00:05:20.800><c> the</c><00:05:20.960><c> principle-based</c><00:05:21.759><c> approach.</c><00:05:22.160><c> And</c>
+with the principle-based approach. And
+with the principle-based approach. And
+so<00:05:22.400><c> the</c><00:05:22.639><c> implication</c><00:05:23.120><c> for</c><00:05:23.360><c> building</c><00:05:23.680><c> is</c>
+so the implication for building is
+so the implication for building is
+really<00:05:24.160><c> interesting.</c><00:05:24.560><c> When</c><00:05:24.800><c> you're</c><00:05:25.039><c> writing</c>
+really interesting. When you're writing
+really interesting. When you're writing
+prompts<00:05:25.840><c> to</c><00:05:26.080><c> build,</c><00:05:26.400><c> you're</c><00:05:26.639><c> effectively</c>
+prompts to build, you're effectively
+prompts to build, you're effectively
+creating<00:05:27.680><c> guidelines</c><00:05:28.240><c> for</c><00:05:28.479><c> AI</c><00:05:28.880><c> systems.</c><00:05:29.520><c> And</c>
+creating guidelines for AI systems. And
+creating guidelines for AI systems. And
+when<00:05:29.840><c> you're</c><00:05:30.000><c> designing</c><00:05:30.400><c> workflows</c><00:05:30.880><c> that</c><00:05:31.039><c> AI</c>
+when you're designing workflows that AI
+when you're designing workflows that AI
+will<00:05:31.600><c> execute,</c><00:05:32.160><c> it</c><00:05:32.400><c> often</c><00:05:32.720><c> makes</c><00:05:32.960><c> sense</c><00:05:33.520><c> to</c>
+will execute, it often makes sense to
+will execute, it often makes sense to
+have<00:05:33.840><c> AI</c><00:05:34.240><c> lean</c><00:05:34.560><c> toward</c><00:05:34.960><c> principles</c><00:05:35.440><c> that</c>
+have AI lean toward principles that
+have AI lean toward principles that
+scale<00:05:36.560><c> rather</c><00:05:36.880><c> than</c><00:05:37.039><c> just</c><00:05:37.280><c> writing</c><00:05:37.600><c> rules.</c>
+scale rather than just writing rules.
+scale rather than just writing rules.
+Unless<00:05:38.479><c> you</c><00:05:38.639><c> have</c><00:05:38.800><c> a</c><00:05:39.039><c> very,</c><00:05:39.280><c> very</c>
+Unless you have a very, very
+Unless you have a very, very
+deterministic<00:05:40.320><c> workflow</c><00:05:40.720><c> you're</c><00:05:40.960><c> trying</c><00:05:41.120><c> to</c>
+deterministic workflow you're trying to
+deterministic workflow you're trying to
+encode.<00:05:42.000><c> So</c><00:05:42.320><c> give</c><00:05:42.479><c> the</c><00:05:42.639><c> AI</c><00:05:42.960><c> room</c><00:05:43.199><c> to</c><00:05:43.440><c> exercise</c>
+encode. So give the AI room to exercise
+encode. So give the AI room to exercise
+judgment<00:05:44.639><c> where</c><00:05:44.960><c> that</c><00:05:45.199><c> makes</c><00:05:45.440><c> sense.</c><00:05:46.000><c> You'll</c>
+judgment where that makes sense. You'll
+judgment where that makes sense. You'll
+get<00:05:46.479><c> more</c><00:05:46.720><c> robust</c><00:05:47.199><c> systems</c><00:05:47.520><c> that</c><00:05:47.759><c> handle</c><00:05:48.000><c> edge</c>
+get more robust systems that handle edge
+get more robust systems that handle edge
+cases<00:05:48.639><c> you</c><00:05:48.880><c> didn't</c><00:05:49.039><c> think</c><00:05:49.199><c> of.</c><00:05:49.520><c> I</c><00:05:49.759><c> also</c><00:05:50.000><c> want</c>
+cases you didn't think of. I also want
+cases you didn't think of. I also want
+to<00:05:50.160><c> call</c><00:05:50.320><c> out</c><00:05:50.400><c> a</c><00:05:50.560><c> meta</c><00:05:50.960><c> layer</c><00:05:51.120><c> that</c><00:05:51.280><c> is</c><00:05:51.440><c> really</c>
+to call out a meta layer that is really
+to call out a meta layer that is really
+interesting.<00:05:52.479><c> This</c><00:05:52.880><c> build</c><00:05:53.680><c> required</c><00:05:54.400><c> writing</c>
+interesting. This build required writing
+interesting. This build required writing
+principles<00:05:56.080><c> for</c><00:05:56.320><c> an</c><00:05:56.639><c> agent</c><00:05:57.440><c> to</c><00:05:57.840><c> build</c><00:05:58.080><c> a</c>
+principles for an agent to build a
+principles for an agent to build a
+second<00:05:58.720><c> brain</c><00:05:59.120><c> system</c><00:05:59.440><c> that</c><00:05:59.759><c> itself</c><00:06:00.400><c> used</c><00:06:00.800><c> AI.</c>
+second brain system that itself used AI.
+second brain system that itself used AI.
+There's<00:06:01.919><c> a</c><00:06:02.080><c> metab</c><00:06:03.039><c> pattern</c><00:06:03.520><c> here</c><00:06:03.680><c> that</c><00:06:03.919><c> I've</c>
+There's a metab pattern here that I've
+There's a metab pattern here that I've
+seen<00:06:04.479><c> over</c><00:06:04.720><c> and</c><00:06:04.960><c> over</c><00:06:05.199><c> again</c><00:06:05.360><c> in</c><00:06:05.680><c> successful</c>
+seen over and over again in successful
+seen over and over again in successful
+2026<00:06:06.880><c> builds.</c><00:06:07.520><c> People</c><00:06:07.759><c> who</c><00:06:08.000><c> are</c><00:06:08.240><c> leveraging</c>
+2026 builds. People who are leveraging
+2026 builds. People who are leveraging
+AI<00:06:09.199><c> to</c><00:06:09.440><c> build</c><00:06:09.680><c> their</c><00:06:09.840><c> AI</c><00:06:10.240><c> tooling</c><00:06:10.880><c> are</c><00:06:11.199><c> going</c>
+AI to build their AI tooling are going
+AI to build their AI tooling are going
+much,<00:06:11.840><c> much,</c><00:06:12.240><c> much</c><00:06:12.560><c> faster.</c><00:06:13.280><c> And</c><00:06:13.440><c> it's</c>
+much, much, much faster. And it's
+much, much, much faster. And it's
+another<00:06:14.000><c> example</c><00:06:14.240><c> of</c><00:06:14.400><c> how</c><00:06:14.639><c> principles</c><00:06:15.199><c> can</c>
+another example of how principles can
+another example of how principles can
+scale<00:06:15.680><c> because</c><00:06:15.919><c> if</c><00:06:16.160><c> you</c><00:06:16.240><c> can</c><00:06:16.479><c> write</c><00:06:16.720><c> an</c><00:06:16.960><c> agent</c>
+scale because if you can write an agent
+scale because if you can write an agent
+that<00:06:18.080><c> builds</c><00:06:18.400><c> your</c><00:06:18.720><c> second</c><00:06:19.039><c> brain</c><00:06:19.360><c> for</c><00:06:19.600><c> you</c>
+that builds your second brain for you
+that builds your second brain for you
+and<00:06:20.000><c> your</c><00:06:20.240><c> agent</c><00:06:20.560><c> relies</c><00:06:20.960><c> on</c><00:06:21.199><c> good</c><00:06:21.840><c> software</c>
+and your agent relies on good software
+and your agent relies on good software
+design<00:06:23.280><c> principles</c><00:06:23.840><c> like</c><00:06:24.160><c> don't</c><00:06:24.479><c> swallow</c>
+design principles like don't swallow
+design principles like don't swallow
+errors,<00:06:25.440><c> use</c><00:06:25.759><c> testdriven</c><00:06:26.400><c> development,</c>
+errors, use testdriven development,
+errors, use testdriven development,
+separate<00:06:27.759><c> your</c><00:06:28.000><c> concerns,</c><00:06:28.880><c> you're</c><00:06:29.280><c> going</c><00:06:29.520><c> to</c>
+separate your concerns, you're going to
+separate your concerns, you're going to
+be<00:06:29.919><c> able</c><00:06:30.240><c> to</c><00:06:30.479><c> reuse</c><00:06:30.880><c> that</c><00:06:31.120><c> build</c><00:06:31.440><c> agent</c><00:06:31.759><c> other</c>
+be able to reuse that build agent other
+be able to reuse that build agent other
+places.<00:06:32.560><c> Principlesbased</c><00:06:33.520><c> guidance</c><00:06:33.919><c> scales</c>
+places. Principlesbased guidance scales
+places. Principlesbased guidance scales
+in<00:06:34.560><c> lots</c><00:06:34.800><c> of</c><00:06:34.880><c> different</c><00:06:35.039><c> ways.</c><00:06:35.280><c> It's</c><00:06:35.440><c> a</c>
+in lots of different ways. It's a
+in lots of different ways. It's a
+fractal<00:06:35.919><c> principle.</c><00:06:36.240><c> It</c><00:06:36.400><c> helps</c><00:06:36.639><c> us</c><00:06:36.880><c> remember</c>
+fractal principle. It helps us remember
+fractal principle. It helps us remember
+things<00:06:37.520><c> better.</c><00:06:38.080><c> It</c><00:06:38.319><c> helps</c><00:06:38.479><c> us</c><00:06:38.720><c> build</c>
+things better. It helps us build
+things better. It helps us build
+directly<00:06:39.440><c> better.</c><00:06:40.000><c> It</c><00:06:40.319><c> also</c><00:06:40.639><c> helps</c><00:06:40.960><c> us</c><00:06:41.120><c> build</c>
+directly better. It also helps us build
+directly better. It also helps us build
+agents<00:06:41.840><c> that</c><00:06:42.080><c> can</c><00:06:42.240><c> build</c><00:06:42.479><c> more</c><00:06:42.720><c> than</c><00:06:42.880><c> one</c>
+agents that can build more than one
+agents that can build more than one
+thing<00:06:43.600><c> like</c><00:06:43.759><c> a</c><00:06:44.000><c> second</c><00:06:44.240><c> brain</c><00:06:44.639><c> and</c><00:06:44.880><c> then</c>
+thing like a second brain and then
+thing like a second brain and then
+something<00:06:45.440><c> else.</c><00:06:45.919><c> So</c><00:06:46.080><c> that's</c><00:06:46.319><c> the</c><00:06:46.560><c> second</c>
+something else. So that's the second
+something else. So that's the second
+principle.<00:06:47.280><c> The</c><00:06:47.520><c> third</c><00:06:47.759><c> is</c><00:06:47.919><c> that</c><00:06:48.160><c> if</c><00:06:48.319><c> the</c>
+principle. The third is that if the
+principle. The third is that if the
+agent<00:06:48.880><c> builds</c><00:06:49.199><c> it,</c><00:06:49.759><c> the</c><00:06:50.000><c> agent</c><00:06:50.319><c> can</c><00:06:50.560><c> maintain</c>
+agent builds it, the agent can maintain
+agent builds it, the agent can maintain
+it.<00:06:51.360><c> One</c><00:06:51.520><c> of</c><00:06:51.600><c> the</c><00:06:51.759><c> most</c><00:06:52.000><c> ambitious</c><00:06:52.560><c> community</c>
+it. One of the most ambitious community
+it. One of the most ambitious community
+builds<00:06:53.440><c> came</c><00:06:53.680><c> from</c><00:06:53.919><c> someone</c><00:06:54.240><c> who</c><00:06:54.479><c> created</c>
+builds came from someone who created
+builds came from someone who created
+what<00:06:55.039><c> they</c><00:06:55.199><c> called</c><00:06:55.360><c> a</c><00:06:55.520><c> meta</c><00:06:55.919><c> agent</c><00:06:56.240><c> framework.</c>
+what they called a meta agent framework.
+what they called a meta agent framework.
+Instead<00:06:57.280><c> of</c><00:06:57.520><c> wiring</c><00:06:57.919><c> up</c><00:06:58.160><c> individual</c><00:06:58.720><c> tools,</c>
+Instead of wiring up individual tools,
+Instead of wiring up individual tools,
+they<00:06:59.360><c> built</c><00:06:59.520><c> an</c><00:06:59.680><c> agent</c><00:07:00.000><c> that</c><00:07:00.240><c> coordinates</c>
+they built an agent that coordinates
+they built an agent that coordinates
+between<00:07:01.039><c> Claude</c><00:07:01.440><c> Code,</c><00:07:02.000><c> Codeex,</c><00:07:02.800><c> Copilot,</c>
+between Claude Code, Codeex, Copilot,
+between Claude Code, Codeex, Copilot,
+and<00:07:03.680><c> Goose,</c><00:07:04.160><c> which</c><00:07:04.319><c> are</c><00:07:04.479><c> all</c><00:07:04.720><c> different</c><00:07:04.960><c> AI</c>
+and Goose, which are all different AI
+and Goose, which are all different AI
+coding<00:07:05.680><c> assistants.</c><00:07:06.400><c> They</c><00:07:06.639><c> implemented</c>
+coding assistants. They implemented
+coding assistants. They implemented
+what's<00:07:07.360><c> called</c><00:07:07.520><c> a</c><00:07:07.680><c> writer</c><00:07:08.080><c> critic</c><00:07:08.400><c> loop</c><00:07:08.639><c> for</c>
+what's called a writer critic loop for
+what's called a writer critic loop for
+reliability<00:07:09.759><c> where</c><00:07:10.080><c> one</c><00:07:10.319><c> agent</c><00:07:10.639><c> produces</c>
+reliability where one agent produces
+reliability where one agent produces
+output<00:07:11.520><c> and</c><00:07:11.759><c> another</c><00:07:12.000><c> agent</c><00:07:12.400><c> validates</c><00:07:12.880><c> it</c>
+output and another agent validates it
+output and another agent validates it
+catching<00:07:13.520><c> errors</c><00:07:13.759><c> before</c><00:07:13.919><c> they</c><00:07:14.160><c> propagate.</c>
+catching errors before they propagate.
+catching errors before they propagate.
+The<00:07:15.120><c> agent</c><00:07:15.360><c> can</c><00:07:15.520><c> then</c><00:07:15.680><c> set</c><00:07:15.840><c> up</c><00:07:16.000><c> a</c><00:07:16.160><c> cloud</c>
+The agent can then set up a cloud
+The agent can then set up a cloud
+infrastructure<00:07:17.440><c> automatically.</c><00:07:18.319><c> It</c><00:07:18.560><c> can</c>
+infrastructure automatically. It can
+infrastructure automatically. It can
+generate<00:07:19.039><c> user</c><00:07:19.360><c> interfaces</c><00:07:20.400><c> on</c><00:07:20.720><c> demand.</c><00:07:21.520><c> This</c>
+generate user interfaces on demand. This
+generate user interfaces on demand. This
+is<00:07:22.000><c> much</c><00:07:22.319><c> more</c><00:07:22.560><c> than</c><00:07:22.720><c> just</c><00:07:22.880><c> a</c><00:07:23.120><c> second</c><00:07:23.360><c> break.</c>
+is much more than just a second break.
+is much more than just a second break.
+And<00:07:24.000><c> the</c><00:07:24.240><c> insight</c><00:07:24.560><c> that</c><00:07:24.800><c> really</c><00:07:24.960><c> stuck</c><00:07:25.199><c> with</c>
+And the insight that really stuck with
+And the insight that really stuck with
+me<00:07:25.680><c> is</c><00:07:26.000><c> that</c><00:07:26.400><c> they</c><00:07:26.720><c> said</c><00:07:26.960><c> their</c><00:07:27.199><c> goal</c><00:07:27.520><c> was</c><00:07:27.759><c> to</c>
+me is that they said their goal was to
+me is that they said their goal was to
+enable<00:07:28.400><c> the</c><00:07:28.639><c> agent</c><00:07:28.960><c> to</c><00:07:29.199><c> set</c><00:07:29.360><c> up</c><00:07:29.520><c> the</c>
+enable the agent to set up the
+enable the agent to set up the
+infrastructure<00:07:30.479><c> rather</c><00:07:30.880><c> than</c><00:07:31.120><c> doing</c><00:07:31.360><c> it</c>
+infrastructure rather than doing it
+infrastructure rather than doing it
+themselves.<00:07:32.560><c> Because</c><00:07:32.720><c> if</c><00:07:32.960><c> the</c><00:07:33.120><c> agent</c><00:07:33.360><c> sets</c><00:07:33.599><c> it</c>
+themselves. Because if the agent sets it
+themselves. Because if the agent sets it
+up,<00:07:33.919><c> the</c><00:07:34.080><c> agent</c><00:07:34.400><c> understands</c><00:07:34.800><c> it,</c><00:07:35.039><c> which</c>
+up, the agent understands it, which
+up, the agent understands it, which
+means<00:07:35.440><c> the</c><00:07:35.599><c> agent</c><00:07:35.840><c> can</c><00:07:36.080><c> self-correct</c><00:07:36.720><c> and</c>
+means the agent can self-correct and
+means the agent can self-correct and
+self-heal<00:07:37.680><c> long</c><00:07:37.919><c> after</c><00:07:38.160><c> you've</c><00:07:38.400><c> forgotten</c>
+self-heal long after you've forgotten
+self-heal long after you've forgotten
+how<00:07:39.039><c> the</c><00:07:39.280><c> system</c><00:07:39.520><c> works.</c><00:07:40.160><c> This</c><00:07:40.400><c> ends</c><00:07:40.639><c> up</c><00:07:40.800><c> being</c>
+how the system works. This ends up being
+how the system works. This ends up being
+more<00:07:41.280><c> like</c><00:07:41.440><c> a</c><00:07:41.680><c> second</c><00:07:42.000><c> brain</c><00:07:42.319><c> for</c><00:07:42.479><c> an</c><00:07:42.720><c> engineer</c>
+more like a second brain for an engineer
+more like a second brain for an engineer
+who's<00:07:43.440><c> coding</c><00:07:43.759><c> a</c><00:07:43.919><c> lot</c><00:07:44.319><c> than</c><00:07:44.560><c> like</c><00:07:44.720><c> a</c>
+who's coding a lot than like a
+who's coding a lot than like a
+traditional<00:07:45.360><c> second</c><00:07:45.759><c> brain</c><00:07:46.000><c> build.</c><00:07:46.720><c> But</c><00:07:47.120><c> by</c>
+traditional second brain build. But by
+traditional second brain build. But by
+having<00:07:47.680><c> the</c><00:07:47.919><c> agent</c><00:07:48.319><c> construct</c><00:07:48.800><c> it,</c><00:07:49.199><c> you</c><00:07:49.440><c> have</c>
+having the agent construct it, you have
+having the agent construct it, you have
+agent<00:07:50.080><c> maintainability,</c><00:07:50.880><c> which</c><00:07:51.039><c> is</c><00:07:51.199><c> going</c><00:07:51.360><c> to</c>
+agent maintainability, which is going to
+agent maintainability, which is going to
+be,<00:07:51.759><c> I</c><00:07:52.000><c> think,</c><00:07:52.240><c> a</c><00:07:52.479><c> big</c><00:07:52.639><c> theme</c><00:07:52.880><c> in</c><00:07:53.120><c> 2026.</c><00:07:53.919><c> So</c>
+be, I think, a big theme in 2026. So
+be, I think, a big theme in 2026. So
+think<00:07:54.319><c> about</c><00:07:54.479><c> what</c><00:07:54.720><c> this</c><00:07:54.960><c> means.</c><00:07:55.440><c> If</c><00:07:55.599><c> I</c><00:07:55.759><c> build</c>
+think about what this means. If I build
+think about what this means. If I build
+something<00:07:56.319><c> myself,</c><00:07:57.039><c> I</c><00:07:57.440><c> understand</c><00:07:57.840><c> it</c><00:07:58.080><c> when</c><00:07:58.319><c> I</c>
+something myself, I understand it when I
+something myself, I understand it when I
+am<00:07:58.720><c> building</c><00:07:59.039><c> it.</c><00:07:59.440><c> But</c><00:07:59.599><c> six</c><00:07:59.840><c> months</c><00:08:00.160><c> later,</c><00:08:00.720><c> I</c>
+am building it. But six months later, I
+am building it. But six months later, I
+have<00:08:01.199><c> to</c><00:08:01.360><c> pick</c><00:08:01.599><c> up</c><00:08:01.759><c> a</c><00:08:02.000><c> lot</c><00:08:02.160><c> of</c><00:08:02.319><c> context</c><00:08:02.720><c> to</c><00:08:02.879><c> get</c>
+have to pick up a lot of context to get
+have to pick up a lot of context to get
+back<00:08:03.199><c> into</c><00:08:03.360><c> it.</c><00:08:03.599><c> Anyone</c><00:08:03.919><c> who</c><00:08:04.080><c> has</c><00:08:04.240><c> worked</c><00:08:04.400><c> with</c>
+back into it. Anyone who has worked with
+back into it. Anyone who has worked with
+engineers<00:08:04.960><c> or</c><00:08:05.199><c> built</c><00:08:05.440><c> something</c><00:08:05.680><c> themselves,</c>
+engineers or built something themselves,
+engineers or built something themselves,
+there's<00:08:06.560><c> something</c><00:08:06.800><c> called</c><00:08:07.039><c> switching</c><00:08:07.440><c> cost.</c>
+there's something called switching cost.
+there's something called switching cost.
+You<00:08:08.400><c> have</c><00:08:08.560><c> to</c><00:08:08.720><c> get</c><00:08:08.879><c> back</c><00:08:09.280><c> into</c><00:08:09.680><c> the</c><00:08:09.919><c> mindset</c>
+You have to get back into the mindset
+You have to get back into the mindset
+and<00:08:11.199><c> understand</c><00:08:11.599><c> the</c><00:08:11.759><c> codebase</c><00:08:12.560><c> before</c><00:08:12.879><c> you</c>
+and understand the codebase before you
+and understand the codebase before you
+can<00:08:13.199><c> make</c><00:08:13.440><c> meaningful</c><00:08:13.919><c> changes.</c><00:08:14.400><c> It</c><00:08:14.560><c> is</c>
+can make meaningful changes. It is
+can make meaningful changes. It is
+non-trivial<00:08:15.759><c> time</c><00:08:16.240><c> and</c><00:08:16.479><c> it</c><00:08:16.720><c> doesn't</c><00:08:16.879><c> look</c>
+non-trivial time and it doesn't look
+non-trivial time and it doesn't look
+productive<00:08:17.680><c> because</c><00:08:17.919><c> you're</c><00:08:18.160><c> just</c><00:08:18.400><c> trying</c><00:08:18.639><c> to</c>
+productive because you're just trying to
+productive because you're just trying to
+recover<00:08:19.199><c> your</c><00:08:19.520><c> memory.</c><00:08:20.080><c> the</c><00:08:20.400><c> configuration</c>
+recover your memory. the configuration
+recover your memory. the configuration
+details,<00:08:21.520><c> the</c><00:08:21.680><c> edge</c><00:08:22.000><c> cases</c><00:08:22.319><c> you</c><00:08:22.479><c> handled,</c><00:08:22.879><c> the</c>
+details, the edge cases you handled, the
+details, the edge cases you handled, the
+reasons<00:08:23.360><c> you</c><00:08:23.599><c> made</c><00:08:23.840><c> certain</c><00:08:24.160><c> choices,</c><00:08:24.720><c> all</c><00:08:24.879><c> of</c>
+reasons you made certain choices, all of
+reasons you made certain choices, all of
+that<00:08:25.280><c> fades</c><00:08:25.680><c> away.</c><00:08:26.319><c> When</c><00:08:26.560><c> an</c><00:08:26.800><c> agent</c><00:08:27.199><c> builds</c>
+that fades away. When an agent builds
+that fades away. When an agent builds
+something<00:08:27.840><c> with</c><00:08:28.080><c> you</c><00:08:28.319><c> and</c><00:08:28.560><c> you</c><00:08:28.720><c> keep</c><00:08:28.960><c> that</c>
+something with you and you keep that
+something with you and you keep that
+conversation<00:08:29.840><c> context,</c><00:08:30.400><c> you</c><00:08:30.479><c> keep</c><00:08:30.639><c> the</c>
+conversation context, you keep the
+conversation context, you keep the
+artifacts<00:08:31.440><c> that</c><00:08:31.599><c> you</c><00:08:31.840><c> created</c><00:08:32.159><c> together,</c><00:08:32.880><c> the</c>
+artifacts that you created together, the
+artifacts that you created together, the
+agent<00:08:33.519><c> can</c><00:08:33.760><c> come</c><00:08:33.919><c> back</c><00:08:34.560><c> and</c><00:08:34.800><c> return</c><00:08:35.120><c> to</c><00:08:35.360><c> debug</c>
+agent can come back and return to debug
+agent can come back and return to debug
+and<00:08:36.080><c> extend</c><00:08:36.320><c> and</c><00:08:36.640><c> maintain</c><00:08:36.880><c> the</c><00:08:37.200><c> system.</c><00:08:37.839><c> And</c>
+and extend and maintain the system. And
+and extend and maintain the system. And
+if<00:08:38.159><c> you've</c><00:08:38.800><c> prepared</c><00:08:39.360><c> the</c><00:08:39.599><c> memory</c>
+if you've prepared the memory
+if you've prepared the memory
+environment<00:08:40.640><c> correctly,</c><00:08:41.440><c> you</c><00:08:41.680><c> can</c>
+environment correctly, you can
+environment correctly, you can
+reinstantiate<00:08:42.719><c> the</c><00:08:42.880><c> agent.</c><00:08:43.279><c> You</c><00:08:43.440><c> can</c>
+reinstantiate the agent. You can
+reinstantiate the agent. You can
+reinvoke<00:08:44.080><c> the</c><00:08:44.240><c> agent</c><00:08:44.480><c> with</c><00:08:44.800><c> all</c><00:08:44.959><c> of</c><00:08:45.040><c> the</c>
+reinvoke the agent with all of the
+reinvoke the agent with all of the
+memories<00:08:45.760><c> associated</c><00:08:46.399><c> with</c><00:08:46.720><c> that</c><00:08:47.040><c> particular</c>
+memories associated with that particular
+memories associated with that particular
+build<00:08:48.080><c> and</c><00:08:48.320><c> it's</c><00:08:48.560><c> fresh.</c><00:08:48.959><c> There's</c><00:08:49.279><c> no</c><00:08:49.440><c> context</c>
+build and it's fresh. There's no context
+build and it's fresh. There's no context
+switching.<00:08:50.480><c> The</c><00:08:50.800><c> documentation</c><00:08:52.160><c> ends</c><00:08:52.399><c> up</c>
+switching. The documentation ends up
+switching. The documentation ends up
+being<00:08:52.720><c> the</c><00:08:52.959><c> build</c><00:08:53.279><c> process</c><00:08:53.760><c> itself.</c><00:08:54.720><c> And</c><00:08:54.880><c> you</c>
+being the build process itself. And you
+being the build process itself. And you
+can<00:08:55.279><c> re</c><00:08:55.760><c> reinvigorate</c><00:08:56.480><c> that.</c><00:08:56.880><c> You</c><00:08:57.040><c> can</c><00:08:57.200><c> re</c>
+can re reinvigorate that. You can re
+can re reinvigorate that. You can re
+bring<00:08:57.839><c> it</c><00:08:58.000><c> back</c><00:08:58.240><c> to</c><00:08:58.480><c> life</c><00:08:58.800><c> like</c><00:08:59.040><c> you're</c>
+bring it back to life like you're
+bring it back to life like you're
+bringing<00:08:59.600><c> back</c><00:08:59.839><c> a</c><00:09:00.080><c> vampire</c><00:09:00.560><c> to</c><00:09:00.800><c> life</c><00:09:00.959><c> in</c><00:09:01.200><c> an</c>
+bringing back a vampire to life in an
+bringing back a vampire to life in an
+old<00:09:01.600><c> be</c><00:09:01.839><c> movie.</c><00:09:02.399><c> And</c><00:09:02.560><c> the</c><00:09:02.720><c> agent</c><00:09:03.040><c> will</c><00:09:03.279><c> just</c>
+old be movie. And the agent will just
+old be movie. And the agent will just
+continue<00:09:03.839><c> to</c><00:09:04.080><c> go</c><00:09:04.320><c> and</c><00:09:04.560><c> do</c><00:09:04.720><c> its</c><00:09:04.959><c> work.</c><00:09:05.440><c> The</c>
+continue to go and do its work. The
+continue to go and do its work. The
+implication<00:09:06.399><c> is</c><00:09:06.560><c> that</c><00:09:06.800><c> when</c><00:09:07.040><c> you're</c><00:09:07.200><c> building</c>
+implication is that when you're building
+implication is that when you're building
+with<00:09:07.760><c> AI,</c><00:09:08.480><c> consider</c><00:09:09.360><c> involving</c><00:09:09.920><c> the</c><00:09:10.160><c> AI</c><00:09:10.480><c> in</c>
+with AI, consider involving the AI in
+with AI, consider involving the AI in
+the<00:09:10.880><c> construction</c><00:09:11.440><c> process,</c><00:09:12.160><c> not</c><00:09:12.320><c> just</c><00:09:12.399><c> the</c>
+the construction process, not just the
+the construction process, not just the
+execution.<00:09:13.200><c> And</c><00:09:13.360><c> I</c><00:09:13.519><c> would</c><00:09:13.600><c> go</c><00:09:13.760><c> farther</c><00:09:14.080><c> than</c>
+execution. And I would go farther than
+execution. And I would go farther than
+that.<00:09:14.399><c> I</c><00:09:14.560><c> would</c><00:09:14.720><c> say</c><00:09:14.880><c> you're</c><00:09:15.040><c> not</c><00:09:15.200><c> just</c><00:09:15.360><c> really</c>
+that. I would say you're not just really
+that. I would say you're not just really
+considering<00:09:16.080><c> in</c><00:09:16.320><c> 2026.</c><00:09:17.279><c> You</c><00:09:17.519><c> should</c><00:09:17.680><c> be</c>
+considering in 2026. You should be
+considering in 2026. You should be
+defaulting<00:09:18.480><c> to</c><00:09:18.959><c> trying</c><00:09:19.600><c> to</c><00:09:19.920><c> involve</c><00:09:20.240><c> AI</c><00:09:20.560><c> in</c>
+defaulting to trying to involve AI in
+defaulting to trying to involve AI in
+the<00:09:20.880><c> construction</c><00:09:21.360><c> process.</c><00:09:22.160><c> Let</c><00:09:22.399><c> it</c><00:09:22.560><c> help</c>
+the construction process. Let it help
+the construction process. Let it help
+you<00:09:22.959><c> set</c><00:09:23.279><c> things</c><00:09:23.440><c> up.</c><00:09:23.839><c> Keep</c><00:09:24.080><c> the</c><00:09:24.320><c> conversation</c>
+you set things up. Keep the conversation
+you set things up. Keep the conversation
+going.<00:09:25.680><c> When</c><00:09:26.000><c> something</c><00:09:26.320><c> breaks</c><00:09:26.800><c> in</c><00:09:27.120><c> 6</c>
+going. When something breaks in 6
+going. When something breaks in 6
+months,<00:09:27.760><c> you</c><00:09:27.920><c> can</c><00:09:28.000><c> come</c><00:09:28.160><c> back</c><00:09:28.320><c> to</c><00:09:28.480><c> that</c>
+months, you can come back to that
+months, you can come back to that
+conversation.<00:09:29.360><c> The</c><00:09:29.519><c> AI</c><00:09:29.839><c> will</c><00:09:29.920><c> help</c><00:09:30.080><c> you</c><00:09:30.240><c> pick</c>
+conversation. The AI will help you pick
+conversation. The AI will help you pick
+up<00:09:30.480><c> the</c><00:09:30.640><c> context</c><00:09:30.959><c> you've</c><00:09:31.279><c> lost.</c><00:09:31.680><c> Even</c><00:09:31.920><c> if</c>
+up the context you've lost. Even if
+up the context you've lost. Even if
+you're<00:09:32.240><c> a</c><00:09:32.399><c> non-coder,</c><00:09:33.440><c> this</c><00:09:33.680><c> has</c><00:09:33.839><c> never</c><00:09:34.080><c> been</c>
+you're a non-coder, this has never been
+you're a non-coder, this has never been
+easier<00:09:35.040><c> because</c><00:09:35.440><c> Claude</c><00:09:35.839><c> launched</c><00:09:36.320><c> co-work</c>
+easier because Claude launched co-work
+easier because Claude launched co-work
+this<00:09:37.040><c> past</c><00:09:37.279><c> week</c><00:09:37.600><c> and</c><00:09:37.920><c> co-work</c><00:09:38.640><c> can</c><00:09:38.880><c> hook</c><00:09:39.200><c> into</c>
+this past week and co-work can hook into
+this past week and co-work can hook into
+the<00:09:39.680><c> Claude</c><00:09:40.080><c> extension</c><00:09:40.560><c> in</c><00:09:40.800><c> Chrome</c><00:09:41.519><c> and</c><00:09:41.760><c> you</c>
+the Claude extension in Chrome and you
+the Claude extension in Chrome and you
+can<00:09:42.080><c> just</c><00:09:42.399><c> ask</c><00:09:42.720><c> claude</c><00:09:43.200><c> coowwork</c><00:09:44.080><c> please</c><00:09:44.399><c> work</c>
+can just ask claude coowwork please work
+can just ask claude coowwork please work
+with<00:09:44.720><c> my</c><00:09:44.959><c> Chrome</c><00:09:45.279><c> instance</c><00:09:45.519><c> and</c><00:09:45.680><c> it</c><00:09:45.920><c> will</c><00:09:46.080><c> use</c>
+with my Chrome instance and it will use
+with my Chrome instance and it will use
+your<00:09:46.480><c> browser</c><00:09:46.880><c> and</c><00:09:47.120><c> build</c><00:09:47.360><c> stuff.</c><00:09:48.080><c> People</c>
+your browser and build stuff. People
+your browser and build stuff. People
+were<00:09:48.640><c> doing</c><00:09:48.880><c> that</c><00:09:49.279><c> as</c><00:09:49.600><c> well</c><00:09:50.080><c> as</c><00:09:50.399><c> part</c><00:09:50.560><c> of</c><00:09:50.800><c> their</c>
+were doing that as well as part of their
+were doing that as well as part of their
+build<00:09:51.600><c> process</c><00:09:52.000><c> for</c><00:09:52.240><c> this</c><00:09:52.480><c> second</c><00:09:52.720><c> brain</c><00:09:53.040><c> in</c>
+build process for this second brain in
+build process for this second brain in
+the<00:09:53.279><c> Substack</c><00:09:53.760><c> chat.</c><00:09:54.240><c> The</c><00:09:54.399><c> fourth</c><00:09:54.640><c> principle</c>
+the Substack chat. The fourth principle
+the Substack chat. The fourth principle
+is<00:09:55.120><c> that</c><00:09:55.360><c> your</c><00:09:55.600><c> system</c><00:09:55.920><c> can</c><00:09:56.160><c> be</c>
+is that your system can be
+is that your system can be
+infrastructure<00:09:57.680><c> not</c><00:09:58.000><c> just</c><00:09:58.399><c> a</c><00:09:58.640><c> tool.</c><00:09:59.200><c> Now,</c>
+infrastructure not just a tool. Now,
+infrastructure not just a tool. Now,
+most<00:09:59.839><c> people</c><00:10:00.000><c> who</c><00:10:00.160><c> built</c><00:10:00.320><c> the</c><00:10:00.480><c> second</c><00:10:00.720><c> brain</c>
+most people who built the second brain
+most people who built the second brain
+did<00:10:01.360><c> treat</c><00:10:01.600><c> it</c><00:10:01.680><c> as</c><00:10:01.839><c> a</c><00:10:02.000><c> personal</c><00:10:02.320><c> productivity</c>
+did treat it as a personal productivity
+did treat it as a personal productivity
+tool.<00:10:03.120><c> That</c><00:10:03.279><c> was</c><00:10:03.360><c> the</c><00:10:03.600><c> original</c><00:10:03.839><c> intent</c><00:10:04.240><c> after</c>
+tool. That was the original intent after
+tool. That was the original intent after
+all.<00:10:04.880><c> You</c><00:10:05.120><c> capture</c><00:10:05.440><c> thoughts,</c><00:10:05.839><c> you</c><00:10:05.920><c> file</c>
+all. You capture thoughts, you file
+all. You capture thoughts, you file
+them,<00:10:06.399><c> you</c><00:10:06.560><c> get</c><00:10:06.640><c> digests,</c><00:10:07.360><c> etc.</c><00:10:07.920><c> But</c><00:10:08.480><c> at</c><00:10:08.560><c> least</c>
+them, you get digests, etc. But at least
+them, you get digests, etc. But at least
+one<00:10:09.200><c> community</c><00:10:09.600><c> member</c><00:10:10.080><c> saw</c><00:10:10.399><c> something</c><00:10:10.640><c> a</c><00:10:10.800><c> bit</c>
+one community member saw something a bit
+one community member saw something a bit
+different.<00:10:11.440><c> They</c><00:10:11.680><c> built</c><00:10:11.920><c> a</c><00:10:12.160><c> hybrid</c><00:10:12.640><c> database</c>
+different. They built a hybrid database
+different. They built a hybrid database
+approach<00:10:13.680><c> using</c><00:10:14.079><c> Postgress</c><00:10:14.800><c> for</c><00:10:15.040><c> structured</c>
+approach using Postgress for structured
+approach using Postgress for structured
+data<00:10:15.839><c> combined</c><00:10:16.160><c> with</c><00:10:16.320><c> a</c><00:10:16.480><c> vector</c><00:10:16.800><c> database</c><00:10:17.200><c> for</c>
+data combined with a vector database for
+data combined with a vector database for
+semantic<00:10:17.920><c> search.</c><00:10:18.399><c> So,</c><00:10:18.560><c> a</c><00:10:18.720><c> vector</c><00:10:19.040><c> DB</c><00:10:19.360><c> lets</c>
+semantic search. So, a vector DB lets
+semantic search. So, a vector DB lets
+you<00:10:19.839><c> search</c><00:10:20.079><c> for</c><00:10:20.399><c> meaning</c><00:10:20.720><c> rather</c><00:10:21.040><c> than</c><00:10:21.279><c> exact</c>
+you search for meaning rather than exact
+you search for meaning rather than exact
+keywords.<00:10:22.079><c> So,</c><00:10:22.240><c> you</c><00:10:22.399><c> can</c><00:10:22.560><c> ask</c><00:10:23.040><c> something</c><00:10:23.360><c> like</c>
+keywords. So, you can ask something like
+keywords. So, you can ask something like
+what<00:10:23.839><c> did</c><00:10:24.000><c> I</c><00:10:24.320><c> capture</c><00:10:24.720><c> about</c><00:10:25.040><c> customer</c>
+what did I capture about customer
+what did I capture about customer
+onboarding?<00:10:26.079><c> and</c><00:10:26.320><c> you</c><00:10:26.560><c> find</c><00:10:26.880><c> relevant</c>
+onboarding? and you find relevant
+onboarding? and you find relevant
+entries<00:10:27.839><c> even</c><00:10:28.000><c> if</c><00:10:28.160><c> they</c><00:10:28.399><c> don't</c><00:10:28.560><c> contain</c><00:10:28.880><c> any</c>
+entries even if they don't contain any
+entries even if they don't contain any
+of<00:10:29.279><c> the</c><00:10:29.440><c> exact</c><00:10:29.760><c> words</c><00:10:30.079><c> like</c><00:10:30.320><c> customer</c>
+of the exact words like customer
+of the exact words like customer
+onboarding.<00:10:31.600><c> Then</c><00:10:32.000><c> they</c><00:10:32.240><c> built</c><00:10:32.480><c> an</c><00:10:32.720><c> API</c>
+onboarding. Then they built an API
+onboarding. Then they built an API
+endpoint<00:10:33.600><c> that</c><00:10:33.760><c> lets</c><00:10:34.160><c> other</c><00:10:34.640><c> applications</c>
+endpoint that lets other applications
+endpoint that lets other applications
+query<00:10:36.000><c> their</c><00:10:36.320><c> second</c><00:10:36.640><c> brain</c><00:10:36.959><c> which</c><00:10:37.200><c> is</c><00:10:37.279><c> super</c>
+query their second brain which is super
+query their second brain which is super
+cool<00:10:38.079><c> and</c><00:10:38.240><c> they're</c><00:10:38.480><c> working</c><00:10:38.640><c> toward</c><00:10:38.880><c> a</c>
+cool and they're working toward a
+cool and they're working toward a
+reusable<00:10:39.519><c> software</c><00:10:39.920><c> development</c><00:10:40.240><c> kit</c><00:10:40.480><c> or</c><00:10:40.640><c> SDK</c>
+reusable software development kit or SDK
+reusable software development kit or SDK
+basically<00:10:41.600><c> a</c><00:10:41.760><c> toolkit</c><00:10:42.240><c> that</c><00:10:42.399><c> other</c>
+basically a toolkit that other
+basically a toolkit that other
+developers<00:10:43.200><c> can</c><00:10:43.440><c> use</c><00:10:43.680><c> so</c><00:10:43.839><c> they</c><00:10:44.079><c> can</c><00:10:44.160><c> connect</c>
+developers can use so they can connect
+developers can use so they can connect
+any<00:10:44.800><c> application</c><00:10:45.360><c> to</c><00:10:45.600><c> their</c><00:10:46.079><c> personal</c>
+any application to their personal
+any application to their personal
+knowledge<00:10:47.040><c> base.</c><00:10:47.760><c> This</c><00:10:48.000><c> is</c><00:10:48.240><c> someone</c><00:10:48.720><c> who</c><00:10:49.040><c> saw</c>
+knowledge base. This is someone who saw
+knowledge base. This is someone who saw
+that<00:10:49.440><c> the</c><00:10:49.680><c> second</c><00:10:50.000><c> brain</c><00:10:50.480><c> is</c><00:10:50.800><c> not</c><00:10:50.959><c> really</c><00:10:51.279><c> just</c>
+that the second brain is not really just
+that the second brain is not really just
+a<00:10:51.680><c> personal</c><00:10:52.000><c> productivity</c><00:10:52.560><c> tool,</c><00:10:52.800><c> but</c><00:10:53.040><c> it</c><00:10:53.200><c> can</c>
+a personal productivity tool, but it can
+a personal productivity tool, but it can
+be<00:10:53.440><c> a</c><00:10:53.680><c> piece</c><00:10:53.839><c> of</c><00:10:54.079><c> infrastructure</c><00:10:54.720><c> that</c><00:10:55.040><c> they</c>
+be a piece of infrastructure that they
+be a piece of infrastructure that they
+can<00:10:55.360><c> build</c><00:10:55.680><c> other</c><00:10:56.079><c> tools</c><00:10:56.480><c> and</c><00:10:56.720><c> systems</c><00:10:57.120><c> on</c><00:10:57.360><c> top</c>
+can build other tools and systems on top
+can build other tools and systems on top
+of.<00:10:57.920><c> I</c><00:10:58.240><c> think</c><00:10:58.640><c> that</c><00:10:58.880><c> this</c><00:10:59.200><c> shows</c><00:10:59.600><c> the</c><00:10:59.920><c> kind</c><00:11:00.079><c> of</c>
+of. I think that this shows the kind of
+of. I think that this shows the kind of
+higher<00:11:00.720><c> level</c><00:11:01.120><c> systems</c><00:11:01.600><c> thinking</c><00:11:02.320><c> that</c><00:11:02.560><c> we</c>
+higher level systems thinking that we
+higher level systems thinking that we
+need<00:11:03.040><c> a</c><00:11:03.279><c> lot</c><00:11:03.440><c> more</c><00:11:03.680><c> of</c><00:11:04.240><c> to</c><00:11:04.560><c> build</c><00:11:04.800><c> compounding</c>
+need a lot more of to build compounding
+need a lot more of to build compounding
+advantage<00:11:05.839><c> in</c><00:11:06.079><c> 2026.</c><00:11:07.120><c> There's</c><00:11:07.360><c> another</c><00:11:07.680><c> piece</c>
+advantage in 2026. There's another piece
+advantage in 2026. There's another piece
+of<00:11:08.079><c> the</c><00:11:08.320><c> story</c><00:11:08.880><c> from</c><00:11:09.200><c> a</c><00:11:09.360><c> different</c><00:11:09.680><c> build</c><00:11:10.160><c> that</c>
+of the story from a different build that
+of the story from a different build that
+illustrates<00:11:10.959><c> the</c><00:11:11.200><c> same</c><00:11:11.440><c> principle.</c><00:11:12.079><c> Another</c>
+illustrates the same principle. Another
+illustrates the same principle. Another
+builder<00:11:12.800><c> went</c><00:11:13.040><c> deep</c><00:11:13.440><c> with</c><00:11:13.760><c> cudrant</c><00:11:14.240><c> for</c>
+builder went deep with cudrant for
+builder went deep with cudrant for
+vector<00:11:14.880><c> search</c><00:11:15.200><c> which</c><00:11:15.360><c> is</c><00:11:15.600><c> sounds</c><00:11:15.839><c> really</c>
+vector search which is sounds really
+vector search which is sounds really
+technical.<00:11:16.399><c> is</c><00:11:16.560><c> a</c><00:11:16.720><c> bit</c><00:11:16.800><c> of</c><00:11:16.800><c> a</c><00:11:16.959><c> technical</c><00:11:17.279><c> build</c>
+technical. is a bit of a technical build
+technical. is a bit of a technical build
+here,<00:11:17.760><c> right?</c><00:11:18.079><c> They</c><00:11:18.320><c> use</c><00:11:18.480><c> Neo4j</c><00:11:19.440><c> for</c><00:11:19.760><c> graphing</c>
+here, right? They use Neo4j for graphing
+here, right? They use Neo4j for graphing
+relationships<00:11:21.279><c> and</c><00:11:21.519><c> Postgress</c><00:11:22.160><c> as</c><00:11:22.399><c> the</c>
+relationships and Postgress as the
+relationships and Postgress as the
+central<00:11:22.959><c> system</c><00:11:23.200><c> of</c><00:11:23.360><c> record.</c><00:11:23.839><c> If</c><00:11:24.079><c> that</c><00:11:24.240><c> sounds</c>
+central system of record. If that sounds
+central system of record. If that sounds
+complicated,<00:11:25.279><c> it's</c><00:11:25.680><c> not</c><00:11:25.839><c> an</c><00:11:26.079><c> easy</c><00:11:26.640><c> build.</c>
+complicated, it's not an easy build.
+complicated, it's not an easy build.
+It's<00:11:27.040><c> a</c><00:11:27.200><c> it's</c><00:11:27.440><c> definitely</c><00:11:27.680><c> intermediate</c><00:11:28.240><c> to</c>
+It's a it's definitely intermediate to
+It's a it's definitely intermediate to
+advanced.<00:11:28.880><c> They</c><00:11:29.120><c> have</c><00:11:29.279><c> multiple</c><00:11:29.680><c> claude</c>
+advanced. They have multiple claude
+advanced. They have multiple claude
+agents<00:11:30.480><c> coordinating</c><00:11:30.959><c> with</c><00:11:31.120><c> a</c><00:11:31.360><c> layer</c><00:11:31.519><c> they</c>
+agents coordinating with a layer they
+agents coordinating with a layer they
+call<00:11:32.079><c> a</c><00:11:32.320><c> skills</c><00:11:32.720><c> plus</c><00:11:32.959><c> evidence</c><00:11:33.519><c> layer</c><00:11:34.000><c> where</c>
+call a skills plus evidence layer where
+call a skills plus evidence layer where
+generated<00:11:34.959><c> content</c><00:11:35.360><c> comes</c><00:11:35.680><c> with</c><00:11:35.920><c> built-in</c>
+generated content comes with built-in
+generated content comes with built-in
+receipts<00:11:37.040><c> showing</c><00:11:37.360><c> what</c><00:11:37.600><c> sources</c><00:11:38.079><c> informed</c>
+receipts showing what sources informed
+receipts showing what sources informed
+each<00:11:38.720><c> output</c><00:11:39.120><c> across</c><00:11:39.440><c> this</c><00:11:39.760><c> entire</c><00:11:40.160><c> system.</c>
+each output across this entire system.
+each output across this entire system.
+This<00:11:41.120><c> is</c><00:11:41.279><c> definitely</c><00:11:41.839><c> not</c><00:11:42.320><c> a</c><00:11:42.640><c> non-technical</c>
+This is definitely not a non-technical
+This is definitely not a non-technical
+build.<00:11:43.839><c> It's</c><00:11:44.000><c> a</c><00:11:44.079><c> technical</c><00:11:44.399><c> build.</c><00:11:44.640><c> It's</c><00:11:44.800><c> an</c>
+build. It's a technical build. It's an
+build. It's a technical build. It's an
+engineering<00:11:45.600><c> build,</c><00:11:46.079><c> but</c><00:11:46.320><c> it</c><00:11:46.640><c> demonstrates</c>
+engineering build, but it demonstrates
+engineering build, but it demonstrates
+that<00:11:47.519><c> you</c><00:11:47.760><c> can</c><00:11:47.920><c> take</c><00:11:48.160><c> the</c><00:11:48.480><c> same</c><00:11:48.800><c> architectural</c>
+that you can take the same architectural
+that you can take the same architectural
+patterns<00:11:50.160><c> and</c><00:11:50.399><c> they</c><00:11:50.640><c> will</c><00:11:50.880><c> scale</c><00:11:51.360><c> from</c><00:11:51.760><c> simple</c>
+patterns and they will scale from simple
+patterns and they will scale from simple
+to<00:11:52.320><c> very</c><00:11:52.640><c> sophisticated</c><00:11:53.440><c> and</c><00:11:53.680><c> the</c><00:11:53.839><c> principles</c>
+to very sophisticated and the principles
+to very sophisticated and the principles
+will<00:11:54.720><c> not</c><00:11:55.120><c> break.</c><00:11:55.680><c> The</c><00:11:55.920><c> other</c><00:11:56.079><c> thing</c><00:11:56.240><c> I</c><00:11:56.480><c> will</c>
+will not break. The other thing I will
+will not break. The other thing I will
+call<00:11:56.800><c> out</c><00:11:57.040><c> is</c><00:11:57.680><c> the</c><00:11:58.000><c> engineering</c><00:11:58.640><c> skills</c><00:11:58.959><c> that</c>
+call out is the engineering skills that
+call out is the engineering skills that
+are<00:11:59.360><c> added</c><00:11:59.680><c> here</c><00:12:00.160><c> enable</c><00:12:00.640><c> you</c><00:12:00.959><c> to</c><00:12:01.440><c> do</c><00:12:02.320><c> and</c>
+are added here enable you to do and
+are added here enable you to do and
+realize<00:12:03.680><c> larger</c><00:12:04.160><c> pieces</c><00:12:04.560><c> of</c><00:12:04.800><c> work.</c><00:12:05.040><c> And</c><00:12:05.200><c> so</c><00:12:05.360><c> if</c>
+realize larger pieces of work. And so if
+realize larger pieces of work. And so if
+you<00:12:05.760><c> want</c><00:12:05.920><c> to</c><00:12:06.079><c> think</c><00:12:06.320><c> about</c><00:12:06.560><c> the</c><00:12:06.800><c> second</c><00:12:07.120><c> brain</c>
+you want to think about the second brain
+you want to think about the second brain
+or<00:12:07.600><c> any</c><00:12:07.839><c> software</c><00:12:08.320><c> project</c><00:12:08.639><c> you're</c>
+or any software project you're
+or any software project you're
+contemplating<00:12:09.760><c> in</c><00:12:10.079><c> a</c><00:12:10.240><c> broader</c><00:12:10.639><c> lens,</c><00:12:10.959><c> if</c><00:12:11.120><c> you</c>
+contemplating in a broader lens, if you
+contemplating in a broader lens, if you
+want<00:12:11.279><c> to</c><00:12:11.440><c> say</c><00:12:11.600><c> this</c><00:12:11.760><c> is</c><00:12:12.000><c> not</c><00:12:12.160><c> just</c><00:12:12.320><c> a</c><00:12:12.639><c> personal</c>
+want to say this is not just a personal
+want to say this is not just a personal
+productivity<00:12:13.519><c> tool,</c><00:12:13.920><c> this</c><00:12:14.079><c> is</c><00:12:14.160><c> a</c><00:12:14.320><c> piece</c><00:12:14.399><c> of</c>
+productivity tool, this is a piece of
+productivity tool, this is a piece of
+infrastructure,<00:12:15.120><c> I</c><00:12:15.279><c> want</c><00:12:15.360><c> to</c><00:12:15.440><c> do</c><00:12:15.600><c> something</c>
+infrastructure, I want to do something
+infrastructure, I want to do something
+bigger<00:12:16.079><c> with</c><00:12:16.240><c> it.</c><00:12:16.720><c> The</c><00:12:16.959><c> more</c><00:12:17.200><c> you're</c><00:12:17.519><c> able</c><00:12:17.760><c> to</c>
+bigger with it. The more you're able to
+bigger with it. The more you're able to
+scale<00:12:18.399><c> your</c><00:12:18.720><c> technical</c><00:12:19.200><c> skills,</c><00:12:20.079><c> the</c><00:12:20.320><c> farther</c>
+scale your technical skills, the farther
+scale your technical skills, the farther
+you're<00:12:20.880><c> going</c><00:12:20.959><c> to</c><00:12:21.120><c> be</c><00:12:21.200><c> able</c><00:12:21.360><c> to</c><00:12:21.519><c> take</c><00:12:21.680><c> that</c>
+you're going to be able to take that
+you're going to be able to take that
+vision.<00:12:22.480><c> And</c><00:12:22.720><c> this</c><00:12:23.200><c> is</c><00:12:23.440><c> one</c><00:12:23.680><c> of</c><00:12:23.760><c> the</c><00:12:23.920><c> things</c><00:12:24.079><c> I</c>
+vision. And this is one of the things I
+vision. And this is one of the things I
+keep<00:12:24.480><c> emphasizing</c><00:12:24.959><c> that</c><00:12:25.200><c> is</c><00:12:25.360><c> is</c>
+keep emphasizing that is is
+keep emphasizing that is is
+counterintuitive.<00:12:26.880><c> Technical</c><00:12:27.519><c> skills</c><00:12:28.000><c> have</c>
+counterintuitive. Technical skills have
+counterintuitive. Technical skills have
+tremendous<00:12:28.800><c> value</c><00:12:28.959><c> in</c><00:12:29.200><c> 2026.</c><00:12:30.079><c> Don't</c><00:12:30.399><c> listen</c>
+tremendous value in 2026. Don't listen
+tremendous value in 2026. Don't listen
+to<00:12:30.880><c> people</c><00:12:31.200><c> who</c><00:12:31.440><c> say</c><00:12:31.600><c> that</c><00:12:31.920><c> engineering</c><00:12:32.399><c> is</c>
+to people who say that engineering is
+to people who say that engineering is
+dead.<00:12:33.279><c> engineers</c><00:12:34.000><c> over</c><00:12:34.240><c> the</c><00:12:34.480><c> last</c><00:12:34.720><c> week</c><00:12:34.959><c> have</c>
+dead. engineers over the last week have
+dead. engineers over the last week have
+been<00:12:35.279><c> able</c><00:12:35.440><c> to</c><00:12:35.600><c> do</c><00:12:35.839><c> much</c><00:12:36.160><c> much</c><00:12:36.639><c> more</c>
+been able to do much much more
+been able to do much much more
+interesting<00:12:37.600><c> things</c><00:12:37.760><c> with</c><00:12:38.000><c> their</c><00:12:38.240><c> projects</c>
+interesting things with their projects
+interesting things with their projects
+because<00:12:39.440><c> they</c><00:12:39.680><c> can</c><00:12:39.839><c> use</c><00:12:40.079><c> AI</c><00:12:40.480><c> to</c><00:12:40.639><c> go</c><00:12:40.880><c> farther</c>
+because they can use AI to go farther
+because they can use AI to go farther
+because<00:12:41.519><c> they</c><00:12:41.920><c> have</c><00:12:42.079><c> the</c><00:12:42.399><c> technical</c><00:12:43.120><c> domain</c>
+because they have the technical domain
+because they have the technical domain
+knowledge<00:12:44.240><c> to</c><00:12:44.560><c> know</c><00:12:44.720><c> where</c><00:12:45.040><c> to</c><00:12:45.279><c> push</c><00:12:45.519><c> AI</c><00:12:45.920><c> to</c>
+knowledge to know where to push AI to
+knowledge to know where to push AI to
+help<00:12:46.320><c> them</c><00:12:46.639><c> build.</c><00:12:47.279><c> Now,</c><00:12:47.680><c> if</c><00:12:47.920><c> you're</c><00:12:48.240><c> trying</c>
+help them build. Now, if you're trying
+help them build. Now, if you're trying
+to<00:12:48.720><c> learn</c><00:12:48.959><c> technical</c><00:12:49.440><c> skills,</c><00:12:50.000><c> it's</c><00:12:50.320><c> never</c>
+to learn technical skills, it's never
+to learn technical skills, it's never
+been<00:12:50.800><c> easier.</c><00:12:51.600><c> You</c><00:12:51.920><c> can</c><00:12:52.320><c> learn</c><00:12:52.639><c> them</c><00:12:53.120><c> with</c><00:12:53.519><c> AI</c>
+been easier. You can learn them with AI
+been easier. You can learn them with AI
+more<00:12:54.560><c> easily</c><00:12:54.880><c> than</c><00:12:55.120><c> you</c><00:12:55.440><c> ever</c><00:12:55.760><c> could</c>
+more easily than you ever could
+more easily than you ever could
+previously.<00:12:56.720><c> You</c><00:12:56.959><c> can</c><00:12:57.120><c> get</c><00:12:57.360><c> custom</c><00:12:58.160><c> AI</c><00:12:59.040><c> coding</c>
+previously. You can get custom AI coding
+previously. You can get custom AI coding
+instructions<00:13:00.800><c> delivered</c><00:13:01.279><c> to</c><00:13:01.440><c> you</c><00:13:01.920><c> every</c>
+instructions delivered to you every
+instructions delivered to you every
+morning<00:13:02.480><c> in</c><00:13:02.720><c> chat</c><00:13:03.040><c> GPT</c><00:13:03.440><c> if</c><00:13:03.600><c> you</c><00:13:03.760><c> set</c><00:13:03.920><c> a</c>
+morning in chat GPT if you set a
+morning in chat GPT if you set a
+scheduled<00:13:04.399><c> task.</c><00:13:04.720><c> I</c><00:13:04.959><c> do</c><00:13:05.120><c> that</c><00:13:05.279><c> every</c><00:13:05.440><c> morning.</c>
+scheduled task. I do that every morning.
+scheduled task. I do that every morning.
+It's<00:13:05.920><c> super</c><00:13:06.160><c> easy</c><00:13:06.480><c> and</c><00:13:06.720><c> there's</c><00:13:06.959><c> lots</c><00:13:07.200><c> of</c>
+It's super easy and there's lots of
+It's super easy and there's lots of
+other<00:13:07.440><c> ways</c><00:13:07.600><c> you</c><00:13:07.760><c> can</c><00:13:07.839><c> do</c><00:13:07.920><c> it.</c><00:13:08.160><c> There's</c><00:13:08.399><c> lots</c>
+other ways you can do it. There's lots
+other ways you can do it. There's lots
+of<00:13:08.720><c> demos</c><00:13:09.040><c> you</c><00:13:09.279><c> can</c><00:13:09.360><c> be</c><00:13:09.440><c> a</c><00:13:09.600><c> part</c><00:13:09.760><c> of.</c><00:13:10.160><c> You're</c>
+of demos you can be a part of. You're
+of demos you can be a part of. You're
+not<00:13:10.560><c> short</c><00:13:10.800><c> of</c><00:13:10.959><c> ways</c><00:13:11.279><c> to</c><00:13:11.440><c> learn</c><00:13:11.680><c> technical</c>
+not short of ways to learn technical
+not short of ways to learn technical
+skills<00:13:12.480><c> if</c><00:13:12.639><c> you</c><00:13:12.800><c> want</c><00:13:12.959><c> to</c><00:13:13.360><c> and</c><00:13:13.600><c> they're</c><00:13:13.839><c> worth</c>
+skills if you want to and they're worth
+skills if you want to and they're worth
+it.<00:13:14.320><c> But</c><00:13:14.560><c> zooming</c><00:13:14.959><c> back</c><00:13:15.120><c> to</c><00:13:15.279><c> the</c><00:13:15.440><c> broader</c>
+it. But zooming back to the broader
+it. But zooming back to the broader
+implication,<00:13:16.480><c> if</c><00:13:16.720><c> you</c><00:13:16.880><c> are</c><00:13:17.120><c> building</c>
+implication, if you are building
+implication, if you are building
+something,<00:13:18.240><c> you</c><00:13:18.480><c> should</c><00:13:18.639><c> be</c><00:13:18.880><c> asking</c><00:13:19.279><c> yourself</c>
+something, you should be asking yourself
+something, you should be asking yourself
+whether<00:13:20.000><c> it's</c><00:13:20.160><c> a</c><00:13:20.399><c> tool</c><00:13:20.959><c> or</c><00:13:21.200><c> infrastructure.</c><00:13:22.079><c> A</c>
+whether it's a tool or infrastructure. A
+whether it's a tool or infrastructure. A
+tool<00:13:22.560><c> is</c><00:13:22.800><c> going</c><00:13:22.880><c> to</c><00:13:22.959><c> solve</c><00:13:23.200><c> a</c><00:13:23.440><c> problem.</c>
+tool is going to solve a problem.
+tool is going to solve a problem.
+Infrastructure<00:13:24.560><c> enables</c><00:13:25.120><c> others</c><00:13:25.920><c> to</c><00:13:26.240><c> build</c>
+Infrastructure enables others to build
+Infrastructure enables others to build
+on<00:13:27.040><c> top</c><00:13:27.200><c> of</c><00:13:27.440><c> the</c><00:13:27.680><c> solution</c><00:13:28.000><c> that</c><00:13:28.240><c> you've</c>
+on top of the solution that you've
+on top of the solution that you've
+constructed.<00:13:29.200><c> So</c><00:13:29.360><c> if</c><00:13:29.519><c> you</c><00:13:29.680><c> design</c><00:13:29.920><c> with</c>
+constructed. So if you design with
+constructed. So if you design with
+infrastructure<00:13:30.720><c> in</c><00:13:30.880><c> mind,</c><00:13:31.200><c> you</c><00:13:31.440><c> create</c><00:13:31.839><c> much</c>
+infrastructure in mind, you create much
+infrastructure in mind, you create much
+much<00:13:32.480><c> more</c><00:13:32.720><c> leverage</c><00:13:33.120><c> than</c><00:13:33.279><c> if</c><00:13:33.440><c> you're</c><00:13:33.600><c> just</c>
+much more leverage than if you're just
+much more leverage than if you're just
+building<00:13:34.000><c> a</c><00:13:34.240><c> personal</c><00:13:34.560><c> productivity</c><00:13:35.120><c> tool.</c>
+building a personal productivity tool.
+building a personal productivity tool.
+And<00:13:35.839><c> I</c><00:13:36.000><c> think</c><00:13:36.079><c> that</c><00:13:36.240><c> that</c><00:13:36.480><c> kind</c><00:13:36.639><c> of</c><00:13:36.800><c> systems</c>
+And I think that that kind of systems
+And I think that that kind of systems
+thinking<00:13:37.519><c> is</c><00:13:37.760><c> going</c><00:13:37.839><c> to</c><00:13:37.920><c> be</c><00:13:38.079><c> more</c><00:13:38.240><c> and</c><00:13:38.480><c> more</c>
+thinking is going to be more and more
+thinking is going to be more and more
+valuable<00:13:39.760><c> in</c><00:13:40.160><c> 2026</c><00:13:40.880><c> as</c><00:13:41.120><c> we're</c><00:13:41.360><c> looking</c><00:13:41.519><c> to</c><00:13:42.079><c> hit</c>
+valuable in 2026 as we're looking to hit
+valuable in 2026 as we're looking to hit
+another<00:13:43.040><c> layer</c><00:13:43.200><c> of</c><00:13:43.279><c> abstraction</c><00:13:44.000><c> as</c><00:13:44.320><c> humans</c>
+another layer of abstraction as humans
+another layer of abstraction as humans
+managing<00:13:45.360><c> systems</c><00:13:45.760><c> of</c><00:13:46.000><c> agents.</c><00:13:46.720><c> Like</c><00:13:46.959><c> your</c>
+managing systems of agents. Like your
+managing systems of agents. Like your
+second<00:13:47.519><c> brain</c><00:13:47.760><c> can</c><00:13:47.920><c> power</c><00:13:48.160><c> a</c><00:13:48.399><c> daily</c><00:13:48.720><c> digest</c>
+second brain can power a daily digest
+second brain can power a daily digest
+and<00:13:49.279><c> that's</c><00:13:49.519><c> super</c><00:13:49.839><c> helpful.</c><00:13:50.560><c> But</c><00:13:50.720><c> if</c><00:13:50.959><c> you</c><00:13:51.120><c> are</c>
+and that's super helpful. But if you are
+and that's super helpful. But if you are
+using<00:13:51.600><c> it</c><00:13:51.839><c> to</c><00:13:52.079><c> power</c><00:13:52.399><c> the</c><00:13:52.720><c> rest</c><00:13:52.880><c> of</c><00:13:53.120><c> your</c>
+using it to power the rest of your
+using it to power the rest of your
+entire<00:13:54.160><c> workflow</c><00:13:54.560><c> and</c><00:13:54.880><c> system,</c><00:13:55.200><c> your</c><00:13:55.440><c> meeting</c>
+entire workflow and system, your meeting
+entire workflow and system, your meeting
+prep,<00:13:56.079><c> your</c><00:13:56.240><c> email</c><00:13:56.480><c> drafts,</c><00:13:56.880><c> your</c><00:13:57.040><c> project</c>
+prep, your email drafts, your project
+prep, your email drafts, your project
+planning,<00:13:58.000><c> if</c><00:13:58.240><c> you're</c><00:13:58.399><c> using</c><00:13:58.560><c> it</c><00:13:58.800><c> to</c><00:13:58.959><c> power</c><00:13:59.199><c> an</c>
+planning, if you're using it to power an
+planning, if you're using it to power an
+entire<00:13:59.920><c> sort</c><00:14:00.079><c> of</c><00:14:00.240><c> chief</c><00:14:00.480><c> of</c><00:14:00.639><c> staff</c><00:14:01.040><c> operation</c>
+entire sort of chief of staff operation
+entire sort of chief of staff operation
+workflow,<00:14:02.480><c> well,</c><00:14:02.720><c> that</c><00:14:02.880><c> initial</c><00:14:03.199><c> investment</c>
+workflow, well, that initial investment
+workflow, well, that initial investment
+pays<00:14:03.920><c> much</c><00:14:04.160><c> more</c><00:14:04.399><c> dividends.</c><00:14:05.120><c> And</c><00:14:05.360><c> yes,</c>
+pays much more dividends. And yes,
+pays much more dividends. And yes,
+you're<00:14:06.000><c> going</c><00:14:06.000><c> to</c><00:14:06.160><c> have</c><00:14:06.240><c> to</c><00:14:06.399><c> have</c><00:14:06.480><c> more</c>
+you're going to have to have more
+you're going to have to have more
+technical<00:14:07.120><c> skills</c><00:14:07.440><c> to</c><00:14:07.600><c> go</c><00:14:07.760><c> after</c><00:14:08.000><c> it,</c><00:14:08.560><c> but</c>
+technical skills to go after it, but
+technical skills to go after it, but
+it'll<00:14:09.360><c> be</c><00:14:09.519><c> worth</c><00:14:09.680><c> it.</c><00:14:09.920><c> And</c><00:14:10.079><c> if</c><00:14:10.320><c> you're</c>
+it'll be worth it. And if you're
+it'll be worth it. And if you're
+wondering<00:14:10.720><c> if</c><00:14:11.040><c> you</c><00:14:11.199><c> can</c><00:14:11.279><c> get</c><00:14:11.440><c> more</c><00:14:11.680><c> details</c><00:14:12.000><c> on</c>
+wondering if you can get more details on
+wondering if you can get more details on
+these<00:14:12.399><c> builds,</c><00:14:12.880><c> I</c><00:14:13.199><c> absolutely</c><00:14:13.839><c> wrote</c><00:14:14.160><c> up</c><00:14:14.320><c> a</c>
+these builds, I absolutely wrote up a
+these builds, I absolutely wrote up a
+summary<00:14:14.880><c> of</c><00:14:15.040><c> community</c><00:14:15.440><c> builds</c><00:14:16.079><c> um</c><00:14:16.160><c> that</c><00:14:16.320><c> I'm</c>
+summary of community builds um that I'm
+summary of community builds um that I'm
+going<00:14:16.560><c> to</c><00:14:16.639><c> be</c><00:14:16.800><c> sticking</c><00:14:17.040><c> in</c><00:14:17.199><c> the</c><00:14:17.279><c> substack</c><00:14:17.920><c> as</c>
+going to be sticking in the substack as
+going to be sticking in the substack as
+well<00:14:18.639><c> so</c><00:14:18.800><c> that</c><00:14:18.959><c> you</c><00:14:19.120><c> can</c><00:14:19.199><c> kind</c><00:14:19.279><c> of</c><00:14:19.440><c> dive</c><00:14:19.600><c> in</c><00:14:19.760><c> and</c>
+well so that you can kind of dive in and
+well so that you can kind of dive in and
+understand<00:14:20.240><c> a</c><00:14:20.399><c> bit</c><00:14:20.560><c> more</c><00:14:20.639><c> of</c><00:14:20.800><c> it.</c><00:14:20.880><c> Now,</c><00:14:21.120><c> let</c><00:14:21.279><c> me</c>
+understand a bit more of it. Now, let me
+understand a bit more of it. Now, let me
+add<00:14:21.600><c> one</c><00:14:21.760><c> more</c><00:14:22.000><c> build</c><00:14:22.160><c> that</c><00:14:22.560><c> illustrates</c>
+add one more build that illustrates
+add one more build that illustrates
+something<00:14:23.199><c> different.</c><00:14:23.600><c> One</c><00:14:23.920><c> community</c>
+something different. One community
+something different. One community
+member<00:14:24.560><c> went</c><00:14:24.880><c> super</c><00:14:25.199><c> minimalist.</c><00:14:26.160><c> They're</c>
+member went super minimalist. They're
+member went super minimalist. They're
+using<00:14:26.720><c> Notion's</c><00:14:27.360><c> mobile</c><00:14:27.680><c> export</c><00:14:28.079><c> feature</c><00:14:28.320><c> as</c>
+using Notion's mobile export feature as
+using Notion's mobile export feature as
+their<00:14:28.720><c> capture</c><00:14:29.120><c> mechanism.</c><00:14:29.680><c> So,</c><00:14:29.839><c> they're</c><00:14:30.000><c> not</c>
+their capture mechanism. So, they're not
+their capture mechanism. So, they're not
+using<00:14:30.399><c> Slack.</c><00:14:31.199><c> They</c><00:14:31.440><c> capture</c><00:14:31.760><c> thoughts</c><00:14:32.079><c> on</c>
+using Slack. They capture thoughts on
+using Slack. They capture thoughts on
+their<00:14:32.399><c> phone,</c><00:14:32.800><c> export</c><00:14:33.279><c> to</c><00:14:33.440><c> Notion,</c><00:14:33.839><c> and</c>
+their phone, export to Notion, and
+their phone, export to Notion, and
+Claude<00:14:34.480><c> just</c><00:14:34.800><c> processes</c><00:14:35.279><c> their</c><00:14:35.440><c> inbox</c><00:14:35.839><c> on</c>
+Claude just processes their inbox on
+Claude just processes their inbox on
+schedule<00:14:36.480><c> and</c><00:14:36.639><c> sorts</c><00:14:36.959><c> everything</c><00:14:37.279><c> into</c><00:14:37.519><c> an</c>
+schedule and sorts everything into an
+schedule and sorts everything into an
+outbox.<00:14:38.560><c> The</c><00:14:38.800><c> whole</c><00:14:39.120><c> system</c><00:14:39.519><c> is</c><00:14:40.240><c> essentially</c>
+outbox. The whole system is essentially
+outbox. The whole system is essentially
+just<00:14:40.880><c> an</c><00:14:41.040><c> inbox</c><00:14:41.519><c> outbox</c><00:14:42.000><c> with</c><00:14:42.240><c> AI</c><00:14:42.639><c> processing</c>
+just an inbox outbox with AI processing
+just an inbox outbox with AI processing
+in<00:14:43.360><c> between.</c><00:14:43.920><c> No</c><00:14:44.160><c> Zapier,</c><00:14:44.959><c> no</c><00:14:45.120><c> automation</c>
+in between. No Zapier, no automation
+in between. No Zapier, no automation
+chain,<00:14:46.399><c> just</c><00:14:46.639><c> notion</c><00:14:47.040><c> and</c><00:14:47.199><c> a</c><00:14:47.360><c> scheduled</c><00:14:47.760><c> cloud</c>
+chain, just notion and a scheduled cloud
+chain, just notion and a scheduled cloud
+call.<00:14:48.399><c> You</c><00:14:48.639><c> can</c><00:14:48.720><c> do</c><00:14:48.880><c> another</c><00:14:49.199><c> version</c><00:14:49.440><c> of</c>
+call. You can do another version of
+call. You can do another version of
+simple<00:14:50.399><c> with</c><00:14:50.880><c> uh</c><00:14:51.120><c> YAML</c><00:14:51.600><c> files</c><00:14:51.920><c> which</c><00:14:52.160><c> are</c><00:14:52.320><c> just</c>
+simple with uh YAML files which are just
+simple with uh YAML files which are just
+declarative<00:14:53.120><c> files</c><00:14:53.760><c> that</c><00:14:54.240><c> uh</c><00:14:54.480><c> developers</c>
+declarative files that uh developers
+declarative files that uh developers
+like<00:14:55.199><c> to</c><00:14:55.360><c> use</c><00:14:55.760><c> to</c><00:14:56.000><c> talk</c><00:14:56.240><c> about</c><00:14:56.399><c> business</c>
+like to use to talk about business
+like to use to talk about business
+rules.<00:14:57.279><c> Another</c><00:14:57.600><c> builder</c><00:14:58.000><c> swapped</c><00:14:58.320><c> out</c>
+rules. Another builder swapped out
+rules. Another builder swapped out
+notion<00:14:58.959><c> entirely</c><00:14:59.760><c> for</c><00:15:00.000><c> local</c><00:15:00.320><c> YAML</c><00:15:00.800><c> files.</c>
+notion entirely for local YAML files.
+notion entirely for local YAML files.
+YAML<00:15:01.680><c> is</c><00:15:01.839><c> just</c><00:15:01.920><c> a</c><00:15:02.160><c> simple</c><00:15:02.320><c> text</c><00:15:02.639><c> format</c><00:15:02.959><c> for</c>
+YAML is just a simple text format for
+YAML is just a simple text format for
+storing<00:15:03.839><c> structured</c><00:15:04.320><c> data.</c><00:15:04.639><c> And</c><00:15:04.800><c> they</c><00:15:04.959><c> kept</c>
+storing structured data. And they kept
+storing structured data. And they kept
+Slack<00:15:05.600><c> as</c><00:15:05.760><c> the</c><00:15:05.920><c> capture</c><00:15:06.399><c> layer</c><00:15:06.560><c> because</c>
+Slack as the capture layer because
+Slack as the capture layer because
+they're<00:15:06.880><c> in</c><00:15:07.040><c> Slack</c><00:15:07.279><c> all</c><00:15:07.440><c> day</c><00:15:07.600><c> anyway</c><00:15:07.839><c> and</c><00:15:08.079><c> it's</c>
+they're in Slack all day anyway and it's
+they're in Slack all day anyway and it's
+frictionless<00:15:08.720><c> from</c><00:15:08.880><c> their</c><00:15:09.120><c> phone.</c><00:15:09.519><c> But</c>
+frictionless from their phone. But
+frictionless from their phone. But
+instead<00:15:09.920><c> of</c><00:15:10.079><c> using</c><00:15:10.320><c> Zapier</c><00:15:10.800><c> as</c><00:15:10.880><c> the</c>
+instead of using Zapier as the
+instead of using Zapier as the
+automation<00:15:11.519><c> layer,</c><00:15:11.760><c> they</c><00:15:12.000><c> use</c><00:15:12.160><c> Claude</c><00:15:12.639><c> code</c>
+automation layer, they use Claude code
+automation layer, they use Claude code
+which<00:15:13.600><c> lets</c><00:15:13.839><c> you</c><00:15:14.000><c> have</c><00:15:14.079><c> a</c><00:15:14.320><c> conversation</c><00:15:14.720><c> with</c>
+which lets you have a conversation with
+which lets you have a conversation with
+Claude<00:15:15.600><c> while</c><00:15:15.839><c> it</c><00:15:16.000><c> reads</c><00:15:16.240><c> and</c><00:15:16.399><c> writes</c><00:15:16.639><c> files</c>
+Claude while it reads and writes files
+Claude while it reads and writes files
+to<00:15:17.120><c> the</c><00:15:17.279><c> computer.</c><00:15:18.000><c> The</c><00:15:18.240><c> key</c><00:15:18.399><c> difference</c><00:15:18.639><c> is</c>
+to the computer. The key difference is
+to the computer. The key difference is
+that<00:15:19.040><c> their</c><00:15:19.440><c> system</c><00:15:19.839><c> is</c><00:15:20.240><c> sessionbased</c><00:15:21.120><c> rather</c>
+that their system is sessionbased rather
+that their system is sessionbased rather
+than<00:15:21.839><c> always</c><00:15:22.320><c> on</c><00:15:22.959><c> which</c><00:15:23.199><c> is</c><00:15:23.279><c> what</c><00:15:23.440><c> they</c>
+than always on which is what they
+than always on which is what they
+preferred.<00:15:24.079><c> And</c><00:15:24.240><c> so</c><00:15:24.399><c> when</c><00:15:24.720><c> you</c><00:15:24.959><c> sit</c><00:15:25.120><c> down</c><00:15:25.360><c> to</c>
+preferred. And so when you sit down to
+preferred. And so when you sit down to
+work,<00:15:25.920><c> you</c><00:15:26.079><c> spin</c><00:15:26.240><c> up</c><00:15:26.399><c> a</c><00:15:26.560><c> cloud</c><00:15:26.880><c> code</c><00:15:27.120><c> session</c>
+work, you spin up a cloud code session
+work, you spin up a cloud code session
+that<00:15:27.680><c> processes</c><00:15:28.240><c> your</c><00:15:28.480><c> inbox,</c><00:15:28.959><c> runs</c><00:15:29.279><c> the</c>
+that processes your inbox, runs the
+that processes your inbox, runs the
+classification,<00:15:30.240><c> writes</c><00:15:30.560><c> to</c><00:15:30.720><c> local</c><00:15:31.040><c> YAML</c>
+classification, writes to local YAML
+classification, writes to local YAML
+files,<00:15:31.760><c> and</c><00:15:31.920><c> then</c><00:15:32.160><c> gives</c><00:15:32.320><c> you</c><00:15:32.480><c> a</c><00:15:32.639><c> fix</c><00:15:32.959><c> button</c>
+files, and then gives you a fix button
+files, and then gives you a fix button
+in<00:15:33.519><c> that</c><00:15:33.680><c> same</c><00:15:34.000><c> conversation.</c><00:15:34.959><c> Look,</c><00:15:35.519><c> the</c>
+in that same conversation. Look, the
+in that same conversation. Look, the
+point<00:15:36.000><c> is</c><00:15:36.240><c> not</c><00:15:36.399><c> that</c><00:15:36.560><c> you</c><00:15:36.720><c> copy</c><00:15:37.040><c> these</c><00:15:37.360><c> builds,</c>
+point is not that you copy these builds,
+point is not that you copy these builds,
+right?<00:15:38.160><c> These</c><00:15:38.560><c> different</c><00:15:38.800><c> builds</c><00:15:39.279><c> illustrate</c>
+right? These different builds illustrate
+right? These different builds illustrate
+that<00:15:39.760><c> you</c><00:15:40.000><c> don't</c><00:15:40.160><c> necessarily</c><00:15:40.800><c> need</c>
+that you don't necessarily need
+that you don't necessarily need
+complexity<00:15:41.760><c> to</c><00:15:42.000><c> get</c><00:15:42.160><c> the</c><00:15:42.320><c> benefits.</c><00:15:43.040><c> You</c>
+complexity to get the benefits. You
+complexity to get the benefits. You
+might<00:15:43.360><c> be</c><00:15:43.440><c> a</c><00:15:43.600><c> non-engineer</c><00:15:44.240><c> and</c><00:15:44.399><c> say,</c><00:15:44.560><c> "Oh,</c>
+might be a non-engineer and say, "Oh,
+might be a non-engineer and say, "Oh,
+it's<00:15:45.040><c> simpler</c><00:15:45.279><c> to</c><00:15:45.440><c> use</c><00:15:45.600><c> notion</c><00:15:46.079><c> in</c><00:15:46.399><c> out."</c><00:15:46.639><c> Or</c>
+it's simpler to use notion in out." Or
+it's simpler to use notion in out." Or
+an<00:15:47.040><c> engineer</c><00:15:47.360><c> and</c><00:15:47.519><c> say,</c><00:15:47.600><c> "I</c><00:15:47.839><c> just</c><00:15:48.000><c> want</c><00:15:48.079><c> to</c><00:15:48.160><c> do</c>
+an engineer and say, "I just want to do
+an engineer and say, "I just want to do
+YAML<00:15:48.720><c> files."</c><00:15:49.360><c> But</c><00:15:49.680><c> regardless,</c><00:15:50.720><c> you</c><00:15:50.959><c> can</c>
+YAML files." But regardless, you can
+YAML files." But regardless, you can
+start<00:15:51.519><c> very</c><00:15:52.000><c> simple</c><00:15:52.560><c> and</c><00:15:52.800><c> the</c><00:15:52.959><c> principles</c>
+start very simple and the principles
+start very simple and the principles
+still<00:15:53.759><c> work.</c><00:15:54.000><c> The</c><00:15:54.240><c> architecture</c><00:15:54.880><c> supports</c>
+still work. The architecture supports
+still work. The architecture supports
+something<00:15:55.920><c> that</c><00:15:56.320><c> simple</c><00:15:56.720><c> as</c><00:15:56.880><c> well</c><00:15:56.959><c> as</c>
+something that simple as well as
+something that simple as well as
+something<00:15:57.360><c> as</c><00:15:57.680><c> complex</c><00:15:58.000><c> as</c><00:15:58.240><c> some</c><00:15:58.320><c> of</c><00:15:58.399><c> the</c>
+something as complex as some of the
+something as complex as some of the
+builds<00:15:58.880><c> I</c><00:15:59.040><c> discussed</c><00:15:59.360><c> earlier</c><00:15:59.680><c> in</c><00:15:59.839><c> the</c><00:16:00.000><c> video.</c>
+builds I discussed earlier in the video.
+builds I discussed earlier in the video.
+Now,<00:16:00.560><c> here's</c><00:16:00.800><c> the</c><00:16:01.040><c> pattern</c><00:16:01.279><c> that</c><00:16:01.519><c> emerged</c>
+Now, here's the pattern that emerged
+Now, here's the pattern that emerged
+that<00:16:02.399><c> I</c><00:16:02.639><c> think</c><00:16:02.800><c> represents</c><00:16:03.279><c> something</c>
+that I think represents something
+that I think represents something
+genuinely<00:16:04.480><c> new</c><00:16:04.959><c> about</c><00:16:05.199><c> how</c><00:16:05.519><c> building</c><00:16:05.839><c> works</c>
+genuinely new about how building works
+genuinely new about how building works
+in<00:16:06.320><c> 2026.</c><00:16:07.360><c> And</c><00:16:07.519><c> I</c><00:16:07.680><c> want</c><00:16:07.759><c> to</c><00:16:07.839><c> spend</c><00:16:08.079><c> some</c><00:16:08.240><c> time</c>
+in 2026. And I want to spend some time
+in 2026. And I want to spend some time
+on<00:16:08.480><c> this</c><00:16:08.639><c> because</c><00:16:08.800><c> I</c><00:16:08.959><c> think</c><00:16:09.040><c> it's</c><00:16:09.199><c> the</c><00:16:09.360><c> most</c>
+on this because I think it's the most
+on this because I think it's the most
+important<00:16:09.920><c> thing</c><00:16:10.000><c> I</c><00:16:10.320><c> learned</c><00:16:10.560><c> from</c><00:16:10.880><c> watching</c>
+important thing I learned from watching
+important thing I learned from watching
+the<00:16:11.519><c> community.</c><00:16:12.160><c> The</c><00:16:12.399><c> people</c><00:16:12.639><c> who</c><00:16:12.959><c> got</c><00:16:13.120><c> their</c>
+the community. The people who got their
+the community. The people who got their
+systems<00:16:14.079><c> working</c><00:16:14.639><c> fastest</c><00:16:15.680><c> were</c><00:16:16.000><c> not</c><00:16:16.240><c> the</c>
+systems working fastest were not the
+systems working fastest were not the
+ones<00:16:16.639><c> who</c><00:16:16.880><c> followed</c><00:16:17.279><c> my</c><00:16:17.519><c> tutorial</c><00:16:18.000><c> the</c><00:16:18.240><c> most</c>
+ones who followed my tutorial the most
+ones who followed my tutorial the most
+carefully.<00:16:19.279><c> Instead,</c><00:16:19.759><c> they</c><00:16:20.000><c> were</c><00:16:20.079><c> the</c><00:16:20.320><c> ones</c>
+carefully. Instead, they were the ones
+carefully. Instead, they were the ones
+who<00:16:20.720><c> combined</c><00:16:21.279><c> community</c><00:16:21.680><c> knowledge</c><00:16:22.320><c> with</c><00:16:22.639><c> AI</c>
+who combined community knowledge with AI
+who combined community knowledge with AI
+collaboration.<00:16:24.000><c> They</c><00:16:24.240><c> would</c><00:16:24.399><c> hit</c><00:16:24.639><c> an</c>
+collaboration. They would hit an
+collaboration. They would hit an
+obstacle.<00:16:25.440><c> They</c><00:16:25.600><c> would</c><00:16:25.759><c> post</c><00:16:25.920><c> in</c><00:16:26.079><c> the</c>
+obstacle. They would post in the
+obstacle. They would post in the
+Substack<00:16:26.720><c> chat.</c><00:16:26.959><c> They</c><00:16:27.120><c> would</c><00:16:27.279><c> get</c><00:16:27.360><c> a</c><00:16:27.519><c> pointer</c>
+Substack chat. They would get a pointer
+Substack chat. They would get a pointer
+from<00:16:28.000><c> someone</c><00:16:28.240><c> who'd</c><00:16:28.560><c> solved</c><00:16:28.720><c> a</c><00:16:28.959><c> similar</c>
+from someone who'd solved a similar
+from someone who'd solved a similar
+problem<00:16:29.519><c> and</c><00:16:29.759><c> then</c><00:16:29.920><c> work</c><00:16:30.079><c> with</c><00:16:30.240><c> Claude</c><00:16:30.560><c> or</c>
+problem and then work with Claude or
+problem and then work with Claude or
+chat<00:16:30.959><c> GPT</c><00:16:31.440><c> to</c><00:16:31.680><c> implement</c><00:16:31.920><c> the</c><00:16:32.160><c> fix</c><00:16:32.399><c> in</c><00:16:32.560><c> their</c>
+chat GPT to implement the fix in their
+chat GPT to implement the fix in their
+own<00:16:33.040><c> context.</c><00:16:33.920><c> One</c><00:16:34.160><c> community</c><00:16:34.480><c> member</c><00:16:34.800><c> posted</c>
+own context. One community member posted
+own context. One community member posted
+that<00:16:35.279><c> she</c><00:16:35.440><c> built</c><00:16:35.680><c> the</c><00:16:35.839><c> entire</c><00:16:36.240><c> system</c><00:16:36.880><c> in</c><00:16:37.199><c> two</c>
+that she built the entire system in two
+that she built the entire system in two
+hours<00:16:37.920><c> by</c><00:16:38.160><c> just</c><00:16:38.320><c> having</c><00:16:38.560><c> Claude</c><00:16:38.880><c> do</c><00:16:39.040><c> it</c><00:16:39.120><c> in</c><00:16:39.279><c> the</c>
+hours by just having Claude do it in the
+hours by just having Claude do it in the
+browser<00:16:40.079><c> for</c><00:16:40.399><c> her.</c><00:16:40.800><c> and</c><00:16:40.959><c> she</c><00:16:41.199><c> gave</c><00:16:41.360><c> the</c>
+browser for her. and she gave the
+browser for her. and she gave the
+architecture<00:16:42.160><c> document</c><00:16:42.560><c> to</c><00:16:42.800><c> Claude</c><00:16:43.199><c> and</c><00:16:43.440><c> said</c>
+architecture document to Claude and said
+architecture document to Claude and said
+just<00:16:44.000><c> solve</c><00:16:44.160><c> it.</c><00:16:44.639><c> She'd</c><00:16:45.040><c> already</c><00:16:45.279><c> read</c>
+just solve it. She'd already read
+just solve it. She'd already read
+through<00:16:45.680><c> the</c><00:16:45.839><c> community</c><00:16:46.240><c> discussion.</c><00:16:46.959><c> She</c>
+through the community discussion. She
+through the community discussion. She
+had<00:16:47.360><c> some</c><00:16:47.600><c> idea</c><00:16:47.839><c> of</c><00:16:48.079><c> what</c><00:16:48.240><c> to</c><00:16:48.480><c> do</c><00:16:48.800><c> and</c><00:16:49.040><c> she</c><00:16:49.199><c> just</c>
+had some idea of what to do and she just
+had some idea of what to do and she just
+said<00:16:49.600><c> go</c><00:16:49.839><c> do</c><00:16:49.920><c> it.</c><00:16:50.240><c> This</c><00:16:50.399><c> is</c><00:16:50.560><c> the</c><00:16:50.720><c> new</c><00:16:50.959><c> model.</c>
+said go do it. This is the new model.
+said go do it. This is the new model.
+Community<00:16:52.079><c> ends</c><00:16:52.320><c> up</c><00:16:52.560><c> providing</c><00:16:52.959><c> a</c><00:16:53.199><c> pattern</c>
+Community ends up providing a pattern
+Community ends up providing a pattern
+library<00:16:54.000><c> for</c><00:16:54.240><c> us</c><00:16:54.399><c> to</c><00:16:54.639><c> understand</c><00:16:54.959><c> where</c>
+library for us to understand where
+library for us to understand where
+common<00:16:55.519><c> obstacles</c><00:16:56.079><c> emerge.</c><00:16:56.800><c> And</c><00:16:56.959><c> AI</c><00:16:57.440><c> ends</c><00:16:57.680><c> up</c>
+common obstacles emerge. And AI ends up
+common obstacles emerge. And AI ends up
+giving<00:16:58.079><c> us</c><00:16:58.320><c> implementation</c><00:16:59.040><c> muscles</c><00:16:59.440><c> so</c><00:16:59.680><c> we</c>
+giving us implementation muscles so we
+giving us implementation muscles so we
+can<00:17:00.000><c> do</c><00:17:00.160><c> other</c><00:17:00.480><c> things</c><00:17:01.120><c> while</c><00:17:01.440><c> builds</c><00:17:01.839><c> happen.</c>
+can do other things while builds happen.
+can do other things while builds happen.
+Our<00:17:02.720><c> job</c><00:17:02.880><c> is</c><00:17:03.040><c> to</c><00:17:03.199><c> provide</c><00:17:03.519><c> the</c><00:17:03.680><c> context</c><00:17:04.079><c> and</c>
+Our job is to provide the context and
+Our job is to provide the context and
+the<00:17:04.480><c> judgment</c><00:17:04.880><c> about</c><00:17:05.120><c> what</c><00:17:05.439><c> applies</c><00:17:05.760><c> in</c><00:17:06.000><c> our</c>
+the judgment about what applies in our
+the judgment about what applies in our
+specific<00:17:06.720><c> situation.</c><00:17:07.679><c> And</c><00:17:08.160><c> our</c><00:17:08.400><c> job</c><00:17:08.559><c> is</c>
+specific situation. And our job is
+specific situation. And our job is
+frankly<00:17:09.120><c> to</c><00:17:09.280><c> provide</c><00:17:09.600><c> the</c><00:17:09.760><c> intent</c><00:17:10.319><c> to</c><00:17:10.559><c> say</c>
+frankly to provide the intent to say
+frankly to provide the intent to say
+this<00:17:10.959><c> is</c><00:17:11.120><c> how</c><00:17:11.360><c> I</c><00:17:11.600><c> want</c><00:17:11.679><c> to</c><00:17:11.839><c> express</c><00:17:12.240><c> these</c>
+this is how I want to express these
+this is how I want to express these
+larger<00:17:12.799><c> principles</c><00:17:13.199><c> or</c><00:17:13.360><c> this</c><00:17:13.600><c> larger</c>
+larger principles or this larger
+larger principles or this larger
+architecture<00:17:14.319><c> in</c><00:17:14.480><c> a</c><00:17:14.559><c> way</c><00:17:14.720><c> that</c><00:17:14.880><c> works</c><00:17:15.120><c> for</c><00:17:15.280><c> me.</c>
+architecture in a way that works for me.
+architecture in a way that works for me.
+I<00:17:15.760><c> want</c><00:17:15.839><c> to</c><00:17:16.000><c> define</c><00:17:16.240><c> what</c><00:17:16.480><c> works</c><00:17:16.640><c> for</c><00:17:16.799><c> me</c><00:17:16.959><c> as</c><00:17:17.120><c> a</c>
+I want to define what works for me as a
+I want to define what works for me as a
+second<00:17:17.439><c> brain,</c><00:17:17.760><c> not</c><00:17:17.919><c> what</c><00:17:18.079><c> works</c><00:17:18.240><c> for</c><00:17:18.400><c> you.</c>
+second brain, not what works for you.
+second brain, not what works for you.
+Everyone's<00:17:19.039><c> individual</c><00:17:19.520><c> and</c><00:17:19.679><c> different.</c>
+Everyone's individual and different.
+Everyone's individual and different.
+That's<00:17:20.400><c> part</c><00:17:20.559><c> of</c><00:17:20.720><c> what</c><00:17:20.880><c> made</c><00:17:21.039><c> this</c><00:17:21.280><c> such</c><00:17:21.360><c> a</c>
+That's part of what made this such a
+That's part of what made this such a
+cool<00:17:21.760><c> project</c><00:17:22.079><c> is</c><00:17:22.240><c> that</c><00:17:22.480><c> you</c><00:17:22.640><c> get</c><00:17:22.799><c> to</c><00:17:23.039><c> see</c><00:17:23.600><c> the</c>
+cool project is that you get to see the
+cool project is that you get to see the
+wide<00:17:24.559><c> variety</c><00:17:25.600><c> of</c><00:17:25.919><c> different</c><00:17:26.319><c> solutions</c>
+wide variety of different solutions
+wide variety of different solutions
+people<00:17:27.199><c> implement.</c><00:17:28.000><c> This</c><00:17:28.240><c> is</c><00:17:28.480><c> why</c><00:17:29.280><c> SAS</c><00:17:29.760><c> tools</c>
+people implement. This is why SAS tools
+people implement. This is why SAS tools
+for<00:17:30.480><c> second</c><00:17:30.880><c> brains</c><00:17:31.360><c> are</c><00:17:31.760><c> so</c><00:17:32.240><c> hard</c><00:17:32.559><c> to</c><00:17:32.799><c> build.</c>
+for second brains are so hard to build.
+for second brains are so hard to build.
+Everyone's<00:17:33.919><c> brain</c><00:17:34.240><c> is</c><00:17:34.480><c> different.</c><00:17:35.039><c> And</c><00:17:35.280><c> the</c>
+Everyone's brain is different. And the
+Everyone's brain is different. And the
+beauty<00:17:35.679><c> of</c><00:17:35.919><c> architecture</c><00:17:36.559><c> is</c><00:17:36.799><c> you</c><00:17:36.960><c> can</c><00:17:37.120><c> build</c>
+beauty of architecture is you can build
+beauty of architecture is you can build
+your<00:17:37.600><c> own</c><00:17:37.840><c> second</c><00:17:38.080><c> brain</c><00:17:38.400><c> the</c><00:17:38.559><c> way</c><00:17:38.640><c> you</c><00:17:38.799><c> like</c>
+your own second brain the way you like
+your own second brain the way you like
+it.<00:17:39.200><c> The</c><00:17:39.440><c> tutorial</c><00:17:39.840><c> alone</c><00:17:40.240><c> will</c><00:17:40.480><c> not</c><00:17:40.640><c> adapt</c><00:17:40.880><c> to</c>
+it. The tutorial alone will not adapt to
+it. The tutorial alone will not adapt to
+all<00:17:41.200><c> of</c><00:17:41.280><c> the</c><00:17:41.440><c> tools</c><00:17:41.760><c> that</c><00:17:42.000><c> are</c><00:17:42.240><c> your</c><00:17:42.559><c> favorites</c>
+all of the tools that are your favorites
+all of the tools that are your favorites
+and<00:17:43.200><c> it</c><00:17:43.440><c> doesn't</c><00:17:43.679><c> need</c><00:17:43.919><c> to.</c><00:17:44.480><c> And</c><00:17:44.720><c> frankly,</c>
+and it doesn't need to. And frankly,
+and it doesn't need to. And frankly,
+even<00:17:45.520><c> the</c><00:17:45.679><c> AI</c><00:17:46.080><c> alone</c><00:17:46.880><c> will</c><00:17:47.200><c> not</c><00:17:47.440><c> know</c><00:17:47.600><c> what</c>
+even the AI alone will not know what
+even the AI alone will not know what
+other<00:17:48.240><c> problems</c><00:17:48.880><c> people</c><00:17:49.200><c> have</c><00:17:49.440><c> already</c>
+other problems people have already
+other problems people have already
+solved.<00:17:50.640><c> The</c><00:17:50.960><c> community</c><00:17:51.919><c> is</c><00:17:52.240><c> going</c><00:17:52.400><c> to</c><00:17:52.640><c> be</c>
+solved. The community is going to be
+solved. The community is going to be
+critical<00:17:53.600><c> for</c><00:17:54.000><c> you</c><00:17:54.559><c> to</c><00:17:54.960><c> be</c><00:17:55.200><c> able</c><00:17:55.520><c> to</c><00:17:55.760><c> be</c>
+critical for you to be able to be
+critical for you to be able to be
+successful<00:17:56.640><c> building</c><00:17:56.960><c> long-term.</c><00:17:57.440><c> And</c><00:17:57.600><c> I</c>
+successful building long-term. And I
+successful building long-term. And I
+don't<00:17:57.840><c> mean</c><00:17:58.000><c> my</c><00:17:58.240><c> community</c><00:17:58.480><c> in</c><00:17:58.640><c> particular.</c>
+don't mean my community in particular.
+don't mean my community in particular.
+The<00:17:59.360><c> Substack</c><00:17:59.919><c> community</c><00:18:00.799><c> is</c><00:18:01.360><c> wonderful.</c><00:18:02.400><c> But</c>
+The Substack community is wonderful. But
+The Substack community is wonderful. But
+you<00:18:03.120><c> find</c><00:18:03.280><c> your</c><00:18:03.440><c> build</c><00:18:03.760><c> community</c><00:18:04.000><c> that</c><00:18:04.240><c> works</c>
+you find your build community that works
+you find your build community that works
+for<00:18:04.559><c> you.</c><00:18:04.880><c> Having</c><00:18:05.120><c> a</c><00:18:05.360><c> community</c><00:18:05.679><c> that</c><00:18:05.840><c> has</c><00:18:06.000><c> a</c>
+for you. Having a community that has a
+for you. Having a community that has a
+pattern<00:18:06.559><c> library</c><00:18:06.960><c> is</c><00:18:07.200><c> super</c><00:18:07.520><c> useful</c><00:18:08.320><c> because</c>
+pattern library is super useful because
+pattern library is super useful because
+it<00:18:11.120><c> can</c><00:18:11.440><c> supercharge</c><00:18:12.240><c> your</c><00:18:12.559><c> ability</c><00:18:12.960><c> to</c>
+it can supercharge your ability to
+it can supercharge your ability to
+acquire<00:18:13.840><c> context</c><00:18:14.320><c> and</c><00:18:14.640><c> strategically</c>
+acquire context and strategically
+acquire context and strategically
+allocate<00:18:15.840><c> that</c><00:18:16.080><c> context</c><00:18:16.559><c> with</c><00:18:16.799><c> your</c><00:18:17.039><c> AI</c><00:18:17.440><c> to</c>
+allocate that context with your AI to
+allocate that context with your AI to
+build<00:18:17.919><c> faster.</c><00:18:18.400><c> And</c><00:18:18.480><c> that's</c><00:18:18.720><c> what</c><00:18:18.799><c> I</c><00:18:18.960><c> saw</c><00:18:19.120><c> this</c>
+build faster. And that's what I saw this
+build faster. And that's what I saw this
+week.<00:18:19.679><c> Now,</c><00:18:20.000><c> let</c><00:18:20.160><c> me</c><00:18:20.320><c> give</c><00:18:20.400><c> you</c><00:18:20.559><c> a</c><00:18:20.799><c> quick</c><00:18:21.120><c> tour</c>
+week. Now, let me give you a quick tour
+week. Now, let me give you a quick tour
+of<00:18:21.679><c> what</c><00:18:21.919><c> the</c><00:18:22.080><c> Zapier</c><00:18:22.640><c> automation</c><00:18:23.360><c> actually</c>
+of what the Zapier automation actually
+of what the Zapier automation actually
+looks<00:18:24.080><c> like</c><00:18:24.240><c> when</c><00:18:24.480><c> it's</c><00:18:24.640><c> built.</c><00:18:24.880><c> I</c><00:18:25.039><c> got</c><00:18:25.200><c> lots</c>
+looks like when it's built. I got lots
+looks like when it's built. I got lots
+of<00:18:25.679><c> requests</c><00:18:25.919><c> for</c><00:18:26.080><c> this,</c><00:18:26.320><c> so</c><00:18:26.480><c> I'm</c><00:18:26.640><c> excited</c><00:18:26.880><c> to</c>
+of requests for this, so I'm excited to
+of requests for this, so I'm excited to
+show<00:18:27.200><c> this</c><00:18:27.440><c> to</c><00:18:27.600><c> you.</c><00:18:28.000><c> So,</c><00:18:28.160><c> the</c><00:18:28.320><c> flow</c><00:18:28.640><c> starts</c>
+show this to you. So, the flow starts
+show this to you. So, the flow starts
+with<00:18:28.960><c> a</c><00:18:29.120><c> Slack</c><00:18:29.440><c> trigger.</c><00:18:30.000><c> When</c><00:18:30.240><c> a</c><00:18:30.400><c> new</c><00:18:30.640><c> message</c>
+with a Slack trigger. When a new message
+with a Slack trigger. When a new message
+is<00:18:31.120><c> posted</c><00:18:31.440><c> to</c><00:18:31.600><c> your</c><00:18:31.840><c> SB</c><00:18:32.160><c> inbox</c><00:18:32.559><c> channel,</c>
+is posted to your SB inbox channel,
+is posted to your SB inbox channel,
+Zapier<00:18:33.360><c> captures</c><00:18:33.679><c> it</c><00:18:33.840><c> and</c><00:18:34.080><c> then</c><00:18:34.240><c> the</c><00:18:34.400><c> trigger</c>
+Zapier captures it and then the trigger
+Zapier captures it and then the trigger
+gives<00:18:34.960><c> you</c><00:18:35.280><c> access</c><00:18:36.000><c> to</c><00:18:36.240><c> the</c><00:18:36.400><c> message</c><00:18:36.799><c> text,</c>
+gives you access to the message text,
+gives you access to the message text,
+the<00:18:37.280><c> channel</c><00:18:37.600><c> ID,</c><00:18:38.000><c> all</c><00:18:38.160><c> the</c><00:18:38.320><c> details.</c><00:18:39.039><c> The</c>
+the channel ID, all the details. The
+the channel ID, all the details. The
+message<00:18:39.760><c> text</c><00:18:40.160><c> then</c><00:18:40.400><c> goes</c><00:18:40.720><c> directly</c><00:18:41.200><c> to</c>
+message text then goes directly to
+message text then goes directly to
+Claude<00:18:42.400><c> via</c><00:18:42.720><c> an</c><00:18:42.880><c> API</c><00:18:43.360><c> call.</c><00:18:43.600><c> You</c><00:18:43.760><c> can</c><00:18:43.919><c> see</c><00:18:44.000><c> that</c>
+Claude via an API call. You can see that
+Claude via an API call. You can see that
+right<00:18:44.400><c> here.</c><00:18:44.640><c> The</c><00:18:44.880><c> anthropic</c><00:18:45.520><c> action</c><00:18:45.919><c> in</c>
+right here. The anthropic action in
+right here. The anthropic action in
+Zapier<00:18:46.960><c> sends</c><00:18:47.200><c> you</c><00:18:47.440><c> a</c><00:18:47.679><c> classification</c><00:18:48.559><c> prompt</c>
+Zapier sends you a classification prompt
+Zapier sends you a classification prompt
+along<00:18:49.679><c> with</c><00:18:49.840><c> the</c><00:18:50.080><c> raw</c><00:18:50.400><c> message.</c><00:18:50.960><c> And</c><00:18:51.120><c> the</c>
+along with the raw message. And the
+along with the raw message. And the
+prompt<00:18:51.600><c> is</c><00:18:51.760><c> going</c><00:18:51.919><c> to</c><00:18:52.000><c> specify</c><00:18:52.480><c> the</c><00:18:52.720><c> JSON,</c>
+prompt is going to specify the JSON,
+prompt is going to specify the JSON,
+schema,<00:18:53.679><c> and</c><00:18:53.840><c> tell</c><00:18:54.080><c> Claude</c><00:18:54.400><c> to</c><00:18:54.559><c> classify</c><00:18:55.039><c> into</c>
+schema, and tell Claude to classify into
+schema, and tell Claude to classify into
+one<00:18:55.440><c> of</c><00:18:55.600><c> four</c><00:18:55.840><c> categories</c><00:18:56.320><c> and</c><00:18:56.480><c> ask</c><00:18:56.640><c> for</c>
+one of four categories and ask for
+one of four categories and ask for
+confidence<00:18:57.200><c> score,</c><00:18:57.360><c> which</c><00:18:57.520><c> I</c><00:18:57.679><c> talked</c><00:18:57.840><c> about</c>
+confidence score, which I talked about
+confidence score, which I talked about
+in<00:18:58.160><c> the</c><00:18:58.320><c> last</c><00:18:58.480><c> video.</c><00:18:59.360><c> After</c><00:18:59.919><c> Claude</c>
+in the last video. After Claude
+in the last video. After Claude
+responds,<00:19:01.039><c> a</c><00:19:01.280><c> code</c><00:19:01.520><c> by</c><00:19:01.840><c> Zapier</c><00:19:02.480><c> right</c><00:19:02.640><c> here</c><00:19:02.799><c> in</c>
+responds, a code by Zapier right here in
+responds, a code by Zapier right here in
+step<00:19:03.280><c> three</c><00:19:04.000><c> cleans</c><00:19:04.320><c> up</c><00:19:04.559><c> the</c><00:19:04.799><c> response.</c><00:19:05.280><c> This</c>
+step three cleans up the response. This
+step three cleans up the response. This
+step<00:19:05.760><c> removes</c><00:19:06.160><c> any</c><00:19:06.400><c> markdown</c><00:19:06.960><c> formatting.</c><00:19:07.440><c> It</c>
+step removes any markdown formatting. It
+step removes any markdown formatting. It
+parses<00:19:08.000><c> the</c><00:19:08.160><c> JSON</c><00:19:08.559><c> and</c><00:19:08.720><c> it</c><00:19:08.799><c> flattens</c><00:19:09.200><c> the</c>
+parses the JSON and it flattens the
+parses the JSON and it flattens the
+nested<00:19:09.760><c> structure</c><00:19:10.160><c> you</c><00:19:10.400><c> get</c><00:19:10.480><c> from</c><00:19:10.640><c> the</c><00:19:10.880><c> LLM</c>
+nested structure you get from the LLM
+nested structure you get from the LLM
+into<00:19:12.000><c> a</c><00:19:12.160><c> field</c><00:19:12.400><c> that's</c><00:19:12.640><c> super</c><00:19:12.880><c> easy</c><00:19:13.120><c> to</c>
+into a field that's super easy to
+into a field that's super easy to
+reference<00:19:13.679><c> in</c><00:19:13.919><c> later</c><00:19:14.240><c> steps.</c><00:19:14.720><c> If</c><00:19:14.960><c> Claude</c><00:19:15.360><c> is</c>
+reference in later steps. If Claude is
+reference in later steps. If Claude is
+going<00:19:15.600><c> to</c><00:19:15.679><c> return</c><00:19:16.000><c> something</c><00:19:16.320><c> that's</c>
+going to return something that's
+going to return something that's
+malformed<00:19:17.120><c> or</c><00:19:17.280><c> incorrect,</c><00:19:18.080><c> this</c><00:19:18.400><c> code</c><00:19:18.720><c> step</c>
+malformed or incorrect, this code step
+malformed or incorrect, this code step
+can<00:19:19.280><c> handle</c><00:19:19.600><c> it</c><00:19:19.760><c> gracefully.</c><00:19:20.640><c> Next,</c><00:19:21.120><c> we</c><00:19:21.360><c> have</c>
+can handle it gracefully. Next, we have
+can handle it gracefully. Next, we have
+to<00:19:21.600><c> route.</c><00:19:22.080><c> So,</c><00:19:22.240><c> split</c><00:19:22.480><c> into</c><00:19:22.799><c> paths.</c><00:19:23.360><c> A</c><00:19:23.520><c> path</c>
+to route. So, split into paths. A path
+to route. So, split into paths. A path
+step<00:19:24.080><c> will</c><00:19:24.320><c> check</c><00:19:24.559><c> the</c><00:19:24.799><c> destination</c><00:19:25.360><c> field</c>
+step will check the destination field
+step will check the destination field
+from<00:19:25.760><c> the</c><00:19:25.919><c> parsed</c><00:19:26.320><c> response.</c><00:19:26.799><c> If</c><00:19:26.960><c> it's</c>
+from the parsed response. If it's
+from the parsed response. If it's
+people,<00:19:27.760><c> the</c><00:19:28.000><c> flow</c><00:19:28.240><c> goes</c><00:19:28.400><c> down</c><00:19:28.559><c> the</c><00:19:28.720><c> people</c>
+people, the flow goes down the people
+people, the flow goes down the people
+path.<00:19:29.280><c> You</c><00:19:29.440><c> get</c><00:19:29.520><c> the</c><00:19:29.760><c> idea.</c><00:19:30.400><c> Each</c><00:19:30.640><c> path</c><00:19:30.960><c> does</c><00:19:31.120><c> a</c>
+path. You get the idea. Each path does a
+path. You get the idea. Each path does a
+few<00:19:31.440><c> things.</c><00:19:31.840><c> First,</c><00:19:32.480><c> it</c><00:19:32.640><c> creates</c><00:19:32.960><c> a</c><00:19:33.120><c> record.</c>
+few things. First, it creates a record.
+few things. First, it creates a record.
+It<00:19:33.840><c> creates</c><00:19:34.080><c> a</c><00:19:34.320><c> record</c><00:19:34.559><c> in</c><00:19:34.799><c> the</c><00:19:34.960><c> appropriate</c>
+It creates a record in the appropriate
+It creates a record in the appropriate
+notion<00:19:36.080><c> database</c><00:19:36.640><c> based</c><00:19:36.880><c> on</c><00:19:37.039><c> the</c><00:19:37.200><c> routing</c>
+notion database based on the routing
+notion database based on the routing
+that<00:19:37.840><c> you've</c><00:19:38.080><c> done</c><00:19:38.559><c> in</c><00:19:38.799><c> the</c><00:19:38.960><c> previous</c><00:19:39.280><c> split.</c>
+that you've done in the previous split.
+that you've done in the previous split.
+So,<00:19:39.760><c> now</c><00:19:39.840><c> we're</c><00:19:40.000><c> in</c><00:19:40.080><c> the</c><00:19:40.240><c> people</c><00:19:40.480><c> database,</c>
+So, now we're in the people database,
+So, now we're in the people database,
+and<00:19:41.120><c> it</c><00:19:41.280><c> can</c><00:19:41.360><c> split</c><00:19:41.600><c> and</c><00:19:41.760><c> create</c><00:19:42.000><c> that</c><00:19:42.240><c> notion</c>
+and it can split and create that notion
+and it can split and create that notion
+record.<00:19:43.280><c> Then,</c><00:19:43.679><c> it</c><00:19:44.000><c> creates</c><00:19:44.240><c> an</c><00:19:44.480><c> entry</c><00:19:44.720><c> in</c><00:19:44.960><c> the</c>
+record. Then, it creates an entry in the
+record. Then, it creates an entry in the
+inbox<00:19:45.520><c> log</c><00:19:45.840><c> with</c><00:19:46.000><c> the</c><00:19:46.240><c> original</c><00:19:46.640><c> text</c><00:19:47.280><c> where</c>
+inbox log with the original text where
+inbox log with the original text where
+it<00:19:47.679><c> was</c><00:19:47.840><c> filed,</c><00:19:48.240><c> the</c><00:19:48.400><c> confidence</c><00:19:48.880><c> score,</c><00:19:49.120><c> and</c>
+it was filed, the confidence score, and
+it was filed, the confidence score, and
+the<00:19:49.360><c> Slack</c><00:19:49.679><c> thread.</c><00:19:49.919><c> This</c><00:19:50.080><c> is</c><00:19:50.160><c> the</c><00:19:50.320><c> receipt</c><00:19:50.720><c> I</c>
+the Slack thread. This is the receipt I
+the Slack thread. This is the receipt I
+talked<00:19:51.200><c> a</c><00:19:51.360><c> lot</c><00:19:51.440><c> about</c><00:19:51.679><c> in</c><00:19:51.840><c> the</c><00:19:52.000><c> original</c>
+talked a lot about in the original
+talked a lot about in the original
+video.<00:19:52.880><c> Finally,</c><00:19:53.520><c> it</c><00:19:53.760><c> send</c><00:19:54.000><c> a</c><00:19:54.240><c> Slack</c><00:19:54.640><c> message</c>
+video. Finally, it send a Slack message
+video. Finally, it send a Slack message
+back<00:19:55.600><c> to</c><00:19:55.840><c> let</c><00:19:56.000><c> you</c><00:19:56.240><c> know</c><00:19:56.320><c> that</c><00:19:56.559><c> it</c><00:19:56.799><c> processed</c>
+back to let you know that it processed
+back to let you know that it processed
+all<00:19:57.440><c> of</c><00:19:57.600><c> that.</c><00:19:57.840><c> And</c><00:19:58.000><c> so</c><00:19:58.160><c> a</c><00:19:58.320><c> Slack</c><00:19:58.640><c> message</c>
+all of that. And so a Slack message
+all of that. And so a Slack message
+might<00:19:59.200><c> look</c><00:19:59.360><c> like</c><00:19:59.679><c> filed</c><00:20:00.080><c> as</c><00:20:00.320><c> people</c><00:20:00.799><c> Sarah</c>
+might look like filed as people Sarah
+might look like filed as people Sarah
+Chen<00:20:01.679><c> confidence87</c><00:20:03.039><c> reply</c><00:20:03.440><c> fix</c><00:20:03.760><c> if</c><00:20:04.000><c> I</c><00:20:04.160><c> got</c><00:20:04.240><c> it</c>
+Chen confidence87 reply fix if I got it
+Chen confidence87 reply fix if I got it
+wrong.<00:20:04.960><c> Now</c><00:20:05.520><c> that's</c><00:20:05.840><c> how</c><00:20:06.000><c> it</c><00:20:06.160><c> works</c><00:20:06.320><c> for</c>
+wrong. Now that's how it works for
+wrong. Now that's how it works for
+people<00:20:06.880><c> and</c><00:20:07.200><c> for</c><00:20:07.440><c> projects</c><00:20:07.919><c> and</c><00:20:08.160><c> for</c><00:20:08.400><c> ideas</c>
+people and for projects and for ideas
+people and for projects and for ideas
+and<00:20:09.440><c> for</c><00:20:09.840><c> admin.</c><00:20:10.320><c> The</c><00:20:10.559><c> needs</c><00:20:10.960><c> review</c><00:20:11.280><c> path</c><00:20:11.600><c> is</c>
+and for admin. The needs review path is
+and for admin. The needs review path is
+a<00:20:12.080><c> little</c><00:20:12.160><c> bit</c><00:20:12.400><c> different.</c><00:20:13.039><c> Instead</c><00:20:13.360><c> of</c>
+a little bit different. Instead of
+a little bit different. Instead of
+filing<00:20:14.080><c> to</c><00:20:14.240><c> a</c><00:20:14.480><c> destination</c><00:20:15.120><c> database,</c><00:20:15.679><c> it</c>
+filing to a destination database, it
+filing to a destination database, it
+logs<00:20:16.160><c> the</c><00:20:16.320><c> item</c><00:20:16.559><c> with</c><00:20:16.720><c> a</c><00:20:16.960><c> needs</c><00:20:17.280><c> review</c><00:20:17.679><c> status</c>
+logs the item with a needs review status
+logs the item with a needs review status
+over<00:20:18.480><c> here</c><00:20:19.280><c> and</c><00:20:19.520><c> sends</c><00:20:19.760><c> a</c><00:20:19.919><c> Slack</c><00:20:20.320><c> reply</c><00:20:20.960><c> that</c>
+over here and sends a Slack reply that
+over here and sends a Slack reply that
+asks<00:20:21.840><c> for</c><00:20:22.240><c> clarification.</c><00:20:23.200><c> It</c><00:20:23.360><c> says</c>
+asks for clarification. It says
+asks for clarification. It says
+something<00:20:23.760><c> like,</c><00:20:24.000><c> "I</c><00:20:24.320><c> couldn't</c><00:20:24.640><c> confidently</c>
+something like, "I couldn't confidently
+something like, "I couldn't confidently
+classify<00:20:25.840><c> this.</c><00:20:26.240><c> Can</c><00:20:26.400><c> you</c><00:20:26.640><c> repost</c><00:20:27.120><c> it</c><00:20:27.280><c> with</c><00:20:27.440><c> a</c>
+classify this. Can you repost it with a
+classify this. Can you repost it with a
+prefix<00:20:28.080><c> like</c><00:20:28.320><c> person</c><00:20:28.640><c> or</c><00:20:28.880><c> project?"</c><00:20:29.600><c> That's</c>
+prefix like person or project?" That's
+prefix like person or project?" That's
+really<00:20:30.240><c> the</c><00:20:30.640><c> complete</c><00:20:31.360><c> flow.</c><00:20:32.080><c> You</c><00:20:32.320><c> have</c><00:20:32.559><c> one</c>
+really the complete flow. You have one
+really the complete flow. You have one
+trigger<00:20:33.280><c> at</c><00:20:33.440><c> the</c><00:20:33.679><c> top</c><00:20:34.159><c> up</c><00:20:34.400><c> here,</c><00:20:34.799><c> one</c><00:20:35.039><c> AI</c><00:20:35.520><c> call,</c>
+trigger at the top up here, one AI call,
+trigger at the top up here, one AI call,
+and<00:20:36.240><c> now</c><00:20:36.400><c> you're</c><00:20:36.640><c> starting</c><00:20:36.880><c> to</c><00:20:37.120><c> parse</c><00:20:37.440><c> it,</c><00:20:37.679><c> and</c>
+and now you're starting to parse it, and
+and now you're starting to parse it, and
+then<00:20:38.000><c> you're</c><00:20:38.159><c> starting</c><00:20:38.400><c> to</c><00:20:38.559><c> run</c><00:20:38.799><c> different</c>
+then you're starting to run different
+then you're starting to run different
+parallel<00:20:39.600><c> paths.</c>
+parallel paths.
+parallel paths.
+You<00:20:41.600><c> can</c><00:20:41.760><c> do</c><00:20:41.919><c> this</c><00:20:42.159><c> other</c><00:20:42.480><c> places.</c><00:20:42.960><c> I've</c><00:20:43.200><c> also</c>
+You can do this other places. I've also
+You can do this other places. I've also
+seen<00:20:43.679><c> this</c><00:20:43.840><c> built</c><00:20:44.159><c> out</c><00:20:44.320><c> in</c><00:20:44.559><c> NADN.</c><00:20:45.280><c> I've</c><00:20:45.440><c> seen</c>
+seen this built out in NADN. I've seen
+seen this built out in NADN. I've seen
+it<00:20:45.760><c> built</c><00:20:45.919><c> out</c><00:20:46.080><c> in</c><00:20:46.320><c> make.</c><00:20:46.880><c> Again,</c><00:20:47.520><c> the</c>
+it built out in make. Again, the
+it built out in make. Again, the
+principle<00:20:48.240><c> is</c><00:20:48.480><c> what</c><00:20:48.720><c> matters,</c><00:20:49.360><c> not</c><00:20:49.600><c> the</c><00:20:49.760><c> tool.</c>
+principle is what matters, not the tool.
+principle is what matters, not the tool.
+Just<00:20:50.400><c> as</c><00:20:50.640><c> a</c><00:20:50.880><c> bonus</c><00:20:51.280><c> here,</c><00:20:51.679><c> I</c><00:20:51.919><c> want</c><00:20:52.000><c> to</c><00:20:52.159><c> share</c><00:20:52.320><c> a</c>
+Just as a bonus here, I want to share a
+Just as a bonus here, I want to share a
+couple<00:20:52.720><c> of</c><00:20:52.960><c> things</c><00:20:53.120><c> that</c><00:20:53.280><c> emerged</c><00:20:53.679><c> from</c><00:20:53.840><c> the</c>
+couple of things that emerged from the
+couple of things that emerged from the
+community<00:20:54.240><c> that</c><00:20:54.480><c> are</c><00:20:54.640><c> not</c><00:20:54.799><c> so</c><00:20:54.960><c> much</c><00:20:55.280><c> relevant</c>
+community that are not so much relevant
+community that are not so much relevant
+to<00:20:55.919><c> the</c><00:20:56.159><c> larger</c><00:20:56.960><c> all</c><00:20:57.200><c> AI</c><00:20:57.600><c> projects</c><00:20:57.919><c> in</c><00:20:58.159><c> 2026</c>
+to the larger all AI projects in 2026
+to the larger all AI projects in 2026
+conversation,<00:20:59.760><c> but</c><00:21:00.000><c> are</c><00:21:00.240><c> super</c><00:21:00.559><c> relevant</c><00:21:00.880><c> to</c>
+conversation, but are super relevant to
+conversation, but are super relevant to
+how<00:21:01.280><c> we</c><00:21:01.440><c> think</c><00:21:01.600><c> about</c><00:21:01.840><c> these</c><00:21:02.159><c> tools</c><00:21:02.480><c> in</c><00:21:02.720><c> the</c>
+how we think about these tools in the
+how we think about these tools in the
+second<00:21:03.120><c> brain</c><00:21:03.440><c> work</c><00:21:03.679><c> project</c><00:21:04.320><c> specifically.</c>
+second brain work project specifically.
+second brain work project specifically.
+First,<00:21:06.080><c> Zapier</c><00:21:06.720><c> has</c><00:21:07.039><c> limitations</c><00:21:07.600><c> that</c>
+First, Zapier has limitations that
+First, Zapier has limitations that
+become<00:21:08.240><c> apparent</c><00:21:08.720><c> at</c><00:21:09.039><c> scale.</c><00:21:09.360><c> It</c><00:21:09.520><c> was</c>
+become apparent at scale. It was
+become apparent at scale. It was
+designed<00:21:10.000><c> as</c><00:21:10.159><c> an</c><00:21:10.320><c> easy</c><00:21:10.559><c> entry</c><00:21:10.880><c> point.</c><00:21:11.200><c> It</c><00:21:11.360><c> does</c>
+designed as an easy entry point. It does
+designed as an easy entry point. It does
+that<00:21:11.760><c> well,</c><00:21:12.400><c> but</c><00:21:12.799><c> it</c><00:21:13.120><c> has</c><00:21:13.280><c> trouble</c><00:21:13.679><c> handling</c>
+that well, but it has trouble handling
+that well, but it has trouble handling
+larger<00:21:14.559><c> loops.</c><00:21:15.120><c> It</c><00:21:15.360><c> doesn't</c><00:21:15.520><c> branch</c><00:21:15.840><c> and</c>
+larger loops. It doesn't branch and
+larger loops. It doesn't branch and
+recon<00:21:16.240><c> converge</c><00:21:16.640><c> for</c><00:21:16.880><c> more</c><00:21:17.120><c> complex</c>
+recon converge for more complex
+recon converge for more complex
+workflows,<00:21:18.480><c> and</c><00:21:18.640><c> so</c><00:21:19.200><c> it</c><00:21:19.520><c> doesn't</c><00:21:19.760><c> work</c><00:21:20.000><c> if</c>
+workflows, and so it doesn't work if
+workflows, and so it doesn't work if
+you're<00:21:20.400><c> trying</c><00:21:20.559><c> to</c><00:21:20.720><c> do</c><00:21:20.880><c> more</c><00:21:21.039><c> advanced</c><00:21:21.440><c> work.</c>
+you're trying to do more advanced work.
+you're trying to do more advanced work.
+Second,<00:21:22.320><c> the</c><00:21:22.640><c> storage</c><00:21:23.120><c> backend</c><00:21:23.760><c> matters</c><00:21:24.240><c> less</c>
+Second, the storage backend matters less
+Second, the storage backend matters less
+than<00:21:24.799><c> you</c><00:21:25.039><c> might</c><00:21:25.200><c> think.</c><00:21:25.600><c> A</c><00:21:25.840><c> lot</c><00:21:25.919><c> of</c><00:21:26.080><c> people</c>
+than you might think. A lot of people
+than you might think. A lot of people
+are<00:21:26.559><c> using</c><00:21:26.799><c> Notion,</c><00:21:27.280><c> they're</c><00:21:27.520><c> using</c>
+are using Notion, they're using
+are using Notion, they're using
+Obsidian,<00:21:28.240><c> they're</c><00:21:28.480><c> using</c><00:21:28.640><c> YAML</c><00:21:29.039><c> files.</c><00:21:29.280><c> I</c>
+Obsidian, they're using YAML files. I
+Obsidian, they're using YAML files. I
+laid<00:21:29.679><c> out</c><00:21:29.840><c> some</c><00:21:30.000><c> of</c><00:21:30.159><c> that.</c><00:21:30.640><c> If</c><00:21:30.880><c> you</c><00:21:31.039><c> have</c><00:21:31.120><c> an</c>
+laid out some of that. If you have an
+laid out some of that. If you have an
+existing<00:21:31.840><c> system</c><00:21:32.159><c> that</c><00:21:32.400><c> has</c><00:21:32.559><c> a</c><00:21:32.720><c> storage</c>
+existing system that has a storage
+existing system that has a storage
+bucket,<00:21:33.520><c> that's</c><00:21:33.840><c> probably</c><00:21:34.159><c> good</c><00:21:34.400><c> enough.</c>
+bucket, that's probably good enough.
+bucket, that's probably good enough.
+Third,<00:21:35.520><c> if</c><00:21:35.760><c> you're</c><00:21:35.919><c> building</c><00:21:36.159><c> a</c><00:21:36.400><c> second</c>
+Third, if you're building a second
+Third, if you're building a second
+brain,<00:21:37.200><c> capture</c><00:21:37.679><c> interfaces</c><00:21:38.480><c> really</c><00:21:38.880><c> should</c>
+brain, capture interfaces really should
+brain, capture interfaces really should
+just<00:21:39.360><c> be</c><00:21:39.440><c> where</c><00:21:39.679><c> you</c><00:21:39.919><c> already</c><00:21:40.159><c> live.</c><00:21:40.640><c> If</c>
+just be where you already live. If
+just be where you already live. If
+you're<00:21:41.039><c> in</c><00:21:41.200><c> Slack,</c><00:21:41.600><c> then</c><00:21:41.840><c> do</c><00:21:41.919><c> it</c><00:21:42.080><c> in</c><00:21:42.240><c> Slack.</c>
+you're in Slack, then do it in Slack.
+you're in Slack, then do it in Slack.
+Discord<00:21:43.440><c> works.</c><00:21:43.919><c> Google</c><00:21:44.240><c> Chat</c><00:21:44.640><c> works.</c>
+Discord works. Google Chat works.
+Discord works. Google Chat works.
+Frankly,<00:21:45.679><c> you</c><00:21:45.840><c> can</c><00:21:46.000><c> probably</c><00:21:46.159><c> rig</c><00:21:46.480><c> this</c><00:21:46.640><c> up</c>
+Frankly, you can probably rig this up
+Frankly, you can probably rig this up
+with<00:21:47.039><c> text</c><00:21:47.360><c> messages.</c><00:21:48.000><c> The</c><00:21:48.240><c> fourth</c><00:21:48.480><c> one</c>
+with text messages. The fourth one
+with text messages. The fourth one
+that's<00:21:48.960><c> a</c><00:21:49.120><c> lesson</c><00:21:49.360><c> for</c><00:21:49.520><c> second</c><00:21:49.840><c> brain</c>
+that's a lesson for second brain
+that's a lesson for second brain
+builders<00:21:50.640><c> is</c><00:21:50.880><c> there's</c><00:21:51.120><c> an</c><00:21:51.360><c> emerging</c><00:21:51.919><c> split</c>
+builders is there's an emerging split
+builders is there's an emerging split
+between<00:21:53.200><c> sessions-based</c><00:21:54.000><c> and</c><00:21:54.159><c> always</c><00:21:54.480><c> on</c>
+between sessions-based and always on
+between sessions-based and always on
+approaches.<00:21:55.440><c> So,</c><00:21:55.600><c> the</c><00:21:55.760><c> Zapier</c><00:21:56.320><c> flow</c><00:21:56.480><c> I</c><00:21:56.640><c> showed</c>
+approaches. So, the Zapier flow I showed
+approaches. So, the Zapier flow I showed
+is<00:21:57.039><c> is</c><00:21:57.360><c> designed</c><00:21:57.679><c> to</c><00:21:57.919><c> be</c><00:21:58.080><c> always</c><00:21:58.320><c> on.</c><00:21:58.640><c> That's</c>
+is is designed to be always on. That's
+is is designed to be always on. That's
+the<00:21:58.960><c> way</c><00:21:59.039><c> my</c><00:21:59.280><c> brain</c><00:21:59.520><c> works</c><00:21:59.840><c> anyway.</c><00:22:00.480><c> Messages</c>
+the way my brain works anyway. Messages
+the way my brain works anyway. Messages
+get<00:22:01.280><c> processed</c><00:22:01.840><c> automatically</c><00:22:02.559><c> whether</c>
+get processed automatically whether
+get processed automatically whether
+you're<00:22:03.039><c> engaged</c><00:22:03.360><c> with</c><00:22:03.520><c> them</c><00:22:03.679><c> or</c><00:22:03.919><c> not.</c><00:22:04.080><c> Uh</c><00:22:04.320><c> the</c>
+you're engaged with them or not. Uh the
+you're engaged with them or not. Uh the
+clawed<00:22:04.880><c> code</c><00:22:05.120><c> approach</c><00:22:05.440><c> I</c><00:22:05.679><c> talked</c><00:22:05.840><c> about</c>
+clawed code approach I talked about
+clawed code approach I talked about
+earlier<00:22:06.320><c> is</c><00:22:06.640><c> sessionbased.</c><00:22:07.520><c> You</c><00:22:07.760><c> process</c>
+earlier is sessionbased. You process
+earlier is sessionbased. You process
+your<00:22:08.320><c> inbox</c><00:22:08.799><c> when</c><00:22:09.120><c> you</c><00:22:09.280><c> sit</c><00:22:09.520><c> down</c><00:22:09.760><c> to</c><00:22:10.000><c> work</c><00:22:10.400><c> in</c>
+your inbox when you sit down to work in
+your inbox when you sit down to work in
+conversation<00:22:11.280><c> with</c><00:22:11.440><c> the</c><00:22:11.600><c> AI.</c><00:22:12.000><c> It</c><00:22:12.159><c> doesn't</c>
+conversation with the AI. It doesn't
+conversation with the AI. It doesn't
+pre-process<00:22:12.960><c> for</c><00:22:13.200><c> you.</c><00:22:13.679><c> Both</c><00:22:14.000><c> patterns</c><00:22:14.320><c> are</c>
+pre-process for you. Both patterns are
+pre-process for you. Both patterns are
+fine.<00:22:15.039><c> Always</c><00:22:15.360><c> on</c><00:22:15.600><c> is</c><00:22:15.840><c> better</c><00:22:16.000><c> if</c><00:22:16.240><c> you're</c>
+fine. Always on is better if you're
+fine. Always on is better if you're
+really<00:22:16.640><c> wanting</c><00:22:16.799><c> to</c><00:22:16.960><c> offload</c><00:22:17.360><c> the</c><00:22:17.520><c> mental</c>
+really wanting to offload the mental
+really wanting to offload the mental
+load.<00:22:18.640><c> Sessionbased</c><00:22:19.360><c> gives</c><00:22:19.520><c> you</c><00:22:19.760><c> much</c><00:22:20.000><c> more</c>
+load. Sessionbased gives you much more
+load. Sessionbased gives you much more
+control<00:22:20.559><c> and</c><00:22:20.720><c> the</c><00:22:20.880><c> ability</c><00:22:21.120><c> to</c><00:22:21.280><c> ask</c><00:22:21.600><c> questions</c>
+control and the ability to ask questions
+control and the ability to ask questions
+during<00:22:22.480><c> processing</c><00:22:22.960><c> and</c><00:22:23.200><c> shape</c><00:22:23.520><c> that.</c><00:22:24.080><c> Again,</c>
+during processing and shape that. Again,
+during processing and shape that. Again,
+this<00:22:24.799><c> is</c><00:22:24.960><c> why</c><00:22:25.200><c> second</c><00:22:25.520><c> brain</c>
+this is why second brain
+this is why second brain
+one-sizefits-all<00:22:26.960><c> solutions</c><00:22:27.440><c> don't</c><00:22:27.679><c> work.</c>
+one-sizefits-all solutions don't work.
+one-sizefits-all solutions don't work.
+You<00:22:28.159><c> have</c><00:22:28.240><c> to</c><00:22:28.400><c> decide</c><00:22:28.640><c> what</c><00:22:28.880><c> works</c><00:22:29.039><c> for</c><00:22:29.200><c> you.</c>
+You have to decide what works for you.
+You have to decide what works for you.
+Finally,<00:22:30.000><c> and</c><00:22:30.240><c> this</c><00:22:30.320><c> is</c><00:22:30.400><c> where</c><00:22:30.640><c> things</c><00:22:30.880><c> get</c>
+Finally, and this is where things get
+Finally, and this is where things get
+interesting,<00:22:31.679><c> there's</c><00:22:32.000><c> movement</c><00:22:32.400><c> toward</c><00:22:32.960><c> AI</c>
+interesting, there's movement toward AI
+interesting, there's movement toward AI
+agent<00:22:33.919><c> generated</c><00:22:34.400><c> interfaces.</c><00:22:35.120><c> Instead</c><00:22:35.360><c> of</c>
+agent generated interfaces. Instead of
+agent generated interfaces. Instead of
+building<00:22:35.919><c> a</c><00:22:36.159><c> fixed</c><00:22:36.480><c> dashboard</c><00:22:36.960><c> in</c><00:22:37.200><c> notion</c><00:22:37.600><c> and</c>
+building a fixed dashboard in notion and
+building a fixed dashboard in notion and
+hoping<00:22:38.240><c> it</c><00:22:38.400><c> will</c><00:22:38.559><c> serve</c><00:22:38.799><c> your</c><00:22:38.960><c> needs</c><00:22:39.200><c> forever,</c>
+hoping it will serve your needs forever,
+hoping it will serve your needs forever,
+some<00:22:40.080><c> builders</c><00:22:40.400><c> are</c><00:22:40.640><c> generating</c><00:22:41.120><c> UI</c><00:22:41.760><c> on</c>
+some builders are generating UI on
+some builders are generating UI on
+demand.<00:22:42.720><c> I</c><00:22:42.960><c> think</c><00:22:43.039><c> we're</c><00:22:43.200><c> going</c><00:22:43.280><c> to</c><00:22:43.440><c> see</c><00:22:43.600><c> more</c>
+demand. I think we're going to see more
+demand. I think we're going to see more
+of<00:22:43.919><c> this</c><00:22:44.080><c> in</c><00:22:44.400><c> 2026.</c><00:22:45.440><c> And</c><00:22:45.520><c> so</c><00:22:45.679><c> when</c><00:22:45.919><c> they</c><00:22:46.080><c> need</c><00:22:46.159><c> a</c>
+of this in 2026. And so when they need a
+of this in 2026. And so when they need a
+particular<00:22:46.640><c> view</c><00:22:46.799><c> of</c><00:22:46.960><c> the</c><00:22:47.120><c> data,</c><00:22:47.360><c> they</c><00:22:47.520><c> ask</c>
+particular view of the data, they ask
+particular view of the data, they ask
+Claude<00:22:48.080><c> to</c><00:22:48.240><c> just</c><00:22:48.480><c> create</c><00:22:48.720><c> it.</c><00:22:49.039><c> I</c><00:22:49.360><c> found</c><00:22:49.520><c> myself</c>
+Claude to just create it. I found myself
+Claude to just create it. I found myself
+doing<00:22:50.159><c> this</c><00:22:50.320><c> on</c><00:22:50.480><c> a</c><00:22:50.640><c> different</c><00:22:50.880><c> application</c><00:22:51.360><c> in</c>
+doing this on a different application in
+doing this on a different application in
+Claude<00:22:51.919><c> Co-work</c><00:22:52.320><c> just</c><00:22:52.559><c> this</c><00:22:52.720><c> week.</c><00:22:53.039><c> So</c><00:22:53.200><c> I</c><00:22:53.440><c> can</c>
+Claude Co-work just this week. So I can
+Claude Co-work just this week. So I can
+see<00:22:53.679><c> that</c><00:22:53.840><c> this</c><00:22:54.080><c> is</c><00:22:54.159><c> going</c><00:22:54.240><c> to</c><00:22:54.320><c> be</c><00:22:54.400><c> a</c><00:22:54.559><c> pattern</c>
+see that this is going to be a pattern
+see that this is going to be a pattern
+that<00:22:55.039><c> starts</c><00:22:55.200><c> to</c><00:22:55.360><c> emerge.</c><00:22:55.840><c> Let</c><00:22:56.080><c> me</c><00:22:56.240><c> close</c><00:22:56.559><c> with</c>
+that starts to emerge. Let me close with
+that starts to emerge. Let me close with
+a<00:22:56.960><c> reflection</c><00:22:57.679><c> on</c><00:22:58.320><c> how</c><00:22:58.559><c> this</c><00:22:58.880><c> all</c><00:22:59.120><c> reshapes</c><00:22:59.760><c> my</c>
+a reflection on how this all reshapes my
+a reflection on how this all reshapes my
+own<00:23:00.320><c> thinking</c><00:23:00.720><c> on</c><00:23:01.280><c> second</c><00:23:01.600><c> brain</c><00:23:01.919><c> building</c>
+own thinking on second brain building
+own thinking on second brain building
+and<00:23:03.039><c> how</c><00:23:03.360><c> AI</c><00:23:03.760><c> is</c><00:23:04.000><c> shaping</c><00:23:04.400><c> what</c><00:23:04.559><c> we</c><00:23:04.799><c> as</c><00:23:04.960><c> a</c>
+and how AI is shaping what we as a
+and how AI is shaping what we as a
+species<00:23:05.600><c> build</c><00:23:05.919><c> and</c><00:23:06.080><c> do</c><00:23:06.320><c> in</c><00:23:06.640><c> the</c><00:23:06.720><c> coming</c><00:23:07.039><c> year.</c>
+species build and do in the coming year.
+species build and do in the coming year.
+The<00:23:07.600><c> second</c><00:23:07.919><c> brain</c><00:23:08.159><c> was</c><00:23:08.320><c> just</c><00:23:08.480><c> the</c><00:23:08.720><c> project,</c>
+The second brain was just the project,
+The second brain was just the project,
+but<00:23:09.679><c> the</c><00:23:09.919><c> way</c><00:23:10.000><c> we</c><00:23:10.320><c> built</c><00:23:10.640><c> it</c><00:23:11.200><c> revealed</c><00:23:11.679><c> that</c><00:23:11.919><c> we</c>
+but the way we built it revealed that we
+but the way we built it revealed that we
+are<00:23:12.320><c> changing</c><00:23:12.720><c> build</c><00:23:13.039><c> patterns</c><00:23:13.360><c> we've</c><00:23:13.679><c> held</c>
+are changing build patterns we've held
+are changing build patterns we've held
+steady<00:23:14.320><c> for</c><00:23:14.480><c> a</c><00:23:14.720><c> long,</c><00:23:14.960><c> long</c><00:23:15.280><c> time.</c><00:23:15.840><c> As</c><00:23:16.000><c> I</c>
+steady for a long, long time. As I
+steady for a long, long time. As I
+shared<00:23:16.400><c> in</c><00:23:16.559><c> my</c><00:23:16.799><c> previous</c><00:23:17.039><c> video,</c><00:23:17.440><c> we've</c><00:23:17.679><c> had</c>
+shared in my previous video, we've had
+shared in my previous video, we've had
+the<00:23:18.080><c> same</c><00:23:18.320><c> cognitive</c><00:23:18.880><c> architecture</c><00:23:19.360><c> for</c>
+the same cognitive architecture for
+the same cognitive architecture for
+about<00:23:19.840><c> half</c><00:23:20.000><c> a</c><00:23:20.240><c> million</c><00:23:20.480><c> years.</c><00:23:20.960><c> We've</c><00:23:21.200><c> had</c><00:23:21.360><c> a</c>
+about half a million years. We've had a
+about half a million years. We've had a
+few<00:23:21.679><c> items</c><00:23:22.000><c> in</c><00:23:22.159><c> working</c><00:23:22.480><c> memory,</c><00:23:22.880><c> terrible</c>
+few items in working memory, terrible
+few items in working memory, terrible
+retrieval,<00:23:24.000><c> etc.</c><00:23:24.240><c> The</c><00:23:24.400><c> second</c><00:23:24.640><c> brain</c><00:23:24.960><c> was</c>
+retrieval, etc. The second brain was
+retrieval, etc. The second brain was
+designed<00:23:25.360><c> to</c><00:23:25.520><c> really</c><00:23:25.760><c> help</c><00:23:25.919><c> with</c><00:23:26.159><c> that.</c>
+designed to really help with that.
+designed to really help with that.
+What's<00:23:27.120><c> different</c><00:23:27.440><c> in</c><00:23:27.760><c> 2026,</c><00:23:28.559><c> what</c><00:23:28.720><c> I</c><00:23:28.880><c> learned</c>
+What's different in 2026, what I learned
+What's different in 2026, what I learned
+as<00:23:29.360><c> I</c><00:23:29.520><c> started</c><00:23:29.760><c> to</c><00:23:29.919><c> build</c><00:23:30.080><c> with</c><00:23:30.320><c> the</c><00:23:30.480><c> community</c>
+as I started to build with the community
+as I started to build with the community
+is<00:23:30.960><c> that</c><00:23:31.120><c> the</c><00:23:31.360><c> combination</c><00:23:31.919><c> of</c><00:23:32.240><c> community</c>
+is that the combination of community
+is that the combination of community
+plus<00:23:33.280><c> AI</c><00:23:34.080><c> is</c><00:23:34.320><c> really</c><00:23:34.720><c> changing</c><00:23:35.120><c> the</c><00:23:35.360><c> economics</c>
+plus AI is really changing the economics
+plus AI is really changing the economics
+of<00:23:36.320><c> building.</c><00:23:37.120><c> Community</c><00:23:37.760><c> creates</c><00:23:38.080><c> a</c><00:23:38.320><c> shared</c>
+of building. Community creates a shared
+of building. Community creates a shared
+pattern<00:23:39.039><c> library</c><00:23:39.360><c> that</c><00:23:39.600><c> evolves</c><00:23:40.000><c> in</c><00:23:40.159><c> real</c>
+pattern library that evolves in real
+pattern library that evolves in real
+time.<00:23:41.039><c> Community</c><00:23:41.600><c> helps</c><00:23:41.840><c> us</c><00:23:42.080><c> figure</c><00:23:42.240><c> out</c><00:23:42.400><c> a</c>
+time. Community helps us figure out a
+time. Community helps us figure out a
+better<00:23:42.799><c> way</c><00:23:42.880><c> to</c><00:23:43.120><c> handle</c><00:23:43.520><c> a</c><00:23:43.760><c> confidence</c>
+better way to handle a confidence
+better way to handle a confidence
+threshold<00:23:44.799><c> to</c><00:23:44.960><c> get</c><00:23:45.120><c> around</c><00:23:45.360><c> an</c><00:23:45.600><c> obstacle</c><00:23:46.080><c> and</c>
+threshold to get around an obstacle and
+threshold to get around an obstacle and
+everybody<00:23:46.799><c> benefits</c><00:23:47.280><c> quickly.</c><00:23:47.760><c> And</c><00:23:48.000><c> AI</c><00:23:48.480><c> is</c>
+everybody benefits quickly. And AI is
+everybody benefits quickly. And AI is
+what<00:23:48.960><c> provides</c><00:23:49.360><c> the</c><00:23:49.600><c> implementation</c><00:23:50.240><c> muscle</c>
+what provides the implementation muscle
+what provides the implementation muscle
+to<00:23:50.880><c> adapt</c><00:23:51.280><c> all</c><00:23:51.520><c> of</c><00:23:51.600><c> these</c><00:23:51.919><c> community</c><00:23:52.320><c> patterns</c>
+to adapt all of these community patterns
+to adapt all of these community patterns
+to<00:23:52.960><c> fit</c><00:23:53.200><c> our</c><00:23:53.520><c> particular</c><00:23:54.080><c> context.</c><00:23:54.960><c> The</c><00:23:55.200><c> gap</c>
+to fit our particular context. The gap
+to fit our particular context. The gap
+between<00:23:55.919><c> I</c><00:23:56.159><c> understand</c><00:23:56.480><c> what</c><00:23:56.799><c> someone</c><00:23:57.039><c> else</c>
+between I understand what someone else
+between I understand what someone else
+did<00:23:57.760><c> and</c><00:23:58.000><c> I</c><00:23:58.240><c> can</c><00:23:58.400><c> do</c><00:23:58.559><c> the</c><00:23:58.720><c> equivalent</c><00:23:59.200><c> used</c><00:23:59.440><c> to</c>
+did and I can do the equivalent used to
+did and I can do the equivalent used to
+be<00:23:59.679><c> where</c><00:23:59.840><c> a</c><00:24:00.000><c> lot</c><00:24:00.159><c> of</c><00:24:00.240><c> projects</c><00:24:00.640><c> went</c><00:24:00.880><c> to</c><00:24:01.039><c> die.</c>
+be where a lot of projects went to die.
+be where a lot of projects went to die.
+And<00:24:01.760><c> now</c><00:24:02.000><c> AI</c><00:24:02.400><c> can</c><00:24:02.559><c> help</c><00:24:02.720><c> us</c><00:24:02.880><c> bridge</c><00:24:03.200><c> that</c><00:24:03.360><c> gap.</c>
+And now AI can help us bridge that gap.
+And now AI can help us bridge that gap.
+You<00:24:04.000><c> no</c><00:24:04.240><c> longer</c><00:24:04.480><c> need</c><00:24:04.640><c> to</c><00:24:04.799><c> be</c><00:24:04.880><c> an</c><00:24:05.039><c> engineer</c><00:24:05.360><c> to</c>
+You no longer need to be an engineer to
+You no longer need to be an engineer to
+construct<00:24:06.000><c> sophisticated</c><00:24:06.720><c> systems.</c><00:24:07.200><c> And</c><00:24:07.360><c> I'm</c>
+construct sophisticated systems. And I'm
+construct sophisticated systems. And I'm
+beginning<00:24:07.840><c> to</c><00:24:08.080><c> think</c><00:24:08.240><c> the</c><00:24:08.559><c> more</c><00:24:08.880><c> important</c>
+beginning to think the more important
+beginning to think the more important
+thing<00:24:10.240><c> is</c><00:24:10.559><c> not</c><00:24:10.799><c> to</c><00:24:11.039><c> be</c><00:24:11.200><c> an</c><00:24:11.440><c> engineer,</c><00:24:12.080><c> but</c><00:24:12.320><c> to</c>
+thing is not to be an engineer, but to
+thing is not to be an engineer, but to
+have<00:24:12.720><c> a</c><00:24:12.960><c> community</c><00:24:13.440><c> and</c><00:24:13.679><c> to</c><00:24:13.840><c> have</c><00:24:14.080><c> access</c><00:24:14.320><c> to</c>
+have a community and to have access to
+have a community and to have access to
+an<00:24:14.720><c> AI</c><00:24:15.039><c> you're</c><00:24:15.279><c> willing</c><00:24:15.520><c> to</c><00:24:15.679><c> push</c><00:24:16.320><c> because</c><00:24:16.559><c> you</c>
+an AI you're willing to push because you
+an AI you're willing to push because you
+can<00:24:16.960><c> acquire</c><00:24:17.360><c> the</c><00:24:17.600><c> technical</c><00:24:18.080><c> skills</c><00:24:18.400><c> you</c>
+can acquire the technical skills you
+can acquire the technical skills you
+need<00:24:18.720><c> alone.</c><00:24:19.200><c> This</c><00:24:19.520><c> community</c><00:24:20.000><c> proved</c><00:24:20.240><c> that</c>
+need alone. This community proved that
+need alone. This community proved that
+principles<00:24:21.039><c> are</c><00:24:21.279><c> portable.</c><00:24:22.000><c> People</c><00:24:22.240><c> can</c>
+principles are portable. People can
+principles are portable. People can
+build<00:24:22.640><c> in</c><00:24:22.880><c> any</c><00:24:23.039><c> tool</c><00:24:23.360><c> they</c><00:24:23.520><c> want.</c><00:24:23.760><c> You</c><00:24:23.919><c> can</c>
+build in any tool they want. You can
+build in any tool they want. You can
+build<00:24:24.159><c> in</c><00:24:24.320><c> Discord</c><00:24:24.720><c> and</c><00:24:24.799><c> Obsidian</c><00:24:25.279><c> wherever</c>
+build in Discord and Obsidian wherever
+build in Discord and Obsidian wherever
+you<00:24:25.760><c> are</c><00:24:26.159><c> that</c><00:24:26.400><c> doesn't</c><00:24:26.640><c> matter.</c><00:24:27.279><c> What</c>
+you are that doesn't matter. What
+you are that doesn't matter. What
+matters<00:24:27.919><c> is</c><00:24:28.159><c> that</c><00:24:28.320><c> you</c><00:24:28.559><c> are</c><00:24:28.720><c> able</c><00:24:28.880><c> to</c>
+matters is that you are able to
+matters is that you are able to
+understand<00:24:29.520><c> what</c><00:24:29.840><c> works</c><00:24:30.080><c> for</c><00:24:30.240><c> you,</c><00:24:30.720><c> how</c><00:24:30.960><c> you</c>
+understand what works for you, how you
+understand what works for you, how you
+want<00:24:31.279><c> to</c><00:24:31.440><c> scale</c><00:24:31.919><c> build</c><00:24:32.320><c> principles,</c><00:24:33.039><c> and</c><00:24:33.279><c> how</c>
+want to scale build principles, and how
+want to scale build principles, and how
+you<00:24:33.600><c> want</c><00:24:33.679><c> to</c><00:24:33.840><c> use</c><00:24:34.080><c> AI</c><00:24:34.880><c> to</c><00:24:35.120><c> build</c><00:24:35.440><c> more</c>
+you want to use AI to build more
+you want to use AI to build more
+quickly.<00:24:36.400><c> And</c><00:24:36.640><c> that</c><00:24:36.960><c> to</c><00:24:37.200><c> me</c><00:24:37.760><c> feels</c><00:24:38.080><c> like</c><00:24:38.240><c> a</c>
+quickly. And that to me feels like a
+quickly. And that to me feels like a
+really<00:24:38.799><c> big</c><00:24:39.120><c> extension</c><00:24:39.919><c> from</c><00:24:40.240><c> the</c><00:24:40.480><c> original</c>
+really big extension from the original
+really big extension from the original
+idea<00:24:41.039><c> I</c><00:24:41.279><c> had</c><00:24:41.440><c> in</c><00:24:41.600><c> the</c><00:24:41.679><c> video</c><00:24:41.840><c> because</c><00:24:42.000><c> in</c><00:24:42.159><c> the</c>
+idea I had in the video because in the
+idea I had in the video because in the
+video<00:24:42.400><c> I</c><00:24:42.640><c> was</c><00:24:42.720><c> like</c><00:24:43.120><c> the</c><00:24:43.360><c> second</c><00:24:43.679><c> brain</c>
+video I was like the second brain
+video I was like the second brain
+itself,<00:24:44.480><c> the</c><00:24:44.640><c> tool</c><00:24:44.960><c> itself</c><00:24:45.520><c> is</c><00:24:45.760><c> a</c><00:24:46.000><c> big</c><00:24:46.159><c> deal.</c>
+itself, the tool itself is a big deal.
+itself, the tool itself is a big deal.
+And<00:24:46.640><c> that's</c><00:24:46.880><c> still</c><00:24:47.279><c> true.</c><00:24:47.919><c> But</c><00:24:48.400><c> the</c><00:24:48.799><c> build</c>
+And that's still true. But the build
+And that's still true. But the build
+pattern<00:24:49.520><c> we're</c><00:24:49.760><c> seeing</c><00:24:50.000><c> is</c><00:24:50.240><c> an</c><00:24:50.400><c> even</c><00:24:50.640><c> bigger</c>
+pattern we're seeing is an even bigger
+pattern we're seeing is an even bigger
+deal<00:24:51.200><c> because</c><00:24:51.440><c> it</c><00:24:51.679><c> means</c><00:24:51.919><c> that</c><00:24:52.159><c> we</c><00:24:52.400><c> can</c><00:24:52.640><c> take</c>
+deal because it means that we can take
+deal because it means that we can take
+this<00:24:53.600><c> practice</c><00:24:54.080><c> of</c><00:24:54.320><c> building</c><00:24:54.559><c> in</c><00:24:54.799><c> community</c>
+this practice of building in community
+this practice of building in community
+using<00:24:55.600><c> AI</c><00:24:56.000><c> to</c><00:24:56.240><c> leverage</c><00:24:56.559><c> and</c><00:24:56.799><c> accelerate</c><00:24:57.200><c> our</c>
+using AI to leverage and accelerate our
+using AI to leverage and accelerate our
+builds<00:24:58.000><c> being</c><00:24:58.240><c> really</c><00:24:58.480><c> flexible</c><00:24:58.880><c> with</c><00:24:59.039><c> the</c>
+builds being really flexible with the
+builds being really flexible with the
+tools<00:24:59.520><c> so</c><00:24:59.679><c> they</c><00:24:59.840><c> fit</c><00:25:00.000><c> what</c><00:25:00.240><c> we</c><00:25:00.400><c> need</c><00:25:00.960><c> and</c><00:25:01.200><c> we</c>
+tools so they fit what we need and we
+tools so they fit what we need and we
+can<00:25:01.600><c> build</c><00:25:02.000><c> faster</c><00:25:02.480><c> than</c><00:25:02.720><c> we've</c><00:25:02.960><c> ever</c><00:25:03.200><c> built</c>
+can build faster than we've ever built
+can build faster than we've ever built
+before.<00:25:03.760><c> For</c><00:25:04.080><c> so</c><00:25:04.320><c> long,</c><00:25:04.720><c> building</c><00:25:05.120><c> has</c><00:25:05.360><c> been</c>
+before. For so long, building has been
+before. For so long, building has been
+top<00:25:05.840><c> down.</c><00:25:06.240><c> Building</c><00:25:06.640><c> has</c><00:25:06.880><c> been</c><00:25:07.279><c> you</c><00:25:07.520><c> get</c><00:25:07.679><c> an</c>
+top down. Building has been you get an
+top down. Building has been you get an
+instruction<00:25:08.240><c> from</c><00:25:08.480><c> someone</c><00:25:08.720><c> at</c><00:25:08.960><c> work</c><00:25:09.120><c> or</c><00:25:09.279><c> you</c>
+instruction from someone at work or you
+instruction from someone at work or you
+try<00:25:09.600><c> a</c><00:25:09.840><c> weekend</c><00:25:10.159><c> project</c><00:25:10.400><c> and</c><00:25:10.640><c> you</c><00:25:10.799><c> have</c><00:25:10.880><c> to</c>
+try a weekend project and you have to
+try a weekend project and you have to
+plan<00:25:11.200><c> it</c><00:25:11.360><c> out</c><00:25:11.520><c> and</c><00:25:11.679><c> you</c><00:25:11.840><c> have</c><00:25:11.919><c> to</c><00:25:12.000><c> do</c><00:25:12.159><c> every</c>
+plan it out and you have to do every
+plan it out and you have to do every
+single<00:25:12.640><c> line</c><00:25:12.960><c> yourself.</c><00:25:13.840><c> It's</c><00:25:14.080><c> how</c><00:25:14.159><c> we</c><00:25:14.320><c> built</c>
+single line yourself. It's how we built
+single line yourself. It's how we built
+the<00:25:14.720><c> pyramids</c><00:25:15.120><c> and</c><00:25:15.360><c> it's</c><00:25:15.520><c> how</c><00:25:15.679><c> we</c><00:25:15.840><c> built</c>
+the pyramids and it's how we built
+the pyramids and it's how we built
+software<00:25:16.480><c> for</c><00:25:16.720><c> a</c><00:25:16.880><c> long</c><00:25:16.960><c> time.</c><00:25:17.200><c> It</c><00:25:17.440><c> hasn't</c>
+software for a long time. It hasn't
+software for a long time. It hasn't
+changed<00:25:18.080><c> in</c><00:25:18.240><c> a</c><00:25:18.480><c> long</c><00:25:18.640><c> time.</c><00:25:18.880><c> Just</c><00:25:19.120><c> like</c><00:25:19.200><c> our</c>
+changed in a long time. Just like our
+changed in a long time. Just like our
+cognitive<00:25:19.919><c> architecture.</c><00:25:20.880><c> That's</c><00:25:21.200><c> not</c><00:25:21.440><c> true</c>
+cognitive architecture. That's not true
+cognitive architecture. That's not true
+anymore.<00:25:22.480><c> Now</c><00:25:23.360><c> we</c><00:25:23.679><c> have</c><00:25:23.919><c> the</c><00:25:24.240><c> ability</c><00:25:24.799><c> to</c><00:25:25.200><c> very</c>
+anymore. Now we have the ability to very
+anymore. Now we have the ability to very
+rapidly<00:25:26.400><c> digest,</c><00:25:27.279><c> meld,</c><00:25:28.240><c> and</c><00:25:28.720><c> understand</c><00:25:29.360><c> the</c>
+rapidly digest, meld, and understand the
+rapidly digest, meld, and understand the
+best<00:25:30.000><c> of</c><00:25:30.240><c> the</c><00:25:30.400><c> build</c><00:25:30.799><c> communities</c><00:25:31.279><c> around</c><00:25:31.600><c> us.</c>
+best of the build communities around us.
+best of the build communities around us.
+And<00:25:32.640><c> we</c><00:25:32.880><c> can</c><00:25:33.039><c> implement</c><00:25:33.440><c> it</c><00:25:33.679><c> quickly</c><00:25:34.159><c> because</c>
+And we can implement it quickly because
+And we can implement it quickly because
+AI<00:25:35.120><c> is</c><00:25:35.360><c> getting</c><00:25:35.600><c> good</c><00:25:35.840><c> enough</c><00:25:36.080><c> to</c><00:25:36.320><c> provide</c>
+AI is getting good enough to provide
+AI is getting good enough to provide
+real<00:25:36.960><c> implementation</c><00:25:37.600><c> muscle.</c><00:25:38.159><c> We</c><00:25:38.400><c> have</c>
+real implementation muscle. We have
+real implementation muscle. We have
+build<00:25:39.039><c> superpowers</c><00:25:39.760><c> we</c><00:25:40.000><c> have</c><00:25:40.159><c> never</c><00:25:40.400><c> had</c>
+build superpowers we have never had
+build superpowers we have never had
+before<00:25:41.039><c> and</c><00:25:41.279><c> that</c><00:25:41.440><c> are</c><00:25:41.679><c> not</c><00:25:41.919><c> technically</c>
+before and that are not technically
+before and that are not technically
+gated<00:25:42.799><c> and</c><00:25:43.039><c> that</c><00:25:43.200><c> makes</c><00:25:43.520><c> 2026</c><00:25:44.640><c> a</c><00:25:44.960><c> really</c>
+gated and that makes 2026 a really
+gated and that makes 2026 a really
+exciting<00:25:45.600><c> year</c><00:25:45.760><c> to</c><00:25:45.919><c> be</c><00:25:46.000><c> a</c><00:25:46.159><c> builder.</c><00:25:46.559><c> So</c><00:25:46.799><c> I</c><00:25:47.039><c> hope</c>
+exciting year to be a builder. So I hope
+exciting year to be a builder. So I hope
+you<00:25:47.279><c> enjoyed</c><00:25:47.600><c> this</c><00:25:47.760><c> tour</c><00:25:48.080><c> through</c><00:25:48.559><c> how</c><00:25:48.799><c> the</c>
+you enjoyed this tour through how the
+you enjoyed this tour through how the
+community<00:25:49.440><c> just</c><00:25:49.600><c> tore</c><00:25:49.919><c> through</c><00:25:50.080><c> the</c><00:25:50.240><c> second</c>
+community just tore through the second
+community just tore through the second
+brain<00:25:50.960><c> built</c><00:25:51.200><c> lots</c><00:25:51.440><c> of</c><00:25:51.600><c> different</c><00:25:51.760><c> things.</c><00:25:52.480><c> I</c>
+brain built lots of different things. I
+brain built lots of different things. I
+love<00:25:52.799><c> it.</c><00:25:53.039><c> It's</c><00:25:53.200><c> a</c><00:25:53.360><c> great</c><00:25:53.520><c> community.</c><00:25:53.840><c> Just</c><00:25:54.000><c> a</c>
+love it. It's a great community. Just a
+love it. It's a great community. Just a
+little<00:25:54.240><c> plug.</c><00:25:54.559><c> It's</c><00:25:54.640><c> not</c><00:25:54.799><c> it's</c><00:25:55.039><c> not</c><00:25:55.279><c> great</c>
+little plug. It's not it's not great
+little plug. It's not it's not great
+because<00:25:55.600><c> of</c><00:25:55.679><c> me.</c><00:25:55.919><c> It's</c><00:25:56.080><c> great</c><00:25:56.240><c> because</c><00:25:56.400><c> of</c><00:25:56.480><c> the</c>
+because of me. It's great because of the
+because of me. It's great because of the
+community.<00:25:57.440><c> And</c><00:25:57.679><c> I</c><00:25:57.919><c> hope</c><00:25:58.080><c> you</c><00:25:58.240><c> go</c><00:25:58.400><c> and</c><00:25:58.559><c> build</c>
+community. And I hope you go and build
+community. And I hope you go and build
+something<00:25:59.039><c> fun.</c><00:25:59.360><c> It</c><00:25:59.520><c> doesn't</c><00:25:59.679><c> have</c><00:25:59.760><c> to</c><00:25:59.840><c> be</c>
+something fun. It doesn't have to be
+something fun. It doesn't have to be
+second<00:26:00.320><c> brain.</c><00:26:00.880><c> Use</c><00:26:01.200><c> AI.</c><00:26:01.760><c> Find</c><00:26:02.000><c> a</c><00:26:02.240><c> community.</c>
+second brain. Use AI. Find a community.
+second brain. Use AI. Find a community.
+Doesn't<00:26:02.880><c> have</c><00:26:03.039><c> to</c><00:26:03.120><c> be</c><00:26:03.279><c> mine.</c><00:26:03.919><c> And</c><00:26:04.159><c> have</c><00:26:04.400><c> fun.</c>

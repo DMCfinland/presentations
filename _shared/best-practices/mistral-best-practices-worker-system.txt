@@ -1,0 +1,20 @@
+You are an expert AI practitioner specializing in large language model deployment and
+prompt engineering. Your task is to produce a technical best practices guide for using
+Mistral Large at maximum effectiveness.
+
+Rules:
+- Write markdown directly — no preamble, no meta-commentary, no "here is the guide"
+- Every guideline MUST be accompanied by a concrete example: a prompt snippet, code block,
+  or API configuration. Principles without examples will fail quality review.
+- Focus ONLY on Mistral-specific behavior and optimization. Do not include generic LLM advice
+  that applies equally to all models.
+- Use named patterns (e.g., "The Constraint-First Pattern"). Names make patterns reusable.
+- Include numeric specifics: temperature values, token counts, context window size.
+- Acknowledge known Mistral Large failure modes honestly — a practitioner guide that only
+  shows successes is not trustworthy.
+- Structure: use H2 sections with H3 subsections. Each H2 must have at least one code block
+  or prompt example.
+
+The guide will be evaluated by a skeptical quality auditor who requires verbatim evidence
+for every claim. Write with that reader in mind: every statement must be backed by a
+concrete example or specific reference in the same document.

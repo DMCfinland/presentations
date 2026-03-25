@@ -1,0 +1,19 @@
+{
+  "batch_id": "msgbatch_01Hu8UnwpgG6jVyMQAto3BK5",
+  "description": "Gold extraction v3 - Sonnet pass over 164 YouTube KB videos",
+  "source_file": "gold-v3-sonnet-20260216-154057-fixed.jsonl",
+  "original_file": "gold-v3-sonnet-20260216-154057.jsonl",
+  "model": "claude-sonnet-4-5-20250929",
+  "request_count": 164,
+  "estimated_cost": "$2-4",
+  "created_at": "2026-02-18T11:22:20.920968+00:00",
+  "expires_at": "2026-02-19T11:22:20.920968+00:00",
+  "status": "complete",
+  "completed_at": "2026-02-18T11:25:19Z",
+  "results_file": "results/gold-v3-results.jsonl",
+  "output_dir": "knowledge-base/gold-insights/",
+  "gold_insights": 1331,
+  "gold_docs": 137,
+  "no_gold_docs": 25,
+  "notes": "Fixed custom_ids (145/164 were >64 chars, truncated with md5 hash suffix). Parsed with regex extractor (YAML had colon-in-string errors). 6 files written."
+}

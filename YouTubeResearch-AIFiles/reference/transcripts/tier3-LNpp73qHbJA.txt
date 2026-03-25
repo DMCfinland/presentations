@@ -1,0 +1,676 @@
+I<00:00:00.320><c> spent</c><00:00:00.640><c> time</c><00:00:00.800><c> this</c><00:00:01.120><c> week</c><00:00:01.280><c> with</c><00:00:01.600><c> three</c>
+I spent time this week with three
+I spent time this week with three
+dramatically<00:00:02.720><c> different</c><00:00:03.200><c> documents</c><00:00:03.679><c> about</c>
+dramatically different documents about
+dramatically different documents about
+agents<00:00:04.720><c> and</c><00:00:04.960><c> I</c><00:00:05.200><c> want</c><00:00:05.359><c> to</c><00:00:05.600><c> bring</c><00:00:05.839><c> you</c><00:00:06.080><c> the</c>
+agents and I want to bring you the
+agents and I want to bring you the
+synthesis<00:00:06.879><c> that</c><00:00:07.200><c> matters</c><00:00:07.680><c> for</c><00:00:07.919><c> you.</c><00:00:08.559><c> So</c>
+synthesis that matters for you. So
+synthesis that matters for you. So
+number<00:00:09.280><c> one</c><00:00:09.519><c> was</c><00:00:09.840><c> Google's</c><00:00:10.320><c> 50page</c>
+number one was Google's 50page
+number one was Google's 50page
+introduction<00:00:11.280><c> to</c><00:00:11.440><c> agents</c><00:00:11.840><c> white</c><00:00:12.080><c> paper.</c><00:00:12.480><c> I</c>
+introduction to agents white paper. I
+introduction to agents white paper. I
+have<00:00:12.800><c> seen</c><00:00:12.960><c> that</c><00:00:13.120><c> traded</c><00:00:13.519><c> around</c><00:00:13.759><c> a</c><00:00:13.920><c> lot.</c><00:00:14.160><c> I</c>
+have seen that traded around a lot. I
+have seen that traded around a lot. I
+have<00:00:14.400><c> not</c><00:00:14.559><c> seen</c><00:00:14.719><c> it</c><00:00:14.880><c> read</c><00:00:15.040><c> a</c><00:00:15.200><c> lot</c><00:00:15.360><c> because</c><00:00:15.599><c> if</c>
+have not seen it read a lot because if
+have not seen it read a lot because if
+you<00:00:15.920><c> read</c><00:00:16.080><c> it</c><00:00:16.320><c> you</c><00:00:16.400><c> would</c><00:00:16.560><c> know</c><00:00:16.720><c> there's</c><00:00:16.880><c> a</c><00:00:17.039><c> lot</c>
+you read it you would know there's a lot
+you read it you would know there's a lot
+in<00:00:17.279><c> there</c><00:00:17.440><c> to</c><00:00:17.600><c> unpack</c><00:00:17.920><c> and</c><00:00:18.160><c> it's</c><00:00:18.400><c> not</c><00:00:18.560><c> all</c>
+in there to unpack and it's not all
+in there to unpack and it's not all
+obvious.<00:00:19.520><c> Number</c><00:00:19.840><c> two</c><00:00:20.000><c> is</c><00:00:20.240><c> Verscell's</c><00:00:20.880><c> what</c>
+obvious. Number two is Verscell's what
+obvious. Number two is Verscell's what
+we<00:00:21.279><c> learned</c><00:00:21.600><c> about</c><00:00:21.760><c> building</c><00:00:22.160><c> agents</c><00:00:22.960><c> which</c>
+we learned about building agents which
+we learned about building agents which
+is<00:00:23.600><c> shorter</c><00:00:24.160><c> but</c><00:00:24.560><c> really</c><00:00:24.880><c> focused</c><00:00:25.279><c> on</c>
+is shorter but really focused on
+is shorter but really focused on
+practical<00:00:26.000><c> field</c><00:00:26.320><c> applications.</c><00:00:26.960><c> I</c><00:00:27.199><c> loved</c>
+practical field applications. I loved
+practical field applications. I loved
+it.<00:00:27.680><c> And</c><00:00:27.840><c> of</c><00:00:28.000><c> course,</c><00:00:28.080><c> there's</c><00:00:28.320><c> Anthropic's</c>
+it. And of course, there's Anthropic's
+it. And of course, there's Anthropic's
+report<00:00:29.439><c> on</c><00:00:29.679><c> the</c><00:00:29.920><c> Agentic</c><00:00:30.560><c> hack</c><00:00:31.039><c> by</c><00:00:31.359><c> Claude</c>
+report on the Agentic hack by Claude
+report on the Agentic hack by Claude
+Code.<00:00:32.320><c> What</c><00:00:32.559><c> do</c><00:00:32.719><c> these</c><00:00:32.960><c> have</c><00:00:33.120><c> in</c><00:00:33.360><c> common?</c><00:00:33.760><c> I</c>
+Code. What do these have in common? I
+Code. What do these have in common? I
+mean,<00:00:34.079><c> it's</c><00:00:34.320><c> AI</c><00:00:34.640><c> agents,</c><00:00:35.440><c> but</c><00:00:35.760><c> really</c><00:00:36.160><c> to</c><00:00:36.399><c> me,</c>
+mean, it's AI agents, but really to me,
+mean, it's AI agents, but really to me,
+they<00:00:37.200><c> represent</c><00:00:37.600><c> a</c><00:00:37.920><c> competing</c><00:00:38.640><c> vision</c><00:00:38.960><c> and</c><00:00:39.200><c> a</c>
+they represent a competing vision and a
+they represent a competing vision and a
+battle<00:00:39.840><c> over</c><00:00:40.079><c> the</c><00:00:40.320><c> future</c><00:00:40.559><c> of</c><00:00:40.719><c> AI</c><00:00:41.040><c> agents</c><00:00:41.360><c> that</c>
+battle over the future of AI agents that
+battle over the future of AI agents that
+I<00:00:41.760><c> think</c><00:00:41.920><c> we</c><00:00:42.160><c> need</c><00:00:42.239><c> to</c><00:00:42.399><c> talk</c><00:00:42.640><c> about.</c><00:00:43.200><c> Google</c>
+I think we need to talk about. Google
+I think we need to talk about. Google
+really<00:00:44.000><c> laid</c><00:00:44.320><c> out</c><00:00:44.879><c> an</c><00:00:45.200><c> idealistic,</c><00:00:46.079><c> a</c><00:00:46.399><c> utopian</c>
+really laid out an idealistic, a utopian
+really laid out an idealistic, a utopian
+vision<00:00:47.440><c> for</c><00:00:47.680><c> AI</c><00:00:48.000><c> agents</c><00:00:48.399><c> that</c><00:00:48.719><c> I</c><00:00:49.039><c> do</c><00:00:49.280><c> not</c><00:00:49.520><c> see</c>
+vision for AI agents that I do not see
+vision for AI agents that I do not see
+companies<00:00:51.039><c> actually</c><00:00:51.600><c> implementing</c><00:00:52.480><c> in</c><00:00:52.719><c> 2025.</c>
+companies actually implementing in 2025.
+companies actually implementing in 2025.
+I<00:00:53.920><c> get</c><00:00:54.160><c> where</c><00:00:54.399><c> they're</c><00:00:54.640><c> going.</c><00:00:55.039><c> It</c><00:00:55.120><c> is</c><00:00:55.360><c> part</c><00:00:55.520><c> of</c>
+I get where they're going. It is part of
+I get where they're going. It is part of
+Google's<00:00:56.160><c> job</c><00:00:56.399><c> to</c><00:00:56.800><c> lay</c><00:00:56.879><c> out</c><00:00:57.039><c> the</c><00:00:57.280><c> vision</c><00:00:57.520><c> of</c>
+Google's job to lay out the vision of
+Google's job to lay out the vision of
+the<00:00:57.840><c> future.</c><00:00:58.399><c> And</c><00:00:58.719><c> Google</c><00:00:59.199><c> feels</c><00:00:59.760><c> really</c>
+the future. And Google feels really
+the future. And Google feels really
+prophetic<00:01:00.719><c> this</c><00:01:01.039><c> week</c><00:01:01.520><c> because</c><00:01:01.840><c> when</c><00:01:02.079><c> they</c>
+prophetic this week because when they
+prophetic this week because when they
+published<00:01:02.640><c> that</c><00:01:02.960><c> white</c><00:01:03.199><c> paper,</c><00:01:03.840><c> it</c><00:01:04.080><c> was</c><00:01:04.239><c> right</c>
+published that white paper, it was right
+published that white paper, it was right
+after<00:01:04.960><c> the</c><00:01:05.199><c> cloud</c><00:01:05.600><c> code</c><00:01:05.920><c> hack</c><00:01:06.320><c> news</c><00:01:06.640><c> broke.</c>
+after the cloud code hack news broke.
+after the cloud code hack news broke.
+And<00:01:07.520><c> one</c><00:01:07.840><c> of</c><00:01:07.920><c> the</c><00:01:08.159><c> key</c><00:01:08.400><c> learnings</c><00:01:08.799><c> in</c><00:01:08.960><c> the</c>
+And one of the key learnings in the
+And one of the key learnings in the
+claude<00:01:09.520><c> code</c><00:01:09.760><c> hack</c><00:01:10.080><c> news</c><00:01:10.320><c> is</c><00:01:10.560><c> that</c><00:01:10.720><c> we</c><00:01:10.960><c> cannot</c>
+claude code hack news is that we cannot
+claude code hack news is that we cannot
+depend<00:01:11.840><c> on</c><00:01:12.159><c> model</c><00:01:12.720><c> layer</c><00:01:12.960><c> security.</c><00:01:13.439><c> We</c><00:01:13.680><c> have</c>
+depend on model layer security. We have
+depend on model layer security. We have
+to<00:01:13.920><c> go</c><00:01:14.000><c> to</c><00:01:14.159><c> orchestration.</c><00:01:14.960><c> What</c><00:01:15.119><c> is</c><00:01:15.360><c> Google</c>
+to go to orchestration. What is Google
+to go to orchestration. What is Google
+all<00:01:16.000><c> about</c><00:01:16.240><c> in</c><00:01:16.479><c> this</c><00:01:16.640><c> white</c><00:01:16.880><c> paper?</c><00:01:17.200><c> They're</c>
+all about in this white paper? They're
+all about in this white paper? They're
+all<00:01:17.759><c> about</c><00:01:18.240><c> orchestration.</c><00:01:19.280><c> They</c><00:01:19.600><c> basically</c>
+all about orchestration. They basically
+all about orchestration. They basically
+are<00:01:20.240><c> saying</c><00:01:20.799><c> if</c><00:01:21.040><c> you</c><00:01:21.200><c> get</c><00:01:21.439><c> serious</c><00:01:21.840><c> about</c>
+are saying if you get serious about
+are saying if you get serious about
+agents<00:01:22.880><c> you</c><00:01:23.200><c> are</c><00:01:23.439><c> going</c><00:01:23.520><c> to</c><00:01:23.759><c> have</c><00:01:24.000><c> to</c><00:01:24.240><c> solve</c>
+agents you are going to have to solve
+agents you are going to have to solve
+the<00:01:24.640><c> orchestration</c><00:01:25.439><c> problem</c><00:01:25.759><c> at</c><00:01:26.080><c> scale</c><00:01:26.560><c> and</c>
+the orchestration problem at scale and
+the orchestration problem at scale and
+they're<00:01:27.119><c> absolutely</c><00:01:27.920><c> correct</c><00:01:28.640><c> but</c><00:01:29.200><c> it</c><00:01:29.439><c> is</c>
+they're absolutely correct but it is
+they're absolutely correct but it is
+really<00:01:30.000><c> really</c><00:01:30.320><c> hard</c><00:01:30.560><c> to</c><00:01:30.720><c> do</c><00:01:30.880><c> that</c><00:01:31.119><c> well</c><00:01:31.680><c> and</c>
+really really hard to do that well and
+really really hard to do that well and
+that<00:01:32.079><c> is</c><00:01:32.320><c> why</c><00:01:32.640><c> we</c><00:01:32.880><c> need</c><00:01:33.040><c> this</c><00:01:33.280><c> kind</c><00:01:33.360><c> of</c>
+that is why we need this kind of
+that is why we need this kind of
+advanced<00:01:33.920><c> thinking</c><00:01:34.320><c> because</c><00:01:34.560><c> right</c><00:01:34.799><c> now</c><00:01:34.960><c> I</c>
+advanced thinking because right now I
+advanced thinking because right now I
+got<00:01:35.280><c> to</c><00:01:35.439><c> say</c><00:01:36.000><c> most</c><00:01:36.320><c> organizations</c><00:01:37.119><c> getting</c>
+got to say most organizations getting
+got to say most organizations getting
+ROI<00:01:37.840><c> are</c><00:01:38.079><c> doing</c><00:01:38.240><c> much</c><00:01:38.560><c> simpler</c><00:01:38.960><c> things</c><00:01:39.200><c> with</c>
+ROI are doing much simpler things with
+ROI are doing much simpler things with
+agents<00:01:39.840><c> which</c><00:01:40.000><c> is</c><00:01:40.159><c> exactly</c><00:01:40.560><c> where</c><00:01:40.799><c> Versel</c>
+agents which is exactly where Versel
+agents which is exactly where Versel
+comes<00:01:41.600><c> in.</c><00:01:42.159><c> Verscell</c><00:01:42.720><c> comes</c><00:01:42.880><c> in</c><00:01:43.360><c> and</c><00:01:43.680><c> their</c>
+comes in. Verscell comes in and their
+comes in. Verscell comes in and their
+focus<00:01:44.560><c> is</c><00:01:44.880><c> entirely</c><00:01:45.600><c> on</c><00:01:46.240><c> how</c><00:01:46.479><c> can</c><00:01:46.640><c> we</c><00:01:46.880><c> get</c>
+focus is entirely on how can we get
+focus is entirely on how can we get
+practical<00:01:47.600><c> value</c><00:01:47.920><c> out</c><00:01:48.079><c> of</c><00:01:48.240><c> AI</c><00:01:48.560><c> agents</c><00:01:48.880><c> at</c>
+practical value out of AI agents at
+practical value out of AI agents at
+work.<00:01:49.280><c> We're</c><00:01:49.439><c> not</c><00:01:49.600><c> writing</c><00:01:49.840><c> a</c><00:01:50.000><c> 50-page</c><00:01:50.640><c> white</c>
+work. We're not writing a 50-page white
+work. We're not writing a 50-page white
+paper.<00:01:51.680><c> We</c><00:01:51.920><c> are</c><00:01:52.079><c> just</c><00:01:52.399><c> trying</c><00:01:52.640><c> to</c><00:01:52.799><c> get</c><00:01:52.960><c> to</c>
+paper. We are just trying to get to
+paper. We are just trying to get to
+tomorrow<00:01:53.600><c> and</c><00:01:53.759><c> get</c><00:01:54.000><c> to</c><00:01:54.159><c> good</c><00:01:54.320><c> ROI,</c><00:01:54.799><c> which</c><00:01:55.040><c> is</c>
+tomorrow and get to good ROI, which is
+tomorrow and get to good ROI, which is
+where<00:01:55.280><c> like</c><00:01:55.600><c> 99%</c><00:01:56.560><c> of</c><00:01:56.799><c> businesses</c><00:01:57.280><c> are.</c><00:01:57.840><c> And</c>
+where like 99% of businesses are. And
+where like 99% of businesses are. And
+you<00:01:58.159><c> know</c><00:01:58.240><c> what</c><00:01:58.479><c> they</c><00:01:58.640><c> do?</c><00:01:59.119><c> They</c><00:01:59.439><c> go</c><00:01:59.680><c> through</c>
+you know what they do? They go through
+you know what they do? They go through
+their<00:02:00.640><c> back</c><00:02:00.960><c> office</c><00:02:01.360><c> operations.</c><00:02:02.640><c> This</c><00:02:02.880><c> is</c>
+their back office operations. This is
+their back office operations. This is
+alarmingly<00:02:03.840><c> simple,</c><00:02:04.240><c> but</c><00:02:04.399><c> I</c><00:02:04.640><c> love</c><00:02:04.719><c> it.</c><00:02:05.040><c> They</c>
+alarmingly simple, but I love it. They
+alarmingly simple, but I love it. They
+go<00:02:05.439><c> through</c><00:02:05.680><c> and</c><00:02:05.920><c> they</c><00:02:06.159><c> talk</c><00:02:06.320><c> to</c><00:02:06.479><c> the</c><00:02:06.640><c> people</c>
+go through and they talk to the people
+go through and they talk to the people
+actually<00:02:07.360><c> doing</c><00:02:07.520><c> the</c><00:02:07.759><c> work</c><00:02:07.920><c> and</c><00:02:08.160><c> they</c><00:02:08.399><c> say,</c>
+actually doing the work and they say,
+actually doing the work and they say,
+"Where<00:02:09.119><c> are</c><00:02:09.280><c> you</c><00:02:09.440><c> doing</c><00:02:09.759><c> something</c><00:02:10.319><c> that</c><00:02:10.640><c> is</c>
+"Where are you doing something that is
+"Where are you doing something that is
+completely<00:02:11.599><c> verifiable</c><00:02:12.720><c> that</c><00:02:12.959><c> is</c><00:02:13.120><c> just</c>
+completely verifiable that is just
+completely verifiable that is just
+obviously<00:02:14.000><c> one,</c><00:02:14.239><c> two,</c><00:02:14.480><c> three,</c><00:02:14.720><c> four,</c><00:02:15.040><c> five</c>
+obviously one, two, three, four, five
+obviously one, two, three, four, five
+clicks<00:02:15.840><c> and</c><00:02:16.000><c> and</c><00:02:16.239><c> it's</c><00:02:16.560><c> toil</c><00:02:17.200><c> like</c><00:02:17.520><c> you</c><00:02:17.840><c> don't</c>
+clicks and and it's toil like you don't
+clicks and and it's toil like you don't
+like<00:02:18.640><c> it.</c><00:02:18.959><c> It</c><00:02:19.520><c> causes</c><00:02:20.080><c> suffering.</c><00:02:20.959><c> Well,</c>
+like it. It causes suffering. Well,
+like it. It causes suffering. Well,
+let's<00:02:21.360><c> take</c><00:02:21.520><c> it</c><00:02:21.680><c> away."</c><00:02:22.160><c> And</c><00:02:22.319><c> that's</c><00:02:22.480><c> what</c>
+let's take it away." And that's what
+let's take it away." And that's what
+they're<00:02:22.879><c> doing.</c><00:02:23.200><c> They</c><00:02:23.520><c> are</c><00:02:23.760><c> focused</c><00:02:24.319><c> on</c>
+they're doing. They are focused on
+they're doing. They are focused on
+building<00:02:25.680><c> AI</c><00:02:26.080><c> agents</c><00:02:26.879><c> that</c><00:02:27.200><c> let</c><00:02:27.599><c> their</c><00:02:27.920><c> best</c>
+building AI agents that let their best
+building AI agents that let their best
+people<00:02:28.720><c> in</c><00:02:29.040><c> back</c><00:02:29.280><c> office</c><00:02:29.680><c> operations</c><00:02:31.040><c> do</c><00:02:31.599><c> more</c>
+people in back office operations do more
+people in back office operations do more
+stuff<00:02:32.239><c> they</c><00:02:32.560><c> care</c><00:02:32.800><c> about</c><00:02:33.200><c> and</c><00:02:33.519><c> less</c><00:02:33.760><c> stuff</c>
+stuff they care about and less stuff
+stuff they care about and less stuff
+they<00:02:34.239><c> don't.</c><00:02:34.720><c> And</c><00:02:34.879><c> so</c><00:02:35.040><c> they</c><00:02:35.280><c> tackled</c><00:02:35.920><c> sort</c><00:02:36.160><c> of</c>
+they don't. And so they tackled sort of
+they don't. And so they tackled sort of
+ticket<00:02:36.640><c> triage</c><00:02:37.120><c> for</c><00:02:37.360><c> customer</c><00:02:37.760><c> service,</c>
+ticket triage for customer service,
+ticket triage for customer service,
+which<00:02:38.400><c> is</c><00:02:38.959><c> never</c><00:02:39.360><c> fun</c><00:02:39.599><c> for</c><00:02:39.760><c> anybody.</c><00:02:40.400><c> And</c><00:02:40.560><c> then</c>
+which is never fun for anybody. And then
+which is never fun for anybody. And then
+their<00:02:41.040><c> customer</c><00:02:41.360><c> service</c><00:02:41.760><c> people</c><00:02:42.319><c> are</c><00:02:42.480><c> on</c>
+their customer service people are on
+their customer service people are on
+higher<00:02:43.040><c> value</c><00:02:43.360><c> tasks,</c><00:02:44.239><c> things</c><00:02:44.400><c> that</c><00:02:44.720><c> allow</c>
+higher value tasks, things that allow
+higher value tasks, things that allow
+them<00:02:45.200><c> to</c><00:02:45.440><c> bring</c><00:02:45.599><c> their</c><00:02:45.760><c> best</c><00:02:46.000><c> to</c><00:02:46.160><c> the</c>
+them to bring their best to the
+them to bring their best to the
+business.<00:02:46.800><c> And</c><00:02:47.040><c> this</c><00:02:47.200><c> is</c><00:02:47.360><c> what</c><00:02:47.519><c> I</c><00:02:47.680><c> keep</c>
+business. And this is what I keep
+business. And this is what I keep
+emphasizing<00:02:48.400><c> is</c><00:02:48.640><c> AI</c><00:02:49.040><c> agents</c><00:02:49.519><c> need</c><00:02:49.680><c> to</c><00:02:49.920><c> weave</c>
+emphasizing is AI agents need to weave
+emphasizing is AI agents need to weave
+around<00:02:50.720><c> us</c><00:02:51.280><c> as</c><00:02:51.760><c> people</c><00:02:52.239><c> in</c><00:02:52.560><c> the</c><00:02:52.800><c> workplace.</c><00:02:53.440><c> I</c>
+around us as people in the workplace. I
+around us as people in the workplace. I
+loved<00:02:54.000><c> the</c><00:02:54.239><c> focus</c><00:02:54.640><c> Versel</c><00:02:55.120><c> had</c><00:02:55.280><c> here</c><00:02:55.519><c> because</c>
+loved the focus Versel had here because
+loved the focus Versel had here because
+it<00:02:56.080><c> reminds</c><00:02:56.480><c> us</c><00:02:57.599><c> that</c><00:02:58.080><c> people</c><00:02:58.480><c> matter</c><00:02:58.959><c> that</c>
+it reminds us that people matter that
+it reminds us that people matter that
+people<00:02:59.599><c> have</c><00:02:59.840><c> to</c><00:03:00.080><c> touch</c><00:03:00.319><c> the</c><00:03:00.560><c> work</c><00:03:00.879><c> for</c><00:03:01.040><c> the</c>
+people have to touch the work for the
+people have to touch the work for the
+work<00:03:01.680><c> to</c><00:03:02.000><c> really</c><00:03:02.480><c> have</c><00:03:03.200><c> the</c><00:03:03.519><c> value</c><00:03:03.920><c> we</c><00:03:04.159><c> can</c>
+work to really have the value we can
+work to really have the value we can
+bring<00:03:04.800><c> from</c><00:03:05.200><c> long</c><00:03:05.599><c> context</c><00:03:06.159><c> for</c><00:03:06.560><c> from</c><00:03:06.720><c> the</c>
+bring from long context for from the
+bring from long context for from the
+kind<00:03:07.040><c> of</c><00:03:07.360><c> understanding</c><00:03:08.159><c> over</c><00:03:08.640><c> time</c><00:03:09.120><c> that</c>
+kind of understanding over time that
+kind of understanding over time that
+people<00:03:09.840><c> bring</c><00:03:10.080><c> that</c><00:03:10.319><c> AI</c><00:03:10.720><c> doesn't.</c><00:03:11.280><c> And</c><00:03:11.440><c> that's</c>
+people bring that AI doesn't. And that's
+people bring that AI doesn't. And that's
+what<00:03:11.760><c> Versell</c><00:03:12.319><c> did.</c><00:03:12.640><c> Now,</c><00:03:12.959><c> Google,</c><00:03:13.360><c> don't</c>
+what Versell did. Now, Google, don't
+what Versell did. Now, Google, don't
+walk<00:03:13.840><c> away</c><00:03:14.080><c> from</c><00:03:14.239><c> this</c><00:03:14.400><c> and</c><00:03:14.560><c> think</c><00:03:14.800><c> Google</c><00:03:15.040><c> had</c>
+walk away from this and think Google had
+walk away from this and think Google had
+no<00:03:15.440><c> value</c><00:03:15.599><c> in</c><00:03:15.840><c> that</c><00:03:16.000><c> 50pager.</c><00:03:16.800><c> It</c><00:03:16.959><c> was</c><00:03:17.120><c> not</c>
+no value in that 50pager. It was not
+no value in that 50pager. It was not
+just<00:03:18.000><c> LLM</c><00:03:18.480><c> AI</c><00:03:18.800><c> sloped.</c><00:03:19.200><c> It</c><00:03:19.360><c> was</c><00:03:19.519><c> really</c>
+just LLM AI sloped. It was really
+just LLM AI sloped. It was really
+thoughtful.<00:03:20.640><c> And</c><00:03:20.879><c> what</c><00:03:21.120><c> they</c><00:03:21.360><c> laid</c><00:03:21.680><c> out</c><00:03:21.920><c> and</c>
+thoughtful. And what they laid out and
+thoughtful. And what they laid out and
+the<00:03:22.319><c> thing</c><00:03:22.400><c> that</c><00:03:22.560><c> I</c><00:03:22.800><c> want</c><00:03:22.879><c> you</c><00:03:22.959><c> to</c><00:03:23.120><c> take</c><00:03:23.280><c> away</c>
+the thing that I want you to take away
+the thing that I want you to take away
+is<00:03:24.159><c> that</c><00:03:24.560><c> at</c><00:03:24.879><c> core,</c><00:03:25.680><c> if</c><00:03:25.920><c> you</c><00:03:26.080><c> think</c><00:03:26.239><c> of</c><00:03:26.400><c> an</c>
+is that at core, if you think of an
+is that at core, if you think of an
+agent<00:03:26.879><c> as</c><00:03:27.040><c> a</c><00:03:27.200><c> loop,</c><00:03:27.440><c> if</c><00:03:27.680><c> it's</c><00:03:27.920><c> thinking,</c>
+agent as a loop, if it's thinking,
+agent as a loop, if it's thinking,
+acting,<00:03:28.720><c> and</c><00:03:28.959><c> observing</c><00:03:29.519><c> over</c><00:03:29.760><c> and</c><00:03:30.000><c> over</c><00:03:30.239><c> and</c>
+acting, and observing over and over and
+acting, and observing over and over and
+over<00:03:30.720><c> again,</c><00:03:31.280><c> the</c><00:03:31.519><c> agent's</c><00:03:32.000><c> only</c><00:03:32.400><c> real</c><00:03:32.799><c> job</c><00:03:33.519><c> is</c>
+over again, the agent's only real job is
+over again, the agent's only real job is
+context<00:03:34.480><c> window</c><00:03:34.879><c> curation.</c><00:03:35.920><c> It</c><00:03:36.159><c> just</c><00:03:36.879><c> needs</c>
+context window curation. It just needs
+context window curation. It just needs
+to<00:03:37.760><c> curate</c><00:03:38.239><c> the</c><00:03:38.480><c> context</c><00:03:39.040><c> window</c><00:03:39.680><c> and</c><00:03:40.000><c> pass</c><00:03:40.239><c> it</c>
+to curate the context window and pass it
+to curate the context window and pass it
+along.<00:03:41.040><c> That's</c><00:03:41.280><c> it.</c><00:03:41.680><c> And</c><00:03:41.920><c> so</c><00:03:42.319><c> as</c><00:03:42.640><c> funny</c><00:03:42.879><c> as</c><00:03:43.040><c> it</c>
+along. That's it. And so as funny as it
+along. That's it. And so as funny as it
+sounds,<00:03:43.920><c> it's</c><00:03:44.239><c> kind</c><00:03:44.319><c> of</c><00:03:44.400><c> like</c><00:03:44.560><c> the</c><00:03:44.799><c> Simpsons.</c>
+sounds, it's kind of like the Simpsons.
+sounds, it's kind of like the Simpsons.
+The<00:03:45.840><c> model</c><00:03:46.239><c> of</c><00:03:46.480><c> an</c><00:03:46.720><c> agent</c><00:03:47.120><c> is</c><00:03:47.280><c> a</c><00:03:47.519><c> brain</c><00:03:47.760><c> in</c><00:03:47.920><c> a</c>
+The model of an agent is a brain in a
+The model of an agent is a brain in a
+jar.<00:03:48.720><c> And</c><00:03:48.879><c> when</c><00:03:49.120><c> you</c><00:03:49.280><c> think</c><00:03:49.440><c> of</c><00:03:49.599><c> a</c><00:03:49.760><c> model</c><00:03:50.080><c> that</c>
+jar. And when you think of a model that
+jar. And when you think of a model that
+way,<00:03:50.879><c> it</c><00:03:51.200><c> means</c><00:03:51.440><c> that</c><00:03:51.760><c> you</c><00:03:52.159><c> value</c><00:03:52.560><c> the</c>
+way, it means that you value the
+way, it means that you value the
+orchestration<00:03:54.080><c> platform</c><00:03:54.720><c> around</c><00:03:55.040><c> it</c>
+orchestration platform around it
+orchestration platform around it
+appropriately.<00:03:56.159><c> And</c><00:03:56.319><c> that</c><00:03:56.480><c> is</c><00:03:56.560><c> what</c><00:03:56.799><c> Google</c>
+appropriately. And that is what Google
+appropriately. And that is what Google
+is<00:03:57.200><c> calling</c><00:03:57.439><c> out.</c><00:03:57.680><c> And</c><00:03:57.840><c> I</c><00:03:58.000><c> guarantee</c><00:03:58.319><c> you</c><00:03:58.480><c> that</c>
+is calling out. And I guarantee you that
+is calling out. And I guarantee you that
+is<00:03:58.799><c> going</c><00:03:58.879><c> to</c><00:03:58.959><c> be</c><00:03:59.040><c> a</c><00:03:59.280><c> massive</c><00:03:59.680><c> point</c><00:03:59.920><c> of</c>
+is going to be a massive point of
+is going to be a massive point of
+emphasis,<00:04:00.799><c> especially</c><00:04:01.280><c> after</c><00:04:01.519><c> the</c><00:04:01.680><c> Claude</c>
+emphasis, especially after the Claude
+emphasis, especially after the Claude
+code<00:04:02.319><c> hack.</c><00:04:02.879><c> So</c><00:04:03.200><c> the</c><00:04:03.519><c> orchestration</c><00:04:04.159><c> platform</c>
+code hack. So the orchestration platform
+code hack. So the orchestration platform
+decides<00:04:05.360><c> what</c><00:04:05.680><c> tools</c><00:04:06.080><c> the</c><00:04:06.319><c> model</c><00:04:06.640><c> can</c><00:04:06.799><c> call,</c>
+decides what tools the model can call,
+decides what tools the model can call,
+what<00:04:07.360><c> data</c><00:04:07.599><c> it</c><00:04:07.840><c> can</c><00:04:08.000><c> see,</c><00:04:08.319><c> how</c><00:04:08.480><c> long</c><00:04:08.799><c> its</c><00:04:09.040><c> plans</c>
+what data it can see, how long its plans
+what data it can see, how long its plans
+can<00:04:09.599><c> run,</c><00:04:10.000><c> when</c><00:04:10.159><c> to</c><00:04:10.400><c> stop,</c><00:04:10.720><c> when</c><00:04:10.879><c> to</c><00:04:11.040><c> escalate,</c>
+can run, when to stop, when to escalate,
+can run, when to stop, when to escalate,
+when<00:04:11.760><c> to</c><00:04:11.920><c> ask</c><00:04:12.319><c> a</c><00:04:12.560><c> human.</c><00:04:13.120><c> And</c><00:04:13.360><c> once</c><00:04:13.599><c> you</c>
+when to ask a human. And once you
+when to ask a human. And once you
+understand<00:04:14.239><c> that,</c><00:04:14.959><c> everything</c><00:04:15.280><c> else</c><00:04:15.599><c> gets</c>
+understand that, everything else gets
+understand that, everything else gets
+clear<00:04:16.160><c> because</c><00:04:16.560><c> Agentic</c><00:04:17.199><c> Operations</c><00:04:17.840><c> is</c><00:04:18.079><c> that</c>
+clear because Agentic Operations is that
+clear because Agentic Operations is that
+orchestration<00:04:18.959><c> platform.</c><00:04:19.519><c> It's</c><00:04:19.759><c> just</c><00:04:20.000><c> making</c>
+orchestration platform. It's just making
+orchestration platform. It's just making
+sure<00:04:20.880><c> that</c><00:04:21.199><c> you</c><00:04:21.440><c> can</c><00:04:21.919><c> actually</c><00:04:22.800><c> track</c><00:04:23.040><c> what</c>
+sure that you can actually track what
+sure that you can actually track what
+the<00:04:23.440><c> agents</c><00:04:23.840><c> are</c><00:04:24.080><c> doing,</c><00:04:24.639><c> understand</c><00:04:25.040><c> the</c>
+the agents are doing, understand the
+the agents are doing, understand the
+cost<00:04:25.520><c> they're</c><00:04:25.759><c> incurring,</c><00:04:26.560><c> understand</c><00:04:26.960><c> the</c>
+cost they're incurring, understand the
+cost they're incurring, understand the
+traces<00:04:27.520><c> of</c><00:04:27.680><c> their</c><00:04:27.840><c> run,</c><00:04:28.080><c> so</c><00:04:28.240><c> you</c><00:04:28.400><c> see</c><00:04:28.560><c> issues</c>
+traces of their run, so you see issues
+traces of their run, so you see issues
+that<00:04:29.120><c> come</c><00:04:29.280><c> up.</c><00:04:29.680><c> And</c><00:04:29.919><c> then</c><00:04:30.160><c> when</c><00:04:30.400><c> you</c><00:04:30.639><c> step</c>
+that come up. And then when you step
+that come up. And then when you step
+back<00:04:31.040><c> and</c><00:04:31.280><c> you</c><00:04:31.440><c> want</c><00:04:31.520><c> to</c><00:04:31.600><c> do</c><00:04:31.759><c> multi-</c><00:04:32.080><c> aent</c>
+back and you want to do multi- aent
+back and you want to do multi- aent
+system<00:04:32.720><c> design</c><00:04:32.960><c> in</c><00:04:33.199><c> Google's</c><00:04:33.600><c> vision,</c><00:04:34.160><c> it</c>
+system design in Google's vision, it
+system design in Google's vision, it
+becomes<00:04:34.720><c> a</c><00:04:34.960><c> matter</c><00:04:35.199><c> of</c><00:04:35.440><c> just</c><00:04:36.080><c> understanding</c>
+becomes a matter of just understanding
+becomes a matter of just understanding
+where<00:04:37.440><c> the</c><00:04:37.680><c> human</c><00:04:37.919><c> is</c><00:04:38.479><c> installing</c><00:04:39.280><c> these</c><00:04:39.600><c> loop</c>
+where the human is installing these loop
+where the human is installing these loop
+patterns<00:04:40.479><c> in</c><00:04:40.720><c> ways</c><00:04:40.960><c> that</c><00:04:41.199><c> reinforce</c><00:04:41.919><c> context</c>
+patterns in ways that reinforce context
+patterns in ways that reinforce context
+window<00:04:42.720><c> curation.</c><00:04:43.199><c> So</c><00:04:43.360><c> the</c><00:04:43.520><c> human</c><00:04:43.759><c> gets</c><00:04:44.000><c> fed</c>
+window curation. So the human gets fed
+window curation. So the human gets fed
+the<00:04:44.479><c> right</c><00:04:44.639><c> context,</c><00:04:45.040><c> the</c><00:04:45.280><c> subsequent</c><00:04:45.680><c> agents</c>
+the right context, the subsequent agents
+the right context, the subsequent agents
+get<00:04:46.160><c> fed</c><00:04:46.400><c> the</c><00:04:46.560><c> right</c><00:04:46.720><c> context</c><00:04:47.280><c> and</c><00:04:47.440><c> it's</c><00:04:47.680><c> very</c>
+get fed the right context and it's very
+get fed the right context and it's very
+clean.<00:04:48.479><c> There</c><00:04:48.639><c> is</c><00:04:48.800><c> no</c><00:04:49.120><c> single</c><00:04:49.840><c> god</c><00:04:50.160><c> agent</c><00:04:50.560><c> in</c>
+clean. There is no single god agent in
+clean. There is no single god agent in
+Google's<00:04:51.280><c> model</c><00:04:51.520><c> and</c><00:04:51.680><c> in</c><00:04:51.840><c> most</c><00:04:52.160><c> practical</c>
+Google's model and in most practical
+Google's model and in most practical
+multi-agent<00:04:53.280><c> systems</c><00:04:53.759><c> there</c><00:04:53.919><c> isn't</c><00:04:54.560><c> because</c>
+multi-agent systems there isn't because
+multi-agent systems there isn't because
+that<00:04:55.360><c> would</c><00:04:55.600><c> require</c><00:04:56.080><c> too</c><00:04:56.320><c> much</c><00:04:56.560><c> context</c><00:04:57.120><c> for</c>
+that would require too much context for
+that would require too much context for
+one<00:04:57.680><c> agent.</c><00:04:58.160><c> it</c><00:04:58.320><c> would</c><00:04:58.560><c> break.</c><00:04:59.040><c> And</c><00:04:59.280><c> I</c><00:04:59.440><c> love</c>
+one agent. it would break. And I love
+one agent. it would break. And I love
+that<00:04:59.919><c> clarity</c><00:05:00.639><c> because</c><00:05:00.880><c> that</c><00:05:01.199><c> means</c><00:05:01.360><c> that</c><00:05:01.520><c> the</c>
+that clarity because that means that the
+that clarity because that means that the
+future<00:05:02.080><c> of</c><00:05:02.240><c> agents</c><00:05:02.720><c> is</c><00:05:02.960><c> decentralized.</c>
+future of agents is decentralized.
+future of agents is decentralized.
+Security<00:05:05.120><c> reminds</c><00:05:05.520><c> us</c><00:05:06.240><c> and</c><00:05:06.479><c> this</c><00:05:06.639><c> is</c><00:05:06.800><c> a</c><00:05:07.039><c> key</c>
+Security reminds us and this is a key
+Security reminds us and this is a key
+insight<00:05:07.520><c> that</c><00:05:07.680><c> I</c><00:05:07.840><c> think</c><00:05:07.919><c> we</c><00:05:08.080><c> need</c><00:05:08.160><c> to</c><00:05:08.240><c> take</c>
+insight that I think we need to take
+insight that I think we need to take
+away<00:05:08.639><c> from</c><00:05:08.720><c> the</c><00:05:08.880><c> claude</c><00:05:09.280><c> code</c><00:05:09.520><c> hack.</c><00:05:10.080><c> We</c><00:05:10.400><c> need</c>
+away from the claude code hack. We need
+away from the claude code hack. We need
+to<00:05:10.800><c> treat</c><00:05:11.120><c> agents</c><00:05:11.600><c> as</c><00:05:12.000><c> first</c><00:05:12.560><c> class</c>
+to treat agents as first class
+to treat agents as first class
+identities.<00:05:13.919><c> We</c><00:05:14.160><c> need</c><00:05:14.320><c> to</c><00:05:14.479><c> give</c><00:05:14.800><c> agents</c>
+identities. We need to give agents
+identities. We need to give agents
+roles,<00:05:16.400><c> budgets,</c><00:05:17.520><c> personas,</c><00:05:18.479><c> policies.</c><00:05:19.520><c> We</c>
+roles, budgets, personas, policies. We
+roles, budgets, personas, policies. We
+need<00:05:20.000><c> to</c><00:05:20.240><c> assume</c><00:05:21.039><c> that</c><00:05:21.360><c> they</c><00:05:21.759><c> have</c><00:05:22.400><c> levels</c><00:05:22.800><c> of</c>
+need to assume that they have levels of
+need to assume that they have levels of
+privilege<00:05:23.520><c> and</c><00:05:23.759><c> are</c><00:05:24.000><c> treated</c><00:05:24.320><c> in</c><00:05:24.560><c> our</c>
+privilege and are treated in our
+privilege and are treated in our
+technical<00:05:25.120><c> systems</c><00:05:25.360><c> and</c><00:05:25.600><c> our</c><00:05:25.759><c> rolesbased</c>
+technical systems and our rolesbased
+technical systems and our rolesbased
+access<00:05:26.800><c> controls</c><00:05:27.520><c> as</c><00:05:27.759><c> if</c><00:05:27.919><c> they</c><00:05:28.160><c> were</c><00:05:28.479><c> a</c><00:05:29.039><c> semi</c>
+access controls as if they were a semi
+access controls as if they were a semi
+autonomous<00:05:30.400><c> employee.</c><00:05:31.039><c> So</c><00:05:31.199><c> not</c><00:05:31.360><c> an</c><00:05:31.600><c> employee</c>
+autonomous employee. So not an employee
+autonomous employee. So not an employee
+but<00:05:32.720><c> autonomous</c><00:05:33.360><c> enough</c><00:05:33.680><c> that</c><00:05:33.919><c> they</c><00:05:34.160><c> could</c>
+but autonomous enough that they could
+but autonomous enough that they could
+cause<00:05:34.639><c> damage</c><00:05:35.520><c> which</c><00:05:35.759><c> is</c><00:05:36.080><c> absolutely</c><00:05:36.880><c> true</c>
+cause damage which is absolutely true
+cause damage which is absolutely true
+after<00:05:37.440><c> the</c><00:05:37.600><c> claude</c><00:05:37.919><c> code</c><00:05:38.080><c> hack.</c><00:05:38.400><c> So</c><00:05:38.479><c> I</c><00:05:38.639><c> love</c>
+after the claude code hack. So I love
+after the claude code hack. So I love
+the<00:05:38.960><c> clarity</c><00:05:39.280><c> there.</c><00:05:39.600><c> Google's</c><00:05:40.080><c> paper</c><00:05:40.400><c> also</c>
+the clarity there. Google's paper also
+the clarity there. Google's paper also
+emphasized<00:05:41.360><c> and</c><00:05:41.600><c> I</c><00:05:41.759><c> think</c><00:05:41.840><c> this</c><00:05:42.320><c> this</c><00:05:42.639><c> just</c>
+emphasized and I think this this just
+emphasized and I think this this just
+makes<00:05:43.120><c> anyone</c><00:05:43.440><c> who's</c><00:05:43.680><c> ever</c><00:05:43.919><c> done</c><00:05:44.160><c> sales</c>
+makes anyone who's ever done sales
+makes anyone who's ever done sales
+happy.<00:05:45.280><c> They</c><00:05:45.520><c> emphasize</c><00:05:46.160><c> control</c><00:05:46.560><c> panes</c><00:05:46.960><c> and</c>
+happy. They emphasize control panes and
+happy. They emphasize control panes and
+everyone<00:05:47.600><c> loves</c><00:05:47.840><c> the</c><00:05:48.080><c> vision</c><00:05:48.240><c> of</c><00:05:48.400><c> the</c><00:05:48.560><c> glowing</c>
+everyone loves the vision of the glowing
+everyone loves the vision of the glowing
+control<00:05:49.280><c> board.</c><00:05:49.600><c> In</c><00:05:49.759><c> my</c><00:05:49.919><c> experience,</c><00:05:50.240><c> you</c>
+control board. In my experience, you
+control board. In my experience, you
+don't<00:05:50.560><c> use</c><00:05:50.720><c> it</c><00:05:50.880><c> as</c><00:05:51.039><c> often</c><00:05:51.280><c> as</c><00:05:51.440><c> you</c><00:05:51.600><c> sell</c><00:05:51.840><c> on</c><00:05:52.000><c> it.</c>
+don't use it as often as you sell on it.
+don't use it as often as you sell on it.
+But<00:05:52.800><c> everyone</c><00:05:53.280><c> loves</c><00:05:53.520><c> it</c><00:05:53.759><c> and</c><00:05:53.919><c> and</c><00:05:54.240><c> the</c>
+But everyone loves it and and the
+But everyone loves it and and the
+reality<00:05:54.720><c> is</c><00:05:55.120><c> Google's</c><00:05:55.520><c> kind</c><00:05:55.680><c> of</c><00:05:55.840><c> right.</c><00:05:56.160><c> If</c>
+reality is Google's kind of right. If
+reality is Google's kind of right. If
+you<00:05:56.479><c> end</c><00:05:56.560><c> up</c><00:05:56.720><c> with</c><00:05:56.880><c> hundreds</c><00:05:57.199><c> of</c><00:05:57.360><c> agents</c><00:05:57.680><c> in</c>
+you end up with hundreds of agents in
+you end up with hundreds of agents in
+2026,<00:05:58.720><c> you're</c><00:05:58.880><c> going</c><00:05:58.960><c> to</c><00:05:59.039><c> want</c><00:05:59.280><c> some</c><00:05:59.520><c> kind</c><00:05:59.759><c> of</c>
+2026, you're going to want some kind of
+2026, you're going to want some kind of
+control<00:06:00.320><c> pane</c><00:06:00.880><c> and</c><00:06:01.039><c> you're</c><00:06:01.280><c> going</c><00:06:01.360><c> to</c><00:06:01.440><c> want</c>
+control pane and you're going to want
+control pane and you're going to want
+some<00:06:01.840><c> thinking</c><00:06:02.080><c> around</c><00:06:02.320><c> that.</c><00:06:02.560><c> And</c><00:06:02.720><c> Google's</c>
+some thinking around that. And Google's
+some thinking around that. And Google's
+done<00:06:03.199><c> us</c><00:06:03.360><c> a</c><00:06:03.600><c> service</c><00:06:04.240><c> by</c><00:06:04.479><c> giving</c><00:06:04.720><c> us</c><00:06:04.960><c> that</c>
+done us a service by giving us that
+done us a service by giving us that
+thinking.<00:06:05.680><c> So</c><00:06:05.840><c> in</c><00:06:06.080><c> Google's</c><00:06:06.400><c> world,</c><00:06:06.639><c> agents</c>
+thinking. So in Google's world, agents
+thinking. So in Google's world, agents
+are<00:06:07.440><c> not</c><00:06:07.680><c> toys.</c><00:06:08.400><c> Agents</c><00:06:08.800><c> are</c><00:06:09.039><c> going</c><00:06:09.120><c> to</c><00:06:09.199><c> be</c><00:06:09.360><c> our</c>
+are not toys. Agents are going to be our
+are not toys. Agents are going to be our
+peers<00:06:10.960><c> focused</c><00:06:11.360><c> on</c><00:06:11.680><c> services</c><00:06:12.240><c> and</c><00:06:12.560><c> employees</c>
+peers focused on services and employees
+peers focused on services and employees
+within<00:06:13.680><c> our</c><00:06:13.919><c> architecture</c><00:06:14.880><c> and</c><00:06:15.280><c> we</c><00:06:15.520><c> are</c><00:06:15.759><c> going</c>
+within our architecture and we are going
+within our architecture and we are going
+to<00:06:16.240><c> be</c><00:06:16.560><c> delegating</c><00:06:17.280><c> tasks</c><00:06:17.759><c> to</c><00:06:18.000><c> them</c><00:06:18.400><c> and</c><00:06:18.639><c> the</c>
+to be delegating tasks to them and the
+to be delegating tasks to them and the
+orchestration<00:06:19.840><c> platform</c><00:06:20.479><c> itself</c><00:06:21.440><c> will</c>
+orchestration platform itself will
+orchestration platform itself will
+ensure<00:06:22.319><c> that</c><00:06:22.560><c> they</c><00:06:22.800><c> are</c><00:06:22.960><c> operating</c><00:06:23.520><c> in</c><00:06:23.759><c> a</c><00:06:24.000><c> safe</c>
+ensure that they are operating in a safe
+ensure that they are operating in a safe
+manner.<00:06:25.360><c> That</c><00:06:25.600><c> is</c><00:06:25.759><c> the</c><00:06:26.080><c> kind</c><00:06:26.319><c> of</c><00:06:26.720><c> productive</c>
+manner. That is the kind of productive
+manner. That is the kind of productive
+positive<00:06:28.319><c> security</c><00:06:28.880><c> first</c><00:06:29.199><c> thinking</c><00:06:29.520><c> that</c><00:06:29.759><c> we</c>
+positive security first thinking that we
+positive security first thinking that we
+need<00:06:30.240><c> after</c><00:06:30.479><c> the</c><00:06:30.720><c> cloud</c><00:06:31.039><c> code</c><00:06:31.280><c> hack.</c><00:06:31.520><c> I</c><00:06:31.680><c> think</c>
+need after the cloud code hack. I think
+need after the cloud code hack. I think
+it's<00:06:32.000><c> perfect</c><00:06:32.400><c> timing</c><00:06:32.720><c> that</c><00:06:32.880><c> they</c><00:06:33.039><c> dropped</c><00:06:33.280><c> it</c>
+it's perfect timing that they dropped it
+it's perfect timing that they dropped it
+then.<00:06:33.600><c> I</c><00:06:33.759><c> actually</c><00:06:33.919><c> don't</c><00:06:34.080><c> think</c><00:06:34.160><c> they</c>
+then. I actually don't think they
+then. I actually don't think they
+intentionally<00:06:34.800><c> did</c><00:06:34.960><c> it.</c><00:06:35.120><c> This</c><00:06:35.280><c> is</c><00:06:35.440><c> just</c><00:06:35.600><c> one</c>
+intentionally did it. This is just one
+intentionally did it. This is just one
+of<00:06:35.840><c> those</c><00:06:36.000><c> nice</c><00:06:36.319><c> coincidences.</c><00:06:37.440><c> But</c><00:06:37.919><c> we</c><00:06:38.240><c> still</c>
+of those nice coincidences. But we still
+of those nice coincidences. But we still
+live<00:06:38.639><c> in</c><00:06:38.800><c> the</c><00:06:38.960><c> now.</c><00:06:39.440><c> We</c><00:06:39.680><c> still</c><00:06:39.840><c> live</c><00:06:40.000><c> in</c><00:06:40.240><c> today.</c>
+live in the now. We still live in today.
+live in the now. We still live in today.
+And<00:06:41.120><c> Versell</c><00:06:41.759><c> helps</c><00:06:42.000><c> us</c><00:06:42.240><c> with</c><00:06:42.479><c> today.</c><00:06:42.880><c> Because</c>
+And Versell helps us with today. Because
+And Versell helps us with today. Because
+to<00:06:43.280><c> be</c><00:06:43.360><c> honest,</c><00:06:43.680><c> Verscell</c><00:06:44.240><c> has</c><00:06:44.479><c> not</c><00:06:44.720><c> done</c><00:06:44.880><c> all</c>
+to be honest, Verscell has not done all
+to be honest, Verscell has not done all
+of<00:06:45.199><c> this</c><00:06:45.360><c> on</c><00:06:45.520><c> the</c><00:06:45.680><c> orchestration</c><00:06:46.400><c> platform</c>
+of this on the orchestration platform
+of this on the orchestration platform
+side.<00:06:47.280><c> Almost</c><00:06:47.600><c> nobody</c><00:06:48.000><c> has.</c><00:06:48.560><c> And</c><00:06:48.720><c> so</c><00:06:48.880><c> Versel</c>
+side. Almost nobody has. And so Versel
+side. Almost nobody has. And so Versel
+reminds<00:06:49.840><c> us</c><00:06:50.319><c> that</c><00:06:50.479><c> if</c><00:06:50.720><c> you're</c><00:06:50.880><c> building</c>
+reminds us that if you're building
+reminds us that if you're building
+agents<00:06:51.600><c> today,</c><00:06:52.000><c> your</c><00:06:52.240><c> job</c><00:06:52.400><c> is</c><00:06:52.639><c> to</c><00:06:52.960><c> solve</c>
+agents today, your job is to solve
+agents today, your job is to solve
+problems<00:06:54.080><c> that</c><00:06:54.400><c> reduce</c><00:06:54.720><c> toil.</c><00:06:55.199><c> Solve</c>
+problems that reduce toil. Solve
+problems that reduce toil. Solve
+problems<00:06:55.680><c> that</c><00:06:55.840><c> are</c><00:06:56.000><c> verifiable.</c><00:06:56.880><c> Solve</c>
+problems that are verifiable. Solve
+problems that are verifiable. Solve
+problems<00:06:57.520><c> where</c><00:06:57.759><c> the</c><00:06:57.919><c> inputs</c><00:06:58.240><c> and</c><00:06:58.479><c> outputs</c>
+problems where the inputs and outputs
+problems where the inputs and outputs
+are<00:06:59.039><c> known</c><00:06:59.599><c> and</c><00:06:59.840><c> just</c><00:07:00.000><c> go</c><00:07:00.160><c> after</c><00:07:00.479><c> them</c>
+are known and just go after them
+are known and just go after them
+relentlessly.<00:07:01.919><c> And</c><00:07:02.080><c> it's</c><00:07:02.240><c> lowhanging</c><00:07:02.880><c> fruit.</c>
+relentlessly. And it's lowhanging fruit.
+relentlessly. And it's lowhanging fruit.
+You<00:07:03.759><c> can</c><00:07:04.000><c> get</c><00:07:04.160><c> value</c><00:07:04.479><c> out</c><00:07:04.639><c> of</c><00:07:04.800><c> that.</c><00:07:05.120><c> And</c>
+You can get value out of that. And
+You can get value out of that. And
+that's<00:07:05.520><c> what</c><00:07:05.680><c> I</c><00:07:05.919><c> love</c><00:07:06.080><c> about</c><00:07:06.319><c> Versel</c><00:07:06.800><c> sharing.</c>
+that's what I love about Versel sharing.
+that's what I love about Versel sharing.
+In<00:07:07.280><c> a</c><00:07:07.440><c> sense,</c><00:07:07.840><c> they</c><00:07:08.080><c> are</c><00:07:08.240><c> zagging</c><00:07:08.639><c> while</c><00:07:08.880><c> the</c>
+In a sense, they are zagging while the
+In a sense, they are zagging while the
+industry<00:07:09.280><c> zigs.</c><00:07:09.680><c> It</c><00:07:09.759><c> would</c><00:07:09.919><c> have</c><00:07:10.080><c> been</c><00:07:10.240><c> very</c>
+industry zigs. It would have been very
+industry zigs. It would have been very
+easy<00:07:11.520><c> for</c><00:07:11.840><c> Versel</c><00:07:12.319><c> to</c><00:07:12.560><c> publish</c><00:07:12.800><c> a</c>
+easy for Versel to publish a
+easy for Versel to publish a
+high-sounding<00:07:14.080><c> visionary</c><00:07:14.800><c> manual</c><00:07:15.280><c> like</c>
+high-sounding visionary manual like
+high-sounding visionary manual like
+Google's<00:07:16.319><c> 50page</c><00:07:16.960><c> AI</c><00:07:17.360><c> agent</c><00:07:17.680><c> white</c><00:07:18.000><c> paper.</c>
+Google's 50page AI agent white paper.
+Google's 50page AI agent white paper.
+Super<00:07:18.880><c> easy.</c><00:07:19.199><c> It</c><00:07:19.360><c> would</c><00:07:19.440><c> have</c><00:07:19.599><c> sounded</c><00:07:20.000><c> great.</c>
+Super easy. It would have sounded great.
+Super easy. It would have sounded great.
+They<00:07:20.400><c> would</c><00:07:20.479><c> have</c><00:07:20.639><c> gotten</c><00:07:20.880><c> lots</c><00:07:21.120><c> of</c><00:07:21.280><c> shares</c><00:07:21.520><c> on</c>
+They would have gotten lots of shares on
+They would have gotten lots of shares on
+LinkedIn,<00:07:22.240><c> I'm</c><00:07:22.400><c> sure.</c><00:07:22.720><c> But</c><00:07:22.880><c> they</c><00:07:23.120><c> didn't</c><00:07:23.280><c> do</c>
+LinkedIn, I'm sure. But they didn't do
+LinkedIn, I'm sure. But they didn't do
+that.<00:07:24.000><c> They</c><00:07:24.160><c> actually</c><00:07:24.400><c> shared</c><00:07:24.639><c> what</c><00:07:24.880><c> worked.</c>
+that. They actually shared what worked.
+that. They actually shared what worked.
+They<00:07:25.599><c> shared</c><00:07:25.840><c> how</c><00:07:26.080><c> they</c><00:07:26.319><c> actually</c><00:07:26.479><c> built</c><00:07:26.720><c> it.</c>
+They shared how they actually built it.
+They shared how they actually built it.
+And<00:07:27.039><c> I</c><00:07:27.199><c> deeply</c><00:07:27.599><c> respect</c><00:07:27.919><c> that.</c><00:07:28.240><c> And</c><00:07:28.400><c> we</c><00:07:28.639><c> need</c>
+And I deeply respect that. And we need
+And I deeply respect that. And we need
+that<00:07:29.120><c> perspective</c><00:07:29.680><c> because</c><00:07:29.919><c> as</c><00:07:30.160><c> much</c><00:07:30.319><c> as</c><00:07:30.400><c> it's</c>
+that perspective because as much as it's
+that perspective because as much as it's
+nice<00:07:30.880><c> to</c><00:07:31.120><c> see</c><00:07:31.599><c> some</c><00:07:31.919><c> advanced</c><00:07:32.400><c> thinking</c><00:07:32.960><c> from</c>
+nice to see some advanced thinking from
+nice to see some advanced thinking from
+a<00:07:33.360><c> leader</c><00:07:33.599><c> in</c><00:07:33.759><c> the</c><00:07:33.919><c> industry</c><00:07:34.160><c> about</c><00:07:34.319><c> where</c>
+a leader in the industry about where
+a leader in the industry about where
+agents<00:07:34.960><c> are</c><00:07:35.120><c> going,</c><00:07:35.680><c> we</c><00:07:35.919><c> need</c><00:07:36.080><c> the</c><00:07:36.319><c> practical</c>
+agents are going, we need the practical
+agents are going, we need the practical
+application.<00:07:37.440><c> We</c><00:07:37.680><c> need</c><00:07:37.840><c> to</c><00:07:38.000><c> know</c><00:07:38.560><c> that</c><00:07:38.880><c> we</c><00:07:39.120><c> can</c>
+application. We need to know that we can
+application. We need to know that we can
+get<00:07:39.360><c> agents</c><00:07:39.759><c> to</c><00:07:39.919><c> do</c><00:07:40.160><c> specific</c><00:07:40.639><c> back</c><00:07:40.880><c> office</c>
+get agents to do specific back office
+get agents to do specific back office
+operations<00:07:42.080><c> now</c><00:07:42.720><c> so</c><00:07:42.960><c> we</c><00:07:43.120><c> can</c><00:07:43.280><c> earn</c><00:07:43.599><c> our</c><00:07:43.840><c> way</c><00:07:44.319><c> to</c>
+operations now so we can earn our way to
+operations now so we can earn our way to
+a<00:07:44.800><c> world</c><00:07:45.360><c> where</c><00:07:45.599><c> we</c><00:07:45.840><c> have</c><00:07:46.000><c> orchestration</c>
+a world where we have orchestration
+a world where we have orchestration
+platforms<00:07:47.599><c> that</c><00:07:47.919><c> actually</c><00:07:48.319><c> manage</c><00:07:48.639><c> hundreds</c>
+platforms that actually manage hundreds
+platforms that actually manage hundreds
+of<00:07:49.120><c> agents</c><00:07:49.680><c> to</c><00:07:49.919><c> this</c><00:07:50.160><c> vision</c><00:07:50.560><c> of</c><00:07:50.720><c> the</c><00:07:51.039><c> agent</c>
+of agents to this vision of the agent
+of agents to this vision of the agent
+city<00:07:51.919><c> that</c><00:07:52.240><c> Google</c><00:07:52.560><c> is</c><00:07:52.800><c> laying</c><00:07:52.960><c> out.</c><00:07:53.440><c> So</c><00:07:53.840><c> if</c>
+city that Google is laying out. So if
+city that Google is laying out. So if
+you<00:07:54.240><c> are</c><00:07:54.400><c> wondering</c><00:07:54.639><c> how</c><00:07:54.800><c> to</c><00:07:54.879><c> get</c><00:07:55.039><c> started</c>
+you are wondering how to get started
+you are wondering how to get started
+with<00:07:55.440><c> agents,</c><00:07:56.000><c> Versel</c><00:07:56.560><c> points</c><00:07:56.800><c> the</c><00:07:57.039><c> way.</c><00:07:57.520><c> just</c>
+with agents, Versel points the way. just
+with agents, Versel points the way. just
+start<00:07:58.720><c> with</c><00:07:59.039><c> simple,</c><00:07:59.520><c> clean</c><00:07:59.840><c> back</c><00:08:00.080><c> office</c>
+start with simple, clean back office
+start with simple, clean back office
+operations<00:08:00.960><c> that</c><00:08:01.199><c> are</c><00:08:01.280><c> tedious.</c><00:08:01.919><c> And</c><00:08:02.080><c> if</c>
+operations that are tedious. And if
+operations that are tedious. And if
+you're<00:08:02.400><c> wondering</c><00:08:02.560><c> where</c><00:08:02.800><c> we're</c><00:08:03.039><c> going,</c><00:08:03.440><c> look</c>
+you're wondering where we're going, look
+you're wondering where we're going, look
+at<00:08:03.759><c> the</c><00:08:03.919><c> Google</c><00:08:04.240><c> white</c><00:08:04.479><c> paper.</c><00:08:04.879><c> We</c><00:08:05.039><c> are</c><00:08:05.199><c> going</c>
+at the Google white paper. We are going
+at the Google white paper. We are going
+to<00:08:05.440><c> have</c><00:08:05.599><c> to</c><00:08:05.680><c> lean</c><00:08:06.080><c> really</c><00:08:06.400><c> hard</c><00:08:06.639><c> into</c><00:08:06.879><c> the</c>
+to have to lean really hard into the
+to have to lean really hard into the
+orchestration<00:08:07.680><c> platform</c><00:08:08.080><c> to</c><00:08:08.319><c> counteract</c><00:08:08.800><c> the</c>
+orchestration platform to counteract the
+orchestration platform to counteract the
+risk<00:08:09.280><c> posed</c><00:08:09.680><c> by</c><00:08:10.080><c> the</c><00:08:10.319><c> cloud</c><00:08:10.720><c> code</c><00:08:10.960><c> hack</c><00:08:11.199><c> this</c>
+risk posed by the cloud code hack this
+risk posed by the cloud code hack this
+week.<00:08:11.919><c> Good</c><00:08:12.080><c> luck</c><00:08:12.240><c> with</c><00:08:12.479><c> agents.</c><00:08:13.199><c> I</c><00:08:13.360><c> hope</c><00:08:13.520><c> this</c>
+week. Good luck with agents. I hope this
+week. Good luck with agents. I hope this
+gives<00:08:13.919><c> you</c><00:08:14.080><c> a</c><00:08:14.319><c> sense</c><00:08:14.560><c> of</c><00:08:14.879><c> one,</c><00:08:15.280><c> how</c><00:08:15.599><c> much</c><00:08:15.759><c> is</c>
+gives you a sense of one, how much is
+gives you a sense of one, how much is
+changing,<00:08:16.639><c> two,</c><00:08:17.039><c> how</c><00:08:17.280><c> competing</c><00:08:17.759><c> the</c><00:08:17.919><c> visions</c>
+changing, two, how competing the visions
+changing, two, how competing the visions
+are,<00:08:18.639><c> and</c><00:08:18.879><c> three,</c><00:08:19.280><c> where</c><00:08:19.520><c> to</c><00:08:19.759><c> focus</c><00:08:20.080><c> next.</c>
+are, and three, where to focus next.
+are, and three, where to focus next.
+Good<00:08:20.720><c> luck.</c>

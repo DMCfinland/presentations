@@ -1,0 +1,59 @@
+# Cross-Reference Seed Data
+# Source: Opus Q11 — connections spotted with ~30 videos in same context window
+# Usage: Pre-populate `related_videos` field in routing index.
+#        When building Step 3 cross-reference maps, validate these connections exist.
+#        Also discover NEW connections computationally (Jaccard similarity on tags).
+# Coverage: 10 named connections from ~30 videos. Full 195 will yield many more.
+
+connections:
+  - name: "The Articulation Stack"
+    videos: ["CTO correctness video", "Agent delegation video"]
+    insight: "Organizational correctness definition IS enterprise-scale articulation skill"
+    tags: [correctness, articulation, delegation, training]
+
+  - name: "Internal Distribution-First"
+    videos: ["Tiger teams video", "Side hustle / micro-niche video"]
+    insight: "Deploy AI to 3-5 person pods who already use the workflow, not 'the organization'"
+    tags: [tiger-teams, distribution-first, deployment-strategy]
+
+  - name: "Clean Before You Search"
+    videos: ["Second brain / note-taking video", "CTO correctness video"]
+    insight: "Heap-not-hierarchy for personal knowledge; correctness-first for organizational"
+    tags: [knowledge-management, data-quality, architecture-decision]
+    tension: true  # These videos CONFLICT — resolution matters
+
+  - name: "The Judgment-Model Stack"
+    videos: ["o3 Pro strategic advisor video", "Post-knowledge economy video"]
+    insight: "Judgment-rich human + judgment-capable AI in verification loop"
+    tags: [model-selection, judgment-economy, multi-model]
+
+  - name: "Build on Platforms, Specialize in Context"
+    videos: ["Platform consolidation video", "Agent delegation video"]
+    insight: "Platform-native for horizontal; invest in proprietary context as moat"
+    tags: [platform-strategy, context-moat, agent-architecture]
+
+  - name: "The Training Paradox"
+    videos: ["Talent development video", "Tiger teams video"]
+    insight: "Train the 80% (5+ hours structured); unleash the tiger teams (permission + tools)"
+    tags: [training, team-structure, deployment-strategy]
+    tension: true  # Surface conflict, deeper resolution
+
+  - name: "Constraint Arbitrage"
+    videos: ["Davos bottleneck video", "Side hustle / micro-niche video"]
+    insight: "Find constraints AI solved technically but adoption hasn't reached yet"
+    tags: [strategy, constraint-migration, temporal-arbitrage, dmc-applicable]
+
+  - name: "The Imperfection Budget"
+    videos: ["Agent delegation video", "Second brain / note-taking video"]
+    insight: "Every AI system needs explicit acceptable error rate vs. alternative of not doing it"
+    tags: [reliability, agent-design, knowledge-management, deployment-strategy]
+
+  - name: "The Specification Gap"
+    videos: ["Post-knowledge economy video", "CTO correctness video"]
+    insight: "Most AI-resistant skill = precise specification under social pressure"
+    tags: [ceo-skill, correctness, judgment-economy, leadership]
+
+  - name: "Two Phases of AI Maturity"
+    videos: ["ChatGPT-5 app building video", "DSPy optimization video"]
+    insight: "Phase 1 explore (iterate fast) → Phase 2 produce (optimize systematically). Don't mix."
+    tags: [workflow, development-process, optimization, maturity-model]

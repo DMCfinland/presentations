@@ -1,0 +1,1045 @@
+I<00:00:00.560><c> am</c><00:00:00.719><c> really</c><00:00:00.960><c> tired</c><00:00:01.439><c> of</c><00:00:01.760><c> models</c><00:00:02.159><c> overfitting</c>
+I am really tired of models overfitting
+I am really tired of models overfitting
+to<00:00:03.040><c> eval.</c><00:00:04.000><c> So</c><00:00:04.240><c> when</c><00:00:04.480><c> we</c><00:00:04.720><c> have</c><00:00:05.680><c> exams</c><00:00:06.160><c> that</c><00:00:06.400><c> are</c>
+to eval. So when we have exams that are
+to eval. So when we have exams that are
+supposed<00:00:06.799><c> to</c><00:00:06.960><c> be</c><00:00:07.120><c> like</c><00:00:07.359><c> humanity's</c><00:00:07.919><c> last</c><00:00:08.160><c> exam</c>
+supposed to be like humanity's last exam
+supposed to be like humanity's last exam
+that<00:00:08.800><c> are</c><00:00:08.960><c> supposed</c><00:00:09.280><c> to</c><00:00:09.519><c> be</c><00:00:10.000><c> good</c><00:00:10.400><c> measures</c><00:00:10.880><c> of</c>
+that are supposed to be good measures of
+that are supposed to be good measures of
+model<00:00:11.519><c> evaluation</c><00:00:12.240><c> and</c><00:00:12.480><c> quality,</c>
+model evaluation and quality,
+model evaluation and quality,
+it's<00:00:14.559><c> goodart's</c><00:00:15.120><c> law</c><00:00:15.360><c> all</c><00:00:15.519><c> over</c><00:00:15.679><c> again.</c><00:00:15.920><c> As</c>
+it's goodart's law all over again. As
+it's goodart's law all over again. As
+soon<00:00:16.240><c> as</c><00:00:16.320><c> you</c><00:00:16.560><c> make</c><00:00:16.720><c> that</c><00:00:16.960><c> a</c><00:00:17.279><c> goal</c><00:00:17.520><c> for</c><00:00:17.680><c> a</c><00:00:17.840><c> model</c>
+soon as you make that a goal for a model
+soon as you make that a goal for a model
+maker<00:00:18.400><c> to</c><00:00:18.560><c> hit,</c><00:00:18.880><c> they</c><00:00:19.119><c> will</c><00:00:19.359><c> overfit</c><00:00:19.920><c> to</c><00:00:20.080><c> the</c>
+maker to hit, they will overfit to the
+maker to hit, they will overfit to the
+data.<00:00:20.720><c> And</c><00:00:20.960><c> I</c><00:00:21.199><c> got</c><00:00:21.279><c> to</c><00:00:21.439><c> say,</c><00:00:21.680><c> Grock</c><00:00:22.160><c> 4,</c><00:00:22.480><c> as</c><00:00:22.640><c> hard</c>
+data. And I got to say, Grock 4, as hard
+data. And I got to say, Grock 4, as hard
+as<00:00:22.960><c> the</c><00:00:23.199><c> team</c><00:00:23.359><c> has</c><00:00:23.600><c> worked,</c><00:00:24.000><c> is</c><00:00:24.560><c> looking</c><00:00:24.960><c> like</c>
+as the team has worked, is looking like
+as the team has worked, is looking like
+a<00:00:25.840><c> terribly</c><00:00:26.400><c> overfitted</c><00:00:27.039><c> model.</c><00:00:27.680><c> a</c><00:00:27.920><c> model</c>
+a terribly overfitted model. a model
+a terribly overfitted model. a model
+that<00:00:28.320><c> is</c><00:00:28.480><c> much</c><00:00:28.800><c> lower</c><00:00:29.039><c> in</c><00:00:29.359><c> real</c><00:00:29.679><c> world</c><00:00:30.080><c> quality</c>
+that is much lower in real world quality
+that is much lower in real world quality
+than<00:00:31.519><c> we</c><00:00:31.920><c> actually</c><00:00:32.320><c> see</c><00:00:32.719><c> in</c><00:00:33.440><c> all</c><00:00:33.680><c> of</c><00:00:33.760><c> these</c>
+than we actually see in all of these
+than we actually see in all of these
+reported<00:00:34.480><c> benchmarks.</c><00:00:35.200><c> It's</c><00:00:35.440><c> not</c><00:00:35.600><c> just</c><00:00:35.840><c> me</c>
+reported benchmarks. It's not just me
+reported benchmarks. It's not just me
+saying<00:00:36.239><c> that.</c><00:00:36.880><c> I</c><00:00:37.120><c> actually</c><00:00:37.360><c> went</c><00:00:37.520><c> and</c><00:00:37.760><c> looked</c>
+saying that. I actually went and looked
+saying that. I actually went and looked
+at<00:00:38.320><c> yep.ai,</c><00:00:39.520><c> which</c><00:00:39.840><c> is</c><00:00:40.320><c> a</c><00:00:40.640><c> place</c><00:00:40.960><c> for</c><00:00:41.440><c> people</c>
+at yep.ai, which is a place for people
+at yep.ai, which is a place for people
+to<00:00:42.000><c> prefer</c><00:00:42.399><c> answers</c><00:00:42.719><c> from</c><00:00:42.960><c> different</c><00:00:43.200><c> models</c>
+to prefer answers from different models
+to prefer answers from different models
+so<00:00:43.680><c> they</c><00:00:43.920><c> can</c><00:00:44.000><c> rank</c><00:00:44.160><c> them</c><00:00:44.320><c> head-to-head.</c><00:00:45.200><c> You</c>
+so they can rank them head-to-head. You
+so they can rank them head-to-head. You
+know<00:00:45.440><c> where</c><00:00:45.680><c> Grock</c><00:00:46.000><c> 4,</c><00:00:46.320><c> the</c><00:00:46.399><c> vaunted</c><00:00:46.879><c> number</c>
+know where Grock 4, the vaunted number
+know where Grock 4, the vaunted number
+one<00:00:47.440><c> model</c><00:00:47.680><c> in</c><00:00:47.920><c> the</c><00:00:48.079><c> world,</c><00:00:48.320><c> ranks?</c>
+one model in the world, ranks?
+one model in the world, ranks?
+Number<00:00:50.559><c> 66</c>
+Number 66
+Number 66
+as<00:00:52.480><c> of</c><00:00:52.640><c> yesterday.</c><00:00:53.760><c> Number</c><00:00:54.160><c> 66.</c>
+as of yesterday. Number 66.
+as of yesterday. Number 66.
+Now,<00:00:56.399><c> if</c><00:00:56.559><c> you</c><00:00:56.800><c> think</c><00:00:56.879><c> about</c><00:00:57.039><c> it,</c><00:00:58.079><c> you</c><00:00:58.320><c> might</c>
+Now, if you think about it, you might
+Now, if you think about it, you might
+get<00:00:58.800><c> some</c><00:00:59.120><c> slip</c><00:00:59.440><c> back</c><00:00:59.680><c> and</c><00:00:59.920><c> forth</c><00:01:00.160><c> between</c><00:01:00.399><c> one</c>
+get some slip back and forth between one
+get some slip back and forth between one
+and<00:01:00.800><c> two</c><00:01:00.879><c> and</c><00:01:01.039><c> three</c><00:01:01.199><c> if</c><00:01:01.440><c> they're</c><00:01:01.600><c> close.</c><00:01:02.160><c> You</c>
+and two and three if they're close. You
+and two and three if they're close. You
+would<00:01:02.480><c> not</c><00:01:02.719><c> expect</c><00:01:02.960><c> the</c><00:01:03.199><c> number</c><00:01:03.359><c> one</c><00:01:03.600><c> model</c><00:01:03.920><c> in</c>
+would not expect the number one model in
+would not expect the number one model in
+the<00:01:04.159><c> world</c><00:01:04.320><c> to</c><00:01:04.559><c> be</c><00:01:04.720><c> number</c><00:01:05.040><c> 66</c><00:01:05.600><c> at</c><00:01:05.920><c> anything,</c>
+the world to be number 66 at anything,
+the world to be number 66 at anything,
+let<00:01:07.360><c> alone</c><00:01:07.760><c> number</c><00:01:08.080><c> 66</c><00:01:08.720><c> overall</c><00:01:09.200><c> at</c><00:01:09.520><c> answers</c>
+let alone number 66 overall at answers
+let alone number 66 overall at answers
+provided.<00:01:10.799><c> And</c><00:01:10.960><c> yet,</c><00:01:11.200><c> that's</c><00:01:11.439><c> what</c><00:01:11.520><c> we</c><00:01:11.680><c> see</c>
+provided. And yet, that's what we see
+provided. And yet, that's what we see
+with<00:01:12.000><c> Groform.</c><00:01:13.119><c> I</c><00:01:13.439><c> want</c><00:01:13.680><c> to</c><00:01:14.240><c> ask</c><00:01:14.799><c> again</c><00:01:15.680><c> that</c>
+with Groform. I want to ask again that
+with Groform. I want to ask again that
+we<00:01:16.240><c> think</c><00:01:16.720><c> more</c><00:01:17.119><c> about</c><00:01:17.600><c> real</c><00:01:18.000><c> world</c><00:01:18.240><c> exams.</c>
+we think more about real world exams.
+we think more about real world exams.
+And<00:01:18.880><c> I</c><00:01:19.119><c> went</c><00:01:19.200><c> ahead</c><00:01:19.439><c> and</c><00:01:19.680><c> modeled</c><00:01:20.000><c> this.</c><00:01:20.320><c> I</c>
+And I went ahead and modeled this. I
+And I went ahead and modeled this. I
+went<00:01:20.880><c> and</c><00:01:21.200><c> I</c><00:01:22.000><c> built</c><00:01:22.400><c> up</c><00:01:23.439><c> a</c><00:01:24.400><c> five</c><00:01:24.960><c> question</c><00:01:25.600><c> exam</c>
+went and I built up a five question exam
+went and I built up a five question exam
+between<00:01:26.720><c> 03,</c><00:01:27.520><c> Opus</c><00:01:28.000><c> 4,</c><00:01:28.159><c> and</c><00:01:28.400><c> Grock</c><00:01:28.799><c> 4</c><00:01:29.040><c> because</c>
+between 03, Opus 4, and Grock 4 because
+between 03, Opus 4, and Grock 4 because
+I<00:01:29.520><c> wanted</c><00:01:29.680><c> to</c><00:01:29.920><c> do</c><00:01:30.720><c> the</c><00:01:31.040><c> testing</c><00:01:31.439><c> that</c><00:01:31.600><c> I</c><00:01:31.840><c> keep</c>
+I wanted to do the testing that I keep
+I wanted to do the testing that I keep
+asking<00:01:32.320><c> people</c><00:01:32.640><c> to</c><00:01:32.799><c> do</c><00:01:33.200><c> myself.</c><00:01:33.680><c> And</c><00:01:33.759><c> I'm</c>
+asking people to do myself. And I'm
+asking people to do myself. And I'm
+going<00:01:34.079><c> to</c><00:01:34.159><c> tell</c><00:01:34.240><c> you</c><00:01:34.400><c> the</c><00:01:34.720><c> five</c><00:01:35.439><c> different</c>
+going to tell you the five different
+going to tell you the five different
+tasks<00:01:36.240><c> that</c><00:01:36.479><c> I</c><00:01:36.640><c> gave</c><00:01:36.880><c> these</c><00:01:37.119><c> models.</c><00:01:37.920><c> Number</c>
+tasks that I gave these models. Number
+tasks that I gave these models. Number
+one,<00:01:38.720><c> condense</c><00:01:39.200><c> a</c><00:01:39.439><c> Google</c><00:01:39.759><c> research</c><00:01:40.079><c> post</c>
+one, condense a Google research post
+one, condense a Google research post
+that's<00:01:40.640><c> quite</c><00:01:40.799><c> long</c><00:01:41.040><c> into</c><00:01:41.280><c> a</c><00:01:41.439><c> tidy</c><00:01:41.759><c> executive</c>
+that's quite long into a tidy executive
+that's quite long into a tidy executive
+brief.<00:01:42.560><c> Keep</c><00:01:42.720><c> a</c><00:01:42.880><c> word</c><00:01:43.119><c> count.</c><00:01:43.439><c> Number</c><00:01:43.680><c> two,</c>
+brief. Keep a word count. Number two,
+brief. Keep a word count. Number two,
+pull<00:01:44.320><c> every</c><00:01:44.640><c> single</c><00:01:44.960><c> item</c><00:01:45.600><c> that</c><00:01:45.840><c> is</c><00:01:45.920><c> a</c><00:01:46.159><c> 1A</c><00:01:46.560><c> risk</c>
+pull every single item that is a 1A risk
+pull every single item that is a 1A risk
+factor<00:01:47.200><c> out</c><00:01:47.360><c> of</c><00:01:47.439><c> an</c><00:01:47.600><c> Apple</c><00:01:47.920><c> 10K.</c><00:01:48.799><c> Number</c>
+factor out of an Apple 10K. Number
+factor out of an Apple 10K. Number
+three,<00:01:49.520><c> fix</c><00:01:50.079><c> a</c><00:01:50.320><c> small</c><00:01:50.560><c> but</c><00:01:50.799><c> deadly</c><00:01:51.200><c> Python</c><00:01:51.600><c> bug</c>
+three, fix a small but deadly Python bug
+three, fix a small but deadly Python bug
+and<00:01:52.000><c> pass</c><00:01:52.240><c> a</c><00:01:52.399><c> unit</c><00:01:52.640><c> test.</c><00:01:53.119><c> Number</c><00:01:53.360><c> four,</c><00:01:53.759><c> build</c>
+and pass a unit test. Number four, build
+and pass a unit test. Number four, build
+a<00:01:54.079><c> sidebyside</c><00:01:54.960><c> comparison</c><00:01:55.520><c> table</c><00:01:55.840><c> from</c><00:01:56.000><c> two</c>
+a sidebyside comparison table from two
+a sidebyside comparison table from two
+arcs<00:01:56.640><c> of</c><00:01:57.040><c> abstracts</c><00:01:57.600><c> and</c><00:01:57.840><c> do</c><00:01:58.000><c> it</c><00:01:58.159><c> correctly.</c>
+arcs of abstracts and do it correctly.
+arcs of abstracts and do it correctly.
+And<00:01:59.200><c> number</c><00:01:59.360><c> five,</c><00:01:59.680><c> draft</c><00:02:00.000><c> a</c><00:02:00.159><c> sevenstep</c>
+And number five, draft a sevenstep
+And number five, draft a sevenstep
+rolesbased<00:02:01.280><c> access</c><00:02:01.600><c> control</c><00:02:02.000><c> checklist</c><00:02:02.399><c> for</c>
+rolesbased access control checklist for
+rolesbased access control checklist for
+a<00:02:02.719><c> Kubernetes</c><00:02:03.280><c> cluster.</c><00:02:03.920><c> These</c><00:02:04.240><c> are</c><00:02:04.560><c> examples</c>
+a Kubernetes cluster. These are examples
+a Kubernetes cluster. These are examples
+of<00:02:05.360><c> real</c><00:02:05.680><c> world</c><00:02:05.920><c> tasks.</c><00:02:07.040><c> They</c><00:02:07.360><c> should</c><00:02:07.600><c> not</c><00:02:07.759><c> be</c>
+of real world tasks. They should not be
+of real world tasks. They should not be
+all<00:02:08.080><c> that</c><00:02:08.319><c> difficult</c><00:02:08.640><c> for</c><00:02:08.879><c> the</c><00:02:09.039><c> number</c><00:02:09.280><c> one</c>
+all that difficult for the number one
+all that difficult for the number one
+model<00:02:09.840><c> in</c><00:02:10.080><c> the</c><00:02:10.239><c> world.</c><00:02:10.879><c> And</c><00:02:11.120><c> certainly</c><00:02:11.520><c> I</c>
+model in the world. And certainly I
+model in the world. And certainly I
+would<00:02:11.920><c> not</c><00:02:12.080><c> expect</c><00:02:12.319><c> to</c><00:02:12.560><c> have</c><00:02:12.720><c> to</c><00:02:12.800><c> use</c><00:02:12.959><c> Gro</c><00:02:13.440><c> 4</c>
+would not expect to have to use Gro 4
+would not expect to have to use Gro 4
+heavy<00:02:14.160><c> for</c><00:02:14.400><c> a</c><00:02:14.640><c> task</c><00:02:14.879><c> like</c><00:02:15.120><c> this.</c><00:02:15.440><c> So</c><00:02:15.599><c> I</c>
+heavy for a task like this. So I
+heavy for a task like this. So I
+deliberately<00:02:16.239><c> used</c><00:02:16.400><c> Gro</c><00:02:16.800><c> 4.</c><00:02:17.360><c> I</c><00:02:17.599><c> tested</c><00:02:17.920><c> it</c>
+deliberately used Gro 4. I tested it
+deliberately used Gro 4. I tested it
+against<00:02:18.480><c> 03.</c><00:02:19.120><c> I</c><00:02:19.280><c> tested</c><00:02:19.599><c> it</c><00:02:19.760><c> against</c><00:02:20.000><c> Opus</c><00:02:20.480><c> 4.</c>
+against 03. I tested it against Opus 4.
+against 03. I tested it against Opus 4.
+If<00:02:21.280><c> it</c><00:02:21.520><c> was</c><00:02:21.840><c> anywhere</c><00:02:22.400><c> close</c><00:02:22.640><c> to</c><00:02:22.800><c> the</c><00:02:22.959><c> number</c>
+If it was anywhere close to the number
+If it was anywhere close to the number
+one<00:02:23.360><c> model</c><00:02:23.599><c> in</c><00:02:23.760><c> the</c><00:02:23.920><c> world,</c><00:02:24.080><c> it</c><00:02:24.239><c> would</c><00:02:24.400><c> either</c>
+one model in the world, it would either
+one model in the world, it would either
+be<00:02:24.720><c> neckand-neck</c><00:02:25.440><c> with</c><00:02:25.680><c> those</c><00:02:25.920><c> two</c><00:02:26.080><c> other</c>
+be neckand-neck with those two other
+be neckand-neck with those two other
+models<00:02:26.560><c> or</c><00:02:26.800><c> it</c><00:02:26.959><c> would</c><00:02:27.120><c> beat</c><00:02:27.280><c> them.</c><00:02:27.840><c> It</c><00:02:28.080><c> did</c>
+models or it would beat them. It did
+models or it would beat them. It did
+neither.<00:02:29.280><c> Instead,</c><00:02:30.080><c> it</c><00:02:30.400><c> lost.</c><00:02:31.440><c> I</c><00:02:31.760><c> tested</c><00:02:32.640><c> the</c>
+neither. Instead, it lost. I tested the
+neither. Instead, it lost. I tested the
+models<00:02:33.680><c> twice</c><00:02:34.879><c> on</c><00:02:35.840><c> different</c><00:02:36.640><c> uh</c><00:02:36.959><c> scoring</c>
+models twice on different uh scoring
+models twice on different uh scoring
+rubrics<00:02:37.760><c> or</c><00:02:37.920><c> the</c><00:02:38.080><c> same</c><00:02:38.239><c> scoring</c><00:02:38.560><c> rubric</c><00:02:38.879><c> on</c>
+rubrics or the same scoring rubric on
+rubrics or the same scoring rubric on
+different<00:02:39.360><c> model</c><00:02:39.680><c> exams.</c><00:02:41.040><c> And</c><00:02:41.519><c> in</c><00:02:41.840><c> each</c><00:02:42.160><c> case,</c>
+different model exams. And in each case,
+different model exams. And in each case,
+Grock<00:02:43.120><c> 4</c><00:02:43.440><c> scored</c><00:02:43.840><c> third,</c><00:02:44.319><c> Opus</c><00:02:44.800><c> 4</c><00:02:45.120><c> scored</c>
+Grock 4 scored third, Opus 4 scored
+Grock 4 scored third, Opus 4 scored
+second,<00:02:46.400><c> and</c><00:02:46.800><c> 03</c><00:02:47.440><c> scored</c><00:02:47.920><c> first.</c><00:02:48.560><c> I'm</c><00:02:48.720><c> not</c>
+second, and 03 scored first. I'm not
+second, and 03 scored first. I'm not
+saying<00:02:49.120><c> that</c><00:02:49.280><c> because</c><00:02:49.519><c> 03</c><00:02:50.000><c> was</c><00:02:50.160><c> perfect.</c>
+saying that because 03 was perfect.
+saying that because 03 was perfect.
+These<00:02:50.879><c> were</c><00:02:51.120><c> intentionally</c><00:02:51.760><c> somewhat</c>
+These were intentionally somewhat
+These were intentionally somewhat
+difficult,<00:02:52.720><c> and</c><00:02:53.040><c> none</c><00:02:53.200><c> of</c><00:02:53.360><c> the</c><00:02:53.519><c> models</c><00:02:53.840><c> came</c>
+difficult, and none of the models came
+difficult, and none of the models came
+through<00:02:54.640><c> without</c><00:02:55.040><c> flaws</c><00:02:55.360><c> and</c><00:02:55.599><c> defects,</c><00:02:56.400><c> but</c>
+through without flaws and defects, but
+through without flaws and defects, but
+Gro<00:02:57.120><c> 4</c><00:02:57.280><c> was</c><00:02:57.599><c> consistently</c><00:02:58.160><c> the</c><00:02:58.400><c> lowest</c>
+Gro 4 was consistently the lowest
+Gro 4 was consistently the lowest
+performing<00:02:59.200><c> model</c><00:02:59.440><c> across</c><00:02:59.760><c> the</c><00:03:00.000><c> five</c><00:03:00.239><c> tasks</c><00:03:00.640><c> I</c>
+performing model across the five tasks I
+performing model across the five tasks I
+just<00:03:01.120><c> described.</c><00:03:02.080><c> And</c><00:03:02.239><c> you</c><00:03:02.480><c> might</c><00:03:02.640><c> wonder,</c>
+just described. And you might wonder,
+just described. And you might wonder,
+well,<00:03:03.760><c> what's</c><00:03:04.000><c> in</c><00:03:04.159><c> the</c><00:03:04.400><c> box</c><00:03:04.640><c> there?</c><00:03:06.080><c> Frankly,</c>
+well, what's in the box there? Frankly,
+well, what's in the box there? Frankly,
+the<00:03:07.360><c> thing</c><00:03:07.440><c> that</c><00:03:07.680><c> was</c><00:03:07.840><c> an</c><00:03:08.080><c> issue</c><00:03:09.280><c> was</c><00:03:10.000><c> explicit</c>
+the thing that was an issue was explicit
+the thing that was an issue was explicit
+formatting.<00:03:11.280><c> It</c><00:03:11.519><c> just</c><00:03:11.680><c> could</c><00:03:11.840><c> not</c><00:03:12.000><c> seem</c><00:03:12.239><c> to</c>
+formatting. It just could not seem to
+formatting. It just could not seem to
+follow<00:03:12.560><c> the</c><00:03:12.720><c> explicit</c><00:03:13.120><c> formatting</c>
+follow the explicit formatting
+follow the explicit formatting
+instructions<00:03:14.000><c> in</c><00:03:14.159><c> the</c><00:03:14.239><c> prompt.</c><00:03:14.560><c> So,</c><00:03:14.640><c> it</c>
+instructions in the prompt. So, it
+instructions in the prompt. So, it
+showed<00:03:15.040><c> poor</c><00:03:15.280><c> prompt</c><00:03:15.599><c> adherence.</c><00:03:16.959><c> And</c><00:03:17.840><c> the</c>
+showed poor prompt adherence. And the
+showed poor prompt adherence. And the
+Python<00:03:18.560><c> bug</c><00:03:18.879><c> fixing</c><00:03:19.280><c> challenge,</c><00:03:20.400><c> Grock</c>
+Python bug fixing challenge, Grock
+Python bug fixing challenge, Grock
+delivered<00:03:21.440><c> elegantlooking</c><00:03:22.400><c> and</c><00:03:22.720><c> flawed</c>
+delivered elegantlooking and flawed
+delivered elegantlooking and flawed
+code.<00:03:23.519><c> Like</c><00:03:23.680><c> the</c><00:03:23.920><c> code</c><00:03:24.159><c> did</c><00:03:24.319><c> not</c><00:03:24.480><c> work.</c><00:03:24.800><c> Now,</c><00:03:24.959><c> I</c>
+code. Like the code did not work. Now, I
+code. Like the code did not work. Now, I
+know<00:03:25.360><c> and</c><00:03:25.599><c> I</c><00:03:25.760><c> have</c><00:03:25.920><c> seen</c><00:03:26.239><c> people</c><00:03:26.480><c> who</c><00:03:26.800><c> say</c><00:03:27.360><c> that</c>
+know and I have seen people who say that
+know and I have seen people who say that
+Grock<00:03:27.920><c> 4</c><00:03:28.159><c> heavy</c><00:03:28.400><c> is</c><00:03:28.560><c> very</c><00:03:28.800><c> strong</c><00:03:29.040><c> at</c><00:03:29.280><c> code.</c>
+Grock 4 heavy is very strong at code.
+Grock 4 heavy is very strong at code.
+Maybe<00:03:30.560><c> maybe</c><00:03:30.799><c> the</c><00:03:31.040><c> multi-</c><00:03:31.360><c> aent</c><00:03:31.760><c> threads</c><00:03:32.080><c> are</c>
+Maybe maybe the multi- aent threads are
+Maybe maybe the multi- aent threads are
+helping<00:03:32.480><c> it</c><00:03:32.640><c> make</c><00:03:32.879><c> up</c><00:03:32.959><c> for</c><00:03:33.120><c> this.</c><00:03:33.760><c> But</c><00:03:33.920><c> if</c><00:03:34.159><c> I</c>
+helping it make up for this. But if I
+helping it make up for this. But if I
+throw<00:03:34.480><c> a</c><00:03:34.640><c> little</c><00:03:34.720><c> bit</c><00:03:34.799><c> of</c><00:03:34.879><c> Python,</c><00:03:35.280><c> and</c><00:03:35.519><c> this</c>
+throw a little bit of Python, and this
+throw a little bit of Python, and this
+was<00:03:35.760><c> not</c><00:03:35.920><c> a</c><00:03:36.080><c> lot</c><00:03:36.159><c> of</c><00:03:36.319><c> Python.</c><00:03:36.640><c> It</c><00:03:36.799><c> was</c><00:03:36.879><c> like</c><00:03:37.040><c> a</c>
+was not a lot of Python. It was like a
+was not a lot of Python. It was like a
+dozen<00:03:37.519><c> lines</c><00:03:37.760><c> of</c><00:03:37.920><c> Python,</c><00:03:38.400><c> 15</c><00:03:38.720><c> lines</c><00:03:38.959><c> of</c>
+dozen lines of Python, 15 lines of
+dozen lines of Python, 15 lines of
+Python,<00:03:40.000><c> and</c><00:03:40.239><c> it</c><00:03:40.879><c> can't</c><00:03:41.599><c> correctly</c>
+Python, and it can't correctly
+Python, and it can't correctly
+fix<00:03:43.360><c> it.</c><00:03:44.480><c> It</c><00:03:44.799><c> doesn't</c><00:03:45.040><c> give</c><00:03:45.200><c> me</c><00:03:45.280><c> a</c><00:03:45.519><c> ton</c><00:03:45.599><c> of</c>
+fix it. It doesn't give me a ton of
+fix it. It doesn't give me a ton of
+confidence.<00:03:46.720><c> On</c><00:03:46.959><c> the</c><00:03:47.120><c> other</c><00:03:47.200><c> hand,</c><00:03:47.440><c> for</c><00:03:47.599><c> tasks</c>
+confidence. On the other hand, for tasks
+confidence. On the other hand, for tasks
+that<00:03:48.239><c> had</c><00:03:48.480><c> very</c><00:03:48.799><c> straightforward</c><00:03:49.360><c> structure,</c>
+that had very straightforward structure,
+that had very straightforward structure,
+like,<00:03:50.080><c> hey,</c><00:03:50.319><c> do</c><00:03:50.400><c> a</c><00:03:50.560><c> JSON</c><00:03:50.959><c> extraction,</c><00:03:51.680><c> Grock</c>
+like, hey, do a JSON extraction, Grock
+like, hey, do a JSON extraction, Grock
+did<00:03:52.319><c> okay.</c><00:03:52.879><c> Grock</c><00:03:53.280><c> can</c><00:03:53.519><c> sort</c><00:03:53.680><c> of</c><00:03:53.760><c> do</c><00:03:54.000><c> tasks</c>
+did okay. Grock can sort of do tasks
+did okay. Grock can sort of do tasks
+that<00:03:54.480><c> are</c><00:03:54.560><c> narrowly</c><00:03:55.040><c> constrained.</c><00:03:56.080><c> And</c>
+that are narrowly constrained. And
+that are narrowly constrained. And
+that's<00:03:56.480><c> something</c><00:03:56.720><c> I</c><00:03:56.959><c> found</c><00:03:57.120><c> anecdotally</c>
+that's something I found anecdotally
+that's something I found anecdotally
+working<00:03:58.000><c> with</c><00:03:58.159><c> Grock</c><00:03:58.560><c> for</c><00:03:58.720><c> as</c><00:03:58.879><c> well.</c><00:03:59.040><c> I</c><00:03:59.200><c> asked</c>
+working with Grock for as well. I asked
+working with Grock for as well. I asked
+Grock<00:03:59.680><c> for</c><00:03:59.920><c> to</c><00:04:00.000><c> do</c><00:04:00.159><c> some</c><00:04:00.319><c> writing</c><00:04:00.560><c> for</c><00:04:00.720><c> me</c>
+Grock for to do some writing for me
+Grock for to do some writing for me
+outside<00:04:01.200><c> the</c><00:04:01.439><c> test</c><00:04:01.680><c> environment.</c><00:04:02.080><c> And</c><00:04:02.319><c> what</c><00:04:02.400><c> I</c>
+outside the test environment. And what I
+outside the test environment. And what I
+found<00:04:02.720><c> was</c><00:04:02.879><c> the</c><00:04:03.040><c> writing</c><00:04:03.360><c> is</c><00:04:03.519><c> not</c><00:04:03.680><c> very</c>
+found was the writing is not very
+found was the writing is not very
+creative.<00:04:04.239><c> It's</c><00:04:04.400><c> like</c><00:04:04.560><c> the</c><00:04:04.720><c> temperature</c><00:04:05.040><c> has</c>
+creative. It's like the temperature has
+creative. It's like the temperature has
+been<00:04:05.360><c> turned</c><00:04:05.599><c> down</c><00:04:05.760><c> on</c><00:04:05.920><c> the</c><00:04:06.080><c> model,</c><00:04:06.799><c> but</c><00:04:07.120><c> it's</c>
+been turned down on the model, but it's
+been turned down on the model, but it's
+very<00:04:08.000><c> fast.</c><00:04:08.799><c> The</c><00:04:08.959><c> output</c><00:04:09.280><c> is</c><00:04:09.519><c> very</c><00:04:09.760><c> consistent</c>
+very fast. The output is very consistent
+very fast. The output is very consistent
+and<00:04:10.959><c> it</c><00:04:11.120><c> has</c><00:04:11.280><c> a</c><00:04:11.439><c> reasonably</c><00:04:11.920><c> high</c><00:04:12.080><c> token</c>
+and it has a reasonably high token
+and it has a reasonably high token
+output.<00:04:12.720><c> It</c><00:04:12.879><c> probably</c><00:04:13.040><c> has</c><00:04:13.200><c> a</c><00:04:13.360><c> higher</c><00:04:13.599><c> token</c>
+output. It probably has a higher token
+output. It probably has a higher token
+output<00:04:14.560><c> in</c><00:04:14.879><c> real</c><00:04:15.200><c> world</c><00:04:15.439><c> settings</c><00:04:16.079><c> than</c>
+output in real world settings than
+output in real world settings than
+claude.<00:04:17.359><c> I</c><00:04:17.600><c> think</c><00:04:18.400><c> the</c><00:04:18.639><c> thing</c><00:04:18.799><c> that</c><00:04:19.120><c> bothers</c>
+claude. I think the thing that bothers
+claude. I think the thing that bothers
+me<00:04:19.759><c> is</c><00:04:20.000><c> that</c><00:04:20.160><c> if</c><00:04:20.320><c> you're</c><00:04:20.479><c> going</c><00:04:20.560><c> to</c><00:04:20.639><c> call</c>
+me is that if you're going to call
+me is that if you're going to call
+something<00:04:21.120><c> the</c><00:04:21.359><c> number</c><00:04:21.600><c> one</c><00:04:21.840><c> model,</c><00:04:22.560><c> you</c>
+something the number one model, you
+something the number one model, you
+should<00:04:22.880><c> have</c><00:04:23.040><c> the</c><00:04:23.280><c> flexibility</c><00:04:23.759><c> to</c><00:04:24.000><c> do</c><00:04:24.160><c> more</c>
+should have the flexibility to do more
+should have the flexibility to do more
+than<00:04:24.479><c> just</c><00:04:24.639><c> these</c><00:04:24.880><c> narrowly</c><00:04:25.360><c> defined</c><00:04:25.759><c> tasks,</c>
+than just these narrowly defined tasks,
+than just these narrowly defined tasks,
+more<00:04:26.479><c> than</c><00:04:26.639><c> just</c><00:04:26.880><c> JSON</c><00:04:27.280><c> extraction.</c><00:04:28.160><c> And</c>
+more than just JSON extraction. And
+more than just JSON extraction. And
+that's<00:04:28.639><c> a</c><00:04:28.800><c> bit</c><00:04:29.280><c> I</c><00:04:29.520><c> don't</c><00:04:29.600><c> want</c><00:04:29.759><c> you</c><00:04:29.919><c> to</c><00:04:30.000><c> take</c>
+that's a bit I don't want you to take
+that's a bit I don't want you to take
+away<00:04:30.320><c> from</c><00:04:30.479><c> this</c><00:04:30.560><c> that</c><00:04:30.800><c> it</c><00:04:30.960><c> only</c><00:04:31.120><c> does</c><00:04:31.280><c> JSON</c>
+away from this that it only does JSON
+away from this that it only does JSON
+extraction<00:04:32.160><c> and</c><00:04:32.320><c> text.</c><00:04:32.639><c> It</c><00:04:32.880><c> does</c><00:04:33.040><c> do</c><00:04:33.199><c> other</c>
+extraction and text. It does do other
+extraction and text. It does do other
+things.<00:04:33.759><c> Grock</c><00:04:34.160><c> 4</c><00:04:34.320><c> heavy</c><00:04:34.720><c> is</c><00:04:35.280><c> better</c><00:04:35.600><c> than</c><00:04:35.759><c> Gro</c>
+things. Grock 4 heavy is better than Gro
+things. Grock 4 heavy is better than Gro
+4.<00:04:36.960><c> But</c><00:04:37.199><c> overall,</c><00:04:38.000><c> I</c><00:04:38.320><c> am</c><00:04:38.479><c> sharing</c><00:04:38.800><c> this</c><00:04:39.120><c> video</c>
+4. But overall, I am sharing this video
+4. But overall, I am sharing this video
+because<00:04:40.080><c> I</c><00:04:40.400><c> want</c><00:04:40.639><c> to</c><00:04:40.960><c> counter</c><00:04:41.759><c> the</c><00:04:43.040><c> hype</c><00:04:43.440><c> for</c>
+because I want to counter the hype for
+because I want to counter the hype for
+overfitting<00:04:44.479><c> evaluations</c><00:04:45.199><c> that</c><00:04:45.440><c> I</c><00:04:45.600><c> see</c>
+overfitting evaluations that I see
+overfitting evaluations that I see
+everywhere.<00:04:46.479><c> It's</c><00:04:46.800><c> really</c><00:04:47.120><c> and</c><00:04:47.280><c> it's</c><00:04:47.440><c> not</c>
+everywhere. It's really and it's not
+everywhere. It's really and it's not
+just<00:04:47.759><c> the</c><00:04:47.919><c> Gro</c><00:04:48.320><c> team.</c><00:04:49.040><c> It's</c><00:04:49.280><c> concerning</c><00:04:49.680><c> to</c><00:04:49.840><c> me</c>
+just the Gro team. It's concerning to me
+just the Gro team. It's concerning to me
+that<00:04:50.160><c> when</c><00:04:50.320><c> OpenAI</c><00:04:50.880><c> does</c><00:04:51.040><c> this,</c><00:04:51.360><c> it's</c>
+that when OpenAI does this, it's
+that when OpenAI does this, it's
+concerning<00:04:51.919><c> to</c><00:04:52.080><c> me</c><00:04:52.560><c> when</c><00:04:52.800><c> Anthropic</c><00:04:53.440><c> does</c>
+concerning to me when Anthropic does
+concerning to me when Anthropic does
+this.<00:04:53.919><c> It's</c><00:04:54.080><c> concerning</c><00:04:54.400><c> to</c><00:04:54.560><c> me</c><00:04:54.720><c> when</c><00:04:54.960><c> Google</c>
+this. It's concerning to me when Google
+this. It's concerning to me when Google
+does<00:04:55.520><c> this.</c><00:04:56.240><c> It</c><00:04:56.479><c> is</c><00:04:56.639><c> not</c><00:04:56.880><c> okay</c><00:04:57.440><c> to</c><00:04:57.680><c> make</c><00:04:57.919><c> the</c>
+does this. It is not okay to make the
+does this. It is not okay to make the
+evaluations<00:04:58.960><c> your</c><00:04:59.199><c> goal.</c><00:04:59.759><c> That's</c><00:05:00.000><c> good</c><00:05:00.160><c> arts</c>
+evaluations your goal. That's good arts
+evaluations your goal. That's good arts
+law.<00:05:00.720><c> If</c><00:05:00.880><c> you</c><00:05:00.960><c> make</c><00:05:01.120><c> something</c><00:05:01.360><c> your</c><00:05:01.600><c> goal</c><00:05:01.759><c> and</c>
+law. If you make something your goal and
+law. If you make something your goal and
+it's<00:05:02.160><c> actually</c><00:05:02.320><c> a</c><00:05:02.560><c> measure,</c><00:05:02.800><c> the</c><00:05:02.960><c> measure</c><00:05:03.199><c> is</c>
+it's actually a measure, the measure is
+it's actually a measure, the measure is
+useless.<00:05:04.560><c> Well,</c><00:05:04.800><c> the</c><00:05:04.960><c> measure</c><00:05:05.199><c> is</c><00:05:05.360><c> useless.</c>
+useless. Well, the measure is useless.
+useless. Well, the measure is useless.
+Now,<00:05:05.919><c> I</c><00:05:06.080><c> would</c><00:05:06.240><c> suggest</c><00:05:06.479><c> that</c><00:05:06.720><c> most</c><00:05:06.960><c> of</c><00:05:07.120><c> the</c>
+Now, I would suggest that most of the
+Now, I would suggest that most of the
+major<00:05:07.759><c> model</c><00:05:08.080><c> evaluations</c><00:05:09.280><c> are</c><00:05:09.600><c> functionally</c>
+major model evaluations are functionally
+major model evaluations are functionally
+useless<00:05:11.280><c> because</c><00:05:11.520><c> they</c><00:05:11.759><c> are</c><00:05:11.919><c> so</c><00:05:12.160><c> studied</c><00:05:12.560><c> and</c>
+useless because they are so studied and
+useless because they are so studied and
+because<00:05:12.960><c> there's</c><00:05:13.280><c> so</c><00:05:13.440><c> much</c><00:05:13.680><c> PR</c><00:05:14.080><c> value</c><00:05:14.960><c> in</c>
+because there's so much PR value in
+because there's so much PR value in
+getting<00:05:15.840><c> number</c><00:05:16.160><c> one.</c><00:05:16.639><c> And</c><00:05:16.800><c> that's</c><00:05:16.960><c> what</c><00:05:17.120><c> the</c>
+getting number one. And that's what the
+getting number one. And that's what the
+Grock<00:05:17.600><c> team</c><00:05:17.759><c> got.</c><00:05:18.080><c> They</c><00:05:18.400><c> desperately</c><00:05:19.039><c> needed</c>
+Grock team got. They desperately needed
+Grock team got. They desperately needed
+a<00:05:20.080><c> PR</c><00:05:20.560><c> win</c><00:05:21.120><c> because</c><00:05:21.520><c> look</c><00:05:21.680><c> at</c><00:05:21.840><c> the</c><00:05:22.000><c> prior</c><00:05:22.240><c> week.</c>
+a PR win because look at the prior week.
+a PR win because look at the prior week.
+Groc<00:05:22.960><c> 3</c><00:05:23.199><c> had</c><00:05:23.440><c> been</c><00:05:23.840><c> drugged</c><00:05:24.160><c> through</c><00:05:24.400><c> the</c>
+Groc 3 had been drugged through the
+Groc 3 had been drugged through the
+doghouse<00:05:25.120><c> and</c><00:05:25.280><c> rightly</c><00:05:25.759><c> so</c><00:05:26.160><c> for</c><00:05:26.479><c> turning</c>
+doghouse and rightly so for turning
+doghouse and rightly so for turning
+rapidly<00:05:27.360><c> anti-semitic</c><00:05:28.720><c> in</c><00:05:28.960><c> the</c><00:05:29.120><c> middle</c><00:05:29.280><c> of</c>
+rapidly anti-semitic in the middle of
+rapidly anti-semitic in the middle of
+the<00:05:29.600><c> week</c><00:05:30.639><c> and</c><00:05:30.880><c> so</c><00:05:31.280><c> Grock</c><00:05:31.680><c> 4</c><00:05:31.919><c> comes</c><00:05:32.160><c> along</c><00:05:32.720><c> and</c>
+the week and so Grock 4 comes along and
+the week and so Grock 4 comes along and
+all<00:05:33.120><c> they</c><00:05:33.360><c> want</c><00:05:33.440><c> to</c><00:05:33.600><c> do</c><00:05:33.680><c> is</c><00:05:33.840><c> turn</c><00:05:34.000><c> the</c><00:05:34.160><c> page</c><00:05:34.400><c> and</c>
+all they want to do is turn the page and
+all they want to do is turn the page and
+change<00:05:34.800><c> the</c><00:05:34.960><c> subject.</c><00:05:35.280><c> The</c><00:05:35.440><c> team</c><00:05:35.680><c> wants</c>
+change the subject. The team wants
+change the subject. The team wants
+something<00:05:36.160><c> new</c><00:05:36.400><c> and</c><00:05:36.560><c> so</c><00:05:36.720><c> they</c><00:05:36.960><c> drop</c><00:05:37.360><c> a</c><00:05:38.479><c> short</c>
+something new and so they drop a short
+something new and so they drop a short
+postmortem<00:05:39.759><c> written</c><00:05:40.080><c> on</c><00:05:40.400><c> X.</c><00:05:40.720><c> I</c><00:05:40.880><c> wish</c><00:05:40.960><c> it</c><00:05:41.120><c> had</c>
+postmortem written on X. I wish it had
+postmortem written on X. I wish it had
+been<00:05:41.360><c> an</c><00:05:41.520><c> actual</c><00:05:41.759><c> doc</c><00:05:42.000><c> but</c><00:05:42.160><c> it</c><00:05:42.320><c> was</c><00:05:42.400><c> written</c><00:05:42.560><c> on</c>
+been an actual doc but it was written on
+been an actual doc but it was written on
+X<00:05:43.360><c> for</c><00:05:43.600><c> the</c><00:05:43.680><c> Gro</c><00:05:44.080><c> 3</c><00:05:44.320><c> release</c><00:05:44.639><c> and</c><00:05:44.800><c> then</c><00:05:44.960><c> they</c>
+X for the Gro 3 release and then they
+X for the Gro 3 release and then they
+turn<00:05:45.280><c> the</c><00:05:45.440><c> page</c><00:05:45.600><c> on</c><00:05:45.759><c> Grock</c><00:05:46.080><c> 4</c><00:05:46.240><c> and</c><00:05:46.320><c> they</c><00:05:46.479><c> say</c>
+turn the page on Grock 4 and they say
+turn the page on Grock 4 and they say
+hey<00:05:47.039><c> you</c><00:05:47.199><c> know</c><00:05:47.280><c> what</c><00:05:47.759><c> we</c><00:05:47.919><c> just</c><00:05:48.080><c> want</c><00:05:48.160><c> to</c><00:05:48.240><c> talk</c>
+hey you know what we just want to talk
+hey you know what we just want to talk
+about<00:05:48.479><c> Grock</c><00:05:48.800><c> 4.</c><00:05:48.960><c> We're</c><00:05:49.120><c> not</c><00:05:49.280><c> taking</c><00:05:49.440><c> any</c>
+about Grock 4. We're not taking any
+about Grock 4. We're not taking any
+questions<00:05:49.919><c> on</c><00:05:50.080><c> Grock</c><00:05:50.479><c> 3.</c><00:05:50.880><c> Grock</c><00:05:51.280><c> 4</c><00:05:51.520><c> is</c><00:05:51.680><c> great,</c>
+questions on Grock 3. Grock 4 is great,
+questions on Grock 3. Grock 4 is great,
+but<00:05:52.880><c> Grock</c><00:05:53.360><c> 4</c><00:05:53.759><c> shows</c><00:05:54.160><c> some</c><00:05:54.400><c> of</c><00:05:54.560><c> the</c><00:05:54.880><c> same</c>
+but Grock 4 shows some of the same
+but Grock 4 shows some of the same
+fundamental<00:05:55.840><c> issues</c><00:05:56.160><c> that</c><00:05:56.400><c> cause</c><00:05:56.560><c> the</c><00:05:56.720><c> Gro</c><00:05:57.120><c> 3</c>
+fundamental issues that cause the Gro 3
+fundamental issues that cause the Gro 3
+problems.<00:05:58.560><c> Gro</c><00:05:59.039><c> 4</c><00:05:59.360><c> mentions</c><00:06:00.080><c> Elon</c><00:06:00.800><c> eight</c>
+problems. Gro 4 mentions Elon eight
+problems. Gro 4 mentions Elon eight
+times<00:06:01.680><c> more</c><00:06:02.479><c> than</c><00:06:02.800><c> other</c><00:06:03.120><c> models.</c><00:06:04.080><c> For</c><00:06:04.319><c> no</c>
+times more than other models. For no
+times more than other models. For no
+apparent<00:06:05.039><c> reason,</c><00:06:05.440><c> even</c><00:06:05.600><c> in</c><00:06:05.840><c> contexts</c><00:06:06.319><c> where</c>
+apparent reason, even in contexts where
+apparent reason, even in contexts where
+Elon<00:06:06.960><c> hasn't</c><00:06:07.280><c> been</c><00:06:07.440><c> brought</c><00:06:07.759><c> up,</c><00:06:08.319><c> Gro</c><00:06:08.720><c> 4</c><00:06:08.960><c> has,</c>
+Elon hasn't been brought up, Gro 4 has,
+Elon hasn't been brought up, Gro 4 has,
+for<00:06:09.520><c> lack</c><00:06:09.759><c> of</c><00:06:09.919><c> a</c><00:06:10.080><c> better</c><00:06:10.319><c> term,</c><00:06:10.560><c> and</c><00:06:10.720><c> I</c><00:06:10.880><c> know</c>
+for lack of a better term, and I know
+for lack of a better term, and I know
+it's<00:06:11.120><c> not</c><00:06:11.199><c> a</c><00:06:11.440><c> perfect</c><00:06:11.680><c> term,</c><00:06:12.400><c> a</c><00:06:12.720><c> psychological</c>
+it's not a perfect term, a psychological
+it's not a perfect term, a psychological
+kink<00:06:14.080><c> around</c><00:06:14.479><c> Elon</c><00:06:14.800><c> Musk.</c><00:06:15.759><c> It</c><00:06:16.000><c> looks</c><00:06:16.240><c> to</c><00:06:16.479><c> see</c>
+kink around Elon Musk. It looks to see
+kink around Elon Musk. It looks to see
+what<00:06:16.800><c> Elon</c><00:06:17.360><c> thinks</c><00:06:17.680><c> about</c><00:06:18.000><c> things</c><00:06:18.240><c> when</c><00:06:18.560><c> you</c>
+what Elon thinks about things when you
+what Elon thinks about things when you
+don't<00:06:18.960><c> ask</c><00:06:19.120><c> it</c><00:06:19.360><c> to.</c><00:06:20.240><c> This</c><00:06:20.479><c> is</c><00:06:20.639><c> not</c><00:06:20.880><c> a</c>
+don't ask it to. This is not a
+don't ask it to. This is not a
+characteristic<00:06:21.680><c> of</c><00:06:21.840><c> a</c><00:06:22.000><c> stable</c><00:06:22.400><c> production</c>
+characteristic of a stable production
+characteristic of a stable production
+model.<00:06:23.440><c> This</c><00:06:23.680><c> is</c><00:06:23.840><c> not</c><00:06:24.000><c> a</c><00:06:24.240><c> model</c><00:06:24.479><c> that</c><00:06:24.639><c> you</c><00:06:24.800><c> can</c>
+model. This is not a model that you can
+model. This is not a model that you can
+use<00:06:25.039><c> in</c><00:06:25.280><c> a</c><00:06:25.440><c> business</c><00:06:25.759><c> context.</c><00:06:26.800><c> This</c><00:06:26.960><c> is</c><00:06:27.039><c> a</c>
+use in a business context. This is a
+use in a business context. This is a
+model<00:06:27.600><c> with</c><00:06:27.919><c> clear</c><00:06:28.880><c> ideological</c>
+model with clear ideological
+model with clear ideological
+bleedthrough.<00:06:30.800><c> And</c><00:06:31.039><c> you</c><00:06:31.360><c> need</c><00:06:31.520><c> to</c><00:06:31.759><c> have</c><00:06:32.400><c> more</c>
+bleedthrough. And you need to have more
+bleedthrough. And you need to have more
+clarity.<00:06:33.360><c> You</c><00:06:33.520><c> need</c><00:06:33.600><c> to</c><00:06:33.759><c> have</c><00:06:33.840><c> a</c><00:06:34.000><c> clear</c><00:06:34.319><c> system</c>
+clarity. You need to have a clear system
+clarity. You need to have a clear system
+model<00:06:35.039><c> card.</c><00:06:35.360><c> You</c><00:06:35.520><c> need</c><00:06:35.600><c> to</c><00:06:35.840><c> have</c><00:06:36.000><c> more</c>
+model card. You need to have more
+model card. You need to have more
+upfront<00:06:37.280><c> honesty,</c><00:06:37.759><c> which</c><00:06:37.919><c> is</c><00:06:38.080><c> somewhat</c>
+upfront honesty, which is somewhat
+upfront honesty, which is somewhat
+ironic<00:06:38.720><c> because</c><00:06:38.960><c> that's</c><00:06:39.120><c> sort</c><00:06:39.199><c> of</c><00:06:39.360><c> Grock's</c>
+ironic because that's sort of Grock's
+ironic because that's sort of Grock's
+brand,<00:06:40.240><c> but</c><00:06:40.560><c> you</c><00:06:40.720><c> need</c><00:06:40.800><c> more</c><00:06:41.039><c> upfront</c><00:06:41.440><c> honesty</c>
+brand, but you need more upfront honesty
+brand, but you need more upfront honesty
+on<00:06:42.000><c> model</c><00:06:42.240><c> characteristics,</c><00:06:43.280><c> how</c><00:06:43.600><c> models</c><00:06:44.000><c> get</c>
+on model characteristics, how models get
+on model characteristics, how models get
+deployed,<00:06:44.800><c> what</c><00:06:45.039><c> system</c><00:06:45.360><c> prompt</c><00:06:45.680><c> changes</c>
+deployed, what system prompt changes
+deployed, what system prompt changes
+look<00:06:46.319><c> like.</c><00:06:46.800><c> I</c><00:06:47.039><c> was</c><00:06:47.199><c> not</c><00:06:47.440><c> particularly</c>
+look like. I was not particularly
+look like. I was not particularly
+satisfied<00:06:48.400><c> with</c><00:06:48.560><c> the</c><00:06:48.720><c> Gro</c><00:06:49.120><c> 3</c><00:06:49.680><c> short</c>
+satisfied with the Gro 3 short
+satisfied with the Gro 3 short
+postmortem<00:06:50.720><c> that</c><00:06:50.880><c> came</c><00:06:50.960><c> out</c><00:06:51.199><c> because</c><00:06:51.360><c> it</c>
+postmortem that came out because it
+postmortem that came out because it
+basically<00:06:51.919><c> said</c><00:06:52.160><c> we</c><00:06:52.400><c> tested</c><00:06:52.720><c> it</c><00:06:53.600><c> and</c><00:06:54.080><c> uh</c>
+basically said we tested it and uh
+basically said we tested it and uh
+something<00:06:54.560><c> went</c><00:06:54.800><c> wrong</c><00:06:55.039><c> and</c><00:06:55.280><c> now</c><00:06:55.440><c> we're</c>
+something went wrong and now we're
+something went wrong and now we're
+fixing<00:06:55.840><c> it.</c><00:06:56.080><c> It's</c><00:06:56.319><c> like</c><00:06:56.560><c> well</c><00:06:57.520><c> I</c><00:06:57.759><c> don't</c><00:06:58.080><c> I</c>
+fixing it. It's like well I don't I
+fixing it. It's like well I don't I
+don't<00:06:58.560><c> buy</c><00:06:58.720><c> it.</c><00:06:59.039><c> Like</c><00:06:59.199><c> we</c><00:06:59.360><c> knew</c><00:06:59.520><c> the</c><00:06:59.759><c> system</c>
+don't buy it. Like we knew the system
+don't buy it. Like we knew the system
+prompt<00:07:00.400><c> was</c><00:07:00.560><c> bad</c><00:07:00.880><c> but</c><00:07:01.039><c> like</c><00:07:01.360><c> you</c><00:07:01.599><c> need</c><00:07:01.680><c> to</c><00:07:01.919><c> have</c>
+prompt was bad but like you need to have
+prompt was bad but like you need to have
+the<00:07:03.199><c> the</c><00:07:03.680><c> five</c><00:07:04.000><c> questions</c><00:07:04.400><c> and</c><00:07:04.639><c> a</c><00:07:04.800><c> really</c><00:07:05.039><c> deep</c>
+the the five questions and a really deep
+the the five questions and a really deep
+examination<00:07:05.840><c> of</c><00:07:06.000><c> what</c><00:07:06.240><c> happened</c><00:07:06.560><c> in</c><00:07:06.880><c> order</c><00:07:07.039><c> to</c>
+examination of what happened in order to
+examination of what happened in order to
+actually<00:07:07.599><c> get</c><00:07:07.840><c> to</c><00:07:08.720><c> a</c><00:07:09.039><c> full</c><00:07:09.199><c> root</c><00:07:09.520><c> cause</c><00:07:09.680><c> and</c>
+actually get to a full root cause and
+actually get to a full root cause and
+full<00:07:10.160><c> solution.</c><00:07:10.960><c> And</c><00:07:11.199><c> in</c><00:07:11.360><c> this</c><00:07:11.520><c> case,</c><00:07:11.840><c> if</c><00:07:12.000><c> you</c>
+full solution. And in this case, if you
+full solution. And in this case, if you
+claim<00:07:12.479><c> that</c><00:07:12.639><c> you</c><00:07:12.800><c> solved</c><00:07:12.960><c> the</c><00:07:13.120><c> Gro</c><00:07:13.440><c> 3</c><00:07:13.680><c> issues</c>
+claim that you solved the Gro 3 issues
+claim that you solved the Gro 3 issues
+and<00:07:14.080><c> then</c><00:07:14.160><c> Grock</c><00:07:14.479><c> 4</c><00:07:14.720><c> has</c><00:07:14.880><c> some</c><00:07:15.039><c> of</c><00:07:15.199><c> the</c><00:07:15.360><c> same</c>
+and then Grock 4 has some of the same
+and then Grock 4 has some of the same
+kinks,<00:07:16.639><c> it's</c><00:07:16.960><c> going</c><00:07:17.039><c> to</c><00:07:17.120><c> be</c><00:07:17.199><c> a</c><00:07:17.440><c> problem.</c><00:07:18.160><c> You</c>
+kinks, it's going to be a problem. You
+kinks, it's going to be a problem. You
+you<00:07:18.720><c> are</c><00:07:18.880><c> not</c><00:07:19.199><c> building</c><00:07:19.680><c> trust</c><00:07:20.240><c> with</c><00:07:20.560><c> your</c>
+you are not building trust with your
+you are not building trust with your
+autopsy<00:07:21.360><c> release</c><00:07:21.680><c> and</c><00:07:21.840><c> then</c><00:07:22.000><c> your</c><00:07:22.160><c> new</c>
+autopsy release and then your new
+autopsy release and then your new
+vaunted<00:07:22.720><c> number</c><00:07:22.960><c> one</c><00:07:23.120><c> model</c><00:07:23.440><c> release.</c><00:07:24.639><c> I</c>
+vaunted number one model release. I
+vaunted number one model release. I
+think<00:07:25.919><c> that</c><00:07:26.160><c> part</c><00:07:26.400><c> of</c><00:07:26.560><c> why</c><00:07:26.800><c> Grock</c><00:07:27.199><c> 4</c><00:07:27.440><c> was</c>
+think that part of why Grock 4 was
+think that part of why Grock 4 was
+overfitted<00:07:28.960><c> was</c><00:07:29.360><c> because</c><00:07:29.840><c> the</c><00:07:30.080><c> team</c><00:07:30.400><c> needed</c>
+overfitted was because the team needed
+overfitted was because the team needed
+the<00:07:30.960><c> PR</c><00:07:32.160><c> to</c><00:07:32.560><c> support</c><00:07:33.039><c> the</c><00:07:33.440><c> ongoing</c><00:07:34.560><c> valuation</c>
+the PR to support the ongoing valuation
+the PR to support the ongoing valuation
+and<00:07:35.440><c> narrative</c><00:07:35.759><c> of</c><00:07:35.919><c> the</c><00:07:36.080><c> company.</c><00:07:36.319><c> And</c><00:07:36.479><c> I</c><00:07:36.639><c> get</c>
+and narrative of the company. And I get
+and narrative of the company. And I get
+it.<00:07:36.960><c> That</c><00:07:37.039><c> is</c><00:07:37.199><c> very</c><00:07:37.360><c> tempting</c><00:07:37.680><c> for</c><00:07:37.840><c> any</c>
+it. That is very tempting for any
+it. That is very tempting for any
+startup.<00:07:38.560><c> That</c><00:07:38.720><c> is</c><00:07:38.800><c> not</c><00:07:38.960><c> only</c><00:07:39.199><c> a</c><00:07:39.680><c> issue.</c><00:07:40.080><c> I've</c>
+startup. That is not only a issue. I've
+startup. That is not only a issue. I've
+seen<00:07:40.400><c> other</c><00:07:40.639><c> startups</c><00:07:40.960><c> fall</c><00:07:41.199><c> into</c><00:07:41.360><c> that</c><00:07:41.599><c> trap</c>
+seen other startups fall into that trap
+seen other startups fall into that trap
+too.<00:07:42.160><c> So</c><00:07:42.240><c> I</c><00:07:42.479><c> don't</c><00:07:42.560><c> want</c><00:07:42.720><c> to</c><00:07:43.039><c> overcriticize</c>
+too. So I don't want to overcriticize
+too. So I don't want to overcriticize
+Grock,<00:07:44.240><c> that</c><00:07:44.400><c> is</c><00:07:44.560><c> a</c><00:07:44.720><c> larger</c><00:07:45.039><c> Silicon</c><00:07:45.440><c> Valley</c>
+Grock, that is a larger Silicon Valley
+Grock, that is a larger Silicon Valley
+issue.<00:07:46.319><c> And</c><00:07:46.479><c> I</c><00:07:46.720><c> also</c><00:07:46.880><c> want</c><00:07:47.039><c> to</c><00:07:47.120><c> call</c><00:07:47.280><c> out</c><00:07:47.440><c> that</c>
+issue. And I also want to call out that
+issue. And I also want to call out that
+when<00:07:47.840><c> Grock</c><00:07:48.240><c> was</c><00:07:48.960><c> being</c><00:07:49.520><c> trained</c><00:07:50.000><c> and</c>
+when Grock was being trained and
+when Grock was being trained and
+reinforcement<00:07:50.960><c> learning</c><00:07:51.280><c> was</c><00:07:51.440><c> occurring,</c>
+reinforcement learning was occurring,
+reinforcement learning was occurring,
+which<00:07:52.080><c> by</c><00:07:52.160><c> the</c><00:07:52.240><c> way,</c><00:07:52.479><c> one</c><00:07:52.639><c> of</c><00:07:52.720><c> the</c><00:07:52.800><c> other</c>
+which by the way, one of the other
+which by the way, one of the other
+stories<00:07:53.280><c> is</c><00:07:53.599><c> reinforcement</c><00:07:54.240><c> learning</c><00:07:54.560><c> was</c>
+stories is reinforcement learning was
+stories is reinforcement learning was
+tremendously<00:07:55.599><c> expensive</c><00:07:56.000><c> for</c><00:07:56.319><c> Grock,</c><00:07:56.960><c> like</c>
+tremendously expensive for Grock, like
+tremendously expensive for Grock, like
+10x<00:07:57.599><c> more</c><00:07:57.840><c> expensive</c><00:07:58.160><c> than</c><00:07:58.319><c> for</c><00:07:58.560><c> other</c>
+10x more expensive than for other
+10x more expensive than for other
+models.<00:07:59.039><c> And</c><00:07:59.280><c> I</c><00:07:59.520><c> think</c><00:07:59.599><c> that</c><00:07:59.919><c> may</c><00:08:00.080><c> be</c><00:08:00.240><c> an</c>
+models. And I think that may be an
+models. And I think that may be an
+indicator<00:08:00.800><c> of</c><00:08:00.960><c> where</c><00:08:01.120><c> the</c><00:08:01.360><c> overfitting</c><00:08:01.919><c> came</c>
+indicator of where the overfitting came
+indicator of where the overfitting came
+in.<00:08:02.479><c> We</c><00:08:02.720><c> shall</c><00:08:02.960><c> see.</c><00:08:03.840><c> the</c><00:08:04.400><c> the</c><00:08:04.879><c> team</c><00:08:05.199><c> could</c><00:08:05.440><c> not</c>
+in. We shall see. the the team could not
+in. We shall see. the the team could not
+have<00:08:05.840><c> known</c><00:08:06.560><c> that</c><00:08:06.720><c> the</c><00:08:06.879><c> Gro</c><00:08:07.360><c> 3</c><00:08:07.599><c> incident</c><00:08:08.000><c> would</c>
+have known that the Gro 3 incident would
+have known that the Gro 3 incident would
+occur<00:08:08.560><c> on</c><00:08:08.879><c> July</c><00:08:09.199><c> 8th</c><00:08:09.759><c> when</c><00:08:10.000><c> it</c><00:08:10.240><c> was</c><00:08:10.400><c> finishing</c>
+occur on July 8th when it was finishing
+occur on July 8th when it was finishing
+up<00:08:10.879><c> Grock</c><00:08:11.199><c> 4.</c><00:08:11.440><c> Grock</c><00:08:11.759><c> 4</c><00:08:11.919><c> was</c><00:08:12.080><c> in</c><00:08:12.160><c> the</c><00:08:12.319><c> can</c><00:08:12.560><c> at</c>
+up Grock 4. Grock 4 was in the can at
+up Grock 4. Grock 4 was in the can at
+the<00:08:12.879><c> time.</c><00:08:13.360><c> And</c><00:08:13.599><c> so</c><00:08:13.840><c> really,</c><00:08:14.319><c> even</c><00:08:14.560><c> though</c><00:08:14.800><c> the</c>
+the time. And so really, even though the
+the time. And so really, even though the
+narrative<00:08:16.240><c> was</c><00:08:17.120><c> very</c><00:08:17.440><c> very</c><00:08:17.759><c> carefully</c><00:08:18.319><c> timed</c>
+narrative was very very carefully timed
+narrative was very very carefully timed
+and<00:08:18.879><c> was</c><00:08:19.120><c> sort</c><00:08:19.360><c> of</c><00:08:19.520><c> insistently</c><00:08:20.400><c> timed</c><00:08:20.879><c> to</c>
+and was sort of insistently timed to
+and was sort of insistently timed to
+shut<00:08:21.360><c> the</c><00:08:21.520><c> door</c><00:08:21.599><c> on</c><00:08:21.759><c> the</c><00:08:21.919><c> Gro</c><00:08:22.240><c> 3</c><00:08:22.400><c> incident,</c><00:08:23.199><c> the</c>
+shut the door on the Gro 3 incident, the
+shut the door on the Gro 3 incident, the
+broader<00:08:23.919><c> story</c><00:08:24.400><c> around</c><00:08:24.720><c> Gro</c><00:08:25.199><c> 4</c><00:08:25.440><c> is</c><00:08:25.680><c> we</c><00:08:26.000><c> overfit</c>
+broader story around Gro 4 is we overfit
+broader story around Gro 4 is we overfit
+to<00:08:26.720><c> eval</c><00:08:27.360><c> to</c><00:08:27.520><c> support</c><00:08:28.240><c> sky-high</c><00:08:28.879><c> valuations</c>
+to eval to support sky-high valuations
+to eval to support sky-high valuations
+of<00:08:29.680><c> the</c><00:08:29.840><c> business.</c><00:08:30.800><c> Gro</c><00:08:31.280><c> 4</c><00:08:31.680><c> has</c><00:08:32.959><c> I</c><00:08:33.200><c> think</c><00:08:33.279><c> it's</c>
+of the business. Gro 4 has I think it's
+of the business. Gro 4 has I think it's
+been<00:08:33.599><c> built</c><00:08:33.839><c> on</c><00:08:34.080><c> 200,000</c><00:08:34.880><c> GPUs</c><00:08:36.000><c> and</c><00:08:36.560><c> the</c><00:08:36.719><c> the</c>
+been built on 200,000 GPUs and the the
+been built on 200,000 GPUs and the the
+computer's<00:08:37.519><c> called</c><00:08:37.760><c> Colossus.</c><00:08:38.880><c> The</c><00:08:39.120><c> team</c><00:08:39.360><c> has</c>
+computer's called Colossus. The team has
+computer's called Colossus. The team has
+rushed<00:08:40.000><c> into</c><00:08:40.479><c> the</c><00:08:40.719><c> Frontier</c><00:08:41.200><c> model</c><00:08:41.519><c> space</c><00:08:41.839><c> in</c>
+rushed into the Frontier model space in
+rushed into the Frontier model space in
+just<00:08:42.320><c> two</c><00:08:42.560><c> years.</c><00:08:43.360><c> They're</c><00:08:43.680><c> going</c><00:08:43.839><c> really</c>
+just two years. They're going really
+just two years. They're going really
+fast.<00:08:44.560><c> I</c><00:08:44.720><c> got</c><00:08:44.880><c> to</c><00:08:44.959><c> compliment</c><00:08:45.360><c> them</c><00:08:45.519><c> on</c><00:08:45.680><c> how</c>
+fast. I got to compliment them on how
+fast. I got to compliment them on how
+fast<00:08:46.160><c> they</c><00:08:46.399><c> ship</c><00:08:47.279><c> and</c><00:08:48.000><c> they</c><00:08:48.399><c> want</c><00:08:48.640><c> to</c><00:08:48.880><c> paint</c>
+fast they ship and they want to paint
+fast they ship and they want to paint
+the<00:08:49.440><c> picture</c><00:08:50.000><c> of</c><00:08:50.399><c> a</c><00:08:50.720><c> high</c><00:08:50.959><c> velocity</c><00:08:51.680><c> SpaceX</c>
+the picture of a high velocity SpaceX
+the picture of a high velocity SpaceX
+style<00:08:52.720><c> AI</c><00:08:53.120><c> team</c><00:08:53.440><c> led</c><00:08:53.760><c> by</c><00:08:53.920><c> Elon</c><00:08:54.560><c> that</c><00:08:54.800><c> is</c><00:08:54.959><c> going</c>
+style AI team led by Elon that is going
+style AI team led by Elon that is going
+to<00:08:55.120><c> relentlessly</c><00:08:55.760><c> push</c><00:08:56.000><c> the</c><00:08:56.160><c> benchmarks</c>
+to relentlessly push the benchmarks
+to relentlessly push the benchmarks
+forward.<00:08:57.120><c> And</c><00:08:57.279><c> so</c><00:08:57.440><c> they</c><00:08:57.600><c> needed</c><00:08:57.839><c> that</c><00:08:58.080><c> number</c>
+forward. And so they needed that number
+forward. And so they needed that number
+one<00:08:58.480><c> to</c><00:08:58.640><c> support</c><00:08:58.880><c> that</c><00:08:59.200><c> story.</c><00:08:59.600><c> and</c><00:09:00.240><c> XAI's</c>
+one to support that story. and XAI's
+one to support that story. and XAI's
+reported<00:09:01.680><c> uh</c><00:09:01.760><c> I</c><00:09:02.000><c> think</c><00:09:02.080><c> it's</c><00:09:02.399><c> $200</c><00:09:03.040><c> billion</c>
+reported uh I think it's $200 billion
+reported uh I think it's $200 billion
+valuation<00:09:04.959><c> valuations</c><00:09:05.680><c> are</c><00:09:05.839><c> vibes</c><00:09:06.160><c> here</c><00:09:06.480><c> guys</c>
+valuation valuations are vibes here guys
+valuation valuations are vibes here guys
+$200<00:09:07.440><c> billion</c><00:09:08.000><c> on</c><00:09:08.240><c> $0</c><00:09:08.720><c> in</c><00:09:08.959><c> revenue</c><00:09:09.279><c> versus</c><00:09:09.680><c> a</c>
+$200 billion on $0 in revenue versus a
+$200 billion on $0 in revenue versus a
+much<00:09:10.080><c> lower</c><00:09:10.480><c> valuation</c><00:09:11.040><c> for</c><00:09:11.279><c> Anthropic</c><00:09:12.000><c> on</c>
+much lower valuation for Anthropic on
+much lower valuation for Anthropic on
+like4<00:09:13.839><c> to5</c><00:09:14.320><c> to6</c><00:09:14.880><c> billion</c><00:09:15.360><c> in</c><00:09:15.600><c> revenue</c><00:09:16.000><c> I</c><00:09:16.080><c> don't</c>
+like4 to5 to6 billion in revenue I don't
+like4 to5 to6 billion in revenue I don't
+know<00:09:16.320><c> it's</c><00:09:16.480><c> a</c><00:09:16.640><c> moving</c><00:09:16.880><c> target</c><00:09:17.279><c> anthropic</c><00:09:17.680><c> is</c>
+know it's a moving target anthropic is
+know it's a moving target anthropic is
+picking<00:09:18.080><c> up</c><00:09:18.320><c> speed</c><00:09:19.040><c> if</c><00:09:19.839><c> if</c><00:09:20.160><c> that's</c><00:09:20.399><c> fine</c><00:09:20.800><c> like</c>
+picking up speed if if that's fine like
+picking up speed if if that's fine like
+if<00:09:21.120><c> you're</c><00:09:21.279><c> if</c><00:09:21.519><c> you're</c><00:09:21.680><c> okay</c><00:09:22.080><c> like</c><00:09:22.320><c> just</c>
+if you're if you're okay like just
+if you're if you're okay like just
+ignoring<00:09:23.120><c> billions</c><00:09:23.440><c> of</c><00:09:23.600><c> dollars</c><00:09:23.839><c> in</c><00:09:24.080><c> revenue</c>
+ignoring billions of dollars in revenue
+ignoring billions of dollars in revenue
+from<00:09:24.720><c> another</c><00:09:25.040><c> competing</c><00:09:25.519><c> model</c><00:09:25.760><c> maker</c>
+from another competing model maker
+from another competing model maker
+that's<00:09:26.240><c> leading</c><00:09:26.480><c> in</c><00:09:26.640><c> the</c><00:09:26.800><c> coding</c><00:09:27.040><c> space</c><00:09:27.279><c> and</c>
+that's leading in the coding space and
+that's leading in the coding space and
+just<00:09:27.680><c> giving</c><00:09:27.920><c> XAI</c><00:09:28.480><c> that</c><00:09:28.720><c> massive</c><00:09:29.120><c> 200</c><00:09:29.279><c> 100</c>
+just giving XAI that massive 200 100
+just giving XAI that massive 200 100
+billion.<00:09:30.399><c> It</c><00:09:30.640><c> it</c><00:09:30.959><c> shows</c><00:09:31.120><c> you</c><00:09:31.279><c> the</c><00:09:31.440><c> valuations</c>
+billion. It it shows you the valuations
+billion. It it shows you the valuations
+are<00:09:32.160><c> based</c><00:09:32.399><c> on</c><00:09:32.560><c> narrative</c><00:09:32.959><c> and</c><00:09:33.120><c> to</c><00:09:33.279><c> win</c>
+are based on narrative and to win
+are based on narrative and to win
+narrative<00:09:33.920><c> you</c><00:09:34.160><c> have</c><00:09:34.240><c> to</c><00:09:34.399><c> have</c><00:09:34.560><c> a</c><00:09:34.800><c> number</c><00:09:35.040><c> one</c>
+narrative you have to have a number one
+narrative you have to have a number one
+model<00:09:35.519><c> in</c><00:09:35.680><c> the</c><00:09:35.839><c> world</c><00:09:36.080><c> PR</c><00:09:36.399><c> story</c><00:09:36.640><c> and</c><00:09:36.800><c> that's</c>
+model in the world PR story and that's
+model in the world PR story and that's
+exactly<00:09:37.440><c> what</c><00:09:37.680><c> they</c><00:09:37.839><c> got</c><00:09:38.080><c> this</c><00:09:38.240><c> week</c><00:09:38.480><c> and</c><00:09:38.720><c> that</c>
+exactly what they got this week and that
+exactly what they got this week and that
+is<00:09:39.040><c> why</c><00:09:40.080><c> they</c><00:09:40.399><c> gave</c><00:09:40.640><c> into</c><00:09:40.880><c> the</c><00:09:41.040><c> temptation</c>
+is why they gave into the temptation
+is why they gave into the temptation
+maybe<00:09:41.920><c> not</c><00:09:42.160><c> consciously</c><00:09:43.279><c> maybe</c><00:09:43.519><c> this</c><00:09:43.760><c> is</c>
+maybe not consciously maybe this is
+maybe not consciously maybe this is
+unconscious<00:09:44.399><c> I</c><00:09:44.640><c> have</c><00:09:44.720><c> seen</c><00:09:44.959><c> teams</c><00:09:45.279><c> do</c><00:09:45.440><c> this</c>
+unconscious I have seen teams do this
+unconscious I have seen teams do this
+unconsciously<00:09:46.240><c> where</c><00:09:46.480><c> they</c><00:09:46.720><c> are</c><00:09:46.880><c> just</c><00:09:47.040><c> so</c>
+unconsciously where they are just so
+unconsciously where they are just so
+desperate<00:09:47.600><c> to</c><00:09:47.839><c> hit</c><00:09:48.080><c> number</c><00:09:48.320><c> one</c><00:09:49.120><c> they</c><00:09:49.360><c> don't</c>
+desperate to hit number one they don't
+desperate to hit number one they don't
+stop<00:09:49.920><c> to</c><00:09:50.160><c> ask</c><00:09:50.399><c> themselves</c><00:09:50.800><c> the</c><00:09:51.120><c> question</c><00:09:52.080><c> did</c>
+stop to ask themselves the question did
+stop to ask themselves the question did
+we<00:09:52.480><c> overfit</c>
+we overfit
+we overfit
+is<00:09:54.240><c> this</c><00:09:54.480><c> something</c><00:09:54.720><c> that</c><00:09:54.880><c> is</c><00:09:55.040><c> actually</c>
+is this something that is actually
+is this something that is actually
+number<00:09:55.519><c> one</c><00:09:55.680><c> at</c><00:09:55.839><c> a</c><00:09:56.000><c> wider</c><00:09:56.320><c> range</c><00:09:56.480><c> of</c><00:09:56.640><c> things</c>
+number one at a wider range of things
+number one at a wider range of things
+but<00:09:57.839><c> models</c><00:09:58.240><c> come</c><00:09:58.399><c> out</c><00:09:58.480><c> and</c><00:09:58.720><c> the</c><00:09:58.880><c> truth</c><00:09:59.120><c> comes</c>
+but models come out and the truth comes
+but models come out and the truth comes
+about<00:10:00.320><c> the</c><00:10:00.480><c> Yep.</c><00:10:00.800><c> AI</c><00:10:01.200><c> score,</c><00:10:01.440><c> right?</c><00:10:01.680><c> Number</c>
+about the Yep. AI score, right? Number
+about the Yep. AI score, right? Number
+66<00:10:02.480><c> in</c><00:10:02.720><c> the</c><00:10:02.880><c> world.</c><00:10:03.440><c> The</c><00:10:03.680><c> test</c><00:10:03.920><c> that</c><00:10:04.080><c> I</c><00:10:04.240><c> ran,</c>
+66 in the world. The test that I ran,
+66 in the world. The test that I ran,
+which<00:10:04.800><c> look,</c><00:10:05.279><c> I'm</c><00:10:05.360><c> not</c><00:10:05.600><c> going</c><00:10:05.680><c> to</c><00:10:05.760><c> pretend</c><00:10:06.080><c> my</c>
+which look, I'm not going to pretend my
+which look, I'm not going to pretend my
+test<00:10:06.480><c> is</c><00:10:06.720><c> the</c><00:10:06.880><c> best</c><00:10:06.959><c> in</c><00:10:07.120><c> the</c><00:10:07.200><c> world.</c><00:10:07.440><c> It</c><00:10:07.600><c> was</c>
+test is the best in the world. It was
+test is the best in the world. It was
+five<00:10:08.000><c> questions,</c><00:10:08.480><c> right?</c><00:10:08.800><c> Like</c><00:10:08.959><c> there</c><00:10:09.200><c> are</c>
+five questions, right? Like there are
+five questions, right? Like there are
+other<00:10:09.519><c> exams</c><00:10:09.839><c> out</c><00:10:10.000><c> there</c><00:10:10.160><c> that</c><00:10:10.320><c> are</c><00:10:10.480><c> more</c>
+other exams out there that are more
+other exams out there that are more
+comprehensive.<00:10:11.600><c> The</c><00:10:11.839><c> point</c><00:10:12.000><c> is</c><00:10:13.279><c> my</c><00:10:13.600><c> test</c>
+comprehensive. The point is my test
+comprehensive. The point is my test
+lines<00:10:14.720><c> up</c><00:10:14.959><c> pretty</c><00:10:15.200><c> well</c><00:10:15.360><c> with</c><00:10:15.600><c> other</c><00:10:15.839><c> real</c>
+lines up pretty well with other real
+lines up pretty well with other real
+world<00:10:16.399><c> experiences</c><00:10:16.880><c> of</c><00:10:17.040><c> Grock</c><00:10:17.440><c> 4</c><00:10:17.680><c> now</c><00:10:17.839><c> that</c>
+world experiences of Grock 4 now that
+world experiences of Grock 4 now that
+it's<00:10:18.079><c> out</c><00:10:18.320><c> and</c><00:10:18.480><c> loose.</c><00:10:19.360><c> It's</c><00:10:19.600><c> not</c><00:10:19.760><c> that</c><00:10:19.920><c> I'm</c>
+it's out and loose. It's not that I'm
+it's out and loose. It's not that I'm
+special.<00:10:21.120><c> It's</c><00:10:21.360><c> that</c><00:10:21.920><c> I</c><00:10:22.240><c> just</c><00:10:22.399><c> tried</c><00:10:22.640><c> to</c><00:10:22.800><c> do</c><00:10:22.880><c> a</c>
+special. It's that I just tried to do a
+special. It's that I just tried to do a
+little<00:10:23.200><c> real</c><00:10:23.440><c> world</c><00:10:23.680><c> exam</c><00:10:23.920><c> and</c><00:10:24.079><c> Grock</c><00:10:24.399><c> 4</c>
+little real world exam and Grock 4
+little real world exam and Grock 4
+didn't<00:10:24.800><c> do</c><00:10:24.959><c> as</c><00:10:25.200><c> good.</c><00:10:25.519><c> It's</c><00:10:25.760><c> not</c><00:10:25.920><c> a</c><00:10:26.079><c> number</c><00:10:26.320><c> one</c>
+didn't do as good. It's not a number one
+didn't do as good. It's not a number one
+model.<00:10:27.279><c> And</c><00:10:27.519><c> so</c><00:10:27.760><c> my</c><00:10:28.079><c> ask</c><00:10:28.399><c> is</c><00:10:29.680><c> that</c><00:10:30.160><c> before</c><00:10:30.560><c> we</c>
+model. And so my ask is that before we
+model. And so my ask is that before we
+pick<00:10:31.120><c> up</c><00:10:31.839><c> and</c><00:10:32.160><c> just</c><00:10:32.399><c> run</c><00:10:32.560><c> with</c><00:10:32.720><c> these</c>
+pick up and just run with these
+pick up and just run with these
+narratives,<00:10:33.440><c> and</c><00:10:33.600><c> maybe</c><00:10:33.760><c> this</c><00:10:33.920><c> is</c><00:10:34.000><c> an</c><00:10:34.160><c> ask</c><00:10:34.399><c> to</c>
+narratives, and maybe this is an ask to
+narratives, and maybe this is an ask to
+the<00:10:34.640><c> media,</c><00:10:35.600><c> take</c><00:10:35.839><c> the</c><00:10:36.160><c> time</c><00:10:37.279><c> to</c><00:10:37.600><c> think</c><00:10:37.839><c> about</c>
+the media, take the time to think about
+the media, take the time to think about
+real<00:10:38.480><c> world</c><00:10:38.720><c> exams,</c><00:10:40.000><c> to</c><00:10:40.240><c> think</c><00:10:40.399><c> about</c><00:10:40.640><c> what</c><00:10:40.800><c> it</c>
+real world exams, to think about what it
+real world exams, to think about what it
+takes<00:10:41.200><c> to</c><00:10:41.440><c> run</c><00:10:41.600><c> through</c><00:10:41.839><c> real</c><00:10:42.079><c> world</c><00:10:42.320><c> tests.</c><00:10:43.040><c> I</c>
+takes to run through real world tests. I
+takes to run through real world tests. I
+don't<00:10:43.440><c> think</c><00:10:43.600><c> this</c><00:10:43.760><c> was</c><00:10:43.920><c> that</c><00:10:44.079><c> hard</c><00:10:44.240><c> an</c><00:10:44.560><c> exam.</c>
+don't think this was that hard an exam.
+don't think this was that hard an exam.
+The<00:10:45.040><c> things</c><00:10:45.120><c> I</c><00:10:45.360><c> gave</c><00:10:45.519><c> are</c><00:10:45.760><c> things</c><00:10:45.920><c> anyone</c><00:10:46.320><c> can</c>
+The things I gave are things anyone can
+The things I gave are things anyone can
+run<00:10:46.640><c> with</c><00:10:46.800><c> a</c><00:10:46.959><c> chatbot.</c><00:10:47.839><c> It</c><00:10:48.079><c> wasn't</c><00:10:48.320><c> even</c><00:10:48.480><c> all</c>
+run with a chatbot. It wasn't even all
+run with a chatbot. It wasn't even all
+that<00:10:48.959><c> difficult.</c><00:10:50.079><c> It</c><00:10:50.320><c> just</c><00:10:50.560><c> took</c><00:10:50.800><c> a</c><00:10:51.120><c> few</c>
+that difficult. It just took a few
+that difficult. It just took a few
+minutes<00:10:52.079><c> and</c><00:10:52.320><c> I</c><00:10:52.560><c> got</c><00:10:52.720><c> some</c><00:10:52.959><c> results.</c><00:10:54.160><c> That's</c>
+minutes and I got some results. That's
+minutes and I got some results. That's
+the<00:10:54.640><c> kind</c><00:10:54.880><c> of</c><00:10:55.120><c> minimal</c><00:10:55.600><c> due</c><00:10:55.839><c> diligence</c><00:10:56.640><c> that</c>
+the kind of minimal due diligence that
+the kind of minimal due diligence that
+would<00:10:57.120><c> be</c><00:10:57.279><c> helpful</c><00:10:57.600><c> when</c><00:10:57.839><c> we</c><00:10:58.000><c> are</c><00:10:58.160><c> crafting</c>
+would be helpful when we are crafting
+would be helpful when we are crafting
+these<00:10:58.800><c> narratives</c><00:10:59.279><c> so</c><00:10:59.440><c> that</c><00:10:59.680><c> we</c><00:10:59.839><c> are</c><00:11:00.000><c> less</c>
+these narratives so that we are less
+these narratives so that we are less
+tempted<00:11:01.040><c> to</c><00:11:01.360><c> run</c><00:11:01.600><c> with</c><00:11:01.920><c> it's</c><00:11:02.240><c> the</c><00:11:02.399><c> number</c><00:11:02.640><c> one</c>
+tempted to run with it's the number one
+tempted to run with it's the number one
+model<00:11:03.200><c> in</c><00:11:03.360><c> the</c><00:11:03.440><c> world</c><00:11:03.600><c> because</c><00:11:03.839><c> it</c><00:11:04.000><c> aced</c><00:11:04.320><c> this</c>
+model in the world because it aced this
+model in the world because it aced this
+test<00:11:04.800><c> that's</c><00:11:05.120><c> been</c><00:11:05.279><c> out</c><00:11:05.519><c> publicly</c><00:11:06.000><c> for</c><00:11:06.240><c> a</c><00:11:06.399><c> long</c>
+test that's been out publicly for a long
+test that's been out publicly for a long
+time<00:11:06.640><c> and</c><00:11:06.880><c> everyone</c><00:11:07.200><c> wants</c><00:11:07.360><c> to</c><00:11:07.600><c> ace.</c><00:11:08.480><c> I</c><00:11:08.640><c> I</c>
+time and everyone wants to ace. I I
+time and everyone wants to ace. I I
+think<00:11:09.040><c> we</c><00:11:09.279><c> should</c><00:11:09.440><c> kind</c><00:11:09.600><c> of</c><00:11:10.000><c> drop</c><00:11:10.320><c> these</c>
+think we should kind of drop these
+think we should kind of drop these
+exams.<00:11:11.120><c> I</c><00:11:11.360><c> don't</c><00:11:11.519><c> think</c><00:11:11.600><c> they're</c><00:11:11.920><c> helping.</c>
+exams. I don't think they're helping.
+exams. I don't think they're helping.
+Grock<00:11:13.360><c> 4</c><00:11:13.600><c> shows</c><00:11:13.920><c> why.</c><00:11:14.880><c> So</c><00:11:15.120><c> where</c><00:11:15.360><c> does</c><00:11:15.440><c> this</c>
+Grock 4 shows why. So where does this
+Grock 4 shows why. So where does this
+leave<00:11:15.839><c> us?</c><00:11:16.000><c> I</c><00:11:16.240><c> think</c><00:11:16.320><c> it</c><00:11:16.480><c> leaves</c><00:11:16.640><c> us</c><00:11:16.800><c> nowhere.</c>
+leave us? I think it leaves us nowhere.
+leave us? I think it leaves us nowhere.
+I<00:11:17.440><c> don't</c><00:11:17.519><c> feel</c><00:11:17.760><c> comfortable</c><00:11:18.160><c> deploying</c><00:11:18.560><c> Grock</c>
+I don't feel comfortable deploying Grock
+I don't feel comfortable deploying Grock
+4<00:11:19.200><c> anywhere,</c><00:11:19.600><c> particularly</c><00:11:20.079><c> given</c><00:11:20.480><c> the</c>
+4 anywhere, particularly given the
+4 anywhere, particularly given the
+number<00:11:21.760><c> of</c><00:11:22.079><c> kinks</c><00:11:22.560><c> that</c><00:11:22.800><c> have</c><00:11:22.959><c> shown</c><00:11:23.200><c> up.</c><00:11:23.440><c> And</c>
+number of kinks that have shown up. And
+number of kinks that have shown up. And
+I'll<00:11:23.760><c> give</c><00:11:23.839><c> you</c><00:11:24.000><c> one</c><00:11:24.160><c> more</c><00:11:24.320><c> that</c><00:11:24.560><c> should</c><00:11:24.720><c> scare</c>
+I'll give you one more that should scare
+I'll give you one more that should scare
+you<00:11:25.120><c> a</c><00:11:25.360><c> lot.</c><00:11:26.079><c> Gro</c><00:11:26.560><c> 4</c><00:11:27.360><c> shows</c><00:11:27.760><c> a</c><00:11:28.079><c> marked</c><00:11:28.480><c> tendency</c>
+you a lot. Gro 4 shows a marked tendency
+you a lot. Gro 4 shows a marked tendency
+to<00:11:29.440><c> snitch</c><00:11:29.839><c> to</c><00:11:30.000><c> the</c><00:11:30.160><c> authorities.</c><00:11:31.440><c> They</c>
+to snitch to the authorities. They
+to snitch to the authorities. They
+actually<00:11:32.000><c> measure</c><00:11:32.320><c> this</c><00:11:33.279><c> and</c><00:11:34.320><c> Gro</c><00:11:34.800><c> 4</c><00:11:35.120><c> is</c>
+actually measure this and Gro 4 is
+actually measure this and Gro 4 is
+between<00:11:36.480><c> two</c><00:11:36.720><c> and</c><00:11:37.120><c> 100</c><00:11:37.519><c> times.</c><00:11:37.839><c> And</c><00:11:38.000><c> I</c><00:11:38.160><c> know</c>
+between two and 100 times. And I know
+between two and 100 times. And I know
+that's<00:11:38.399><c> a</c><00:11:38.640><c> very</c><00:11:38.800><c> wide</c><00:11:39.040><c> range,</c><00:11:39.680><c> but</c><00:11:39.920><c> it's</c>
+that's a very wide range, but it's
+that's a very wide range, but it's
+double<00:11:40.480><c> to</c><00:11:40.800><c> 100x</c><00:11:41.360><c> more</c><00:11:41.600><c> likely</c><00:11:42.320><c> to</c><00:11:42.560><c> choose</c><00:11:42.880><c> the</c>
+double to 100x more likely to choose the
+double to 100x more likely to choose the
+option<00:11:43.440><c> to</c><00:11:43.680><c> snitch</c><00:11:44.000><c> to</c><00:11:44.160><c> the</c><00:11:44.320><c> authorities</c><00:11:45.279><c> when</c>
+option to snitch to the authorities when
+option to snitch to the authorities when
+given<00:11:45.839><c> the</c><00:11:46.079><c> choice.</c>
+given the choice.
+given the choice.
+versus<00:11:47.600><c> other</c><00:11:47.920><c> models.</c><00:11:49.040><c> I</c><00:11:49.360><c> don't</c><00:11:49.519><c> know</c><00:11:49.680><c> why.</c>
+versus other models. I don't know why.
+versus other models. I don't know why.
+Nobody<00:11:50.880><c> really</c><00:11:51.120><c> knows</c><00:11:51.279><c> why</c><00:11:51.440><c> these</c><00:11:51.680><c> models</c><00:11:51.920><c> are</c>
+Nobody really knows why these models are
+Nobody really knows why these models are
+black<00:11:52.399><c> boxes</c><00:11:52.720><c> for</c><00:11:52.880><c> a</c><00:11:53.120><c> reason,</c><00:11:54.160><c> but</c><00:11:54.399><c> that</c>
+black boxes for a reason, but that
+black boxes for a reason, but that
+should<00:11:54.880><c> concern</c><00:11:55.200><c> anyone</c><00:11:55.519><c> in</c><00:11:55.680><c> a</c><00:11:55.839><c> business</c>
+should concern anyone in a business
+should concern anyone in a business
+context.<00:11:57.120><c> Frankly,</c><00:11:57.440><c> it</c><00:11:57.600><c> should</c><00:11:57.760><c> concern</c><00:11:58.000><c> you</c>
+context. Frankly, it should concern you
+context. Frankly, it should concern you
+in<00:11:58.240><c> a</c><00:11:58.399><c> personal</c><00:11:58.720><c> context.</c><00:12:00.079><c> So,</c><00:12:01.200><c> I</c><00:12:01.360><c> don't</c><00:12:01.519><c> think</c>
+in a personal context. So, I don't think
+in a personal context. So, I don't think
+Rock<00:12:02.000><c> 4</c><00:12:02.240><c> should</c><00:12:02.399><c> be</c><00:12:02.640><c> deployed</c><00:12:03.120><c> on</c><00:12:03.360><c> anybody's</c>
+Rock 4 should be deployed on anybody's
+Rock 4 should be deployed on anybody's
+workflow<00:12:05.440><c> anywhere.</c><00:12:06.560><c> I</c><00:12:06.800><c> think</c><00:12:06.880><c> the</c><00:12:07.200><c> team</c>
+workflow anywhere. I think the team
+workflow anywhere. I think the team
+needs<00:12:07.920><c> to</c><00:12:08.079><c> do</c><00:12:08.320><c> work</c><00:12:08.480><c> on</c><00:12:08.720><c> the</c><00:12:08.880><c> model</c><00:12:09.200><c> first</c><00:12:09.920><c> to</c>
+needs to do work on the model first to
+needs to do work on the model first to
+make<00:12:10.399><c> it</c><00:12:10.560><c> more</c><00:12:10.800><c> flexible,</c><00:12:11.680><c> to</c><00:12:11.839><c> make</c><00:12:12.000><c> it</c><00:12:12.160><c> more</c>
+make it more flexible, to make it more
+make it more flexible, to make it more
+useful.<00:12:12.800><c> And</c><00:12:12.959><c> I</c><00:12:13.040><c> think</c><00:12:13.120><c> we</c><00:12:13.279><c> need</c><00:12:13.360><c> to</c><00:12:13.519><c> start</c>
+useful. And I think we need to start
+useful. And I think we need to start
+with<00:12:13.839><c> some</c><00:12:14.000><c> honesty</c><00:12:14.480><c> about</c><00:12:14.800><c> where</c><00:12:15.600><c> this</c><00:12:15.920><c> model</c>
+with some honesty about where this model
+with some honesty about where this model
+and<00:12:16.399><c> other</c><00:12:16.639><c> models</c><00:12:16.959><c> that</c><00:12:17.120><c> make</c><00:12:17.279><c> big</c><00:12:17.600><c> claims</c>
+and other models that make big claims
+and other models that make big claims
+are<00:12:19.120><c> actually</c><00:12:19.680><c> at</c><00:12:20.240><c> in</c><00:12:21.200><c> terms</c><00:12:21.600><c> of</c><00:12:22.000><c> production</c>
+are actually at in terms of production
+are actually at in terms of production
+value<00:12:23.040><c> for</c><00:12:23.279><c> real</c><00:12:23.600><c> workflows.</c><00:12:24.720><c> That's</c><00:12:24.959><c> what</c>
+value for real workflows. That's what
+value for real workflows. That's what
+matters.<00:12:26.000><c> If</c><00:12:26.240><c> you're</c><00:12:26.480><c> looking</c><00:12:26.639><c> for</c><00:12:26.800><c> a</c><00:12:26.959><c> model</c>
+matters. If you're looking for a model
+matters. If you're looking for a model
+that<00:12:27.440><c> overperformed,</c><00:12:28.320><c> those</c><00:12:28.639><c> exist.</c><00:12:29.440><c> The</c>
+that overperformed, those exist. The
+that overperformed, those exist. The
+Kimmy<00:12:30.079><c> K2</c><00:12:30.639><c> model</c><00:12:31.040><c> came</c><00:12:31.279><c> out</c><00:12:31.519><c> over</c><00:12:31.760><c> the</c><00:12:31.920><c> weekend</c>
+Kimmy K2 model came out over the weekend
+Kimmy K2 model came out over the weekend
+somewhere<00:12:32.639><c> around</c><00:12:32.880><c> July</c><00:12:33.279><c> 12.</c><00:12:34.399><c> Incredible</c>
+somewhere around July 12. Incredible
+somewhere around July 12. Incredible
+model,<00:12:35.360><c> non-reasoning</c><00:12:36.079><c> model</c><00:12:36.320><c> out</c><00:12:36.560><c> of</c><00:12:36.720><c> China.</c>
+model, non-reasoning model out of China.
+model, non-reasoning model out of China.
+very<00:12:38.240><c> very</c><00:12:38.560><c> strong</c><00:12:38.880><c> performance</c>
+very very strong performance
+very very strong performance
+and<00:12:41.200><c> it's</c><00:12:41.519><c> slow</c><00:12:42.399><c> but</c><00:12:42.639><c> it's</c><00:12:42.800><c> very</c><00:12:43.040><c> very</c><00:12:43.279><c> good</c><00:12:43.440><c> on</c>
+and it's slow but it's very very good on
+and it's slow but it's very very good on
+realworld<00:12:44.399><c> tasks.</c><00:12:44.959><c> In</c><00:12:45.200><c> fact,</c><00:12:45.519><c> ironically</c>
+realworld tasks. In fact, ironically
+realworld tasks. In fact, ironically
+enough,<00:12:46.720><c> it</c><00:12:47.040><c> beat</c><00:12:47.279><c> Gro</c><00:12:47.760><c> 4</c><00:12:48.240><c> on</c><00:12:49.120><c> a</c><00:12:49.440><c> free</c><00:12:49.760><c> form</c>
+enough, it beat Gro 4 on a free form
+enough, it beat Gro 4 on a free form
+version<00:12:50.399><c> of</c><00:12:50.560><c> the</c><00:12:50.800><c> GPQA</c><00:12:51.600><c> diamond</c><00:12:52.000><c> which</c><00:12:52.240><c> is</c>
+version of the GPQA diamond which is
+version of the GPQA diamond which is
+less<00:12:52.959><c> susceptible</c><00:12:53.600><c> to</c><00:12:53.920><c> the</c><00:12:54.160><c> kind</c><00:12:54.480><c> of</c><00:12:55.760><c> the</c><00:12:56.000><c> free</c>
+less susceptible to the kind of the free
+less susceptible to the kind of the free
+form<00:12:56.480><c> version</c><00:12:56.639><c> is</c><00:12:56.800><c> less</c><00:12:57.040><c> susceptible</c><00:12:57.440><c> to</c><00:12:57.600><c> the</c>
+form version is less susceptible to the
+form version is less susceptible to the
+kind<00:12:57.920><c> of</c><00:12:58.079><c> sort</c><00:12:58.240><c> of</c><00:12:58.480><c> question</c><00:12:59.040><c> packing</c><00:12:59.440><c> or</c><00:12:59.600><c> or</c>
+kind of sort of question packing or or
+kind of sort of question packing or or
+uh<00:13:00.720><c> overfitting</c><00:13:01.360><c> that</c><00:13:01.519><c> the</c><00:13:01.680><c> model</c><00:13:01.920><c> might</c><00:13:02.160><c> do.</c>
+uh overfitting that the model might do.
+uh overfitting that the model might do.
+I<00:13:03.680><c> really</c><00:13:04.000><c> want</c><00:13:04.240><c> to</c><00:13:04.399><c> see</c><00:13:05.680><c> more</c><00:13:06.079><c> coverage</c><00:13:06.880><c> of</c>
+I really want to see more coverage of
+I really want to see more coverage of
+models<00:13:07.600><c> like</c><00:13:07.839><c> that</c><00:13:08.800><c> that</c><00:13:09.120><c> do</c><00:13:09.279><c> a</c><00:13:09.519><c> great</c><00:13:09.839><c> job</c>
+models like that that do a great job
+models like that that do a great job
+that<00:13:10.560><c> we</c><00:13:10.800><c> didn't</c><00:13:11.040><c> expect</c><00:13:11.680><c> on</c><00:13:12.000><c> real</c><00:13:12.320><c> world</c>
+that we didn't expect on real world
+that we didn't expect on real world
+tests<00:13:12.880><c> than</c><00:13:13.120><c> I</c><00:13:13.279><c> want</c><00:13:13.360><c> to</c><00:13:13.440><c> see</c><00:13:13.600><c> coverage</c><00:13:14.320><c> of</c><00:13:14.560><c> a</c>
+tests than I want to see coverage of a
+tests than I want to see coverage of a
+team<00:13:15.839><c> that</c><00:13:16.160><c> shipped</c><00:13:16.480><c> a</c><00:13:16.720><c> model</c><00:13:16.880><c> that</c><00:13:17.120><c> was</c>
+team that shipped a model that was
+team that shipped a model that was
+overfitted<00:13:17.760><c> to</c><00:13:17.920><c> benchmarks.</c><00:13:19.360><c> The</c><00:13:19.600><c> team</c><00:13:19.760><c> is</c>
+overfitted to benchmarks. The team is
+overfitted to benchmarks. The team is
+working<00:13:20.240><c> really</c><00:13:20.560><c> hard.</c><00:13:21.360><c> They</c><00:13:21.600><c> may</c><00:13:21.839><c> fix</c><00:13:22.000><c> this</c>
+working really hard. They may fix this
+working really hard. They may fix this
+by<00:13:22.480><c> Grock</c><00:13:22.880><c> 5.</c><00:13:23.279><c> They</c><00:13:23.519><c> may</c><00:13:23.680><c> fix</c><00:13:23.920><c> this</c><00:13:24.079><c> in</c><00:13:24.320><c> the</c>
+by Grock 5. They may fix this in the
+by Grock 5. They may fix this in the
+next<00:13:24.639><c> two</c><00:13:24.880><c> weeks.</c><00:13:25.600><c> I</c><00:13:25.839><c> hope</c><00:13:26.000><c> they</c><00:13:26.240><c> do.</c><00:13:27.120><c> That</c>
+next two weeks. I hope they do. That
+next two weeks. I hope they do. That
+would<00:13:27.440><c> be</c><00:13:27.600><c> great.</c>
+would be great.
+would be great.
+In<00:13:29.279><c> the</c><00:13:29.440><c> meantime,</c>
+In the meantime,
+In the meantime,
+I<00:13:31.279><c> can't</c><00:13:31.519><c> recommend</c><00:13:31.839><c> using</c><00:13:32.160><c> Gro</c><00:13:32.560><c> 4</c><00:13:33.120><c> for</c>
+I can't recommend using Gro 4 for
+I can't recommend using Gro 4 for
+anything<00:13:33.680><c> at</c>

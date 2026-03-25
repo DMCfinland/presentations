@@ -1,0 +1,748 @@
+You<00:00:00.240><c> know,</c><00:00:00.400><c> there</c><00:00:00.560><c> are</c><00:00:00.719><c> more</c><00:00:00.880><c> than</c><00:00:01.040><c> a</c><00:00:01.199><c> 100,000</c>
+You know, there are more than a 100,000
+You know, there are more than a 100,000
+AI<00:00:02.480><c> tools</c><00:00:02.879><c> out</c><00:00:03.040><c> there</c><00:00:03.600><c> and</c><00:00:03.919><c> most</c><00:00:04.160><c> of</c><00:00:04.319><c> them</c><00:00:04.480><c> are</c>
+AI tools out there and most of them are
+AI tools out there and most of them are
+going<00:00:04.720><c> to</c><00:00:04.880><c> be</c><00:00:04.960><c> useless.</c><00:00:05.520><c> And</c><00:00:05.680><c> in</c><00:00:05.920><c> fact,</c>
+going to be useless. And in fact,
+going to be useless. And in fact,
+they're<00:00:06.480><c> going</c><00:00:06.560><c> to</c><00:00:06.720><c> be</c><00:00:06.960><c> actively</c><00:00:07.440><c> harmful.</c>
+they're going to be actively harmful.
+they're going to be actively harmful.
+Let<00:00:08.160><c> me</c><00:00:08.240><c> explain</c><00:00:08.639><c> why.</c><00:00:09.280><c> If</c><00:00:09.599><c> you</c><00:00:09.920><c> add</c><00:00:10.559><c> any</c><00:00:10.960><c> AI</c>
+Let me explain why. If you add any AI
+Let me explain why. If you add any AI
+tool<00:00:11.599><c> to</c><00:00:11.840><c> your</c><00:00:12.080><c> system,</c><00:00:12.800><c> you</c><00:00:13.040><c> are</c><00:00:13.200><c> adding</c><00:00:13.679><c> at</c>
+tool to your system, you are adding at
+tool to your system, you are adding at
+least<00:00:14.639><c> two</c><00:00:15.280><c> new</c><00:00:15.679><c> handoff</c><00:00:16.240><c> and</c><00:00:16.400><c> integration</c>
+least two new handoff and integration
+least two new handoff and integration
+points,<00:00:17.600><c> not</c><00:00:17.760><c> to</c><00:00:18.000><c> mention</c><00:00:18.240><c> a</c><00:00:18.480><c> whole</c><00:00:18.720><c> host</c><00:00:18.960><c> of</c>
+points, not to mention a whole host of
+points, not to mention a whole host of
+failure<00:00:19.520><c> modes.</c><00:00:20.160><c> Because</c><00:00:20.400><c> generative</c><00:00:20.880><c> AI</c>
+failure modes. Because generative AI
+failure modes. Because generative AI
+products,<00:00:21.920><c> they're</c><00:00:22.240><c> more</c><00:00:22.400><c> complex.</c><00:00:23.039><c> They</c>
+products, they're more complex. They
+products, they're more complex. They
+solve<00:00:23.680><c> things</c><00:00:24.160><c> that</c><00:00:24.400><c> are</c><00:00:24.720><c> harder</c><00:00:25.039><c> to</c><00:00:25.359><c> solve.</c>
+solve things that are harder to solve.
+solve things that are harder to solve.
+And<00:00:26.000><c> so,</c><00:00:26.160><c> there</c><00:00:26.400><c> are</c><00:00:26.480><c> more</c><00:00:26.720><c> ways</c><00:00:26.960><c> they</c><00:00:27.119><c> can</c>
+And so, there are more ways they can
+And so, there are more ways they can
+fail.<00:00:27.599><c> And</c><00:00:27.840><c> so</c><00:00:28.000><c> unless</c><00:00:28.400><c> you</c><00:00:28.560><c> are</c><00:00:28.800><c> bought</c><00:00:29.119><c> in</c>
+fail. And so unless you are bought in
+fail. And so unless you are bought in
+and<00:00:30.000><c> ready</c><00:00:30.320><c> to</c><00:00:30.800><c> sustain</c><00:00:31.359><c> the</c><00:00:31.760><c> product,</c><00:00:32.559><c> you</c>
+and ready to sustain the product, you
+and ready to sustain the product, you
+are<00:00:32.960><c> buying</c><00:00:33.360><c> yourself</c><00:00:33.680><c> a</c><00:00:33.840><c> load</c><00:00:34.079><c> of</c><00:00:34.239><c> failure.</c>
+are buying yourself a load of failure.
+are buying yourself a load of failure.
+And<00:00:34.719><c> that</c><00:00:34.880><c> is</c><00:00:35.040><c> why</c><00:00:35.200><c> we</c><00:00:35.360><c> see</c><00:00:35.600><c> study</c><00:00:35.920><c> after</c><00:00:36.239><c> study</c>
+And that is why we see study after study
+And that is why we see study after study
+coming<00:00:36.800><c> out</c><00:00:37.200><c> showing</c><00:00:37.600><c> companies</c><00:00:38.160><c> investing</c>
+coming out showing companies investing
+coming out showing companies investing
+in<00:00:38.879><c> AI</c><00:00:39.200><c> tools</c><00:00:39.600><c> and</c><00:00:39.840><c> being</c><00:00:40.160><c> disappointed</c><00:00:40.719><c> by</c>
+in AI tools and being disappointed by
+in AI tools and being disappointed by
+what<00:00:41.120><c> they</c><00:00:41.360><c> buy.</c><00:00:41.920><c> Sometimes</c><00:00:42.480><c> it's</c><00:00:42.800><c> not</c><00:00:43.040><c> even</c>
+what they buy. Sometimes it's not even
+what they buy. Sometimes it's not even
+just<00:00:44.399><c> the</c><00:00:44.559><c> tool</c><00:00:44.879><c> itself.</c><00:00:45.360><c> It's</c><00:00:45.520><c> the</c><00:00:45.680><c> fact</c><00:00:45.840><c> that</c>
+just the tool itself. It's the fact that
+just the tool itself. It's the fact that
+the<00:00:46.239><c> organization</c><00:00:47.120><c> isn't</c><00:00:47.600><c> ready.</c><00:00:48.160><c> And</c><00:00:48.399><c> so</c>
+the organization isn't ready. And so
+the organization isn't ready. And so
+today<00:00:49.440><c> I</c><00:00:49.760><c> want</c><00:00:49.840><c> to</c><00:00:50.000><c> walk</c><00:00:50.239><c> you</c><00:00:50.480><c> through</c><00:00:51.200><c> the</c>
+today I want to walk you through the
+today I want to walk you through the
+three<00:00:52.399><c> critical</c><00:00:52.960><c> questions</c><00:00:53.360><c> that</c><00:00:53.680><c> I</c><00:00:53.920><c> ask</c><00:00:54.239><c> when</c>
+three critical questions that I ask when
+three critical questions that I ask when
+I'm<00:00:54.800><c> looking</c><00:00:54.960><c> at</c><00:00:55.199><c> AI</c><00:00:55.600><c> tooling</c><00:00:56.079><c> so</c><00:00:56.239><c> that</c><00:00:56.399><c> you</c>
+I'm looking at AI tooling so that you
+I'm looking at AI tooling so that you
+have<00:00:56.640><c> a</c><00:00:56.879><c> framework.</c><00:00:57.680><c> Then</c><00:00:57.920><c> I</c><00:00:58.160><c> want</c><00:00:58.239><c> to</c><00:00:58.399><c> show</c>
+have a framework. Then I want to show
+have a framework. Then I want to show
+you<00:00:58.800><c> a</c><00:00:59.039><c> couple</c><00:00:59.199><c> of</c><00:00:59.359><c> tools</c><00:00:59.680><c> that</c><00:00:59.840><c> I</c><00:01:00.079><c> think</c><00:01:00.239><c> are</c>
+you a couple of tools that I think are
+you a couple of tools that I think are
+worth<00:01:00.800><c> thinking</c><00:01:01.120><c> about</c><00:01:01.359><c> for</c><00:01:01.680><c> specific</c><00:01:02.079><c> pain</c>
+worth thinking about for specific pain
+worth thinking about for specific pain
+points<00:01:02.559><c> that</c><00:01:02.800><c> you</c><00:01:02.960><c> should</c><00:01:03.120><c> ask</c><00:01:03.359><c> yourself</c>
+points that you should ask yourself
+points that you should ask yourself
+those<00:01:04.000><c> questions</c><00:01:04.400><c> for.</c><00:01:05.040><c> And</c><00:01:05.280><c> if</c><00:01:05.519><c> you</c><00:01:05.680><c> want</c><00:01:05.760><c> to</c>
+those questions for. And if you want to
+those questions for. And if you want to
+go<00:01:06.080><c> deeper,</c><00:01:06.560><c> I've</c><00:01:06.799><c> got</c><00:01:06.960><c> a</c><00:01:07.280><c> whole</c><00:01:08.159><c> load</c><00:01:08.640><c> of</c>
+go deeper, I've got a whole load of
+go deeper, I've got a whole load of
+tools<00:01:09.200><c> to</c><00:01:09.360><c> review</c><00:01:09.680><c> over</c><00:01:09.840><c> on</c><00:01:10.000><c> the</c><00:01:10.159><c> substack</c><00:01:11.040><c> 45</c>
+tools to review over on the substack 45
+tools to review over on the substack 45
+or<00:01:11.760><c> so</c><00:01:11.920><c> that</c><00:01:12.080><c> you</c><00:01:12.240><c> can</c><00:01:12.320><c> dig</c><00:01:12.560><c> into</c><00:01:12.799><c> that</c><00:01:12.960><c> I've</c>
+or so that you can dig into that I've
+or so that you can dig into that I've
+started<00:01:13.439><c> to</c><00:01:13.600><c> ask</c><00:01:13.760><c> these</c><00:01:14.080><c> questions</c><00:01:14.400><c> for.</c>
+started to ask these questions for.
+started to ask these questions for.
+Frankly,<00:01:15.360><c> I</c><00:01:15.600><c> think</c><00:01:15.680><c> we</c><00:01:16.000><c> should</c><00:01:16.240><c> be</c><00:01:16.479><c> asking</c>
+Frankly, I think we should be asking
+Frankly, I think we should be asking
+these<00:01:17.200><c> questions</c><00:01:18.000><c> whenever</c><00:01:18.479><c> we</c><00:01:18.720><c> evaluate</c><00:01:19.040><c> a</c>
+these questions whenever we evaluate a
+these questions whenever we evaluate a
+tool.<00:01:19.600><c> Question</c><00:01:19.920><c> number</c><00:01:20.240><c> one,</c><00:01:20.960><c> does</c><00:01:21.119><c> it</c><00:01:21.360><c> kill</c>
+tool. Question number one, does it kill
+tool. Question number one, does it kill
+a<00:01:21.840><c> pain</c><00:01:22.159><c> that</c><00:01:22.400><c> we</c><00:01:22.560><c> can</c><00:01:22.720><c> measure?</c><00:01:23.280><c> So</c><00:01:23.520><c> when</c><00:01:23.680><c> you</c>
+a pain that we can measure? So when you
+a pain that we can measure? So when you
+are<00:01:24.000><c> trying</c><00:01:24.159><c> to</c><00:01:24.320><c> find</c><00:01:24.479><c> an</c><00:01:24.720><c> AI</c><00:01:24.960><c> tool,</c><00:01:25.280><c> so</c><00:01:25.520><c> often</c>
+are trying to find an AI tool, so often
+are trying to find an AI tool, so often
+you<00:01:26.080><c> think</c><00:01:26.159><c> about</c><00:01:26.400><c> hopes,</c><00:01:26.880><c> you</c><00:01:26.960><c> think</c><00:01:27.119><c> about</c>
+you think about hopes, you think about
+you think about hopes, you think about
+dreams,<00:01:27.920><c> you</c><00:01:28.080><c> think</c><00:01:28.240><c> about</c><00:01:28.479><c> how</c><00:01:28.720><c> far</c><00:01:28.960><c> you</c><00:01:29.119><c> can</c>
+dreams, you think about how far you can
+dreams, you think about how far you can
+go<00:01:29.360><c> with</c><00:01:29.520><c> the</c><00:01:29.680><c> tool,</c><00:01:29.920><c> the</c><00:01:30.159><c> vendor</c><00:01:30.400><c> sells</c><00:01:30.720><c> you</c><00:01:30.799><c> a</c>
+go with the tool, the vendor sells you a
+go with the tool, the vendor sells you a
+lot<00:01:31.119><c> of</c><00:01:31.200><c> cool</c><00:01:31.439><c> stuff.</c><00:01:32.159><c> Do</c><00:01:32.320><c> you</c><00:01:32.479><c> have</c><00:01:32.640><c> a</c>
+lot of cool stuff. Do you have a
+lot of cool stuff. Do you have a
+specific<00:01:33.360><c> painoint?</c><00:01:34.320><c> Do</c><00:01:34.479><c> you</c><00:01:34.640><c> have</c><00:01:34.960><c> something</c>
+specific painoint? Do you have something
+specific painoint? Do you have something
+that<00:01:35.520><c> is</c><00:01:35.840><c> absolutely</c><00:01:36.640><c> crystal</c><00:01:37.040><c> clear?</c><00:01:37.360><c> So</c><00:01:37.600><c> as</c>
+that is absolutely crystal clear? So as
+that is absolutely crystal clear? So as
+an<00:01:38.000><c> example,</c><00:01:38.799><c> Lera</c><00:01:39.439><c> Guard,</c><00:01:39.680><c> which</c><00:01:39.840><c> I'm</c><00:01:40.079><c> going</c>
+an example, Lera Guard, which I'm going
+an example, Lera Guard, which I'm going
+to<00:01:40.240><c> show</c><00:01:40.400><c> here</c><00:01:40.560><c> in</c><00:01:40.720><c> a</c><00:01:40.880><c> second,</c><00:01:41.200><c> it</c><00:01:41.520><c> cuts</c><00:01:41.920><c> down</c>
+to show here in a second, it cuts down
+to show here in a second, it cuts down
+prompt<00:01:42.720><c> attacks.</c><00:01:43.600><c> That</c><00:01:43.759><c> is</c><00:01:43.920><c> its</c><00:01:44.240><c> purpose.</c><00:01:44.640><c> It</c>
+prompt attacks. That is its purpose. It
+prompt attacks. That is its purpose. It
+stops<00:01:45.600><c> prompt</c><00:01:46.000><c> injection</c><00:01:46.560><c> attacks.</c><00:01:47.280><c> Maybe</c>
+stops prompt injection attacks. Maybe
+stops prompt injection attacks. Maybe
+not<00:01:47.840><c> perfectly,</c><00:01:48.399><c> but</c><00:01:48.640><c> a</c><00:01:48.880><c> lot</c><00:01:48.960><c> of</c><00:01:49.040><c> them.</c><00:01:49.360><c> If</c><00:01:49.600><c> you</c>
+not perfectly, but a lot of them. If you
+not perfectly, but a lot of them. If you
+have<00:01:50.159><c> a</c><00:01:50.640><c> production</c><00:01:51.360><c> AI</c><00:01:52.159><c> system,</c><00:01:52.880><c> you</c><00:01:53.119><c> may</c>
+have a production AI system, you may
+have a production AI system, you may
+want<00:01:53.600><c> to</c><00:01:53.759><c> think</c><00:01:53.920><c> about</c><00:01:54.240><c> a</c><00:01:54.479><c> tool</c><00:01:54.799><c> like</c><00:01:55.040><c> Laragard</c>
+want to think about a tool like Laragard
+want to think about a tool like Laragard
+because<00:01:57.360><c> of</c><00:01:57.600><c> that.</c><00:01:58.240><c> And</c><00:01:58.399><c> I'm</c><00:01:58.560><c> going</c><00:01:58.640><c> to</c><00:01:58.799><c> show</c>
+because of that. And I'm going to show
+because of that. And I'm going to show
+these<00:01:59.119><c> tools</c><00:01:59.360><c> at</c><00:01:59.520><c> the</c><00:01:59.600><c> end</c><00:01:59.680><c> of</c><00:01:59.759><c> the</c><00:01:59.840><c> video.</c><00:02:00.000><c> So,</c>
+these tools at the end of the video. So,
+these tools at the end of the video. So,
+we're<00:02:00.240><c> going</c><00:02:00.240><c> to</c><00:02:00.320><c> stay</c><00:02:00.479><c> with</c><00:02:00.560><c> the</c><00:02:00.719><c> principles</c>
+we're going to stay with the principles
+we're going to stay with the principles
+here.<00:02:01.360><c> We'll</c><00:02:01.600><c> get</c><00:02:01.680><c> to</c><00:02:01.759><c> the</c><00:02:01.920><c> tools</c><00:02:02.159><c> at</c><00:02:02.320><c> the</c><00:02:02.399><c> end.</c>
+here. We'll get to the tools at the end.
+here. We'll get to the tools at the end.
+The<00:02:02.960><c> point</c><00:02:03.119><c> is</c><00:02:03.280><c> simple</c><00:02:03.600><c> though,</c><00:02:03.840><c> right?</c><00:02:04.079><c> I</c><00:02:04.320><c> I</c>
+The point is simple though, right? I I
+The point is simple though, right? I I
+can<00:02:04.799><c> name</c><00:02:05.360><c> a</c><00:02:05.600><c> painoint.</c><00:02:06.320><c> I</c><00:02:06.560><c> can</c><00:02:06.799><c> say</c><00:02:07.439><c> I</c><00:02:07.680><c> have</c>
+can name a painoint. I can say I have
+can name a painoint. I can say I have
+prompt<00:02:08.239><c> injection</c><00:02:08.800><c> risk.</c><00:02:09.679><c> Therefore,</c><00:02:10.080><c> I</c><00:02:10.319><c> need</c>
+prompt injection risk. Therefore, I need
+prompt injection risk. Therefore, I need
+a<00:02:10.560><c> tool</c><00:02:10.800><c> to</c><00:02:11.039><c> address</c><00:02:11.280><c> that.</c><00:02:12.000><c> Therefore,</c><00:02:12.400><c> I</c>
+a tool to address that. Therefore, I
+a tool to address that. Therefore, I
+need<00:02:12.720><c> to</c><00:02:12.879><c> review</c><00:02:13.200><c> some</c><00:02:13.360><c> vendors</c><00:02:13.680><c> to</c><00:02:13.920><c> go</c><00:02:14.000><c> after</c>
+need to review some vendors to go after
+need to review some vendors to go after
+it.<00:02:15.040><c> I</c><00:02:15.360><c> rarely</c><00:02:16.000><c> see</c><00:02:16.239><c> that</c><00:02:16.640><c> level</c><00:02:16.879><c> of</c>
+it. I rarely see that level of
+it. I rarely see that level of
+discipline<00:02:18.000><c> from</c><00:02:18.319><c> people</c><00:02:18.480><c> who</c><00:02:18.720><c> are</c><00:02:18.879><c> shopping</c>
+discipline from people who are shopping
+discipline from people who are shopping
+for<00:02:19.360><c> tools,</c><00:02:19.840><c> whether</c><00:02:20.080><c> they're</c><00:02:20.319><c> individuals</c>
+for tools, whether they're individuals
+for tools, whether they're individuals
+or<00:02:21.599><c> whether</c><00:02:22.000><c> they</c><00:02:22.400><c> are</c><00:02:23.040><c> larger</c><00:02:23.520><c> companies.</c>
+or whether they are larger companies.
+or whether they are larger companies.
+Either<00:02:24.480><c> way,</c><00:02:24.879><c> that</c><00:02:25.200><c> I'll</c><00:02:25.520><c> give</c><00:02:25.599><c> you</c><00:02:25.760><c> another</c>
+Either way, that I'll give you another
+Either way, that I'll give you another
+example<00:02:26.400><c> that's</c><00:02:26.640><c> individual</c><00:02:27.280><c> sort</c><00:02:27.440><c> of</c>
+example that's individual sort of
+example that's individual sort of
+focused.<00:02:28.319><c> I</c><00:02:28.640><c> want</c><00:02:28.800><c> to</c><00:02:28.959><c> keep</c><00:02:29.200><c> track</c><00:02:29.440><c> of</c><00:02:29.680><c> my</c>
+focused. I want to keep track of my
+focused. I want to keep track of my
+chats<00:02:30.640><c> when</c><00:02:30.959><c> I</c><00:02:31.120><c> have</c><00:02:31.200><c> them</c><00:02:31.360><c> with</c><00:02:31.680><c> Claude,</c><00:02:32.160><c> when</c>
+chats when I have them with Claude, when
+chats when I have them with Claude, when
+I<00:02:32.480><c> have</c><00:02:32.560><c> them</c><00:02:32.720><c> with</c><00:02:32.959><c> chat</c><00:02:33.360><c> GPT,</c><00:02:34.480><c> when</c><00:02:34.640><c> I</c><00:02:34.800><c> have</c>
+I have them with chat GPT, when I have
+I have them with chat GPT, when I have
+them<00:02:35.200><c> with</c><00:02:35.440><c> Perplexity.</c><00:02:36.160><c> But</c><00:02:36.239><c> I</c><00:02:36.400><c> I</c><00:02:36.720><c> don't</c><00:02:36.879><c> have</c>
+them with Perplexity. But I I don't have
+them with Perplexity. But I I don't have
+one<00:02:37.200><c> place</c><00:02:37.440><c> to</c><00:02:37.599><c> do</c><00:02:37.680><c> that.</c><00:02:37.920><c> Well,</c><00:02:38.080><c> there</c><00:02:38.239><c> is</c><00:02:38.400><c> a</c>
+one place to do that. Well, there is a
+one place to do that. Well, there is a
+startup<00:02:38.879><c> that's</c><00:02:39.120><c> addressing</c><00:02:39.519><c> that</c><00:02:39.760><c> now.</c><00:02:40.080><c> It's</c>
+startup that's addressing that now. It's
+startup that's addressing that now. It's
+called<00:02:40.400><c> Nessie</c><00:02:40.959><c> Labs.</c><00:02:41.519><c> and</c><00:02:41.760><c> they</c><00:02:42.000><c> have</c><00:02:42.080><c> a</c>
+called Nessie Labs. and they have a
+called Nessie Labs. and they have a
+product<00:02:42.560><c> out</c><00:02:42.720><c> for</c><00:02:42.959><c> Mac</c><00:02:43.200><c> called</c><00:02:43.440><c> Nessie</c><00:02:44.080><c> and</c>
+product out for Mac called Nessie and
+product out for Mac called Nessie and
+that's<00:02:44.560><c> exactly</c><00:02:44.959><c> what</c><00:02:45.120><c> it</c><00:02:45.280><c> does.</c><00:02:45.519><c> It</c><00:02:45.760><c> imports</c>
+that's exactly what it does. It imports
+that's exactly what it does. It imports
+your<00:02:46.319><c> chat</c><00:02:46.640><c> GPT</c><00:02:47.120><c> chats.</c><00:02:47.599><c> If</c><00:02:47.760><c> you</c><00:02:47.920><c> use</c><00:02:48.239><c> Chrome,</c>
+your chat GPT chats. If you use Chrome,
+your chat GPT chats. If you use Chrome,
+it's<00:02:49.280><c> going</c><00:02:49.360><c> to</c><00:02:49.519><c> work</c><00:02:49.680><c> with</c><00:02:49.920><c> you</c><00:02:50.080><c> to</c><00:02:50.239><c> keep</c>
+it's going to work with you to keep
+it's going to work with you to keep
+track<00:02:50.640><c> of</c><00:02:50.800><c> your</c><00:02:50.959><c> chats.</c><00:02:51.599><c> It</c><00:02:51.760><c> is</c><00:02:51.920><c> laser</c><00:02:52.400><c> focused</c>
+track of your chats. It is laser focused
+track of your chats. It is laser focused
+on<00:02:53.040><c> that</c><00:02:53.440><c> specific</c><00:02:53.920><c> painoint.</c><00:02:54.879><c> But</c><00:02:55.040><c> again,</c>
+on that specific painoint. But again,
+on that specific painoint. But again,
+it's<00:02:55.920><c> not</c><00:02:56.160><c> perfect.</c><00:02:56.720><c> It</c><00:02:56.959><c> does</c><00:02:57.120><c> not</c><00:02:57.280><c> work</c><00:02:57.519><c> if</c>
+it's not perfect. It does not work if
+it's not perfect. It does not work if
+you<00:02:57.840><c> use</c><00:02:58.000><c> the</c><00:02:58.239><c> clawed</c><00:02:58.720><c> app</c><00:02:58.959><c> builtin.</c><00:02:59.519><c> It</c>
+you use the clawed app builtin. It
+you use the clawed app builtin. It
+doesn't<00:03:00.000><c> automatically</c><00:03:00.560><c> keep</c><00:03:00.800><c> track</c><00:03:01.040><c> of</c><00:03:01.200><c> your</c>
+doesn't automatically keep track of your
+doesn't automatically keep track of your
+chat<00:03:01.680><c> GPT</c><00:03:02.159><c> chats</c><00:03:02.560><c> that</c><00:03:02.720><c> are</c><00:03:02.879><c> not</c><00:03:03.120><c> in</c><00:03:03.760><c> Chrome.</c>
+chat GPT chats that are not in Chrome.
+chat GPT chats that are not in Chrome.
+So<00:03:04.640><c> there</c><00:03:04.800><c> are</c><00:03:04.959><c> weaknesses,</c><00:03:05.840><c> but</c><00:03:06.159><c> you</c><00:03:06.480><c> can't</c>
+So there are weaknesses, but you can't
+So there are weaknesses, but you can't
+assess<00:03:07.599><c> whether</c><00:03:08.000><c> it's</c><00:03:08.239><c> right</c><00:03:08.480><c> for</c><00:03:08.720><c> you</c><00:03:08.879><c> or</c><00:03:09.120><c> not</c>
+assess whether it's right for you or not
+assess whether it's right for you or not
+if<00:03:09.760><c> you</c><00:03:10.000><c> don't</c><00:03:10.239><c> know</c><00:03:10.800><c> very</c><00:03:11.200><c> specifically</c><00:03:11.840><c> what</c>
+if you don't know very specifically what
+if you don't know very specifically what
+the<00:03:12.319><c> pain</c><00:03:12.560><c> is</c><00:03:12.720><c> that</c><00:03:12.879><c> you're</c><00:03:13.120><c> trying</c><00:03:13.200><c> to</c><00:03:13.360><c> solve.</c>
+the pain is that you're trying to solve.
+the pain is that you're trying to solve.
+If<00:03:13.920><c> you</c><00:03:14.080><c> really</c><00:03:14.400><c> care</c><00:03:15.680><c> about</c><00:03:16.000><c> getting</c><00:03:16.239><c> all</c>
+If you really care about getting all
+If you really care about getting all
+your<00:03:16.560><c> chats</c><00:03:16.879><c> in</c><00:03:17.040><c> one</c><00:03:17.200><c> place</c><00:03:17.360><c> and</c><00:03:17.599><c> organizing</c>
+your chats in one place and organizing
+your chats in one place and organizing
+them<00:03:18.480><c> and</c><00:03:18.720><c> you</c><00:03:18.959><c> can</c><00:03:19.040><c> name</c><00:03:19.280><c> that</c><00:03:19.599><c> pain,</c><00:03:20.159><c> then</c>
+them and you can name that pain, then
+them and you can name that pain, then
+maybe<00:03:20.640><c> it's</c><00:03:20.879><c> worth</c><00:03:21.040><c> it.</c><00:03:21.360><c> Maybe</c><00:03:21.599><c> that's</c><00:03:21.840><c> the</c>
+maybe it's worth it. Maybe that's the
+maybe it's worth it. Maybe that's the
+right<00:03:22.159><c> one</c><00:03:22.400><c> to</c><00:03:22.560><c> go</c><00:03:22.720><c> after.</c><00:03:23.200><c> Question</c><00:03:23.680><c> number</c>
+right one to go after. Question number
+right one to go after. Question number
+two,<00:03:24.640><c> can</c><00:03:24.800><c> we</c><00:03:25.120><c> integrate</c><00:03:25.680><c> and</c><00:03:26.080><c> sustain</c><00:03:27.120><c> this</c>
+two, can we integrate and sustain this
+two, can we integrate and sustain this
+tool?<00:03:28.560><c> So</c><00:03:28.879><c> you</c><00:03:29.120><c> need</c><00:03:29.280><c> to</c><00:03:29.519><c> map</c><00:03:29.760><c> out</c><00:03:30.000><c> the</c><00:03:30.239><c> effort</c>
+tool? So you need to map out the effort
+tool? So you need to map out the effort
+of<00:03:31.200><c> change.</c><00:03:31.760><c> If</c><00:03:32.000><c> it's</c><00:03:32.159><c> an</c><00:03:32.400><c> individual</c><00:03:32.879><c> tool</c>
+of change. If it's an individual tool
+of change. If it's an individual tool
+like<00:03:33.760><c> Nessie,</c><00:03:34.319><c> the</c><00:03:34.480><c> effort</c><00:03:34.799><c> is</c><00:03:34.959><c> a</c><00:03:35.200><c> change</c><00:03:35.360><c> in</c>
+like Nessie, the effort is a change in
+like Nessie, the effort is a change in
+behavior.<00:03:36.000><c> Maybe</c><00:03:36.159><c> you're</c><00:03:36.400><c> using</c><00:03:36.560><c> another</c>
+behavior. Maybe you're using another
+behavior. Maybe you're using another
+browser,<00:03:37.280><c> not</c><00:03:37.519><c> Chrome.</c><00:03:38.080><c> Maybe</c><00:03:38.319><c> you're</c><00:03:38.560><c> used</c>
+browser, not Chrome. Maybe you're used
+browser, not Chrome. Maybe you're used
+to<00:03:38.879><c> using</c><00:03:39.120><c> the</c><00:03:39.360><c> desktop</c><00:03:39.760><c> apps</c><00:03:40.080><c> for</c><00:03:40.319><c> AI.</c><00:03:41.200><c> Maybe</c>
+to using the desktop apps for AI. Maybe
+to using the desktop apps for AI. Maybe
+you're<00:03:41.760><c> not</c><00:03:42.159><c> ready</c><00:03:42.480><c> to</c><00:03:43.120><c> do</c><00:03:43.360><c> the</c><00:03:43.599><c> work</c><00:03:43.760><c> of</c>
+you're not ready to do the work of
+you're not ready to do the work of
+exporting<00:03:44.400><c> a</c><00:03:44.640><c> zip</c><00:03:44.879><c> file</c><00:03:45.120><c> of</c><00:03:45.280><c> old</c><00:03:45.519><c> chat</c><00:03:45.840><c> GPT</c>
+exporting a zip file of old chat GPT
+exporting a zip file of old chat GPT
+chats<00:03:46.640><c> to</c><00:03:46.799><c> get</c><00:03:46.959><c> the</c><00:03:47.280><c> organization</c><00:03:48.000><c> started</c>
+chats to get the organization started
+chats to get the organization started
+inside<00:03:49.200><c> Nessie</c><00:03:49.599><c> Labs</c><00:03:49.920><c> to</c><00:03:50.080><c> have</c><00:03:50.239><c> your</c><00:03:50.400><c> memory</c>
+inside Nessie Labs to have your memory
+inside Nessie Labs to have your memory
+layer.<00:03:51.120><c> But</c><00:03:51.280><c> you</c><00:03:51.440><c> have</c><00:03:51.599><c> to</c><00:03:51.680><c> decide</c><00:03:52.000><c> if</c><00:03:52.159><c> that's</c>
+layer. But you have to decide if that's
+layer. But you have to decide if that's
+worth<00:03:52.560><c> it.</c><00:03:52.959><c> You</c><00:03:53.200><c> have</c><00:03:53.360><c> to</c><00:03:53.519><c> decide</c><00:03:54.319><c> if</c><00:03:54.560><c> the</c><00:03:54.879><c> cost</c>
+worth it. You have to decide if the cost
+worth it. You have to decide if the cost
+of<00:03:55.440><c> sustaining</c><00:03:55.920><c> that</c><00:03:56.159><c> over</c><00:03:56.400><c> time</c><00:03:56.640><c> of</c><00:03:56.879><c> changing</c>
+of sustaining that over time of changing
+of sustaining that over time of changing
+your<00:03:57.360><c> behavior</c><00:03:57.760><c> over</c><00:03:58.080><c> time</c><00:03:58.480><c> is</c><00:03:58.799><c> worth</c><00:03:58.959><c> it.</c><00:03:59.439><c> If</c>
+your behavior over time is worth it. If
+your behavior over time is worth it. If
+you<00:04:00.000><c> are</c><00:04:00.560><c> installing</c><00:04:01.120><c> an</c><00:04:01.439><c> enterprise</c><00:04:01.920><c> tool,</c>
+you are installing an enterprise tool,
+you are installing an enterprise tool,
+it's<00:04:02.400><c> of</c><00:04:02.560><c> course</c><00:04:02.799><c> much</c><00:04:03.040><c> more</c><00:04:03.280><c> complicated.</c>
+it's of course much more complicated.
+it's of course much more complicated.
+Your<00:04:04.080><c> teams</c><00:04:04.480><c> will</c><00:04:04.720><c> need</c><00:04:05.120><c> training.</c><00:04:05.920><c> They</c><00:04:06.159><c> will</c>
+Your teams will need training. They will
+Your teams will need training. They will
+need<00:04:06.480><c> to</c><00:04:06.640><c> understand</c><00:04:07.280><c> edge</c><00:04:07.599><c> cases</c><00:04:08.000><c> where</c><00:04:08.159><c> the</c>
+need to understand edge cases where the
+need to understand edge cases where the
+tool<00:04:08.640><c> doesn't</c><00:04:08.959><c> work.</c><00:04:09.519><c> Your</c><00:04:09.760><c> IT</c><00:04:10.159><c> department</c><00:04:10.560><c> is</c>
+tool doesn't work. Your IT department is
+tool doesn't work. Your IT department is
+going<00:04:10.959><c> to</c><00:04:11.040><c> have</c><00:04:11.200><c> to</c><00:04:11.439><c> support</c><00:04:11.760><c> it.</c><00:04:12.239><c> It's</c>
+going to have to support it. It's
+going to have to support it. It's
+exponentially<00:04:13.599><c> more</c><00:04:13.920><c> complex.</c><00:04:14.720><c> And</c><00:04:15.040><c> every</c>
+exponentially more complex. And every
+exponentially more complex. And every
+single<00:04:15.840><c> tool</c><00:04:16.239><c> you</c><00:04:16.479><c> add</c><00:04:17.040><c> adds</c><00:04:17.440><c> edges</c><00:04:17.919><c> that</c><00:04:18.239><c> you</c>
+single tool you add adds edges that you
+single tool you add adds edges that you
+have<00:04:18.720><c> to</c><00:04:18.959><c> sustain.</c><00:04:19.759><c> It</c><00:04:20.079><c> touches</c><00:04:20.479><c> other</c><00:04:20.720><c> tools</c>
+have to sustain. It touches other tools
+have to sustain. It touches other tools
+in<00:04:21.280><c> your</c><00:04:21.440><c> ecosystem.</c><00:04:22.000><c> and</c><00:04:22.079><c> it</c><00:04:22.320><c> touches</c><00:04:22.639><c> other</c>
+in your ecosystem. and it touches other
+in your ecosystem. and it touches other
+teams.<00:04:23.680><c> Have</c><00:04:23.919><c> you</c><00:04:24.080><c> mapped</c><00:04:24.320><c> that</c><00:04:24.479><c> out?</c><00:04:24.800><c> Are</c><00:04:25.040><c> you</c>
+teams. Have you mapped that out? Are you
+teams. Have you mapped that out? Are you
+ready<00:04:25.919><c> to</c><00:04:26.400><c> sustain</c><00:04:26.880><c> the</c><00:04:27.120><c> tool?</c><00:04:27.759><c> Good</c><00:04:28.080><c> tools</c>
+ready to sustain the tool? Good tools
+ready to sustain the tool? Good tools
+are<00:04:29.199><c> going</c><00:04:29.360><c> to</c><00:04:29.520><c> make</c><00:04:29.680><c> it</c><00:04:29.919><c> as</c><00:04:30.240><c> easy</c><00:04:30.639><c> as</c><00:04:31.040><c> possible</c>
+are going to make it as easy as possible
+are going to make it as easy as possible
+to<00:04:32.080><c> own</c><00:04:32.400><c> setup,</c><00:04:33.120><c> to</c><00:04:33.280><c> tune</c><00:04:33.520><c> your</c><00:04:33.759><c> alerts,</c><00:04:34.320><c> to</c>
+to own setup, to tune your alerts, to
+to own setup, to tune your alerts, to
+figure<00:04:34.720><c> out</c><00:04:34.880><c> what</c><00:04:35.040><c> ongoing</c><00:04:35.520><c> maintenance</c>
+figure out what ongoing maintenance
+figure out what ongoing maintenance
+looks<00:04:36.160><c> like</c><00:04:36.320><c> in</c><00:04:36.479><c> a</c><00:04:36.560><c> way</c><00:04:36.639><c> that</c><00:04:36.800><c> is</c><00:04:36.960><c> sustainable</c>
+looks like in a way that is sustainable
+looks like in a way that is sustainable
+for<00:04:37.680><c> your</c><00:04:37.919><c> business.</c><00:04:38.479><c> Tools</c><00:04:38.800><c> that</c><00:04:38.960><c> are</c><00:04:39.120><c> poorly</c>
+for your business. Tools that are poorly
+for your business. Tools that are poorly
+constructed<00:04:40.400><c> assume</c><00:04:41.120><c> most</c><00:04:41.440><c> of</c><00:04:41.600><c> the</c><00:04:41.840><c> work</c><00:04:42.000><c> for</c>
+constructed assume most of the work for
+constructed assume most of the work for
+figuring<00:04:42.560><c> that</c><00:04:42.800><c> out</c><00:04:43.199><c> falls</c><00:04:43.600><c> on</c><00:04:43.840><c> you.</c><00:04:44.240><c> That's</c>
+figuring that out falls on you. That's
+figuring that out falls on you. That's
+why<00:04:44.560><c> I'm</c><00:04:44.720><c> a</c><00:04:44.880><c> big</c><00:04:45.120><c> fan</c><00:04:45.199><c> of</c><00:04:45.440><c> looking</c><00:04:45.600><c> at</c>
+why I'm a big fan of looking at
+why I'm a big fan of looking at
+documentation<00:04:46.880><c> when</c><00:04:47.120><c> you</c><00:04:47.199><c> want</c><00:04:47.280><c> to</c><00:04:47.440><c> figure</c>
+documentation when you want to figure
+documentation when you want to figure
+out<00:04:47.759><c> what</c><00:04:47.919><c> tools</c><00:04:48.320><c> work.</c><00:04:48.880><c> Number</c><00:04:49.199><c> three,</c><00:04:49.759><c> when</c>
+out what tools work. Number three, when
+out what tools work. Number three, when
+you're<00:04:50.160><c> asking</c><00:04:50.479><c> yourself</c><00:04:50.880><c> about</c><00:04:51.120><c> tools,</c><00:04:51.759><c> ask</c>
+you're asking yourself about tools, ask
+you're asking yourself about tools, ask
+yourself,<00:04:52.479><c> what</c><00:04:52.639><c> is</c><00:04:52.800><c> the</c><00:04:52.960><c> worst</c><00:04:53.280><c> failure</c><00:04:53.680><c> mode</c>
+yourself, what is the worst failure mode
+yourself, what is the worst failure mode
+here?<00:04:54.560><c> And</c><00:04:54.720><c> can</c><00:04:54.960><c> we</c><00:04:55.120><c> stomach</c><00:04:55.520><c> it?</c><00:04:55.919><c> Now,</c>
+here? And can we stomach it? Now,
+here? And can we stomach it? Now,
+individuals<00:04:56.880><c> sort</c><00:04:57.040><c> of</c><00:04:57.199><c> get</c><00:04:57.360><c> away</c><00:04:57.600><c> with</c><00:04:57.759><c> one</c>
+individuals sort of get away with one
+individuals sort of get away with one
+here.<00:04:58.479><c> The</c><00:04:58.800><c> worst</c><00:04:59.120><c> failure</c><00:04:59.520><c> mode</c><00:04:59.680><c> for</c>
+here. The worst failure mode for
+here. The worst failure mode for
+individuals<00:05:00.639><c> is</c><00:05:01.040><c> usually</c><00:05:01.680><c> not</c><00:05:02.000><c> too</c><00:05:02.320><c> bad.</c><00:05:03.040><c> You</c>
+individuals is usually not too bad. You
+individuals is usually not too bad. You
+can<00:05:03.520><c> actually</c><00:05:03.840><c> just</c><00:05:04.479><c> look</c><00:05:04.800><c> at</c><00:05:06.000><c> a</c><00:05:06.880><c> particular</c>
+can actually just look at a particular
+can actually just look at a particular
+tool<00:05:07.840><c> set</c><00:05:08.240><c> and</c><00:05:08.479><c> say,</c><00:05:08.639><c> "Yeah,</c><00:05:09.120><c> you</c><00:05:09.280><c> know</c><00:05:09.360><c> what?</c>
+tool set and say, "Yeah, you know what?
+tool set and say, "Yeah, you know what?
+I'm<00:05:09.840><c> going</c><00:05:09.919><c> to</c><00:05:10.000><c> try</c><00:05:10.160><c> Nessu</c><00:05:10.639><c> Labs.</c><00:05:11.039><c> It's</c><00:05:11.199><c> going</c>
+I'm going to try Nessu Labs. It's going
+I'm going to try Nessu Labs. It's going
+to<00:05:11.360><c> be</c><00:05:11.520><c> fine.</c><00:05:11.759><c> The</c><00:05:11.919><c> worst</c><00:05:12.080><c> thing</c><00:05:12.240><c> that</c><00:05:12.400><c> could</c>
+to be fine. The worst thing that could
+to be fine. The worst thing that could
+happen<00:05:12.800><c> is</c><00:05:12.960><c> that</c><00:05:13.199><c> I</c><00:05:13.680><c> end</c><00:05:13.840><c> up</c><00:05:14.000><c> with</c><00:05:14.080><c> a</c><00:05:14.320><c> tool</c><00:05:14.479><c> with</c>
+happen is that I end up with a tool with
+happen is that I end up with a tool with
+some<00:05:14.880><c> memory</c><00:05:15.120><c> that</c><00:05:15.280><c> I</c><00:05:15.440><c> didn't</c><00:05:15.680><c> end</c><00:05:15.840><c> up</c><00:05:16.000><c> using.</c>
+some memory that I didn't end up using.
+some memory that I didn't end up using.
+That's<00:05:16.560><c> not</c><00:05:16.720><c> too</c><00:05:16.960><c> bad."</c><00:05:17.280><c> or</c><00:05:17.520><c> I</c><00:05:17.759><c> forget</c><00:05:18.000><c> to</c><00:05:18.240><c> use</c>
+That's not too bad." or I forget to use
+That's not too bad." or I forget to use
+Chrome<00:05:18.720><c> for</c><00:05:18.880><c> a</c><00:05:19.039><c> chat.</c><00:05:19.360><c> That's</c><00:05:19.600><c> not</c><00:05:19.759><c> too</c><00:05:19.919><c> bad.</c>
+Chrome for a chat. That's not too bad.
+Chrome for a chat. That's not too bad.
+Companies<00:05:20.960><c> have</c><00:05:21.120><c> a</c><00:05:21.280><c> much</c><00:05:21.440><c> higher</c><00:05:21.680><c> bar</c><00:05:21.919><c> to</c>
+Companies have a much higher bar to
+Companies have a much higher bar to
+meet.<00:05:22.560><c> Let's</c><00:05:22.800><c> say</c><00:05:23.039><c> you're</c><00:05:23.280><c> using</c><00:05:23.520><c> mem</c><00:05:24.000><c> zero.</c>
+meet. Let's say you're using mem zero.
+meet. Let's say you're using mem zero.
+It's<00:05:24.479><c> a</c><00:05:24.639><c> memory</c><00:05:25.039><c> layer</c><00:05:25.199><c> for</c><00:05:25.440><c> customer</c><00:05:25.840><c> success</c>
+It's a memory layer for customer success
+It's a memory layer for customer success
+agents<00:05:26.560><c> so</c><00:05:26.720><c> that</c><00:05:26.880><c> the</c><00:05:27.120><c> customer</c><00:05:27.440><c> success</c><00:05:27.840><c> AI</c>
+agents so that the customer success AI
+agents so that the customer success AI
+agent<00:05:28.560><c> can</c><00:05:28.720><c> remember</c><00:05:29.120><c> your</c><00:05:29.360><c> customer</c><00:05:29.600><c> and</c>
+agent can remember your customer and
+agent can remember your customer and
+interact<00:05:30.160><c> with</c><00:05:30.320><c> them</c><00:05:30.479><c> more</c><00:05:30.720><c> personally.</c>
+interact with them more personally.
+interact with them more personally.
+Great<00:05:31.759><c> idea.</c><00:05:32.400><c> What</c><00:05:32.560><c> if</c><00:05:32.720><c> there's</c><00:05:32.880><c> a</c>
+Great idea. What if there's a
+Great idea. What if there's a
+catastrophic<00:05:33.680><c> failure</c><00:05:34.080><c> and</c><00:05:34.320><c> there's</c><00:05:34.479><c> a</c>
+catastrophic failure and there's a
+catastrophic failure and there's a
+memory<00:05:34.960><c> leakage</c><00:05:35.280><c> of</c><00:05:35.520><c> some</c><00:05:35.680><c> sort?</c><00:05:36.000><c> Can</c><00:05:36.160><c> you</c>
+memory leakage of some sort? Can you
+memory leakage of some sort? Can you
+stomach<00:05:36.720><c> the</c><00:05:36.880><c> lack</c><00:05:37.120><c> of</c><00:05:37.280><c> trust</c><00:05:37.520><c> that</c><00:05:37.759><c> comes</c>
+stomach the lack of trust that comes
+stomach the lack of trust that comes
+with<00:05:38.080><c> that?</c><00:05:38.720><c> Do</c><00:05:38.960><c> you</c><00:05:39.199><c> have</c><00:05:39.600><c> asurances?</c><00:05:40.400><c> You</c>
+with that? Do you have asurances? You
+with that? Do you have asurances? You
+have<00:05:40.720><c> architecture</c><00:05:41.280><c> in</c><00:05:41.440><c> place</c><00:05:41.680><c> to</c><00:05:41.919><c> make</c><00:05:42.000><c> sure</c>
+have architecture in place to make sure
+have architecture in place to make sure
+that<00:05:42.240><c> that's</c><00:05:42.479><c> mitigated.</c><00:05:43.360><c> What</c><00:05:43.600><c> if</c><00:05:43.919><c> you</c><00:05:44.160><c> are</c>
+that that's mitigated. What if you are
+that that's mitigated. What if you are
+using<00:05:45.120><c> Lera</c><00:05:45.759><c> Guard</c><00:05:46.080><c> and</c><00:05:46.240><c> a</c><00:05:46.479><c> prompt</c><00:05:46.720><c> injection</c>
+using Lera Guard and a prompt injection
+using Lera Guard and a prompt injection
+attack<00:05:47.600><c> does</c><00:05:47.919><c> succeed?</c><00:05:48.720><c> What</c><00:05:48.960><c> do</c><00:05:49.120><c> you</c><00:05:49.280><c> do</c>
+attack does succeed? What do you do
+attack does succeed? What do you do
+then?<00:05:50.000><c> And</c><00:05:50.240><c> so</c><00:05:50.400><c> a</c><00:05:50.639><c> lot</c><00:05:50.800><c> of</c><00:05:50.880><c> what</c><00:05:51.120><c> we're</c><00:05:51.280><c> doing</c>
+then? And so a lot of what we're doing
+then? And so a lot of what we're doing
+when<00:05:51.600><c> we</c><00:05:51.759><c> look</c><00:05:51.919><c> at</c><00:05:52.000><c> tools</c><00:05:52.320><c> is</c><00:05:52.560><c> we're</c>
+when we look at tools is we're
+when we look at tools is we're
+essentially<00:05:53.199><c> trying</c><00:05:53.360><c> to</c><00:05:53.520><c> reference</c><00:05:54.000><c> like</c><00:05:54.400><c> do</c>
+essentially trying to reference like do
+essentially trying to reference like do
+we<00:05:54.800><c> understand</c><00:05:55.039><c> the</c><00:05:55.280><c> pain?</c><00:05:55.840><c> Does</c><00:05:56.000><c> this</c>
+we understand the pain? Does this
+we understand the pain? Does this
+actually<00:05:57.199><c> act</c><00:05:57.600><c> like</c><00:05:57.919><c> a</c><00:05:58.560><c> heat-seeking</c><00:05:59.280><c> missile</c>
+actually act like a heat-seeking missile
+actually act like a heat-seeking missile
+and<00:05:59.919><c> just</c><00:06:00.160><c> go</c><00:06:00.320><c> after</c><00:06:00.560><c> that</c><00:06:00.880><c> particular</c><00:06:01.280><c> pain</c>
+and just go after that particular pain
+and just go after that particular pain
+point?<00:06:02.000><c> If</c><00:06:02.240><c> it</c><00:06:02.479><c> does,</c><00:06:02.960><c> can</c><00:06:03.199><c> we</c><00:06:03.360><c> integrate</c><00:06:03.759><c> and</c>
+point? If it does, can we integrate and
+point? If it does, can we integrate and
+sustain<00:06:04.240><c> it?</c><00:06:04.639><c> And</c><00:06:04.800><c> if</c><00:06:04.960><c> we</c><00:06:05.120><c> can</c><00:06:05.199><c> integrate</c><00:06:05.520><c> and</c>
+sustain it? And if we can integrate and
+sustain it? And if we can integrate and
+sustain<00:06:05.919><c> it,</c><00:06:06.240><c> do</c><00:06:06.400><c> we</c><00:06:06.560><c> understand</c><00:06:06.880><c> the</c>
+sustain it, do we understand the
+sustain it, do we understand the
+downside<00:06:07.520><c> and</c><00:06:07.759><c> have</c><00:06:07.919><c> we</c><00:06:08.080><c> mitigated</c><00:06:08.560><c> for</c><00:06:08.720><c> it?</c>
+downside and have we mitigated for it?
+downside and have we mitigated for it?
+If<00:06:09.440><c> we</c><00:06:09.680><c> ask</c><00:06:10.000><c> ourselves</c><00:06:10.479><c> those</c><00:06:10.880><c> questions,</c><00:06:11.759><c> we</c>
+If we ask ourselves those questions, we
+If we ask ourselves those questions, we
+are<00:06:12.160><c> going</c><00:06:12.240><c> to</c><00:06:12.400><c> be</c><00:06:12.639><c> so</c><00:06:12.960><c> much</c><00:06:13.120><c> farther</c><00:06:13.520><c> along</c><00:06:13.919><c> on</c>
+are going to be so much farther along on
+are going to be so much farther along on
+unreged<00:06:14.880><c> tool</c><00:06:15.199><c> purchases.</c><00:06:15.759><c> There</c><00:06:16.000><c> are,</c><00:06:16.240><c> look,</c>
+unreged tool purchases. There are, look,
+unreged tool purchases. There are, look,
+there<00:06:16.800><c> are</c><00:06:17.039><c> billions</c><00:06:17.440><c> of</c><00:06:17.600><c> dollars</c><00:06:17.919><c> being</c>
+there are billions of dollars being
+there are billions of dollars being
+thrown<00:06:18.400><c> around</c><00:06:18.560><c> here.</c><00:06:18.800><c> Part</c><00:06:18.960><c> of</c><00:06:19.039><c> how</c><00:06:19.199><c> the</c><00:06:19.360><c> VC</c>
+thrown around here. Part of how the VC
+thrown around here. Part of how the VC
+industry<00:06:20.000><c> is</c><00:06:20.160><c> sustaining</c><00:06:20.560><c> itself</c><00:06:20.880><c> right</c><00:06:21.039><c> now</c>
+industry is sustaining itself right now
+industry is sustaining itself right now
+is<00:06:21.440><c> that</c><00:06:21.600><c> people</c><00:06:21.840><c> are</c><00:06:22.000><c> throwing</c><00:06:22.319><c> money</c><00:06:22.479><c> at</c><00:06:22.639><c> AI</c>
+is that people are throwing money at AI
+is that people are throwing money at AI
+tools<00:06:23.280><c> and</c><00:06:23.440><c> not</c><00:06:23.680><c> asking</c><00:06:24.000><c> themselves,</c><00:06:24.800><c> is</c><00:06:24.960><c> it</c>
+tools and not asking themselves, is it
+tools and not asking themselves, is it
+useful?<00:06:25.919><c> So,</c><00:06:26.400><c> without</c><00:06:26.720><c> further</c><00:06:27.039><c> ado,</c><00:06:27.440><c> I'm</c>
+useful? So, without further ado, I'm
+useful? So, without further ado, I'm
+going<00:06:27.759><c> to</c><00:06:27.840><c> show</c><00:06:28.000><c> you</c><00:06:28.160><c> just</c><00:06:28.319><c> a</c><00:06:28.479><c> peek</c><00:06:28.720><c> at</c>
+going to show you just a peek at
+going to show you just a peek at
+Memzero,<00:06:29.600><c> at</c><00:06:29.759><c> Laragard,</c><00:06:30.800><c> and</c><00:06:31.120><c> at</c><00:06:31.759><c> Nessu</c><00:06:32.240><c> Labs</c>
+Memzero, at Laragard, and at Nessu Labs
+Memzero, at Laragard, and at Nessu Labs
+because<00:06:32.639><c> I</c><00:06:32.800><c> think</c><00:06:32.880><c> those</c><00:06:33.120><c> are</c><00:06:33.280><c> all</c><00:06:33.520><c> ones</c><00:06:33.759><c> that</c>
+because I think those are all ones that
+because I think those are all ones that
+I've<00:06:34.240><c> referenced</c><00:06:34.560><c> here.</c><00:06:34.880><c> And</c><00:06:35.039><c> if</c><00:06:35.199><c> you're</c>
+I've referenced here. And if you're
+I've referenced here. And if you're
+curious,<00:06:35.680><c> I'd</c><00:06:35.919><c> love</c><00:06:36.080><c> you</c><00:06:36.160><c> to</c><00:06:36.319><c> dive</c><00:06:36.479><c> in.</c>
+curious, I'd love you to dive in.
+curious, I'd love you to dive in.
+There's,<00:06:37.520><c> as</c><00:06:37.759><c> I'm</c><00:06:38.000><c> saying,</c><00:06:38.319><c> a</c><00:06:38.560><c> bunch</c><00:06:38.800><c> more</c>
+There's, as I'm saying, a bunch more
+There's, as I'm saying, a bunch more
+tools<00:06:39.280><c> that</c><00:06:39.440><c> I'll</c><00:06:39.600><c> have</c><00:06:39.759><c> up</c><00:06:39.919><c> on</c><00:06:40.000><c> the</c><00:06:40.160><c> substack</c>
+tools that I'll have up on the substack
+tools that I'll have up on the substack
+as<00:06:40.800><c> well.</c><00:06:41.039><c> So,</c><00:06:41.199><c> this</c><00:06:41.360><c> is</c><00:06:41.520><c> LERA.</c><00:06:42.400><c> The</c><00:06:42.639><c> idea</c><00:06:42.880><c> is</c>
+as well. So, this is LERA. The idea is
+as well. So, this is LERA. The idea is
+it's<00:06:43.360><c> a</c><00:06:43.680><c> layer</c><00:06:43.840><c> in</c><00:06:44.080><c> between</c><00:06:44.319><c> your</c><00:06:44.560><c> generative</c>
+it's a layer in between your generative
+it's a layer in between your generative
+AI<00:06:45.360><c> applications</c><00:06:46.400><c> and</c><00:06:47.120><c> bad</c><00:06:47.360><c> actor.</c><00:06:47.840><c> And</c><00:06:48.000><c> this</c>
+AI applications and bad actor. And this
+AI applications and bad actor. And this
+is<00:06:48.560><c> a</c><00:06:48.800><c> tool</c><00:06:49.039><c> that</c><00:06:49.280><c> enables</c><00:06:49.680><c> you</c><00:06:49.919><c> to</c>
+is a tool that enables you to
+is a tool that enables you to
+proactively<00:06:51.360><c> understand</c><00:06:52.319><c> what</c><00:06:52.560><c> is</c><00:06:52.720><c> going</c><00:06:52.880><c> on.</c>
+proactively understand what is going on.
+proactively understand what is going on.
+You<00:06:53.280><c> get</c><00:06:53.440><c> visibility.</c><00:06:54.160><c> It's</c><00:06:54.400><c> going</c><00:06:54.479><c> to</c>
+You get visibility. It's going to
+You get visibility. It's going to
+protect<00:06:54.880><c> you</c><00:06:54.960><c> from</c><00:06:55.199><c> prompt</c><00:06:55.440><c> injection</c>
+protect you from prompt injection
+protect you from prompt injection
+attacks.<00:06:56.240><c> You</c><00:06:56.400><c> can</c><00:06:56.560><c> control</c><00:06:56.880><c> and</c><00:06:57.120><c> configure.</c>
+attacks. You can control and configure.
+attacks. You can control and configure.
+Think<00:06:58.000><c> of</c><00:06:58.080><c> it</c><00:06:58.240><c> as</c><00:06:58.479><c> like</c><00:06:58.720><c> it's</c><00:06:58.880><c> the</c><00:06:59.120><c> classic</c>
+Think of it as like it's the classic
+Think of it as like it's the classic
+security<00:06:59.919><c> play.</c><00:07:00.160><c> It's</c><00:07:00.240><c> a</c><00:07:00.400><c> shield,</c><00:07:00.800><c> right?</c>
+security play. It's a shield, right?
+security play. It's a shield, right?
+Like,<00:07:01.199><c> and</c><00:07:01.440><c> you</c><00:07:01.599><c> can</c><00:07:01.919><c> decide</c><00:07:02.319><c> how</c><00:07:02.479><c> you</c>
+Like, and you can decide how you
+Like, and you can decide how you
+configure<00:07:03.039><c> your</c><00:07:03.199><c> shield,</c><00:07:03.759><c> etc.</c><00:07:04.160><c> Nothing</c><00:07:04.400><c> is</c>
+configure your shield, etc. Nothing is
+configure your shield, etc. Nothing is
+perfect,<00:07:05.280><c> but</c><00:07:05.520><c> it's</c><00:07:05.759><c> an</c><00:07:05.919><c> example</c><00:07:06.160><c> of</c><00:07:06.319><c> a</c><00:07:06.479><c> tool</c>
+perfect, but it's an example of a tool
+perfect, but it's an example of a tool
+that's<00:07:06.960><c> aimed</c><00:07:07.199><c> at</c><00:07:07.280><c> a</c><00:07:07.520><c> particular</c><00:07:07.840><c> risk</c><00:07:08.160><c> that</c>
+that's aimed at a particular risk that
+that's aimed at a particular risk that
+companies<00:07:08.960><c> tend</c><00:07:09.280><c> to</c><00:07:09.440><c> articulate</c><00:07:09.919><c> is</c><00:07:10.160><c> very</c>
+companies tend to articulate is very
+companies tend to articulate is very
+painful.<00:07:10.880><c> This</c><00:07:11.039><c> is</c><00:07:11.199><c> Nessie.</c><00:07:11.759><c> Nessie</c><00:07:12.240><c> is</c>
+painful. This is Nessie. Nessie is
+painful. This is Nessie. Nessie is
+exactly<00:07:12.720><c> what</c><00:07:12.880><c> I</c><00:07:13.120><c> talked</c><00:07:13.280><c> about,</c><00:07:13.520><c> an</c>
+exactly what I talked about, an
+exactly what I talked about, an
+individual<00:07:14.240><c> AI</c><00:07:14.560><c> knowledge</c><00:07:14.880><c> base</c><00:07:15.120><c> for</c><00:07:15.280><c> the</c>
+individual AI knowledge base for the
+individual AI knowledge base for the
+mind.<00:07:15.840><c> You</c><00:07:16.000><c> can</c><00:07:16.080><c> download</c><00:07:16.400><c> it</c><00:07:16.560><c> for</c><00:07:16.720><c> Mac.</c><00:07:17.039><c> The</c>
+mind. You can download it for Mac. The
+mind. You can download it for Mac. The
+idea<00:07:17.360><c> is</c><00:07:17.520><c> that</c><00:07:17.680><c> it's</c><00:07:17.919><c> able</c><00:07:18.240><c> to</c><00:07:19.120><c> capture</c><00:07:19.599><c> your</c>
+idea is that it's able to capture your
+idea is that it's able to capture your
+overall<00:07:20.319><c> chats</c><00:07:20.720><c> and</c><00:07:20.880><c> get</c><00:07:20.960><c> them</c><00:07:21.120><c> into</c>
+overall chats and get them into
+overall chats and get them into
+summaries.<00:07:21.840><c> You</c><00:07:22.000><c> can</c><00:07:22.080><c> organize,</c><00:07:22.560><c> you</c><00:07:22.720><c> can</c>
+summaries. You can organize, you can
+summaries. You can organize, you can
+play<00:07:22.960><c> with,</c><00:07:23.280><c> you</c><00:07:23.440><c> can</c><00:07:23.599><c> use</c><00:07:24.639><c> laser</c><00:07:25.199><c> focused</c><00:07:25.520><c> on</c>
+play with, you can use laser focused on
+play with, you can use laser focused on
+a<00:07:25.919><c> particular</c><00:07:26.319><c> painoint</c><00:07:26.800><c> I</c><00:07:27.039><c> hear</c><00:07:27.199><c> from</c><00:07:27.360><c> a</c><00:07:27.599><c> lot</c>
+a particular painoint I hear from a lot
+a particular painoint I hear from a lot
+of<00:07:27.840><c> people.</c><00:07:28.160><c> And</c><00:07:28.400><c> last</c><00:07:28.639><c> but</c><00:07:28.880><c> not</c><00:07:29.039><c> least,</c><00:07:29.440><c> this</c>
+of people. And last but not least, this
+of people. And last but not least, this
+is<00:07:29.759><c> me</c><00:07:30.160><c> zero.</c><00:07:30.560><c> It's</c><00:07:30.800><c> focused</c><00:07:31.120><c> specifically</c><00:07:31.840><c> on</c>
+is me zero. It's focused specifically on
+is me zero. It's focused specifically on
+how<00:07:32.720><c> you</c><00:07:32.880><c> can</c><00:07:33.039><c> help</c><00:07:33.360><c> AI</c><00:07:33.759><c> agents</c><00:07:34.160><c> to</c><00:07:34.479><c> remember</c>
+how you can help AI agents to remember
+how you can help AI agents to remember
+customer<00:07:35.919><c> success</c><00:07:36.400><c> use</c><00:07:36.639><c> cases.</c><00:07:36.960><c> And</c><00:07:37.120><c> so</c><00:07:37.280><c> this</c>
+customer success use cases. And so this
+customer success use cases. And so this
+is<00:07:37.520><c> a</c><00:07:37.680><c> travel</c><00:07:38.080><c> example,</c><00:07:38.479><c> but</c><00:07:38.720><c> you</c><00:07:38.880><c> can</c><00:07:39.039><c> imagine</c>
+is a travel example, but you can imagine
+is a travel example, but you can imagine
+this<00:07:39.520><c> for</c><00:07:39.680><c> a</c><00:07:39.840><c> lot</c><00:07:39.919><c> of</c><00:07:40.000><c> other</c><00:07:40.240><c> examples,</c><00:07:40.639><c> too.</c>
+this for a lot of other examples, too.
+this for a lot of other examples, too.
+If<00:07:40.960><c> you</c><00:07:41.039><c> have</c><00:07:41.199><c> generative</c><00:07:41.599><c> AI</c><00:07:42.000><c> applications</c>
+If you have generative AI applications
+If you have generative AI applications
+that<00:07:42.800><c> you're</c><00:07:43.039><c> focused</c><00:07:43.280><c> on,</c><00:07:44.000><c> this</c><00:07:44.240><c> becomes</c><00:07:44.960><c> a</c>
+that you're focused on, this becomes a
+that you're focused on, this becomes a
+really<00:07:45.520><c> powerful</c><00:07:45.919><c> way</c><00:07:46.080><c> to</c><00:07:46.319><c> connect</c><00:07:46.560><c> with</c><00:07:46.720><c> your</c>
+really powerful way to connect with your
+really powerful way to connect with your
+customers.<00:07:47.520><c> So,</c><00:07:47.759><c> I</c><00:07:47.919><c> don't</c><00:07:48.080><c> pick</c><00:07:48.240><c> these</c>
+customers. So, I don't pick these
+customers. So, I don't pick these
+because<00:07:49.039><c> they</c><00:07:49.280><c> paid</c><00:07:49.440><c> me</c><00:07:49.599><c> or</c><00:07:49.840><c> anything.</c><00:07:50.160><c> They</c>
+because they paid me or anything. They
+because they paid me or anything. They
+don't<00:07:50.479><c> know</c><00:07:50.639><c> they're</c><00:07:50.880><c> being</c><00:07:51.039><c> talked</c><00:07:51.280><c> about.</c>
+don't know they're being talked about.
+don't know they're being talked about.
+I'm<00:07:52.080><c> mentioning</c><00:07:52.400><c> them</c><00:07:52.560><c> because</c><00:07:52.800><c> I</c><00:07:52.960><c> think</c><00:07:53.039><c> that</c>
+I'm mentioning them because I think that
+I'm mentioning them because I think that
+they<00:07:53.360><c> do</c><00:07:53.440><c> a</c><00:07:53.520><c> good</c><00:07:53.680><c> job</c><00:07:53.919><c> talking</c><00:07:54.160><c> about</c><00:07:54.319><c> a</c>
+they do a good job talking about a
+they do a good job talking about a
+particular<00:07:54.879><c> painoint</c><00:07:55.919><c> and</c><00:07:56.240><c> I</c><00:07:56.479><c> think</c><00:07:56.639><c> that</c>
+particular painoint and I think that
+particular painoint and I think that
+they<00:07:57.120><c> are</c><00:07:57.599><c> enabling</c><00:07:58.160><c> us</c><00:07:58.400><c> to</c><00:07:58.639><c> talk</c><00:07:58.879><c> about</c><00:07:59.280><c> how</c>
+they are enabling us to talk about how
+they are enabling us to talk about how
+you<00:07:59.759><c> choose</c><00:08:00.080><c> tools.</c><00:08:00.560><c> Well,</c><00:08:00.960><c> I</c><00:08:01.199><c> don't</c><00:08:01.280><c> care</c><00:08:01.440><c> if</c>
+you choose tools. Well, I don't care if
+you choose tools. Well, I don't care if
+you<00:08:01.759><c> choose</c><00:08:01.919><c> these</c><00:08:02.160><c> tools</c><00:08:02.400><c> or</c><00:08:02.639><c> not.</c><00:08:02.879><c> I</c><00:08:03.120><c> want</c>
+you choose these tools or not. I want
+you choose these tools or not. I want
+you<00:08:03.360><c> to</c><00:08:03.520><c> understand</c><00:08:04.240><c> how</c><00:08:04.560><c> to</c><00:08:05.120><c> pick</c><00:08:05.520><c> tools</c><00:08:06.080><c> that</c>
+you to understand how to pick tools that
+you to understand how to pick tools that
+work<00:08:06.560><c> for</c><00:08:06.720><c> you.</c><00:08:07.120><c> If</c><00:08:07.360><c> you'd</c><00:08:07.520><c> like</c><00:08:07.680><c> to</c><00:08:07.840><c> dig</c><00:08:08.000><c> in</c>
+work for you. If you'd like to dig in
+work for you. If you'd like to dig in
+further<00:08:08.720><c> and</c><00:08:09.360><c> understand</c><00:08:10.160><c> how</c><00:08:10.400><c> I</c><00:08:10.639><c> think</c><00:08:10.800><c> about</c>
+further and understand how I think about
+further and understand how I think about
+tools,<00:08:11.440><c> I</c><00:08:11.680><c> have</c><00:08:11.840><c> the</c><00:08:12.080><c> same</c><00:08:12.319><c> set</c><00:08:12.560><c> of</c><00:08:12.720><c> questions</c>
+tools, I have the same set of questions
+tools, I have the same set of questions
+that<00:08:13.199><c> I</c><00:08:13.360><c> just</c><00:08:13.520><c> outlined</c><00:08:14.240><c> around</c><00:08:14.560><c> sustainment,</c>
+that I just outlined around sustainment,
+that I just outlined around sustainment,
+around<00:08:15.840><c> picking</c><00:08:16.160><c> tools,</c><00:08:16.560><c> well,</c><00:08:16.879><c> around</c>
+around picking tools, well, around
+around picking tools, well, around
+finding<00:08:17.440><c> the</c><00:08:17.599><c> pain</c><00:08:17.840><c> point,</c><00:08:18.400><c> around</c><00:08:18.639><c> worst</c>
+finding the pain point, around worst
+finding the pain point, around worst
+case<00:08:19.199><c> scenario</c><00:08:19.599><c> planning.</c><00:08:20.160><c> And</c><00:08:20.319><c> I</c><00:08:20.479><c> have</c><00:08:20.639><c> that</c>
+case scenario planning. And I have that
+case scenario planning. And I have that
+for<00:08:21.120><c> like</c><00:08:21.440><c> 45</c><00:08:22.000><c> tools</c><00:08:22.800><c> because</c><00:08:23.120><c> I</c><00:08:23.280><c> think</c><00:08:23.360><c> that</c>
+for like 45 tools because I think that
+for like 45 tools because I think that
+we<00:08:23.759><c> need</c><00:08:23.840><c> to</c><00:08:24.000><c> have</c><00:08:24.240><c> honest</c><00:08:24.639><c> conversations</c>
+we need to have honest conversations
+we need to have honest conversations
+about<00:08:25.360><c> this</c><00:08:25.599><c> and</c><00:08:25.840><c> we</c><00:08:26.000><c> have</c><00:08:26.080><c> to</c><00:08:26.240><c> start</c>
+about this and we have to start
+about this and we have to start
+somewhere<00:08:27.199><c> and</c><00:08:27.360><c> we</c><00:08:27.520><c> have</c><00:08:27.680><c> to</c><00:08:27.759><c> start</c><00:08:27.919><c> with</c>
+somewhere and we have to start with
+somewhere and we have to start with
+harder<00:08:28.479><c> questions</c><00:08:28.800><c> than</c><00:08:28.960><c> we're</c><00:08:29.120><c> asking.</c><00:08:29.680><c> So,</c>
+harder questions than we're asking. So,
+harder questions than we're asking. So,
+this<00:08:30.319><c> is</c><00:08:30.400><c> the</c><00:08:30.560><c> no</c><00:08:30.879><c> tools</c><00:08:31.280><c> tool</c><00:08:31.520><c> episode.</c><00:08:31.840><c> It's</c>
+this is the no tools tool episode. It's
+this is the no tools tool episode. It's
+it's<00:08:32.320><c> I</c><00:08:32.560><c> want</c><00:08:32.719><c> you</c><00:08:32.880><c> to</c><00:08:32.959><c> bias</c><00:08:33.360><c> to</c><00:08:33.519><c> not</c><00:08:33.680><c> buying</c>
+it's I want you to bias to not buying
+it's I want you to bias to not buying
+the<00:08:34.080><c> tool</c><00:08:34.719><c> unless</c><00:08:35.519><c> it</c><00:08:35.839><c> says</c><00:08:36.000><c> yes</c><00:08:36.240><c> to</c><00:08:36.399><c> these</c>
+the tool unless it says yes to these
+the tool unless it says yes to these
+questions<00:08:37.039><c> because</c><00:08:37.279><c> I</c><00:08:37.440><c> think</c><00:08:37.680><c> too</c><00:08:37.919><c> often</c>
+questions because I think too often
+questions because I think too often
+we're<00:08:38.880><c> too</c><00:08:39.120><c> easy</c><00:08:39.519><c> like</c><00:08:39.760><c> we</c><00:08:40.479><c> open</c><00:08:40.719><c> the</c><00:08:40.880><c> wallet</c>
+we're too easy like we open the wallet
+we're too easy like we open the wallet
+too<00:08:41.440><c> quickly.</c><00:08:41.839><c> We</c><00:08:42.080><c> need</c><00:08:42.159><c> to</c><00:08:42.320><c> be</c><00:08:42.800><c> sort</c><00:08:42.959><c> of</c>
+too quickly. We need to be sort of
+too quickly. We need to be sort of
+hard-nosed<00:08:43.839><c> about</c><00:08:44.080><c> what</c><00:08:44.320><c> tools</c><00:08:44.959><c> really</c>
+hard-nosed about what tools really
+hard-nosed about what tools really
+matter.<00:08:45.760><c> So</c><00:08:45.920><c> there</c><00:08:46.080><c> you</c><00:08:46.160><c> go.</c><00:08:46.320><c> That's</c><00:08:46.560><c> my</c><00:08:46.720><c> take.</c>
+matter. So there you go. That's my take.
+matter. So there you go. That's my take.
+It's<00:08:47.200><c> how</c><00:08:47.360><c> you</c><00:08:47.600><c> build</c><00:08:48.000><c> a</c><00:08:48.240><c> no</c><00:08:48.480><c> tools</c><00:08:48.880><c> tool</c>
+It's how you build a no tools tool
+It's how you build a no tools tool
+culture<00:08:49.360><c> and</c><00:08:49.600><c> pick</c><00:08:49.839><c> AI</c><00:08:50.160><c> tools</c><00:08:50.399><c> that</c><00:08:50.640><c> actually</c>
+culture and pick AI tools that actually
+culture and pick AI tools that actually
+matter.

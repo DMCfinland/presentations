@@ -1,0 +1,43 @@
+Subject: Azure App Registration — sähköpostin AI-analysointi
+
+Moi!
+
+Rakennan Finland DMC:lle AI-pohjaisen email drafter -työkalun. Sitä varten tarvitsen API-rajapinnan kautta lukuoikeuden sähköposteihin.
+
+Käytännössä tarvitsen joko:
+A) Järjestelmänvalvojan tunnukset Azure-portaaliin (teen itse, 5 min), tai
+B) Teidän apuanne alla olevien klikkausten tekemiseen (5 min)
+
+Kyseessä on pelkkä lukuoikeus (Mail.Read) — ei kirjoitus- tai lähetysoikeutta.
+
+
+Ohjeet (Azure Portal — 5 min)
+
+1. Mene portal.azure.com → kirjaudu admin-tunnuksilla
+2. Hae yläpalkin hakukentästä "App registrations" → klikkaa
+3. Klikkaa "+ New registration"
+   - Name: Finland DMC Mailbox Export
+   - Supported account types: Single tenant
+   - Redirect URI: jätä tyhjäksi
+   - Klikkaa Register
+4. Vasemmasta valikosta "API permissions" → "+ Add a permission"
+   - Valitse Microsoft Graph
+   - Valitse Application permissions
+   - Hae: Mail.Read → rastita → Add permissions
+5. Klikkaa "Grant admin consent for Finland DMC Oy" → Yes
+6. Vasemmasta valikosta "Certificates & secrets" → "+ New client secret"
+   - Description: mailbox-export
+   - Expires: 6 months
+   - Klikkaa Add → kopioi Value-kenttä heti (näkyy vain kerran!)
+7. Overview-sivulta kopioi Application (client) ID ja Directory (tenant) ID
+
+
+Tarvitsen nämä 3 tietoa:
+- Application (client) ID
+- Directory (tenant) ID
+- Client secret (Value)
+
+Lähettäkää turvallisesti (puhelin/salasanamanageri — ei sähköpostilla).
+
+Kiitos!
+Patrick

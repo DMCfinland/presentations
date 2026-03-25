@@ -1,0 +1,1039 @@
+By<00:00:00.320><c> now,</c><00:00:00.560><c> I'm</c><00:00:00.800><c> assuming</c><00:00:01.199><c> that</c><00:00:01.439><c> you</c><00:00:01.600><c> have</c><00:00:01.760><c> heard</c>
+By now, I'm assuming that you have heard
+By now, I'm assuming that you have heard
+of<00:00:02.240><c> what</c><00:00:02.480><c> I</c><00:00:02.720><c> am</c><00:00:02.879><c> calling</c><00:00:03.120><c> the</c><00:00:03.360><c> July</c><00:00:03.919><c> 8th</c>
+of what I am calling the July 8th
+of what I am calling the July 8th
+incident.<00:00:05.120><c> The</c><00:00:05.440><c> disaster</c><00:00:05.920><c> that</c><00:00:06.240><c> unfolded</c>
+incident. The disaster that unfolded
+incident. The disaster that unfolded
+with<00:00:07.120><c> Grock</c><00:00:07.680><c> on</c><00:00:07.919><c> the</c><00:00:08.080><c> social</c><00:00:08.400><c> media</c><00:00:08.720><c> network</c><00:00:09.280><c> X</c>
+with Grock on the social media network X
+with Grock on the social media network X
+during<00:00:10.080><c> the</c><00:00:10.320><c> day</c><00:00:10.480><c> and</c><00:00:10.719><c> evening</c><00:00:11.120><c> hours</c><00:00:11.440><c> of</c><00:00:11.679><c> July</c>
+during the day and evening hours of July
+during the day and evening hours of July
+8th,<00:00:12.800><c> 2025,</c><00:00:13.599><c> where</c><00:00:13.840><c> Grock</c><00:00:14.240><c> began</c><00:00:14.719><c> spouting</c>
+8th, 2025, where Grock began spouting
+8th, 2025, where Grock began spouting
+all<00:00:15.599><c> kinds</c><00:00:15.839><c> of</c><00:00:15.920><c> anti-semitism,</c><00:00:17.359><c> using</c><00:00:17.760><c> wild</c>
+all kinds of anti-semitism, using wild
+all kinds of anti-semitism, using wild
+slurs<00:00:18.560><c> I'm</c><00:00:18.800><c> not</c><00:00:18.960><c> going</c><00:00:19.039><c> to</c><00:00:19.199><c> use</c><00:00:19.359><c> in</c><00:00:19.520><c> this</c>
+slurs I'm not going to use in this
+slurs I'm not going to use in this
+video.<00:00:20.560><c> I'm</c><00:00:20.880><c> interested</c><00:00:21.840><c> in</c><00:00:22.080><c> not</c><00:00:22.320><c> blaming</c><00:00:22.640><c> the</c>
+video. I'm interested in not blaming the
+video. I'm interested in not blaming the
+AI<00:00:23.519><c> and</c><00:00:23.760><c> talking</c><00:00:24.160><c> about</c><00:00:24.800><c> the</c><00:00:25.119><c> engineering</c><00:00:25.600><c> and</c>
+AI and talking about the engineering and
+AI and talking about the engineering and
+product<00:00:26.160><c> culture</c><00:00:26.560><c> decisions</c><00:00:26.960><c> that</c><00:00:27.119><c> led</c><00:00:27.359><c> to</c>
+product culture decisions that led to
+product culture decisions that led to
+this<00:00:27.680><c> situation</c><00:00:28.320><c> because</c><00:00:28.560><c> instead</c><00:00:28.880><c> of</c>
+this situation because instead of
+this situation because instead of
+pointing<00:00:29.359><c> fingers,</c><00:00:29.760><c> I</c><00:00:29.920><c> think</c><00:00:30.000><c> there's</c>
+pointing fingers, I think there's
+pointing fingers, I think there's
+something<00:00:30.400><c> we</c><00:00:30.640><c> can</c><00:00:30.720><c> learn</c><00:00:30.880><c> from</c><00:00:31.039><c> this.</c><00:00:31.359><c> Call</c>
+something we can learn from this. Call
+something we can learn from this. Call
+it<00:00:31.679><c> a</c><00:00:31.920><c> post-mortem</c><00:00:32.640><c> without</c><00:00:33.120><c> specialized</c>
+it a post-mortem without specialized
+it a post-mortem without specialized
+information.<00:00:34.399><c> So,</c><00:00:34.640><c> grab</c><00:00:34.800><c> a</c><00:00:35.040><c> coffee.</c><00:00:35.360><c> We're</c>
+information. So, grab a coffee. We're
+information. So, grab a coffee. We're
+going<00:00:35.600><c> to</c><00:00:35.680><c> go</c><00:00:35.840><c> into</c><00:00:36.239><c> the</c><00:00:36.480><c> architectural</c>
+going to go into the architectural
+going to go into the architectural
+choices.<00:00:37.520><c> We're</c><00:00:37.760><c> going</c><00:00:37.840><c> to</c><00:00:38.000><c> talk</c><00:00:38.239><c> about</c>
+choices. We're going to talk about
+choices. We're going to talk about
+prompt<00:00:39.360><c> management</c><00:00:39.920><c> and</c><00:00:40.160><c> we're</c><00:00:40.320><c> going</c><00:00:40.399><c> to</c>
+prompt management and we're going to
+prompt management and we're going to
+talk<00:00:40.719><c> about</c><00:00:41.040><c> treating</c><00:00:41.360><c> AI</c><00:00:41.840><c> safety</c><00:00:42.160><c> from</c><00:00:42.399><c> a</c>
+talk about treating AI safety from a
+talk about treating AI safety from a
+technical<00:00:43.040><c> perspective</c><00:00:43.920><c> in</c><00:00:44.239><c> ways</c><00:00:44.480><c> that</c>
+technical perspective in ways that
+technical perspective in ways that
+actually<00:00:45.040><c> lead</c><00:00:45.280><c> to</c><00:00:45.520><c> more</c><00:00:45.680><c> trust</c><00:00:46.000><c> long-term</c>
+actually lead to more trust long-term
+actually lead to more trust long-term
+from<00:00:46.719><c> your</c><00:00:46.960><c> users</c><00:00:47.440><c> and</c><00:00:47.840><c> also</c><00:00:48.399><c> incidentally</c>
+from your users and also incidentally
+from your users and also incidentally
+support<00:00:50.000><c> corporate</c><00:00:50.480><c> value</c><00:00:50.800><c> because</c><00:00:51.039><c> I</c>
+support corporate value because I
+support corporate value because I
+guarantee<00:00:51.600><c> you</c><00:00:51.760><c> what</c><00:00:52.000><c> unfolded</c><00:00:52.559><c> in</c><00:00:52.960><c> July</c><00:00:53.360><c> 8th</c>
+guarantee you what unfolded in July 8th
+guarantee you what unfolded in July 8th
+did<00:00:54.000><c> not</c><00:00:54.239><c> support</c><00:00:54.559><c> the</c><00:00:54.800><c> corporate</c><00:00:55.120><c> value</c><00:00:55.360><c> of</c>
+did not support the corporate value of
+did not support the corporate value of
+X.<00:00:56.239><c> All</c><00:00:56.239><c> right,</c><00:00:56.960><c> let's</c><00:00:57.280><c> start</c><00:00:57.440><c> with</c><00:00:57.680><c> Grock's</c>
+X. All right, let's start with Grock's
+X. All right, let's start with Grock's
+fundamental<00:00:58.800><c> architecture.</c><00:00:59.520><c> Unlike</c><00:00:59.920><c> Chad</c>
+fundamental architecture. Unlike Chad
+fundamental architecture. Unlike Chad
+GPT,<00:01:00.800><c> unlike</c><00:01:01.199><c> Claude,</c><00:01:01.840><c> which</c><00:01:02.160><c> are</c>
+GPT, unlike Claude, which are
+GPT, unlike Claude, which are
+fundamentally<00:01:03.120><c> built</c><00:01:03.600><c> closedbook</c><00:01:04.239><c> systems,</c>
+fundamentally built closedbook systems,
+fundamentally built closedbook systems,
+Grock<00:01:05.439><c> uses</c><00:01:06.159><c> uh</c><00:01:06.320><c> a</c><00:01:06.479><c> kind</c><00:01:06.640><c> of</c><00:01:06.720><c> an</c><00:01:07.040><c> auto</c><00:01:07.280><c> rag,</c><00:01:07.760><c> a</c>
+Grock uses uh a kind of an auto rag, a
+Grock uses uh a kind of an auto rag, a
+retrieval<00:01:08.400><c> augmented</c><00:01:08.960><c> generation</c><00:01:09.439><c> system.</c>
+retrieval augmented generation system.
+retrieval augmented generation system.
+When<00:01:10.400><c> you</c><00:01:10.640><c> ask</c><00:01:11.119><c> Grock</c><00:01:11.680><c> something,</c><00:01:12.240><c> it</c><00:01:12.479><c> doesn't</c>
+When you ask Grock something, it doesn't
+When you ask Grock something, it doesn't
+just<00:01:13.040><c> rely</c><00:01:13.360><c> on</c><00:01:13.520><c> training</c><00:01:13.920><c> data.</c><00:01:14.320><c> It</c><00:01:14.560><c> actively</c>
+just rely on training data. It actively
+just rely on training data. It actively
+pulls<00:01:15.600><c> live</c><00:01:15.920><c> content</c><00:01:16.320><c> from</c><00:01:16.640><c> X</c><00:01:17.119><c> and</c><00:01:17.360><c> it</c>
+pulls live content from X and it
+pulls live content from X and it
+incorporates<00:01:18.240><c> that</c><00:01:18.799><c> into</c><00:01:19.119><c> the</c><00:01:19.360><c> context</c>
+incorporates that into the context
+incorporates that into the context
+window.<00:01:20.320><c> In</c><00:01:20.640><c> theory,</c><00:01:21.280><c> this</c><00:01:21.520><c> makes</c><00:01:21.840><c> sense.</c><00:01:22.479><c> One</c>
+window. In theory, this makes sense. One
+window. In theory, this makes sense. One
+of<00:01:22.799><c> the</c><00:01:23.040><c> core</c><00:01:23.360><c> issues</c><00:01:23.759><c> with</c><00:01:24.000><c> AI,</c><00:01:24.400><c> which</c><00:01:24.560><c> I've</c>
+of the core issues with AI, which I've
+of the core issues with AI, which I've
+talked<00:01:25.040><c> about,</c><00:01:25.360><c> is</c><00:01:25.520><c> that</c><00:01:25.759><c> they</c><00:01:26.080><c> struggle</c><00:01:26.560><c> to</c>
+talked about, is that they struggle to
+talked about, is that they struggle to
+learn<00:01:27.680><c> what</c><00:01:27.920><c> is</c><00:01:28.159><c> happening</c><00:01:28.479><c> around</c><00:01:28.880><c> them.</c><00:01:29.280><c> And</c>
+learn what is happening around them. And
+learn what is happening around them. And
+so<00:01:29.840><c> we</c><00:01:30.159><c> have</c><00:01:30.320><c> very</c><00:01:30.640><c> valuable</c><00:01:31.119><c> companies</c><00:01:31.600><c> like</c>
+so we have very valuable companies like
+so we have very valuable companies like
+Perplexity<00:01:32.880><c> that</c><00:01:33.280><c> essentially</c><00:01:33.600><c> exist</c><00:01:33.920><c> to</c>
+Perplexity that essentially exist to
+Perplexity that essentially exist to
+solve<00:01:34.320><c> this</c><00:01:34.560><c> problem.</c><00:01:35.040><c> So</c><00:01:35.280><c> X</c><00:01:35.600><c> is</c><00:01:35.840><c> looking</c><00:01:36.000><c> to</c>
+solve this problem. So X is looking to
+solve this problem. So X is looking to
+differentiate<00:01:37.200><c> from</c><00:01:37.600><c> ChatGpt,</c><00:01:38.799><c> from</c><00:01:39.119><c> Claude</c>
+differentiate from ChatGpt, from Claude
+differentiate from ChatGpt, from Claude
+with<00:01:40.079><c> this</c><00:01:40.320><c> sort</c><00:01:40.479><c> of</c><00:01:40.640><c> auto</c><00:01:40.960><c> rag</c><00:01:41.360><c> approach.</c><00:01:42.079><c> The</c>
+with this sort of auto rag approach. The
+with this sort of auto rag approach. The
+problem<00:01:42.640><c> is</c><00:01:43.040><c> if</c><00:01:43.280><c> you</c><00:01:43.520><c> create</c><00:01:43.759><c> a</c><00:01:44.000><c> direct</c>
+problem is if you create a direct
+problem is if you create a direct
+pipeline<00:01:45.119><c> from</c><00:01:45.360><c> one</c><00:01:45.520><c> of</c><00:01:45.600><c> the</c><00:01:45.759><c> internet's</c><00:01:46.159><c> most</c>
+pipeline from one of the internet's most
+pipeline from one of the internet's most
+chaotic<00:01:46.880><c> platforms</c><00:01:47.600><c> into</c><00:01:47.920><c> your</c><00:01:48.159><c> AI's</c>
+chaotic platforms into your AI's
+chaotic platforms into your AI's
+decisioning<00:01:49.200><c> process,</c><00:01:50.079><c> you're</c><00:01:50.320><c> sort</c><00:01:50.479><c> of</c>
+decisioning process, you're sort of
+decisioning process, you're sort of
+mainlining<00:01:51.680><c> all</c><00:01:51.840><c> of</c><00:01:52.079><c> X</c><00:01:52.640><c> and</c><00:01:52.880><c> you</c><00:01:53.200><c> have</c><00:01:53.840><c> an</c>
+mainlining all of X and you have an
+mainlining all of X and you have an
+extra<00:01:55.040><c> high</c><00:01:55.840><c> responsibility</c><00:01:56.960><c> to</c><00:01:57.200><c> install</c>
+extra high responsibility to install
+extra high responsibility to install
+guard<00:01:57.840><c> rails</c><00:01:58.159><c> to</c><00:01:58.320><c> ensure</c><00:01:58.560><c> that</c><00:01:58.719><c> the</c><00:01:58.960><c> responses</c>
+guard rails to ensure that the responses
+guard rails to ensure that the responses
+are<00:02:00.079><c> actually</c><00:02:00.560><c> going</c><00:02:00.719><c> to</c><00:02:00.960><c> reinforce</c><00:02:01.520><c> trust</c><00:02:01.759><c> in</c>
+are actually going to reinforce trust in
+are actually going to reinforce trust in
+AI<00:02:02.320><c> systems.</c><00:02:02.640><c> And</c><00:02:02.880><c> part</c><00:02:02.960><c> of</c><00:02:03.119><c> why</c><00:02:03.280><c> I</c><00:02:03.520><c> care</c><00:02:03.680><c> about</c>
+AI systems. And part of why I care about
+AI systems. And part of why I care about
+this<00:02:04.399><c> is</c><00:02:04.719><c> because</c><00:02:05.119><c> what</c><00:02:05.439><c> happened</c><00:02:05.840><c> with</c><00:02:06.079><c> Grock</c>
+this is because what happened with Grock
+this is because what happened with Grock
+is<00:02:06.960><c> a</c><00:02:07.200><c> trust</c><00:02:07.520><c> breaker</c><00:02:07.920><c> for</c><00:02:08.080><c> AI</c><00:02:08.479><c> systems</c>
+is a trust breaker for AI systems
+is a trust breaker for AI systems
+everywhere.<00:02:09.599><c> It's</c><00:02:09.920><c> not</c><00:02:10.080><c> just</c><00:02:10.319><c> a</c><00:02:10.560><c> Grock</c>
+everywhere. It's not just a Grock
+everywhere. It's not just a Grock
+problem<00:02:11.440><c> now.</c><00:02:11.760><c> It's</c><00:02:12.080><c> big</c><00:02:12.239><c> enough</c><00:02:12.480><c> and</c><00:02:12.800><c> bad</c>
+problem now. It's big enough and bad
+problem now. It's big enough and bad
+enough.<00:02:13.440><c> It's</c><00:02:13.599><c> an</c><00:02:13.760><c> AI</c><00:02:14.160><c> problem</c><00:02:14.640><c> because</c>
+enough. It's an AI problem because
+enough. It's an AI problem because
+people<00:02:15.280><c> don't</c><00:02:15.599><c> understand.</c><00:02:16.400><c> They</c><00:02:16.640><c> don't</c>
+people don't understand. They don't
+people don't understand. They don't
+understand<00:02:17.280><c> the</c><00:02:17.680><c> technical</c><00:02:18.160><c> decisions</c><00:02:18.560><c> that</c>
+understand the technical decisions that
+understand the technical decisions that
+led<00:02:19.040><c> to</c><00:02:19.120><c> this</c><00:02:19.360><c> choice.</c><00:02:20.000><c> In</c><00:02:20.160><c> fact,</c><00:02:20.319><c> some</c><00:02:20.560><c> of</c>
+led to this choice. In fact, some of
+led to this choice. In fact, some of
+them<00:02:20.879><c> misunderstand</c><00:02:21.599><c> and</c><00:02:21.840><c> think</c><00:02:21.920><c> that</c><00:02:22.160><c> Grock</c>
+them misunderstand and think that Grock
+them misunderstand and think that Grock
+became<00:02:22.959><c> intentionally</c><00:02:23.680><c> malevolent.</c><00:02:24.720><c> That</c>
+became intentionally malevolent. That
+became intentionally malevolent. That
+was<00:02:25.120><c> not</c><00:02:25.280><c> what</c><00:02:25.520><c> happened.</c><00:02:26.080><c> Rag</c><00:02:26.560><c> systems</c><00:02:26.959><c> can</c>
+was not what happened. Rag systems can
+was not what happened. Rag systems can
+be<00:02:27.280><c> incredibly</c><00:02:27.920><c> powerful.</c><00:02:28.640><c> But</c><00:02:28.800><c> if</c><00:02:29.120><c> you</c>
+be incredibly powerful. But if you
+be incredibly powerful. But if you
+implement<00:02:29.680><c> retrieval</c><00:02:30.319><c> without</c><00:02:30.720><c> proper</c>
+implement retrieval without proper
+implement retrieval without proper
+filtering,<00:02:31.680><c> it's</c><00:02:31.840><c> like</c><00:02:32.000><c> building</c><00:02:32.239><c> a</c><00:02:32.480><c> water</c>
+filtering, it's like building a water
+filtering, it's like building a water
+treatment<00:02:33.120><c> plant</c><00:02:33.360><c> but</c><00:02:33.599><c> forgetting</c><00:02:33.920><c> to</c><00:02:34.080><c> add</c>
+treatment plant but forgetting to add
+treatment plant but forgetting to add
+the<00:02:34.480><c> treatment</c><00:02:34.879><c> part.</c><00:02:35.200><c> You're</c><00:02:35.440><c> just</c><00:02:35.519><c> piping</c>
+the treatment part. You're just piping
+the treatment part. You're just piping
+the<00:02:36.080><c> sewage</c><00:02:36.480><c> into</c><00:02:36.800><c> people's</c><00:02:37.120><c> houses.</c><00:02:37.840><c> As</c><00:02:38.160><c> far</c>
+the sewage into people's houses. As far
+the sewage into people's houses. As far
+as<00:02:38.480><c> I</c><00:02:38.720><c> can</c><00:02:38.959><c> see,</c><00:02:39.680><c> there</c><00:02:39.920><c> is</c><00:02:40.560><c> minimal</c><00:02:41.040><c> or</c><00:02:41.280><c> no</c>
+as I can see, there is minimal or no
+as I can see, there is minimal or no
+content<00:02:42.000><c> filtering</c><00:02:42.560><c> between</c><00:02:42.959><c> retrieval</c><00:02:43.440><c> and</c>
+content filtering between retrieval and
+content filtering between retrieval and
+generation<00:02:44.080><c> for</c><00:02:44.319><c> Grock.</c><00:02:44.959><c> So</c><00:02:45.120><c> if</c><00:02:45.280><c> someone</c>
+generation for Grock. So if someone
+generation for Grock. So if someone
+posted<00:02:45.920><c> extremist</c><00:02:46.480><c> content</c><00:02:46.800><c> on</c><00:02:46.959><c> X</c><00:02:47.280><c> and</c>
+posted extremist content on X and
+posted extremist content on X and
+someone<00:02:47.760><c> else</c><00:02:48.080><c> asks</c><00:02:48.480><c> Grock</c><00:02:48.959><c> about</c><00:02:49.120><c> that</c>
+someone else asks Grock about that
+someone else asks Grock about that
+topic,<00:02:50.080><c> Grock</c><00:02:50.560><c> might</c><00:02:50.800><c> treat</c><00:02:51.040><c> that</c><00:02:51.200><c> extremist</c>
+topic, Grock might treat that extremist
+topic, Grock might treat that extremist
+content<00:02:52.160><c> as</c><00:02:52.480><c> legitimate</c><00:02:53.120><c> information.</c><00:02:53.760><c> So</c>
+content as legitimate information. So
+content as legitimate information. So
+the<00:02:54.080><c> architectural</c><00:02:54.720><c> problems</c><00:02:55.040><c> are</c><00:02:55.280><c> an</c><00:02:55.440><c> issue,</c>
+the architectural problems are an issue,
+the architectural problems are an issue,
+but<00:02:56.160><c> that's</c><00:02:56.480><c> not</c><00:02:56.640><c> the</c><00:02:56.959><c> only</c><00:02:57.440><c> thing</c><00:02:57.599><c> that</c><00:02:57.840><c> we</c>
+but that's not the only thing that we
+but that's not the only thing that we
+can<00:02:58.160><c> learn</c><00:02:58.400><c> here.</c><00:02:58.879><c> I</c><00:02:59.120><c> want</c><00:02:59.200><c> to</c><00:02:59.280><c> talk</c><00:02:59.440><c> about</c>
+can learn here. I want to talk about
+can learn here. I want to talk about
+prompt<00:03:00.000><c> engineering</c><00:03:00.480><c> for</c><00:03:00.640><c> a</c><00:03:00.800><c> minute.</c><00:03:01.200><c> On</c><00:03:01.440><c> July</c>
+prompt engineering for a minute. On July
+prompt engineering for a minute. On July
+7th,<00:03:02.319><c> Elon</c><00:03:02.800><c> tweeted</c><00:03:03.120><c> that</c><00:03:03.440><c> XAI</c><00:03:04.080><c> had</c><00:03:04.319><c> quote</c>
+7th, Elon tweeted that XAI had quote
+7th, Elon tweeted that XAI had quote
+improved<00:03:05.120><c> Grock</c><00:03:05.599><c> significantly.</c><00:03:06.640><c> What</c>
+improved Grock significantly. What
+improved Grock significantly. What
+happened<00:03:07.120><c> was</c><00:03:07.360><c> they</c><00:03:07.599><c> changed</c><00:03:07.840><c> their</c><00:03:08.080><c> system</c>
+happened was they changed their system
+happened was they changed their system
+prompt<00:03:08.959><c> and</c><00:03:09.200><c> I</c><00:03:09.440><c> want</c><00:03:09.599><c> to</c><00:03:09.680><c> talk</c><00:03:09.840><c> about</c><00:03:10.080><c> prompt</c>
+prompt and I want to talk about prompt
+prompt and I want to talk about prompt
+hierarchy<00:03:10.959><c> in</c><00:03:11.200><c> large</c><00:03:11.440><c> language</c><00:03:11.760><c> models</c>
+hierarchy in large language models
+hierarchy in large language models
+because<00:03:12.239><c> there's</c><00:03:12.480><c> a</c><00:03:12.720><c> big</c><00:03:13.120><c> lesson</c><00:03:13.599><c> here</c><00:03:14.159><c> in</c><00:03:14.400><c> any</c>
+because there's a big lesson here in any
+because there's a big lesson here in any
+production<00:03:15.120><c> OM</c><00:03:16.000><c> you</c><00:03:16.159><c> have</c><00:03:16.319><c> multiple</c><00:03:16.879><c> layers</c>
+production OM you have multiple layers
+production OM you have multiple layers
+of<00:03:17.280><c> instructions</c><00:03:18.080><c> you</c><00:03:18.319><c> have</c><00:03:18.480><c> base</c><00:03:18.800><c> model</c>
+of instructions you have base model
+of instructions you have base model
+training<00:03:19.760><c> you</c><00:03:20.000><c> have</c><00:03:20.239><c> RLHF</c><00:03:21.040><c> tuning</c><00:03:21.440><c> so</c>
+training you have RLHF tuning so
+training you have RLHF tuning so
+reinforcement<00:03:22.239><c> learning</c><00:03:22.560><c> from</c><00:03:22.800><c> human</c>
+reinforcement learning from human
+reinforcement learning from human
+feedback<00:03:23.599><c> you</c><00:03:23.760><c> have</c><00:03:23.920><c> system</c><00:03:24.159><c> prompts</c><00:03:24.640><c> you</c>
+feedback you have system prompts you
+feedback you have system prompts you
+have<00:03:24.879><c> user</c><00:03:25.200><c> prompts</c><00:03:25.840><c> these</c><00:03:26.159><c> are</c><00:03:26.319><c> supposed</c><00:03:26.640><c> to</c>
+have user prompts these are supposed to
+have user prompts these are supposed to
+work<00:03:27.040><c> in</c><00:03:27.280><c> a</c><00:03:27.440><c> hierarchy</c><00:03:28.000><c> in</c><00:03:28.239><c> what</c><00:03:28.400><c> you</c><00:03:28.560><c> might</c>
+work in a hierarchy in what you might
+work in a hierarchy in what you might
+term<00:03:29.120><c> a</c><00:03:29.519><c> safety</c><00:03:30.080><c> cascade</c><00:03:31.120><c> if</c><00:03:31.280><c> a</c><00:03:31.440><c> user</c><00:03:31.760><c> tries</c><00:03:32.000><c> to</c>
+term a safety cascade if a user tries to
+term a safety cascade if a user tries to
+make<00:03:32.319><c> the</c><00:03:32.480><c> model</c><00:03:32.799><c> to</c><00:03:33.040><c> do</c><00:03:33.280><c> something</c><00:03:33.599><c> harmful</c>
+make the model to do something harmful
+make the model to do something harmful
+the<00:03:34.560><c> system</c><00:03:34.879><c> prompt</c><00:03:35.519><c> should</c><00:03:36.319><c> override</c><00:03:36.879><c> that</c>
+the system prompt should override that
+the system prompt should override that
+and<00:03:37.760><c> even</c><00:03:37.920><c> if</c><00:03:38.159><c> the</c><00:03:38.400><c> system</c><00:03:38.640><c> prompt</c><00:03:39.040><c> has</c>
+and even if the system prompt has
+and even if the system prompt has
+issues,<00:03:39.840><c> the</c><00:03:40.239><c> RLHF</c><00:03:41.280><c> training</c><00:03:41.840><c> should</c><00:03:42.159><c> kick</c>
+issues, the RLHF training should kick
+issues, the RLHF training should kick
+in.<00:03:42.720><c> So</c><00:03:42.879><c> what</c><00:03:43.040><c> XAI</c><00:03:43.680><c> did</c><00:03:43.840><c> is</c><00:03:44.080><c> they</c><00:03:44.239><c> updated</c><00:03:44.640><c> the</c>
+in. So what XAI did is they updated the
+in. So what XAI did is they updated the
+system<00:03:45.120><c> prompt</c><00:03:45.519><c> to</c><00:03:45.840><c> include</c><00:03:46.640><c> and</c><00:03:46.879><c> I'm</c><00:03:47.040><c> quoting</c>
+system prompt to include and I'm quoting
+system prompt to include and I'm quoting
+directly<00:03:47.760><c> from</c><00:03:47.920><c> their</c><00:03:48.159><c> GitHub</c><00:03:48.560><c> here,</c>
+directly from their GitHub here,
+directly from their GitHub here,
+instructions<00:03:49.519><c> to</c><00:03:49.760><c> quote</c><00:03:50.239><c> not</c><00:03:50.480><c> shy</c><00:03:50.879><c> away</c><00:03:51.200><c> from</c>
+instructions to quote not shy away from
+instructions to quote not shy away from
+making<00:03:51.760><c> claims</c><00:03:52.159><c> which</c><00:03:52.400><c> are</c><00:03:52.560><c> politically</c>
+making claims which are politically
+making claims which are politically
+incorrect<00:03:53.599><c> as</c><00:03:53.760><c> long</c><00:03:53.920><c> as</c><00:03:54.000><c> they</c><00:03:54.239><c> are</c><00:03:54.319><c> well</c>
+incorrect as long as they are well
+incorrect as long as they are well
+substantiated<00:03:55.519><c> and</c><00:03:55.760><c> to</c><00:03:55.920><c> quote</c><00:03:56.400><c> assume</c>
+substantiated and to quote assume
+substantiated and to quote assume
+subjective<00:03:57.360><c> viewpoints</c><00:03:57.840><c> sourced</c><00:03:58.159><c> from</c><00:03:58.319><c> the</c>
+subjective viewpoints sourced from the
+subjective viewpoints sourced from the
+media<00:03:58.720><c> are</c><00:03:58.959><c> biased</c><00:03:59.360><c> end</c><00:03:59.599><c> quote.</c><00:04:00.159><c> So</c><00:04:00.480><c> forget</c>
+media are biased end quote. So forget
+media are biased end quote. So forget
+the<00:04:01.040><c> actual</c><00:04:01.360><c> quote.</c><00:04:01.920><c> From</c><00:04:02.159><c> an</c><00:04:02.400><c> engineering</c>
+the actual quote. From an engineering
+the actual quote. From an engineering
+perspective,<00:04:03.680><c> this</c><00:04:04.000><c> creates</c><00:04:04.319><c> a</c><00:04:04.480><c> gradient</c>
+perspective, this creates a gradient
+perspective, this creates a gradient
+conflict.<00:04:05.599><c> The</c><00:04:05.840><c> model's</c><00:04:06.319><c> RLHF</c><00:04:07.200><c> training</c><00:04:07.760><c> is</c>
+conflict. The model's RLHF training is
+conflict. The model's RLHF training is
+telling<00:04:08.400><c> it,</c><00:04:08.799><c> don't</c><00:04:09.360><c> generate</c><00:04:09.920><c> hate</c><00:04:10.400><c> speech,</c>
+telling it, don't generate hate speech,
+telling it, don't generate hate speech,
+but<00:04:11.280><c> the</c><00:04:11.519><c> system</c><00:04:11.840><c> prompt,</c><00:04:12.640><c> I</c><00:04:12.799><c> mean,</c>
+but the system prompt, I mean,
+but the system prompt, I mean,
+presumably,<00:04:13.760><c> I'm</c><00:04:14.080><c> making</c><00:04:14.239><c> a</c><00:04:14.799><c> a</c><00:04:15.120><c> a</c><00:04:15.360><c> charitable</c>
+presumably, I'm making a a a charitable
+presumably, I'm making a a a charitable
+assumption<00:04:16.239><c> here,</c><00:04:16.639><c> but</c><00:04:16.880><c> the</c><00:04:17.040><c> system</c><00:04:17.359><c> prompt</c>
+assumption here, but the system prompt
+assumption here, but the system prompt
+is<00:04:18.239><c> now</c><00:04:18.560><c> telling</c><00:04:18.880><c> it</c><00:04:19.280><c> actually</c><00:04:19.680><c> politically</c>
+is now telling it actually politically
+is now telling it actually politically
+incorrect<00:04:20.720><c> stuff</c><00:04:20.959><c> is</c><00:04:21.199><c> fine</c><00:04:21.519><c> if</c><00:04:21.759><c> you</c><00:04:21.840><c> think</c>
+incorrect stuff is fine if you think
+incorrect stuff is fine if you think
+it's<00:04:22.240><c> true.</c><00:04:22.720><c> When</c><00:04:23.040><c> you</c><00:04:23.199><c> create</c><00:04:23.919><c> conflicting</c>
+it's true. When you create conflicting
+it's true. When you create conflicting
+instructions<00:04:25.440><c> at</c><00:04:25.759><c> different</c><00:04:26.000><c> hierarchy</c>
+instructions at different hierarchy
+instructions at different hierarchy
+levels,<00:04:27.120><c> the</c><00:04:27.360><c> model</c><00:04:27.759><c> has</c><00:04:28.000><c> to</c><00:04:28.160><c> resolve</c><00:04:28.479><c> that</c>
+levels, the model has to resolve that
+levels, the model has to resolve that
+conflict<00:04:29.120><c> somehow.</c><00:04:29.759><c> and</c><00:04:30.000><c> it</c><00:04:30.160><c> resolved</c><00:04:30.560><c> it</c><00:04:30.720><c> by</c>
+conflict somehow. and it resolved it by
+conflict somehow. and it resolved it by
+treating<00:04:31.440><c> extremist</c><00:04:32.320><c> content</c><00:04:32.960><c> from</c><00:04:33.199><c> the</c>
+treating extremist content from the
+treating extremist content from the
+retrieval<00:04:33.840><c> pipeline</c><00:04:34.320><c> as</c><00:04:34.639><c> well</c><00:04:35.040><c> substantiated</c>
+retrieval pipeline as well substantiated
+retrieval pipeline as well substantiated
+politically<00:04:36.800><c> incorrect</c><00:04:37.360><c> truth.</c><00:04:37.919><c> Now,</c><00:04:38.160><c> let's</c>
+politically incorrect truth. Now, let's
+politically incorrect truth. Now, let's
+talk<00:04:38.639><c> about</c><00:04:38.880><c> something</c><00:04:39.440><c> that</c><00:04:39.680><c> would</c><00:04:39.840><c> get</c><00:04:40.000><c> you</c>
+talk about something that would get you
+talk about something that would get you
+and<00:04:40.320><c> me</c><00:04:40.560><c> fired</c><00:04:41.199><c> from</c><00:04:41.440><c> any</c><00:04:41.759><c> competent</c><00:04:42.160><c> tech</c>
+and me fired from any competent tech
+and me fired from any competent tech
+company.<00:04:43.120><c> Product</c><00:04:43.919><c> change</c><00:04:44.479><c> management,</c>
+company. Product change management,
+company. Product change management,
+specifically<00:04:45.600><c> production</c><00:04:46.160><c> pipeline</c><00:04:46.800><c> change</c>
+specifically production pipeline change
+specifically production pipeline change
+management.<00:04:48.000><c> Based</c><00:04:48.320><c> on</c><00:04:48.479><c> the</c><00:04:48.720><c> evidence</c><00:04:49.120><c> that</c>
+management. Based on the evidence that
+management. Based on the evidence that
+I've<00:04:49.680><c> been</c><00:04:49.840><c> able</c><00:04:50.000><c> to</c><00:04:50.240><c> see,</c><00:04:50.639><c> XAI</c><00:04:51.440><c> seems</c><00:04:51.759><c> to</c><00:04:51.919><c> be</c>
+I've been able to see, XAI seems to be
+I've been able to see, XAI seems to be
+making<00:04:52.400><c> direct</c><00:04:52.880><c> edits</c><00:04:53.199><c> to</c><00:04:53.520><c> production</c>
+making direct edits to production
+making direct edits to production
+prompts<00:04:54.400><c> via</c><00:04:54.800><c> GitHub.</c><00:04:55.440><c> Staging</c><00:04:55.840><c> environment,</c>
+prompts via GitHub. Staging environment,
+prompts via GitHub. Staging environment,
+canary<00:04:57.120><c> deployments,</c><00:04:57.840><c> feature</c><00:04:58.240><c> flags,</c><00:04:59.120><c> sort</c>
+canary deployments, feature flags, sort
+canary deployments, feature flags, sort
+of<00:04:59.520><c> a</c><00:04:59.840><c> slow</c><00:05:00.160><c> roll</c><00:05:00.400><c> out</c><00:05:00.639><c> to</c><00:05:00.880><c> see</c><00:05:01.040><c> how</c><00:05:01.199><c> the</c><00:05:01.440><c> effect</c>
+of a slow roll out to see how the effect
+of a slow roll out to see how the effect
+goes.<00:05:02.240><c> Nope.</c><00:05:02.880><c> Apparently,</c><00:05:03.919><c> push</c><00:05:04.160><c> it</c><00:05:04.320><c> to</c><00:05:04.479><c> main</c>
+goes. Nope. Apparently, push it to main
+goes. Nope. Apparently, push it to main
+yolo<00:05:05.600><c> and</c><00:05:05.759><c> let</c><00:05:05.919><c> it</c><00:05:06.080><c> rip.</c><00:05:06.560><c> Just</c><00:05:06.880><c> think</c><00:05:07.039><c> about</c>
+yolo and let it rip. Just think about
+yolo and let it rip. Just think about
+that<00:05:07.360><c> for</c><00:05:07.520><c> a</c><00:05:07.680><c> second.</c><00:05:08.000><c> This</c><00:05:08.240><c> is</c><00:05:08.320><c> a</c><00:05:08.560><c> system</c><00:05:08.720><c> that</c>
+that for a second. This is a system that
+that for a second. This is a system that
+can<00:05:09.120><c> reach</c><00:05:09.360><c> hundreds</c><00:05:09.680><c> of</c><00:05:09.840><c> millions</c><00:05:10.080><c> of</c><00:05:10.240><c> users.</c>
+can reach hundreds of millions of users.
+can reach hundreds of millions of users.
+And<00:05:11.120><c> they're</c><00:05:11.360><c> treating</c><00:05:11.600><c> the</c><00:05:11.840><c> prompts</c><00:05:12.240><c> more</c>
+And they're treating the prompts more
+And they're treating the prompts more
+like<00:05:12.960><c> a</c><00:05:13.199><c> personal</c><00:05:13.680><c> blog</c><00:05:14.400><c> that</c><00:05:14.639><c> they</c><00:05:14.800><c> can</c>
+like a personal blog that they can
+like a personal blog that they can
+hotfix,<00:05:15.759><c> which</c><00:05:16.000><c> they</c><00:05:16.240><c> had</c><00:05:16.479><c> to</c><00:05:16.639><c> do</c><00:05:16.960><c> after</c><00:05:17.199><c> the</c>
+hotfix, which they had to do after the
+hotfix, which they had to do after the
+fiasco<00:05:17.919><c> on</c><00:05:18.080><c> the</c><00:05:18.240><c> ETH.</c><00:05:18.720><c> As</c><00:05:18.960><c> far</c><00:05:19.039><c> as</c><00:05:19.199><c> I</c><00:05:19.360><c> can</c><00:05:19.520><c> tell,</c>
+fiasco on the ETH. As far as I can tell,
+fiasco on the ETH. As far as I can tell,
+what<00:05:20.000><c> they're</c><00:05:20.240><c> doing</c><00:05:20.400><c> here</c><00:05:20.720><c> violates</c><00:05:21.280><c> the</c>
+what they're doing here violates the
+what they're doing here violates the
+principles<00:05:22.080><c> of</c><00:05:22.320><c> modern</c><00:05:22.720><c> production</c><00:05:23.199><c> software</c>
+principles of modern production software
+principles of modern production software
+deployment.<00:05:24.479><c> You</c><00:05:24.639><c> need</c><00:05:24.880><c> version</c><00:05:25.199><c> control</c><00:05:25.520><c> on</c>
+deployment. You need version control on
+deployment. You need version control on
+your<00:05:25.919><c> deployments.</c><00:05:26.479><c> You</c><00:05:26.560><c> need</c><00:05:26.720><c> rollback</c>
+your deployments. You need rollback
+your deployments. You need rollback
+procedures.<00:05:27.759><c> You</c><00:05:27.919><c> need</c><00:05:28.000><c> a</c><00:05:28.160><c> testing</c><00:05:28.479><c> pipeline.</c>
+procedures. You need a testing pipeline.
+procedures. You need a testing pipeline.
+You<00:05:29.120><c> need</c><00:05:29.199><c> a</c><00:05:29.360><c> review</c><00:05:29.680><c> process.</c><00:05:30.560><c> Code</c><00:05:31.199><c> and</c>
+You need a review process. Code and
+You need a review process. Code and
+prompting<00:05:32.160><c> are</c><00:05:32.560><c> increasingly</c><00:05:33.280><c> the</c><00:05:33.680><c> same</c>
+prompting are increasingly the same
+prompting are increasingly the same
+thing.<00:05:34.400><c> Prompting</c><00:05:34.960><c> is</c><00:05:35.440><c> code.</c><00:05:35.840><c> It</c><00:05:36.000><c> needs</c><00:05:36.160><c> to</c><00:05:36.240><c> be</c>
+thing. Prompting is code. It needs to be
+thing. Prompting is code. It needs to be
+treated<00:05:36.639><c> as</c><00:05:36.880><c> code.</c><00:05:37.199><c> One</c><00:05:37.440><c> of</c><00:05:37.520><c> the</c><00:05:37.680><c> biggest</c>
+treated as code. One of the biggest
+treated as code. One of the biggest
+lessons<00:05:38.320><c> I</c><00:05:38.639><c> see</c><00:05:38.800><c> here</c><00:05:39.840><c> is</c><00:05:40.160><c> this</c><00:05:40.400><c> is</c><00:05:40.560><c> a</c><00:05:40.800><c> failure</c>
+lessons I see here is this is a failure
+lessons I see here is this is a failure
+of<00:05:41.840><c> prompt</c><00:05:42.560><c> deployment</c><00:05:43.280><c> procedures</c><00:05:44.160><c> among</c>
+of prompt deployment procedures among
+of prompt deployment procedures among
+other<00:05:44.800><c> things.</c><00:05:45.360><c> And</c><00:05:45.600><c> I</c><00:05:45.919><c> know</c><00:05:47.120><c> based</c><00:05:47.440><c> on</c>
+other things. And I know based on
+other things. And I know based on
+previous<00:05:48.080><c> examples</c><00:05:48.479><c> that</c><00:05:48.720><c> we've</c><00:05:48.880><c> had</c><00:05:49.039><c> from</c>
+previous examples that we've had from
+previous examples that we've had from
+XAI<00:05:50.320><c> that</c><00:05:50.560><c> there's</c><00:05:50.800><c> a</c><00:05:51.039><c> pattern</c><00:05:51.680><c> of</c><00:05:52.000><c> rogue</c>
+XAI that there's a pattern of rogue
+XAI that there's a pattern of rogue
+employee<00:05:53.120><c> excuses</c><00:05:53.600><c> when</c><00:05:53.840><c> these</c><00:05:54.000><c> things</c>
+employee excuses when these things
+employee excuses when these things
+occur.<00:05:54.560><c> A</c><00:05:54.639><c> rogue</c><00:05:54.960><c> employee</c><00:05:55.360><c> did</c><00:05:55.600><c> this.</c><00:05:56.240><c> If</c><00:05:56.479><c> a</c>
+occur. A rogue employee did this. If a
+occur. A rogue employee did this. If a
+rogue<00:05:56.960><c> employee</c><00:05:57.440><c> does</c><00:05:57.600><c> this</c><00:05:57.919><c> more</c><00:05:58.160><c> than</c><00:05:58.320><c> once,</c>
+rogue employee does this more than once,
+rogue employee does this more than once,
+that<00:05:59.840><c> is</c><00:05:59.919><c> a</c><00:06:00.160><c> systemic</c><00:06:00.800><c> issue</c><00:06:01.039><c> that</c><00:06:01.280><c> the</c>
+that is a systemic issue that the
+that is a systemic issue that the
+company<00:06:02.400><c> is</c><00:06:02.560><c> on</c><00:06:02.720><c> the</c><00:06:02.880><c> hook</c><00:06:03.120><c> for.</c><00:06:03.680><c> That</c><00:06:03.919><c> is</c><00:06:04.080><c> not</c>
+company is on the hook for. That is not
+company is on the hook for. That is not
+a<00:06:04.479><c> rogue</c><00:06:04.800><c> employee</c><00:06:05.199><c> issue.</c><00:06:05.919><c> That</c><00:06:06.240><c> means</c><00:06:07.520><c> that</c>
+a rogue employee issue. That means that
+a rogue employee issue. That means that
+there<00:06:07.919><c> is</c><00:06:08.080><c> a</c><00:06:08.319><c> systemic</c><00:06:09.039><c> ability</c><00:06:09.520><c> for</c><00:06:09.840><c> any</c>
+there is a systemic ability for any
+there is a systemic ability for any
+engineer<00:06:10.639><c> to</c><00:06:10.880><c> modify</c><00:06:11.360><c> production</c><00:06:11.919><c> prompts,</c>
+engineer to modify production prompts,
+engineer to modify production prompts,
+for<00:06:12.639><c> any</c><00:06:12.960><c> engineer</c><00:06:13.440><c> to</c><00:06:13.759><c> rogue</c><00:06:14.160><c> deploy,</c><00:06:14.560><c> for</c>
+for any engineer to rogue deploy, for
+for any engineer to rogue deploy, for
+any<00:06:15.039><c> engineer</c><00:06:15.840><c> to</c><00:06:16.080><c> not</c><00:06:16.319><c> have</c><00:06:16.560><c> oversight</c><00:06:17.039><c> when</c>
+any engineer to not have oversight when
+any engineer to not have oversight when
+pushing<00:06:17.600><c> to</c><00:06:17.759><c> prod</c><00:06:18.000><c> for</c><00:06:18.240><c> hundreds</c><00:06:18.479><c> of</c><00:06:18.639><c> millions</c>
+pushing to prod for hundreds of millions
+pushing to prod for hundreds of millions
+of<00:06:19.199><c> people.</c><00:06:19.759><c> That's</c><00:06:20.080><c> not</c><00:06:20.240><c> a</c><00:06:20.479><c> bug.</c><00:06:20.880><c> That's</c>
+of people. That's not a bug. That's
+of people. That's not a bug. That's
+that's<00:06:21.440><c> a</c><00:06:21.680><c> feature</c><00:06:22.160><c> of</c><00:06:22.400><c> how</c><00:06:22.639><c> the</c><00:06:22.880><c> engineering</c>
+that's a feature of how the engineering
+that's a feature of how the engineering
+culture<00:06:23.680><c> is</c><00:06:24.000><c> designed.</c><00:06:24.720><c> So,</c><00:06:24.960><c> let's</c><00:06:25.199><c> trace</c>
+culture is designed. So, let's trace
+culture is designed. So, let's trace
+through<00:06:25.680><c> what</c><00:06:25.919><c> happened</c><00:06:26.160><c> based</c><00:06:26.319><c> on</c><00:06:26.479><c> what</c><00:06:26.720><c> we</c>
+through what happened based on what we
+through what happened based on what we
+know<00:06:27.039><c> publicly.</c><00:06:27.840><c> Given</c><00:06:28.160><c> all</c><00:06:28.319><c> of</c><00:06:28.479><c> that,</c><00:06:28.960><c> the</c>
+know publicly. Given all of that, the
+know publicly. Given all of that, the
+system<00:06:29.520><c> prompt</c><00:06:29.840><c> rolls</c><00:06:30.080><c> out.</c><00:06:30.319><c> Now,</c><00:06:30.560><c> Grock</c><00:06:31.039><c> is</c>
+system prompt rolls out. Now, Grock is
+system prompt rolls out. Now, Grock is
+enabled<00:06:31.759><c> with</c><00:06:32.000><c> this</c><00:06:32.160><c> new</c><00:06:32.400><c> system</c><00:06:32.720><c> prompt.</c><00:06:33.360><c> So</c>
+enabled with this new system prompt. So
+enabled with this new system prompt. So
+toxic<00:06:34.080><c> content</c><00:06:34.400><c> appears</c><00:06:34.639><c> on</c><00:06:34.880><c> X</c><00:06:35.120><c> because</c><00:06:35.360><c> it</c>
+toxic content appears on X because it
+toxic content appears on X because it
+always<00:06:35.759><c> does.</c><00:06:36.000><c> That's</c><00:06:36.240><c> not</c><00:06:36.400><c> new.</c><00:06:36.960><c> The</c><00:06:37.199><c> auto</c>
+always does. That's not new. The auto
+always does. That's not new. The auto
+rag<00:06:37.759><c> begins</c><00:06:38.000><c> to</c><00:06:38.160><c> pull</c><00:06:38.319><c> it</c><00:06:38.479><c> in</c><00:06:38.720><c> and</c><00:06:39.039><c> the</c><00:06:39.280><c> system</c>
+rag begins to pull it in and the system
+rag begins to pull it in and the system
+rules<00:06:39.840><c> are</c><00:06:40.000><c> different</c><00:06:40.240><c> now.</c><00:06:40.880><c> There's</c>
+rules are different now. There's
+rules are different now. There's
+absolutely<00:06:41.759><c> no</c><00:06:42.000><c> filtering</c><00:06:42.319><c> at</c><00:06:42.560><c> all</c><00:06:42.720><c> going</c><00:06:42.880><c> on.</c>
+absolutely no filtering at all going on.
+absolutely no filtering at all going on.
+The<00:06:43.600><c> system</c><00:06:44.000><c> prompt</c><00:06:44.400><c> is</c><00:06:44.720><c> instructing</c><00:06:45.440><c> Grock</c>
+The system prompt is instructing Grock
+The system prompt is instructing Grock
+to<00:06:46.160><c> say</c><00:06:46.560><c> politically</c><00:06:47.039><c> incorrect</c><00:06:47.440><c> is</c><00:06:47.680><c> fine.</c><00:06:47.919><c> So</c>
+to say politically incorrect is fine. So
+to say politically incorrect is fine. So
+it<00:06:48.240><c> starts</c><00:06:48.400><c> to</c><00:06:48.560><c> look</c><00:06:48.720><c> at</c><00:06:48.800><c> this</c><00:06:49.039><c> stuff</c><00:06:49.280><c> and</c><00:06:49.600><c> say</c>
+it starts to look at this stuff and say
+it starts to look at this stuff and say
+ah<00:06:50.080><c> it's</c><00:06:50.240><c> politically</c><00:06:50.720><c> incorrect.</c><00:06:51.280><c> That</c><00:06:51.520><c> must</c>
+ah it's politically incorrect. That must
+ah it's politically incorrect. That must
+be<00:06:51.919><c> fine.</c><00:06:52.479><c> There's</c><00:06:52.639><c> a</c><00:06:52.800><c> prompt</c><00:06:53.120><c> engineering</c>
+be fine. There's a prompt engineering
+be fine. There's a prompt engineering
+failure<00:06:53.919><c> there.</c><00:06:54.479><c> There's</c><00:06:54.880><c> no</c>
+failure there. There's no
+failure there. There's no
+pre-publication<00:06:56.800><c> review</c><00:06:57.120><c> on</c><00:06:57.360><c> Grock</c><00:06:57.840><c> as</c>
+pre-publication review on Grock as
+pre-publication review on Grock as
+anyone<00:06:58.240><c> who's</c><00:06:58.560><c> used</c><00:06:58.880><c> X</c><00:06:59.440><c> knows.</c><00:06:59.919><c> You</c><00:07:00.160><c> can</c><00:07:00.240><c> just</c>
+anyone who's used X knows. You can just
+anyone who's used X knows. You can just
+say<00:07:00.720><c> at</c><00:07:00.960><c> Grock,</c><00:07:01.520><c> please</c><00:07:01.840><c> answer.</c><00:07:02.240><c> and</c><00:07:02.400><c> until</c>
+say at Grock, please answer. and until
+say at Grock, please answer. and until
+yesterday<00:07:03.120><c> it</c><00:07:03.360><c> would</c><00:07:03.759><c> it</c><00:07:04.000><c> would</c><00:07:04.080><c> just</c>
+yesterday it would it would just
+yesterday it would it would just
+automatically<00:07:04.960><c> answer</c><00:07:05.280><c> and</c><00:07:05.520><c> they</c><00:07:05.680><c> resorted</c>
+automatically answer and they resorted
+automatically answer and they resorted
+to<00:07:06.880><c> deleting</c><00:07:07.360><c> later</c><00:07:07.759><c> as</c><00:07:08.000><c> a</c><00:07:08.160><c> way</c><00:07:08.319><c> of</c><00:07:08.479><c> dealing</c>
+to deleting later as a way of dealing
+to deleting later as a way of dealing
+with<00:07:09.440><c> egregious</c><00:07:10.080><c> examples</c><00:07:10.720><c> of</c>
+with egregious examples of
+with egregious examples of
+misinformation.<00:07:12.240><c> And</c><00:07:12.400><c> so</c><00:07:12.560><c> Grock</c><00:07:12.880><c> began</c>
+misinformation. And so Grock began
+misinformation. And so Grock began
+direct<00:07:13.440><c> posting</c><00:07:13.759><c> to</c><00:07:13.919><c> the</c><00:07:14.080><c> platform</c><00:07:14.639><c> and</c><00:07:14.880><c> we</c>
+direct posting to the platform and we
+direct posting to the platform and we
+have<00:07:15.120><c> a</c><00:07:15.280><c> cascade</c><00:07:15.759><c> failure</c><00:07:16.080><c> situation.</c>
+have a cascade failure situation.
+have a cascade failure situation.
+Multiple<00:07:17.199><c> systems</c><00:07:17.680><c> failed</c><00:07:18.000><c> in</c><00:07:18.240><c> sequence</c><00:07:18.800><c> and</c>
+Multiple systems failed in sequence and
+Multiple systems failed in sequence and
+each<00:07:19.680><c> failure</c><00:07:20.560><c> increased</c><00:07:21.039><c> the</c><00:07:21.280><c> consequences</c>
+each failure increased the consequences
+each failure increased the consequences
+of<00:07:22.000><c> the</c><00:07:22.240><c> subsequent</c><00:07:22.639><c> failure</c><00:07:23.280><c> and</c><00:07:23.599><c> now</c><00:07:23.759><c> you</c>
+of the subsequent failure and now you
+of the subsequent failure and now you
+have<00:07:24.479><c> a</c><00:07:24.800><c> rogue</c><00:07:25.120><c> AI.</c><00:07:25.520><c> Except</c><00:07:25.759><c> it</c><00:07:26.000><c> wasn't</c><00:07:26.240><c> rogue.</c>
+have a rogue AI. Except it wasn't rogue.
+have a rogue AI. Except it wasn't rogue.
+It<00:07:26.960><c> was</c><00:07:27.039><c> an</c><00:07:27.199><c> AI</c><00:07:27.520><c> doing</c><00:07:27.759><c> its</c><00:07:28.080><c> job</c><00:07:28.400><c> based</c><00:07:28.720><c> on</c><00:07:28.880><c> a</c>
+It was an AI doing its job based on a
+It was an AI doing its job based on a
+human<00:07:29.360><c> engineering</c><00:07:29.919><c> culture</c><00:07:30.639><c> that</c><00:07:30.960><c> led</c><00:07:31.199><c> to</c>
+human engineering culture that led to
+human engineering culture that led to
+this<00:07:31.680><c> choice.</c><00:07:32.319><c> None</c><00:07:32.560><c> of</c><00:07:32.639><c> these</c><00:07:32.880><c> are</c><00:07:33.120><c> hard</c>
+this choice. None of these are hard
+this choice. None of these are hard
+problems<00:07:33.759><c> to</c><00:07:34.080><c> solve.</c><00:07:34.479><c> They're</c><00:07:34.720><c> all</c>
+problems to solve. They're all
+problems to solve. They're all
+preventable.<00:07:35.599><c> Content</c><00:07:36.000><c> filtering</c><00:07:36.400><c> for</c><00:07:36.560><c> rag,</c>
+preventable. Content filtering for rag,
+preventable. Content filtering for rag,
+that's<00:07:37.360><c> a</c><00:07:37.599><c> solved</c><00:07:38.000><c> problem.</c><00:07:38.560><c> Prompt</c><00:07:38.880><c> version</c>
+that's a solved problem. Prompt version
+that's a solved problem. Prompt version
+control,<00:07:39.680><c> we</c><00:07:39.840><c> know</c><00:07:40.000><c> we</c><00:07:40.160><c> should</c><00:07:40.319><c> do</c><00:07:40.479><c> that.</c>
+control, we know we should do that.
+control, we know we should do that.
+That's<00:07:40.960><c> a</c><00:07:41.120><c> solved</c><00:07:41.520><c> problem.</c><00:07:42.160><c> Pre-publication</c>
+That's a solved problem. Pre-publication
+That's a solved problem. Pre-publication
+review,<00:07:43.840><c> that's</c><00:07:44.000><c> a</c><00:07:44.240><c> solved</c><00:07:44.560><c> problem,</c><00:07:44.960><c> too.</c>
+review, that's a solved problem, too.
+review, that's a solved problem, too.
+Stage<00:07:45.840><c> deployments,</c><00:07:46.720><c> literally,</c><00:07:47.199><c> that's</c>
+Stage deployments, literally, that's
+Stage deployments, literally, that's
+DevOps<00:07:48.000><c> 101</c><00:07:48.400><c> at</c><00:07:48.560><c> this</c><00:07:48.720><c> point.</c><00:07:48.960><c> And</c><00:07:49.199><c> what</c><00:07:49.440><c> makes</c>
+DevOps 101 at this point. And what makes
+DevOps 101 at this point. And what makes
+me<00:07:49.840><c> sad</c><00:07:50.400><c> is</c><00:07:50.560><c> that</c><00:07:50.800><c> XAI</c><00:07:51.440><c> has</c><00:07:51.680><c> done</c><00:07:51.840><c> such</c><00:07:52.080><c> a</c><00:07:52.400><c> fun</c>
+me sad is that XAI has done such a fun
+me sad is that XAI has done such a fun
+fundamentally<00:07:53.680><c> amazing</c><00:07:54.240><c> job</c><00:07:54.479><c> on</c><00:07:54.800><c> a</c><00:07:54.960><c> lot</c><00:07:55.039><c> of</c>
+fundamentally amazing job on a lot of
+fundamentally amazing job on a lot of
+their<00:07:55.360><c> engineering</c><00:07:55.840><c> work.</c><00:07:56.400><c> They</c><00:07:56.720><c> have</c><00:07:57.039><c> a</c>
+their engineering work. They have a
+their engineering work. They have a
+massive<00:07:58.000><c> GPU</c><00:07:58.960><c> cluster</c><00:07:59.440><c> called</c><00:07:59.840><c> Colossus.</c>
+massive GPU cluster called Colossus.
+massive GPU cluster called Colossus.
+They've<00:08:01.120><c> raised</c><00:08:01.440><c> a</c><00:08:01.759><c> lot</c><00:08:01.840><c> of</c><00:08:02.000><c> money</c><00:08:02.160><c> to</c><00:08:02.400><c> invest</c>
+They've raised a lot of money to invest
+They've raised a lot of money to invest
+in<00:08:02.879><c> AI.</c><00:08:03.280><c> They're</c><00:08:03.520><c> on</c><00:08:03.680><c> the</c><00:08:03.840><c> verge</c><00:08:04.080><c> of</c><00:08:04.240><c> releasing</c>
+in AI. They're on the verge of releasing
+in AI. They're on the verge of releasing
+Gro<00:08:05.360><c> 4</c><00:08:05.840><c> in</c><00:08:06.560><c> 5</c><00:08:06.879><c> hours</c><00:08:07.199><c> or</c><00:08:07.440><c> so</c><00:08:07.680><c> at</c><00:08:07.840><c> the</c><00:08:08.000><c> time</c><00:08:08.160><c> of</c>
+Gro 4 in 5 hours or so at the time of
+Gro 4 in 5 hours or so at the time of
+this<00:08:08.560><c> recording.</c><00:08:09.280><c> They've</c><00:08:09.599><c> achieved</c>
+this recording. They've achieved
+this recording. They've achieved
+impressive<00:08:10.560><c> benchmarks</c><00:08:11.199><c> with</c><00:08:11.360><c> just</c><00:08:11.680><c> Gro</c><00:08:12.080><c> 3.</c>
+impressive benchmarks with just Gro 3.
+impressive benchmarks with just Gro 3.
+The<00:08:12.639><c> team</c><00:08:12.879><c> has</c><00:08:13.199><c> done</c><00:08:13.680><c> great,</c><00:08:14.080><c> but</c><00:08:14.319><c> what</c><00:08:14.639><c> good</c>
+The team has done great, but what good
+The team has done great, but what good
+is<00:08:15.280><c> a</c><00:08:15.520><c> Formula</c><00:08:15.919><c> 1</c><00:08:16.240><c> engine</c><00:08:16.560><c> without</c><00:08:16.879><c> the</c>
+is a Formula 1 engine without the
+is a Formula 1 engine without the
+brakes?<00:08:17.680><c> What</c><00:08:17.919><c> good</c><00:08:18.080><c> is</c><00:08:18.319><c> a</c><00:08:18.560><c> breakthrough</c>
+brakes? What good is a breakthrough
+brakes? What good is a breakthrough
+performance<00:08:19.520><c> if</c><00:08:19.759><c> your</c><00:08:20.000><c> deployment</c><00:08:20.560><c> practices</c>
+performance if your deployment practices
+performance if your deployment practices
+lead<00:08:21.680><c> to</c><00:08:21.919><c> trust</c><00:08:22.319><c> breakers</c><00:08:22.720><c> that</c><00:08:22.879><c> are</c><00:08:23.039><c> so</c>
+lead to trust breakers that are so
+lead to trust breakers that are so
+public<00:08:24.080><c> that</c><00:08:24.400><c> your</c><00:08:24.879><c> entire</c><00:08:25.440><c> chatbot</c><00:08:26.240><c> is</c><00:08:26.479><c> the</c>
+public that your entire chatbot is the
+public that your entire chatbot is the
+first<00:08:27.039><c> chatbot</c><00:08:27.599><c> in</c><00:08:27.840><c> history</c><00:08:28.160><c> to</c><00:08:28.479><c> just</c><00:08:28.720><c> be</c>
+first chatbot in history to just be
+first chatbot in history to just be
+flatout<00:08:29.520><c> banned</c><00:08:29.919><c> by</c><00:08:30.160><c> a</c><00:08:30.400><c> country.</c><00:08:31.120><c> Turkey</c><00:08:31.919><c> just</c>
+flatout banned by a country. Turkey just
+flatout banned by a country. Turkey just
+banned<00:08:32.719><c> Grock</c><00:08:33.120><c> because</c><00:08:33.360><c> of</c><00:08:33.440><c> the</c><00:08:33.599><c> way</c><00:08:33.760><c> Grock</c>
+banned Grock because of the way Grock
+banned Grock because of the way Grock
+behaved<00:08:34.560><c> on</c><00:08:34.800><c> July</c><00:08:35.200><c> 8th.</c><00:08:35.839><c> This</c><00:08:36.080><c> is</c><00:08:36.320><c> not</c><00:08:36.800><c> a</c>
+behaved on July 8th. This is not a
+behaved on July 8th. This is not a
+appropriate<00:08:38.240><c> way</c><00:08:38.880><c> to</c><00:08:39.279><c> roll</c><00:08:39.680><c> out</c><00:08:40.159><c> an</c>
+appropriate way to roll out an
+appropriate way to roll out an
+artificial<00:08:40.959><c> intelligence</c><00:08:41.599><c> system</c><00:08:41.919><c> that</c><00:08:42.159><c> is</c>
+artificial intelligence system that is
+artificial intelligence system that is
+supposed<00:08:42.640><c> to</c><00:08:42.880><c> deliver</c><00:08:43.599><c> amazing</c><00:08:44.080><c> service</c><00:08:44.320><c> to</c>
+supposed to deliver amazing service to
+supposed to deliver amazing service to
+customers,<00:08:45.200><c> a</c><00:08:45.440><c> trustworthy</c><00:08:46.000><c> business</c>
+customers, a trustworthy business
+customers, a trustworthy business
+platform,<00:08:47.279><c> and</c><00:08:47.600><c> ultimately</c><00:08:48.000><c> prop</c><00:08:48.320><c> up</c>
+platform, and ultimately prop up
+platform, and ultimately prop up
+enterprise<00:08:49.120><c> value</c><00:08:49.360><c> for</c><00:08:49.600><c> XAI.</c><00:08:50.320><c> It's</c><00:08:50.480><c> not</c><00:08:50.640><c> going</c>
+enterprise value for XAI. It's not going
+enterprise value for XAI. It's not going
+to<00:08:50.880><c> work.</c><00:08:51.440><c> So,</c><00:08:51.920><c> I'm</c><00:08:52.160><c> going</c><00:08:52.240><c> to</c><00:08:52.320><c> suggest</c><00:08:52.640><c> a</c><00:08:52.880><c> few</c>
+to work. So, I'm going to suggest a few
+to work. So, I'm going to suggest a few
+lessons<00:08:53.360><c> we</c><00:08:53.600><c> can</c><00:08:53.680><c> take</c><00:08:53.839><c> away</c><00:08:54.080><c> here.</c><00:08:54.399><c> One,</c>
+lessons we can take away here. One,
+lessons we can take away here. One,
+guardrails<00:08:55.279><c> are</c><00:08:55.600><c> layers.</c><00:08:55.920><c> They're</c><00:08:56.160><c> not</c>
+guardrails are layers. They're not
+guardrails are layers. They're not
+switches.<00:08:57.200><c> You</c><00:08:57.440><c> cannot</c><00:08:57.839><c> toggle</c><00:08:58.399><c> safety</c><00:08:58.800><c> on</c>
+switches. You cannot toggle safety on
+switches. You cannot toggle safety on
+and<00:08:59.279><c> off</c><00:08:59.440><c> with</c><00:08:59.680><c> prompt</c><00:09:00.000><c> changes.</c><00:09:00.800><c> You</c><00:09:01.040><c> need</c><00:09:01.519><c> a</c>
+and off with prompt changes. You need a
+and off with prompt changes. You need a
+lot<00:09:02.000><c> of</c><00:09:02.160><c> different</c><00:09:02.640><c> layers</c><00:09:02.800><c> of</c><00:09:03.040><c> defense</c><00:09:03.760><c> and</c>
+lot of different layers of defense and
+lot of different layers of defense and
+you<00:09:04.240><c> need</c><00:09:04.399><c> to</c><00:09:04.560><c> be</c><00:09:04.800><c> thoughtful</c><00:09:05.360><c> about</c><00:09:05.680><c> how</c><00:09:05.920><c> you</c>
+you need to be thoughtful about how you
+you need to be thoughtful about how you
+have<00:09:06.720><c> the</c><00:09:07.040><c> effect</c><00:09:07.519><c> of</c><00:09:07.760><c> all</c><00:09:08.000><c> of</c><00:09:08.160><c> those</c><00:09:08.560><c> layers</c>
+have the effect of all of those layers
+have the effect of all of those layers
+together<00:09:09.360><c> on</c><00:09:09.680><c> the</c><00:09:09.839><c> artificial</c><00:09:10.399><c> intelligence</c>
+together on the artificial intelligence
+together on the artificial intelligence
+system.<00:09:11.760><c> So</c><00:09:12.080><c> filtering</c><00:09:12.480><c> and</c><00:09:12.640><c> retrieval,</c>
+system. So filtering and retrieval,
+system. So filtering and retrieval,
+constraints<00:09:13.600><c> and</c><00:09:13.760><c> prompts,</c><00:09:14.240><c> RLHF</c><00:09:14.959><c> training,</c>
+constraints and prompts, RLHF training,
+constraints and prompts, RLHF training,
+output<00:09:15.760><c> filtering,</c><00:09:16.399><c> maybe</c><00:09:16.640><c> human</c><00:09:17.040><c> review.</c>
+output filtering, maybe human review.
+output filtering, maybe human review.
+All<00:09:17.839><c> of</c><00:09:18.000><c> those</c><00:09:18.160><c> are</c><00:09:18.560><c> layers</c><00:09:18.720><c> and</c><00:09:18.959><c> you</c><00:09:19.120><c> need</c><00:09:19.279><c> to</c>
+All of those are layers and you need to
+All of those are layers and you need to
+be<00:09:19.519><c> intentional</c><00:09:20.080><c> about</c><00:09:20.399><c> using</c><00:09:20.720><c> them</c><00:09:21.360><c> as</c><00:09:21.600><c> part</c>
+be intentional about using them as part
+be intentional about using them as part
+of<00:09:22.080><c> a</c><00:09:22.320><c> defensive</c><00:09:22.959><c> structure</c><00:09:23.519><c> to</c><00:09:23.839><c> keep</c><00:09:24.160><c> the</c><00:09:24.399><c> AI</c>
+of a defensive structure to keep the AI
+of a defensive structure to keep the AI
+building<00:09:25.760><c> trust</c><00:09:26.160><c> for</c><00:09:26.480><c> your</c><00:09:26.720><c> customers,</c><00:09:27.120><c> which</c>
+building trust for your customers, which
+building trust for your customers, which
+supports<00:09:28.080><c> long-term</c><00:09:28.560><c> enterprise</c><00:09:29.040><c> value</c><00:09:29.440><c> and</c>
+supports long-term enterprise value and
+supports long-term enterprise value and
+ultimately<00:09:30.080><c> helps</c><00:09:30.320><c> your</c><00:09:30.480><c> customers</c><00:09:30.880><c> get</c><00:09:31.040><c> what</c>
+ultimately helps your customers get what
+ultimately helps your customers get what
+they<00:09:31.360><c> want</c><00:09:31.519><c> out</c><00:09:31.680><c> of</c><00:09:31.760><c> the</c><00:09:31.920><c> system.</c><00:09:32.480><c> Second,</c><00:09:32.880><c> rag</c>
+they want out of the system. Second, rag
+they want out of the system. Second, rag
+amplifies<00:09:34.080><c> platform</c><00:09:34.640><c> risk.</c><00:09:35.200><c> If</c><00:09:35.360><c> you're</c>
+amplifies platform risk. If you're
+amplifies platform risk. If you're
+building<00:09:35.839><c> retrieval</c><00:09:36.320><c> systems,</c><00:09:37.120><c> you're</c>
+building retrieval systems, you're
+building retrieval systems, you're
+importing<00:09:38.000><c> all</c><00:09:38.240><c> the</c><00:09:38.480><c> problems</c><00:09:38.800><c> in</c><00:09:38.959><c> your</c><00:09:39.200><c> data</c>
+importing all the problems in your data
+importing all the problems in your data
+sources.<00:09:40.080><c> You</c><00:09:40.399><c> have</c><00:09:40.640><c> to</c><00:09:40.800><c> filter</c><00:09:41.200><c> before</c>
+sources. You have to filter before
+sources. You have to filter before
+retrieval<00:09:42.000><c> hits</c><00:09:42.160><c> the</c><00:09:42.320><c> model.</c><00:09:42.560><c> And</c><00:09:42.720><c> I</c><00:09:42.880><c> don't</c>
+retrieval hits the model. And I don't
+retrieval hits the model. And I don't
+care<00:09:43.200><c> if</c><00:09:43.360><c> you're</c><00:09:43.600><c> talking</c><00:09:43.839><c> about</c><00:09:44.240><c> politics</c><00:09:44.800><c> or</c>
+care if you're talking about politics or
+care if you're talking about politics or
+anything<00:09:45.440><c> else.</c><00:09:45.760><c> If</c><00:09:46.000><c> you're</c><00:09:46.160><c> talking</c><00:09:46.320><c> about</c>
+anything else. If you're talking about
+anything else. If you're talking about
+old<00:09:46.880><c> dirty</c><00:09:47.279><c> data</c><00:09:47.519><c> in</c><00:09:47.680><c> your</c><00:09:47.839><c> wiki,</c><00:09:48.320><c> you</c><00:09:48.480><c> still</c>
+old dirty data in your wiki, you still
+old dirty data in your wiki, you still
+have<00:09:48.800><c> to</c><00:09:48.959><c> filter.</c><00:09:49.680><c> It's</c><00:09:49.920><c> just</c><00:09:50.160><c> basic</c><00:09:50.480><c> data</c>
+have to filter. It's just basic data
+have to filter. It's just basic data
+quality.<00:09:51.360><c> Then</c><00:09:51.760><c> third,</c><00:09:52.480><c> prompts</c><00:09:53.120><c> are</c>
+quality. Then third, prompts are
+quality. Then third, prompts are
+production<00:09:53.760><c> code.</c><00:09:54.080><c> I've</c><00:09:54.320><c> said</c><00:09:54.399><c> this</c><00:09:54.560><c> before,</c>
+production code. I've said this before,
+production code. I've said this before,
+I'm<00:09:55.040><c> going</c><00:09:55.120><c> to</c><00:09:55.200><c> say</c><00:09:55.279><c> it</c><00:09:55.519><c> again.</c><00:09:56.000><c> Why</c><00:09:56.240><c> would</c><00:09:56.399><c> you</c>
+I'm going to say it again. Why would you
+I'm going to say it again. Why would you
+push<00:09:56.800><c> untested</c><00:09:57.279><c> code</c><00:09:57.519><c> to</c><00:09:57.680><c> production?</c><00:09:58.160><c> Well,</c>
+push untested code to production? Well,
+push untested code to production? Well,
+don't<00:09:58.560><c> do</c><00:09:58.720><c> that</c><00:09:58.880><c> with</c><00:09:59.120><c> prompts.</c><00:09:59.600><c> Why</c><00:09:59.760><c> are</c><00:09:59.839><c> you</c>
+don't do that with prompts. Why are you
+don't do that with prompts. Why are you
+doing<00:10:00.160><c> it</c><00:10:00.320><c> with</c><00:10:00.480><c> prompts?</c><00:10:00.959><c> They</c><00:10:01.200><c> need</c><00:10:01.360><c> the</c>
+doing it with prompts? They need the
+doing it with prompts? They need the
+same<00:10:01.760><c> rigor,</c><00:10:02.240><c> the</c><00:10:02.480><c> same</c><00:10:02.640><c> version</c><00:10:03.040><c> control,</c>
+same rigor, the same version control,
+same rigor, the same version control,
+the<00:10:03.600><c> same</c><00:10:03.760><c> testing,</c><00:10:04.240><c> the</c><00:10:04.399><c> same</c><00:10:04.560><c> staged</c>
+the same testing, the same staged
+the same testing, the same staged
+rollouts,<00:10:05.360><c> the</c><00:10:05.519><c> same</c><00:10:05.680><c> monitoring,</c><00:10:06.240><c> the</c><00:10:06.480><c> same</c>
+rollouts, the same monitoring, the same
+rollouts, the same monitoring, the same
+roll<00:10:07.040><c> back</c><00:10:07.360><c> procedures.</c><00:10:08.160><c> The</c><00:10:08.399><c> last</c><00:10:08.560><c> thing</c><00:10:08.720><c> I'm</c>
+roll back procedures. The last thing I'm
+roll back procedures. The last thing I'm
+going<00:10:09.040><c> to</c><00:10:09.120><c> call</c><00:10:09.360><c> out</c><00:10:09.760><c> is</c><00:10:10.000><c> that</c><00:10:10.399><c> I</c><00:10:10.720><c> would</c><00:10:10.959><c> love</c>
+going to call out is that I would love
+going to call out is that I would love
+to<00:10:11.519><c> see</c><00:10:11.920><c> engineering</c><00:10:12.560><c> cultures</c><00:10:13.360><c> that</c><00:10:13.760><c> have</c><00:10:14.000><c> a</c>
+to see engineering cultures that have a
+to see engineering cultures that have a
+measure<00:10:14.640><c> for</c><00:10:14.959><c> quality</c><00:10:15.519><c> of</c><00:10:15.760><c> impact</c><00:10:16.240><c> on</c>
+measure for quality of impact on
+measure for quality of impact on
+customers<00:10:17.519><c> and</c><00:10:17.920><c> hold</c><00:10:18.240><c> themselves</c><00:10:18.640><c> to</c><00:10:18.880><c> that</c>
+customers and hold themselves to that
+customers and hold themselves to that
+more<00:10:19.279><c> rigorously.</c><00:10:19.920><c> I</c><00:10:20.160><c> have</c><00:10:20.320><c> worked</c><00:10:20.560><c> with</c><00:10:20.720><c> a</c>
+more rigorously. I have worked with a
+more rigorously. I have worked with a
+lot<00:10:21.279><c> of</c><00:10:21.519><c> engineering</c><00:10:22.079><c> teams</c><00:10:22.399><c> over</c><00:10:22.640><c> the</c><00:10:22.800><c> years</c>
+lot of engineering teams over the years
+lot of engineering teams over the years
+and<00:10:23.360><c> almost</c><00:10:23.680><c> without</c><00:10:24.000><c> exception</c><00:10:24.800><c> most</c><00:10:25.040><c> of</c>
+and almost without exception most of
+and almost without exception most of
+them<00:10:25.920><c> have</c><00:10:26.640><c> trouble</c><00:10:27.360><c> focusing</c><00:10:28.000><c> on</c><00:10:28.640><c> outcomes</c>
+them have trouble focusing on outcomes
+them have trouble focusing on outcomes
+they<00:10:29.600><c> cannot</c><00:10:29.920><c> directly</c><00:10:30.320><c> drive.</c><00:10:30.720><c> And</c><00:10:30.880><c> that</c>
+they cannot directly drive. And that
+they cannot directly drive. And that
+makes<00:10:31.200><c> sense</c><00:10:31.440><c> because</c><00:10:31.680><c> as</c><00:10:31.920><c> an</c><00:10:32.079><c> engineer</c>
+makes sense because as an engineer
+makes sense because as an engineer
+you're<00:10:32.640><c> trained</c><00:10:32.880><c> to</c><00:10:33.040><c> focused</c><00:10:33.279><c> on</c><00:10:33.440><c> inputs.</c>
+you're trained to focused on inputs.
+you're trained to focused on inputs.
+That's<00:10:34.079><c> what</c><00:10:34.240><c> most</c><00:10:34.480><c> of</c><00:10:34.640><c> your</c><00:10:34.800><c> job</c><00:10:35.040><c> is.</c><00:10:35.279><c> And</c><00:10:35.440><c> so</c>
+That's what most of your job is. And so
+That's what most of your job is. And so
+if<00:10:35.760><c> you</c><00:10:35.920><c> have</c><00:10:36.079><c> something</c><00:10:36.240><c> that</c><00:10:36.480><c> is</c><00:10:36.640><c> a</c><00:10:36.800><c> measure</c>
+if you have something that is a measure
+if you have something that is a measure
+that<00:10:37.279><c> you</c><00:10:37.440><c> can't</c><00:10:37.680><c> directly</c><00:10:38.000><c> drive,</c><00:10:38.399><c> it</c><00:10:38.560><c> can</c><00:10:38.640><c> be</c>
+that you can't directly drive, it can be
+that you can't directly drive, it can be
+very<00:10:38.959><c> demotivating.</c><00:10:39.920><c> But</c><00:10:40.079><c> there's</c><00:10:40.320><c> a</c><00:10:40.560><c> subtle</c>
+very demotivating. But there's a subtle
+very demotivating. But there's a subtle
+flaw<00:10:41.839><c> when</c><00:10:42.079><c> you</c><00:10:42.240><c> don't</c><00:10:42.399><c> have</c><00:10:42.640><c> engineering</c>
+flaw when you don't have engineering
+flaw when you don't have engineering
+cultures<00:10:43.519><c> that</c><00:10:43.680><c> obsess</c><00:10:44.079><c> over</c><00:10:44.399><c> outcomes</c><00:10:44.880><c> for</c>
+cultures that obsess over outcomes for
+cultures that obsess over outcomes for
+customers.<00:10:45.839><c> And</c><00:10:46.000><c> it</c><00:10:46.240><c> came</c><00:10:46.480><c> out</c><00:10:46.720><c> on</c><00:10:46.959><c> the</c><00:10:47.120><c> 8th</c><00:10:47.360><c> of</c>
+customers. And it came out on the 8th of
+customers. And it came out on the 8th of
+July.<00:10:48.160><c> At</c><00:10:48.399><c> the</c><00:10:48.560><c> end</c><00:10:48.640><c> of</c><00:10:48.720><c> the</c><00:10:48.880><c> day,</c><00:10:49.120><c> you</c><00:10:49.279><c> need</c>
+July. At the end of the day, you need
+July. At the end of the day, you need
+engineering<00:10:50.160><c> teams</c><00:10:50.720><c> to</c><00:10:51.040><c> be</c><00:10:51.279><c> willing</c><00:10:52.079><c> to</c>
+engineering teams to be willing to
+engineering teams to be willing to
+articulate<00:10:54.000><c> the</c><00:10:54.320><c> vague,</c><00:10:54.959><c> hardto-</c><00:10:55.600><c> drive</c>
+articulate the vague, hardto- drive
+articulate the vague, hardto- drive
+outcomes<00:10:56.880><c> for</c><00:10:57.200><c> customers</c><00:10:57.680><c> that</c><00:10:57.920><c> they</c><00:10:58.160><c> want</c><00:10:58.320><c> to</c>
+outcomes for customers that they want to
+outcomes for customers that they want to
+see<00:10:58.800><c> happen</c><00:10:59.360><c> as</c><00:10:59.839><c> real</c><00:11:00.160><c> goals</c><00:11:00.959><c> that</c><00:11:01.200><c> they</c><00:11:01.440><c> can</c>
+see happen as real goals that they can
+see happen as real goals that they can
+influence<00:11:02.800><c> with</c><00:11:03.120><c> the</c><00:11:03.360><c> inputs</c><00:11:03.839><c> that</c><00:11:04.079><c> they</c>
+influence with the inputs that they
+influence with the inputs that they
+engineer<00:11:04.800><c> into</c><00:11:05.040><c> their</c><00:11:05.200><c> systems</c><00:11:05.600><c> every</c><00:11:05.920><c> day.</c>
+engineer into their systems every day.
+engineer into their systems every day.
+What<00:11:06.560><c> I'm</c><00:11:06.800><c> suggesting</c><00:11:07.360><c> is</c><00:11:07.519><c> that</c><00:11:07.760><c> there</c><00:11:07.920><c> is</c><00:11:08.160><c> an</c>
+What I'm suggesting is that there is an
+What I'm suggesting is that there is an
+engineering<00:11:08.959><c> way</c><00:11:09.279><c> to</c><00:11:09.519><c> measure</c><00:11:09.920><c> quality</c><00:11:10.320><c> of</c><00:11:10.560><c> AI</c>
+engineering way to measure quality of AI
+engineering way to measure quality of AI
+impact<00:11:11.760><c> on</c><00:11:12.079><c> the</c><00:11:12.320><c> public</c><00:11:12.640><c> discourse,</c><00:11:13.600><c> to</c>
+impact on the public discourse, to
+impact on the public discourse, to
+measure<00:11:14.079><c> quality</c><00:11:14.399><c> of</c><00:11:14.560><c> AI</c><00:11:14.959><c> impact</c><00:11:15.440><c> on</c>
+measure quality of AI impact on
+measure quality of AI impact on
+customers.<00:11:17.120><c> In</c><00:11:17.360><c> this</c><00:11:17.600><c> case,</c><00:11:17.839><c> there</c><00:11:18.079><c> was</c><00:11:18.160><c> a</c><00:11:18.399><c> way</c>
+customers. In this case, there was a way
+customers. In this case, there was a way
+for<00:11:19.360><c> engineers</c><00:11:20.079><c> to</c><00:11:20.399><c> measure</c><00:11:21.040><c> Grock's</c><00:11:21.680><c> quality</c>
+for engineers to measure Grock's quality
+for engineers to measure Grock's quality
+of<00:11:22.560><c> input</c><00:11:23.120><c> in</c><00:11:23.440><c> the</c><00:11:23.839><c> overall</c><00:11:24.399><c> conversational</c>
+of input in the overall conversational
+of input in the overall conversational
+stream<00:11:25.360><c> on</c><00:11:25.600><c> X.</c><00:11:26.160><c> It</c><00:11:26.320><c> wouldn't</c><00:11:26.560><c> have</c><00:11:26.720><c> been</c><00:11:26.959><c> easy.</c>
+stream on X. It wouldn't have been easy.
+stream on X. It wouldn't have been easy.
+It's<00:11:27.680><c> not</c><00:11:27.839><c> directly</c><00:11:28.320><c> influencable</c><00:11:28.959><c> by</c>
+It's not directly influencable by
+It's not directly influencable by
+engineers.<00:11:29.760><c> I</c><00:11:30.000><c> have</c><00:11:30.160><c> been</c><00:11:30.320><c> in</c><00:11:30.560><c> the</c><00:11:30.720><c> rooms</c><00:11:31.040><c> at</c>
+engineers. I have been in the rooms at
+engineers. I have been in the rooms at
+large<00:11:31.600><c> companies</c><00:11:32.480><c> where</c><00:11:32.720><c> we</c><00:11:32.959><c> choose</c><00:11:33.200><c> not</c><00:11:33.440><c> to</c>
+large companies where we choose not to
+large companies where we choose not to
+measure<00:11:33.920><c> those</c><00:11:34.160><c> things</c><00:11:34.399><c> because</c><00:11:34.720><c> they're</c>
+measure those things because they're
+measure those things because they're
+hard<00:11:35.120><c> to</c><00:11:35.279><c> measure.</c><00:11:35.760><c> They're</c><00:11:35.920><c> not</c><00:11:36.160><c> easy</c><00:11:36.399><c> to</c>
+hard to measure. They're not easy to
+hard to measure. They're not easy to
+influence<00:11:37.040><c> and</c><00:11:37.279><c> so</c><00:11:37.440><c> it</c><00:11:37.600><c> doesn't</c><00:11:37.760><c> seem</c><00:11:38.079><c> worth</c>
+influence and so it doesn't seem worth
+influence and so it doesn't seem worth
+it.<00:11:38.800><c> But</c><00:11:38.959><c> as</c><00:11:39.200><c> these</c><00:11:39.519><c> systems</c><00:11:40.000><c> become</c><00:11:40.320><c> more</c><00:11:40.480><c> and</c>
+it. But as these systems become more and
+it. But as these systems become more and
+more<00:11:40.880><c> powerful,</c><00:11:41.360><c> I</c><00:11:41.600><c> think</c><00:11:41.680><c> it's</c><00:11:41.920><c> more</c>
+more powerful, I think it's more
+more powerful, I think it's more
+important<00:11:42.480><c> for</c><00:11:42.720><c> engineering</c><00:11:43.200><c> teams</c><00:11:43.519><c> to</c><00:11:43.680><c> take</c>
+important for engineering teams to take
+important for engineering teams to take
+that<00:11:44.079><c> extra</c><00:11:44.320><c> step.</c><00:11:44.640><c> And</c><00:11:44.800><c> so</c><00:11:44.959><c> I</c><00:11:45.120><c> want</c><00:11:45.279><c> to</c>
+that extra step. And so I want to
+that extra step. And so I want to
+suggest<00:11:45.760><c> that</c><00:11:46.079><c> thinking</c><00:11:46.399><c> through</c><00:11:46.640><c> the</c>
+suggest that thinking through the
+suggest that thinking through the
+outcome<00:11:47.279><c> piece</c><00:11:47.519><c> is</c><00:11:47.839><c> actually</c><00:11:48.160><c> really</c>
+outcome piece is actually really
+outcome piece is actually really
+important.<00:11:49.279><c> It's</c><00:11:49.519><c> becoming</c><00:11:49.839><c> increasingly</c>
+important. It's becoming increasingly
+important. It's becoming increasingly
+important<00:11:50.720><c> and</c><00:11:50.880><c> it</c><00:11:51.120><c> is</c><00:11:51.200><c> something</c><00:11:51.440><c> that</c><00:11:51.600><c> we</c>
+important and it is something that we
+important and it is something that we
+could<00:11:52.000><c> have</c><00:11:52.160><c> kind</c><00:11:52.320><c> of</c><00:11:52.399><c> gotten</c><00:11:52.640><c> away</c><00:11:52.880><c> with</c><00:11:52.959><c> in</c>
+could have kind of gotten away with in
+could have kind of gotten away with in
+the<00:11:53.360><c> trends</c><00:11:53.600><c> when</c><00:11:53.760><c> we</c><00:11:53.920><c> didn't</c><00:11:54.079><c> have</c><00:11:54.240><c> AI</c>
+the trends when we didn't have AI
+the trends when we didn't have AI
+systems<00:11:54.959><c> like</c><00:11:55.200><c> this.</c><00:11:55.680><c> So</c><00:11:55.839><c> I</c><00:11:56.000><c> get</c><00:11:56.160><c> where</c><00:11:56.320><c> this</c>
+systems like this. So I get where this
+systems like this. So I get where this
+culture<00:11:56.880><c> comes</c><00:11:57.120><c> from.</c><00:11:57.680><c> But</c><00:11:57.839><c> I</c><00:11:58.000><c> think</c><00:11:58.079><c> that</c><00:11:58.399><c> we</c>
+culture comes from. But I think that we
+culture comes from. But I think that we
+as<00:11:59.519><c> product</c><00:11:59.839><c> and</c><00:12:00.160><c> technical</c><00:12:00.560><c> teams</c><00:12:01.120><c> need</c><00:12:01.360><c> to</c>
+as product and technical teams need to
+as product and technical teams need to
+hold<00:12:01.760><c> ourselves</c><00:12:02.160><c> to</c><00:12:02.399><c> a</c><00:12:02.560><c> higher</c><00:12:02.880><c> standard</c><00:12:03.519><c> now</c>
+hold ourselves to a higher standard now
+hold ourselves to a higher standard now
+that<00:12:03.920><c> AI</c><00:12:04.320><c> tools</c><00:12:04.720><c> are</c><00:12:04.959><c> more</c><00:12:05.200><c> powerful.</c><00:12:05.839><c> This</c>
+that AI tools are more powerful. This
+that AI tools are more powerful. This
+wasn't<00:12:06.320><c> a</c><00:12:06.480><c> mysterious</c><00:12:06.880><c> AI</c><00:12:07.200><c> awakening.</c><00:12:07.760><c> Grock</c>
+wasn't a mysterious AI awakening. Grock
+wasn't a mysterious AI awakening. Grock
+did<00:12:08.320><c> not</c><00:12:08.399><c> wake</c><00:12:08.639><c> up</c><00:12:08.800><c> evil.</c><00:12:09.519><c> It</c><00:12:09.680><c> wasn't</c><00:12:09.920><c> hackers.</c>
+did not wake up evil. It wasn't hackers.
+did not wake up evil. It wasn't hackers.
+It's<00:12:10.880><c> not</c><00:12:11.120><c> even</c><00:12:11.360><c> really</c><00:12:11.680><c> about</c><00:12:11.920><c> AI.</c><00:12:12.240><c> It's</c>
+It's not even really about AI. It's
+It's not even really about AI. It's
+about<00:12:12.800><c> basic</c><00:12:13.279><c> engineering</c><00:12:13.920><c> cultural</c>
+about basic engineering cultural
+about basic engineering cultural
+failures<00:12:15.279><c> that</c><00:12:15.600><c> could</c><00:12:15.839><c> have</c><00:12:16.000><c> been</c><00:12:16.240><c> prevented.</c>
+failures that could have been prevented.
+failures that could have been prevented.
+You<00:12:17.360><c> cannot</c><00:12:17.760><c> use</c><00:12:17.920><c> a</c><00:12:18.160><c> move</c><00:12:18.480><c> fast</c><00:12:18.720><c> and</c><00:12:19.040><c> break</c>
+You cannot use a move fast and break
+You cannot use a move fast and break
+things<00:12:19.760><c> mentality</c><00:12:20.560><c> with</c><00:12:20.959><c> AI.</c><00:12:21.760><c> Notably,</c><00:12:22.560><c> even</c>
+things mentality with AI. Notably, even
+things mentality with AI. Notably, even
+Mark<00:12:23.040><c> Zuckerberg</c><00:12:23.600><c> is</c><00:12:23.760><c> not</c><00:12:23.920><c> showing</c><00:12:24.160><c> that,</c>
+Mark Zuckerberg is not showing that,
+Mark Zuckerberg is not showing that,
+right?<00:12:24.959><c> Llama</c><00:12:25.440><c> is</c><00:12:25.600><c> not</c><00:12:25.760><c> being</c><00:12:25.920><c> rolled</c><00:12:26.160><c> out</c><00:12:26.320><c> as</c>
+right? Llama is not being rolled out as
+right? Llama is not being rolled out as
+move<00:12:26.880><c> fast</c><00:12:27.200><c> break</c><00:12:27.440><c> things.</c><00:12:27.760><c> And</c><00:12:27.920><c> I</c><00:12:28.079><c> think</c>
+move fast break things. And I think
+move fast break things. And I think
+that's<00:12:28.399><c> something</c><00:12:28.560><c> that's</c><00:12:28.800><c> worth</c><00:12:28.959><c> paying</c>
+that's something that's worth paying
+that's something that's worth paying
+attention<00:12:29.440><c> to.</c><00:12:29.920><c> We</c><00:12:30.240><c> can</c><00:12:30.399><c> learn</c><00:12:30.639><c> from</c><00:12:30.800><c> what</c><00:12:30.959><c> XAI</c>
+attention to. We can learn from what XAI
+attention to. We can learn from what XAI
+did<00:12:31.760><c> here.</c><00:12:32.240><c> I</c><00:12:32.480><c> would</c><00:12:32.639><c> rather</c><00:12:32.880><c> not</c><00:12:33.040><c> point</c>
+did here. I would rather not point
+did here. I would rather not point
+fingers.<00:12:33.839><c> I</c><00:12:34.079><c> would</c><00:12:34.240><c> rather</c><00:12:34.639><c> think</c><00:12:34.800><c> about</c><00:12:35.120><c> what</c>
+fingers. I would rather think about what
+fingers. I would rather think about what
+are<00:12:35.440><c> the</c><00:12:35.680><c> technical</c><00:12:36.079><c> decisions</c><00:12:36.480><c> we</c><00:12:36.720><c> can</c><00:12:36.880><c> make</c>
+are the technical decisions we can make
+are the technical decisions we can make
+as<00:12:37.279><c> engineering</c><00:12:37.680><c> and</c><00:12:37.920><c> product</c><00:12:38.160><c> teams</c><00:12:38.720><c> that</c>
+as engineering and product teams that
+as engineering and product teams that
+enable<00:12:39.279><c> us</c><00:12:39.440><c> to</c><00:12:39.600><c> build</c><00:12:39.839><c> higher</c><00:12:40.160><c> quality</c>
+enable us to build higher quality
+enable us to build higher quality
+systems<00:12:40.959><c> that</c><00:12:41.360><c> ultimately</c><00:12:42.079><c> deliver</c><00:12:42.480><c> better</c>
+systems that ultimately deliver better
+systems that ultimately deliver better
+outcomes<00:12:43.120><c> for</c><00:12:43.360><c> customers.</c><00:12:44.000><c> Choose.</c>

@@ -1,0 +1,2056 @@
+If<00:00:00.240><c> Andre</c><00:00:00.640><c> Karpathy</c><00:00:01.280><c> says</c><00:00:01.520><c> he's</c><00:00:01.839><c> never</c><00:00:02.159><c> felt</c>
+If Andre Karpathy says he's never felt
+If Andre Karpathy says he's never felt
+this<00:00:02.720><c> behind</c><00:00:03.040><c> as</c><00:00:03.200><c> a</c><00:00:03.360><c> programmer,</c><00:00:03.919><c> which</c><00:00:04.160><c> he</c>
+this behind as a programmer, which he
+this behind as a programmer, which he
+did,<00:00:04.880><c> all</c><00:00:05.120><c> of</c><00:00:05.200><c> us</c><00:00:05.839><c> should</c><00:00:06.160><c> be</c><00:00:06.319><c> glad</c><00:00:06.640><c> to</c><00:00:06.879><c> know</c><00:00:07.120><c> as</c>
+did, all of us should be glad to know as
+did, all of us should be glad to know as
+much<00:00:07.440><c> as</c><00:00:07.600><c> we</c><00:00:07.839><c> have</c><00:00:08.080><c> and</c><00:00:08.320><c> should</c><00:00:08.559><c> not</c><00:00:08.800><c> feel</c><00:00:09.120><c> bad</c>
+much as we have and should not feel bad
+much as we have and should not feel bad
+about<00:00:10.160><c> trying</c><00:00:10.480><c> to</c><00:00:10.719><c> learn</c><00:00:10.960><c> more.</c><00:00:11.360><c> We're</c><00:00:11.679><c> all</c><00:00:12.000><c> in</c>
+about trying to learn more. We're all in
+about trying to learn more. We're all in
+the<00:00:12.559><c> same</c><00:00:12.800><c> boat</c><00:00:13.200><c> together.</c><00:00:13.920><c> What</c><00:00:14.160><c> has</c>
+the same boat together. What has
+the same boat together. What has
+happened<00:00:14.799><c> over</c><00:00:15.040><c> the</c><00:00:15.280><c> last</c><00:00:15.519><c> year</c><00:00:15.920><c> is</c><00:00:16.240><c> a</c><00:00:16.560><c> phase</c>
+happened over the last year is a phase
+happened over the last year is a phase
+transition<00:00:18.160><c> in</c><00:00:18.800><c> technical</c><00:00:19.439><c> leverage,</c><00:00:20.000><c> and</c>
+transition in technical leverage, and
+transition in technical leverage, and
+that's<00:00:20.320><c> what</c><00:00:20.480><c> Andre</c><00:00:20.960><c> spent</c><00:00:21.199><c> a</c><00:00:21.359><c> lot</c><00:00:21.439><c> of</c><00:00:21.600><c> his</c>
+that's what Andre spent a lot of his
+that's what Andre spent a lot of his
+time<00:00:22.080><c> talking</c><00:00:22.480><c> about</c><00:00:22.800><c> over</c><00:00:23.039><c> the</c><00:00:23.199><c> holiday</c><00:00:23.600><c> week</c>
+time talking about over the holiday week
+time talking about over the holiday week
+between<00:00:24.160><c> Christmas</c><00:00:24.480><c> and</c><00:00:24.720><c> New</c><00:00:24.880><c> Year's.</c><00:00:25.359><c> And</c>
+between Christmas and New Year's. And
+between Christmas and New Year's. And
+that's<00:00:25.680><c> what</c><00:00:25.920><c> I</c><00:00:26.080><c> want</c><00:00:26.160><c> to</c><00:00:26.320><c> talk</c><00:00:26.560><c> about</c><00:00:26.800><c> here</c><00:00:27.039><c> in</c>
+that's what I want to talk about here in
+that's what I want to talk about here in
+my<00:00:27.519><c> executive</c><00:00:28.000><c> briefing</c><00:00:28.400><c> today.</c>
+my executive briefing today.
+my executive briefing today.
+Fundamentally,<00:00:29.519><c> what</c><00:00:29.840><c> changed</c><00:00:30.320><c> is</c><00:00:30.720><c> what</c><00:00:31.039><c> it</c>
+Fundamentally, what changed is what it
+Fundamentally, what changed is what it
+means<00:00:31.920><c> to</c><00:00:32.239><c> be</c><00:00:32.559><c> technical.</c><00:00:33.280><c> And</c><00:00:33.600><c> the</c><00:00:33.840><c> new</c>
+means to be technical. And the new
+means to be technical. And the new
+technical<00:00:34.480><c> skill</c><00:00:34.800><c> tree</c><00:00:34.960><c> that's</c><00:00:35.280><c> getting</c>
+technical skill tree that's getting
+technical skill tree that's getting
+unlocked<00:00:36.000><c> is</c><00:00:36.320><c> no</c><00:00:36.559><c> longer</c><00:00:36.800><c> just</c><00:00:37.040><c> for</c>
+unlocked is no longer just for
+unlocked is no longer just for
+engineers.<00:00:38.079><c> As</c><00:00:38.239><c> a</c><00:00:38.480><c> leader,</c><00:00:38.879><c> you</c><00:00:39.120><c> need</c><00:00:39.280><c> to</c>
+engineers. As a leader, you need to
+engineers. As a leader, you need to
+think<00:00:40.160><c> about</c><00:00:40.879><c> anyone</c><00:00:41.280><c> in</c><00:00:41.520><c> your</c><00:00:41.760><c> organization</c>
+think about anyone in your organization
+think about anyone in your organization
+who<00:00:43.120><c> needs</c><00:00:43.360><c> the</c><00:00:43.680><c> authority</c><00:00:44.559><c> to</c><00:00:44.960><c> tell</c>
+who needs the authority to tell
+who needs the authority to tell
+probabilistic<00:00:46.239><c> machines,</c><00:00:46.879><c> namely</c><00:00:47.280><c> large</c>
+probabilistic machines, namely large
+probabilistic machines, namely large
+language<00:00:48.000><c> models,</c><00:00:48.640><c> how</c><00:00:48.879><c> they</c><00:00:49.120><c> can</c><00:00:49.280><c> usefully</c>
+language models, how they can usefully
+language models, how they can usefully
+generate<00:00:50.399><c> work.</c><00:00:50.879><c> And</c><00:00:51.120><c> so</c><00:00:51.360><c> today,</c><00:00:51.840><c> I'm</c><00:00:52.160><c> going</c>
+generate work. And so today, I'm going
+generate work. And so today, I'm going
+to<00:00:52.480><c> take</c><00:00:53.120><c> Andre's</c><00:00:53.680><c> reflection</c><00:00:54.160><c> seriously</c><00:00:54.879><c> and</c>
+to take Andre's reflection seriously and
+to take Andre's reflection seriously and
+reflect<00:00:55.680><c> back</c><00:00:55.920><c> on</c><00:00:56.079><c> it</c><00:00:56.320><c> and</c><00:00:56.640><c> try</c><00:00:56.879><c> to</c><00:00:57.199><c> lay</c><00:00:57.360><c> out</c><00:00:57.680><c> a</c>
+reflect back on it and try to lay out a
+reflect back on it and try to lay out a
+useful<00:00:58.719><c> skill</c><00:00:59.120><c> tree</c><00:00:59.840><c> that</c><00:01:00.160><c> talks</c><00:01:00.480><c> about</c>
+useful skill tree that talks about
+useful skill tree that talks about
+what's<00:01:01.520><c> changing,</c><00:01:02.079><c> why</c><00:01:02.320><c> these</c><00:01:02.640><c> new</c><00:01:02.879><c> skills</c>
+what's changing, why these new skills
+what's changing, why these new skills
+feel<00:01:03.600><c> hard,</c><00:01:04.159><c> and</c><00:01:04.400><c> how</c><00:01:04.559><c> as</c><00:01:04.799><c> org</c><00:01:05.119><c> leaders,</c><00:01:05.519><c> we</c>
+feel hard, and how as org leaders, we
+feel hard, and how as org leaders, we
+can<00:01:05.840><c> start</c><00:01:06.080><c> to</c><00:01:06.640><c> lay</c><00:01:06.880><c> out</c><00:01:07.600><c> skill</c><00:01:08.080><c> levels</c><00:01:08.560><c> and</c>
+can start to lay out skill levels and
+can start to lay out skill levels and
+trees<00:01:09.200><c> that</c><00:01:09.520><c> feel</c><00:01:10.000><c> useful</c><00:01:10.960><c> not</c><00:01:11.200><c> just</c><00:01:11.360><c> for</c>
+trees that feel useful not just for
+trees that feel useful not just for
+engineers,<00:01:12.479><c> but</c><00:01:12.880><c> for</c><00:01:13.600><c> everyone</c><00:01:13.920><c> in</c><00:01:14.159><c> the</c>
+engineers, but for everyone in the
+engineers, but for everyone in the
+business.<00:01:14.880><c> Let's</c><00:01:15.280><c> start</c><00:01:15.439><c> by</c><00:01:15.680><c> saying</c><00:01:16.000><c> the</c>
+business. Let's start by saying the
+business. Let's start by saying the
+obvious<00:01:16.640><c> thing</c><00:01:16.799><c> that</c><00:01:17.119><c> most</c><00:01:17.439><c> people</c><00:01:17.680><c> tend</c><00:01:17.920><c> to</c>
+obvious thing that most people tend to
+obvious thing that most people tend to
+dance<00:01:18.400><c> around.</c><00:01:18.960><c> This</c><00:01:19.200><c> is</c><00:01:19.360><c> hard.</c><00:01:19.759><c> Andre</c><00:01:20.159><c> feels</c>
+dance around. This is hard. Andre feels
+dance around. This is hard. Andre feels
+behind.<00:01:20.960><c> It's</c><00:01:21.200><c> because</c><00:01:21.360><c> the</c><00:01:21.600><c> job</c><00:01:21.759><c> is</c>
+behind. It's because the job is
+behind. It's because the job is
+genuinely<00:01:22.720><c> being</c><00:01:23.119><c> refactored</c><00:01:23.920><c> while</c><00:01:24.240><c> we</c><00:01:24.479><c> are</c>
+genuinely being refactored while we are
+genuinely being refactored while we are
+all<00:01:25.040><c> working</c><00:01:25.360><c> as</c><00:01:25.600><c> quickly</c><00:01:25.920><c> as</c><00:01:26.080><c> we</c><00:01:26.320><c> can.</c><00:01:26.720><c> Tools</c>
+all working as quickly as we can. Tools
+all working as quickly as we can. Tools
+are<00:01:27.280><c> changing</c><00:01:27.600><c> every</c><00:01:27.920><c> week.</c><00:01:28.240><c> Capabilities</c>
+are changing every week. Capabilities
+are changing every week. Capabilities
+keep<00:01:29.040><c> jumping.</c><00:01:29.680><c> Mental</c><00:01:30.000><c> models</c><00:01:30.320><c> decay</c>
+keep jumping. Mental models decay
+keep jumping. Mental models decay
+quickly.<00:01:31.520><c> One</c><00:01:31.680><c> of</c><00:01:31.680><c> the</c><00:01:31.840><c> things</c><00:01:32.000><c> Andre</c><00:01:32.400><c> was</c>
+quickly. One of the things Andre was
+quickly. One of the things Andre was
+observing<00:01:32.880><c> that</c><00:01:33.040><c> I</c><00:01:33.200><c> think</c><00:01:33.280><c> is</c><00:01:33.439><c> really</c><00:01:33.759><c> true</c><00:01:34.240><c> is</c>
+observing that I think is really true is
+observing that I think is really true is
+that<00:01:34.640><c> if</c><00:01:34.799><c> you</c><00:01:35.040><c> haven't</c><00:01:35.280><c> played</c><00:01:35.600><c> with</c><00:01:35.759><c> Opus</c><00:01:36.320><c> 4.5</c>
+that if you haven't played with Opus 4.5
+that if you haven't played with Opus 4.5
+from<00:01:37.200><c> a</c><00:01:37.439><c> technical</c><00:01:37.840><c> perspective</c><00:01:38.400><c> in</c><00:01:38.560><c> the</c><00:01:38.720><c> last</c>
+from a technical perspective in the last
+from a technical perspective in the last
+month,<00:01:39.520><c> your</c><00:01:40.159><c> world</c><00:01:40.479><c> model</c><00:01:40.720><c> is</c><00:01:40.960><c> already</c>
+month, your world model is already
+month, your world model is already
+outdated.<00:01:42.000><c> And</c><00:01:42.159><c> that's</c><00:01:42.400><c> just</c><00:01:42.560><c> four</c><00:01:42.799><c> weeks</c>
+outdated. And that's just four weeks
+outdated. And that's just four weeks
+ago.<00:01:43.439><c> And</c><00:01:43.600><c> the</c><00:01:43.840><c> emotional</c><00:01:44.159><c> whiplash</c><00:01:44.799><c> isn't</c>
+ago. And the emotional whiplash isn't
+ago. And the emotional whiplash isn't
+just<00:01:45.280><c> it's</c><00:01:45.520><c> a</c><00:01:45.680><c> new</c><00:01:45.840><c> tool.</c><00:01:46.240><c> It's</c><00:01:46.399><c> that</c><00:01:46.640><c> the</c><00:01:46.880><c> old</c>
+just it's a new tool. It's that the old
+just it's a new tool. It's that the old
+way<00:01:47.439><c> that</c><00:01:47.680><c> we</c><00:01:48.079><c> anchored</c><00:01:48.479><c> on</c><00:01:48.720><c> our</c><00:01:49.040><c> sense</c><00:01:49.360><c> of</c>
+way that we anchored on our sense of
+way that we anchored on our sense of
+competence,<00:01:50.399><c> what</c><00:01:50.640><c> it</c><00:01:50.799><c> meant</c><00:01:50.960><c> to</c><00:01:51.040><c> be</c><00:01:51.200><c> skilled,</c>
+competence, what it meant to be skilled,
+competence, what it meant to be skilled,
+what<00:01:51.759><c> what</c><00:01:52.079><c> it</c><00:01:52.240><c> means</c><00:01:52.399><c> to</c><00:01:52.640><c> have</c><00:01:53.119><c> control</c><00:01:53.520><c> over</c>
+what what it means to have control over
+what what it means to have control over
+our<00:01:53.920><c> tools</c><00:01:54.240><c> and</c><00:01:54.399><c> our</c><00:01:54.560><c> craft,</c><00:01:55.280><c> all</c><00:01:55.439><c> of</c><00:01:55.600><c> that</c><00:01:55.840><c> has</c>
+our tools and our craft, all of that has
+our tools and our craft, all of that has
+to<00:01:56.240><c> change</c><00:01:56.640><c> because</c><00:01:56.880><c> it</c><00:01:57.200><c> stopped</c><00:01:57.520><c> matching</c>
+to change because it stopped matching
+to change because it stopped matching
+reality.<00:01:58.799><c> For</c><00:01:59.119><c> most</c><00:01:59.680><c> of</c><00:02:00.079><c> modern</c><00:02:00.640><c> engineering</c>
+reality. For most of modern engineering
+reality. For most of modern engineering
+history,<00:02:02.159><c> leverage</c><00:02:02.719><c> came</c><00:02:03.119><c> from</c><00:02:03.439><c> writing</c><00:02:04.159><c> more</c>
+history, leverage came from writing more
+history, leverage came from writing more
+correct<00:02:05.600><c> instructions</c><00:02:06.799><c> faster</c><00:02:07.200><c> than</c><00:02:07.439><c> other</c>
+correct instructions faster than other
+correct instructions faster than other
+people,<00:02:08.160><c> sure,</c><00:02:08.800><c> but</c><00:02:09.119><c> really</c><00:02:09.920><c> more</c><00:02:10.239><c> correct</c>
+people, sure, but really more correct
+people, sure, but really more correct
+instructions<00:02:11.680><c> on</c><00:02:12.080><c> problems</c><00:02:12.480><c> that</c><00:02:12.800><c> mattered.</c>
+instructions on problems that mattered.
+instructions on problems that mattered.
+So<00:02:13.440><c> if</c><00:02:13.599><c> you</c><00:02:13.760><c> really</c><00:02:14.080><c> wanted</c><00:02:14.400><c> leverage</c><00:02:14.800><c> in</c><00:02:15.040><c> the</c>
+So if you really wanted leverage in the
+So if you really wanted leverage in the
+engineering<00:02:15.680><c> discipline,</c><00:02:16.480><c> you</c><00:02:16.800><c> picked</c><00:02:17.040><c> the</c>
+engineering discipline, you picked the
+engineering discipline, you picked the
+problems<00:02:17.760><c> that</c><00:02:18.080><c> mattered,</c><00:02:18.879><c> you</c><00:02:19.120><c> wrote</c>
+problems that mattered, you wrote
+problems that mattered, you wrote
+correct<00:02:19.920><c> instructions,</c><00:02:20.640><c> i.e.</c><00:02:21.120><c> workflows,</c>
+correct instructions, i.e. workflows,
+correct instructions, i.e. workflows,
+i.e.<00:02:22.239><c> programs</c><00:02:23.040><c> and</c><00:02:23.280><c> then</c><00:02:23.440><c> you</c><00:02:23.680><c> were</c><00:02:23.840><c> able</c><00:02:24.160><c> to</c>
+i.e. programs and then you were able to
+i.e. programs and then you were able to
+leverage<00:02:25.360><c> those</c><00:02:25.840><c> at</c><00:02:26.080><c> a</c><00:02:26.239><c> wide</c><00:02:26.560><c> scale</c><00:02:27.040><c> in</c><00:02:27.280><c> a</c><00:02:27.520><c> very</c>
+leverage those at a wide scale in a very
+leverage those at a wide scale in a very
+simplified<00:02:28.480><c> fashion.</c><00:02:29.200><c> That</c><00:02:29.440><c> is</c><00:02:29.520><c> the</c><00:02:29.760><c> story</c><00:02:29.920><c> of</c>
+simplified fashion. That is the story of
+simplified fashion. That is the story of
+Bill<00:02:30.319><c> Gates</c><00:02:30.640><c> and</c><00:02:30.800><c> Windows.</c><00:02:31.440><c> You</c><00:02:31.599><c> internalize</c>
+Bill Gates and Windows. You internalize
+Bill Gates and Windows. You internalize
+abstractions,<00:02:33.280><c> you</c><00:02:33.519><c> master</c><00:02:33.840><c> your</c><00:02:34.080><c> tools,</c><00:02:34.480><c> you</c>
+abstractions, you master your tools, you
+abstractions, you master your tools, you
+shape<00:02:34.959><c> deterministic</c><00:02:35.760><c> systems,</c><00:02:36.400><c> and</c><00:02:36.640><c> before</c>
+shape deterministic systems, and before
+shape deterministic systems, and before
+you<00:02:36.959><c> know</c><00:02:37.040><c> it,</c><00:02:37.280><c> you</c><00:02:37.360><c> have</c><00:02:37.519><c> Windows</c><00:02:37.840><c> 9.</c><00:02:38.319><c> You</c><00:02:38.480><c> you</c>
+you know it, you have Windows 9. You you
+you know it, you have Windows 9. You you
+write<00:02:39.040><c> logic,</c><00:02:39.519><c> the</c><00:02:39.760><c> machine</c><00:02:40.000><c> executes</c><00:02:40.480><c> the</c>
+write logic, the machine executes the
+write logic, the machine executes the
+logic<00:02:41.040><c> the</c><00:02:41.280><c> exact</c><00:02:41.599><c> same</c><00:02:41.840><c> way</c><00:02:42.000><c> on</c><00:02:42.319><c> every</c><00:02:42.560><c> single</c>
+logic the exact same way on every single
+logic the exact same way on every single
+CD<00:02:43.200><c> copy</c><00:02:43.440><c> that</c><00:02:43.680><c> Windows</c><00:02:44.000><c> hands</c><00:02:44.319><c> out.</c><00:02:44.720><c> When</c>
+CD copy that Windows hands out. When
+CD copy that Windows hands out. When
+something<00:02:45.280><c> breaks,</c><00:02:45.760><c> the</c><00:02:45.920><c> system</c><00:02:46.319><c> can</c><00:02:46.480><c> be</c>
+something breaks, the system can be
+something breaks, the system can be
+inspected.<00:02:47.280><c> You</c><00:02:47.440><c> can</c><00:02:47.599><c> ship</c><00:02:47.840><c> a</c><00:02:48.000><c> bug</c><00:02:48.239><c> patch.</c><00:02:48.640><c> You</c>
+inspected. You can ship a bug patch. You
+inspected. You can ship a bug patch. You
+can<00:02:48.959><c> trace</c><00:02:49.280><c> causality.</c><00:02:50.319><c> You</c><00:02:50.560><c> can</c><00:02:50.800><c> step</c>
+can trace causality. You can step
+can trace causality. You can step
+through<00:02:51.440><c> the</c><00:02:51.760><c> behavior</c><00:02:52.480><c> end</c><00:02:52.720><c> to</c><00:02:52.959><c> end</c><00:02:53.200><c> and</c><00:02:53.440><c> find</c>
+through the behavior end to end and find
+through the behavior end to end and find
+out<00:02:53.840><c> what's</c><00:02:54.160><c> wrong.</c><00:02:54.640><c> In</c><00:02:54.879><c> that</c><00:02:55.120><c> old</c><00:02:55.360><c> world,</c>
+out what's wrong. In that old world,
+out what's wrong. In that old world,
+authorship<00:02:56.480><c> and</c><00:02:56.720><c> authority</c><00:02:57.200><c> were</c><00:02:57.440><c> really</c>
+authorship and authority were really
+authorship and authority were really
+tightly<00:02:58.080><c> linked.</c><00:02:58.400><c> If</c><00:02:58.560><c> you</c><00:02:58.720><c> were</c><00:02:58.879><c> the</c><00:02:59.120><c> person</c>
+tightly linked. If you were the person
+tightly linked. If you were the person
+who<00:02:59.519><c> wrote</c><00:02:59.840><c> the</c><00:03:00.080><c> program,</c><00:03:00.560><c> you</c><00:03:00.720><c> had</c><00:03:00.879><c> the</c>
+who wrote the program, you had the
+who wrote the program, you had the
+authority<00:03:01.519><c> to</c><00:03:01.680><c> fix</c><00:03:01.920><c> it</c><00:03:02.000><c> and</c><00:03:02.239><c> also</c><00:03:02.480><c> the</c>
+authority to fix it and also the
+authority to fix it and also the
+knowledge<00:03:02.959><c> to</c><00:03:03.120><c> fix</c><00:03:03.360><c> it.</c><00:03:03.680><c> You</c><00:03:03.840><c> wrote</c><00:03:04.080><c> the</c>
+knowledge to fix it. You wrote the
+knowledge to fix it. You wrote the
+behavior,<00:03:04.640><c> so</c><00:03:04.879><c> you</c><00:03:05.120><c> owned</c><00:03:05.440><c> the</c><00:03:05.599><c> behavior.</c><00:03:06.480><c> The</c>
+behavior, so you owned the behavior. The
+behavior, so you owned the behavior. The
+assumption<00:03:07.040><c> of</c><00:03:07.280><c> control</c><00:03:07.680><c> is</c><00:03:07.920><c> baked</c><00:03:08.239><c> into</c><00:03:08.480><c> the</c>
+assumption of control is baked into the
+assumption of control is baked into the
+very<00:03:08.959><c> rituals</c><00:03:09.599><c> we</c><00:03:09.920><c> have</c><00:03:10.239><c> as</c><00:03:10.560><c> software</c>
+very rituals we have as software
+very rituals we have as software
+engineers<00:03:11.440><c> where</c><00:03:11.680><c> we</c><00:03:11.920><c> talk</c><00:03:12.080><c> about</c><00:03:12.239><c> the</c><00:03:12.480><c> idea</c>
+engineers where we talk about the idea
+engineers where we talk about the idea
+of<00:03:12.879><c> the</c><00:03:13.120><c> engineer</c><00:03:13.519><c> who</c><00:03:13.760><c> knows</c><00:03:14.000><c> the</c><00:03:14.239><c> code.</c><00:03:14.879><c> The</c>
+of the engineer who knows the code. The
+of the engineer who knows the code. The
+engineer<00:03:15.360><c> who</c><00:03:15.599><c> authors</c><00:03:15.920><c> the</c><00:03:16.080><c> code.</c><00:03:16.400><c> The</c>
+engineer who authors the code. The
+engineer who authors the code. The
+engineer<00:03:16.800><c> who</c><00:03:17.040><c> knows</c><00:03:17.280><c> where</c><00:03:17.840><c> all</c><00:03:18.080><c> of</c><00:03:18.159><c> the</c>
+engineer who knows where all of the
+engineer who knows where all of the
+skeletons<00:03:18.959><c> are</c><00:03:19.440><c> in</c><00:03:19.680><c> the</c><00:03:19.920><c> codebase</c><00:03:20.800><c> because</c>
+skeletons are in the codebase because
+skeletons are in the codebase because
+that<00:03:21.360><c> engineer</c><00:03:21.760><c> touched</c><00:03:22.080><c> it.</c><00:03:22.400><c> Because</c><00:03:22.560><c> that</c>
+that engineer touched it. Because that
+that engineer touched it. Because that
+engineer<00:03:23.200><c> knows</c><00:03:23.440><c> it.</c><00:03:23.920><c> This</c><00:03:24.080><c> is</c><00:03:24.239><c> why</c><00:03:24.480><c> the</c>
+engineer knows it. This is why the
+engineer knows it. This is why the
+conventional<00:03:25.599><c> wisdom</c><00:03:26.080><c> for</c><00:03:26.319><c> the</c><00:03:26.560><c> last</c><00:03:27.040><c> several</c>
+conventional wisdom for the last several
+conventional wisdom for the last several
+decades<00:03:28.000><c> has</c><00:03:28.239><c> been</c><00:03:28.400><c> that</c><00:03:28.640><c> no</c><00:03:28.720><c> matter</c><00:03:29.040><c> how</c>
+decades has been that no matter how
+decades has been that no matter how
+frustrated<00:03:29.920><c> you</c><00:03:30.159><c> are</c><00:03:30.640><c> with</c><00:03:30.879><c> your</c><00:03:31.120><c> founding</c>
+frustrated you are with your founding
+frustrated you are with your founding
+engineers,<00:03:32.560><c> you</c><00:03:32.799><c> keep</c><00:03:32.959><c> them</c><00:03:33.200><c> around</c><00:03:33.760><c> because</c>
+engineers, you keep them around because
+engineers, you keep them around because
+they<00:03:34.319><c> know</c><00:03:34.400><c> the</c><00:03:34.640><c> code.</c><00:03:35.280><c> That</c><00:03:35.599><c> whole</c><00:03:36.080><c> system</c><00:03:36.400><c> of</c>
+they know the code. That whole system of
+they know the code. That whole system of
+assumptions<00:03:37.519><c> is</c><00:03:37.840><c> changing.</c><00:03:38.319><c> That</c><00:03:38.560><c> regime</c><00:03:39.120><c> is</c>
+assumptions is changing. That regime is
+assumptions is changing. That regime is
+ending.<00:03:40.159><c> The</c><00:03:40.480><c> unit</c><00:03:40.879><c> of</c><00:03:41.280><c> leverage</c><00:03:41.920><c> is</c><00:03:42.239><c> shifting</c>
+ending. The unit of leverage is shifting
+ending. The unit of leverage is shifting
+from<00:03:43.360><c> writing</c><00:03:43.920><c> code</c><00:03:44.720><c> toward</c><00:03:45.200><c> orchestrating</c>
+from writing code toward orchestrating
+from writing code toward orchestrating
+intelligence.<00:03:46.799><c> And</c><00:03:46.959><c> that's</c><00:03:47.120><c> not</c><00:03:47.280><c> just</c><00:03:47.440><c> a</c>
+intelligence. And that's not just a
+intelligence. And that's not just a
+buzzword.<00:03:48.319><c> Intelligence</c><00:03:48.879><c> here</c><00:03:49.200><c> doesn't</c><00:03:49.519><c> mean</c>
+buzzword. Intelligence here doesn't mean
+buzzword. Intelligence here doesn't mean
+a<00:03:50.319><c> magical</c><00:03:50.879><c> AGI</c><00:03:51.519><c> vibe.</c><00:03:52.000><c> It</c><00:03:52.159><c> means</c><00:03:52.319><c> a</c><00:03:52.560><c> very</c>
+a magical AGI vibe. It means a very
+a magical AGI vibe. It means a very
+specific<00:03:53.280><c> kind</c><00:03:53.440><c> of</c><00:03:53.680><c> component</c><00:03:54.080><c> that</c><00:03:54.319><c> has</c>
+specific kind of component that has
+specific kind of component that has
+entered<00:03:54.879><c> the</c><00:03:55.120><c> stack</c><00:03:55.519><c> that's</c><00:03:55.760><c> net</c><00:03:56.000><c> new.</c><00:03:56.400><c> It's</c><00:03:56.640><c> a</c>
+entered the stack that's net new. It's a
+entered the stack that's net new. It's a
+probabilistic<00:03:57.599><c> component.</c><00:03:58.159><c> It's</c>
+probabilistic component. It's
+probabilistic component. It's
+stochastic.<00:03:59.280><c> It's</c><00:03:59.599><c> fallible.</c><00:04:00.319><c> It's</c>
+stochastic. It's fallible. It's
+stochastic. It's fallible. It's
+changing.<00:04:01.040><c> You</c><00:04:01.200><c> can</c><00:04:01.280><c> pick</c><00:04:01.439><c> your</c><00:04:01.680><c> adjectives,</c>
+changing. You can pick your adjectives,
+changing. You can pick your adjectives,
+but<00:04:02.400><c> you</c><00:04:02.560><c> see</c><00:04:02.720><c> the</c><00:04:02.879><c> idea.</c><00:04:03.599><c> The</c><00:04:03.840><c> model</c><00:04:04.159><c> is</c><00:04:04.480><c> not</c><00:04:04.720><c> a</c>
+but you see the idea. The model is not a
+but you see the idea. The model is not a
+deterministic<00:04:05.920><c> function.</c><00:04:06.640><c> An</c><00:04:06.879><c> LLM</c><00:04:07.519><c> is</c><00:04:07.760><c> a</c>
+deterministic function. An LLM is a
+deterministic function. An LLM is a
+probabilistic<00:04:08.879><c> token</c><00:04:09.360><c> generator.</c><00:04:10.239><c> It</c>
+probabilistic token generator. It
+probabilistic token generator. It
+produces<00:04:11.120><c> a</c><00:04:11.439><c> plausible</c><00:04:12.080><c> sequence</c>
+produces a plausible sequence
+produces a plausible sequence
+conditioned<00:04:13.120><c> on</c><00:04:13.280><c> inputs</c><00:04:13.680><c> and</c><00:04:13.920><c> its</c><00:04:14.080><c> internal</c>
+conditioned on inputs and its internal
+conditioned on inputs and its internal
+reasoning<00:04:14.959><c> is</c><00:04:15.280><c> not</c><00:04:15.519><c> something</c><00:04:16.239><c> you</c><00:04:16.560><c> can</c><00:04:16.799><c> fully</c>
+reasoning is not something you can fully
+reasoning is not something you can fully
+inspect<00:04:18.320><c> the</c><00:04:18.639><c> way</c><00:04:18.799><c> that</c><00:04:19.040><c> you</c><00:04:19.280><c> inspect</c><00:04:19.759><c> your</c>
+inspect the way that you inspect your
+inspect the way that you inspect your
+code.<00:04:20.400><c> You</c><00:04:20.639><c> can't</c><00:04:20.799><c> single</c><00:04:21.280><c> step</c><00:04:21.440><c> it</c><00:04:21.600><c> through.</c>
+code. You can't single step it through.
+code. You can't single step it through.
+You<00:04:22.079><c> can't</c><00:04:22.320><c> rubber</c><00:04:22.720><c> duck</c><00:04:22.880><c> it.</c><00:04:23.120><c> If</c><00:04:23.199><c> you're</c><00:04:23.360><c> an</c>
+You can't rubber duck it. If you're an
+You can't rubber duck it. If you're an
+engineer,<00:04:24.320><c> you</c><00:04:24.560><c> can't</c><00:04:24.880><c> reliably</c><00:04:25.520><c> reproduce</c>
+engineer, you can't reliably reproduce
+engineer, you can't reliably reproduce
+it.<00:04:26.560><c> You</c><00:04:26.720><c> can't</c><00:04:26.880><c> treat</c><00:04:27.120><c> it</c><00:04:27.280><c> like</c><00:04:27.440><c> a</c><00:04:27.680><c> clean</c>
+it. You can't treat it like a clean
+it. You can't treat it like a clean
+abstraction.<00:04:28.880><c> It's</c><00:04:29.199><c> truly</c><00:04:29.759><c> an</c><00:04:30.240><c> alien</c>
+abstraction. It's truly an alien
+abstraction. It's truly an alien
+component<00:04:31.759><c> that</c><00:04:32.080><c> has</c><00:04:32.400><c> really</c><00:04:32.800><c> weird</c>
+component that has really weird
+component that has really weird
+ergonomics<00:04:33.840><c> for</c><00:04:34.160><c> traditional</c><00:04:34.720><c> software</c>
+ergonomics for traditional software
+ergonomics for traditional software
+engineers.<00:04:36.160><c> And</c><00:04:36.400><c> that's</c><00:04:36.639><c> why</c><00:04:36.880><c> this</c><00:04:37.199><c> moment</c>
+engineers. And that's why this moment
+engineers. And that's why this moment
+feels<00:04:37.840><c> like</c><00:04:38.000><c> an</c><00:04:38.240><c> earthquake.</c><00:04:38.880><c> We</c><00:04:39.120><c> didn't</c><00:04:39.360><c> just</c>
+feels like an earthquake. We didn't just
+feels like an earthquake. We didn't just
+get<00:04:40.160><c> a</c><00:04:40.479><c> better</c><00:04:40.720><c> Python</c><00:04:41.199><c> library,</c><00:04:41.680><c> right?</c><00:04:41.919><c> We</c>
+get a better Python library, right? We
+get a better Python library, right? We
+got<00:04:42.240><c> a</c><00:04:42.400><c> new</c><00:04:42.560><c> kind</c><00:04:42.800><c> of</c><00:04:42.960><c> machine</c><00:04:43.280><c> in</c><00:04:43.440><c> the</c><00:04:43.600><c> loop.</c>
+got a new kind of machine in the loop.
+got a new kind of machine in the loop.
+And<00:04:44.080><c> once</c><00:04:44.320><c> you</c><00:04:44.560><c> accept</c><00:04:44.960><c> that,</c><00:04:45.440><c> you</c><00:04:45.600><c> can</c>
+And once you accept that, you can
+And once you accept that, you can
+explain<00:04:46.320><c> almost</c><00:04:46.880><c> everything</c><00:04:47.360><c> that</c><00:04:47.680><c> people</c>
+explain almost everything that people
+explain almost everything that people
+are<00:04:48.080><c> feeling,</c><00:04:48.880><c> especially</c><00:04:49.360><c> the</c><00:04:49.600><c> best</c>
+are feeling, especially the best
+are feeling, especially the best
+engineers<00:04:50.720><c> because</c><00:04:50.960><c> the</c><00:04:51.199><c> assumptions</c><00:04:52.080><c> that</c>
+engineers because the assumptions that
+engineers because the assumptions that
+engineers<00:04:53.040><c> trained</c><00:04:53.360><c> on</c><00:04:53.680><c> are</c><00:04:54.000><c> breaking</c><00:04:54.560><c> in</c><00:04:54.880><c> a</c>
+engineers trained on are breaking in a
+engineers trained on are breaking in a
+number<00:04:55.199><c> of</c><00:04:55.440><c> specific</c><00:04:55.840><c> ways.</c><00:04:56.320><c> And</c><00:04:56.560><c> if</c><00:04:56.720><c> you're</c>
+number of specific ways. And if you're
+number of specific ways. And if you're
+wondering<00:04:57.120><c> as</c><00:04:57.280><c> a</c><00:04:57.440><c> leader</c><00:04:58.000><c> why</c><00:04:58.400><c> this</c><00:04:58.720><c> matters</c>
+wondering as a leader why this matters
+wondering as a leader why this matters
+for<00:04:59.520><c> you,</c><00:05:00.000><c> I</c><00:05:00.240><c> got</c><00:05:00.400><c> news.</c><00:05:00.800><c> Your</c><00:05:01.040><c> whole</c>
+for you, I got news. Your whole
+for you, I got news. Your whole
+technical<00:05:01.759><c> team</c><00:05:01.919><c> is</c><00:05:02.160><c> wrestling</c><00:05:02.560><c> with</c><00:05:02.800><c> this.</c>
+technical team is wrestling with this.
+technical team is wrestling with this.
+And<00:05:03.680><c> now</c><00:05:03.840><c> it's</c><00:05:04.080><c> no</c><00:05:04.240><c> longer</c><00:05:04.479><c> a</c><00:05:04.639><c> technical</c><00:05:05.040><c> team</c>
+And now it's no longer a technical team
+And now it's no longer a technical team
+issue.<00:05:05.600><c> You're</c><00:05:05.759><c> going</c><00:05:05.840><c> to</c><00:05:05.919><c> have</c><00:05:06.080><c> to</c><00:05:06.240><c> expand</c>
+issue. You're going to have to expand
+issue. You're going to have to expand
+the<00:05:06.720><c> blast</c><00:05:07.120><c> radius</c><00:05:07.520><c> and</c><00:05:07.759><c> understand</c><00:05:08.160><c> how</c><00:05:08.400><c> the</c>
+the blast radius and understand how the
+the blast radius and understand how the
+skill<00:05:08.880><c> trees</c><00:05:09.280><c> we</c><00:05:09.520><c> talk</c><00:05:09.759><c> about</c><00:05:10.000><c> in</c><00:05:10.240><c> this</c><00:05:10.479><c> video</c>
+skill trees we talk about in this video
+skill trees we talk about in this video
+touch<00:05:11.759><c> all</c><00:05:12.000><c> of</c><00:05:12.160><c> your</c><00:05:12.400><c> job</c><00:05:12.639><c> families,</c><00:05:13.440><c> not</c><00:05:13.600><c> just</c>
+touch all of your job families, not just
+touch all of your job families, not just
+the<00:05:14.000><c> technical.</c><00:05:14.560><c> But</c><00:05:14.720><c> first,</c><00:05:14.960><c> let's</c>
+the technical. But first, let's
+the technical. But first, let's
+understand<00:05:15.680><c> what</c><00:05:15.919><c> what</c><00:05:16.240><c> has</c><00:05:16.479><c> broken</c><00:05:16.960><c> so</c><00:05:17.199><c> that</c>
+understand what what has broken so that
+understand what what has broken so that
+we<00:05:17.520><c> can</c><00:05:17.680><c> rebuild</c><00:05:18.080><c> on</c><00:05:18.320><c> top</c><00:05:18.479><c> of</c><00:05:18.560><c> it</c><00:05:18.800><c> correctly.</c>
+we can rebuild on top of it correctly.
+we can rebuild on top of it correctly.
+The<00:05:19.840><c> first</c><00:05:20.080><c> thing</c><00:05:20.160><c> that</c><00:05:20.479><c> broke</c><00:05:20.720><c> is</c><00:05:20.960><c> that</c>
+The first thing that broke is that
+The first thing that broke is that
+control<00:05:21.600><c> is</c><00:05:21.840><c> not</c><00:05:21.919><c> the</c><00:05:22.160><c> default</c><00:05:22.560><c> anymore.</c><00:05:22.960><c> In</c>
+control is not the default anymore. In
+control is not the default anymore. In
+the<00:05:23.360><c> old</c><00:05:23.520><c> world,</c><00:05:23.759><c> when</c><00:05:23.919><c> you</c><00:05:24.080><c> authored</c>
+the old world, when you authored
+the old world, when you authored
+behavior,<00:05:25.280><c> it</c><00:05:25.520><c> was</c><00:05:25.600><c> yours.</c><00:05:25.919><c> And</c><00:05:26.080><c> in</c><00:05:26.240><c> the</c><00:05:26.400><c> new</c>
+behavior, it was yours. And in the new
+behavior, it was yours. And in the new
+world,<00:05:27.120><c> you</c><00:05:27.680><c> condition</c><00:05:28.320><c> behavior,</c><00:05:28.880><c> right?</c>
+world, you condition behavior, right?
+world, you condition behavior, right?
+You<00:05:29.199><c> don't</c><00:05:29.360><c> author</c><00:05:29.680><c> it</c><00:05:29.919><c> specifically.</c><00:05:30.960><c> You</c>
+You don't author it specifically. You
+You don't author it specifically. You
+can<00:05:31.360><c> shape</c><00:05:31.680><c> outcomes</c><00:05:32.240><c> through</c><00:05:32.479><c> prompts,</c>
+can shape outcomes through prompts,
+can shape outcomes through prompts,
+through<00:05:33.280><c> context</c><00:05:33.759><c> windows,</c><00:05:34.240><c> through</c><00:05:34.560><c> memory</c>
+through context windows, through memory
+through context windows, through memory
+structures<00:05:35.440><c> or</c><00:05:35.680><c> tool</c><00:05:36.000><c> access.</c><00:05:36.880><c> And</c><00:05:36.960><c> the</c><00:05:37.199><c> model</c>
+structures or tool access. And the model
+structures or tool access. And the model
+responds<00:05:38.320><c> probabilistically.</c><00:05:39.680><c> The</c><00:05:39.919><c> same</c>
+responds probabilistically. The same
+responds probabilistically. The same
+input<00:05:40.880><c> can</c><00:05:41.199><c> yield</c><00:05:41.840><c> somewhat</c><00:05:42.320><c> different</c>
+input can yield somewhat different
+input can yield somewhat different
+outputs.<00:05:43.600><c> The</c><00:05:43.840><c> same</c><00:05:44.080><c> workflow,</c><00:05:44.720><c> it</c><00:05:44.880><c> is</c>
+outputs. The same workflow, it is
+outputs. The same workflow, it is
+possible<00:05:45.520><c> it</c><00:05:45.680><c> can</c><00:05:45.840><c> drift</c><00:05:46.160><c> when</c><00:05:46.400><c> the</c>
+possible it can drift when the
+possible it can drift when the
+underlying<00:05:47.039><c> model</c><00:05:47.360><c> changes.</c><00:05:47.840><c> In</c><00:05:47.919><c> fact,</c><00:05:48.160><c> it's</c>
+underlying model changes. In fact, it's
+underlying model changes. In fact, it's
+likely.<00:05:49.199><c> Mastery</c><00:05:49.759><c> is</c><00:05:49.919><c> then</c><00:05:50.240><c> less</c><00:05:50.560><c> about</c><00:05:51.520><c> I</c><00:05:51.759><c> can</c>
+likely. Mastery is then less about I can
+likely. Mastery is then less about I can
+make<00:05:52.080><c> it</c><00:05:52.320><c> do</c><00:05:52.560><c> exactly</c><00:05:52.960><c> what</c><00:05:53.199><c> I</c><00:05:53.360><c> want</c><00:05:53.600><c> every</c>
+make it do exactly what I want every
+make it do exactly what I want every
+time<00:05:54.000><c> the</c><00:05:54.240><c> same</c><00:05:54.400><c> way</c><00:05:54.560><c> and</c><00:05:54.800><c> more</c><00:05:55.039><c> about</c><00:05:55.440><c> I</c><00:05:55.759><c> can</c>
+time the same way and more about I can
+time the same way and more about I can
+steer<00:05:56.240><c> it</c><00:05:56.400><c> toward</c><00:05:56.720><c> X</c><00:05:57.120><c> outcome</c><00:05:57.840><c> reliably.</c><00:05:58.800><c> I</c>
+steer it toward X outcome reliably. I
+steer it toward X outcome reliably. I
+can<00:05:59.120><c> detect</c><00:05:59.520><c> when</c><00:05:59.680><c> it's</c><00:05:59.919><c> off</c><00:06:00.080><c> and</c><00:06:00.320><c> I</c><00:06:00.479><c> can</c>
+can detect when it's off and I can
+can detect when it's off and I can
+correct<00:06:01.039><c> it</c><00:06:01.199><c> very</c><00:06:01.520><c> quickly.</c><00:06:02.160><c> The</c><00:06:02.400><c> mental</c>
+correct it very quickly. The mental
+correct it very quickly. The mental
+shift<00:06:03.440><c> is</c><00:06:03.680><c> from</c><00:06:03.919><c> authorship</c><00:06:04.400><c> to</c><00:06:04.720><c> steering.</c>
+shift is from authorship to steering.
+shift is from authorship to steering.
+Second<00:06:05.680><c> thing</c><00:06:05.840><c> that</c><00:06:06.160><c> breaks</c><00:06:06.800><c> effort</c><00:06:07.280><c> no</c>
+Second thing that breaks effort no
+Second thing that breaks effort no
+longer<00:06:08.000><c> clearly</c><00:06:08.400><c> maps</c><00:06:08.800><c> to</c><00:06:09.039><c> output.</c><00:06:09.680><c> In</c><00:06:09.840><c> a</c>
+longer clearly maps to output. In a
+longer clearly maps to output. In a
+deterministic<00:06:10.720><c> world</c><00:06:10.960><c> being</c><00:06:11.199><c> better</c><00:06:11.600><c> meant</c>
+deterministic world being better meant
+deterministic world being better meant
+you<00:06:12.080><c> could</c><00:06:12.479><c> frankly</c><00:06:12.880><c> do</c><00:06:13.120><c> more</c><00:06:13.280><c> with</c><00:06:13.520><c> your</c>
+you could frankly do more with your
+you could frankly do more with your
+time,<00:06:14.000><c> right?</c><00:06:14.240><c> You</c><00:06:14.560><c> were</c><00:06:14.800><c> faster</c><00:06:15.120><c> at</c><00:06:15.280><c> typing,</c>
+time, right? You were faster at typing,
+time, right? You were faster at typing,
+faster<00:06:16.080><c> at</c><00:06:16.240><c> debugging,</c><00:06:16.880><c> better</c><00:06:17.199><c> recall,</c>
+faster at debugging, better recall,
+faster at debugging, better recall,
+better<00:06:17.840><c> architecture.</c><00:06:18.400><c> As</c><00:06:18.639><c> long</c><00:06:18.800><c> as</c><00:06:18.880><c> you</c>
+better architecture. As long as you
+better architecture. As long as you
+worked<00:06:19.280><c> on</c><00:06:19.360><c> the</c><00:06:19.600><c> right</c><00:06:19.759><c> problem,</c><00:06:20.479><c> you</c><00:06:20.720><c> were</c>
+worked on the right problem, you were
+worked on the right problem, you were
+going<00:06:20.960><c> to</c><00:06:21.120><c> have</c><00:06:21.280><c> more</c><00:06:21.520><c> leverage.</c><00:06:22.240><c> In</c><00:06:22.400><c> a</c>
+going to have more leverage. In a
+going to have more leverage. In a
+probabilistic<00:06:23.440><c> world,</c><00:06:24.160><c> that</c><00:06:24.479><c> bottleneck</c>
+probabilistic world, that bottleneck
+probabilistic world, that bottleneck
+moves.<00:06:26.160><c> Sometimes</c><00:06:26.880><c> one</c><00:06:27.120><c> person</c><00:06:27.520><c> gets</c><00:06:27.759><c> a</c><00:06:28.000><c> 10x</c>
+moves. Sometimes one person gets a 10x
+moves. Sometimes one person gets a 10x
+jump<00:06:28.960><c> because</c><00:06:29.280><c> they</c><00:06:29.600><c> know</c><00:06:29.759><c> how</c><00:06:29.919><c> to</c><00:06:30.080><c> set</c><00:06:30.240><c> up</c><00:06:30.400><c> a</c>
+jump because they know how to set up a
+jump because they know how to set up a
+delegation<00:06:31.199><c> loop</c><00:06:31.520><c> while</c><00:06:31.759><c> another</c><00:06:32.240><c> person</c>
+delegation loop while another person
+delegation loop while another person
+grinds<00:06:33.039><c> away</c><00:06:33.360><c> manually</c><00:06:33.919><c> and</c><00:06:34.160><c> gets</c><00:06:34.479><c> less</c><00:06:34.880><c> done</c>
+grinds away manually and gets less done
+grinds away manually and gets less done
+despite<00:06:35.759><c> being</c><00:06:36.160><c> just</c><00:06:36.400><c> as</c><00:06:36.720><c> smart.</c><00:06:37.360><c> And</c><00:06:37.600><c> that's</c>
+despite being just as smart. And that's
+despite being just as smart. And that's
+what<00:06:37.919><c> Andre</c><00:06:38.400><c> is</c><00:06:38.560><c> calling</c><00:06:39.120><c> a</c><00:06:39.440><c> skill</c><00:06:39.759><c> issue</c>
+what Andre is calling a skill issue
+what Andre is calling a skill issue
+these<00:06:40.400><c> days.</c><00:06:41.039><c> The</c><00:06:41.280><c> skill</c><00:06:41.680><c> is</c><00:06:42.000><c> new.</c><00:06:42.479><c> It's</c>
+these days. The skill is new. It's
+these days. The skill is new. It's
+unintuitive.<00:06:43.680><c> It's</c><00:06:44.080><c> hierarchical.</c><00:06:45.039><c> It's</c><00:06:45.199><c> the</c>
+unintuitive. It's hierarchical. It's the
+unintuitive. It's hierarchical. It's the
+it's<00:06:45.759><c> the</c><00:06:46.080><c> need</c><00:06:46.319><c> to</c><00:06:46.560><c> develop</c><00:06:47.280><c> a</c><00:06:47.680><c> skill</c><00:06:48.000><c> of</c>
+it's the need to develop a skill of
+it's the need to develop a skill of
+delegation<00:06:49.039><c> instead</c><00:06:49.360><c> of</c><00:06:49.520><c> a</c><00:06:49.680><c> skill</c><00:06:49.919><c> of</c>
+delegation instead of a skill of
+delegation instead of a skill of
+execution<00:06:50.880><c> and</c><00:06:51.120><c> failure</c><00:06:51.520><c> to</c><00:06:51.759><c> learn</c><00:06:52.000><c> it</c><00:06:52.240><c> means</c>
+execution and failure to learn it means
+execution and failure to learn it means
+your<00:06:52.720><c> effort</c><00:06:53.120><c> just</c><00:06:53.440><c> doesn't</c><00:06:53.759><c> convert</c><00:06:54.240><c> into</c>
+your effort just doesn't convert into
+your effort just doesn't convert into
+leverage<00:06:54.960><c> in</c><00:06:55.120><c> the</c><00:06:55.280><c> new</c><00:06:55.440><c> AI</c><00:06:55.840><c> economy.</c><00:06:56.639><c> The</c>
+leverage in the new AI economy. The
+leverage in the new AI economy. The
+third<00:06:57.039><c> thing</c><00:06:57.199><c> that</c><00:06:57.440><c> broke</c><00:06:57.919><c> is</c><00:06:58.160><c> that</c><00:06:58.319><c> the</c>
+third thing that broke is that the
+third thing that broke is that the
+abstraction<00:06:59.360><c> stack</c><00:07:00.160><c> got</c><00:07:00.400><c> inverted.</c>
+abstraction stack got inverted.
+abstraction stack got inverted.
+Historically,<00:07:02.080><c> highle</c><00:07:02.639><c> reasoning</c><00:07:03.120><c> collapsed</c>
+Historically, highle reasoning collapsed
+Historically, highle reasoning collapsed
+downward<00:07:04.000><c> into</c><00:07:04.319><c> code</c><00:07:04.560><c> very</c><00:07:04.800><c> cleanly.</c><00:07:05.199><c> Right?</c>
+downward into code very cleanly. Right?
+downward into code very cleanly. Right?
+You<00:07:05.599><c> have</c><00:07:05.680><c> your</c><00:07:05.840><c> intention</c><00:07:06.319><c> and</c><00:07:06.560><c> it</c><00:07:06.800><c> collapses</c>
+You have your intention and it collapses
+You have your intention and it collapses
+into<00:07:07.520><c> implementation.</c><00:07:08.639><c> This</c><00:07:08.800><c> is</c><00:07:09.039><c> where</c><00:07:09.280><c> the</c>
+into implementation. This is where the
+into implementation. This is where the
+whole<00:07:09.599><c> idea</c><00:07:09.840><c> of</c><00:07:10.000><c> product</c><00:07:10.319><c> management</c><00:07:10.639><c> and</c>
+whole idea of product management and
+whole idea of product management and
+requirements<00:07:11.520><c> comes</c><00:07:11.759><c> from.</c><00:07:12.319><c> But</c><00:07:12.560><c> now</c>
+requirements comes from. But now
+requirements comes from. But now
+low-level<00:07:13.759><c> implementation</c><00:07:14.800><c> often</c><00:07:15.280><c> expands</c>
+low-level implementation often expands
+low-level implementation often expands
+upward<00:07:16.240><c> from</c><00:07:16.560><c> intent.</c><00:07:17.440><c> You</c><00:07:17.680><c> end</c><00:07:17.759><c> up</c><00:07:17.919><c> in</c><00:07:18.080><c> a</c>
+upward from intent. You end up in a
+upward from intent. You end up in a
+place<00:07:18.400><c> where</c><00:07:18.639><c> you</c><00:07:18.800><c> have</c><00:07:18.880><c> intent</c><00:07:19.360><c> and</c><00:07:19.599><c> you</c><00:07:19.759><c> jump</c>
+place where you have intent and you jump
+place where you have intent and you jump
+straight<00:07:20.400><c> to</c><00:07:20.720><c> generated</c><00:07:21.280><c> artifacts</c><00:07:22.000><c> and</c><00:07:22.240><c> then</c>
+straight to generated artifacts and then
+straight to generated artifacts and then
+you<00:07:22.639><c> verify</c><00:07:23.039><c> the</c><00:07:23.199><c> output.</c><00:07:23.599><c> In</c><00:07:23.759><c> other</c><00:07:23.840><c> words,</c>
+you verify the output. In other words,
+you verify the output. In other words,
+the<00:07:24.240><c> job</c><00:07:24.479><c> shifts</c><00:07:24.880><c> away</c><00:07:25.520><c> from</c><00:07:25.919><c> constructing</c>
+the job shifts away from constructing
+the job shifts away from constructing
+something<00:07:27.039><c> toward</c><00:07:27.840><c> supervising</c><00:07:28.479><c> a</c>
+something toward supervising a
+something toward supervising a
+construction<00:07:29.440><c> crew.</c><00:07:30.240><c> You</c><00:07:30.479><c> have</c><00:07:30.960><c> a</c><00:07:31.199><c> defined</c>
+construction crew. You have a defined
+construction crew. You have a defined
+goal.<00:07:32.160><c> You've</c><00:07:32.400><c> defined</c><00:07:32.800><c> constraints</c><00:07:33.199><c> for</c>
+goal. You've defined constraints for
+goal. You've defined constraints for
+your<00:07:33.599><c> workspace.</c><00:07:34.479><c> You</c><00:07:34.720><c> have</c><00:07:34.880><c> evaluations</c><00:07:35.680><c> the</c>
+your workspace. You have evaluations the
+your workspace. You have evaluations the
+system<00:07:36.160><c> needs</c><00:07:36.400><c> to</c><00:07:36.560><c> pass.</c><00:07:36.800><c> And</c><00:07:36.960><c> you</c><00:07:37.120><c> have</c>
+system needs to pass. And you have
+system needs to pass. And you have
+correction<00:07:37.680><c> methodologies.</c><00:07:38.639><c> And</c><00:07:38.880><c> now</c><00:07:39.039><c> the</c>
+correction methodologies. And now the
+correction methodologies. And now the
+work<00:07:39.520><c> moves</c><00:07:39.759><c> from</c><00:07:39.919><c> write</c><00:07:40.080><c> an</c><00:07:40.319><c> instruction</c><00:07:40.880><c> to</c>
+work moves from write an instruction to
+work moves from write an instruction to
+can<00:07:41.919><c> you</c><00:07:42.080><c> design</c><00:07:42.400><c> that</c><00:07:42.720><c> system.</c><00:07:43.120><c> So</c><00:07:43.280><c> the</c>
+can you design that system. So the
+can you design that system. So the
+system<00:07:43.919><c> self</c><00:07:44.240><c> evolves</c><00:07:44.880><c> until</c><00:07:45.199><c> it</c><00:07:45.440><c> hits</c><00:07:45.680><c> the</c>
+system self evolves until it hits the
+system self evolves until it hits the
+correct<00:07:46.479><c> behavior.</c><00:07:47.280><c> So</c><00:07:47.520><c> in</c><00:07:47.759><c> that</c><00:07:47.919><c> world</c><00:07:48.479><c> the</c>
+correct behavior. So in that world the
+correct behavior. So in that world the
+intention<00:07:49.440><c> shifts</c><00:07:49.840><c> into</c><00:07:50.639><c> okay</c><00:07:50.960><c> I</c><00:07:51.199><c> have</c><00:07:51.360><c> I</c><00:07:51.599><c> have</c>
+intention shifts into okay I have I have
+intention shifts into okay I have I have
+a<00:07:51.919><c> desire</c><00:07:52.240><c> to</c><00:07:52.479><c> make</c><00:07:52.720><c> a</c><00:07:53.039><c> particular</c><00:07:53.520><c> piece</c><00:07:53.759><c> of</c>
+a desire to make a particular piece of
+a desire to make a particular piece of
+program<00:07:54.639><c> that</c><00:07:54.879><c> can</c><00:07:55.039><c> do</c><00:07:55.199><c> a</c><00:07:55.440><c> particular</c><00:07:55.840><c> task</c>
+program that can do a particular task
+program that can do a particular task
+for<00:07:56.560><c> me.</c><00:07:57.120><c> Here</c><00:07:57.360><c> are</c><00:07:57.440><c> my</c><00:07:57.599><c> evals.</c><00:07:58.160><c> Here</c><00:07:58.319><c> are</c><00:07:58.400><c> my</c>
+for me. Here are my evals. Here are my
+for me. Here are my evals. Here are my
+constraints.<00:07:59.360><c> I'm</c><00:07:59.680><c> going</c><00:07:59.759><c> to</c><00:07:59.840><c> let</c><00:08:00.000><c> it</c>
+constraints. I'm going to let it
+constraints. I'm going to let it
+generate<00:08:00.560><c> artifacts</c><00:08:01.520><c> maybe</c><00:08:01.759><c> code</c><00:08:02.000><c> bases</c><00:08:02.319><c> or</c>
+generate artifacts maybe code bases or
+generate artifacts maybe code bases or
+pull<00:08:02.800><c> requests</c><00:08:03.440><c> until</c><00:08:03.759><c> it</c><00:08:04.000><c> passes</c><00:08:04.319><c> my</c><00:08:04.560><c> eval.</c>
+pull requests until it passes my eval.
+pull requests until it passes my eval.
+and<00:08:05.520><c> then</c><00:08:05.680><c> I</c><00:08:05.840><c> have</c><00:08:05.919><c> a</c><00:08:06.080><c> verified</c><00:08:06.479><c> output</c><00:08:06.800><c> I</c><00:08:07.039><c> can</c>
+and then I have a verified output I can
+and then I have a verified output I can
+actually<00:08:07.520><c> do</c><00:08:07.759><c> something</c><00:08:08.080><c> with.</c><00:08:08.479><c> That's</c><00:08:08.720><c> a</c>
+actually do something with. That's a
+actually do something with. That's a
+whole<00:08:09.120><c> new</c><00:08:09.280><c> way</c><00:08:09.440><c> of</c><00:08:09.680><c> doing</c><00:08:09.840><c> things</c><00:08:10.160><c> that</c><00:08:10.400><c> it</c>
+whole new way of doing things that it
+whole new way of doing things that it
+changes<00:08:11.120><c> the</c><00:08:11.280><c> way</c><00:08:11.440><c> we</c><00:08:11.599><c> think</c><00:08:11.759><c> about</c>
+changes the way we think about
+changes the way we think about
+abstraction.<00:08:12.720><c> Fourth,</c><00:08:13.360><c> the</c><00:08:13.680><c> old</c><00:08:13.919><c> boundaries</c>
+abstraction. Fourth, the old boundaries
+abstraction. Fourth, the old boundaries
+of<00:08:14.639><c> engineering</c><00:08:15.199><c> don't</c><00:08:15.440><c> make</c><00:08:15.680><c> sense</c><00:08:15.919><c> anymore.</c>
+of engineering don't make sense anymore.
+of engineering don't make sense anymore.
+The<00:08:16.800><c> most</c><00:08:17.120><c> important</c><00:08:17.599><c> divide</c><00:08:18.000><c> used</c><00:08:18.240><c> to</c><00:08:18.400><c> be</c>
+The most important divide used to be
+The most important divide used to be
+between<00:08:18.879><c> engineer</c><00:08:19.280><c> and</c><00:08:19.440><c> non-engineer</c><00:08:20.400><c> and</c>
+between engineer and non-engineer and
+between engineer and non-engineer and
+now<00:08:21.759><c> it's</c><00:08:22.080><c> between</c><00:08:22.879><c> someone</c><00:08:23.280><c> who</c><00:08:23.599><c> can</c>
+now it's between someone who can
+now it's between someone who can
+delegate<00:08:24.960><c> and</c><00:08:25.280><c> someone</c><00:08:25.840><c> who</c><00:08:26.160><c> can't.</c><00:08:26.800><c> And</c><00:08:27.039><c> that</c>
+delegate and someone who can't. And that
+delegate and someone who can't. And that
+phrase<00:08:27.599><c> of</c><00:08:27.840><c> like</c><00:08:28.160><c> that</c><00:08:28.400><c> the</c><00:08:28.639><c> concept</c><00:08:29.039><c> of</c><00:08:29.199><c> of</c>
+phrase of like that the concept of of
+phrase of like that the concept of of
+preserving<00:08:30.160><c> authority</c><00:08:30.639><c> while</c><00:08:30.960><c> delegating</c>
+preserving authority while delegating
+preserving authority while delegating
+generation<00:08:32.320><c> is</c><00:08:32.719><c> a</c><00:08:33.120><c> core</c><00:08:33.839><c> of</c><00:08:34.080><c> the</c><00:08:34.320><c> new</c><00:08:34.560><c> skills</c>
+generation is a core of the new skills
+generation is a core of the new skills
+we<00:08:35.120><c> need</c><00:08:35.200><c> in</c><00:08:35.360><c> the</c><00:08:35.519><c> AI</c><00:08:35.839><c> world.</c><00:08:36.080><c> And</c><00:08:36.240><c> it's</c><00:08:36.479><c> not</c>
+we need in the AI world. And it's not
+we need in the AI world. And it's not
+limited<00:08:37.120><c> to</c><00:08:37.279><c> engineering.</c><00:08:38.080><c> If</c><00:08:38.320><c> you</c><00:08:38.560><c> think</c>
+limited to engineering. If you think
+limited to engineering. If you think
+about<00:08:39.120><c> what</c><00:08:39.440><c> we</c><00:08:39.599><c> are</c><00:08:39.839><c> doing</c><00:08:40.000><c> with</c><00:08:40.240><c> AI,</c><00:08:40.959><c> we</c>
+about what we are doing with AI, we
+about what we are doing with AI, we
+still<00:08:41.519><c> have</c><00:08:41.680><c> to</c><00:08:41.839><c> be</c><00:08:41.919><c> in</c><00:08:42.159><c> charge.</c><00:08:42.399><c> We</c><00:08:42.560><c> still</c>
+still have to be in charge. We still
+still have to be in charge. We still
+have<00:08:42.880><c> to</c><00:08:42.959><c> preserve</c><00:08:43.279><c> the</c><00:08:43.519><c> authority.</c><00:08:44.240><c> But</c><00:08:44.399><c> we</c>
+have to preserve the authority. But we
+have to preserve the authority. But we
+do<00:08:44.880><c> have</c><00:08:45.120><c> to</c><00:08:45.279><c> delegate</c><00:08:45.680><c> to</c><00:08:45.920><c> get</c><00:08:46.080><c> leverage.</c>
+do have to delegate to get leverage.
+do have to delegate to get leverage.
+Authority<00:08:47.360><c> used</c><00:08:47.680><c> to</c><00:08:47.839><c> come</c><00:08:48.080><c> for</c><00:08:48.320><c> free</c><00:08:48.560><c> for</c>
+Authority used to come for free for
+Authority used to come for free for
+engineers<00:08:49.440><c> when</c><00:08:49.680><c> they</c><00:08:49.839><c> wrote</c><00:08:50.080><c> the</c><00:08:50.320><c> code.</c>
+engineers when they wrote the code.
+engineers when they wrote the code.
+Because<00:08:51.200><c> if</c><00:08:51.360><c> I</c><00:08:51.600><c> write</c><00:08:51.760><c> the</c><00:08:52.000><c> code,</c><00:08:52.240><c> I</c><00:08:52.480><c> can</c>
+Because if I write the code, I can
+Because if I write the code, I can
+justify<00:08:53.040><c> the</c><00:08:53.279><c> behavior</c><00:08:53.600><c> of</c><00:08:53.760><c> the</c><00:08:53.920><c> system.</c><00:08:54.399><c> I</c>
+justify the behavior of the system. I
+justify the behavior of the system. I
+can<00:08:54.800><c> point</c><00:08:55.040><c> to</c><00:08:55.279><c> this</c><00:08:55.440><c> line</c><00:08:55.680><c> and</c><00:08:55.920><c> I</c><00:08:56.080><c> can</c><00:08:56.560><c> explain</c>
+can point to this line and I can explain
+can point to this line and I can explain
+the<00:08:57.040><c> root</c><00:08:57.279><c> cause.</c><00:08:57.920><c> But</c><00:08:58.080><c> in</c><00:08:58.240><c> a</c><00:08:58.480><c> probabilistic</c>
+the root cause. But in a probabilistic
+the root cause. But in a probabilistic
+world,<00:08:59.519><c> the</c><00:08:59.760><c> machine</c><00:09:00.080><c> will</c><00:09:00.320><c> generate</c>
+world, the machine will generate
+world, the machine will generate
+behavior<00:09:01.440><c> and</c><00:09:01.760><c> you</c><00:09:02.000><c> lose</c><00:09:02.240><c> that</c><00:09:02.480><c> natural</c><00:09:02.800><c> chain</c>
+behavior and you lose that natural chain
+behavior and you lose that natural chain
+of<00:09:03.200><c> custody.</c><00:09:03.600><c> You're</c><00:09:03.839><c> not</c><00:09:04.000><c> automatically</c><00:09:04.640><c> in</c>
+of custody. You're not automatically in
+of custody. You're not automatically in
+authority<00:09:05.200><c> on</c><00:09:05.360><c> what</c><00:09:05.519><c> the</c><00:09:05.680><c> machine</c><00:09:05.920><c> is</c><00:09:06.160><c> doing.</c>
+authority on what the machine is doing.
+authority on what the machine is doing.
+It<00:09:06.959><c> is</c><00:09:07.120><c> possible</c><00:09:07.519><c> to</c><00:09:07.839><c> ship</c><00:09:08.160><c> something</c><00:09:08.560><c> correct</c>
+It is possible to ship something correct
+It is possible to ship something correct
+without<00:09:09.360><c> fully</c><00:09:09.760><c> understanding</c><00:09:10.480><c> why.</c><00:09:11.839><c> And</c><00:09:12.000><c> you</c>
+without fully understanding why. And you
+without fully understanding why. And you
+can<00:09:12.320><c> also</c><00:09:12.560><c> ship</c><00:09:12.880><c> something</c><00:09:13.120><c> wrong</c><00:09:13.360><c> that</c><00:09:13.600><c> looks</c>
+can also ship something wrong that looks
+can also ship something wrong that looks
+correct.<00:09:14.560><c> So</c><00:09:14.800><c> the</c><00:09:15.040><c> center</c><00:09:15.360><c> of</c><00:09:15.519><c> the</c><00:09:15.680><c> craft</c><00:09:16.000><c> is</c>
+correct. So the center of the craft is
+correct. So the center of the craft is
+changing<00:09:16.720><c> to</c><00:09:17.360><c> how</c><00:09:17.600><c> do</c><00:09:17.839><c> you</c><00:09:18.000><c> design</c><00:09:18.399><c> a</c><00:09:18.640><c> workflow</c>
+changing to how do you design a workflow
+changing to how do you design a workflow
+where<00:09:19.920><c> you</c><00:09:20.160><c> can</c><00:09:20.399><c> delegate</c><00:09:21.279><c> a</c><00:09:21.600><c> huge</c><00:09:21.920><c> amount</c><00:09:22.080><c> of</c>
+where you can delegate a huge amount of
+where you can delegate a huge amount of
+the<00:09:22.480><c> generation</c><00:09:23.040><c> activity</c><00:09:23.920><c> but</c><00:09:24.399><c> ensure</c><00:09:25.040><c> human</c>
+the generation activity but ensure human
+the generation activity but ensure human
+authority<00:09:26.160><c> over</c><00:09:26.480><c> what</c><00:09:26.720><c> is</c><00:09:26.880><c> actually</c>
+authority over what is actually
+authority over what is actually
+shipping.<00:09:27.680><c> That</c><00:09:27.920><c> that</c><00:09:28.240><c> is</c><00:09:28.399><c> the</c><00:09:28.640><c> new</c><00:09:28.880><c> technical</c>
+shipping. That that is the new technical
+shipping. That that is the new technical
+skill<00:09:29.760><c> tree.</c><00:09:30.080><c> But</c><00:09:30.160><c> it</c><00:09:30.399><c> turns</c><00:09:30.560><c> out</c><00:09:30.800><c> that's</c><00:09:31.120><c> not</c>
+skill tree. But it turns out that's not
+skill tree. But it turns out that's not
+just<00:09:31.600><c> for</c><00:09:32.000><c> technical</c><00:09:32.560><c> people.</c><00:09:32.880><c> I</c><00:09:33.120><c> don't</c><00:09:33.200><c> know</c>
+just for technical people. I don't know
+just for technical people. I don't know
+that<00:09:33.440><c> I</c><00:09:33.680><c> believe</c><00:09:33.839><c> in</c><00:09:34.080><c> technical</c><00:09:34.480><c> people</c>
+that I believe in technical people
+that I believe in technical people
+anymore.<00:09:35.440><c> It's</c><00:09:35.760><c> for</c><00:09:36.000><c> everybody</c><00:09:36.880><c> because</c>
+anymore. It's for everybody because
+anymore. It's for everybody because
+every<00:09:37.680><c> profession</c><00:09:38.320><c> is</c><00:09:38.640><c> becoming</c><00:09:39.279><c> some</c>
+every profession is becoming some
+every profession is becoming some
+version<00:09:40.399><c> of</c><00:09:41.040><c> orchestrate</c><00:09:41.760><c> probabilistic</c>
+version of orchestrate probabilistic
+version of orchestrate probabilistic
+components<00:09:43.120><c> while</c><00:09:43.360><c> keeping</c><00:09:43.600><c> authority.</c><00:09:44.080><c> Like</c>
+components while keeping authority. Like
+components while keeping authority. Like
+that<00:09:44.480><c> is</c><00:09:44.880><c> the</c><00:09:45.200><c> definition</c><00:09:45.600><c> of</c><00:09:45.839><c> knowledge</c>
+that is the definition of knowledge
+that is the definition of knowledge
+work.<00:09:46.560><c> Now</c><00:09:47.040><c> programming</c><00:09:47.600><c> just</c><00:09:47.839><c> ran</c><00:09:48.000><c> into</c><00:09:48.240><c> this</c>
+work. Now programming just ran into this
+work. Now programming just ran into this
+first.<00:09:49.200><c> So</c><00:09:49.680><c> let's</c><00:09:49.920><c> take</c><00:09:50.080><c> a</c><00:09:50.240><c> minute.</c><00:09:50.480><c> Let's</c>
+first. So let's take a minute. Let's
+first. So let's take a minute. Let's
+actually<00:09:51.120><c> lay</c><00:09:51.279><c> out</c><00:09:51.440><c> what</c><00:09:51.680><c> we</c><00:09:51.839><c> mean</c><00:09:52.000><c> by</c><00:09:52.240><c> this</c>
+actually lay out what we mean by this
+actually lay out what we mean by this
+new<00:09:52.640><c> skill</c><00:09:52.959><c> tree</c><00:09:53.200><c> and</c><00:09:53.360><c> why</c><00:09:53.600><c> I</c><00:09:53.760><c> think</c><00:09:53.839><c> it's</c>
+new skill tree and why I think it's
+new skill tree and why I think it's
+important<00:09:54.399><c> for</c><00:09:54.640><c> leaders</c><00:09:54.959><c> to</c><00:09:55.120><c> pay</c><00:09:55.279><c> attention</c>
+important for leaders to pay attention
+important for leaders to pay attention
+to<00:09:55.760><c> it.</c><00:09:56.000><c> I'm</c><00:09:56.240><c> going</c><00:09:56.399><c> to</c><00:09:56.480><c> describe</c><00:09:56.880><c> this</c><00:09:57.200><c> skill</c>
+to it. I'm going to describe this skill
+to it. I'm going to describe this skill
+tree<00:09:57.760><c> as</c><00:09:58.000><c> a</c><00:09:58.160><c> hierarchy</c><00:09:59.040><c> of</c><00:09:59.279><c> nodes.</c><00:10:00.000><c> Every</c><00:10:00.240><c> node</c>
+tree as a hierarchy of nodes. Every node
+tree as a hierarchy of nodes. Every node
+is<00:10:00.800><c> a</c><00:10:01.040><c> capability</c><00:10:01.519><c> that</c><00:10:01.760><c> you</c><00:10:02.000><c> can</c>
+is a capability that you can
+is a capability that you can
+demonstrate.<00:10:02.880><c> Every</c><00:10:03.200><c> node</c><00:10:03.680><c> has</c><00:10:03.920><c> a</c><00:10:04.080><c> failure</c>
+demonstrate. Every node has a failure
+demonstrate. Every node has a failure
+mode<00:10:04.720><c> if</c><00:10:04.880><c> you</c><00:10:05.040><c> skip</c><00:10:05.279><c> it.</c><00:10:05.680><c> And</c><00:10:05.839><c> the</c><00:10:06.000><c> whole</c><00:10:06.240><c> tree</c>
+mode if you skip it. And the whole tree
+mode if you skip it. And the whole tree
+is<00:10:06.720><c> built</c><00:10:06.959><c> around</c><00:10:07.200><c> this</c><00:10:07.440><c> core</c><00:10:07.680><c> idea</c><00:10:08.000><c> that</c>
+is built around this core idea that
+is built around this core idea that
+probabilistic<00:10:09.120><c> models</c><00:10:09.920><c> require</c><00:10:10.320><c> you</c><00:10:10.560><c> to</c>
+probabilistic models require you to
+probabilistic models require you to
+separate<00:10:11.279><c> your</c><00:10:11.519><c> decisions</c><00:10:12.240><c> from</c><00:10:12.480><c> the</c><00:10:12.720><c> act</c><00:10:13.040><c> of</c>
+separate your decisions from the act of
+separate your decisions from the act of
+token<00:10:13.680><c> generation.</c><00:10:14.480><c> And</c><00:10:14.640><c> that's</c><00:10:14.800><c> the</c><00:10:14.959><c> root</c>
+token generation. And that's the root
+token generation. And that's the root
+node<00:10:15.440><c> we'll</c><00:10:15.680><c> start</c><00:10:15.760><c> with.</c><00:10:16.320><c> If</c><00:10:16.560><c> you</c><00:10:16.720><c> don't</c>
+node we'll start with. If you don't
+node we'll start with. If you don't
+understand<00:10:17.440><c> that</c><00:10:17.680><c> you</c><00:10:17.920><c> have</c><00:10:18.000><c> to</c><00:10:18.160><c> separate</c>
+understand that you have to separate
+understand that you have to separate
+generation<00:10:19.279><c> from</c><00:10:19.760><c> decisioning,</c><00:10:20.640><c> everything</c>
+generation from decisioning, everything
+generation from decisioning, everything
+else<00:10:21.200><c> gets</c><00:10:21.519><c> really</c><00:10:21.760><c> chaotic</c><00:10:22.320><c> because</c><00:10:22.560><c> a</c>
+else gets really chaotic because a
+else gets really chaotic because a
+probabilistic<00:10:23.839><c> model</c><00:10:24.160><c> is</c><00:10:24.320><c> is</c><00:10:24.800><c> incredibly</c>
+probabilistic model is is incredibly
+probabilistic model is is incredibly
+good<00:10:25.760><c> at</c><00:10:26.000><c> generating.</c><00:10:26.480><c> It</c><00:10:26.720><c> can</c><00:10:26.880><c> generate</c>
+good at generating. It can generate
+good at generating. It can generate
+drafts<00:10:27.760><c> or</c><00:10:28.079><c> options</c><00:10:28.560><c> or</c><00:10:28.959><c> code</c><00:10:29.360><c> or</c><00:10:29.680><c> summaries</c>
+drafts or options or code or summaries
+drafts or options or code or summaries
+or<00:10:30.480><c> transformations</c><00:10:31.360><c> or</c><00:10:31.600><c> hypotheses</c><00:10:32.320><c> or</c>
+or transformations or hypotheses or
+or transformations or hypotheses or
+structured<00:10:33.040><c> outputs.</c><00:10:33.760><c> What</c><00:10:34.000><c> it</c><00:10:34.160><c> is</c><00:10:34.399><c> not</c>
+structured outputs. What it is not
+structured outputs. What it is not
+allowed<00:10:34.959><c> to</c><00:10:35.120><c> do</c><00:10:35.680><c> if</c><00:10:35.920><c> you</c><00:10:36.079><c> want</c><00:10:36.320><c> reliability</c><00:10:37.279><c> is</c>
+allowed to do if you want reliability is
+allowed to do if you want reliability is
+to<00:10:37.760><c> be</c><00:10:37.920><c> the</c><00:10:38.079><c> final</c><00:10:38.399><c> authority.</c><00:10:39.200><c> The</c><00:10:39.440><c> workflow</c>
+to be the final authority. The workflow
+to be the final authority. The workflow
+must<00:10:40.720><c> decide,</c><00:10:41.279><c> the</c><00:10:41.600><c> system</c><00:10:41.920><c> must</c><00:10:42.240><c> decide</c><00:10:42.640><c> or</c>
+must decide, the system must decide or
+must decide, the system must decide or
+the<00:10:43.120><c> human</c><00:10:43.519><c> must</c><00:10:43.760><c> decide.</c><00:10:44.320><c> But</c><00:10:44.480><c> the</c><00:10:44.720><c> model</c>
+the human must decide. But the model
+the human must decide. But the model
+should<00:10:45.360><c> not</c><00:10:45.600><c> decide</c><00:10:46.000><c> what's</c><00:10:46.320><c> true,</c><00:10:46.640><c> what's</c>
+should not decide what's true, what's
+should not decide what's true, what's
+safe,<00:10:47.040><c> and</c><00:10:47.200><c> what's</c><00:10:47.440><c> planned.</c><00:10:47.760><c> I'm</c><00:10:47.920><c> going</c><00:10:48.000><c> to</c>
+safe, and what's planned. I'm going to
+safe, and what's planned. I'm going to
+say<00:10:48.240><c> that</c><00:10:48.480><c> again</c><00:10:48.720><c> because</c><00:10:49.040><c> people</c><00:10:49.360><c> might</c>
+say that again because people might
+say that again because people might
+scratch<00:10:50.079><c> their</c><00:10:50.320><c> heads.</c><00:10:50.880><c> When</c><00:10:51.120><c> I</c><00:10:51.200><c> say</c><00:10:51.360><c> the</c>
+scratch their heads. When I say the
+scratch their heads. When I say the
+workflow<00:10:52.000><c> must</c><00:10:52.240><c> decide</c><00:10:52.560><c> or</c><00:10:52.800><c> the</c><00:10:52.959><c> system</c><00:10:53.279><c> must</c>
+workflow must decide or the system must
+workflow must decide or the system must
+decide,<00:10:54.079><c> I</c><00:10:54.320><c> mean</c><00:10:54.480><c> you</c><00:10:54.800><c> can</c><00:10:54.959><c> architect</c><00:10:55.760><c> models</c>
+decide, I mean you can architect models
+decide, I mean you can architect models
+inside<00:10:57.120><c> workflows</c><00:10:58.079><c> in</c><00:10:58.320><c> such</c><00:10:58.560><c> a</c><00:10:58.800><c> way</c><00:10:59.360><c> that</c><00:10:59.600><c> they</c>
+inside workflows in such a way that they
+inside workflows in such a way that they
+produce<00:11:00.959><c> extremely</c><00:11:01.760><c> dependable,</c><00:11:02.480><c> extremely</c>
+produce extremely dependable, extremely
+produce extremely dependable, extremely
+accurate<00:11:03.600><c> outputs</c><00:11:04.480><c> measured</c><00:11:04.959><c> against</c>
+accurate outputs measured against
+accurate outputs measured against
+definitions<00:11:05.839><c> of</c><00:11:06.079><c> correctness</c><00:11:06.560><c> that</c><00:11:06.880><c> humans</c>
+definitions of correctness that humans
+definitions of correctness that humans
+hold<00:11:08.079><c> and</c><00:11:08.399><c> humans</c><00:11:08.800><c> can</c><00:11:08.959><c> then</c><00:11:09.120><c> take</c><00:11:09.360><c> edge</c>
+hold and humans can then take edge
+hold and humans can then take edge
+cases.<00:11:10.320><c> When</c><00:11:10.560><c> I</c><00:11:10.640><c> say</c><00:11:10.800><c> the</c><00:11:11.120><c> model</c><00:11:11.440><c> should</c><00:11:11.680><c> not</c>
+cases. When I say the model should not
+cases. When I say the model should not
+decide,<00:11:12.399><c> I</c><00:11:12.640><c> mean</c><00:11:12.720><c> that</c><00:11:12.959><c> the</c><00:11:13.200><c> LLM</c><00:11:13.839><c> by</c><00:11:14.079><c> itself</c>
+decide, I mean that the LLM by itself
+decide, I mean that the LLM by itself
+without<00:11:15.040><c> that</c><00:11:15.440><c> workflow</c><00:11:16.480><c> harness</c><00:11:17.120><c> around</c><00:11:17.519><c> it</c>
+without that workflow harness around it
+without that workflow harness around it
+can't<00:11:18.480><c> reliably</c><00:11:19.120><c> decide</c><00:11:19.519><c> what</c><00:11:19.760><c> is</c><00:11:20.000><c> correct.</c>
+can't reliably decide what is correct.
+can't reliably decide what is correct.
+It<00:11:20.800><c> can't</c><00:11:20.959><c> reliably</c><00:11:21.519><c> decide</c><00:11:21.920><c> what's</c><00:11:22.240><c> safe.</c><00:11:22.640><c> It</c>
+It can't reliably decide what's safe. It
+It can't reliably decide what's safe. It
+can't<00:11:23.440><c> reliably</c><00:11:24.160><c> decide</c><00:11:24.560><c> what</c><00:11:24.800><c> is</c><00:11:24.959><c> approved</c>
+can't reliably decide what is approved
+can't reliably decide what is approved
+or<00:11:25.600><c> what</c><00:11:25.839><c> should</c><00:11:26.079><c> ship.</c><00:11:26.720><c> When</c><00:11:26.959><c> we</c><00:11:27.200><c> get</c><00:11:27.440><c> burned</c>
+or what should ship. When we get burned
+or what should ship. When we get burned
+in<00:11:28.160><c> the</c><00:11:28.399><c> workplace</c><00:11:28.720><c> with</c><00:11:28.959><c> LLMs,</c><00:11:29.680><c> it's</c><00:11:29.920><c> almost</c>
+in the workplace with LLMs, it's almost
+in the workplace with LLMs, it's almost
+always<00:11:30.880><c> because</c><00:11:31.200><c> we</c><00:11:31.440><c> left</c><00:11:31.680><c> a</c><00:11:31.920><c> token</c><00:11:32.399><c> generator</c>
+always because we left a token generator
+always because we left a token generator
+to<00:11:33.279><c> be</c><00:11:33.440><c> the</c><00:11:33.680><c> judge</c><00:11:34.320><c> because</c><00:11:34.880><c> I</c><00:11:35.120><c> guess</c><00:11:35.279><c> we</c><00:11:35.519><c> got</c>
+to be the judge because I guess we got
+to be the judge because I guess we got
+fooled<00:11:35.920><c> by</c><00:11:36.079><c> the</c><00:11:36.240><c> hype.</c><00:11:36.720><c> So</c><00:11:36.959><c> the</c><00:11:37.200><c> entire</c><00:11:37.680><c> tree</c>
+fooled by the hype. So the entire tree
+fooled by the hype. So the entire tree
+that<00:11:38.720><c> I'm</c><00:11:38.959><c> talking</c><00:11:39.279><c> about</c><00:11:39.519><c> here</c><00:11:39.760><c> is</c><00:11:40.000><c> really</c><00:11:40.320><c> a</c>
+that I'm talking about here is really a
+that I'm talking about here is really a
+set<00:11:40.720><c> of</c><00:11:40.959><c> skills</c><00:11:41.600><c> that</c><00:11:41.920><c> are</c><00:11:42.160><c> required</c><00:11:42.560><c> to</c><00:11:42.880><c> do</c>
+set of skills that are required to do
+set of skills that are required to do
+one<00:11:43.519><c> thing.</c><00:11:44.399><c> Let</c><00:11:44.640><c> the</c><00:11:44.959><c> model</c><00:11:45.600><c> generate</c>
+one thing. Let the model generate
+one thing. Let the model generate
+quickly<00:11:47.040><c> while</c><00:11:47.440><c> preserving</c><00:11:48.079><c> human</c><00:11:48.480><c> authority</c>
+quickly while preserving human authority
+quickly while preserving human authority
+through<00:11:49.120><c> the</c><00:11:49.360><c> workflow.</c><00:11:50.000><c> If</c><00:11:50.240><c> you</c><00:11:50.480><c> follow</c><00:11:50.720><c> that</c>
+through the workflow. If you follow that
+through the workflow. If you follow that
+through,<00:11:51.600><c> I</c><00:11:51.839><c> think</c><00:11:52.000><c> the</c><00:11:52.240><c> hierarchy</c><00:11:52.800><c> is</c>
+through, I think the hierarchy is
+through, I think the hierarchy is
+actually<00:11:53.200><c> pretty</c><00:11:53.519><c> intuitive.</c><00:11:54.399><c> Level</c><00:11:54.720><c> one</c><00:11:55.040><c> is</c>
+actually pretty intuitive. Level one is
+actually pretty intuitive. Level one is
+really<00:11:55.600><c> about</c><00:11:56.320><c> conditioning.</c><00:11:57.200><c> And</c><00:11:57.360><c> again,</c>
+really about conditioning. And again,
+really about conditioning. And again,
+keep<00:11:58.000><c> in</c><00:11:58.240><c> mind</c><00:11:58.480><c> as</c><00:11:58.880><c> leaders,</c><00:11:59.600><c> this</c><00:11:59.760><c> is</c><00:12:00.000><c> a</c><00:12:00.320><c> way</c>
+keep in mind as leaders, this is a way
+keep in mind as leaders, this is a way
+you<00:12:00.880><c> can</c><00:12:01.040><c> start</c><00:12:01.200><c> to</c><00:12:01.440><c> think</c><00:12:01.680><c> about</c><00:12:02.079><c> all</c><00:12:02.480><c> of</c><00:12:02.640><c> the</c>
+you can start to think about all of the
+you can start to think about all of the
+different<00:12:03.519><c> roles</c><00:12:03.839><c> in</c><00:12:04.079><c> your</c><00:12:04.320><c> company</c><00:12:04.880><c> that</c>
+different roles in your company that
+different roles in your company that
+have<00:12:05.360><c> to</c><00:12:05.519><c> do</c><00:12:05.680><c> with</c><00:12:05.839><c> knowledge</c><00:12:06.240><c> work.</c><00:12:06.560><c> It</c><00:12:06.720><c> is</c>
+have to do with knowledge work. It is
+have to do with knowledge work. It is
+not<00:12:07.200><c> just</c><00:12:07.440><c> for</c><00:12:07.680><c> engineers.</c><00:12:08.399><c> So,</c>
+not just for engineers. So,
+not just for engineers. So,
+conditioning,<00:12:09.440><c> steering</c><00:12:09.839><c> a</c><00:12:10.079><c> probabilistic</c>
+conditioning, steering a probabilistic
+conditioning, steering a probabilistic
+component.<00:12:11.600><c> The</c><00:12:11.839><c> first</c><00:12:12.079><c> node</c><00:12:12.480><c> there</c><00:12:12.720><c> might</c><00:12:12.880><c> be</c>
+component. The first node there might be
+component. The first node there might be
+intent<00:12:13.600><c> specification.</c><00:12:14.639><c> In</c><00:12:14.880><c> a</c><00:12:15.040><c> deterministic</c>
+intent specification. In a deterministic
+intent specification. In a deterministic
+system,<00:12:16.240><c> ambiguous</c><00:12:16.959><c> requirements</c><00:12:17.519><c> are</c><00:12:17.680><c> still</c>
+system, ambiguous requirements are still
+system, ambiguous requirements are still
+going<00:12:18.000><c> to</c><00:12:18.079><c> cause</c><00:12:18.240><c> you</c><00:12:18.480><c> problems,</c><00:12:18.959><c> but</c><00:12:19.200><c> the</c>
+going to cause you problems, but the
+going to cause you problems, but the
+system<00:12:19.600><c> won't</c><00:12:19.839><c> hallucinate</c><00:12:20.399><c> what</c><00:12:20.560><c> you</c><00:12:20.720><c> meant.</c>
+system won't hallucinate what you meant.
+system won't hallucinate what you meant.
+In<00:12:21.279><c> a</c><00:12:21.440><c> probabilistic</c><00:12:22.079><c> system</c><00:12:22.320><c> like</c><00:12:22.560><c> we</c><00:12:22.720><c> have</c>
+In a probabilistic system like we have
+In a probabilistic system like we have
+today,<00:12:23.519><c> ambiguity</c><00:12:24.560><c> is</c><00:12:25.200><c> gasoline</c><00:12:25.839><c> on</c><00:12:26.079><c> the</c>
+today, ambiguity is gasoline on the
+today, ambiguity is gasoline on the
+fire.<00:12:26.959><c> The</c><00:12:27.200><c> model</c><00:12:27.440><c> will</c><00:12:27.680><c> happily</c><00:12:28.160><c> fill</c><00:12:28.399><c> the</c>
+fire. The model will happily fill the
+fire. The model will happily fill the
+gap<00:12:28.800><c> with</c><00:12:28.959><c> plausible</c><00:12:29.440><c> nonsense.</c><00:12:30.320><c> So,</c><00:12:30.560><c> you</c>
+gap with plausible nonsense. So, you
+gap with plausible nonsense. So, you
+need<00:12:30.880><c> a</c><00:12:31.120><c> very</c><00:12:31.440><c> very</c><00:12:31.839><c> tight</c><00:12:32.240><c> problem</c><00:12:32.639><c> contract</c>
+need a very very tight problem contract
+need a very very tight problem contract
+and<00:12:33.360><c> we</c><00:12:33.519><c> just</c><00:12:33.680><c> haven't</c><00:12:33.920><c> been</c><00:12:34.079><c> used</c><00:12:34.160><c> to</c><00:12:34.320><c> that</c><00:12:34.480><c> in</c>
+and we just haven't been used to that in
+and we just haven't been used to that in
+knowledge<00:12:34.959><c> work.</c><00:12:35.279><c> You</c><00:12:35.440><c> need</c><00:12:35.519><c> a</c><00:12:35.680><c> very</c><00:12:35.839><c> tight</c>
+knowledge work. You need a very tight
+knowledge work. You need a very tight
+purpose,<00:12:36.480><c> a</c><00:12:36.639><c> tight</c><00:12:36.880><c> audience,</c><00:12:37.440><c> tight</c>
+purpose, a tight audience, tight
+purpose, a tight audience, tight
+constraints,<00:12:38.480><c> definitions,</c><00:12:39.279><c> etc.</c><00:12:39.920><c> This</c><00:12:40.160><c> is</c>
+constraints, definitions, etc. This is
+constraints, definitions, etc. This is
+not<00:12:40.639><c> just</c><00:12:40.959><c> managerial</c><00:12:41.760><c> overhead.</c><00:12:42.560><c> In</c><00:12:42.800><c> the</c><00:12:43.040><c> new</c>
+not just managerial overhead. In the new
+not just managerial overhead. In the new
+world,<00:12:43.600><c> it's</c><00:12:43.920><c> steering</c><00:12:44.320><c> the</c><00:12:44.560><c> inputs</c><00:12:45.279><c> so</c><00:12:45.519><c> that</c>
+world, it's steering the inputs so that
+world, it's steering the inputs so that
+you<00:12:45.839><c> can</c><00:12:46.000><c> reduce</c><00:12:46.480><c> variance</c><00:12:46.880><c> and</c><00:12:47.200><c> increase</c><00:12:47.440><c> the</c>
+you can reduce variance and increase the
+you can reduce variance and increase the
+reliability<00:12:48.480><c> of</c><00:12:48.720><c> the</c><00:12:48.959><c> outputs.</c><00:12:49.680><c> Node</c><00:12:50.079><c> number</c>
+reliability of the outputs. Node number
+reliability of the outputs. Node number
+two<00:12:50.480><c> is</c><00:12:50.639><c> around</c><00:12:50.959><c> context</c><00:12:51.440><c> engineering.</c><00:12:52.320><c> A</c>
+two is around context engineering. A
+two is around context engineering. A
+huge<00:12:52.880><c> amount</c><00:12:53.040><c> of</c><00:12:53.279><c> model</c><00:12:53.600><c> failure</c><00:12:54.000><c> is</c><00:12:54.320><c> simply</c>
+huge amount of model failure is simply
+huge amount of model failure is simply
+context<00:12:55.680><c> failure.</c><00:12:56.240><c> Wrong</c><00:12:56.639><c> material,</c><00:12:57.279><c> missing</c>
+context failure. Wrong material, missing
+context failure. Wrong material, missing
+material,<00:12:58.399><c> too</c><00:12:58.639><c> much</c><00:12:58.880><c> material,</c><00:12:59.519><c> poor</c>
+material, too much material, poor
+material, too much material, poor
+ordering<00:13:00.160><c> of</c><00:13:00.320><c> material,</c><00:13:00.880><c> conflicting</c>
+ordering of material, conflicting
+ordering of material, conflicting
+instructions,<00:13:02.399><c> truncated</c><00:13:03.120><c> history.</c><00:13:03.839><c> Context</c>
+instructions, truncated history. Context
+instructions, truncated history. Context
+engineering<00:13:05.120><c> means</c><00:13:05.440><c> you</c><00:13:05.680><c> can</c><00:13:05.920><c> reliably</c>
+engineering means you can reliably
+engineering means you can reliably
+decide<00:13:07.360><c> what</c><00:13:07.760><c> goes</c><00:13:08.320><c> into</c><00:13:08.720><c> the</c><00:13:08.880><c> context</c>
+decide what goes into the context
+decide what goes into the context
+window,<00:13:09.839><c> what</c><00:13:10.160><c> stays</c><00:13:10.399><c> out</c><00:13:10.639><c> of</c><00:13:10.720><c> the</c><00:13:10.880><c> context</c>
+window, what stays out of the context
+window, what stays out of the context
+window,<00:13:11.600><c> what</c><00:13:11.760><c> is</c><00:13:12.000><c> summarized,</c><00:13:12.880><c> what</c><00:13:13.120><c> is</c>
+window, what is summarized, what is
+window, what is summarized, what is
+quoted,<00:13:14.160><c> what</c><00:13:14.399><c> must</c><00:13:14.639><c> be</c><00:13:14.800><c> preserved</c><00:13:15.279><c> verbatim,</c>
+quoted, what must be preserved verbatim,
+quoted, what must be preserved verbatim,
+what's<00:13:16.399><c> not</c><00:13:16.639><c> trusted.</c><00:13:17.360><c> This</c><00:13:17.519><c> is</c><00:13:17.680><c> the</c><00:13:17.839><c> new</c><00:13:18.079><c> IO</c>
+what's not trusted. This is the new IO
+what's not trusted. This is the new IO
+and<00:13:18.800><c> databases</c><00:13:19.360><c> of</c><00:13:19.519><c> the</c><00:13:19.680><c> AI</c><00:13:20.079><c> stack.</c><00:13:20.800><c> And</c><00:13:20.959><c> then</c>
+and databases of the AI stack. And then
+and databases of the AI stack. And then
+node<00:13:21.519><c> number</c><00:13:21.760><c> three</c><00:13:22.000><c> in</c><00:13:22.240><c> this</c><00:13:22.480><c> level</c><00:13:22.880><c> is</c>
+node number three in this level is
+node number three in this level is
+constraint<00:13:23.839><c> design.</c><00:13:24.560><c> So</c><00:13:24.800><c> constraints</c><00:13:25.360><c> are</c>
+constraint design. So constraints are
+constraint design. So constraints are
+how<00:13:25.760><c> you</c><00:13:26.000><c> turn</c><00:13:26.320><c> a</c><00:13:26.560><c> token</c><00:13:27.040><c> generator</c><00:13:27.519><c> into</c><00:13:27.760><c> a</c>
+how you turn a token generator into a
+how you turn a token generator into a
+component<00:13:28.320><c> that's</c><00:13:28.639><c> reliable.</c><00:13:29.600><c> You</c><00:13:29.839><c> have</c>
+component that's reliable. You have
+component that's reliable. You have
+defined<00:13:30.480><c> output</c><00:13:30.880><c> formats,</c><00:13:31.360><c> defined</c><00:13:31.760><c> schemas,</c>
+defined output formats, defined schemas,
+defined output formats, defined schemas,
+defined<00:13:32.720><c> rubrics.</c><00:13:33.440><c> You</c><00:13:33.680><c> have</c><00:13:33.839><c> required</c>
+defined rubrics. You have required
+defined rubrics. You have required
+citations.<00:13:35.040><c> You</c><00:13:35.200><c> have</c><00:13:35.360><c> allowed</c><00:13:35.680><c> tools.</c><00:13:36.000><c> You</c>
+citations. You have allowed tools. You
+citations. You have allowed tools. You
+have<00:13:36.240><c> token</c><00:13:36.639><c> budgets,</c><00:13:37.120><c> stop</c><00:13:37.440><c> conditions.</c><00:13:38.160><c> A</c>
+have token budgets, stop conditions. A
+have token budgets, stop conditions. A
+probabilistic<00:13:39.360><c> systems</c><00:13:40.240><c> without</c>
+probabilistic systems without
+probabilistic systems without
+constraints<00:13:41.600><c> is</c><00:13:41.839><c> a</c><00:13:42.000><c> slot</c><00:13:42.320><c> machine.</c><00:13:42.880><c> A</c>
+constraints is a slot machine. A
+constraints is a slot machine. A
+probabilistic<00:13:44.000><c> system</c><00:13:44.399><c> with</c><00:13:44.800><c> constraints</c>
+probabilistic system with constraints
+probabilistic system with constraints
+becomes<00:13:45.839><c> a</c><00:13:46.160><c> reliable</c><00:13:46.639><c> machine</c><00:13:46.880><c> that</c><00:13:47.120><c> can</c><00:13:47.279><c> do</c>
+becomes a reliable machine that can do
+becomes a reliable machine that can do
+work.<00:13:48.000><c> So</c><00:13:48.160><c> those</c><00:13:48.399><c> are</c><00:13:48.560><c> the</c><00:13:48.800><c> first</c><00:13:49.120><c> three</c>
+work. So those are the first three
+work. So those are the first three
+pieces<00:13:49.920><c> I</c><00:13:50.240><c> would</c><00:13:50.399><c> put</c><00:13:50.639><c> into</c><00:13:51.040><c> this</c><00:13:51.279><c> sort</c><00:13:51.440><c> of</c>
+pieces I would put into this sort of
+pieces I would put into this sort of
+level<00:13:51.920><c> one</c><00:13:52.079><c> of</c><00:13:52.240><c> the</c><00:13:52.399><c> skill</c><00:13:52.639><c> tree</c><00:13:53.040><c> around</c>
+level one of the skill tree around
+level one of the skill tree around
+conditioning,<00:13:54.079><c> around</c><00:13:54.480><c> steering,</c><00:13:55.040><c> right?</c>
+conditioning, around steering, right?
+conditioning, around steering, right?
+Can<00:13:55.760><c> you</c><00:13:55.920><c> steer</c><00:13:56.240><c> with</c><00:13:56.399><c> intent?</c><00:13:57.040><c> Can</c><00:13:57.120><c> you</c><00:13:57.279><c> steer</c>
+Can you steer with intent? Can you steer
+Can you steer with intent? Can you steer
+with<00:13:57.760><c> context</c><00:13:58.160><c> engineering?</c><00:13:58.720><c> Can</c><00:13:58.800><c> you</c><00:13:58.959><c> steer</c>
+with context engineering? Can you steer
+with context engineering? Can you steer
+with<00:13:59.360><c> good</c><00:13:59.600><c> constraints?</c><00:14:00.399><c> Level</c><00:14:00.800><c> two</c><00:14:01.120><c> once</c>
+with good constraints? Level two once
+with good constraints? Level two once
+you<00:14:01.519><c> have</c><00:14:01.760><c> that</c><00:14:02.000><c> is</c><00:14:02.320><c> really</c><00:14:02.639><c> around</c><00:14:03.120><c> keeping</c>
+you have that is really around keeping
+you have that is really around keeping
+ownership<00:14:04.079><c> without</c><00:14:04.480><c> full</c><00:14:04.720><c> authorship.</c><00:14:05.440><c> It's</c>
+ownership without full authorship. It's
+ownership without full authorship. It's
+what<00:14:05.839><c> I</c><00:14:06.000><c> would</c><00:14:06.160><c> call</c><00:14:06.480><c> authority</c><00:14:06.880><c> in</c><00:14:07.120><c> the</c><00:14:07.199><c> age</c>
+what I would call authority in the age
+what I would call authority in the age
+of<00:14:07.519><c> AI.</c><00:14:08.320><c> This</c><00:14:08.480><c> is</c><00:14:08.560><c> a</c><00:14:08.880><c> difficult</c><00:14:09.360><c> layer.</c><00:14:09.600><c> It's</c>
+of AI. This is a difficult layer. It's
+of AI. This is a difficult layer. It's
+the<00:14:10.000><c> difference</c><00:14:10.240><c> between</c><00:14:10.560><c> I</c><00:14:10.800><c> used</c><00:14:11.120><c> AI</c><00:14:11.519><c> and</c><00:14:11.760><c> I</c>
+the difference between I used AI and I
+the difference between I used AI and I
+know<00:14:12.160><c> how</c><00:14:12.320><c> to</c><00:14:12.480><c> operate</c><00:14:12.880><c> an</c><00:14:13.120><c> AI</c><00:14:13.440><c> system</c>
+know how to operate an AI system
+know how to operate an AI system
+responsibly.<00:14:14.880><c> The</c><00:14:15.040><c> first</c><00:14:15.199><c> thing</c><00:14:15.360><c> to</c><00:14:15.600><c> learn</c>
+responsibly. The first thing to learn
+responsibly. The first thing to learn
+here<00:14:15.920><c> is</c><00:14:16.160><c> around</c><00:14:16.399><c> verification</c><00:14:17.199><c> design.</c><00:14:17.680><c> How</c>
+here is around verification design. How
+here is around verification design. How
+does<00:14:18.079><c> truth</c><00:14:18.320><c> come</c><00:14:18.480><c> into</c><00:14:18.720><c> the</c><00:14:18.800><c> loop?</c><00:14:19.040><c> Right?</c>
+does truth come into the loop? Right?
+does truth come into the loop? Right?
+How<00:14:19.360><c> do</c><00:14:19.519><c> you</c><00:14:19.600><c> know</c><00:14:19.680><c> it's</c><00:14:20.000><c> correct?</c><00:14:20.399><c> Because</c>
+How do you know it's correct? Because
+How do you know it's correct? Because
+the<00:14:20.800><c> model</c><00:14:21.120><c> can</c><00:14:21.279><c> generate</c><00:14:21.680><c> a</c><00:14:21.920><c> lot</c><00:14:22.000><c> of</c>
+the model can generate a lot of
+the model can generate a lot of
+plausible<00:14:22.720><c> falsehoods</c><00:14:23.360><c> and</c><00:14:23.600><c> you</c><00:14:23.839><c> need</c><00:14:24.160><c> really</c>
+plausible falsehoods and you need really
+plausible falsehoods and you need really
+really<00:14:25.199><c> explicit</c><00:14:25.920><c> verification</c><00:14:26.720><c> mechanisms.</c>
+really explicit verification mechanisms.
+really explicit verification mechanisms.
+Some<00:14:27.920><c> verification</c><00:14:28.560><c> can</c><00:14:28.800><c> be</c><00:14:29.040><c> deterministic.</c>
+Some verification can be deterministic.
+Some verification can be deterministic.
+Is<00:14:30.079><c> it</c><00:14:30.240><c> valid</c><00:14:30.560><c> with</c><00:14:30.720><c> the</c><00:14:30.880><c> schema</c><00:14:31.279><c> or</c><00:14:31.519><c> not?</c>
+Is it valid with the schema or not?
+Is it valid with the schema or not?
+Right?<00:14:32.079><c> Is</c><00:14:32.320><c> it</c><00:14:32.639><c> passing</c><00:14:32.959><c> a</c><00:14:33.199><c> unit</c><00:14:33.519><c> test</c><00:14:33.920><c> or</c><00:14:34.160><c> not?</c>
+Right? Is it passing a unit test or not?
+Right? Is it passing a unit test or not?
+Some<00:14:34.959><c> verification</c><00:14:35.519><c> is</c><00:14:35.760><c> very</c><00:14:36.000><c> procedural.</c><00:14:36.560><c> So</c>
+Some verification is very procedural. So
+Some verification is very procedural. So
+a<00:14:36.880><c> human</c><00:14:37.120><c> can</c><00:14:37.360><c> review,</c><00:14:37.760><c> can</c><00:14:38.000><c> provide</c><00:14:38.240><c> a</c><00:14:38.480><c> second</c>
+a human can review, can provide a second
+a human can review, can provide a second
+pass<00:14:39.040><c> critique,</c><00:14:39.839><c> can</c><00:14:40.240><c> do</c><00:14:40.480><c> adversarial</c>
+pass critique, can do adversarial
+pass critique, can do adversarial
+prompting,<00:14:41.760><c> etc.</c><00:14:42.399><c> The</c><00:14:42.639><c> key</c><00:14:42.800><c> is</c><00:14:42.959><c> that</c>
+prompting, etc. The key is that
+prompting, etc. The key is that
+verification<00:14:44.399><c> is</c><00:14:45.040><c> not</c><00:14:45.839><c> optional.</c><00:14:46.639><c> It</c><00:14:46.880><c> is</c><00:14:46.959><c> the</c>
+verification is not optional. It is the
+verification is not optional. It is the
+mechanism<00:14:47.760><c> that</c><00:14:48.079><c> replaces</c><00:14:48.560><c> the</c><00:14:48.800><c> old</c>
+mechanism that replaces the old
+mechanism that replaces the old
+guarantee<00:14:49.600><c> that</c><00:14:49.760><c> you</c><00:14:50.000><c> got</c><00:14:50.639><c> from</c><00:14:51.199><c> the</c><00:14:51.440><c> authored</c>
+guarantee that you got from the authored
+guarantee that you got from the authored
+logic<00:14:52.160><c> that</c><00:14:52.320><c> an</c><00:14:52.560><c> engineer</c><00:14:52.959><c> would</c><00:14:53.120><c> develop.</c>
+logic that an engineer would develop.
+logic that an engineer would develop.
+And<00:14:53.920><c> so</c><00:14:54.320><c> what</c><00:14:54.639><c> you</c><00:14:54.880><c> need</c><00:14:55.040><c> to</c><00:14:55.279><c> learn</c><00:14:55.680><c> at</c><00:14:55.920><c> this</c>
+And so what you need to learn at this
+And so what you need to learn at this
+level<00:14:56.480><c> is</c><00:14:56.800><c> how</c><00:14:57.040><c> can</c><00:14:57.199><c> you</c><00:14:57.440><c> design</c>
+level is how can you design
+level is how can you design
+verifications<00:14:59.120><c> that</c><00:14:59.440><c> ensure</c><00:14:59.920><c> tight</c>
+verifications that ensure tight
+verifications that ensure tight
+alignment<00:15:00.959><c> between</c><00:15:01.360><c> system</c><00:15:01.760><c> performance</c><00:15:02.240><c> and</c>
+alignment between system performance and
+alignment between system performance and
+correctness.<00:15:03.360><c> Next,</c><00:15:03.920><c> provenence</c><00:15:04.480><c> and</c><00:15:04.800><c> chain</c>
+correctness. Next, provenence and chain
+correctness. Next, provenence and chain
+of<00:15:05.360><c> custody</c><00:15:05.839><c> becomes</c><00:15:06.160><c> a</c><00:15:06.399><c> factor</c><00:15:06.720><c> here.</c>
+of custody becomes a factor here.
+of custody becomes a factor here.
+Remember<00:15:07.519><c> in</c><00:15:07.760><c> the</c><00:15:07.920><c> past</c><00:15:08.399><c> chain</c><00:15:08.639><c> of</c><00:15:08.800><c> custody</c>
+Remember in the past chain of custody
+Remember in the past chain of custody
+was<00:15:09.360><c> implicit,</c><00:15:09.920><c> right?</c><00:15:10.160><c> You</c><00:15:10.399><c> can</c><00:15:10.560><c> see</c><00:15:10.720><c> the</c>
+was implicit, right? You can see the
+was implicit, right? You can see the
+workflow<00:15:11.360><c> and</c><00:15:11.600><c> you</c><00:15:11.760><c> know</c><00:15:11.839><c> who</c><00:15:12.000><c> wrote</c><00:15:12.160><c> it.</c><00:15:12.399><c> So</c>
+workflow and you know who wrote it. So
+workflow and you know who wrote it. So
+you<00:15:12.639><c> have</c><00:15:12.800><c> chain</c><00:15:13.040><c> of</c><00:15:13.199><c> custody.</c><00:15:14.000><c> But</c><00:15:14.240><c> if</c>
+you have chain of custody. But if
+you have chain of custody. But if
+authority<00:15:14.959><c> requires</c><00:15:15.360><c> providence,</c><00:15:15.839><c> how</c><00:15:15.920><c> do</c><00:15:16.000><c> we</c>
+authority requires providence, how do we
+authority requires providence, how do we
+get<00:15:16.240><c> that</c><00:15:16.399><c> in</c><00:15:16.560><c> the</c><00:15:16.639><c> age</c><00:15:16.800><c> of</c><00:15:16.959><c> AI?</c><00:15:17.600><c> If</c><00:15:17.760><c> the</c><00:15:17.920><c> output</c>
+get that in the age of AI? If the output
+get that in the age of AI? If the output
+makes<00:15:18.560><c> claims,</c><00:15:19.040><c> you're</c><00:15:19.279><c> going</c><00:15:19.360><c> to</c><00:15:19.519><c> need</c><00:15:19.600><c> to</c><00:15:19.760><c> be</c>
+makes claims, you're going to need to be
+makes claims, you're going to need to be
+able<00:15:20.000><c> to</c><00:15:20.160><c> design</c><00:15:20.399><c> a</c><00:15:20.639><c> system</c><00:15:20.880><c> that</c><00:15:21.199><c> shows</c><00:15:21.839><c> where</c>
+able to design a system that shows where
+able to design a system that shows where
+those<00:15:22.399><c> claims</c><00:15:22.800><c> came</c><00:15:23.040><c> from.</c><00:15:23.440><c> Sources,</c>
+those claims came from. Sources,
+those claims came from. Sources,
+citations,<00:15:25.040><c> quotes,</c><00:15:25.519><c> retrieved</c><00:15:26.079><c> documents.</c>
+citations, quotes, retrieved documents.
+citations, quotes, retrieved documents.
+That<00:15:27.440><c> is</c><00:15:27.760><c> all</c><00:15:28.240><c> part</c><00:15:28.560><c> of</c><00:15:28.880><c> designing</c><00:15:29.360><c> a</c><00:15:29.680><c> good</c>
+That is all part of designing a good
+That is all part of designing a good
+probabilistic<00:15:30.639><c> system</c><00:15:31.040><c> today.</c><00:15:31.600><c> In</c><00:15:31.760><c> the</c>
+probabilistic system today. In the
+probabilistic system today. In the
+deterministic<00:15:32.720><c> world,</c><00:15:33.120><c> you</c><00:15:33.360><c> could</c><00:15:33.519><c> get</c><00:15:33.680><c> that</c>
+deterministic world, you could get that
+deterministic world, you could get that
+straight<00:15:34.079><c> out</c><00:15:34.240><c> of</c><00:15:34.320><c> the</c><00:15:34.560><c> code</c><00:15:34.720><c> with</c><00:15:34.959><c> some</c>
+straight out of the code with some
+straight out of the code with some
+testing.<00:15:35.600><c> In</c><00:15:35.839><c> the</c><00:15:36.079><c> probabilistic</c><00:15:36.880><c> world,</c>
+testing. In the probabilistic world,
+testing. In the probabilistic world,
+it's<00:15:37.440><c> about</c><00:15:37.680><c> evidence.</c><00:15:38.399><c> It's</c><00:15:38.639><c> about</c>
+it's about evidence. It's about
+it's about evidence. It's about
+establishing<00:15:39.600><c> systems</c><00:15:40.000><c> that</c><00:15:40.320><c> author</c>
+establishing systems that author
+establishing systems that author
+traceability<00:15:41.440><c> as</c><00:15:41.680><c> a</c><00:15:41.839><c> first</c><00:15:42.160><c> class</c><00:15:42.480><c> object.</c>
+traceability as a first class object.
+traceability as a first class object.
+You<00:15:43.600><c> design</c><00:15:44.079><c> them</c><00:15:44.399><c> to</c><00:15:44.720><c> be</c><00:15:44.959><c> audited</c><00:15:45.519><c> from</c><00:15:45.839><c> day</c>
+You design them to be audited from day
+You design them to be audited from day
+one.<00:15:46.720><c> And</c><00:15:46.880><c> then</c><00:15:47.040><c> the</c><00:15:47.279><c> next</c><00:15:47.440><c> piece</c><00:15:47.760><c> is</c>
+one. And then the next piece is
+one. And then the next piece is
+permissions.<00:15:49.040><c> The</c><00:15:49.279><c> model</c><00:15:49.839><c> cannot</c><00:15:50.320><c> be</c><00:15:50.639><c> your</c>
+permissions. The model cannot be your
+permissions. The model cannot be your
+security<00:15:51.600><c> boundary.</c><00:15:52.160><c> That's</c><00:15:52.320><c> a</c><00:15:52.560><c> disaster.</c><00:15:53.360><c> If</c>
+security boundary. That's a disaster. If
+security boundary. That's a disaster. If
+the<00:15:53.759><c> system</c><00:15:54.000><c> is</c><00:15:54.160><c> allowed</c><00:15:54.480><c> to</c><00:15:54.639><c> email</c>
+the system is allowed to email
+the system is allowed to email
+customers,<00:15:55.600><c> to</c><00:15:55.759><c> move</c><00:15:55.920><c> money,</c><00:15:56.320><c> to</c><00:15:56.480><c> change</c>
+customers, to move money, to change
+customers, to move money, to change
+permissions,<00:15:57.279><c> to</c><00:15:57.440><c> merge</c><00:15:57.759><c> code,</c><00:15:58.399><c> you</c><00:15:58.720><c> have</c><00:15:58.880><c> to</c>
+permissions, to merge code, you have to
+permissions, to merge code, you have to
+treat<00:15:59.440><c> it</c><00:15:59.839><c> like</c><00:16:00.079><c> you</c><00:16:00.320><c> treat</c><00:16:00.560><c> permissioning</c><00:16:01.120><c> in</c>
+treat it like you treat permissioning in
+treat it like you treat permissioning in
+any<00:16:01.759><c> other</c><00:16:01.920><c> part</c><00:16:02.079><c> of</c><00:16:02.240><c> your</c><00:16:02.399><c> system.</c><00:16:02.720><c> The</c>
+any other part of your system. The
+any other part of your system. The
+permissioning<00:16:03.360><c> should</c><00:16:03.600><c> be</c><00:16:03.680><c> deterministic.</c>
+permissioning should be deterministic.
+permissioning should be deterministic.
+It<00:16:04.639><c> should</c><00:16:04.800><c> be</c><00:16:04.880><c> on</c><00:16:05.040><c> a</c><00:16:05.199><c> least</c><00:16:05.600><c> privilege</c><00:16:06.079><c> basis.</c>
+It should be on a least privilege basis.
+It should be on a least privilege basis.
+And<00:16:06.880><c> you</c><00:16:07.040><c> should</c><00:16:07.199><c> go</c><00:16:07.360><c> through</c><00:16:07.519><c> all</c><00:16:07.759><c> the</c><00:16:07.920><c> usual</c>
+And you should go through all the usual
+And you should go through all the usual
+tools<00:16:08.560><c> you</c><00:16:08.720><c> have,</c><00:16:08.959><c> allow</c><00:16:09.360><c> lists,</c><00:16:10.000><c> scope</c>
+tools you have, allow lists, scope
+tools you have, allow lists, scope
+tools,<00:16:11.040><c> approval</c><00:16:11.440><c> steps,</c><00:16:11.920><c> audit</c><00:16:12.320><c> trails,</c>
+tools, approval steps, audit trails,
+tools, approval steps, audit trails,
+etc.<00:16:13.680><c> And</c><00:16:13.839><c> and</c><00:16:14.320><c> this</c><00:16:14.560><c> is</c><00:16:14.720><c> where</c><00:16:15.040><c> you</c><00:16:15.360><c> actually</c>
+etc. And and this is where you actually
+etc. And and this is where you actually
+can<00:16:15.839><c> instantiate</c><00:16:16.560><c> agents</c><00:16:16.959><c> in</c><00:16:17.040><c> a</c><00:16:17.199><c> way</c><00:16:17.279><c> that's</c>
+can instantiate agents in a way that's
+can instantiate agents in a way that's
+useful.<00:16:18.000><c> Right?</c><00:16:18.560><c> So</c><00:16:18.800><c> if</c><00:16:19.040><c> we</c><00:16:19.279><c> look</c><00:16:19.360><c> at</c><00:16:19.519><c> these</c>
+useful. Right? So if we look at these
+useful. Right? So if we look at these
+three,<00:16:20.000><c> what</c><00:16:20.240><c> I'm</c><00:16:20.399><c> trying</c><00:16:20.560><c> to</c><00:16:20.720><c> get</c><00:16:20.880><c> you</c><00:16:21.120><c> to</c><00:16:21.279><c> is</c>
+three, what I'm trying to get you to is
+three, what I'm trying to get you to is
+an<00:16:21.680><c> understanding</c><00:16:22.160><c> of</c><00:16:22.399><c> the</c><00:16:22.560><c> of</c><00:16:22.800><c> the</c><00:16:23.040><c> elements</c>
+an understanding of the of the elements
+an understanding of the of the elements
+of<00:16:23.600><c> authority</c><00:16:24.399><c> in</c><00:16:24.639><c> the</c><00:16:24.959><c> age</c><00:16:25.360><c> of</c><00:16:25.839><c> probabilistic</c>
+of authority in the age of probabilistic
+of authority in the age of probabilistic
+machines.<00:16:27.440><c> You</c><00:16:27.600><c> have</c><00:16:27.759><c> to</c><00:16:27.920><c> be</c><00:16:28.000><c> able</c><00:16:28.160><c> to</c><00:16:28.320><c> verify</c>
+machines. You have to be able to verify
+machines. You have to be able to verify
+work.<00:16:29.279><c> You</c><00:16:29.440><c> have</c><00:16:29.600><c> to</c><00:16:29.680><c> be</c><00:16:29.759><c> able</c><00:16:29.920><c> to</c><00:16:30.399><c> show</c>
+work. You have to be able to show
+work. You have to be able to show
+providence<00:16:31.199><c> and</c><00:16:31.360><c> chain</c><00:16:31.600><c> of</c><00:16:31.759><c> custody</c><00:16:32.079><c> to</c><00:16:32.320><c> have</c>
+providence and chain of custody to have
+providence and chain of custody to have
+useful<00:16:32.880><c> work.</c><00:16:33.440><c> And</c><00:16:33.680><c> you</c><00:16:33.839><c> need</c><00:16:34.079><c> permission</c>
+useful work. And you need permission
+useful work. And you need permission
+envelopes<00:16:35.040><c> so</c><00:16:35.199><c> that</c><00:16:35.440><c> the</c><00:16:35.600><c> agents</c><00:16:36.000><c> that</c><00:16:36.240><c> you</c>
+envelopes so that the agents that you
+envelopes so that the agents that you
+set<00:16:36.720><c> out,</c><00:16:37.680><c> you</c><00:16:38.000><c> can</c><00:16:38.399><c> prove</c><00:16:39.199><c> that</c><00:16:39.440><c> they</c><00:16:39.680><c> are</c><00:16:39.839><c> not</c>
+set out, you can prove that they are not
+set out, you can prove that they are not
+over<00:16:40.560><c> permissioned.</c><00:16:41.600><c> And</c><00:16:41.759><c> that</c><00:16:42.000><c> is</c><00:16:42.160><c> going</c><00:16:42.240><c> to</c>
+over permissioned. And that is going to
+over permissioned. And that is going to
+be<00:16:42.480><c> more</c><00:16:42.639><c> and</c><00:16:42.800><c> more</c><00:16:42.959><c> of</c><00:16:43.040><c> a</c><00:16:43.279><c> security</c><00:16:43.600><c> issue</c><00:16:43.920><c> in</c>
+be more and more of a security issue in
+be more and more of a security issue in
+2026.<00:16:45.120><c> So</c><00:16:45.279><c> let's</c><00:16:45.519><c> say</c><00:16:45.680><c> you've</c><00:16:45.920><c> learned</c><00:16:46.160><c> about</c>
+2026. So let's say you've learned about
+2026. So let's say you've learned about
+authority,<00:16:46.880><c> you've</c><00:16:47.040><c> learned</c><00:16:47.279><c> about</c>
+authority, you've learned about
+authority, you've learned about
+conditioning<00:16:47.920><c> and</c><00:16:48.160><c> intent</c><00:16:48.560><c> steering.</c><00:16:49.120><c> What's</c>
+conditioning and intent steering. What's
+conditioning and intent steering. What's
+next<00:16:49.600><c> on</c><00:16:49.759><c> the</c><00:16:49.920><c> skill</c><00:16:50.240><c> tree</c><00:16:50.480><c> here?</c><00:16:50.880><c> Level</c><00:16:51.279><c> three</c>
+next on the skill tree here? Level three
+next on the skill tree here? Level three
+of<00:16:51.839><c> the</c><00:16:52.000><c> skill</c><00:16:52.320><c> tree</c><00:16:52.560><c> is</c><00:16:52.800><c> really</c><00:16:53.040><c> around</c>
+of the skill tree is really around
+of the skill tree is really around
+workflows.<00:16:54.079><c> How</c><00:16:54.320><c> can</c><00:16:54.480><c> you</c><00:16:54.639><c> take</c><00:16:54.959><c> intelligence</c>
+workflows. How can you take intelligence
+workflows. How can you take intelligence
+as<00:16:55.920><c> a</c><00:16:56.079><c> raw</c><00:16:56.399><c> material</c><00:16:56.959><c> and</c><00:16:57.279><c> turn</c><00:16:57.519><c> it</c><00:16:57.839><c> into</c><00:16:58.399><c> a</c>
+as a raw material and turn it into a
+as a raw material and turn it into a
+scaled<00:16:59.120><c> out</c><00:16:59.360><c> factory?</c><00:17:00.160><c> This</c><00:17:00.320><c> is</c><00:17:00.399><c> where</c><00:17:00.560><c> the</c>
+scaled out factory? This is where the
+scaled out factory? This is where the
+compounding<00:17:01.279><c> leverage</c><00:17:01.680><c> comes</c><00:17:02.000><c> into</c><00:17:02.320><c> play.</c><00:17:02.880><c> So</c>
+compounding leverage comes into play. So
+compounding leverage comes into play. So
+one<00:17:03.839><c> piece</c><00:17:04.079><c> here</c><00:17:04.240><c> is</c><00:17:04.480><c> learning</c><00:17:04.720><c> how</c><00:17:04.799><c> to</c>
+one piece here is learning how to
+one piece here is learning how to
+decompose<00:17:05.600><c> into</c><00:17:05.839><c> pipeline</c><00:17:06.400><c> steps.</c><00:17:06.880><c> This</c><00:17:07.120><c> is</c>
+decompose into pipeline steps. This is
+decompose into pipeline steps. This is
+where<00:17:07.439><c> you</c><00:17:07.600><c> stop</c><00:17:07.919><c> treating</c><00:17:08.240><c> the</c><00:17:08.400><c> model</c><00:17:08.880><c> like</c><00:17:09.120><c> a</c>
+where you stop treating the model like a
+where you stop treating the model like a
+chatbot<00:17:09.839><c> and</c><00:17:10.000><c> you</c><00:17:10.160><c> start</c><00:17:10.319><c> treating</c><00:17:10.640><c> it</c><00:17:10.880><c> as</c><00:17:11.360><c> a</c>
+chatbot and you start treating it as a
+chatbot and you start treating it as a
+piece<00:17:12.000><c> in</c><00:17:12.400><c> a</c><00:17:12.640><c> pipeline.</c><00:17:13.760><c> You</c><00:17:14.000><c> build</c>
+piece in a pipeline. You build
+piece in a pipeline. You build
+intermediate<00:17:14.880><c> artifacts.</c><00:17:15.600><c> You</c><00:17:15.760><c> create</c>
+intermediate artifacts. You create
+intermediate artifacts. You create
+checkmates.<00:17:16.640><c> You</c><00:17:16.799><c> keep</c><00:17:16.959><c> the</c><00:17:17.199><c> generator</c><00:17:17.919><c> away</c>
+checkmates. You keep the generator away
+checkmates. You keep the generator away
+from<00:17:18.799><c> the</c><00:17:19.039><c> final</c><00:17:19.360><c> decision.</c><00:17:19.919><c> You</c><00:17:20.079><c> make</c>
+from the final decision. You make
+from the final decision. You make
+failures<00:17:20.959><c> local</c><00:17:21.360><c> instead</c><00:17:21.760><c> of</c><00:17:22.000><c> global.</c><00:17:22.720><c> And</c>
+failures local instead of global. And
+failures local instead of global. And
+you<00:17:23.039><c> make</c><00:17:23.199><c> the</c><00:17:23.360><c> workflow</c><00:17:24.160><c> runnable</c><00:17:24.640><c> by</c>
+you make the workflow runnable by
+you make the workflow runnable by
+someone<00:17:25.120><c> else,</c><00:17:25.520><c> not</c><00:17:25.679><c> just</c><00:17:25.839><c> you.</c><00:17:26.240><c> And</c><00:17:26.400><c> then</c>
+someone else, not just you. And then
+someone else, not just you. And then
+that<00:17:26.799><c> goes</c><00:17:27.039><c> with</c><00:17:27.199><c> failure</c><00:17:27.600><c> mode</c><00:17:27.919><c> taxonomy.</c><00:17:28.720><c> In</c>
+that goes with failure mode taxonomy. In
+that goes with failure mode taxonomy. In
+deterministic<00:17:29.600><c> systems,</c><00:17:30.080><c> debugging</c><00:17:30.720><c> is</c>
+deterministic systems, debugging is
+deterministic systems, debugging is
+tracing<00:17:32.160><c> logic.</c><00:17:32.640><c> You</c><00:17:32.799><c> can</c><00:17:32.880><c> just</c><00:17:33.039><c> trace</c><00:17:33.280><c> it</c>
+tracing logic. You can just trace it
+tracing logic. You can just trace it
+through<00:17:33.600><c> the</c><00:17:33.760><c> code,</c><00:17:34.000><c> right?</c><00:17:34.160><c> In</c>
+through the code, right? In
+through the code, right? In
+probabilistic<00:17:35.120><c> systems,</c><00:17:35.520><c> debugging</c><00:17:36.080><c> is</c>
+probabilistic systems, debugging is
+probabilistic systems, debugging is
+really<00:17:36.559><c> classifying</c><00:17:37.200><c> failure</c><00:17:37.600><c> modes</c><00:17:37.840><c> and</c>
+really classifying failure modes and
+really classifying failure modes and
+finding<00:17:38.400><c> useful</c><00:17:38.799><c> ways</c><00:17:38.960><c> to</c><00:17:39.120><c> address</c><00:17:39.440><c> them.</c><00:17:39.919><c> Was</c>
+finding useful ways to address them. Was
+finding useful ways to address them. Was
+the<00:17:40.320><c> context</c><00:17:40.720><c> missing?</c><00:17:41.120><c> What</c><00:17:41.280><c> should</c><00:17:41.440><c> we</c><00:17:41.520><c> do</c>
+the context missing? What should we do
+the context missing? What should we do
+about<00:17:41.760><c> it?</c><00:17:42.000><c> Was</c><00:17:42.240><c> retrieval</c><00:17:42.720><c> wrong?</c><00:17:43.039><c> How</c><00:17:43.120><c> do</c><00:17:43.200><c> we</c>
+about it? Was retrieval wrong? How do we
+about it? Was retrieval wrong? How do we
+adjust<00:17:43.600><c> the</c><00:17:43.760><c> context</c><00:17:44.160><c> window?</c><00:17:44.559><c> Did</c><00:17:44.720><c> the</c><00:17:44.880><c> tool</c>
+adjust the context window? Did the tool
+adjust the context window? Did the tool
+fail?<00:17:45.679><c> Did</c><00:17:45.840><c> we</c><00:17:46.000><c> declare</c><00:17:46.320><c> the</c><00:17:46.400><c> tool</c><00:17:46.720><c> correctly?</c>
+fail? Did we declare the tool correctly?
+fail? Did we declare the tool correctly?
+Did<00:17:47.600><c> constraints</c><00:17:48.160><c> conflict?</c><00:17:48.559><c> Did</c><00:17:48.720><c> it</c>
+Did constraints conflict? Did it
+Did constraints conflict? Did it
+hallucinate?<00:17:49.840><c> Was</c><00:17:50.080><c> the</c><00:17:50.240><c> task</c>
+hallucinate? Was the task
+hallucinate? Was the task
+underspecified?<00:17:51.600><c> Did</c><00:17:51.760><c> the</c><00:17:51.919><c> model</c><00:17:52.160><c> just</c>
+underspecified? Did the model just
+underspecified? Did the model just
+refuse<00:17:52.720><c> to</c><00:17:52.880><c> do</c><00:17:53.039><c> it?</c><00:17:53.360><c> Did</c><00:17:53.520><c> it</c><00:17:53.679><c> exceed</c><00:17:54.080><c> budget?</c>
+refuse to do it? Did it exceed budget?
+refuse to do it? Did it exceed budget?
+You<00:17:54.799><c> basically</c><00:17:55.280><c> need</c><00:17:55.600><c> a</c><00:17:56.000><c> complete</c><00:17:56.640><c> taxonomy</c>
+You basically need a complete taxonomy
+You basically need a complete taxonomy
+of<00:17:58.080><c> errors</c><00:17:58.400><c> so</c><00:17:58.640><c> that</c><00:17:58.880><c> you</c><00:17:59.120><c> stop</c><00:17:59.520><c> assuming</c><00:18:00.000><c> that</c>
+of errors so that you stop assuming that
+of errors so that you stop assuming that
+you<00:18:00.400><c> can</c><00:18:00.559><c> fiddle</c><00:18:00.880><c> with</c><00:18:01.039><c> the</c><00:18:01.200><c> prompt</c><00:18:01.600><c> every</c>
+you can fiddle with the prompt every
+you can fiddle with the prompt every
+time<00:18:02.000><c> and</c><00:18:02.320><c> you</c><00:18:02.480><c> start</c><00:18:03.120><c> identifying</c><00:18:03.600><c> the</c>
+time and you start identifying the
+time and you start identifying the
+correct<00:18:04.160><c> layer</c><00:18:04.320><c> where</c><00:18:04.480><c> the</c><00:18:04.799><c> failure</c><00:18:05.200><c> occurred</c>
+correct layer where the failure occurred
+correct layer where the failure occurred
+and<00:18:05.919><c> fixing</c><00:18:06.320><c> it</c><00:18:06.799><c> properly.</c><00:18:07.600><c> And</c><00:18:07.840><c> then</c><00:18:08.080><c> the</c>
+and fixing it properly. And then the
+and fixing it properly. And then the
+next<00:18:08.559><c> piece</c><00:18:08.799><c> here</c><00:18:09.120><c> all</c><00:18:09.360><c> still</c><00:18:09.600><c> inside</c>
+next piece here all still inside
+next piece here all still inside
+workflows<00:18:10.559><c> is</c><00:18:10.799><c> how</c><00:18:10.960><c> you</c><00:18:11.120><c> handle</c>
+workflows is how you handle
+workflows is how you handle
+observability.<00:18:12.400><c> How</c><00:18:12.559><c> do</c><00:18:12.640><c> you</c><00:18:12.799><c> make</c><00:18:12.960><c> the</c>
+observability. How do you make the
+observability. How do you make the
+system<00:18:13.600><c> legible?</c><00:18:14.400><c> You</c><00:18:14.640><c> cannot</c><00:18:15.039><c> fully</c><00:18:15.360><c> inspect</c>
+system legible? You cannot fully inspect
+system legible? You cannot fully inspect
+the<00:18:16.000><c> model's</c><00:18:16.320><c> internal</c><00:18:16.799><c> reasoning.</c><00:18:17.440><c> So</c><00:18:17.600><c> you</c>
+the model's internal reasoning. So you
+the model's internal reasoning. So you
+have<00:18:18.000><c> to</c><00:18:18.160><c> compensate</c><00:18:18.720><c> by</c><00:18:19.039><c> making</c><00:18:19.200><c> the</c>
+have to compensate by making the
+have to compensate by making the
+surrounding<00:18:20.000><c> system</c><00:18:20.400><c> extremely</c><00:18:20.880><c> observable.</c>
+surrounding system extremely observable.
+surrounding system extremely observable.
+traces<00:18:22.240><c> of</c><00:18:22.480><c> your</c><00:18:22.640><c> tool</c><00:18:22.960><c> calls,</c><00:18:23.440><c> inputs</c><00:18:23.919><c> used,</c>
+traces of your tool calls, inputs used,
+traces of your tool calls, inputs used,
+documents<00:18:24.880><c> retrieved,</c><00:18:25.440><c> intermediate</c>
+documents retrieved, intermediate
+documents retrieved, intermediate
+outputs,<00:18:26.640><c> validations</c><00:18:27.360><c> passed</c><00:18:27.679><c> or</c><00:18:27.919><c> failed,</c>
+outputs, validations passed or failed,
+outputs, validations passed or failed,
+the<00:18:28.400><c> timing,</c><00:18:28.799><c> the</c><00:18:28.960><c> cost.</c><00:18:29.679><c> This</c><00:18:29.919><c> is</c><00:18:30.080><c> how</c><00:18:30.320><c> you</c>
+the timing, the cost. This is how you
+the timing, the cost. This is how you
+ensure<00:18:31.039><c> that</c><00:18:31.280><c> the</c><00:18:31.520><c> system</c><00:18:31.919><c> is</c><00:18:32.240><c> legible</c><00:18:32.880><c> all</c>
+ensure that the system is legible all
+ensure that the system is legible all
+the<00:18:33.360><c> way</c><00:18:33.520><c> through</c><00:18:33.840><c> your</c><00:18:34.160><c> workflow.</c><00:18:34.960><c> In</c><00:18:35.120><c> a</c>
+the way through your workflow. In a
+the way through your workflow. In a
+sense,<00:18:35.600><c> you're</c><00:18:35.840><c> taking</c><00:18:36.160><c> the</c><00:18:36.400><c> skills</c><00:18:36.640><c> you</c>
+sense, you're taking the skills you
+sense, you're taking the skills you
+learned<00:18:37.200><c> about</c><00:18:37.360><c> auditability</c><00:18:38.080><c> at</c><00:18:38.320><c> level</c><00:18:38.640><c> two</c>
+learned about auditability at level two
+learned about auditability at level two
+and<00:18:39.200><c> you're</c><00:18:39.360><c> scaling</c><00:18:39.760><c> them</c><00:18:39.919><c> to</c><00:18:40.160><c> the</c><00:18:40.400><c> workflow</c>
+and you're scaling them to the workflow
+and you're scaling them to the workflow
+layer.<00:18:41.440><c> And</c><00:18:41.600><c> so</c><00:18:42.080><c> the</c><00:18:42.320><c> three</c><00:18:42.559><c> pieces</c><00:18:42.880><c> of</c><00:18:42.960><c> the</c>
+layer. And so the three pieces of the
+layer. And so the three pieces of the
+workflow<00:18:43.760><c> layer</c><00:18:44.320><c> together</c><00:18:45.039><c> give</c><00:18:45.280><c> you</c><00:18:45.440><c> the</c>
+workflow layer together give you the
+workflow layer together give you the
+room<00:18:46.000><c> to</c><00:18:46.240><c> extend</c><00:18:46.640><c> your</c><00:18:46.799><c> leverage.</c><00:18:47.280><c> It's</c><00:18:47.440><c> not</c>
+room to extend your leverage. It's not
+room to extend your leverage. It's not
+just<00:18:47.760><c> you</c><00:18:48.000><c> doing</c><00:18:48.240><c> things.</c><00:18:48.640><c> You're</c><00:18:48.799><c> now</c>
+just you doing things. You're now
+just you doing things. You're now
+building<00:18:49.280><c> automated</c><00:18:49.840><c> systems.</c><00:18:50.400><c> You</c><00:18:50.559><c> can</c>
+building automated systems. You can
+building automated systems. You can
+decompose<00:18:51.200><c> into</c><00:18:51.520><c> steps.</c><00:18:52.240><c> You</c><00:18:52.480><c> can</c><00:18:52.640><c> diagnose</c>
+decompose into steps. You can diagnose
+decompose into steps. You can diagnose
+failure<00:18:53.679><c> modes.</c><00:18:54.080><c> You</c><00:18:54.240><c> can</c><00:18:54.640><c> figure</c><00:18:54.880><c> out</c>
+failure modes. You can figure out
+failure modes. You can figure out
+observability<00:18:56.240><c> on</c><00:18:56.480><c> a</c><00:18:56.720><c> complex</c><00:18:57.200><c> system.</c>
+observability on a complex system.
+observability on a complex system.
+You're<00:18:58.160><c> starting</c><00:18:58.480><c> to</c><00:18:58.720><c> be</c><00:18:58.880><c> able</c><00:18:59.120><c> to</c><00:18:59.360><c> scale</c>
+You're starting to be able to scale
+You're starting to be able to scale
+LLMs.<00:19:00.720><c> The</c><00:19:00.960><c> final</c><00:19:01.280><c> level</c><00:19:01.600><c> is</c><00:19:01.919><c> compounding.</c>
+LLMs. The final level is compounding.
+LLMs. The final level is compounding.
+This<00:19:03.200><c> is</c><00:19:03.280><c> where</c><00:19:03.440><c> the</c><00:19:03.679><c> leverage</c><00:19:04.080><c> becomes</c><00:19:04.480><c> more</c>
+This is where the leverage becomes more
+This is where the leverage becomes more
+durable<00:19:05.200><c> instead</c><00:19:05.520><c> of</c><00:19:05.679><c> something</c><00:19:05.919><c> you</c><00:19:06.160><c> just</c>
+durable instead of something you just
+durable instead of something you just
+set<00:19:06.640><c> up</c><00:19:06.880><c> and</c><00:19:07.039><c> and</c><00:19:07.679><c> sort</c><00:19:07.919><c> of</c><00:19:08.080><c> go</c><00:19:08.320><c> with</c><00:19:08.640><c> once.</c>
+set up and and sort of go with once.
+set up and and sort of go with once.
+Evaluation<00:19:10.080><c> harnesses</c><00:19:10.799><c> are</c><00:19:11.120><c> so</c><00:19:11.360><c> critical</c>
+Evaluation harnesses are so critical
+Evaluation harnesses are so critical
+here.<00:19:12.320><c> Without</c><00:19:12.720><c> eval,</c><00:19:13.440><c> it's</c><00:19:13.760><c> difficult</c><00:19:14.240><c> to</c>
+here. Without eval, it's difficult to
+here. Without eval, it's difficult to
+compound.<00:19:15.360><c> You</c><00:19:15.520><c> just</c><00:19:15.679><c> end</c><00:19:15.840><c> up</c><00:19:16.080><c> improvising</c>
+compound. You just end up improvising
+compound. You just end up improvising
+faster.<00:19:17.600><c> Look,</c><00:19:17.840><c> eval</c><00:19:18.400><c> can</c><00:19:18.480><c> be</c><00:19:18.640><c> small.</c><00:19:19.039><c> They</c>
+faster. Look, eval can be small. They
+faster. Look, eval can be small. They
+can<00:19:19.280><c> be</c><00:19:19.360><c> a</c><00:19:19.520><c> golden</c><00:19:19.840><c> set</c><00:19:20.000><c> of</c><00:19:20.160><c> examples.</c><00:19:20.640><c> They</c>
+can be a golden set of examples. They
+can be a golden set of examples. They
+can<00:19:20.960><c> be</c><00:19:21.120><c> regression</c><00:19:21.600><c> tests</c><00:19:22.000><c> for</c><00:19:22.160><c> outputs.</c>
+can be regression tests for outputs.
+can be regression tests for outputs.
+They<00:19:22.799><c> can</c><00:19:22.960><c> be</c><00:19:23.120><c> scorecards</c><00:19:23.679><c> or</c><00:19:23.840><c> thresholds.</c>
+They can be scorecards or thresholds.
+They can be scorecards or thresholds.
+But<00:19:24.799><c> you</c><00:19:25.039><c> do</c><00:19:25.200><c> need</c><00:19:25.360><c> a</c><00:19:25.600><c> harness</c><00:19:26.080><c> so</c><00:19:26.240><c> that</c><00:19:26.480><c> you</c>
+But you do need a harness so that you
+But you do need a harness so that you
+can<00:19:26.880><c> change</c><00:19:27.120><c> your</c><00:19:27.360><c> prompts,</c><00:19:28.000><c> your</c><00:19:28.240><c> models,</c>
+can change your prompts, your models,
+can change your prompts, your models,
+and<00:19:28.799><c> your</c><00:19:28.960><c> retrieval</c><00:19:29.440><c> methods</c><00:19:29.919><c> or</c><00:19:30.160><c> your</c><00:19:30.320><c> tools</c>
+and your retrieval methods or your tools
+and your retrieval methods or your tools
+without<00:19:31.280><c> playing</c><00:19:31.600><c> Russian</c><00:19:31.919><c> roulette.</c><00:19:32.640><c> You</c>
+without playing Russian roulette. You
+without playing Russian roulette. You
+also<00:19:33.120><c> need</c><00:19:33.280><c> better</c><00:19:33.600><c> feedback</c><00:19:34.000><c> loops</c><00:19:34.320><c> so</c><00:19:34.480><c> that</c>
+also need better feedback loops so that
+also need better feedback loops so that
+the<00:19:34.880><c> system</c><00:19:35.200><c> corrects</c><00:19:35.600><c> itself.</c><00:19:36.400><c> The</c><00:19:36.640><c> highest</c>
+the system corrects itself. The highest
+the system corrects itself. The highest
+leverage<00:19:37.600><c> comes</c><00:19:37.919><c> from</c><00:19:38.640><c> your</c><00:19:38.880><c> agent</c><00:19:39.360><c> operating</c>
+leverage comes from your agent operating
+leverage comes from your agent operating
+effectively<00:19:40.320><c> in</c><00:19:40.480><c> a</c><00:19:40.640><c> loop</c><00:19:40.880><c> where</c><00:19:41.120><c> it</c><00:19:41.280><c> can</c>
+effectively in a loop where it can
+effectively in a loop where it can
+draft,<00:19:41.919><c> critique,</c><00:19:42.480><c> revise,</c><00:19:43.039><c> recheck,</c><00:19:43.600><c> and</c>
+draft, critique, revise, recheck, and
+draft, critique, revise, recheck, and
+ship.<00:19:44.400><c> or</c><00:19:44.640><c> it</c><00:19:44.880><c> can</c><00:19:45.039><c> retrieve</c><00:19:45.360><c> an</c><00:19:45.679><c> answer,</c><00:19:46.320><c> it</c>
+ship. or it can retrieve an answer, it
+ship. or it can retrieve an answer, it
+can<00:19:46.640><c> site,</c><00:19:47.039><c> it</c><00:19:47.200><c> can</c><00:19:47.280><c> verify,</c><00:19:47.679><c> and</c><00:19:47.840><c> it</c><00:19:48.000><c> can</c>
+can site, it can verify, and it can
+can site, it can verify, and it can
+finalize.<00:19:48.880><c> The</c><00:19:49.200><c> loop</c><00:19:49.760><c> makes</c><00:19:50.080><c> the</c><00:19:50.320><c> generator</c>
+finalize. The loop makes the generator
+finalize. The loop makes the generator
+less<00:19:51.200><c> risky</c><00:19:51.600><c> because</c><00:19:52.080><c> errors</c><00:19:52.320><c> are</c><00:19:52.480><c> caught</c>
+less risky because errors are caught
+less risky because errors are caught
+within<00:19:53.200><c> the</c><00:19:53.440><c> system</c><00:19:53.840><c> before</c><00:19:54.240><c> final</c><00:19:54.559><c> shipment.</c>
+within the system before final shipment.
+within the system before final shipment.
+And<00:19:55.520><c> it</c><00:19:55.760><c> also</c><00:19:56.080><c> makes</c><00:19:56.320><c> this</c><00:19:56.559><c> skill</c><00:19:56.880><c> more</c>
+And it also makes this skill more
+And it also makes this skill more
+transferable<00:19:57.840><c> for</c><00:19:58.080><c> you.</c><00:19:58.559><c> You</c><00:19:58.799><c> don't</c><00:19:58.960><c> need</c><00:19:59.039><c> to</c>
+transferable for you. You don't need to
+transferable for you. You don't need to
+be<00:19:59.280><c> a</c><00:19:59.440><c> genius</c><00:19:59.840><c> prompter.</c><00:20:00.720><c> You</c><00:20:00.960><c> just</c><00:20:01.200><c> need</c><00:20:01.360><c> to</c>
+be a genius prompter. You just need to
+be a genius prompter. You just need to
+be<00:20:01.679><c> able</c><00:20:01.840><c> to</c><00:20:02.000><c> build</c><00:20:02.320><c> a</c><00:20:02.640><c> really,</c><00:20:02.960><c> really</c><00:20:03.280><c> good</c>
+be able to build a really, really good
+be able to build a really, really good
+evaluation<00:20:04.559><c> loop.</c><00:20:05.200><c> The</c><00:20:05.520><c> last</c><00:20:05.760><c> thing</c><00:20:05.919><c> to</c><00:20:06.160><c> keep</c>
+evaluation loop. The last thing to keep
+evaluation loop. The last thing to keep
+in<00:20:06.480><c> mind</c><00:20:06.720><c> if</c><00:20:06.880><c> you</c><00:20:07.039><c> really</c><00:20:07.200><c> want</c><00:20:07.360><c> to</c><00:20:07.520><c> scale</c><00:20:07.840><c> this</c>
+in mind if you really want to scale this
+in mind if you really want to scale this
+is<00:20:08.640><c> learning</c><00:20:08.960><c> the</c><00:20:09.200><c> skill</c><00:20:09.440><c> of</c><00:20:09.600><c> drift</c>
+is learning the skill of drift
+is learning the skill of drift
+management<00:20:10.480><c> and</c><00:20:10.799><c> governance.</c><00:20:11.520><c> models</c><00:20:11.919><c> are</c>
+management and governance. models are
+management and governance. models are
+going<00:20:12.160><c> to</c><00:20:12.320><c> change,</c><00:20:12.960><c> data</c><00:20:13.280><c> is</c><00:20:13.520><c> going</c><00:20:13.600><c> to</c>
+going to change, data is going to
+going to change, data is going to
+change,<00:20:14.160><c> teams</c><00:20:14.480><c> are</c><00:20:14.720><c> going</c><00:20:14.799><c> to</c><00:20:14.880><c> change,</c>
+change, teams are going to change,
+change, teams are going to change,
+attackers<00:20:15.919><c> are</c><00:20:16.160><c> going</c><00:20:16.240><c> to</c><00:20:16.320><c> adapt,</c><00:20:16.960><c> governance</c>
+attackers are going to adapt, governance
+attackers are going to adapt, governance
+means<00:20:17.919><c> versioning,</c><00:20:18.559><c> etc.</c><00:20:19.200><c> Auditability</c>
+means versioning, etc. Auditability
+means versioning, etc. Auditability
+policies<00:20:20.559><c> and</c><00:20:20.799><c> so</c><00:20:20.880><c> on.</c><00:20:21.440><c> You</c><00:20:21.679><c> need</c><00:20:21.840><c> to</c><00:20:22.000><c> start</c>
+policies and so on. You need to start
+policies and so on. You need to start
+treating<00:20:22.640><c> the</c><00:20:22.880><c> work</c><00:20:23.039><c> you</c><00:20:23.280><c> do</c><00:20:23.520><c> like</c><00:20:23.760><c> production</c>
+treating the work you do like production
+treating the work you do like production
+infrastructure<00:20:25.120><c> even</c><00:20:25.360><c> if</c><00:20:25.520><c> you're</c><00:20:25.760><c> not</c><00:20:25.919><c> used</c>
+infrastructure even if you're not used
+infrastructure even if you're not used
+to<00:20:26.320><c> thinking</c><00:20:26.640><c> that</c><00:20:26.880><c> way</c><00:20:27.039><c> because</c><00:20:27.280><c> you're</c><00:20:27.520><c> not</c>
+to thinking that way because you're not
+to thinking that way because you're not
+a<00:20:27.840><c> technical</c><00:20:28.240><c> person.</c><00:20:28.799><c> And</c><00:20:29.039><c> this</c><00:20:29.200><c> is</c><00:20:29.280><c> the</c>
+a technical person. And this is the
+a technical person. And this is the
+final<00:20:29.919><c> layer</c><00:20:30.000><c> of</c><00:20:30.159><c> authority,</c><00:20:30.720><c> right?</c><00:20:30.960><c> It's</c>
+final layer of authority, right? It's
+final layer of authority, right? It's
+the<00:20:31.360><c> ability</c><00:20:31.760><c> to</c><00:20:32.080><c> operate</c><00:20:32.640><c> under</c><00:20:32.960><c> a</c><00:20:33.200><c> condition</c>
+the ability to operate under a condition
+the ability to operate under a condition
+of<00:20:33.840><c> continuous</c><00:20:34.400><c> change</c><00:20:35.120><c> without</c><00:20:35.600><c> losing</c>
+of continuous change without losing
+of continuous change without losing
+control<00:20:36.880><c> over</c><00:20:37.360><c> the</c><00:20:37.679><c> system.</c><00:20:38.159><c> So</c><00:20:38.320><c> there</c><00:20:38.559><c> you</c>
+control over the system. So there you
+control over the system. So there you
+go.<00:20:39.120><c> That's</c><00:20:39.360><c> the</c><00:20:39.520><c> compounding</c><00:20:40.000><c> piece.</c><00:20:40.240><c> Those</c>
+go. That's the compounding piece. Those
+go. That's the compounding piece. Those
+are<00:20:40.559><c> the</c><00:20:40.720><c> four</c><00:20:40.960><c> levels.</c><00:20:41.360><c> I</c><00:20:41.600><c> am</c><00:20:41.679><c> just</c><00:20:41.919><c> sketching</c>
+are the four levels. I am just sketching
+are the four levels. I am just sketching
+in<00:20:42.480><c> the</c><00:20:42.720><c> sort</c><00:20:42.880><c> of</c><00:20:42.960><c> the</c><00:20:43.679><c> loose</c><00:20:44.480><c> highlevel</c><00:20:45.120><c> skill</c>
+in the sort of the loose highlevel skill
+in the sort of the loose highlevel skill
+tree.<00:20:45.760><c> There's</c><00:20:46.000><c> a</c><00:20:46.159><c> ton</c><00:20:46.400><c> of</c><00:20:46.559><c> work</c><00:20:46.720><c> to</c><00:20:46.960><c> be</c><00:20:47.039><c> done</c>
+tree. There's a ton of work to be done
+tree. There's a ton of work to be done
+to<00:20:47.520><c> fill</c><00:20:47.760><c> that</c><00:20:47.919><c> out</c><00:20:48.080><c> and</c><00:20:48.400><c> actually</c><00:20:48.720><c> get</c><00:20:48.960><c> to</c><00:20:49.600><c> a</c>
+to fill that out and actually get to a
+to fill that out and actually get to a
+detailed<00:20:51.360><c> curriculum,</c><00:20:52.080><c> a</c><00:20:52.240><c> detailed</c><00:20:52.720><c> rubric</c>
+detailed curriculum, a detailed rubric
+detailed curriculum, a detailed rubric
+that<00:20:53.360><c> suits</c><00:20:53.760><c> particular</c><00:20:54.320><c> job</c><00:20:54.559><c> families</c><00:20:54.960><c> in</c>
+that suits particular job families in
+that suits particular job families in
+the<00:20:55.280><c> new</c><00:20:55.440><c> AI</c><00:20:55.919><c> era.</c><00:20:56.480><c> But</c><00:20:56.640><c> my</c><00:20:56.880><c> goal</c><00:20:57.120><c> here</c><00:20:57.440><c> has</c>
+the new AI era. But my goal here has
+the new AI era. But my goal here has
+been<00:20:57.840><c> to</c><00:20:58.080><c> share</c><00:20:58.320><c> with</c><00:20:58.480><c> you</c><00:20:58.720><c> how</c><00:20:58.960><c> you</c><00:20:59.120><c> can</c><00:20:59.280><c> take</c>
+been to share with you how you can take
+been to share with you how you can take
+a<00:20:59.679><c> reflection</c><00:21:00.080><c> like</c><00:21:00.320><c> Andre</c><00:21:00.799><c> and</c><00:21:00.960><c> say,</c><00:21:01.039><c> "Yeah,</c>
+a reflection like Andre and say, "Yeah,
+a reflection like Andre and say, "Yeah,
+you're<00:21:01.600><c> right.</c><00:21:01.840><c> There's</c><00:21:02.000><c> a</c><00:21:02.159><c> there's</c><00:21:02.400><c> a</c><00:21:02.559><c> whole</c>
+you're right. There's a there's a whole
+you're right. There's a there's a whole
+new<00:21:02.880><c> set</c><00:21:03.039><c> of</c><00:21:03.120><c> skills</c><00:21:03.440><c> to</c><00:21:03.679><c> learn."</c><00:21:04.159><c> And</c><00:21:04.240><c> start</c>
+new set of skills to learn." And start
+new set of skills to learn." And start
+to<00:21:04.720><c> think</c><00:21:04.960><c> about</c><00:21:05.120><c> it</c><00:21:05.360><c> strategically,</c><00:21:06.240><c> not</c>
+to think about it strategically, not
+to think about it strategically, not
+just<00:21:06.559><c> from</c><00:21:06.720><c> an</c><00:21:06.880><c> engineering</c><00:21:07.360><c> perspective.</c>
+just from an engineering perspective.
+just from an engineering perspective.
+So,<00:21:08.400><c> this</c><00:21:08.640><c> is</c><00:21:08.799><c> not</c><00:21:09.120><c> really</c><00:21:09.760><c> I</c><00:21:09.919><c> I</c><00:21:10.240><c> want</c><00:21:10.320><c> you</c><00:21:10.480><c> to</c>
+So, this is not really I I want you to
+So, this is not really I I want you to
+notice<00:21:10.960><c> this</c><00:21:11.120><c> is</c><00:21:11.280><c> not</c><00:21:11.440><c> really</c><00:21:11.600><c> about</c><00:21:11.840><c> learning</c>
+notice this is not really about learning
+notice this is not really about learning
+AI<00:21:12.559><c> tools.</c><00:21:13.440><c> It's</c><00:21:14.080><c> learning</c><00:21:14.799><c> how</c><00:21:15.120><c> to</c><00:21:15.360><c> operate</c>
+AI tools. It's learning how to operate
+AI tools. It's learning how to operate
+probabilistic<00:21:17.120><c> systems</c><00:21:17.520><c> as</c><00:21:17.840><c> a</c><00:21:18.080><c> compute</c>
+probabilistic systems as a compute
+probabilistic systems as a compute
+service<00:21:19.039><c> across</c><00:21:19.440><c> your</c><00:21:19.760><c> entire</c><00:21:20.159><c> business.</c><00:21:20.559><c> It</c>
+service across your entire business. It
+service across your entire business. It
+applies<00:21:21.120><c> to</c><00:21:21.360><c> everybody.</c><00:21:21.919><c> The</c><00:21:22.159><c> lawyer</c>
+applies to everybody. The lawyer
+applies to everybody. The lawyer
+building<00:21:22.799><c> a</c><00:21:23.039><c> contract</c><00:21:23.440><c> review</c><00:21:23.840><c> workflow</c><00:21:24.480><c> and</c>
+building a contract review workflow and
+building a contract review workflow and
+the<00:21:24.960><c> engineer</c><00:21:25.360><c> building</c><00:21:25.600><c> a</c><00:21:25.760><c> debugging</c><00:21:26.240><c> agent</c>
+the engineer building a debugging agent
+the engineer building a debugging agent
+are<00:21:27.039><c> climbing</c><00:21:27.440><c> the</c><00:21:27.760><c> same</c><00:21:27.919><c> skill</c><00:21:28.240><c> tree</c><00:21:28.559><c> today.</c>
+are climbing the same skill tree today.
+are climbing the same skill tree today.
+They<00:21:29.360><c> may</c><00:21:29.520><c> have</c><00:21:29.679><c> different</c><00:21:29.919><c> artifacts,</c><00:21:30.720><c> but</c>
+They may have different artifacts, but
+They may have different artifacts, but
+they<00:21:31.120><c> have</c><00:21:31.280><c> the</c><00:21:31.520><c> same</c><00:21:31.760><c> hierarchy</c><00:21:32.480><c> of</c><00:21:32.720><c> skills.</c>
+they have the same hierarchy of skills.
+they have the same hierarchy of skills.
+And<00:21:33.679><c> this</c><00:21:33.919><c> is</c><00:21:34.320><c> this</c><00:21:34.640><c> is</c><00:21:34.880><c> where</c><00:21:35.520><c> a</c><00:21:35.840><c> very</c><00:21:36.159><c> famous</c>
+And this is this is where a very famous
+And this is this is where a very famous
+computer<00:21:37.039><c> game</c><00:21:37.440><c> becomes</c><00:21:37.840><c> the</c><00:21:38.000><c> perfect</c>
+computer game becomes the perfect
+computer game becomes the perfect
+analogy.<00:21:39.280><c> Factorio</c><00:21:40.159><c> is</c><00:21:40.400><c> a</c><00:21:40.640><c> game</c><00:21:41.360><c> about</c>
+analogy. Factorio is a game about
+analogy. Factorio is a game about
+climbing<00:21:42.400><c> exactly</c><00:21:42.960><c> this</c><00:21:43.280><c> kind</c><00:21:43.520><c> of</c><00:21:43.679><c> skill</c>
+climbing exactly this kind of skill
+climbing exactly this kind of skill
+tree.<00:21:44.559><c> If</c><00:21:44.720><c> you've</c><00:21:44.960><c> never</c><00:21:45.120><c> heard</c><00:21:45.280><c> of</c><00:21:45.360><c> it,</c><00:21:45.600><c> I'll</c>
+tree. If you've never heard of it, I'll
+tree. If you've never heard of it, I'll
+give<00:21:45.840><c> it</c><00:21:46.000><c> to</c><00:21:46.080><c> you</c><00:21:46.240><c> quickly.</c><00:21:46.559><c> It's</c><00:21:46.720><c> just</c><00:21:46.880><c> a</c>
+give it to you quickly. It's just a
+give it to you quickly. It's just a
+video<00:21:47.280><c> game</c><00:21:47.440><c> where</c><00:21:47.679><c> you</c><00:21:47.840><c> land</c><00:21:48.080><c> on</c><00:21:48.240><c> a</c><00:21:48.400><c> new</c>
+video game where you land on a new
+video game where you land on a new
+planet<00:21:48.880><c> and</c><00:21:49.120><c> your</c><00:21:49.280><c> job</c><00:21:49.440><c> is</c><00:21:49.600><c> to</c><00:21:49.760><c> build</c><00:21:49.919><c> an</c>
+planet and your job is to build an
+planet and your job is to build an
+automated<00:21:50.640><c> factory.</c><00:21:51.280><c> So,</c><00:21:51.520><c> you</c><00:21:51.679><c> start</c><00:21:51.840><c> by</c>
+automated factory. So, you start by
+automated factory. So, you start by
+handcrafting<00:21:52.640><c> really</c><00:21:52.960><c> basic</c><00:21:53.280><c> items,</c><00:21:53.679><c> but</c><00:21:53.919><c> the</c>
+handcrafting really basic items, but the
+handcrafting really basic items, but the
+system<00:21:54.480><c> quickly</c><00:21:54.960><c> pushes</c><00:21:55.280><c> you</c><00:21:55.520><c> into</c>
+system quickly pushes you into
+system quickly pushes you into
+automation.<00:21:56.480><c> And</c><00:21:56.720><c> so,</c><00:21:56.880><c> you</c><00:21:57.120><c> start</c><00:21:57.280><c> to</c><00:21:57.600><c> improve</c>
+automation. And so, you start to improve
+automation. And so, you start to improve
+your<00:21:58.159><c> mining.</c><00:21:58.640><c> You</c><00:21:58.799><c> start</c><00:21:58.960><c> to</c><00:21:59.120><c> install</c>
+your mining. You start to install
+your mining. You start to install
+conveyor<00:21:59.840><c> belts.</c><00:22:00.400><c> start</c><00:22:00.640><c> to</c><00:22:01.280><c> route</c><00:22:01.600><c> more</c><00:22:01.760><c> of</c>
+conveyor belts. start to route more of
+conveyor belts. start to route more of
+your<00:22:02.000><c> outputs</c><00:22:02.400><c> into</c><00:22:02.640><c> more</c><00:22:02.880><c> factories,</c><00:22:03.360><c> you</c>
+your outputs into more factories, you
+your outputs into more factories, you
+you<00:22:03.840><c> eventually</c><00:22:04.400><c> start</c><00:22:04.640><c> to</c><00:22:04.799><c> automate</c><00:22:05.200><c> more</c>
+you eventually start to automate more
+you eventually start to automate more
+and<00:22:05.600><c> more</c><00:22:05.760><c> of</c><00:22:05.919><c> the</c><00:22:06.080><c> supply</c><00:22:06.400><c> chain.</c><00:22:07.120><c> This</c><00:22:07.280><c> is</c><00:22:07.440><c> a</c>
+and more of the supply chain. This is a
+and more of the supply chain. This is a
+great<00:22:08.080><c> training</c><00:22:08.559><c> metaphor</c><00:22:09.039><c> for</c><00:22:09.280><c> this</c><00:22:09.679><c> era</c>
+great training metaphor for this era
+great training metaphor for this era
+because<00:22:10.400><c> it</c><00:22:10.720><c> teaches</c><00:22:11.440><c> us</c><00:22:12.000><c> the</c><00:22:12.400><c> instincts</c><00:22:12.960><c> that</c>
+because it teaches us the instincts that
+because it teaches us the instincts that
+actually<00:22:13.840><c> scale.</c><00:22:14.400><c> Decomposing</c><00:22:15.120><c> problems</c>
+actually scale. Decomposing problems
+actually scale. Decomposing problems
+scales,<00:22:16.320><c> modularity</c><00:22:17.120><c> scales,</c><00:22:17.600><c> observability</c>
+scales, modularity scales, observability
+scales, modularity scales, observability
+scales.<00:22:19.200><c> Understanding</c><00:22:19.600><c> where</c><00:22:19.919><c> bottlenecks</c>
+scales. Understanding where bottlenecks
+scales. Understanding where bottlenecks
+live<00:22:20.640><c> in</c><00:22:20.799><c> a</c><00:22:20.960><c> system,</c><00:22:21.280><c> that</c><00:22:21.520><c> scales,</c><00:22:22.159><c> blast</c>
+live in a system, that scales, blast
+live in a system, that scales, blast
+radius<00:22:23.039><c> estimation,</c><00:22:23.840><c> that</c><00:22:24.159><c> scales.</c><00:22:24.880><c> We</c><00:22:25.200><c> don't</c>
+radius estimation, that scales. We don't
+radius estimation, that scales. We don't
+have<00:22:25.600><c> to</c><00:22:25.760><c> be</c><00:22:26.000><c> attached</c><00:22:26.799><c> to</c><00:22:27.120><c> the</c><00:22:27.440><c> quality</c><00:22:28.000><c> of</c>
+have to be attached to the quality of
+have to be attached to the quality of
+manual<00:22:28.799><c> authorship</c><00:22:29.440><c> to</c><00:22:29.760><c> find</c><00:22:30.000><c> meaning</c><00:22:30.320><c> in</c><00:22:30.559><c> our</c>
+manual authorship to find meaning in our
+manual authorship to find meaning in our
+work.<00:22:31.200><c> Nobody</c><00:22:31.600><c> cares</c><00:22:32.000><c> if</c><00:22:32.240><c> you</c><00:22:32.400><c> personally</c>
+work. Nobody cares if you personally
+work. Nobody cares if you personally
+crafted<00:22:33.280><c> a</c><00:22:33.440><c> gear</c><00:22:33.679><c> that</c><00:22:33.840><c> goes</c><00:22:34.080><c> into</c><00:22:34.320><c> the</c>
+crafted a gear that goes into the
+crafted a gear that goes into the
+machine.<00:22:35.360><c> The</c><00:22:35.600><c> thing</c><00:22:35.679><c> that</c><00:22:36.000><c> matters</c><00:22:36.320><c> is</c><00:22:36.559><c> that</c>
+machine. The thing that matters is that
+machine. The thing that matters is that
+the<00:22:36.960><c> system</c><00:22:37.280><c> produces</c><00:22:37.919><c> gears</c><00:22:38.559><c> at</c><00:22:38.799><c> scale</c><00:22:39.280><c> that</c>
+the system produces gears at scale that
+the system produces gears at scale that
+do<00:22:39.760><c> useful</c><00:22:40.159><c> work.</c><00:22:40.720><c> We</c><00:22:41.039><c> spent</c><00:22:41.440><c> decades</c>
+do useful work. We spent decades
+do useful work. We spent decades
+equating<00:22:42.960><c> competence</c><00:22:43.440><c> with</c><00:22:43.679><c> authorship.</c>
+equating competence with authorship.
+equating competence with authorship.
+Especially<00:22:44.960><c> in</c><00:22:45.120><c> the</c><00:22:45.280><c> engineering</c><00:22:45.760><c> world,</c><00:22:46.000><c> we</c>
+Especially in the engineering world, we
+Especially in the engineering world, we
+celebrated<00:22:46.880><c> supereng</c><00:22:47.280><c> engineers</c><00:22:47.600><c> that</c><00:22:47.760><c> were</c>
+celebrated supereng engineers that were
+celebrated supereng engineers that were
+good<00:22:48.000><c> at</c><00:22:48.159><c> this.</c><00:22:48.720><c> But</c><00:22:48.880><c> the</c><00:22:49.039><c> world</c><00:22:49.280><c> is</c><00:22:49.520><c> now</c><00:22:49.760><c> going</c>
+good at this. But the world is now going
+good at this. But the world is now going
+to<00:22:50.000><c> reward</c><00:22:50.480><c> something</c><00:22:50.799><c> else.</c><00:22:51.280><c> It's</c><00:22:51.600><c> going</c><00:22:51.679><c> to</c>
+to reward something else. It's going to
+to reward something else. It's going to
+reward<00:22:52.559><c> anyone's</c><00:22:53.520><c> ability,</c><00:22:54.159><c> not</c><00:22:54.320><c> just</c>
+reward anyone's ability, not just
+reward anyone's ability, not just
+engineers,<00:22:55.200><c> anyone's</c><00:22:55.679><c> ability</c><00:22:56.080><c> to</c><00:22:56.320><c> design</c>
+engineers, anyone's ability to design
+engineers, anyone's ability to design
+workflows<00:22:57.679><c> that</c><00:22:58.000><c> produce</c><00:22:58.799><c> reliable</c>
+workflows that produce reliable
+workflows that produce reliable
+outcomes.<00:23:00.320><c> Even</c><00:23:00.559><c> when</c><00:23:00.880><c> the</c><00:23:01.200><c> LLM</c><00:23:01.679><c> token</c>
+outcomes. Even when the LLM token
+outcomes. Even when the LLM token
+generator<00:23:02.640><c> at</c><00:23:02.960><c> the</c><00:23:03.120><c> heart</c><00:23:03.280><c> of</c><00:23:03.440><c> the</c><00:23:03.679><c> system</c><00:23:04.240><c> is</c>
+generator at the heart of the system is
+generator at the heart of the system is
+stochastic,<00:23:05.280><c> is</c><00:23:05.600><c> probabilistic,</c><00:23:06.559><c> is</c>
+stochastic, is probabilistic, is
+stochastic, is probabilistic, is
+partially<00:23:07.360><c> opaque.</c><00:23:08.159><c> That's</c><00:23:08.400><c> not</c><00:23:08.640><c> less</c><00:23:08.960><c> skill.</c>
+partially opaque. That's not less skill.
+partially opaque. That's not less skill.
+It's<00:23:09.840><c> just</c><00:23:10.080><c> different</c><00:23:10.400><c> skill.</c><00:23:10.799><c> And</c><00:23:10.960><c> it's</c>
+It's just different skill. And it's
+It's just different skill. And it's
+genuinely<00:23:11.760><c> difficult</c><00:23:12.159><c> because</c><00:23:12.400><c> it</c><00:23:12.559><c> forces</c>
+genuinely difficult because it forces
+genuinely difficult because it forces
+you<00:23:13.120><c> to</c><00:23:13.280><c> replace</c><00:23:13.600><c> the</c><00:23:13.840><c> comfort</c><00:23:14.159><c> of</c><00:23:14.400><c> control</c>
+you to replace the comfort of control
+you to replace the comfort of control
+with<00:23:15.440><c> the</c><00:23:15.679><c> discipline</c><00:23:16.400><c> of</c><00:23:16.720><c> systems.</c><00:23:17.520><c> So</c><00:23:17.760><c> if</c>
+with the discipline of systems. So if
+with the discipline of systems. So if
+you<00:23:18.080><c> feel</c><00:23:18.320><c> behind,</c><00:23:19.280><c> it's</c><00:23:19.520><c> not</c><00:23:19.679><c> that</c><00:23:19.840><c> you're</c>
+you feel behind, it's not that you're
+you feel behind, it's not that you're
+failing.<00:23:20.799><c> It</c><00:23:21.039><c> means</c><00:23:21.200><c> you're</c><00:23:21.520><c> correctly</c>
+failing. It means you're correctly
+failing. It means you're correctly
+perceiving<00:23:22.559><c> that</c><00:23:22.799><c> the</c><00:23:23.039><c> stack</c><00:23:23.440><c> is</c><00:23:23.679><c> different.</c>
+perceiving that the stack is different.
+perceiving that the stack is different.
+Now<00:23:24.480><c> the</c><00:23:24.720><c> way</c><00:23:24.960><c> forward</c><00:23:25.520><c> is</c><00:23:25.840><c> not</c><00:23:26.080><c> going</c><00:23:26.240><c> to</c><00:23:26.320><c> be</c>
+Now the way forward is not going to be
+Now the way forward is not going to be
+frantic<00:23:26.960><c> tool</c><00:23:27.280><c> chasing.</c><00:23:27.679><c> It's</c><00:23:27.840><c> obviously</c><00:23:28.240><c> not</c>
+frantic tool chasing. It's obviously not
+frantic tool chasing. It's obviously not
+going<00:23:28.559><c> to</c><00:23:28.640><c> be</c><00:23:28.799><c> denial.</c><00:23:29.520><c> It's</c><00:23:29.760><c> choosing</c><00:23:30.159><c> to</c>
+going to be denial. It's choosing to
+going to be denial. It's choosing to
+understand<00:23:30.880><c> that</c><00:23:31.120><c> we</c><00:23:31.280><c> have</c><00:23:31.360><c> a</c><00:23:31.600><c> different</c>
+understand that we have a different
+understand that we have a different
+skill<00:23:32.159><c> tree.</c><00:23:32.799><c> That</c><00:23:33.039><c> all</c><00:23:33.280><c> of</c><00:23:33.440><c> us</c><00:23:33.600><c> in</c><00:23:33.760><c> the</c>
+skill tree. That all of us in the
+skill tree. That all of us in the
+knowledge<00:23:34.320><c> work</c><00:23:34.559><c> world</c><00:23:34.880><c> are</c><00:23:35.120><c> climbing</c><00:23:35.520><c> that</c>
+knowledge work world are climbing that
+knowledge work world are climbing that
+tree<00:23:36.640><c> together</c><00:23:37.360><c> and</c><00:23:37.600><c> that</c><00:23:37.840><c> we</c><00:23:38.159><c> do</c><00:23:38.320><c> a</c><00:23:38.559><c> better</c>
+tree together and that we do a better
+tree together and that we do a better
+job<00:23:38.960><c> of</c><00:23:39.200><c> that</c><00:23:39.679><c> when</c><00:23:40.000><c> we</c><00:23:40.159><c> climb</c><00:23:40.400><c> it</c>
+job of that when we climb it
+job of that when we climb it
+deliberately.<00:23:41.520><c> When</c><00:23:41.679><c> we</c><00:23:41.919><c> intentionally</c>
+deliberately. When we intentionally
+deliberately. When we intentionally
+separate<00:23:43.039><c> generation</c><00:23:43.520><c> from</c><00:23:43.840><c> decisioning.</c>
+separate generation from decisioning.
+separate generation from decisioning.
+When<00:23:44.559><c> we</c><00:23:44.720><c> intentionally</c><00:23:45.280><c> learn</c><00:23:45.520><c> to</c><00:23:45.840><c> condition</c>
+When we intentionally learn to condition
+When we intentionally learn to condition
+the<00:23:46.480><c> behavior</c><00:23:46.799><c> of</c><00:23:47.039><c> the</c><00:23:47.280><c> system</c><00:23:47.919><c> with</c>
+the behavior of the system with
+the behavior of the system with
+artifacts<00:23:48.720><c> and</c><00:23:49.039><c> constraints.</c><00:23:49.760><c> when</c><00:23:50.000><c> we</c><00:23:50.159><c> learn</c>
+artifacts and constraints. when we learn
+artifacts and constraints. when we learn
+how<00:23:50.400><c> to</c><00:23:50.559><c> preserve</c><00:23:50.880><c> authority</c><00:23:51.200><c> in</c><00:23:51.440><c> the</c><00:23:51.600><c> system</c>
+how to preserve authority in the system
+how to preserve authority in the system
+when<00:23:52.400><c> we</c><00:23:52.559><c> learn</c><00:23:52.720><c> how</c><00:23:52.799><c> to</c><00:23:52.960><c> build</c><00:23:53.200><c> workflows</c><00:23:53.919><c> not</c>
+when we learn how to build workflows not
+when we learn how to build workflows not
+just<00:23:54.320><c> prompts</c><00:23:54.880><c> and</c><00:23:55.120><c> when</c><00:23:55.280><c> we</c><00:23:55.440><c> can</c><00:23:55.600><c> actually</c>
+just prompts and when we can actually
+just prompts and when we can actually
+make<00:23:56.080><c> systems</c><00:23:56.480><c> compound</c><00:23:56.880><c> with</c><00:23:57.120><c> evals</c><00:23:57.679><c> with</c>
+make systems compound with evals with
+make systems compound with evals with
+good<00:23:58.000><c> feedback</c><00:23:58.400><c> loops</c><00:23:59.039><c> etc</c><00:23:59.600><c> the</c><00:23:59.840><c> new</c>
+good feedback loops etc the new
+good feedback loops etc the new
+hierarchy<00:24:01.039><c> won't</c><00:24:01.440><c> be</c><00:24:01.600><c> based</c><00:24:01.840><c> on</c><00:24:02.080><c> who</c><00:24:02.320><c> codes</c>
+hierarchy won't be based on who codes
+hierarchy won't be based on who codes
+the<00:24:02.880><c> fastest</c><00:24:03.440><c> it</c><00:24:03.679><c> will</c><00:24:03.919><c> be</c><00:24:04.000><c> based</c><00:24:04.240><c> on</c><00:24:04.480><c> who</c><00:24:04.720><c> can</c>
+the fastest it will be based on who can
+the fastest it will be based on who can
+orchestrate<00:24:05.840><c> uncertainty</c><00:24:06.880><c> without</c><00:24:07.360><c> losing</c>
+orchestrate uncertainty without losing
+orchestrate uncertainty without losing
+authority<00:24:08.799><c> and</c><00:24:08.960><c> that's</c><00:24:09.360><c> I</c><00:24:09.679><c> think</c><00:24:09.760><c> that's</c><00:24:10.000><c> what</c>
+authority and that's I think that's what
+authority and that's I think that's what
+technical<00:24:10.880><c> means</c><00:24:11.200><c> now</c><00:24:11.679><c> it's</c><00:24:11.919><c> for</c><00:24:12.159><c> everyone</c>
+technical means now it's for everyone
+technical means now it's for everyone
+and<00:24:13.200><c> yes</c><00:24:13.440><c> it's</c><00:24:13.840><c> absolutely</c><00:24:14.400><c> hard</c><00:24:15.039><c> because</c>
+and yes it's absolutely hard because
+and yes it's absolutely hard because
+we're<00:24:15.679><c> learning</c><00:24:15.919><c> to</c><00:24:16.080><c> operate</c><00:24:16.400><c> a</c><00:24:16.640><c> new</c><00:24:16.799><c> kind</c><00:24:16.960><c> of</c>
+we're learning to operate a new kind of
+we're learning to operate a new kind of
+machine<00:24:17.840><c> while</c><00:24:18.240><c> it's</c><00:24:18.559><c> being</c><00:24:18.960><c> invented</c>
+machine while it's being invented
+machine while it's being invented
+But<00:24:20.400><c> for</c><00:24:20.640><c> the</c><00:24:20.799><c> organizations</c><00:24:21.520><c> that</c><00:24:21.760><c> recognize</c>
+But for the organizations that recognize
+But for the organizations that recognize
+this<00:24:22.480><c> as</c><00:24:22.720><c> a</c><00:24:22.880><c> challenge,</c><00:24:23.520><c> these</c><00:24:23.840><c> are</c><00:24:23.919><c> the</c><00:24:24.159><c> kinds</c>
+this as a challenge, these are the kinds
+this as a challenge, these are the kinds
+of<00:24:24.720><c> human</c><00:24:25.120><c> skills</c><00:24:25.919><c> that</c><00:24:26.240><c> we</c><00:24:26.960><c> all</c><00:24:27.679><c> need</c><00:24:28.159><c> to</c><00:24:28.400><c> grow</c>
+of human skills that we all need to grow
+of human skills that we all need to grow
+in<00:24:29.360><c> in</c><00:24:29.600><c> order</c><00:24:29.919><c> to</c><00:24:30.240><c> move</c><00:24:30.720><c> faster</c><00:24:31.200><c> in</c><00:24:31.520><c> the</c><00:24:31.679><c> AI</c>
+in in order to move faster in the AI
+in in order to move faster in the AI
+era.<00:24:32.559><c> This</c><00:24:32.799><c> is</c><00:24:32.880><c> the</c><00:24:33.200><c> opportunity</c><00:24:33.679><c> in</c><00:24:33.919><c> front</c><00:24:34.000><c> of</c>
+era. This is the opportunity in front of
+era. This is the opportunity in front of
+us.<00:24:34.559><c> The</c><00:24:34.880><c> organizations</c><00:24:35.520><c> that</c><00:24:35.840><c> figure</c><00:24:36.159><c> out</c>
+us. The organizations that figure out
+us. The organizations that figure out
+how<00:24:36.640><c> to</c><00:24:37.279><c> take</c><00:24:37.520><c> this</c><00:24:37.840><c> understanding</c>
+how to take this understanding
+how to take this understanding
+appropriately<00:24:39.919><c> detail</c><00:24:40.320><c> it</c><00:24:40.559><c> for</c><00:24:40.799><c> their</c>
+appropriately detail it for their
+appropriately detail it for their
+particular<00:24:41.600><c> context,</c><00:24:42.880><c> scale</c><00:24:43.279><c> that</c><00:24:43.520><c> across</c>
+particular context, scale that across
+particular context, scale that across
+their<00:24:44.240><c> workforce.</c><00:24:45.200><c> Those</c><00:24:45.440><c> are</c><00:24:45.600><c> the</c><00:24:45.760><c> ones</c><00:24:46.000><c> that</c>
+their workforce. Those are the ones that
+their workforce. Those are the ones that
+are<00:24:46.320><c> going</c><00:24:46.400><c> to</c><00:24:46.480><c> realize</c><00:24:46.960><c> 10x</c><00:24:47.440><c> speedups.</c><00:24:48.080><c> The</c>
+are going to realize 10x speedups. The
+are going to realize 10x speedups. The
+organizations<00:24:48.880><c> that</c><00:24:49.200><c> insist</c><00:24:49.600><c> on</c><00:24:49.840><c> the</c><00:24:50.080><c> old</c>
+organizations that insist on the old
+organizations that insist on the old
+hierarchies<00:24:50.960><c> of</c><00:24:51.200><c> technical</c><00:24:51.679><c> versus</c>
+hierarchies of technical versus
+hierarchies of technical versus
+non-technical<00:24:52.640><c> and</c><00:24:52.880><c> I</c><00:24:53.039><c> have</c><00:24:53.200><c> my</c><00:24:53.360><c> job</c><00:24:53.600><c> hat</c><00:24:53.760><c> and</c>
+non-technical and I have my job hat and
+non-technical and I have my job hat and
+it's<00:24:54.159><c> only</c><00:24:54.400><c> product</c><00:24:54.640><c> manager</c><00:24:54.960><c> and</c><00:24:55.200><c> I</c><00:24:55.360><c> only</c><00:24:55.520><c> do</c>
+it's only product manager and I only do
+it's only product manager and I only do
+product<00:24:56.000><c> management</c><00:24:56.480><c> stuff.</c><00:24:57.200><c> Those</c><00:24:57.360><c> are</c><00:24:57.440><c> the</c>
+product management stuff. Those are the
+product management stuff. Those are the
+ones<00:24:57.760><c> that</c><00:24:57.919><c> are</c><00:24:58.080><c> not</c><00:24:58.240><c> going</c><00:24:58.320><c> to</c><00:24:58.400><c> do</c><00:24:58.559><c> well.</c><00:24:59.039><c> So</c>
+ones that are not going to do well. So
+ones that are not going to do well. So
+the<00:24:59.520><c> choice</c><00:24:59.679><c> is</c><00:24:59.919><c> yours.</c><00:25:00.400><c> But</c><00:25:00.559><c> I</c><00:25:00.720><c> think</c><00:25:00.799><c> that</c>
+the choice is yours. But I think that
+the choice is yours. But I think that
+this<00:25:01.200><c> is</c><00:25:01.360><c> the</c><00:25:02.080><c> end</c><00:25:02.320><c> of</c><00:25:02.559><c> the</c><00:25:02.720><c> technical</c><00:25:03.200><c> versus</c>
+this is the end of the technical versus
+this is the end of the technical versus
+non-technical<00:25:04.400><c> era</c><00:25:04.880><c> and</c><00:25:05.120><c> we</c><00:25:05.360><c> need</c><00:25:05.440><c> to</c><00:25:05.600><c> start</c><00:25:05.840><c> a</c>
+non-technical era and we need to start a
+non-technical era and we need to start a
+skill<00:25:06.400><c> tree</c><00:25:06.799><c> for</c><00:25:06.960><c> a</c><00:25:07.200><c> new</c><00:25:07.440><c> era.</c><00:25:07.840><c> Best</c><00:25:08.080><c> of</c><00:25:08.240><c> luck.</c>

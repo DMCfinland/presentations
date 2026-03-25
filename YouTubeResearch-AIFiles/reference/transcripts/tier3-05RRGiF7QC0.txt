@@ -1,0 +1,1633 @@
+How<00:00:00.320><c> do</c><00:00:00.400><c> you</c><00:00:00.560><c> search</c><00:00:00.880><c> with</c><00:00:01.040><c> AI</c><00:00:01.600><c> and</c><00:00:01.839><c> make</c><00:00:02.000><c> it</c>
+How do you search with AI and make it
+How do you search with AI and make it
+good?<00:00:02.800><c> That's</c><00:00:03.040><c> what</c><00:00:03.200><c> we're</c><00:00:03.280><c> going</c><00:00:03.360><c> to</c><00:00:03.439><c> look</c><00:00:03.600><c> at</c>
+good? That's what we're going to look at
+good? That's what we're going to look at
+today.<00:00:04.000><c> We're</c><00:00:04.080><c> going</c><00:00:04.160><c> to</c><00:00:04.240><c> look</c><00:00:04.319><c> at</c><00:00:04.480><c> prompting</c>
+today. We're going to look at prompting
+today. We're going to look at prompting
+for<00:00:05.200><c> searching</c><00:00:05.520><c> on</c><00:00:05.759><c> the</c><00:00:05.920><c> internet.</c><00:00:06.240><c> We're</c>
+for searching on the internet. We're
+for searching on the internet. We're
+going<00:00:06.480><c> to</c><00:00:06.560><c> look</c><00:00:06.720><c> at</c><00:00:06.960><c> the</c><00:00:07.200><c> best</c><00:00:07.359><c> tool</c><00:00:07.680><c> for</c><00:00:07.839><c> that,</c>
+going to look at the best tool for that,
+going to look at the best tool for that,
+which<00:00:08.160><c> is</c><00:00:08.320><c> perplexity.</c><00:00:08.880><c> I'm</c><00:00:09.040><c> going</c><00:00:09.120><c> to</c><00:00:09.200><c> give</c>
+which is perplexity. I'm going to give
+which is perplexity. I'm going to give
+you<00:00:09.440><c> a</c><00:00:09.599><c> guide.</c><00:00:09.920><c> It's</c><00:00:10.160><c> very</c><00:00:10.320><c> different</c><00:00:10.559><c> from</c>
+you a guide. It's very different from
+you a guide. It's very different from
+traditional<00:00:11.280><c> prompting.</c><00:00:12.080><c> So,</c><00:00:12.240><c> let's</c><00:00:12.480><c> hop</c><00:00:12.639><c> in.</c>
+traditional prompting. So, let's hop in.
+traditional prompting. So, let's hop in.
+First,<00:00:13.519><c> how</c><00:00:13.759><c> does</c><00:00:14.000><c> Perplexity</c><00:00:14.639><c> work?</c><00:00:14.960><c> This</c><00:00:15.120><c> is</c>
+First, how does Perplexity work? This is
+First, how does Perplexity work? This is
+often<00:00:15.519><c> misunderstood,</c><00:00:16.240><c> so</c><00:00:16.400><c> I</c><00:00:16.640><c> want</c><00:00:16.720><c> to</c>
+often misunderstood, so I want to
+often misunderstood, so I want to
+actually<00:00:17.119><c> explain</c><00:00:17.520><c> it</c><00:00:17.760><c> clearly.</c><00:00:18.880><c> Perplexity</c>
+actually explain it clearly. Perplexity
+actually explain it clearly. Perplexity
+is<00:00:19.920><c> a</c><00:00:20.160><c> search</c><00:00:20.480><c> engine</c><00:00:20.880><c> like</c><00:00:21.199><c> Google,</c><00:00:21.840><c> but</c><00:00:22.080><c> it's</c>
+is a search engine like Google, but it's
+is a search engine like Google, but it's
+AI<00:00:22.800><c> native.</c><00:00:23.439><c> It</c><00:00:23.760><c> specifically</c><00:00:24.400><c> uses</c>
+AI native. It specifically uses
+AI native. It specifically uses
+retrieval<00:00:25.760><c> augmented</c><00:00:26.320><c> generation</c><00:00:27.199><c> as</c><00:00:27.439><c> its</c>
+retrieval augmented generation as its
+retrieval augmented generation as its
+fundamental<00:00:28.560><c> architecture.</c><00:00:29.279><c> That</c><00:00:29.519><c> means</c><00:00:29.679><c> it</c>
+fundamental architecture. That means it
+fundamental architecture. That means it
+retrieves<00:00:30.400><c> relevant</c><00:00:30.880><c> documents,</c><00:00:31.599><c> extracts</c>
+retrieves relevant documents, extracts
+retrieves relevant documents, extracts
+paragraphs,<00:00:33.040><c> and</c><00:00:33.280><c> uses</c><00:00:33.600><c> this</c><00:00:33.920><c> information</c><00:00:34.399><c> to</c>
+paragraphs, and uses this information to
+paragraphs, and uses this information to
+craft<00:00:35.040><c> answers</c><00:00:35.760><c> with</c><00:00:36.079><c> citations.</c><00:00:37.040><c> So</c><00:00:37.200><c> the</c>
+craft answers with citations. So the
+craft answers with citations. So the
+pipeline<00:00:37.840><c> looks</c><00:00:38.079><c> like</c><00:00:38.320><c> external</c><00:00:38.800><c> documents</c>
+pipeline looks like external documents
+pipeline looks like external documents
+across<00:00:39.600><c> the</c><00:00:39.840><c> internet</c><00:00:40.160><c> are</c><00:00:40.399><c> embedded.</c>
+across the internet are embedded.
+across the internet are embedded.
+They're<00:00:41.200><c> stored.</c><00:00:41.680><c> Every</c><00:00:41.920><c> query</c><00:00:42.239><c> triggers</c><00:00:42.640><c> a</c>
+They're stored. Every query triggers a
+They're stored. Every query triggers a
+fresh<00:00:43.200><c> retrieval</c><00:00:43.760><c> of</c><00:00:44.000><c> relevant</c><00:00:44.480><c> documents.</c>
+fresh retrieval of relevant documents.
+fresh retrieval of relevant documents.
+But<00:00:45.440><c> there's</c><00:00:45.680><c> an</c><00:00:45.840><c> important</c><00:00:46.160><c> nuance</c><00:00:46.719><c> here.</c><00:00:47.280><c> If</c>
+But there's an important nuance here. If
+But there's an important nuance here. If
+you<00:00:47.680><c> are</c><00:00:47.840><c> using</c><00:00:48.480><c> Perplexity's</c><00:00:49.440><c> research</c>
+you are using Perplexity's research
+you are using Perplexity's research
+mode,<00:00:50.160><c> which</c><00:00:50.399><c> we</c><00:00:50.559><c> will</c><00:00:50.640><c> see</c><00:00:50.800><c> in</c><00:00:50.960><c> a</c><00:00:51.120><c> moment,</c>
+mode, which we will see in a moment,
+mode, which we will see in a moment,
+I'll<00:00:51.600><c> show</c><00:00:51.680><c> you</c><00:00:51.840><c> it.</c><00:00:52.320><c> Then</c><00:00:52.559><c> you</c><00:00:52.879><c> have</c><00:00:53.360><c> a</c><00:00:53.760><c> new</c>
+I'll show you it. Then you have a new
+I'll show you it. Then you have a new
+approach<00:00:54.800><c> using</c><00:00:55.120><c> the</c><00:00:55.360><c> same</c><00:00:55.600><c> architecture.</c>
+approach using the same architecture.
+approach using the same architecture.
+And<00:00:56.480><c> I</c><00:00:56.719><c> want</c><00:00:56.800><c> to</c><00:00:56.960><c> explain</c><00:00:57.199><c> it</c><00:00:57.360><c> sort</c><00:00:57.520><c> of</c><00:00:57.600><c> in</c>
+And I want to explain it sort of in
+And I want to explain it sort of in
+layman's<00:00:58.239><c> terms.</c><00:00:58.480><c> It's</c><00:00:58.719><c> called</c><00:00:58.879><c> a</c><00:00:59.039><c> gentic</c>
+layman's terms. It's called a gentic
+layman's terms. It's called a gentic
+rag.<00:00:59.920><c> And</c><00:01:00.079><c> what</c><00:01:00.239><c> it</c><00:01:00.399><c> means</c><00:01:00.640><c> is</c><00:01:01.280><c> research</c><00:01:01.680><c> mode</c>
+rag. And what it means is research mode
+rag. And what it means is research mode
+will<00:01:02.239><c> perform</c><00:01:02.719><c> dozens</c><00:01:03.280><c> of</c><00:01:03.520><c> searches,</c><00:01:04.400><c> read</c>
+will perform dozens of searches, read
+will perform dozens of searches, read
+hundreds<00:01:05.119><c> of</c><00:01:05.280><c> sources,</c><00:01:05.840><c> and</c><00:01:06.000><c> do</c><00:01:06.240><c> multiple</c>
+hundreds of sources, and do multiple
+hundreds of sources, and do multiple
+passes<00:01:07.600><c> across</c><00:01:08.159><c> the</c><00:01:08.400><c> rag</c><00:01:08.880><c> architecture</c><00:01:09.600><c> to</c>
+passes across the rag architecture to
+passes across the rag architecture to
+ensure<00:01:10.320><c> it</c><00:01:10.560><c> finds</c><00:01:10.880><c> the</c><00:01:11.200><c> best</c><00:01:11.600><c> possible</c>
+ensure it finds the best possible
+ensure it finds the best possible
+answer.<00:01:12.799><c> It</c><00:01:13.119><c> basically</c><00:01:13.600><c> takes</c><00:01:13.920><c> the</c><00:01:14.159><c> effort</c>
+answer. It basically takes the effort
+answer. It basically takes the effort
+level<00:01:14.720><c> on</c><00:01:15.040><c> perplexity</c><00:01:16.080><c> and</c><00:01:16.320><c> turns</c><00:01:16.640><c> it</c><00:01:16.720><c> up</c><00:01:16.880><c> to</c>
+level on perplexity and turns it up to
+level on perplexity and turns it up to
+11.<00:01:17.680><c> That's</c><00:01:18.000><c> how</c><00:01:18.320><c> perplexity</c><00:01:18.960><c> works.</c><00:01:19.280><c> It's</c>
+11. That's how perplexity works. It's
+11. That's how perplexity works. It's
+very<00:01:19.840><c> different</c><00:01:20.000><c> from</c><00:01:20.320><c> Google,</c><00:01:20.640><c> right?</c>
+very different from Google, right?
+very different from Google, right?
+Because<00:01:20.960><c> Google</c><00:01:21.280><c> just</c><00:01:21.520><c> finds</c><00:01:21.759><c> you</c><00:01:21.920><c> an</c><00:01:22.159><c> answer.</c>
+Because Google just finds you an answer.
+Because Google just finds you an answer.
+But<00:01:22.640><c> what</c><00:01:22.799><c> is</c><00:01:23.040><c> less</c><00:01:23.439><c> understood</c><00:01:24.000><c> is</c><00:01:24.240><c> that</c><00:01:24.479><c> it's</c>
+But what is less understood is that it's
+But what is less understood is that it's
+also<00:01:25.040><c> very</c><00:01:25.360><c> different</c><00:01:25.600><c> from</c><00:01:25.920><c> chat</c><00:01:26.240><c> GPT.</c><00:01:27.119><c> Chat</c>
+also very different from chat GPT. Chat
+also very different from chat GPT. Chat
+GPT<00:01:28.640><c> is</c><00:01:29.200><c> fundamentally</c><00:01:30.240><c> a</c><00:01:30.560><c> parametric</c><00:01:31.439><c> answer</c>
+GPT is fundamentally a parametric answer
+GPT is fundamentally a parametric answer
+engine,<00:01:32.079><c> which</c><00:01:32.240><c> is</c><00:01:32.400><c> a</c><00:01:32.560><c> fancy</c><00:01:32.880><c> way</c><00:01:33.040><c> of</c><00:01:33.280><c> saying</c>
+engine, which is a fancy way of saying
+engine, which is a fancy way of saying
+chat<00:01:34.320><c> GPT's</c><00:01:35.119><c> default</c><00:01:35.759><c> is</c><00:01:36.000><c> to</c><00:01:36.240><c> go</c><00:01:36.400><c> and</c><00:01:36.720><c> look</c>
+chat GPT's default is to go and look
+chat GPT's default is to go and look
+inside<00:01:37.600><c> its</c><00:01:37.920><c> own</c><00:01:38.240><c> training</c><00:01:38.640><c> data</c><00:01:38.960><c> and</c><00:01:39.200><c> its</c>
+inside its own training data and its
+inside its own training data and its
+weights<00:01:40.000><c> in</c><00:01:40.240><c> the</c><00:01:40.479><c> model</c><00:01:41.119><c> for</c><00:01:41.360><c> an</c><00:01:41.600><c> answer</c><00:01:41.920><c> for</c>
+weights in the model for an answer for
+weights in the model for an answer for
+your<00:01:42.400><c> question.</c><00:01:43.040><c> It</c><00:01:43.360><c> does</c><00:01:43.600><c> not</c><00:01:43.840><c> go</c><00:01:44.000><c> out</c><00:01:44.159><c> and</c>
+your question. It does not go out and
+your question. It does not go out and
+look<00:01:44.479><c> at</c><00:01:44.560><c> the</c><00:01:44.720><c> internet</c><00:01:45.040><c> by</c><00:01:45.280><c> default.</c><00:01:45.759><c> And</c><00:01:45.920><c> by</c>
+look at the internet by default. And by
+look at the internet by default. And by
+the<00:01:46.320><c> way,</c><00:01:46.960><c> that</c><00:01:47.200><c> is</c><00:01:47.439><c> why</c><00:01:48.000><c> chat</c><00:01:48.399><c> GPT</c><00:01:49.119><c> doesn't</c>
+the way, that is why chat GPT doesn't
+the way, that is why chat GPT doesn't
+know<00:01:49.680><c> about</c><00:01:50.000><c> new</c><00:01:50.240><c> chat</c><00:01:50.560><c> GPT</c><00:01:51.119><c> instances.</c>
+know about new chat GPT instances.
+know about new chat GPT instances.
+Right?<00:01:52.000><c> If</c><00:01:52.159><c> you</c><00:01:52.240><c> ask</c><00:01:52.479><c> Chad</c><00:01:52.799><c> GPT,</c><00:01:53.680><c> it</c><00:01:53.920><c> will</c>
+Right? If you ask Chad GPT, it will
+Right? If you ask Chad GPT, it will
+often<00:01:54.560><c> give</c><00:01:54.720><c> you</c><00:01:55.439><c> the</c><00:01:55.840><c> wrong</c><00:01:56.399><c> answer</c><00:01:56.799><c> when</c><00:01:57.040><c> you</c>
+often give you the wrong answer when you
+often give you the wrong answer when you
+ask<00:01:57.280><c> it</c><00:01:57.520><c> what</c><00:01:57.680><c> the</c><00:01:57.840><c> current</c><00:01:58.000><c> Chad</c><00:01:58.320><c> GPT</c><00:01:58.880><c> model</c>
+ask it what the current Chad GPT model
+ask it what the current Chad GPT model
+is.<00:01:59.360><c> It's</c><00:01:59.600><c> not</c><00:01:59.680><c> just</c><00:01:59.840><c> Chad</c><00:02:00.159><c> GPT</c><00:02:00.560><c> that</c><00:02:00.799><c> does</c>
+is. It's not just Chad GPT that does
+is. It's not just Chad GPT that does
+this.<00:02:01.200><c> Claude</c><00:02:01.600><c> does</c><00:02:01.840><c> the</c><00:02:02.000><c> same</c><00:02:02.240><c> thing.</c><00:02:02.799><c> Gemini</c>
+this. Claude does the same thing. Gemini
+this. Claude does the same thing. Gemini
+has<00:02:03.520><c> done</c><00:02:03.680><c> this.</c><00:02:04.240><c> The</c><00:02:04.479><c> reason</c><00:02:04.719><c> why</c><00:02:05.119><c> it's</c><00:02:05.360><c> not</c>
+has done this. The reason why it's not
+has done this. The reason why it's not
+some<00:02:05.759><c> diabolical</c><00:02:06.479><c> plot.</c><00:02:06.960><c> It</c><00:02:07.119><c> is</c><00:02:07.200><c> that</c><00:02:07.360><c> they</c>
+some diabolical plot. It is that they
+some diabolical plot. It is that they
+are<00:02:07.840><c> parametric</c><00:02:08.560><c> answer</c><00:02:08.879><c> engines</c><00:02:09.520><c> and</c><00:02:09.759><c> they</c>
+are parametric answer engines and they
+are parametric answer engines and they
+look<00:02:10.160><c> inside</c><00:02:10.479><c> their</c><00:02:10.720><c> weights</c><00:02:11.039><c> and</c><00:02:11.360><c> perplexity</c>
+look inside their weights and perplexity
+look inside their weights and perplexity
+looks<00:02:12.800><c> outside.</c><00:02:13.440><c> It</c><00:02:13.680><c> looks</c><00:02:13.920><c> at</c><00:02:14.080><c> the</c><00:02:14.319><c> internet</c>
+looks outside. It looks at the internet
+looks outside. It looks at the internet
+as<00:02:14.720><c> a</c><00:02:14.879><c> whole</c><00:02:15.040><c> by</c><00:02:15.280><c> default.</c><00:02:15.680><c> It's</c><00:02:15.920><c> like</c><00:02:16.319><c> imagine</c>
+as a whole by default. It's like imagine
+as a whole by default. It's like imagine
+a<00:02:16.959><c> world</c><00:02:17.200><c> where</c><00:02:17.760><c> you</c><00:02:18.080><c> have</c><00:02:18.160><c> an</c><00:02:18.400><c> answer</c><00:02:18.800><c> engine</c>
+a world where you have an answer engine
+a world where you have an answer engine
+in<00:02:19.360><c> chat</c><00:02:19.680><c> GPT</c><00:02:20.160><c> that</c><00:02:20.319><c> looks</c><00:02:20.480><c> inside</c><00:02:20.800><c> the</c><00:02:20.959><c> house</c>
+in chat GPT that looks inside the house
+in chat GPT that looks inside the house
+first<00:02:21.520><c> inside</c><00:02:21.840><c> your</c><00:02:22.080><c> own</c><00:02:22.239><c> weights</c><00:02:23.040><c> or</c><00:02:23.520><c> you</c>
+first inside your own weights or you
+first inside your own weights or you
+have<00:02:23.920><c> a</c><00:02:24.080><c> choice</c><00:02:24.319><c> like</c><00:02:24.640><c> perplexity</c><00:02:25.360><c> that</c><00:02:25.599><c> looks</c>
+have a choice like perplexity that looks
+have a choice like perplexity that looks
+at<00:02:25.920><c> the</c><00:02:26.080><c> whole</c><00:02:26.239><c> world</c><00:02:26.560><c> first</c><00:02:27.120><c> and</c><00:02:27.360><c> isn't</c>
+at the whole world first and isn't
+at the whole world first and isn't
+necessarily<00:02:28.400><c> focused</c><00:02:28.800><c> on</c><00:02:29.120><c> reasoning</c><00:02:29.599><c> first.</c>
+necessarily focused on reasoning first.
+necessarily focused on reasoning first.
+That's<00:02:30.640><c> the</c><00:02:30.879><c> difference.</c><00:02:31.280><c> And</c><00:02:31.440><c> so</c><00:02:31.680><c> that</c>
+That's the difference. And so that
+That's the difference. And so that
+shapes<00:02:32.480><c> how</c><00:02:32.720><c> and</c><00:02:32.959><c> where</c><00:02:33.120><c> we</c><00:02:33.280><c> use</c><00:02:33.440><c> it.</c><00:02:33.599><c> And</c><00:02:33.760><c> it</c>
+shapes how and where we use it. And it
+shapes how and where we use it. And it
+also<00:02:34.400><c> profoundly</c><00:02:35.040><c> shapes</c><00:02:35.599><c> our</c><00:02:35.920><c> prompt</c>
+also profoundly shapes our prompt
+also profoundly shapes our prompt
+strategy.<00:02:36.800><c> Let's</c><00:02:37.040><c> get</c><00:02:37.120><c> into</c><00:02:37.360><c> the</c><00:02:37.440><c> prompt</c>
+strategy. Let's get into the prompt
+strategy. Let's get into the prompt
+strategy<00:02:38.160><c> piece.</c><00:02:38.640><c> First,</c><00:02:39.040><c> you</c><00:02:39.280><c> need</c><00:02:39.440><c> to</c><00:02:39.680><c> think</c>
+strategy piece. First, you need to think
+strategy piece. First, you need to think
+of<00:02:40.239><c> prompting</c><00:02:40.800><c> with</c><00:02:41.200><c> perplexity</c>
+of prompting with perplexity
+of prompting with perplexity
+as<00:02:43.200><c> as</c><00:02:43.519><c> a</c><00:02:43.760><c> little</c><00:02:44.000><c> bit</c><00:02:44.239><c> goes</c><00:02:44.480><c> a</c><00:02:44.720><c> long</c><00:02:44.879><c> way.</c><00:02:45.519><c> Just</c>
+as as a little bit goes a long way. Just
+as as a little bit goes a long way. Just
+adding<00:02:46.319><c> two</c><00:02:46.560><c> to</c><00:02:46.800><c> three</c><00:02:47.120><c> words</c><00:02:47.599><c> of</c><00:02:47.920><c> critical</c>
+adding two to three words of critical
+adding two to three words of critical
+context<00:02:49.360><c> can</c><00:02:49.680><c> dramatically</c><00:02:50.480><c> improve</c><00:02:50.879><c> the</c>
+context can dramatically improve the
+context can dramatically improve the
+value<00:02:51.360><c> of</c><00:02:51.599><c> relevant</c><00:02:51.920><c> results.</c><00:02:52.319><c> I'm</c><00:02:52.480><c> going</c><00:02:52.560><c> to</c>
+value of relevant results. I'm going to
+value of relevant results. I'm going to
+show<00:02:52.800><c> you</c><00:02:52.959><c> an</c><00:02:53.120><c> example</c><00:02:53.519><c> here</c><00:02:53.680><c> in</c><00:02:53.840><c> a</c><00:02:54.000><c> moment.</c>
+show you an example here in a moment.
+show you an example here in a moment.
+Basically,<00:02:55.200><c> if</c><00:02:55.440><c> you</c><00:02:55.599><c> have</c><00:02:55.760><c> a</c><00:02:55.920><c> search</c><00:02:56.160><c> like</c>
+Basically, if you have a search like
+Basically, if you have a search like
+climate<00:02:56.879><c> models,</c><00:02:57.440><c> you're</c><00:02:57.680><c> going</c><00:02:57.760><c> to</c><00:02:57.840><c> get</c><00:02:58.080><c> all</c>
+climate models, you're going to get all
+climate models, you're going to get all
+the<00:02:58.879><c> semantic</c><00:02:59.440><c> results</c><00:02:59.840><c> from</c><00:03:00.239><c> the</c><00:03:00.560><c> entire</c>
+the semantic results from the entire
+the semantic results from the entire
+internet<00:03:01.519><c> associated</c><00:03:02.080><c> with</c><00:03:02.239><c> climate</c><00:03:02.560><c> models</c>
+internet associated with climate models
+internet associated with climate models
+in<00:03:03.040><c> whatever</c><00:03:03.280><c> order</c><00:03:03.920><c> Proplexity</c><00:03:04.480><c> is</c><00:03:04.720><c> able</c><00:03:04.879><c> to</c>
+in whatever order Proplexity is able to
+in whatever order Proplexity is able to
+find<00:03:05.200><c> it.</c><00:03:05.599><c> If</c><00:03:05.840><c> you</c><00:03:05.920><c> say</c><00:03:06.239><c> climate</c><00:03:06.560><c> prediction</c>
+find it. If you say climate prediction
+find it. If you say climate prediction
+models<00:03:07.280><c> for</c><00:03:07.599><c> urban</c><00:03:07.840><c> planning,</c><00:03:08.480><c> you're</c><00:03:08.640><c> going</c>
+models for urban planning, you're going
+models for urban planning, you're going
+to<00:03:08.800><c> get</c><00:03:08.959><c> a</c><00:03:09.120><c> very</c><00:03:09.360><c> precise</c><00:03:10.080><c> pull.</c><00:03:10.640><c> The</c><00:03:10.879><c> thing</c>
+to get a very precise pull. The thing
+to get a very precise pull. The thing
+that<00:03:11.200><c> I</c><00:03:11.440><c> want</c><00:03:11.519><c> you</c><00:03:11.680><c> to</c><00:03:11.840><c> remember</c><00:03:12.480><c> is</c><00:03:12.640><c> that</c><00:03:12.879><c> that</c>
+that I want you to remember is that that
+that I want you to remember is that that
+doesn't<00:03:13.519><c> mean</c><00:03:13.760><c> you</c><00:03:14.080><c> have</c><00:03:14.319><c> to</c><00:03:14.560><c> use</c><00:03:14.879><c> a</c><00:03:15.360><c> long</c>
+doesn't mean you have to use a long
+doesn't mean you have to use a long
+prompt.<00:03:16.879><c> In</c><00:03:17.120><c> fact,</c><00:03:17.360><c> on</c><00:03:17.599><c> average,</c><00:03:18.159><c> perplexity</c>
+prompt. In fact, on average, perplexity
+prompt. In fact, on average, perplexity
+prompts<00:03:19.200><c> are</c><00:03:19.440><c> much</c><00:03:19.680><c> shorter</c><00:03:20.159><c> than</c><00:03:20.400><c> chat</c><00:03:20.720><c> GPT</c>
+prompts are much shorter than chat GPT
+prompts are much shorter than chat GPT
+prompts.<00:03:21.519><c> And</c><00:03:21.680><c> I'll</c><00:03:21.840><c> show</c><00:03:21.920><c> you</c><00:03:22.080><c> that</c><00:03:22.319><c> as</c><00:03:22.480><c> well.</c>
+prompts. And I'll show you that as well.
+prompts. And I'll show you that as well.
+Principle<00:03:23.519><c> number</c><00:03:23.760><c> two,</c><00:03:24.159><c> this</c><00:03:24.319><c> is</c><00:03:24.480><c> this</c><00:03:24.720><c> is</c>
+Principle number two, this is this is
+Principle number two, this is this is
+another<00:03:25.120><c> non-obvious</c><00:03:25.760><c> prompting</c><00:03:26.239><c> strategy.</c>
+another non-obvious prompting strategy.
+another non-obvious prompting strategy.
+You<00:03:27.280><c> want</c><00:03:27.440><c> to</c><00:03:27.680><c> avoid</c><00:03:28.159><c> what</c><00:03:28.400><c> is</c><00:03:28.560><c> called</c><00:03:28.959><c> fhot</c>
+You want to avoid what is called fhot
+You want to avoid what is called fhot
+prompting.<00:03:30.400><c> So</c><00:03:30.640><c> fshot</c><00:03:31.200><c> prompting</c><00:03:32.080><c> gives</c><00:03:32.560><c> the</c>
+prompting. So fshot prompting gives the
+prompting. So fshot prompting gives the
+model<00:03:33.280><c> examples</c><00:03:33.920><c> and</c><00:03:34.080><c> I</c><00:03:34.319><c> encourage</c><00:03:34.640><c> it</c><00:03:34.879><c> often</c>
+model examples and I encourage it often
+model examples and I encourage it often
+when<00:03:35.599><c> you</c><00:03:35.760><c> are</c><00:03:35.920><c> using</c><00:03:36.239><c> chat</c><00:03:36.640><c> GPT</c><00:03:37.519><c> but</c><00:03:37.840><c> don't</c><00:03:38.159><c> do</c>
+when you are using chat GPT but don't do
+when you are using chat GPT but don't do
+this<00:03:38.560><c> when</c><00:03:38.799><c> you're</c><00:03:39.040><c> using</c><00:03:39.360><c> perplexity</c><00:03:40.000><c> and</c>
+this when you're using perplexity and
+this when you're using perplexity and
+the<00:03:40.400><c> reason</c><00:03:40.560><c> why</c><00:03:41.200><c> is</c><00:03:41.519><c> that</c><00:03:41.840><c> perplexity</c><00:03:42.560><c> will</c>
+the reason why is that perplexity will
+the reason why is that perplexity will
+overindex<00:03:43.920><c> on</c><00:03:44.239><c> those</c><00:03:44.560><c> examples</c><00:03:45.360><c> and</c><00:03:45.680><c> dredge</c>
+overindex on those examples and dredge
+overindex on those examples and dredge
+up<00:03:46.640><c> only</c><00:03:47.200><c> things</c><00:03:47.680><c> related</c><00:03:48.080><c> to</c><00:03:48.319><c> those</c><00:03:48.640><c> examples</c>
+up only things related to those examples
+up only things related to those examples
+from<00:03:49.760><c> your</c><00:03:50.000><c> fshot</c><00:03:50.560><c> prompt.</c><00:03:50.879><c> So</c><00:03:51.040><c> if</c><00:03:51.200><c> you</c><00:03:51.360><c> say</c><00:03:51.760><c> me</c>
+from your fshot prompt. So if you say me
+from your fshot prompt. So if you say me
+examples<00:03:53.040><c> of</c><00:03:53.360><c> French</c><00:03:53.760><c> architecture</c><00:03:54.879><c> like</c><00:03:55.120><c> the</c>
+examples of French architecture like the
+examples of French architecture like the
+Louvre,<00:03:56.239><c> you're</c><00:03:56.560><c> only</c><00:03:56.879><c> going</c><00:03:57.120><c> to</c><00:03:57.360><c> get</c><00:03:57.920><c> museums</c>
+Louvre, you're only going to get museums
+Louvre, you're only going to get museums
+like<00:03:58.640><c> the</c><00:03:58.879><c> Louvre.</c><00:03:59.519><c> You're</c><00:03:59.760><c> not</c><00:03:59.920><c> going</c><00:04:00.000><c> to</c><00:04:00.080><c> get</c>
+like the Louvre. You're not going to get
+like the Louvre. You're not going to get
+anything<00:04:00.640><c> else</c><00:04:00.799><c> about</c><00:04:01.040><c> French</c><00:04:01.439><c> architecture</c>
+anything else about French architecture
+anything else about French architecture
+because<00:04:02.959><c> of</c><00:04:03.519><c> how</c><00:04:03.840><c> fot</c><00:04:04.400><c> prompting</c><00:04:04.879><c> works</c><00:04:05.040><c> with</c>
+because of how fot prompting works with
+because of how fot prompting works with
+Perplexity's<00:04:06.000><c> architecture.</c><00:04:06.799><c> Another</c>
+Perplexity's architecture. Another
+Perplexity's architecture. Another
+non-obvious<00:04:07.920><c> prompt</c><00:04:08.319><c> strategy,</c><00:04:09.120><c> you</c><00:04:09.360><c> want</c><00:04:09.439><c> to</c>
+non-obvious prompt strategy, you want to
+non-obvious prompt strategy, you want to
+use<00:04:10.239><c> the</c><00:04:10.879><c> exact</c><00:04:11.760><c> parameters</c><00:04:12.959><c> for</c><00:04:13.280><c> search</c>
+use the exact parameters for search
+use the exact parameters for search
+behavior<00:04:14.239><c> control</c><00:04:15.040><c> that</c><00:04:15.360><c> are</c><00:04:15.519><c> embedded</c><00:04:16.000><c> in</c>
+behavior control that are embedded in
+behavior control that are embedded in
+the<00:04:16.320><c> API.</c><00:04:16.799><c> And</c><00:04:16.959><c> I</c><00:04:17.120><c> realize</c><00:04:17.280><c> that</c><00:04:17.519><c> that</c><00:04:17.759><c> can</c><00:04:17.919><c> be</c>
+the API. And I realize that that can be
+the API. And I realize that that can be
+a<00:04:18.639><c> lot</c><00:04:18.799><c> if</c><00:04:19.040><c> you're</c><00:04:19.199><c> not</c><00:04:19.280><c> a</c><00:04:19.519><c> technical</c><00:04:19.840><c> person.</c>
+a lot if you're not a technical person.
+a lot if you're not a technical person.
+So,<00:04:20.320><c> I'm</c><00:04:20.560><c> just</c><00:04:20.639><c> going</c><00:04:20.720><c> to</c><00:04:20.880><c> tell</c><00:04:20.959><c> you</c><00:04:21.519><c> there</c><00:04:21.680><c> are</c>
+So, I'm just going to tell you there are
+So, I'm just going to tell you there are
+a<00:04:21.919><c> few</c><00:04:22.000><c> that</c><00:04:22.240><c> are</c><00:04:22.400><c> pretty</c><00:04:22.560><c> obvious</c><00:04:22.880><c> that</c><00:04:23.120><c> you</c>
+a few that are pretty obvious that you
+a few that are pretty obvious that you
+can<00:04:23.440><c> use</c><00:04:23.600><c> without</c><00:04:23.919><c> being</c><00:04:24.000><c> a</c><00:04:24.240><c> technical</c>
+can use without being a technical
+can use without being a technical
+person.<00:04:25.199><c> Like</c><00:04:25.520><c> limit</c><00:04:25.919><c> your</c><00:04:26.080><c> sources</c><00:04:26.560><c> and</c><00:04:26.960><c> say</c>
+person. Like limit your sources and say
+person. Like limit your sources and say
+what<00:04:27.360><c> they</c><00:04:27.520><c> are.</c><00:04:27.919><c> Filter</c><00:04:28.320><c> by</c><00:04:28.560><c> date</c><00:04:28.880><c> is</c>
+what they are. Filter by date is
+what they are. Filter by date is
+something<00:04:29.360><c> you</c><00:04:29.520><c> can</c><00:04:29.600><c> do</c><00:04:29.759><c> in</c><00:04:30.000><c> plain</c><00:04:30.240><c> language.</c>
+something you can do in plain language.
+something you can do in plain language.
+Adjusting<00:04:31.440><c> search</c><00:04:31.919><c> depth</c><00:04:32.479><c> is</c><00:04:32.800><c> something</c><00:04:33.120><c> you</c>
+Adjusting search depth is something you
+Adjusting search depth is something you
+can<00:04:33.520><c> do</c><00:04:34.000><c> directly</c><00:04:34.400><c> in</c><00:04:34.560><c> the</c><00:04:34.720><c> prompt</c><00:04:35.040><c> as</c><00:04:35.280><c> well.</c>
+can do directly in the prompt as well.
+can do directly in the prompt as well.
+The<00:04:36.000><c> idea</c><00:04:36.400><c> is</c><00:04:37.120><c> don't</c><00:04:37.840><c> be</c><00:04:38.400><c> vague</c><00:04:38.960><c> about</c><00:04:39.440><c> matters</c>
+The idea is don't be vague about matters
+The idea is don't be vague about matters
+that<00:04:40.000><c> are</c><00:04:40.160><c> in</c><00:04:40.560><c> the</c><00:04:40.880><c> API.</c><00:04:41.360><c> So</c><00:04:41.520><c> if</c><00:04:41.759><c> you</c><00:04:41.840><c> say</c><00:04:42.160><c> only</c>
+that are in the API. So if you say only
+that are in the API. So if you say only
+search<00:04:42.880><c> recent</c><00:04:43.360><c> sources,</c><00:04:44.320><c> that's</c><00:04:44.639><c> going</c><00:04:44.800><c> to</c>
+search recent sources, that's going to
+search recent sources, that's going to
+be<00:04:45.120><c> much</c><00:04:45.440><c> less</c><00:04:45.840><c> helpful</c><00:04:46.560><c> than</c><00:04:46.880><c> using</c><00:04:47.280><c> a</c><00:04:47.600><c> date</c>
+be much less helpful than using a date
+be much less helpful than using a date
+filter.<00:04:48.720><c> And</c><00:04:48.880><c> you</c><00:04:49.040><c> can</c><00:04:49.120><c> use</c><00:04:49.280><c> the</c><00:04:49.440><c> date</c><00:04:49.600><c> filter</c>
+filter. And you can use the date filter
+filter. And you can use the date filter
+in<00:04:50.080><c> text.</c><00:04:50.400><c> It's</c><00:04:50.560><c> even</c><00:04:50.880><c> stronger</c><00:04:51.199><c> to</c><00:04:51.360><c> do</c><00:04:51.440><c> it</c><00:04:51.600><c> in</c>
+in text. It's even stronger to do it in
+in text. It's even stronger to do it in
+the<00:04:51.840><c> API</c><00:04:52.240><c> if</c><00:04:52.479><c> you</c><00:04:52.560><c> happen</c><00:04:52.800><c> to</c><00:04:52.880><c> be</c><00:04:53.040><c> a</c><00:04:53.199><c> developer.</c>
+the API if you happen to be a developer.
+the API if you happen to be a developer.
+But<00:04:54.240><c> regardless,</c><00:04:54.960><c> in</c><00:04:55.280><c> practical</c><00:04:55.919><c> terms,</c><00:04:56.720><c> you</c>
+But regardless, in practical terms, you
+But regardless, in practical terms, you
+see<00:04:57.120><c> a</c><00:04:57.360><c> huge</c><00:04:57.919><c> jump</c><00:04:58.240><c> in</c><00:04:58.479><c> quality</c><00:04:58.880><c> when</c><00:04:59.120><c> you're</c>
+see a huge jump in quality when you're
+see a huge jump in quality when you're
+more<00:04:59.600><c> specific</c><00:05:00.000><c> about</c><00:05:00.400><c> things</c><00:05:00.639><c> that</c>
+more specific about things that
+more specific about things that
+perplexity<00:05:01.680><c> is</c><00:05:01.919><c> wired</c><00:05:02.320><c> to</c><00:05:02.560><c> care</c><00:05:02.800><c> about,</c><00:05:03.120><c> like</c>
+perplexity is wired to care about, like
+perplexity is wired to care about, like
+exact<00:05:03.919><c> dates.</c><00:05:04.479><c> A</c><00:05:04.720><c> fourth</c><00:05:05.120><c> non-obvious</c><00:05:06.080><c> choice</c>
+exact dates. A fourth non-obvious choice
+exact dates. A fourth non-obvious choice
+is<00:05:06.800><c> to</c><00:05:07.120><c> demand</c><00:05:07.919><c> multiple</c><00:05:08.560><c> perspectives</c><00:05:09.120><c> on</c>
+is to demand multiple perspectives on
+is to demand multiple perspectives on
+the<00:05:09.520><c> thing</c><00:05:09.680><c> you're</c><00:05:09.919><c> looking</c><00:05:10.080><c> for</c><00:05:10.720><c> very</c>
+the thing you're looking for very
+the thing you're looking for very
+explicitly.<00:05:12.080><c> So</c><00:05:12.320><c> instead</c><00:05:12.560><c> of</c><00:05:12.720><c> saying,</c><00:05:13.199><c> "What</c>
+explicitly. So instead of saying, "What
+explicitly. So instead of saying, "What
+are<00:05:13.600><c> the</c><00:05:13.759><c> health</c><00:05:14.080><c> benefits</c><00:05:14.479><c> of</c><00:05:14.639><c> X?"</c><00:05:15.280><c> say,</c>
+are the health benefits of X?" say,
+are the health benefits of X?" say,
+"Compare<00:05:16.240><c> findings</c><00:05:16.720><c> from</c><00:05:16.960><c> at</c><00:05:17.039><c> least</c><00:05:17.440><c> three</c>
+"Compare findings from at least three
+"Compare findings from at least three
+peer-reviewed<00:05:18.560><c> studies</c><00:05:18.960><c> on</c><00:05:19.199><c> X</c><00:05:19.759><c> and</c><00:05:20.080><c> ensure</c>
+peer-reviewed studies on X and ensure
+peer-reviewed studies on X and ensure
+that<00:05:21.120><c> you</c><00:05:21.440><c> note</c><00:05:22.080><c> conflicts</c><00:05:22.720><c> in</c><00:05:23.120><c> conclusions</c>
+that you note conflicts in conclusions
+that you note conflicts in conclusions
+that<00:05:24.160><c> are</c><00:05:24.400><c> relevant</c><00:05:24.800><c> for</c><00:05:25.120><c> understanding</c><00:05:25.840><c> X's</c>
+that are relevant for understanding X's
+that are relevant for understanding X's
+effects."<00:05:27.360><c> You</c><00:05:27.520><c> see</c><00:05:27.680><c> how</c><00:05:27.840><c> I'm</c><00:05:28.080><c> much</c><00:05:28.320><c> more</c>
+effects." You see how I'm much more
+effects." You see how I'm much more
+specific<00:05:28.880><c> there?</c><00:05:29.199><c> How</c><00:05:29.360><c> I</c><00:05:29.600><c> demand</c><00:05:29.840><c> a</c><00:05:30.160><c> degree</c><00:05:30.400><c> of</c>
+specific there? How I demand a degree of
+specific there? How I demand a degree of
+disagreement<00:05:31.280><c> in</c><00:05:31.520><c> the</c><00:05:31.680><c> findings.</c><00:05:32.560><c> This</c>
+disagreement in the findings. This
+disagreement in the findings. This
+focuses<00:05:33.360><c> the</c><00:05:33.680><c> model</c><00:05:34.000><c> on</c><00:05:34.400><c> finding</c>
+focuses the model on finding
+focuses the model on finding
+triangulation<00:05:36.080><c> rather</c><00:05:36.479><c> than</c><00:05:36.639><c> just</c>
+triangulation rather than just
+triangulation rather than just
+converging<00:05:37.440><c> on</c><00:05:37.680><c> a</c><00:05:37.919><c> single</c><00:05:38.240><c> source</c><00:05:39.039><c> synthesis</c>
+converging on a single source synthesis
+converging on a single source synthesis
+and<00:05:40.000><c> just</c><00:05:40.240><c> paring</c><00:05:40.800><c> that.</c><00:05:41.360><c> It</c><00:05:41.600><c> ensures</c><00:05:42.000><c> that</c>
+and just paring that. It ensures that
+and just paring that. It ensures that
+you<00:05:42.320><c> get</c><00:05:42.479><c> a</c><00:05:42.639><c> wide</c><00:05:42.880><c> enough</c><00:05:43.199><c> search</c><00:05:43.840><c> parameter</c>
+you get a wide enough search parameter
+you get a wide enough search parameter
+or<00:05:44.800><c> a</c><00:05:44.960><c> wide</c><00:05:45.199><c> enough</c><00:05:45.440><c> search</c><00:05:45.680><c> scope</c><00:05:46.320><c> that</c><00:05:46.639><c> it's</c>
+or a wide enough search scope that it's
+or a wide enough search scope that it's
+actually<00:05:47.199><c> useful.</c><00:05:47.759><c> Another</c><00:05:48.240><c> non-obvious</c>
+actually useful. Another non-obvious
+actually useful. Another non-obvious
+strategy,<00:05:50.000><c> progressively</c><00:05:51.039><c> deepen.</c><00:05:51.600><c> This</c><00:05:51.759><c> is</c>
+strategy, progressively deepen. This is
+strategy, progressively deepen. This is
+not<00:05:52.160><c> something</c><00:05:52.400><c> that</c><00:05:52.639><c> you</c><00:05:52.880><c> really</c><00:05:53.120><c> get</c><00:05:53.280><c> to</c><00:05:53.520><c> do</c>
+not something that you really get to do
+not something that you really get to do
+in<00:05:53.840><c> chat</c><00:05:54.160><c> GPT</c><00:05:54.639><c> or</c><00:05:54.880><c> in</c><00:05:55.039><c> Google</c><00:05:55.280><c> the</c><00:05:55.520><c> same</c><00:05:55.680><c> way.</c>
+in chat GPT or in Google the same way.
+in chat GPT or in Google the same way.
+Treat<00:05:56.639><c> perplexity</c><00:05:57.360><c> like</c><00:05:57.600><c> a</c><00:05:57.919><c> conversation</c>
+Treat perplexity like a conversation
+Treat perplexity like a conversation
+where<00:05:59.199><c> you</c><00:05:59.440><c> are</c><00:05:59.680><c> starting</c><00:06:00.080><c> with</c><00:06:00.400><c> a</c><00:06:00.639><c> root</c>
+where you are starting with a root
+where you are starting with a root
+question<00:06:01.440><c> to</c><00:06:01.759><c> explore</c><00:06:02.639><c> and</c><00:06:03.039><c> every</c><00:06:03.520><c> answer</c>
+question to explore and every answer
+question to explore and every answer
+opens<00:06:04.400><c> up</c><00:06:04.639><c> new</c><00:06:04.960><c> questions</c><00:06:05.360><c> that</c><00:06:05.600><c> you</c><00:06:05.759><c> can</c>
+opens up new questions that you can
+opens up new questions that you can
+thread.<00:06:06.400><c> So</c><00:06:06.639><c> you</c><00:06:06.880><c> want</c><00:06:06.960><c> to</c><00:06:07.199><c> intentionally</c><00:06:07.840><c> if</c>
+thread. So you want to intentionally if
+thread. So you want to intentionally if
+you're<00:06:08.240><c> exploring</c><00:06:08.639><c> a</c><00:06:08.880><c> space</c><00:06:09.600><c> start</c><00:06:09.840><c> broader</c>
+you're exploring a space start broader
+you're exploring a space start broader
+than<00:06:10.319><c> you</c><00:06:10.479><c> would</c><00:06:10.720><c> necessarily</c><00:06:11.199><c> with</c><00:06:11.360><c> chat</c><00:06:11.680><c> GPT</c>
+than you would necessarily with chat GPT
+than you would necessarily with chat GPT
+and<00:06:12.639><c> then</c><00:06:12.800><c> you</c><00:06:13.039><c> want</c><00:06:13.199><c> to</c><00:06:13.600><c> iteratively</c><00:06:14.479><c> drill</c>
+and then you want to iteratively drill
+and then you want to iteratively drill
+down<00:06:15.600><c> with</c><00:06:15.919><c> increasingly</c><00:06:16.720><c> specific</c><00:06:17.199><c> and</c>
+down with increasingly specific and
+down with increasingly specific and
+actionable<00:06:18.080><c> follow-up.</c><00:06:18.639><c> So</c><00:06:18.800><c> the</c><00:06:19.039><c> first</c><00:06:19.199><c> query</c>
+actionable follow-up. So the first query
+actionable follow-up. So the first query
+kind<00:06:20.000><c> of</c><00:06:20.080><c> maps</c><00:06:20.479><c> the</c><00:06:20.720><c> territory</c><00:06:21.680><c> and</c><00:06:21.919><c> then</c><00:06:22.080><c> you</c>
+kind of maps the territory and then you
+kind of maps the territory and then you
+want<00:06:22.400><c> to</c><00:06:22.479><c> get</c><00:06:22.639><c> into</c><00:06:22.880><c> something</c><00:06:23.120><c> that</c><00:06:23.280><c> is</c><00:06:23.440><c> like</c>
+want to get into something that is like
+want to get into something that is like
+a<00:06:23.759><c> promising</c><00:06:24.240><c> path</c><00:06:24.479><c> that</c><00:06:24.720><c> is</c><00:06:24.880><c> useful</c><00:06:25.120><c> for</c><00:06:25.360><c> you.</c>
+a promising path that is useful for you.
+a promising path that is useful for you.
+This<00:06:26.160><c> is</c><00:06:26.319><c> a</c><00:06:26.639><c> very</c><00:06:26.960><c> different</c><00:06:27.360><c> approach</c><00:06:27.759><c> than</c><00:06:28.000><c> I</c>
+This is a very different approach than I
+This is a very different approach than I
+find<00:06:28.479><c> ch</c><00:06:28.800><c> sort</c><00:06:29.039><c> of</c><00:06:29.199><c> prompting</c><00:06:29.600><c> chat</c><00:06:29.919><c> GPT</c><00:06:30.319><c> or</c>
+find ch sort of prompting chat GPT or
+find ch sort of prompting chat GPT or
+claude<00:06:30.800><c> where</c><00:06:30.960><c> you</c><00:06:31.120><c> want</c><00:06:31.199><c> to</c><00:06:31.360><c> bring</c><00:06:31.520><c> the</c>
+claude where you want to bring the
+claude where you want to bring the
+intent<00:06:32.080><c> into</c><00:06:32.400><c> a</c><00:06:32.560><c> very</c><00:06:32.800><c> structured</c><00:06:33.280><c> initial</c>
+intent into a very structured initial
+intent into a very structured initial
+prompt<00:06:34.240><c> and</c><00:06:34.560><c> really</c><00:06:34.880><c> drive</c><00:06:35.280><c> the</c><00:06:35.600><c> entire</c>
+prompt and really drive the entire
+prompt and really drive the entire
+conversation.<00:06:37.039><c> It's</c><00:06:37.360><c> not</c><00:06:37.520><c> that</c><00:06:37.759><c> way</c><00:06:37.919><c> in</c>
+conversation. It's not that way in
+conversation. It's not that way in
+perplexity.<00:06:38.880><c> You</c><00:06:39.120><c> have</c><00:06:39.360><c> room</c><00:06:39.600><c> to</c><00:06:39.919><c> evolve</c>
+perplexity. You have room to evolve
+perplexity. You have room to evolve
+because<00:06:41.120><c> you're</c><00:06:41.520><c> essentially</c><00:06:42.400><c> threading</c><00:06:43.120><c> the</c>
+because you're essentially threading the
+because you're essentially threading the
+search<00:06:43.919><c> engine</c><00:06:44.560><c> through</c><00:06:44.960><c> the</c><00:06:45.199><c> rag</c>
+search engine through the rag
+search engine through the rag
+architecture<00:06:46.400><c> to</c><00:06:46.639><c> find</c><00:06:46.880><c> a</c><00:06:47.199><c> particular</c><00:06:47.600><c> area</c>
+architecture to find a particular area
+architecture to find a particular area
+that's<00:06:48.160><c> interesting</c><00:06:48.479><c> to</c><00:06:48.720><c> you</c><00:06:49.199><c> as</c><00:06:49.440><c> you</c>
+that's interesting to you as you
+that's interesting to you as you
+discover<00:06:50.160><c> the</c><00:06:50.479><c> conversation</c><00:06:51.280><c> together.</c>
+discover the conversation together.
+discover the conversation together.
+Another<00:06:52.400><c> non-obvious</c><00:06:53.199><c> technique,</c><00:06:53.919><c> specify</c>
+Another non-obvious technique, specify
+Another non-obvious technique, specify
+output<00:06:55.440><c> constraints.</c><00:06:56.240><c> If</c><00:06:56.400><c> you</c><00:06:56.639><c> specify</c>
+output constraints. If you specify
+output constraints. If you specify
+output<00:06:57.520><c> constraints,</c><00:06:58.000><c> you</c><00:06:58.240><c> are</c><00:06:58.400><c> more</c><00:06:58.639><c> likely</c>
+output constraints, you are more likely
+output constraints, you are more likely
+to<00:06:59.120><c> reduce</c><00:06:59.520><c> hallucinations.</c><00:07:00.319><c> So,</c><00:07:00.560><c> as</c><00:07:00.800><c> an</c>
+to reduce hallucinations. So, as an
+to reduce hallucinations. So, as an
+example,<00:07:01.759><c> please</c><00:07:02.080><c> provide</c><00:07:02.560><c> evidence.</c><00:07:03.360><c> For</c>
+example, please provide evidence. For
+example, please provide evidence. For
+every<00:07:03.840><c> claim</c><00:07:04.160><c> you</c><00:07:04.400><c> make</c><00:07:04.639><c> here,</c><00:07:05.199><c> please</c><00:07:05.440><c> list</c>
+every claim you make here, please list
+every claim you make here, please list
+specific<00:07:06.479><c> section</c><00:07:06.880><c> references</c><00:07:07.360><c> or</c><00:07:07.599><c> page</c>
+specific section references or page
+specific section references or page
+numbers<00:07:08.240><c> so</c><00:07:08.400><c> I</c><00:07:08.560><c> can</c><00:07:08.720><c> check</c><00:07:08.880><c> your</c><00:07:09.120><c> work.</c><00:07:09.599><c> This</c>
+numbers so I can check your work. This
+numbers so I can check your work. This
+forces<00:07:10.479><c> perplexity</c><00:07:11.520><c> to</c><00:07:11.840><c> verify</c><00:07:12.400><c> claims</c><00:07:12.800><c> at</c><00:07:12.960><c> a</c>
+forces perplexity to verify claims at a
+forces perplexity to verify claims at a
+granular<00:07:13.599><c> level</c><00:07:14.319><c> rather</c><00:07:14.639><c> than</c><00:07:14.800><c> assuming</c><00:07:15.280><c> it</c>
+granular level rather than assuming it
+granular level rather than assuming it
+can<00:07:15.599><c> make</c><00:07:15.840><c> broad</c><00:07:16.160><c> attributions</c><00:07:16.720><c> if</c><00:07:16.960><c> it</c><00:07:17.120><c> finds</c>
+can make broad attributions if it finds
+can make broad attributions if it finds
+two<00:07:17.520><c> or</c><00:07:17.759><c> three</c><00:07:17.919><c> different</c><00:07:18.160><c> sources</c><00:07:18.479><c> and</c><00:07:18.720><c> just</c>
+two or three different sources and just
+two or three different sources and just
+gloms<00:07:19.360><c> onto</c><00:07:19.599><c> them.</c><00:07:19.840><c> Last</c><00:07:20.240><c> but</c><00:07:20.560><c> not</c><00:07:20.800><c> least,</c>
+gloms onto them. Last but not least,
+gloms onto them. Last but not least,
+actually<00:07:21.440><c> we</c><00:07:21.599><c> have</c><00:07:21.680><c> two</c><00:07:21.919><c> more</c><00:07:22.240><c> two</c><00:07:22.479><c> more</c>
+actually we have two more two more
+actually we have two more two more
+non-obvious<00:07:23.520><c> prompt</c><00:07:23.919><c> techniques.</c><00:07:24.560><c> Use</c><00:07:24.960><c> focus</c>
+non-obvious prompt techniques. Use focus
+non-obvious prompt techniques. Use focus
+mode<00:07:25.680><c> really</c><00:07:26.000><c> strategically.</c><00:07:27.039><c> So</c><00:07:27.280><c> for</c>
+mode really strategically. So for
+mode really strategically. So for
+example,<00:07:28.160><c> if</c><00:07:28.400><c> you</c><00:07:28.720><c> are</c><00:07:28.960><c> an</c><00:07:29.280><c> academic</c><00:07:30.160><c> for</c>
+example, if you are an academic for
+example, if you are an academic for
+peer-reviewed<00:07:31.039><c> sources</c><00:07:31.599><c> or</c><00:07:32.000><c> looking</c><00:07:32.240><c> for</c>
+peer-reviewed sources or looking for
+peer-reviewed sources or looking for
+social<00:07:32.960><c> sources,</c><00:07:33.759><c> those</c><00:07:34.000><c> are</c><00:07:34.160><c> things</c><00:07:34.319><c> that</c>
+social sources, those are things that
+social sources, those are things that
+you<00:07:34.720><c> can</c><00:07:35.199><c> turn</c><00:07:35.520><c> on</c><00:07:36.240><c> as</c><00:07:36.639><c> particular</c><00:07:37.280><c> modes</c><00:07:38.000><c> in</c>
+you can turn on as particular modes in
+you can turn on as particular modes in
+perplexity.<00:07:39.039><c> I'll</c><00:07:39.199><c> show</c><00:07:39.360><c> you</c><00:07:39.520><c> in</c><00:07:39.680><c> a</c><00:07:39.840><c> moment.</c>
+perplexity. I'll show you in a moment.
+perplexity. I'll show you in a moment.
+You<00:07:40.639><c> want</c><00:07:40.880><c> to</c><00:07:41.039><c> use</c><00:07:41.280><c> that</c><00:07:41.840><c> in</c><00:07:42.319><c> the</c><00:07:42.560><c> middle</c><00:07:42.800><c> of</c>
+You want to use that in the middle of
+You want to use that in the middle of
+the<00:07:43.199><c> conversation</c><00:07:43.840><c> to</c><00:07:44.160><c> force</c><00:07:44.479><c> a</c><00:07:44.720><c> reset</c><00:07:45.120><c> of</c><00:07:45.280><c> the</c>
+the conversation to force a reset of the
+the conversation to force a reset of the
+model's<00:07:45.919><c> thinking</c><00:07:46.400><c> when</c><00:07:46.639><c> you</c><00:07:46.880><c> are</c><00:07:47.120><c> trying</c><00:07:47.360><c> to</c>
+model's thinking when you are trying to
+model's thinking when you are trying to
+get<00:07:47.759><c> it</c><00:07:47.919><c> out</c><00:07:48.080><c> of</c><00:07:48.240><c> a</c><00:07:48.400><c> rut.</c><00:07:48.720><c> So</c><00:07:48.960><c> if</c><00:07:49.120><c> you're</c><00:07:49.199><c> in</c><00:07:49.360><c> the</c>
+get it out of a rut. So if you're in the
+get it out of a rut. So if you're in the
+middle<00:07:49.599><c> of</c><00:07:49.759><c> a</c><00:07:49.919><c> conversation,</c><00:07:50.560><c> you're</c><00:07:50.800><c> talking</c>
+middle of a conversation, you're talking
+middle of a conversation, you're talking
+about<00:07:51.199><c> French</c><00:07:51.599><c> architecture</c><00:07:52.080><c> and</c><00:07:52.319><c> you</c><00:07:52.479><c> feel</c>
+about French architecture and you feel
+about French architecture and you feel
+like<00:07:52.800><c> the</c><00:07:53.039><c> model</c><00:07:53.360><c> isn't</c><00:07:53.759><c> taking</c><00:07:54.319><c> a</c>
+like the model isn't taking a
+like the model isn't taking a
+historian's<00:07:55.360><c> perspective,</c><00:07:56.400><c> you</c><00:07:56.639><c> could</c><00:07:56.800><c> go</c><00:07:57.039><c> to</c>
+historian's perspective, you could go to
+historian's perspective, you could go to
+academic<00:07:57.840><c> mode</c><00:07:58.160><c> in</c><00:07:58.400><c> the</c><00:07:58.560><c> middle</c><00:07:58.720><c> of</c><00:07:58.800><c> that</c>
+academic mode in the middle of that
+academic mode in the middle of that
+conversation<00:07:59.440><c> without</c><00:07:59.840><c> resetting</c><00:08:00.560><c> and</c><00:08:00.720><c> it</c>
+conversation without resetting and it
+conversation without resetting and it
+would<00:08:01.039><c> force</c><00:08:01.280><c> the</c><00:08:01.520><c> model</c><00:08:01.759><c> to</c><00:08:01.919><c> jump</c><00:08:02.160><c> and</c><00:08:02.400><c> reset</c>
+would force the model to jump and reset
+would force the model to jump and reset
+a<00:08:02.960><c> bit.</c><00:08:03.199><c> And</c><00:08:03.360><c> that</c><00:08:03.599><c> is</c><00:08:03.759><c> actually</c><00:08:04.000><c> very</c>
+a bit. And that is actually very
+a bit. And that is actually very
+different<00:08:04.560><c> from</c><00:08:04.800><c> chat</c><00:08:05.120><c> GPT</c><00:08:05.599><c> because</c>
+different from chat GPT because
+different from chat GPT because
+typically<00:08:06.160><c> you</c><00:08:06.400><c> would</c><00:08:06.479><c> want</c><00:08:06.639><c> to</c><00:08:06.720><c> wipe</c><00:08:07.039><c> the</c>
+typically you would want to wipe the
+typically you would want to wipe the
+context<00:08:07.599><c> window.</c><00:08:08.000><c> But</c><00:08:08.160><c> in</c><00:08:08.319><c> this</c><00:08:08.479><c> case</c><00:08:08.879><c> you</c><00:08:09.120><c> are</c>
+context window. But in this case you are
+context window. But in this case you are
+just<00:08:09.599><c> shifting</c><00:08:10.000><c> the</c><00:08:10.319><c> approach</c><00:08:10.639><c> in</c><00:08:10.879><c> the</c><00:08:11.039><c> rag</c>
+just shifting the approach in the rag
+just shifting the approach in the rag
+structure<00:08:11.840><c> that</c><00:08:12.080><c> perplexity</c><00:08:12.720><c> is</c><00:08:12.879><c> navigating</c>
+structure that perplexity is navigating
+structure that perplexity is navigating
+and<00:08:13.599><c> that's</c><00:08:13.840><c> different</c><00:08:14.160><c> from</c><00:08:14.720><c> wiping</c><00:08:15.120><c> the</c>
+and that's different from wiping the
+and that's different from wiping the
+context<00:08:15.759><c> window</c><00:08:16.080><c> and</c><00:08:16.240><c> starting</c><00:08:16.560><c> over</c><00:08:17.120><c> with</c><00:08:17.360><c> a</c>
+context window and starting over with a
+context window and starting over with a
+parametric<00:08:18.240><c> answer</c><00:08:18.560><c> engine</c><00:08:18.800><c> like</c><00:08:19.039><c> chat</c><00:08:19.360><c> GPT.</c>
+parametric answer engine like chat GPT.
+parametric answer engine like chat GPT.
+They<00:08:20.319><c> work</c><00:08:20.560><c> differently</c><00:08:21.039><c> underneath.</c><00:08:21.840><c> So</c>
+They work differently underneath. So
+They work differently underneath. So
+your<00:08:22.319><c> techniques</c><00:08:22.720><c> are</c><00:08:22.879><c> different.</c><00:08:23.440><c> Okay.</c><00:08:23.759><c> The</c>
+your techniques are different. Okay. The
+your techniques are different. Okay. The
+really<00:08:24.240><c> the</c><00:08:24.479><c> last</c><00:08:24.639><c> one</c><00:08:24.879><c> for</c><00:08:25.039><c> a</c><00:08:25.199><c> non-obvious</c>
+really the last one for a non-obvious
+really the last one for a non-obvious
+technique<00:08:26.800><c> create</c><00:08:27.440><c> spaces</c><00:08:28.000><c> with</c><00:08:28.240><c> custom</c>
+technique create spaces with custom
+technique create spaces with custom
+instructions<00:08:29.599><c> where</c><00:08:29.919><c> you</c><00:08:30.080><c> have</c><00:08:30.319><c> repeated</c>
+instructions where you have repeated
+instructions where you have repeated
+workflows<00:08:31.360><c> that</c><00:08:31.599><c> touch</c><00:08:31.759><c> the</c><00:08:32.000><c> internet.</c><00:08:32.640><c> So</c>
+workflows that touch the internet. So
+workflows that touch the internet. So
+for<00:08:33.039><c> example,</c><00:08:33.680><c> if</c><00:08:33.919><c> you</c><00:08:34.640><c> upload</c><00:08:35.200><c> reference</c>
+for example, if you upload reference
+for example, if you upload reference
+files<00:08:36.000><c> on</c><00:08:36.240><c> competitor</c><00:08:36.800><c> intelligence,</c><00:08:37.519><c> you</c>
+files on competitor intelligence, you
+files on competitor intelligence, you
+can<00:08:37.839><c> have</c><00:08:38.000><c> a</c><00:08:38.240><c> space</c><00:08:38.560><c> with</c><00:08:38.800><c> a</c><00:08:39.039><c> standing</c>
+can have a space with a standing
+can have a space with a standing
+instruction<00:08:40.080><c> that</c><00:08:40.320><c> says</c><00:08:41.039><c> structure</c><00:08:41.519><c> all</c>
+instruction that says structure all
+instruction that says structure all
+responses<00:08:42.719><c> as</c><00:08:43.519><c> current</c><00:08:43.839><c> state</c><00:08:44.240><c> competitive</c>
+responses as current state competitive
+responses as current state competitive
+positioning,<00:08:45.279><c> emerging</c><00:08:45.760><c> threats</c><00:08:46.080><c> and</c>
+positioning, emerging threats and
+positioning, emerging threats and
+strategic<00:08:46.720><c> implications</c><00:08:47.360><c> because</c><00:08:47.600><c> that</c>
+strategic implications because that
+strategic implications because that
+space<00:08:48.080><c> is</c><00:08:48.320><c> your</c><00:08:48.560><c> competitive</c><00:08:49.040><c> intelligence</c>
+space is your competitive intelligence
+space is your competitive intelligence
+headquarters.<00:08:50.720><c> That's</c><00:08:50.959><c> an</c><00:08:51.200><c> example</c><00:08:51.440><c> of</c><00:08:51.600><c> the</c>
+headquarters. That's an example of the
+headquarters. That's an example of the
+kind<00:08:51.920><c> of</c><00:08:52.080><c> internet</c><00:08:52.640><c> first</c><00:08:53.279><c> project</c><00:08:53.760><c> space</c>
+kind of internet first project space
+kind of internet first project space
+that<00:08:54.800><c> perplexity</c><00:08:55.519><c> excels</c><00:08:56.000><c> at.</c><00:08:56.399><c> Another</c>
+that perplexity excels at. Another
+that perplexity excels at. Another
+example<00:08:57.200><c> of</c><00:08:57.440><c> something</c><00:08:57.760><c> like</c><00:08:58.000><c> that.</c><00:08:58.480><c> This</c>
+example of something like that. This
+example of something like that. This
+gets<00:08:58.959><c> into</c><00:08:59.279><c> using</c><00:08:59.600><c> labs,</c><00:09:00.080><c> which</c><00:09:00.320><c> is</c><00:09:00.560><c> an</c><00:09:00.880><c> a</c><00:09:01.040><c> way</c>
+gets into using labs, which is an a way
+gets into using labs, which is an a way
+of<00:09:01.440><c> using</c><00:09:01.760><c> perplexity</c><00:09:02.399><c> to</c><00:09:02.640><c> construct</c>
+of using perplexity to construct
+of using perplexity to construct
+reports.<00:09:03.839><c> You</c><00:09:04.080><c> want</c><00:09:04.240><c> to</c><00:09:04.480><c> focus</c><00:09:05.360><c> perplexity</c><00:09:06.320><c> on</c>
+reports. You want to focus perplexity on
+reports. You want to focus perplexity on
+internet<00:09:07.279><c> first</c><00:09:07.680><c> use</c><00:09:07.920><c> cases</c><00:09:08.720><c> where</c><00:09:09.440><c> doing</c><00:09:09.680><c> a</c>
+internet first use cases where doing a
+internet first use cases where doing a
+lot<00:09:10.080><c> of</c><00:09:10.240><c> research</c><00:09:10.800><c> is</c><00:09:11.120><c> going</c><00:09:11.360><c> to</c><00:09:11.519><c> enable</c>
+lot of research is going to enable
+lot of research is going to enable
+perplexity<00:09:12.640><c> to</c><00:09:12.880><c> come</c><00:09:13.040><c> up</c><00:09:13.279><c> with</c><00:09:14.000><c> the</c><00:09:14.320><c> kinds</c><00:09:14.720><c> of</c>
+perplexity to come up with the kinds of
+perplexity to come up with the kinds of
+information<00:09:16.160><c> that</c><00:09:16.800><c> you</c><00:09:17.120><c> only</c><00:09:17.519><c> get</c><00:09:18.080><c> if</c><00:09:18.320><c> you</c><00:09:18.480><c> are</c>
+information that you only get if you are
+information that you only get if you are
+leaning<00:09:19.120><c> in</c><00:09:19.760><c> to</c><00:09:20.160><c> publicly</c><00:09:20.640><c> available</c>
+leaning in to publicly available
+leaning in to publicly available
+documents<00:09:21.680><c> on</c><00:09:21.920><c> the</c><00:09:22.160><c> internet.</c><00:09:22.560><c> And</c><00:09:22.800><c> so</c>
+documents on the internet. And so
+documents on the internet. And so
+competitive<00:09:23.600><c> intelligence</c><00:09:24.000><c> is</c><00:09:24.240><c> a</c><00:09:24.399><c> good</c>
+competitive intelligence is a good
+competitive intelligence is a good
+example.<00:09:25.040><c> Stocks</c><00:09:25.440><c> are</c><00:09:25.600><c> a</c><00:09:25.760><c> good</c><00:09:25.839><c> example.</c>
+example. Stocks are a good example.
+example. Stocks are a good example.
+Equity<00:09:26.959><c> and</c><00:09:27.279><c> financial</c><00:09:27.760><c> analysis,</c><00:09:28.640><c> news</c><00:09:28.959><c> is</c><00:09:29.200><c> a</c>
+Equity and financial analysis, news is a
+Equity and financial analysis, news is a
+great<00:09:29.519><c> example.</c><00:09:30.320><c> And</c><00:09:30.480><c> the</c><00:09:30.720><c> whole</c><00:09:31.040><c> product</c><00:09:31.360><c> of</c>
+great example. And the whole product of
+great example. And the whole product of
+labs<00:09:32.000><c> and</c><00:09:32.160><c> and</c><00:09:32.560><c> spaces,</c><00:09:32.959><c> which</c><00:09:33.200><c> are</c><00:09:33.360><c> two</c>
+labs and and spaces, which are two
+labs and and spaces, which are two
+separate<00:09:33.760><c> ways</c><00:09:34.000><c> to</c><00:09:34.080><c> organize</c><00:09:34.560><c> information.</c>
+separate ways to organize information.
+separate ways to organize information.
+Labs<00:09:35.760><c> is</c><00:09:36.000><c> more</c><00:09:36.160><c> focused</c><00:09:36.399><c> on</c><00:09:36.560><c> creating</c><00:09:36.800><c> a</c><00:09:36.959><c> nicel</c>
+Labs is more focused on creating a nicel
+Labs is more focused on creating a nicel
+looking<00:09:37.519><c> report.</c><00:09:38.399><c> Spaces</c><00:09:38.800><c> is</c><00:09:38.959><c> more</c><00:09:39.200><c> focused</c>
+looking report. Spaces is more focused
+looking report. Spaces is more focused
+on<00:09:39.680><c> giving</c><00:09:39.839><c> you</c><00:09:40.000><c> a</c><00:09:40.240><c> standing</c><00:09:40.880><c> spot</c><00:09:41.200><c> for</c><00:09:41.440><c> your</c>
+on giving you a standing spot for your
+on giving you a standing spot for your
+instructions<00:09:42.240><c> and</c><00:09:42.480><c> a</c><00:09:42.720><c> continual</c><00:09:43.200><c> workflow.</c>
+instructions and a continual workflow.
+instructions and a continual workflow.
+But<00:09:44.160><c> they're</c><00:09:44.480><c> both</c><00:09:44.800><c> internet</c><00:09:45.200><c> native</c><00:09:45.519><c> and</c>
+But they're both internet native and
+But they're both internet native and
+that's<00:09:45.839><c> what</c><00:09:46.000><c> you</c><00:09:46.160><c> have</c><00:09:46.240><c> to</c><00:09:46.399><c> keep</c><00:09:46.560><c> in</c><00:09:46.720><c> mind</c><00:09:46.880><c> and</c>
+that's what you have to keep in mind and
+that's what you have to keep in mind and
+that's<00:09:47.519><c> what</c><00:09:47.760><c> diff</c><00:09:48.160><c> differentiates</c><00:09:48.800><c> them</c>
+that's what diff differentiates them
+that's what diff differentiates them
+from<00:09:49.040><c> Chad</c><00:09:49.360><c> GPT.</c><00:09:50.160><c> Let's</c><00:09:50.399><c> have</c><00:09:50.480><c> a</c><00:09:50.720><c> look</c><00:09:50.800><c> at</c><00:09:50.959><c> an</c>
+from Chad GPT. Let's have a look at an
+from Chad GPT. Let's have a look at an
+actual<00:09:51.600><c> perplexity</c><00:09:52.160><c> search</c><00:09:52.399><c> result.</c><00:09:52.800><c> Okay,</c>
+actual perplexity search result. Okay,
+actual perplexity search result. Okay,
+this<00:09:53.760><c> is</c><00:09:53.920><c> the</c><00:09:54.160><c> first</c><00:09:54.480><c> example</c><00:09:54.800><c> I</c><00:09:55.120><c> want</c><00:09:55.200><c> to</c><00:09:55.279><c> show</c>
+this is the first example I want to show
+this is the first example I want to show
+you.<00:09:55.680><c> This</c><00:09:55.839><c> was</c><00:09:56.000><c> a</c><00:09:56.160><c> very</c><00:09:56.399><c> simple,</c><00:09:56.800><c> I</c><00:09:57.040><c> would</c>
+you. This was a very simple, I would
+you. This was a very simple, I would
+call<00:09:57.279><c> it</c><00:09:57.440><c> an</c><00:09:57.760><c> unhelpful</c><00:09:58.480><c> search</c><00:09:59.040><c> in</c>
+call it an unhelpful search in
+call it an unhelpful search in
+Perplexity.<00:09:59.920><c> Find</c><00:10:00.080><c> me</c><00:10:00.320><c> recent</c><00:10:00.640><c> news</c><00:10:00.800><c> on</c><00:10:01.040><c> AI.</c><00:10:01.600><c> I</c>
+Perplexity. Find me recent news on AI. I
+Perplexity. Find me recent news on AI. I
+give<00:10:01.920><c> it</c><00:10:02.160><c> no</c><00:10:02.480><c> constraints.</c><00:10:03.120><c> I</c><00:10:03.360><c> just</c><00:10:03.519><c> tell</c><00:10:03.680><c> it</c>
+give it no constraints. I just tell it
+give it no constraints. I just tell it
+to<00:10:04.000><c> go</c><00:10:04.240><c> find</c><00:10:04.399><c> things.</c><00:10:04.720><c> It's</c><00:10:04.959><c> very</c><00:10:05.120><c> vague.</c><00:10:05.680><c> It</c>
+to go find things. It's very vague. It
+to go find things. It's very vague. It
+gives<00:10:06.240><c> me</c><00:10:06.399><c> a</c><00:10:06.640><c> lot,</c><00:10:07.040><c> right?</c><00:10:07.279><c> It</c><00:10:07.519><c> talks</c><00:10:07.760><c> about</c>
+gives me a lot, right? It talks about
+gives me a lot, right? It talks about
+major<00:10:08.640><c> product</c><00:10:08.959><c> launches.</c><00:10:09.519><c> It</c><00:10:09.760><c> mentions</c>
+major product launches. It mentions
+major product launches. It mentions
+things<00:10:10.480><c> from</c><00:10:10.800><c> Sora</c><00:10:11.920><c> uh</c><00:10:12.080><c> to</c><00:10:12.320><c> apparently</c><00:10:12.720><c> an</c>
+things from Sora uh to apparently an
+things from Sora uh to apparently an
+update<00:10:13.200><c> to</c><00:10:13.440><c> Chrome,</c><00:10:13.839><c> which</c><00:10:14.079><c> is</c><00:10:14.240><c> kind</c><00:10:14.399><c> of</c>
+update to Chrome, which is kind of
+update to Chrome, which is kind of
+random.<00:10:14.880><c> We</c><00:10:15.040><c> can</c><00:10:15.120><c> already</c><00:10:15.360><c> see</c><00:10:15.440><c> the</c><00:10:15.680><c> quality</c>
+random. We can already see the quality
+random. We can already see the quality
+decaying<00:10:16.560><c> here.</c><00:10:17.440><c> It</c><00:10:18.000><c> mentions</c><00:10:18.880><c> nine</c><00:10:19.200><c> billion</c>
+decaying here. It mentions nine billion
+decaying here. It mentions nine billion
+dollars<00:10:19.920><c> to</c><00:10:20.160><c> build</c><00:10:20.399><c> energy</c><00:10:20.880><c> efficient</c><00:10:21.279><c> AI</c>
+dollars to build energy efficient AI
+dollars to build energy efficient AI
+data<00:10:21.839><c> centers</c><00:10:22.160><c> in</c><00:10:22.480><c> Oklahoma,</c><00:10:23.440><c> which</c><00:10:23.680><c> is</c>
+data centers in Oklahoma, which is
+data centers in Oklahoma, which is
+perhaps<00:10:24.160><c> not</c><00:10:24.320><c> the</c><00:10:24.560><c> top</c><00:10:24.800><c> infrastructure</c><00:10:25.440><c> news</c>
+perhaps not the top infrastructure news
+perhaps not the top infrastructure news
+I<00:10:25.920><c> would</c><00:10:26.079><c> have</c><00:10:26.160><c> picked</c><00:10:26.399><c> out</c><00:10:26.640><c> given</c><00:10:27.120><c> anthropics</c>
+I would have picked out given anthropics
+I would have picked out given anthropics
+deal<00:10:28.240><c> this</c><00:10:28.480><c> week</c><00:10:28.720><c> with</c><00:10:29.120><c> Google.</c><00:10:30.079><c> Um,</c><00:10:30.480><c> it</c><00:10:30.720><c> gets</c>
+deal this week with Google. Um, it gets
+deal this week with Google. Um, it gets
+into<00:10:31.120><c> healthcare</c><00:10:31.600><c> and</c><00:10:31.760><c> science</c><00:10:32.160><c> advances,</c>
+into healthcare and science advances,
+into healthcare and science advances,
+which<00:10:32.880><c> are</c><00:10:33.040><c> not</c><00:10:33.360><c> necessarily</c><00:10:34.320><c> super</c><00:10:34.720><c> related</c>
+which are not necessarily super related
+which are not necessarily super related
+to<00:10:35.200><c> what</c><00:10:35.360><c> I</c><00:10:35.519><c> was</c><00:10:35.680><c> asking</c><00:10:35.920><c> for,</c><00:10:36.079><c> but</c><00:10:36.320><c> I</c><00:10:36.480><c> didn't</c>
+to what I was asking for, but I didn't
+to what I was asking for, but I didn't
+communicate<00:10:37.040><c> my</c><00:10:37.279><c> intent.</c><00:10:38.560><c> Um,</c><00:10:38.959><c> and</c><00:10:39.120><c> then</c><00:10:39.200><c> it</c>
+communicate my intent. Um, and then it
+communicate my intent. Um, and then it
+gets<00:10:39.519><c> into</c><00:10:39.760><c> really</c><00:10:39.920><c> vague</c><00:10:40.160><c> stuff</c><00:10:40.320><c> that</c><00:10:40.480><c> isn't</c>
+gets into really vague stuff that isn't
+gets into really vague stuff that isn't
+date<00:10:41.040><c> specific,</c><00:10:41.360><c> like</c><00:10:41.600><c> AI</c><00:10:42.000><c> investing</c><00:10:42.320><c> and</c>
+date specific, like AI investing and
+date specific, like AI investing and
+spending.<00:10:42.959><c> Overall,</c><00:10:44.000><c> this</c><00:10:44.240><c> is</c><00:10:44.480><c> exactly</c><00:10:44.959><c> what</c>
+spending. Overall, this is exactly what
+spending. Overall, this is exactly what
+we<00:10:45.440><c> would</c><00:10:45.600><c> expect</c><00:10:46.320><c> given</c><00:10:47.120><c> the</c><00:10:47.440><c> level</c><00:10:47.760><c> of</c>
+we would expect given the level of
+we would expect given the level of
+specificity<00:10:48.720><c> we</c><00:10:48.959><c> gave</c><00:10:49.120><c> the</c><00:10:49.360><c> model.</c><00:10:49.680><c> Like</c><00:10:49.839><c> we</c>
+specificity we gave the model. Like we
+specificity we gave the model. Like we
+we<00:10:50.240><c> were</c><00:10:50.399><c> not</c><00:10:50.640><c> helpful</c><00:10:51.279><c> and</c><00:10:51.519><c> so</c><00:10:52.079><c> we</c><00:10:52.320><c> kind</c><00:10:52.480><c> of</c>
+we were not helpful and so we kind of
+we were not helpful and so we kind of
+get<00:10:52.720><c> what</c><00:10:52.880><c> we</c><00:10:53.040><c> pay</c><00:10:53.200><c> for</c><00:10:53.440><c> there.</c><00:10:53.839><c> Now</c><00:10:54.160><c> let's</c>
+get what we pay for there. Now let's
+get what we pay for there. Now let's
+look<00:10:54.560><c> at</c><00:10:54.720><c> a</c><00:10:54.959><c> much</c><00:10:55.120><c> more</c><00:10:55.360><c> specific</c><00:10:55.760><c> query.</c>
+look at a much more specific query.
+look at a much more specific query.
+Please<00:10:56.640><c> find</c><00:10:56.880><c> me</c><00:10:57.040><c> a</c><00:10:57.360><c> diverse</c><00:10:57.839><c> set</c><00:10:58.320><c> of</c>
+Please find me a diverse set of
+Please find me a diverse set of
+well-grounded<00:10:59.519><c> novel</c><00:10:59.920><c> updates</c><00:11:00.320><c> on</c><00:11:00.560><c> AI</c><00:11:01.200><c> within</c>
+well-grounded novel updates on AI within
+well-grounded novel updates on AI within
+the<00:11:01.839><c> last</c><00:11:02.079><c> couple</c><00:11:02.320><c> of</c><00:11:02.480><c> weeks,</c><00:11:02.800><c> i.e.</c><00:11:03.200><c> since</c><00:11:03.440><c> a</c>
+the last couple of weeks, i.e. since a
+the last couple of weeks, i.e. since a
+specific<00:11:04.000><c> date</c><00:11:04.480><c> that</c><00:11:04.720><c> are</c><00:11:04.880><c> specifically</c>
+specific date that are specifically
+specific date that are specifically
+focused<00:11:05.680><c> on</c><00:11:05.839><c> the</c><00:11:06.079><c> build</c><00:11:06.480><c> use</c><00:11:06.720><c> case.</c><00:11:06.959><c> In</c><00:11:07.120><c> other</c>
+focused on the build use case. In other
+focused on the build use case. In other
+words,<00:11:07.440><c> what</c><00:11:07.600><c> has</c><00:11:07.839><c> happened</c><00:11:08.000><c> in</c><00:11:08.240><c> AI</c><00:11:08.560><c> for</c>
+words, what has happened in AI for
+words, what has happened in AI for
+builders<00:11:09.120><c> in</c><00:11:09.279><c> the</c><00:11:09.360><c> last</c><00:11:09.519><c> two</c><00:11:09.760><c> weeks</c><00:11:09.920><c> or</c><00:11:10.079><c> so?</c>
+builders in the last two weeks or so?
+builders in the last two weeks or so?
+Surprise<00:11:10.880><c> me.</c><00:11:11.279><c> Right</c><00:11:11.519><c> off</c><00:11:11.680><c> the</c><00:11:11.760><c> bat,</c><00:11:12.000><c> we</c><00:11:12.160><c> get</c>
+Surprise me. Right off the bat, we get
+Surprise me. Right off the bat, we get
+more<00:11:12.480><c> useful</c><00:11:12.720><c> answers.</c><00:11:13.120><c> We</c><00:11:13.360><c> get</c><00:11:13.600><c> a</c><00:11:13.839><c> note</c><00:11:14.079><c> on</c>
+more useful answers. We get a note on
+more useful answers. We get a note on
+agent<00:11:14.560><c> kit,</c><00:11:14.800><c> which</c><00:11:15.040><c> is</c><00:11:15.200><c> absolutely</c><00:11:15.760><c> apppropo,</c>
+agent kit, which is absolutely apppropo,
+agent kit, which is absolutely apppropo,
+but<00:11:16.959><c> it</c><00:11:17.200><c> notes</c><00:11:18.000><c> that</c><00:11:18.240><c> it</c><00:11:18.480><c> was</c><00:11:18.720><c> before</c><00:11:19.200><c> October</c>
+but it notes that it was before October
+but it notes that it was before October
+10th.<00:11:20.000><c> It</c><00:11:20.160><c> is</c><00:11:20.320><c> paying</c><00:11:20.560><c> attention</c><00:11:20.800><c> and</c><00:11:21.120><c> trying</c>
+10th. It is paying attention and trying
+10th. It is paying attention and trying
+to<00:11:21.519><c> be</c><00:11:21.680><c> helpful,</c><00:11:22.320><c> but</c><00:11:22.560><c> it's</c><00:11:22.720><c> noting</c><00:11:22.959><c> that</c><00:11:23.120><c> this</c>
+to be helpful, but it's noting that this
+to be helpful, but it's noting that this
+might<00:11:23.440><c> be</c><00:11:23.600><c> on</c><00:11:23.760><c> the</c><00:11:23.839><c> edge.</c><00:11:24.160><c> And</c><00:11:24.320><c> I</c><00:11:24.480><c> love</c><00:11:24.640><c> that</c>
+might be on the edge. And I love that
+might be on the edge. And I love that
+specificity.<00:11:25.839><c> GPT5</c><00:11:26.640><c> Pro</c><00:11:26.880><c> becoming</c><00:11:27.279><c> available</c>
+specificity. GPT5 Pro becoming available
+specificity. GPT5 Pro becoming available
+is<00:11:27.760><c> a</c><00:11:27.920><c> great</c><00:11:28.079><c> one.</c><00:11:28.560><c> Sor</c><00:11:28.959><c> 2</c><00:11:29.120><c> API</c><00:11:29.600><c> access</c><00:11:29.920><c> is</c>
+is a great one. Sor 2 API access is
+is a great one. Sor 2 API access is
+relevant.<00:11:31.040><c> Enthropic's</c><00:11:31.680><c> agentic</c><00:11:32.240><c> coding</c>
+relevant. Enthropic's agentic coding
+relevant. Enthropic's agentic coding
+push,<00:11:33.120><c> so</c><00:11:33.279><c> it</c><00:11:33.440><c> catches</c><00:11:33.920><c> clouded</c><00:11:34.240><c> code</c><00:11:34.480><c> on</c><00:11:34.720><c> the</c>
+push, so it catches clouded code on the
+push, so it catches clouded code on the
+web.<00:11:35.360><c> It</c><00:11:35.600><c> catches</c><00:11:36.000><c> claude</c><00:11:36.320><c> for</c><00:11:36.560><c> life</c><00:11:36.800><c> sciences</c>
+web. It catches claude for life sciences
+web. It catches claude for life sciences
+and<00:11:37.440><c> claude</c><00:11:37.760><c> memory.</c><00:11:38.160><c> Those</c><00:11:38.320><c> are</c><00:11:38.399><c> both</c>
+and claude memory. Those are both
+and claude memory. Those are both
+relevant.<00:11:39.360><c> It</c><00:11:39.680><c> has</c><00:11:39.920><c> a</c><00:11:40.240><c> slightly</c><00:11:40.560><c> weird</c><00:11:40.880><c> one,</c>
+relevant. It has a slightly weird one,
+relevant. It has a slightly weird one,
+anthropic<00:11:41.760><c> opening</c><00:11:42.079><c> a</c><00:11:42.240><c> soul</c><00:11:42.560><c> office.</c><00:11:42.959><c> Not</c>
+anthropic opening a soul office. Not
+anthropic opening a soul office. Not
+sure<00:11:43.279><c> why</c><00:11:43.519><c> it</c><00:11:43.680><c> matters.</c><00:11:44.240><c> Um,</c><00:11:44.480><c> but</c><00:11:44.720><c> then</c><00:11:44.880><c> it</c>
+sure why it matters. Um, but then it
+sure why it matters. Um, but then it
+makes<00:11:45.200><c> a</c><00:11:45.360><c> case,</c><00:11:45.600><c> right?</c><00:11:45.839><c> It</c><00:11:46.000><c> says</c><00:11:46.240><c> it's</c><00:11:46.399><c> the</c>
+makes a case, right? It says it's the
+makes a case, right? It says it's the
+number<00:11:46.720><c> of</c><00:11:46.800><c> weekly</c><00:11:47.120><c> cloud</c><00:11:47.440><c> code</c><00:11:47.600><c> users</c><00:11:47.920><c> in</c>
+number of weekly cloud code users in
+number of weekly cloud code users in
+Korea<00:11:48.320><c> is</c><00:11:48.560><c> up.</c><00:11:48.800><c> I</c><00:11:49.040><c> didn't</c><00:11:49.200><c> know</c><00:11:49.360><c> that.</c><00:11:49.600><c> That's</c>
+Korea is up. I didn't know that. That's
+Korea is up. I didn't know that. That's
+super<00:11:50.160><c> cool.</c><00:11:51.120><c> Um,</c><00:11:52.160><c> talks</c><00:11:52.480><c> about</c><00:11:52.640><c> Google,</c>
+super cool. Um, talks about Google,
+super cool. Um, talks about Google,
+talks<00:11:53.360><c> about</c><00:11:53.519><c> Microsoft.</c><00:11:54.480><c> This</c><00:11:54.640><c> is</c><00:11:54.800><c> a</c><00:11:55.040><c> much</c>
+talks about Microsoft. This is a much
+talks about Microsoft. This is a much
+more<00:11:55.519><c> detailed</c><00:11:55.920><c> response.</c><00:11:56.320><c> And</c><00:11:56.399><c> then</c><00:11:56.560><c> it</c><00:11:56.720><c> gets</c>
+more detailed response. And then it gets
+more detailed response. And then it gets
+into<00:11:57.040><c> stuff</c><00:11:57.200><c> that</c><00:11:57.360><c> I</c><00:11:57.519><c> never</c><00:11:57.760><c> would</c><00:11:57.920><c> have</c><00:11:58.079><c> found</c>
+into stuff that I never would have found
+into stuff that I never would have found
+with<00:11:58.800><c> the</c><00:11:58.959><c> other</c><00:11:59.200><c> search.</c><00:11:59.519><c> It</c><00:11:59.680><c> talks</c><00:11:59.920><c> about</c>
+with the other search. It talks about
+with the other search. It talks about
+SNIK<00:12:00.640><c> and</c><00:12:00.800><c> Windsurf</c><00:12:01.360><c> in</c><00:12:01.519><c> Devon</c><00:12:02.640><c> um,</c><00:12:02.800><c> and</c><00:12:03.040><c> sort</c>
+SNIK and Windsurf in Devon um, and sort
+SNIK and Windsurf in Devon um, and sort
+of<00:12:03.279><c> how</c><00:12:03.519><c> they're</c><00:12:03.680><c> partnering</c><00:12:04.079><c> together</c><00:12:04.320><c> on</c>
+of how they're partnering together on
+of how they're partnering together on
+security<00:12:05.040><c> scanning</c><00:12:05.440><c> in</c><00:12:05.600><c> the</c><00:12:05.760><c> Windsurf</c><00:12:06.240><c> IDE.</c>
+security scanning in the Windsurf IDE.
+security scanning in the Windsurf IDE.
+It<00:12:07.360><c> talks</c><00:12:07.760><c> about</c><00:12:08.399><c> open</c><00:12:08.639><c> source</c><00:12:09.120><c> convergence</c>
+It talks about open source convergence
+It talks about open source convergence
+and<00:12:10.079><c> how</c><00:12:10.639><c> uh</c><00:12:10.800><c> we're</c><00:12:11.040><c> starting</c><00:12:11.279><c> to</c><00:12:11.680><c> see</c><00:12:11.920><c> near</c>
+and how uh we're starting to see near
+and how uh we're starting to see near
+parody<00:12:12.560><c> with</c><00:12:12.800><c> Cloud</c><00:12:13.120><c> Sonnet</c><00:12:13.519><c> 4.5</c><00:12:14.079><c> and</c><00:12:14.240><c> open</c>
+parody with Cloud Sonnet 4.5 and open
+parody with Cloud Sonnet 4.5 and open
+source<00:12:14.800><c> models.</c><00:12:15.839><c> Uh</c><00:12:16.160><c> we're</c><00:12:16.399><c> talking</c><00:12:16.639><c> about</c>
+source models. Uh we're talking about
+source models. Uh we're talking about
+Perplexity's<00:12:17.600><c> browser</c><00:12:17.920><c> and</c><00:12:18.079><c> how</c><00:12:18.240><c> it</c><00:12:18.399><c> went</c>
+Perplexity's browser and how it went
+Perplexity's browser and how it went
+free,<00:12:18.800><c> but</c><00:12:18.959><c> it</c><00:12:19.120><c> notes</c><00:12:19.360><c> it</c><00:12:19.519><c> was</c><00:12:19.680><c> outside</c><00:12:19.920><c> the</c>
+free, but it notes it was outside the
+free, but it notes it was outside the
+window.<00:12:20.639><c> Full</c><00:12:20.959><c> MCP</c><00:12:21.519><c> support</c><00:12:21.760><c> for</c><00:12:22.000><c> Chat</c><00:12:22.240><c> GPT</c>
+window. Full MCP support for Chat GPT
+window. Full MCP support for Chat GPT
+developer<00:12:23.120><c> mode,</c><00:12:23.279><c> which</c><00:12:23.519><c> I</c><00:12:23.600><c> knew</c><00:12:23.760><c> about,</c><00:12:24.000><c> but</c>
+developer mode, which I knew about, but
+developer mode, which I knew about, but
+has<00:12:24.399><c> really</c><00:12:24.560><c> gotten</c><00:12:24.800><c> slept</c><00:12:25.120><c> on.</c><00:12:25.279><c> It's</c><00:12:25.440><c> a</c><00:12:25.519><c> big</c>
+has really gotten slept on. It's a big
+has really gotten slept on. It's a big
+deal.<00:12:26.639><c> Um</c><00:12:27.360><c> and</c><00:12:27.519><c> then</c><00:12:27.760><c> overall</c><00:12:28.079><c> it</c><00:12:28.240><c> gives</c><00:12:28.399><c> me</c><00:12:28.480><c> an</c>
+deal. Um and then overall it gives me an
+deal. Um and then overall it gives me an
+assessment.<00:12:29.200><c> I</c><00:12:29.360><c> love</c><00:12:29.519><c> this.</c><00:12:29.839><c> There's</c><00:12:30.240><c> so</c><00:12:30.480><c> much</c>
+assessment. I love this. There's so much
+assessment. I love this. There's so much
+to<00:12:30.880><c> dive</c><00:12:31.120><c> in</c><00:12:31.360><c> because</c><00:12:31.680><c> now</c><00:12:31.920><c> I</c><00:12:32.160><c> can</c><00:12:32.320><c> say</c><00:12:33.279><c> I'm</c>
+to dive in because now I can say I'm
+to dive in because now I can say I'm
+really<00:12:34.160><c> curious</c><00:12:34.800><c> to</c><00:12:35.120><c> learn</c><00:12:35.440><c> more</c><00:12:35.839><c> about</c><00:12:36.399><c> AI</c>
+really curious to learn more about AI
+really curious to learn more about AI
+build<00:12:37.200><c> culture</c><00:12:38.160><c> in</c><00:12:38.480><c> Korea,</c><00:12:39.360><c> especially</c>
+build culture in Korea, especially
+build culture in Korea, especially
+around<00:12:40.959><c> claude</c><00:12:41.440><c> code.</c><00:12:42.880><c> Can</c><00:12:43.040><c> you</c><00:12:43.279><c> please</c>
+around claude code. Can you please
+around claude code. Can you please
+summarize<00:12:44.880><c> a</c><00:12:45.200><c> diverse</c><00:12:45.680><c> set</c><00:12:46.079><c> of</c><00:12:46.399><c> perspectives</c>
+summarize a diverse set of perspectives
+summarize a diverse set of perspectives
+around<00:12:48.000><c> Korea</c><00:12:48.800><c> cla</c><00:12:49.360><c> code</c><00:12:49.839><c> usage?</c><00:12:50.480><c> And</c><00:12:50.720><c> I'm</c>
+around Korea cla code usage? And I'm
+around Korea cla code usage? And I'm
+going<00:12:51.120><c> to</c><00:12:51.200><c> stick</c><00:12:51.440><c> with</c><00:12:51.680><c> research</c><00:12:52.000><c> because</c><00:12:52.160><c> it</c>
+going to stick with research because it
+going to stick with research because it
+will<00:12:52.480><c> think</c><00:12:52.720><c> hard.</c><00:12:54.000><c> Um,</c><00:12:54.560><c> and</c><00:12:54.880><c> I</c><00:12:55.120><c> can</c><00:12:55.200><c> just</c><00:12:55.360><c> tell</c>
+will think hard. Um, and I can just tell
+will think hard. Um, and I can just tell
+it<00:12:55.760><c> to</c><00:12:55.920><c> go.</c>
+it to go.
+it to go.
+And<00:12:58.000><c> that's</c><00:12:58.160><c> an</c><00:12:58.320><c> example</c><00:12:58.560><c> of</c><00:12:58.639><c> how</c><00:12:58.800><c> you</c><00:12:58.959><c> can</c>
+And that's an example of how you can
+And that's an example of how you can
+start<00:12:59.279><c> to</c><00:12:59.440><c> really</c><00:12:59.680><c> kind</c><00:12:59.839><c> of</c><00:12:59.920><c> dive</c><00:13:00.240><c> in</c><00:13:00.959><c> and</c><00:13:01.200><c> get</c>
+start to really kind of dive in and get
+start to really kind of dive in and get
+farther.<00:13:02.000><c> Now,</c><00:13:02.480><c> one</c><00:13:02.639><c> of</c><00:13:02.720><c> the</c><00:13:02.880><c> beautiful</c>
+farther. Now, one of the beautiful
+farther. Now, one of the beautiful
+things<00:13:03.440><c> about</c><00:13:03.760><c> Perplexity</c><00:13:04.480><c> is</c><00:13:04.720><c> how</c><00:13:05.279><c> flexible</c>
+things about Perplexity is how flexible
+things about Perplexity is how flexible
+it<00:13:05.920><c> is.</c><00:13:06.160><c> So,</c><00:13:06.320><c> while</c><00:13:06.560><c> this</c><00:13:06.720><c> is</c><00:13:06.880><c> working,</c><00:13:07.279><c> I</c><00:13:07.600><c> can</c>
+it is. So, while this is working, I can
+it is. So, while this is working, I can
+show<00:13:07.920><c> you</c><00:13:08.399><c> other</c><00:13:08.720><c> ways</c><00:13:09.600><c> to</c><00:13:09.839><c> use</c><00:13:10.160><c> Perplexity</c>
+show you other ways to use Perplexity
+show you other ways to use Perplexity
+that<00:13:10.959><c> are</c><00:13:11.120><c> super</c><00:13:11.440><c> useful.</c><00:13:11.920><c> So,</c><00:13:12.079><c> for</c><00:13:12.240><c> example,</c>
+that are super useful. So, for example,
+that are super useful. So, for example,
+we<00:13:13.200><c> can</c><00:13:13.360><c> choose,</c><00:13:13.680><c> I</c><00:13:13.839><c> know</c><00:13:14.000><c> I</c><00:13:14.160><c> promised</c><00:13:14.399><c> to</c><00:13:14.560><c> show</c>
+we can choose, I know I promised to show
+we can choose, I know I promised to show
+you,<00:13:14.800><c> we</c><00:13:14.959><c> can</c><00:13:15.040><c> choose</c><00:13:15.200><c> to</c><00:13:15.440><c> move</c><00:13:15.519><c> this</c><00:13:15.760><c> to</c>
+you, we can choose to move this to
+you, we can choose to move this to
+academic<00:13:16.399><c> or</c><00:13:16.639><c> social</c><00:13:16.959><c> or</c><00:13:17.200><c> finance.</c><00:13:18.079><c> We</c><00:13:18.240><c> can</c>
+academic or social or finance. We can
+academic or social or finance. We can
+choose<00:13:18.560><c> to</c><00:13:18.800><c> connect</c><00:13:19.040><c> to</c><00:13:19.279><c> other</c><00:13:19.519><c> sources.</c><00:13:19.920><c> So,</c>
+choose to connect to other sources. So,
+choose to connect to other sources. So,
+it<00:13:20.160><c> will</c><00:13:20.320><c> search</c><00:13:20.560><c> across</c><00:13:20.800><c> these</c><00:13:21.040><c> other</c>
+it will search across these other
+it will search across these other
+sources.<00:13:22.000><c> We</c><00:13:22.160><c> can</c><00:13:22.320><c> upload</c><00:13:22.639><c> a</c><00:13:22.880><c> file</c><00:13:23.120><c> here</c><00:13:23.360><c> if</c><00:13:23.519><c> we</c>
+sources. We can upload a file here if we
+sources. We can upload a file here if we
+want<00:13:23.839><c> to</c><00:13:24.000><c> or</c><00:13:24.240><c> a</c><00:13:24.480><c> Google</c><00:13:24.720><c> Drive.</c><00:13:25.360><c> We</c><00:13:25.600><c> can</c><00:13:25.839><c> speak</c>
+want to or a Google Drive. We can speak
+want to or a Google Drive. We can speak
+our<00:13:26.320><c> search.</c><00:13:26.959><c> We</c><00:13:27.279><c> can</c><00:13:27.440><c> also</c><00:13:27.760><c> get</c><00:13:27.920><c> into</c><00:13:28.399><c> finance</c>
+our search. We can also get into finance
+our search. We can also get into finance
+and<00:13:29.360><c> there's</c><00:13:29.600><c> a</c><00:13:29.760><c> whole</c><00:13:30.000><c> finance</c><00:13:30.480><c> product</c>
+and there's a whole finance product
+and there's a whole finance product
+that's<00:13:31.120><c> been</c><00:13:31.360><c> built.</c><00:13:31.920><c> Uh</c><00:13:32.240><c> we</c><00:13:32.480><c> can</c><00:13:32.720><c> get</c><00:13:32.880><c> into</c>
+that's been built. Uh we can get into
+that's been built. Uh we can get into
+spaces.<00:13:34.320><c> We</c><00:13:34.480><c> can</c><00:13:34.560><c> get</c><00:13:34.720><c> into</c><00:13:34.959><c> discovery</c><00:13:35.440><c> for</c>
+spaces. We can get into discovery for
+spaces. We can get into discovery for
+sports<00:13:36.000><c> and</c><00:13:36.240><c> culture.</c><00:13:36.800><c> I</c><00:13:37.040><c> think</c><00:13:37.279><c> most</c><00:13:37.600><c> people</c>
+sports and culture. I think most people
+sports and culture. I think most people
+do<00:13:38.320><c> not</c><00:13:38.560><c> realize</c><00:13:39.839><c> how</c><00:13:40.399><c> effectively</c>
+do not realize how effectively
+do not realize how effectively
+perplexity<00:13:42.720><c> is</c><00:13:43.120><c> owning</c><00:13:43.920><c> the</c><00:13:44.320><c> rich</c><00:13:44.720><c> experience</c>
+perplexity is owning the rich experience
+perplexity is owning the rich experience
+on<00:13:45.600><c> the</c><00:13:45.839><c> web.</c><00:13:46.160><c> In</c><00:13:46.399><c> the</c><00:13:46.480><c> meantime,</c><00:13:46.959><c> I</c><00:13:47.120><c> want</c><00:13:47.279><c> to</c>
+on the web. In the meantime, I want to
+on the web. In the meantime, I want to
+talk<00:13:47.600><c> about</c><00:13:47.760><c> how</c><00:13:48.000><c> we</c><00:13:48.160><c> avoid</c><00:13:48.560><c> hallucinations</c>
+talk about how we avoid hallucinations
+talk about how we avoid hallucinations
+with<00:13:49.519><c> perplexity</c><00:13:50.399><c> because</c><00:13:50.639><c> I</c><00:13:50.800><c> get</c><00:13:50.959><c> that</c>
+with perplexity because I get that
+with perplexity because I get that
+question<00:13:51.279><c> a</c><00:13:51.440><c> lot.</c><00:13:51.600><c> If</c><00:13:51.760><c> it's</c><00:13:51.839><c> the</c><00:13:52.079><c> internet,</c>
+question a lot. If it's the internet,
+question a lot. If it's the internet,
+how<00:13:52.800><c> do</c><00:13:52.959><c> we</c><00:13:53.120><c> talk</c><00:13:53.279><c> about</c><00:13:53.440><c> avoiding</c>
+how do we talk about avoiding
+how do we talk about avoiding
+hallucinations?<00:13:54.959><c> Number</c><00:13:55.279><c> one,</c><00:13:55.600><c> never</c><00:13:55.920><c> trust</c>
+hallucinations? Number one, never trust
+hallucinations? Number one, never trust
+single<00:13:56.560><c> source</c><00:13:56.880><c> answers.</c><00:13:57.519><c> Perplexity</c><00:13:58.320><c> will</c>
+single source answers. Perplexity will
+single source answers. Perplexity will
+site<00:13:59.040><c> AI</c><00:13:59.360><c> generated</c><00:13:59.920><c> spam</c><00:14:00.320><c> because</c><00:14:00.560><c> it</c><00:14:00.880><c> cannot</c>
+site AI generated spam because it cannot
+site AI generated spam because it cannot
+tell<00:14:01.519><c> the</c><00:14:01.760><c> difference</c><00:14:02.079><c> between</c><00:14:02.399><c> an</c><00:14:02.560><c> AI</c>
+tell the difference between an AI
+tell the difference between an AI
+generated<00:14:03.440><c> source</c><00:14:03.839><c> and</c><00:14:04.079><c> a</c><00:14:04.320><c> real</c><00:14:04.480><c> source.</c><00:14:05.120><c> And</c>
+generated source and a real source. And
+generated source and a real source. And
+sometimes<00:14:05.600><c> the</c><00:14:05.680><c> AI</c><00:14:06.000><c> generated</c><00:14:06.399><c> source</c><00:14:06.639><c> is</c>
+sometimes the AI generated source is
+sometimes the AI generated source is
+correct<00:14:06.959><c> and</c><00:14:07.199><c> sometimes</c><00:14:07.519><c> it's</c><00:14:07.760><c> wrong.</c><00:14:08.240><c> But</c>
+correct and sometimes it's wrong. But
+correct and sometimes it's wrong. But
+perplexity<00:14:09.040><c> can't</c><00:14:09.199><c> tell</c><00:14:09.360><c> either</c><00:14:09.680><c> way.</c><00:14:09.920><c> If</c>
+perplexity can't tell either way. If
+perplexity can't tell either way. If
+perplexity<00:14:10.880><c> is</c><00:14:11.120><c> only</c><00:14:11.440><c> citing</c><00:14:11.839><c> one</c><00:14:12.079><c> source</c><00:14:12.320><c> and</c>
+perplexity is only citing one source and
+perplexity is only citing one source and
+it's<00:14:12.720><c> an</c><00:14:12.880><c> unfamiliar</c><00:14:13.600><c> blog</c><00:14:13.920><c> or</c><00:14:14.079><c> a</c><00:14:14.320><c> random</c>
+it's an unfamiliar blog or a random
+it's an unfamiliar blog or a random
+LinkedIn<00:14:15.040><c> post,</c><00:14:15.440><c> treat</c><00:14:15.680><c> it</c><00:14:15.760><c> with</c><00:14:16.000><c> skepticism.</c>
+LinkedIn post, treat it with skepticism.
+LinkedIn post, treat it with skepticism.
+You<00:14:17.199><c> want</c><00:14:17.360><c> to</c><00:14:17.519><c> be</c><00:14:17.600><c> in</c><00:14:17.760><c> a</c><00:14:18.000><c> position</c><00:14:18.639><c> where</c><00:14:18.959><c> you</c>
+You want to be in a position where you
+You want to be in a position where you
+can<00:14:19.839><c> verify</c><00:14:20.480><c> the</c><00:14:20.880><c> claim</c><00:14:21.920><c> with</c><00:14:22.480><c> a</c><00:14:22.880><c> wellsourced</c>
+can verify the claim with a wellsourced
+can verify the claim with a wellsourced
+article<00:14:24.639><c> for</c><00:14:24.959><c> a</c><00:14:25.360><c> real</c><00:14:26.160><c> publication</c><00:14:26.720><c> of</c><00:14:27.040><c> some</c>
+article for a real publication of some
+article for a real publication of some
+sort.<00:14:27.839><c> I</c><00:14:28.079><c> would</c><00:14:28.240><c> also</c><00:14:28.639><c> suggest</c><00:14:29.279><c> if</c><00:14:29.519><c> you</c><00:14:29.680><c> are</c>
+sort. I would also suggest if you are
+sort. I would also suggest if you are
+interested<00:14:30.480><c> in</c><00:14:31.199><c> authoritative</c><00:14:31.920><c> sources,</c>
+interested in authoritative sources,
+interested in authoritative sources,
+which<00:14:32.480><c> you</c><00:14:32.639><c> should</c><00:14:32.800><c> be</c><00:14:32.959><c> if</c><00:14:33.120><c> you're</c><00:14:33.199><c> using</c>
+which you should be if you're using
+which you should be if you're using
+perplexity,<00:14:34.320><c> use</c><00:14:34.560><c> another</c><00:14:34.880><c> LLM</c><00:14:35.360><c> as</c><00:14:35.440><c> a</c><00:14:35.600><c> tool.</c>
+perplexity, use another LLM as a tool.
+perplexity, use another LLM as a tool.
+So,<00:14:36.160><c> I</c><00:14:36.320><c> think</c><00:14:36.399><c> I'm</c><00:14:36.639><c> going</c><00:14:36.720><c> to</c><00:14:36.880><c> build</c><00:14:37.279><c> a</c>
+So, I think I'm going to build a
+So, I think I'm going to build a
+cross-checking<00:14:39.199><c> hallucination</c><00:14:40.560><c> prompt</c>
+cross-checking hallucination prompt
+cross-checking hallucination prompt
+intended<00:14:41.839><c> for</c><00:14:42.079><c> chat</c><00:14:42.399><c> GPT</c><00:14:43.040><c> or</c><00:14:43.279><c> Claude</c><00:14:43.920><c> to</c><00:14:44.240><c> go</c>
+intended for chat GPT or Claude to go
+intended for chat GPT or Claude to go
+with<00:14:44.639><c> this</c><00:14:44.880><c> post</c><00:14:45.600><c> because</c><00:14:45.839><c> I</c><00:14:46.000><c> want</c><00:14:46.160><c> you</c><00:14:46.320><c> to</c>
+with this post because I want you to
+with this post because I want you to
+have<00:14:46.639><c> tools</c><00:14:46.959><c> to</c><00:14:47.199><c> basically</c><00:14:47.600><c> say,</c><00:14:47.760><c> "Here's</c><00:14:48.160><c> a</c>
+have tools to basically say, "Here's a
+have tools to basically say, "Here's a
+perplexity<00:14:48.959><c> search</c><00:14:49.279><c> result.</c><00:14:49.839><c> I'm</c><00:14:50.079><c> not</c><00:14:50.240><c> sure</c><00:14:50.399><c> I</c>
+perplexity search result. I'm not sure I
+perplexity search result. I'm not sure I
+believe<00:14:50.880><c> it.</c><00:14:51.360><c> Let's</c><00:14:51.680><c> go</c><00:14:51.760><c> to</c><00:14:51.920><c> an</c><00:14:52.160><c> LLM</c><00:14:53.199><c> and</c><00:14:53.519><c> ask</c>
+believe it. Let's go to an LLM and ask
+believe it. Let's go to an LLM and ask
+the<00:14:54.000><c> LLM</c><00:14:54.480><c> to</c><00:14:54.639><c> do</c><00:14:55.040><c> thinking</c><00:14:55.839><c> critical</c><00:14:56.320><c> thinking</c>
+the LLM to do thinking critical thinking
+the LLM to do thinking critical thinking
+on<00:14:56.880><c> the</c><00:14:57.040><c> post</c><00:14:57.360><c> and</c><00:14:57.680><c> also</c><00:14:58.079><c> internet</c><00:14:58.480><c> searching</c>
+on the post and also internet searching
+on the post and also internet searching
+so<00:14:59.440><c> that</c><00:14:59.600><c> I</c><00:14:59.839><c> can</c><00:15:00.000><c> get</c><00:15:00.079><c> a</c><00:15:00.320><c> second</c><00:15:00.639><c> perspective</c>
+so that I can get a second perspective
+so that I can get a second perspective
+here<00:15:01.519><c> because</c><00:15:01.839><c> that</c><00:15:02.320><c> two</c><00:15:02.720><c> tool</c><00:15:03.120><c> verification</c>
+here because that two tool verification
+here because that two tool verification
+loops<00:15:04.240><c> do</c><00:15:04.560><c> work</c><00:15:05.120><c> and</c><00:15:05.279><c> you</c><00:15:05.519><c> can</c><00:15:05.680><c> use</c><00:15:06.399><c> chat</c><00:15:06.720><c> GPT</c>
+loops do work and you can use chat GPT
+loops do work and you can use chat GPT
+to<00:15:07.360><c> check</c><00:15:07.519><c> perplexity's</c><00:15:08.240><c> work</c><00:15:08.399><c> and</c><00:15:08.560><c> you</c><00:15:08.720><c> can</c>
+to check perplexity's work and you can
+to check perplexity's work and you can
+also<00:15:09.040><c> use</c><00:15:09.279><c> perplexity</c><00:15:09.920><c> to</c><00:15:10.079><c> check</c><00:15:10.480><c> chat</c><00:15:10.880><c> GPT's</c>
+also use perplexity to check chat GPT's
+also use perplexity to check chat GPT's
+work.<00:15:11.600><c> I've</c><00:15:11.839><c> done</c><00:15:12.000><c> that</c><00:15:12.160><c> both</c><00:15:12.399><c> ways.</c><00:15:12.880><c> One</c><00:15:13.040><c> of</c>
+work. I've done that both ways. One of
+work. I've done that both ways. One of
+the<00:15:13.279><c> things</c><00:15:13.440><c> you</c><00:15:13.680><c> have</c><00:15:13.839><c> to</c><00:15:14.000><c> be</c><00:15:14.160><c> especially</c>
+the things you have to be especially
+the things you have to be especially
+careful<00:15:15.839><c> about</c><00:15:16.320><c> is</c><00:15:16.959><c> how</c><00:15:17.680><c> perplexity</c>
+careful about is how perplexity
+careful about is how perplexity
+attributes<00:15:19.199><c> quotes.</c><00:15:19.680><c> So,</c><00:15:20.320><c> perplexity</c>
+attributes quotes. So, perplexity
+attributes quotes. So, perplexity
+describes<00:15:21.600><c> a</c><00:15:21.839><c> quote.</c><00:15:22.639><c> Please</c><00:15:22.959><c> make</c><00:15:23.199><c> sure</c><00:15:23.440><c> you</c>
+describes a quote. Please make sure you
+describes a quote. Please make sure you
+go<00:15:24.320><c> to</c><00:15:24.639><c> the</c><00:15:24.800><c> cited</c><00:15:25.279><c> source</c><00:15:25.760><c> and</c><00:15:26.079><c> search</c><00:15:26.399><c> for</c>
+go to the cited source and search for
+go to the cited source and search for
+the<00:15:26.800><c> phrase.</c><00:15:27.279><c> It</c><00:15:27.600><c> is</c><00:15:27.839><c> often</c><00:15:28.240><c> there,</c><00:15:28.800><c> but</c><00:15:29.120><c> it</c>
+the phrase. It is often there, but it
+the phrase. It is often there, but it
+may<00:15:29.440><c> not</c><00:15:29.680><c> be</c><00:15:29.760><c> there</c><00:15:30.000><c> verbatim.</c><00:15:30.639><c> It</c><00:15:30.800><c> may</c><00:15:30.880><c> be</c><00:15:30.959><c> in</c>
+may not be there verbatim. It may be in
+may not be there verbatim. It may be in
+a<00:15:31.279><c> different</c><00:15:31.519><c> format,</c><00:15:32.320><c> and</c><00:15:32.560><c> it</c><00:15:32.800><c> may</c><00:15:33.040><c> not</c><00:15:33.279><c> have</c>
+a different format, and it may not have
+a different format, and it may not have
+the<00:15:34.000><c> connotation</c><00:15:34.880><c> in</c><00:15:35.279><c> context</c><00:15:36.079><c> that</c>
+the connotation in context that
+the connotation in context that
+perplexity<00:15:37.040><c> is</c><00:15:37.279><c> suggesting</c><00:15:37.680><c> in</c><00:15:37.920><c> its</c>
+perplexity is suggesting in its
+perplexity is suggesting in its
+synthesis.<00:15:39.040><c> You</c><00:15:39.279><c> have</c><00:15:39.440><c> to</c><00:15:39.600><c> be</c><00:15:39.760><c> careful.</c>
+synthesis. You have to be careful.
+synthesis. You have to be careful.
+Finally,<00:15:40.720><c> if</c><00:15:40.959><c> you</c><00:15:41.040><c> have</c><00:15:41.199><c> very</c><00:15:41.519><c> precision</c>
+Finally, if you have very precision
+Finally, if you have very precision
+critical<00:15:42.480><c> queries,</c><00:15:42.959><c> I</c><00:15:43.199><c> would</c><00:15:43.360><c> encourage</c><00:15:43.600><c> you</c>
+critical queries, I would encourage you
+critical queries, I would encourage you
+to<00:15:44.000><c> select</c><00:15:44.399><c> academic</c><00:15:45.040><c> focus,</c><00:15:45.680><c> which</c>
+to select academic focus, which
+to select academic focus, which
+prioritizes<00:15:46.959><c> peer-reviewed</c><00:15:47.680><c> sources</c><00:15:48.000><c> like</c>
+prioritizes peer-reviewed sources like
+prioritizes peer-reviewed sources like
+PubMed<00:15:48.800><c> or</c><00:15:48.959><c> Semantic</c><00:15:49.519><c> Scholar,</c><00:15:50.079><c> and</c><00:15:50.320><c> that</c><00:15:50.560><c> is</c>
+PubMed or Semantic Scholar, and that is
+PubMed or Semantic Scholar, and that is
+because<00:15:51.120><c> that</c><00:15:51.440><c> reduces</c><00:15:51.920><c> the</c><00:15:52.160><c> probability</c>
+because that reduces the probability
+because that reduces the probability
+that<00:15:52.880><c> you're</c><00:15:53.040><c> going</c><00:15:53.120><c> to</c><00:15:53.199><c> get</c><00:15:53.360><c> AI</c><00:15:53.759><c> generated</c>
+that you're going to get AI generated
+that you're going to get AI generated
+spam<00:15:54.639><c> that's</c><00:15:54.800><c> in</c><00:15:54.880><c> the</c><00:15:55.040><c> rag</c><00:15:55.360><c> architecture</c><00:15:55.839><c> that</c>
+spam that's in the rag architecture that
+spam that's in the rag architecture that
+perplexity<00:15:56.720><c> can</c><00:15:56.959><c> access</c><00:15:57.600><c> that</c><00:15:57.839><c> sort</c><00:15:58.000><c> of</c>
+perplexity can access that sort of
+perplexity can access that sort of
+creeps<00:15:58.480><c> in</c><00:15:58.800><c> to</c><00:15:59.040><c> the</c><00:15:59.199><c> answer</c><00:15:59.519><c> set.</c><00:15:59.839><c> If</c><00:16:00.000><c> it's</c>
+creeps in to the answer set. If it's
+creeps in to the answer set. If it's
+focusing<00:16:00.639><c> on</c><00:16:01.040><c> academic</c><00:16:01.920><c> peer-reviewed</c>
+focusing on academic peer-reviewed
+focusing on academic peer-reviewed
+journals,<00:16:03.120><c> it's</c><00:16:03.440><c> less</c><00:16:03.839><c> likely</c><00:16:04.320><c> to</c><00:16:05.040><c> get</c><00:16:05.279><c> stuck</c>
+journals, it's less likely to get stuck
+journals, it's less likely to get stuck
+in<00:16:05.759><c> AI</c><00:16:06.160><c> slop.</c><00:16:06.639><c> The</c><00:16:06.880><c> reality</c><00:16:07.199><c> is</c><00:16:07.440><c> hallucination</c>
+in AI slop. The reality is hallucination
+in AI slop. The reality is hallucination
+is<00:16:08.480><c> absolutely</c><00:16:09.040><c> an</c><00:16:09.279><c> issue</c><00:16:09.600><c> with</c><00:16:09.839><c> perplexity.</c>
+is absolutely an issue with perplexity.
+is absolutely an issue with perplexity.
+If<00:16:10.800><c> you</c><00:16:10.880><c> ask</c><00:16:11.120><c> it</c><00:16:11.279><c> for</c><00:16:11.519><c> verified</c><00:16:12.079><c> links</c><00:16:12.480><c> and</c><00:16:12.720><c> you</c>
+If you ask it for verified links and you
+If you ask it for verified links and you
+go<00:16:13.040><c> back</c><00:16:13.199><c> and</c><00:16:13.360><c> check</c><00:16:13.600><c> the</c><00:16:13.759><c> verified</c><00:16:14.240><c> links,</c>
+go back and check the verified links,
+go back and check the verified links,
+many<00:16:15.199><c> of</c><00:16:15.360><c> them</c><00:16:15.519><c> will</c><00:16:15.839><c> work,</c><00:16:16.320><c> but</c><00:16:16.639><c> not</c><00:16:16.880><c> all</c><00:16:17.040><c> of</c>
+many of them will work, but not all of
+many of them will work, but not all of
+them.<00:16:17.519><c> And</c><00:16:17.680><c> so</c><00:16:17.839><c> there</c><00:16:18.079><c> is</c><00:16:18.240><c> really</c><00:16:18.639><c> no</c>
+them. And so there is really no
+them. And so there is really no
+substitute<00:16:19.440><c> for</c><00:16:19.680><c> that</c><00:16:19.920><c> double</c><00:16:20.240><c> LLM</c><00:16:20.800><c> check.</c>
+substitute for that double LLM check.
+substitute for that double LLM check.
+And<00:16:21.279><c> finally,</c><00:16:21.680><c> for</c><00:16:21.920><c> you</c><00:16:22.079><c> as</c><00:16:22.320><c> a</c><00:16:22.480><c> human</c><00:16:23.040><c> owning</c>
+And finally, for you as a human owning
+And finally, for you as a human owning
+the<00:16:24.079><c> results.</c><00:16:24.720><c> Last</c><00:16:24.959><c> but</c><00:16:25.120><c> not</c><00:16:25.279><c> least,</c><00:16:25.600><c> I</c><00:16:25.759><c> want</c>
+the results. Last but not least, I want
+the results. Last but not least, I want
+to<00:16:26.000><c> leave</c><00:16:26.160><c> you</c><00:16:26.240><c> with</c><00:16:26.399><c> a</c><00:16:26.639><c> few</c><00:16:26.800><c> thoughts</c><00:16:27.040><c> on</c><00:16:27.360><c> why</c>
+to leave you with a few thoughts on why
+to leave you with a few thoughts on why
+why<00:16:28.079><c> we</c><00:16:28.240><c> use</c><00:16:28.399><c> perplexity</c><00:16:29.040><c> doll.</c><00:16:29.360><c> Why</c><00:16:29.519><c> does</c>
+why we use perplexity doll. Why does
+why we use perplexity doll. Why does
+something<00:16:29.920><c> like</c><00:16:30.160><c> this</c><00:16:30.399><c> matter</c><00:16:30.720><c> in</c><00:16:30.880><c> a</c><00:16:31.120><c> world</c>
+something like this matter in a world
+something like this matter in a world
+where<00:16:31.440><c> we</c><00:16:31.680><c> have</c><00:16:31.920><c> Google</c><00:16:32.160><c> and</c><00:16:32.320><c> we</c><00:16:32.480><c> have</c><00:16:32.639><c> Chad</c>
+where we have Google and we have Chad
+where we have Google and we have Chad
+GPT?<00:16:33.440><c> Isn't</c><00:16:33.759><c> this</c><00:16:34.000><c> just</c><00:16:34.240><c> the</c><00:16:34.639><c> awkward</c><00:16:35.440><c> in</c>
+GPT? Isn't this just the awkward in
+GPT? Isn't this just the awkward in
+between<00:16:36.160><c> space?</c><00:16:37.040><c> The</c><00:16:37.360><c> answer</c><00:16:37.600><c> is</c><00:16:37.839><c> no.</c><00:16:38.320><c> I</c><00:16:38.560><c> think</c>
+between space? The answer is no. I think
+between space? The answer is no. I think
+perplexity<00:16:39.360><c> is</c><00:16:39.600><c> relevant</c><00:16:40.320><c> because</c><00:16:40.560><c> of</c><00:16:40.720><c> the</c>
+perplexity is relevant because of the
+perplexity is relevant because of the
+knowledge<00:16:41.279><c> recency</c><00:16:41.920><c> problem.</c><00:16:42.639><c> LLM</c><00:16:43.120><c> training</c>
+knowledge recency problem. LLM training
+knowledge recency problem. LLM training
+data<00:16:43.839><c> gets</c><00:16:44.160><c> out</c><00:16:44.320><c> of</c><00:16:44.480><c> date</c><00:16:44.800><c> too</c><00:16:45.040><c> fast.</c><00:16:45.680><c> AI</c>
+data gets out of date too fast. AI
+data gets out of date too fast. AI
+knowledge<00:16:46.480><c> is</c><00:16:46.880><c> adding</c><00:16:47.360><c> to</c><00:16:47.759><c> our</c><00:16:48.079><c> understanding</c>
+knowledge is adding to our understanding
+knowledge is adding to our understanding
+of<00:16:48.639><c> the</c><00:16:48.880><c> world</c><00:16:49.040><c> very</c><00:16:49.360><c> quickly.</c><00:16:49.759><c> Humans</c><00:16:50.079><c> are</c>
+of the world very quickly. Humans are
+of the world very quickly. Humans are
+writing<00:16:50.560><c> very</c><00:16:50.800><c> quickly</c><00:16:51.040><c> on</c><00:16:51.279><c> the</c><00:16:51.440><c> internet</c>
+writing very quickly on the internet
+writing very quickly on the internet
+despite<00:16:52.720><c> the</c><00:16:53.040><c> issues</c><00:16:53.360><c> with</c><00:16:53.680><c> hallucination</c>
+despite the issues with hallucination
+despite the issues with hallucination
+and<00:16:54.880><c> the</c><00:16:55.120><c> risks</c><00:16:55.519><c> with</c><00:16:55.759><c> searching</c><00:16:56.079><c> on</c><00:16:56.240><c> the</c><00:16:56.399><c> open</c>
+and the risks with searching on the open
+and the risks with searching on the open
+internet.<00:16:57.360><c> There</c><00:16:57.600><c> is</c><00:16:57.759><c> no</c><00:16:58.079><c> substitute</c><00:16:58.800><c> if</c><00:16:59.040><c> you</c>
+internet. There is no substitute if you
+internet. There is no substitute if you
+want<00:16:59.440><c> recent</c><00:16:59.839><c> information.</c><00:17:00.720><c> You</c><00:17:00.959><c> can</c>
+want recent information. You can
+want recent information. You can
+actually<00:17:01.519><c> update</c><00:17:01.839><c> a</c><00:17:02.000><c> rag</c><00:17:02.399><c> knowledge</c><00:17:02.720><c> base</c>
+actually update a rag knowledge base
+actually update a rag knowledge base
+like<00:17:03.199><c> perplexity</c><00:17:03.839><c> has</c><00:17:04.240><c> multiple</c><00:17:04.799><c> times</c><00:17:05.039><c> a</c><00:17:05.280><c> day</c>
+like perplexity has multiple times a day
+like perplexity has multiple times a day
+and<00:17:05.679><c> perplexity</c><00:17:06.240><c> has</c><00:17:06.400><c> gotten</c><00:17:06.720><c> much</c><00:17:06.959><c> better</c><00:17:07.120><c> at</c>
+and perplexity has gotten much better at
+and perplexity has gotten much better at
+that<00:17:07.439><c> in</c><00:17:07.600><c> the</c><00:17:07.760><c> last</c><00:17:07.919><c> few</c><00:17:08.160><c> months.</c><00:17:08.720><c> Whereas</c>
+that in the last few months. Whereas
+that in the last few months. Whereas
+Chad<00:17:09.280><c> GPT</c><00:17:09.760><c> treats</c><00:17:10.079><c> current</c><00:17:10.400><c> information</c><00:17:11.120><c> as</c>
+Chad GPT treats current information as
+Chad GPT treats current information as
+not<00:17:11.839><c> a</c><00:17:12.079><c> part</c><00:17:12.160><c> of</c><00:17:12.240><c> its</c><00:17:12.480><c> core</c><00:17:12.799><c> parametric</c><00:17:13.439><c> model.</c>
+not a part of its core parametric model.
+not a part of its core parametric model.
+That's<00:17:13.919><c> one</c><00:17:14.079><c> of</c><00:17:14.160><c> the</c><00:17:14.400><c> fundamental</c>
+That's one of the fundamental
+That's one of the fundamental
+limitations<00:17:15.839><c> of</c><00:17:16.160><c> current</c><00:17:16.559><c> large</c><00:17:16.880><c> language</c>
+limitations of current large language
+limitations of current large language
+models.<00:17:17.919><c> It</c><00:17:18.160><c> does</c><00:17:18.319><c> not</c><00:17:18.480><c> update.</c><00:17:19.039><c> But</c>
+models. It does not update. But
+models. It does not update. But
+perplexity<00:17:20.000><c> it's</c><00:17:20.240><c> like</c><00:17:20.400><c> you</c><00:17:20.559><c> can</c><00:17:20.720><c> update</c><00:17:21.039><c> the</c>
+perplexity it's like you can update the
+perplexity it's like you can update the
+foundation<00:17:21.679><c> every</c><00:17:21.919><c> day.</c><00:17:22.240><c> The</c><00:17:22.480><c> other</c><00:17:22.720><c> thing</c>
+foundation every day. The other thing
+foundation every day. The other thing
+that<00:17:23.039><c> I</c><00:17:23.280><c> think</c><00:17:23.439><c> really</c><00:17:23.760><c> matters</c><00:17:24.160><c> as</c><00:17:24.400><c> we</c><00:17:24.640><c> talk</c>
+that I think really matters as we talk
+that I think really matters as we talk
+about<00:17:25.760><c> hallucinations</c><00:17:27.039><c> and</c><00:17:27.360><c> the</c><00:17:27.600><c> importance</c>
+about hallucinations and the importance
+about hallucinations and the importance
+of<00:17:28.079><c> good</c><00:17:28.400><c> information</c><00:17:28.720><c> in</c><00:17:28.960><c> the</c><00:17:29.039><c> age</c><00:17:29.200><c> of</c><00:17:29.360><c> AI</c>
+of good information in the age of AI
+of good information in the age of AI
+perplexity<00:17:30.799><c> may</c><00:17:31.039><c> not</c><00:17:31.200><c> be</c><00:17:31.360><c> perfect</c><00:17:31.919><c> but</c><00:17:32.080><c> it</c><00:17:32.320><c> has</c>
+perplexity may not be perfect but it has
+perplexity may not be perfect but it has
+an<00:17:32.720><c> accountability</c><00:17:33.600><c> architecture.</c><00:17:34.880><c> Rag</c>
+an accountability architecture. Rag
+an accountability architecture. Rag
+allows<00:17:36.000><c> you</c><00:17:36.160><c> to</c><00:17:36.400><c> create</c><00:17:36.799><c> verifiable</c><00:17:37.679><c> chains</c>
+allows you to create verifiable chains
+allows you to create verifiable chains
+of<00:17:38.240><c> reasoning</c><00:17:38.880><c> through</c><00:17:39.120><c> transparent</c>
+of reasoning through transparent
+of reasoning through transparent
+sourcing<00:17:40.160><c> and</c><00:17:40.559><c> everything</c><00:17:41.039><c> you</c><00:17:41.360><c> see</c><00:17:41.600><c> on</c>
+sourcing and everything you see on
+sourcing and everything you see on
+perplexity<00:17:42.640><c> is</c><00:17:43.039><c> sourced</c><00:17:43.919><c> and</c><00:17:44.080><c> you</c><00:17:44.240><c> may</c>
+perplexity is sourced and you may
+perplexity is sourced and you may
+disagree<00:17:44.960><c> with</c><00:17:45.120><c> the</c><00:17:45.280><c> source.</c><00:17:45.679><c> You</c><00:17:45.840><c> may</c><00:17:46.000><c> have</c>
+disagree with the source. You may have
+disagree with the source. You may have
+concerns<00:17:46.640><c> about</c><00:17:46.880><c> the</c><00:17:47.120><c> source</c><00:17:47.440><c> but</c><00:17:47.679><c> you</c><00:17:47.919><c> can</c>
+concerns about the source but you can
+concerns about the source but you can
+see<00:17:48.400><c> it.</c><00:17:48.960><c> That</c><00:17:49.200><c> is</c><00:17:49.360><c> not</c><00:17:49.440><c> always</c><00:17:49.679><c> true</c><00:17:49.919><c> with</c>
+see it. That is not always true with
+see it. That is not always true with
+LLMs<00:17:50.720><c> and</c><00:17:50.880><c> that's</c><00:17:51.039><c> a</c><00:17:51.280><c> big</c><00:17:51.440><c> deal.</c><00:17:51.760><c> Finally,</c><00:17:52.080><c> I</c>
+LLMs and that's a big deal. Finally, I
+LLMs and that's a big deal. Finally, I
+want<00:17:52.400><c> to</c><00:17:52.559><c> call</c><00:17:52.720><c> out</c><00:17:53.280><c> that</c><00:17:53.679><c> this</c><00:17:53.919><c> gets</c><00:17:54.160><c> a</c><00:17:54.320><c> tiny</c>
+want to call out that this gets a tiny
+want to call out that this gets a tiny
+bit<00:17:54.799><c> philosophical,</c><00:17:55.440><c> but</c><00:17:55.760><c> stick</c><00:17:55.919><c> with</c><00:17:56.160><c> me.</c>
+bit philosophical, but stick with me.
+bit philosophical, but stick with me.
+Chat<00:17:57.039><c> GPT</c><00:17:57.919><c> and</c><00:17:58.400><c> perplexity</c><00:17:59.200><c> have</c><00:17:59.520><c> different</c>
+Chat GPT and perplexity have different
+Chat GPT and perplexity have different
+epistemological<00:18:01.039><c> architectures.</c><00:18:01.760><c> Big</c>
+epistemological architectures. Big
+epistemological architectures. Big
+words,<00:18:02.320><c> but</c><00:18:02.559><c> really</c><00:18:02.799><c> what</c><00:18:02.960><c> it</c><00:18:03.120><c> means</c><00:18:03.360><c> is</c><00:18:04.080><c> LLMs</c>
+words, but really what it means is LLMs
+words, but really what it means is LLMs
+will<00:18:04.880><c> excel</c><00:18:05.200><c> in</c><00:18:05.520><c> cognitive</c><00:18:06.080><c> intelligence</c>
+will excel in cognitive intelligence
+will excel in cognitive intelligence
+like<00:18:06.799><c> reasoning</c><00:18:07.200><c> and</c><00:18:07.440><c> language</c><00:18:07.840><c> generation.</c>
+like reasoning and language generation.
+like reasoning and language generation.
+And<00:18:08.799><c> a</c><00:18:09.039><c> rag</c><00:18:09.360><c> architecture</c><00:18:10.240><c> is</c><00:18:10.480><c> actually</c>
+And a rag architecture is actually
+And a rag architecture is actually
+focused<00:18:11.120><c> more</c><00:18:11.280><c> on</c><00:18:11.520><c> fetching</c><00:18:12.000><c> facts</c><00:18:12.559><c> and</c><00:18:12.880><c> doing</c>
+focused more on fetching facts and doing
+focused more on fetching facts and doing
+so<00:18:13.360><c> precisely.</c><00:18:14.000><c> So,</c><00:18:14.160><c> chat</c><00:18:14.480><c> GPT</c><00:18:15.039><c> will</c><00:18:15.280><c> say,</c><00:18:15.679><c> I</c>
+so precisely. So, chat GPT will say, I
+so precisely. So, chat GPT will say, I
+believe<00:18:16.160><c> this</c><00:18:16.400><c> is</c><00:18:16.559><c> true</c><00:18:16.720><c> based</c><00:18:16.960><c> on</c><00:18:17.120><c> patterns.</c>
+believe this is true based on patterns.
+believe this is true based on patterns.
+That<00:18:17.760><c> is</c><00:18:17.919><c> one</c><00:18:18.080><c> of</c><00:18:18.080><c> the</c><00:18:18.240><c> roots</c><00:18:18.559><c> of</c>
+That is one of the roots of
+That is one of the roots of
+hallucination<00:18:19.360><c> in</c><00:18:19.600><c> LLMs.</c><00:18:20.480><c> They</c><00:18:20.640><c> want</c><00:18:20.799><c> to</c><00:18:20.880><c> be</c>
+hallucination in LLMs. They want to be
+hallucination in LLMs. They want to be
+helpful.<00:18:21.360><c> They</c><00:18:21.520><c> have</c><00:18:21.679><c> parametric</c><00:18:22.240><c> patterns</c>
+helpful. They have parametric patterns
+helpful. They have parametric patterns
+in<00:18:22.799><c> their</c><00:18:22.960><c> data</c><00:18:23.200><c> and</c><00:18:23.360><c> they</c><00:18:23.520><c> just</c><00:18:23.679><c> do</c><00:18:23.840><c> that</c>
+in their data and they just do that
+in their data and they just do that
+instead<00:18:24.320><c> of</c><00:18:24.480><c> searching</c><00:18:24.880><c> or</c><00:18:25.120><c> using</c><00:18:25.360><c> tools.</c>
+instead of searching or using tools.
+instead of searching or using tools.
+Perplexity<00:18:26.880><c> says</c><00:18:27.600><c> these</c><00:18:27.919><c> sources</c><00:18:28.480><c> claim</c>
+Perplexity says these sources claim
+Perplexity says these sources claim
+this.<00:18:29.200><c> I</c><00:18:29.440><c> found</c><00:18:29.600><c> the</c><00:18:29.760><c> sources.</c><00:18:30.160><c> Here</c><00:18:30.320><c> are</c><00:18:30.480><c> the</c>
+this. I found the sources. Here are the
+this. I found the sources. Here are the
+sources.<00:18:31.200><c> You</c><00:18:31.440><c> figure</c><00:18:31.679><c> it</c><00:18:31.840><c> out.</c><00:18:32.240><c> As</c><00:18:32.480><c> LLM</c><00:18:33.039><c> get</c>
+sources. You figure it out. As LLM get
+sources. You figure it out. As LLM get
+better<00:18:33.360><c> at</c><00:18:33.600><c> sounding</c><00:18:34.080><c> confident,</c><00:18:34.720><c> we</c><00:18:35.039><c> need</c>
+better at sounding confident, we need
+better at sounding confident, we need
+something<00:18:35.600><c> like</c><00:18:35.919><c> perplexity</c><00:18:36.559><c> more</c><00:18:37.200><c> because</c>
+something like perplexity more because
+something like perplexity more because
+the<00:18:37.760><c> gap</c><00:18:38.080><c> between</c><00:18:38.720><c> fluency</c><00:18:39.520><c> and</c><00:18:39.840><c> factuality</c>
+the gap between fluency and factuality
+the gap between fluency and factuality
+widens.<00:18:40.960><c> Shad</c><00:18:41.200><c> GPT</c><00:18:41.679><c> sounds</c><00:18:41.919><c> more</c><00:18:42.080><c> and</c><00:18:42.240><c> more</c>
+widens. Shad GPT sounds more and more
+widens. Shad GPT sounds more and more
+fluent,<00:18:42.880><c> but</c><00:18:43.120><c> it</c><00:18:43.360><c> may</c><00:18:43.520><c> not</c><00:18:43.679><c> be</c><00:18:43.919><c> factual</c><00:18:44.400><c> and</c><00:18:44.559><c> we</c>
+fluent, but it may not be factual and we
+fluent, but it may not be factual and we
+may<00:18:44.880><c> not</c><00:18:45.039><c> be</c><00:18:45.120><c> able</c><00:18:45.280><c> to</c><00:18:45.360><c> tell.</c><00:18:45.600><c> So,</c><00:18:45.679><c> I</c><00:18:45.919><c> think</c>
+may not be able to tell. So, I think
+may not be able to tell. So, I think
+that<00:18:46.320><c> sounds</c><00:18:46.559><c> philosophical,</c><00:18:47.200><c> but</c><00:18:47.360><c> I</c><00:18:47.520><c> think</c>
+that sounds philosophical, but I think
+that sounds philosophical, but I think
+perplexity<00:18:48.320><c> occupies</c><00:18:48.799><c> a</c><00:18:49.120><c> really</c><00:18:49.440><c> important</c>
+perplexity occupies a really important
+perplexity occupies a really important
+place<00:18:50.160><c> culturally</c><00:18:51.280><c> as</c><00:18:51.600><c> AI</c><00:18:52.080><c> continues</c><00:18:52.480><c> to</c><00:18:52.640><c> get</c>
+place culturally as AI continues to get
+place culturally as AI continues to get
+smarter<00:18:53.520><c> because</c><00:18:53.840><c> it</c><00:18:54.080><c> allows</c><00:18:54.400><c> us</c><00:18:54.640><c> to</c><00:18:55.039><c> actually</c>
+smarter because it allows us to actually
+smarter because it allows us to actually
+have<00:18:56.080><c> an</c><00:18:56.480><c> AI</c><00:18:56.880><c> native</c><00:18:57.280><c> approach</c><00:18:57.919><c> to</c><00:18:58.320><c> looking</c><00:18:58.799><c> at</c>
+have an AI native approach to looking at
+have an AI native approach to looking at
+facts,<00:19:00.320><c> not</c><00:19:00.559><c> just</c><00:19:00.799><c> patterns.</c><00:19:01.280><c> And</c><00:19:01.440><c> I</c><00:19:01.600><c> think</c>
+facts, not just patterns. And I think
+facts, not just patterns. And I think
+that's<00:19:01.919><c> a</c><00:19:02.080><c> really</c><00:19:02.240><c> big</c><00:19:02.480><c> deal.</c><00:19:02.960><c> Let's</c><00:19:03.200><c> go</c><00:19:03.440><c> back</c>
+that's a really big deal. Let's go back
+that's a really big deal. Let's go back
+and<00:19:04.160><c> check</c><00:19:04.640><c> on</c><00:19:04.960><c> our</c><00:19:05.600><c> perplexity</c><00:19:06.640><c> search.</c><00:19:07.200><c> Here</c>
+and check on our perplexity search. Here
+and check on our perplexity search. Here
+we<00:19:07.600><c> are.</c><00:19:07.919><c> I</c><00:19:08.160><c> never</c><00:19:08.320><c> would</c><00:19:08.559><c> have</c><00:19:08.720><c> found</c><00:19:08.880><c> this.</c><00:19:09.120><c> I</c>
+we are. I never would have found this. I
+we are. I never would have found this. I
+did<00:19:09.440><c> not</c><00:19:09.600><c> plan</c><00:19:09.919><c> this.</c><00:19:10.400><c> I'm</c><00:19:10.720><c> discovering</c>
+did not plan this. I'm discovering
+did not plan this. I'm discovering
+Korea's<00:19:11.760><c> clawed</c><00:19:12.160><c> code</c><00:19:12.480><c> culture.</c><00:19:13.200><c> I</c><00:19:13.440><c> get</c><00:19:13.600><c> lots</c>
+Korea's clawed code culture. I get lots
+Korea's clawed code culture. I get lots
+of<00:19:14.000><c> facts</c><00:19:14.320><c> on</c><00:19:14.559><c> this</c><00:19:14.799><c> and</c><00:19:15.039><c> I</c><00:19:15.200><c> can</c><00:19:15.360><c> see</c><00:19:15.520><c> at</c><00:19:15.679><c> a</c>
+of facts on this and I can see at a
+of facts on this and I can see at a
+glance<00:19:16.400><c> that</c><00:19:16.720><c> they're</c><00:19:16.960><c> useful,</c><00:19:17.280><c> right?</c>
+glance that they're useful, right?
+glance that they're useful, right?
+Anthropic<00:19:18.160><c> is</c><00:19:18.320><c> a</c><00:19:18.480><c> reputable</c><00:19:18.960><c> source.</c><00:19:19.360><c> I</c><00:19:19.520><c> can</c>
+Anthropic is a reputable source. I can
+Anthropic is a reputable source. I can
+go<00:19:19.760><c> through,</c><00:19:19.919><c> I</c><00:19:20.080><c> can</c><00:19:20.160><c> see</c><00:19:20.320><c> Reuters.</c><00:19:21.200><c> This</c>
+go through, I can see Reuters. This
+go through, I can see Reuters. This
+looks<00:19:21.520><c> like</c><00:19:21.679><c> a</c><00:19:21.840><c> pretty</c><00:19:22.080><c> well</c><00:19:22.320><c> sourced</c>
+looks like a pretty well sourced
+looks like a pretty well sourced
+approach.<00:19:22.880><c> I'd</c><00:19:23.039><c> have</c><00:19:23.200><c> to</c><00:19:23.280><c> dig</c><00:19:23.440><c> in,</c><00:19:23.600><c> but</c><00:19:23.919><c> like</c>
+approach. I'd have to dig in, but like
+approach. I'd have to dig in, but like
+it<00:19:24.480><c> looks</c><00:19:24.720><c> super</c><00:19:25.039><c> interesting.</c><00:19:25.520><c> I'm</c><00:19:25.919><c> looking</c>
+it looks super interesting. I'm looking
+it looks super interesting. I'm looking
+at<00:19:26.880><c> uh</c><00:19:27.120><c> the</c><00:19:27.440><c> interaction</c><00:19:27.919><c> between</c><00:19:28.160><c> Korea's</c>
+at uh the interaction between Korea's
+at uh the interaction between Korea's
+work<00:19:28.880><c> culture</c><00:19:29.200><c> and</c><00:19:29.440><c> claude</c><00:19:29.840><c> code</c><00:19:30.080><c> and</c><00:19:30.320><c> how</c>
+work culture and claude code and how
+work culture and claude code and how
+that<00:19:30.720><c> works.</c><00:19:31.280><c> This</c><00:19:31.440><c> is</c><00:19:31.600><c> a</c><00:19:31.840><c> super</c><00:19:32.160><c> fascinating</c>
+that works. This is a super fascinating
+that works. This is a super fascinating
+example<00:19:33.280><c> of</c><00:19:33.600><c> something</c><00:19:33.840><c> that</c><00:19:34.080><c> you</c><00:19:34.320><c> would</c>
+example of something that you would
+example of something that you would
+never<00:19:34.880><c> ever</c><00:19:34.960><c> ever</c><00:19:35.520><c> get</c><00:19:35.679><c> to</c><00:19:35.840><c> in</c><00:19:36.000><c> JPT.</c><00:19:37.039><c> I</c><00:19:37.360><c> could</c>
+never ever ever get to in JPT. I could
+never ever ever get to in JPT. I could
+not<00:19:37.760><c> have</c><00:19:37.919><c> gotten</c><00:19:38.160><c> this</c><00:19:38.480><c> report</c><00:19:38.799><c> no</c><00:19:38.880><c> matter</c>
+not have gotten this report no matter
+not have gotten this report no matter
+how<00:19:39.440><c> good</c><00:19:39.679><c> my</c><00:19:39.919><c> prompting</c><00:19:40.400><c> was</c><00:19:41.120><c> because</c><00:19:41.440><c> this</c>
+how good my prompting was because this
+how good my prompting was because this
+report<00:19:42.240><c> depends</c><00:19:43.200><c> so</c><00:19:43.600><c> heavily</c><00:19:44.559><c> on</c><00:19:45.360><c> finding</c>
+report depends so heavily on finding
+report depends so heavily on finding
+facts<00:19:46.400><c> on</c><00:19:46.640><c> the</c><00:19:46.880><c> internet.</c><00:19:47.520><c> And</c><00:19:47.679><c> this</c><00:19:47.840><c> is</c><00:19:48.000><c> why</c>
+facts on the internet. And this is why
+facts on the internet. And this is why
+perplexity<00:19:48.880><c> is</c><00:19:49.039><c> such</c><00:19:49.200><c> a</c><00:19:49.360><c> joy</c><00:19:49.600><c> to</c><00:19:49.760><c> use</c><00:19:49.919><c> and</c><00:19:50.160><c> why</c>
+perplexity is such a joy to use and why
+perplexity is such a joy to use and why
+I<00:19:50.559><c> use</c><00:19:50.720><c> it</c><00:19:50.960><c> so</c><00:19:51.200><c> much.</c><00:19:51.679><c> It's</c><00:19:52.000><c> just</c><00:19:52.320><c> fantastic</c>
+I use it so much. It's just fantastic
+I use it so much. It's just fantastic
+for<00:19:53.280><c> discovering</c><00:19:54.080><c> corners</c><00:19:54.559><c> of</c><00:19:54.720><c> the</c><00:19:54.880><c> world</c>
+for discovering corners of the world
+for discovering corners of the world
+that<00:19:55.600><c> you</c><00:19:55.760><c> didn't</c><00:19:56.000><c> expect.</c><00:19:56.640><c> I</c><00:19:56.880><c> hope</c><00:19:56.960><c> that</c><00:19:57.200><c> this</c>
+that you didn't expect. I hope that this
+that you didn't expect. I hope that this
+has<00:19:57.520><c> helped</c><00:19:57.679><c> you</c><00:19:57.840><c> to</c><00:19:58.080><c> understand</c><00:19:58.799><c> why</c>
+has helped you to understand why
+has helped you to understand why
+perplexity<00:19:59.840><c> matters,</c><00:20:00.559><c> why</c><00:20:00.799><c> we</c><00:20:01.039><c> should</c><00:20:01.200><c> have</c>
+perplexity matters, why we should have
+perplexity matters, why we should have
+it.<00:20:01.760><c> I'll</c><00:20:02.080><c> capture</c><00:20:02.400><c> up</c><00:20:02.640><c> those</c><00:20:02.880><c> nonobvious</c>
+it. I'll capture up those nonobvious
+it. I'll capture up those nonobvious
+prompting<00:20:04.640><c> techniques.</c><00:20:04.960><c> I'll</c><00:20:05.280><c> suggest</c><00:20:05.600><c> some</c>
+prompting techniques. I'll suggest some
+prompting techniques. I'll suggest some
+specific<00:20:06.240><c> starter</c><00:20:06.640><c> prompts</c><00:20:06.960><c> for</c><00:20:07.120><c> you.</c><00:20:07.520><c> My</c>
+specific starter prompts for you. My
+specific starter prompts for you. My
+goal<00:20:07.919><c> here</c><00:20:08.080><c> is</c><00:20:08.240><c> for</c><00:20:08.400><c> you</c><00:20:08.480><c> to</c><00:20:08.559><c> feel</c><00:20:08.720><c> like</c><00:20:08.880><c> the</c>
+goal here is for you to feel like the
+goal here is for you to feel like the
+world<00:20:09.120><c> is</c><00:20:09.280><c> your</c><00:20:09.440><c> oyster</c><00:20:09.840><c> with</c><00:20:10.000><c> perplexity</c><00:20:10.799><c> and</c>
+world is your oyster with perplexity and
+world is your oyster with perplexity and
+to<00:20:11.280><c> have</c><00:20:11.440><c> a</c><00:20:11.600><c> sense</c><00:20:11.840><c> of</c><00:20:12.000><c> how</c><00:20:12.400><c> important</c><00:20:12.720><c> it</c><00:20:12.960><c> is</c>
+to have a sense of how important it is
+to have a sense of how important it is
+and<00:20:13.280><c> how</c><00:20:13.520><c> you</c><00:20:13.679><c> can</c><00:20:13.840><c> use</c><00:20:14.000><c> it</c><00:20:14.480><c> to</c><00:20:14.880><c> be</c><00:20:15.120><c> more</c>
+and how you can use it to be more
+and how you can use it to be more
+effective<00:20:15.679><c> in</c><00:20:15.919><c> your</c><00:20:16.080><c> search.</c><00:20:16.400><c> It</c><00:20:16.559><c> is</c><00:20:16.640><c> not</c><00:20:16.799><c> at</c>
+effective in your search. It is not at
+effective in your search. It is not at
+all<00:20:17.039><c> the</c><00:20:17.200><c> same</c><00:20:17.280><c> as</c><00:20:17.520><c> chat</c><00:20:17.760><c> GPT</c><00:20:18.240><c> search</c><00:20:18.480><c> and</c><00:20:18.640><c> I</c>
+all the same as chat GPT search and I
+all the same as chat GPT search and I
+hope<00:20:18.880><c> that</c><00:20:19.039><c> you</c><00:20:19.120><c> can</c><00:20:19.280><c> see</c><00:20:19.440><c> that.</c><00:20:19.840><c> Best</c><00:20:20.080><c> of</c><00:20:20.240><c> luck</c>
+hope that you can see that. Best of luck
+hope that you can see that. Best of luck
+with<00:20:20.720><c> uh</c><00:20:20.880><c> search</c><00:20:21.120><c> in</c><00:20:21.280><c> the</c>

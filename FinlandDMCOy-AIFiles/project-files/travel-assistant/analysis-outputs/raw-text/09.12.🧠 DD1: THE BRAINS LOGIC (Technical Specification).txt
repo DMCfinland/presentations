@@ -1,0 +1,261 @@
+🧠 DD1: THE BRAINS LOGIC (Technical Specification)
+
+Moduuli: Intelligence Core (Master, Mood, Chef) Versio: 1.0 (Detailed Spec) Kohderyhmä: Lead Developers, AI Architects, Data Scientists
+
+1. JOHDANTO: THE ORCHESTRATION MODEL
+
+Järjestelmän älykkyys ei asu yhdessä mallissa, vaan se on jaettu Orkestraattori-malliin (Orchestrator Pattern). Tämä estää hallusinaatiot ja mahdollistaa modulaarisen kehityksen.
+
+Pääperiaate:
+
+- Master Agent on ainoa, joka kommunikoi ulkomaailman (User/Staff) kanssa.
+
+- Specialist Agents (Mood, Chef) ovat taustapalveluita (Microservices), jotka palauttavat JSON-dataa Masterin pyynnöstä.
+
+2. MASTER AGENT (The Concierge)
+
+Tämä on "Front End" tekoälylle. Se on tilallinen (Stateful) ja kontekstitietoinen.
+
+A. System Prompt Architecture (Persoona & Rajat)
+
+Master Agentin käytös määritellään dynaamisella System Promptilla, joka rakennetaan lennosta (Prompt Engineering).
+
+Promptin rakenne (Pseudo-code):
+
+Markdown
+
+### IDENTITY & TONE
+
+You are the [BRAND_NAME] Personal Assistant.
+
+- Tone: [BRAND_TONE] (e.g., "Warm, Savolainen dialect" OR "Formal, Concise").
+
+- Language: Detect user language. If user speaks Italian, reply in Italian, but log internal thoughts in English.
+
+### CORE OBJECTIVES
+
+1. Proactively enhance the guest's stay (Upsell relevant experiences).
+
+2. Solve problems immediately (concierge services).
+
+3. Ensure safety (check Safety Bulletin before advising on nature).
+
+### THE "BACKPACK" (Current Context)
+
+- User: [USER_NAME]
+
+- Location: [ROOM_NUMBER] inside [RESORT_NAME]
+
+- Weather Now: [WEATHER_DATA] (e.g., Rain, 3mm/h) -> If raining, be empathetic.
+
+- Next Activity: [NEXT_ITEM] at [TIME] -> Remind if close.
+
+### TOOL USE PROTOCOL (STRICT)
+
+1. DO NOT hallucinate prices or availability.
+
+2. If asked for a recommendation -> Call `Tool_SuggestionChef`.
+
+3. If asked to book -> Call `Tool_Booker`.
+
+4. If safety/emergency -> Check `Safety_DB`. If info is old (>4h) or missing -> Call `Human_Handover`.
+
+### INTERNAL MONOLOGUE
+
+Before answering, think step-by-step:
+
+1. Identify Intent (Buying? Complaining? Just chatting?).
+
+2. Check Mood (Is user angry? -> Stop selling).
+
+3. Check Gap (Is there time for an activity?).
+
+4. Formulate response.
+
+B. Gap Finder Logic (Cronjob Trigger)
+
+Tämä on logiikka, jolla Master Agent "herää" ilman asiakkaan viestiä.
+
+Trigger: Cronjob runs every 30min. Execution Flow:
+
+1.  Check Status: Onko Session_State aktiivinen (Loma käynnissä)?
+
+2.  Check Time: Onko kello 08:00 - 22:00? (Älä herätä yöllä).
+
+3.  Check Shadow Schedule:
+
+    - Hae Itinerary-taulu.
+
+    - Onko seuraavan 3 tunnin sisällä "Valkoista tilaa" (Vapaata)?
+
+4.  Decision Gate (Internal Monologue):
+
+    - Input: Gap=True, Weather=Sunny, Mood_Energy=High.
+
+    - Logic: "Asiakkaalla on vapaata, sää on upea ja energia korkealla. Häirintäkynnys ylittyy."
+
+    - Action: Lähetä viesti: "Hei Matti! Aurinko tuli esiin. Maistuisiko iltapäiväkahvit terassilla?"
+
+3. MOOD EVALUATOR (The Psychologist)
+
+Tämä on Async Event Listener. Se ei hidasta chattia, vaan analysoi viestivirtaa taustalla.
+
+A. Clustering Strategy (Profiilit)
+
+Jotta voimme käyttää tilastollista matematiikkaa, jokainen uniikki asiakas "pakotetaan" lähimpään Arkkityyppiin (Cluster).
+
+- Cluster ID: CL_05 (esim. "German_Active_Family").
+
+- Määritys: Alussa perustuu "Hard Dataan" (Kansalaisuus + Seurue). Datan kertyessä Evaluator voi vaihtaa klusteria.
+
+  - Esim: Jos "Family" alkaa käydä baareissa -> Vaihda klusteriin "Party_Parents".
+
+B. The Mood Matrix (JSON Output)
+
+Tämä on se tiedosto, jota Suggestion Chef lukee. Se päivittyy jokaisen viestin jälkeen.
+
+JSON
+
+{
+
+"user_id": "u12345",
+
+"cluster_id": "CL_05_German_Family",
+
+"last_update": "2025-12-10T14:05:00Z",
+
+"dimensions": {
+
+"energy": 40, // 0 (Zombie) - 100 (Duracell)
+
+"hunger": 85, // Laskennallinen: Aika edellisestä ruokailusta
+
+"social_battery": 60, // 0 (Erakko) - 100 (Party)
+
+"luxury_affinity": 30, // 0 (Budjetti) - 100 (Öky)
+
+"nature_rawness": 80, // 0 (Mukavuus) - 100 (Sissi/Eräjorma)
+
+"safety_need": 90, // 0 (Extreme) - 100 (Turvallisuushakuinen)
+
+"foodie_focus": 20 // 0 (Polttoainetta) - 100 (Gourmet)
+
+},
+
+"tags": [
+
+{"tag": "hate_smoke", "weight": 1.0}, // Vältä savusaunaa/nuotiota
+
+{"tag": "love_history", "weight": 0.8}
+
+],
+
+"patience_meter": 100 // 0-100. Jos <30, aktivoi "Silent Mode" (ei lisämyyntiä)
+
+}
+
+4. SUGGESTION CHEF (The Salesman)
+
+Tämä on järjestelmän "kovin" logiikka. Se yhdistää Matematiikan (Ranking) ja Tekoälyn (Pitching).
+
+A. The Funnel Logic (Suppilo)
+
+Chef ei arvo. Se suodattaa.
+
+Vaihe 1: Hard Filters (SQL Query)
+
+- Karsi pois tuotteet, jotka ovat:
+
+  - Kiinni (Open_Hours).
+
+  - Täynnä (Availability < 1).
+
+  - Liian kaukana (Distance > User_Mobility).
+
+Vaihe 2: The Scoring Formula (Matematiikka) Jäljelle jääneille ~50 tuotteelle lasketaan pisteet.
+
+Final_Score = (Base_Match * W1) + (Weather_Fit * W2) + (Value_Score * W3) + (Margin_Boost * W4) + (Novelty_Penalty)
+
+- Base_Match: (100 - Etäisyys 7D-avaruudessa Asiakkaan ja Tuotteen välillä).
+
+- Weather_Fit:
+
+  - Hae Weather_Service: sade mm/h.
+
+  - Jos tuote on Outdoor JA Asiakas ei ole Sissi (Nature_Rawness < 80) -> Massiivinen miinus.
+
+- Value_Score: Hinta-laatusuhde (NPS jaettuna hinnalla). Budjettimatkaajalle tämä on tärkein painoarvo (W3).
+
+- Margin_Boost: Jos kate > 30%, lisää +10 pistettä (Business Logic).
+
+- Novelty_Penalty: Jos asiakas on jo ostanut tämän -> Score -100 (Ellei tuote ole "High Repeatability" kuten Sauna).
+
+Vaihe 3: The Wildcard (Exploration)
+
+- Epsilon-Greedy: 80% kerroista valitse paras Score. 20% kerroista valitse satunnainen "Musta Hevonen" listan sijoilta 5-10.
+
+- Tarkoitus: Kerätä dataa vähemmän tunnetuista tuotteista.
+
+B. A/B Testing & Sales Hooks
+
+Kun tuote on valittu (esim. "Husky Safari"), Chef päättää, miten se myydään.
+
+Hook Database: Tuotteella on useita myyntikulmia.
+
+1.  Hook_A_Family: "Turvallinen ja hauska..."
+
+2.  Hook_B_Adventure: "Vauhdin hurmaa..."
+
+3.  Hook_C_Nature: "Hiljaisuutta koirien kanssa..."
+
+Valinta-algoritmi (Champion/Challenger):
+
+- Chef katsoo asiakkaan klusteria (German_Active_Family).
+
+- Champion: Mikä Hook on toiminut tälle ryhmälle parhaiten? (Näytä 80%).
+
+- Challenger: Valitse joku toinen Hook testiin (Näytä 20%).
+
+- Output: Master Agent saa ohjeen: "Suosittele Huskya. Käytä Hookia A (Family)."
+
+5. ANALYTICS & OPTIMIZER (Jatkuva Oppiminen)
+
+Jotta "Aivot" viisastuvat, tarvitaan Optimizer Loop.
+
+A. Data Schema (Mitä tallennetaan?)
+
+Data Lakeen menee jokainen interaktio (Event).
+
+Event_Table:
+
+- Session_ID
+
+- Recommendation_ID (Mitä suositeltiin?)
+
+- Context_Snapshot (Sää, Mood, Kellonaika suositushetkellä).
+
+- Hook_Used (A, B vai C?).
+
+- Outcome (Ignored / Clicked / Booked).
+
+- Explicit_Feedback (Peukku ylös/alas, Emoji-slider).
+
+B. The Optimization Job (Yöajot)
+
+Joka yö Optimizer-skripti ajaa analyysin:
+
+1.  Laske Konversiot: Miten Hook_A pärjäsi Hook_B:tä vastaan klusterissa German_Family?
+
+2.  Päivitä Painot: Jos sää oli huono, mutta ihmiset ostivat silti Huskya -> Laske Weather_Sensitivity -kerrointa tälle klusterille (he ovatkin Sissejä!).
+
+3.  Update Best Sellers: Nosta suosittujen tuotteiden Base_Score -arvoa.
+
+6. TEKNISET RAJOITTEET & VAATIMUKSET
+
+1.  Viive (Latency): Chef-kyselyn on tapahduttava alle 800ms:ssä. Tämä vaatii, että RAG-indeksit ovat muistissa (In-Memory Vector DB, esim. Redis tai Pinecone).
+
+2.  Fallbacks: Jos Chef ei vastaa, Master Agentilla on "Hätälista" (Geneeriset suositukset: Ravintola, Kävely).
+
+3.  Manual Override: Staff Dashboardilla on "God Mode" -nappi, jolla voidaan pakottaa tuote (esim. "Lohikeitto") ohi algoritmin kaikille käyttäjille tietyllä alueella (Push Notification).
+
+Tämä dokumentti on nyt "The Brains" -moduulin tekninen määrittely. Se sisältää kaiken tarvittavan, jotta koodari voi rakentaa logiikan ilman arvailua.

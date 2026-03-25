@@ -1,0 +1,1097 @@
+One<00:00:00.320><c> of</c><00:00:00.400><c> the</c><00:00:00.640><c> interesting</c><00:00:01.040><c> things</c><00:00:01.199><c> about</c><00:00:01.439><c> this</c>
+One of the interesting things about this
+One of the interesting things about this
+age<00:00:01.920><c> of</c><00:00:02.080><c> AI</c><00:00:02.399><c> is</c><00:00:02.560><c> that</c><00:00:02.800><c> trust</c><00:00:03.120><c> is</c><00:00:03.360><c> hard</c><00:00:03.520><c> to</c>
+age of AI is that trust is hard to
+age of AI is that trust is hard to
+scale.<00:00:04.160><c> In</c><00:00:04.480><c> classical</c><00:00:05.040><c> economic</c><00:00:05.600><c> theory,</c><00:00:06.400><c> you</c>
+scale. In classical economic theory, you
+scale. In classical economic theory, you
+can<00:00:06.720><c> establish</c><00:00:07.200><c> trust</c><00:00:07.759><c> and</c><00:00:08.080><c> scale</c><00:00:08.320><c> it</c><00:00:08.559><c> through</c>
+can establish trust and scale it through
+can establish trust and scale it through
+transactions<00:00:10.000><c> because</c><00:00:10.880><c> each</c><00:00:11.200><c> side</c><00:00:11.599><c> knows</c>
+transactions because each side knows
+transactions because each side knows
+what<00:00:12.160><c> the</c><00:00:12.400><c> other</c><00:00:12.559><c> side</c><00:00:12.880><c> gets.</c><00:00:13.759><c> That's</c><00:00:14.160><c> not</c>
+what the other side gets. That's not
+what the other side gets. That's not
+true<00:00:14.880><c> with</c><00:00:15.200><c> AI.</c><00:00:15.759><c> It's</c><00:00:16.000><c> not</c><00:00:16.240><c> true</c><00:00:16.480><c> with</c><00:00:16.720><c> large</c>
+true with AI. It's not true with large
+true with AI. It's not true with large
+language<00:00:17.440><c> models.</c><00:00:18.080><c> And</c><00:00:18.160><c> I</c><00:00:18.400><c> will</c><00:00:18.560><c> tell</c><00:00:18.720><c> you</c><00:00:18.960><c> why</c>
+language models. And I will tell you why
+language models. And I will tell you why
+it's<00:00:19.520><c> not</c><00:00:19.680><c> true.</c><00:00:20.160><c> You</c><00:00:20.560><c> can't</c><00:00:20.960><c> see</c><00:00:21.680><c> what</c><00:00:22.000><c> the</c>
+it's not true. You can't see what the
+it's not true. You can't see what the
+intelligence<00:00:22.960><c> is</c><00:00:23.359><c> on</c><00:00:23.519><c> the</c><00:00:23.760><c> other</c><00:00:23.920><c> side</c><00:00:24.160><c> when</c>
+intelligence is on the other side when
+intelligence is on the other side when
+you<00:00:24.560><c> buy</c><00:00:24.720><c> it.</c><00:00:25.199><c> This</c><00:00:25.439><c> has</c><00:00:25.680><c> caused</c><00:00:26.080><c> a</c><00:00:26.400><c> host</c><00:00:26.640><c> of</c>
+you buy it. This has caused a host of
+you buy it. This has caused a host of
+issues.<00:00:27.599><c> Just</c><00:00:27.840><c> this</c><00:00:28.080><c> past</c><00:00:28.400><c> week</c><00:00:28.640><c> or</c><00:00:28.800><c> two,</c>
+issues. Just this past week or two,
+issues. Just this past week or two,
+there<00:00:29.519><c> was</c><00:00:29.679><c> a</c><00:00:29.920><c> big</c><00:00:30.160><c> kurfuffle</c><00:00:30.880><c> over</c><00:00:31.840><c> message</c>
+there was a big kurfuffle over message
+there was a big kurfuffle over message
+limits<00:00:32.960><c> and</c><00:00:33.280><c> cursor</c><00:00:34.000><c> and</c><00:00:34.239><c> what</c><00:00:34.480><c> cursor's</c>
+limits and cursor and what cursor's
+limits and cursor and what cursor's
+pricing<00:00:35.360><c> was</c><00:00:35.520><c> going</c><00:00:35.600><c> to</c><00:00:35.680><c> be</c><00:00:35.840><c> and</c><00:00:36.000><c> how</c><00:00:36.160><c> that</c><00:00:36.320><c> was</c>
+pricing was going to be and how that was
+pricing was going to be and how that was
+going<00:00:36.559><c> to</c><00:00:36.640><c> change</c><00:00:36.800><c> and</c><00:00:37.040><c> developers</c><00:00:37.520><c> got</c>
+going to change and developers got
+going to change and developers got
+upset.<00:00:38.399><c> Then</c><00:00:38.640><c> after</c><00:00:38.879><c> that,</c><00:00:39.280><c> I</c><00:00:39.520><c> saw</c><00:00:39.760><c> people</c>
+upset. Then after that, I saw people
+upset. Then after that, I saw people
+getting<00:00:40.239><c> upset</c><00:00:40.559><c> about</c><00:00:40.800><c> Claude</c><00:00:41.120><c> Code</c><00:00:41.360><c> and</c>
+getting upset about Claude Code and
+getting upset about Claude Code and
+claiming<00:00:41.840><c> that</c><00:00:42.000><c> Claude</c><00:00:42.399><c> Code</c><00:00:42.559><c> had</c><00:00:42.719><c> somehow</c>
+claiming that Claude Code had somehow
+claiming that Claude Code had somehow
+degraded<00:00:43.600><c> behind</c><00:00:43.920><c> the</c><00:00:44.079><c> scenes</c><00:00:44.399><c> or</c><00:00:44.640><c> wasn't</c>
+degraded behind the scenes or wasn't
+degraded behind the scenes or wasn't
+counting<00:00:45.360><c> message</c><00:00:45.760><c> counts</c><00:00:46.079><c> properly</c><00:00:46.559><c> because</c>
+counting message counts properly because
+counting message counts properly because
+it<00:00:47.039><c> wasn't</c><00:00:47.360><c> transparent.</c><00:00:48.000><c> I</c><00:00:48.320><c> saw</c><00:00:48.559><c> people</c>
+it wasn't transparent. I saw people
+it wasn't transparent. I saw people
+asking<00:00:49.520><c> Sam</c><00:00:49.840><c> Alman</c><00:00:50.480><c> out</c><00:00:50.719><c> of</c><00:00:50.800><c> OpenAI,</c><00:00:51.680><c> please,</c>
+asking Sam Alman out of OpenAI, please,
+asking Sam Alman out of OpenAI, please,
+please,<00:00:52.480><c> please</c><00:00:53.120><c> show</c><00:00:53.440><c> me</c><00:00:54.000><c> message</c><00:00:54.399><c> count</c><00:00:54.800><c> so</c>
+please, please show me message count so
+please, please show me message count so
+I<00:00:55.199><c> can</c><00:00:55.360><c> see</c><00:00:55.520><c> how</c><00:00:55.760><c> close</c><00:00:56.000><c> I</c><00:00:56.239><c> get</c><00:00:56.320><c> to</c><00:00:56.480><c> my</c><00:00:56.719><c> limit.</c>
+I can see how close I get to my limit.
+I can see how close I get to my limit.
+And<00:00:57.440><c> it's</c><00:00:57.680><c> not</c><00:00:57.920><c> just</c><00:00:58.079><c> about</c><00:00:58.320><c> counting</c>
+And it's not just about counting
+And it's not just about counting
+messages.<00:00:59.199><c> That's</c><00:00:59.440><c> actually</c><00:00:59.680><c> very</c><00:01:00.000><c> solvable.</c>
+messages. That's actually very solvable.
+messages. That's actually very solvable.
+It's<00:01:01.199><c> something</c><00:01:01.680><c> deeper</c><00:01:02.079><c> underneath</c><00:01:02.960><c> where</c>
+It's something deeper underneath where
+It's something deeper underneath where
+model<00:01:03.680><c> makers</c><00:01:04.080><c> incentives</c><00:01:04.879><c> are</c><00:01:05.119><c> not</c><00:01:05.360><c> aligned</c>
+model makers incentives are not aligned
+model makers incentives are not aligned
+with<00:01:06.240><c> us,</c><00:01:06.560><c> the</c><00:01:06.799><c> people</c><00:01:06.960><c> who</c><00:01:07.119><c> are</c><00:01:07.280><c> using</c><00:01:07.520><c> them.</c>
+with us, the people who are using them.
+with us, the people who are using them.
+They're<00:01:08.640><c> absolutely</c><00:01:09.360><c> incentivized</c><00:01:10.159><c> to</c><00:01:10.400><c> make</c>
+They're absolutely incentivized to make
+They're absolutely incentivized to make
+big<00:01:10.960><c> claims</c><00:01:11.360><c> about</c><00:01:11.600><c> being</c><00:01:11.840><c> the</c><00:01:12.080><c> best</c><00:01:12.240><c> in</c><00:01:12.400><c> the</c>
+big claims about being the best in the
+big claims about being the best in the
+world<00:01:12.720><c> because</c><00:01:13.040><c> that</c><00:01:13.280><c> unlocks</c><00:01:13.840><c> press</c>
+world because that unlocks press
+world because that unlocks press
+releases,<00:01:14.799><c> stories,</c><00:01:15.119><c> and</c><00:01:15.360><c> dollars.</c><00:01:15.920><c> We</c>
+releases, stories, and dollars. We
+releases, stories, and dollars. We
+explored<00:01:16.720><c> this</c><00:01:17.040><c> when</c><00:01:17.280><c> we</c><00:01:17.520><c> talked</c><00:01:17.759><c> about</c><00:01:18.000><c> Gro</c><00:01:18.400><c> 4</c>
+explored this when we talked about Gro 4
+explored this when we talked about Gro 4
+and<00:01:18.880><c> their</c><00:01:19.119><c> claims</c><00:01:19.680><c> around</c><00:01:20.240><c> test</c><00:01:20.560><c> results</c>
+and their claims around test results
+and their claims around test results
+that<00:01:21.200><c> weren't</c><00:01:21.439><c> borne</c><00:01:21.680><c> out</c><00:01:21.840><c> when</c><00:01:22.159><c> actual</c><00:01:22.560><c> users</c>
+that weren't borne out when actual users
+that weren't borne out when actual users
+used<00:01:23.280><c> the</c><00:01:23.520><c> product.</c><00:01:24.240><c> There</c><00:01:24.479><c> is</c><00:01:24.640><c> a</c><00:01:24.880><c> wider</c><00:01:25.360><c> trust</c>
+used the product. There is a wider trust
+used the product. There is a wider trust
+gap<00:01:26.159><c> across</c><00:01:26.560><c> AI</c><00:01:26.960><c> that</c><00:01:27.200><c> I</c><00:01:27.360><c> want</c><00:01:27.439><c> to</c><00:01:27.600><c> talk</c><00:01:27.840><c> about</c>
+gap across AI that I want to talk about
+gap across AI that I want to talk about
+today.<00:01:28.479><c> And</c><00:01:28.640><c> I</c><00:01:28.799><c> want</c><00:01:28.960><c> to</c><00:01:29.040><c> give</c><00:01:29.280><c> you</c><00:01:29.520><c> some</c>
+today. And I want to give you some
+today. And I want to give you some
+specific<00:01:30.479><c> huristics</c><00:01:31.280><c> or</c><00:01:31.680><c> rules</c><00:01:32.000><c> of</c><00:01:32.159><c> thumb</c>
+specific huristics or rules of thumb
+specific huristics or rules of thumb
+that<00:01:33.119><c> I</c><00:01:33.360><c> use</c><00:01:33.600><c> when</c><00:01:33.759><c> I'm</c><00:01:34.000><c> evaluating</c><00:01:34.640><c> claims</c>
+that I use when I'm evaluating claims
+that I use when I'm evaluating claims
+from<00:01:35.439><c> specific</c><00:01:36.000><c> AI</c><00:01:36.479><c> labs</c><00:01:37.040><c> because</c><00:01:37.680><c> they</c><00:01:38.079><c> have</c>
+from specific AI labs because they have
+from specific AI labs because they have
+a<00:01:38.720><c> different</c><00:01:39.280><c> trust</c><00:01:39.840><c> fingerprint.</c><00:01:40.640><c> They're</c>
+a different trust fingerprint. They're
+a different trust fingerprint. They're
+not<00:01:41.040><c> all</c><00:01:41.200><c> the</c><00:01:41.439><c> same.</c><00:01:41.920><c> In</c><00:01:42.159><c> order</c><00:01:42.240><c> to</c><00:01:42.479><c> get</c><00:01:42.640><c> into</c>
+not all the same. In order to get into
+not all the same. In order to get into
+that<00:01:43.200><c> story,</c><00:01:43.680><c> I</c><00:01:43.920><c> want</c><00:01:44.000><c> to</c><00:01:44.159><c> give</c><00:01:44.320><c> you</c><00:01:44.479><c> the</c>
+that story, I want to give you the
+that story, I want to give you the
+latest<00:01:45.280><c> example</c><00:01:46.000><c> of</c><00:01:46.479><c> a</c><00:01:46.799><c> somewhat</c><00:01:47.280><c> sketchy</c>
+latest example of a somewhat sketchy
+latest example of a somewhat sketchy
+claim<00:01:48.399><c> from</c><00:01:48.799><c> a</c><00:01:49.040><c> major</c><00:01:49.360><c> model</c><00:01:49.759><c> maker.</c><00:01:50.240><c> It</c>
+claim from a major model maker. It
+claim from a major model maker. It
+happened<00:01:50.880><c> just</c><00:01:51.119><c> this</c><00:01:51.439><c> weekend</c><00:01:51.920><c> and</c><00:01:52.159><c> it's</c><00:01:52.320><c> the</c>
+happened just this weekend and it's the
+happened just this weekend and it's the
+International<00:01:53.439><c> Math</c><00:01:53.759><c> Olympiad</c><00:01:54.880><c> gold</c><00:01:55.200><c> medal</c>
+International Math Olympiad gold medal
+International Math Olympiad gold medal
+claim<00:01:56.479><c> from</c><00:01:56.799><c> OpenAI.</c><00:01:57.680><c> The</c><00:01:57.920><c> implied</c>
+claim from OpenAI. The implied
+claim from OpenAI. The implied
+probability<00:01:59.200><c> of</c><00:01:59.520><c> this</c><00:01:59.840><c> happening</c><00:02:00.159><c> at</c><00:02:00.479><c> all</c><00:02:01.040><c> was</c>
+probability of this happening at all was
+probability of this happening at all was
+around<00:02:02.000><c> 20%</c><00:02:02.560><c> on</c><00:02:02.799><c> Poly</c><00:02:03.119><c> Market.</c><00:02:03.520><c> So,</c><00:02:03.759><c> you</c><00:02:04.000><c> could</c>
+around 20% on Poly Market. So, you could
+around 20% on Poly Market. So, you could
+consider<00:02:04.640><c> this</c><00:02:05.040><c> even</c><00:02:05.360><c> by</c><00:02:05.600><c> LLM</c><00:02:06.240><c> standards</c><00:02:06.960><c> a</c>
+consider this even by LLM standards a
+consider this even by LLM standards a
+big<00:02:07.520><c> surprise.</c><00:02:08.319><c> And</c><00:02:08.479><c> the</c><00:02:08.720><c> tech</c><00:02:09.039><c> community</c>
+big surprise. And the tech community
+big surprise. And the tech community
+reacted<00:02:10.640><c> with</c><00:02:11.039><c> enormous</c><00:02:11.599><c> excitement.</c>
+reacted with enormous excitement.
+reacted with enormous excitement.
+Everyone<00:02:12.720><c> was</c><00:02:12.879><c> like,</c><00:02:13.040><c> "This</c><00:02:13.280><c> is</c><00:02:13.520><c> incredible.</c>
+Everyone was like, "This is incredible.
+Everyone was like, "This is incredible.
+It's<00:02:14.319><c> even</c><00:02:14.560><c> more</c><00:02:14.800><c> incredible</c><00:02:15.440><c> because</c><00:02:16.080><c> OpenAI</c>
+It's even more incredible because OpenAI
+It's even more incredible because OpenAI
+claimed<00:02:17.200><c> that</c><00:02:17.440><c> it</c><00:02:17.680><c> was</c><00:02:17.840><c> just</c><00:02:18.160><c> a</c><00:02:18.400><c> large</c>
+claimed that it was just a large
+claimed that it was just a large
+language<00:02:19.200><c> model.</c><00:02:19.760><c> It</c><00:02:20.080><c> was</c><00:02:20.239><c> not</c><00:02:20.480><c> using</c><00:02:20.959><c> tools.</c>
+language model. It was not using tools.
+language model. It was not using tools.
+So,<00:02:21.440><c> it</c><00:02:21.680><c> didn't</c><00:02:21.840><c> open</c><00:02:22.080><c> up</c><00:02:22.160><c> a</c><00:02:22.400><c> Python</c><00:02:22.800><c> notebook</c>
+So, it didn't open up a Python notebook
+So, it didn't open up a Python notebook
+to<00:02:23.440><c> solve</c><00:02:23.680><c> this.</c><00:02:24.239><c> And</c><00:02:24.400><c> that</c><00:02:24.560><c> it</c><00:02:24.800><c> was</c><00:02:24.959><c> given</c><00:02:25.599><c> the</c>
+to solve this. And that it was given the
+to solve this. And that it was given the
+exact<00:02:26.959><c> same</c><00:02:27.680><c> time</c><00:02:28.160><c> constraints</c><00:02:28.879><c> as</c><00:02:29.200><c> a</c>
+exact same time constraints as a
+exact same time constraints as a
+student.<00:02:29.920><c> And</c><00:02:30.160><c> so,</c><00:02:30.560><c> they</c><00:02:30.879><c> were</c><00:02:31.040><c> given</c><00:02:31.599><c> 100</c>
+student. And so, they were given 100
+student. And so, they were given 100
+minutes<00:02:32.319><c> to</c><00:02:32.560><c> solve</c><00:02:32.800><c> the</c><00:02:33.040><c> problem.</c><00:02:33.680><c> and</c><00:02:34.160><c> the</c>
+minutes to solve the problem. and the
+minutes to solve the problem. and the
+machine<00:02:35.200><c> was</c><00:02:35.440><c> able</c><00:02:35.680><c> to</c><00:02:35.760><c> do</c><00:02:35.920><c> it</c><00:02:36.080><c> in</c><00:02:36.319><c> that</c><00:02:36.560><c> time</c>
+machine was able to do it in that time
+machine was able to do it in that time
+and<00:02:37.120><c> was</c><00:02:37.280><c> able</c><00:02:37.440><c> to</c><00:02:37.519><c> write</c><00:02:37.760><c> out</c><00:02:37.920><c> a</c><00:02:38.080><c> proof</c><00:02:38.560><c> that</c>
+and was able to write out a proof that
+and was able to write out a proof that
+was<00:02:39.040><c> then</c><00:02:39.760><c> validated</c><00:02:40.319><c> by</c><00:02:40.640><c> multiple</c>
+was then validated by multiple
+was then validated by multiple
+independent<00:02:41.680><c> mathematicians.</c><00:02:42.640><c> At</c><00:02:42.959><c> first</c>
+independent mathematicians. At first
+independent mathematicians. At first
+glance,<00:02:44.080><c> this</c><00:02:44.400><c> sounds</c><00:02:44.959><c> like</c><00:02:45.120><c> a</c><00:02:45.360><c> legitimate</c>
+glance, this sounds like a legitimate
+glance, this sounds like a legitimate
+story.<00:02:46.640><c> And</c><00:02:46.800><c> the</c><00:02:46.959><c> gold</c><00:02:47.200><c> medal,</c><00:02:47.519><c> by</c><00:02:47.680><c> the</c><00:02:47.840><c> way,</c>
+story. And the gold medal, by the way,
+story. And the gold medal, by the way,
+is<00:02:48.400><c> for</c><00:02:48.720><c> answering</c><00:02:49.200><c> five</c><00:02:49.519><c> of</c><00:02:49.680><c> the</c><00:02:49.840><c> six</c>
+is for answering five of the six
+is for answering five of the six
+International<00:02:50.720><c> Math</c><00:02:51.040><c> Olympiad</c><00:02:51.680><c> questions</c>
+International Math Olympiad questions
+International Math Olympiad questions
+correctly.<00:02:52.800><c> And</c><00:02:52.959><c> if</c><00:02:53.120><c> you</c><00:02:53.360><c> are</c><00:02:53.519><c> wondering</c><00:02:53.920><c> how</c>
+correctly. And if you are wondering how
+correctly. And if you are wondering how
+hard<00:02:54.319><c> they</c><00:02:54.560><c> are,</c><00:02:54.879><c> I</c><00:02:55.120><c> looked</c><00:02:55.280><c> at</c><00:02:55.440><c> them</c><00:02:55.599><c> and</c><00:02:55.840><c> got</c>
+hard they are, I looked at them and got
+hard they are, I looked at them and got
+a<00:02:56.239><c> headache.</c><00:02:56.800><c> They</c><00:02:57.040><c> are</c><00:02:57.280><c> ridiculously</c><00:02:58.080><c> hard.</c>
+a headache. They are ridiculously hard.
+a headache. They are ridiculously hard.
+Very<00:02:59.040><c> very</c><00:02:59.360><c> few</c><00:02:59.760><c> students</c><00:03:00.239><c> in</c><00:03:00.480><c> the</c><00:03:00.720><c> world</c><00:03:01.280><c> get</c>
+Very very few students in the world get
+Very very few students in the world get
+a<00:03:01.680><c> gold</c><00:03:01.920><c> medal</c><00:03:02.159><c> at</c><00:03:02.319><c> the</c><00:03:02.480><c> International</c><00:03:02.959><c> Math</c>
+a gold medal at the International Math
+a gold medal at the International Math
+Olympiad.<00:03:04.000><c> They</c><00:03:04.400><c> change</c><00:03:04.720><c> up</c><00:03:04.959><c> the</c><00:03:05.280><c> questions</c>
+Olympiad. They change up the questions
+Olympiad. They change up the questions
+every<00:03:06.400><c> single</c><00:03:06.720><c> year.</c><00:03:06.959><c> So</c><00:03:07.120><c> these</c><00:03:07.360><c> are</c><00:03:07.519><c> not</c><00:03:07.680><c> last</c>
+every single year. So these are not last
+every single year. So these are not last
+year's<00:03:08.480><c> questions.</c><00:03:09.440><c> So</c><00:03:09.680><c> you</c><00:03:10.000><c> could</c><00:03:10.319><c> not</c><00:03:11.040><c> train</c>
+year's questions. So you could not train
+year's questions. So you could not train
+on<00:03:11.680><c> these</c><00:03:12.000><c> questions</c><00:03:12.480><c> previously.</c><00:03:12.959><c> These</c>
+on these questions previously. These
+on these questions previously. These
+were<00:03:13.360><c> novel</c><00:03:13.680><c> to</c><00:03:13.840><c> the</c><00:03:14.000><c> LLM</c><00:03:14.560><c> and</c><00:03:14.800><c> everyone</c><00:03:15.200><c> else</c>
+were novel to the LLM and everyone else
+were novel to the LLM and everyone else
+in<00:03:15.599><c> the</c><00:03:15.680><c> world.</c><00:03:16.239><c> That</c><00:03:16.480><c> was</c><00:03:16.560><c> the</c><00:03:16.879><c> claim.</c><00:03:17.599><c> Now</c><00:03:18.239><c> we</c>
+in the world. That was the claim. Now we
+in the world. That was the claim. Now we
+dive<00:03:18.720><c> into</c><00:03:18.959><c> the</c><00:03:19.200><c> rest</c><00:03:19.360><c> of</c><00:03:19.440><c> the</c><00:03:19.680><c> story.</c><00:03:20.239><c> It</c>
+dive into the rest of the story. It
+dive into the rest of the story. It
+transpires<00:03:21.599><c> that</c><00:03:22.000><c> there</c><00:03:22.239><c> is</c><00:03:22.480><c> a</c><00:03:22.720><c> marking</c><00:03:23.200><c> guide</c>
+transpires that there is a marking guide
+transpires that there is a marking guide
+from<00:03:24.000><c> the</c><00:03:24.239><c> International</c><00:03:24.720><c> Math</c><00:03:25.040><c> olympiad</c>
+from the International Math olympiad
+from the International Math olympiad
+organization<00:03:26.319><c> for</c><00:03:26.560><c> the</c><00:03:26.800><c> six</c><00:03:27.120><c> questions</c><00:03:27.519><c> that</c>
+organization for the six questions that
+organization for the six questions that
+were<00:03:28.000><c> posed</c><00:03:28.319><c> to</c><00:03:28.560><c> students.</c><00:03:29.200><c> That</c><00:03:29.440><c> marking</c>
+were posed to students. That marking
+were posed to students. That marking
+guide<00:03:30.159><c> is</c><00:03:30.480><c> private.</c><00:03:31.280><c> It's</c><00:03:31.519><c> only</c><00:03:31.920><c> available</c><00:03:32.400><c> to</c>
+guide is private. It's only available to
+guide is private. It's only available to
+qualified<00:03:33.440><c> examiners.</c><00:03:34.400><c> And</c><00:03:34.640><c> because</c><00:03:35.040><c> OpenAI</c>
+qualified examiners. And because OpenAI
+passion and the startup fit over $300
+passion and the startup fit over $300
+million.<00:14:03.199><c> I</c><00:14:03.279><c> don't</c><00:14:03.360><c> know</c><00:14:03.440><c> if</c><00:14:03.519><c> I</c><00:14:03.680><c> could</c><00:14:03.839><c> do</c>
+million. I don't know if I could do
+million. I don't know if I could do
+that.<00:14:04.160><c> I</c><00:14:04.320><c> don't</c><00:14:04.320><c> know</c><00:14:04.399><c> if</c><00:14:04.480><c> a</c><00:14:04.639><c> lot</c><00:14:04.800><c> of</c><00:14:04.880><c> people</c>
+that. I don't know if a lot of people
+that. I don't know if a lot of people
+could<00:14:05.199><c> do</c><00:14:05.279><c> that.</c><00:14:05.519><c> they</c><00:14:05.839><c> must</c><00:14:06.079><c> believe</c>
+could do that. they must believe
+could do that. they must believe
+profoundly<00:14:07.440><c> in</c><00:14:07.680><c> the</c><00:14:07.839><c> open</c><00:14:08.160><c> AI</c><00:14:08.480><c> vision</c><00:14:09.040><c> because</c>
+profoundly in the open AI vision because
+profoundly in the open AI vision because
+Sam<00:14:09.760><c> was</c><00:14:10.000><c> very</c><00:14:10.240><c> open.</c><00:14:10.560><c> He</c><00:14:10.720><c> didn't</c><00:14:10.880><c> match</c><00:14:11.040><c> it.</c>
+Sam was very open. He didn't match it.
+Sam was very open. He didn't match it.
+Like<00:14:11.440><c> they're</c><00:14:11.600><c> not</c><00:14:11.680><c> getting</c><00:14:11.839><c> paid</c><00:14:12.079><c> $300</c>
+Like they're not getting paid $300
+Like they're not getting paid $300
+million<00:14:12.800><c> by</c><00:14:13.040><c> open</c><00:14:13.360><c> AI.</c><00:14:14.000><c> And</c><00:14:14.160><c> so</c><00:14:14.639><c> in</c><00:14:14.880><c> that</c>
+million by open AI. And so in that
+million by open AI. And so in that
+world,<00:14:15.680><c> I</c><00:14:15.920><c> think</c><00:14:16.079><c> my</c><00:14:16.399><c> question</c><00:14:16.639><c> is</c><00:14:17.120><c> can</c><00:14:17.360><c> money</c>
+world, I think my question is can money
+world, I think my question is can money
+buy<00:14:18.480><c> the</c><00:14:18.800><c> kind</c><00:14:19.040><c> of</c><00:14:19.279><c> team</c><00:14:19.920><c> that</c><00:14:20.240><c> you</c><00:14:20.560><c> need</c><00:14:21.040><c> to</c>
+buy the kind of team that you need to
+buy the kind of team that you need to
+build<00:14:21.760><c> super</c><00:14:22.079><c> intelligence</c><00:14:22.639><c> if</c><00:14:22.880><c> that's</c><00:14:23.120><c> even</c>
+build super intelligence if that's even
+build super intelligence if that's even
+possible.<00:14:24.000><c> I</c><00:14:24.240><c> don't</c><00:14:24.399><c> know.</c><00:14:24.639><c> We're</c><00:14:24.800><c> all</c><00:14:24.959><c> going</c>
+possible. I don't know. We're all going
+possible. I don't know. We're all going
+to<00:14:25.120><c> find</c><00:14:25.279><c> out.</c><00:14:25.600><c> But</c><00:14:25.760><c> that's</c><00:14:26.240><c> classically</c><00:14:27.279><c> Mark</c>
+to find out. But that's classically Mark
+to find out. But that's classically Mark
+to<00:14:28.079><c> try</c><00:14:28.240><c> and</c><00:14:28.399><c> build</c><00:14:28.639><c> it</c><00:14:28.800><c> that</c><00:14:29.040><c> way.</c><00:14:29.440><c> The</c><00:14:29.680><c> trust</c>
+to try and build it that way. The trust
+to try and build it that way. The trust
+fingerprint<00:14:30.959><c> for</c><00:14:31.680><c> meta</c><00:14:32.160><c> is</c><00:14:32.560><c> very</c>
+fingerprint for meta is very
+fingerprint for meta is very
+demoleaning.<00:14:33.839><c> It's</c><00:14:34.079><c> like</c><00:14:34.240><c> the</c><00:14:34.399><c> VR</c><00:14:34.720><c> AR</c><00:14:35.120><c> days</c>
+demoleaning. It's like the VR AR days
+demoleaning. It's like the VR AR days
+where<00:14:35.600><c> everyone</c><00:14:36.000><c> mocked</c><00:14:36.399><c> Mark</c><00:14:36.800><c> and</c><00:14:37.040><c> then</c><00:14:37.199><c> he</c>
+where everyone mocked Mark and then he
+where everyone mocked Mark and then he
+spent<00:14:37.600><c> a</c><00:14:37.839><c> lot</c><00:14:38.000><c> of</c><00:14:38.079><c> money</c><00:14:38.320><c> to</c><00:14:38.560><c> bring</c><00:14:39.120><c> Oculus</c>
+spent a lot of money to bring Oculus
+spent a lot of money to bring Oculus
+into<00:14:40.000><c> the</c><00:14:40.240><c> world</c><00:14:40.480><c> and</c><00:14:40.720><c> to</c><00:14:40.880><c> improve</c><00:14:41.199><c> the</c><00:14:41.440><c> AR</c>
+into the world and to improve the AR
+into the world and to improve the AR
+race<00:14:42.000><c> and</c><00:14:42.240><c> basically</c><00:14:42.480><c> to</c><00:14:42.720><c> start</c><00:14:42.880><c> beating</c>
+race and basically to start beating
+race and basically to start beating
+Apple<00:14:43.440><c> at</c><00:14:43.600><c> AR</c><00:14:44.160><c> and</c><00:14:44.320><c> VR.</c><00:14:44.800><c> That's</c><00:14:45.040><c> how</c><00:14:45.199><c> Mark</c>
+Apple at AR and VR. That's how Mark
+Apple at AR and VR. That's how Mark
+works.<00:14:45.760><c> And</c><00:14:45.920><c> so</c><00:14:46.160><c> now</c><00:14:46.399><c> he's</c><00:14:46.639><c> in</c><00:14:46.800><c> the</c><00:14:47.040><c> money</c>
+works. And so now he's in the money
+works. And so now he's in the money
+phase<00:14:47.680><c> of</c><00:14:47.839><c> this</c><00:14:48.000><c> pendulum</c><00:14:48.480><c> that</c><00:14:48.720><c> swings</c><00:14:49.040><c> back</c>
+phase of this pendulum that swings back
+phase of this pendulum that swings back
+and<00:14:49.360><c> forth</c><00:14:49.600><c> and</c><00:14:49.839><c> that</c><00:14:50.000><c> means</c><00:14:50.160><c> there's</c><00:14:50.480><c> going</c>
+and forth and that means there's going
+and forth and that means there's going
+to<00:14:50.800><c> be</c><00:14:51.360><c> a</c><00:14:51.680><c> big</c><00:14:51.920><c> demo</c><00:14:52.320><c> coming</c><00:14:52.560><c> up</c><00:14:52.720><c> that's</c><00:14:53.040><c> even</c>
+to be a big demo coming up that's even
+to be a big demo coming up that's even
+more<00:14:53.440><c> interesting</c><00:14:53.760><c> and</c><00:14:54.000><c> we'll</c><00:14:54.240><c> see</c><00:14:54.320><c> if</c><00:14:54.480><c> that</c>
+more interesting and we'll see if that
+more interesting and we'll see if that
+actually<00:14:54.880><c> puts</c><00:14:55.120><c> Llama</c><00:14:55.519><c> back</c><00:14:55.680><c> on</c><00:14:55.839><c> track.</c><00:14:56.160><c> Llama</c>
+actually puts Llama back on track. Llama
+actually puts Llama back on track. Llama
+5<00:14:56.720><c> is</c><00:14:56.880><c> going</c><00:14:56.959><c> to</c><00:14:57.040><c> be</c><00:14:57.120><c> a</c><00:14:57.279><c> big</c><00:14:57.440><c> deal.</c><00:14:57.839><c> So</c><00:14:58.079><c> if</c><00:14:58.320><c> you</c>
+5 is going to be a big deal. So if you
+5 is going to be a big deal. So if you
+sum<00:14:58.800><c> sum</c><00:14:59.040><c> it</c><00:14:59.199><c> up,</c><00:14:59.519><c> meta</c><00:15:00.160><c> demo</c><00:15:00.639><c> first</c><00:15:01.040><c> DNA.</c><00:15:01.839><c> Open</c>
+sum sum it up, meta demo first DNA. Open
+sum sum it up, meta demo first DNA. Open
+AI.<00:15:02.880><c> Open</c><00:15:03.279><c> AI</c><00:15:03.839><c> is</c><00:15:04.079><c> going</c><00:15:04.240><c> to</c><00:15:04.399><c> win</c><00:15:04.639><c> the</c><00:15:04.800><c> PR</c><00:15:05.360><c> war</c>
+AI. Open AI is going to win the PR war
+AI. Open AI is going to win the PR war
+and<00:15:05.839><c> they're</c><00:15:06.000><c> going</c><00:15:06.079><c> to</c><00:15:06.160><c> hide</c><00:15:06.399><c> the</c><00:15:06.560><c> how.</c><00:15:06.959><c> What</c>
+and they're going to hide the how. What
+and they're going to hide the how. What
+about<00:15:07.519><c> anthropic?</c><00:15:08.320><c> Anthropic</c><00:15:08.959><c> is</c><00:15:09.120><c> an</c>
+about anthropic? Anthropic is an
+about anthropic? Anthropic is an
+interesting<00:15:09.600><c> one.</c><00:15:09.839><c> They</c><00:15:10.000><c> have</c><00:15:10.160><c> extremely</c>
+interesting one. They have extremely
+interesting one. They have extremely
+careful<00:15:11.040><c> work.</c><00:15:11.360><c> They</c><00:15:11.600><c> have</c><00:15:11.680><c> some</c><00:15:11.839><c> of</c><00:15:11.920><c> the</c><00:15:12.079><c> most</c>
+careful work. They have some of the most
+careful work. They have some of the most
+interesting<00:15:12.720><c> work</c><00:15:12.880><c> on</c><00:15:13.120><c> AI</c><00:15:13.519><c> ethics,</c><00:15:14.000><c> some</c><00:15:14.160><c> of</c>
+interesting work on AI ethics, some of
+interesting work on AI ethics, some of
+the<00:15:14.399><c> most</c><00:15:14.560><c> interesting</c><00:15:14.959><c> work</c><00:15:15.279><c> on</c><00:15:15.600><c> showing</c><00:15:16.079><c> and</c>
+the most interesting work on showing and
+the most interesting work on showing and
+proving<00:15:16.639><c> how</c><00:15:16.880><c> AI</c><00:15:17.279><c> works</c><00:15:17.680><c> in</c><00:15:18.000><c> the</c><00:15:18.160><c> industry.</c>
+proving how AI works in the industry.
+proving how AI works in the industry.
+But<00:15:19.199><c> they</c><00:15:19.440><c> also</c><00:15:19.760><c> have</c><00:15:20.000><c> some</c><00:15:20.240><c> of</c><00:15:20.320><c> the</c><00:15:20.560><c> most</c>
+But they also have some of the most
+But they also have some of the most
+unbridled<00:15:21.519><c> and</c><00:15:21.760><c> unsupported</c><00:15:22.399><c> optimism</c><00:15:23.040><c> I've</c>
+unbridled and unsupported optimism I've
+unbridled and unsupported optimism I've
+seen.<00:15:23.839><c> The</c><00:15:24.079><c> example</c><00:15:24.320><c> of</c><00:15:24.560><c> Claude</c><00:15:24.959><c> managing</c><00:15:25.279><c> the</c>
+seen. The example of Claude managing the
+seen. The example of Claude managing the
+vending<00:15:25.839><c> machine</c><00:15:26.160><c> is</c><00:15:26.399><c> great.</c><00:15:26.800><c> I</c><00:15:27.199><c> talked</c><00:15:27.440><c> about</c>
+vending machine is great. I talked about
+vending machine is great. I talked about
+this<00:15:27.839><c> earlier.</c><00:15:28.160><c> I</c><00:15:28.320><c> won't</c><00:15:28.480><c> do</c><00:15:28.560><c> the</c><00:15:28.720><c> whole</c>
+this earlier. I won't do the whole
+this earlier. I won't do the whole
+story.<00:15:29.279><c> Basically,</c><00:15:30.000><c> in</c><00:15:30.240><c> the</c><00:15:30.399><c> middle</c><00:15:30.560><c> of</c>
+story. Basically, in the middle of
+story. Basically, in the middle of
+managing<00:15:31.120><c> a</c><00:15:31.279><c> vending</c><00:15:31.920><c> machine,</c><00:15:32.480><c> Claude</c><00:15:32.880><c> had</c><00:15:33.040><c> a</c>
+managing a vending machine, Claude had a
+managing a vending machine, Claude had a
+psychotic<00:15:33.760><c> break,</c><00:15:34.160><c> hallucinated</c><00:15:34.880><c> that</c><00:15:35.120><c> it</c>
+psychotic break, hallucinated that it
+psychotic break, hallucinated that it
+was<00:15:35.360><c> a</c><00:15:35.600><c> real</c><00:15:35.839><c> person,</c><00:15:36.480><c> and</c><00:15:36.720><c> did</c><00:15:36.880><c> not</c><00:15:37.040><c> pull</c>
+was a real person, and did not pull
+was a real person, and did not pull
+itself<00:15:37.680><c> out</c><00:15:37.920><c> of</c><00:15:38.079><c> its</c><00:15:38.320><c> funk</c><00:15:38.720><c> until</c><00:15:39.120><c> April</c><00:15:39.440><c> 1st</c>
+itself out of its funk until April 1st
+itself out of its funk until April 1st
+when<00:15:39.920><c> it</c><00:15:40.079><c> told</c><00:15:40.240><c> itself</c><00:15:40.639><c> it</c><00:15:40.880><c> was</c><00:15:40.959><c> an</c><00:15:41.199><c> April</c>
+when it told itself it was an April
+when it told itself it was an April
+Fool's<00:15:41.839><c> joke.</c><00:15:42.320><c> This</c><00:15:42.800><c> was</c><00:15:43.040><c> all</c><00:15:43.360><c> carefully</c>
+Fool's joke. This was all carefully
+Fool's joke. This was all carefully
+documented<00:15:44.399><c> by</c><00:15:44.639><c> Anthropic.</c><00:15:45.279><c> To</c><00:15:45.440><c> their</c>
+documented by Anthropic. To their
+documented by Anthropic. To their
+credit,<00:15:45.920><c> they</c><00:15:46.079><c> didn't</c><00:15:46.320><c> hide</c><00:15:46.560><c> it.</c><00:15:46.880><c> They</c><00:15:47.120><c> were</c>
+credit, they didn't hide it. They were
+credit, they didn't hide it. They were
+really<00:15:47.440><c> honest.</c><00:15:48.079><c> And</c><00:15:48.160><c> then</c><00:15:48.320><c> at</c><00:15:48.480><c> the</c><00:15:48.560><c> end,</c><00:15:48.800><c> they</c>
+really honest. And then at the end, they
+really honest. And then at the end, they
+had<00:15:49.120><c> this</c><00:15:49.360><c> wild</c><00:15:49.839><c> optimism</c><00:15:50.639><c> about</c><00:15:50.880><c> how</c><00:15:51.120><c> Claude</c>
+had this wild optimism about how Claude
+had this wild optimism about how Claude
+is<00:15:51.600><c> going</c><00:15:51.680><c> to</c><00:15:51.759><c> be</c><00:15:51.839><c> a</c><00:15:52.000><c> middle</c><00:15:52.240><c> manager</c><00:15:52.639><c> soon.</c>
+is going to be a middle manager soon.
+is going to be a middle manager soon.
+And<00:15:53.279><c> I</c><00:15:53.440><c> looked</c><00:15:53.600><c> at</c><00:15:53.680><c> that</c><00:15:53.839><c> and</c><00:15:54.000><c> I</c><00:15:54.160><c> said</c><00:15:54.399><c> that</c>
+And I looked at that and I said that
+And I looked at that and I said that
+does<00:15:54.880><c> not</c><00:15:55.040><c> line</c><00:15:55.360><c> up</c><00:15:55.920><c> with</c><00:15:56.240><c> the</c><00:15:56.560><c> rest</c><00:15:56.720><c> of</c><00:15:56.959><c> this</c>
+does not line up with the rest of this
+does not line up with the rest of this
+paper.<00:15:57.839><c> But</c><00:15:58.000><c> boy</c><00:15:58.320><c> does</c><00:15:58.480><c> it</c><00:15:58.639><c> line</c><00:15:58.880><c> up</c><00:15:59.040><c> with</c><00:15:59.199><c> the</c>
+paper. But boy does it line up with the
+paper. But boy does it line up with the
+kind<00:15:59.600><c> of</c><00:15:59.839><c> optimism</c><00:16:00.639><c> that</c><00:16:00.880><c> I</c><00:16:01.120><c> see</c><00:16:01.279><c> from</c>
+kind of optimism that I see from
+kind of optimism that I see from
+Anthropic<00:16:02.079><c> and</c><00:16:02.240><c> I</c><00:16:02.399><c> that</c><00:16:02.639><c> I</c><00:16:02.800><c> see</c><00:16:02.959><c> from</c><00:16:03.199><c> Daario</c>
+Anthropic and I that I see from Daario
+Anthropic and I that I see from Daario
+Amade<00:16:04.320><c> all</c><00:16:04.560><c> the</c><00:16:04.720><c> time.</c><00:16:05.199><c> Daario's</c><00:16:05.759><c> the</c><00:16:05.920><c> founder</c>
+Amade all the time. Daario's the founder
+Amade all the time. Daario's the founder
+of<00:16:06.160><c> Anthropic</c><00:16:06.800><c> and</c><00:16:07.040><c> he</c><00:16:07.279><c> is</c><00:16:07.440><c> known</c><00:16:07.680><c> for</c><00:16:08.000><c> writing</c>
+of Anthropic and he is known for writing
+of Anthropic and he is known for writing
+the<00:16:08.560><c> essay</c><00:16:08.800><c> Machines</c><00:16:09.199><c> of</c><00:16:09.360><c> Loving</c><00:16:09.759><c> Grace</c><00:16:10.079><c> where</c>
+the essay Machines of Loving Grace where
+the essay Machines of Loving Grace where
+he<00:16:10.560><c> talks</c><00:16:10.800><c> about</c><00:16:10.959><c> his</c><00:16:11.199><c> vision</c><00:16:11.440><c> for</c><00:16:11.600><c> the</c><00:16:11.759><c> future</c>
+he talks about his vision for the future
+he talks about his vision for the future
+how<00:16:12.240><c> it's</c><00:16:12.399><c> very</c><00:16:12.639><c> utopian.</c><00:16:13.279><c> The</c><00:16:13.600><c> team</c><00:16:13.839><c> does</c>
+how it's very utopian. The team does
+how it's very utopian. The team does
+phenomenal<00:16:14.959><c> focused</c><00:16:15.920><c> careful</c><00:16:16.399><c> work</c><00:16:16.800><c> and</c><00:16:17.040><c> then</c>
+phenomenal focused careful work and then
+phenomenal focused careful work and then
+slips<00:16:17.600><c> in</c><00:16:17.839><c> that</c><00:16:18.000><c> sort</c><00:16:18.160><c> of</c><00:16:18.399><c> utopian</c><00:16:19.040><c> and</c>
+slips in that sort of utopian and
+slips in that sort of utopian and
+idealism<00:16:20.480><c> by</c><00:16:20.720><c> the</c><00:16:20.959><c> buy,</c><00:16:21.360><c> right?</c><00:16:21.600><c> And</c><00:16:21.839><c> that's</c>
+idealism by the buy, right? And that's
+idealism by the buy, right? And that's
+just<00:16:22.240><c> part</c><00:16:22.480><c> of</c><00:16:22.639><c> their</c><00:16:22.880><c> fingerprint.</c><00:16:23.680><c> They</c><00:16:23.920><c> do</c>
+just part of their fingerprint. They do
+just part of their fingerprint. They do
+careful<00:16:24.480><c> work</c><00:16:24.720><c> and</c><00:16:24.880><c> they</c><00:16:25.120><c> have</c><00:16:25.279><c> kind</c><00:16:25.440><c> of</c>
+careful work and they have kind of
+careful work and they have kind of
+careless<00:16:26.079><c> optimism.</c><00:16:26.800><c> It's</c><00:16:26.959><c> a</c><00:16:27.120><c> really</c>
+careless optimism. It's a really
+careless optimism. It's a really
+interesting<00:16:27.839><c> combination.</c><00:16:28.480><c> What</c><00:16:28.720><c> about</c>
+interesting combination. What about
+interesting combination. What about
+Google?<00:16:29.600><c> With</c><00:16:29.839><c> Google,</c><00:16:30.320><c> it's</c><00:16:30.560><c> all</c><00:16:30.800><c> about</c>
+Google? With Google, it's all about
+Google? With Google, it's all about
+technical<00:16:31.600><c> excellence.</c><00:16:32.079><c> There's</c><00:16:32.320><c> they</c><00:16:32.560><c> have</c>
+technical excellence. There's they have
+technical excellence. There's they have
+they<00:16:33.120><c> literally</c><00:16:33.600><c> have</c><00:16:34.000><c> Deas</c><00:16:35.120><c> that</c><00:16:35.279><c> a</c><00:16:35.519><c> Nobel</c>
+they literally have Deas that a Nobel
+they literally have Deas that a Nobel
+laureate<00:16:36.399><c> on</c><00:16:36.560><c> the</c><00:16:36.800><c> team.</c><00:16:37.040><c> Like</c><00:16:37.199><c> they're</c>
+laureate on the team. Like they're
+laureate on the team. Like they're
+extremely<00:16:37.920><c> good.</c><00:16:38.160><c> They</c><00:16:38.320><c> are</c><00:16:38.480><c> the</c><00:16:38.639><c> ones</c><00:16:38.800><c> that</c>
+extremely good. They are the ones that
+extremely good. They are the ones that
+built<00:16:39.279><c> the</c><00:16:39.519><c> underlying</c><00:16:40.000><c> technology</c><00:16:40.480><c> that</c>
+built the underlying technology that
+built the underlying technology that
+we're<00:16:40.880><c> all</c><00:16:41.120><c> building</c><00:16:41.360><c> on</c><00:16:41.519><c> for</c><00:16:41.680><c> the</c><00:16:41.839><c> AI</c><00:16:42.160><c> race</c>
+we're all building on for the AI race
+we're all building on for the AI race
+now.<00:16:42.720><c> but</c><00:16:42.959><c> they</c><00:16:43.120><c> could</c><00:16:43.279><c> not</c><00:16:43.519><c> hold</c><00:16:43.680><c> the</c><00:16:43.920><c> team</c>
+now. but they could not hold the team
+now. but they could not hold the team
+together<00:16:44.480><c> and</c><00:16:44.720><c> so</c><00:16:44.880><c> they've</c><00:16:45.120><c> gone</c><00:16:45.279><c> on</c><00:16:45.440><c> to</c><00:16:45.600><c> found</c>
+together and so they've gone on to found
+together and so they've gone on to found
+other<00:16:46.000><c> startups</c><00:16:46.320><c> and</c><00:16:46.560><c> that</c><00:16:46.720><c> that's</c><00:16:47.199><c> very</c><00:16:47.519><c> very</c>
+other startups and that that's very very
+other startups and that that's very very
+high<00:16:48.480><c> level</c><00:16:48.800><c> how</c><00:16:48.959><c> we</c><00:16:49.120><c> got</c><00:16:49.279><c> open</c><00:16:49.600><c> AI.</c><00:16:50.160><c> They</c><00:16:50.399><c> are</c>
+high level how we got open AI. They are
+high level how we got open AI. They are
+obsessed<00:16:51.040><c> with</c><00:16:51.199><c> building</c><00:16:51.519><c> AGI.</c><00:16:52.320><c> Deise</c><00:16:52.720><c> has</c>
+obsessed with building AGI. Deise has
+obsessed with building AGI. Deise has
+said<00:16:53.040><c> there's</c><00:16:53.279><c> multiple</c><00:16:53.680><c> breakthroughs</c>
+said there's multiple breakthroughs
+said there's multiple breakthroughs
+needed.<00:16:54.560><c> He's</c><00:16:54.800><c> not</c><00:16:54.959><c> done</c><00:16:55.199><c> yet.</c><00:16:55.600><c> They're</c>
+needed. He's not done yet. They're
+needed. He's not done yet. They're
+focused<00:16:56.399><c> on</c><00:16:56.720><c> scientific</c><00:16:57.360><c> models.</c>
+focused on scientific models.
+focused on scientific models.
+Mathematicians<00:16:58.560><c> will</c><00:16:58.800><c> tell</c><00:16:58.880><c> you</c><00:16:59.040><c> they</c><00:16:59.279><c> think</c>
+Mathematicians will tell you they think
+Mathematicians will tell you they think
+the<00:16:59.600><c> Google</c><00:16:59.839><c> models</c><00:17:00.160><c> are</c><00:17:00.320><c> stronger</c><00:17:00.560><c> on</c>
+the Google models are stronger on
+the Google models are stronger on
+mathematics<00:17:01.360><c> which</c><00:17:01.519><c> is</c><00:17:01.680><c> part</c><00:17:01.839><c> of</c><00:17:02.000><c> what</c><00:17:02.240><c> makes</c>
+mathematics which is part of what makes
+mathematics which is part of what makes
+this<00:17:03.040><c> weekend's</c><00:17:03.680><c> Math</c><00:17:04.000><c> Olympiad</c><00:17:04.559><c> results</c>
+this weekend's Math Olympiad results
+this weekend's Math Olympiad results
+extra<00:17:05.520><c> spicy.</c><00:17:06.480><c> But</c><00:17:06.640><c> their</c><00:17:06.959><c> interface</c><00:17:07.839><c> is</c><00:17:08.079><c> not</c>
+extra spicy. But their interface is not
+extra spicy. But their interface is not
+what<00:17:08.559><c> they</c><00:17:08.720><c> like</c><00:17:08.959><c> to</c><00:17:09.120><c> claim.</c><00:17:09.600><c> And</c><00:17:09.760><c> so</c><00:17:09.919><c> if</c><00:17:10.160><c> you</c>
+what they like to claim. And so if you
+what they like to claim. And so if you
+see<00:17:10.400><c> claims</c><00:17:10.720><c> from</c><00:17:10.959><c> Google,</c><00:17:11.280><c> I</c><00:17:11.520><c> tend</c><00:17:11.679><c> to</c>
+see claims from Google, I tend to
+see claims from Google, I tend to
+believe<00:17:12.480><c> that</c><00:17:12.880><c> technically</c><00:17:13.439><c> speaking,</c><00:17:13.760><c> it</c>
+believe that technically speaking, it
+believe that technically speaking, it
+was<00:17:14.240><c> exactly</c><00:17:14.640><c> what</c><00:17:14.880><c> they</c><00:17:15.120><c> said,</c><00:17:15.600><c> that</c><00:17:15.760><c> the</c>
+was exactly what they said, that the
+was exactly what they said, that the
+APIs<00:17:16.480><c> are</c><00:17:16.640><c> going</c><00:17:16.720><c> to</c><00:17:16.880><c> be</c><00:17:16.959><c> served</c><00:17:17.439><c> correctly,</c>
+APIs are going to be served correctly,
+APIs are going to be served correctly,
+that<00:17:18.400><c> it's</c><00:17:18.640><c> going</c><00:17:18.720><c> to</c><00:17:18.799><c> be</c><00:17:18.880><c> the</c><00:17:19.120><c> most</c>
+that it's going to be the most
+that it's going to be the most
+affordable<00:17:19.760><c> intelligence</c><00:17:20.319><c> in</c><00:17:20.559><c> the</c><00:17:20.720><c> industry,</c>
+affordable intelligence in the industry,
+affordable intelligence in the industry,
+and<00:17:21.439><c> I</c><00:17:21.679><c> assume</c><00:17:22.000><c> the</c><00:17:22.240><c> interface</c><00:17:22.880><c> is</c><00:17:23.199><c> going</c><00:17:23.360><c> to</c>
+and I assume the interface is going to
+and I assume the interface is going to
+be<00:17:23.760><c> terrible,</c><00:17:24.240><c> whatever</c><00:17:24.640><c> they</c><00:17:24.880><c> say,</c><00:17:25.439><c> because</c>
+be terrible, whatever they say, because
+be terrible, whatever they say, because
+I<00:17:26.720><c> cannot</c><00:17:27.120><c> recommend</c><00:17:27.679><c> the</c><00:17:27.919><c> Google</c><00:17:28.240><c> Studio</c>
+I cannot recommend the Google Studio
+I cannot recommend the Google Studio
+interface<00:17:29.039><c> to</c><00:17:29.200><c> anybody.</c><00:17:29.679><c> It's</c><00:17:29.919><c> so</c><00:17:30.160><c> hard</c><00:17:30.400><c> to</c>
+interface to anybody. It's so hard to
+interface to anybody. It's so hard to
+use,<00:17:30.960><c> and</c><00:17:31.200><c> it</c><00:17:31.600><c> shouldn't</c><00:17:31.840><c> have</c><00:17:32.000><c> to</c><00:17:32.160><c> be</c><00:17:32.320><c> that</c>
+use, and it shouldn't have to be that
+use, and it shouldn't have to be that
+way.<00:17:32.880><c> It</c><00:17:33.120><c> shouldn't</c><00:17:33.360><c> have</c><00:17:33.440><c> to</c><00:17:33.600><c> be</c><00:17:33.679><c> that</c><00:17:33.919><c> way.</c>
+way. It shouldn't have to be that way.
+way. It shouldn't have to be that way.
+But<00:17:34.720><c> every</c><00:17:34.960><c> model</c><00:17:35.280><c> maker</c><00:17:35.520><c> has</c><00:17:35.840><c> a</c><00:17:36.000><c> fingerprint.</c>
+But every model maker has a fingerprint.
+But every model maker has a fingerprint.
+Every<00:17:36.720><c> model</c><00:17:37.039><c> maker</c><00:17:37.200><c> has</c><00:17:37.360><c> a</c><00:17:37.520><c> trust</c>
+Every model maker has a trust
+Every model maker has a trust
+fingerprint.<00:17:38.480><c> With</c><00:17:38.799><c> Google,</c><00:17:39.360><c> I</c><00:17:39.679><c> can</c><00:17:39.840><c> trust</c>
+fingerprint. With Google, I can trust
+fingerprint. With Google, I can trust
+that<00:17:40.400><c> they</c><00:17:40.559><c> measure</c><00:17:40.960><c> things.</c><00:17:41.360><c> I</c><00:17:41.600><c> cannot</c><00:17:41.919><c> trust</c>
+that they measure things. I cannot trust
+that they measure things. I cannot trust
+them<00:17:42.240><c> to</c><00:17:42.480><c> build</c><00:17:42.640><c> an</c><00:17:42.880><c> interface.</c><00:17:43.520><c> And</c><00:17:43.760><c> frankly,</c>
+them to build an interface. And frankly,
+them to build an interface. And frankly,
+I<00:17:44.960><c> also</c><00:17:45.200><c> think</c><00:17:45.360><c> they</c><00:17:45.600><c> have</c><00:17:45.760><c> a</c><00:17:45.919><c> little</c><00:17:46.080><c> bit</c><00:17:46.160><c> of</c>
+I also think they have a little bit of
+I also think they have a little bit of
+the<00:17:46.559><c> challenge</c><00:17:46.799><c> that</c><00:17:47.280><c> XAI</c><00:17:47.919><c> faces</c><00:17:48.240><c> where</c><00:17:48.480><c> they</c>
+the challenge that XAI faces where they
+the challenge that XAI faces where they
+tend<00:17:48.960><c> to</c><00:17:49.200><c> optimize</c><00:17:49.760><c> to</c><00:17:50.000><c> tests</c><00:17:50.640><c> and</c><00:17:50.880><c> the</c><00:17:51.120><c> actual</c>
+tend to optimize to tests and the actual
+tend to optimize to tests and the actual
+intelligence<00:17:52.080><c> that's</c><00:17:52.400><c> available</c><00:17:52.960><c> isn't</c>
+intelligence that's available isn't
+intelligence that's available isn't
+always<00:17:53.760><c> at</c><00:17:54.000><c> the</c><00:17:54.240><c> same</c><00:17:54.640><c> working</c><00:17:55.120><c> quality</c><00:17:55.840><c> as</c>
+always at the same working quality as
+always at the same working quality as
+the<00:17:56.320><c> tests.</c><00:17:56.960><c> It</c><00:17:57.200><c> is</c><00:17:57.360><c> not</c><00:17:57.600><c> nearly</c><00:17:58.000><c> as</c><00:17:58.160><c> big</c><00:17:58.320><c> a</c>
+the tests. It is not nearly as big a
+the tests. It is not nearly as big a
+delta<00:17:58.960><c> as</c><00:17:59.200><c> I</c><00:17:59.360><c> sense</c><00:17:59.679><c> when</c><00:17:59.840><c> I</c><00:18:00.000><c> work</c><00:18:00.160><c> with</c><00:18:00.320><c> the</c>
+delta as I sense when I work with the
+delta as I sense when I work with the
+XAI<00:18:01.039><c> models,</c><00:18:01.600><c> but</c><00:18:01.840><c> it</c><00:18:02.000><c> does</c><00:18:02.240><c> feel</c><00:18:02.400><c> like</c><00:18:02.640><c> it's</c>
+XAI models, but it does feel like it's
+XAI models, but it does feel like it's
+there<00:18:03.039><c> and</c><00:18:03.280><c> it's</c><00:18:03.440><c> worth</c><00:18:03.679><c> bringing</c><00:18:04.000><c> up</c><00:18:04.160><c> here.</c>
+there and it's worth bringing up here.
+there and it's worth bringing up here.
+XAI<00:18:05.120><c> and</c><00:18:05.360><c> Grock.</c><00:18:06.160><c> I've</c><00:18:06.400><c> talked</c><00:18:06.720><c> about</c><00:18:06.880><c> them</c>
+XAI and Grock. I've talked about them
+XAI and Grock. I've talked about them
+with<00:18:07.200><c> a</c><00:18:07.360><c> Grock</c><00:18:07.679><c> 4</c><00:18:07.919><c> release.</c><00:18:08.240><c> We're</c><00:18:08.400><c> not</c><00:18:08.559><c> going</c>
+with a Grock 4 release. We're not going
+with a Grock 4 release. We're not going
+to<00:18:08.720><c> spend</c><00:18:08.960><c> too</c><00:18:09.200><c> long</c><00:18:09.360><c> on</c><00:18:09.520><c> this.</c><00:18:10.080><c> Think</c><00:18:10.320><c> of</c><00:18:10.480><c> them</c>
+to spend too long on this. Think of them
+to spend too long on this. Think of them
+as<00:18:10.799><c> an</c><00:18:10.960><c> opacity</c><00:18:11.679><c> engine.</c><00:18:12.400><c> They</c><00:18:12.640><c> are</c>
+as an opacity engine. They are
+as an opacity engine. They are
+passionate<00:18:13.200><c> about</c><00:18:13.440><c> building</c><00:18:13.760><c> AI.</c><00:18:14.160><c> The</c><00:18:14.320><c> team</c>
+passionate about building AI. The team
+passionate about building AI. The team
+works<00:18:14.880><c> really,</c><00:18:15.200><c> really</c><00:18:15.520><c> hard.</c><00:18:15.840><c> They're</c><00:18:16.080><c> super</c>
+works really, really hard. They're super
+works really, really hard. They're super
+fast<00:18:16.640><c> at</c><00:18:16.960><c> releasing,</c><00:18:17.520><c> but</c><00:18:17.760><c> they</c><00:18:17.919><c> are</c><00:18:18.160><c> so</c>
+fast at releasing, but they are so
+fast at releasing, but they are so
+opaque.<00:18:19.360><c> They're</c><00:18:19.600><c> so</c><00:18:19.840><c> opaque.</c><00:18:20.480><c> They'll</c>
+opaque. They're so opaque. They'll
+opaque. They're so opaque. They'll
+gesture<00:18:21.200><c> toward</c><00:18:21.440><c> open</c><00:18:21.760><c> intelligence,</c><00:18:22.320><c> but</c>
+gesture toward open intelligence, but
+gesture toward open intelligence, but
+they<00:18:22.640><c> won't</c><00:18:22.880><c> release</c><00:18:23.120><c> a</c><00:18:23.280><c> model</c><00:18:23.600><c> card.</c><00:18:24.080><c> They</c>
+they won't release a model card. They
+they won't release a model card. They
+don't<00:18:24.559><c> adequately</c><00:18:25.280><c> solve</c><00:18:25.679><c> huge</c><00:18:26.160><c> trust</c>
+don't adequately solve huge trust
+don't adequately solve huge trust
+issues.<00:18:27.200><c> I</c><00:18:27.440><c> don't</c><00:18:27.600><c> know</c><00:18:27.679><c> of</c><00:18:27.840><c> a</c><00:18:28.000><c> single</c><00:18:28.320><c> company</c>
+issues. I don't know of a single company
+issues. I don't know of a single company
+that<00:18:28.799><c> would</c><00:18:28.960><c> trust</c><00:18:29.200><c> them</c><00:18:29.360><c> with</c><00:18:29.520><c> their</c><00:18:29.679><c> API</c><00:18:30.160><c> as</c>
+that would trust them with their API as
+that would trust them with their API as
+a<00:18:30.559><c> result.</c><00:18:31.120><c> And</c><00:18:31.679><c> when</c><00:18:31.919><c> you</c><00:18:32.160><c> just</c><00:18:32.559><c> optimize</c><00:18:33.039><c> for</c>
+a result. And when you just optimize for
+a result. And when you just optimize for
+benchmark<00:18:33.840><c> scores,</c><00:18:34.240><c> you</c><00:18:34.400><c> also</c><00:18:34.640><c> get</c><00:18:34.799><c> users</c>
+benchmark scores, you also get users
+benchmark scores, you also get users
+saying<00:18:35.360><c> it's</c><00:18:35.520><c> not</c><00:18:35.679><c> as</c><00:18:35.840><c> flexibly</c><00:18:36.480><c> intelligent</c>
+saying it's not as flexibly intelligent
+saying it's not as flexibly intelligent
+as<00:18:37.280><c> it</c><00:18:37.440><c> needs</c><00:18:37.679><c> to</c><00:18:37.760><c> be.</c><00:18:38.000><c> Building</c><00:18:38.400><c> AI</c><00:18:38.799><c> is</c><00:18:39.039><c> really</c>
+as it needs to be. Building AI is really
+as it needs to be. Building AI is really
+hard.<00:18:39.760><c> It's</c><00:18:40.080><c> okay</c><00:18:40.799><c> that</c><00:18:41.120><c> they</c><00:18:41.360><c> have</c><00:18:41.520><c> spent</c><00:18:41.919><c> two</c>
+hard. It's okay that they have spent two
+hard. It's okay that they have spent two
+years<00:18:42.720><c> building,</c><00:18:43.120><c> building,</c><00:18:43.440><c> building,</c><00:18:43.760><c> and</c>
+years building, building, building, and
+years building, building, building, and
+they<00:18:44.160><c> are</c><00:18:44.240><c> in</c><00:18:44.559><c> the</c><00:18:44.880><c> top</c><00:18:45.120><c> echelon</c><00:18:45.600><c> of</c><00:18:45.840><c> model</c>
+they are in the top echelon of model
+they are in the top echelon of model
+makers,<00:18:46.640><c> even</c><00:18:46.880><c> if</c><00:18:47.039><c> they're</c><00:18:47.280><c> not</c><00:18:47.440><c> number</c><00:18:47.760><c> one.</c>
+makers, even if they're not number one.
+makers, even if they're not number one.
+But<00:18:48.400><c> that's</c><00:18:48.640><c> not</c><00:18:48.799><c> okay</c><00:18:49.039><c> for</c><00:18:49.280><c> them.</c><00:18:49.840><c> They</c><00:18:50.160><c> need</c>
+But that's not okay for them. They need
+But that's not okay for them. They need
+to<00:18:50.480><c> be</c><00:18:50.640><c> number</c><00:18:50.960><c> one.</c><00:18:51.520><c> And</c><00:18:51.679><c> so</c><00:18:51.840><c> with</c><00:18:52.080><c> them,</c><00:18:52.400><c> it's</c>
+to be number one. And so with them, it's
+to be number one. And so with them, it's
+a<00:18:52.880><c> tremendous</c><00:18:53.919><c> delta</c><00:18:54.559><c> between</c><00:18:54.880><c> what</c><00:18:55.120><c> they</c>
+a tremendous delta between what they
+a tremendous delta between what they
+claim<00:18:56.000><c> and</c><00:18:56.320><c> what</c><00:18:56.720><c> actually</c><00:18:57.360><c> happens</c><00:18:57.760><c> on</c><00:18:57.919><c> the</c>
+claim and what actually happens on the
+claim and what actually happens on the
+ground.<00:18:58.559><c> makes</c><00:18:58.799><c> them</c><00:18:59.039><c> very</c><00:18:59.360><c> difficult</c><00:18:59.760><c> to</c>
+ground. makes them very difficult to
+ground. makes them very difficult to
+cover<00:19:00.240><c> from</c><00:19:00.480><c> a</c><00:19:00.640><c> news</c><00:19:00.880><c> perspective</c><00:19:01.360><c> because</c>
+cover from a news perspective because
+cover from a news perspective because
+you<00:19:01.840><c> don't</c><00:19:01.919><c> know</c><00:19:02.080><c> what's</c><00:19:02.320><c> real</c><00:19:02.880><c> and</c><00:19:03.120><c> they're</c>
+you don't know what's real and they're
+you don't know what's real and they're
+very<00:19:03.600><c> good</c><00:19:03.760><c> at</c><00:19:04.080><c> grabbing</c><00:19:04.480><c> the</c><00:19:04.640><c> headlines.</c>
+very good at grabbing the headlines.
+very good at grabbing the headlines.
+Now,<00:19:05.840><c> I</c><00:19:06.160><c> want</c><00:19:06.320><c> to</c><00:19:06.559><c> close</c><00:19:07.039><c> by</c><00:19:07.360><c> talking</c><00:19:07.679><c> a</c><00:19:08.000><c> little</c>
+Now, I want to close by talking a little
+Now, I want to close by talking a little
+bit<00:19:08.240><c> about</c><00:19:08.480><c> the</c><00:19:08.720><c> domain</c><00:19:09.120><c> expertise</c><00:19:09.679><c> problem</c>
+bit about the domain expertise problem
+bit about the domain expertise problem
+because<00:19:10.320><c> I</c><00:19:10.559><c> think</c><00:19:10.720><c> it</c><00:19:11.039><c> collides</c><00:19:11.919><c> with</c><00:19:12.240><c> this</c>
+because I think it collides with this
+because I think it collides with this
+trust<00:19:12.880><c> issue.</c><00:19:13.360><c> One</c><00:19:13.600><c> of</c><00:19:13.760><c> the</c><00:19:14.000><c> reasons</c><00:19:14.400><c> why</c><00:19:14.640><c> it's</c>
+trust issue. One of the reasons why it's
+trust issue. One of the reasons why it's
+hard<00:19:15.200><c> to</c><00:19:15.440><c> know</c><00:19:16.160><c> how</c><00:19:16.400><c> to</c><00:19:16.640><c> measure</c>
+hard to know how to measure
+hard to know how to measure
+intelligence.<00:19:17.679><c> I'm</c><00:19:17.919><c> going</c><00:19:18.080><c> back</c><00:19:18.240><c> to</c><00:19:18.400><c> the</c><00:19:18.640><c> very</c>
+intelligence. I'm going back to the very
+intelligence. I'm going back to the very
+beginning<00:19:19.039><c> of</c><00:19:19.280><c> this</c><00:19:19.440><c> conversation</c><00:19:19.919><c> where</c><00:19:20.080><c> I</c>
+beginning of this conversation where I
+beginning of this conversation where I
+talked<00:19:20.480><c> about</c><00:19:20.640><c> this</c><00:19:20.880><c> idea</c><00:19:21.039><c> that</c><00:19:21.280><c> in</c><00:19:21.440><c> economics</c>
+talked about this idea that in economics
+talked about this idea that in economics
+you<00:19:22.240><c> can</c><00:19:22.400><c> transact</c><00:19:23.200><c> and</c><00:19:23.440><c> you</c><00:19:23.600><c> know</c><00:19:23.760><c> what</c>
+you can transact and you know what
+you can transact and you know what
+you're<00:19:24.080><c> getting</c><00:19:24.559><c> and</c><00:19:24.799><c> you</c><00:19:24.960><c> don't</c><00:19:25.200><c> with</c>
+you're getting and you don't with
+you're getting and you don't with
+intelligence.<00:19:26.240><c> One</c><00:19:26.480><c> of</c><00:19:26.559><c> the</c><00:19:26.720><c> reasons</c><00:19:27.039><c> for</c>
+intelligence. One of the reasons for
+intelligence. One of the reasons for
+that<00:19:27.520><c> is</c><00:19:27.760><c> that</c><00:19:27.919><c> the</c><00:19:28.160><c> people</c><00:19:28.559><c> building</c>
+that is that the people building
+that is that the people building
+intelligence<00:19:29.919><c> are</c><00:19:30.240><c> approaching</c><00:19:30.640><c> it</c><00:19:30.880><c> like</c>
+intelligence are approaching it like
+intelligence are approaching it like
+code.<00:19:31.679><c> They're</c><00:19:31.919><c> approaching</c><00:19:32.320><c> it</c>
+code. They're approaching it
+code. They're approaching it
+technically.<00:19:33.120><c> They're</c><00:19:33.360><c> approaching</c><00:19:33.679><c> it</c><00:19:33.840><c> with</c>
+technically. They're approaching it with
+technically. They're approaching it with
+what<00:19:34.160><c> they</c><00:19:34.480><c> know</c><00:19:34.720><c> in</c><00:19:34.960><c> the</c><00:19:35.039><c> valley.</c><00:19:35.760><c> But</c><00:19:35.919><c> the</c>
+what they know in the valley. But the
+what they know in the valley. But the
+people<00:19:36.320><c> who</c><00:19:36.559><c> have</c><00:19:36.799><c> domain</c><00:19:37.280><c> intelligence</c><00:19:38.000><c> in</c>
+people who have domain intelligence in
+people who have domain intelligence in
+all<00:19:38.559><c> of</c><00:19:38.640><c> the</c><00:19:38.880><c> fields</c><00:19:39.200><c> AI</c><00:19:39.840><c> is</c><00:19:40.160><c> touching</c><00:19:40.799><c> may</c><00:19:41.120><c> not</c>
+all of the fields AI is touching may not
+all of the fields AI is touching may not
+know<00:19:41.520><c> code,</c><00:19:41.919><c> may</c><00:19:42.160><c> not</c><00:19:42.320><c> know</c><00:19:42.559><c> tech,</c><00:19:43.039><c> but</c><00:19:43.280><c> sure</c>
+know code, may not know tech, but sure
+know code, may not know tech, but sure
+do<00:19:43.760><c> know</c><00:19:43.919><c> their</c><00:19:44.240><c> domain,</c><00:19:44.880><c> and</c><00:19:45.039><c> they</c><00:19:45.280><c> know</c><00:19:45.360><c> when</c>
+do know their domain, and they know when
+do know their domain, and they know when
+it's<00:19:45.679><c> right</c><00:19:45.840><c> and</c><00:19:46.000><c> when</c><00:19:46.160><c> it's</c><00:19:46.320><c> wrong.</c><00:19:46.799><c> And</c><00:19:46.960><c> so</c>
+it's right and when it's wrong. And so
+it's right and when it's wrong. And so
+part<00:19:47.280><c> of</c><00:19:47.440><c> why</c><00:19:47.600><c> I</c><00:19:47.840><c> shared</c><00:19:48.160><c> the</c><00:19:48.400><c> math</c><00:19:48.640><c> olympiad</c>
+part of why I shared the math olympiad
+part of why I shared the math olympiad
+results<00:19:49.520><c> and</c><00:19:49.679><c> the</c><00:19:49.919><c> opinion</c><00:19:50.160><c> of</c>
+results and the opinion of
+results and the opinion of
+mathematicians<00:19:51.120><c> like</c><00:19:51.360><c> Terrence</c><00:19:51.760><c> Tao</c><00:19:52.240><c> is</c><00:19:52.799><c> they</c>
+mathematicians like Terrence Tao is they
+mathematicians like Terrence Tao is they
+are<00:19:53.280><c> domain</c><00:19:53.679><c> experts</c><00:19:54.080><c> in</c><00:19:54.320><c> mathematics.</c><00:19:54.960><c> I'm</c>
+are domain experts in mathematics. I'm
+are domain experts in mathematics. I'm
+not.<00:19:55.760><c> Open</c><00:19:56.160><c> AI</c><00:19:56.480><c> sure</c><00:19:56.720><c> isn't,</c><00:19:57.120><c> but</c><00:19:57.440><c> they</c><00:19:57.679><c> are.</c>
+not. Open AI sure isn't, but they are.
+not. Open AI sure isn't, but they are.
+And<00:19:58.320><c> it's</c><00:19:58.559><c> interesting</c><00:19:59.039><c> to</c><00:19:59.280><c> me</c><00:19:59.679><c> that</c><00:20:00.080><c> domain</c>
+And it's interesting to me that domain
+And it's interesting to me that domain
+experts<00:20:01.520><c> do</c><00:20:01.760><c> not</c><00:20:02.000><c> align</c><00:20:02.960><c> necessarily</c><00:20:03.919><c> with</c>
+experts do not align necessarily with
+experts do not align necessarily with
+the<00:20:04.400><c> claims</c><00:20:04.799><c> AI</c><00:20:05.200><c> model</c><00:20:05.600><c> makers</c><00:20:06.080><c> make</c><00:20:06.720><c> except</c>
+the claims AI model makers make except
+the claims AI model makers make except
+in<00:20:07.440><c> one</c><00:20:07.760><c> field,</c><00:20:08.320><c> and</c><00:20:08.559><c> that</c><00:20:08.720><c> field</c><00:20:08.960><c> is</c><00:20:09.280><c> code.</c>
+in one field, and that field is code.
+in one field, and that field is code.
+And<00:20:09.919><c> the</c><00:20:10.160><c> reason</c><00:20:10.400><c> why</c><00:20:11.360><c> is</c><00:20:11.679><c> because</c><00:20:12.080><c> the</c><00:20:12.480><c> people</c>
+And the reason why is because the people
+And the reason why is because the people
+building<00:20:13.120><c> AI</c><00:20:13.520><c> are</c><00:20:13.679><c> also</c><00:20:14.000><c> good</c><00:20:14.160><c> at</c><00:20:14.320><c> code.</c><00:20:14.799><c> And</c>
+building AI are also good at code. And
+building AI are also good at code. And
+so<00:20:15.280><c> as</c><00:20:15.440><c> much</c><00:20:15.600><c> as</c><00:20:15.760><c> we</c><00:20:16.080><c> say</c><00:20:16.559><c> the</c><00:20:16.880><c> reason</c><00:20:17.200><c> AI</c><00:20:17.600><c> is</c>
+so as much as we say the reason AI is
+so as much as we say the reason AI is
+getting<00:20:18.000><c> better</c><00:20:18.240><c> at</c><00:20:18.480><c> code</c><00:20:18.880><c> fast,</c><00:20:19.520><c> it's</c>
+getting better at code fast, it's
+getting better at code fast, it's
+because<00:20:20.320><c> of</c><00:20:20.559><c> reinforcement</c><00:20:21.360><c> learning</c><00:20:21.919><c> and</c>
+because of reinforcement learning and
+because of reinforcement learning and
+because<00:20:22.799><c> of</c><00:20:23.520><c> the</c><00:20:23.919><c> great</c><00:20:24.240><c> rewards</c><00:20:24.640><c> that</c>
+because of the great rewards that
+because of the great rewards that
+running<00:20:25.200><c> code</c><00:20:25.520><c> gives</c><00:20:25.679><c> to</c><00:20:25.919><c> models.</c><00:20:26.320><c> Like</c><00:20:26.559><c> it</c>
+running code gives to models. Like it
+running code gives to models. Like it
+runs<00:20:26.960><c> or</c><00:20:27.120><c> it</c><00:20:27.360><c> doesn't.</c><00:20:27.600><c> What</c><00:20:27.760><c> a</c><00:20:27.919><c> fantastic</c>
+runs or it doesn't. What a fantastic
+runs or it doesn't. What a fantastic
+reward<00:20:28.799><c> for</c><00:20:28.960><c> a</c><00:20:29.039><c> model</c><00:20:29.280><c> that</c><00:20:29.520><c> trains</c><00:20:29.679><c> on</c>
+reward for a model that trains on
+reward for a model that trains on
+reinforcement<00:20:30.480><c> learning.</c><00:20:30.960><c> Well,</c><00:20:31.679><c> at</c><00:20:31.840><c> the</c><00:20:32.000><c> end</c>
+reinforcement learning. Well, at the end
+reinforcement learning. Well, at the end
+of<00:20:32.240><c> the</c><00:20:32.400><c> day,</c>
+of the day,
+of the day,
+it<00:20:34.159><c> may</c><00:20:34.320><c> not</c><00:20:34.559><c> just</c><00:20:34.799><c> be</c><00:20:34.960><c> that</c><00:20:35.200><c> it</c><00:20:35.440><c> happens</c><00:20:35.840><c> to</c><00:20:36.000><c> be</c>
+it may not just be that it happens to be
+it may not just be that it happens to be
+good<00:20:36.400><c> for</c><00:20:36.559><c> training</c><00:20:36.960><c> models.</c><00:20:37.360><c> It</c><00:20:37.520><c> may</c><00:20:37.679><c> be</c><00:20:37.760><c> that</c>
+good for training models. It may be that
+good for training models. It may be that
+the<00:20:38.159><c> people</c><00:20:38.400><c> building</c><00:20:38.720><c> the</c><00:20:38.880><c> models</c><00:20:39.360><c> know</c><00:20:39.600><c> code</c>
+the people building the models know code
+the people building the models know code
+and<00:20:40.480><c> they</c><00:20:40.640><c> don't</c><00:20:40.799><c> know</c><00:20:41.039><c> other</c><00:20:41.200><c> fields</c><00:20:41.520><c> as</c>
+and they don't know other fields as
+and they don't know other fields as
+well.<00:20:42.480><c> And</c><00:20:42.720><c> I</c><00:20:42.880><c> think</c><00:20:42.960><c> that</c><00:20:43.200><c> this</c><00:20:43.440><c> is</c><00:20:43.600><c> going</c><00:20:43.679><c> to</c>
+well. And I think that this is going to
+well. And I think that this is going to
+become<00:20:44.080><c> more</c><00:20:44.159><c> and</c><00:20:44.400><c> more</c><00:20:44.559><c> important</c><00:20:44.799><c> in</c><00:20:45.039><c> this</c>
+become more and more important in this
+become more and more important in this
+next<00:20:45.520><c> two</c><00:20:45.679><c> or</c><00:20:45.919><c> three</c><00:20:46.080><c> years</c><00:20:46.240><c> of</c><00:20:46.480><c> the</c><00:20:46.640><c> AI</c>
+next two or three years of the AI
+next two or three years of the AI
+revolution<00:20:47.679><c> because</c><00:20:48.240><c> more</c><00:20:48.480><c> and</c><00:20:48.640><c> more</c><00:20:48.880><c> and</c>
+revolution because more and more and
+revolution because more and more and
+more<00:20:49.360><c> we</c><00:20:49.679><c> are</c><00:20:49.840><c> going</c><00:20:50.000><c> to</c><00:20:50.159><c> expect</c><00:20:50.799><c> if</c><00:20:51.039><c> we</c>
+more we are going to expect if we
+more we are going to expect if we
+purchase<00:20:51.600><c> the</c><00:20:51.919><c> intelligence</c><00:20:52.559><c> it's</c><00:20:52.880><c> doing</c>
+purchase the intelligence it's doing
+purchase the intelligence it's doing
+meaningful<00:20:53.600><c> work</c><00:20:54.080><c> and</c><00:20:54.240><c> it's</c><00:20:54.480><c> going</c><00:20:54.480><c> to</c><00:20:54.640><c> be</c>
+meaningful work and it's going to be
+meaningful work and it's going to be
+domain<00:20:55.200><c> experts</c><00:20:55.679><c> outside</c><00:20:56.159><c> of</c><00:20:56.400><c> tech</c><00:20:56.960><c> that</c>
+domain experts outside of tech that
+domain experts outside of tech that
+assess<00:20:57.760><c> that</c><00:20:58.080><c> meaningful</c><00:20:58.640><c> work</c><00:20:59.120><c> and</c><00:20:59.360><c> if</c><00:20:59.520><c> it</c>
+assess that meaningful work and if it
+assess that meaningful work and if it
+does<00:20:59.840><c> or</c><00:21:00.080><c> it</c><00:21:00.320><c> doesn't</c><00:21:00.960><c> it's</c><00:21:01.200><c> going</c><00:21:01.280><c> to</c><00:21:01.440><c> be</c><00:21:01.520><c> on</c>
+does or it doesn't it's going to be on
+does or it doesn't it's going to be on
+them<00:21:02.080><c> to</c><00:21:02.320><c> say</c><00:21:02.799><c> not</c><00:21:02.960><c> on</c><00:21:03.120><c> the</c><00:21:03.280><c> labs</c><00:21:03.679><c> but</c><00:21:03.919><c> the</c><00:21:04.080><c> labs</c>
+them to say not on the labs but the labs
+them to say not on the labs but the labs
+have<00:21:04.720><c> tremendous</c><00:21:05.360><c> incentive</c><00:21:06.000><c> to</c><00:21:06.240><c> say</c><00:21:06.480><c> they're</c>
+have tremendous incentive to say they're
+have tremendous incentive to say they're
+good<00:21:07.360><c> and</c><00:21:07.520><c> so</c><00:21:07.679><c> we</c><00:21:07.919><c> see</c><00:21:08.320><c> what</c><00:21:08.559><c> is</c><00:21:08.720><c> effectively</c>
+good and so we see what is effectively
+good and so we see what is effectively
+an<00:21:09.600><c> implicit</c><00:21:10.080><c> conflict</c><00:21:10.400><c> where</c><00:21:10.640><c> open</c><00:21:10.960><c> AI</c><00:21:11.280><c> is</c>
+an implicit conflict where open AI is
+an implicit conflict where open AI is
+taking<00:21:11.600><c> a</c><00:21:11.760><c> victim</c><00:21:12.240><c> lap</c><00:21:12.480><c> and</c><00:21:12.640><c> awarding</c>
+taking a victim lap and awarding
+taking a victim lap and awarding
+themselves<00:21:13.360><c> the</c><00:21:13.520><c> gold</c><00:21:13.760><c> medal</c><00:21:14.000><c> and</c><00:21:14.240><c> feeling</c>
+themselves the gold medal and feeling
+themselves the gold medal and feeling
+great<00:21:14.960><c> and</c><00:21:15.200><c> they</c><00:21:15.440><c> did</c><00:21:15.679><c> clearly</c><00:21:16.080><c> make</c><00:21:16.320><c> some</c>
+great and they did clearly make some
+great and they did clearly make some
+kind<00:21:16.720><c> of</c><00:21:16.880><c> breakthrough.</c><00:21:17.360><c> And</c><00:21:17.520><c> so</c><00:21:17.679><c> they</c>
+kind of breakthrough. And so they
+kind of breakthrough. And so they
+probably<00:21:18.159><c> feel</c><00:21:18.400><c> internally</c><00:21:18.960><c> like</c><00:21:19.120><c> they</c>
+probably feel internally like they
+probably feel internally like they
+earned<00:21:19.520><c> it</c><00:21:20.000><c> because</c><00:21:20.240><c> the</c><00:21:20.559><c> answers</c><00:21:20.880><c> were</c>
+earned it because the answers were
+earned it because the answers were
+apparently<00:21:21.760><c> correct.</c><00:21:22.400><c> And</c><00:21:22.640><c> mathematicians</c>
+apparently correct. And mathematicians
+apparently correct. And mathematicians
+are<00:21:23.440><c> much</c><00:21:23.679><c> more</c><00:21:23.840><c> cautious.</c><00:21:24.159><c> They're</c><00:21:24.320><c> like,</c>
+are much more cautious. They're like,
+are much more cautious. They're like,
+well,<00:21:24.720><c> we</c><00:21:24.880><c> don't</c><00:21:25.039><c> understand</c><00:21:25.280><c> how</c><00:21:25.440><c> this</c><00:21:25.600><c> was</c>
+well, we don't understand how this was
+well, we don't understand how this was
+done.<00:21:26.000><c> We</c><00:21:26.240><c> don't</c><00:21:26.400><c> know</c><00:21:27.039><c> the</c><00:21:27.280><c> the</c><00:21:27.919><c> testing</c>
+done. We don't know the the testing
+done. We don't know the the testing
+methodology<00:21:28.880><c> that</c><00:21:29.039><c> you</c><00:21:29.200><c> use.</c><00:21:29.520><c> We</c><00:21:29.679><c> don't</c>
+methodology that you use. We don't
+methodology that you use. We don't
+understand<00:21:30.159><c> the</c><00:21:30.400><c> model.</c><00:21:30.720><c> And</c><00:21:30.960><c> critically,</c>
+understand the model. And critically,
+understand the model. And critically,
+even<00:21:31.760><c> looking</c><00:21:32.080><c> at</c><00:21:32.320><c> the</c><00:21:32.480><c> proofs</c><00:21:32.880><c> themselves,</c>
+even looking at the proofs themselves,
+even looking at the proofs themselves,
+something<00:21:34.240><c> feels</c><00:21:34.559><c> weird.</c><00:21:34.960><c> It</c><00:21:35.120><c> feels</c><00:21:35.280><c> less</c>
+something feels weird. It feels less
+something feels weird. It feels less
+creative.<00:21:36.480><c> It</c><00:21:36.799><c> feels</c><00:21:37.120><c> like</c><00:21:37.360><c> it's</c><00:21:37.679><c> unclear</c><00:21:38.320><c> why</c>
+creative. It feels like it's unclear why
+creative. It feels like it's unclear why
+it<00:21:38.880><c> attempted</c><00:21:39.600><c> five</c><00:21:40.000><c> but</c><00:21:40.240><c> not</c><00:21:40.559><c> six</c><00:21:41.280><c> which</c><00:21:41.440><c> was</c>
+it attempted five but not six which was
+it attempted five but not six which was
+the<00:21:41.760><c> more</c><00:21:41.919><c> creative</c><00:21:42.320><c> problem</c><00:21:42.799><c> and</c><00:21:42.960><c> in</c><00:21:43.200><c> their</c>
+the more creative problem and in their
+the more creative problem and in their
+lived<00:21:43.679><c> experience</c><00:21:44.080><c> with</c><00:21:44.320><c> mathematical</c>
+lived experience with mathematical
+lived experience with mathematical
+models<00:21:45.280><c> so</c><00:21:45.440><c> far</c><00:21:45.679><c> they</c><00:21:45.840><c> aren't</c><00:21:46.159><c> seeing</c>
+models so far they aren't seeing
+models so far they aren't seeing
+significant<00:21:47.200><c> gains</c><00:21:47.840><c> and</c><00:21:48.000><c> the</c><00:21:48.159><c> tech</c><00:21:48.480><c> people</c>
+significant gains and the tech people
+significant gains and the tech people
+tend<00:21:49.039><c> to</c><00:21:49.280><c> dismiss</c><00:21:49.600><c> that</c><00:21:49.919><c> they</c><00:21:50.159><c> tend</c><00:21:50.240><c> to</c><00:21:50.400><c> say</c>
+tend to dismiss that they tend to say
+tend to dismiss that they tend to say
+you're<00:21:51.200><c> domain</c><00:21:51.600><c> experts</c><00:21:52.080><c> for</c><00:21:52.320><c> now</c><00:21:52.880><c> but</c><00:21:53.039><c> you</c>
+you're domain experts for now but you
+you're domain experts for now but you
+just<00:21:53.440><c> wait</c><00:21:53.760><c> give</c><00:21:53.919><c> us</c><00:21:54.159><c> six</c><00:21:54.320><c> more</c><00:21:54.559><c> months</c><00:21:54.799><c> we're</c>
+just wait give us six more months we're
+just wait give us six more months we're
+going<00:21:55.039><c> to</c><00:21:55.120><c> be</c><00:21:55.280><c> do</c><00:21:55.600><c> domain</c><00:21:56.000><c> experts</c><00:21:56.400><c> over</c><00:21:56.559><c> here</c>
+going to be do domain experts over here
+going to be do domain experts over here
+because<00:21:57.120><c> AI</c><00:21:57.440><c> is</c><00:21:57.600><c> going</c><00:21:57.679><c> to</c><00:21:57.760><c> solve</c><00:21:58.000><c> it</c><00:21:58.480><c> they've</c>
+because AI is going to solve it they've
+because AI is going to solve it they've
+been<00:21:58.960><c> saying</c><00:21:59.280><c> that</c><00:21:59.600><c> 6</c><00:21:59.840><c> months</c><00:22:00.080><c> away</c><00:22:00.400><c> for</c><00:22:00.559><c> a</c>
+been saying that 6 months away for a
+been saying that 6 months away for a
+while<00:22:00.960><c> now</c><00:22:01.440><c> and</c><00:22:01.679><c> the</c><00:22:01.840><c> models</c><00:22:02.240><c> keep</c><00:22:02.480><c> getting</c>
+while now and the models keep getting
+while now and the models keep getting
+better<00:22:03.760><c> and</c><00:22:04.000><c> the</c><00:22:04.240><c> true</c><00:22:04.480><c> domain</c><00:22:04.960><c> experts</c><00:22:05.360><c> like</c>
+better and the true domain experts like
+better and the true domain experts like
+Terren<00:22:05.919><c> aren't</c><00:22:06.320><c> changing</c><00:22:06.640><c> their</c><00:22:06.799><c> tune.</c><00:22:07.120><c> They</c>
+Terren aren't changing their tune. They
+Terren aren't changing their tune. They
+keep<00:22:07.520><c> saying</c><00:22:07.679><c> these</c><00:22:08.000><c> models</c><00:22:08.320><c> are</c><00:22:08.480><c> getting</c>
+keep saying these models are getting
+keep saying these models are getting
+better,<00:22:09.200><c> but</c><00:22:09.440><c> not</c><00:22:09.679><c> necessarily</c><00:22:10.400><c> in</c><00:22:10.640><c> ways</c><00:22:10.880><c> that</c>
+better, but not necessarily in ways that
+better, but not necessarily in ways that
+are<00:22:11.200><c> profoundly</c><00:22:11.760><c> helpful</c><00:22:12.000><c> to</c><00:22:12.159><c> me</c><00:22:12.400><c> yet.</c><00:22:12.799><c> I</c>
+are profoundly helpful to me yet. I
+are profoundly helpful to me yet. I
+think<00:22:13.120><c> we</c><00:22:13.280><c> need</c><00:22:13.440><c> to</c><00:22:13.600><c> listen</c><00:22:13.760><c> to</c><00:22:13.919><c> them</c><00:22:14.080><c> more.</c>
+think we need to listen to them more.
+think we need to listen to them more.
+So,<00:22:14.720><c> wrapping</c><00:22:15.120><c> all</c><00:22:15.200><c> of</c><00:22:15.360><c> this</c><00:22:15.520><c> up,</c><00:22:16.000><c> the</c><00:22:16.320><c> only</c>
+So, wrapping all of this up, the only
+So, wrapping all of this up, the only
+way<00:22:16.880><c> I've</c><00:22:17.200><c> found</c><00:22:17.760><c> to</c><00:22:18.080><c> establish</c><00:22:18.720><c> trust</c><00:22:19.039><c> in</c><00:22:19.280><c> a</c>
+way I've found to establish trust in a
+way I've found to establish trust in a
+model<00:22:19.840><c> is</c><00:22:20.080><c> to</c><00:22:20.320><c> use</c><00:22:20.559><c> some</c><00:22:20.799><c> of</c><00:22:20.880><c> these</c><00:22:21.120><c> rule</c><00:22:21.360><c> of</c>
+model is to use some of these rule of
+model is to use some of these rule of
+thumb<00:22:22.159><c> to</c><00:22:22.640><c> understand</c><00:22:23.520><c> where</c><00:22:23.760><c> you</c><00:22:24.000><c> can</c><00:22:24.080><c> trust</c>
+thumb to understand where you can trust
+thumb to understand where you can trust
+and<00:22:24.559><c> where</c><00:22:24.720><c> you</c><00:22:24.880><c> can't.</c><00:22:25.440><c> And</c><00:22:25.600><c> so</c><00:22:25.760><c> for</c><00:22:26.000><c> OpenAI,</c>
+and where you can't. And so for OpenAI,
+and where you can't. And so for OpenAI,
+I<00:22:27.440><c> trust</c><00:22:27.760><c> the</c><00:22:28.000><c> models</c><00:22:28.320><c> I</c><00:22:28.640><c> have</c><00:22:28.799><c> in</c><00:22:29.039><c> production</c>
+I trust the models I have in production
+I trust the models I have in production
+now.<00:22:30.159><c> Where</c><00:22:30.400><c> they</c><00:22:30.640><c> do</c><00:22:30.799><c> useful</c><00:22:31.120><c> work,</c><00:22:31.360><c> they</c>
+now. Where they do useful work, they
+now. Where they do useful work, they
+tend<00:22:31.760><c> to</c><00:22:31.919><c> be</c><00:22:32.080><c> good.</c><00:22:32.480><c> I</c><00:22:32.880><c> do</c><00:22:33.120><c> not</c><00:22:33.760><c> take</c><00:22:34.000><c> their</c>
+tend to be good. I do not take their
+tend to be good. I do not take their
+claims<00:22:34.640><c> super</c><00:22:35.039><c> seriously</c><00:22:35.440><c> when</c><00:22:35.679><c> they're</c><00:22:35.919><c> not</c>
+claims super seriously when they're not
+claims super seriously when they're not
+in<00:22:36.240><c> production</c><00:22:36.559><c> yet.</c><00:22:37.120><c> For</c><00:22:37.360><c> Meta,</c><00:22:38.000><c> I</c><00:22:38.240><c> tend</c><00:22:38.480><c> to</c>
+in production yet. For Meta, I tend to
+in production yet. For Meta, I tend to
+assume<00:22:39.039><c> they're</c><00:22:39.280><c> running</c><00:22:39.520><c> on</c><00:22:39.679><c> a</c><00:22:39.840><c> two-year</c>
+assume they're running on a two-year
+assume they're running on a two-year
+pendulum<00:22:40.799><c> and</c><00:22:41.039><c> sometime</c><00:22:41.440><c> next</c><00:22:41.679><c> year</c><00:22:41.919><c> they're</c>
+pendulum and sometime next year they're
+pendulum and sometime next year they're
+going<00:22:42.240><c> to</c><00:22:42.320><c> come</c><00:22:42.480><c> up</c><00:22:42.640><c> with</c><00:22:42.880><c> something</c><00:22:43.360><c> amazing</c>
+going to come up with something amazing
+going to come up with something amazing
+because<00:22:44.159><c> they</c><00:22:44.320><c> bought</c><00:22:44.559><c> their</c><00:22:44.799><c> way</c><00:22:44.880><c> to</c><00:22:45.039><c> it,</c><00:22:45.200><c> but</c>
+because they bought their way to it, but
+because they bought their way to it, but
+it<00:22:45.679><c> still</c><00:22:45.840><c> won't</c><00:22:46.080><c> be</c><00:22:46.240><c> clear</c><00:22:46.480><c> if</c><00:22:46.640><c> it's</c><00:22:46.799><c> cutting</c>
+it still won't be clear if it's cutting
+it still won't be clear if it's cutting
+edge.<00:22:47.440><c> For</c><00:22:47.840><c> anthropic,</c><00:22:48.640><c> I</c><00:22:48.880><c> trust</c><00:22:49.120><c> them</c><00:22:49.280><c> to</c><00:22:49.440><c> do</c>
+edge. For anthropic, I trust them to do
+edge. For anthropic, I trust them to do
+the<00:22:49.760><c> best</c><00:22:49.919><c> white</c><00:22:50.240><c> papers</c><00:22:50.559><c> in</c><00:22:50.720><c> the</c><00:22:50.880><c> industry,</c>
+the best white papers in the industry,
+the best white papers in the industry,
+but<00:22:51.440><c> I</c><00:22:51.679><c> don't</c><00:22:51.840><c> necessarily</c><00:22:52.480><c> assume</c><00:22:53.120><c> that</c>
+but I don't necessarily assume that
+but I don't necessarily assume that
+their<00:22:53.600><c> wild</c><00:22:54.000><c> optimism</c><00:22:54.720><c> is</c><00:22:55.280><c> correct.</c><00:22:55.919><c> For</c><00:22:56.159><c> X,</c><00:22:56.640><c> I</c>
+their wild optimism is correct. For X, I
+their wild optimism is correct. For X, I
+don't<00:22:57.039><c> trust</c><00:22:57.360><c> them</c><00:22:57.520><c> with</c><00:22:57.679><c> a</c><00:22:57.919><c> lot</c><00:22:58.080><c> right</c><00:22:58.320><c> now</c>
+don't trust them with a lot right now
+don't trust them with a lot right now
+because<00:22:59.600><c> XAI</c><00:23:00.559><c> has</c><00:23:00.799><c> just</c><00:23:01.039><c> hidden</c><00:23:01.440><c> so</c><00:23:01.679><c> much.</c><00:23:02.159><c> And</c>
+because XAI has just hidden so much. And
+because XAI has just hidden so much. And
+for<00:23:02.559><c> Google,</c><00:23:03.280><c> tremendously</c><00:23:04.080><c> competent</c>
+for Google, tremendously competent
+for Google, tremendously competent
+models,<00:23:05.360><c> but</c><00:23:05.760><c> it's</c><00:23:06.080><c> hard</c><00:23:06.240><c> for</c><00:23:06.400><c> me</c><00:23:06.559><c> to</c><00:23:06.720><c> trust</c>
+models, but it's hard for me to trust
+models, but it's hard for me to trust
+them<00:23:07.200><c> to</c><00:23:07.520><c> build</c><00:23:07.919><c> off</c><00:23:08.080><c> of</c><00:23:08.240><c> the</c><00:23:08.480><c> models</c><00:23:08.799><c> onto</c><00:23:09.200><c> an</c>
+them to build off of the models onto an
+them to build off of the models onto an
+intelligent<00:23:09.919><c> surface</c><00:23:10.240><c> that</c><00:23:10.559><c> other</c><00:23:10.720><c> people</c>
+intelligent surface that other people
+intelligent surface that other people
+can<00:23:11.200><c> consume</c><00:23:11.600><c> because</c><00:23:11.840><c> they</c><00:23:12.080><c> just</c><00:23:12.240><c> haven't</c>
+can consume because they just haven't
+can consume because they just haven't
+shown<00:23:12.799><c> UX</c><00:23:13.280><c> skills.</c><00:23:14.000><c> So,</c><00:23:14.159><c> that's</c><00:23:14.559><c> my</c>
+shown UX skills. So, that's my
+shown UX skills. So, that's my
+benchmarks.<00:23:15.520><c> Other</c><00:23:15.840><c> people</c><00:23:16.000><c> may</c><00:23:16.320><c> have</c>
+benchmarks. Other people may have
+benchmarks. Other people may have
+different<00:23:16.720><c> benchmarks,</c><00:23:17.280><c> but</c><00:23:17.520><c> I</c><00:23:17.679><c> wanted</c><00:23:17.840><c> to</c>
+different benchmarks, but I wanted to
+different benchmarks, but I wanted to
+share<00:23:18.960><c> this</c><00:23:19.200><c> is</c><00:23:19.360><c> how</c><00:23:19.600><c> I'm</c><00:23:19.919><c> parsing</c><00:23:20.559><c> and</c>
+share this is how I'm parsing and
+share this is how I'm parsing and
+developing<00:23:21.840><c> rules</c><00:23:22.159><c> of</c><00:23:22.400><c> thumb</c><00:23:23.039><c> that</c><00:23:23.280><c> help</c><00:23:23.520><c> me</c>
+developing rules of thumb that help me
+developing rules of thumb that help me
+make<00:23:23.840><c> sense</c><00:23:24.080><c> of</c><00:23:24.320><c> this</c><00:23:24.480><c> world</c><00:23:24.720><c> where</c><00:23:24.880><c> I</c><00:23:25.039><c> have</c><00:23:25.200><c> to</c>
+make sense of this world where I have to
+make sense of this world where I have to
+buy<00:23:25.600><c> intelligence</c><00:23:26.240><c> kind</c><00:23:26.480><c> of</c><00:23:26.640><c> sight</c><00:23:26.960><c> unseen.</c>
+buy intelligence kind of sight unseen.
+buy intelligence kind of sight unseen.
+Does<00:23:27.760><c> that</c><00:23:27.919><c> make</c><00:23:28.080><c> sense?</c><00:23:28.559><c> Put</c><00:23:28.720><c> in</c><00:23:28.880><c> the</c>
+Does that make sense? Put in the
+Does that make sense? Put in the
+comments<00:23:29.200><c> what</c><00:23:29.440><c> you</c><00:23:29.600><c> think</c><00:23:29.679><c> would</c><00:23:29.840><c> be</c><00:23:30.000><c> a</c>
+comments what you think would be a
+comments what you think would be a
+huristic<00:23:30.720><c> for</c><00:23:31.120><c> buying</c><00:23:31.440><c> things</c><00:23:31.679><c> sight</c><00:23:32.000><c> unseen</c>
+huristic for buying things sight unseen
+huristic for buying things sight unseen
+for<00:23:32.640><c> models.</c><00:23:33.280><c> Cheers.</c>

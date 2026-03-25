@@ -1,0 +1,22 @@
+{
+  "created": "2026-02-10T22:27:52.419861",
+  "videos": [
+    {
+      "video_id": "DAxARHKQAXs",
+      "title": "The 4 AI Agents Non-Technical People Actually Need (And How to Use Them Today)",
+      "sonnet_file": "/Users/patrickheiskanen/1658HoldingsOy-AIFiles/YouTubeResearch-AIFiles/knowledge-base/videos/2025-12-4-ai-agents-guide.md",
+      "sonnet_strategic_value": "high",
+      "sonnet_quality_score": "5",
+      "transcript": "/Users/patrickheiskanen/1658HoldingsOy-AIFiles/YouTubeResearch-AIFiles/reference/transcripts/tier2-DAxARHKQAXs.txt"
+    },
+    {
+      "video_id": "0TpON5T-Sw4",
+      "title": "Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)",
+      "sonnet_file": "/Users/patrickheiskanen/1658HoldingsOy-AIFiles/YouTubeResearch-AIFiles/knowledge-base/videos/2026-01-second-brain-system.md",
+      "sonnet_strategic_value": "high",
+      "sonnet_quality_score": "5",
+      "transcript": "/Users/patrickheiskanen/1658HoldingsOy-AIFiles/YouTubeResearch-AIFiles/reference/transcripts/tier1-0TpON5T-Sw4.txt"
+    }
+  ],
+  "batch_file": "batch-job-comparison-20260210-222752.jsonl"
+}

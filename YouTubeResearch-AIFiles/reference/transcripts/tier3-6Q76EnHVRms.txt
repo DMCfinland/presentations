@@ -1,0 +1,1366 @@
+One<00:00:00.400><c> of</c><00:00:00.480><c> the</c><00:00:00.640><c> most</c><00:00:00.880><c> common</c><00:00:01.280><c> concerns</c><00:00:01.680><c> I</c><00:00:01.920><c> get</c>
+One of the most common concerns I get
+One of the most common concerns I get
+from<00:00:02.320><c> people</c><00:00:02.639><c> is</c><00:00:02.879><c> that</c><00:00:03.120><c> they</c><00:00:03.760><c> do</c><00:00:04.000><c> not</c><00:00:04.160><c> know</c><00:00:04.319><c> how</c>
+from people is that they do not know how
+from people is that they do not know how
+to<00:00:04.640><c> optimize</c><00:00:05.040><c> their</c><00:00:05.279><c> prompts</c><00:00:05.680><c> and</c><00:00:05.920><c> they</c><00:00:06.160><c> want</c>
+to optimize their prompts and they want
+to optimize their prompts and they want
+to,<00:00:06.640><c> but</c><00:00:06.879><c> they</c><00:00:07.040><c> don't</c><00:00:07.200><c> feel</c><00:00:07.440><c> they</c><00:00:07.600><c> have</c><00:00:07.680><c> the</c>
+to, but they don't feel they have the
+to, but they don't feel they have the
+expertise.<00:00:08.559><c> I've</c><00:00:08.800><c> written</c><00:00:09.040><c> a</c><00:00:09.280><c> lot</c><00:00:09.440><c> about</c><00:00:09.679><c> how</c>
+expertise. I've written a lot about how
+expertise. I've written a lot about how
+to<00:00:10.080><c> develop</c><00:00:10.400><c> that</c><00:00:10.639><c> expertise,</c><00:00:11.200><c> but</c><00:00:11.440><c> I</c><00:00:11.679><c> also</c>
+to develop that expertise, but I also
+to develop that expertise, but I also
+recognize<00:00:12.800><c> it's</c><00:00:13.040><c> not</c><00:00:13.200><c> for</c><00:00:13.440><c> everyone.</c><00:00:14.000><c> This</c>
+recognize it's not for everyone. This
+recognize it's not for everyone. This
+method<00:00:14.799><c> that</c><00:00:15.040><c> I'm</c><00:00:15.280><c> about</c><00:00:15.519><c> to</c><00:00:15.759><c> show</c><00:00:15.920><c> you</c><00:00:16.240><c> is</c>
+method that I'm about to show you is
+method that I'm about to show you is
+actually<00:00:17.199><c> a</c><00:00:17.520><c> way</c><00:00:18.080><c> to</c><00:00:18.320><c> make</c><00:00:18.640><c> AI</c><00:00:19.199><c> optimize</c><00:00:19.680><c> your</c>
+actually a way to make AI optimize your
+actually a way to make AI optimize your
+prompts<00:00:20.320><c> for</c><00:00:20.480><c> you.</c><00:00:20.960><c> and</c><00:00:21.199><c> it's</c><00:00:21.600><c> based</c><00:00:22.000><c> on</c><00:00:22.560><c> a</c>
+prompts for you. and it's based on a
+prompts for you. and it's based on a
+very<00:00:23.279><c> very</c><00:00:23.680><c> famous</c><00:00:24.560><c> Python</c><00:00:25.199><c> computer</c>
+very very famous Python computer
+very very famous Python computer
+language<00:00:26.000><c> framework</c><00:00:26.560><c> that</c><00:00:26.800><c> engineers</c><00:00:27.359><c> are</c>
+language framework that engineers are
+language framework that engineers are
+currently<00:00:28.080><c> using</c><00:00:28.880><c> for</c><00:00:29.679><c> production</c>
+currently using for production
+currently using for production
+prompting.<00:00:30.960><c> And</c><00:00:31.119><c> so</c><00:00:31.279><c> if</c><00:00:31.439><c> you've</c><00:00:31.760><c> ever</c>
+prompting. And so if you've ever
+prompting. And so if you've ever
+wondered<00:00:32.800><c> how</c><00:00:33.040><c> do</c><00:00:33.280><c> people</c><00:00:33.440><c> get</c><00:00:33.680><c> their</c><00:00:33.840><c> prompts</c>
+wondered how do people get their prompts
+wondered how do people get their prompts
+to<00:00:34.399><c> look</c><00:00:34.559><c> so</c><00:00:34.800><c> nice,</c><00:00:35.360><c> well,</c><00:00:35.600><c> this</c><00:00:35.840><c> is</c><00:00:35.920><c> part</c><00:00:36.160><c> of</c>
+to look so nice, well, this is part of
+to look so nice, well, this is part of
+how<00:00:36.880><c> what</c><00:00:37.040><c> I'm</c><00:00:37.280><c> going</c><00:00:37.360><c> to</c><00:00:37.520><c> do</c><00:00:37.680><c> is</c><00:00:37.920><c> I'm</c><00:00:38.160><c> going</c><00:00:38.239><c> to</c>
+how what I'm going to do is I'm going to
+how what I'm going to do is I'm going to
+walk<00:00:38.640><c> through</c><00:00:38.800><c> and</c><00:00:39.040><c> explain</c><00:00:39.360><c> the</c><00:00:39.680><c> concepts</c><00:00:40.320><c> in</c>
+walk through and explain the concepts in
+walk through and explain the concepts in
+this<00:00:40.960><c> video.</c><00:00:41.600><c> And</c><00:00:41.840><c> then</c><00:00:42.239><c> I'm</c><00:00:42.559><c> going</c><00:00:42.640><c> to</c><00:00:42.879><c> have</c><00:00:43.120><c> a</c>
+this video. And then I'm going to have a
+this video. And then I'm going to have a
+whole<00:00:43.600><c> post</c><00:00:44.160><c> that</c><00:00:44.640><c> lays</c><00:00:44.800><c> out</c><00:00:45.040><c> how</c><00:00:45.280><c> you</c>
+whole post that lays out how you
+whole post that lays out how you
+actually<00:00:45.920><c> get</c><00:00:46.160><c> started</c><00:00:46.480><c> with</c><00:00:47.039><c> specific</c>
+actually get started with specific
+actually get started with specific
+prompts<00:00:48.320><c> with</c><00:00:48.559><c> examples.</c><00:00:49.520><c> And</c><00:00:49.680><c> I'm</c><00:00:49.920><c> going</c><00:00:50.000><c> to</c>
+prompts with examples. And I'm going to
+prompts with examples. And I'm going to
+divide<00:00:50.399><c> that</c><00:00:50.640><c> post</c><00:00:50.879><c> into</c><00:00:51.200><c> three</c><00:00:51.440><c> parts.</c><00:00:52.000><c> Part</c>
+divide that post into three parts. Part
+divide that post into three parts. Part
+one<00:00:52.480><c> is</c><00:00:52.719><c> for</c><00:00:52.879><c> beginners.</c><00:00:53.440><c> This</c><00:00:53.600><c> is</c><00:00:53.920><c> nobody's</c>
+one is for beginners. This is nobody's
+one is for beginners. This is nobody's
+ever<00:00:54.559><c> done</c><00:00:54.719><c> this.</c><00:00:55.280><c> You</c><00:00:55.600><c> should</c><00:00:56.000><c> be</c><00:00:56.160><c> able</c><00:00:56.719><c> to</c>
+ever done this. You should be able to
+ever done this. You should be able to
+apply<00:00:58.079><c> these</c><00:00:58.480><c> lessons</c><00:00:59.120><c> as</c><00:00:59.440><c> someone</c><00:00:59.840><c> who</c>
+apply these lessons as someone who
+apply these lessons as someone who
+doesn't<00:01:00.640><c> want</c><00:01:00.800><c> to</c><00:01:01.039><c> touch</c><00:01:01.280><c> Python</c><00:01:01.760><c> code,</c>
+doesn't want to touch Python code,
+doesn't want to touch Python code,
+doesn't<00:01:02.480><c> want</c><00:01:02.640><c> to</c><00:01:02.800><c> touch</c><00:01:03.039><c> the</c><00:01:03.199><c> terminal,</c>
+doesn't want to touch the terminal,
+doesn't want to touch the terminal,
+doesn't<00:01:04.400><c> want</c><00:01:04.559><c> to</c><00:01:04.720><c> see</c><00:01:04.960><c> code</c><00:01:05.199><c> at</c><00:01:05.360><c> all,</c><00:01:05.680><c> and</c><00:01:05.920><c> you</c>
+doesn't want to see code at all, and you
+doesn't want to see code at all, and you
+should<00:01:06.240><c> still</c><00:01:06.400><c> be</c><00:01:06.479><c> able</c><00:01:06.640><c> to</c><00:01:06.720><c> get</c><00:01:06.880><c> benefits.</c>
+should still be able to get benefits.
+should still be able to get benefits.
+And<00:01:07.760><c> that</c><00:01:07.920><c> is</c><00:01:08.080><c> not</c><00:01:08.240><c> something</c><00:01:08.479><c> that</c><00:01:08.640><c> people</c>
+And that is not something that people
+And that is not something that people
+have<00:01:08.960><c> done.</c><00:01:09.280><c> People</c><00:01:09.760><c> generally</c><00:01:10.240><c> say,</c><00:01:10.400><c> "If</c><00:01:10.720><c> you</c>
+have done. People generally say, "If you
+have done. People generally say, "If you
+want<00:01:11.040><c> to</c><00:01:11.360><c> optimize</c><00:01:11.920><c> your</c><00:01:12.159><c> code</c><00:01:12.320><c> like</c><00:01:12.560><c> this,</c>
+want to optimize your code like this,
+want to optimize your code like this,
+well,<00:01:13.200><c> best</c><00:01:13.439><c> of</c><00:01:13.600><c> luck</c><00:01:13.760><c> to</c><00:01:13.920><c> you,</c><00:01:14.080><c> right?</c><00:01:14.320><c> Like</c>
+well, best of luck to you, right? Like
+well, best of luck to you, right? Like
+off<00:01:14.799><c> you</c><00:01:14.960><c> go</c><00:01:15.119><c> and</c><00:01:15.280><c> use</c><00:01:15.439><c> the</c><00:01:15.600><c> terminal."</c><00:01:16.159><c> I</c>
+off you go and use the terminal." I
+off you go and use the terminal." I
+don't<00:01:16.479><c> think</c><00:01:16.640><c> that's</c><00:01:16.880><c> acceptable.</c><00:01:17.520><c> Instead,</c>
+don't think that's acceptable. Instead,
+don't think that's acceptable. Instead,
+I<00:01:18.479><c> want</c><00:01:18.560><c> to</c><00:01:18.720><c> give</c><00:01:18.880><c> you</c><00:01:19.200><c> a</c><00:01:19.600><c> 5-minute</c><00:01:20.159><c> quick</c>
+I want to give you a 5-minute quick
+I want to give you a 5-minute quick
+start<00:01:20.960><c> that</c><00:01:21.200><c> lets</c><00:01:21.520><c> you</c><00:01:21.759><c> take</c><00:01:22.080><c> the</c><00:01:22.400><c> same</c>
+start that lets you take the same
+start that lets you take the same
+principles<00:01:23.360><c> that</c><00:01:23.680><c> engineers</c><00:01:24.240><c> are</c><00:01:24.479><c> using</c><00:01:24.640><c> for</c>
+principles that engineers are using for
+principles that engineers are using for
+production<00:01:25.360><c> code</c><00:01:25.840><c> and</c><00:01:26.159><c> apply</c><00:01:26.479><c> them</c><00:01:26.720><c> yourself</c>
+production code and apply them yourself
+production code and apply them yourself
+in<00:01:28.000><c> the</c><00:01:28.240><c> chat</c><00:01:28.799><c> so</c><00:01:28.960><c> that</c><00:01:29.119><c> you</c><00:01:29.280><c> can</c><00:01:29.439><c> get</c><00:01:29.600><c> some</c><00:01:29.759><c> of</c>
+in the chat so that you can get some of
+in the chat so that you can get some of
+those<00:01:30.000><c> benefits,</c><00:01:30.479><c> too.</c><00:01:30.880><c> But</c><00:01:31.040><c> we're</c><00:01:31.280><c> not</c><00:01:31.439><c> done</c>
+those benefits, too. But we're not done
+those benefits, too. But we're not done
+yet<00:01:31.920><c> because</c><00:01:32.159><c> if</c><00:01:32.400><c> you're</c><00:01:32.479><c> an</c><00:01:32.720><c> engineer</c><00:01:33.040><c> or</c><00:01:33.200><c> a</c>
+yet because if you're an engineer or a
+yet because if you're an engineer or a
+builder,<00:01:33.680><c> if</c><00:01:33.840><c> you're</c><00:01:34.000><c> not</c><00:01:34.159><c> scared</c><00:01:34.320><c> of</c><00:01:34.479><c> the</c>
+builder, if you're not scared of the
+builder, if you're not scared of the
+terminal,<00:01:35.040><c> I</c><00:01:35.280><c> want</c><00:01:35.439><c> to</c><00:01:35.600><c> give</c><00:01:35.920><c> you</c><00:01:36.960><c> a</c>
+terminal, I want to give you a
+terminal, I want to give you a
+reasonably<00:01:38.000><c> technical</c><00:01:38.640><c> explanation</c><00:01:39.680><c> of</c><00:01:40.000><c> how</c>
+reasonably technical explanation of how
+reasonably technical explanation of how
+DSPI<00:01:41.119><c> works,</c><00:01:41.680><c> the</c><00:01:42.000><c> principles</c><00:01:42.400><c> behind</c><00:01:42.799><c> it,</c>
+DSPI works, the principles behind it,
+DSPI works, the principles behind it,
+and<00:01:43.439><c> then</c><00:01:43.680><c> also</c><00:01:43.920><c> in</c><00:01:44.159><c> the</c><00:01:44.320><c> article,</c><00:01:44.960><c> the</c><00:01:45.280><c> get</c>
+and then also in the article, the get
+and then also in the article, the get
+started<00:01:46.079><c> handbook,</c><00:01:46.560><c> so</c><00:01:46.799><c> you</c><00:01:46.960><c> can</c><00:01:47.040><c> get</c><00:01:47.119><c> there.</c>
+started handbook, so you can get there.
+started handbook, so you can get there.
+And<00:01:47.600><c> we're</c><00:01:47.840><c> still</c><00:01:48.079><c> not</c><00:01:48.399><c> done</c><00:01:48.799><c> because</c><00:01:49.200><c> part</c>
+And we're still not done because part
+And we're still not done because part
+three,<00:01:49.920><c> I</c><00:01:50.159><c> want</c><00:01:50.240><c> to</c><00:01:50.399><c> talk</c><00:01:50.479><c> about</c><00:01:50.640><c> how</c><00:01:50.880><c> you</c>
+three, I want to talk about how you
+three, I want to talk about how you
+scale<00:01:51.280><c> this</c><00:01:51.439><c> across</c><00:01:51.759><c> teams.</c><00:01:52.159><c> It's</c><00:01:52.320><c> a</c>
+scale this across teams. It's a
+scale this across teams. It's a
+different<00:01:52.640><c> kind</c><00:01:52.799><c> of</c><00:01:52.880><c> challenge.</c><00:01:53.280><c> If</c><00:01:53.439><c> you're</c><00:01:53.520><c> a</c>
+different kind of challenge. If you're a
+different kind of challenge. If you're a
+solo<00:01:54.079><c> builder,</c><00:01:54.640><c> you</c><00:01:54.799><c> don't</c><00:01:54.960><c> need</c><00:01:55.119><c> that</c><00:01:55.360><c> part.</c>
+solo builder, you don't need that part.
+solo builder, you don't need that part.
+But<00:01:56.079><c> if</c><00:01:56.320><c> you're</c><00:01:56.479><c> managing</c><00:01:56.799><c> a</c><00:01:57.040><c> team</c><00:01:57.200><c> and</c><00:01:57.439><c> you</c>
+But if you're managing a team and you
+But if you're managing a team and you
+have<00:01:57.759><c> production</c><00:01:58.159><c> prompting</c><00:01:58.640><c> pipelines,</c>
+have production prompting pipelines,
+have production prompting pipelines,
+understanding<00:02:00.240><c> how</c><00:02:00.479><c> the</c><00:02:00.719><c> system</c><00:02:01.119><c> scales</c><00:02:01.759><c> is</c>
+understanding how the system scales is
+understanding how the system scales is
+actually<00:02:02.240><c> really</c><00:02:02.560><c> important</c><00:02:02.799><c> and</c><00:02:02.960><c> I</c><00:02:03.119><c> want</c><00:02:03.200><c> to</c>
+actually really important and I want to
+actually really important and I want to
+get<00:02:03.360><c> into</c><00:02:03.520><c> that</c><00:02:03.680><c> and</c><00:02:03.920><c> get</c><00:02:04.000><c> into</c><00:02:04.159><c> some</c><00:02:04.320><c> of</c><00:02:04.399><c> the</c>
+get into that and get into some of the
+get into that and get into some of the
+principles<00:02:04.880><c> of</c><00:02:05.040><c> that.</c><00:02:05.280><c> So</c><00:02:05.520><c> stay</c><00:02:05.680><c> with</c><00:02:05.840><c> me.</c>
+principles of that. So stay with me.
+principles of that. So stay with me.
+We're<00:02:06.560><c> actually</c><00:02:06.799><c> going</c><00:02:06.880><c> to</c><00:02:07.040><c> do</c><00:02:07.200><c> a</c><00:02:07.439><c> little</c><00:02:07.520><c> bit</c>
+We're actually going to do a little bit
+We're actually going to do a little bit
+of<00:02:07.759><c> visuals</c><00:02:08.080><c> on</c><00:02:08.239><c> this</c><00:02:08.399><c> one.</c><00:02:08.560><c> I've</c><00:02:08.800><c> actually</c>
+of visuals on this one. I've actually
+of visuals on this one. I've actually
+seen<00:02:09.280><c> some</c><00:02:09.520><c> requests</c><00:02:09.840><c> for</c><00:02:10.080><c> folks</c><00:02:10.239><c> to</c><00:02:10.479><c> do</c><00:02:10.560><c> more</c>
+seen some requests for folks to do more
+seen some requests for folks to do more
+visuals<00:02:11.039><c> in</c><00:02:11.280><c> these</c><00:02:11.440><c> videos.</c><00:02:11.760><c> We're</c><00:02:11.920><c> going</c><00:02:12.000><c> to</c>
+visuals in these videos. We're going to
+visuals in these videos. We're going to
+get<00:02:12.239><c> to</c><00:02:12.400><c> that</c><00:02:12.640><c> here.</c><00:02:13.280><c> Walk</c><00:02:13.599><c> through</c><00:02:14.480><c> for</c>
+get to that here. Walk through for
+get to that here. Walk through for
+beginners,<00:02:15.360><c> for</c><00:02:15.599><c> builders,</c><00:02:16.160><c> and</c><00:02:16.319><c> for</c><00:02:16.560><c> teams.</c>
+beginners, for builders, and for teams.
+beginners, for builders, and for teams.
+And<00:02:17.280><c> then</c><00:02:17.440><c> there's</c><00:02:17.680><c> going</c><00:02:17.760><c> to</c><00:02:17.840><c> be</c><00:02:18.000><c> lots</c><00:02:18.319><c> more</c>
+And then there's going to be lots more
+And then there's going to be lots more
+good<00:02:18.800><c> stuff</c><00:02:19.280><c> in</c><00:02:19.760><c> the</c><00:02:20.080><c> post</c><00:02:20.480><c> for</c><00:02:20.720><c> those</c><00:02:20.879><c> who</c>
+good stuff in the post for those who
+good stuff in the post for those who
+want<00:02:21.200><c> to</c><00:02:21.280><c> go</c><00:02:21.440><c> farther.</c><00:02:21.920><c> Let's</c><00:02:22.160><c> get</c><00:02:22.319><c> to</c><00:02:22.480><c> it.</c><00:02:22.720><c> All</c>
+want to go farther. Let's get to it. All
+want to go farther. Let's get to it. All
+right,<00:02:23.120><c> here</c><00:02:23.280><c> we</c><00:02:23.440><c> are.</c><00:02:23.680><c> You</c><00:02:23.840><c> know,</c><00:02:24.000><c> I</c><00:02:24.319><c> love</c><00:02:24.640><c> my</c>
+right, here we are. You know, I love my
+right, here we are. You know, I love my
+graphics.<00:02:25.440><c> Uh,</c><00:02:25.760><c> fair</c><00:02:26.080><c> credit.</c><00:02:26.400><c> This</c><00:02:26.560><c> is</c><00:02:26.640><c> Gamma</c>
+graphics. Uh, fair credit. This is Gamma
+graphics. Uh, fair credit. This is Gamma
+helping<00:02:27.360><c> me</c><00:02:27.599><c> organize</c><00:02:28.000><c> my</c><00:02:28.239><c> thinking.</c><00:02:28.560><c> Uh,</c>
+helping me organize my thinking. Uh,
+helping me organize my thinking. Uh,
+nice<00:02:29.120><c> little</c><00:02:29.280><c> AI</c><00:02:29.599><c> tool</c><00:02:30.080><c> using</c><00:02:30.400><c> AI</c><00:02:30.720><c> to</c><00:02:30.879><c> optimize</c>
+nice little AI tool using AI to optimize
+nice little AI tool using AI to optimize
+AI<00:02:31.599><c> for</c><00:02:31.760><c> prompting.</c><00:02:32.400><c> And</c><00:02:32.480><c> the</c><00:02:32.720><c> framework</c>
+AI for prompting. And the framework
+AI for prompting. And the framework
+really<00:02:33.280><c> does</c><00:02:33.519><c> scale</c><00:02:33.760><c> from</c><00:02:34.000><c> beginner</c><00:02:34.319><c> to</c>
+really does scale from beginner to
+really does scale from beginner to
+enterprise.<00:02:35.120><c> So,</c><00:02:35.280><c> with</c><00:02:35.440><c> that</c><00:02:35.680><c> in</c><00:02:35.840><c> mind,</c><00:02:36.239><c> what</c>
+enterprise. So, with that in mind, what
+enterprise. So, with that in mind, what
+are<00:02:36.640><c> we</c><00:02:36.800><c> talking</c><00:02:36.959><c> about?</c><00:02:37.200><c> What</c><00:02:37.360><c> is</c><00:02:37.519><c> this</c><00:02:37.760><c> scary</c>
+are we talking about? What is this scary
+are we talking about? What is this scary
+programming<00:02:38.640><c> language?</c><00:02:39.120><c> This</c><00:02:39.280><c> is</c><00:02:39.360><c> called</c>
+programming language? This is called
+programming language? This is called
+DSPI.<00:02:40.879><c> And</c><00:02:41.040><c> it's</c><00:02:41.200><c> a</c><00:02:41.760><c> a</c><00:02:42.080><c> fork</c><00:02:42.319><c> of</c><00:02:42.480><c> the</c><00:02:42.640><c> Python</c>
+DSPI. And it's a a fork of the Python
+DSPI. And it's a a fork of the Python
+language<00:02:43.360><c> that</c><00:02:43.519><c> enables</c><00:02:43.920><c> you</c><00:02:44.160><c> to</c><00:02:44.319><c> work</c><00:02:44.480><c> with</c>
+language that enables you to work with
+language that enables you to work with
+large<00:02:45.040><c> language</c><00:02:45.360><c> models</c><00:02:45.680><c> by</c><00:02:45.920><c> treating</c>
+large language models by treating
+large language models by treating
+prompts<00:02:46.959><c> as</c><00:02:47.440><c> programmable</c><00:02:48.160><c> code</c><00:02:48.480><c> rather</c><00:02:48.800><c> than</c>
+prompts as programmable code rather than
+prompts as programmable code rather than
+static<00:02:49.280><c> text.</c><00:02:49.599><c> It's</c><00:02:49.760><c> not</c><00:02:49.920><c> really</c><00:02:50.080><c> a</c><00:02:50.239><c> fork.</c>
+static text. It's not really a fork.
+static text. It's not really a fork.
+It's<00:02:50.800><c> it's</c><00:02:51.040><c> a</c><00:02:51.200><c> library.</c><00:02:51.920><c> The</c><00:02:52.160><c> framework</c>
+It's it's a library. The framework
+It's it's a library. The framework
+enables<00:02:52.959><c> systematic</c><00:02:53.519><c> prompt</c><00:02:53.920><c> engineering</c><00:02:54.720><c> so</c>
+enables systematic prompt engineering so
+enables systematic prompt engineering so
+that<00:02:55.200><c> you</c><00:02:55.440><c> can</c><00:02:55.599><c> actually</c><00:02:55.920><c> scale</c><00:02:56.319><c> LLM</c>
+that you can actually scale LLM
+that you can actually scale LLM
+applications<00:02:57.360><c> in</c><00:02:57.680><c> ways</c><00:02:57.840><c> that</c><00:02:58.000><c> go</c><00:02:58.160><c> beyond</c><00:02:58.480><c> just</c>
+applications in ways that go beyond just
+applications in ways that go beyond just
+writing<00:02:59.200><c> use</c><00:02:59.519><c> chain</c><00:02:59.760><c> of</c><00:02:59.920><c> thought</c><00:03:00.160><c> or</c><00:03:00.319><c> like</c>
+writing use chain of thought or like
+writing use chain of thought or like
+some<00:03:00.800><c> other</c><00:03:00.959><c> adjective</c><00:03:01.440><c> to</c><00:03:01.680><c> make</c><00:03:01.840><c> things</c>
+some other adjective to make things
+some other adjective to make things
+better.<00:03:02.400><c> It</c><00:03:02.560><c> enables</c><00:03:02.879><c> you</c><00:03:03.040><c> to</c><00:03:03.280><c> be</c><00:03:03.760><c> structured</c>
+better. It enables you to be structured
+better. It enables you to be structured
+and<00:03:04.319><c> systematic</c><00:03:04.879><c> with</c><00:03:05.120><c> your</c><00:03:05.280><c> prompting</c><00:03:06.000><c> so</c>
+and systematic with your prompting so
+and systematic with your prompting so
+you're<00:03:06.400><c> much</c><00:03:06.640><c> less</c><00:03:06.879><c> dependent</c><00:03:07.280><c> on</c><00:03:07.519><c> individual</c>
+you're much less dependent on individual
+you're much less dependent on individual
+expertise<00:03:08.879><c> which</c><00:03:09.120><c> has</c><00:03:09.280><c> tons</c><00:03:09.599><c> of</c><00:03:09.760><c> benefits</c><00:03:10.159><c> as</c>
+expertise which has tons of benefits as
+expertise which has tons of benefits as
+we'll<00:03:10.640><c> see.</c><00:03:11.120><c> But</c><00:03:11.280><c> don't</c><00:03:11.519><c> worry,</c><00:03:11.920><c> we're</c><00:03:12.159><c> going</c>
+we'll see. But don't worry, we're going
+we'll see. But don't worry, we're going
+to<00:03:12.319><c> start</c><00:03:12.480><c> with</c><00:03:12.640><c> beginners</c><00:03:13.040><c> first.</c><00:03:13.599><c> So</c><00:03:14.000><c> the</c>
+to start with beginners first. So the
+to start with beginners first. So the
+first<00:03:14.640><c> thing</c><00:03:14.800><c> to</c><00:03:15.040><c> do</c><00:03:15.519><c> if</c><00:03:15.760><c> you're</c><00:03:15.920><c> not</c><00:03:16.080><c> sure</c>
+first thing to do if you're not sure
+first thing to do if you're not sure
+what<00:03:16.480><c> I'm</c><00:03:16.720><c> talking</c><00:03:16.959><c> about</c><00:03:17.280><c> is</c><00:03:17.519><c> just</c><00:03:17.680><c> to</c><00:03:17.920><c> get</c>
+what I'm talking about is just to get
+what I'm talking about is just to get
+these<00:03:18.319><c> concepts</c><00:03:18.720><c> under</c><00:03:18.959><c> your</c><00:03:19.120><c> belt</c><00:03:19.280><c> and</c><00:03:19.599><c> then</c>
+these concepts under your belt and then
+these concepts under your belt and then
+the<00:03:19.840><c> next</c><00:03:20.000><c> slide</c><00:03:20.800><c> we're</c><00:03:21.040><c> going</c><00:03:21.120><c> to</c><00:03:21.200><c> have</c><00:03:21.360><c> an</c>
+the next slide we're going to have an
+the next slide we're going to have an
+actual<00:03:22.000><c> full</c><00:03:22.239><c> beginner</c><00:03:22.640><c> prompt</c><00:03:22.959><c> to</c><00:03:23.120><c> walk</c><00:03:23.360><c> you</c>
+actual full beginner prompt to walk you
+actual full beginner prompt to walk you
+through<00:03:24.000><c> that</c><00:03:24.239><c> you</c><00:03:24.400><c> can</c><00:03:24.480><c> paste</c><00:03:24.800><c> right</c><00:03:24.959><c> into</c>
+through that you can paste right into
+through that you can paste right into
+chat<00:03:25.599><c> GPT.</c><00:03:26.400><c> So</c><00:03:26.879><c> DSPI</c><00:03:28.239><c> essentially</c><00:03:29.040><c> provides</c><00:03:29.760><c> a</c>
+chat GPT. So DSPI essentially provides a
+chat GPT. So DSPI essentially provides a
+bridge.<00:03:30.799><c> What</c><00:03:31.040><c> you're</c><00:03:31.280><c> doing</c><00:03:31.760><c> is</c><00:03:32.000><c> you're</c>
+bridge. What you're doing is you're
+bridge. What you're doing is you're
+saying<00:03:32.799><c> here's</c><00:03:33.120><c> where</c><00:03:33.360><c> I</c><00:03:33.519><c> want</c><00:03:33.680><c> to</c><00:03:33.760><c> go</c><00:03:34.080><c> right</c>
+saying here's where I want to go right
+saying here's where I want to go right
+you<00:03:34.640><c> part</c><00:03:34.799><c> one</c><00:03:35.040><c> you're</c><00:03:35.280><c> defining</c><00:03:35.599><c> your</c><00:03:35.840><c> task</c>
+you part one you're defining your task
+you part one you're defining your task
+then<00:03:36.799><c> you're</c><00:03:37.040><c> saying</c><00:03:37.360><c> part</c><00:03:37.599><c> two</c><00:03:38.159><c> here's</c><00:03:38.560><c> some</c>
+then you're saying part two here's some
+then you're saying part two here's some
+examples<00:03:39.440><c> of</c><00:03:39.680><c> how</c><00:03:40.319><c> the</c><00:03:40.640><c> finished</c><00:03:41.120><c> product</c>
+examples of how the finished product
+examples of how the finished product
+looks<00:03:41.760><c> like.</c><00:03:42.000><c> One</c><00:03:42.239><c> example</c><00:03:42.480><c> of</c><00:03:42.640><c> this</c><00:03:42.799><c> is</c><00:03:43.040><c> I</c>
+looks like. One example of this is I
+looks like. One example of this is I
+want<00:03:43.440><c> you</c><00:03:43.599><c> to</c><00:03:43.680><c> write</c><00:03:43.920><c> a</c><00:03:44.080><c> customer</c><00:03:44.400><c> service</c>
+want you to write a customer service
+want you to write a customer service
+email.<00:03:45.440><c> Here's</c><00:03:45.760><c> some</c><00:03:45.920><c> good</c><00:03:46.159><c> examples</c><00:03:46.560><c> of</c>
+email. Here's some good examples of
+email. Here's some good examples of
+customer<00:03:47.280><c> service</c><00:03:47.599><c> emails.</c><00:03:48.319><c> Part</c><00:03:48.720><c> three,</c><00:03:49.519><c> you</c>
+customer service emails. Part three, you
+customer service emails. Part three, you
+want<00:03:50.480><c> the</c><00:03:51.040><c> prompt</c><00:03:51.680><c> optimizer,</c><00:03:52.480><c> the</c><00:03:52.720><c> DSPI</c>
+want the prompt optimizer, the DSPI
+want the prompt optimizer, the DSPI
+library<00:03:54.319><c> to</c><00:03:54.720><c> automatically</c><00:03:55.680><c> refine</c><00:03:56.080><c> its</c>
+library to automatically refine its
+library to automatically refine its
+prompt<00:03:56.720><c> structure</c><00:03:57.599><c> to</c><00:03:57.920><c> optimize</c><00:03:58.640><c> to</c><00:03:58.879><c> reach</c>
+prompt structure to optimize to reach
+prompt structure to optimize to reach
+those<00:03:59.439><c> outputs.</c><00:03:59.920><c> And</c><00:04:00.080><c> so</c><00:04:00.319><c> basically,</c><00:04:00.640><c> you</c>
+those outputs. And so basically, you
+those outputs. And so basically, you
+want<00:04:00.959><c> to</c><00:04:01.120><c> say</c><00:04:02.239><c> my</c><00:04:03.120><c> goal,</c><00:04:03.840><c> here's</c><00:04:04.159><c> what</c><00:04:04.400><c> good</c>
+want to say my goal, here's what good
+want to say my goal, here's what good
+looks<00:04:04.959><c> like,</c><00:04:05.200><c> and</c><00:04:05.439><c> here</c><00:04:05.680><c> is</c><00:04:05.840><c> an</c><00:04:06.000><c> input</c><00:04:06.400><c> for</c>
+looks like, and here is an input for
+looks like, and here is an input for
+that<00:04:06.799><c> good.</c><00:04:07.200><c> You</c><00:04:07.439><c> notice</c><00:04:07.680><c> it</c><00:04:07.840><c> says</c><00:04:08.000><c> input</c>
+that good. You notice it says input
+that good. You notice it says input
+output<00:04:08.799><c> pairs</c><00:04:09.120><c> in</c><00:04:09.360><c> number</c><00:04:09.519><c> two.</c><00:04:09.840><c> That's</c>
+output pairs in number two. That's
+output pairs in number two. That's
+definitely<00:04:10.480><c> key.</c><00:04:11.120><c> You're</c><00:04:11.519><c> basically</c><00:04:12.159><c> telling</c>
+definitely key. You're basically telling
+definitely key. You're basically telling
+the<00:04:12.799><c> DSPI</c><00:04:13.599><c> program,</c><00:04:14.400><c> hey,</c><00:04:14.799><c> could</c><00:04:15.120><c> we</c><00:04:15.360><c> have</c><00:04:15.920><c> an</c>
+the DSPI program, hey, could we have an
+the DSPI program, hey, could we have an
+input<00:04:16.479><c> and</c><00:04:16.720><c> an</c><00:04:16.880><c> output</c><00:04:17.199><c> that</c><00:04:17.440><c> looks</c><00:04:17.600><c> like</c>
+input and an output that looks like
+input and an output that looks like
+this,<00:04:18.000><c> but</c><00:04:18.160><c> I'm</c><00:04:18.320><c> only</c><00:04:18.479><c> going</c><00:04:18.560><c> to</c><00:04:18.639><c> give</c><00:04:18.799><c> you</c><00:04:18.880><c> the</c>
+this, but I'm only going to give you the
+this, but I'm only going to give you the
+input<00:04:19.359><c> next</c><00:04:19.600><c> time,</c><00:04:19.840><c> right?</c><00:04:20.000><c> So,</c><00:04:20.160><c> it's</c><00:04:20.320><c> pattern</c>
+input next time, right? So, it's pattern
+input next time, right? So, it's pattern
+matching,<00:04:21.120><c> right?</c><00:04:21.359><c> It's</c><00:04:21.519><c> not</c><00:04:21.680><c> that</c><00:04:21.840><c> fancy.</c><00:04:22.720><c> If</c>
+matching, right? It's not that fancy. If
+matching, right? It's not that fancy. If
+A<00:04:23.280><c> equals</c><00:04:23.600><c> B</c><00:04:23.919><c> and</c><00:04:24.240><c> C</c><00:04:24.479><c> equals</c><00:04:24.880><c> D,</c><00:04:25.360><c> then</c><00:04:25.520><c> E</c><00:04:25.759><c> equals</c>
+A equals B and C equals D, then E equals
+A equals B and C equals D, then E equals
+F<00:04:26.320><c> is</c><00:04:26.560><c> what</c><00:04:26.639><c> you</c><00:04:26.800><c> kind</c><00:04:26.960><c> of</c><00:04:27.040><c> want</c><00:04:27.120><c> it</c><00:04:27.280><c> to</c><00:04:27.440><c> be</c>
+F is what you kind of want it to be
+F is what you kind of want it to be
+doing.<00:04:28.080><c> In</c><00:04:28.320><c> this</c><00:04:28.479><c> case,</c><00:04:28.880><c> if</c><00:04:29.120><c> I</c><00:04:29.280><c> give</c><00:04:29.440><c> you</c><00:04:29.600><c> notes</c>
+doing. In this case, if I give you notes
+doing. In this case, if I give you notes
+on<00:04:30.000><c> the</c><00:04:30.240><c> customer</c><00:04:30.560><c> call</c><00:04:30.720><c> and</c><00:04:30.880><c> I</c><00:04:31.040><c> give</c><00:04:31.120><c> you</c><00:04:31.280><c> what</c>
+on the customer call and I give you what
+on the customer call and I give you what
+a<00:04:31.520><c> good</c><00:04:31.680><c> email</c><00:04:32.000><c> looks</c><00:04:32.240><c> like</c><00:04:32.400><c> three</c><00:04:32.639><c> or</c><00:04:32.800><c> four</c>
+a good email looks like three or four
+a good email looks like three or four
+times,<00:04:33.680><c> you</c><00:04:34.000><c> should</c><00:04:34.160><c> be</c><00:04:34.320><c> able</c><00:04:34.479><c> to</c><00:04:34.560><c> get</c><00:04:34.800><c> notes</c>
+times, you should be able to get notes
+times, you should be able to get notes
+on<00:04:35.280><c> a</c><00:04:35.520><c> customer</c><00:04:35.840><c> call</c><00:04:36.160><c> and</c><00:04:36.479><c> produce</c><00:04:36.800><c> a</c><00:04:36.960><c> good</c>
+on a customer call and produce a good
+on a customer call and produce a good
+email.<00:04:37.759><c> That's</c><00:04:38.080><c> the</c><00:04:38.240><c> core</c><00:04:38.560><c> idea.</c><00:04:39.199><c> And</c><00:04:39.440><c> yes,</c>
+email. That's the core idea. And yes,
+email. That's the core idea. And yes,
+you<00:04:40.240><c> don't</c><00:04:40.400><c> have</c><00:04:40.560><c> to</c><00:04:40.720><c> run</c><00:04:40.960><c> DSP</c><00:04:41.919><c> to</c><00:04:42.160><c> get</c><00:04:42.320><c> that</c>
+you don't have to run DSP to get that
+you don't have to run DSP to get that
+kind<00:04:42.720><c> of</c><00:04:42.880><c> results.</c><00:04:43.280><c> And</c><00:04:43.440><c> I'm</c><00:04:43.600><c> going</c><00:04:43.680><c> to</c><00:04:43.759><c> show</c>
+kind of results. And I'm going to show
+kind of results. And I'm going to show
+you<00:04:44.080><c> how</c><00:04:44.479><c> if</c><00:04:44.720><c> you</c><00:04:44.880><c> don't</c><00:04:44.960><c> want</c><00:04:45.040><c> to</c><00:04:45.199><c> touch</c><00:04:45.360><c> the</c>
+you how if you don't want to touch the
+you how if you don't want to touch the
+terminal.<00:04:46.160><c> Well,</c><00:04:46.560><c> what</c><00:04:46.800><c> DSP</c><00:04:47.280><c> does,</c><00:04:47.520><c> it</c>
+terminal. Well, what DSP does, it
+terminal. Well, what DSP does, it
+basically<00:04:48.000><c> optimizes</c><00:04:48.479><c> and</c><00:04:48.639><c> it</c><00:04:48.800><c> iterates.</c><00:04:49.520><c> And</c>
+basically optimizes and it iterates. And
+basically optimizes and it iterates. And
+then<00:04:49.919><c> once</c><00:04:50.400><c> it</c><00:04:50.960><c> is</c><00:04:51.280><c> able</c><00:04:51.600><c> to</c><00:04:51.919><c> reliably</c><00:04:52.639><c> produce</c>
+then once it is able to reliably produce
+then once it is able to reliably produce
+a<00:04:53.280><c> good</c><00:04:53.440><c> email,</c><00:04:54.080><c> you</c><00:04:54.320><c> can</c><00:04:54.479><c> actually</c><00:04:54.880><c> integrate</c>
+a good email, you can actually integrate
+a good email, you can actually integrate
+it<00:04:55.759><c> into</c><00:04:56.720><c> your</c><00:04:57.280><c> production</c><00:04:57.759><c> pipeline</c><00:04:58.240><c> for</c><00:04:58.479><c> AI</c>
+it into your production pipeline for AI
+it into your production pipeline for AI
+so<00:04:59.600><c> that</c><00:04:59.840><c> you</c><00:05:00.560><c> know</c><00:05:00.960><c> that</c><00:05:01.280><c> you</c><00:05:01.520><c> have</c><00:05:02.160><c> an</c>
+so that you know that you have an
+so that you know that you have an
+optimal<00:05:02.960><c> prompt</c><00:05:03.280><c> and</c><00:05:03.520><c> it</c><00:05:03.680><c> wasn't</c><00:05:03.840><c> just</c><00:05:04.000><c> based</c>
+optimal prompt and it wasn't just based
+optimal prompt and it wasn't just based
+on<00:05:04.400><c> best</c><00:05:04.720><c> effort.</c><00:05:05.280><c> And</c><00:05:05.440><c> that</c><00:05:05.680><c> in</c><00:05:05.840><c> turn</c>
+on best effort. And that in turn
+on best effort. And that in turn
+increases<00:05:06.560><c> the</c><00:05:06.800><c> overall</c><00:05:07.120><c> quality</c><00:05:07.440><c> of</c><00:05:07.600><c> all</c>
+increases the overall quality of all
+increases the overall quality of all
+your<00:05:07.919><c> prompting</c><00:05:08.320><c> because</c><00:05:08.560><c> you're</c><00:05:08.880><c> actually</c>
+your prompting because you're actually
+your prompting because you're actually
+allowing<00:05:10.080><c> AI</c><00:05:10.960><c> to</c><00:05:11.360><c> optimize</c><00:05:12.400><c> for</c><00:05:12.720><c> AI.</c><00:05:13.120><c> You're</c>
+allowing AI to optimize for AI. You're
+allowing AI to optimize for AI. You're
+allowing<00:05:13.680><c> AI</c><00:05:14.080><c> to</c><00:05:14.320><c> bridge</c><00:05:14.639><c> the</c><00:05:14.880><c> gap</c><00:05:15.520><c> between</c>
+allowing AI to bridge the gap between
+allowing AI to bridge the gap between
+your<00:05:16.080><c> input</c><00:05:16.479><c> and</c><00:05:16.720><c> the</c><00:05:16.960><c> output</c><00:05:17.280><c> you</c><00:05:17.520><c> want</c><00:05:18.080><c> and</c>
+your input and the output you want and
+your input and the output you want and
+construct<00:05:18.720><c> the</c><00:05:18.880><c> prompt</c><00:05:19.120><c> that</c><00:05:19.360><c> links</c><00:05:19.600><c> them.</c>
+construct the prompt that links them.
+construct the prompt that links them.
+And<00:05:20.000><c> that's</c><00:05:20.240><c> really</c><00:05:20.400><c> the</c><00:05:20.639><c> key</c><00:05:20.800><c> idea</c><00:05:21.039><c> I</c><00:05:21.280><c> want</c><00:05:21.360><c> to</c>
+And that's really the key idea I want to
+And that's really the key idea I want to
+get<00:05:21.600><c> across.</c><00:05:22.320><c> Let's</c><00:05:22.720><c> get</c><00:05:22.880><c> into</c><00:05:23.680><c> what</c>
+get across. Let's get into what
+get across. Let's get into what
+beginners<00:05:24.400><c> can</c><00:05:24.560><c> learn.</c><00:05:24.880><c> This</c><00:05:24.960><c> is</c><00:05:25.039><c> a</c><00:05:25.280><c> real</c>
+beginners can learn. This is a real
+beginners can learn. This is a real
+prompt.<00:05:25.919><c> You</c><00:05:26.080><c> can</c><00:05:26.240><c> grab</c><00:05:26.400><c> this</c><00:05:26.639><c> prompt.</c><00:05:27.280><c> So</c>
+prompt. You can grab this prompt. So
+prompt. You can grab this prompt. So
+this<00:05:28.160><c> is</c><00:05:28.320><c> not</c><00:05:28.639><c> technically</c><00:05:29.120><c> DSPI</c><00:05:29.759><c> because</c>
+this is not technically DSPI because
+this is not technically DSPI because
+obviously<00:05:30.320><c> it's</c><00:05:30.560><c> not</c><00:05:30.800><c> the</c><00:05:31.039><c> Python</c>
+obviously it's not the Python
+obviously it's not the Python
+programming<00:05:32.400><c> language,</c><00:05:32.880><c> but</c><00:05:33.280><c> it</c><00:05:33.520><c> is</c><00:05:33.600><c> a</c><00:05:33.759><c> prompt</c>
+programming language, but it is a prompt
+programming language, but it is a prompt
+that<00:05:34.720><c> works</c><00:05:35.280><c> like</c><00:05:35.759><c> DSPI</c><00:05:36.800><c> and</c><00:05:37.120><c> works</c><00:05:37.520><c> in</c><00:05:38.080><c> an</c><00:05:38.320><c> LLM</c>
+that works like DSPI and works in an LLM
+that works like DSPI and works in an LLM
+or<00:05:39.120><c> large</c><00:05:39.360><c> language</c><00:05:39.759><c> model</c><00:05:40.240><c> like</c><00:05:40.560><c> chat</c><00:05:40.880><c> GPT.</c>
+or large language model like chat GPT.
+or large language model like chat GPT.
+And<00:05:41.759><c> so</c><00:05:41.919><c> it's</c><00:05:42.160><c> very</c><00:05:42.320><c> simple.</c><00:05:42.479><c> It</c><00:05:42.639><c> says</c><00:05:42.800><c> I</c><00:05:42.960><c> need</c>
+And so it's very simple. It says I need
+And so it's very simple. It says I need
+I<00:05:43.440><c> need</c><00:05:43.520><c> to</c><00:05:43.680><c> create</c><00:05:43.840><c> a</c><00:05:44.000><c> self-optimizing</c>
+I need to create a self-optimizing
+I need to create a self-optimizing
+prompt<00:05:45.280><c> system.</c><00:05:45.759><c> This</c><00:05:45.919><c> is</c><00:05:46.080><c> my</c><00:05:46.320><c> task,</c><00:05:46.720><c> right?</c>
+prompt system. This is my task, right?
+prompt system. This is my task, right?
+Write<00:05:47.440><c> an</c><00:05:47.600><c> email,</c><00:05:48.000><c> summarize</c><00:05:48.479><c> meeting</c><00:05:48.720><c> notes,</c>
+Write an email, summarize meeting notes,
+Write an email, summarize meeting notes,
+whatever<00:05:49.199><c> it</c><00:05:49.280><c> is.</c><00:05:49.680><c> These</c><00:05:50.000><c> are</c><00:05:50.080><c> my</c><00:05:50.320><c> examples.</c>
+whatever it is. These are my examples.
+whatever it is. These are my examples.
+Here<00:05:51.440><c> are</c><00:05:51.680><c> at</c><00:05:51.680><c> least</c><00:05:52.000><c> three</c><00:05:52.240><c> pairs.</c><00:05:52.639><c> An</c><00:05:52.800><c> input</c>
+Here are at least three pairs. An input
+Here are at least three pairs. An input
+and<00:05:53.600><c> an</c><00:05:53.840><c> output.</c><00:05:54.479><c> Input.</c><00:05:54.880><c> Output.</c><00:05:55.280><c> Input.</c>
+and an output. Input. Output. Input.
+and an output. Input. Output. Input.
+Output.<00:05:56.160><c> and</c><00:05:56.400><c> make</c><00:05:56.560><c> the</c><00:05:56.800><c> outputs</c><00:05:57.280><c> really</c><00:05:57.520><c> good</c>
+Output. and make the outputs really good
+Output. and make the outputs really good
+and<00:05:58.160><c> make</c><00:05:58.320><c> the</c><00:05:58.479><c> inputs</c><00:05:58.960><c> really</c><00:05:59.280><c> consistent.</c>
+and make the inputs really consistent.
+and make the inputs really consistent.
+So,<00:05:59.919><c> if</c><00:06:00.080><c> you're</c><00:06:00.160><c> going</c><00:06:00.240><c> to</c><00:06:00.320><c> give</c><00:06:00.479><c> it</c><00:06:00.639><c> inputs</c>
+So, if you're going to give it inputs
+So, if you're going to give it inputs
+and<00:06:01.199><c> they're</c><00:06:01.440><c> all</c><00:06:01.600><c> wildly</c><00:06:02.160><c> different,</c><00:06:02.800><c> you're</c>
+and they're all wildly different, you're
+and they're all wildly different, you're
+not<00:06:03.199><c> helping</c><00:06:03.440><c> it.</c><00:06:03.919><c> If</c><00:06:04.080><c> you're</c><00:06:04.240><c> not</c><00:06:04.400><c> going</c><00:06:04.479><c> to</c>
+not helping it. If you're not going to
+not helping it. If you're not going to
+grade<00:06:04.880><c> your</c><00:06:05.039><c> outputs</c><00:06:05.440><c> consistently,</c><00:06:06.319><c> you're</c>
+grade your outputs consistently, you're
+grade your outputs consistently, you're
+not<00:06:06.720><c> helping</c><00:06:06.960><c> it.</c><00:06:07.440><c> Now,</c><00:06:08.000><c> please</c><00:06:08.319><c> create</c><00:06:08.560><c> a</c>
+not helping it. Now, please create a
+not helping it. Now, please create a
+scoring<00:06:09.199><c> system</c><00:06:09.440><c> with</c><00:06:09.759><c> specific</c><00:06:10.240><c> criteria.</c>
+scoring system with specific criteria.
+scoring system with specific criteria.
+And<00:06:11.120><c> then</c><00:06:11.520><c> you</c><00:06:11.759><c> have</c><00:06:11.919><c> functionality,</c><00:06:12.560><c> format,</c>
+And then you have functionality, format,
+And then you have functionality, format,
+completeness,<00:06:13.680><c> you</c><00:06:13.840><c> can</c><00:06:14.000><c> adjust</c><00:06:14.319><c> what</c><00:06:14.560><c> those</c>
+completeness, you can adjust what those
+completeness, you can adjust what those
+criteria<00:06:15.360><c> are.</c><00:06:15.680><c> This</c><00:06:15.759><c> is</c><00:06:15.919><c> an</c><00:06:16.080><c> example.</c><00:06:16.479><c> If</c><00:06:16.639><c> you</c>
+criteria are. This is an example. If you
+criteria are. This is an example. If you
+don't<00:06:17.039><c> value</c><00:06:17.440><c> format</c><00:06:17.840><c> as</c><00:06:18.080><c> much,</c><00:06:18.319><c> you</c><00:06:18.479><c> can</c><00:06:18.560><c> drop</c>
+don't value format as much, you can drop
+don't value format as much, you can drop
+it<00:06:18.880><c> and</c><00:06:19.120><c> put</c><00:06:19.280><c> something</c><00:06:19.440><c> else</c><00:06:19.600><c> in,</c><00:06:19.919><c> right?</c><00:06:20.319><c> But</c>
+it and put something else in, right? But
+it and put something else in, right? But
+you<00:06:20.800><c> want</c><00:06:20.880><c> to</c><00:06:21.120><c> as</c><00:06:21.360><c> clearly</c><00:06:21.680><c> as</c><00:06:21.919><c> you</c><00:06:22.080><c> can</c>
+you want to as clearly as you can
+you want to as clearly as you can
+specify<00:06:23.919><c> how</c><00:06:24.400><c> the</c><00:06:24.800><c> system</c><00:06:25.199><c> should</c><00:06:25.759><c> score</c>
+specify how the system should score
+specify how the system should score
+success<00:06:27.280><c> when</c><00:06:27.520><c> it</c><00:06:27.680><c> is</c><00:06:27.919><c> practicing.</c><00:06:28.720><c> You</c><00:06:28.960><c> are</c>
+success when it is practicing. You are
+success when it is practicing. You are
+then<00:06:29.360><c> going</c><00:06:29.440><c> to</c><00:06:29.600><c> tell</c><00:06:29.840><c> the</c><00:06:30.000><c> system</c><00:06:30.240><c> and</c><00:06:30.400><c> chat</c>
+then going to tell the system and chat
+then going to tell the system and chat
+GPT<00:06:31.120><c> will</c><00:06:31.280><c> just</c><00:06:31.440><c> do</c><00:06:31.520><c> this</c><00:06:31.680><c> in</c><00:06:31.919><c> one</c><00:06:32.160><c> shot.</c>
+GPT will just do this in one shot.
+GPT will just do this in one shot.
+Please<00:06:33.039><c> write</c><00:06:33.360><c> multiple</c><00:06:33.759><c> prompts</c><00:06:34.080><c> that</c><00:06:34.240><c> could</c>
+Please write multiple prompts that could
+Please write multiple prompts that could
+handle<00:06:34.639><c> my</c><00:06:34.800><c> task.</c><00:06:35.120><c> In</c><00:06:35.280><c> this</c><00:06:35.440><c> case</c><00:06:35.600><c> I</c><00:06:35.759><c> say</c>
+handle my task. In this case I say
+handle my task. In this case I say
+three.<00:06:36.319><c> You</c><00:06:36.479><c> could</c><00:06:36.560><c> do</c><00:06:36.720><c> more.</c><00:06:37.280><c> Please</c><00:06:37.520><c> test</c>
+three. You could do more. Please test
+three. You could do more. Please test
+every<00:06:38.080><c> single</c><00:06:38.400><c> prompt</c><00:06:38.800><c> on</c><00:06:39.039><c> the</c><00:06:39.280><c> examples</c><00:06:39.680><c> I</c>
+every single prompt on the examples I
+every single prompt on the examples I
+gave<00:06:40.160><c> you</c><00:06:40.720><c> and</c><00:06:41.199><c> score</c><00:06:41.520><c> the</c><00:06:41.840><c> results.</c><00:06:42.319><c> So</c><00:06:42.479><c> it's</c>
+gave you and score the results. So it's
+gave you and score the results. So it's
+basically<00:06:43.120><c> going</c><00:06:43.280><c> to</c><00:06:43.440><c> test</c><00:06:43.759><c> each</c><00:06:44.000><c> of</c><00:06:44.160><c> the</c>
+basically going to test each of the
+basically going to test each of the
+three<00:06:44.560><c> inputs.</c><00:06:45.280><c> It's</c><00:06:45.520><c> going</c><00:06:45.680><c> to</c><00:06:45.759><c> see</c><00:06:45.919><c> how</c>
+three inputs. It's going to see how
+three inputs. It's going to see how
+closely<00:06:46.560><c> it</c><00:06:46.800><c> can</c><00:06:46.960><c> mimic</c><00:06:47.360><c> the</c><00:06:47.600><c> output</c><00:06:48.000><c> you</c><00:06:48.240><c> gave</c>
+closely it can mimic the output you gave
+closely it can mimic the output you gave
+it,<00:06:48.800><c> and</c><00:06:48.960><c> it's</c><00:06:49.199><c> going</c><00:06:49.280><c> to</c><00:06:49.440><c> give</c><00:06:49.600><c> itself</c><00:06:49.919><c> a</c>
+it, and it's going to give itself a
+it, and it's going to give itself a
+score<00:06:50.880><c> based</c><00:06:51.199><c> on</c><00:06:51.360><c> the</c><00:06:51.520><c> rubric</c><00:06:51.919><c> you</c><00:06:52.160><c> gave</c><00:06:52.319><c> it.</c>
+score based on the rubric you gave it.
+score based on the rubric you gave it.
+Step<00:06:53.039><c> four,</c><00:06:53.360><c> please</c><00:06:53.600><c> take</c><00:06:53.840><c> the</c><00:06:54.000><c> best</c><00:06:54.319><c> one</c><00:06:54.800><c> and</c>
+Step four, please take the best one and
+Step four, please take the best one and
+improve<00:06:55.520><c> it</c><00:06:55.919><c> by</c><00:06:56.240><c> fixing</c><00:06:56.720><c> whatever</c><00:06:57.120><c> element</c>
+improve it by fixing whatever element
+improve it by fixing whatever element
+scored<00:06:57.759><c> the</c><00:06:57.919><c> lowest</c><00:06:58.240><c> from</c><00:06:58.400><c> your</c><00:06:58.639><c> rubric</c><00:06:58.960><c> of</c>
+scored the lowest from your rubric of
+scored the lowest from your rubric of
+functionality,<00:06:59.840><c> format,</c><00:07:00.160><c> or</c><00:07:00.319><c> completeness</c>
+functionality, format, or completeness
+functionality, format, or completeness
+or<00:07:00.960><c> whatever</c><00:07:01.280><c> you</c><00:07:01.440><c> want.</c><00:07:01.840><c> And</c><00:07:02.080><c> step</c><00:07:02.319><c> five,</c>
+or whatever you want. And step five,
+or whatever you want. And step five,
+give<00:07:03.120><c> me</c><00:07:03.280><c> the</c><00:07:03.520><c> final</c><00:07:03.759><c> improved</c><00:07:04.240><c> prompt</c><00:07:04.479><c> with</c><00:07:04.639><c> a</c>
+give me the final improved prompt with a
+give me the final improved prompt with a
+scoring<00:07:05.120><c> system.</c><00:07:05.759><c> That</c><00:07:06.000><c> is</c><00:07:06.240><c> all</c><00:07:06.960><c> one</c><00:07:07.520><c> prompt</c>
+scoring system. That is all one prompt
+scoring system. That is all one prompt
+in<00:07:08.080><c> Chat</c><00:07:08.400><c> GPT.</c><00:07:09.280><c> And</c><00:07:09.440><c> that</c><00:07:09.759><c> is</c><00:07:10.080><c> as</c><00:07:10.400><c> close</c><00:07:10.639><c> as</c><00:07:10.880><c> you</c>
+in Chat GPT. And that is as close as you
+in Chat GPT. And that is as close as you
+can<00:07:11.199><c> get</c><00:07:11.440><c> as</c><00:07:11.680><c> a</c><00:07:11.840><c> beginner</c><00:07:12.240><c> to</c><00:07:12.560><c> what</c><00:07:12.800><c> it's</c><00:07:13.120><c> like</c>
+can get as a beginner to what it's like
+can get as a beginner to what it's like
+to<00:07:13.840><c> work</c><00:07:14.080><c> with</c><00:07:14.400><c> DSPI.</c><00:07:15.280><c> And</c><00:07:15.440><c> you</c><00:07:15.599><c> don't</c><00:07:15.680><c> have</c><00:07:15.759><c> to</c>
+to work with DSPI. And you don't have to
+to work with DSPI. And you don't have to
+do<00:07:16.000><c> the</c><00:07:16.160><c> terminal.</c><00:07:16.639><c> You</c><00:07:16.720><c> can</c><00:07:16.880><c> literally</c><00:07:17.199><c> do</c>
+do the terminal. You can literally do
+do the terminal. You can literally do
+this<00:07:17.919><c> anytime.</c><00:07:18.720><c> And</c><00:07:18.880><c> that</c><00:07:19.120><c> is</c><00:07:19.280><c> the</c><00:07:19.440><c> whole</c>
+this anytime. And that is the whole
+this anytime. And that is the whole
+concept<00:07:20.080><c> that</c><00:07:20.319><c> we</c><00:07:20.560><c> are</c><00:07:20.720><c> working</c><00:07:20.880><c> with</c><00:07:21.440><c> for</c>
+concept that we are working with for
+concept that we are working with for
+more<00:07:22.240><c> complex</c><00:07:22.720><c> production</c><00:07:23.120><c> pipelines.</c><00:07:23.840><c> But</c>
+more complex production pipelines. But
+more complex production pipelines. But
+let's<00:07:24.319><c> say</c><00:07:24.880><c> you</c><00:07:25.199><c> are</c><00:07:25.599><c> an</c><00:07:25.840><c> engineer</c><00:07:26.720><c> and</c><00:07:26.960><c> you</c>
+let's say you are an engineer and you
+let's say you are an engineer and you
+want<00:07:27.199><c> to</c><00:07:27.360><c> understand</c><00:07:27.599><c> a</c><00:07:27.840><c> little</c><00:07:27.919><c> bit</c><00:07:28.000><c> more</c>
+want to understand a little bit more
+want to understand a little bit more
+what<00:07:28.319><c> is</c><00:07:28.479><c> going</c><00:07:28.560><c> on</c><00:07:28.800><c> here.</c><00:07:29.199><c> This</c><00:07:29.360><c> is</c><00:07:29.520><c> where</c><00:07:29.680><c> we</c>
+what is going on here. This is where we
+what is going on here. This is where we
+get<00:07:29.919><c> to</c><00:07:30.080><c> part</c><00:07:30.240><c> two.</c><00:07:30.479><c> We</c><00:07:30.639><c> start</c><00:07:30.800><c> to</c><00:07:30.960><c> talk</c><00:07:31.120><c> about</c>
+get to part two. We start to talk about
+get to part two. We start to talk about
+what<00:07:31.440><c> that</c><00:07:31.680><c> means.</c><00:07:32.160><c> For</c><00:07:32.319><c> engineers</c><00:07:32.720><c> and</c>
+what that means. For engineers and
+what that means. For engineers and
+builders,<00:07:33.599><c> DSPI</c><00:07:34.800><c> turns</c><00:07:35.599><c> prompt</c><00:07:36.000><c> engineering</c>
+builders, DSPI turns prompt engineering
+builders, DSPI turns prompt engineering
+from<00:07:36.880><c> an</c><00:07:37.039><c> area</c><00:07:37.360><c> of</c><00:07:37.680><c> personal</c><00:07:38.160><c> expertise</c><00:07:38.880><c> into</c>
+from an area of personal expertise into
+from an area of personal expertise into
+an<00:07:39.360><c> area</c><00:07:39.599><c> of</c><00:07:39.919><c> programmable</c><00:07:40.560><c> discipline.</c><00:07:40.960><c> It</c>
+an area of programmable discipline. It
+an area of programmable discipline. It
+basically<00:07:41.680><c> reduces</c><00:07:42.160><c> the</c><00:07:42.400><c> ambiguity</c><00:07:43.039><c> in</c><00:07:43.199><c> the</c>
+basically reduces the ambiguity in the
+basically reduces the ambiguity in the
+space<00:07:44.080><c> and</c><00:07:44.400><c> turns</c><00:07:45.120><c> prompting</c><00:07:45.599><c> into</c><00:07:45.840><c> a</c><00:07:46.000><c> more</c>
+space and turns prompting into a more
+space and turns prompting into a more
+deterministic<00:07:47.039><c> science</c><00:07:47.840><c> which</c><00:07:48.080><c> in</c><00:07:48.240><c> turn</c>
+deterministic science which in turn
+deterministic science which in turn
+makes<00:07:48.720><c> it</c><00:07:48.960><c> much</c><00:07:49.280><c> easier</c><00:07:49.680><c> to</c><00:07:49.919><c> provide</c><00:07:50.240><c> clarity</c>
+makes it much easier to provide clarity
+makes it much easier to provide clarity
+and<00:07:50.880><c> control</c><00:07:51.199><c> for</c><00:07:51.440><c> systems</c><00:07:51.919><c> engineering.</c><00:07:52.720><c> And</c>
+and control for systems engineering. And
+and control for systems engineering. And
+so<00:07:53.440><c> you</c><00:07:53.759><c> can</c><00:07:54.160><c> define</c><00:07:54.639><c> LLM</c><00:07:55.120><c> behavior</c><00:07:55.440><c> with</c>
+so you can define LLM behavior with
+so you can define LLM behavior with
+signatures.<00:07:56.639><c> So</c><00:07:56.879><c> signatures</c><00:07:57.360><c> are</c><00:07:57.599><c> really</c>
+signatures. So signatures are really
+signatures. So signatures are really
+just<00:07:58.160><c> inputs</c><00:07:58.560><c> and</c><00:07:58.720><c> outputs,</c><00:07:59.199><c> right?</c><00:07:59.680><c> You're</c>
+just inputs and outputs, right? You're
+just inputs and outputs, right? You're
+treating<00:08:00.240><c> prompts</c><00:08:00.639><c> like</c><00:08:00.800><c> structured</c><00:08:01.280><c> code</c>
+treating prompts like structured code
+treating prompts like structured code
+and<00:08:02.080><c> you're</c><00:08:02.400><c> delivering</c><00:08:02.879><c> signatures</c><00:08:03.360><c> that</c>
+and you're delivering signatures that
+and you're delivering signatures that
+enable<00:08:04.400><c> the</c><00:08:04.639><c> Python</c><00:08:05.199><c> library</c><00:08:06.080><c> to</c><00:08:06.479><c> reliably</c>
+enable the Python library to reliably
+enable the Python library to reliably
+develop<00:08:08.000><c> a</c><00:08:08.400><c> prompt</c><00:08:08.879><c> that</c><00:08:09.199><c> maps</c><00:08:09.599><c> inputs</c><00:08:10.000><c> and</c>
+develop a prompt that maps inputs and
+develop a prompt that maps inputs and
+outputs<00:08:10.479><c> in</c><00:08:10.720><c> what</c><00:08:10.879><c> you're</c><00:08:10.960><c> giving</c><00:08:11.199><c> it.</c><00:08:11.520><c> It</c><00:08:11.680><c> is</c>
+outputs in what you're giving it. It is
+outputs in what you're giving it. It is
+easy<00:08:12.160><c> to</c><00:08:12.400><c> have</c><00:08:12.639><c> modular</c><00:08:13.120><c> architectures</c><00:08:13.680><c> with</c>
+easy to have modular architectures with
+easy to have modular architectures with
+DSP<00:08:14.960><c> because</c><00:08:15.280><c> you</c><00:08:15.599><c> can</c><00:08:15.919><c> swap</c><00:08:16.479><c> out</c><00:08:17.360><c> different</c>
+DSP because you can swap out different
+DSP because you can swap out different
+components.<00:08:18.800><c> For</c><00:08:18.960><c> example,</c><00:08:19.360><c> you</c><00:08:19.520><c> can</c><00:08:19.680><c> easily</c>
+components. For example, you can easily
+components. For example, you can easily
+swap<00:08:20.319><c> out</c><00:08:20.720><c> the</c><00:08:21.039><c> language</c><00:08:21.520><c> model</c><00:08:22.080><c> that</c><00:08:22.479><c> DSPI</c><00:08:23.280><c> is</c>
+swap out the language model that DSPI is
+swap out the language model that DSPI is
+calling<00:08:23.919><c> upon</c><00:08:24.639><c> to</c><00:08:24.960><c> build</c><00:08:25.680><c> these</c><00:08:26.000><c> prompts.</c>
+calling upon to build these prompts.
+calling upon to build these prompts.
+Super<00:08:27.039><c> easy.</c><00:08:27.280><c> It's</c><00:08:27.440><c> like</c><00:08:27.599><c> one</c><00:08:27.840><c> line</c><00:08:28.000><c> in</c><00:08:28.160><c> DSPI.</c>
+Super easy. It's like one line in DSPI.
+Super easy. It's like one line in DSPI.
+And<00:08:29.120><c> that</c><00:08:29.280><c> in</c><00:08:29.520><c> turn</c><00:08:29.680><c> makes</c><00:08:29.840><c> it</c><00:08:30.000><c> easier</c><00:08:30.240><c> to</c>
+And that in turn makes it easier to
+And that in turn makes it easier to
+sustain,<00:08:30.800><c> easier</c><00:08:31.039><c> to</c><00:08:31.199><c> upgrade,</c><00:08:31.759><c> etc.</c><00:08:32.320><c> You</c>
+sustain, easier to upgrade, etc. You
+sustain, easier to upgrade, etc. You
+also<00:08:33.200><c> have</c><00:08:33.839><c> the</c><00:08:34.159><c> ability</c><00:08:34.719><c> to</c><00:08:35.599><c> continue</c><00:08:36.080><c> to</c>
+also have the ability to continue to
+also have the ability to continue to
+optimize<00:08:37.120><c> prompts</c><00:08:37.519><c> for</c><00:08:37.760><c> specific</c><00:08:38.159><c> tasks</c>
+optimize prompts for specific tasks
+optimize prompts for specific tasks
+because<00:08:39.279><c> you</c><00:08:39.599><c> can</c><00:08:40.159><c> automatically</c><00:08:41.440><c> refine</c><00:08:42.479><c> as</c>
+because you can automatically refine as
+because you can automatically refine as
+input<00:08:43.120><c> and</c><00:08:43.360><c> output</c><00:08:43.760><c> pair</c><00:08:44.399><c> systems</c><00:08:44.959><c> grow.</c><00:08:45.519><c> And</c>
+input and output pair systems grow. And
+input and output pair systems grow. And
+so<00:08:45.839><c> there's</c><00:08:46.000><c> a</c><00:08:46.160><c> lot</c><00:08:46.320><c> of</c><00:08:46.399><c> different</c><00:08:46.560><c> elements</c>
+so there's a lot of different elements
+so there's a lot of different elements
+here.<00:08:47.200><c> We're</c><00:08:47.360><c> going</c><00:08:47.440><c> to</c><00:08:47.519><c> get</c><00:08:47.680><c> into</c><00:08:47.839><c> it</c><00:08:48.000><c> more,</c>
+here. We're going to get into it more,
+here. We're going to get into it more,
+but<00:08:48.720><c> I</c><00:08:48.959><c> want</c><00:08:49.040><c> you</c><00:08:49.200><c> to</c><00:08:49.360><c> get</c><00:08:49.440><c> an</c><00:08:49.680><c> idea</c><00:08:49.839><c> of</c><00:08:50.000><c> what</c>
+but I want you to get an idea of what
+but I want you to get an idea of what
+we're<00:08:50.399><c> doing.</c><00:08:50.640><c> Fundamentally,</c><00:08:51.680><c> if</c><00:08:51.839><c> you</c><00:08:52.000><c> have</c>
+we're doing. Fundamentally, if you have
+we're doing. Fundamentally, if you have
+programmable<00:08:52.800><c> prompts,</c><00:08:53.200><c> if</c><00:08:53.360><c> you</c><00:08:53.440><c> have</c><00:08:53.519><c> a</c>
+programmable prompts, if you have a
+programmable prompts, if you have a
+modular<00:08:54.080><c> architecture</c><00:08:54.959><c> and</c><00:08:55.200><c> you</c><00:08:55.360><c> have</c><00:08:55.519><c> some</c>
+modular architecture and you have some
+modular architecture and you have some
+kind<00:08:55.920><c> of</c><00:08:56.000><c> automated</c><00:08:56.560><c> optimization</c><00:08:57.200><c> loop,</c><00:08:57.920><c> you</c>
+kind of automated optimization loop, you
+kind of automated optimization loop, you
+are<00:08:58.320><c> going</c><00:08:58.480><c> to</c><00:08:58.640><c> be</c><00:08:58.720><c> able</c><00:08:58.880><c> to</c><00:08:59.040><c> actually</c><00:08:59.360><c> build</c>
+are going to be able to actually build
+are going to be able to actually build
+precise<00:09:00.640><c> LLM</c><00:09:01.200><c> applications</c><00:09:01.760><c> and</c><00:09:02.080><c> not</c><00:09:02.320><c> depend</c>
+precise LLM applications and not depend
+precise LLM applications and not depend
+on<00:09:03.440><c> the</c><00:09:03.680><c> skills</c><00:09:04.000><c> of</c><00:09:04.160><c> your</c><00:09:04.399><c> best</c><00:09:04.640><c> prompter.</c><00:09:05.279><c> So,</c>
+on the skills of your best prompter. So,
+on the skills of your best prompter. So,
+traditional<00:09:06.160><c> prompt</c><00:09:06.560><c> engineering,</c><00:09:07.279><c> it</c><00:09:07.519><c> had</c>
+traditional prompt engineering, it had
+traditional prompt engineering, it had
+it<00:09:08.080><c> had</c><00:09:08.320><c> defects.</c><00:09:08.720><c> I</c><00:09:08.959><c> think</c><00:09:09.040><c> we</c><00:09:09.279><c> all</c><00:09:09.440><c> know</c>
+it had defects. I think we all know
+it had defects. I think we all know
+there's<00:09:10.000><c> not</c><00:09:10.160><c> a</c><00:09:10.320><c> systematic</c><00:09:10.880><c> way</c><00:09:10.959><c> to</c><00:09:11.200><c> improve.</c>
+there's not a systematic way to improve.
+there's not a systematic way to improve.
+It's<00:09:12.080><c> difficult</c><00:09:12.399><c> to</c><00:09:12.560><c> measure</c><00:09:12.880><c> progress</c>
+It's difficult to measure progress
+It's difficult to measure progress
+objectively.<00:09:14.320><c> It's</c><00:09:14.560><c> really</c><00:09:14.800><c> hard</c><00:09:14.959><c> to</c><00:09:15.200><c> scale</c>
+objectively. It's really hard to scale
+objectively. It's really hard to scale
+it.<00:09:15.920><c> It's</c><00:09:16.160><c> brittle.</c><00:09:16.800><c> It</c><00:09:17.120><c> is</c><00:09:17.279><c> often</c><00:09:17.680><c> model</c>
+it. It's brittle. It is often model
+it. It's brittle. It is often model
+specific<00:09:18.320><c> or</c><00:09:18.480><c> it</c><00:09:18.640><c> claims</c><00:09:18.959><c> to</c><00:09:19.040><c> be</c><00:09:19.200><c> model</c>
+specific or it claims to be model
+specific or it claims to be model
+specific.<00:09:20.160><c> I</c><00:09:20.399><c> saw</c><00:09:20.640><c> someone</c><00:09:20.959><c> joking</c><00:09:21.279><c> that</c>
+specific. I saw someone joking that
+specific. I saw someone joking that
+prompt<00:09:22.320><c> engineering</c><00:09:22.880><c> is</c><00:09:23.120><c> just</c><00:09:23.440><c> a</c><00:09:23.680><c> it's</c><00:09:24.000><c> like</c>
+prompt engineering is just a it's like
+prompt engineering is just a it's like
+throwing<00:09:24.560><c> darts</c><00:09:24.880><c> at</c><00:09:24.959><c> a</c><00:09:25.120><c> dart</c><00:09:25.360><c> board,</c><00:09:25.600><c> right?</c>
+throwing darts at a dart board, right?
+throwing darts at a dart board, right?
+Like<00:09:26.000><c> you're</c><00:09:26.160><c> just</c><00:09:26.399><c> throwing</c><00:09:26.720><c> it</c><00:09:27.200><c> and</c><00:09:27.360><c> you're</c>
+Like you're just throwing it and you're
+Like you're just throwing it and you're
+throwing<00:09:27.760><c> it</c><00:09:27.920><c> blindfolded</c><00:09:28.480><c> and</c><00:09:28.720><c> you're</c><00:09:28.880><c> not</c>
+throwing it blindfolded and you're not
+throwing it blindfolded and you're not
+sure<00:09:29.120><c> if</c><00:09:29.279><c> the</c><00:09:29.440><c> darts</c><00:09:29.680><c> land</c><00:09:29.920><c> or</c><00:09:30.080><c> not,</c><00:09:30.160><c> but</c>
+sure if the darts land or not, but
+sure if the darts land or not, but
+you're<00:09:30.560><c> making</c><00:09:30.720><c> big</c><00:09:30.959><c> claims</c><00:09:31.200><c> about</c><00:09:31.440><c> it.</c>
+you're making big claims about it.
+you're making big claims about it.
+Traditional<00:09:32.240><c> prompt</c><00:09:32.560><c> engineering</c><00:09:33.440><c> does</c><00:09:33.760><c> work</c>
+Traditional prompt engineering does work
+Traditional prompt engineering does work
+if<00:09:34.560><c> you</c><00:09:34.720><c> don't</c><00:09:34.880><c> have</c><00:09:35.040><c> better</c><00:09:35.360><c> options</c><00:09:35.920><c> if</c><00:09:36.160><c> you</c>
+if you don't have better options if you
+if you don't have better options if you
+have<00:09:36.399><c> a</c><00:09:36.560><c> skilled</c><00:09:36.880><c> prompter</c><00:09:37.279><c> and</c><00:09:37.519><c> if</c><00:09:37.600><c> the</c>
+have a skilled prompter and if the
+have a skilled prompter and if the
+skilled<00:09:38.080><c> prompter</c><00:09:38.560><c> is</c><00:09:38.720><c> able</c><00:09:38.959><c> to</c><00:09:39.120><c> evaluate</c>
+skilled prompter is able to evaluate
+skilled prompter is able to evaluate
+their<00:09:39.760><c> work</c><00:09:40.000><c> honestly.</c><00:09:40.720><c> That</c><00:09:40.880><c> is</c><00:09:41.040><c> sometimes</c>
+their work honestly. That is sometimes
+their work honestly. That is sometimes
+true<00:09:41.680><c> and</c><00:09:41.920><c> very</c><00:09:42.160><c> skilled</c><00:09:42.480><c> prompters</c><00:09:43.200><c> will</c>
+true and very skilled prompters will
+true and very skilled prompters will
+sometimes<00:09:43.920><c> still</c><00:09:44.240><c> write</c><00:09:44.880><c> prompts</c><00:09:45.200><c> that</c><00:09:45.440><c> are</c>
+sometimes still write prompts that are
+sometimes still write prompts that are
+better<00:09:46.080><c> than</c><00:09:46.320><c> DSPI</c><00:09:46.959><c> will</c><00:09:47.120><c> write.</c><00:09:47.600><c> But</c><00:09:48.160><c> DSPI</c>
+better than DSPI will write. But DSPI
+better than DSPI will write. But DSPI
+scales<00:09:49.360><c> consistently</c><00:09:49.920><c> in</c><00:09:50.160><c> a</c><00:09:50.240><c> way</c><00:09:50.399><c> no</c><00:09:50.720><c> human</c>
+scales consistently in a way no human
+scales consistently in a way no human
+can.<00:09:51.600><c> And</c><00:09:51.839><c> that</c><00:09:52.160><c> is</c><00:09:52.480><c> why</c><00:09:52.959><c> engineers</c><00:09:53.440><c> have</c><00:09:53.680><c> been</c>
+can. And that is why engineers have been
+can. And that is why engineers have been
+preferring<00:09:54.240><c> it.</c><00:09:54.720><c> It</c><00:09:54.880><c> is</c><00:09:55.040><c> much</c><00:09:55.279><c> much</c><00:09:55.600><c> easier</c><00:09:56.160><c> to</c>
+preferring it. It is much much easier to
+preferring it. It is much much easier to
+scale<00:09:56.720><c> as</c><00:09:56.959><c> a</c><00:09:57.120><c> software</c><00:09:57.519><c> system.</c><00:09:58.000><c> So</c><00:09:58.240><c> let's</c><00:09:58.480><c> get</c>
+scale as a software system. So let's get
+scale as a software system. So let's get
+into<00:09:59.120><c> the</c><00:09:59.360><c> core</c><00:09:59.600><c> philosophy.</c><00:10:00.480><c> If</c><00:10:00.640><c> you're</c>
+into the core philosophy. If you're
+into the core philosophy. If you're
+treating<00:10:01.040><c> your</c><00:10:01.200><c> prompt</c><00:10:01.519><c> as</c><00:10:01.680><c> a</c><00:10:01.839><c> program,</c><00:10:02.480><c> if</c>
+treating your prompt as a program, if
+treating your prompt as a program, if
+you're<00:10:02.800><c> treating</c><00:10:03.040><c> it</c><00:10:03.200><c> as</c><00:10:03.360><c> code,</c><00:10:03.680><c> which</c><00:10:03.839><c> I've</c>
+you're treating it as code, which I've
+you're treating it as code, which I've
+been<00:10:04.160><c> advocating</c><00:10:04.640><c> for</c><00:10:04.880><c> a</c><00:10:05.040><c> while,</c><00:10:05.600><c> you're</c>
+been advocating for a while, you're
+been advocating for a while, you're
+going<00:10:05.920><c> to</c><00:10:06.080><c> insist</c><00:10:06.480><c> on</c><00:10:06.640><c> clean</c><00:10:06.880><c> inputs</c><00:10:07.200><c> and</c>
+going to insist on clean inputs and
+going to insist on clean inputs and
+outputs,<00:10:07.680><c> which</c><00:10:07.839><c> I</c><00:10:08.000><c> talked</c><00:10:08.160><c> about.</c><00:10:08.399><c> You're</c>
+outputs, which I talked about. You're
+outputs, which I talked about. You're
+going<00:10:08.640><c> to</c><00:10:08.720><c> insist</c><00:10:09.040><c> on</c><00:10:09.200><c> modularity</c><00:10:09.839><c> throughout</c>
+going to insist on modularity throughout
+going to insist on modularity throughout
+the<00:10:10.320><c> architecture.</c><00:10:11.200><c> And</c><00:10:11.360><c> you're</c><00:10:11.519><c> going</c><00:10:11.680><c> to</c>
+the architecture. And you're going to
+the architecture. And you're going to
+insist<00:10:12.720><c> that</c><00:10:13.040><c> you</c><00:10:13.200><c> don't</c><00:10:13.440><c> treat</c><00:10:13.680><c> prompts</c><00:10:14.079><c> as</c>
+insist that you don't treat prompts as
+insist that you don't treat prompts as
+strings.<00:10:14.959><c> Prompts</c><00:10:15.360><c> should</c><00:10:15.600><c> be</c><00:10:15.760><c> treated</c><00:10:16.000><c> as</c>
+strings. Prompts should be treated as
+strings. Prompts should be treated as
+code<00:10:16.480><c> instead.</c><00:10:17.040><c> And</c><00:10:17.279><c> you</c><00:10:17.519><c> should</c><00:10:18.240><c> enable</c><00:10:19.279><c> a</c>
+code instead. And you should enable a
+code instead. And you should enable a
+metric-driven<00:10:20.399><c> feedback</c><00:10:20.720><c> loop.</c><00:10:21.040><c> So</c><00:10:21.200><c> remember</c>
+metric-driven feedback loop. So remember
+metric-driven feedback loop. So remember
+when<00:10:21.680><c> I</c><00:10:21.839><c> talked</c><00:10:22.079><c> about</c><00:10:22.240><c> automatic</c>
+when I talked about automatic
+when I talked about automatic
+optimization<00:10:23.360><c> a</c><00:10:23.600><c> couple</c><00:10:23.760><c> slides</c><00:10:24.000><c> ago,</c><00:10:24.720><c> the</c>
+optimization a couple slides ago, the
+optimization a couple slides ago, the
+way<00:10:25.200><c> you</c><00:10:25.440><c> do</c><00:10:25.600><c> that</c><00:10:26.160><c> is</c><00:10:26.399><c> by</c><00:10:26.720><c> defining</c><00:10:27.440><c> qual</c>
+way you do that is by defining qual
+way you do that is by defining qual
+quantifiable<00:10:28.959><c> metrics</c><00:10:29.680><c> that</c><00:10:29.920><c> DSPI</c><00:10:30.560><c> can</c>
+quantifiable metrics that DSPI can
+quantifiable metrics that DSPI can
+optimize<00:10:31.120><c> against.</c><00:10:31.760><c> So</c><00:10:31.920><c> when</c><00:10:32.079><c> I</c><00:10:32.320><c> gave</c>
+optimize against. So when I gave
+optimize against. So when I gave
+beginners<00:10:33.360><c> a</c><00:10:33.760><c> measurement</c><00:10:34.320><c> system</c><00:10:34.959><c> in</c><00:10:35.200><c> the</c>
+beginners a measurement system in the
+beginners a measurement system in the
+chat<00:10:35.680><c> GPT</c><00:10:36.160><c> prompt</c><00:10:36.480><c> just</c><00:10:36.640><c> now,</c><00:10:37.120><c> that</c><00:10:37.360><c> is</c><00:10:37.519><c> the</c>
+chat GPT prompt just now, that is the
+chat GPT prompt just now, that is the
+beginning<00:10:38.079><c> of</c><00:10:38.320><c> a</c><00:10:38.480><c> quantifiable</c><00:10:39.120><c> metric.</c><00:10:39.440><c> And</c>
+beginning of a quantifiable metric. And
+beginning of a quantifiable metric. And
+in<00:10:39.760><c> production</c><00:10:40.160><c> pipelines,</c><00:10:40.640><c> you</c><00:10:40.880><c> go</c><00:10:41.040><c> a</c><00:10:41.200><c> whole</c>
+in production pipelines, you go a whole
+in production pipelines, you go a whole
+lot<00:10:41.600><c> farther.</c><00:10:42.160><c> You</c><00:10:42.320><c> dive</c><00:10:42.640><c> much</c><00:10:42.880><c> deeper</c><00:10:43.120><c> into</c>
+lot farther. You dive much deeper into
+lot farther. You dive much deeper into
+what<00:10:43.680><c> you</c><00:10:43.839><c> define</c><00:10:44.160><c> as</c><00:10:44.399><c> acceptable.</c><00:10:45.279><c> And</c><00:10:45.519><c> that</c>
+what you define as acceptable. And that
+what you define as acceptable. And that
+helps<00:10:46.640><c> DSPI</c><00:10:47.839><c> write</c><00:10:48.240><c> reliable</c><00:10:48.959><c> prompts.</c><00:10:49.600><c> So</c>
+helps DSPI write reliable prompts. So
+helps DSPI write reliable prompts. So
+what<00:10:50.000><c> are</c><00:10:50.079><c> the</c><00:10:50.240><c> key</c><00:10:50.399><c> components?</c><00:10:50.880><c> I</c><00:10:51.040><c> talked</c>
+what are the key components? I talked
+what are the key components? I talked
+about<00:10:51.440><c> signatures.</c><00:10:51.920><c> I</c><00:10:52.079><c> want</c><00:10:52.160><c> to</c><00:10:52.240><c> actually</c><00:10:52.399><c> get</c>
+about signatures. I want to actually get
+about signatures. I want to actually get
+into<00:10:52.720><c> what</c><00:10:52.959><c> they</c><00:10:53.040><c> are</c><00:10:53.279><c> so</c><00:10:53.440><c> it's</c><00:10:53.600><c> not</c>
+into what they are so it's not
+into what they are so it's not
+confusing.<00:10:54.480><c> Signatures</c><00:10:55.120><c> are</c><00:10:55.279><c> input</c><00:10:55.760><c> output</c>
+confusing. Signatures are input output
+confusing. Signatures are input output
+contracts<00:10:57.120><c> that</c><00:10:57.519><c> specify</c><00:10:58.640><c> what</c><00:10:59.040><c> your</c><00:10:59.360><c> module</c>
+contracts that specify what your module
+contracts that specify what your module
+should<00:11:00.160><c> do</c><00:11:00.399><c> but</c><00:11:00.720><c> do</c><00:11:00.959><c> not</c><00:11:01.120><c> dictate</c><00:11:01.440><c> the</c><00:11:01.680><c> how.</c><00:11:02.160><c> So</c>
+should do but do not dictate the how. So
+should do but do not dictate the how. So
+for<00:11:02.560><c> example,</c><00:11:03.200><c> if</c><00:11:03.440><c> the</c><00:11:03.680><c> context</c><00:11:04.160><c> is</c><00:11:04.560><c> question</c>
+for example, if the context is question
+for example, if the context is question
+and<00:11:05.279><c> answer</c><00:11:05.600><c> or</c><00:11:05.920><c> email</c><00:11:06.240><c> draft</c><00:11:06.560><c> and</c><00:11:06.800><c> feedback</c>
+and answer or email draft and feedback
+and answer or email draft and feedback
+to<00:11:07.760><c> improved</c><00:11:08.240><c> email,</c><00:11:08.880><c> like</c><00:11:09.360><c> those</c><00:11:09.680><c> are</c><00:11:09.839><c> pairs.</c>
+to improved email, like those are pairs.
+to improved email, like those are pairs.
+You're<00:11:11.200><c> specifying</c><00:11:12.000><c> this</c><00:11:12.160><c> is</c><00:11:12.399><c> good</c><00:11:12.880><c> and</c><00:11:13.120><c> this</c>
+You're specifying this is good and this
+You're specifying this is good and this
+is<00:11:13.519><c> good,</c><00:11:13.760><c> right?</c><00:11:14.000><c> The</c><00:11:14.160><c> question</c><00:11:14.320><c> is</c><00:11:14.480><c> good</c><00:11:14.640><c> and</c>
+is good, right? The question is good and
+is good, right? The question is good and
+the<00:11:14.959><c> answer</c><00:11:15.120><c> is</c><00:11:15.360><c> good.</c><00:11:15.600><c> The</c><00:11:15.839><c> email</c><00:11:16.160><c> draft</c><00:11:16.640><c> and</c>
+the answer is good. The email draft and
+the answer is good. The email draft and
+feedback<00:11:17.440><c> is</c><00:11:17.760><c> good</c><00:11:17.920><c> and</c><00:11:18.160><c> the</c><00:11:18.320><c> improved</c><00:11:18.640><c> email</c>
+feedback is good and the improved email
+feedback is good and the improved email
+is<00:11:19.120><c> good,</c><00:11:19.279><c> but</c><00:11:19.519><c> you're</c><00:11:19.680><c> not</c><00:11:19.839><c> explaining</c><00:11:20.240><c> how</c>
+is good, but you're not explaining how
+is good, but you're not explaining how
+anything<00:11:21.200><c> happened</c><00:11:21.519><c> in</c><00:11:21.760><c> between.</c><00:11:22.399><c> You</c><00:11:22.640><c> were</c>
+anything happened in between. You were
+anything happened in between. You were
+asking<00:11:23.120><c> DSPI</c><00:11:23.839><c> to</c><00:11:24.160><c> essentially</c><00:11:24.560><c> write</c><00:11:24.800><c> a</c>
+asking DSPI to essentially write a
+asking DSPI to essentially write a
+prompt<00:11:25.440><c> as</c><00:11:25.680><c> an</c><00:11:25.839><c> optimization</c><00:11:26.560><c> function</c><00:11:26.959><c> in</c>
+prompt as an optimization function in
+prompt as an optimization function in
+between<00:11:27.519><c> to</c><00:11:27.760><c> bridge</c><00:11:28.000><c> that</c><00:11:28.240><c> gap</c><00:11:28.640><c> so</c><00:11:28.800><c> that</c><00:11:28.959><c> you</c>
+between to bridge that gap so that you
+between to bridge that gap so that you
+can<00:11:29.360><c> in</c><00:11:29.600><c> future</c><00:11:29.920><c> provide</c><00:11:30.240><c> email</c><00:11:30.560><c> draft</c><00:11:30.800><c> and</c>
+can in future provide email draft and
+can in future provide email draft and
+feedback<00:11:31.360><c> only.</c><00:11:31.920><c> It</c><00:11:32.160><c> will</c><00:11:32.320><c> apply</c><00:11:32.560><c> the</c><00:11:32.720><c> bridge</c>
+feedback only. It will apply the bridge
+feedback only. It will apply the bridge
+and<00:11:33.120><c> it</c><00:11:33.200><c> will</c><00:11:33.360><c> get</c><00:11:33.440><c> to</c><00:11:33.600><c> improved</c><00:11:33.920><c> email.</c>
+and it will get to improved email.
+and it will get to improved email.
+Modules<00:11:34.880><c> are</c><00:11:35.040><c> another</c><00:11:35.360><c> key</c><00:11:35.600><c> component.</c><00:11:36.240><c> These</c>
+Modules are another key component. These
+Modules are another key component. These
+are<00:11:36.720><c> composable</c><00:11:37.360><c> building</c><00:11:37.680><c> blocks</c><00:11:38.000><c> that</c>
+are composable building blocks that
+are composable building blocks that
+combine<00:11:38.800><c> signatures</c><00:11:39.600><c> with</c><00:11:40.160><c> specific</c>
+combine signatures with specific
+combine signatures with specific
+reasoning<00:11:41.600><c> strategies</c><00:11:42.399><c> like</c><00:11:42.720><c> React</c><00:11:43.040><c> or</c><00:11:43.200><c> Chain</c>
+reasoning strategies like React or Chain
+reasoning strategies like React or Chain
+of<00:11:43.600><c> Thought.</c><00:11:44.240><c> And</c><00:11:44.399><c> you</c><00:11:44.640><c> can</c><00:11:44.880><c> actually</c><00:11:45.279><c> chain</c>
+of Thought. And you can actually chain
+of Thought. And you can actually chain
+modules<00:11:46.160><c> together</c><00:11:46.720><c> to</c><00:11:47.040><c> create</c><00:11:47.279><c> more</c>
+modules together to create more
+modules together to create more
+complicated<00:11:48.079><c> workflows</c><00:11:48.800><c> in</c><00:11:49.040><c> DSPI.</c><00:11:49.920><c> And</c>
+complicated workflows in DSPI. And
+complicated workflows in DSPI. And
+that's<00:11:50.320><c> important</c><00:11:50.640><c> because</c><00:11:50.880><c> you</c><00:11:51.040><c> don't</c>
+that's important because you don't
+that's important because you don't
+always<00:11:51.440><c> need</c><00:11:51.680><c> inference,</c><00:11:52.240><c> right?</c><00:11:52.560><c> Not</c><00:11:52.880><c> all</c>
+always need inference, right? Not all
+always need inference, right? Not all
+modules<00:11:54.320><c> require</c><00:11:54.959><c> inference</c><00:11:55.440><c> or</c><00:11:55.680><c> chain</c><00:11:55.920><c> of</c>
+modules require inference or chain of
+modules require inference or chain of
+thought.<00:11:56.480><c> It</c><00:11:56.640><c> gives</c><00:11:56.800><c> you</c><00:11:57.040><c> flexibility.</c><00:11:57.760><c> It's</c>
+thought. It gives you flexibility. It's
+thought. It gives you flexibility. It's
+like<00:11:58.079><c> Lego</c><00:11:58.399><c> bricks.</c><00:11:58.800><c> Optimizers</c><00:11:59.519><c> are</c>
+like Lego bricks. Optimizers are
+like Lego bricks. Optimizers are
+automatic<00:12:00.480><c> prompt</c><00:12:00.800><c> optimization</c>
+automatic prompt optimization
+automatic prompt optimization
+algorithms.<00:12:02.160><c> An</c><00:12:02.320><c> example</c><00:12:02.640><c> would</c><00:12:02.800><c> be</c>
+algorithms. An example would be
+algorithms. An example would be
+Bootstrap<00:12:03.440><c> Fshot.</c><00:12:04.399><c> and</c><00:12:04.640><c> it</c><00:12:04.800><c> improves</c><00:12:05.200><c> your</c>
+Bootstrap Fshot. and it improves your
+Bootstrap Fshot. and it improves your
+modules<00:12:06.160><c> based</c><00:12:06.480><c> on</c><00:12:06.720><c> training</c><00:12:07.120><c> data</c><00:12:07.680><c> and</c>
+modules based on training data and
+modules based on training data and
+defined<00:12:08.480><c> metrics</c><00:12:08.959><c> without</c><00:12:09.360><c> any</c><00:12:09.680><c> manual</c>
+defined metrics without any manual
+defined metrics without any manual
+intervention.<00:12:10.800><c> And</c><00:12:10.959><c> so</c><00:12:11.040><c> it</c><00:12:11.200><c> just</c><00:12:11.360><c> is</c><00:12:11.600><c> always</c>
+intervention. And so it just is always
+intervention. And so it just is always
+running.<00:12:12.320><c> And</c><00:12:12.480><c> last</c><00:12:12.720><c> but</c><00:12:12.959><c> not</c><00:12:13.120><c> least,</c><00:12:13.360><c> the</c>
+running. And last but not least, the
+running. And last but not least, the
+metrics<00:12:14.000><c> piece.</c><00:12:14.399><c> You</c><00:12:14.560><c> want</c><00:12:14.720><c> to</c><00:12:14.880><c> have</c><00:12:15.040><c> eval</c>
+metrics piece. You want to have eval
+metrics piece. You want to have eval
+functions<00:12:16.000><c> that</c><00:12:16.240><c> can</c><00:12:16.399><c> measure</c><00:12:16.800><c> accuracy,</c>
+functions that can measure accuracy,
+functions that can measure accuracy,
+that<00:12:17.519><c> can</c><00:12:17.680><c> measure</c><00:12:18.000><c> relevance,</c><00:12:18.480><c> that</c><00:12:18.639><c> can</c>
+that can measure relevance, that can
+that can measure relevance, that can
+measure<00:12:19.040><c> format</c><00:12:19.440><c> compliance,</c><00:12:20.000><c> that</c><00:12:20.160><c> can</c>
+measure format compliance, that can
+measure format compliance, that can
+measure<00:12:20.560><c> custom</c><00:12:20.959><c> business</c><00:12:21.279><c> metrics</c><00:12:22.079><c> because</c>
+measure custom business metrics because
+measure custom business metrics because
+these<00:12:23.440><c> help</c><00:12:23.680><c> you</c><00:12:23.920><c> decide</c><00:12:24.320><c> what</c><00:12:24.560><c> is</c><00:12:24.800><c> good.</c>
+these help you decide what is good.
+these help you decide what is good.
+These<00:12:25.760><c> guide</c><00:12:26.000><c> the</c><00:12:26.240><c> optimization</c><00:12:27.040><c> process</c><00:12:27.760><c> and</c>
+These guide the optimization process and
+These guide the optimization process and
+give<00:12:28.160><c> you</c><00:12:28.399><c> feedback</c><00:12:28.880><c> that</c><00:12:29.120><c> enables</c><00:12:29.519><c> the</c>
+give you feedback that enables the
+give you feedback that enables the
+optimizer<00:12:30.320><c> to</c><00:12:30.480><c> work.</c><00:12:30.720><c> So</c><00:12:30.880><c> if</c><00:12:31.040><c> we</c><00:12:31.200><c> look</c><00:12:31.279><c> at</c><00:12:31.440><c> this</c>
+optimizer to work. So if we look at this
+optimizer to work. So if we look at this
+in<00:12:31.839><c> action,</c><00:12:32.320><c> what</c><00:12:32.560><c> you're</c><00:12:32.720><c> doing</c><00:12:32.880><c> is</c><00:12:33.040><c> you're</c>
+in action, what you're doing is you're
+in action, what you're doing is you're
+going<00:12:33.279><c> to</c><00:12:33.360><c> define</c><00:12:33.600><c> your</c><00:12:33.760><c> task,</c><00:12:34.320><c> start</c><00:12:34.480><c> with</c>
+going to define your task, start with
+going to define your task, start with
+signatures,<00:12:35.680><c> and</c><00:12:35.920><c> then</c><00:12:36.079><c> you're</c><00:12:36.399><c> going</c><00:12:36.560><c> to</c>
+signatures, and then you're going to
+signatures, and then you're going to
+make<00:12:37.279><c> sure</c><00:12:37.600><c> that</c><00:12:37.920><c> you</c><00:12:38.079><c> have</c><00:12:38.240><c> enough</c><00:12:38.800><c> examples</c>
+make sure that you have enough examples
+make sure that you have enough examples
+of<00:12:39.440><c> input</c><00:12:39.920><c> output</c><00:12:40.320><c> pairs</c><00:12:41.200><c> that</c><00:12:41.440><c> DSPI</c><00:12:42.000><c> can</c>
+of input output pairs that DSPI can
+of input output pairs that DSPI can
+learn<00:12:42.399><c> from</c><00:12:42.639><c> those</c><00:12:42.800><c> examples.</c><00:12:43.279><c> And</c><00:12:43.440><c> so</c><00:12:43.920><c> in</c><00:12:44.160><c> the</c>
+learn from those examples. And so in the
+learn from those examples. And so in the
+chat<00:12:44.639><c> GPT</c><00:12:45.440><c> uh</c><00:12:45.680><c> light</c><00:12:46.000><c> example</c><00:12:46.399><c> that</c><00:12:46.560><c> we</c><00:12:46.720><c> did</c>
+chat GPT uh light example that we did
+chat GPT uh light example that we did
+for<00:12:47.040><c> beginners,</c><00:12:47.440><c> we</c><00:12:47.680><c> had</c><00:12:47.839><c> three.</c><00:12:48.320><c> In</c><00:12:48.639><c> real</c>
+for beginners, we had three. In real
+for beginners, we had three. In real
+production,<00:12:49.680><c> we're</c><00:12:49.920><c> going</c><00:12:50.000><c> to</c><00:12:50.079><c> have</c><00:12:50.240><c> much</c>
+production, we're going to have much
+production, we're going to have much
+more,<00:12:50.800><c> 10,</c><00:12:51.279><c> 30,</c><00:12:51.680><c> 40,</c><00:12:52.079><c> 50.</c><00:12:52.639><c> And</c><00:12:52.800><c> DSP</c><00:12:53.360><c> is</c><00:12:53.519><c> going</c>
+more, 10, 30, 40, 50. And DSP is going
+more, 10, 30, 40, 50. And DSP is going
+to<00:12:53.760><c> learn</c><00:12:53.920><c> from</c><00:12:54.079><c> these</c><00:12:54.399><c> examples</c><00:12:55.040><c> to</c><00:12:55.360><c> generate</c>
+to learn from these examples to generate
+to learn from these examples to generate
+effective<00:12:56.399><c> prompts.</c><00:12:56.959><c> You're</c><00:12:57.200><c> then</c><00:12:57.440><c> going</c><00:12:57.600><c> to</c>
+effective prompts. You're then going to
+effective prompts. You're then going to
+specify<00:12:59.040><c> how</c><00:12:59.360><c> to</c><00:12:59.600><c> measure</c><00:13:00.399><c> quality</c><00:13:00.880><c> and</c>
+specify how to measure quality and
+specify how to measure quality and
+accuracy<00:13:01.760><c> percentages,</c><00:13:02.560><c> what</c><00:13:02.800><c> format</c><00:13:03.279><c> looks</c>
+accuracy percentages, what format looks
+accuracy percentages, what format looks
+like,<00:13:03.760><c> and</c><00:13:03.920><c> you're</c><00:13:04.079><c> going</c><00:13:04.160><c> to</c><00:13:04.240><c> do</c><00:13:04.399><c> so</c><00:13:04.880><c> in</c><00:13:05.120><c> a</c>
+like, and you're going to do so in a
+like, and you're going to do so in a
+much<00:13:05.519><c> higher</c><00:13:05.839><c> degree</c><00:13:06.000><c> of</c><00:13:06.240><c> detail</c><00:13:06.480><c> than</c><00:13:06.720><c> I</c><00:13:06.880><c> gave</c>
+much higher degree of detail than I gave
+much higher degree of detail than I gave
+in<00:13:07.519><c> the</c><00:13:07.760><c> beginner's</c><00:13:08.160><c> prompt.</c><00:13:08.800><c> It's</c><00:13:09.040><c> going</c><00:13:09.200><c> to</c>
+in the beginner's prompt. It's going to
+in the beginner's prompt. It's going to
+be<00:13:09.519><c> not</c><00:13:10.079><c> three</c><00:13:10.399><c> different</c><00:13:10.639><c> examples</c><00:13:11.040><c> of</c><00:13:11.200><c> what</c>
+be not three different examples of what
+be not three different examples of what
+good<00:13:11.680><c> looks</c><00:13:11.839><c> like,</c><00:13:12.079><c> but</c><00:13:12.399><c> quantified</c><00:13:13.120><c> examples</c>
+good looks like, but quantified examples
+good looks like, but quantified examples
+across<00:13:14.720><c> six</c><00:13:14.959><c> or</c><00:13:15.200><c> seven</c><00:13:15.360><c> or</c><00:13:15.519><c> eight</c><00:13:15.680><c> dimensions</c>
+across six or seven or eight dimensions
+across six or seven or eight dimensions
+of<00:13:16.320><c> what</c><00:13:16.560><c> quality</c><00:13:16.959><c> looks</c><00:13:17.200><c> like.</c><00:13:17.519><c> Maybe</c><00:13:17.680><c> it's</c><00:13:17.839><c> a</c>
+of what quality looks like. Maybe it's a
+of what quality looks like. Maybe it's a
+number<00:13:18.160><c> of</c><00:13:18.320><c> tokens,</c><00:13:19.040><c> maybe</c><00:13:19.279><c> it's</c><00:13:19.440><c> a</c><00:13:19.600><c> reading</c>
+number of tokens, maybe it's a reading
+number of tokens, maybe it's a reading
+level,<00:13:20.480><c> maybe</c><00:13:20.639><c> it's</c><00:13:20.800><c> format</c><00:13:21.200><c> compliance.</c>
+level, maybe it's format compliance.
+level, maybe it's format compliance.
+There's<00:13:21.839><c> a</c><00:13:22.000><c> lot</c><00:13:22.079><c> of</c><00:13:22.160><c> ways</c><00:13:22.320><c> to</c><00:13:22.480><c> do</c><00:13:22.560><c> it</c><00:13:22.720><c> and</c><00:13:22.880><c> it's</c>
+There's a lot of ways to do it and it's
+There's a lot of ways to do it and it's
+going to<00:13:23.200><c> be</c><00:13:23.360><c> dependent</c><00:13:23.760><c> on</c><00:13:24.000><c> the</c><00:13:24.160><c> output</c>
+going to be dependent on the output
+going to be dependent on the output
+you're<00:13:24.800><c> looking</c><00:13:24.959><c> for,</c><00:13:25.200><c> but</c><00:13:25.440><c> you</c><00:13:25.600><c> need</c><00:13:25.680><c> to</c>
+you're looking for, but you need to
+you're looking for, but you need to
+define<00:13:26.160><c> the</c><00:13:26.320><c> output</c><00:13:26.639><c> as</c><00:13:26.800><c> specifically</c><00:13:27.279><c> as</c><00:13:27.440><c> you</c>
+define the output as specifically as you
+define the output as specifically as you
+can.<00:13:28.079><c> Then</c><00:13:28.480><c> you're</c><00:13:28.720><c> going</c><00:13:28.800><c> to</c><00:13:28.880><c> choose</c><00:13:29.120><c> an</c>
+can. Then you're going to choose an
+can. Then you're going to choose an
+optimizer<00:13:29.839><c> like</c><00:13:30.079><c> Bootstrap</c><00:13:30.560><c> Fshot</c><00:13:31.360><c> for</c><00:13:31.760><c> quick</c>
+optimizer like Bootstrap Fshot for quick
+optimizer like Bootstrap Fshot for quick
+results<00:13:32.800><c> or</c><00:13:33.200><c> there's</c><00:13:33.519><c> some</c><00:13:33.680><c> that</c><00:13:33.839><c> are</c><00:13:34.000><c> sort</c><00:13:34.160><c> of</c>
+results or there's some that are sort of
+results or there's some that are sort of
+going<00:13:34.320><c> to</c><00:13:34.399><c> take</c><00:13:34.639><c> longer.</c><00:13:35.440><c> MERO</c><00:13:36.160><c> for</c><00:13:36.480><c> complex</c>
+going to take longer. MERO for complex
+going to take longer. MERO for complex
+reasoning<00:13:37.360><c> tasks</c><00:13:37.680><c> is</c><00:13:37.920><c> better.</c><00:13:38.480><c> So</c><00:13:38.639><c> you're</c>
+reasoning tasks is better. So you're
+reasoning tasks is better. So you're
+going<00:13:38.880><c> to</c><00:13:38.959><c> pick</c><00:13:39.120><c> the</c><00:13:39.279><c> one</c><00:13:39.360><c> that</c><00:13:39.680><c> sort</c><00:13:39.839><c> of</c><00:13:40.000><c> works</c>
+going to pick the one that sort of works
+going to pick the one that sort of works
+for<00:13:40.399><c> you.</c><00:13:40.959><c> And</c><00:13:41.120><c> then</c><00:13:41.279><c> finally,</c><00:13:41.600><c> you're</c><00:13:41.839><c> going</c>
+for you. And then finally, you're going
+for you. And then finally, you're going
+to<00:13:42.160><c> deploy</c><00:13:42.480><c> it</c><00:13:42.959><c> and</c><00:13:43.200><c> keep</c><00:13:43.360><c> an</c><00:13:43.600><c> eye</c><00:13:43.680><c> on</c>
+to deploy it and keep an eye on
+to deploy it and keep an eye on
+performance.<00:13:44.639><c> And</c><00:13:44.800><c> you're</c><00:13:45.040><c> going</c><00:13:45.120><c> to</c><00:13:45.279><c> allow</c>
+performance. And you're going to allow
+performance. And you're going to allow
+the<00:13:45.760><c> DSPI</c><00:13:46.399><c> module</c><00:13:46.720><c> to</c><00:13:46.959><c> adapt</c><00:13:47.360><c> to</c><00:13:47.600><c> new</c><00:13:47.760><c> data</c><00:13:48.639><c> as</c>
+the DSPI module to adapt to new data as
+the DSPI module to adapt to new data as
+you<00:13:49.200><c> feed</c><00:13:49.440><c> it</c><00:13:49.920><c> new</c><00:13:50.240><c> training</c><00:13:50.639><c> examples.</c><00:13:51.360><c> And</c>
+you feed it new training examples. And
+you feed it new training examples. And
+so<00:13:51.680><c> it</c><00:13:51.920><c> becomes</c><00:13:52.160><c> its</c><00:13:52.480><c> own</c><00:13:52.639><c> self-improving</c>
+so it becomes its own self-improving
+so it becomes its own self-improving
+prompt<00:13:53.760><c> system.</c><00:13:54.160><c> To</c><00:13:54.480><c> scale</c><00:13:54.800><c> DSPI</c><00:13:55.519><c> across</c>
+prompt system. To scale DSPI across
+prompt system. To scale DSPI across
+teams<00:13:56.480><c> is</c><00:13:56.720><c> a</c><00:13:56.880><c> separate</c><00:13:57.199><c> challenge.</c><00:13:57.920><c> So</c><00:13:58.160><c> if</c><00:13:58.480><c> you</c>
+teams is a separate challenge. So if you
+teams is a separate challenge. So if you
+start<00:13:58.800><c> with</c><00:13:59.040><c> personal</c><00:13:59.440><c> workflows,</c><00:14:00.320><c> you</c><00:14:00.560><c> can</c>
+start with personal workflows, you can
+start with personal workflows, you can
+get<00:14:01.440><c> significant</c><00:14:02.079><c> improvements,</c><00:14:02.639><c> right?</c><00:14:02.880><c> You</c>
+get significant improvements, right? You
+get significant improvements, right? You
+can<00:14:03.120><c> automate</c><00:14:03.600><c> email</c><00:14:04.000><c> responses,</c><00:14:04.639><c> content</c>
+can automate email responses, content
+can automate email responses, content
+generation,<00:14:05.440><c> data</c><00:14:05.680><c> analysis.</c><00:14:06.160><c> There's</c><00:14:06.399><c> lots</c>
+generation, data analysis. There's lots
+generation, data analysis. There's lots
+of<00:14:06.720><c> good</c><00:14:06.959><c> stuff</c><00:14:07.199><c> you</c><00:14:07.440><c> can</c><00:14:07.600><c> do.</c><00:14:08.000><c> Individual</c>
+of good stuff you can do. Individual
+of good stuff you can do. Individual
+engineers<00:14:08.959><c> are</c><00:14:09.120><c> using</c><00:14:09.360><c> this</c><00:14:09.519><c> already</c><00:14:10.079><c> and</c>
+engineers are using this already and
+engineers are using this already and
+teams<00:14:10.639><c> are</c><00:14:10.800><c> starting</c><00:14:11.040><c> to</c><00:14:11.199><c> as</c><00:14:11.440><c> well</c><00:14:11.600><c> and</c><00:14:11.839><c> doing</c>
+teams are starting to as well and doing
+teams are starting to as well and doing
+so<00:14:12.240><c> successfully.</c><00:14:13.040><c> But</c><00:14:13.199><c> it</c><00:14:13.440><c> requires</c><00:14:14.160><c> sharing</c>
+so successfully. But it requires sharing
+so successfully. But it requires sharing
+optimized<00:14:15.120><c> modules</c><00:14:15.600><c> across</c><00:14:15.920><c> teams</c><00:14:16.639><c> through</c>
+optimized modules across teams through
+optimized modules across teams through
+centralized<00:14:17.519><c> registries.</c><00:14:18.079><c> So</c><00:14:18.160><c> you</c><00:14:18.320><c> actually</c>
+centralized registries. So you actually
+centralized registries. So you actually
+have<00:14:18.720><c> scalable</c><00:14:19.279><c> architectures</c><00:14:19.760><c> and</c><00:14:20.000><c> you're</c>
+have scalable architectures and you're
+have scalable architectures and you're
+not<00:14:20.240><c> all</c><00:14:20.399><c> working</c><00:14:20.639><c> off</c><00:14:20.880><c> different</c>
+not all working off different
+not all working off different
+optimizers.<00:14:21.920><c> It</c><00:14:22.079><c> requires</c><00:14:22.480><c> quality</c><00:14:22.880><c> gates</c>
+optimizers. It requires quality gates
+optimizers. It requires quality gates
+and<00:14:23.360><c> cost</c><00:14:23.600><c> control.</c><00:14:24.160><c> So</c><00:14:24.320><c> you</c><00:14:24.560><c> are</c><00:14:25.120><c> determining</c>
+and cost control. So you are determining
+and cost control. So you are determining
+the<00:14:26.240><c> acceptable</c><00:14:26.959><c> cost</c><00:14:27.199><c> you</c><00:14:27.440><c> will</c><00:14:27.600><c> pay</c><00:14:27.760><c> for</c>
+the acceptable cost you will pay for
+the acceptable cost you will pay for
+quality<00:14:28.480><c> at</c><00:14:28.639><c> a</c><00:14:28.800><c> given</c><00:14:29.040><c> scale</c><00:14:29.519><c> across</c><00:14:29.920><c> a</c><00:14:30.160><c> range</c>
+quality at a given scale across a range
+quality at a given scale across a range
+of<00:14:30.560><c> tasks.</c><00:14:31.279><c> And</c><00:14:31.440><c> it</c><00:14:31.760><c> requires</c><00:14:32.320><c> infrastructure</c>
+of tasks. And it requires infrastructure
+of tasks. And it requires infrastructure
+for<00:14:33.199><c> governance,</c><00:14:33.760><c> infrastructure</c><00:14:34.320><c> for</c>
+for governance, infrastructure for
+for governance, infrastructure for
+automated<00:14:35.040><c> model</c><00:14:35.360><c> selection.</c><00:14:36.079><c> If</c><00:14:36.399><c> you</c><00:14:36.560><c> don't</c>
+automated model selection. If you don't
+automated model selection. If you don't
+do<00:14:36.959><c> these</c><00:14:37.360><c> things,</c><00:14:37.920><c> you</c><00:14:38.160><c> end</c><00:14:38.320><c> up</c><00:14:38.480><c> with</c><00:14:38.800><c> a</c>
+do these things, you end up with a
+do these things, you end up with a
+complex<00:14:39.760><c> library</c><00:14:40.079><c> of</c><00:14:40.240><c> optimizers</c><00:14:40.880><c> that</c>
+complex library of optimizers that
+complex library of optimizers that
+individuals<00:14:41.600><c> are</c><00:14:41.760><c> maintaining</c><00:14:42.160><c> on</c><00:14:42.320><c> a</c><00:14:42.480><c> best</c>
+individuals are maintaining on a best
+individuals are maintaining on a best
+effort<00:14:42.959><c> basis.</c><00:14:43.680><c> Costs</c><00:14:44.000><c> run</c><00:14:44.240><c> out</c><00:14:44.399><c> of</c><00:14:44.560><c> control</c>
+effort basis. Costs run out of control
+effort basis. Costs run out of control
+and<00:14:45.519><c> you</c><00:14:45.760><c> have</c><00:14:46.079><c> great</c><00:14:46.560><c> difficulty</c><00:14:47.440><c> actually</c>
+and you have great difficulty actually
+and you have great difficulty actually
+building<00:14:48.160><c> a</c><00:14:48.480><c> consistent</c><00:14:48.959><c> pipeline</c><00:14:49.760><c> for</c>
+building a consistent pipeline for
+building a consistent pipeline for
+prompting.<00:14:50.880><c> And</c><00:14:51.040><c> so,</c><00:14:51.279><c> as</c><00:14:51.519><c> much</c><00:14:51.600><c> as</c><00:14:51.839><c> this</c><00:14:52.079><c> may</c>
+prompting. And so, as much as this may
+prompting. And so, as much as this may
+feel<00:14:52.639><c> like</c><00:14:53.120><c> individual</c><00:14:53.600><c> engineers</c><00:14:54.079><c> want</c><00:14:54.240><c> to</c>
+feel like individual engineers want to
+feel like individual engineers want to
+roll<00:14:54.560><c> their</c><00:14:54.720><c> eyes,</c><00:14:55.040><c> if</c><00:14:55.199><c> you're</c><00:14:55.360><c> a</c><00:14:55.600><c> team</c>
+roll their eyes, if you're a team
+roll their eyes, if you're a team
+leader,<00:14:56.480><c> you</c><00:14:56.720><c> have</c><00:14:56.880><c> to</c><00:14:57.120><c> be</c><00:14:57.279><c> thinking</c><00:14:57.600><c> about</c>
+leader, you have to be thinking about
+leader, you have to be thinking about
+this<00:14:58.399><c> as</c><00:14:58.639><c> you</c><00:14:58.880><c> start</c><00:14:59.120><c> to</c><00:14:59.360><c> scale</c><00:15:00.000><c> your</c>
+this as you start to scale your
+this as you start to scale your
+production<00:15:00.800><c> pipelines.</c><00:15:01.600><c> All</c><00:15:01.600><c> right,</c><00:15:01.920><c> I</c><00:15:02.160><c> hope</c>
+production pipelines. All right, I hope
+production pipelines. All right, I hope
+this<00:15:02.480><c> has</c><00:15:02.720><c> been</c><00:15:02.880><c> helpful.</c><00:15:03.440><c> I</c><00:15:03.760><c> want</c><00:15:03.920><c> to</c><00:15:04.079><c> call</c>
+this has been helpful. I want to call
+this has been helpful. I want to call
+out<00:15:04.480><c> that</c><00:15:04.720><c> it</c><00:15:04.959><c> actually</c><00:15:05.360><c> doesn't</c><00:15:05.920><c> it's</c><00:15:06.160><c> not</c>
+out that it actually doesn't it's not
+out that it actually doesn't it's not
+that<00:15:06.560><c> scary</c><00:15:06.800><c> to</c><00:15:07.040><c> get</c><00:15:07.120><c> started</c><00:15:07.440><c> that</c><00:15:07.680><c> to</c><00:15:07.839><c> get</c>
+that scary to get started that to get
+that scary to get started that to get
+into<00:15:08.240><c> bootstrap</c><00:15:08.720><c> fshot</c><00:15:09.279><c> and</c><00:15:09.519><c> start</c><00:15:09.680><c> to</c>
+into bootstrap fshot and start to
+into bootstrap fshot and start to
+optimize<00:15:10.399><c> right</c><00:15:10.639><c> away</c><00:15:11.120><c> as</c><00:15:11.440><c> long</c><00:15:11.519><c> as</c><00:15:11.680><c> you</c><00:15:12.000><c> have</c>
+optimize right away as long as you have
+optimize right away as long as you have
+signatures<00:15:13.199><c> and</c><00:15:13.440><c> input</c><00:15:13.839><c> output</c><00:15:14.160><c> pairs</c><00:15:14.560><c> it</c><00:15:14.720><c> is</c>
+signatures and input output pairs it is
+signatures and input output pairs it is
+totally<00:15:15.279><c> doable</c><00:15:15.920><c> and</c><00:15:16.160><c> you</c><00:15:16.320><c> can</c><00:15:16.480><c> get</c><00:15:16.560><c> to</c>
+totally doable and you can get to
+totally doable and you can get to
+applying<00:15:17.040><c> it</c><00:15:17.120><c> to</c><00:15:17.279><c> real</c><00:15:17.519><c> work</c><00:15:17.760><c> quickly</c><00:15:18.320><c> week</c>
+applying it to real work quickly week
+applying it to real work quickly week
+three<00:15:18.800><c> to</c><00:15:18.959><c> four</c><00:15:19.279><c> like</c><00:15:19.519><c> I</c><00:15:19.680><c> know</c><00:15:19.839><c> people</c><00:15:20.000><c> who've</c>
+three to four like I know people who've
+three to four like I know people who've
+done<00:15:20.399><c> it</c><00:15:20.560><c> much</c><00:15:20.800><c> faster</c><00:15:21.120><c> than</c><00:15:21.199><c> this</c><00:15:21.519><c> right</c><00:15:21.680><c> like</c>
+done it much faster than this right like
+done it much faster than this right like
+I<00:15:22.079><c> know</c><00:15:22.160><c> people</c><00:15:22.320><c> who</c><00:15:22.480><c> have</c><00:15:22.639><c> gotten</c><00:15:22.880><c> into</c><00:15:23.120><c> this</c>
+I know people who have gotten into this
+I know people who have gotten into this
+in<00:15:23.440><c> just</c><00:15:23.600><c> a</c><00:15:23.760><c> few</c><00:15:23.920><c> days</c><00:15:24.399><c> and</c><00:15:24.639><c> gotten</c><00:15:24.880><c> to</c><00:15:25.040><c> actual</c>
+in just a few days and gotten to actual
+in just a few days and gotten to actual
+workflows<00:15:25.839><c> in</c><00:15:26.000><c> the</c><00:15:26.160><c> business</c><00:15:26.639><c> it's</c><00:15:26.880><c> totally</c>
+workflows in the business it's totally
+workflows in the business it's totally
+possible<00:15:27.760><c> to</c><00:15:27.920><c> do</c><00:15:28.079><c> it</c><00:15:28.480><c> and</c><00:15:28.639><c> the</c><00:15:28.880><c> key</c><00:15:29.120><c> thing</c><00:15:29.279><c> is</c>
+possible to do it and the key thing is
+possible to do it and the key thing is
+it<00:15:30.160><c> removes</c><00:15:30.800><c> one</c><00:15:31.040><c> of</c><00:15:31.120><c> the</c><00:15:31.360><c> biggest</c><00:15:31.839><c> human</c>
+it removes one of the biggest human
+it removes one of the biggest human
+dependencies<00:15:32.959><c> is</c><00:15:33.040><c> in</c><00:15:33.199><c> the</c><00:15:33.360><c> prompt</c><00:15:33.680><c> equation.</c>
+dependencies is in the prompt equation.
+dependencies is in the prompt equation.
+You<00:15:34.480><c> now</c><00:15:34.720><c> get</c><00:15:35.040><c> consistent</c><00:15:35.680><c> scaling</c><00:15:36.320><c> of</c><00:15:36.800><c> prompt</c>
+You now get consistent scaling of prompt
+You now get consistent scaling of prompt
+engineering<00:15:37.760><c> expertise</c><00:15:38.639><c> by</c><00:15:38.880><c> having</c><00:15:39.199><c> AI</c><00:15:39.680><c> write</c>
+engineering expertise by having AI write
+engineering expertise by having AI write
+the<00:15:40.079><c> prompts</c><00:15:40.720><c> and</c><00:15:40.959><c> that's</c><00:15:41.199><c> pretty</c><00:15:41.360><c> cool.</c><00:15:41.680><c> So</c>
+the prompts and that's pretty cool. So
+the prompts and that's pretty cool. So
+there<00:15:42.000><c> you</c><00:15:42.160><c> have</c><00:15:42.240><c> it.</c><00:15:42.480><c> That's</c><00:15:42.720><c> an</c>
+there you have it. That's an
+there you have it. That's an
+introduction<00:15:43.199><c> to</c><00:15:43.360><c> DSPI.</c><00:15:44.399><c> That's</c><00:15:44.639><c> why</c><00:15:44.880><c> I'm</c>
+introduction to DSPI. That's why I'm
+introduction to DSPI. That's why I'm
+excited<00:15:45.440><c> about</c><00:15:45.680><c> it</c><00:15:46.079><c> and</c><00:15:46.320><c> I</c><00:15:46.560><c> hope</c><00:15:46.639><c> it</c><00:15:46.880><c> gives</c><00:15:47.120><c> you</c>
+excited about it and I hope it gives you
+excited about it and I hope it gives you
+a<00:15:47.519><c> sense</c><00:15:47.680><c> of</c><00:15:47.920><c> where</c><00:15:48.079><c> the</c><00:15:48.240><c> state-of-the-art</c><00:15:48.959><c> is</c>
+a sense of where the state-of-the-art is
+a sense of where the state-of-the-art is
+going<00:15:49.600><c> as</c><00:15:49.920><c> far</c><00:15:50.079><c> as</c><00:15:50.320><c> using</c><00:15:50.800><c> AI</c><00:15:51.279><c> to</c><00:15:51.519><c> optimize</c>
+going as far as using AI to optimize
+going as far as using AI to optimize
+prompts.<00:15:52.720><c> It's</c><00:15:53.040><c> a</c><00:15:53.360><c> wild</c><00:15:53.839><c> exciting</c><00:15:54.240><c> world</c><00:15:54.639><c> and</c>
+prompts. It's a wild exciting world and
+prompts. It's a wild exciting world and
+uh<00:15:55.360><c> yeah,</c><00:15:55.600><c> I've</c><00:15:55.839><c> written</c><00:15:56.000><c> a</c><00:15:56.160><c> whole</c><00:15:56.320><c> post</c><00:15:56.560><c> on</c>
+uh yeah, I've written a whole post on
+uh yeah, I've written a whole post on
+how<00:15:56.880><c> to</c><00:15:57.040><c> actually</c><00:15:57.199><c> get</c><00:15:57.360><c> into</c><00:15:57.519><c> it</c><00:15:57.759><c> whether</c>
+how to actually get into it whether
+how to actually get into it whether
+you're<00:15:58.079><c> a</c><00:15:58.240><c> beginner</c><00:15:58.560><c> or</c><00:15:58.800><c> whether</c><00:15:59.040><c> you're</c><00:15:59.199><c> an</c>
+you're a beginner or whether you're an
+you're a beginner or whether you're an
+engineer<00:15:59.680><c> or</c><00:16:00.000><c> even</c><00:16:00.320><c> a</c><00:16:00.560><c> whole</c><00:16:00.720><c> piece</c><00:16:01.040><c> on</c><00:16:01.279><c> being</c>
+engineer or even a whole piece on being
+engineer or even a whole piece on being
+a<00:16:01.759><c> a</c><00:16:01.920><c> team</c><00:16:02.160><c> leader</c><00:16:02.480><c> and</c><00:16:02.720><c> having</c><00:16:02.880><c> the</c><00:16:02.959><c> the</c>
+a a team leader and having the the
+a a team leader and having the the
+glorious<00:16:03.759><c> and</c><00:16:04.000><c> fun</c><00:16:04.320><c> job</c><00:16:04.880><c> of</c><00:16:05.199><c> optimizing</c>
+glorious and fun job of optimizing
+glorious and fun job of optimizing
+entire<00:16:06.399><c> teams</c><00:16:06.639><c> in</c><00:16:06.880><c> production</c><00:16:07.199><c> pipelines</c><00:16:07.759><c> for</c>
+entire teams in production pipelines for
+entire teams in production pipelines for
+prompt<00:16:08.639><c> optimization</c><00:16:09.600><c> that</c><00:16:09.920><c> actually</c><00:16:10.240><c> runs.</c>
+prompt optimization that actually runs.
+prompt optimization that actually runs.
+Good<00:16:11.040><c> luck.</c><00:16:11.519><c> Have</c><00:16:11.759><c> fun.</c>

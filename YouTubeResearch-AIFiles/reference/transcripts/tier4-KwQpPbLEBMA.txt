@@ -1,0 +1,904 @@
+I<00:00:00.320><c> spent</c><00:00:00.480><c> the</c><00:00:00.640><c> last</c><00:00:00.880><c> few</c><00:00:01.040><c> months</c><00:00:01.280><c> running</c>
+I spent the last few months running
+I spent the last few months running
+informal<00:00:02.240><c> office</c><00:00:02.560><c> hours</c><00:00:02.960><c> with</c><00:00:03.520><c> Fortune</c><00:00:04.000><c> 500</c>
+informal office hours with Fortune 500
+informal office hours with Fortune 500
+product<00:00:04.640><c> teams,</c><00:00:04.960><c> with</c><00:00:05.200><c> technical</c><00:00:05.600><c> writers,</c>
+product teams, with technical writers,
+product teams, with technical writers,
+with<00:00:06.240><c> consultants.</c><00:00:07.279><c> I</c><00:00:07.600><c> keep</c><00:00:07.839><c> coming</c><00:00:08.080><c> up</c>
+with consultants. I keep coming up
+with consultants. I keep coming up
+against<00:00:08.720><c> the</c><00:00:08.960><c> same</c><00:00:09.519><c> six</c><00:00:10.240><c> problems</c><00:00:10.960><c> when</c>
+against the same six problems when
+against the same six problems when
+people<00:00:11.599><c> use</c><00:00:11.840><c> AI.</c><00:00:12.480><c> So,</c><00:00:12.639><c> I'm</c><00:00:12.960><c> calling</c><00:00:13.280><c> this</c>
+people use AI. So, I'm calling this
+people use AI. So, I'm calling this
+video<00:00:14.160><c> chat</c><00:00:14.559><c> GPT</c><00:00:15.120><c> office</c><00:00:15.360><c> hours.</c><00:00:15.839><c> We're</c><00:00:16.000><c> going</c>
+video chat GPT office hours. We're going
+video chat GPT office hours. We're going
+to<00:00:16.240><c> go</c><00:00:16.320><c> through</c><00:00:16.640><c> each</c><00:00:16.960><c> of</c><00:00:17.119><c> the</c><00:00:17.440><c> six</c><00:00:17.760><c> problems</c>
+to go through each of the six problems
+to go through each of the six problems
+that<00:00:18.400><c> I</c><00:00:18.640><c> come</c><00:00:18.800><c> across</c><00:00:19.359><c> over</c><00:00:19.600><c> and</c><00:00:19.840><c> over</c><00:00:20.080><c> again,</c>
+that I come across over and over again,
+that I come across over and over again,
+and<00:00:20.720><c> I'm</c><00:00:20.880><c> going</c><00:00:20.960><c> to</c><00:00:21.119><c> call</c><00:00:21.359><c> out</c><00:00:22.000><c> how</c><00:00:22.240><c> I</c><00:00:22.560><c> advise</c>
+and I'm going to call out how I advise
+and I'm going to call out how I advise
+teams<00:00:23.279><c> to</c><00:00:23.439><c> fix</c><00:00:23.600><c> it.</c><00:00:24.080><c> Number</c><00:00:24.400><c> one,</c><00:00:24.880><c> the</c>
+teams to fix it. Number one, the
+teams to fix it. Number one, the
+projection<00:00:25.840><c> trap.</c><00:00:26.560><c> What's</c><00:00:26.800><c> that?</c><00:00:27.279><c> you</c><00:00:27.599><c> are</c>
+projection trap. What's that? you are
+projection trap. What's that? you are
+projecting<00:00:28.640><c> capabilities</c><00:00:29.599><c> onto</c><00:00:30.080><c> the</c><00:00:30.320><c> model</c>
+projecting capabilities onto the model
+projecting capabilities onto the model
+that<00:00:31.199><c> the</c><00:00:31.439><c> model</c><00:00:32.000><c> does</c><00:00:32.320><c> not</c><00:00:32.800><c> have.</c><00:00:33.440><c> I</c><00:00:33.680><c> see</c><00:00:33.840><c> this</c>
+that the model does not have. I see this
+that the model does not have. I see this
+with<00:00:34.239><c> developers</c><00:00:34.800><c> and</c><00:00:34.960><c> with</c><00:00:35.200><c> non-developers</c>
+with developers and with non-developers
+with developers and with non-developers
+both.<00:00:36.399><c> If</c><00:00:36.559><c> you're</c><00:00:36.719><c> a</c><00:00:36.880><c> developer,</c><00:00:37.360><c> this</c><00:00:37.600><c> can</c>
+both. If you're a developer, this can
+both. If you're a developer, this can
+look<00:00:38.000><c> like</c><00:00:38.320><c> assuming</c><00:00:38.879><c> a</c><00:00:39.200><c> competency</c><00:00:39.920><c> in</c><00:00:40.160><c> an</c>
+look like assuming a competency in an
+look like assuming a competency in an
+agent<00:00:40.719><c> tool</c><00:00:41.040><c> call</c><00:00:41.440><c> that</c><00:00:41.680><c> isn't</c><00:00:41.920><c> really</c><00:00:42.079><c> there.</c>
+agent tool call that isn't really there.
+agent tool call that isn't really there.
+If<00:00:42.960><c> you</c><00:00:43.280><c> are</c><00:00:43.680><c> not</c><00:00:43.920><c> a</c><00:00:44.160><c> developer,</c><00:00:44.640><c> it</c><00:00:44.800><c> can</c><00:00:44.960><c> look</c>
+If you are not a developer, it can look
+If you are not a developer, it can look
+like<00:00:45.600><c> writing</c><00:00:45.920><c> a</c><00:00:46.160><c> prompt</c><00:00:46.800><c> and</c><00:00:47.039><c> the</c><00:00:47.280><c> prompt</c><00:00:47.680><c> is</c>
+like writing a prompt and the prompt is
+like writing a prompt and the prompt is
+underspecified.<00:00:49.200><c> The</c><00:00:49.440><c> prompt</c><00:00:49.920><c> lets</c><00:00:50.239><c> you</c>
+underspecified. The prompt lets you
+underspecified. The prompt lets you
+infer<00:00:51.120><c> and</c><00:00:51.360><c> guess.</c><00:00:51.760><c> And</c><00:00:51.920><c> so</c><00:00:52.079><c> for</c><00:00:52.160><c> example,</c><00:00:52.559><c> if</c>
+infer and guess. And so for example, if
+infer and guess. And so for example, if
+you<00:00:52.879><c> say</c><00:00:53.280><c> in</c><00:00:53.520><c> a</c><00:00:53.680><c> casual</c><00:00:54.079><c> prompt,</c><00:00:54.559><c> write</c><00:00:54.800><c> me</c><00:00:54.879><c> a</c>
+you say in a casual prompt, write me a
+you say in a casual prompt, write me a
+professional<00:00:55.520><c> update</c><00:00:55.920><c> about</c><00:00:56.079><c> the</c><00:00:56.320><c> migration.</c>
+professional update about the migration.
+professional update about the migration.
+The<00:00:57.680><c> model</c><00:00:58.000><c> might</c><00:00:58.239><c> assume</c><00:00:58.480><c> you</c><00:00:58.719><c> mean</c><00:00:58.879><c> an</c>
+The model might assume you mean an
+The model might assume you mean an
+engineering<00:00:59.440><c> audience</c><00:00:59.760><c> and</c><00:01:00.000><c> that</c><00:01:00.160><c> you</c><00:01:00.239><c> want</c><00:01:00.320><c> a</c>
+engineering audience and that you want a
+engineering audience and that you want a
+deep<00:01:00.719><c> technical</c><00:01:01.199><c> status</c><00:01:01.520><c> update.</c><00:01:02.000><c> But</c><00:01:02.079><c> you</c>
+deep technical status update. But you
+deep technical status update. But you
+may<00:01:02.399><c> have</c><00:01:02.559><c> meant,</c><00:01:02.800><c> I</c><00:01:02.960><c> want</c><00:01:03.120><c> an</c><00:01:03.280><c> executive</c>
+may have meant, I want an executive
+may have meant, I want an executive
+audience<00:01:04.000><c> in</c><00:01:04.640><c> 150</c><00:01:04.960><c> words.</c><00:01:05.600><c> That's</c><00:01:05.840><c> a</c><00:01:06.000><c> very</c>
+audience in 150 words. That's a very
+audience in 150 words. That's a very
+simple<00:01:06.560><c> example.</c><00:01:07.280><c> And</c><00:01:07.600><c> people</c><00:01:08.000><c> assume</c><00:01:08.320><c> that</c>
+simple example. And people assume that
+simple example. And people assume that
+they<00:01:08.720><c> can</c><00:01:09.040><c> fix</c><00:01:09.280><c> this</c><00:01:09.520><c> by</c><00:01:09.760><c> just</c><00:01:09.920><c> writing</c><00:01:10.240><c> very</c>
+they can fix this by just writing very
+they can fix this by just writing very
+long<00:01:10.799><c> prompts.</c><00:01:11.680><c> That's</c><00:01:12.000><c> not</c><00:01:12.240><c> correct.</c><00:01:13.040><c> The</c>
+long prompts. That's not correct. The
+long prompts. That's not correct. The
+correct<00:01:13.600><c> way</c><00:01:13.760><c> to</c><00:01:13.920><c> fix</c><00:01:14.159><c> this</c><00:01:14.479><c> is</c><00:01:14.799><c> actually</c><00:01:15.119><c> to</c>
+correct way to fix this is actually to
+correct way to fix this is actually to
+specify<00:01:16.960><c> the</c><00:01:17.439><c> schema</c><00:01:18.240><c> of</c><00:01:18.479><c> the</c><00:01:18.720><c> output.</c><00:01:19.360><c> And</c><00:01:19.600><c> so</c>
+specify the schema of the output. And so
+specify the schema of the output. And so
+what<00:01:19.920><c> you</c><00:01:20.159><c> want</c><00:01:20.240><c> to</c><00:01:20.400><c> do</c><00:01:20.560><c> is</c><00:01:20.799><c> instead</c><00:01:21.119><c> of</c><00:01:21.280><c> saying</c>
+what you want to do is instead of saying
+what you want to do is instead of saying
+I<00:01:21.840><c> need</c><00:01:22.000><c> to</c><00:01:22.240><c> compose</c><00:01:22.640><c> a</c><00:01:22.880><c> prompt</c><00:01:23.280><c> and</c><00:01:23.520><c> writing</c>
+I need to compose a prompt and writing
+I need to compose a prompt and writing
+prompt<00:01:24.159><c> forward</c><00:01:24.479><c> in</c><00:01:24.640><c> your</c><00:01:24.799><c> head,</c><00:01:25.280><c> flip</c><00:01:25.600><c> it</c>
+prompt forward in your head, flip it
+prompt forward in your head, flip it
+around<00:01:26.080><c> and</c><00:01:26.400><c> say</c><00:01:26.640><c> I</c><00:01:26.880><c> want</c><00:01:27.040><c> an</c><00:01:27.280><c> output</c><00:01:27.600><c> that</c>
+around and say I want an output that
+around and say I want an output that
+looks<00:01:28.159><c> like</c><00:01:28.320><c> this.</c><00:01:28.720><c> And</c><00:01:28.880><c> that</c><00:01:29.119><c> becomes</c><00:01:29.520><c> your</c>
+looks like this. And that becomes your
+looks like this. And that becomes your
+map<00:01:30.560><c> that</c><00:01:30.799><c> you</c><00:01:31.040><c> give</c><00:01:31.200><c> to</c><00:01:31.439><c> the</c><00:01:31.600><c> AI.</c><00:01:32.240><c> And</c><00:01:32.400><c> this</c><00:01:32.640><c> is</c>
+map that you give to the AI. And this is
+map that you give to the AI. And this is
+called<00:01:32.960><c> schema</c><00:01:33.439><c> first</c><00:01:33.680><c> prompting.</c><00:01:34.400><c> It</c><00:01:34.640><c> is</c><00:01:34.720><c> a</c>
+called schema first prompting. It is a
+called schema first prompting. It is a
+way<00:01:35.119><c> to</c><00:01:35.360><c> handle</c><00:01:35.759><c> situations</c><00:01:36.400><c> where</c><00:01:36.640><c> you</c><00:01:36.880><c> are</c>
+way to handle situations where you are
+way to handle situations where you are
+routinely<00:01:37.600><c> getting</c><00:01:38.240><c> incorrect</c><00:01:39.119><c> responses.</c>
+routinely getting incorrect responses.
+routinely getting incorrect responses.
+It's<00:01:40.240><c> not</c><00:01:40.400><c> that</c><00:01:40.560><c> you</c><00:01:40.720><c> have</c><00:01:40.880><c> to</c><00:01:41.040><c> do</c><00:01:41.119><c> this</c><00:01:41.360><c> every</c>
+It's not that you have to do this every
+It's not that you have to do this every
+single<00:01:42.000><c> time.</c><00:01:42.560><c> All</c><00:01:42.720><c> of</c><00:01:42.880><c> these</c><00:01:43.200><c> prompts</c><00:01:44.159><c> and</c>
+single time. All of these prompts and
+single time. All of these prompts and
+prompt<00:01:44.799><c> tips</c><00:01:45.040><c> and</c><00:01:45.360><c> office</c><00:01:45.600><c> hours</c><00:01:46.000><c> approaches</c>
+prompt tips and office hours approaches
+prompt tips and office hours approaches
+are<00:01:46.720><c> things</c><00:01:46.880><c> that</c><00:01:47.040><c> you</c><00:01:47.200><c> do</c><00:01:47.360><c> when</c><00:01:47.600><c> things</c>
+are things that you do when things
+are things that you do when things
+break.<00:01:48.240><c> That</c><00:01:48.479><c> is</c><00:01:48.640><c> why</c><00:01:48.799><c> we're</c><00:01:49.040><c> having</c><00:01:49.280><c> this</c>
+break. That is why we're having this
+break. That is why we're having this
+conversation.<00:01:50.159><c> So</c><00:01:50.399><c> when</c><00:01:50.640><c> you</c><00:01:50.799><c> are</c><00:01:51.040><c> getting</c>
+conversation. So when you are getting
+conversation. So when you are getting
+responses<00:01:52.079><c> that</c><00:01:52.399><c> do</c><00:01:52.560><c> not</c><00:01:52.799><c> work,</c><00:01:53.360><c> ask</c><00:01:53.680><c> yourself</c>
+responses that do not work, ask yourself
+responses that do not work, ask yourself
+if<00:01:54.399><c> you</c><00:01:54.560><c> are</c><00:01:54.720><c> projecting</c><00:01:55.360><c> capabilities</c><00:01:56.079><c> onto</c>
+if you are projecting capabilities onto
+if you are projecting capabilities onto
+the<00:01:56.640><c> model</c><00:01:57.119><c> that</c><00:01:57.439><c> it</c><00:01:57.680><c> does</c><00:01:57.840><c> not</c><00:01:58.079><c> have.</c><00:01:58.399><c> And</c><00:01:58.560><c> if</c>
+the model that it does not have. And if
+the model that it does not have. And if
+you<00:01:58.960><c> are,</c><00:01:59.840><c> think</c><00:02:00.159><c> about</c><00:02:00.799><c> whether</c><00:02:01.200><c> or</c><00:02:01.520><c> not</c><00:02:02.159><c> you</c>
+you are, think about whether or not you
+you are, think about whether or not you
+need<00:02:02.719><c> to</c><00:02:03.200><c> specify</c><00:02:04.320><c> your</c><00:02:04.719><c> output</c><00:02:05.600><c> more</c>
+need to specify your output more
+need to specify your output more
+precisely<00:02:06.719><c> in</c><00:02:06.960><c> the</c><00:02:07.119><c> prompt.</c><00:02:07.600><c> All</c><00:02:07.759><c> of</c><00:02:07.920><c> these</c>
+precisely in the prompt. All of these
+precisely in the prompt. All of these
+are<00:02:08.239><c> going</c><00:02:08.319><c> to</c><00:02:08.479><c> have</c><00:02:08.640><c> examples</c><00:02:09.039><c> in</c><00:02:09.200><c> the</c>
+are going to have examples in the
+are going to have examples in the
+Substack<00:02:09.920><c> write</c><00:02:10.080><c> up.</c><00:02:10.319><c> I</c><00:02:10.479><c> will</c><00:02:10.640><c> have</c><00:02:10.800><c> actual</c>
+Substack write up. I will have actual
+Substack write up. I will have actual
+printed<00:02:11.599><c> out</c><00:02:11.760><c> prompts</c><00:02:12.160><c> that</c><00:02:12.319><c> you</c><00:02:12.480><c> can</c><00:02:12.560><c> look</c>
+printed out prompts that you can look
+printed out prompts that you can look
+at.<00:02:13.200><c> I</c><00:02:13.440><c> want</c><00:02:13.520><c> to</c><00:02:13.680><c> get</c><00:02:13.760><c> through</c><00:02:14.000><c> all</c><00:02:14.239><c> six</c><00:02:14.400><c> of</c>
+at. I want to get through all six of
+at. I want to get through all six of
+them<00:02:14.640><c> with</c><00:02:14.879><c> you</c><00:02:15.040><c> here.</c><00:02:15.280><c> So</c><00:02:15.440><c> that's</c><00:02:15.680><c> the</c>
+them with you here. So that's the
+them with you here. So that's the
+principle.<00:02:16.720><c> Number</c><00:02:17.040><c> two,</c><00:02:17.360><c> the</c><00:02:17.599><c> revision</c><00:02:18.080><c> loop</c>
+principle. Number two, the revision loop
+principle. Number two, the revision loop
+or<00:02:18.560><c> the</c><00:02:18.800><c> regeneration</c><00:02:19.520><c> loop.</c><00:02:20.080><c> You</c><00:02:20.400><c> ask</c><00:02:20.640><c> for</c><00:02:20.800><c> a</c>
+or the regeneration loop. You ask for a
+or the regeneration loop. You ask for a
+tiny<00:02:21.280><c> fix,</c><00:02:21.840><c> the</c><00:02:22.080><c> model</c><00:02:22.400><c> rewrites</c><00:02:22.879><c> the</c><00:02:23.120><c> whole</c>
+tiny fix, the model rewrites the whole
+tiny fix, the model rewrites the whole
+thing<00:02:23.440><c> or</c><00:02:23.680><c> touches</c><00:02:24.000><c> a</c><00:02:24.160><c> bunch</c><00:02:24.319><c> of</c><00:02:24.400><c> things</c><00:02:24.560><c> you</c>
+thing or touches a bunch of things you
+thing or touches a bunch of things you
+didn't<00:02:25.040><c> want</c><00:02:25.200><c> it</c><00:02:25.360><c> to</c><00:02:25.520><c> touch.</c><00:02:26.160><c> This</c><00:02:26.400><c> happens</c><00:02:26.879><c> a</c>
+didn't want it to touch. This happens a
+didn't want it to touch. This happens a
+ton.<00:02:27.680><c> Models</c><00:02:28.160><c> have</c><00:02:28.319><c> a</c><00:02:28.560><c> lot</c><00:02:28.640><c> of</c><00:02:28.800><c> difficulty</c>
+ton. Models have a lot of difficulty
+ton. Models have a lot of difficulty
+touching<00:02:29.680><c> just</c><00:02:29.920><c> one</c><00:02:30.080><c> thing.</c><00:02:30.640><c> One</c><00:02:30.879><c> of</c><00:02:30.959><c> the</c><00:02:31.200><c> big</c>
+touching just one thing. One of the big
+touching just one thing. One of the big
+updates<00:02:32.000><c> that</c><00:02:32.239><c> Codeex</c><00:02:32.800><c> made</c><00:02:33.040><c> in</c><00:02:33.200><c> the</c><00:02:33.360><c> last</c>
+updates that Codeex made in the last
+updates that Codeex made in the last
+couple<00:02:33.840><c> of</c><00:02:34.000><c> weeks</c><00:02:34.239><c> or</c><00:02:34.480><c> months</c><00:02:34.959><c> that</c><00:02:35.280><c> helps</c>
+couple of weeks or months that helps
+couple of weeks or months that helps
+with<00:02:35.680><c> this</c><00:02:35.920><c> for</c><00:02:36.319><c> coders,</c><00:02:36.800><c> for</c><00:02:37.040><c> developers,</c><00:02:37.760><c> is</c>
+with this for coders, for developers, is
+with this for coders, for developers, is
+that<00:02:38.160><c> they</c><00:02:38.480><c> have</c><00:02:39.120><c> better</c><00:02:39.519><c> inference</c><00:02:40.160><c> around</c>
+that they have better inference around
+that they have better inference around
+surgical<00:02:40.959><c> code</c><00:02:41.280><c> changes.</c><00:02:42.000><c> But</c><00:02:42.080><c> we're</c><00:02:42.319><c> not</c><00:02:42.480><c> all</c>
+surgical code changes. But we're not all
+surgical code changes. But we're not all
+developers.<00:02:43.360><c> This</c><00:02:43.519><c> is</c><00:02:43.680><c> not</c><00:02:43.840><c> all</c><00:02:44.000><c> about</c><00:02:44.239><c> code.</c>
+developers. This is not all about code.
+developers. This is not all about code.
+And<00:02:45.120><c> to</c><00:02:45.360><c> me,</c><00:02:45.920><c> from</c><00:02:46.160><c> an</c><00:02:46.400><c> office</c><00:02:46.640><c> hours</c>
+And to me, from an office hours
+And to me, from an office hours
+perspective,<00:02:47.680><c> this</c><00:02:47.840><c> is</c><00:02:47.920><c> a</c><00:02:48.160><c> much</c><00:02:48.319><c> larger</c><00:02:48.640><c> issue</c>
+perspective, this is a much larger issue
+perspective, this is a much larger issue
+that<00:02:49.040><c> affects</c><00:02:49.440><c> everyone</c><00:02:49.840><c> who</c><00:02:50.080><c> uses</c><00:02:50.480><c> AI.</c><00:02:51.120><c> We</c>
+that affects everyone who uses AI. We
+that affects everyone who uses AI. We
+get<00:02:51.519><c> into</c><00:02:51.920><c> problems</c><00:02:52.720><c> really,</c><00:02:52.959><c> really</c><00:02:53.360><c> quickly</c>
+get into problems really, really quickly
+get into problems really, really quickly
+when<00:02:54.400><c> we</c><00:02:54.720><c> do</c><00:02:55.040><c> not</c><00:02:55.680><c> specify</c><00:02:56.480><c> what</c><00:02:56.800><c> we</c><00:02:57.040><c> want</c>
+when we do not specify what we want
+when we do not specify what we want
+changed<00:02:57.840><c> in</c><00:02:58.000><c> a</c><00:02:58.239><c> regeneration</c><00:02:58.959><c> loop.</c><00:02:59.440><c> And</c><00:02:59.680><c> so</c>
+changed in a regeneration loop. And so
+changed in a regeneration loop. And so
+when<00:03:00.160><c> you</c><00:03:00.319><c> think</c><00:03:00.640><c> about</c><00:03:01.120><c> regenerating</c><00:03:01.760><c> a</c>
+when you think about regenerating a
+when you think about regenerating a
+model<00:03:02.239><c> output,</c><00:03:02.640><c> when</c><00:03:02.879><c> we</c><00:03:02.959><c> call</c><00:03:03.120><c> it</c><00:03:03.360><c> iterating,</c>
+model output, when we call it iterating,
+model output, when we call it iterating,
+let's<00:03:04.239><c> say</c><00:03:04.400><c> you're</c><00:03:04.640><c> in</c><00:03:04.879><c> the</c><00:03:05.040><c> same</c>
+let's say you're in the same
+let's say you're in the same
+conversational<00:03:06.080><c> thread</c><00:03:06.720><c> or</c><00:03:07.040><c> let's</c><00:03:07.280><c> say</c>
+conversational thread or let's say
+conversational thread or let's say
+you're<00:03:07.680><c> going</c><00:03:07.920><c> back</c><00:03:08.239><c> in</c><00:03:08.560><c> an</c><00:03:08.720><c> agentic</c><00:03:09.280><c> workflow</c>
+you're going back in an agentic workflow
+you're going back in an agentic workflow
+and<00:03:09.840><c> you're</c><00:03:10.080><c> reworking</c><00:03:10.640><c> based</c><00:03:10.959><c> on</c><00:03:11.200><c> an</c>
+and you're reworking based on an
+and you're reworking based on an
+incorrect<00:03:12.080><c> response,</c><00:03:12.879><c> you</c><00:03:13.280><c> need</c><00:03:13.760><c> to</c><00:03:14.480><c> be</c>
+incorrect response, you need to be
+incorrect response, you need to be
+absolutely<00:03:16.159><c> surgical</c><00:03:17.040><c> about</c><00:03:17.360><c> what</c><00:03:17.599><c> you</c><00:03:17.760><c> want</c>
+absolutely surgical about what you want
+absolutely surgical about what you want
+changed.<00:03:18.800><c> Ideally,</c><00:03:19.360><c> you</c><00:03:19.599><c> want</c><00:03:19.760><c> to</c><00:03:20.000><c> quote</c><00:03:20.400><c> the</c>
+changed. Ideally, you want to quote the
+changed. Ideally, you want to quote the
+exact<00:03:21.040><c> snippet</c><00:03:21.519><c> you</c><00:03:21.760><c> want</c><00:03:21.920><c> changed.</c><00:03:22.480><c> You</c><00:03:22.720><c> want</c>
+exact snippet you want changed. You want
+exact snippet you want changed. You want
+to<00:03:22.959><c> say,</c><00:03:23.120><c> "This</c><00:03:23.440><c> is</c><00:03:23.599><c> what's</c><00:03:23.920><c> wrong,"</c><00:03:24.560><c> and</c>
+to say, "This is what's wrong," and
+to say, "This is what's wrong," and
+request<00:03:25.360><c> only</c><00:03:25.680><c> that</c><00:03:26.000><c> patched</c><00:03:26.640><c> section</c><00:03:27.280><c> back.</c>
+request only that patched section back.
+request only that patched section back.
+As<00:03:28.159><c> an</c><00:03:28.480><c> advanced</c><00:03:29.280><c> fix,</c><00:03:29.920><c> if</c><00:03:30.239><c> you</c><00:03:30.400><c> are</c><00:03:30.640><c> keeping</c><00:03:31.120><c> a</c>
+As an advanced fix, if you are keeping a
+As an advanced fix, if you are keeping a
+schema,<00:03:32.080><c> which</c><00:03:32.319><c> I</c><00:03:32.480><c> talked</c><00:03:32.799><c> about</c><00:03:33.040><c> in</c><00:03:33.519><c> office</c>
+schema, which I talked about in office
+schema, which I talked about in office
+hours<00:03:34.319><c> principle</c><00:03:34.879><c> number</c><00:03:35.120><c> one,</c><00:03:35.920><c> you</c><00:03:36.159><c> can</c>
+hours principle number one, you can
+hours principle number one, you can
+actually<00:03:36.640><c> say,</c><00:03:36.959><c> I</c><00:03:37.200><c> only</c><00:03:37.440><c> want</c><00:03:37.680><c> this</c><00:03:38.000><c> field</c>
+actually say, I only want this field
+actually say, I only want this field
+name<00:03:38.799><c> in</c><00:03:39.120><c> your</c><00:03:39.280><c> schema</c><00:03:39.920><c> to</c><00:03:40.159><c> be</c><00:03:40.319><c> touched.</c>
+name in your schema to be touched.
+name in your schema to be touched.
+Freeze<00:03:41.360><c> all</c><00:03:41.519><c> the</c><00:03:41.760><c> other</c><00:03:42.000><c> fields</c><00:03:42.560><c> and</c><00:03:42.799><c> that</c><00:03:43.040><c> can</c>
+Freeze all the other fields and that can
+Freeze all the other fields and that can
+help<00:03:43.360><c> as</c><00:03:43.599><c> well.</c><00:03:44.080><c> Now</c><00:03:44.400><c> you</c><00:03:44.640><c> get</c><00:03:44.799><c> the</c><00:03:45.040><c> ability</c><00:03:45.360><c> to</c>
+help as well. Now you get the ability to
+help as well. Now you get the ability to
+actually<00:03:46.400><c> control</c><00:03:46.959><c> and</c><00:03:47.280><c> drive</c><00:03:47.680><c> schema</c><00:03:48.080><c> level</c>
+actually control and drive schema level
+actually control and drive schema level
+outputs<00:03:48.879><c> in</c><00:03:49.120><c> the</c><00:03:49.280><c> API</c><00:03:49.760><c> if</c><00:03:49.920><c> you're</c><00:03:50.080><c> a</c><00:03:50.239><c> builder.</c>
+outputs in the API if you're a builder.
+outputs in the API if you're a builder.
+But<00:03:51.120><c> I</c><00:03:51.360><c> find</c><00:03:51.599><c> in</c><00:03:51.920><c> practice</c><00:03:52.720><c> the</c><00:03:53.040><c> models</c><00:03:53.440><c> are</c><00:03:53.840><c> so</c>
+But I find in practice the models are so
+But I find in practice the models are so
+trained<00:03:54.799><c> for</c><00:03:55.200><c> developers</c><00:03:55.840><c> that</c><00:03:56.239><c> even</c><00:03:56.400><c> if</c>
+trained for developers that even if
+trained for developers that even if
+you're<00:03:56.879><c> not</c><00:03:57.040><c> a</c><00:03:57.280><c> developer</c><00:03:58.000><c> if</c><00:03:58.239><c> you</c><00:03:58.480><c> give</c><00:03:58.640><c> it</c><00:03:58.959><c> a</c>
+you're not a developer if you give it a
+you're not a developer if you give it a
+non-technical<00:04:00.159><c> schema</c><00:04:00.640><c> like</c><00:04:00.879><c> this</c><00:04:01.040><c> is</c><00:04:01.200><c> the</c>
+non-technical schema like this is the
+non-technical schema like this is the
+title,<00:04:01.760><c> this</c><00:04:01.920><c> is</c><00:04:02.080><c> the</c><00:04:02.239><c> author,</c><00:04:02.959><c> it</c><00:04:03.200><c> tends</c><00:04:03.439><c> to</c>
+title, this is the author, it tends to
+title, this is the author, it tends to
+respect<00:04:04.080><c> those</c><00:04:04.720><c> because</c><00:04:05.040><c> it's</c><00:04:05.360><c> trained</c><00:04:05.840><c> to</c>
+respect those because it's trained to
+respect those because it's trained to
+respect<00:04:06.799><c> labeling</c><00:04:07.280><c> and</c><00:04:07.519><c> schemas.</c><00:04:08.159><c> And</c><00:04:08.400><c> so</c><00:04:08.720><c> if</c>
+respect labeling and schemas. And so if
+respect labeling and schemas. And so if
+you<00:04:09.120><c> want</c><00:04:09.200><c> to</c><00:04:09.280><c> do</c><00:04:09.439><c> a</c><00:04:09.599><c> more</c><00:04:09.760><c> advanced</c><00:04:10.159><c> fix,</c><00:04:10.560><c> you</c>
+you want to do a more advanced fix, you
+you want to do a more advanced fix, you
+can<00:04:10.879><c> label</c><00:04:11.200><c> your</c><00:04:11.439><c> outputs</c><00:04:11.760><c> with</c><00:04:11.920><c> a</c><00:04:12.159><c> schema</c><00:04:12.480><c> and</c>
+can label your outputs with a schema and
+can label your outputs with a schema and
+then<00:04:12.799><c> say</c><00:04:13.040><c> this</c><00:04:13.439><c> section</c><00:04:13.680><c> of</c><00:04:13.840><c> the</c><00:04:14.080><c> schema</c><00:04:14.400><c> is</c>
+then say this section of the schema is
+then say this section of the schema is
+incorrect.<00:04:15.360><c> You</c><00:04:15.599><c> need</c><00:04:15.680><c> to</c><00:04:15.840><c> fix</c><00:04:16.000><c> it.</c><00:04:16.479><c> That's</c>
+incorrect. You need to fix it. That's
+incorrect. You need to fix it. That's
+number<00:04:16.959><c> two.</c><00:04:17.359><c> Number</c><00:04:17.680><c> three.</c><00:04:18.479><c> Number</c><00:04:18.799><c> three</c>
+number two. Number three. Number three
+number two. Number three. Number three
+is<00:04:19.280><c> the</c><00:04:19.519><c> planning</c><00:04:20.079><c> illusion.</c><00:04:20.720><c> So</c><00:04:21.199><c> complex</c>
+is the planning illusion. So complex
+is the planning illusion. So complex
+tasks<00:04:22.320><c> will</c><00:04:22.639><c> often</c><00:04:23.120><c> collapse</c><00:04:23.600><c> themselves</c>
+tasks will often collapse themselves
+tasks will often collapse themselves
+into<00:04:24.479><c> one</c><00:04:24.800><c> shot</c><00:04:25.120><c> where</c><00:04:25.360><c> the</c><00:04:25.520><c> model</c><00:04:25.759><c> will</c><00:04:26.000><c> skip</c>
+into one shot where the model will skip
+into one shot where the model will skip
+crucial<00:04:26.800><c> steps</c><00:04:27.120><c> in</c><00:04:27.360><c> analysis</c><00:04:27.840><c> or</c><00:04:28.080><c> in</c>
+crucial steps in analysis or in
+crucial steps in analysis or in
+planning.<00:04:28.960><c> Like</c><00:04:29.199><c> if</c><00:04:29.440><c> you</c><00:04:29.600><c> say,</c><00:04:29.680><c> "Please</c>
+planning. Like if you say, "Please
+planning. Like if you say, "Please
+analyze<00:04:30.479><c> the</c><00:04:30.720><c> churn</c><00:04:31.199><c> and</c><00:04:31.440><c> propose</c><00:04:31.759><c> a</c><00:04:32.000><c> plan."</c>
+analyze the churn and propose a plan."
+analyze the churn and propose a plan."
+And<00:04:32.720><c> the</c><00:04:32.960><c> model</c><00:04:33.520><c> just</c><00:04:33.759><c> does</c><00:04:34.080><c> a</c><00:04:34.320><c> single</c><00:04:34.560><c> blob</c>
+And the model just does a single blob
+And the model just does a single blob
+pass<00:04:35.280><c> on</c><00:04:35.440><c> it.</c><00:04:35.680><c> It</c><00:04:35.919><c> has</c><00:04:36.080><c> very</c><00:04:36.320><c> shallow</c><00:04:36.800><c> causes.</c>
+pass on it. It has very shallow causes.
+pass on it. It has very shallow causes.
+It's<00:04:37.600><c> a</c><00:04:37.759><c> weak</c><00:04:38.080><c> plan.</c><00:04:38.800><c> This</c><00:04:38.960><c> is</c><00:04:39.120><c> something</c><00:04:39.360><c> we</c>
+It's a weak plan. This is something we
+It's a weak plan. This is something we
+don't<00:04:39.840><c> discuss</c><00:04:40.560><c> and</c><00:04:40.800><c> we</c><00:04:41.040><c> often</c><00:04:41.360><c> attribute</c><00:04:41.759><c> it</c>
+don't discuss and we often attribute it
+don't discuss and we often attribute it
+to<00:04:42.240><c> model</c><00:04:42.639><c> quality</c><00:04:43.120><c> where</c><00:04:43.360><c> we</c><00:04:43.520><c> say</c><00:04:43.680><c> the</c><00:04:43.919><c> model</c>
+to model quality where we say the model
+to model quality where we say the model
+is<00:04:44.560><c> bad</c><00:04:45.120><c> because</c><00:04:45.440><c> I</c><00:04:45.680><c> got</c><00:04:45.840><c> a</c><00:04:46.080><c> bad</c><00:04:46.320><c> response</c><00:04:46.639><c> on</c>
+is bad because I got a bad response on
+is bad because I got a bad response on
+this<00:04:47.040><c> multi-step</c><00:04:47.680><c> reasoning</c><00:04:48.160><c> challenge.</c><00:04:48.720><c> I</c>
+this multi-step reasoning challenge. I
+this multi-step reasoning challenge. I
+want<00:04:49.199><c> to</c><00:04:49.360><c> suggest</c><00:04:49.600><c> to</c><00:04:49.840><c> you</c><00:04:50.000><c> here</c><00:04:50.240><c> in</c><00:04:50.479><c> office</c>
+want to suggest to you here in office
+want to suggest to you here in office
+hours<00:04:51.440><c> that</c><00:04:51.680><c> the</c><00:04:52.000><c> problem</c><00:04:52.320><c> is</c><00:04:52.720><c> probably</c><00:04:53.199><c> not</c>
+hours that the problem is probably not
+hours that the problem is probably not
+the<00:04:53.680><c> model</c><00:04:54.000><c> at</c><00:04:54.160><c> this</c><00:04:54.320><c> point.</c><00:04:54.720><c> It</c><00:04:54.880><c> is</c><00:04:55.199><c> probably</c>
+the model at this point. It is probably
+the model at this point. It is probably
+the<00:04:56.000><c> way</c><00:04:56.160><c> you</c><00:04:56.400><c> are</c><00:04:56.639><c> handling</c><00:04:56.960><c> the</c><00:04:57.199><c> planning</c>
+the way you are handling the planning
+the way you are handling the planning
+step.<00:04:58.240><c> A</c><00:04:58.560><c> better</c><00:04:58.880><c> approach,</c><00:04:59.440><c> a</c><00:04:59.680><c> baseline</c>
+step. A better approach, a baseline
+step. A better approach, a baseline
+approach<00:05:00.479><c> to</c><00:05:00.720><c> fix</c><00:05:00.960><c> this</c><00:05:01.440><c> is</c><00:05:01.680><c> to</c><00:05:02.080><c> break</c><00:05:02.720><c> the</c>
+approach to fix this is to break the
+approach to fix this is to break the
+challenge<00:05:03.600><c> into</c><00:05:04.080><c> stages</c><00:05:04.639><c> with</c><00:05:04.960><c> explicit</c>
+challenge into stages with explicit
+challenge into stages with explicit
+outputs<00:05:06.080><c> and</c><00:05:06.320><c> validation</c><00:05:06.880><c> gates</c><00:05:07.280><c> at</c><00:05:07.440><c> each</c>
+outputs and validation gates at each
+outputs and validation gates at each
+stage<00:05:08.400><c> like</c><00:05:08.639><c> do</c><00:05:08.960><c> stage</c><00:05:09.280><c> one</c><00:05:09.520><c> only</c><00:05:09.840><c> where</c><00:05:10.080><c> you</c>
+stage like do stage one only where you
+stage like do stage one only where you
+review<00:05:10.560><c> all</c><00:05:10.720><c> of</c><00:05:10.800><c> the</c><00:05:10.960><c> incoming</c><00:05:11.440><c> data</c><00:05:11.680><c> in</c><00:05:12.000><c> this</c>
+review all of the incoming data in this
+review all of the incoming data in this
+way<00:05:12.320><c> along</c><00:05:12.639><c> these</c><00:05:12.880><c> axes</c><00:05:13.199><c> and</c><00:05:13.360><c> then</c><00:05:13.600><c> report</c>
+way along these axes and then report
+way along these axes and then report
+back<00:05:14.080><c> with</c><00:05:14.240><c> this</c><00:05:14.479><c> output</c><00:05:14.880><c> stop</c><00:05:15.360><c> and</c><00:05:15.520><c> then</c>
+back with this output stop and then
+back with this output stop and then
+force<00:05:15.919><c> a</c><00:05:16.160><c> step-by-step</c><00:05:16.720><c> progression.</c><00:05:17.199><c> That's</c>
+force a step-by-step progression. That's
+force a step-by-step progression. That's
+a<00:05:17.520><c> very</c><00:05:17.680><c> simple</c><00:05:17.919><c> thing.</c><00:05:18.160><c> You</c><00:05:18.320><c> can</c><00:05:18.400><c> enforce</c>
+a very simple thing. You can enforce
+a very simple thing. You can enforce
+that<00:05:19.120><c> with</c><00:05:19.360><c> tool</c><00:05:19.680><c> calls</c><00:05:20.240><c> agentically</c><00:05:21.199><c> in</c><00:05:21.440><c> the</c>
+that with tool calls agentically in the
+that with tool calls agentically in the
+API.<00:05:22.160><c> You</c><00:05:22.320><c> can</c><00:05:22.400><c> also</c><00:05:22.639><c> do</c><00:05:22.800><c> it</c><00:05:22.880><c> in</c><00:05:23.039><c> the</c><00:05:23.199><c> chat.</c><00:05:23.680><c> You</c>
+API. You can also do it in the chat. You
+API. You can also do it in the chat. You
+notice<00:05:24.160><c> how</c><00:05:24.320><c> I'm</c><00:05:24.639><c> deliberately</c><00:05:25.280><c> saying</c><00:05:25.919><c> we</c>
+notice how I'm deliberately saying we
+notice how I'm deliberately saying we
+face<00:05:26.479><c> the</c><00:05:26.720><c> same</c><00:05:26.880><c> problems</c><00:05:27.360><c> as</c><00:05:27.680><c> developers</c><00:05:28.160><c> and</c>
+face the same problems as developers and
+face the same problems as developers and
+non-developers.<00:05:29.199><c> That</c><00:05:29.360><c> is</c><00:05:29.440><c> one</c><00:05:29.600><c> of</c><00:05:29.680><c> my</c><00:05:29.840><c> core</c>
+non-developers. That is one of my core
+non-developers. That is one of my core
+beliefs<00:05:30.560><c> about</c><00:05:30.800><c> AI.</c><00:05:31.360><c> We</c><00:05:31.600><c> are</c><00:05:31.759><c> not</c><00:05:31.919><c> that</c>
+beliefs about AI. We are not that
+beliefs about AI. We are not that
+different.<00:05:32.479><c> We're</c><00:05:32.720><c> all</c><00:05:32.880><c> using</c><00:05:33.199><c> the</c><00:05:33.360><c> same</c>
+different. We're all using the same
+different. We're all using the same
+models.<00:05:34.240><c> The</c><00:05:34.479><c> advanced</c><00:05:35.120><c> fix</c><00:05:35.680><c> here</c><00:05:36.080><c> is</c><00:05:36.400><c> you</c>
+models. The advanced fix here is you
+models. The advanced fix here is you
+want<00:05:36.880><c> to</c><00:05:37.120><c> start</c><00:05:37.360><c> to</c><00:05:37.759><c> specify</c><00:05:38.639><c> tools</c><00:05:39.039><c> and</c>
+want to start to specify tools and
+want to start to specify tools and
+contracts<00:05:39.840><c> for</c><00:05:40.080><c> tools.</c><00:05:40.720><c> That</c><00:05:40.960><c> gets</c><00:05:41.199><c> very</c>
+contracts for tools. That gets very
+contracts for tools. That gets very
+technical<00:05:41.840><c> in</c><00:05:42.000><c> the</c><00:05:42.160><c> API.</c><00:05:43.120><c> You</c><00:05:43.360><c> can</c><00:05:43.759><c> do</c><00:05:43.919><c> it</c><00:05:44.320><c> in</c>
+technical in the API. You can do it in
+technical in the API. You can do it in
+the<00:05:44.720><c> chat</c><00:05:45.360><c> in</c><00:05:45.600><c> plain</c><00:05:46.000><c> English.</c><00:05:46.400><c> You</c><00:05:46.639><c> can</c><00:05:46.880><c> say</c><00:05:47.120><c> I</c>
+the chat in plain English. You can say I
+the chat in plain English. You can say I
+want<00:05:47.520><c> you</c><00:05:47.759><c> to</c><00:05:47.919><c> use</c><00:05:48.080><c> the</c><00:05:48.320><c> internet</c><00:05:48.720><c> search</c><00:05:48.960><c> tool</c>
+want you to use the internet search tool
+want you to use the internet search tool
+for<00:05:49.440><c> this</c><00:05:49.840><c> or</c><00:05:50.080><c> I</c><00:05:50.320><c> want</c><00:05:50.479><c> to</c><00:05:50.720><c> constrain</c><00:05:51.120><c> your</c>
+for this or I want to constrain your
+for this or I want to constrain your
+internet<00:05:51.759><c> search</c><00:05:52.080><c> to</c><00:05:52.320><c> only</c><00:05:52.720><c> academic</c><00:05:53.360><c> sites.</c>
+internet search to only academic sites.
+internet search to only academic sites.
+You<00:05:54.240><c> can</c><00:05:54.320><c> do</c><00:05:54.479><c> other</c><00:05:54.720><c> things</c><00:05:54.880><c> as</c><00:05:55.039><c> well,</c><00:05:55.199><c> but</c>
+You can do other things as well, but
+You can do other things as well, but
+that's<00:05:55.600><c> that's</c><00:05:55.919><c> a</c><00:05:56.080><c> simple</c><00:05:56.320><c> way</c><00:05:56.479><c> of</c><00:05:56.639><c> describing</c>
+that's that's a simple way of describing
+that's that's a simple way of describing
+what<00:05:57.120><c> a</c><00:05:57.199><c> tool</c><00:05:57.440><c> call</c><00:05:57.600><c> in</c><00:05:57.759><c> a</c><00:05:57.919><c> contract</c><00:05:58.240><c> would</c><00:05:58.400><c> be.</c>
+what a tool call in a contract would be.
+what a tool call in a contract would be.
+You're<00:05:58.720><c> basically</c><00:05:59.039><c> saying</c><00:05:59.280><c> in</c><00:05:59.520><c> this</c><00:05:59.680><c> case</c><00:06:00.320><c> to</c>
+You're basically saying in this case to
+You're basically saying in this case to
+do<00:06:00.960><c> this</c><00:06:01.199><c> reasoning</c><00:06:01.600><c> step,</c><00:06:01.919><c> you</c><00:06:02.080><c> will</c><00:06:02.240><c> need</c>
+do this reasoning step, you will need
+do this reasoning step, you will need
+these<00:06:02.639><c> inputs</c><00:06:03.039><c> and</c><00:06:03.120><c> these</c><00:06:03.280><c> tools.</c><00:06:03.840><c> Please</c><00:06:04.160><c> use</c>
+these inputs and these tools. Please use
+these inputs and these tools. Please use
+Python<00:06:05.120><c> or</c><00:06:05.440><c> please</c><00:06:05.680><c> analyze</c><00:06:06.160><c> this</c><00:06:06.479><c> with</c><00:06:06.800><c> your</c>
+Python or please analyze this with your
+Python or please analyze this with your
+uh<00:06:07.600><c> PowerPoint</c><00:06:08.240><c> creation</c><00:06:08.800><c> scale</c><00:06:09.039><c> and</c><00:06:09.280><c> create</c>
+uh PowerPoint creation scale and create
+uh PowerPoint creation scale and create
+the<00:06:09.600><c> PowerPoint</c><00:06:10.160><c> whatever</c><00:06:10.479><c> it</c><00:06:10.639><c> is.</c><00:06:11.039><c> The</c><00:06:11.280><c> point</c>
+the PowerPoint whatever it is. The point
+the PowerPoint whatever it is. The point
+is<00:06:11.680><c> by</c><00:06:12.000><c> defining</c><00:06:12.479><c> the</c><00:06:12.720><c> tools</c><00:06:13.360><c> and</c><00:06:13.680><c> what</c><00:06:13.919><c> you</c>
+is by defining the tools and what you
+is by defining the tools and what you
+want<00:06:14.240><c> to</c><00:06:14.479><c> call</c><00:06:15.199><c> you</c><00:06:15.440><c> are</c><00:06:15.680><c> going</c><00:06:16.080><c> to</c><00:06:16.560><c> leave</c><00:06:16.800><c> the</c>
+want to call you are going to leave the
+want to call you are going to leave the
+model<00:06:17.360><c> less</c><00:06:17.759><c> room</c><00:06:18.080><c> to</c><00:06:18.400><c> walk</c><00:06:18.880><c> off</c><00:06:19.280><c> and</c><00:06:19.520><c> do</c><00:06:19.680><c> a</c>
+model less room to walk off and do a
+model less room to walk off and do a
+single<00:06:20.240><c> blob</c><00:06:20.880><c> weak</c><00:06:21.360><c> pass</c><00:06:21.840><c> reasoning</c><00:06:22.319><c> effort</c>
+single blob weak pass reasoning effort
+single blob weak pass reasoning effort
+and<00:06:22.960><c> instead</c><00:06:23.440><c> you're</c><00:06:23.759><c> going</c><00:06:23.919><c> to</c><00:06:24.160><c> specify</c>
+and instead you're going to specify
+and instead you're going to specify
+enough<00:06:25.199><c> of</c><00:06:25.440><c> the</c><00:06:25.600><c> effort</c><00:06:25.919><c> along</c><00:06:26.160><c> the</c><00:06:26.319><c> way</c><00:06:26.479><c> and</c>
+enough of the effort along the way and
+enough of the effort along the way and
+the<00:06:26.800><c> sequence</c><00:06:27.120><c> along</c><00:06:27.440><c> the</c><00:06:27.600><c> way</c><00:06:28.160><c> that</c><00:06:28.479><c> you'll</c>
+the sequence along the way that you'll
+the sequence along the way that you'll
+get<00:06:29.120><c> a</c><00:06:29.440><c> strong</c><00:06:29.759><c> reasoning</c><00:06:30.240><c> takeover.</c><00:06:31.039><c> This</c><00:06:31.280><c> is</c>
+get a strong reasoning takeover. This is
+get a strong reasoning takeover. This is
+different<00:06:31.680><c> from</c><00:06:31.840><c> saying</c><00:06:32.160><c> think</c><00:06:32.479><c> hard.</c><00:06:33.039><c> This</c>
+different from saying think hard. This
+different from saying think hard. This
+is<00:06:33.360><c> different</c><00:06:33.600><c> from</c><00:06:33.759><c> saying</c><00:06:34.000><c> the</c><00:06:34.160><c> models</c>
+is different from saying the models
+is different from saying the models
+don't<00:06:34.800><c> reason.</c><00:06:35.280><c> The</c><00:06:35.520><c> models</c><00:06:36.080><c> do</c><00:06:36.400><c> reason,</c><00:06:37.199><c> but</c>
+don't reason. The models do reason, but
+don't reason. The models do reason, but
+if<00:06:38.000><c> you</c><00:06:38.240><c> care</c><00:06:38.560><c> about</c><00:06:38.960><c> how</c><00:06:39.199><c> they</c><00:06:39.520><c> do</c><00:06:39.680><c> so</c><00:06:39.840><c> and</c><00:06:40.080><c> the</c>
+if you care about how they do so and the
+if you care about how they do so and the
+reasoning<00:06:40.720><c> quality,</c><00:06:41.120><c> you</c><00:06:41.360><c> need</c><00:06:41.440><c> to</c><00:06:41.600><c> invest</c><00:06:42.000><c> in</c>
+reasoning quality, you need to invest in
+reasoning quality, you need to invest in
+this<00:06:42.400><c> so</c><00:06:42.560><c> you</c><00:06:42.720><c> don't</c><00:06:42.880><c> get</c><00:06:43.039><c> stuck</c><00:06:43.280><c> in</c><00:06:43.440><c> the</c>
+this so you don't get stuck in the
+this so you don't get stuck in the
+planning<00:06:44.000><c> illusion.</c><00:06:44.319><c> And</c><00:06:44.479><c> that's</c><00:06:44.720><c> number</c>
+planning illusion. And that's number
+planning illusion. And that's number
+three.<00:06:45.600><c> Number</c><00:06:46.000><c> four</c><00:06:46.560><c> is</c><00:06:46.880><c> the</c><00:06:47.199><c> confidence</c>
+three. Number four is the confidence
+three. Number four is the confidence
+illusion.<00:06:48.479><c> We</c><00:06:48.720><c> also</c><00:06:48.880><c> call</c><00:06:49.039><c> that</c>
+illusion. We also call that
+illusion. We also call that
+hallucination.<00:06:50.080><c> You</c><00:06:50.240><c> get</c><00:06:50.479><c> fluent</c><00:06:50.880><c> answers,</c>
+hallucination. You get fluent answers,
+hallucination. You get fluent answers,
+mismatched,<00:06:52.400><c> non-existent</c><00:06:53.120><c> citations.</c>
+mismatched, non-existent citations.
+mismatched, non-existent citations.
+Look,<00:06:54.960><c> the</c><00:06:55.280><c> simplest</c><00:06:56.000><c> baseline</c><00:06:56.720><c> fix</c><00:06:57.360><c> is</c><00:06:57.600><c> to</c>
+Look, the simplest baseline fix is to
+Look, the simplest baseline fix is to
+permit<00:06:58.240><c> the</c><00:06:58.479><c> model</c><00:06:58.800><c> to</c><00:06:58.960><c> say,</c><00:06:59.199><c> "I</c><00:06:59.520><c> don't</c><00:06:59.680><c> know."</c>
+permit the model to say, "I don't know."
+permit the model to say, "I don't know."
+and<00:07:00.319><c> to</c><00:07:00.639><c> require</c><00:07:01.199><c> confidence</c><00:07:01.759><c> labels</c><00:07:02.319><c> where</c>
+and to require confidence labels where
+and to require confidence labels where
+the<00:07:02.960><c> model</c><00:07:03.280><c> needs</c><00:07:03.520><c> to</c><00:07:03.680><c> name</c><00:07:03.919><c> its</c><00:07:04.160><c> level</c><00:07:04.400><c> of</c>
+the model needs to name its level of
+the model needs to name its level of
+confidence.<00:07:05.440><c> You</c><00:07:05.680><c> can</c><00:07:05.840><c> also</c><00:07:06.080><c> ask</c><00:07:06.319><c> for</c><00:07:06.479><c> a</c>
+confidence. You can also ask for a
+confidence. You can also ask for a
+claims<00:07:06.960><c> to</c><00:07:07.120><c> verify</c><00:07:07.520><c> list.</c><00:07:08.080><c> If</c><00:07:08.400><c> you</c><00:07:08.639><c> want</c><00:07:08.880><c> to</c><00:07:09.120><c> go</c>
+claims to verify list. If you want to go
+claims to verify list. If you want to go
+farther,<00:07:10.240><c> you</c><00:07:10.479><c> can</c><00:07:10.720><c> have</c><00:07:10.960><c> a</c><00:07:11.280><c> verification</c>
+farther, you can have a verification
+farther, you can have a verification
+fields<00:07:12.720><c> array</c><00:07:13.120><c> in</c><00:07:13.360><c> a</c><00:07:13.520><c> schema</c><00:07:14.160><c> where</c><00:07:14.479><c> you</c><00:07:14.639><c> force</c>
+fields array in a schema where you force
+fields array in a schema where you force
+the<00:07:15.120><c> schema</c><00:07:15.520><c> in</c><00:07:15.680><c> the</c><00:07:15.759><c> API</c><00:07:16.560><c> to</c><00:07:16.800><c> give</c><00:07:16.960><c> a</c>
+the schema in the API to give a
+the schema in the API to give a
+statement,<00:07:17.599><c> a</c><00:07:17.759><c> confidence</c><00:07:18.240><c> level,</c><00:07:18.639><c> a</c><00:07:18.880><c> source,</c>
+statement, a confidence level, a source,
+statement, a confidence level, a source,
+and<00:07:19.280><c> a</c><00:07:19.440><c> verification</c><00:07:20.080><c> status.</c><00:07:20.800><c> You</c><00:07:21.039><c> can</c><00:07:21.199><c> do</c>
+and a verification status. You can do
+and a verification status. You can do
+this<00:07:21.599><c> with</c><00:07:21.919><c> plain</c><00:07:22.319><c> English</c><00:07:22.639><c> prompting.</c><00:07:23.360><c> I</c>
+this with plain English prompting. I
+this with plain English prompting. I
+find<00:07:23.919><c> that</c><00:07:24.080><c> it</c><00:07:24.400><c> tends</c><00:07:24.639><c> to</c><00:07:24.800><c> look</c><00:07:25.039><c> a</c><00:07:25.199><c> lot</c><00:07:25.360><c> like</c>
+find that it tends to look a lot like
+find that it tends to look a lot like
+chain<00:07:25.840><c> of</c><00:07:26.080><c> verification</c><00:07:26.720><c> prompting</c><00:07:27.199><c> in</c>
+chain of verification prompting in
+chain of verification prompting in
+practice<00:07:27.840><c> where</c><00:07:28.080><c> you</c><00:07:28.240><c> are</c><00:07:28.479><c> naming</c><00:07:28.880><c> the</c>
+practice where you are naming the
+practice where you are naming the
+conditions<00:07:29.919><c> under</c><00:07:30.319><c> which</c><00:07:30.639><c> the</c><00:07:30.880><c> prompt</c><00:07:31.280><c> can</c>
+conditions under which the prompt can
+conditions under which the prompt can
+move<00:07:31.840><c> forward</c><00:07:32.639><c> and</c><00:07:32.880><c> only</c><00:07:33.280><c> then</c><00:07:33.919><c> are</c><00:07:34.160><c> you</c><00:07:34.319><c> going</c>
+move forward and only then are you going
+move forward and only then are you going
+to<00:07:34.639><c> allow</c><00:07:34.880><c> the</c><00:07:35.120><c> model</c><00:07:35.360><c> to</c><00:07:35.520><c> print</c><00:07:35.759><c> a</c><00:07:36.000><c> response.</c>
+to allow the model to print a response.
+to allow the model to print a response.
+When<00:07:36.960><c> you're</c><00:07:37.199><c> tackling</c><00:07:37.680><c> hallucinations</c><00:07:38.639><c> in</c>
+When you're tackling hallucinations in
+When you're tackling hallucinations in
+particular,<00:07:39.759><c> you</c><00:07:40.000><c> do</c><00:07:40.160><c> want</c><00:07:40.319><c> to</c><00:07:40.479><c> get</c><00:07:40.639><c> specific</c>
+particular, you do want to get specific
+particular, you do want to get specific
+with<00:07:41.440><c> the</c><00:07:41.840><c> conditions</c><00:07:42.400><c> for</c><00:07:42.720><c> confidence</c>
+with the conditions for confidence
+with the conditions for confidence
+level.<00:07:43.599><c> So</c><00:07:43.759><c> if</c><00:07:43.919><c> you're</c><00:07:44.080><c> saying</c><00:07:44.400><c> only</c><00:07:44.720><c> print</c><00:07:45.199><c> an</c>
+level. So if you're saying only print an
+level. So if you're saying only print an
+answer<00:07:45.759><c> when</c><00:07:46.000><c> your</c><00:07:46.160><c> confidence</c><00:07:46.560><c> is</c><00:07:46.800><c> high,</c><00:07:47.280><c> are</c>
+answer when your confidence is high, are
+answer when your confidence is high, are
+you<00:07:47.680><c> clear</c><00:07:47.919><c> with</c><00:07:48.080><c> the</c><00:07:48.319><c> model</c><00:07:48.560><c> about</c><00:07:48.800><c> what</c><00:07:49.039><c> high</c>
+you clear with the model about what high
+you clear with the model about what high
+confidence<00:07:49.840><c> looks</c><00:07:50.080><c> like?</c><00:07:50.560><c> and</c><00:07:50.800><c> are</c><00:07:50.960><c> you</c>
+confidence looks like? and are you
+confidence looks like? and are you
+extremely<00:07:51.599><c> unambiguous</c><00:07:52.479><c> about</c><00:07:52.800><c> that?</c><00:07:53.360><c> This</c>
+extremely unambiguous about that? This
+extremely unambiguous about that? This
+is<00:07:53.599><c> an</c><00:07:53.759><c> area</c><00:07:54.000><c> where</c><00:07:54.160><c> even</c><00:07:54.400><c> a</c><00:07:54.639><c> little</c><00:07:54.720><c> bit</c><00:07:54.879><c> of</c>
+is an area where even a little bit of
+is an area where even a little bit of
+ambiguity<00:07:55.599><c> in</c><00:07:55.759><c> your</c><00:07:55.919><c> prompt</c><00:07:56.479><c> can</c><00:07:56.800><c> push</c><00:07:57.039><c> the</c>
+ambiguity in your prompt can push the
+ambiguity in your prompt can push the
+model<00:07:57.440><c> to</c><00:07:57.680><c> resolve</c><00:07:58.000><c> on</c><00:07:58.160><c> its</c><00:07:58.400><c> own</c><00:07:58.479><c> and</c><00:07:58.720><c> that</c><00:07:58.879><c> can</c>
+model to resolve on its own and that can
+model to resolve on its own and that can
+lead<00:07:59.199><c> to</c><00:07:59.360><c> hallucinations.</c><00:08:00.400><c> Office</c><00:08:00.720><c> hours</c>
+lead to hallucinations. Office hours
+lead to hallucinations. Office hours
+problem<00:08:01.440><c> number</c><00:08:01.759><c> five</c><00:08:02.160><c> is</c><00:08:02.479><c> the</c><00:08:02.720><c> drift</c><00:08:03.199><c> problem</c>
+problem number five is the drift problem
+problem number five is the drift problem
+or<00:08:03.919><c> consistency</c><00:08:04.560><c> issues</c><00:08:05.039><c> where</c><00:08:05.360><c> you</c><00:08:05.520><c> have</c>
+or consistency issues where you have
+or consistency issues where you have
+same<00:08:05.919><c> inputs</c><00:08:06.400><c> and</c><00:08:06.560><c> different</c><00:08:06.800><c> outputs.</c><00:08:08.000><c> Uh</c>
+same inputs and different outputs. Uh
+same inputs and different outputs. Uh
+you<00:08:08.639><c> can</c><00:08:08.800><c> have</c><00:08:09.039><c> generated</c><00:08:09.599><c> tags</c><00:08:10.000><c> or</c>
+you can have generated tags or
+you can have generated tags or
+categories<00:08:10.720><c> that</c><00:08:10.879><c> drift</c><00:08:11.199><c> across</c><00:08:11.599><c> runs.</c><00:08:12.080><c> You</c>
+categories that drift across runs. You
+categories that drift across runs. You
+can<00:08:12.319><c> have</c><00:08:12.560><c> selection</c><00:08:13.039><c> criteria</c><00:08:13.759><c> applied</c>
+can have selection criteria applied
+can have selection criteria applied
+inconsistently.<00:08:15.440><c> So</c><00:08:16.000><c> the</c><00:08:16.319><c> baseline</c><00:08:16.879><c> fix</c><00:08:17.360><c> is</c>
+inconsistently. So the baseline fix is
+inconsistently. So the baseline fix is
+to<00:08:18.319><c> turn</c><00:08:18.479><c> the</c><00:08:18.720><c> model</c><00:08:19.039><c> temperature</c><00:08:19.520><c> down</c><00:08:19.840><c> if</c>
+to turn the model temperature down if
+to turn the model temperature down if
+you're<00:08:20.160><c> in</c><00:08:20.319><c> the</c><00:08:20.479><c> API</c><00:08:21.039><c> and</c><00:08:21.280><c> to</c><00:08:21.520><c> set</c><00:08:21.759><c> absolute</c>
+you're in the API and to set absolute
+you're in the API and to set absolute
+constraints.<00:08:22.960><c> If</c><00:08:23.199><c> you</c><00:08:23.360><c> are</c><00:08:23.599><c> in</c><00:08:23.840><c> the</c><00:08:24.080><c> chat,</c><00:08:24.879><c> the</c>
+constraints. If you are in the chat, the
+constraints. If you are in the chat, the
+best<00:08:25.440><c> thing</c><00:08:25.599><c> you</c><00:08:25.919><c> can</c><00:08:26.080><c> do</c><00:08:26.560><c> is</c><00:08:26.800><c> to</c><00:08:27.039><c> be</c><00:08:27.280><c> extremely</c>
+best thing you can do is to be extremely
+best thing you can do is to be extremely
+obsessive<00:08:29.120><c> about</c><00:08:29.520><c> token</c><00:08:30.000><c> level</c><00:08:30.560><c> clarity</c><00:08:30.960><c> and</c>
+obsessive about token level clarity and
+obsessive about token level clarity and
+consistency<00:08:31.919><c> with</c><00:08:32.240><c> your</c><00:08:32.479><c> inputs</c><00:08:33.200><c> and</c><00:08:33.440><c> to</c><00:08:33.760><c> also</c>
+consistency with your inputs and to also
+consistency with your inputs and to also
+be<00:08:34.560><c> extremely</c><00:08:35.279><c> specific</c><00:08:36.240><c> with</c><00:08:36.880><c> the</c><00:08:37.360><c> rules</c><00:08:38.159><c> by</c>
+be extremely specific with the rules by
+be extremely specific with the rules by
+which<00:08:38.880><c> the</c><00:08:39.120><c> model</c><00:08:39.599><c> processes</c><00:08:40.240><c> what</c><00:08:40.399><c> you</c><00:08:40.560><c> want</c>
+which the model processes what you want
+which the model processes what you want
+it<00:08:40.719><c> to</c><00:08:40.880><c> do.</c><00:08:41.120><c> If</c><00:08:41.279><c> you</c><00:08:41.440><c> want</c><00:08:41.519><c> to</c><00:08:41.599><c> take</c><00:08:41.760><c> an</c><00:08:41.919><c> Excel</c>
+it to do. If you want to take an Excel
+it to do. If you want to take an Excel
+sheet<00:08:42.560><c> and</c><00:08:42.880><c> process</c><00:08:43.279><c> it</c><00:08:43.440><c> to</c><00:08:43.599><c> a</c><00:08:43.760><c> Google</c><00:08:44.080><c> doc,</c>
+sheet and process it to a Google doc,
+sheet and process it to a Google doc,
+the<00:08:45.040><c> prompt</c><00:08:45.360><c> that</c><00:08:45.600><c> you're</c><00:08:45.760><c> using,</c><00:08:46.160><c> maybe</c><00:08:46.320><c> it's</c>
+the prompt that you're using, maybe it's
+the prompt that you're using, maybe it's
+not<00:08:46.560><c> in</c><00:08:46.720><c> the</c><00:08:46.800><c> API,</c><00:08:47.279><c> maybe</c><00:08:47.360><c> it's</c><00:08:47.519><c> in</c><00:08:47.600><c> an</c><00:08:47.760><c> N8</c>
+not in the API, maybe it's in an N8
+not in the API, maybe it's in an N8
+workflow,<00:08:49.040><c> maybe</c><00:08:49.200><c> you're</c><00:08:49.440><c> actually</c><00:08:49.680><c> pasting</c>
+workflow, maybe you're actually pasting
+workflow, maybe you're actually pasting
+it<00:08:50.160><c> into</c><00:08:50.320><c> Chad</c><00:08:50.640><c> JPT,</c><00:08:51.600><c> but</c><00:08:51.760><c> the</c><00:08:51.920><c> prompt</c><00:08:52.160><c> needs</c>
+it into Chad JPT, but the prompt needs
+it into Chad JPT, but the prompt needs
+to<00:08:52.560><c> be</c><00:08:52.640><c> extremely</c><00:08:53.200><c> specific</c><00:08:53.760><c> about</c><00:08:54.080><c> the</c>
+to be extremely specific about the
+to be extremely specific about the
+sequence<00:08:54.800><c> of</c><00:08:55.040><c> steps</c><00:08:55.360><c> the</c><00:08:55.680><c> model</c><00:08:55.920><c> needs</c><00:08:56.160><c> to</c><00:08:56.320><c> go</c>
+sequence of steps the model needs to go
+sequence of steps the model needs to go
+through.<00:08:56.959><c> Otherwise,</c><00:08:57.519><c> you</c><00:08:57.680><c> get</c><00:08:57.839><c> into</c><00:08:58.000><c> a</c>
+through. Otherwise, you get into a
+through. Otherwise, you get into a
+position<00:08:58.399><c> where</c><00:08:58.640><c> you</c><00:08:58.800><c> are</c><00:08:58.959><c> inviting</c><00:08:59.279><c> the</c>
+position where you are inviting the
+position where you are inviting the
+model<00:08:59.760><c> to</c><00:09:00.000><c> make</c><00:09:00.160><c> up</c><00:09:00.399><c> steps</c><00:09:00.720><c> along</c><00:09:01.040><c> the</c><00:09:01.200><c> way,</c>
+model to make up steps along the way,
+model to make up steps along the way,
+and<00:09:01.920><c> that</c><00:09:02.160><c> invites</c><00:09:02.880><c> drift.</c><00:09:03.440><c> It</c><00:09:03.600><c> invites</c><00:09:04.080><c> a</c>
+and that invites drift. It invites a
+and that invites drift. It invites a
+lack<00:09:04.560><c> of</c><00:09:04.800><c> consistency.</c><00:09:05.760><c> Your</c><00:09:06.080><c> job</c><00:09:06.320><c> with</c><00:09:06.560><c> this</c>
+lack of consistency. Your job with this
+lack of consistency. Your job with this
+consistency<00:09:07.440><c> issue</c><00:09:08.080><c> is</c><00:09:08.320><c> to</c><00:09:08.560><c> take</c><00:09:08.800><c> away</c><00:09:09.120><c> all</c>
+consistency issue is to take away all
+consistency issue is to take away all
+ambiguity<00:09:10.000><c> and</c><00:09:10.240><c> opportunity</c><00:09:10.640><c> for</c><00:09:10.880><c> creativity</c>
+ambiguity and opportunity for creativity
+ambiguity and opportunity for creativity
+from<00:09:11.600><c> the</c><00:09:11.760><c> model</c><00:09:12.000><c> and</c><00:09:12.240><c> to</c><00:09:12.399><c> make</c><00:09:12.560><c> it</c><00:09:12.959><c> as</c>
+from the model and to make it as
+from the model and to make it as
+buttoned<00:09:13.680><c> up</c><00:09:13.920><c> and</c><00:09:14.160><c> linear</c><00:09:14.560><c> as</c><00:09:14.800><c> you</c><00:09:14.959><c> possibly</c>
+buttoned up and linear as you possibly
+buttoned up and linear as you possibly
+can.<00:09:15.920><c> The</c><00:09:16.160><c> sixth</c><00:09:16.480><c> one</c><00:09:16.640><c> that</c><00:09:16.800><c> I</c><00:09:16.959><c> get</c><00:09:17.120><c> a</c><00:09:17.279><c> lot</c><00:09:17.440><c> is</c>
+can. The sixth one that I get a lot is
+can. The sixth one that I get a lot is
+the<00:09:17.920><c> cognitive</c><00:09:18.480><c> bandwidth</c><00:09:19.040><c> trap.</c><00:09:19.760><c> Too</c><00:09:20.320><c> much</c>
+the cognitive bandwidth trap. Too much
+the cognitive bandwidth trap. Too much
+context.<00:09:21.839><c> More</c><00:09:22.160><c> context</c><00:09:22.720><c> can</c><00:09:22.959><c> make</c><00:09:23.279><c> outputs</c>
+context. More context can make outputs
+context. More context can make outputs
+worse,<00:09:24.560><c> but</c><00:09:24.880><c> people</c><00:09:25.279><c> don't</c><00:09:25.600><c> realize</c><00:09:25.920><c> that</c>
+worse, but people don't realize that
+worse, but people don't realize that
+when<00:09:26.320><c> they're</c><00:09:26.560><c> early</c><00:09:26.800><c> on</c><00:09:26.959><c> in</c><00:09:27.200><c> chat</c><00:09:27.519><c> GPT,</c><00:09:28.399><c> and</c>
+when they're early on in chat GPT, and
+when they're early on in chat GPT, and
+they<00:09:28.959><c> think</c><00:09:29.120><c> that</c><00:09:29.360><c> they</c><00:09:29.519><c> can</c><00:09:29.680><c> just</c><00:09:29.839><c> throw</c>
+they think that they can just throw
+they think that they can just throw
+everything<00:09:30.480><c> into</c><00:09:30.800><c> a</c><00:09:30.959><c> million</c><00:09:31.279><c> token</c><00:09:31.680><c> context</c>
+everything into a million token context
+everything into a million token context
+window<00:09:32.399><c> and</c><00:09:32.640><c> get</c><00:09:32.800><c> responses.</c><00:09:33.519><c> The</c><00:09:33.760><c> fix</c><00:09:34.160><c> is</c><00:09:34.399><c> to</c>
+window and get responses. The fix is to
+window and get responses. The fix is to
+have<00:09:35.279><c> really</c><00:09:35.760><c> clean</c><00:09:36.160><c> context</c><00:09:36.640><c> loading.</c><00:09:37.360><c> If</c>
+have really clean context loading. If
+have really clean context loading. If
+you<00:09:37.920><c> are</c><00:09:38.160><c> in</c><00:09:38.480><c> the</c><00:09:38.720><c> API,</c><00:09:39.440><c> you</c><00:09:39.600><c> can</c><00:09:39.839><c> specify</c>
+you are in the API, you can specify
+you are in the API, you can specify
+required<00:09:40.959><c> versus</c><00:09:41.360><c> optional</c><00:09:41.839><c> context</c>
+required versus optional context
+required versus optional context
+loading.<00:09:42.800><c> If</c><00:09:42.959><c> you</c><00:09:43.120><c> are</c><00:09:43.279><c> not</c><00:09:43.440><c> in</c><00:09:43.600><c> the</c><00:09:43.760><c> API,</c><00:09:44.480><c> it</c>
+loading. If you are not in the API, it
+loading. If you are not in the API, it
+is<00:09:44.880><c> your</c><00:09:45.120><c> brain</c><00:09:45.519><c> people.</c><00:09:46.160><c> You</c><00:09:46.480><c> need</c><00:09:46.640><c> to</c><00:09:46.880><c> think</c>
+is your brain people. You need to think
+is your brain people. You need to think
+about<00:09:47.360><c> the</c><00:09:47.680><c> slice</c><00:09:48.000><c> of</c><00:09:48.320><c> context</c><00:09:48.800><c> you</c><00:09:49.040><c> are</c>
+about the slice of context you are
+about the slice of context you are
+uploading<00:09:49.680><c> and</c><00:09:50.000><c> you</c><00:09:50.160><c> need</c><00:09:50.320><c> to</c><00:09:50.640><c> assume</c><00:09:51.519><c> that</c>
+uploading and you need to assume that
+uploading and you need to assume that
+you<00:09:52.080><c> would</c><00:09:52.320><c> do</c><00:09:52.560><c> better</c><00:09:53.120><c> to</c><00:09:53.519><c> paste</c><00:09:54.160><c> the</c><00:09:54.399><c> two</c>
+you would do better to paste the two
+you would do better to paste the two
+pages<00:09:55.040><c> of</c><00:09:55.200><c> the</c><00:09:55.360><c> 20page</c><00:09:55.920><c> brief</c><00:09:56.240><c> that</c><00:09:56.480><c> you</c><00:09:56.640><c> need</c>
+pages of the 20page brief that you need
+pages of the 20page brief that you need
+edited<00:09:57.440><c> or</c><00:09:57.760><c> reviewed</c><00:09:58.480><c> versus</c><00:09:58.880><c> the</c><00:09:59.120><c> full</c>
+edited or reviewed versus the full
+edited or reviewed versus the full
+20page<00:10:00.000><c> brief.</c><00:10:00.480><c> Unless</c><00:10:00.800><c> there's</c><00:10:01.040><c> a</c><00:10:01.279><c> real</c><00:10:01.440><c> good</c>
+20page brief. Unless there's a real good
+20page brief. Unless there's a real good
+reason<00:10:01.920><c> to</c><00:10:02.160><c> give</c><00:10:02.240><c> the</c><00:10:02.480><c> model</c><00:10:02.720><c> all</c><00:10:02.959><c> of</c><00:10:03.120><c> that</c>
+reason to give the model all of that
+reason to give the model all of that
+context.<00:10:04.240><c> Default</c><00:10:05.120><c> to</c><00:10:05.440><c> as</c><00:10:05.760><c> little</c><00:10:06.480><c> context</c><00:10:07.200><c> as</c>
+context. Default to as little context as
+context. Default to as little context as
+is<00:10:07.760><c> humanly</c><00:10:08.399><c> possible</c><00:10:08.959><c> to</c><00:10:09.200><c> get</c><00:10:09.360><c> the</c><00:10:09.600><c> model</c><00:10:09.920><c> to</c>
+is humanly possible to get the model to
+is humanly possible to get the model to
+do<00:10:10.240><c> the</c><00:10:10.480><c> task.</c><00:10:11.279><c> This</c><00:10:11.440><c> is</c><00:10:11.600><c> really</c><00:10:11.920><c> confusing</c>
+do the task. This is really confusing
+do the task. This is really confusing
+because<00:10:12.720><c> people</c><00:10:13.040><c> keep</c><00:10:13.360><c> looking</c><00:10:13.519><c> at</c><00:10:13.760><c> these</c>
+because people keep looking at these
+because people keep looking at these
+exploding<00:10:14.560><c> context</c><00:10:15.120><c> windows</c><00:10:15.519><c> and</c><00:10:15.760><c> saying,</c>
+exploding context windows and saying,
+exploding context windows and saying,
+"Oh<00:10:16.240><c> my</c><00:10:16.399><c> god,</c><00:10:16.640><c> this</c><00:10:16.800><c> is</c><00:10:16.959><c> amazing."</c><00:10:17.600><c> Well,</c><00:10:17.760><c> it</c>
+"Oh my god, this is amazing." Well, it
+"Oh my god, this is amazing." Well, it
+is<00:10:18.160><c> amazing,</c><00:10:18.800><c> but</c><00:10:19.040><c> if</c><00:10:19.200><c> you</c><00:10:19.360><c> want</c><00:10:19.600><c> clean,</c>
+is amazing, but if you want clean,
+is amazing, but if you want clean,
+consistent<00:10:20.480><c> outputs,</c><00:10:21.120><c> overloading</c><00:10:21.680><c> the</c>
+consistent outputs, overloading the
+consistent outputs, overloading the
+model<00:10:22.079><c> with</c><00:10:22.320><c> context</c><00:10:22.880><c> is</c><00:10:23.120><c> going</c><00:10:23.200><c> to</c><00:10:23.279><c> be</c><00:10:23.440><c> a</c>
+model with context is going to be a
+model with context is going to be a
+problem.<00:10:24.160><c> And</c><00:10:24.320><c> so</c><00:10:24.560><c> my</c><00:10:24.800><c> challenge</c><00:10:25.120><c> to</c><00:10:25.360><c> you</c><00:10:25.519><c> is</c>
+problem. And so my challenge to you is
+problem. And so my challenge to you is
+to<00:10:25.920><c> start</c><00:10:26.079><c> to</c><00:10:26.320><c> think</c><00:10:26.480><c> about</c><00:10:26.800><c> context</c><00:10:27.440><c> as</c>
+to start to think about context as
+to start to think about context as
+something<00:10:28.480><c> that</c><00:10:28.720><c> you</c><00:10:29.040><c> clean</c><00:10:29.440><c> for,</c><00:10:30.000><c> not</c>
+something that you clean for, not
+something that you clean for, not
+something<00:10:30.560><c> that</c><00:10:30.800><c> you</c><00:10:31.200><c> accumulate.</c><00:10:31.920><c> Because</c>
+something that you accumulate. Because
+something that you accumulate. Because
+the<00:10:32.399><c> more</c><00:10:32.560><c> you</c><00:10:32.720><c> think</c><00:10:32.800><c> of</c><00:10:32.959><c> it</c><00:10:33.040><c> as</c><00:10:33.200><c> a</c><00:10:33.440><c> pile</c><00:10:33.760><c> you</c>
+the more you think of it as a pile you
+the more you think of it as a pile you
+accumulate,<00:10:34.720><c> the</c><00:10:34.959><c> more</c><00:10:35.120><c> you</c><00:10:35.279><c> invite</c><00:10:35.680><c> the</c>
+accumulate, the more you invite the
+accumulate, the more you invite the
+model<00:10:36.480><c> to</c><00:10:37.279><c> use</c><00:10:37.600><c> dirty</c><00:10:38.000><c> context.</c><00:10:38.800><c> So</c><00:10:38.959><c> there</c><00:10:39.200><c> you</c>
+model to use dirty context. So there you
+model to use dirty context. So there you
+go.<00:10:39.600><c> I</c><00:10:39.760><c> know</c><00:10:39.920><c> I</c><00:10:40.079><c> hit</c><00:10:40.320><c> hard.</c><00:10:40.959><c> These</c><00:10:41.200><c> are</c><00:10:41.360><c> the</c><00:10:41.600><c> six</c>
+go. I know I hit hard. These are the six
+go. I know I hit hard. These are the six
+most<00:10:42.880><c> common</c><00:10:43.519><c> problems</c><00:10:43.920><c> that</c><00:10:44.160><c> I</c><00:10:44.399><c> see</c><00:10:44.720><c> in</c><00:10:45.040><c> real</c>
+most common problems that I see in real
+most common problems that I see in real
+life.<00:10:45.600><c> I</c><00:10:45.839><c> also</c><00:10:46.160><c> comb</c><00:10:46.399><c> through</c><00:10:46.560><c> the</c><00:10:46.720><c> OpenAI</c>
+life. I also comb through the OpenAI
+life. I also comb through the OpenAI
+forum.<00:10:47.760><c> So</c><00:10:48.000><c> I</c><00:10:48.240><c> wanted</c><00:10:48.399><c> to</c><00:10:48.560><c> check</c><00:10:48.800><c> and</c><00:10:48.959><c> see,</c><00:10:49.200><c> am</c>
+forum. So I wanted to check and see, am
+forum. So I wanted to check and see, am
+I<00:10:49.519><c> just</c><00:10:49.680><c> getting</c><00:10:49.839><c> a</c><00:10:50.079><c> sampling</c><00:10:50.480><c> size</c><00:10:50.720><c> issue?</c>
+I just getting a sampling size issue?
+I just getting a sampling size issue?
+I'm<00:10:51.279><c> not.</c><00:10:51.760><c> I</c><00:10:52.000><c> am</c><00:10:52.079><c> seeing</c><00:10:52.320><c> these</c><00:10:52.560><c> over</c><00:10:52.720><c> and</c><00:10:52.880><c> over</c>
+I'm not. I am seeing these over and over
+I'm not. I am seeing these over and over
+in<00:10:53.120><c> the</c><00:10:53.279><c> open</c><00:10:53.519><c> AI</c><00:10:53.839><c> forums</c><00:10:54.160><c> as</c><00:10:54.399><c> well.</c><00:10:54.880><c> They</c><00:10:55.279><c> seem</c>
+in the open AI forums as well. They seem
+in the open AI forums as well. They seem
+to<00:10:55.920><c> be</c><00:10:56.320><c> something</c><00:10:56.640><c> that</c><00:10:56.959><c> developers</c><00:10:57.600><c> face</c><00:10:57.920><c> and</c>
+to be something that developers face and
+to be something that developers face and
+non-developers<00:10:59.120><c> face</c><00:10:59.360><c> and</c><00:10:59.519><c> I</c><00:10:59.760><c> wanted</c><00:10:59.920><c> to</c>
+non-developers face and I wanted to
+non-developers face and I wanted to
+pretend<00:11:00.480><c> we</c><00:11:00.720><c> were</c><00:11:00.880><c> in</c><00:11:01.040><c> office</c><00:11:01.360><c> hours</c><00:11:01.680><c> together</c>
+pretend we were in office hours together
+pretend we were in office hours together
+and<00:11:02.640><c> just</c><00:11:02.880><c> give</c><00:11:03.040><c> you</c><00:11:03.200><c> an</c><00:11:03.440><c> honest</c><00:11:03.760><c> talk</c><00:11:04.000><c> about</c>
+and just give you an honest talk about
+and just give you an honest talk about
+what<00:11:04.480><c> I</c><00:11:04.720><c> see</c><00:11:04.880><c> and</c><00:11:05.120><c> how</c><00:11:05.360><c> you</c><00:11:05.600><c> actually</c><00:11:05.920><c> fix</c><00:11:06.079><c> it.</c>
+what I see and how you actually fix it.
+what I see and how you actually fix it.
+If<00:11:06.720><c> you</c><00:11:06.880><c> want</c><00:11:06.959><c> to</c><00:11:07.040><c> dive</c><00:11:07.279><c> deeper,</c><00:11:07.680><c> there's</c><00:11:07.839><c> a</c>
+If you want to dive deeper, there's a
+If you want to dive deeper, there's a
+ton<00:11:08.240><c> more</c><00:11:08.640><c> in</c><00:11:08.880><c> the</c><00:11:09.040><c> write</c><00:11:09.279><c> up</c><00:11:09.440><c> on</c><00:11:09.600><c> Substack.</c>
+ton more in the write up on Substack.
+ton more in the write up on Substack.
+There'll<00:11:10.640><c> be</c><00:11:10.800><c> prompts</c><00:11:11.360><c> and</c><00:11:11.920><c> just</c><00:11:12.320><c> really</c><00:11:12.640><c> easy</c>
+There'll be prompts and just really easy
+There'll be prompts and just really easy
+specific<00:11:13.519><c> examples</c><00:11:14.000><c> so</c><00:11:14.160><c> you</c><00:11:14.320><c> can</c><00:11:14.480><c> see</c><00:11:14.560><c> what</c><00:11:14.720><c> I</c>
+specific examples so you can see what I
+specific examples so you can see what I
+mean<00:11:15.040><c> in</c><00:11:15.200><c> terms</c><00:11:15.360><c> of</c><00:11:15.440><c> how</c><00:11:15.600><c> to</c><00:11:15.760><c> fix</c><00:11:15.920><c> this</c><00:11:16.160><c> stuff.</c>
+mean in terms of how to fix this stuff.
+mean in terms of how to fix this stuff.
+Good<00:11:16.720><c> luck.</c><00:11:17.120><c> These</c><00:11:17.360><c> models</c><00:11:17.760><c> are</c><00:11:17.920><c> much</c><00:11:18.160><c> more</c>
+Good luck. These models are much more
+Good luck. These models are much more
+capable<00:11:18.720><c> than</c><00:11:18.880><c> we</c><00:11:19.040><c> think.</c><00:11:19.360><c> Um,</c><00:11:19.600><c> and</c><00:11:19.839><c> you're</c>
+capable than we think. Um, and you're
+capable than we think. Um, and you're
+not<00:11:20.160><c> alone</c><00:11:20.399><c> when</c><00:11:20.560><c> you're</c><00:11:20.720><c> facing</c><00:11:21.040><c> problems.</c>
+not alone when you're facing problems.
+not alone when you're facing problems.
+That's<00:11:21.600><c> the</c><00:11:21.680><c> other</c><00:11:21.760><c> thing</c><00:11:21.839><c> I</c><00:11:22.000><c> want</c><00:11:22.160><c> you</c><00:11:22.240><c> to</c>
+That's the other thing I want you to
+That's the other thing I want you to
+take<00:11:22.480><c> away.</c>

@@ -1,0 +1,181 @@
+# Concept Map — Key Concept to Video Files (inverted index)
+# Generated: 2026-02-11
+# Unique concepts: 935
+
+agentic-ai: # (4 videos)
+  - 2024-08-12-anthropics-trojan-horse-how-claude-code-plus-a-million-tokens-could-win-the-workplace.md
+  - 2026-02-10-ai-bubble-why-the-doom-narrative-is-wrong.md
+  - 2026-02-10-chatgpt-5-prompting-is-too-hard-this-video-makes-it-easy-for-you.md
+  - 2026-02-10-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo.md
+
+vertical-integration: # (4 videos)
+  - 2025-05-06-openai-bought-windsurf.md
+  - 2026-02-10-claude-skills-is-bigger-than-model-context-protocol-mcpheres-why.md
+  - 2026-02-10-google-just-pulled-a-power-move-vs-code-colab-and-gemini-30.md
+  - 2026-02-10-the-nvidia-groq-deal-is-way-bigger-than-reported-3-things-the-headlines-missed.md
+
+agentic-workflows: # (4 videos)
+  - 2026-02-10-i-tracked-every-ai-win-failure-in-2025-heres-what-actually-worked-9-surprises.md
+  - 2026-02-10-mark-zuckerburg-laid-off-600-ai-researchersheres-the-ai-talent-takeaway-everyone-missed.md
+  - 2026-02-10-the-5-ai-shifts-that-will-reshape-2026-on-device-agents-4-more-critical-ai-trends.md
+  - 2026-02-10-the-500k-mistake-8-engineers-doing-implementation-0-doing-governance.md
+
+time-compression: # (3 videos)
+  - 2024-02-06-5-big-ai-updates-how-i-built-a-10k-looking-travel-app-in-25-minutes.md
+  - 2026-02-10-the-compression-of-time-in-the-ai-era.md
+  - 2026-02-10-were-getting-ai-agents-backwardssimulation-wins.md
+
+goodharts-law: # (3 videos)
+  - 2024-07-14-grok-4-is-1-but-real-world-users-ranked-it-66heres-the-gap.md
+  - 2026-02-10-the-ai-bubble-is-fake-julian-schrittwiesers-analysis-on-exponential-ai-progress.md
+  - 2026-02-10-what-i-tell-every-cto-before-they-touch-claude-code-or-the-anthropic-api.md
+
+attention-mechanisms: # (3 videos)
+  - 2026-02-10-catch-up-before-chatgpt-5-your-complete-ai-guidetimeline-ai-basics-resources-and-who-to-follow.md
+  - 2026-02-10-neurips-2025-in-12-minutes-the-6-shifts-most-people-will-miss-until-its-too-late.md
+  - 2026-02-10-the-a-to-z-ai-literacy-guide-2025-edition.md
+
+model-specialization: # (3 videos)
+  - 2026-02-10-claude-4-is-outcomparison-vs-o3-and-gemini-25-pro.md
+  - 2026-02-10-gemini-3-just-rewired-product-engineering-and-marketing-jobs.md
+  - 2026-02-10-the-ai-prompting-mistake-costing-you-hours-every-week-10-prompts-to-fix-it.md
+
+agent-orchestration: # (3 videos)
+  - 2026-02-10-claude-45-built-slack-in-30-hours-straightheres-my-take-after-testing.md
+  - 2026-02-10-going-slower-feels-safer-but-your-domain-expertise-wont-save-you-anymore-heres-what-will.md
+  - 2026-02-10-grab-the-inside-scoop-on-how-google-anthropic-and-manus-built-long-running-ai-agents.md
+
+agentic-systems: # (3 videos)
+  - 2026-02-10-karpathy-vs-mckinsey-the-truth-about-ai-agents-software-30.md
+  - 2026-02-10-the-compounding-gap-that-makes-2026-the-last-chance-to-catch-up.md
+  - 2026-02-10-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one.md
+
+human-ai-collaboration: # (3 videos)
+  - 2026-02-10-new-claude-just-launched-get-full-test-results-vs-chatgpt-5-how-it-saves-you-hours.md
+  - 2026-02-10-stop-asking-for-ai-agents-when-youre-not-ready-for-themheres-what-you-really-need.md
+  - 2026-02-10-stop-burning-tokens-the-contract-first-prompting-blueprint-no-one-talks-about.md
+
+orchestration-layer-security: # (2 videos)
+  - 2024-11-13-inside-anthropics-detection-of-an-ai-run-cyberattack-on-30-high-value-global-targets.md
+  - 2026-02-10-google-just-pulled-a-power-move-vs-code-colab-and-gemini-30.md
+
+token-efficiency: # (2 videos)
+  - 2024-11-28-how-i-improved-ai-output-quality-10x-with-one-prompting-shift.md
+  - 2026-02-10-stop-burning-tokens-the-contract-first-prompting-blueprint-no-one-talks-about.md
+
+data-moats: # (2 videos)
+  - 2025-05-06-openai-bought-windsurf.md
+  - 2026-02-10-i-built-an-11-tab-financial-model-in-10-minutes-the-20month-tool-thats-about-change-how-we-work.md
+
+little-guy-theory: # (2 videos)
+  - 2025-12-4-ai-agents-guide.md
+  - 2026-02-10-the-4-ai-agents-non-technical-people-actually-need-and-how-to-use-them-today.md
+
+agent-autonomy: # (2 videos)
+  - 2026-01-30-clawdbot-to-moltbot-to-openclaw-the-72-hours-that-broke-everything-the-full-breakdown.md
+  - 2026-02-10-openclaw-agents-are-hiring-each-other-transferring-crypto-building-societies-this-is-real.md
+
+meta-skills: # (2 videos)
+  - 2026-02-10-500-ai-trained-employees-will-lose-to-10-truly-ai-fluent-onesheres-why.md
+  - 2026-02-10-claude-skillsfrom-toy-to-tool-grab-my-tutorial-custom-skills-to-help-you-build-skills-fast.md
+
+agent-harness: # (2 videos)
+  - 2026-02-10-ai-agents-that-actually-work-the-pattern-anthropic-just-revealed.md
+  - 2026-02-10-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapper.md
+
+production-readiness: # (2 videos)
+  - 2026-02-10-ai-didnt-kill-engineering-it-raised-the-bar.md
+  - 2026-02-10-openais-secret-agent-builder-just-leaked-first-look-why-it-changes-everything.md
+
+agent-delegation: # (2 videos)
+  - 2026-02-10-anthropics-new-benchmark-changes-everythingmost-people-will-miss-why.md
+  - 2026-02-10-the-human-throttle-problem-thats-killing-enterprise-ai-agent-roi.md
+
+scaling-laws: # (2 videos)
+  - 2026-02-10-catch-up-before-chatgpt-5-your-complete-ai-guidetimeline-ai-basics-resources-and-who-to-follow.md
+  - 2026-02-10-the-a-to-z-ai-literacy-guide-2025-edition.md
+
+competitive-positioning: # (2 videos)
+  - 2026-02-10-chatgpt-41-vs-gemini-25analysis-both-on-test-results-and-actual-usage.md
+  - 2026-02-10-the-dirty-secret-behind-amazons-30000-cuts-nvidia.md
+
+model-routing: # (2 videos)
+  - 2026-02-10-chatgpt-5-full-review-5-real-world-tests-the-ai-race.md
+  - 2026-02-10-i-summarized-the-313-slide-state-of-ai-report-so-you-dont-have-to-read-itheres-the-tldr.md
+
+jagged-intelligence: # (2 videos)
+  - 2026-02-10-chatgpt-5-full-review-5-real-world-tests-the-ai-race.md
+  - 2026-02-10-what-good-is-a-degree-when-ai-knows-everything-what-a-post-knowledge-ai-economy-looks-like.md
+
+structured-prompting: # (2 videos)
+  - 2026-02-10-chatgpt-5-prompting-is-too-hard-this-video-makes-it-easy-for-you.md
+  - 2026-02-10-json-how-i-build-perfect-images-in-nanobanana-pro.md
+
+retrieval-augmented-generation: # (2 videos)
+  - 2026-02-10-chunking-101-the-invisible-bottleneck-killing-enterprise-ai-projects.md
+  - 2026-02-10-master-perplexity-prompting-why-its-different-from-chatgpt-demo.md
+
+agentic-search: # (2 videos)
+  - 2026-02-10-chunking-101-the-invisible-bottleneck-killing-enterprise-ai-projects.md
+  - 2026-02-10-context-engineering-vs-prompt-engineering-guiding-llm-agents.md
+
+native-integration: # (2 videos)
+  - 2026-02-10-claude-4-is-outcomparison-vs-o3-and-gemini-25-pro.md
+  - 2026-02-10-i-was-wrong-about-ai-agents-this-200-browser-actually-works.md
+
+proactive-ai: # (2 videos)
+  - 2026-02-10-disposable-software-the-trend-90-of-people-are-getting-wrong-the-hidden-costs-we-need-to-consider.md
+  - 2026-02-10-the-compounding-gap-that-makes-2026-the-last-chance-to-catch-up.md
+
+mental-models: # (2 videos)
+  - 2026-02-10-everyone-is-getting-ai-fluency-wrongsteal-my-10-level-framework-that-exposes-the-real-ai-skill-gap.md
+  - 2026-02-10-is-openai-a-bubble-heres-the-2026-test-unit-economics-compute-enterprise-proof.md
+
+workflow-transformation: # (2 videos)
+  - 2026-02-10-excel-ai-will-replace-finance-teams-by-2026heres-why-and-what-to-do.md
+  - 2026-02-10-gemini-3-just-triggered-the-biggest-ai-reset-since-2022.md
+
+meta-prompting: # (2 videos)
+  - 2026-02-10-get-chatgpt-5-ready-with-these-prompting-principles.md
+  - 2026-02-10-steal-my-2-prompt-blueprint-turn-chatgpt-into-your-personal-ai-tutor-live-demo.md
+
+agent-limitations: # (2 videos)
+  - 2026-02-10-i-summarized-andrej-karpathys-25-hour-podcast-in-20-mingrab-4-takeaways-no-ones-talking-about.md
+  - 2026-02-10-the-compression-of-time-in-the-ai-era.md
+
+messy-middle: # (2 videos)
+  - 2026-02-10-i-tracked-every-ai-win-failure-in-2025-heres-what-actually-worked-9-surprises.md
+  - 2026-02-10-openai-just-launched-200-prompts-for-prosthey-will-destroy-your-career-heres-why.md
+
+adversarial-prompting: # (2 videos)
+  - 2026-02-10-if-this-can-happen-to-an-ex-deepmind-leader-it-can-happen-to-you.md
+  - 2026-02-10-the-mental-models-of-master-prompters-10-techniques-for-advanced-prompting.md
+
+visual-reasoning: # (2 videos)
+  - 2026-02-10-meta-just-cracked-vision-with-sam-3-robotics-moderation-and-video-editing-will-transform.md
+  - 2026-02-10-there-is-no-wall-what-gemini-3-really-means-for-your-job.md
+
+token-economics: # (2 videos)
+  - 2026-02-10-nvidia-told-us-exactly-where-ai-is-going-and-almost-everyone-heard-it-wrong.md
+  - 2026-02-10-the-800-million-user-trap-why-openais-dev-day-changes-everything-and-nothing.md
+
+autonomous-agents: # (2 videos)
+  - 2026-02-10-openai-is-slowing-hiring-anthropics-engineers-stopped-writing-code-heres-why-you-should-care.md
+  - 2026-02-10-trump-just-gutted-state-ai-laws-openai-panicked-ai-agents-stole-46m-your-10-minute-breakdown.md
+
+glue-work: # (2 videos)
+  - 2026-02-10-the-1000-test-that-breaks-every-ai-model-out-there-today.md
+  - 2026-02-10-will-ai-kill-your-job-12-brutal-career-questions-answered.md
+
+capital-reallocation: # (2 videos)
+  - 2026-02-10-the-125-billion-secret-amazon-told-wall-street-one-thing-and-employees-another-heres-the-truth.md
+  - 2026-02-10-the-dirty-secret-behind-amazons-30000-cuts-nvidia.md
+
+translation-layer: # (2 videos)
+  - 2026-02-10-the-ai-expertise-bottleneck-how-top-1-pros-are-scaling-faster-than-ever.md
+  - 2026-02-10-the-skill-gap-that-will-separate-ai-winners-from-everyone-else.md
+
+domain-expertise: # (2 videos)
+  - 2026-02-10-the-scoop-what-i-hear-from-companies-behind-closed-doors-about-ai-talent-jobs.md
+  - 2026-02-10-will-ai-kill-your-job-12-brutal-career-questions-answered.md
+

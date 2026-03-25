@@ -1,0 +1,574 @@
+This<00:00:00.320><c> is</c><00:00:00.480><c> an</c><00:00:00.719><c> absolutely</c><00:00:01.360><c> crazy</c><00:00:01.839><c> week</c><00:00:02.560><c> and</c><00:00:02.800><c> I</c>
+This is an absolutely crazy week and I
+This is an absolutely crazy week and I
+want<00:00:03.040><c> to</c><00:00:03.200><c> tell</c><00:00:03.360><c> you</c><00:00:03.799><c> why.</c><00:00:04.799><c> We</c><00:00:05.040><c> had</c><00:00:05.359><c> open</c><00:00:05.680><c> AAI</c><00:00:06.080><c> on</c>
+want to tell you why. We had open AAI on
+want to tell you why. We had open AAI on
+Friday<00:00:06.720><c> starting</c><00:00:07.040><c> out</c><00:00:07.440><c> like</c><00:00:07.759><c> the</c><00:00:07.919><c> the</c><00:00:08.400><c> weekl</c>
+Friday starting out like the the weekl
+Friday starting out like the the weekl
+long<00:00:08.880><c> push</c><00:00:09.200><c> by</c><00:00:09.440><c> talking</c><00:00:09.599><c> about</c><00:00:09.840><c> codecs</c><00:00:10.639><c> and</c>
+long push by talking about codecs and
+long push by talking about codecs and
+then<00:00:10.960><c> we</c><00:00:11.120><c> have</c><00:00:11.360><c> four</c><00:00:11.599><c> other</c><00:00:11.840><c> major</c><00:00:12.240><c> events</c>
+then we have four other major events
+then we have four other major events
+this<00:00:12.719><c> week</c><00:00:12.960><c> all</c><00:00:13.120><c> to</c><00:00:13.360><c> do</c><00:00:13.440><c> with</c><00:00:13.599><c> AI</c><00:00:13.920><c> and</c><00:00:14.080><c> I'm</c>
+this week all to do with AI and I'm
+this week all to do with AI and I'm
+going<00:00:14.320><c> to</c><00:00:14.400><c> explain</c><00:00:14.799><c> why</c><00:00:15.120><c> and</c><00:00:15.360><c> kind</c><00:00:15.519><c> of</c><00:00:15.599><c> what</c><00:00:15.839><c> to</c>
+going to explain why and kind of what to
+going to explain why and kind of what to
+think<00:00:16.160><c> about</c><00:00:16.320><c> and</c><00:00:16.560><c> what</c><00:00:16.720><c> to</c><00:00:16.880><c> ask</c><00:00:17.119><c> yourself.</c>
+think about and what to ask yourself.
+think about and what to ask yourself.
+Number<00:00:18.320><c> one</c><00:00:18.640><c> first</c><00:00:18.880><c> event</c><00:00:19.119><c> this</c><00:00:19.359><c> week</c>
+Number one first event this week
+Number one first event this week
+Microsoft<00:00:20.160><c> build</c><00:00:20.560><c> happening</c><00:00:21.199><c> already.</c><00:00:21.920><c> The</c>
+Microsoft build happening already. The
+Microsoft build happening already. The
+big<00:00:22.320><c> headliner</c><00:00:22.800><c> was</c><00:00:22.960><c> that</c><00:00:23.119><c> they</c><00:00:23.279><c> announced</c>
+big headliner was that they announced
+big headliner was that they announced
+support<00:00:23.840><c> for</c><00:00:24.080><c> model</c><00:00:24.400><c> context</c><00:00:24.880><c> protocol</c><00:00:25.600><c> but</c>
+support for model context protocol but
+support for model context protocol but
+they<00:00:26.000><c> have</c><00:00:26.080><c> some</c><00:00:26.320><c> other</c><00:00:26.480><c> pieces</c><00:00:26.880><c> too.</c><00:00:27.119><c> They</c>
+they have some other pieces too. They
+they have some other pieces too. They
+have<00:00:27.760><c> uh</c><00:00:27.920><c> multi-</c><00:00:28.240><c> aent</c><00:00:28.560><c> orchestration.</c><00:00:29.279><c> They</c>
+have uh multi- aent orchestration. They
+have uh multi- aent orchestration. They
+have<00:00:29.519><c> GitHub</c><00:00:29.920><c> autonomous</c><00:00:30.480><c> coding</c><00:00:30.800><c> agents.</c>
+have GitHub autonomous coding agents.
+have GitHub autonomous coding agents.
+There's<00:00:31.439><c> some</c><00:00:31.599><c> other</c><00:00:31.760><c> stuff</c><00:00:31.920><c> in</c><00:00:32.160><c> there.</c><00:00:33.040><c> But</c>
+There's some other stuff in there. But
+There's some other stuff in there. But
+we're<00:00:33.440><c> not</c><00:00:33.680><c> done</c><00:00:34.239><c> because</c><00:00:34.559><c> Microsoft</c><00:00:35.120><c> Build</c>
+we're not done because Microsoft Build
+we're not done because Microsoft Build
+then<00:00:35.600><c> gives</c><00:00:35.760><c> way</c><00:00:36.000><c> to</c><00:00:36.160><c> Google</c><00:00:36.480><c> IO</c><00:00:36.960><c> on</c><00:00:37.200><c> Tuesday</c>
+then gives way to Google IO on Tuesday
+then gives way to Google IO on Tuesday
+and<00:00:37.960><c> Wednesday.</c><00:00:38.960><c> Uh,</c><00:00:39.200><c> and</c><00:00:39.440><c> that's</c><00:00:39.680><c> going</c><00:00:39.760><c> to</c>
+and Wednesday. Uh, and that's going to
+and Wednesday. Uh, and that's going to
+have<00:00:40.680><c> Gemini</c><00:00:41.680><c> absolutely</c><00:00:42.320><c> everywhere.</c>
+have Gemini absolutely everywhere.
+have Gemini absolutely everywhere.
+Probably<00:00:43.040><c> a</c><00:00:43.200><c> heavy</c><00:00:43.520><c> lean</c><00:00:43.680><c> on</c><00:00:43.840><c> Agentic</c><00:00:44.480><c> as</c>
+Probably a heavy lean on Agentic as
+Probably a heavy lean on Agentic as
+well.<00:00:45.440><c> There's</c><00:00:45.760><c> going</c><00:00:45.920><c> to</c><00:00:46.079><c> be</c><00:00:46.239><c> an</c><00:00:46.399><c> XR</c><00:00:46.879><c> headset</c>
+well. There's going to be an XR headset
+well. There's going to be an XR headset
+with<00:00:47.719><c> Android.</c><00:00:48.719><c> They're</c><00:00:48.960><c> going</c><00:00:49.039><c> to</c><00:00:49.200><c> be</c>
+with Android. They're going to be
+with Android. They're going to be
+looking<00:00:49.600><c> to</c><00:00:49.920><c> have</c><00:00:50.160><c> this</c><00:00:50.480><c> idea</c><00:00:50.800><c> of</c><00:00:51.120><c> like</c><00:00:51.600><c> I</c>
+looking to have this idea of like I
+looking to have this idea of like I
+think<00:00:52.000><c> ambient</c><00:00:52.559><c> AI,</c><00:00:52.960><c> AI</c><00:00:53.360><c> everywhere.</c><00:00:53.920><c> AI</c><00:00:54.239><c> is</c><00:00:54.399><c> a</c>
+think ambient AI, AI everywhere. AI is a
+think ambient AI, AI everywhere. AI is a
+system<00:00:54.960><c> service,</c><00:00:55.440><c> right?</c><00:00:56.000><c> But</c><00:00:56.160><c> we're</c><00:00:56.399><c> still</c>
+system service, right? But we're still
+system service, right? But we're still
+not<00:00:56.879><c> done</c><00:00:57.120><c> yet</c><00:00:57.520><c> because</c><00:00:57.920><c> then</c><00:00:58.440><c> Thursday,</c>
+not done yet because then Thursday,
+not done yet because then Thursday,
+Enthropic<00:01:00.239><c> has</c><00:01:00.559><c> its</c><00:01:00.960><c> first</c><00:01:01.280><c> developer</c>
+Enthropic has its first developer
+Enthropic has its first developer
+conference,<00:01:02.879><c> Code</c><00:01:03.120><c> with</c><00:01:03.359><c> Claude,</c><00:01:04.000><c> which</c><00:01:04.239><c> is</c><00:01:04.320><c> a</c>
+conference, Code with Claude, which is a
+conference, Code with Claude, which is a
+live<00:01:04.799><c> stream</c><00:01:05.400><c> keynote.</c><00:01:06.400><c> And</c><00:01:07.280><c> we</c><00:01:07.600><c> will</c><00:01:07.760><c> see</c>
+live stream keynote. And we will see
+live stream keynote. And we will see
+what<00:01:08.159><c> happens.</c><00:01:08.479><c> I</c><00:01:08.640><c> think</c><00:01:08.720><c> we're</c><00:01:08.880><c> going</c><00:01:08.960><c> to</c>
+what happens. I think we're going to
+what happens. I think we're going to
+have<00:01:09.119><c> a</c><00:01:09.280><c> roadmap</c><00:01:09.680><c> for</c><00:01:09.840><c> the</c><00:01:10.000><c> next</c><00:01:10.159><c> Claude</c>
+have a roadmap for the next Claude
+have a roadmap for the next Claude
+model.<00:01:10.880><c> I</c><00:01:11.119><c> suspect</c><00:01:11.439><c> we're</c><00:01:11.600><c> going</c><00:01:11.680><c> to</c><00:01:11.840><c> get</c><00:01:11.920><c> into</c>
+model. I suspect we're going to get into
+model. I suspect we're going to get into
+model<00:01:12.640><c> context</c><00:01:13.119><c> protocol</c><00:01:13.600><c> security.</c><00:01:14.400><c> There</c>
+model context protocol security. There
+model context protocol security. There
+will<00:01:14.799><c> probably</c><00:01:15.119><c> be</c><00:01:15.520><c> a</c><00:01:15.920><c> clawed</c><00:01:16.400><c> code</c><00:01:16.799><c> command</c>
+will probably be a clawed code command
+will probably be a clawed code command
+line<00:01:17.360><c> interface</c><00:01:18.080><c> thing</c><00:01:18.479><c> that</c><00:01:18.799><c> is</c><00:01:18.960><c> intended</c><00:01:19.360><c> to</c>
+line interface thing that is intended to
+line interface thing that is intended to
+rival<00:01:19.920><c> GitHub</c><00:01:20.320><c> copilot</c><00:01:20.960><c> or</c><00:01:21.360><c> lean</c><00:01:21.680><c> farther</c><00:01:22.000><c> in</c>
+rival GitHub copilot or lean farther in
+rival GitHub copilot or lean farther in
+versus<00:01:22.720><c> codeex</c><00:01:23.119><c> which</c><00:01:23.360><c> openai</c><00:01:23.920><c> started</c><00:01:24.159><c> the</c>
+versus codeex which openai started the
+versus codeex which openai started the
+week
+week
+week
+on.<00:01:26.240><c> It's</c><00:01:26.479><c> just</c><00:01:26.720><c> thing</c><00:01:26.960><c> after</c><00:01:27.280><c> thing</c><00:01:27.439><c> after</c>
+on. It's just thing after thing after
+on. It's just thing after thing after
+thing,<00:01:28.000><c> right?</c><00:01:28.240><c> It's</c><00:01:28.920><c> breathless.</c><00:01:29.920><c> And</c><00:01:30.080><c> I</c>
+thing, right? It's breathless. And I
+thing, right? It's breathless. And I
+wanted<00:01:30.479><c> to</c><00:01:30.720><c> ask</c>
+wanted to ask
+wanted to ask
+myself
+myself
+myself
+why<00:01:34.880><c> why</c><00:01:35.200><c> do</c><00:01:35.360><c> we</c><00:01:35.600><c> have</c><00:01:35.840><c> OpenAI,</c><00:01:36.640><c> Microsoft,</c>
+why why do we have OpenAI, Microsoft,
+why why do we have OpenAI, Microsoft,
+Google,<00:01:38.000><c> Anthropic,</c><00:01:38.880><c> Bam</c><00:01:39.200><c> Bam</c><00:01:39.520><c> Bam</c><00:01:39.920><c> all</c><00:01:40.159><c> in</c><00:01:40.320><c> a</c>
+Google, Anthropic, Bam Bam Bam all in a
+Google, Anthropic, Bam Bam Bam all in a
+row<00:01:40.640><c> on</c><00:01:40.880><c> one</c><00:01:41.119><c> week?</c><00:01:41.920><c> Why</c><00:01:42.079><c> are</c><00:01:42.240><c> they</c><00:01:42.479><c> fighting</c>
+row on one week? Why are they fighting
+row on one week? Why are they fighting
+like<00:01:43.040><c> this?</c>
+like this?
+like this?
+There's<00:01:44.479><c> a</c><00:01:44.720><c> few</c><00:01:44.880><c> answers.</c><00:01:45.600><c> Number</c><00:01:45.920><c> one,</c><00:01:46.479><c> and</c>
+There's a few answers. Number one, and
+There's a few answers. Number one, and
+this<00:01:46.880><c> is</c><00:01:47.040><c> hilarious,</c><00:01:47.520><c> but</c><00:01:47.759><c> it's</c><00:01:48.000><c> true,</c><00:01:48.880><c> this</c>
+this is hilarious, but it's true, this
+this is hilarious, but it's true, this
+is<00:01:49.840><c> a</c><00:01:50.479><c> great</c><00:01:50.799><c> weather</c><00:01:51.200><c> week</c><00:01:51.439><c> in</c><00:01:51.680><c> San</c>
+is a great weather week in San
+is a great weather week in San
+Francisco,<00:01:52.960><c> and</c><00:01:53.360><c> early</c><00:01:53.680><c> June,</c><00:01:54.000><c> which</c><00:01:54.240><c> is</c><00:01:54.399><c> also</c>
+Francisco, and early June, which is also
+Francisco, and early June, which is also
+great<00:01:54.960><c> weather,</c><00:01:55.280><c> is</c><00:01:55.600><c> already</c><00:01:55.920><c> taken</c><00:01:56.159><c> by</c>
+great weather, is already taken by
+great weather, is already taken by
+Apple's<00:01:57.240><c> WWDC.</c><00:01:58.320><c> And</c><00:01:58.560><c> so</c><00:01:58.799><c> historically,</c>
+Apple's WWDC. And so historically,
+Apple's WWDC. And so historically,
+Google
+Google
+Google
+IO<00:02:01.840><c> was</c><00:02:02.159><c> positioned</c><00:02:02.640><c> on</c><00:02:02.960><c> this</c><00:02:03.200><c> week</c><00:02:03.360><c> in</c><00:02:03.680><c> May</c><00:02:04.159><c> in</c>
+IO was positioned on this week in May in
+IO was positioned on this week in May in
+order<00:02:04.719><c> to</c><00:02:05.600><c> have</c><00:02:06.000><c> their</c><00:02:06.320><c> own</c><00:02:06.560><c> hotel</c><00:02:06.960><c> bookings,</c>
+order to have their own hotel bookings,
+order to have their own hotel bookings,
+have<00:02:07.759><c> their</c><00:02:08.000><c> own</c><00:02:08.239><c> conference</c><00:02:08.720><c> space,</c><00:02:09.679><c> not</c>
+have their own conference space, not
+have their own conference space, not
+compete<00:02:10.239><c> with</c><00:02:10.560><c> WWDC,</c><00:02:11.520><c> but</c><00:02:11.760><c> still</c><00:02:11.920><c> get</c><00:02:12.080><c> that</c>
+compete with WWDC, but still get that
+compete with WWDC, but still get that
+nice<00:02:12.640><c> fair</c><00:02:12.959><c> weather</c><00:02:13.680><c> uh</c><00:02:14.080><c> window</c><00:02:14.560><c> in</c><00:02:14.879><c> San</c>
+nice fair weather uh window in San
+nice fair weather uh window in San
+Francisco.<00:02:16.400><c> Now,</c><00:02:16.720><c> of</c><00:02:16.879><c> course,</c><00:02:17.120><c> it's</c><00:02:17.360><c> all</c>
+Francisco. Now, of course, it's all
+Francisco. Now, of course, it's all
+about<00:02:17.680><c> AI.</c><00:02:18.480><c> the</c><00:02:18.800><c> Apple</c><00:02:19.040><c> thing</c><00:02:19.200><c> isn't</c><00:02:19.520><c> as</c>
+about AI. the Apple thing isn't as
+about AI. the Apple thing isn't as
+important,<00:02:20.640><c> but</c><00:02:20.959><c> Google</c><00:02:21.360><c> ends</c><00:02:21.599><c> up</c><00:02:21.920><c> anchoring</c>
+important, but Google ends up anchoring
+important, but Google ends up anchoring
+this<00:02:23.040><c> AI</c><00:02:23.520><c> week</c><00:02:24.160><c> because</c><00:02:24.480><c> they're</c><00:02:24.800><c> going</c><00:02:24.959><c> on</c><00:02:25.200><c> IO</c>
+this AI week because they're going on IO
+this AI week because they're going on IO
+anyway<00:02:26.400><c> every</c><00:02:26.720><c> year</c><00:02:26.959><c> on</c><00:02:27.200><c> this</c><00:02:27.440><c> week</c><00:02:28.000><c> and</c><00:02:28.319><c> other</c>
+anyway every year on this week and other
+anyway every year on this week and other
+major<00:02:29.040><c> model</c><00:02:29.360><c> makers</c><00:02:29.599><c> now</c><00:02:29.760><c> that</c><00:02:29.920><c> Google's</c><00:02:30.239><c> in</c>
+major model makers now that Google's in
+major model makers now that Google's in
+the<00:02:30.480><c> AI</c><00:02:30.879><c> space</c><00:02:31.520><c> want</c><00:02:31.760><c> to</c><00:02:32.000><c> step</c><00:02:32.239><c> on</c><00:02:32.560><c> Google's</c>
+the AI space want to step on Google's
+the AI space want to step on Google's
+narrative<00:02:34.000><c> and</c><00:02:34.319><c> jump</c><00:02:34.560><c> all</c><00:02:34.720><c> over</c><00:02:34.879><c> it</c><00:02:35.040><c> with</c>
+narrative and jump all over it with
+narrative and jump all over it with
+their
+their
+their
+own.<00:02:36.959><c> But</c><00:02:37.120><c> there's</c><00:02:37.440><c> also</c><00:02:37.680><c> a</c><00:02:37.920><c> deeper</c><00:02:38.319><c> reason.</c>
+own. But there's also a deeper reason.
+own. But there's also a deeper reason.
+At<00:02:39.440><c> the</c><00:02:39.599><c> end</c><00:02:39.680><c> of</c><00:02:39.840><c> the</c><00:02:40.440><c> day,</c><00:02:41.440><c> this</c><00:02:41.840><c> period</c><00:02:42.239><c> of</c>
+At the end of the day, this period of
+At the end of the day, this period of
+time<00:02:43.440><c> gives</c><00:02:43.760><c> you</c><00:02:44.000><c> space</c><00:02:44.400><c> to</c><00:02:44.800><c> shape</c><00:02:45.200><c> earnings</c>
+time gives you space to shape earnings
+time gives you space to shape earnings
+expectations<00:02:47.280><c> before</c><00:02:47.680><c> earnings</c><00:02:48.239><c> go</c><00:02:48.480><c> if</c>
+expectations before earnings go if
+expectations before earnings go if
+you're<00:02:48.800><c> a</c><00:02:48.959><c> major</c><00:02:49.280><c> company</c><00:02:49.599><c> like</c><00:02:49.840><c> Google.</c><00:02:50.800><c> It</c>
+you're a major company like Google. It
+you're a major company like Google. It
+can<00:02:51.200><c> give</c><00:02:51.360><c> you</c><00:02:51.599><c> space</c><00:02:51.840><c> to</c><00:02:52.160><c> talk</c><00:02:52.400><c> about</c><00:02:52.640><c> your</c>
+can give you space to talk about your
+can give you space to talk about your
+build<00:02:53.200><c> plans</c><00:02:53.519><c> in</c><00:02:53.760><c> ways</c><00:02:54.000><c> that</c><00:02:54.319><c> feed</c><00:02:54.640><c> into</c>
+build plans in ways that feed into
+build plans in ways that feed into
+Nvidia's<00:02:55.879><c> earnings.</c><00:02:56.879><c> And</c><00:02:57.360><c> critically,</c>
+Nvidia's earnings. And critically,
+Nvidia's earnings. And critically,
+beyond<00:02:58.560><c> just</c><00:02:58.720><c> the</c><00:02:58.959><c> earning</c><00:02:59.400><c> story,</c><00:03:00.400><c> it</c><00:03:00.720><c> can</c>
+beyond just the earning story, it can
+beyond just the earning story, it can
+get<00:03:01.280><c> you</c><00:03:01.840><c> into</c><00:03:02.319><c> place</c><00:03:03.040><c> in</c><00:03:03.959><c> enterprise</c><00:03:04.959><c> buying</c>
+get you into place in enterprise buying
+get you into place in enterprise buying
+committees<00:03:06.319><c> for</c><00:03:06.720><c> next</c><00:03:07.040><c> year's</c><00:03:07.440><c> buying</c><00:03:07.840><c> cycle.</c>
+committees for next year's buying cycle.
+committees for next year's buying cycle.
+And<00:03:08.640><c> so</c><00:03:08.800><c> if</c><00:03:09.040><c> you're</c><00:03:09.200><c> launching</c><00:03:09.519><c> a</c><00:03:09.760><c> B2B</c><00:03:10.319><c> product</c>
+And so if you're launching a B2B product
+And so if you're launching a B2B product
+or<00:03:10.800><c> you're</c><00:03:10.959><c> launching</c><00:03:11.360><c> something</c><00:03:11.599><c> that</c><00:03:11.920><c> you</c>
+or you're launching something that you
+or you're launching something that you
+expect<00:03:12.480><c> to</c><00:03:12.800><c> sell</c><00:03:13.440><c> through</c><00:03:13.680><c> an</c><00:03:13.920><c> enterprise</c>
+expect to sell through an enterprise
+expect to sell through an enterprise
+deal<00:03:15.000><c> cycle,</c><00:03:16.000><c> May</c><00:03:16.319><c> is</c><00:03:16.480><c> a</c><00:03:16.800><c> great</c><00:03:17.040><c> spot</c><00:03:17.360><c> to</c><00:03:17.599><c> be</c><00:03:18.319><c> to</c>
+deal cycle, May is a great spot to be to
+deal cycle, May is a great spot to be to
+get<00:03:18.800><c> into</c><00:03:19.120><c> conversation</c><00:03:19.760><c> over</c><00:03:20.000><c> the</c><00:03:20.239><c> summer</c>
+get into conversation over the summer
+get into conversation over the summer
+for<00:03:20.720><c> the</c><00:03:21.239><c> 2026</c><00:03:22.239><c> budgeting</c><00:03:22.800><c> year.</c><00:03:23.680><c> And</c><00:03:23.840><c> I</c><00:03:24.080><c> know</c>
+for the 2026 budgeting year. And I know
+for the 2026 budgeting year. And I know
+2026<00:03:25.040><c> seems</c><00:03:25.360><c> really</c><00:03:25.599><c> early.</c><00:03:26.000><c> We</c><00:03:26.159><c> just</c><00:03:26.319><c> hit</c>
+2026 seems really early. We just hit
+2026 seems really early. We just hit
+spring<00:03:26.879><c> of</c><00:03:27.040><c> 2025,</c><00:03:27.920><c> but</c><00:03:28.080><c> this</c><00:03:28.239><c> is</c><00:03:28.319><c> how</c>
+spring of 2025, but this is how
+spring of 2025, but this is how
+enterprise<00:03:29.040><c> deal</c><00:03:29.360><c> cycles</c><00:03:30.319><c> actually</c><00:03:30.720><c> work.</c>
+enterprise deal cycles actually work.
+enterprise deal cycles actually work.
+And<00:03:31.840><c> so</c><00:03:32.000><c> if</c><00:03:32.239><c> you're</c><00:03:32.480><c> looking</c><00:03:33.159><c> at</c><00:03:34.159><c> this</c>
+And so if you're looking at this
+And so if you're looking at this
+particular<00:03:35.760><c> IO</c><00:03:36.239><c> and</c><00:03:36.400><c> you're</c><00:03:36.640><c> wondering</c><00:03:37.599><c> what</c>
+particular IO and you're wondering what
+particular IO and you're wondering what
+should<00:03:38.080><c> I</c><00:03:38.319><c> ask</c><00:03:38.879><c> like</c><00:03:39.120><c> what</c><00:03:39.280><c> are</c><00:03:39.440><c> the</c><00:03:39.599><c> questions</c>
+should I ask like what are the questions
+should I ask like what are the questions
+I<00:03:40.319><c> should</c><00:03:40.480><c> be</c><00:03:40.640><c> keeping</c><00:03:40.959><c> in</c><00:03:41.640><c> mind.</c><00:03:42.640><c> My</c>
+I should be keeping in mind. My
+I should be keeping in mind. My
+suggestion<00:03:43.599><c> to</c><00:03:43.879><c> you</c><00:03:44.879><c> is</c><00:03:45.200><c> that</c><00:03:45.440><c> these</c><00:03:45.840><c> five</c>
+suggestion to you is that these five
+suggestion to you is that these five
+questions<00:03:48.319><c> are</c><00:03:48.560><c> going</c><00:03:48.720><c> to</c><00:03:48.879><c> be</c><00:03:49.120><c> highly</c>
+questions are going to be highly
+questions are going to be highly
+informative.<00:03:50.239><c> If</c><00:03:50.480><c> you</c><00:03:50.720><c> ask</c><00:03:51.040><c> these</c><00:03:51.440><c> over</c><00:03:51.680><c> the</c>
+informative. If you ask these over the
+informative. If you ask these over the
+course<00:03:52.000><c> of</c><00:03:52.159><c> the</c><00:03:52.400><c> week</c><00:03:52.959><c> across</c><00:03:53.360><c> all</c><00:03:53.519><c> the</c>
+course of the week across all the
+course of the week across all the
+vendors,<00:03:54.159><c> not</c><00:03:54.319><c> just</c><00:03:54.480><c> one,</c><00:03:55.440><c> I</c><00:03:55.760><c> think</c><00:03:55.840><c> it</c><00:03:56.080><c> will</c>
+vendors, not just one, I think it will
+vendors, not just one, I think it will
+help<00:03:56.560><c> you</c><00:03:56.799><c> to</c><00:03:57.120><c> think</c><00:03:57.439><c> about</c><00:03:57.680><c> the</c><00:03:57.920><c> week</c><00:03:58.879><c> like</c><00:03:59.120><c> a</c>
+help you to think about the week like a
+help you to think about the week like a
+strategist<00:04:00.239><c> rather</c><00:04:00.640><c> than</c><00:04:00.879><c> thinking</c><00:04:01.200><c> about</c><00:04:01.439><c> it</c>
+strategist rather than thinking about it
+strategist rather than thinking about it
+like,<00:04:03.040><c> you</c><00:04:03.200><c> know,</c><00:04:03.360><c> a</c><00:04:03.599><c> rabbit</c><00:04:04.000><c> chasing</c><00:04:04.319><c> a</c><00:04:04.560><c> hair</c>
+like, you know, a rabbit chasing a hair
+like, you know, a rabbit chasing a hair
+in<00:04:04.879><c> a</c><00:04:05.120><c> race,</c><00:04:05.360><c> right?</c><00:04:05.599><c> A</c><00:04:05.760><c> news</c><00:04:06.080><c> chaser.</c><00:04:06.959><c> So</c>
+in a race, right? A news chaser. So
+in a race, right? A news chaser. So
+question<00:04:07.680><c> number</c><00:04:07.920><c> one,</c><00:04:08.879><c> where</c><00:04:09.200><c> did</c><00:04:09.360><c> a</c><00:04:09.599><c> vendor</c>
+question number one, where did a vendor
+question number one, where did a vendor
+turn<00:04:10.519><c> optional</c><00:04:11.519><c> usage</c><00:04:12.000><c> into</c><00:04:12.319><c> effectively</c><00:04:12.959><c> the</c>
+turn optional usage into effectively the
+turn optional usage into effectively the
+new<00:04:13.519><c> default?</c><00:04:14.560><c> So,</c><00:04:14.799><c> as</c><00:04:15.040><c> an</c><00:04:15.320><c> example,</c><00:04:16.320><c> when</c>
+new default? So, as an example, when
+new default? So, as an example, when
+Microsoft<00:04:17.199><c> baked</c><00:04:17.600><c> model</c><00:04:17.919><c> context</c><00:04:18.400><c> protocol</c>
+Microsoft baked model context protocol
+Microsoft baked model context protocol
+into
+into
+into
+Windows,<00:04:20.880><c> that's</c><00:04:21.199><c> not</c><00:04:21.440><c> just</c><00:04:21.680><c> a</c><00:04:21.919><c> feature</c>
+Windows, that's not just a feature
+Windows, that's not just a feature
+announcement.<00:04:23.120><c> They're</c><00:04:23.440><c> changing</c><00:04:24.000><c> what</c>
+announcement. They're changing what
+announcement. They're changing what
+happens
+happens
+happens
+automatically.<00:04:26.560><c> They're</c><00:04:26.880><c> rewriting</c><00:04:27.520><c> user</c>
+automatically. They're rewriting user
+automatically. They're rewriting user
+behavior.<00:04:28.240><c> So,</c><00:04:28.479><c> pay</c><00:04:28.639><c> attention</c><00:04:28.960><c> to</c><00:04:29.120><c> those</c>
+behavior. So, pay attention to those
+behavior. So, pay attention to those
+moments.<00:04:30.320><c> Number</c><00:04:30.759><c> two,</c><00:04:31.759><c> what</c><00:04:32.080><c> proprietary</c>
+moments. Number two, what proprietary
+moments. Number two, what proprietary
+feedback<00:04:33.639><c> loop</c><00:04:34.639><c> was</c><00:04:34.960><c> unlocked</c><00:04:35.360><c> with</c><00:04:35.600><c> a</c>
+feedback loop was unlocked with a
+feedback loop was unlocked with a
+particular<00:04:36.160><c> launch.</c><00:04:36.800><c> And</c><00:04:36.960><c> so,</c><00:04:37.120><c> it's</c><00:04:37.360><c> not</c>
+particular launch. And so, it's not
+particular launch. And so, it's not
+about<00:04:37.600><c> a</c><00:04:37.840><c> slick</c>
+about a slick
+about a slick
+demo.<00:04:39.759><c> It's</c><00:04:40.080><c> about</c><00:04:40.400><c> whether</c><00:04:40.800><c> there's</c><00:04:41.120><c> a</c><00:04:41.720><c> way</c>
+demo. It's about whether there's a way
+demo. It's about whether there's a way
+to<00:04:42.960><c> tie</c><00:04:43.440><c> that</c><00:04:43.759><c> new</c><00:04:44.000><c> agent,</c><00:04:44.639><c> that</c><00:04:44.880><c> new</c><00:04:45.199><c> SDK,</c>
+to tie that new agent, that new SDK,
+to tie that new agent, that new SDK,
+whatever<00:04:46.240><c> it</c><00:04:46.400><c> is,</c><00:04:47.280><c> to</c><00:04:47.520><c> the</c><00:04:47.759><c> most</c><00:04:48.080><c> valuable</c>
+whatever it is, to the most valuable
+whatever it is, to the most valuable
+data<00:04:50.160><c> that</c><00:04:50.560><c> a</c><00:04:51.040><c> creator</c><00:04:51.520><c> can</c><00:04:51.680><c> get</c><00:04:51.840><c> into</c><00:04:52.080><c> their</c>
+data that a creator can get into their
+data that a creator can get into their
+training<00:04:53.080><c> pipeline.</c><00:04:54.080><c> And</c><00:04:54.240><c> so</c><00:04:54.560><c> look</c><00:04:54.800><c> for</c><00:04:55.040><c> ways</c>
+training pipeline. And so look for ways
+training pipeline. And so look for ways
+these<00:04:56.880><c> model</c><00:04:57.280><c> makers</c><00:04:58.080><c> are</c><00:04:58.560><c> trying</c><00:04:59.120><c> to</c><00:04:59.360><c> build</c>
+these model makers are trying to build
+these model makers are trying to build
+feedback<00:05:00.400><c> loops</c><00:05:00.880><c> that</c><00:05:01.199><c> give</c><00:05:01.360><c> them</c><00:05:01.600><c> a</c>
+feedback loops that give them a
+feedback loops that give them a
+compounding<00:05:02.560><c> advantage.</c><00:05:04.000><c> Number</c>
+compounding advantage. Number
+compounding advantage. Number
+three,<00:05:06.080><c> which</c><00:05:07.080><c> bottleneck</c><00:05:08.080><c> is</c><00:05:08.320><c> a</c><00:05:08.560><c> keynote</c>
+three, which bottleneck is a keynote
+three, which bottleneck is a keynote
+attacking<00:05:10.080><c> and</c><00:05:10.400><c> is</c><00:05:10.639><c> that</c><00:05:10.880><c> an</c><00:05:11.360><c> a</c><00:05:11.680><c> coherent</c>
+attacking and is that an a coherent
+attacking and is that an a coherent
+attack?<00:05:12.639><c> Are</c><00:05:12.800><c> they</c><00:05:12.960><c> attacking</c><00:05:13.880><c> distribution?</c>
+attack? Are they attacking distribution?
+attack? Are they attacking distribution?
+Are<00:05:15.120><c> they</c><00:05:15.280><c> attacking</c><00:05:15.840><c> GPU</c><00:05:16.479><c> scarcity,</c><00:05:17.039><c> which</c>
+Are they attacking GPU scarcity, which
+Are they attacking GPU scarcity, which
+is<00:05:17.360><c> a</c><00:05:17.600><c> big</c><00:05:17.759><c> one</c><00:05:17.919><c> for</c>
+is a big one for
+is a big one for
+Claude?<00:05:19.759><c> Are</c><00:05:20.000><c> they</c><00:05:20.160><c> attacking</c><00:05:20.720><c> context</c>
+Claude? Are they attacking context
+Claude? Are they attacking context
+fragmentation?<00:05:22.479><c> There's</c><00:05:22.720><c> a</c><00:05:22.960><c> few</c><00:05:23.120><c> others.</c><00:05:24.080><c> And</c>
+fragmentation? There's a few others. And
+fragmentation? There's a few others. And
+then<00:05:24.560><c> look</c><00:05:24.960><c> at</c><00:05:25.199><c> whether</c><00:05:25.440><c> they're</c><00:05:25.759><c> actually</c>
+then look at whether they're actually
+then look at whether they're actually
+able<00:05:26.320><c> to</c><00:05:26.560><c> attack</c><00:05:26.960><c> that</c><00:05:27.280><c> bottleneck</c>
+able to attack that bottleneck
+able to attack that bottleneck
+strategically<00:05:29.199><c> and</c><00:05:29.639><c> coherently.</c><00:05:30.639><c> and</c><00:05:31.039><c> look</c>
+strategically and coherently. and look
+strategically and coherently. and look
+at<00:05:32.240><c> whether</c><00:05:32.560><c> that</c><00:05:32.800><c> is</c><00:05:32.960><c> the</c><00:05:33.199><c> right</c><00:05:33.520><c> bottleneck</c>
+at whether that is the right bottleneck
+at whether that is the right bottleneck
+for<00:05:34.240><c> that</c><00:05:34.400><c> company.</c><00:05:34.800><c> And</c><00:05:34.960><c> I'm</c><00:05:35.120><c> going</c><00:05:35.199><c> to</c><00:05:35.360><c> be</c>
+for that company. And I'm going to be
+for that company. And I'm going to be
+thinking<00:05:35.759><c> about</c><00:05:35.919><c> these</c><00:05:36.320><c> too.</c><00:05:36.639><c> So</c><00:05:36.880><c> like</c><00:05:37.120><c> I</c><00:05:37.360><c> will</c>
+thinking about these too. So like I will
+thinking about these too. So like I will
+probably<00:05:37.840><c> also</c><00:05:38.240><c> be</c><00:05:38.400><c> coming</c><00:05:38.639><c> back</c><00:05:38.800><c> throughout</c>
+probably also be coming back throughout
+probably also be coming back throughout
+the<00:05:39.280><c> week</c><00:05:39.440><c> and</c><00:05:39.759><c> talking</c><00:05:40.080><c> about</c><00:05:40.759><c> this.</c><00:05:41.759><c> Number</c>
+the week and talking about this. Number
+the week and talking about this. Number
+four,<00:05:43.039><c> just</c><00:05:43.280><c> from</c><00:05:43.440><c> a</c><00:05:43.680><c> building</c><00:05:44.120><c> perspective,</c>
+four, just from a building perspective,
+four, just from a building perspective,
+are<00:05:45.360><c> there</c><00:05:45.600><c> new</c><00:05:45.919><c> ways</c><00:05:46.639><c> that</c><00:05:47.039><c> developers</c><00:05:47.840><c> can</c>
+are there new ways that developers can
+are there new ways that developers can
+get<00:05:48.160><c> in</c><00:05:48.400><c> and</c><00:05:48.639><c> very</c><00:05:49.039><c> quickly</c><00:05:49.440><c> build</c><00:05:50.240><c> on</c><00:05:50.560><c> a</c>
+get in and very quickly build on a
+get in and very quickly build on a
+particular<00:05:51.199><c> announcement?</c><00:05:52.479><c> You</c><00:05:52.720><c> may</c><00:05:52.880><c> not</c><00:05:53.120><c> be</c>
+particular announcement? You may not be
+particular announcement? You may not be
+a<00:05:53.720><c> developer,</c><00:05:54.720><c> but</c><00:05:55.440><c> is</c><00:05:55.759><c> this</c><00:05:56.080><c> something</c><00:05:56.479><c> that</c>
+a developer, but is this something that
+a developer, but is this something that
+is<00:05:57.199><c> easy</c><00:05:57.759><c> for</c><00:05:58.080><c> two</c><00:05:58.479><c> people</c><00:05:58.800><c> in</c><00:05:59.039><c> a</c><00:05:59.280><c> coffee</c><00:05:59.600><c> shop</c>
+is easy for two people in a coffee shop
+is easy for two people in a coffee shop
+in<00:06:00.080><c> San</c><00:06:00.320><c> Francisco</c><00:06:00.880><c> to</c><00:06:01.120><c> build</c><00:06:01.440><c> into</c><00:06:01.840><c> something</c>
+in San Francisco to build into something
+in San Francisco to build into something
+useful?<00:06:04.000><c> And</c><00:06:04.240><c> that</c><00:06:04.560><c> matters</c><00:06:05.440><c> because</c><00:06:05.759><c> if</c>
+useful? And that matters because if
+useful? And that matters because if
+you're<00:06:06.240><c> able</c><00:06:06.479><c> to</c><00:06:06.639><c> seed</c><00:06:06.960><c> an</c><00:06:07.199><c> ecosystem</c><00:06:07.759><c> like</c>
+you're able to seed an ecosystem like
+you're able to seed an ecosystem like
+that,<00:06:08.319><c> you</c><00:06:08.479><c> are</c><00:06:08.639><c> more</c><00:06:08.880><c> likely</c><00:06:09.199><c> to</c><00:06:09.360><c> become</c><00:06:09.680><c> the</c>
+that, you are more likely to become the
+that, you are more likely to become the
+default<00:06:10.319><c> go-to.</c><00:06:10.720><c> And</c><00:06:10.880><c> that's</c><00:06:11.039><c> one</c><00:06:11.199><c> of</c><00:06:11.280><c> the</c>
+default go-to. And that's one of the
+default go-to. And that's one of the
+long-term<00:06:11.919><c> plays</c><00:06:12.319><c> model</c><00:06:12.639><c> makers</c><00:06:13.039><c> look</c><00:06:13.319><c> at.</c>
+long-term plays model makers look at.
+long-term plays model makers look at.
+And<00:06:14.479><c> then</c><00:06:14.720><c> number</c><00:06:15.080><c> five,</c><00:06:16.080><c> is</c><00:06:16.319><c> there</c><00:06:16.479><c> a</c><00:06:16.720><c> price</c>
+And then number five, is there a price
+And then number five, is there a price
+or<00:06:17.199><c> capacity</c><00:06:17.840><c> threshold</c><00:06:18.800><c> that</c><00:06:19.120><c> quietly</c><00:06:19.600><c> got</c>
+or capacity threshold that quietly got
+or capacity threshold that quietly got
+flipped?<00:06:21.360><c> So,</c><00:06:21.600><c> is</c><00:06:21.759><c> there</c><00:06:21.840><c> a</c><00:06:22.080><c> token</c><00:06:22.400><c> price</c><00:06:22.720><c> that</c>
+flipped? So, is there a token price that
+flipped? So, is there a token price that
+fell<00:06:23.520><c> below</c><00:06:24.080><c> current</c><00:06:24.479><c> cost</c><00:06:24.720><c> to</c><00:06:25.240><c> serve?</c><00:06:26.240><c> Is</c>
+fell below current cost to serve? Is
+fell below current cost to serve? Is
+there<00:06:26.639><c> a</c><00:06:26.800><c> public</c><00:06:27.120><c> guarantee</c><00:06:27.680><c> of</c><00:06:28.319><c> uh</c><00:06:28.560><c> say</c>
+there a public guarantee of uh say
+there a public guarantee of uh say
+Blackwell<00:06:29.520><c> GPU</c>
+Blackwell GPU
+Blackwell GPU
+capacity?<00:06:31.840><c> Um</c>
+capacity? Um
+capacity? Um
+or<00:06:34.479><c> is</c><00:06:34.800><c> it</c><00:06:35.440><c> no</c><00:06:35.759><c> hard</c><00:06:36.080><c> numbers,</c><00:06:36.960><c> no</c><00:06:37.360><c> defined</c>
+or is it no hard numbers, no defined
+or is it no hard numbers, no defined
+context<00:06:38.400><c> size,</c><00:06:38.880><c> no</c><00:06:39.120><c> reserve</c><00:06:39.520><c> compute,</c><00:06:40.000><c> all</c>
+context size, no reserve compute, all
+context size, no reserve compute, all
+handwavy?<00:06:41.759><c> You</c><00:06:42.000><c> want</c><00:06:42.160><c> to</c><00:06:42.319><c> look</c><00:06:42.479><c> for</c><00:06:42.639><c> the</c>
+handwavy? You want to look for the
+handwavy? You want to look for the
+places<00:06:43.199><c> where</c><00:06:43.520><c> they're</c><00:06:43.759><c> actually</c><00:06:44.000><c> announcing</c>
+places where they're actually announcing
+places where they're actually announcing
+specific<00:06:45.120><c> pricing</c><00:06:45.520><c> changes</c><00:06:45.919><c> or</c><00:06:46.240><c> capacity</c>
+specific pricing changes or capacity
+specific pricing changes or capacity
+thresholds<00:06:48.000><c> that</c><00:06:48.600><c> are</c><00:06:49.600><c> going</c><00:06:50.240><c> to</c><00:06:50.720><c> change</c><00:06:51.120><c> the</c>
+thresholds that are going to change the
+thresholds that are going to change the
+strategic<00:06:52.000><c> picture</c><00:06:52.479><c> because</c><00:06:52.800><c> they</c><00:06:53.199><c> reset</c><00:06:53.680><c> the</c>
+strategic picture because they reset the
+strategic picture because they reset the
+unit<00:06:54.240><c> economics</c><00:06:54.800><c> of</c><00:06:55.039><c> the</c><00:06:55.280><c> space.</c><00:06:56.000><c> Google</c>
+unit economics of the space. Google
+unit economics of the space. Google
+loves<00:06:56.639><c> to</c><00:06:56.880><c> do</c><00:06:56.960><c> this.</c><00:06:57.280><c> I</c><00:06:57.520><c> would</c><00:06:57.680><c> not</c><00:06:57.840><c> be</c>
+loves to do this. I would not be
+loves to do this. I would not be
+surprised<00:06:58.319><c> to</c><00:06:58.560><c> see</c><00:06:58.720><c> Google</c><00:06:59.039><c> lean</c><00:06:59.360><c> in</c><00:06:59.520><c> here,</c>
+surprised to see Google lean in here,
+surprised to see Google lean in here,
+but<00:07:00.400><c> they're</c><00:07:00.639><c> not</c><00:07:00.800><c> the</c><00:07:01.039><c> only</c><00:07:01.199><c> ones</c><00:07:01.440><c> that</c><00:07:01.680><c> play</c>
+but they're not the only ones that play
+but they're not the only ones that play
+at
+at
+at
+this.<00:07:03.960><c> So,</c><00:07:04.960><c> netnet,</c><00:07:05.840><c> that's</c><00:07:06.080><c> what</c><00:07:06.240><c> I'm</c>
+this. So, netnet, that's what I'm
+this. So, netnet, that's what I'm
+looking<00:07:06.560><c> at.</c><00:07:06.800><c> I'm</c><00:07:07.039><c> looking</c><00:07:07.280><c> at</c><00:07:07.599><c> how</c><00:07:07.840><c> you</c><00:07:08.000><c> can</c>
+looking at. I'm looking at how you can
+looking at. I'm looking at how you can
+build<00:07:08.400><c> new</c><00:07:08.639><c> defaults.</c><00:07:09.280><c> I'm</c><00:07:09.520><c> looking</c><00:07:09.680><c> at</c>
+build new defaults. I'm looking at
+build new defaults. I'm looking at
+feedback<00:07:10.319><c> loops.</c><00:07:10.720><c> I'm</c><00:07:10.880><c> looking</c><00:07:11.039><c> at</c>
+feedback loops. I'm looking at
+feedback loops. I'm looking at
+bottlenecks.<00:07:12.560><c> I'm</c><00:07:12.800><c> looking</c><00:07:12.960><c> at</c><00:07:13.199><c> how</c><00:07:13.440><c> you</c><00:07:13.680><c> can</c>
+bottlenecks. I'm looking at how you can
+bottlenecks. I'm looking at how you can
+think<00:07:14.080><c> about</c><00:07:14.880><c> building</c><00:07:15.400><c> easily.</c><00:07:16.400><c> And</c><00:07:16.560><c> I'm</c>
+think about building easily. And I'm
+think about building easily. And I'm
+looking<00:07:17.199><c> at</c><00:07:17.680><c> price</c><00:07:18.000><c> and</c><00:07:18.240><c> capacity</c><00:07:18.720><c> thresholds</c>
+looking at price and capacity thresholds
+looking at price and capacity thresholds
+and<00:07:19.440><c> how</c><00:07:19.680><c> those</c><00:07:20.360><c> change.</c><00:07:21.360><c> I</c><00:07:21.599><c> think</c><00:07:21.680><c> that's</c><00:07:21.919><c> a</c>
+and how those change. I think that's a
+and how those change. I think that's a
+pretty<00:07:22.319><c> strategic</c><00:07:22.800><c> lens.</c><00:07:23.520><c> I'm</c><00:07:23.840><c> going</c><00:07:24.000><c> to</c>
+pretty strategic lens. I'm going to
+pretty strategic lens. I'm going to
+withhold<00:07:24.479><c> a</c><00:07:24.639><c> lot</c><00:07:24.720><c> of</c><00:07:24.880><c> judgment</c><00:07:25.199><c> on</c><00:07:25.360><c> how</c><00:07:25.520><c> the</c>
+withhold a lot of judgment on how the
+withhold a lot of judgment on how the
+week<00:07:25.919><c> goes</c><00:07:26.240><c> until</c><00:07:26.800><c> we</c><00:07:27.039><c> see</c><00:07:27.199><c> how</c><00:07:27.440><c> everybody</c>
+week goes until we see how everybody
+week goes until we see how everybody
+shows<00:07:28.160><c> up,</c><00:07:28.400><c> right?</c><00:07:28.639><c> It's</c><00:07:28.800><c> kind</c><00:07:28.960><c> of</c><00:07:29.039><c> like</c><00:07:29.919><c> uh</c>
+shows up, right? It's kind of like uh
+shows up, right? It's kind of like uh
+the<00:07:30.800><c> uh</c><00:07:31.039><c> NFL</c><00:07:31.440><c> or</c><00:07:31.680><c> NBA</c><00:07:32.080><c> drafts.</c><00:07:32.479><c> You</c><00:07:32.639><c> have</c><00:07:32.720><c> to</c>
+the uh NFL or NBA drafts. You have to
+the uh NFL or NBA drafts. You have to
+see<00:07:33.039><c> who</c><00:07:33.199><c> gets</c><00:07:33.440><c> picked</c><00:07:33.759><c> until</c><00:07:34.080><c> the</c><00:07:34.280><c> end</c><00:07:35.280><c> and</c>
+see who gets picked until the end and
+see who gets picked until the end and
+then<00:07:35.680><c> you</c><00:07:35.840><c> make</c><00:07:35.919><c> an</c><00:07:36.080><c> assessment</c><00:07:36.400><c> on</c><00:07:36.560><c> the</c>
+then you make an assessment on the
+then you make an assessment on the
+quality<00:07:36.960><c> of</c><00:07:37.039><c> the</c><00:07:37.199><c> draft</c><00:07:37.440><c> class.</c><00:07:37.840><c> In</c><00:07:38.000><c> the</c><00:07:38.160><c> same</c>
+quality of the draft class. In the same
+quality of the draft class. In the same
+way,<00:07:38.400><c> you</c><00:07:38.560><c> kind</c><00:07:38.639><c> of</c><00:07:38.720><c> got</c><00:07:38.880><c> to</c><00:07:38.960><c> wait</c><00:07:39.120><c> until</c><00:07:39.360><c> the</c>
+way, you kind of got to wait until the
+way, you kind of got to wait until the
+end<00:07:39.520><c> of</c><00:07:39.599><c> the</c><00:07:39.680><c> week</c><00:07:39.840><c> and</c><00:07:40.000><c> then</c><00:07:40.160><c> you</c><00:07:40.240><c> can</c><00:07:40.400><c> make</c><00:07:40.479><c> an</c>
+end of the week and then you can make an
+end of the week and then you can make an
+assessment<00:07:41.039><c> on,</c><00:07:41.360><c> so</c><00:07:41.520><c> to</c><00:07:41.680><c> speak,</c><00:07:42.160><c> who</c><00:07:42.479><c> won</c><00:07:42.720><c> this</c>
+assessment on, so to speak, who won this
+assessment on, so to speak, who won this
+week.<00:07:43.520><c> But</c><00:07:44.240><c> this</c><00:07:44.479><c> is</c><00:07:44.639><c> why</c><00:07:44.880><c> this</c><00:07:45.120><c> is</c><00:07:45.280><c> such</c><00:07:45.440><c> a</c><00:07:45.599><c> big</c>
+week. But this is why this is such a big
+week. But this is why this is such a big
+week.<00:07:46.000><c> This</c><00:07:46.160><c> is</c><00:07:46.240><c> why</c><00:07:46.400><c> this</c><00:07:46.639><c> is</c><00:07:46.800><c> super</c><00:07:47.120><c> week</c><00:07:47.280><c> for</c>
+week. This is why this is super week for
+week. This is why this is super week for
+AI.<00:07:48.160><c> I</c><00:07:48.400><c> hope</c><00:07:48.560><c> you</c><00:07:48.800><c> enjoyed</c><00:07:49.039><c> the</c><00:07:49.280><c> context</c><00:07:49.680><c> and</c>
+AI. I hope you enjoyed the context and
+AI. I hope you enjoyed the context and
+uh<00:07:50.479><c> have</c><00:07:50.639><c> a</c><00:07:50.800><c> good</c><00:07:51.120><c> AI</c><00:07:51.599><c> super</c>

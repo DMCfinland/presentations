@@ -1,0 +1,231 @@
+Tässä projektimme nykytila:
+
+Keskusteluni aikaisemman neuvonantajani kanssa.
+
+Meillä on tiimissämme vielä 1 Gemini blueprintejen rakentaja (jonka nykyinen keskustelu myös liitteenä)
+
+Tee kattava yhteenveto projektistamme ja sen nykytilasta. Tarkoituksena luoda pian onboarding materiaalia projektiimme tuodaksemme toisen arkkitehdin mukaan.
+
+Tämä on erinomainen idea. Uuden arkkitehdin tuominen projektiin, joka on rakennettu modernilla Agentic Workflow -mallilla, vaatii selkeän ja rehellisen tilannekuvan. Hänen täytyy ymmärtää paitsi teknologia, myös filosofia sen takana (Blueprint-vetoinen kehitys).
+
+Tässä on kattava Onboarding-paketti, jonka voit antaa uudelle arkkitehdille. Se tiivistää projektin vision, teknisen rakenteen ja tarkan nykytilan.
+
+🏨 FinnConcierge – Architectural Onboarding & Status Report
+
+Päivämäärä: 11.12.2025 Vaihe: Vertical Slice Mock MVP (Valmis) → Full Scale Implementation (Alkava) Stack: Azure Serverless (Python), Next.js 15 PWA, Azure OpenAI, Event Grid, Cosmos DB/SQL.
+
+1. Executive Summary: Mikä tämä on?
+
+FinnConcierge on hyper-personoitu, kitkaton vieraanvaraisuusalusta (Hospitality AI), joka on suunniteltu palvelemaan matkailijoita (esim. Järvisydän, KonTiki) ilman sovelluskauppa-asennuksia tai salasanoja.
+
+Ydinfilosofia:
+
+1.  Zero Friction: Sisäänkirjautuminen "Magic Linkillä" suoraan varausvahvistuksesta.
+
+2.  Agentic AI: Emme rakenna chatbotia, vaan Agenttien verkoston. Järjestelmässä on "Psykologi", "Kokki", "Kirjastonhoitaja" ja "Kirjanpitäjä", jotka keskustelevat keskenään palvellakseen asiakasta.
+
+3.  Data First: "Scrape First, Negotiate Later". Rakennamme oman tietokannan kaikesta alueen tarjonnasta RAG-järjestelmään.
+
+2. Arkkitehtuuri: "The Agentic Mesh"
+
+Järjestelmä ei ole monoliitti eikä perinteinen mikropalveluarkkitehtuuri, vaan tapahtumapohjainen Agentti-orkestraatio.
+
+Keskeiset komponentit (Blueprintit):
+
+1.  Ingestion Service (BP_01):
+
+    - Ottaa vastaan varausdatan (Webhook).
+
+    - Luo digitaalisen identiteetin ja Magic Linkin.
+
+    - Toimii järjestelmän "suuna".
+
+2.  Master Agent (BP_02 - "Aivot"):
+
+    - Orkestroi kaikkea liikennettä.
+
+    - Ylläpitää kontekstia (ContextBackpack).
+
+    - Delegoi tehtävät alihankkija-agenteille (Tools).
+
+    - Päättää, milloin tarvitaan ihminen (Handover).
+
+3.  Mood Evaluator (BP_03 - "Psykologi"):
+
+    - Analysoi jokaisen käyttäjän viestin taustalla.
+
+    - Päivittää 7-ulotteista MoodMatrix-profiilia (esim. Energy, Luxury, Safety).
+
+    - Ei vastaa käyttäjälle, vaan kuiskaa Master Agentin korvaan.
+
+4.  Chef Agent (BP_04 - "Suosittelija"):
+
+    - Tekee tuotesuosituksia perustuen Mood Matrixiin.
+
+    - Esim. Jos Energy > 80, suosittelee revontulivaellusta. Jos Luxury > 80, suosittelee yksityiskokkia.
+
+5.  RAG Librarian (BP_05 - "Kirjastonhoitaja"):
+
+    - Vastaa faktakysymyksiin (aukioloajat, säännöt) hakemalla tietoa vektoritietokannasta.
+
+6.  Shadow Ledger (BP_07 - "Kirjanpitäjä"):
+
+    - Kirjaa kaikki transaktiot ja laskee provisiot (Shadow Accounting), vaikka varsinainen maksu tapahtuisi kolmannessa osapuolessa.
+
+7.  Traveler PWA (BP_11 - "Käyttöliittymä"):
+
+    - Next.js 15 sovellus.
+
+    - "Kameleontti": Mukautuu dynaamisesti brändiin (Tenant Config).
+
+3. Nykytila: Missä mennään?
+
+Olemme saavuttaneet "Vertical Slice Mock MVP" -tilan. Tämä tarkoittaa, että meillä on ohut, mutta toimiva siivu koko järjestelmän läpi, backendistä frontendiin.
+
+✅ Valmiina (Koodattu & Testattu):
+
+- Agent Flow: Master Agent osaa kutsua Mood Evaluatoria, Chefiä ja Librariania. Ketju toimii.
+
+- Logiikka (Mock): Kaikki päätöksentekologiikka (reititys, profilointi, suosittelu) on koodattu Pythonilla ja testattu (100% coverage).
+
+  - Huom: "Mock" tarkoittaa tässä sitä, että emme vielä tee oikeita kalliita OpenAI-kutsuja, vaan simuloimme älyn avainsanoilla testeissä. Rakenne on kuitenkin valmis LLM-kytkentään.
+
+- Data Layer: Shadow Ledgerin runko ja Ingestion-palvelun webhook-logiikka on valmis.
+
+- Frontend: Next.js-projektin runko ja chat-käyttöliittymä (PWA) on pystytetty.
+
+🚧 Kesken / Seuraavaksi:
+
+- Blueprints: BP_06 (Booker), BP_08 (Communication), BP_09 (Watchdog) ja BP_10 (Infra) odottavat speksausta.
+
+- LLM Integraatio: Funktiot ovat olemassa (evaluate_with_llm), mutta ne ovat vielä TODO-tilassa. Ne pitää kytkeä Azure OpenAI:hin.
+
+- Oikea Database: Koodi käyttää nyt in-memory/mock -tietokantoja. Seuraava askel on kytkeä ne Azure SQL:ään ja Cosmos DB:hen.
+
+4. Kehitysmetodologia: "Blueprint Driven Development"
+
+Tämä on kriittistä ymmärtää. Emme koodaa mitään ilman Blueprintiä.
+
+1.  Arkkitehti (Sinä/Gemini): Luo .md -muotoisen Blueprintin (esim. 06_BOOKER.md), joka määrittelee logiikan, datakontraktit ja rajapinnat.
+
+2.  Code Agent (Cursor): Lukee Blueprintin ja implementoi sen koodiksi automaattisesti.
+
+3.  Ministep Harness: Tulemme pilkkomaan projektin 400–1000 pieneen tehtävään ("ministeppiin"), jotka AI-agentti suorittaa itsenäisesti.
+
+5. Tehtäväsi (New Architect)
+
+1.  Review: Käy läpi kansio docs/blueprints/. Hyväksytkö nykyiset määritelmät?
+
+2.  Finalize: Auta viimeistelemään puuttuvat Blueprintit (erityisesti Infra & Security BP_10).
+
+3.  Transition: Valvo siirtymää Mock-tilasta Tuotantotilaan (oikeat tietokannat ja LLM-yhteydet).
+
+Tervetuloa tiimiin. Perusta on valettu, nyt aletaan rakentaa kerroksia.
+
+Kyllä! Projektimme: olemme rakentamassa full stack SaaS liiketoimintaa agentic AI personal matkaopas palveluun joka toimii matkailussa kattavana concierge OTA kanava. Olemme tehneet 250sivuisen melko kattavan ideointi vaiheen(monia ideoita ei jalostettu) + 4sivuisen mastedMD:n --> joista olemme tehneet Master_Map RAG tyylisen kartta paperin. Master_Mapin ja muun materiaalin pohjalta meidän on tarkoitus tehdä 10-50 blueprintiä. Teimme alkuun n.6blueprintiä jotka annoimme cursorille tavoitteenamme testata nämä Vertical Slide Mock MVP tyylisesti jossa tarkoituksena testata IT arkitehtuurimme keskeiset yhteydet ja niiden logiikan toimivuus. Cursor valmistui juuri testistä ja nyt sille tulisi tuottaa uusi testi ja päätellä olemmeko oikeilla jäljillä. Tämän testin jälkeen tulisi luoda loput blueprintit ja päivittää Master_Map mikäli tarvetta. Blueprintien valmistumisen ja Master_Map:in valmistumisen jälkeen olisi tarkoitus aloittaa AI agentic coding vaide. Olimme ajatelleet käyttää antrophic coding harness maista rakennetta jossa annamme Initializerille Master_Map:in ja blueprintit ja hän suorittaa vaihe1:n jossa luo 4artifaktia projektille ml yhden jossa koko koodaus projekti on jaoteltu 400-1000n microtaskiin. Ajatuksenamme oli tehdä tämä cursorissa mutta parempaakin Agentic AI tapaa voi ehdottaa. Initializerin saatua valmiiksi 1000microtaskin suunnittelu se hyväksyttää coodaus suunnitelman meillä ja kysyy lupaa siirtyä seuraavaan vaiheeseen. Vaiheessa 2 initilizer ´´käynnistää``agetinc swarmin jossa tiimi: Subboss agent (tehtävä: Tarkistaa taski&lukea tarvitava materiaali, luoda koodari jolle antaa promtin ja testata kriittisesti hänen tuotoksiaan reiteroiden kunnes koodi on täydellistä ja toimivaa. Suoritetut mircotaskit varastoidaan. Lopussa suoritamme testit ja katsomme saimmeko toimivan koodin valmiiksi. Haluan että Initializerin contexi ikkuna ei kuormitu liikaa ja että se hyödyntää useampia subboss coding tiimejä rinakkain. Initializerin tai CTO agentin tulisi seurata code stackin kehittymistä ja raportoida minulle kun koko koodi on valmis TAI tarvitaan apua.
+
+Suunnitelmanne on erittäin ammattimainen ja noudattaa modernia "Agentic Software Development" -paradigmaa (vrt. Devin, OpenDevin, AutoGPT). "Vertical Slice" -testaus (kapea siivu läpi koko stackin) on juuri oikea tapa validoida arkkitehtuuri ennen massiivista skaalausta.
+
+Tässä on ehdotukseni seuraaviksi askeleiksi ja konkreettinen toimintamalli (Promptit ja Arkkitehtuuri), jolla viette projektin Mock-vaiheesta tuotantokoodaukseen.
+
+Vaihe 1: Vertical Slice Mockin Analyysi (Nyt heti)
+
+Ennen kuin luotte 40 blueprintiä lisää, teidän on validoitava, kestääkö nykyinen logiikka. Cursor on juuri suorittanut testit. Nyt tarvitset "Tilintarkastajan" (Auditor Agent).
+
+Syötä tämä prompti Cursorille (uuteen tai nykyiseen chattiin kontekstin kanssa):
+
+Role: Senior System Architect & Auditor.
+
+Context: We just finished the "Vertical Slice Mock MVP" test for the FinnConcierge SaaS. The goal was to validate the core architectural connections (Ingestion -> Master Agent -> Sub-agents -> Ledger -> UI) using mock data.
+
+Task: Analyze the test results and the current codebase state criticaly. Answer these questions to determine if we are ready for the "Scale Up" phase:
+
+1.  Connectivity: Did the agents pass context (Mood Matrix, User ID) correctly without losing state?
+
+2.  Data Flow: Was the Shadow Ledger able to capture the transaction trigger from the Booking Agent correctly?
+
+3.  Bottlenecks: Based on the mock logic, where do you foresee the biggest friction point when we switch to real LLM calls (latency/cost)?
+
+4.  Blueprint Validity: Which parts of the current 6 blueprints were ignored or hacked to make the test pass?
+
+Output: A "Go/No-Go" recommendation and a list of required architectural fixes before generating the remaining Blueprints.
+
+Vaihe 2: Blueprintien Skaalaus & Master_Map Päivitys
+
+Jos analyysi on "Go" (tai korjausten jälkeen), teidän on luotava loput Blueprintit. Älä tee tätä manuaalisesti. Käytä Generator Agentia.
+
+- Strategia: Jaa 50 blueprintiä loogisiin ryppäisiin (esim. "Payment Integrations", "Content RAG Pipelines", "User Profiles").
+
+- Prompti: "Tässä on Master_Map ja esimerkki hyvästä Blueprintistä (BP_01). Generoi nyt Blueprintit BP_10 - BP_15, jotka käsittelevät [Aihealue]."
+
+Tämän jälkeen päivittäkää MASTER_MAP.md vastaamaan uusia blueprintejä. Tämä on "Totuuden lähde" Initializerille.
+
+Vaihe 3: The Agentic Coding Harness (Toteutus)
+
+Tämä on kriittisin vaihe. Ajatuksenne 1000 mikrotaskin "Harnessista" on erinomainen, mutta Cursorin chat-ikkuna ei yksinään riitä hallitsemaan 1000 taskin tilaa luotettavasti (context window täyttyy, ja se alkaa hallusinoida tai unohtaa vanhoja taskeja).
+
+Suosittelen rakentamaan Custom Python CLI Harnessin, jota ajetaan Cursorin terminaalissa (tai pilvessä). Cursor (Composer) voi kirjoittaa tämän Harnessin teille.
+
+Ehdotettu Harness-arkkitehtuuri
+
+Tässä on parannettu versio suunnitelmastanne:
+
+1. The Initializer (Architect Agent)
+
+- Input: MASTER_MAP.md, Kaikki Blueprintit.
+
+- Output: TASKS.json. Tämä on strukturoitu lista, ei pelkkä teksti.
+
+  - Rakenne: { "id": "TASK-001", "dependency": null, "description": "Create SQL schema for Users", "verification_criteria": "Table exists with columns..." }
+
+- Rooli: Pilkkoo työn DAG (Directed Acyclic Graph) -muotoon, jotta riippumattomat taskit voidaan tehdä rinnakkain.
+
+2. The Orchestrator (CTO Agent - Python Script)
+
+- Tämä ei ole LLM, vaan Python-skripti, joka pyörittää looppia.
+
+- Se lukee TASKS.json-tiedostoa.
+
+- Se hallitsee tilaa: Mitkä taskit ovat TODO, IN_PROGRESS, DONE, FAILED.
+
+- Se pitää huolen, ettei kontekstiylivuotoa tapahdu (lähettää Sub-bossille vain kyseisen taskin kannalta relevantit tiedostot).
+
+3. The Swarm (Sub-boss + Coder Pairs) Tämä on varsinainen työntekijäyksikkö. Orchestrator käynnistää näitä tarpeen mukaan (vaikka 5 rinnakkain).
+
+- Sub-boss (QA/Specifier):
+
+  - Saa taskin Orchestratorilta.
+
+  - Lukee Blueprintin ja Master_Mapin.
+
+  - Kirjoittaa tarkan "Specin" koodarille (Prompt Engineering).
+
+  - Kriittinen vaihe: Kun koodari palauttaa koodin, Sub-boss ajaa testit. Jos testi epäonnistuu, se antaa virheilmoituksen koodarille ja pakottaa loopin, kunnes testi menee läpi.
+
+- Coder (Implementation):
+
+  - Kirjoittaa koodin. Ei välitä isosta kuvasta, vain taskista.
+
+Miten toteutatte tämän Cursorissa?
+
+Ette käytä Cursoria itse koodaavana agenttina 1000 taskille (chatissa), vaan käytätte Cursoria rakentamaan tämän Harness-järjestelmän.
+
+1.  Pyydä Cursoria rakentamaan initializer.py: "Lue Master_Map ja luo Python-skripti, joka generoi 500 mikrotaskia JSON-muodossa Claude 3.5 Sonnet API:n avulla."
+
+2.  Pyydä Cursoria rakentamaan orchestrator.py: "Lue JSON-taskit ja suorita ne yksitellen. Jokaista taskia varten, kutsu uutta Agent-instanssia (API:n kautta), joka kirjoittaa tiedostot levylle."
+
+3.  Aja Harness terminaalissa: python orchestrator.py.
+
+Miksi tämä tapa on parempi?
+
+- Ikuinen muisti: Taskien tila on levyllä (JSON/SQLite), ei chat-historiassa.
+
+- Rinnakkaisajo: Python-skripti voi pyörittää 10 agenttia samaan aikaan (eri threadeissa).
+
+- Hinta & Nopeus: API-kutsut ovat nopeampia ja halvempia kuin Cursorin GUI:n kautta "chattaaminen" 1000 kertaa.
+
+Yhteenveto: Oletteko oikeilla jäljillä?
+
+Kyllä. Teillä on selkeä visio ja oikea arkkitehtuuri.
+
+Suositeltu korjausliike: Älkää yrittäkö ajaa 1000 taskin vaihetta manuaalisesti Cursorin chat-ikkunassa ("Chat-driven development"). Käyttäkää Cursoria rakentamaan automaatio-skripti (Harness), joka hoitaa varsinaisen massakoodauksen API-rajapintojen yli. Tämä säästää hermoja ja varmistaa, että projekti valmistuu ennen kuin konteksti-ikkuna räjähtää.

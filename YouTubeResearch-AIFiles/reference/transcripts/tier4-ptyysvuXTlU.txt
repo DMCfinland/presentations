@@ -1,0 +1,736 @@
+It<00:00:00.320><c> is</c><00:00:00.480><c> cold,</c><00:00:00.960><c> it</c><00:00:01.120><c> is</c><00:00:01.280><c> rainy,</c><00:00:01.760><c> it</c><00:00:01.920><c> is</c><00:00:02.159><c> dark</c>
+It is cold, it is rainy, it is dark
+It is cold, it is rainy, it is dark
+outside<00:00:03.280><c> and</c><00:00:03.520><c> we</c><00:00:03.679><c> are</c><00:00:03.840><c> going</c><00:00:04.000><c> to</c><00:00:04.080><c> talk</c><00:00:04.400><c> about</c>
+outside and we are going to talk about
+outside and we are going to talk about
+distribution<00:00:05.600><c> and</c><00:00:05.920><c> why</c><00:00:06.160><c> distribution</c>
+distribution and why distribution
+distribution and why distribution
+matters<00:00:07.359><c> more</c><00:00:07.600><c> than</c><00:00:07.839><c> AI.</c><00:00:08.400><c> So</c><00:00:08.639><c> just</c><00:00:08.880><c> get</c>
+matters more than AI. So just get
+matters more than AI. So just get
+excited,<00:00:09.760><c> get</c><00:00:10.000><c> the</c><00:00:10.160><c> cocoa</c><00:00:10.559><c> or</c><00:00:10.800><c> if</c><00:00:10.880><c> you're</c><00:00:10.960><c> in</c><00:00:11.120><c> a</c>
+excited, get the cocoa or if you're in a
+excited, get the cocoa or if you're in a
+hot<00:00:11.440><c> place,</c><00:00:11.679><c> I</c><00:00:11.840><c> don't</c><00:00:11.840><c> know,</c><00:00:12.080><c> get</c><00:00:12.160><c> an</c><00:00:12.320><c> ice</c>
+hot place, I don't know, get an ice
+hot place, I don't know, get an ice
+coffee.<00:00:13.480><c> It's</c><00:00:14.480><c> coming</c><00:00:14.799><c> from</c><00:00:15.679><c> a</c><00:00:16.160><c> long-term</c>
+coffee. It's coming from a long-term
+coffee. It's coming from a long-term
+perspective<00:00:17.440><c> that</c><00:00:17.760><c> I've</c><00:00:18.000><c> shared</c><00:00:18.320><c> here</c><00:00:18.560><c> that</c>
+perspective that I've shared here that
+perspective that I've shared here that
+other<00:00:19.039><c> people</c><00:00:19.199><c> have</c><00:00:19.439><c> noticed</c><00:00:19.920><c> that</c>
+other people have noticed that
+other people have noticed that
+distribution<00:00:20.800><c> is</c><00:00:21.039><c> something</c><00:00:21.199><c> that</c><00:00:21.439><c> is</c><00:00:21.680><c> not</c>
+distribution is something that is not
+distribution is something that is not
+getting<00:00:22.320><c> disrupted</c><00:00:23.039><c> by</c><00:00:23.439><c> AI</c><00:00:24.080><c> the</c><00:00:24.400><c> way</c><00:00:24.480><c> a</c><00:00:24.720><c> lot</c><00:00:24.880><c> of</c>
+getting disrupted by AI the way a lot of
+getting disrupted by AI the way a lot of
+the<00:00:25.279><c> software</c><00:00:25.680><c> production</c><00:00:26.320><c> chain</c><00:00:26.800><c> is.</c><00:00:27.599><c> It</c><00:00:27.840><c> is</c>
+the software production chain is. It is
+the software production chain is. It is
+getting<00:00:28.240><c> easier.</c><00:00:28.640><c> It</c><00:00:28.880><c> is</c><00:00:29.039><c> getting</c><00:00:29.279><c> cheaper</c><00:00:29.599><c> to</c>
+getting easier. It is getting cheaper to
+getting easier. It is getting cheaper to
+make<00:00:30.160><c> software</c><00:00:30.640><c> with</c><00:00:30.960><c> AI.</c><00:00:31.760><c> It</c><00:00:32.000><c> is</c><00:00:32.160><c> not</c><00:00:32.320><c> getting</c>
+make software with AI. It is not getting
+make software with AI. It is not getting
+easier<00:00:32.880><c> to</c><00:00:33.040><c> distribute</c><00:00:33.520><c> to</c><00:00:33.760><c> people.</c><00:00:34.079><c> In</c><00:00:34.239><c> fact,</c>
+easier to distribute to people. In fact,
+easier to distribute to people. In fact,
+arguably<00:00:35.040><c> it's</c><00:00:35.360><c> getting</c><00:00:35.600><c> harder</c><00:00:36.320><c> because</c>
+arguably it's getting harder because
+arguably it's getting harder because
+there's<00:00:36.880><c> more</c><00:00:37.040><c> and</c><00:00:37.200><c> more</c><00:00:37.520><c> software</c><00:00:37.920><c> scaling</c>
+there's more and more software scaling
+there's more and more software scaling
+up.<00:00:39.120><c> And</c><00:00:39.280><c> what's</c><00:00:39.840><c> bringing</c><00:00:40.160><c> this</c><00:00:40.480><c> back</c><00:00:40.640><c> to</c><00:00:40.800><c> the</c>
+up. And what's bringing this back to the
+up. And what's bringing this back to the
+top<00:00:41.120><c> of</c><00:00:41.280><c> my</c><00:00:41.520><c> mind</c><00:00:41.680><c> is</c><00:00:41.840><c> an</c><00:00:42.079><c> interview</c><00:00:42.320><c> that</c><00:00:42.559><c> Sam</c>
+top of my mind is an interview that Sam
+top of my mind is an interview that Sam
+Alman<00:00:43.280><c> gave.</c><00:00:43.760><c> And</c><00:00:44.000><c> one</c><00:00:44.079><c> of</c><00:00:44.160><c> the</c><00:00:44.239><c> things</c><00:00:44.399><c> like</c>
+Alman gave. And one of the things like
+Alman gave. And one of the things like
+he<00:00:44.719><c> dropped</c><00:00:44.960><c> a</c><00:00:45.120><c> lot</c><00:00:45.200><c> of</c><00:00:45.280><c> things,</c><00:00:45.440><c> but</c><00:00:45.680><c> one</c><00:00:45.760><c> of</c>
+he dropped a lot of things, but one of
+he dropped a lot of things, but one of
+the<00:00:45.920><c> things</c><00:00:46.000><c> he</c><00:00:46.239><c> mentioned</c><00:00:46.559><c> is</c><00:00:46.879><c> that</c><00:00:47.039><c> if</c><00:00:47.280><c> he</c>
+the things he mentioned is that if he
+the things he mentioned is that if he
+had<00:00:47.600><c> to</c><00:00:47.760><c> pick</c><00:00:48.239><c> in</c><00:00:48.719><c> five</c><00:00:49.120><c> years,</c><00:00:49.600><c> knowing</c><00:00:50.000><c> what</c>
+had to pick in five years, knowing what
+had to pick in five years, knowing what
+Sam<00:00:50.640><c> Alman</c><00:00:51.120><c> knows</c><00:00:51.360><c> now</c><00:00:51.840><c> about</c><00:00:52.160><c> how</c><00:00:52.399><c> incredible</c>
+Sam Alman knows now about how incredible
+Sam Alman knows now about how incredible
+AI<00:00:53.280><c> is</c><00:00:53.520><c> going</c><00:00:53.600><c> to</c><00:00:53.680><c> be</c><00:00:54.399><c> between</c><00:00:54.879><c> having</c><00:00:55.280><c> a</c><00:00:55.680><c> 1</c>
+AI is going to be between having a 1
+AI is going to be between having a 1
+billion<00:00:56.719><c> user</c><00:00:57.280><c> site</c><00:00:58.160><c> where</c><00:00:58.399><c> you</c><00:00:58.640><c> have</c><00:00:58.800><c> that</c>
+billion user site where you have that
+billion user site where you have that
+regular<00:00:59.600><c> traffic</c><00:01:00.000><c> coming</c><00:01:00.239><c> in</c><00:01:00.800><c> and</c><00:01:01.039><c> you've</c>
+regular traffic coming in and you've
+regular traffic coming in and you've
+already<00:01:01.440><c> acquired</c><00:01:01.960><c> them</c><00:01:03.000><c> or</c><00:01:04.000><c> having</c><00:01:04.239><c> the</c><00:01:04.479><c> most</c>
+already acquired them or having the most
+already acquired them or having the most
+advanced<00:01:05.119><c> AI</c><00:01:05.720><c> model.</c><00:01:06.720><c> He</c><00:01:07.040><c> thinks</c><00:01:07.200><c> the</c><00:01:07.439><c> billion</c>
+advanced AI model. He thinks the billion
+advanced AI model. He thinks the billion
+user<00:01:08.159><c> site</c><00:01:08.400><c> is</c><00:01:08.640><c> going</c><00:01:08.720><c> to</c><00:01:08.799><c> be</c><00:01:08.880><c> more</c>
+user site is going to be more
+user site is going to be more
+economically<00:01:09.760><c> advantageous</c><00:01:10.400><c> to</c><00:01:10.640><c> have.</c><00:01:11.680><c> Sam</c>
+economically advantageous to have. Sam
+economically advantageous to have. Sam
+Alman<00:01:12.560><c> himself,</c><00:01:12.880><c> the</c><00:01:13.119><c> model</c><00:01:13.439><c> maker,</c><00:01:14.080><c> picks</c>
+Alman himself, the model maker, picks
+Alman himself, the model maker, picks
+distribution.<00:01:16.159><c> He</c><00:01:16.400><c> picks</c>
+distribution. He picks
+distribution. He picks
+distribution.<00:01:18.640><c> And</c><00:01:18.880><c> it's</c><00:01:19.040><c> not</c><00:01:19.200><c> just</c><00:01:19.360><c> for</c>
+distribution. And it's not just for
+distribution. And it's not just for
+consumers.<00:01:20.960><c> Distribution</c><00:01:21.600><c> matters</c><00:01:21.920><c> for</c>
+consumers. Distribution matters for
+consumers. Distribution matters for
+enterprise.<00:01:23.119><c> The</c><00:01:23.520><c> reason</c><00:01:23.759><c> why,</c><00:01:24.240><c> even</c><00:01:24.400><c> though</c>
+enterprise. The reason why, even though
+enterprise. The reason why, even though
+Clarna<00:01:25.200><c> made</c><00:01:25.360><c> a</c><00:01:25.600><c> bunch</c><00:01:25.759><c> of</c><00:01:26.360><c> headlines</c><00:01:27.360><c> and</c>
+Clarna made a bunch of headlines and
+Clarna made a bunch of headlines and
+like<00:01:28.479><c> trumpeted</c><00:01:29.119><c> that</c><00:01:29.360><c> they</c><00:01:29.600><c> were</c><00:01:29.759><c> going</c><00:01:29.840><c> to</c>
+like trumpeted that they were going to
+like trumpeted that they were going to
+leave<00:01:30.240><c> Salesforce,</c><00:01:30.960><c> blah</c><00:01:31.280><c> blah</c><00:01:31.799><c> blah.</c><00:01:32.799><c> The</c>
+leave Salesforce, blah blah blah. The
+leave Salesforce, blah blah blah. The
+reason<00:01:33.119><c> why</c><00:01:33.360><c> that</c><00:01:33.520><c> didn't</c><00:01:33.680><c> turn</c><00:01:33.840><c> into</c><00:01:34.079><c> a</c><00:01:34.240><c> route</c>
+reason why that didn't turn into a route
+reason why that didn't turn into a route
+for<00:01:34.640><c> Salesforce</c><00:01:35.200><c> is</c><00:01:35.360><c> because</c><00:01:35.600><c> Salesforce</c><00:01:36.159><c> has</c>
+for Salesforce is because Salesforce has
+for Salesforce is because Salesforce has
+an<00:01:36.479><c> incredible</c><00:01:36.960><c> distribution</c><00:01:37.520><c> advantage.</c>
+an incredible distribution advantage.
+an incredible distribution advantage.
+Salesforce<00:01:39.119><c> is</c><00:01:39.360><c> baked</c><00:01:39.680><c> in</c><00:01:40.000><c> everywhere</c><00:01:40.400><c> you</c>
+Salesforce is baked in everywhere you
+Salesforce is baked in everywhere you
+go.<00:01:41.360><c> If</c><00:01:41.600><c> you</c><00:01:41.840><c> walk</c><00:01:42.079><c> away</c><00:01:42.320><c> from</c><00:01:42.479><c> it,</c><00:01:42.720><c> it</c><00:01:42.960><c> is</c><00:01:43.040><c> an</c>
+go. If you walk away from it, it is an
+go. If you walk away from it, it is an
+extremely<00:01:43.840><c> intentional</c><00:01:44.560><c> decision</c><00:01:45.040><c> and</c><00:01:45.280><c> it</c>
+extremely intentional decision and it
+extremely intentional decision and it
+requires<00:01:45.759><c> a</c><00:01:46.000><c> degree</c><00:01:46.479><c> of</c><00:01:47.360><c> focus</c><00:01:47.680><c> from</c><00:01:47.920><c> an</c>
+requires a degree of focus from an
+requires a degree of focus from an
+organization<00:01:48.720><c> that</c><00:01:48.960><c> is</c><00:01:49.280><c> by</c><00:01:49.600><c> definition</c><00:01:50.159><c> rare</c>
+organization that is by definition rare
+organization that is by definition rare
+because<00:01:51.040><c> most</c><00:01:51.360><c> organizations</c><00:01:52.079><c> are</c><00:01:52.320><c> focused</c>
+because most organizations are focused
+because most organizations are focused
+on<00:01:52.880><c> fighting</c><00:01:53.280><c> fires</c><00:01:54.079><c> or</c><00:01:54.399><c> one</c><00:01:54.799><c> central</c>
+on fighting fires or one central
+on fighting fires or one central
+objective<00:01:55.680><c> that</c><00:01:55.920><c> is</c><00:01:56.079><c> tied</c><00:01:56.399><c> to</c><00:01:56.560><c> their</c><00:01:56.720><c> core</c>
+objective that is tied to their core
+objective that is tied to their core
+economic<00:01:57.600><c> value.</c><00:01:58.159><c> They</c><00:01:58.399><c> are</c><00:01:58.560><c> not</c><00:01:58.719><c> focused</c><00:01:59.119><c> on</c>
+economic value. They are not focused on
+economic value. They are not focused on
+their<00:01:59.600><c> SAS</c><00:02:00.000><c> stack</c><00:02:00.719><c> and</c><00:02:00.960><c> whether</c><00:02:01.360><c> they</c><00:02:01.600><c> can</c>
+their SAS stack and whether they can
+their SAS stack and whether they can
+sort<00:02:02.079><c> of</c><00:02:02.640><c> clean</c><00:02:02.880><c> it</c><00:02:03.119><c> up.</c><00:02:03.759><c> So</c><00:02:04.000><c> the</c><00:02:04.240><c> fact</c><00:02:04.399><c> that</c>
+sort of clean it up. So the fact that
+sort of clean it up. So the fact that
+Salesforce<00:02:05.280><c> is</c><00:02:05.439><c> there,</c><00:02:05.680><c> that</c><00:02:05.840><c> they</c><00:02:06.000><c> have</c><00:02:06.079><c> a</c>
+Salesforce is there, that they have a
+Salesforce is there, that they have a
+distribution<00:02:06.799><c> advantage</c><00:02:07.119><c> and</c><00:02:07.280><c> they</c><00:02:07.439><c> have</c><00:02:07.520><c> a</c>
+distribution advantage and they have a
+distribution advantage and they have a
+network<00:02:08.080><c> effect</c><00:02:08.319><c> and</c><00:02:08.560><c> they've</c><00:02:08.800><c> got</c><00:02:09.039><c> people</c>
+network effect and they've got people
+network effect and they've got people
+who<00:02:09.360><c> have</c><00:02:09.520><c> worked</c><00:02:09.759><c> for</c><00:02:10.080><c> Salesforce</c><00:02:10.640><c> with</c>
+who have worked for Salesforce with
+who have worked for Salesforce with
+Salesforce<00:02:11.680><c> everywhere</c><00:02:12.080><c> in</c><00:02:12.319><c> the</c>
+Salesforce everywhere in the
+Salesforce everywhere in the
+industry,<00:02:14.000><c> that's</c><00:02:14.680><c> irreplaceable.</c><00:02:15.680><c> That</c><00:02:15.920><c> is</c>
+industry, that's irreplaceable. That is
+industry, that's irreplaceable. That is
+why<00:02:16.239><c> no</c><00:02:16.400><c> matter</c><00:02:16.640><c> how</c><00:02:16.879><c> many</c><00:02:17.040><c> pitch</c><00:02:17.360><c> decks</c><00:02:17.920><c> I</c><00:02:18.239><c> see</c>
+why no matter how many pitch decks I see
+why no matter how many pitch decks I see
+that<00:02:19.200><c> are</c><00:02:19.360><c> like,</c><00:02:20.080><c> we're</c><00:02:20.239><c> going</c><00:02:20.319><c> to</c><00:02:20.480><c> beat</c>
+that are like, we're going to beat
+that are like, we're going to beat
+Salesforce,<00:02:21.360><c> I</c><00:02:21.599><c> never</c><00:02:21.760><c> bet</c><00:02:22.000><c> against</c>
+Salesforce, I never bet against
+Salesforce, I never bet against
+Salesforce.<00:02:23.920><c> It's</c><00:02:24.239><c> just</c><00:02:24.480><c> the</c><00:02:24.720><c> distribution</c>
+Salesforce. It's just the distribution
+Salesforce. It's just the distribution
+advantage<00:02:25.599><c> is</c><00:02:25.840><c> too</c><00:02:26.080><c> good.</c><00:02:26.879><c> It's</c><00:02:27.200><c> not</c><00:02:27.360><c> about</c>
+advantage is too good. It's not about
+advantage is too good. It's not about
+the<00:02:27.760><c> product.</c><00:02:28.080><c> I</c><00:02:28.239><c> know</c><00:02:28.319><c> they'd</c><00:02:28.560><c> like</c><00:02:28.720><c> you</c><00:02:28.879><c> to</c>
+the product. I know they'd like you to
+the product. I know they'd like you to
+believe<00:02:29.200><c> it's</c><00:02:29.440><c> about</c><00:02:29.520><c> the</c><00:02:29.760><c> product</c><00:02:29.920><c> when</c><00:02:30.080><c> they</c>
+believe it's about the product when they
+believe it's about the product when they
+put<00:02:30.319><c> Matthew</c><00:02:30.640><c> McConna</c><00:02:31.200><c> out</c><00:02:31.280><c> there</c><00:02:31.440><c> and</c><00:02:31.599><c> he's</c>
+put Matthew McConna out there and he's
+put Matthew McConna out there and he's
+sitting<00:02:32.000><c> in</c><00:02:32.080><c> the</c><00:02:32.239><c> rain</c><00:02:32.400><c> in</c><00:02:32.560><c> a</c><00:02:32.720><c> Paris</c><00:02:33.040><c> cafe,</c>
+sitting in the rain in a Paris cafe,
+sitting in the rain in a Paris cafe,
+which<00:02:33.599><c> was</c><00:02:33.680><c> a</c><00:02:33.920><c> real</c><00:02:34.080><c> Super</c><00:02:34.319><c> Bowl</c><00:02:34.480><c> ad.</c><00:02:34.800><c> And</c><00:02:34.959><c> it's</c>
+which was a real Super Bowl ad. And it's
+which was a real Super Bowl ad. And it's
+like,<00:02:35.840><c> AI</c><00:02:36.239><c> will</c><00:02:36.400><c> help</c><00:02:36.640><c> fix</c><00:02:36.879><c> the</c><00:02:37.120><c> rain</c><00:02:37.680><c> for</c>
+like, AI will help fix the rain for
+like, AI will help fix the rain for
+Matthew<00:02:38.319><c> McConna.</c><00:02:39.040><c> No,</c><00:02:39.440><c> AI</c><00:02:39.840><c> will</c><00:02:40.000><c> not</c><00:02:40.160><c> help</c>
+Matthew McConna. No, AI will not help
+Matthew McConna. No, AI will not help
+fix<00:02:40.640><c> the</c><00:02:40.800><c> rain.</c><00:02:41.599><c> Uh,</c><00:02:41.920><c> and</c><00:02:42.160><c> I</c><00:02:42.319><c> don't</c><00:02:42.480><c> care</c><00:02:42.640><c> about</c>
+fix the rain. Uh, and I don't care about
+fix the rain. Uh, and I don't care about
+their<00:02:43.120><c> product.</c><00:02:43.440><c> I</c><00:02:43.680><c> care</c><00:02:43.840><c> about</c><00:02:44.000><c> their</c>
+their product. I care about their
+their product. I care about their
+distribution.
+distribution.
+distribution.
+This<00:02:46.000><c> is</c><00:02:46.080><c> why</c><00:02:46.319><c> Gary</c><00:02:46.920><c> Tan,</c><00:02:47.920><c> who</c><00:02:48.239><c> is</c><00:02:48.400><c> an</c>
+This is why Gary Tan, who is an
+This is why Gary Tan, who is an
+investor,<00:02:49.920><c> when</c><00:02:50.160><c> he</c><00:02:50.480><c> asks</c><00:02:50.959><c> people,</c><00:02:51.280><c> and</c><00:02:51.519><c> he</c>
+investor, when he asks people, and he
+investor, when he asks people, and he
+admits<00:02:52.000><c> this,</c><00:02:52.319><c> when</c><00:02:52.480><c> he</c><00:02:52.720><c> asks</c>
+admits this, when he asks
+admits this, when he asks
+founders<00:02:55.440><c> a</c><00:02:55.760><c> question</c><00:02:56.480><c> after</c><00:02:56.800><c> they</c><00:02:57.040><c> do</c><00:02:57.200><c> their</c>
+founders a question after they do their
+founders a question after they do their
+pitch<00:02:57.519><c> to</c><00:02:57.680><c> him,</c><00:02:57.840><c> they</c><00:02:58.000><c> run</c><00:02:58.160><c> their</c><00:02:58.319><c> pitch</c><00:02:58.560><c> deck.</c>
+pitch to him, they run their pitch deck.
+pitch to him, they run their pitch deck.
+This<00:02:58.959><c> is</c><00:02:59.040><c> the</c><00:02:59.200><c> most</c><00:02:59.360><c> amazing</c><00:02:59.599><c> thing.</c><00:02:59.840><c> What</c><00:03:00.000><c> he</c>
+This is the most amazing thing. What he
+This is the most amazing thing. What he
+likes<00:03:00.400><c> to</c><00:03:01.000><c> ask</c><00:03:02.000><c> is,</c><00:03:02.239><c> "Hey,</c><00:03:02.720><c> that's</c><00:03:02.959><c> great.</c>
+likes to ask is, "Hey, that's great.
+likes to ask is, "Hey, that's great.
+Where<00:03:03.360><c> are</c><00:03:03.440><c> your</c><00:03:03.680><c> customers?"</c><00:03:04.400><c> And</c><00:03:04.560><c> that's</c>
+Where are your customers?" And that's
+Where are your customers?" And that's
+not<00:03:04.879><c> a</c><00:03:05.040><c> new</c><00:03:05.200><c> insight.</c><00:03:05.519><c> Like</c><00:03:05.680><c> Gary's</c><00:03:06.080><c> been</c>
+not a new insight. Like Gary's been
+not a new insight. Like Gary's been
+asking<00:03:06.400><c> that</c><00:03:06.560><c> for</c><00:03:06.720><c> a</c><00:03:06.800><c> long,</c><00:03:06.959><c> long</c><00:03:07.200><c> time.</c><00:03:07.599><c> But</c>
+asking that for a long, long time. But
+asking that for a long, long time. But
+the<00:03:09.280><c> the</c><00:03:09.680><c> point</c><00:03:09.920><c> is</c><00:03:10.239><c> there's</c><00:03:10.720><c> no</c><00:03:11.519><c> substitute</c>
+the the point is there's no substitute
+the the point is there's no substitute
+for<00:03:12.480><c> getting</c><00:03:12.720><c> the</c><00:03:13.040><c> distribution.</c><00:03:13.760><c> And</c>
+for getting the distribution. And
+for getting the distribution. And
+product<00:03:14.319><c> market</c><00:03:14.640><c> fit</c><00:03:15.040><c> is</c><00:03:15.400><c> basically</c><00:03:16.400><c> a</c><00:03:16.720><c> fancy</c>
+product market fit is basically a fancy
+product market fit is basically a fancy
+way<00:03:17.200><c> of</c><00:03:17.440><c> saying</c><00:03:17.680><c> a</c><00:03:18.000><c> startup</c><00:03:18.400><c> acquires</c><00:03:18.959><c> a</c>
+way of saying a startup acquires a
+way of saying a startup acquires a
+distribution<00:03:20.000><c> advantage.</c><00:03:20.959><c> That's</c>
+distribution advantage. That's
+distribution advantage. That's
+it.<00:03:22.720><c> Either</c><00:03:23.120><c> you</c><00:03:23.280><c> have</c><00:03:23.519><c> the</c><00:03:23.760><c> distribution</c><00:03:24.319><c> by</c>
+it. Either you have the distribution by
+it. Either you have the distribution by
+having<00:03:24.879><c> your</c><00:03:25.200><c> customers</c><00:03:25.920><c> or</c><00:03:26.239><c> you</c><00:03:26.480><c> do</c><00:03:26.640><c> not</c><00:03:26.800><c> have</c>
+having your customers or you do not have
+having your customers or you do not have
+the<00:03:27.640><c> distribution.</c><00:03:28.640><c> And</c><00:03:28.800><c> the</c><00:03:29.040><c> deal</c><00:03:29.200><c> is</c><00:03:29.599><c> and</c>
+the distribution. And the deal is and
+the distribution. And the deal is and
+this<00:03:30.000><c> is</c><00:03:30.239><c> we</c><00:03:30.400><c> are</c><00:03:30.560><c> running</c><00:03:30.799><c> into</c><00:03:31.040><c> this.</c><00:03:31.200><c> It's</c>
+this is we are running into this. It's
+this is we are running into this. It's
+it's<00:03:31.599><c> a</c><00:03:31.760><c> cretaceious</c><00:03:32.400><c> level</c><00:03:32.720><c> crisis</c><00:03:33.120><c> for</c><00:03:33.360><c> AI</c>
+it's a cretaceious level crisis for AI
+it's a cretaceious level crisis for AI
+waiting<00:03:34.239><c> to</c><00:03:34.480><c> happen.</c><00:03:35.760><c> You</c><00:03:36.159><c> have</c><00:03:36.959><c> so</c><00:03:37.200><c> many</c>
+waiting to happen. You have so many
+waiting to happen. You have so many
+indie<00:03:37.920><c> founders,</c><00:03:38.400><c> so</c><00:03:38.640><c> many</c><00:03:38.879><c> YC</c><00:03:39.440><c> founders</c><00:03:39.920><c> who</c>
+indie founders, so many YC founders who
+indie founders, so many YC founders who
+are<00:03:40.400><c> just</c><00:03:40.879><c> incredibly</c><00:03:41.879><c> excited</c><00:03:42.879><c> about</c>
+are just incredibly excited about
+are just incredibly excited about
+building<00:03:43.760><c> building</c><00:03:44.400><c> this</c><00:03:44.640><c> year,</c><00:03:44.959><c> building,</c>
+building building this year, building,
+building building this year, building,
+building<00:03:46.000><c> last</c><00:03:46.239><c> year,</c><00:03:46.480><c> building</c><00:03:46.799><c> through</c><00:03:47.040><c> the</c>
+building last year, building through the
+building last year, building through the
+rest<00:03:47.280><c> of</c><00:03:47.440><c> this</c><00:03:47.680><c> year,</c><00:03:47.920><c> AI</c><00:03:48.319><c> tooling</c><00:03:49.280><c> out</c><00:03:49.519><c> the</c>
+rest of this year, AI tooling out the
+rest of this year, AI tooling out the
+wazoo,<00:03:50.319><c> like</c><00:03:50.560><c> as</c><00:03:50.799><c> as</c><00:03:51.120><c> far</c><00:03:51.280><c> as</c><00:03:51.360><c> the</c><00:03:51.519><c> I</c><00:03:51.760><c> can</c><00:03:51.840><c> see,</c>
+wazoo, like as as far as the I can see,
+wazoo, like as as far as the I can see,
+new<00:03:52.319><c> AI</c><00:03:52.720><c> tooling</c><00:03:53.040><c> coming</c><00:03:53.280><c> up.</c><00:03:54.239><c> They</c><00:03:54.560><c> all</c><00:03:54.799><c> need</c>
+new AI tooling coming up. They all need
+new AI tooling coming up. They all need
+customers.<00:03:56.480><c> They</c><00:03:56.799><c> all</c><00:03:57.560><c> do.</c><00:03:58.560><c> And</c><00:03:58.799><c> the</c>
+customers. They all do. And the
+customers. They all do. And the
+competition<00:04:00.080><c> has</c><00:04:00.400><c> never</c><00:04:00.720><c> been</c><00:04:00.879><c> more</c><00:04:01.120><c> insane.</c>
+competition has never been more insane.
+competition has never been more insane.
+I<00:04:01.920><c> remember</c><00:04:02.239><c> people</c><00:04:02.560><c> saying</c><00:04:02.799><c> that</c><00:04:03.040><c> the</c><00:04:03.280><c> 8,000</c>
+I remember people saying that the 8,000
+I remember people saying that the 8,000
+marketing<00:04:04.400><c> tools</c><00:04:04.879><c> in</c><00:04:05.120><c> the</c><00:04:05.280><c> marketing</c>
+marketing tools in the marketing
+marketing tools in the marketing
+vertical<00:04:06.159><c> was</c><00:04:06.400><c> insane</c><00:04:06.799><c> a</c><00:04:07.040><c> few</c><00:04:07.200><c> years</c><00:04:07.400><c> back.</c>
+vertical was insane a few years back.
+vertical was insane a few years back.
+That's<00:04:08.799><c> nothing</c><00:04:09.360><c> compared</c><00:04:09.680><c> to</c><00:04:09.840><c> where</c><00:04:10.000><c> we're</c>
+That's nothing compared to where we're
+That's nothing compared to where we're
+at<00:04:10.319><c> with</c><00:04:10.480><c> AI</c><00:04:10.879><c> right</c><00:04:11.040><c> now.</c><00:04:11.280><c> It</c><00:04:11.519><c> is</c><00:04:11.599><c> just</c><00:04:11.840><c> nothing</c>
+at with AI right now. It is just nothing
+at with AI right now. It is just nothing
+at<00:04:12.319><c> all.</c><00:04:12.560><c> There's</c><00:04:12.799><c> like</c><00:04:13.519><c> I</c><00:04:13.760><c> think</c><00:04:14.080><c> 50</c><00:04:14.560><c> 70,000</c>
+at all. There's like I think 50 70,000
+at all. There's like I think 50 70,000
+depending<00:04:15.519><c> on</c><00:04:15.680><c> where</c><00:04:15.840><c> where</c><00:04:16.079><c> you</c><00:04:16.239><c> count.</c><00:04:16.479><c> Like</c>
+depending on where where you count. Like
+depending on where where you count. Like
+it's<00:04:16.880><c> a</c><00:04:17.040><c> ridiculous</c><00:04:17.359><c> number.</c><00:04:17.680><c> It's</c><00:04:17.840><c> in</c><00:04:17.919><c> the</c>
+it's a ridiculous number. It's in the
+it's a ridiculous number. It's in the
+five<00:04:18.320><c> figures.</c><00:04:18.720><c> It'll</c><00:04:18.959><c> probably</c><00:04:19.199><c> be</c><00:04:19.359><c> six</c>
+five figures. It'll probably be six
+five figures. It'll probably be six
+figures<00:04:19.919><c> by</c><00:04:20.079><c> the</c><00:04:20.239><c> end</c><00:04:20.320><c> of</c><00:04:20.400><c> the</c>
+figures by the end of the
+figures by the end of the
+year.<00:04:22.800><c> Someone's</c><00:04:23.199><c> going</c><00:04:23.360><c> to</c><00:04:23.440><c> have</c><00:04:23.600><c> to</c><00:04:23.759><c> go</c><00:04:23.840><c> to</c>
+year. Someone's going to have to go to
+year. Someone's going to have to go to
+the<00:04:24.199><c> wall.</c><00:04:25.199><c> Most</c><00:04:25.440><c> of</c><00:04:25.600><c> these</c><00:04:25.840><c> people</c><00:04:26.080><c> do</c><00:04:26.320><c> not</c>
+the wall. Most of these people do not
+the wall. Most of these people do not
+have<00:04:26.840><c> distribution.</c><00:04:27.840><c> They</c><00:04:28.080><c> have</c><00:04:28.240><c> to</c><00:04:28.320><c> pay</c><00:04:28.479><c> for</c>
+have distribution. They have to pay for
+have distribution. They have to pay for
+tokens<00:04:29.120><c> somehow,</c><00:04:29.520><c> don't</c><00:04:29.680><c> they?</c><00:04:30.000><c> They're</c><00:04:30.240><c> not</c>
+tokens somehow, don't they? They're not
+tokens somehow, don't they? They're not
+all<00:04:30.479><c> paying</c><00:04:30.720><c> for</c><00:04:30.880><c> tokens</c><00:04:31.199><c> out</c><00:04:31.360><c> of</c><00:04:31.440><c> their</c><00:04:31.600><c> trust</c>
+all paying for tokens out of their trust
+all paying for tokens out of their trust
+funds.<00:04:32.160><c> They</c><00:04:32.320><c> don't</c><00:04:32.479><c> all</c><00:04:32.639><c> have</c><00:04:32.800><c> trust</c><00:04:33.040><c> funds</c>
+funds. They don't all have trust funds
+funds. They don't all have trust funds
+because<00:04:33.600><c> we've</c><00:04:33.919><c> made</c><00:04:34.080><c> software</c><00:04:34.560><c> easier</c><00:04:34.800><c> to</c>
+because we've made software easier to
+because we've made software easier to
+create.<00:04:35.840><c> Basically,</c><00:04:36.320><c> we've</c><00:04:36.639><c> changed</c><00:04:36.880><c> the</c>
+create. Basically, we've changed the
+create. Basically, we've changed the
+supply<00:04:37.440><c> and</c><00:04:37.759><c> demand</c><00:04:38.160><c> relationship</c><00:04:38.720><c> to</c>
+supply and demand relationship to
+supply and demand relationship to
+software<00:04:39.360><c> and</c><00:04:39.520><c> that</c><00:04:39.680><c> has</c><00:04:39.840><c> made</c><00:04:40.000><c> distribution</c>
+software and that has made distribution
+software and that has made distribution
+more
+more
+more
+valuable.<00:04:42.560><c> Software</c><00:04:43.040><c> is</c><00:04:43.199><c> simple</c><00:04:43.440><c> to</c><00:04:43.680><c> create</c>
+valuable. Software is simple to create
+valuable. Software is simple to create
+now.<00:04:44.160><c> I</c><00:04:44.400><c> can</c><00:04:44.479><c> create</c><00:04:44.639><c> a</c><00:04:44.880><c> calculator</c><00:04:45.280><c> in</c><00:04:45.520><c> two</c>
+now. I can create a calculator in two
+now. I can create a calculator in two
+seconds.<00:04:46.160><c> That's</c><00:04:46.520><c> fantastic.</c><00:04:47.520><c> How</c><00:04:47.680><c> do</c><00:04:47.759><c> I</c>
+seconds. That's fantastic. How do I
+seconds. That's fantastic. How do I
+distribute<00:04:48.320><c> it?</c><00:04:49.199><c> Apple</c><00:04:49.520><c> has</c><00:04:49.759><c> distributed</c>
+distribute it? Apple has distributed
+distribute it? Apple has distributed
+their<00:04:50.400><c> calculator</c><00:04:50.720><c> to</c><00:04:50.880><c> a</c><00:04:51.120><c> billion</c><00:04:51.360><c> people.</c>
+their calculator to a billion people.
+their calculator to a billion people.
+People<00:04:52.400><c> use</c><00:04:52.720><c> Apple's</c><00:04:53.199><c> calculator.</c><00:04:54.160><c> And</c>
+People use Apple's calculator. And
+People use Apple's calculator. And
+that's<00:04:54.479><c> a</c><00:04:54.720><c> super</c><00:04:54.960><c> simple</c><00:04:55.280><c> example,</c><00:04:55.600><c> but</c><00:04:55.840><c> you</c>
+that's a super simple example, but you
+that's a super simple example, but you
+get<00:04:56.160><c> the</c><00:04:56.320><c> idea.</c><00:04:57.199><c> Works</c><00:04:57.440><c> for</c><00:04:57.600><c> chatbots.</c><00:04:58.160><c> that</c>
+get the idea. Works for chatbots. that
+get the idea. Works for chatbots. that
+works<00:04:58.479><c> for</c><00:04:58.639><c> any</c><00:04:58.800><c> other</c><00:04:58.960><c> piece</c><00:04:59.120><c> of</c><00:04:59.199><c> software.</c>
+works for any other piece of software.
+works for any other piece of software.
+Distribution<00:05:00.759><c> matters.</c><00:05:01.759><c> So</c><00:05:02.560><c> if</c><00:05:02.800><c> we</c><00:05:03.040><c> think</c>
+Distribution matters. So if we think
+Distribution matters. So if we think
+about<00:05:03.360><c> that,</c><00:05:03.600><c> let's</c><00:05:03.840><c> take</c><00:05:03.919><c> that</c><00:05:04.080><c> a</c><00:05:04.320><c> step</c>
+about that, let's take that a step
+about that, let's take that a step
+further.<00:05:04.960><c> Distribution</c><00:05:05.520><c> matters.</c><00:05:06.320><c> We</c><00:05:06.479><c> have</c><00:05:06.560><c> a</c>
+further. Distribution matters. We have a
+further. Distribution matters. We have a
+bunch<00:05:06.960><c> of</c><00:05:07.520><c> companies</c><00:05:07.840><c> that</c><00:05:08.080><c> are</c><00:05:08.240><c> going</c><00:05:08.320><c> to</c><00:05:08.400><c> go</c>
+bunch of companies that are going to go
+bunch of companies that are going to go
+to<00:05:08.720><c> the</c>
+to the
+to the
+wall.<00:05:11.039><c> How</c><00:05:11.280><c> do</c><00:05:11.440><c> we</c><00:05:11.600><c> think</c><00:05:11.840><c> about</c><00:05:12.000><c> the</c>
+wall. How do we think about the
+wall. How do we think about the
+landscape<00:05:12.800><c> that</c><00:05:13.080><c> emerges?</c><00:05:14.080><c> Who</c><00:05:14.400><c> wins</c><00:05:14.960><c> in</c><00:05:15.280><c> that</c>
+landscape that emerges? Who wins in that
+landscape that emerges? Who wins in that
+space?<00:05:17.520><c> The</c><00:05:17.759><c> founders</c><00:05:18.160><c> that</c><00:05:18.400><c> win</c><00:05:18.639><c> in</c><00:05:18.880><c> that</c>
+space? The founders that win in that
+space? The founders that win in that
+space<00:05:19.600><c> are</c><00:05:19.840><c> going</c><00:05:20.000><c> to</c><00:05:20.160><c> be</c><00:05:20.320><c> less</c><00:05:20.720><c> technical</c>
+space are going to be less technical
+space are going to be less technical
+than<00:05:21.440><c> the</c><00:05:21.680><c> founders</c><00:05:22.000><c> that</c><00:05:22.160><c> won</c><00:05:22.320><c> in</c><00:05:22.479><c> the</c><00:05:22.639><c> 2010s.</c>
+than the founders that won in the 2010s.
+than the founders that won in the 2010s.
+The<00:05:24.080><c> builders</c><00:05:24.560><c> and</c><00:05:24.800><c> founders</c><00:05:25.120><c> that</c><00:05:25.360><c> win</c><00:05:25.520><c> in</c>
+The builders and founders that win in
+The builders and founders that win in
+that<00:05:26.000><c> space</c><00:05:26.400><c> are</c><00:05:26.720><c> going</c><00:05:26.880><c> to</c><00:05:27.240><c> be</c><00:05:28.280><c> probably</c><00:05:29.639><c> more</c>
+that space are going to be probably more
+that space are going to be probably more
+invested<00:05:32.080><c> in</c><00:05:32.560><c> sales</c><00:05:33.440><c> net</c><00:05:33.840><c> net.</c><00:05:34.720><c> Like</c><00:05:34.960><c> if</c><00:05:35.199><c> you</c>
+invested in sales net net. Like if you
+invested in sales net net. Like if you
+basically<00:05:35.840><c> look</c><00:05:36.000><c> at</c><00:05:36.240><c> founding</c>
+basically look at founding
+basically look at founding
+relationships,<00:05:37.520><c> it's</c><00:05:37.759><c> either</c><00:05:38.080><c> a</c><00:05:38.240><c> sales</c><00:05:38.639><c> guy</c>
+relationships, it's either a sales guy
+relationships, it's either a sales guy
+or<00:05:39.280><c> it's</c><00:05:39.520><c> a</c><00:05:39.680><c> tech</c><00:05:39.919><c> guy</c><00:05:40.560><c> most</c><00:05:40.880><c> of</c><00:05:40.960><c> the</c><00:05:41.199><c> time.</c><00:05:42.160><c> And</c>
+or it's a tech guy most of the time. And
+or it's a tech guy most of the time. And
+and<00:05:42.720><c> I</c><00:05:42.880><c> say</c><00:05:43.120><c> guy</c><00:05:43.360><c> because</c><00:05:43.600><c> we</c><00:05:43.840><c> all</c><00:05:44.000><c> know</c><00:05:44.160><c> that</c>
+and I say guy because we all know that
+and I say guy because we all know that
+like<00:05:44.720><c> the</c><00:05:44.960><c> vast</c><00:05:45.199><c> majority</c><00:05:45.520><c> of</c><00:05:45.680><c> founders</c><00:05:46.000><c> are</c>
+like the vast majority of founders are
+like the vast majority of founders are
+men.<00:05:46.720><c> Not</c><00:05:46.960><c> a</c><00:05:47.120><c> great</c><00:05:47.280><c> thing,</c><00:05:47.440><c> but</c><00:05:47.600><c> it's</c><00:05:47.840><c> true.</c>
+men. Not a great thing, but it's true.
+men. Not a great thing, but it's true.
+Um,
+Um,
+Um,
+and<00:05:51.759><c> the</c><00:05:52.320><c> sales</c><00:05:53.120><c> side</c><00:05:53.360><c> of</c><00:05:53.600><c> things,</c><00:05:54.240><c> whether</c><00:05:54.479><c> or</c>
+and the sales side of things, whether or
+and the sales side of things, whether or
+not<00:05:54.960><c> like</c><00:05:55.199><c> maybe</c><00:05:55.360><c> you're</c><00:05:55.520><c> focusing</c><00:05:55.840><c> on</c><00:05:56.000><c> growth</c>
+not like maybe you're focusing on growth
+not like maybe you're focusing on growth
+hacking<00:05:56.560><c> for</c><00:05:56.800><c> consumer,</c><00:05:57.199><c> that</c><00:05:57.440><c> sort</c><00:05:57.600><c> of</c>
+hacking for consumer, that sort of
+hacking for consumer, that sort of
+consumer<00:05:58.400><c> sales,</c><00:05:58.800><c> maybe</c><00:05:59.039><c> you're</c><00:05:59.280><c> focusing</c><00:05:59.759><c> on</c>
+consumer sales, maybe you're focusing on
+consumer sales, maybe you're focusing on
+B2B<00:06:00.639><c> sales</c><00:06:00.880><c> if</c><00:06:01.039><c> you're</c><00:06:01.199><c> in</c><00:06:01.280><c> the</c><00:06:01.360><c> B2B</c>
+B2B sales if you're in the B2B
+B2B sales if you're in the B2B
+space.<00:06:03.520><c> Someone</c><00:06:03.840><c> who</c><00:06:04.240><c> has</c><00:06:04.400><c> the</c><00:06:04.720><c> wizardry</c><00:06:05.199><c> to</c>
+space. Someone who has the wizardry to
+space. Someone who has the wizardry to
+figure<00:06:05.840><c> out</c><00:06:06.000><c> the</c><00:06:06.240><c> funnel</c><00:06:06.560><c> for</c><00:06:06.800><c> that</c><00:06:07.120><c> is</c><00:06:07.440><c> going</c>
+figure out the funnel for that is going
+figure out the funnel for that is going
+to
+to
+to
+be<00:06:09.520><c> is</c><00:06:09.840><c> going</c><00:06:10.000><c> to</c><00:06:10.160><c> be</c><00:06:10.639><c> on</c><00:06:10.880><c> the</c><00:06:11.120><c> short</c><00:06:11.360><c> path</c><00:06:11.680><c> to</c>
+be is going to be on the short path to
+be is going to be on the short path to
+riding<00:06:12.160><c> in</c><00:06:12.400><c> the</c><00:06:12.560><c> private</c><00:06:12.800><c> jets</c><00:06:13.199><c> and</c><00:06:13.280><c> becoming</c>
+riding in the private jets and becoming
+riding in the private jets and becoming
+the<00:06:13.680><c> billionaire</c><00:06:14.000><c> and</c><00:06:14.160><c> all</c><00:06:14.319><c> the</c><00:06:14.400><c> rest</c><00:06:14.560><c> of</c><00:06:14.639><c> it.</c>
+the billionaire and all the rest of it.
+the billionaire and all the rest of it.
+And<00:06:15.600><c> I</c><00:06:15.840><c> say</c><00:06:16.000><c> that</c><00:06:16.400><c> because</c><00:06:16.720><c> the</c><00:06:17.120><c> entire</c><00:06:17.520><c> funnel</c>
+And I say that because the entire funnel
+And I say that because the entire funnel
+is<00:06:18.080><c> also</c><00:06:18.319><c> getting</c><00:06:18.560><c> disrupted.</c><00:06:19.120><c> This</c><00:06:19.280><c> is</c><00:06:19.360><c> why</c>
+is also getting disrupted. This is why
+is also getting disrupted. This is why
+this<00:06:19.680><c> is</c><00:06:19.759><c> taking</c><00:06:19.919><c> a</c><00:06:20.160><c> while</c><00:06:20.240><c> to</c><00:06:20.479><c> like</c><00:06:20.720><c> get</c>
+this is taking a while to like get
+this is taking a while to like get
+into.<00:06:22.400><c> Distribution</c><00:06:23.120><c> is</c><00:06:23.360><c> getting</c>
+into. Distribution is getting
+into. Distribution is getting
+interesting<00:06:24.400><c> precisely</c><00:06:25.199><c> because</c><00:06:25.680><c> the</c><00:06:26.000><c> funnel</c>
+interesting precisely because the funnel
+interesting precisely because the funnel
+itself<00:06:26.960><c> for</c><00:06:27.280><c> distribution</c><00:06:27.840><c> is</c><00:06:28.080><c> being</c>
+itself for distribution is being
+itself for distribution is being
+disrupted<00:06:28.800><c> by</c><00:06:29.039><c> AI.</c><00:06:29.840><c> Distribution</c><00:06:30.639><c> is</c><00:06:31.199><c> not</c>
+disrupted by AI. Distribution is not
+disrupted by AI. Distribution is not
+changing.<00:06:31.919><c> Acquiring</c><00:06:32.720><c> customers</c><00:06:33.360><c> remains</c>
+changing. Acquiring customers remains
+changing. Acquiring customers remains
+really<00:06:34.160><c> hard.</c><00:06:34.960><c> But</c><00:06:35.039><c> the</c><00:06:35.280><c> tool</c><00:06:35.520><c> sets</c><00:06:35.840><c> to</c><00:06:36.000><c> do</c>
+really hard. But the tool sets to do
+really hard. But the tool sets to do
+that.<00:06:36.479><c> People's</c><00:06:36.880><c> buying</c><00:06:37.199><c> behaviors</c><00:06:37.759><c> are</c>
+that. People's buying behaviors are
+that. People's buying behaviors are
+shifting.<00:06:38.639><c> People</c><00:06:39.120><c> are</c><00:06:39.440><c> talking</c><00:06:40.199><c> about</c><00:06:41.199><c> how</c>
+shifting. People are talking about how
+shifting. People are talking about how
+chat<00:06:42.080><c> GPT</c><00:06:42.720><c> visibility</c><00:06:43.360><c> is</c><00:06:43.680><c> becoming</c><00:06:44.000><c> the</c><00:06:44.240><c> new</c>
+chat GPT visibility is becoming the new
+chat GPT visibility is becoming the new
+SEO.<00:06:45.039><c> No</c><00:06:45.280><c> one</c><00:06:45.360><c> really</c><00:06:45.600><c> knows</c><00:06:45.840><c> what</c><00:06:46.000><c> to</c><00:06:46.160><c> do</c><00:06:46.240><c> with</c>
+SEO. No one really knows what to do with
+SEO. No one really knows what to do with
+that<00:06:46.639><c> yet,</c><00:06:47.360><c> but</c><00:06:47.840><c> if</c><00:06:48.080><c> you</c><00:06:48.319><c> search</c><00:06:48.639><c> for</c><00:06:48.880><c> yourself</c>
+that yet, but if you search for yourself
+that yet, but if you search for yourself
+in<00:06:49.680><c> chat</c><00:06:50.000><c> GPT,</c><00:06:50.560><c> I</c><00:06:50.800><c> guarantee</c><00:06:51.120><c> you'll</c><00:06:51.360><c> be</c>
+in chat GPT, I guarantee you'll be
+in chat GPT, I guarantee you'll be
+surprised.<00:06:52.160><c> Try</c><00:06:52.319><c> it</c><00:06:52.479><c> in</c><00:06:52.720><c> Claude</c><00:06:53.039><c> now</c><00:06:53.199><c> that</c>
+surprised. Try it in Claude now that
+surprised. Try it in Claude now that
+Claude<00:06:53.680><c> has</c><00:06:53.840><c> web</c><00:06:54.080><c> search.</c><00:06:54.720><c> Uh</c><00:06:55.280><c> I</c><00:06:55.520><c> was</c>
+Claude has web search. Uh I was
+Claude has web search. Uh I was
+surprised,<00:06:56.160><c> frankly,</c><00:06:56.479><c> by</c><00:06:56.639><c> what</c><00:06:56.880><c> Claude</c>
+surprised, frankly, by what Claude
+surprised, frankly, by what Claude
+found.<00:06:59.319><c> And</c><00:07:00.319><c> how</c><00:07:00.479><c> do</c><00:07:00.639><c> you</c><00:07:00.800><c> how</c><00:07:00.960><c> do</c><00:07:01.039><c> you</c><00:07:01.199><c> game</c>
+found. And how do you how do you game
+found. And how do you how do you game
+for<00:07:01.599><c> that?</c><00:07:01.759><c> How</c><00:07:01.919><c> do</c><00:07:02.000><c> you</c><00:07:02.160><c> make</c><00:07:02.240><c> sure</c><00:07:02.319><c> that</c>
+for that? How do you make sure that
+for that? How do you make sure that
+you're<00:07:02.720><c> visible</c><00:07:03.039><c> in</c><00:07:03.199><c> a</c><00:07:03.280><c> way</c><00:07:03.360><c> that</c><00:07:03.520><c> an</c><00:07:03.680><c> LLM</c>
+you're visible in a way that an LLM
+you're visible in a way that an LLM
+understands?<00:07:05.520><c> Stripe</c><00:07:05.919><c> made</c><00:07:06.080><c> an</c><00:07:06.319><c> effort</c><00:07:06.560><c> in</c>
+understands? Stripe made an effort in
+understands? Stripe made an effort in
+that<00:07:06.960><c> direction</c><00:07:07.280><c> with</c><00:07:07.880><c> LLM's.ext.</c><00:07:08.880><c> So</c><00:07:09.039><c> their</c>
+that direction with LLM's.ext. So their
+that direction with LLM's.ext. So their
+markdown<00:07:09.759><c> for</c><00:07:10.000><c> documents</c><00:07:10.479><c> is</c><00:07:10.720><c> there</c><00:07:10.880><c> so</c><00:07:11.120><c> that</c>
+markdown for documents is there so that
+markdown for documents is there so that
+it's<00:07:11.520><c> easy</c><00:07:11.840><c> to</c><00:07:12.160><c> ingest</c><00:07:12.639><c> Stripe's</c><00:07:13.440><c> famously</c>
+it's easy to ingest Stripe's famously
+it's easy to ingest Stripe's famously
+good<00:07:14.319><c> documentation.</c><00:07:15.039><c> If</c><00:07:15.199><c> you're</c><00:07:15.360><c> an</c><00:07:15.520><c> LLM,</c>
+good documentation. If you're an LLM,
+good documentation. If you're an LLM,
+there's<00:07:16.560><c> going</c><00:07:16.639><c> to</c><00:07:16.720><c> be</c><00:07:16.880><c> more</c><00:07:17.039><c> efforts</c><00:07:17.360><c> in</c><00:07:17.599><c> that</c>
+there's going to be more efforts in that
+there's going to be more efforts in that
+direction.<00:07:18.160><c> Those</c><00:07:18.319><c> are</c><00:07:18.479><c> efforts</c><00:07:18.800><c> at</c>
+direction. Those are efforts at
+direction. Those are efforts at
+distribution.<00:07:20.400><c> Markdown</c><00:07:20.880><c> for</c><00:07:21.039><c> docs,</c><00:07:21.440><c> an</c>
+distribution. Markdown for docs, an
+distribution. Markdown for docs, an
+effort<00:07:21.840><c> at</c>
+effort at
+effort at
+distribution.
+distribution.
+distribution.
+And<00:07:25.599><c> I</c><00:07:25.919><c> think</c><00:07:26.080><c> that</c><00:07:26.319><c> what</c><00:07:26.560><c> makes</c><00:07:26.880><c> this</c><00:07:27.440><c> whole</c>
+And I think that what makes this whole
+And I think that what makes this whole
+space<00:07:28.160><c> super</c><00:07:28.560><c> interesting</c><00:07:29.039><c> is</c><00:07:29.360><c> that</c><00:07:29.520><c> it</c><00:07:29.759><c> is</c>
+space super interesting is that it is
+space super interesting is that it is
+not<00:07:30.080><c> like</c><00:07:30.240><c> the</c><00:07:30.400><c> 2010s</c><00:07:30.960><c> where</c><00:07:31.120><c> we</c><00:07:31.360><c> all</c><00:07:31.520><c> had</c><00:07:31.759><c> the</c>
+not like the 2010s where we all had the
+not like the 2010s where we all had the
+Uber<00:07:32.319><c> playbook</c><00:07:32.720><c> or</c><00:07:32.880><c> we</c><00:07:33.039><c> all</c><00:07:33.199><c> had</c><00:07:33.280><c> a</c><00:07:33.440><c> playbook</c>
+Uber playbook or we all had a playbook
+Uber playbook or we all had a playbook
+that<00:07:33.919><c> we</c><00:07:34.080><c> could</c><00:07:34.240><c> run.</c><00:07:34.800><c> Nobody</c><00:07:35.280><c> has</c><00:07:35.440><c> the</c>
+that we could run. Nobody has the
+that we could run. Nobody has the
+playbook<00:07:36.080><c> for</c><00:07:36.319><c> nailing</c><00:07:36.800><c> distribution</c><00:07:37.440><c> right</c>
+playbook for nailing distribution right
+playbook for nailing distribution right
+now.<00:07:38.479><c> Nobody</c><00:07:38.960><c> knows</c><00:07:39.599><c> how</c><00:07:39.840><c> B2B</c><00:07:40.639><c> sales</c><00:07:41.120><c> is</c><00:07:41.440><c> going</c>
+now. Nobody knows how B2B sales is going
+now. Nobody knows how B2B sales is going
+to<00:07:41.759><c> change</c><00:07:42.160><c> when</c><00:07:42.479><c> people</c><00:07:42.800><c> are</c><00:07:43.039><c> more</c><00:07:43.360><c> in</c><00:07:43.599><c> the</c>
+to change when people are more in the
+to change when people are more in the
+buyer<00:07:44.240><c> seat</c><00:07:44.560><c> because</c><00:07:44.800><c> they're</c><00:07:45.039><c> doing</c><00:07:45.199><c> more</c><00:07:45.440><c> of</c>
+buyer seat because they're doing more of
+buyer seat because they're doing more of
+their<00:07:45.840><c> research</c><00:07:46.240><c> for</c><00:07:46.479><c> what</c><00:07:46.639><c> they</c><00:07:46.800><c> buy</c><00:07:46.960><c> in</c><00:07:47.199><c> chat</c>
+their research for what they buy in chat
+their research for what they buy in chat
+GPT<00:07:48.080><c> than</c><00:07:48.319><c> they</c><00:07:48.479><c> are</c><00:07:48.639><c> doing</c><00:07:48.960><c> on</c><00:07:49.400><c> G2.</c><00:07:50.400><c> We</c><00:07:50.639><c> don't</c>
+GPT than they are doing on G2. We don't
+GPT than they are doing on G2. We don't
+have<00:07:50.880><c> the</c><00:07:51.120><c> answer</c><00:07:51.360><c> for</c><00:07:51.520><c> that.</c><00:07:52.000><c> There's</c><00:07:52.240><c> a</c><00:07:52.400><c> lot</c>
+have the answer for that. There's a lot
+have the answer for that. There's a lot
+of<00:07:52.560><c> people</c><00:07:52.720><c> that</c><00:07:52.960><c> are</c><00:07:53.120><c> reinventing</c><00:07:53.680><c> the</c>
+of people that are reinventing the
+of people that are reinventing the
+existing<00:07:54.400><c> pieces</c><00:07:54.720><c> of</c><00:07:54.879><c> the</c><00:07:55.039><c> process</c><00:07:55.280><c> and</c>
+existing pieces of the process and
+existing pieces of the process and
+saying<00:07:55.759><c> you</c><00:07:55.919><c> can</c><00:07:56.000><c> send</c><00:07:56.240><c> more</c><00:07:56.400><c> emails</c><00:07:56.720><c> with</c><00:07:56.960><c> AI,</c>
+saying you can send more emails with AI,
+saying you can send more emails with AI,
+but<00:07:57.759><c> that</c><00:07:58.000><c> may</c><00:07:58.160><c> not</c><00:07:58.319><c> be</c><00:07:58.400><c> the</c><00:07:58.639><c> way</c><00:07:58.720><c> to</c><00:07:58.879><c> handle</c>
+but that may not be the way to handle
+but that may not be the way to handle
+that.<00:08:00.639><c> Similarly</c><00:08:01.120><c> with</c><00:08:01.360><c> consumers.</c><00:08:02.000><c> If</c>
+that. Similarly with consumers. If
+that. Similarly with consumers. If
+consumers<00:08:02.960><c> are</c><00:08:03.280><c> spending</c><00:08:03.680><c> more</c><00:08:04.000><c> time</c><00:08:04.240><c> on</c><00:08:04.479><c> Tik</c>
+consumers are spending more time on Tik
+consumers are spending more time on Tik
+Tok<00:08:04.960><c> and</c><00:08:05.120><c> chat</c><00:08:05.440><c> GPT,</c><00:08:06.319><c> what</c><00:08:06.560><c> does</c><00:08:06.639><c> the</c><00:08:06.879><c> consumer</c>
+Tok and chat GPT, what does the consumer
+Tok and chat GPT, what does the consumer
+funnel<00:08:07.520><c> look</c><00:08:07.680><c> like?</c><00:08:07.919><c> If</c><00:08:08.000><c> it's</c><00:08:08.240><c> consumer</c>
+funnel look like? If it's consumer
+funnel look like? If it's consumer
+goods,<00:08:08.960><c> are</c><00:08:09.120><c> you</c><00:08:09.199><c> putting</c><00:08:09.360><c> more</c><00:08:09.599><c> into</c><00:08:09.759><c> Tik</c><00:08:10.000><c> Tok</c>
+goods, are you putting more into Tik Tok
+goods, are you putting more into Tik Tok
+shop?<00:08:10.639><c> If</c><00:08:10.800><c> it's</c><00:08:11.280><c> consumer</c><00:08:11.840><c> apps,</c><00:08:12.639><c> are</c><00:08:12.879><c> you</c>
+shop? If it's consumer apps, are you
+shop? If it's consumer apps, are you
+putting<00:08:13.280><c> more</c><00:08:13.879><c> into</c>
+putting more into
+putting more into
+what?<00:08:16.400><c> How</c><00:08:16.639><c> how</c><00:08:16.879><c> do</c><00:08:16.960><c> they</c><00:08:17.199><c> find</c><00:08:17.360><c> the</c><00:08:17.599><c> app?</c><00:08:18.479><c> Are</c>
+what? How how do they find the app? Are
+what? How how do they find the app? Are
+you<00:08:18.879><c> sticking</c><00:08:19.199><c> with</c>
+you sticking with
+you sticking with
+meta?<00:08:21.039><c> Are</c><00:08:21.280><c> you</c><00:08:21.440><c> sticking</c><00:08:21.680><c> with</c><00:08:21.840><c> paid</c><00:08:22.240><c> search?</c>
+meta? Are you sticking with paid search?
+meta? Are you sticking with paid search?
+Are<00:08:22.879><c> you</c><00:08:23.039><c> looking</c><00:08:23.199><c> for</c><00:08:23.440><c> organic?</c><00:08:24.400><c> Is</c><00:08:24.560><c> this</c><00:08:24.720><c> a</c>
+Are you looking for organic? Is this a
+Are you looking for organic? Is this a
+personal<00:08:25.280><c> productivity</c><00:08:25.840><c> tool</c><00:08:26.080><c> where</c><00:08:26.319><c> you</c>
+personal productivity tool where you
+personal productivity tool where you
+want<00:08:26.560><c> to</c><00:08:26.639><c> find</c><00:08:26.879><c> people</c><00:08:27.120><c> on</c><00:08:27.440><c> X</c><00:08:27.759><c> because</c><00:08:28.000><c> they</c>
+want to find people on X because they
+want to find people on X because they
+care<00:08:28.400><c> about</c><00:08:28.560><c> productivity?</c><00:08:29.520><c> You</c><00:08:29.759><c> have</c><00:08:29.919><c> to</c><00:08:30.080><c> do</c>
+care about productivity? You have to do
+care about productivity? You have to do
+all<00:08:30.319><c> of</c><00:08:30.400><c> that</c><00:08:30.560><c> micro</c><00:08:30.960><c> segmentation.</c><00:08:31.599><c> You</c><00:08:31.759><c> can</c>
+all of that micro segmentation. You can
+all of that micro segmentation. You can
+dig<00:08:32.000><c> for</c><00:08:32.080><c> them</c><00:08:32.240><c> on</c><00:08:32.399><c> Reddit.</c><00:08:32.800><c> Maybe</c><00:08:32.959><c> they're</c><00:08:33.200><c> on</c>
+dig for them on Reddit. Maybe they're on
+dig for them on Reddit. Maybe they're on
+Reddit.<00:08:34.560><c> The</c><00:08:34.880><c> ability</c><00:08:35.279><c> to</c><00:08:35.519><c> segment</c><00:08:36.000><c> and</c>
+Reddit. The ability to segment and
+Reddit. The ability to segment and
+figure<00:08:36.399><c> out</c><00:08:36.640><c> who</c><00:08:36.880><c> your</c><00:08:37.200><c> customer</c><00:08:37.800><c> is</c><00:08:38.800><c> at</c><00:08:39.039><c> a</c>
+figure out who your customer is at a
+figure out who your customer is at a
+high<00:08:39.440><c> level</c><00:08:39.680><c> of</c><00:08:39.839><c> fidelity</c><00:08:40.800><c> and</c><00:08:41.039><c> then</c>
+high level of fidelity and then
+high level of fidelity and then
+understand<00:08:42.000><c> where</c><00:08:42.320><c> they</c><00:08:42.560><c> are</c><00:08:43.519><c> is</c><00:08:43.839><c> the</c><00:08:44.159><c> key</c>
+understand where they are is the key
+understand where they are is the key
+whether<00:08:45.279><c> it's</c><00:08:45.440><c> in</c><00:08:45.680><c> B2B</c><00:08:46.080><c> or</c><00:08:46.240><c> B</c><00:08:46.600><c> TOC</c><00:08:47.600><c> at</c><00:08:47.920><c> getting</c>
+whether it's in B2B or B TOC at getting
+whether it's in B2B or B TOC at getting
+to<00:08:48.399><c> that</c><00:08:48.640><c> distribution</c><00:08:49.200><c> advantage</c><00:08:49.680><c> and</c>
+to that distribution advantage and
+to that distribution advantage and
+standing<00:08:50.320><c> out</c><00:08:50.560><c> in</c><00:08:50.880><c> this</c><00:08:51.440><c> world</c><00:08:51.680><c> that</c><00:08:51.839><c> is</c>
+standing out in this world that is
+standing out in this world that is
+rapidly<00:08:52.560><c> becoming</c><00:08:52.959><c> a</c><00:08:53.200><c> 100,000</c><00:08:54.000><c> AI</c><00:08:54.399><c> app</c><00:08:54.760><c> world</c>
+rapidly becoming a 100,000 AI app world
+rapidly becoming a 100,000 AI app world
+where<00:08:56.080><c> all</c><00:08:56.320><c> of</c><00:08:56.399><c> them</c><00:08:56.720><c> need</c><00:08:56.959><c> money</c><00:08:57.519><c> and</c><00:08:57.839><c> all</c><00:08:58.080><c> of</c>
+where all of them need money and all of
+where all of them need money and all of
+them<00:08:58.480><c> need</c><00:08:58.720><c> distribution</c><00:08:59.360><c> and</c><00:08:59.680><c> distribution</c>
+them need distribution and distribution
+them need distribution and distribution
+has<00:09:00.720><c> never</c><00:09:00.959><c> mattered</c><00:09:01.279><c> more.</c><00:09:01.440><c> Getting</c><00:09:01.760><c> the</c>
+has never mattered more. Getting the
+has never mattered more. Getting the
+next<00:09:02.160><c> model</c><00:09:02.480><c> won't</c><00:09:02.720><c> solve</c><00:09:03.160><c> that.</c><00:09:04.160><c> It's</c><00:09:04.399><c> up</c><00:09:04.560><c> to</c>
+next model won't solve that. It's up to
+next model won't solve that. It's up to
+someone<00:09:05.040><c> who</c><00:09:05.200><c> can</c><00:09:05.440><c> figure</c><00:09:05.600><c> out</c><00:09:05.680><c> how</c><00:09:05.839><c> to</c>
+someone who can figure out how to
+someone who can figure out how to
+segment<00:09:06.320><c> the</c><00:09:06.480><c> audience</c><00:09:06.720><c> and</c><00:09:06.880><c> do</c><00:09:07.040><c> distribution</c>
+segment the audience and do distribution
+segment the audience and do distribution
+well.<00:09:08.000><c> So,</c><00:09:08.240><c> that's</c><00:09:08.480><c> where</c><00:09:08.640><c> I'm</c><00:09:08.880><c> at.</c><00:09:09.760><c> Rainy</c>
+well. So, that's where I'm at. Rainy
+well. So, that's where I'm at. Rainy
+night,<00:09:10.480><c> we're</c><00:09:10.720><c> talking</c><00:09:10.959><c> about</c><00:09:11.279><c> distribution.</c>
+night, we're talking about distribution.
+night, we're talking about distribution.
+What<00:09:12.320><c> could</c><00:09:12.560><c> be</c><00:09:12.720><c> better?</c><00:09:13.440><c> Let</c><00:09:13.600><c> me</c><00:09:13.760><c> know</c><00:09:13.839><c> what</c>
+What could be better? Let me know what
+What could be better? Let me know what
+you<00:09:14.240><c> think</c><00:09:14.320><c> about</c><00:09:14.560><c> distribution.</c>

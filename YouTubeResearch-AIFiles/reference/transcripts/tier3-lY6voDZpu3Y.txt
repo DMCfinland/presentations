@@ -1,0 +1,973 @@
+Today<00:00:00.480><c> I'm</c><00:00:00.640><c> going</c><00:00:00.719><c> to</c><00:00:00.880><c> do</c><00:00:01.040><c> something</c><00:00:01.199><c> I've</c>
+Today I'm going to do something I've
+Today I'm going to do something I've
+never<00:00:01.680><c> done.</c><00:00:02.080><c> I'm</c><00:00:02.320><c> going</c><00:00:02.480><c> to</c><00:00:02.560><c> share</c><00:00:02.800><c> with</c><00:00:03.040><c> you</c>
+never done. I'm going to share with you
+never done. I'm going to share with you
+my<00:00:03.919><c> personal</c><00:00:04.480><c> AI</c><00:00:05.040><c> tool</c><00:00:05.520><c> stack</c><00:00:06.319><c> all</c><00:00:06.560><c> the</c><00:00:06.720><c> way</c>
+my personal AI tool stack all the way
+my personal AI tool stack all the way
+through<00:00:07.279><c> end</c><00:00:07.600><c> to</c><00:00:07.759><c> end</c><00:00:08.000><c> what</c><00:00:08.240><c> I</c><00:00:08.400><c> use</c><00:00:08.639><c> things</c>
+through end to end what I use things
+through end to end what I use things
+for,<00:00:09.440><c> where</c><00:00:09.679><c> they</c><00:00:09.920><c> work,</c><00:00:10.160><c> where</c><00:00:10.400><c> they</c><00:00:10.559><c> don't</c>
+for, where they work, where they don't
+for, where they work, where they don't
+work,<00:00:10.960><c> where</c><00:00:11.200><c> I'm</c><00:00:11.440><c> frustrated,</c><00:00:12.000><c> where</c><00:00:12.160><c> I'm</c>
+work, where I'm frustrated, where I'm
+work, where I'm frustrated, where I'm
+also<00:00:12.559><c> working</c><00:00:12.880><c> around</c><00:00:13.200><c> things</c><00:00:13.440><c> so</c><00:00:13.599><c> that</c><00:00:13.759><c> you</c>
+also working around things so that you
+also working around things so that you
+get<00:00:14.080><c> a</c><00:00:14.240><c> sense</c><00:00:14.639><c> of</c><00:00:14.880><c> how</c><00:00:15.040><c> this</c><00:00:15.280><c> works.</c><00:00:15.519><c> And</c><00:00:15.679><c> we're</c>
+get a sense of how this works. And we're
+get a sense of how this works. And we're
+going to<00:00:15.920><c> do</c><00:00:16.000><c> it</c><00:00:16.160><c> quickly.</c><00:00:16.400><c> We're</c><00:00:16.560><c> going</c><00:00:16.640><c> to</c>
+going to do it quickly. We're going to
+going to do it quickly. We're going to
+do it<00:00:16.800><c> in</c><00:00:16.960><c> less</c><00:00:17.119><c> than</c><00:00:17.279><c> 10</c><00:00:17.520><c> minutes.</c><00:00:17.840><c> So</c><00:00:18.160><c> stay</c>
+do it in less than 10 minutes. So stay
+do it in less than 10 minutes. So stay
+with<00:00:18.560><c> me.</c><00:00:18.880><c> Number</c><00:00:19.119><c> one,</c><00:00:19.520><c> Chad</c><00:00:19.920><c> GPT.</c><00:00:20.640><c> Everyone</c>
+with me. Number one, Chad GPT. Everyone
+with me. Number one, Chad GPT. Everyone
+uses<00:00:21.359><c> Chad</c><00:00:21.680><c> GPT.</c><00:00:22.160><c> What</c><00:00:22.320><c> do</c><00:00:22.480><c> I</c><00:00:22.640><c> use</c><00:00:22.800><c> it</c><00:00:22.960><c> for?</c><00:00:23.279><c> I</c>
+uses Chad GPT. What do I use it for? I
+uses Chad GPT. What do I use it for? I
+use<00:00:23.760><c> it</c><00:00:24.320><c> for</c><00:00:24.960><c> analysis</c><00:00:26.240><c> specifically.</c><00:00:27.199><c> So,</c><00:00:27.359><c> if</c>
+use it for analysis specifically. So, if
+use it for analysis specifically. So, if
+I'm<00:00:27.840><c> needing</c><00:00:28.240><c> something</c><00:00:28.640><c> that</c><00:00:28.960><c> has</c><00:00:29.279><c> some</c>
+I'm needing something that has some
+I'm needing something that has some
+memory,<00:00:30.160><c> that</c><00:00:30.400><c> can</c><00:00:30.560><c> handle</c><00:00:30.880><c> a</c><00:00:31.119><c> lot</c><00:00:31.279><c> of</c>
+memory, that can handle a lot of
+memory, that can handle a lot of
+context,<00:00:31.920><c> I</c><00:00:32.079><c> don't</c><00:00:32.239><c> run</c><00:00:32.399><c> out</c><00:00:32.480><c> of</c><00:00:32.640><c> context</c>
+context, I don't run out of context
+context, I don't run out of context
+window,<00:00:33.680><c> and</c><00:00:33.920><c> I</c><00:00:34.160><c> need</c><00:00:34.320><c> it</c><00:00:34.559><c> to</c><00:00:34.800><c> think</c><00:00:35.360><c> clearly,</c>
+window, and I need it to think clearly,
+window, and I need it to think clearly,
+not<00:00:36.320><c> for</c><00:00:36.480><c> writing,</c><00:00:36.960><c> for</c><00:00:37.120><c> thinking,</c><00:00:37.440><c> for</c>
+not for writing, for thinking, for
+not for writing, for thinking, for
+getting<00:00:37.840><c> the</c><00:00:38.000><c> idea</c><00:00:38.239><c> right,</c><00:00:38.480><c> for</c><00:00:38.719><c> being</c><00:00:38.800><c> a</c>
+getting the idea right, for being a
+getting the idea right, for being a
+thought<00:00:39.200><c> partner</c><00:00:39.600><c> back</c><00:00:39.760><c> and</c><00:00:40.000><c> forth.</c><00:00:40.480><c> Chad</c>
+thought partner back and forth. Chad
+thought partner back and forth. Chad
+GPT5<00:00:41.680><c> thinking</c><00:00:42.000><c> mode</c><00:00:42.320><c> is</c><00:00:42.640><c> very,</c><00:00:42.879><c> very</c><00:00:43.200><c> useful.</c>
+GPT5 thinking mode is very, very useful.
+GPT5 thinking mode is very, very useful.
+What's<00:00:44.079><c> interesting</c><00:00:44.399><c> is</c><00:00:44.640><c> that</c><00:00:44.879><c> the</c><00:00:45.040><c> auto</c>
+What's interesting is that the auto
+What's interesting is that the auto
+mode,<00:00:45.600><c> the</c><00:00:45.840><c> fast</c><00:00:46.079><c> mode</c><00:00:46.399><c> is</c><00:00:46.640><c> becoming</c>
+mode, the fast mode is becoming
+mode, the fast mode is becoming
+increasingly<00:00:47.680><c> useful</c><00:00:48.000><c> for</c><00:00:48.239><c> digesting</c><00:00:48.800><c> large</c>
+increasingly useful for digesting large
+increasingly useful for digesting large
+amounts<00:00:49.360><c> of</c><00:00:49.520><c> context</c><00:00:49.920><c> quickly.</c><00:00:50.320><c> So,</c><00:00:50.399><c> if</c><00:00:50.559><c> I</c>
+amounts of context quickly. So, if I
+amounts of context quickly. So, if I
+need<00:00:50.800><c> a</c><00:00:51.039><c> rough</c><00:00:51.280><c> pass,</c><00:00:51.600><c> I</c><00:00:51.760><c> can</c><00:00:51.920><c> do</c><00:00:52.079><c> that.</c><00:00:52.640><c> But</c><00:00:53.039><c> I</c>
+need a rough pass, I can do that. But I
+need a rough pass, I can do that. But I
+do<00:00:53.600><c> not</c><00:00:53.840><c> use</c><00:00:54.000><c> it</c><00:00:54.239><c> for</c><00:00:54.399><c> writing.</c><00:00:54.879><c> I</c><00:00:55.120><c> find</c><00:00:55.199><c> that</c>
+do not use it for writing. I find that
+do not use it for writing. I find that
+chat<00:00:55.760><c> GPT</c><00:00:56.399><c> can</c><00:00:56.640><c> be</c><00:00:56.800><c> used</c><00:00:56.960><c> for</c><00:00:57.199><c> writing</c><00:00:57.440><c> if</c><00:00:57.680><c> I</c>
+chat GPT can be used for writing if I
+chat GPT can be used for writing if I
+push<00:00:58.079><c> it,</c><00:00:58.559><c> but</c><00:00:58.960><c> almost</c><00:00:59.359><c> always</c><00:00:59.760><c> I</c><00:01:00.000><c> go</c>
+push it, but almost always I go
+push it, but almost always I go
+somewhere<00:01:00.559><c> else</c><00:01:00.879><c> because</c><00:01:01.199><c> the</c><00:01:01.520><c> default</c><00:01:02.000><c> voice</c>
+somewhere else because the default voice
+somewhere else because the default voice
+for<00:01:02.480><c> chat</c><00:01:02.800><c> GPT</c><00:01:03.280><c> is</c><00:01:03.440><c> not</c><00:01:03.600><c> good</c><00:01:03.760><c> enough.</c><00:01:04.320><c> I</c><00:01:04.559><c> also</c>
+for chat GPT is not good enough. I also
+for chat GPT is not good enough. I also
+don't<00:01:05.199><c> use</c><00:01:05.439><c> chat</c><00:01:05.840><c> GPT</c><00:01:06.400><c> right</c><00:01:06.560><c> now</c><00:01:06.799><c> for</c>
+don't use chat GPT right now for
+don't use chat GPT right now for
+PowerPoint<00:01:07.920><c> and</c><00:01:08.159><c> I</c><00:01:08.400><c> don't</c><00:01:08.640><c> use</c><00:01:08.799><c> it</c><00:01:08.960><c> for</c><00:01:09.200><c> Excel.</c>
+PowerPoint and I don't use it for Excel.
+PowerPoint and I don't use it for Excel.
+I<00:01:10.159><c> don't</c><00:01:10.320><c> find</c><00:01:10.479><c> that</c><00:01:10.720><c> the</c><00:01:11.119><c> finished</c><00:01:11.520><c> quality</c>
+I don't find that the finished quality
+I don't find that the finished quality
+of<00:01:12.159><c> work</c><00:01:12.400><c> is</c><00:01:12.640><c> really</c><00:01:12.960><c> there.</c><00:01:13.439><c> I</c><00:01:13.680><c> will</c><00:01:13.920><c> use</c><00:01:14.159><c> it</c>
+of work is really there. I will use it
+of work is really there. I will use it
+to<00:01:14.560><c> produce</c><00:01:15.280><c> CSV</c><00:01:15.840><c> files</c><00:01:16.080><c> if</c><00:01:16.240><c> it's</c><00:01:16.400><c> just</c><00:01:16.560><c> a</c>
+to produce CSV files if it's just a
+to produce CSV files if it's just a
+simple<00:01:17.040><c> one</c><00:01:17.280><c> sheet</c><00:01:17.600><c> spreadsheet</c><00:01:18.080><c> and</c><00:01:18.240><c> it's</c>
+simple one sheet spreadsheet and it's
+simple one sheet spreadsheet and it's
+got<00:01:18.720><c> to</c><00:01:18.799><c> be</c><00:01:18.880><c> a</c><00:01:19.040><c> table.</c><00:01:19.520><c> Chad</c><00:01:19.840><c> JPT</c><00:01:20.320><c> does</c><00:01:20.479><c> great</c>
+got to be a table. Chad JPT does great
+got to be a table. Chad JPT does great
+at<00:01:20.799><c> that.</c><00:01:21.200><c> Moving</c><00:01:21.520><c> on.</c><00:01:21.920><c> I</c><00:01:22.159><c> use</c><00:01:22.560><c> Claude</c><00:01:23.119><c> Sonnet</c>
+at that. Moving on. I use Claude Sonnet
+at that. Moving on. I use Claude Sonnet
+4.5<00:01:24.799><c> a</c><00:01:25.119><c> lot.</c><00:01:25.680><c> I</c><00:01:25.920><c> use</c><00:01:26.080><c> it</c><00:01:26.320><c> specifically</c><00:01:26.960><c> for</c>
+4.5 a lot. I use it specifically for
+4.5 a lot. I use it specifically for
+writing<00:01:27.759><c> because</c><00:01:28.080><c> it's</c><00:01:28.320><c> very</c><00:01:28.560><c> very</c><00:01:28.799><c> good</c><00:01:28.960><c> at</c>
+writing because it's very very good at
+writing because it's very very good at
+picking<00:01:29.439><c> up</c><00:01:29.680><c> voice</c><00:01:30.159><c> and</c><00:01:30.479><c> at</c><00:01:30.720><c> following</c><00:01:31.119><c> my</c>
+picking up voice and at following my
+picking up voice and at following my
+instructions<00:01:31.920><c> and</c><00:01:32.159><c> actually</c><00:01:32.400><c> getting</c><00:01:32.640><c> voice</c>
+instructions and actually getting voice
+instructions and actually getting voice
+right.<00:01:33.520><c> Especially</c><00:01:34.159><c> if</c><00:01:34.400><c> I</c><00:01:34.640><c> give</c><00:01:34.799><c> it</c><00:01:35.040><c> a</c><00:01:35.439><c> sample</c>
+right. Especially if I give it a sample
+right. Especially if I give it a sample
+with<00:01:36.560><c> that</c><00:01:36.880><c> voice.</c><00:01:37.600><c> And</c><00:01:37.759><c> so</c><00:01:38.240><c> one</c><00:01:38.479><c> of</c><00:01:38.479><c> the</c>
+with that voice. And so one of the
+with that voice. And so one of the
+things<00:01:38.799><c> that</c><00:01:38.960><c> I</c><00:01:39.119><c> like</c><00:01:39.280><c> to</c><00:01:39.439><c> do</c><00:01:39.600><c> is</c><00:01:39.759><c> I</c><00:01:40.000><c> like</c><00:01:40.159><c> to</c>
+things that I like to do is I like to
+things that I like to do is I like to
+ask<00:01:40.720><c> it</c><00:01:40.960><c> to</c><00:01:41.200><c> brainstorm</c><00:01:41.920><c> in</c><00:01:42.159><c> my</c><00:01:42.400><c> voice</c><00:01:43.119><c> back</c>
+ask it to brainstorm in my voice back
+ask it to brainstorm in my voice back
+and<00:01:43.520><c> forth</c><00:01:43.840><c> with</c><00:01:44.079><c> me.</c><00:01:44.640><c> How</c><00:01:44.880><c> can</c><00:01:45.119><c> I</c><00:01:45.360><c> write</c><00:01:45.600><c> this</c>
+and forth with me. How can I write this
+and forth with me. How can I write this
+better?<00:01:46.399><c> Can</c><00:01:46.640><c> I</c><00:01:46.799><c> tweak</c><00:01:47.119><c> this</c><00:01:47.360><c> paragraph?</c><00:01:47.920><c> Can</c>
+better? Can I tweak this paragraph? Can
+better? Can I tweak this paragraph? Can
+I<00:01:48.240><c> do</c><00:01:48.320><c> a</c><00:01:48.560><c> better</c><00:01:48.720><c> job</c><00:01:49.040><c> formulating</c><00:01:49.600><c> this</c>
+I do a better job formulating this
+I do a better job formulating this
+point?<00:01:50.159><c> It's</c><00:01:50.399><c> a</c><00:01:50.640><c> writing</c><00:01:51.119><c> assistant.</c><00:01:52.240><c> It</c>
+point? It's a writing assistant. It
+point? It's a writing assistant. It
+doesn't<00:01:52.720><c> just</c><00:01:52.960><c> sort</c><00:01:53.119><c> of</c><00:01:53.360><c> produce</c><00:01:53.680><c> it</c><00:01:53.840><c> for</c><00:01:54.000><c> me</c>
+doesn't just sort of produce it for me
+doesn't just sort of produce it for me
+and<00:01:54.320><c> I</c><00:01:54.479><c> walk</c><00:01:54.720><c> away.</c><00:01:54.960><c> I</c><00:01:55.119><c> keep</c><00:01:55.280><c> emphasizing</c><00:01:55.759><c> this</c>
+and I walk away. I keep emphasizing this
+and I walk away. I keep emphasizing this
+with<00:01:56.159><c> writing.</c><00:01:56.560><c> You</c><00:01:56.720><c> are</c><00:01:56.880><c> accountable</c><00:01:57.360><c> for</c>
+with writing. You are accountable for
+with writing. You are accountable for
+every<00:01:57.759><c> word</c><00:01:58.000><c> you</c><00:01:58.240><c> write.</c><00:01:58.560><c> So,</c><00:01:58.719><c> if</c><00:01:58.799><c> you're</c>
+every word you write. So, if you're
+every word you write. So, if you're
+going<00:01:59.040><c> to</c><00:01:59.119><c> put</c><00:01:59.280><c> something</c><00:01:59.520><c> out</c><00:01:59.680><c> there,</c><00:02:00.320><c> you</c>
+going to put something out there, you
+going to put something out there, you
+better<00:02:00.719><c> own</c><00:02:00.960><c> it,</c><00:02:01.520><c> however</c><00:02:01.920><c> you</c><00:02:02.079><c> made</c><00:02:02.240><c> it,</c>
+better own it, however you made it,
+better own it, however you made it,
+whether<00:02:02.640><c> you're</c><00:02:02.799><c> writing</c><00:02:03.040><c> with</c><00:02:03.200><c> AI</c><00:02:03.439><c> or</c>
+whether you're writing with AI or
+whether you're writing with AI or
+without<00:02:03.920><c> AI.</c><00:02:04.479><c> And</c><00:02:04.640><c> so,</c><00:02:04.960><c> I</c><00:02:05.200><c> find</c><00:02:05.360><c> it's</c><00:02:05.520><c> a</c><00:02:05.680><c> great</c>
+without AI. And so, I find it's a great
+without AI. And so, I find it's a great
+thought<00:02:06.079><c> partner</c><00:02:06.399><c> when</c><00:02:06.640><c> I</c><00:02:06.799><c> work</c><00:02:06.880><c> with</c><00:02:07.040><c> it</c><00:02:07.200><c> that</c>
+thought partner when I work with it that
+thought partner when I work with it that
+way.<00:02:08.000><c> Bonnet</c><00:02:08.399><c> 4.5</c><00:02:09.039><c> is</c><00:02:09.280><c> also</c><00:02:09.599><c> what</c><00:02:09.840><c> I</c><00:02:10.080><c> go</c><00:02:10.239><c> to</c>
+way. Bonnet 4.5 is also what I go to
+way. Bonnet 4.5 is also what I go to
+when<00:02:10.640><c> I'm</c><00:02:10.879><c> doing</c><00:02:11.120><c> Excel</c><00:02:11.599><c> analysis</c><00:02:12.239><c> right</c><00:02:12.400><c> now.</c>
+when I'm doing Excel analysis right now.
+when I'm doing Excel analysis right now.
+It's<00:02:13.040><c> got</c><00:02:13.120><c> a</c><00:02:13.360><c> great</c><00:02:13.520><c> tool</c><00:02:13.760><c> set</c><00:02:13.920><c> for</c><00:02:14.080><c> that.</c><00:02:14.239><c> I</c>
+It's got a great tool set for that. I
+It's got a great tool set for that. I
+have<00:02:14.560><c> a</c><00:02:14.720><c> whole</c><00:02:14.879><c> guide</c><00:02:15.040><c> out</c><00:02:15.280><c> on</c><00:02:15.360><c> that</c><00:02:15.760><c> and</c><00:02:16.000><c> I</c>
+have a whole guide out on that and I
+have a whole guide out on that and I
+find<00:02:16.319><c> it</c><00:02:16.640><c> super</c><00:02:17.040><c> useful</c><00:02:17.520><c> because</c><00:02:17.840><c> I</c><00:02:18.080><c> can</c>
+find it super useful because I can
+find it super useful because I can
+actually<00:02:18.640><c> dig</c><00:02:18.959><c> in</c><00:02:19.440><c> and</c><00:02:20.160><c> understand</c><00:02:20.800><c> what's</c><00:02:21.040><c> in</c>
+actually dig in and understand what's in
+actually dig in and understand what's in
+the<00:02:21.360><c> box</c><00:02:21.760><c> and</c><00:02:22.080><c> produce</c><00:02:22.400><c> a</c><00:02:22.560><c> useful</c><00:02:22.959><c> analysis</c><00:02:23.360><c> or</c>
+the box and produce a useful analysis or
+the box and produce a useful analysis or
+edit<00:02:23.920><c> an</c><00:02:24.160><c> existing</c><00:02:24.560><c> file.</c><00:02:24.959><c> All</c><00:02:25.120><c> of</c><00:02:25.280><c> those</c>
+edit an existing file. All of those
+edit an existing file. All of those
+things<00:02:25.680><c> are</c><00:02:25.920><c> possible</c><00:02:26.239><c> with</c><00:02:26.480><c> Claude.</c><00:02:27.200><c> That</c>
+things are possible with Claude. That
+things are possible with Claude. That
+being<00:02:27.680><c> said,</c><00:02:28.319><c> there's</c><00:02:28.640><c> an</c><00:02:28.879><c> even</c><00:02:29.200><c> better</c><00:02:29.920><c> tool</c>
+being said, there's an even better tool
+being said, there's an even better tool
+out<00:02:30.640><c> there</c><00:02:31.200><c> for</c><00:02:31.520><c> PowerPoint</c><00:02:32.239><c> and</c><00:02:32.400><c> that</c><00:02:33.040><c> just</c>
+out there for PowerPoint and that just
+out there for PowerPoint and that just
+came<00:02:33.599><c> out</c><00:02:33.840><c> recently</c><00:02:34.480><c> and</c><00:02:34.800><c> I'm</c><00:02:35.040><c> really</c><00:02:35.200><c> torn</c>
+came out recently and I'm really torn
+came out recently and I'm really torn
+about<00:02:35.760><c> it.</c><00:02:35.920><c> I'm</c><00:02:36.080><c> going</c><00:02:36.160><c> to</c><00:02:36.319><c> tell</c><00:02:36.400><c> you</c><00:02:36.640><c> about</c><00:02:36.800><c> it</c>
+about it. I'm going to tell you about it
+about it. I'm going to tell you about it
+and<00:02:37.440><c> I'm</c><00:02:37.599><c> going</c><00:02:37.680><c> to</c><00:02:37.760><c> give</c><00:02:37.920><c> you</c><00:02:38.000><c> the</c><00:02:38.239><c> caveats</c>
+and I'm going to give you the caveats
+and I'm going to give you the caveats
+because<00:02:39.040><c> this</c><00:02:39.360><c> you're</c><00:02:39.599><c> getting</c><00:02:39.760><c> a</c><00:02:39.920><c> tour</c><00:02:40.080><c> of</c>
+because this you're getting a tour of
+because this you're getting a tour of
+the<00:02:40.319><c> workshop,</c><00:02:40.720><c> right?</c><00:02:40.879><c> You</c><00:02:40.959><c> get</c><00:02:41.120><c> to</c><00:02:41.280><c> see</c><00:02:41.440><c> how</c>
+the workshop, right? You get to see how
+the workshop, right? You get to see how
+Nate<00:02:42.000><c> does</c><00:02:42.160><c> his</c><00:02:42.400><c> personal</c><00:02:42.720><c> stack.</c><00:02:43.360><c> Kimmy</c><00:02:43.840><c> K2</c>
+Nate does his personal stack. Kimmy K2
+Nate does his personal stack. Kimmy K2
+is<00:02:44.720><c> an</c><00:02:44.879><c> open-</c><00:02:45.120><c> source</c><00:02:45.519><c> model</c><00:02:46.080><c> out</c><00:02:46.319><c> of</c><00:02:46.480><c> China</c>
+is an open- source model out of China
+is an open- source model out of China
+and<00:02:47.360><c> they</c><00:02:47.680><c> have</c><00:02:47.840><c> done</c><00:02:48.000><c> a</c><00:02:48.319><c> phenomenal</c><00:02:48.959><c> job</c><00:02:49.360><c> of</c>
+and they have done a phenomenal job of
+and they have done a phenomenal job of
+putting<00:02:49.920><c> together</c><00:02:50.160><c> a</c><00:02:50.480><c> PowerPoint</c><00:02:51.040><c> skill</c><00:02:51.599><c> that</c>
+putting together a PowerPoint skill that
+putting together a PowerPoint skill that
+enables<00:02:52.160><c> you</c><00:02:52.319><c> to</c><00:02:52.480><c> make</c><00:02:52.959><c> useful</c><00:02:53.599><c> PowerPoint</c>
+enables you to make useful PowerPoint
+enables you to make useful PowerPoint
+presentations<00:02:54.800><c> that</c><00:02:55.120><c> look</c><00:02:55.280><c> really</c><00:02:55.519><c> good.</c><00:02:55.760><c> And</c>
+presentations that look really good. And
+presentations that look really good. And
+I<00:02:56.160><c> will</c><00:02:56.239><c> show</c><00:02:56.480><c> one</c><00:02:56.720><c> with</c><00:02:56.879><c> the</c><00:02:57.040><c> Substack</c><00:02:57.519><c> write</c>
+I will show one with the Substack write
+I will show one with the Substack write
+up.<00:02:57.920><c> You</c><00:02:58.080><c> can</c><00:02:58.160><c> see</c><00:02:58.239><c> it's</c><00:02:58.480><c> a</c><00:02:58.640><c> very</c><00:02:58.800><c> simple</c>
+up. You can see it's a very simple
+up. You can see it's a very simple
+prompt,<00:02:59.280><c> but</c><00:02:59.519><c> you</c><00:02:59.680><c> get</c><00:02:59.760><c> a</c><00:02:59.920><c> very</c><00:03:00.080><c> useful</c>
+prompt, but you get a very useful
+prompt, but you get a very useful
+PowerPoint<00:03:00.800><c> out</c><00:03:00.959><c> of</c><00:03:01.040><c> it.</c><00:03:01.440><c> That</c><00:03:01.680><c> being</c><00:03:01.920><c> said,</c>
+PowerPoint out of it. That being said,
+PowerPoint out of it. That being said,
+because<00:03:03.120><c> of</c><00:03:03.360><c> the</c><00:03:03.840><c> where</c><00:03:04.319><c> the</c><00:03:04.560><c> data</c><00:03:04.879><c> is</c>
+because of the where the data is
+because of the where the data is
+located,<00:03:06.000><c> you</c><00:03:06.239><c> cannot</c><00:03:06.640><c> really</c><00:03:07.040><c> use</c><00:03:07.360><c> this</c><00:03:07.840><c> in</c>
+located, you cannot really use this in
+located, you cannot really use this in
+the<00:03:08.640><c> US</c><00:03:09.040><c> or</c><00:03:09.280><c> the</c><00:03:09.519><c> EU</c><00:03:10.239><c> for</c><00:03:10.560><c> corporate</c><00:03:10.959><c> data.</c>
+the US or the EU for corporate data.
+the US or the EU for corporate data.
+It's<00:03:11.760><c> just</c><00:03:11.920><c> the</c><00:03:12.159><c> protections</c><00:03:12.640><c> aren't</c><00:03:12.879><c> there.</c>
+It's just the protections aren't there.
+It's just the protections aren't there.
+And<00:03:13.519><c> so</c><00:03:13.680><c> if</c><00:03:13.920><c> you're</c><00:03:14.000><c> doing</c><00:03:14.159><c> a</c><00:03:14.319><c> fairly</c><00:03:14.640><c> generic</c>
+And so if you're doing a fairly generic
+And so if you're doing a fairly generic
+presentation<00:03:15.599><c> where</c><00:03:15.920><c> you're</c><00:03:16.080><c> not,</c><00:03:16.400><c> you</c><00:03:16.560><c> know,</c>
+presentation where you're not, you know,
+presentation where you're not, you know,
+you're<00:03:16.959><c> using</c><00:03:17.200><c> publicly</c><00:03:17.599><c> available</c>
+you're using publicly available
+you're using publicly available
+information<00:03:18.319><c> off</c><00:03:18.560><c> the</c><00:03:18.720><c> internet,</c><00:03:19.200><c> it's</c>
+information off the internet, it's
+information off the internet, it's
+phenomenal.<00:03:19.920><c> If</c><00:03:20.080><c> you're</c><00:03:20.159><c> using</c><00:03:20.319><c> it</c><00:03:20.480><c> for</c>
+phenomenal. If you're using it for
+phenomenal. If you're using it for
+personal<00:03:20.959><c> use</c><00:03:21.120><c> and</c><00:03:21.280><c> you</c><00:03:21.440><c> don't</c><00:03:21.599><c> mind,</c><00:03:22.000><c> it's</c>
+personal use and you don't mind, it's
+personal use and you don't mind, it's
+phenomenal.<00:03:23.040><c> Great</c><00:03:23.360><c> job.</c><00:03:24.080><c> If</c><00:03:24.400><c> you</c><00:03:24.560><c> need</c>
+phenomenal. Great job. If you need
+phenomenal. Great job. If you need
+corporate<00:03:25.760><c> data</c><00:03:26.159><c> protections,</c><00:03:26.959><c> I</c><00:03:27.120><c> find</c><00:03:27.280><c> that</c>
+corporate data protections, I find that
+corporate data protections, I find that
+Claude<00:03:28.080><c> Sonnet</c><00:03:28.560><c> 4.5</c><00:03:29.200><c> is</c><00:03:29.519><c> super</c><00:03:29.920><c> super</c><00:03:30.319><c> useful</c>
+Claude Sonnet 4.5 is super super useful
+Claude Sonnet 4.5 is super super useful
+for<00:03:30.959><c> PowerPoint</c><00:03:31.519><c> creation.</c><00:03:32.000><c> It's</c><00:03:32.239><c> just</c><00:03:32.400><c> a</c>
+for PowerPoint creation. It's just a
+for PowerPoint creation. It's just a
+little<00:03:32.799><c> bit</c><00:03:32.959><c> less</c><00:03:33.360><c> designed.</c><00:03:33.920><c> I</c><00:03:34.159><c> tend</c><00:03:34.319><c> to</c>
+little bit less designed. I tend to
+little bit less designed. I tend to
+prefer<00:03:34.720><c> a</c><00:03:34.959><c> spare,</c><00:03:35.599><c> elegant,</c><00:03:36.080><c> minimalist</c>
+prefer a spare, elegant, minimalist
+prefer a spare, elegant, minimalist
+approach<00:03:36.799><c> with</c><00:03:37.040><c> my</c><00:03:37.200><c> PowerPoints.</c><00:03:37.599><c> I</c><00:03:37.760><c> wrote</c><00:03:37.920><c> up</c>
+approach with my PowerPoints. I wrote up
+approach with my PowerPoints. I wrote up
+a<00:03:38.159><c> whole</c><00:03:38.319><c> guide</c><00:03:38.480><c> on</c><00:03:38.640><c> this</c><00:03:38.879><c> I</c><00:03:39.040><c> can</c><00:03:39.120><c> link.</c>
+a whole guide on this I can link.
+a whole guide on this I can link.
+It's<00:03:40.799><c> it's</c><00:03:41.280><c> going</c><00:03:41.360><c> to</c><00:03:41.440><c> be</c><00:03:41.599><c> what</c><00:03:41.840><c> you</c><00:03:42.000><c> need</c><00:03:42.080><c> it</c>
+It's it's going to be what you need it
+It's it's going to be what you need it
+to<00:03:42.400><c> be</c><00:03:42.560><c> with</c><00:03:42.720><c> with</c><00:03:43.120><c> Claude.</c><00:03:43.680><c> It's</c><00:03:43.840><c> going</c><00:03:43.920><c> to</c><00:03:44.000><c> be</c>
+to be with with Claude. It's going to be
+to be with with Claude. It's going to be
+usable.<00:03:44.640><c> It's</c><00:03:44.799><c> going</c><00:03:44.879><c> to</c><00:03:44.959><c> be</c><00:03:45.040><c> presentable.</c>
+usable. It's going to be presentable.
+usable. It's going to be presentable.
+But<00:03:45.840><c> if</c><00:03:46.000><c> you</c><00:03:46.159><c> have</c><00:03:46.239><c> a</c><00:03:46.400><c> very</c><00:03:46.640><c> elaborate</c>
+But if you have a very elaborate
+But if you have a very elaborate
+PowerPoint<00:03:48.000><c> style,</c><00:03:48.560><c> got</c><00:03:48.799><c> to</c><00:03:48.879><c> be</c><00:03:49.040><c> honest</c><00:03:49.200><c> with</c>
+PowerPoint style, got to be honest with
+PowerPoint style, got to be honest with
+you,<00:03:49.920><c> you're</c><00:03:50.159><c> not</c><00:03:50.319><c> going</c><00:03:50.400><c> to</c><00:03:50.480><c> get</c><00:03:50.640><c> what</c><00:03:50.799><c> you</c>
+you, you're not going to get what you
+you, you're not going to get what you
+want<00:03:51.120><c> out</c><00:03:51.280><c> of</c><00:03:51.360><c> Claude.</c><00:03:51.760><c> You're</c><00:03:51.840><c> not</c><00:03:51.920><c> going</c><00:03:52.000><c> to</c>
+want out of Claude. You're not going to
+want out of Claude. You're not going to
+get<00:03:52.159><c> what</c><00:03:52.319><c> you</c><00:03:52.400><c> want</c><00:03:52.560><c> out</c><00:03:52.720><c> of</c><00:03:52.799><c> any</c><00:03:53.040><c> AI</c><00:03:53.440><c> right</c>
+get what you want out of any AI right
+get what you want out of any AI right
+now.<00:03:54.000><c> The</c><00:03:54.159><c> AIs</c><00:03:54.560><c> that</c><00:03:54.720><c> are</c><00:03:54.879><c> doing</c><00:03:55.040><c> the</c><00:03:55.200><c> work</c>
+now. The AIs that are doing the work
+now. The AIs that are doing the work
+with<00:03:55.599><c> PowerPoint</c><00:03:56.080><c> either</c><00:03:56.400><c> have</c><00:03:56.560><c> fairly</c>
+with PowerPoint either have fairly
+with PowerPoint either have fairly
+strong<00:03:57.280><c> preset</c><00:03:57.760><c> styling</c><00:03:58.319><c> or</c><00:03:58.879><c> they're</c><00:03:59.200><c> very</c>
+strong preset styling or they're very
+strong preset styling or they're very
+clean<00:04:00.000><c> and</c><00:04:00.319><c> minimalist</c><00:04:00.799><c> and</c><00:04:00.959><c> elegant.</c><00:04:01.760><c> One</c>
+clean and minimalist and elegant. One
+clean and minimalist and elegant. One
+thing<00:04:02.000><c> I</c><00:04:02.239><c> will</c><00:04:02.400><c> call</c><00:04:02.560><c> out</c><00:04:02.720><c> is</c><00:04:02.959><c> I</c><00:04:03.200><c> do</c><00:04:03.360><c> not</c><00:04:03.519><c> use</c>
+thing I will call out is I do not use
+thing I will call out is I do not use
+Kimmy<00:04:04.159><c> K2</c><00:04:04.879><c> for</c><00:04:05.200><c> thinking.</c><00:04:05.760><c> I</c><00:04:06.000><c> don't</c><00:04:06.239><c> use</c><00:04:06.400><c> it</c>
+Kimmy K2 for thinking. I don't use it
+Kimmy K2 for thinking. I don't use it
+despite<00:04:06.959><c> the</c><00:04:07.280><c> benchmarks</c><00:04:07.840><c> that</c><00:04:08.000><c> it</c><00:04:08.159><c> recently</c>
+despite the benchmarks that it recently
+despite the benchmarks that it recently
+took.<00:04:08.799><c> like</c><00:04:09.040><c> I</c><00:04:09.200><c> find</c><00:04:09.280><c> that</c><00:04:09.439><c> it's</c><00:04:09.599><c> just</c><00:04:09.760><c> not</c><00:04:09.920><c> as</c>
+took. like I find that it's just not as
+took. like I find that it's just not as
+useful<00:04:10.720><c> in</c><00:04:10.959><c> practice.</c><00:04:11.439><c> This</c><00:04:11.599><c> is</c><00:04:11.680><c> why</c><00:04:11.840><c> you</c>
+useful in practice. This is why you
+useful in practice. This is why you
+don't<00:04:12.159><c> trust</c><00:04:12.319><c> benchmarking</c><00:04:13.040><c> and</c><00:04:13.280><c> instead</c><00:04:13.680><c> I</c>
+don't trust benchmarking and instead I
+don't trust benchmarking and instead I
+use<00:04:14.400><c> chat</c><00:04:14.720><c> GPT</c><00:04:15.120><c> for</c><00:04:15.360><c> thinking</c><00:04:15.680><c> and</c><00:04:15.840><c> I</c><00:04:16.079><c> can</c><00:04:16.160><c> pull</c>
+use chat GPT for thinking and I can pull
+use chat GPT for thinking and I can pull
+outlines<00:04:16.799><c> and</c><00:04:16.959><c> put</c><00:04:17.120><c> them</c><00:04:17.280><c> into</c><00:04:17.440><c> Kimmy</c><00:04:17.759><c> K2</c><00:04:18.079><c> if</c>
+outlines and put them into Kimmy K2 if
+outlines and put them into Kimmy K2 if
+the<00:04:18.320><c> data</c><00:04:18.479><c> is</c><00:04:18.639><c> not</c><00:04:18.799><c> sensitive.</c><00:04:19.600><c> So</c><00:04:20.079><c> that's</c><00:04:20.320><c> the</c>
+the data is not sensitive. So that's the
+the data is not sensitive. So that's the
+PowerPoint<00:04:20.959><c> piece.</c><00:04:21.440><c> That's</c><00:04:21.600><c> the</c><00:04:21.759><c> Excel</c>
+PowerPoint piece. That's the Excel
+PowerPoint piece. That's the Excel
+piece.<00:04:22.720><c> There's</c><00:04:22.960><c> a</c><00:04:23.040><c> little</c><00:04:23.120><c> bit</c><00:04:23.280><c> of</c><00:04:23.360><c> the</c>
+piece. There's a little bit of the
+piece. There's a little bit of the
+writing<00:04:23.759><c> piece</c><00:04:24.000><c> in</c><00:04:24.240><c> there.</c><00:04:24.639><c> You</c><00:04:24.880><c> may</c><00:04:25.040><c> wonder</c>
+writing piece in there. You may wonder
+writing piece in there. You may wonder
+what<00:04:25.520><c> about</c><00:04:25.759><c> formatting</c><00:04:26.320><c> word</c><00:04:26.560><c> docs.</c><00:04:27.199><c> Sonnet</c>
+what about formatting word docs. Sonnet
+what about formatting word docs. Sonnet
+4.5<00:04:28.240><c> is</c><00:04:28.479><c> actually</c><00:04:28.800><c> surprisingly</c><00:04:29.680><c> useful</c><00:04:30.000><c> for</c>
+4.5 is actually surprisingly useful for
+4.5 is actually surprisingly useful for
+formatting<00:04:30.720><c> word</c><00:04:30.960><c> documents.</c><00:04:31.520><c> You</c><00:04:31.680><c> just</c><00:04:31.840><c> have</c>
+formatting word documents. You just have
+formatting word documents. You just have
+to<00:04:32.160><c> ask</c><00:04:32.479><c> it</c><00:04:32.960><c> and</c><00:04:33.199><c> kind</c><00:04:33.360><c> of</c><00:04:33.440><c> be</c><00:04:33.680><c> specific</c><00:04:34.080><c> about</c>
+to ask it and kind of be specific about
+to ask it and kind of be specific about
+what<00:04:34.560><c> you</c><00:04:34.800><c> want.</c><00:04:35.199><c> And</c><00:04:35.360><c> so</c><00:04:35.520><c> that's</c><00:04:35.759><c> another</c>
+what you want. And so that's another
+what you want. And so that's another
+useful<00:04:37.199><c> tip.</c><00:04:37.840><c> The</c><00:04:38.080><c> weakness,</c><00:04:38.720><c> and</c><00:04:38.960><c> I</c><00:04:39.120><c> know</c>
+useful tip. The weakness, and I know
+useful tip. The weakness, and I know
+people<00:04:39.520><c> are</c><00:04:39.680><c> going</c><00:04:39.759><c> to</c><00:04:39.919><c> call</c><00:04:40.160><c> this</c><00:04:40.320><c> out,</c><00:04:40.479><c> so</c>
+people are going to call this out, so
+people are going to call this out, so
+I'll<00:04:40.880><c> just</c><00:04:41.040><c> say</c><00:04:41.120><c> it.</c><00:04:41.280><c> I</c><00:04:41.520><c> struggle</c><00:04:41.759><c> with</c><00:04:41.919><c> it,</c>
+I'll just say it. I struggle with it,
+I'll just say it. I struggle with it,
+too.<00:04:42.479><c> Claude</c><00:04:43.040><c> has</c><00:04:43.520><c> context</c><00:04:44.240><c> window</c>
+too. Claude has context window
+too. Claude has context window
+limitations.<00:04:45.680><c> In</c><00:04:45.919><c> particular,</c><00:04:46.560><c> if</c><00:04:46.800><c> you</c><00:04:46.960><c> are</c>
+limitations. In particular, if you are
+limitations. In particular, if you are
+building<00:04:47.600><c> in</c><00:04:48.160><c> a</c><00:04:48.560><c> lengthy</c><00:04:49.040><c> Excel</c><00:04:49.360><c> or</c>
+building in a lengthy Excel or
+building in a lengthy Excel or
+PowerPoint<00:04:50.240><c> skill,</c><00:04:50.880><c> you</c><00:04:51.120><c> will</c><00:04:51.360><c> struggle</c><00:04:52.080><c> at</c>
+PowerPoint skill, you will struggle at
+PowerPoint skill, you will struggle at
+some<00:04:52.639><c> point</c><00:04:53.120><c> with</c><00:04:53.440><c> Claude</c><00:04:53.840><c> running</c><00:04:54.080><c> out</c><00:04:54.240><c> of</c>
+some point with Claude running out of
+some point with Claude running out of
+context.<00:04:54.800><c> How</c><00:04:54.960><c> do</c><00:04:55.040><c> I</c><00:04:55.280><c> deal</c><00:04:55.440><c> with</c><00:04:55.600><c> that</c><00:04:55.840><c> person?</c>
+context. How do I deal with that person?
+context. How do I deal with that person?
+Well,<00:04:56.639><c> I</c><00:04:56.880><c> wrote</c><00:04:57.040><c> in</c><00:04:57.280><c> my</c><00:04:57.440><c> guide</c><00:04:57.600><c> on</c><00:04:57.919><c> PowerPoints</c>
+Well, I wrote in my guide on PowerPoints
+Well, I wrote in my guide on PowerPoints
+that<00:04:58.639><c> that</c><00:04:58.960><c> you</c><00:04:59.199><c> want</c><00:04:59.280><c> to</c><00:04:59.440><c> think</c><00:04:59.600><c> about</c>
+that that you want to think about
+that that you want to think about
+chunking<00:05:00.240><c> the</c><00:05:00.400><c> deck,</c><00:05:00.720><c> right?</c><00:05:00.880><c> You</c><00:05:01.040><c> don't</c>
+chunking the deck, right? You don't
+chunking the deck, right? You don't
+necessarily<00:05:01.680><c> want</c><00:05:01.840><c> to</c><00:05:01.919><c> generate</c><00:05:02.320><c> the</c><00:05:02.479><c> whole</c>
+necessarily want to generate the whole
+necessarily want to generate the whole
+deck<00:05:02.880><c> in</c><00:05:03.120><c> Claude</c><00:05:03.440><c> at</c><00:05:03.520><c> once.</c><00:05:03.759><c> You</c><00:05:03.919><c> want</c><00:05:04.000><c> to</c>
+deck in Claude at once. You want to
+deck in Claude at once. You want to
+break<00:05:04.240><c> it</c><00:05:04.400><c> up</c><00:05:04.560><c> into</c><00:05:04.800><c> pieces,</c><00:05:05.440><c> maybe</c><00:05:05.680><c> five</c><00:05:05.919><c> or</c>
+break it up into pieces, maybe five or
+break it up into pieces, maybe five or
+six<00:05:06.240><c> or</c><00:05:06.400><c> eight</c><00:05:06.639><c> slides</c><00:05:06.880><c> each.</c><00:05:07.360><c> That's</c><00:05:07.680><c> true.</c>
+six or eight slides each. That's true.
+six or eight slides each. That's true.
+You<00:05:08.160><c> also</c><00:05:08.400><c> want</c><00:05:08.479><c> to</c><00:05:08.560><c> separate</c><00:05:08.880><c> out</c><00:05:09.039><c> the</c><00:05:09.199><c> data</c>
+You also want to separate out the data
+You also want to separate out the data
+and<00:05:09.600><c> the</c><00:05:09.759><c> narrative</c><00:05:10.000><c> piece</c><00:05:10.320><c> on</c><00:05:10.479><c> bigger</c><00:05:10.800><c> decks</c>
+and the narrative piece on bigger decks
+and the narrative piece on bigger decks
+so<00:05:11.199><c> that</c><00:05:11.280><c> you</c><00:05:11.440><c> can</c><00:05:11.520><c> get</c><00:05:11.680><c> those</c><00:05:11.919><c> right</c>
+so that you can get those right
+so that you can get those right
+beforehand<00:05:12.560><c> and</c><00:05:12.800><c> you</c><00:05:12.960><c> don't</c><00:05:13.039><c> burn</c><00:05:13.360><c> tokens</c><00:05:13.680><c> on</c>
+beforehand and you don't burn tokens on
+beforehand and you don't burn tokens on
+those<00:05:14.080><c> in</c><00:05:14.320><c> a</c><00:05:14.479><c> debt</c><00:05:14.720><c> creation</c><00:05:15.199><c> conversation.</c>
+those in a debt creation conversation.
+those in a debt creation conversation.
+If<00:05:16.320><c> I</c><00:05:16.560><c> run</c><00:05:17.039><c> into</c><00:05:17.520><c> issues</c><00:05:18.320><c> once</c><00:05:18.800><c> in</c><00:05:19.120><c> the</c><00:05:19.280><c> chat,</c><00:05:19.840><c> I</c>
+If I run into issues once in the chat, I
+If I run into issues once in the chat, I
+always<00:05:20.560><c> go</c><00:05:20.800><c> back</c><00:05:21.199><c> and</c><00:05:21.440><c> I</c><00:05:21.680><c> restart</c><00:05:22.080><c> the</c><00:05:22.320><c> chat</c>
+always go back and I restart the chat
+always go back and I restart the chat
+with<00:05:22.800><c> a</c><00:05:23.120><c> smaller</c><00:05:23.440><c> ask.</c><00:05:23.919><c> I</c><00:05:24.080><c> have</c><00:05:24.240><c> very</c><00:05:24.560><c> little</c>
+with a smaller ask. I have very little
+with a smaller ask. I have very little
+patience<00:05:25.280><c> for</c><00:05:25.520><c> running</c><00:05:25.759><c> into</c><00:05:26.000><c> issues</c><00:05:26.400><c> more</c>
+patience for running into issues more
+patience for running into issues more
+than<00:05:26.720><c> once.</c><00:05:27.120><c> And</c><00:05:27.360><c> so</c><00:05:27.759><c> if</c><00:05:28.000><c> I</c><00:05:28.240><c> run</c><00:05:28.400><c> into</c><00:05:28.800><c> to</c>
+than once. And so if I run into to
+than once. And so if I run into to
+context<00:05:29.600><c> window</c><00:05:29.840><c> issues</c><00:05:30.160><c> on</c><00:05:30.320><c> claude,</c><00:05:30.639><c> I'm</c>
+context window issues on claude, I'm
+context window issues on claude, I'm
+always<00:05:31.039><c> going</c><00:05:31.199><c> to</c><00:05:31.280><c> condense</c><00:05:31.680><c> the</c><00:05:31.840><c> ask</c><00:05:32.160><c> down</c>
+always going to condense the ask down
+always going to condense the ask down
+and<00:05:32.639><c> go</c><00:05:32.800><c> piece</c><00:05:33.120><c> by</c><00:05:33.360><c> piece</c><00:05:33.759><c> and</c><00:05:34.000><c> I</c><00:05:34.160><c> will</c><00:05:34.479><c> find</c>
+and go piece by piece and I will find
+and go piece by piece and I will find
+out<00:05:35.440><c> where</c><00:05:35.680><c> the</c><00:05:35.919><c> context</c><00:05:36.320><c> window</c><00:05:36.639><c> runs</c><00:05:36.880><c> out</c>
+out where the context window runs out
+out where the context window runs out
+and<00:05:37.199><c> I</c><00:05:37.360><c> will</c><00:05:37.440><c> get</c><00:05:37.680><c> usable</c><00:05:38.320><c> information</c><00:05:38.800><c> in</c><00:05:39.039><c> the</c>
+and I will get usable information in the
+and I will get usable information in the
+meantime.<00:05:39.759><c> And</c><00:05:40.000><c> so</c><00:05:40.320><c> yes,</c><00:05:40.560><c> do</c><00:05:40.800><c> I</c><00:05:40.960><c> start</c><00:05:41.120><c> again?</c>
+meantime. And so yes, do I start again?
+meantime. And so yes, do I start again?
+I<00:05:41.600><c> absolutely</c><00:05:42.000><c> do,</c><00:05:42.240><c> but</c><00:05:42.479><c> I'm</c><00:05:42.720><c> very</c><00:05:42.960><c> careful</c>
+I absolutely do, but I'm very careful
+I absolutely do, but I'm very careful
+not<00:05:43.919><c> to</c><00:05:44.160><c> repeat</c><00:05:44.479><c> my</c><00:05:44.720><c> mistake.</c><00:05:45.199><c> I</c><00:05:45.360><c> do</c><00:05:45.600><c> not</c><00:05:45.680><c> want</c>
+not to repeat my mistake. I do not want
+not to repeat my mistake. I do not want
+to<00:05:45.919><c> go</c><00:05:46.080><c> back</c><00:05:46.240><c> and</c><00:05:46.479><c> have</c><00:05:46.639><c> to</c><00:05:46.720><c> have</c><00:05:46.960><c> multiple</c>
+to go back and have to have multiple
+to go back and have to have multiple
+times<00:05:47.919><c> hitting</c><00:05:48.160><c> the</c><00:05:48.400><c> context</c><00:05:48.800><c> window.</c><00:05:49.120><c> So</c><00:05:49.280><c> if</c>
+times hitting the context window. So if
+times hitting the context window. So if
+I<00:05:49.600><c> ask</c><00:05:49.919><c> for</c><00:05:50.080><c> a</c><00:05:50.240><c> PowerPoint</c><00:05:50.880><c> and</c><00:05:51.120><c> it</c><00:05:51.280><c> hits</c><00:05:51.440><c> a</c>
+I ask for a PowerPoint and it hits a
+I ask for a PowerPoint and it hits a
+wall<00:05:51.759><c> at</c><00:05:51.919><c> the</c><00:05:52.080><c> end</c><00:05:52.160><c> of</c><00:05:52.240><c> the</c><00:05:52.320><c> context</c><00:05:52.720><c> window,</c><00:05:53.120><c> I</c>
+wall at the end of the context window, I
+wall at the end of the context window, I
+never<00:05:53.759><c> repeat</c><00:05:54.080><c> that</c><00:05:54.320><c> ask.</c><00:05:54.639><c> If</c><00:05:54.800><c> I</c><00:05:54.960><c> do</c><00:05:55.039><c> that</c><00:05:55.120><c> with</c>
+never repeat that ask. If I do that with
+never repeat that ask. If I do that with
+Excel,<00:05:55.680><c> I</c><00:05:55.840><c> never</c><00:05:56.080><c> repeat</c><00:05:56.320><c> that</c><00:05:56.479><c> ask.</c><00:05:57.039><c> What</c>
+Excel, I never repeat that ask. What
+Excel, I never repeat that ask. What
+about<00:05:57.440><c> search?</c><00:05:57.840><c> So,</c><00:05:58.080><c> with</c><00:05:58.320><c> search,</c><00:05:58.720><c> I</c><00:05:58.960><c> love</c>
+about search? So, with search, I love
+about search? So, with search, I love
+perplexity.<00:05:59.919><c> I</c><00:06:00.160><c> find</c><00:06:00.240><c> the</c><00:06:00.479><c> perplexity</c><00:06:00.960><c> is</c>
+perplexity. I find the perplexity is
+perplexity. I find the perplexity is
+really<00:06:01.440><c> useful</c><00:06:01.680><c> for</c><00:06:01.919><c> most</c><00:06:02.160><c> general</c><00:06:02.560><c> purpose</c>
+really useful for most general purpose
+really useful for most general purpose
+searches.<00:06:03.280><c> I</c><00:06:03.440><c> love</c><00:06:03.520><c> the</c><00:06:03.759><c> research</c><00:06:04.160><c> piece.</c><00:06:04.880><c> Uh,</c>
+searches. I love the research piece. Uh,
+searches. I love the research piece. Uh,
+and<00:06:05.360><c> I</c><00:06:05.520><c> wrote</c><00:06:05.680><c> about</c><00:06:05.840><c> this</c><00:06:06.080><c> recently,</c><00:06:06.479><c> too.</c><00:06:06.639><c> I</c>
+and I wrote about this recently, too. I
+and I wrote about this recently, too. I
+love<00:06:06.880><c> the</c><00:06:07.039><c> research</c><00:06:07.360><c> piece.</c><00:06:07.680><c> I</c><00:06:07.919><c> love</c><00:06:08.080><c> the</c><00:06:08.639><c> labs</c>
+love the research piece. I love the labs
+love the research piece. I love the labs
+piece<00:06:09.600><c> where</c><00:06:09.919><c> you</c><00:06:10.080><c> can</c><00:06:10.240><c> dive</c><00:06:10.479><c> in</c><00:06:10.880><c> on</c><00:06:11.280><c> discovery</c>
+piece where you can dive in on discovery
+piece where you can dive in on discovery
+and<00:06:12.240><c> understanding</c><00:06:12.800><c> and</c><00:06:13.039><c> creating</c><00:06:13.360><c> reports.</c>
+and understanding and creating reports.
+and understanding and creating reports.
+It's<00:06:14.080><c> super</c><00:06:14.319><c> fun,</c><00:06:15.039><c> but</c><00:06:15.280><c> it's</c><00:06:15.440><c> not</c><00:06:15.600><c> perfect.</c>
+It's super fun, but it's not perfect.
+It's super fun, but it's not perfect.
+And<00:06:16.160><c> there</c><00:06:16.400><c> is</c><00:06:16.560><c> one</c><00:06:16.800><c> use</c><00:06:17.039><c> case</c><00:06:17.280><c> where</c><00:06:17.440><c> it</c>
+And there is one use case where it
+And there is one use case where it
+really<00:06:17.919><c> struggles</c><00:06:18.560><c> and</c><00:06:18.800><c> that</c><00:06:18.960><c> is</c><00:06:19.280><c> finding</c>
+really struggles and that is finding
+really struggles and that is finding
+recent<00:06:20.720><c> information</c><00:06:21.440><c> on</c><00:06:21.840><c> social</c><00:06:22.240><c> networks</c>
+recent information on social networks
+recent information on social networks
+about<00:06:23.600><c> a</c><00:06:23.919><c> trending</c><00:06:24.400><c> topic.</c><00:06:25.120><c> It</c><00:06:25.280><c> just</c><00:06:25.680><c> not</c><00:06:25.840><c> as</c>
+about a trending topic. It just not as
+about a trending topic. It just not as
+good.<00:06:26.400><c> And</c><00:06:26.560><c> so</c><00:06:27.280><c> as</c><00:06:27.520><c> funny</c><00:06:27.680><c> as</c><00:06:27.840><c> it</c><00:06:28.080><c> sounds</c><00:06:28.880><c> 4</c><00:06:29.280><c> is</c>
+good. And so as funny as it sounds 4 is
+good. And so as funny as it sounds 4 is
+really<00:06:29.919><c> really</c><00:06:30.240><c> good</c><00:06:30.479><c> at</c><00:06:30.800><c> just</c><00:06:31.199><c> that</c><00:06:31.840><c> piece.</c>
+really really good at just that piece.
+really really good at just that piece.
+And<00:06:32.639><c> so</c><00:06:32.800><c> I</c><00:06:32.960><c> use</c><00:06:33.120><c> Gro</c><00:06:33.520><c> for</c><00:06:33.759><c> that.</c><00:06:33.919><c> I</c><00:06:34.080><c> will</c><00:06:34.160><c> go</c><00:06:34.240><c> and</c>
+And so I use Gro for that. I will go and
+And so I use Gro for that. I will go and
+say<00:06:34.720><c> tell</c><00:06:34.880><c> me</c><00:06:35.120><c> what</c><00:06:35.360><c> people</c><00:06:35.680><c> are</c><00:06:35.840><c> saying</c><00:06:36.080><c> on</c>
+say tell me what people are saying on
+say tell me what people are saying on
+Reddit<00:06:36.720><c> on</c><00:06:36.960><c> X</c><00:06:37.840><c> about</c><00:06:38.160><c> this</c><00:06:38.560><c> particular</c><00:06:39.039><c> issue.</c>
+Reddit on X about this particular issue.
+Reddit on X about this particular issue.
+Especially<00:06:40.240><c> if</c><00:06:40.479><c> you</c><00:06:40.720><c> have</c><00:06:40.960><c> like</c><00:06:41.199><c> an</c><00:06:41.440><c> AI</c><00:06:41.840><c> topic</c>
+Especially if you have like an AI topic
+Especially if you have like an AI topic
+that<00:06:42.319><c> is</c><00:06:42.479><c> trending</c><00:06:42.800><c> or</c><00:06:42.960><c> a</c><00:06:43.120><c> brand</c><00:06:43.360><c> new</c><00:06:43.919><c> uh</c>
+that is trending or a brand new uh
+that is trending or a brand new uh
+product<00:06:44.400><c> launch</c><00:06:44.720><c> and</c><00:06:44.880><c> you</c><00:06:45.039><c> want</c><00:06:45.120><c> to</c><00:06:45.199><c> know</c><00:06:45.280><c> what</c>
+product launch and you want to know what
+product launch and you want to know what
+people<00:06:45.680><c> are</c><00:06:45.840><c> saying</c><00:06:46.080><c> about</c><00:06:46.240><c> it.</c><00:06:46.800><c> Grock</c><00:06:47.199><c> is</c>
+people are saying about it. Grock is
+people are saying about it. Grock is
+super<00:06:47.759><c> super</c><00:06:48.160><c> useful</c><00:06:48.720><c> for</c><00:06:49.039><c> digging</c><00:06:49.360><c> in</c><00:06:49.520><c> and</c>
+super super useful for digging in and
+super super useful for digging in and
+understanding<00:06:50.240><c> that.</c><00:06:50.560><c> I</c><00:06:50.800><c> don't</c><00:06:50.960><c> necessarily</c>
+understanding that. I don't necessarily
+understanding that. I don't necessarily
+trust<00:06:51.759><c> it</c><00:06:51.919><c> for</c><00:06:52.160><c> larger</c><00:06:52.560><c> scale</c><00:06:52.800><c> thinking.</c><00:06:53.280><c> I</c>
+trust it for larger scale thinking. I
+trust it for larger scale thinking. I
+don't<00:06:53.680><c> trust</c><00:06:53.919><c> it</c><00:06:54.080><c> for</c><00:06:54.240><c> outlining.</c><00:06:54.880><c> I</c><00:06:55.120><c> don't</c>
+don't trust it for outlining. I don't
+don't trust it for outlining. I don't
+trust<00:06:55.440><c> it</c><00:06:55.680><c> for</c><00:06:55.919><c> general</c><00:06:56.319><c> web</c><00:06:56.560><c> research.</c><00:06:57.039><c> But</c>
+trust it for general web research. But
+trust it for general web research. But
+for<00:06:57.360><c> that</c><00:06:57.600><c> particular</c><00:06:58.080><c> thing,</c><00:06:58.639><c> it</c><00:06:58.800><c> is</c><00:06:58.960><c> very</c>
+for that particular thing, it is very
+for that particular thing, it is very
+very<00:06:59.520><c> good</c><00:06:59.759><c> for</c><00:07:00.000><c> finding</c><00:07:00.639><c> social</c>
+very good for finding social
+very good for finding social
+conversation.<00:07:02.160><c> What</c><00:07:02.400><c> about</c><00:07:02.639><c> web</c><00:07:02.880><c> browsers?</c>
+conversation. What about web browsers?
+conversation. What about web browsers?
+So<00:07:04.000><c> I</c><00:07:04.240><c> am</c><00:07:04.479><c> really</c><00:07:04.720><c> torn</c><00:07:04.960><c> on</c><00:07:05.120><c> this</c><00:07:05.360><c> one.</c><00:07:05.759><c> My</c>
+So I am really torn on this one. My
+So I am really torn on this one. My
+generalpurpose<00:07:07.199><c> web</c><00:07:07.440><c> browser</c><00:07:08.160><c> remains</c>
+generalpurpose web browser remains
+generalpurpose web browser remains
+Comet.<00:07:09.680><c> So</c><00:07:09.919><c> I'm</c><00:07:10.160><c> using</c><00:07:10.400><c> Comet</c><00:07:10.880><c> a</c><00:07:11.039><c> lot.</c><00:07:11.599><c> I</c><00:07:11.840><c> use</c>
+Comet. So I'm using Comet a lot. I use
+Comet. So I'm using Comet a lot. I use
+it<00:07:12.080><c> and</c><00:07:12.240><c> I</c><00:07:12.400><c> like</c><00:07:12.560><c> the</c><00:07:12.720><c> data</c><00:07:12.960><c> ins</c><00:07:13.199><c> and</c><00:07:13.280><c> outs</c><00:07:13.520><c> it</c>
+it and I like the data ins and outs it
+it and I like the data ins and outs it
+has.<00:07:13.919><c> I'm</c><00:07:14.160><c> particularly</c><00:07:14.720><c> fond</c><00:07:14.880><c> of</c><00:07:15.039><c> its</c>
+has. I'm particularly fond of its
+has. I'm particularly fond of its
+ability<00:07:15.599><c> to</c><00:07:15.840><c> do</c><00:07:16.080><c> generative</c><00:07:17.039><c> you.</c><00:07:17.360><c> So</c><00:07:17.520><c> if</c><00:07:17.680><c> I'm</c>
+ability to do generative you. So if I'm
+ability to do generative you. So if I'm
+sending<00:07:18.080><c> a</c><00:07:18.240><c> message</c><00:07:18.479><c> in</c><00:07:18.639><c> LinkedIn,</c><00:07:19.039><c> it</c><00:07:19.199><c> will</c>
+sending a message in LinkedIn, it will
+sending a message in LinkedIn, it will
+literally<00:07:19.599><c> generate</c><00:07:19.919><c> a</c><00:07:20.080><c> message</c><00:07:20.400><c> pane</c><00:07:20.639><c> for</c><00:07:20.800><c> me</c>
+literally generate a message pane for me
+literally generate a message pane for me
+and<00:07:21.039><c> let</c><00:07:21.199><c> me</c><00:07:21.280><c> approve</c><00:07:21.599><c> a</c><00:07:21.759><c> message</c><00:07:22.000><c> I</c><00:07:22.160><c> send</c><00:07:22.400><c> and</c>
+and let me approve a message I send and
+and let me approve a message I send and
+all<00:07:22.720><c> of</c><00:07:22.800><c> that.</c><00:07:23.360><c> That's</c><00:07:23.599><c> great.</c><00:07:24.319><c> And</c><00:07:24.479><c> it</c><00:07:24.639><c> has</c>
+all of that. That's great. And it has
+all of that. That's great. And it has
+data<00:07:25.039><c> ins</c><00:07:25.280><c> and</c><00:07:25.440><c> outs</c><00:07:25.759><c> to</c><00:07:25.919><c> a</c><00:07:26.160><c> few</c><00:07:26.319><c> places</c><00:07:26.800><c> uh</c>
+data ins and outs to a few places uh
+data ins and outs to a few places uh
+including<00:07:27.360><c> LinkedIn</c><00:07:27.759><c> where</c><00:07:28.000><c> it's</c><00:07:28.160><c> very</c><00:07:28.400><c> easy</c>
+including LinkedIn where it's very easy
+including LinkedIn where it's very easy
+for<00:07:28.800><c> me</c><00:07:28.960><c> to</c><00:07:29.120><c> not</c><00:07:29.360><c> have</c><00:07:29.520><c> to</c><00:07:29.599><c> go.</c><00:07:29.840><c> I</c><00:07:30.000><c> got</c><00:07:30.160><c> to</c><00:07:30.240><c> be</c>
+for me to not have to go. I got to be
+for me to not have to go. I got to be
+honest,<00:07:30.560><c> I</c><00:07:30.800><c> don't</c><00:07:30.880><c> love</c><00:07:31.039><c> LinkedIn.</c><00:07:31.440><c> I</c><00:07:31.599><c> don't</c>
+honest, I don't love LinkedIn. I don't
+honest, I don't love LinkedIn. I don't
+like<00:07:31.840><c> to</c><00:07:32.000><c> be</c><00:07:32.160><c> there.</c><00:07:32.479><c> Having</c><00:07:32.960><c> a</c><00:07:33.120><c> data</c><00:07:33.360><c> in</c><00:07:33.520><c> and</c>
+like to be there. Having a data in and
+like to be there. Having a data in and
+out<00:07:33.840><c> where</c><00:07:34.000><c> I</c><00:07:34.080><c> don't</c><00:07:34.240><c> have</c><00:07:34.319><c> to</c><00:07:34.400><c> interact</c><00:07:34.720><c> with</c>
+out where I don't have to interact with
+out where I don't have to interact with
+the<00:07:35.039><c> site</c><00:07:35.280><c> is</c><00:07:35.680><c> fantastic</c><00:07:36.319><c> for</c><00:07:36.560><c> me.</c><00:07:36.880><c> But</c><00:07:37.039><c> beyond</c>
+the site is fantastic for me. But beyond
+the site is fantastic for me. But beyond
+that,<00:07:37.840><c> it's</c><00:07:38.160><c> very</c><00:07:38.400><c> useful</c><00:07:38.720><c> because</c><00:07:38.960><c> it</c>
+that, it's very useful because it
+that, it's very useful because it
+combines<00:07:39.599><c> perplexity</c><00:07:40.319><c> search</c><00:07:40.560><c> powers</c><00:07:41.280><c> with</c>
+combines perplexity search powers with
+combines perplexity search powers with
+an<00:07:41.759><c> agentic</c><00:07:42.319><c> browser.</c><00:07:42.800><c> And</c><00:07:43.039><c> so</c><00:07:43.520><c> it's</c><00:07:43.759><c> easy</c><00:07:44.000><c> for</c>
+an agentic browser. And so it's easy for
+an agentic browser. And so it's easy for
+me<00:07:44.400><c> to</c><00:07:44.639><c> get</c><00:07:44.880><c> a</c><00:07:45.120><c> chat</c><00:07:45.360><c> next</c><00:07:45.599><c> to</c><00:07:45.759><c> the</c><00:07:45.840><c> browser</c><00:07:46.160><c> to</c>
+me to get a chat next to the browser to
+me to get a chat next to the browser to
+understand<00:07:46.639><c> what</c><00:07:46.800><c> the</c><00:07:46.960><c> page</c><00:07:47.120><c> is</c><00:07:47.280><c> doing</c><00:07:47.520><c> to</c><00:07:47.680><c> ask</c>
+understand what the page is doing to ask
+understand what the page is doing to ask
+for<00:07:48.000><c> the</c><00:07:48.639><c> to</c><00:07:48.800><c> do</c><00:07:48.960><c> other</c><00:07:49.280><c> things</c><00:07:49.599><c> off</c><00:07:49.919><c> page</c><00:07:50.160><c> for</c>
+for the to do other things off page for
+for the to do other things off page for
+me,<00:07:50.560><c> which</c><00:07:50.720><c> I</c><00:07:50.880><c> find</c><00:07:51.039><c> really</c><00:07:51.360><c> useful</c><00:07:51.840><c> and</c><00:07:52.160><c> to</c>
+me, which I find really useful and to
+me, which I find really useful and to
+keep<00:07:52.560><c> the</c><00:07:52.720><c> power</c><00:07:52.880><c> of</c><00:07:53.039><c> perplexity</c><00:07:53.520><c> in</c><00:07:53.680><c> the</c>
+keep the power of perplexity in the
+keep the power of perplexity in the
+meantime.<00:07:54.319><c> And</c><00:07:54.560><c> that's</c><00:07:54.720><c> actually</c><00:07:54.879><c> a</c><00:07:55.120><c> use</c><00:07:55.280><c> case</c>
+meantime. And that's actually a use case
+meantime. And that's actually a use case
+that<00:07:55.759><c> I</c><00:07:55.840><c> I</c><00:07:56.160><c> don't</c><00:07:56.240><c> know</c><00:07:56.319><c> about</c><00:07:56.560><c> you,</c><00:07:56.720><c> but</c><00:07:56.960><c> I</c>
+that I I don't know about you, but I
+that I I don't know about you, but I
+like<00:07:57.280><c> the</c><00:07:57.520><c> idea</c><00:07:57.680><c> of</c><00:07:57.759><c> the</c><00:07:57.919><c> agent</c><00:07:58.240><c> going</c><00:07:58.400><c> off</c><00:07:58.560><c> and</c>
+like the idea of the agent going off and
+like the idea of the agent going off and
+doing<00:07:58.960><c> things</c><00:07:59.120><c> for</c><00:07:59.280><c> me.</c><00:07:59.520><c> And</c><00:07:59.680><c> comet</c><00:08:00.080><c> really</c>
+doing things for me. And comet really
+doing things for me. And comet really
+sort<00:08:00.400><c> of</c><00:08:00.479><c> fulfills</c><00:08:00.879><c> that.</c><00:08:01.360><c> I</c><00:08:01.680><c> think</c><00:08:02.000><c> the</c><00:08:02.319><c> Atlas</c>
+sort of fulfills that. I think the Atlas
+sort of fulfills that. I think the Atlas
+use<00:08:02.960><c> case</c><00:08:03.199><c> is</c><00:08:03.440><c> really</c><00:08:03.680><c> interesting.</c><00:08:04.000><c> Atlas</c>
+use case is really interesting. Atlas
+use case is really interesting. Atlas
+came<00:08:04.560><c> out</c><00:08:04.800><c> recently.</c><00:08:05.680><c> I</c><00:08:05.919><c> have</c><00:08:06.080><c> found</c><00:08:06.400><c> things</c><00:08:06.639><c> I</c>
+came out recently. I have found things I
+came out recently. I have found things I
+can<00:08:07.039><c> do</c><00:08:07.199><c> in</c><00:08:07.440><c> Atlas</c><00:08:07.840><c> that</c><00:08:08.160><c> don't</c><00:08:08.479><c> work</c><00:08:08.800><c> as</c><00:08:09.120><c> well</c>
+can do in Atlas that don't work as well
+can do in Atlas that don't work as well
+anywhere<00:08:10.080><c> else,</c><00:08:10.560><c> but</c><00:08:10.800><c> that</c><00:08:11.120><c> feels</c><00:08:11.440><c> like</c><00:08:11.680><c> I</c><00:08:11.919><c> am</c>
+anywhere else, but that feels like I am
+anywhere else, but that feels like I am
+still<00:08:12.639><c> figuring</c><00:08:13.120><c> out</c><00:08:13.360><c> where</c><00:08:13.680><c> those</c><00:08:13.919><c> use</c><00:08:14.160><c> cases</c>
+still figuring out where those use cases
+still figuring out where those use cases
+are.<00:08:14.800><c> I</c><00:08:14.960><c> think</c><00:08:15.039><c> one</c><00:08:15.280><c> of</c><00:08:15.360><c> the</c><00:08:15.520><c> big</c><00:08:15.680><c> differences</c>
+are. I think one of the big differences
+are. I think one of the big differences
+is<00:08:16.720><c> this</c><00:08:16.960><c> is</c><00:08:17.120><c> a</c><00:08:17.280><c> chat</c><00:08:17.680><c> GPT</c><00:08:18.240><c> first</c><00:08:18.560><c> browser.</c><00:08:19.120><c> So,</c>
+is this is a chat GPT first browser. So,
+is this is a chat GPT first browser. So,
+it<00:08:19.520><c> brings</c><00:08:19.680><c> my</c><00:08:19.919><c> memories</c><00:08:20.319><c> in.</c><00:08:20.960><c> It</c><00:08:21.120><c> is</c><00:08:21.280><c> also</c>
+it brings my memories in. It is also
+it brings my memories in. It is also
+chat<00:08:21.840><c> GPT</c><00:08:22.400><c> first</c><00:08:22.639><c> from</c><00:08:22.800><c> a</c><00:08:22.960><c> search</c>
+chat GPT first from a search
+chat GPT first from a search
+perspective.<00:08:24.160><c> It</c><00:08:24.319><c> is</c><00:08:24.479><c> also</c><00:08:24.800><c> chat</c><00:08:25.039><c> GPT</c><00:08:25.520><c> first</c>
+perspective. It is also chat GPT first
+perspective. It is also chat GPT first
+from<00:08:25.840><c> an</c><00:08:26.000><c> engineering</c><00:08:26.400><c> perspective.</c><00:08:26.879><c> And</c><00:08:27.039><c> so,</c>
+from an engineering perspective. And so,
+from an engineering perspective. And so,
+you<00:08:27.440><c> get</c><00:08:27.840><c> all</c><00:08:28.080><c> the</c><00:08:28.319><c> strengths</c><00:08:28.560><c> that</c><00:08:28.720><c> that</c>
+you get all the strengths that that
+you get all the strengths that that
+comes<00:08:29.120><c> with</c><00:08:29.440><c> that</c><00:08:29.599><c> the</c><00:08:29.840><c> model</c><00:08:30.160><c> remembers</c><00:08:30.479><c> you.</c>
+comes with that the model remembers you.
+comes with that the model remembers you.
+The<00:08:31.039><c> model</c><00:08:31.280><c> talks</c><00:08:31.440><c> to</c><00:08:31.520><c> you</c><00:08:31.680><c> like</c><00:08:31.840><c> it</c><00:08:32.080><c> knows</c>
+The model talks to you like it knows
+The model talks to you like it knows
+you.<00:08:32.719><c> The</c><00:08:32.959><c> model</c><00:08:33.200><c> understands</c><00:08:33.680><c> your</c>
+you. The model understands your
+you. The model understands your
+preferences.<00:08:34.399><c> And</c><00:08:34.560><c> in</c><00:08:34.719><c> fact,</c><00:08:34.880><c> the</c><00:08:35.120><c> more</c><00:08:35.279><c> you</c>
+preferences. And in fact, the more you
+preferences. And in fact, the more you
+use<00:08:35.599><c> the</c><00:08:35.760><c> model,</c><00:08:36.000><c> the</c><00:08:36.080><c> more</c><00:08:36.240><c> it</c><00:08:36.399><c> understands</c>
+use the model, the more it understands
+use the model, the more it understands
+how<00:08:36.880><c> you</c><00:08:36.959><c> think</c><00:08:37.120><c> about</c><00:08:37.279><c> the</c><00:08:37.519><c> internet.</c><00:08:37.839><c> So,</c>
+how you think about the internet. So,
+how you think about the internet. So,
+this<00:08:38.159><c> is</c><00:08:38.240><c> all</c><00:08:38.399><c> good,</c><00:08:38.800><c> but</c><00:08:39.440><c> it</c><00:08:39.680><c> also</c><00:08:40.080><c> means</c><00:08:40.560><c> that</c>
+this is all good, but it also means that
+this is all good, but it also means that
+you're<00:08:40.959><c> going</c><00:08:41.039><c> through</c><00:08:41.279><c> chat</c><00:08:41.599><c> GPT</c><00:08:42.080><c> for</c><00:08:42.240><c> search</c>
+you're going through chat GPT for search
+you're going through chat GPT for search
+versus<00:08:42.800><c> Google.</c><00:08:43.200><c> And</c><00:08:43.360><c> that's</c><00:08:43.519><c> a</c><00:08:43.680><c> design</c>
+versus Google. And that's a design
+versus Google. And that's a design
+choice<00:08:44.240><c> they've</c><00:08:44.480><c> decided</c><00:08:44.720><c> to</c><00:08:44.880><c> make.</c><00:08:45.040><c> It</c><00:08:45.200><c> makes</c>
+choice they've decided to make. It makes
+choice they've decided to make. It makes
+sense<00:08:45.519><c> from</c><00:08:45.680><c> a</c><00:08:45.920><c> product</c><00:08:46.080><c> perspective,</c><00:08:46.480><c> but</c>
+sense from a product perspective, but
+sense from a product perspective, but
+it's<00:08:46.880><c> something</c><00:08:47.040><c> you</c><00:08:47.200><c> have</c><00:08:47.279><c> to</c><00:08:47.440><c> decide</c><00:08:47.600><c> if</c><00:08:47.839><c> you</c>
+it's something you have to decide if you
+it's something you have to decide if you
+want<00:08:48.000><c> to</c><00:08:48.080><c> live</c><00:08:48.240><c> with.</c><00:08:48.560><c> Um,</c><00:08:49.519><c> and</c><00:08:49.760><c> it</c><00:08:49.920><c> also</c><00:08:50.160><c> means</c>
+want to live with. Um, and it also means
+want to live with. Um, and it also means
+that<00:08:50.560><c> you</c><00:08:50.800><c> are</c><00:08:51.040><c> sort</c><00:08:51.200><c> of</c><00:08:51.360><c> committed</c><00:08:51.680><c> to</c><00:08:52.080><c> their</c>
+that you are sort of committed to their
+that you are sort of committed to their
+vision<00:08:52.720><c> of</c><00:08:52.880><c> the</c><00:08:53.040><c> agentic</c><00:08:53.600><c> future,</c><00:08:53.920><c> which</c><00:08:54.080><c> is</c>
+vision of the agentic future, which is
+vision of the agentic future, which is
+frankly<00:08:54.880><c> a</c><00:08:55.200><c> little</c><00:08:55.279><c> bit</c><00:08:55.440><c> more</c><00:08:55.600><c> button-down</c>
+frankly a little bit more button-down
+frankly a little bit more button-down
+and<00:08:56.720><c> safety</c><00:08:57.120><c> first.</c><00:08:57.519><c> like</c><00:08:57.760><c> they</c><00:08:58.000><c> are</c><00:08:58.320><c> keeping</c>
+and safety first. like they are keeping
+and safety first. like they are keeping
+the<00:08:58.880><c> AI</c><00:08:59.200><c> agent</c><00:08:59.600><c> on</c><00:08:59.760><c> the</c><00:08:59.920><c> tab</c><00:09:00.240><c> with</c><00:09:00.399><c> you</c><00:09:00.560><c> for</c>
+the AI agent on the tab with you for
+the AI agent on the tab with you for
+now.<00:09:01.279><c> You</c><00:09:01.440><c> were</c><00:09:01.600><c> keeping</c><00:09:01.839><c> an</c><00:09:02.000><c> eye</c><00:09:02.240><c> on</c><00:09:02.399><c> it</c><00:09:02.560><c> for</c>
+now. You were keeping an eye on it for
+now. You were keeping an eye on it for
+sensitive<00:09:03.279><c> tasks.</c><00:09:03.920><c> They</c><00:09:04.160><c> have</c><00:09:04.320><c> walled</c><00:09:04.640><c> off</c>
+sensitive tasks. They have walled off
+sensitive tasks. They have walled off
+certain<00:09:05.120><c> tasks</c><00:09:05.360><c> that</c><00:09:05.519><c> you</c><00:09:05.760><c> can't</c><00:09:05.920><c> do</c><00:09:06.320><c> things</c>
+certain tasks that you can't do things
+certain tasks that you can't do things
+around<00:09:06.959><c> banking</c><00:09:07.600><c> etc.</c><00:09:08.240><c> that</c><00:09:08.560><c> make</c><00:09:08.720><c> sense</c><00:09:08.959><c> to</c>
+around banking etc. that make sense to
+around banking etc. that make sense to
+me<00:09:09.360><c> like</c><00:09:09.600><c> I</c><00:09:09.760><c> wouldn't</c><00:09:09.920><c> want</c><00:09:10.080><c> it</c><00:09:10.240><c> to</c><00:09:10.320><c> be</c><00:09:10.399><c> able</c><00:09:10.560><c> to</c>
+me like I wouldn't want it to be able to
+me like I wouldn't want it to be able to
+do<00:09:10.720><c> that</c><00:09:10.880><c> initially.</c><00:09:11.440><c> So</c><00:09:11.600><c> they're</c><00:09:11.839><c> assuming</c>
+do that initially. So they're assuming
+do that initially. So they're assuming
+that<00:09:12.800><c> the</c><00:09:13.200><c> AI</c><00:09:13.519><c> agent</c><00:09:13.920><c> is</c><00:09:14.080><c> not</c><00:09:14.240><c> entirely</c>
+that the AI agent is not entirely
+that the AI agent is not entirely
+trustworthy<00:09:15.360><c> yet</c><00:09:15.760><c> and</c><00:09:16.080><c> designing</c><00:09:16.480><c> around</c>
+trustworthy yet and designing around
+trustworthy yet and designing around
+that<00:09:17.120><c> which</c><00:09:17.360><c> I</c><00:09:17.680><c> appreciate.</c><00:09:18.320><c> One</c><00:09:18.640><c> last</c><00:09:18.800><c> piece</c>
+that which I appreciate. One last piece
+that which I appreciate. One last piece
+to<00:09:19.279><c> call</c><00:09:19.440><c> out</c><00:09:19.680><c> on</c><00:09:20.000><c> Atlas,</c><00:09:20.720><c> it</c><00:09:20.959><c> is</c><00:09:21.279><c> it</c><00:09:21.600><c> has</c><00:09:21.760><c> the</c>
+to call out on Atlas, it is it has the
+to call out on Atlas, it is it has the
+chat<00:09:22.320><c> GPT</c><00:09:22.959><c> brain</c><00:09:23.279><c> for</c><00:09:23.519><c> code</c><00:09:24.160><c> and</c><00:09:24.399><c> that</c><00:09:24.560><c> makes</c>
+chat GPT brain for code and that makes
+chat GPT brain for code and that makes
+it<00:09:24.959><c> super</c><00:09:25.279><c> useful</c><00:09:25.600><c> if</c><00:09:25.839><c> you</c><00:09:26.000><c> are</c><00:09:26.160><c> trying</c><00:09:26.320><c> to</c>
+it super useful if you are trying to
+it super useful if you are trying to
+understand<00:09:26.800><c> how</c><00:09:26.959><c> to</c><00:09:27.200><c> build</c><00:09:27.519><c> something</c><00:09:27.839><c> or</c><00:09:28.160><c> how</c>
+understand how to build something or how
+understand how to build something or how
+to<00:09:28.480><c> review</c><00:09:28.800><c> something.</c><00:09:29.200><c> So</c><00:09:29.360><c> I</c><00:09:29.600><c> used</c><00:09:29.839><c> Atlas</c><00:09:30.240><c> to</c>
+to review something. So I used Atlas to
+to review something. So I used Atlas to
+look<00:09:30.560><c> at</c><00:09:30.640><c> a</c><00:09:30.800><c> GitHub</c><00:09:31.120><c> repo</c><00:09:31.440><c> and</c><00:09:31.680><c> that</c><00:09:31.839><c> was</c><00:09:31.920><c> super</c>
+look at a GitHub repo and that was super
+look at a GitHub repo and that was super
+useful<00:09:32.480><c> because</c><00:09:32.720><c> I</c><00:09:32.880><c> could</c><00:09:33.040><c> pull</c><00:09:33.279><c> out</c><00:09:33.440><c> a</c><00:09:33.680><c> lot</c><00:09:33.760><c> of</c>
+useful because I could pull out a lot of
+useful because I could pull out a lot of
+the<00:09:34.080><c> details</c><00:09:34.320><c> of</c><00:09:34.480><c> the</c><00:09:34.640><c> code</c><00:09:35.040><c> and</c><00:09:35.360><c> get</c><00:09:35.519><c> it</c><00:09:35.680><c> into</c>
+the details of the code and get it into
+the details of the code and get it into
+a<00:09:36.720><c> format</c><00:09:37.120><c> I</c><00:09:37.360><c> could</c><00:09:37.519><c> understand</c><00:09:37.920><c> and</c><00:09:38.160><c> process</c>
+a format I could understand and process
+a format I could understand and process
+really<00:09:38.880><c> quickly.</c><00:09:39.519><c> I</c><00:09:39.760><c> also</c><00:09:40.080><c> used</c><00:09:40.320><c> it</c><00:09:40.720><c> when</c><00:09:40.959><c> I</c>
+really quickly. I also used it when I
+really quickly. I also used it when I
+was<00:09:41.200><c> looking</c><00:09:41.360><c> at</c><00:09:41.519><c> Lovable.</c><00:09:42.080><c> So,</c><00:09:42.320><c> if</c><00:09:42.480><c> you</c><00:09:42.640><c> want</c>
+was looking at Lovable. So, if you want
+was looking at Lovable. So, if you want
+to<00:09:42.880><c> drive</c><00:09:43.200><c> a</c><00:09:43.519><c> build</c><00:09:43.839><c> off</c><00:09:44.080><c> of</c><00:09:44.320><c> lovable</c><00:09:45.200><c> using</c>
+to drive a build off of lovable using
+to drive a build off of lovable using
+Atlas<00:09:46.080><c> autonomously,</c><00:09:47.360><c> you</c><00:09:47.519><c> can</c><00:09:47.680><c> do</c><00:09:47.839><c> that,</c>
+Atlas autonomously, you can do that,
+Atlas autonomously, you can do that,
+which<00:09:48.560><c> is</c><00:09:48.640><c> really</c><00:09:48.880><c> cool.</c><00:09:49.360><c> Now,</c><00:09:49.600><c> we're</c><00:09:49.760><c> going</c>
+which is really cool. Now, we're going
+which is really cool. Now, we're going
+to<00:09:49.920><c> come</c><00:09:50.080><c> to</c><00:09:50.160><c> the</c><00:09:50.399><c> terminal</c><00:09:50.800><c> and</c><00:09:50.880><c> the</c><00:09:50.959><c> command</c>
+to come to the terminal and the command
+to come to the terminal and the command
+line.<00:09:51.360><c> Yeah,</c><00:09:51.600><c> you</c><00:09:51.680><c> thought</c><00:09:51.760><c> I</c><00:09:51.920><c> was</c><00:09:52.000><c> done.</c><00:09:52.240><c> I'm</c>
+line. Yeah, you thought I was done. I'm
+line. Yeah, you thought I was done. I'm
+not<00:09:52.480><c> done</c><00:09:52.640><c> yet.</c><00:09:53.040><c> I</c><00:09:53.279><c> love</c><00:09:53.600><c> both</c><00:09:54.000><c> Claude</c><00:09:54.399><c> Code</c>
+not done yet. I love both Claude Code
+not done yet. I love both Claude Code
+and<00:09:54.880><c> Codeex.</c><00:09:55.440><c> I</c><00:09:55.600><c> find</c><00:09:55.680><c> that</c><00:09:55.920><c> Codeex</c><00:09:56.399><c> is</c><00:09:56.560><c> an</c>
+and Codeex. I find that Codeex is an
+and Codeex. I find that Codeex is an
+extraordinary<00:09:57.440><c> strategic</c><00:09:58.080><c> thinker</c><00:09:58.640><c> in</c><00:09:58.800><c> the</c>
+extraordinary strategic thinker in the
+extraordinary strategic thinker in the
+command<00:09:59.279><c> line.</c><00:09:59.600><c> I</c><00:09:59.760><c> go</c><00:09:59.920><c> to</c><00:10:00.080><c> Codeex</c><00:10:00.640><c> almost</c>
+command line. I go to Codeex almost
+command line. I go to Codeex almost
+daily<00:10:01.600><c> when</c><00:10:01.839><c> I'm</c><00:10:02.000><c> trying</c><00:10:02.080><c> to</c><00:10:02.240><c> think</c><00:10:02.480><c> through</c><00:10:02.640><c> a</c>
+daily when I'm trying to think through a
+daily when I'm trying to think through a
+problem<00:10:02.959><c> and</c><00:10:03.200><c> I</c><00:10:03.360><c> need</c><00:10:03.519><c> succinct,</c><00:10:04.240><c> clear,</c>
+problem and I need succinct, clear,
+problem and I need succinct, clear,
+strategic<00:10:05.279><c> analysis.</c><00:10:06.160><c> Codeex</c><00:10:06.640><c> is</c><00:10:06.880><c> also</c>
+strategic analysis. Codeex is also
+strategic analysis. Codeex is also
+really<00:10:07.360><c> good</c><00:10:07.440><c> at</c><00:10:07.680><c> finding</c><00:10:07.920><c> and</c><00:10:08.240><c> fixing</c><00:10:08.560><c> bugs.</c>
+really good at finding and fixing bugs.
+really good at finding and fixing bugs.
+I<00:10:09.360><c> love</c><00:10:09.440><c> that.</c><00:10:09.600><c> that</c><00:10:09.760><c> I</c><00:10:09.920><c> can</c><00:10:10.000><c> throw</c><00:10:10.160><c> a</c><00:10:10.399><c> really</c>
+I love that. that I can throw a really
+I love that. that I can throw a really
+messy<00:10:10.880><c> repo</c><00:10:11.120><c> at</c><00:10:11.279><c> it</c><00:10:11.360><c> and</c><00:10:11.519><c> it</c><00:10:11.600><c> just</c><00:10:11.760><c> kind</c><00:10:11.839><c> of</c>
+messy repo at it and it just kind of
+messy repo at it and it just kind of
+digs<00:10:12.160><c> in</c><00:10:12.240><c> and</c><00:10:12.480><c> finds</c><00:10:12.640><c> them.</c><00:10:13.040><c> I</c><00:10:13.279><c> love</c><00:10:13.440><c> Claude</c>
+digs in and finds them. I love Claude
+digs in and finds them. I love Claude
+code<00:10:14.160><c> because</c><00:10:14.399><c> it</c><00:10:14.560><c> is</c><00:10:14.720><c> so</c><00:10:15.360><c> sort</c><00:10:15.600><c> of</c><00:10:15.920><c> rich</c><00:10:16.399><c> as</c><00:10:16.640><c> an</c>
+code because it is so sort of rich as an
+code because it is so sort of rich as an
+ecosystem.<00:10:17.600><c> I</c><00:10:17.839><c> can</c><00:10:17.920><c> tie</c><00:10:18.079><c> in</c><00:10:18.320><c> cloud</c><00:10:18.640><c> skills.</c><00:10:19.279><c> I</c>
+ecosystem. I can tie in cloud skills. I
+ecosystem. I can tie in cloud skills. I
+can<00:10:19.600><c> tie</c><00:10:19.760><c> in</c><00:10:20.000><c> my</c><00:10:20.160><c> local</c><00:10:20.480><c> files.</c><00:10:21.120><c> I</c><00:10:21.360><c> love</c><00:10:21.519><c> that</c><00:10:21.680><c> I</c>
+can tie in my local files. I love that I
+can tie in my local files. I love that I
+can<00:10:22.079><c> tie</c><00:10:22.399><c> in</c><00:10:23.040><c> the</c><00:10:23.519><c> MCP</c><00:10:24.079><c> servers</c><00:10:24.480><c> that</c><00:10:24.640><c> I</c><00:10:24.800><c> want</c>
+can tie in the MCP servers that I want
+can tie in the MCP servers that I want
+to<00:10:25.279><c> and</c><00:10:25.519><c> I</c><00:10:25.680><c> love</c><00:10:25.760><c> that</c><00:10:26.000><c> it's</c><00:10:26.720><c> for</c><00:10:26.880><c> lack</c><00:10:27.120><c> of</c><00:10:27.200><c> a</c>
+to and I love that it's for lack of a
+to and I love that it's for lack of a
+better<00:10:27.519><c> term</c><00:10:27.760><c> it</c><00:10:27.839><c> has</c><00:10:28.000><c> a</c><00:10:28.160><c> friendly</c><00:10:28.480><c> feel.</c><00:10:28.720><c> Like</c>
+better term it has a friendly feel. Like
+better term it has a friendly feel. Like
+I<00:10:29.040><c> love</c><00:10:29.120><c> that</c><00:10:29.279><c> it</c><00:10:29.440><c> goes</c><00:10:29.839><c> and</c><00:10:30.320><c> does</c><00:10:30.560><c> tasks</c><00:10:30.880><c> and</c>
+I love that it goes and does tasks and
+I love that it goes and does tasks and
+checks<00:10:31.360><c> back</c><00:10:31.600><c> in.</c><00:10:32.000><c> That</c><00:10:32.240><c> being</c><00:10:32.399><c> said,</c><00:10:32.640><c> Cloud</c>
+checks back in. That being said, Cloud
+checks back in. That being said, Cloud
+Code<00:10:33.200><c> has</c><00:10:33.279><c> a</c><00:10:33.440><c> very</c><00:10:33.600><c> strong</c><00:10:33.760><c> bias</c><00:10:34.160><c> for</c><00:10:34.320><c> action</c>
+Code has a very strong bias for action
+Code has a very strong bias for action
+and<00:10:34.880><c> Codeex</c><00:10:35.279><c> is</c><00:10:35.519><c> more</c><00:10:35.680><c> thoughtful</c><00:10:36.079><c> before</c>
+and Codeex is more thoughtful before
+and Codeex is more thoughtful before
+engaging.<00:10:36.880><c> And</c><00:10:37.040><c> so</c><00:10:37.200><c> you</c><00:10:37.360><c> have</c><00:10:37.440><c> to</c><00:10:37.600><c> know</c><00:10:37.680><c> which</c>
+engaging. And so you have to know which
+engaging. And so you have to know which
+one<00:10:38.079><c> you're</c><00:10:38.240><c> going</c><00:10:38.320><c> to</c><00:10:38.480><c> choose</c><00:10:39.040><c> because</c>
+one you're going to choose because
+one you're going to choose because
+otherwise<00:10:40.000><c> Claude</c><00:10:40.320><c> Code</c><00:10:40.560><c> is</c><00:10:40.640><c> going</c><00:10:40.720><c> to</c><00:10:40.800><c> be</c>
+otherwise Claude Code is going to be
+otherwise Claude Code is going to be
+very<00:10:41.120><c> tempted</c><00:10:41.600><c> to</c><00:10:41.920><c> just</c><00:10:42.320><c> run.</c><00:10:42.800><c> So</c><00:10:43.200><c> that's</c><00:10:43.519><c> my</c>
+very tempted to just run. So that's my
+very tempted to just run. So that's my
+personal<00:10:44.079><c> stack.</c><00:10:44.560><c> I</c><00:10:44.720><c> got</c><00:10:44.800><c> it</c><00:10:44.959><c> to</c><00:10:45.040><c> you</c><00:10:45.200><c> in</c><00:10:45.360><c> just</c>
+personal stack. I got it to you in just
+personal stack. I got it to you in just
+over<00:10:45.839><c> 10</c><00:10:46.079><c> minutes.</c><00:10:46.399><c> I</c><00:10:46.640><c> would</c><00:10:46.720><c> be</c><00:10:46.800><c> curious</c><00:10:47.040><c> what</c>
+over 10 minutes. I would be curious what
+over 10 minutes. I would be curious what
+your<00:10:47.519><c> personal</c><00:10:47.839><c> stack</c><00:10:48.160><c> is.</c><00:10:48.399><c> And</c><00:10:48.560><c> of</c><00:10:48.640><c> course</c>
+your personal stack is. And of course
+your personal stack is. And of course
+I'm<00:10:48.959><c> going</c><00:10:49.040><c> to</c><00:10:49.120><c> get</c><00:10:49.279><c> you</c><00:10:49.600><c> uh</c><00:10:49.760><c> all</c><00:10:49.920><c> of</c><00:10:50.079><c> the</c>
+I'm going to get you uh all of the
+I'm going to get you uh all of the
+guides<00:10:50.480><c> that</c><00:10:50.640><c> I've</c><00:10:50.800><c> written</c><00:10:50.959><c> that</c><00:10:51.120><c> go</c><00:10:51.279><c> with</c>
+guides that I've written that go with
+guides that I've written that go with
+this<00:10:52.000><c> and</c><00:10:52.320><c> also</c><00:10:52.560><c> some</c><00:10:52.800><c> extra</c><00:10:53.120><c> details</c><00:10:53.519><c> just</c>
+this and also some extra details just
+this and also some extra details just
+for<00:10:53.920><c> this</c><00:10:54.399><c> based</c><00:10:54.640><c> on</c><00:10:54.800><c> my</c><00:10:55.040><c> own</c><00:10:55.200><c> experience</c><00:10:55.600><c> in</c>
+for this based on my own experience in
+for this based on my own experience in
+the<00:10:55.920><c> last</c><00:10:56.399><c> uh</c><00:10:56.480><c> week</c><00:10:56.640><c> or</c><00:10:56.800><c> two</c><00:10:57.040><c> because</c><00:10:57.200><c> this</c>
+the last uh week or two because this
+the last uh week or two because this
+always<00:10:57.760><c> changes</c><00:10:58.320><c> and</c><00:10:58.480><c> so</c><00:10:58.640><c> I</c><00:10:58.800><c> want</c><00:10:58.880><c> to</c><00:10:59.040><c> make</c>
+always changes and so I want to make
+always changes and so I want to make
+sure<00:10:59.200><c> that</c><00:10:59.440><c> you</c><00:10:59.600><c> get</c><00:10:59.680><c> the</c><00:10:59.920><c> latest</c>
+sure that you get the latest
+sure that you get the latest
+information.<00:11:00.720><c> Uh</c><00:11:01.120><c> you're</c><00:11:01.360><c> best</c><00:11:01.519><c> informed.</c>
+information. Uh you're best informed.
+information. Uh you're best informed.
+Best<00:11:02.240><c> of</c><00:11:02.399><c> luck</c><00:11:02.480><c> with</c><00:11:02.640><c> your</c><00:11:02.800><c> AI</c><00:11:03.120><c> stack.</c>

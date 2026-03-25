@@ -1,0 +1,1138 @@
+Teaching<00:00:00.480><c> AI</c><00:00:00.880><c> is</c><00:00:01.040><c> really</c><00:00:01.280><c> hard.</c><00:00:01.680><c> Teaching</c>
+Teaching AI is really hard. Teaching
+Teaching AI is really hard. Teaching
+advanced<00:00:02.480><c> prompting</c><00:00:02.879><c> is</c><00:00:03.120><c> even</c><00:00:03.360><c> harder.</c><00:00:04.000><c> This</c>
+advanced prompting is even harder. This
+advanced prompting is even harder. This
+video<00:00:04.640><c> will</c><00:00:04.880><c> make</c><00:00:05.040><c> it</c><00:00:05.200><c> easier.</c><00:00:05.920><c> My</c><00:00:06.160><c> goal</c><00:00:06.480><c> is</c><00:00:06.720><c> to</c>
+video will make it easier. My goal is to
+video will make it easier. My goal is to
+equip<00:00:07.279><c> you</c><00:00:07.520><c> with</c><00:00:07.680><c> an</c><00:00:08.000><c> understanding</c><00:00:08.639><c> of</c><00:00:08.880><c> the</c>
+equip you with an understanding of the
+equip you with an understanding of the
+mental<00:00:09.519><c> models,</c><00:00:09.920><c> the</c><00:00:10.160><c> principles</c><00:00:10.639><c> that</c>
+mental models, the principles that
+mental models, the principles that
+advanced<00:00:11.360><c> prompters</c><00:00:11.920><c> use.</c><00:00:12.480><c> We're</c><00:00:12.719><c> going</c><00:00:12.800><c> to</c>
+advanced prompters use. We're going to
+advanced prompters use. We're going to
+go<00:00:13.040><c> beyond</c><00:00:13.280><c> the</c><00:00:13.440><c> level</c><00:00:13.599><c> of</c><00:00:13.759><c> a</c><00:00:13.920><c> prompt.</c><00:00:14.320><c> I</c><00:00:14.480><c> don't</c>
+go beyond the level of a prompt. I don't
+go beyond the level of a prompt. I don't
+have<00:00:15.120><c> a</c><00:00:15.599><c> specific</c><00:00:16.160><c> magical</c><00:00:16.640><c> prompt</c><00:00:16.960><c> to</c><00:00:17.119><c> give</c>
+have a specific magical prompt to give
+have a specific magical prompt to give
+you<00:00:17.440><c> here.</c><00:00:18.000><c> I</c><00:00:18.240><c> will</c><00:00:18.320><c> have</c><00:00:18.480><c> lots</c><00:00:18.800><c> of</c><00:00:18.960><c> examples</c>
+you here. I will have lots of examples
+you here. I will have lots of examples
+in<00:00:19.920><c> the</c><00:00:20.080><c> writeup,</c><00:00:20.800><c> but</c><00:00:21.039><c> my</c><00:00:21.199><c> goal</c><00:00:21.439><c> with</c><00:00:21.680><c> this</c>
+in the writeup, but my goal with this
+in the writeup, but my goal with this
+video<00:00:22.240><c> is</c><00:00:22.480><c> to</c><00:00:22.720><c> actually</c><00:00:23.279><c> lay</c><00:00:23.439><c> out</c><00:00:24.000><c> what</c><00:00:24.240><c> are</c>
+video is to actually lay out what are
+video is to actually lay out what are
+the<00:00:24.720><c> principles</c><00:00:25.199><c> that</c><00:00:25.439><c> advanced</c><00:00:25.920><c> prompters</c>
+the principles that advanced prompters
+the principles that advanced prompters
+use<00:00:27.119><c> that</c><00:00:27.599><c> are</c><00:00:27.920><c> not</c><00:00:28.400><c> widely</c><00:00:28.960><c> known,</c><00:00:29.439><c> right?</c>
+use that are not widely known, right?
+use that are not widely known, right?
+that<00:00:29.920><c> that</c><00:00:30.400><c> you</c><00:00:30.720><c> might</c><00:00:30.960><c> not</c><00:00:31.119><c> be</c><00:00:31.279><c> aware</c><00:00:31.599><c> of</c><00:00:31.840><c> but</c>
+that that you might not be aware of but
+that that you might not be aware of but
+that<00:00:32.399><c> underly</c><00:00:32.880><c> a</c><00:00:33.040><c> lot</c><00:00:33.120><c> of</c><00:00:33.200><c> these</c><00:00:33.440><c> advanced</c>
+that underly a lot of these advanced
+that underly a lot of these advanced
+prompting<00:00:34.239><c> techniques.</c><00:00:34.880><c> Let's</c><00:00:35.200><c> dive</c><00:00:35.360><c> into</c>
+prompting techniques. Let's dive into
+prompting techniques. Let's dive into
+the<00:00:35.840><c> first</c><00:00:36.000><c> one.</c><00:00:36.559><c> Advanced</c><00:00:37.120><c> prompters</c><00:00:37.760><c> build</c>
+the first one. Advanced prompters build
+the first one. Advanced prompters build
+self-correction<00:00:39.040><c> systems.</c><00:00:39.760><c> And</c><00:00:39.920><c> so</c><00:00:40.079><c> the</c>
+self-correction systems. And so the
+self-correction systems. And so the
+first<00:00:40.480><c> category</c><00:00:40.960><c> here</c><00:00:41.120><c> that</c><00:00:41.280><c> we're</c><00:00:41.520><c> talking</c>
+first category here that we're talking
+first category here that we're talking
+about<00:00:41.840><c> is</c><00:00:42.000><c> about</c><00:00:42.239><c> how</c><00:00:42.480><c> you</c><00:00:42.640><c> force</c><00:00:43.040><c> models</c><00:00:43.600><c> to</c>
+about is about how you force models to
+about is about how you force models to
+attack<00:00:44.399><c> their</c><00:00:44.719><c> own</c><00:00:44.960><c> outputs</c><00:00:45.760><c> and</c><00:00:46.000><c> to</c><00:00:46.320><c> get</c><00:00:46.559><c> past</c>
+attack their own outputs and to get past
+attack their own outputs and to get past
+the<00:00:47.280><c> fundamental</c><00:00:47.920><c> limitation</c><00:00:48.719><c> of</c><00:00:49.039><c> single</c>
+the fundamental limitation of single
+the fundamental limitation of single
+pass<00:00:49.840><c> generation.</c><00:00:50.800><c> which</c><00:00:51.039><c> is</c><00:00:51.120><c> a</c><00:00:51.280><c> fancy</c><00:00:51.600><c> way</c><00:00:51.760><c> of</c>
+pass generation. which is a fancy way of
+pass generation. which is a fancy way of
+saying<00:00:52.640><c> you</c><00:00:52.960><c> want</c><00:00:53.199><c> to</c><00:00:53.600><c> push</c><00:00:53.920><c> the</c><00:00:54.320><c> model</c><00:00:54.800><c> to</c><00:00:55.120><c> get</c>
+saying you want to push the model to get
+saying you want to push the model to get
+past<00:00:55.600><c> the</c><00:00:55.840><c> initial</c><00:00:56.239><c> generation</c><00:00:56.800><c> step</c><00:00:57.280><c> into</c>
+past the initial generation step into
+past the initial generation step into
+thinking<00:00:58.320><c> about</c><00:00:58.480><c> what</c><00:00:58.719><c> it's</c><00:00:58.960><c> done.</c><00:00:59.359><c> One</c><00:00:59.680><c> way</c>
+thinking about what it's done. One way
+thinking about what it's done. One way
+to<00:00:59.920><c> do</c><00:01:00.079><c> this</c><00:01:00.320><c> is</c><00:01:00.640><c> called</c><00:01:01.199><c> chain</c><00:01:01.600><c> of</c>
+to do this is called chain of
+to do this is called chain of
+verification<00:01:02.719><c> where</c><00:01:02.960><c> you</c><00:01:03.199><c> in</c><00:01:03.440><c> the</c><00:01:03.680><c> prompt</c>
+verification where you in the prompt
+verification where you in the prompt
+require<00:01:05.680><c> a</c><00:01:06.000><c> verification</c><00:01:06.799><c> loop</c><00:01:07.360><c> inside</c><00:01:08.000><c> the</c>
+require a verification loop inside the
+require a verification loop inside the
+same<00:01:08.640><c> conversational</c><00:01:09.520><c> turn.</c><00:01:10.159><c> So</c><00:01:10.400><c> this</c><00:01:10.640><c> might</c>
+same conversational turn. So this might
+same conversational turn. So this might
+look<00:01:11.040><c> like</c><00:01:11.520><c> you</c><00:01:11.680><c> know</c><00:01:11.840><c> analyze</c><00:01:12.320><c> this</c>
+look like you know analyze this
+look like you know analyze this
+acquisition<00:01:13.119><c> agreement</c><00:01:13.920><c> list</c><00:01:14.159><c> your</c><00:01:14.400><c> three</c>
+acquisition agreement list your three
+acquisition agreement list your three
+most<00:01:14.880><c> important</c><00:01:15.280><c> findings</c><00:01:15.680><c> that's</c><00:01:15.920><c> not</c>
+most important findings that's not
+most important findings that's not
+special.<00:01:16.720><c> Now,</c><00:01:17.520><c> same</c><00:01:17.759><c> prompt.</c><00:01:18.640><c> Identify</c>
+special. Now, same prompt. Identify
+special. Now, same prompt. Identify
+three<00:01:19.520><c> ways</c><00:01:19.759><c> your</c><00:01:20.000><c> analysis</c><00:01:20.560><c> might</c><00:01:20.720><c> be</c>
+three ways your analysis might be
+three ways your analysis might be
+incomplete.<00:01:21.680><c> For</c><00:01:21.920><c> each,</c><00:01:22.240><c> cite</c><00:01:22.560><c> the</c><00:01:22.799><c> specific</c>
+incomplete. For each, cite the specific
+incomplete. For each, cite the specific
+language<00:01:23.600><c> that</c><00:01:24.000><c> confirms</c><00:01:24.400><c> or</c><00:01:24.640><c> refutes</c><00:01:25.119><c> the</c>
+language that confirms or refutes the
+language that confirms or refutes the
+concern<00:01:25.680><c> and</c><00:01:25.920><c> then</c><00:01:26.080><c> revise</c><00:01:26.560><c> your</c><00:01:26.720><c> findings</c>
+concern and then revise your findings
+concern and then revise your findings
+based<00:01:27.439><c> on</c><00:01:27.600><c> all</c><00:01:27.840><c> of</c><00:01:27.920><c> this</c><00:01:28.159><c> thinking</c><00:01:28.400><c> or</c><00:01:28.640><c> this</c>
+based on all of this thinking or this
+based on all of this thinking or this
+verification.<00:01:29.840><c> That's</c><00:01:30.080><c> a</c><00:01:30.240><c> very</c><00:01:30.479><c> easy</c><00:01:30.799><c> example</c>
+verification. That's a very easy example
+verification. That's a very easy example
+of<00:01:31.360><c> chain</c><00:01:31.600><c> of</c><00:01:31.759><c> verification.</c><00:01:32.400><c> It</c><00:01:32.560><c> can</c>
+of chain of verification. It can
+of chain of verification. It can
+obviously<00:01:33.119><c> get</c><00:01:33.280><c> more</c><00:01:33.520><c> complex.</c><00:01:34.159><c> The</c><00:01:34.400><c> key</c>
+obviously get more complex. The key
+obviously get more complex. The key
+thing<00:01:34.799><c> to</c><00:01:35.040><c> realize</c><00:01:35.360><c> is</c><00:01:35.680><c> you're</c><00:01:35.920><c> not</c><00:01:36.159><c> asking</c>
+thing to realize is you're not asking
+thing to realize is you're not asking
+the<00:01:36.720><c> model</c><00:01:37.040><c> to</c><00:01:37.280><c> be</c><00:01:37.439><c> more</c><00:01:37.759><c> careful.</c><00:01:38.320><c> That's</c><00:01:38.560><c> too</c>
+the model to be more careful. That's too
+the model to be more careful. That's too
+vague.<00:01:39.520><c> You're</c><00:01:39.920><c> structuring</c><00:01:40.400><c> the</c><00:01:40.720><c> generation</c>
+vague. You're structuring the generation
+vague. You're structuring the generation
+process<00:01:41.840><c> to</c><00:01:42.240><c> include</c><00:01:42.960><c> self-critique</c><00:01:44.320><c> as</c><00:01:44.560><c> a</c>
+process to include self-critique as a
+process to include self-critique as a
+mandatory<00:01:45.600><c> step.</c><00:01:46.000><c> and</c><00:01:46.240><c> that</c><00:01:46.479><c> advocate</c>
+mandatory step. and that advocate
+mandatory step. and that advocate
+activates<00:01:47.600><c> verification</c><00:01:48.240><c> patterns</c><00:01:48.560><c> that</c><00:01:48.720><c> the</c>
+activates verification patterns that the
+activates verification patterns that the
+model<00:01:49.119><c> was</c><00:01:49.360><c> trained</c><00:01:49.520><c> on</c><00:01:49.759><c> but</c><00:01:50.079><c> you</c><00:01:50.240><c> probably</c>
+model was trained on but you probably
+model was trained on but you probably
+wouldn't<00:01:50.720><c> have</c><00:01:50.880><c> gotten</c><00:01:51.119><c> into</c><00:01:51.439><c> by</c><00:01:51.759><c> default.</c>
+wouldn't have gotten into by default.
+wouldn't have gotten into by default.
+Another<00:01:52.720><c> technique</c><00:01:53.119><c> in</c><00:01:53.280><c> this</c><00:01:53.520><c> same</c><00:01:53.680><c> bucket</c><00:01:54.000><c> is</c>
+Another technique in this same bucket is
+Another technique in this same bucket is
+adversarial<00:01:55.040><c> prompting.</c><00:01:55.840><c> And</c><00:01:56.000><c> so</c><00:01:56.399><c> if</c><00:01:56.640><c> chain</c>
+adversarial prompting. And so if chain
+adversarial prompting. And so if chain
+of<00:01:57.119><c> verification</c><00:01:57.840><c> asks</c><00:01:58.320><c> models</c><00:01:58.719><c> to</c><00:01:58.880><c> verify</c>
+of verification asks models to verify
+of verification asks models to verify
+their<00:01:59.600><c> work,</c><00:02:00.079><c> adversarial</c><00:02:00.960><c> prompting</c><00:02:01.520><c> is</c><00:02:01.759><c> a</c>
+their work, adversarial prompting is a
+their work, adversarial prompting is a
+lot<00:02:02.159><c> more</c><00:02:02.320><c> aggressive.</c><00:02:02.880><c> It</c><00:02:03.200><c> demands</c><00:02:03.600><c> that</c><00:02:03.840><c> a</c>
+lot more aggressive. It demands that a
+lot more aggressive. It demands that a
+model<00:02:04.399><c> finds</c><00:02:04.960><c> problems</c><00:02:05.600><c> even</c><00:02:05.840><c> it</c><00:02:06.079><c> if</c><00:02:06.399><c> it</c><00:02:06.560><c> needs</c>
+model finds problems even it if it needs
+model finds problems even it if it needs
+to<00:02:07.119><c> stretch.</c><00:02:07.920><c> And</c><00:02:08.080><c> so</c><00:02:08.720><c> use</c><00:02:08.959><c> this</c><00:02:09.200><c> when</c><00:02:09.440><c> you</c>
+to stretch. And so use this when you
+to stretch. And so use this when you
+really<00:02:09.920><c> really</c><00:02:10.160><c> need</c><00:02:10.319><c> to</c><00:02:10.479><c> be</c><00:02:10.640><c> sure.</c><00:02:10.959><c> A</c><00:02:11.200><c> good</c>
+really really need to be sure. A good
+really really need to be sure. A good
+example<00:02:11.680><c> of</c><00:02:11.840><c> this</c><00:02:12.160><c> would</c><00:02:12.400><c> be</c><00:02:12.800><c> you</c><00:02:13.040><c> need</c><00:02:13.200><c> to</c><00:02:13.360><c> be</c>
+example of this would be you need to be
+example of this would be you need to be
+sure<00:02:13.760><c> that</c><00:02:14.000><c> your</c><00:02:14.239><c> security</c><00:02:14.720><c> architecture</c>
+sure that your security architecture
+sure that your security architecture
+review<00:02:15.840><c> is</c><00:02:16.160><c> as</c><00:02:16.400><c> complete</c><00:02:16.720><c> as</c><00:02:17.040><c> possible.</c><00:02:17.680><c> So</c>
+review is as complete as possible. So
+review is as complete as possible. So
+you<00:02:18.000><c> might</c><00:02:18.239><c> say</c><00:02:18.400><c> something</c><00:02:18.720><c> like</c><00:02:19.120><c> please</c>
+you might say something like please
+you might say something like please
+attack<00:02:19.760><c> your</c><00:02:20.000><c> previous</c><00:02:20.400><c> design.</c><00:02:21.200><c> You</c><00:02:21.360><c> need</c><00:02:21.440><c> to</c>
+attack your previous design. You need to
+attack your previous design. You need to
+identify<00:02:22.319><c> five</c><00:02:22.640><c> specific</c><00:02:23.120><c> ways</c><00:02:23.440><c> it</c><00:02:23.599><c> could</c><00:02:23.760><c> be</c>
+identify five specific ways it could be
+identify five specific ways it could be
+compromised.<00:02:24.800><c> For</c><00:02:25.040><c> each</c><00:02:25.280><c> vulnerability</c><00:02:26.239><c> you</c>
+compromised. For each vulnerability you
+compromised. For each vulnerability you
+need<00:02:26.560><c> to</c><00:02:26.720><c> assess</c><00:02:27.040><c> likelihood.</c><00:02:27.599><c> You</c><00:02:27.680><c> need</c><00:02:27.840><c> to</c>
+need to assess likelihood. You need to
+need to assess likelihood. You need to
+assess<00:02:28.319><c> impact</c><00:02:29.120><c> etc.</c><00:02:30.480><c> These</c><00:02:31.040><c> these</c>
+assess impact etc. These these
+assess impact etc. These these
+approaches<00:02:32.400><c> are</c><00:02:32.720><c> designed</c><00:02:33.200><c> to</c><00:02:33.440><c> be</c><00:02:33.760><c> tools</c><00:02:34.080><c> that</c>
+approaches are designed to be tools that
+approaches are designed to be tools that
+you<00:02:34.560><c> use</c><00:02:34.720><c> in</c><00:02:34.959><c> specific</c><00:02:35.440><c> situations.</c><00:02:36.239><c> And</c>
+you use in specific situations. And
+you use in specific situations. And
+that's<00:02:36.640><c> why</c><00:02:36.800><c> I'm</c><00:02:37.040><c> giving</c><00:02:37.280><c> you</c><00:02:37.360><c> these</c><00:02:37.680><c> short</c>
+that's why I'm giving you these short
+that's why I'm giving you these short
+examples<00:02:38.480><c> is</c><00:02:38.640><c> I</c><00:02:38.879><c> want</c><00:02:38.959><c> to</c><00:02:39.040><c> give</c><00:02:39.200><c> you</c><00:02:39.280><c> a</c><00:02:39.519><c> sense</c>
+examples is I want to give you a sense
+examples is I want to give you a sense
+of<00:02:40.160><c> not</c><00:02:40.400><c> just</c><00:02:40.560><c> the</c><00:02:40.720><c> mental</c><00:02:41.040><c> model,</c><00:02:41.440><c> not</c><00:02:41.599><c> just</c>
+of not just the mental model, not just
+of not just the mental model, not just
+the<00:02:41.920><c> principle,</c><00:02:42.640><c> but</c><00:02:42.879><c> where</c><00:02:43.200><c> advanced</c>
+the principle, but where advanced
+the principle, but where advanced
+prompters<00:02:44.160><c> tend</c><00:02:44.400><c> to</c><00:02:44.560><c> use</c><00:02:44.800><c> these</c><00:02:45.120><c> techniques.</c>
+prompters tend to use these techniques.
+prompters tend to use these techniques.
+Let's<00:02:46.080><c> go</c><00:02:46.160><c> to</c><00:02:46.319><c> the</c><00:02:46.480><c> next</c><00:02:46.640><c> one.</c><00:02:46.959><c> Strategic</c>
+Let's go to the next one. Strategic
+Let's go to the next one. Strategic
+edgecase<00:02:48.800><c> learning.</c><00:02:49.599><c> Let's</c><00:02:49.920><c> say</c><00:02:50.160><c> you're</c>
+edgecase learning. Let's say you're
+edgecase learning. Let's say you're
+having<00:02:50.800><c> trouble</c><00:02:51.200><c> distinguishing</c><00:02:52.000><c> edge</c><00:02:52.400><c> cases</c>
+having trouble distinguishing edge cases
+having trouble distinguishing edge cases
+or<00:02:52.959><c> boundary</c><00:02:53.440><c> conditions</c><00:02:54.239><c> around</c><00:02:54.560><c> a</c>
+or boundary conditions around a
+or boundary conditions around a
+particular<00:02:55.280><c> problem</c><00:02:55.599><c> set</c><00:02:56.239><c> and</c><00:02:56.480><c> you're</c><00:02:56.720><c> trying</c>
+particular problem set and you're trying
+particular problem set and you're trying
+to<00:02:57.120><c> describe</c><00:02:57.519><c> it</c><00:02:57.599><c> in</c><00:02:57.840><c> words</c><00:02:58.080><c> and</c><00:02:58.319><c> it's</c><00:02:58.560><c> not</c>
+to describe it in words and it's not
+to describe it in words and it's not
+working<00:02:59.120><c> well.</c><00:02:59.760><c> One</c><00:02:59.920><c> of</c><00:03:00.080><c> the</c><00:03:00.239><c> ways</c><00:03:00.480><c> to</c><00:03:00.720><c> handle</c>
+working well. One of the ways to handle
+working well. One of the ways to handle
+this<00:03:01.440><c> is</c><00:03:01.760><c> called</c><00:03:02.400><c> fshot</c><00:03:03.360><c> examples</c><00:03:04.000><c> or</c><00:03:04.480><c> fshot</c>
+this is called fshot examples or fshot
+this is called fshot examples or fshot
+prompting.<00:03:05.680><c> And</c><00:03:05.840><c> what</c><00:03:06.080><c> you're</c><00:03:06.239><c> trying</c><00:03:06.480><c> to</c><00:03:06.640><c> do</c>
+prompting. And what you're trying to do
+prompting. And what you're trying to do
+is<00:03:07.120><c> you're</c><00:03:07.360><c> trying</c><00:03:07.519><c> to</c><00:03:07.760><c> include</c><00:03:08.319><c> examples</c><00:03:08.879><c> of</c>
+is you're trying to include examples of
+is you're trying to include examples of
+common<00:03:09.519><c> failure</c><00:03:09.920><c> modes</c><00:03:10.239><c> and</c><00:03:10.480><c> boundary</c><00:03:10.879><c> cases</c>
+common failure modes and boundary cases
+common failure modes and boundary cases
+so<00:03:12.000><c> that</c><00:03:12.720><c> you</c><00:03:13.040><c> can</c><00:03:13.280><c> teach</c><00:03:13.599><c> the</c><00:03:13.920><c> model</c><00:03:14.480><c> how</c><00:03:14.800><c> to</c>
+so that you can teach the model how to
+so that you can teach the model how to
+distinguish<00:03:15.519><c> those</c><00:03:15.840><c> gray</c><00:03:16.159><c> spaces,</c><00:03:16.640><c> those</c>
+distinguish those gray spaces, those
+distinguish those gray spaces, those
+edges<00:03:17.280><c> in</c><00:03:17.440><c> the</c><00:03:17.599><c> situation.</c><00:03:18.480><c> And</c><00:03:18.640><c> so</c><00:03:19.360><c> one</c>
+edges in the situation. And so one
+edges in the situation. And so one
+example<00:03:19.920><c> of</c><00:03:20.080><c> how</c><00:03:20.319><c> to</c><00:03:20.480><c> do</c><00:03:20.560><c> this</c><00:03:20.959><c> is</c><00:03:21.680><c> to</c><00:03:22.000><c> show</c>
+example of how to do this is to show
+example of how to do this is to show
+let's<00:03:22.480><c> say</c><00:03:22.640><c> you're</c><00:03:22.879><c> trying</c><00:03:23.040><c> to</c><00:03:23.200><c> prevent</c><00:03:23.519><c> a</c><00:03:23.760><c> SQL</c>
+let's say you're trying to prevent a SQL
+let's say you're trying to prevent a SQL
+injection<00:03:24.560><c> attack,</c><00:03:25.040><c> right?</c><00:03:25.360><c> The</c><00:03:25.599><c> first</c>
+injection attack, right? The first
+injection attack, right? The first
+example<00:03:26.480><c> might</c><00:03:26.800><c> be</c><00:03:27.360><c> a</c><00:03:27.599><c> very</c><00:03:27.920><c> obvious</c>
+example might be a very obvious
+example might be a very obvious
+injection<00:03:28.879><c> with</c><00:03:29.040><c> a</c><00:03:29.200><c> raw</c><00:03:29.519><c> string</c>
+injection with a raw string
+injection with a raw string
+concatenation.<00:03:31.040><c> It's</c><00:03:31.200><c> a</c><00:03:31.440><c> baseline.</c><00:03:32.000><c> The</c>
+concatenation. It's a baseline. The
+concatenation. It's a baseline. The
+model<00:03:32.480><c> should</c><00:03:32.720><c> pick</c><00:03:32.959><c> this</c><00:03:33.120><c> up.</c><00:03:33.599><c> The</c><00:03:33.840><c> second</c>
+model should pick this up. The second
+model should pick this up. The second
+example<00:03:34.640><c> might</c><00:03:34.959><c> be</c><00:03:35.440><c> a</c><00:03:35.840><c> parameterized</c><00:03:36.720><c> query</c>
+example might be a parameterized query
+example might be a parameterized query
+that<00:03:37.760><c> looks</c><00:03:38.080><c> safe</c><00:03:38.720><c> but</c><00:03:39.040><c> has</c><00:03:39.280><c> some</c><00:03:39.519><c> sort</c><00:03:39.680><c> of</c>
+that looks safe but has some sort of
+that looks safe but has some sort of
+second<00:03:40.239><c> order</c><00:03:40.560><c> injection</c><00:03:41.200><c> stored</c><00:03:41.519><c> somewhere,</c>
+second order injection stored somewhere,
+second order injection stored somewhere,
+right?<00:03:42.319><c> Maybe</c><00:03:43.280><c> stored</c><00:03:43.519><c> in</c><00:03:43.760><c> XSS,</c><00:03:44.560><c> etc.</c><00:03:45.040><c> The</c>
+right? Maybe stored in XSS, etc. The
+right? Maybe stored in XSS, etc. The
+failure<00:03:45.680><c> mode</c><00:03:46.239><c> would</c><00:03:46.640><c> fool</c><00:03:47.440><c> a</c><00:03:47.680><c> naive</c>
+failure mode would fool a naive
+failure mode would fool a naive
+analysis,<00:03:48.640><c> but</c><00:03:48.879><c> you're</c><00:03:49.040><c> trying</c><00:03:49.200><c> to</c><00:03:49.360><c> teach</c><00:03:49.599><c> the</c>
+analysis, but you're trying to teach the
+analysis, but you're trying to teach the
+model<00:03:50.159><c> through</c><00:03:50.400><c> the</c><00:03:50.640><c> example</c><00:03:51.360><c> that</c><00:03:51.680><c> this</c><00:03:51.840><c> is</c>
+model through the example that this is
+model through the example that this is
+the<00:03:52.239><c> kind</c><00:03:52.480><c> of</c><00:03:52.640><c> thing</c><00:03:52.879><c> to</c><00:03:53.200><c> look</c><00:03:53.360><c> for</c><00:03:53.519><c> in</c><00:03:53.760><c> this</c>
+the kind of thing to look for in this
+the kind of thing to look for in this
+edge<00:03:54.319><c> case.</c><00:03:54.720><c> And</c><00:03:54.879><c> so</c><00:03:55.040><c> by</c><00:03:55.360><c> including</c><00:03:55.760><c> examples</c>
+edge case. And so by including examples
+edge case. And so by including examples
+of<00:03:56.400><c> subtle</c><00:03:56.799><c> failure</c><00:03:57.120><c> modes,</c><00:03:57.439><c> it</c><00:03:57.680><c> doesn't</c><00:03:57.840><c> have</c>
+of subtle failure modes, it doesn't have
+of subtle failure modes, it doesn't have
+to<00:03:58.000><c> be</c><00:03:58.159><c> SQL,</c><00:03:58.560><c> right?</c><00:03:58.640><c> I</c><00:03:58.879><c> picked</c><00:03:59.040><c> SQL</c><00:03:59.360><c> because</c>
+to be SQL, right? I picked SQL because
+to be SQL, right? I picked SQL because
+that's<00:03:59.680><c> a</c><00:03:59.840><c> really</c><00:04:00.000><c> interesting</c><00:04:00.319><c> one.</c><00:04:00.720><c> But</c><00:04:00.879><c> you</c>
+that's a really interesting one. But you
+that's a really interesting one. But you
+can<00:04:01.280><c> really</c><00:04:01.439><c> use</c><00:04:01.680><c> subtle</c><00:04:02.000><c> failure</c><00:04:02.239><c> modes</c><00:04:02.480><c> for</c>
+can really use subtle failure modes for
+can really use subtle failure modes for
+much<00:04:02.879><c> less</c><00:04:03.120><c> technical</c><00:04:03.519><c> subjects</c><00:04:03.920><c> as</c><00:04:04.159><c> well.</c>
+much less technical subjects as well.
+much less technical subjects as well.
+The<00:04:04.799><c> model</c><00:04:05.120><c> learns</c><00:04:05.439><c> to</c><00:04:05.599><c> distinguish</c><00:04:06.080><c> what</c>
+The model learns to distinguish what
+The model learns to distinguish what
+looks<00:04:06.720><c> secure</c><00:04:07.120><c> from</c><00:04:07.360><c> what</c><00:04:07.519><c> is</c><00:04:07.760><c> secure</c><00:04:08.080><c> or</c><00:04:08.319><c> what</c>
+looks secure from what is secure or what
+looks secure from what is secure or what
+looks<00:04:08.799><c> correct</c><00:04:09.120><c> from</c><00:04:09.360><c> what</c><00:04:09.599><c> is</c><00:04:09.840><c> correct.</c><00:04:10.560><c> And</c>
+looks correct from what is correct. And
+looks correct from what is correct. And
+that<00:04:10.959><c> enables</c><00:04:11.280><c> you</c><00:04:11.519><c> to</c><00:04:11.680><c> drop</c><00:04:11.920><c> your</c><00:04:12.159><c> false</c>
+that enables you to drop your false
+that enables you to drop your false
+negatives<00:04:12.959><c> when</c><00:04:13.200><c> you're</c><00:04:13.439><c> trying</c><00:04:13.599><c> to</c><00:04:13.760><c> use</c><00:04:13.920><c> the</c>
+negatives when you're trying to use the
+negatives when you're trying to use the
+model<00:04:14.400><c> for</c><00:04:14.640><c> this</c><00:04:14.879><c> kind</c><00:04:15.040><c> of</c><00:04:15.360><c> correct</c>
+model for this kind of correct
+model for this kind of correct
+categorization<00:04:16.720><c> work</c><00:04:17.199><c> really</c>
+categorization work really
+categorization work really
+significantly.<00:04:18.320><c> So</c><00:04:18.479><c> those</c><00:04:18.799><c> particular</c><00:04:19.519><c> sort</c>
+significantly. So those particular sort
+significantly. So those particular sort
+of<00:04:19.840><c> principles,</c><00:04:20.320><c> edge</c><00:04:20.639><c> case</c><00:04:20.880><c> learning,</c>
+of principles, edge case learning,
+of principles, edge case learning,
+adversarial<00:04:22.400><c> prompting,</c><00:04:22.880><c> chain</c><00:04:23.120><c> of</c>
+adversarial prompting, chain of
+adversarial prompting, chain of
+verification,<00:04:23.919><c> those</c><00:04:24.080><c> are</c><00:04:24.160><c> all</c><00:04:24.320><c> around</c><00:04:24.560><c> sort</c>
+verification, those are all around sort
+verification, those are all around sort
+of<00:04:24.800><c> how</c><00:04:24.960><c> we</c><00:04:25.199><c> build</c><00:04:25.360><c> selfcorrection</c><00:04:26.160><c> systems.</c>
+of how we build selfcorrection systems.
+of how we build selfcorrection systems.
+That's<00:04:26.800><c> the</c><00:04:26.960><c> larger</c><00:04:27.520><c> bucket</c><00:04:27.840><c> these</c><00:04:28.160><c> fall</c>
+That's the larger bucket these fall
+That's the larger bucket these fall
+into.<00:04:28.960><c> Advanced</c><00:04:29.440><c> prompters</c><00:04:29.919><c> also</c><00:04:30.240><c> do</c><00:04:30.479><c> meta</c>
+into. Advanced prompters also do meta
+into. Advanced prompters also do meta
+prompting.<00:04:31.280><c> And</c><00:04:31.360><c> I've</c><00:04:31.600><c> talked</c><00:04:31.759><c> about</c><00:04:32.000><c> this</c>
+prompting. And I've talked about this
+prompting. And I've talked about this
+before.<00:04:32.960><c> It's</c><00:04:33.280><c> worth</c><00:04:33.600><c> talking</c><00:04:34.000><c> about</c><00:04:34.479><c> again.</c>
+before. It's worth talking about again.
+before. It's worth talking about again.
+People<00:04:35.680><c> do</c><00:04:36.000><c> not</c><00:04:36.160><c> realize</c><00:04:36.720><c> how</c><00:04:37.120><c> powerful</c><00:04:38.080><c> meta</c>
+People do not realize how powerful meta
+People do not realize how powerful meta
+prompting<00:04:38.960><c> is</c><00:04:39.440><c> until</c><00:04:39.840><c> they</c><00:04:40.080><c> try</c><00:04:40.240><c> it.</c><00:04:40.479><c> And</c><00:04:40.639><c> I</c>
+prompting is until they try it. And I
+prompting is until they try it. And I
+want<00:04:40.880><c> to</c><00:04:41.040><c> give</c><00:04:41.120><c> you</c><00:04:41.280><c> a</c><00:04:41.440><c> couple</c><00:04:41.520><c> of</c><00:04:41.759><c> specific</c>
+want to give you a couple of specific
+want to give you a couple of specific
+techniques<00:04:42.639><c> that</c><00:04:42.880><c> advanced</c><00:04:43.280><c> prompters</c><00:04:43.840><c> use</c>
+techniques that advanced prompters use
+techniques that advanced prompters use
+that<00:04:44.639><c> you</c><00:04:44.880><c> can</c><00:04:45.040><c> try</c><00:04:45.199><c> as</c><00:04:45.440><c> well.</c><00:04:45.759><c> The</c><00:04:46.000><c> first</c><00:04:46.160><c> one</c>
+that you can try as well. The first one
+that you can try as well. The first one
+is<00:04:46.560><c> reverse</c><00:04:47.040><c> prompting.</c><00:04:47.759><c> So</c><00:04:47.919><c> this</c><00:04:48.160><c> technique</c>
+is reverse prompting. So this technique
+is reverse prompting. So this technique
+exploits<00:04:49.040><c> the</c><00:04:49.280><c> model's</c><00:04:49.680><c> meta</c><00:04:50.000><c> knowledge</c>
+exploits the model's meta knowledge
+exploits the model's meta knowledge
+about<00:04:50.560><c> what</c><00:04:50.800><c> makes</c><00:04:50.960><c> prompts</c><00:04:51.360><c> effective.</c><00:04:52.000><c> The</c>
+about what makes prompts effective. The
+about what makes prompts effective. The
+model's<00:04:52.639><c> been</c><00:04:52.800><c> trained</c><00:04:53.040><c> on</c><00:04:53.199><c> a</c><00:04:53.280><c> lot</c><00:04:53.440><c> of</c><00:04:53.520><c> prompt</c>
+model's been trained on a lot of prompt
+model's been trained on a lot of prompt
+engineering<00:04:54.479><c> conversation</c><00:04:55.120><c> and</c><00:04:55.280><c> you</c><00:04:55.520><c> can</c><00:04:55.680><c> ask</c>
+engineering conversation and you can ask
+engineering conversation and you can ask
+it<00:04:56.160><c> to</c><00:04:56.320><c> design</c><00:04:56.639><c> an</c><00:04:56.880><c> optimal</c><00:04:57.360><c> prompt.</c><00:04:58.000><c> And</c><00:04:58.160><c> the</c>
+it to design an optimal prompt. And the
+it to design an optimal prompt. And the
+funny<00:04:58.560><c> thing</c><00:04:58.639><c> is</c><00:04:58.960><c> people</c><00:04:59.199><c> don't</c><00:04:59.440><c> realize</c>
+funny thing is people don't realize
+funny thing is people don't realize
+this.<00:05:00.479><c> You</c><00:05:00.720><c> can</c><00:05:00.880><c> ask</c><00:05:01.120><c> it</c><00:05:01.280><c> to</c><00:05:01.440><c> define</c><00:05:01.840><c> the</c>
+this. You can ask it to define the
+this. You can ask it to define the
+prompt<00:05:02.400><c> to</c><00:05:02.639><c> solve</c><00:05:03.040><c> a</c><00:05:03.360><c> particular</c><00:05:03.919><c> defined</c>
+prompt to solve a particular defined
+prompt to solve a particular defined
+task<00:05:04.800><c> and</c><00:05:05.040><c> it</c><00:05:05.199><c> will</c><00:05:05.360><c> just</c><00:05:05.520><c> write</c><00:05:05.759><c> its</c><00:05:06.000><c> own</c>
+task and it will just write its own
+task and it will just write its own
+prompt<00:05:06.560><c> and</c><00:05:06.800><c> execute</c><00:05:07.280><c> on</c><00:05:07.440><c> it.</c><00:05:07.840><c> And</c><00:05:08.080><c> so</c><00:05:08.400><c> one</c><00:05:08.639><c> of</c>
+prompt and execute on it. And so one of
+prompt and execute on it. And so one of
+the<00:05:08.880><c> ways</c><00:05:09.039><c> that</c><00:05:09.280><c> you</c><00:05:09.440><c> can</c><00:05:09.520><c> do</c><00:05:09.680><c> this</c><00:05:09.840><c> is</c><00:05:10.080><c> to</c><00:05:10.240><c> say</c>
+the ways that you can do this is to say
+the ways that you can do this is to say
+you're<00:05:10.960><c> an</c><00:05:11.199><c> expert</c><00:05:11.520><c> prompt</c><00:05:11.919><c> designer.</c><00:05:12.479><c> Please</c>
+you're an expert prompt designer. Please
+you're an expert prompt designer. Please
+design<00:05:13.120><c> the</c><00:05:13.440><c> single</c><00:05:13.759><c> most</c><00:05:14.080><c> effective</c><00:05:14.560><c> prompt</c>
+design the single most effective prompt
+design the single most effective prompt
+to<00:05:15.360><c> analyze</c><00:05:15.919><c> quarterly</c><00:05:16.400><c> earnings</c><00:05:16.800><c> reports</c>
+to analyze quarterly earnings reports
+to analyze quarterly earnings reports
+for<00:05:17.840><c> early</c><00:05:18.080><c> warning</c><00:05:18.479><c> signs</c><00:05:18.800><c> of</c><00:05:18.960><c> financial</c>
+for early warning signs of financial
+for early warning signs of financial
+distress.<00:05:20.080><c> Consider</c><00:05:20.639><c> what</c><00:05:20.880><c> details</c><00:05:21.360><c> matter,</c>
+distress. Consider what details matter,
+distress. Consider what details matter,
+what<00:05:22.000><c> output</c><00:05:22.400><c> format</c><00:05:22.800><c> is</c><00:05:22.960><c> most</c><00:05:23.199><c> actionable,</c>
+what output format is most actionable,
+what output format is most actionable,
+what<00:05:24.000><c> reasoning</c><00:05:24.400><c> steps</c><00:05:24.720><c> are</c><00:05:24.880><c> essential,</c><00:05:25.600><c> then</c>
+what reasoning steps are essential, then
+what reasoning steps are essential, then
+execute<00:05:26.320><c> that</c><00:05:26.560><c> prompt</c><00:05:27.120><c> on</c><00:05:27.360><c> this</c><00:05:27.680><c> particular</c>
+execute that prompt on this particular
+execute that prompt on this particular
+route.<00:05:28.800><c> You</c><00:05:29.039><c> see</c><00:05:29.199><c> how</c><00:05:29.360><c> we've</c><00:05:29.680><c> included</c><00:05:30.560><c> a</c>
+route. You see how we've included a
+route. You see how we've included a
+request<00:05:32.400><c> for</c><00:05:33.360><c> specific</c><00:05:34.160><c> outputs</c><00:05:34.960><c> along</c><00:05:35.280><c> with</c>
+request for specific outputs along with
+request for specific outputs along with
+a<00:05:35.680><c> request</c><00:05:36.000><c> for</c><00:05:36.160><c> the</c><00:05:36.320><c> prompt.</c><00:05:36.960><c> You</c><00:05:37.199><c> can</c>
+a request for the prompt. You can
+a request for the prompt. You can
+totally<00:05:37.759><c> do</c><00:05:38.000><c> that.</c><00:05:38.400><c> You</c><00:05:38.720><c> can</c><00:05:38.960><c> ask</c><00:05:39.280><c> for</c><00:05:39.520><c> a</c>
+totally do that. You can ask for a
+totally do that. You can ask for a
+prompt<00:05:40.080><c> with</c><00:05:40.320><c> certain</c><00:05:40.639><c> characteristics</c><00:05:41.680><c> and</c>
+prompt with certain characteristics and
+prompt with certain characteristics and
+the<00:05:42.160><c> model</c><00:05:42.479><c> can</c><00:05:42.880><c> use</c><00:05:43.199><c> best</c><00:05:43.520><c> practice,</c><00:05:44.320><c> look</c><00:05:44.479><c> at</c>
+the model can use best practice, look at
+the model can use best practice, look at
+the<00:05:44.880><c> output,</c><00:05:45.360><c> formulate</c><00:05:45.840><c> the</c><00:05:46.000><c> prompt,</c><00:05:46.400><c> keep</c>
+the output, formulate the prompt, keep
+the output, formulate the prompt, keep
+in<00:05:46.800><c> mind</c><00:05:46.960><c> what</c><00:05:47.199><c> you're</c><00:05:47.360><c> looking</c><00:05:47.600><c> for,</c><00:05:47.840><c> and</c>
+in mind what you're looking for, and
+in mind what you're looking for, and
+then<00:05:48.320><c> run</c><00:05:48.479><c> it.</c><00:05:48.880><c> People</c><00:05:49.199><c> don't</c><00:05:49.360><c> realize</c><00:05:49.680><c> you</c>
+then run it. People don't realize you
+then run it. People don't realize you
+can<00:05:50.000><c> do</c><00:05:50.160><c> this,</c><00:05:50.639><c> but</c><00:05:50.880><c> it</c><00:05:51.120><c> sure</c><00:05:51.280><c> opens</c><00:05:51.600><c> up</c><00:05:51.680><c> a</c><00:05:51.919><c> lot</c>
+can do this, but it sure opens up a lot
+can do this, but it sure opens up a lot
+of<00:05:52.080><c> power</c><00:05:52.320><c> in</c><00:05:52.479><c> the</c><00:05:52.639><c> model.</c><00:05:53.120><c> Another</c><00:05:53.440><c> one</c><00:05:53.520><c> is</c>
+of power in the model. Another one is
+of power in the model. Another one is
+recursive<00:05:54.560><c> prompt</c><00:05:54.960><c> optimization.</c><00:05:56.160><c> So,</c><00:05:56.320><c> this</c>
+recursive prompt optimization. So, this
+recursive prompt optimization. So, this
+is<00:05:56.639><c> a</c><00:05:56.800><c> situation</c><00:05:57.280><c> where</c><00:05:57.520><c> you</c><00:05:57.759><c> can</c><00:05:57.919><c> say,</c>
+is a situation where you can say,
+is a situation where you can say,
+"You're<00:05:58.720><c> a</c><00:05:58.880><c> recursive</c><00:05:59.440><c> prompt</c><00:05:59.759><c> optimizer.</c><00:06:00.720><c> My</c>
+"You're a recursive prompt optimizer. My
+"You're a recursive prompt optimizer. My
+current<00:06:01.199><c> prompt</c><00:06:01.520><c> is</c><00:06:01.680><c> here.</c><00:06:02.160><c> Your</c><00:06:02.400><c> goal</c><00:06:02.639><c> is</c>
+current prompt is here. Your goal is
+current prompt is here. Your goal is
+this.<00:06:03.280><c> I</c><00:06:03.520><c> need</c><00:06:03.680><c> you</c><00:06:03.840><c> to</c><00:06:04.000><c> go</c><00:06:04.160><c> through</c><00:06:04.400><c> multiple</c>
+this. I need you to go through multiple
+this. I need you to go through multiple
+iterations<00:06:05.440><c> with</c><00:06:05.680><c> me,</c><00:06:05.919><c> right?</c><00:06:06.400><c> For</c><00:06:06.639><c> version</c>
+iterations with me, right? For version
+iterations with me, right? For version
+one,<00:06:07.360><c> just</c><00:06:07.600><c> add</c><00:06:07.759><c> the</c><00:06:07.919><c> missing</c><00:06:08.319><c> constraints.</c>
+one, just add the missing constraints.
+one, just add the missing constraints.
+For<00:06:09.120><c> version</c><00:06:09.520><c> two,</c><00:06:09.840><c> please</c><00:06:10.160><c> resolve</c>
+For version two, please resolve
+For version two, please resolve
+ambiguities.<00:06:11.360><c> And</c><00:06:11.520><c> for</c><00:06:11.680><c> version</c><00:06:11.919><c> three,</c>
+ambiguities. And for version three,
+ambiguities. And for version three,
+enhance<00:06:12.639><c> reasoning</c><00:06:13.039><c> depth.</c><00:06:13.600><c> You</c><00:06:13.840><c> can</c><00:06:13.919><c> pick</c>
+enhance reasoning depth. You can pick
+enhance reasoning depth. You can pick
+what<00:06:14.319><c> the</c><00:06:14.479><c> versions</c><00:06:14.880><c> do.</c><00:06:15.280><c> But</c><00:06:15.440><c> the</c><00:06:15.600><c> point</c><00:06:15.840><c> is</c>
+what the versions do. But the point is
+what the versions do. But the point is
+you<00:06:16.720><c> are</c><00:06:16.960><c> starting</c><00:06:17.280><c> to</c><00:06:17.440><c> define</c><00:06:18.080><c> aspects</c><00:06:18.560><c> of</c>
+you are starting to define aspects of
+you are starting to define aspects of
+the<00:06:18.880><c> prompt</c><00:06:19.360><c> you</c><00:06:19.600><c> care</c><00:06:19.840><c> about.</c><00:06:20.560><c> You're</c><00:06:20.800><c> not</c>
+the prompt you care about. You're not
+the prompt you care about. You're not
+saying<00:06:21.199><c> what</c><00:06:21.360><c> the</c><00:06:21.600><c> new</c><00:06:21.759><c> prompt</c><00:06:22.080><c> will</c><00:06:22.240><c> be.</c>
+saying what the new prompt will be.
+saying what the new prompt will be.
+That's<00:06:22.639><c> up</c><00:06:22.720><c> to</c><00:06:22.880><c> the</c><00:06:23.039><c> model.</c><00:06:23.600><c> And</c><00:06:23.759><c> you</c><00:06:24.000><c> are</c>
+That's up to the model. And you are
+That's up to the model. And you are
+giving<00:06:24.479><c> the</c><00:06:24.720><c> model</c><00:06:25.120><c> multiple</c><00:06:25.600><c> iterations</c><00:06:26.160><c> in</c>
+giving the model multiple iterations in
+giving the model multiple iterations in
+one<00:06:26.720><c> pass.</c><00:06:27.199><c> And</c><00:06:27.360><c> so</c><00:06:27.520><c> it's</c><00:06:27.759><c> going</c><00:06:28.000><c> back</c><00:06:28.319><c> over</c>
+one pass. And so it's going back over
+one pass. And so it's going back over
+the<00:06:28.800><c> prompt</c><00:06:29.199><c> again</c><00:06:29.520><c> and</c><00:06:29.759><c> again</c><00:06:30.000><c> and</c><00:06:30.240><c> again.</c>
+the prompt again and again and again.
+the prompt again and again and again.
+And<00:06:31.039><c> this</c><00:06:31.360><c> can</c><00:06:31.919><c> force</c><00:06:32.720><c> a</c><00:06:33.120><c> kind</c><00:06:33.360><c> of</c><00:06:33.680><c> structure</c>
+And this can force a kind of structure
+And this can force a kind of structure
+and<00:06:34.400><c> constraint</c><00:06:35.360><c> that</c><00:06:35.680><c> improves</c><00:06:36.160><c> the</c><00:06:36.400><c> quality</c>
+and constraint that improves the quality
+and constraint that improves the quality
+of<00:06:36.880><c> the</c><00:06:37.120><c> prompt</c><00:06:37.520><c> on</c><00:06:37.759><c> the</c><00:06:38.000><c> specific</c><00:06:38.400><c> axes</c><00:06:38.880><c> that</c>
+of the prompt on the specific axes that
+of the prompt on the specific axes that
+you<00:06:39.199><c> care</c><00:06:39.440><c> about.</c><00:06:39.600><c> So</c><00:06:39.759><c> those</c><00:06:39.919><c> are</c><00:06:40.080><c> a</c><00:06:40.240><c> couple</c>
+you care about. So those are a couple
+you care about. So those are a couple
+techniques<00:06:40.720><c> for</c><00:06:40.960><c> metaring.</c><00:06:42.000><c> Another</c>
+techniques for metaring. Another
+techniques for metaring. Another
+advanced<00:06:43.039><c> technique</c><00:06:43.360><c> that</c><00:06:43.520><c> I</c><00:06:43.680><c> want</c><00:06:43.759><c> to</c><00:06:43.840><c> call</c>
+advanced technique that I want to call
+advanced technique that I want to call
+out<00:06:44.160><c> or</c><00:06:44.400><c> advanced</c><00:06:44.880><c> principle</c><00:06:45.360><c> that</c><00:06:46.160><c> we</c><00:06:46.400><c> get</c>
+out or advanced principle that we get
+out or advanced principle that we get
+into<00:06:46.880><c> with</c><00:06:47.120><c> prompting</c><00:06:47.600><c> is</c><00:06:47.840><c> reasoning</c>
+into with prompting is reasoning
+into with prompting is reasoning
+scaffolds.<00:06:49.600><c> How</c><00:06:49.840><c> do</c><00:06:50.000><c> you</c><00:06:50.240><c> structure</c>
+scaffolds. How do you structure
+scaffolds. How do you structure
+prompting?<00:06:51.440><c> How</c><00:06:51.600><c> do</c><00:06:51.680><c> you</c><00:06:51.840><c> structure</c>
+prompting? How do you structure
+prompting? How do you structure
+interaction<00:06:52.800><c> with</c><00:06:52.960><c> the</c><00:06:53.120><c> AI</c><00:06:53.520><c> for</c><00:06:53.840><c> deeper</c><00:06:54.240><c> and</c>
+interaction with the AI for deeper and
+interaction with the AI for deeper and
+more<00:06:54.639><c> comprehensive</c><00:06:55.280><c> analysis?</c><00:06:56.240><c> So</c><00:06:56.639><c> self-cut</c>
+more comprehensive analysis? So self-cut
+more comprehensive analysis? So self-cut
+correction<00:06:57.600><c> can</c><00:06:57.840><c> catch</c><00:06:58.080><c> mistakes.</c><00:06:58.639><c> Meta</c>
+correction can catch mistakes. Meta
+correction can catch mistakes. Meta
+prompting<00:06:59.280><c> can</c><00:06:59.440><c> improve</c><00:06:59.840><c> prompt</c><00:07:00.160><c> design.</c>
+prompting can improve prompt design.
+prompting can improve prompt design.
+Reasoning<00:07:01.199><c> is</c><00:07:01.440><c> really</c><00:07:02.160><c> controlling</c><00:07:02.720><c> how</c><00:07:03.039><c> the</c>
+Reasoning is really controlling how the
+Reasoning is really controlling how the
+model<00:07:03.520><c> thinks</c><00:07:03.840><c> and</c><00:07:04.080><c> changing</c><00:07:04.400><c> it</c><00:07:04.720><c> by</c>
+model thinks and changing it by
+model thinks and changing it by
+providing<00:07:05.440><c> a</c><00:07:05.840><c> structure</c><00:07:06.319><c> that</c><00:07:06.720><c> forces</c>
+providing a structure that forces
+providing a structure that forces
+thorough<00:07:07.919><c> analysis.</c><00:07:08.800><c> One</c><00:07:09.039><c> technique</c><00:07:09.360><c> that</c><00:07:09.599><c> is</c>
+thorough analysis. One technique that is
+thorough analysis. One technique that is
+not<00:07:09.840><c> often</c><00:07:10.240><c> practiced</c><00:07:10.639><c> is</c><00:07:10.960><c> deliberate</c><00:07:11.520><c> over</c>
+not often practiced is deliberate over
+not often practiced is deliberate over
+instruction.<00:07:12.880><c> So</c><00:07:13.120><c> basic</c><00:07:13.520><c> prompts</c><00:07:13.919><c> and</c><00:07:14.080><c> a</c><00:07:14.240><c> lot</c>
+instruction. So basic prompts and a lot
+instruction. So basic prompts and a lot
+of<00:07:14.479><c> the</c><00:07:14.639><c> model</c><00:07:14.960><c> training</c><00:07:15.280><c> around</c><00:07:15.599><c> token</c>
+of the model training around token
+of the model training around token
+optimization<00:07:17.840><c> compress</c><00:07:18.319><c> outputs.</c><00:07:19.039><c> There's</c><00:07:19.199><c> a</c>
+optimization compress outputs. There's a
+optimization compress outputs. There's a
+lot<00:07:19.440><c> of</c><00:07:19.680><c> be</c><00:07:19.919><c> concise,</c><00:07:20.479><c> summarize</c><00:07:21.039><c> briefly,</c>
+lot of be concise, summarize briefly,
+lot of be concise, summarize briefly,
+etc.<00:07:22.160><c> And</c><00:07:22.400><c> when</c><00:07:22.560><c> models</c><00:07:22.880><c> are</c><00:07:23.039><c> trained</c><00:07:23.360><c> that</c>
+etc. And when models are trained that
+etc. And when models are trained that
+way,<00:07:23.840><c> they</c><00:07:24.080><c> may</c><00:07:24.240><c> prematurely</c><00:07:24.960><c> collapse</c><00:07:25.360><c> their</c>
+way, they may prematurely collapse their
+way, they may prematurely collapse their
+reasoning<00:07:26.000><c> chains.</c><00:07:26.639><c> You</c><00:07:26.800><c> may</c><00:07:26.960><c> not</c><00:07:27.199><c> want</c><00:07:27.360><c> that.</c>
+reasoning chains. You may not want that.
+reasoning chains. You may not want that.
+And<00:07:28.080><c> so</c><00:07:28.319><c> one</c><00:07:28.560><c> way</c><00:07:28.720><c> to</c><00:07:28.960><c> fight</c><00:07:29.199><c> it</c><00:07:29.599><c> is</c><00:07:29.840><c> to</c><00:07:30.080><c> append</c>
+And so one way to fight it is to append
+And so one way to fight it is to append
+at<00:07:30.720><c> the</c><00:07:30.880><c> end</c><00:07:30.960><c> of</c><00:07:31.120><c> your</c><00:07:31.280><c> ask</c><00:07:31.680><c> a</c><00:07:31.919><c> really</c><00:07:32.160><c> clear</c>
+at the end of your ask a really clear
+at the end of your ask a really clear
+definition<00:07:33.680><c> of</c><00:07:34.000><c> over</c><00:07:34.319><c> instruction.</c><00:07:35.120><c> Do</c><00:07:35.360><c> not</c>
+definition of over instruction. Do not
+definition of over instruction. Do not
+summarize.<00:07:36.160><c> You</c><00:07:36.400><c> might</c><00:07:36.560><c> say</c><00:07:37.039><c> expand</c><00:07:37.440><c> every</c>
+summarize. You might say expand every
+summarize. You might say expand every
+single<00:07:38.080><c> point</c><00:07:38.319><c> with</c><00:07:38.639><c> implementation</c>
+single point with implementation
+single point with implementation
+details,<00:07:40.080><c> with</c><00:07:40.319><c> edge</c><00:07:40.639><c> cases,</c><00:07:41.199><c> with</c><00:07:41.360><c> failure</c>
+details, with edge cases, with failure
+details, with edge cases, with failure
+modes,<00:07:42.240><c> with</c><00:07:42.560><c> historical</c><00:07:43.120><c> context.</c><00:07:43.680><c> You</c><00:07:43.840><c> just</c>
+modes, with historical context. You just
+modes, with historical context. You just
+go<00:07:44.080><c> on</c><00:07:44.240><c> and</c><00:07:44.400><c> on,</c><00:07:44.720><c> right?</c><00:07:45.120><c> And</c><00:07:45.280><c> then</c><00:07:45.440><c> say</c><00:07:45.680><c> like,</c>
+go on and on, right? And then say like,
+go on and on, right? And then say like,
+I<00:07:46.160><c> really</c><00:07:46.400><c> need</c><00:07:46.560><c> exhaustive</c><00:07:47.199><c> depth</c><00:07:47.440><c> here.</c><00:07:47.759><c> I</c>
+I really need exhaustive depth here. I
+I really need exhaustive depth here. I
+don't<00:07:48.240><c> need</c><00:07:48.560><c> an</c><00:07:48.880><c> executive</c><00:07:49.360><c> summary.</c><00:07:49.759><c> I</c><00:07:49.919><c> don't</c>
+don't need an executive summary. I don't
+don't need an executive summary. I don't
+need<00:07:50.240><c> conciseness.</c><00:07:51.280><c> Please</c><00:07:51.599><c> prioritize</c>
+need conciseness. Please prioritize
+need conciseness. Please prioritize
+completeness.<00:07:53.440><c> The</c><00:07:53.759><c> reason</c><00:07:54.000><c> you</c><00:07:54.319><c> do</c><00:07:54.560><c> this</c><00:07:55.039><c> is</c>
+completeness. The reason you do this is
+completeness. The reason you do this is
+because<00:07:55.680><c> you</c><00:07:55.919><c> want</c><00:07:56.080><c> to</c><00:07:56.400><c> expose</c><00:07:56.879><c> the</c><00:07:57.120><c> model's</c>
+because you want to expose the model's
+because you want to expose the model's
+reasoning<00:07:58.000><c> to</c><00:07:58.240><c> examine</c><00:07:58.639><c> it.</c><00:07:58.879><c> I</c><00:07:59.120><c> want</c><00:07:59.199><c> to</c>
+reasoning to examine it. I want to
+reasoning to examine it. I want to
+emphasize<00:07:59.759><c> that</c><00:08:00.000><c> this</c><00:08:00.160><c> is</c><00:08:00.319><c> about</c><00:08:00.639><c> thinking</c>
+emphasize that this is about thinking
+emphasize that this is about thinking
+with<00:08:01.360><c> the</c><00:08:01.599><c> model.</c><00:08:02.080><c> You're</c><00:08:02.400><c> not</c><00:08:02.639><c> doing</c><00:08:02.800><c> this</c><00:08:03.120><c> to</c>
+with the model. You're not doing this to
+with the model. You're not doing this to
+take<00:08:03.599><c> what</c><00:08:03.759><c> the</c><00:08:04.000><c> model</c><00:08:04.240><c> writes</c><00:08:04.560><c> and</c><00:08:04.720><c> just</c><00:08:04.960><c> copy</c>
+take what the model writes and just copy
+take what the model writes and just copy
+paste<00:08:05.599><c> it.</c><00:08:06.160><c> This</c><00:08:06.400><c> is</c><00:08:06.560><c> one</c><00:08:06.800><c> of</c><00:08:06.879><c> those</c><00:08:07.120><c> tools</c>
+paste it. This is one of those tools
+paste it. This is one of those tools
+that<00:08:07.680><c> you</c><00:08:07.840><c> use</c><00:08:08.080><c> when</c><00:08:08.319><c> you</c><00:08:08.560><c> really</c><00:08:08.800><c> want</c><00:08:08.960><c> to</c>
+that you use when you really want to
+that you use when you really want to
+understand<00:08:09.599><c> the</c><00:08:09.840><c> problem</c><00:08:10.160><c> space</c><00:08:10.479><c> and</c><00:08:10.639><c> the</c>
+understand the problem space and the
+understand the problem space and the
+model's<00:08:11.120><c> thinking</c><00:08:11.360><c> and</c><00:08:11.599><c> respond</c><00:08:12.080><c> back</c>
+model's thinking and respond back
+model's thinking and respond back
+effectively.<00:08:13.199><c> So</c><00:08:13.440><c> deliberate</c><00:08:13.840><c> over</c>
+effectively. So deliberate over
+effectively. So deliberate over
+instruction<00:08:14.479><c> is</c><00:08:14.639><c> a</c><00:08:14.800><c> big</c><00:08:14.879><c> one.</c><00:08:15.199><c> Another</c><00:08:15.520><c> one</c><00:08:15.680><c> is</c>
+instruction is a big one. Another one is
+instruction is a big one. Another one is
+called<00:08:16.160><c> zeroot</c><00:08:16.879><c> chain</c><00:08:17.120><c> of</c><00:08:17.280><c> thought</c>
+called zeroot chain of thought
+called zeroot chain of thought
+structure.<00:08:18.240><c> And</c><00:08:18.400><c> so</c><00:08:18.639><c> this</c><00:08:18.879><c> technique</c>
+structure. And so this technique
+structure. And so this technique
+exploits<00:08:19.759><c> how</c><00:08:19.919><c> LLMs</c><00:08:20.560><c> are</c><00:08:20.720><c> trained</c><00:08:21.360><c> to</c>
+exploits how LLMs are trained to
+exploits how LLMs are trained to
+continue<00:08:22.240><c> patterns.</c><00:08:22.960><c> And</c><00:08:23.199><c> so</c><00:08:23.360><c> what</c><00:08:23.599><c> you</c><00:08:23.759><c> might</c>
+continue patterns. And so what you might
+continue patterns. And so what you might
+do<00:08:24.160><c> if</c><00:08:24.479><c> you're</c><00:08:24.720><c> thinking</c><00:08:24.960><c> about</c><00:08:25.199><c> pushing</c><00:08:25.520><c> the</c>
+do if you're thinking about pushing the
+do if you're thinking about pushing the
+model's<00:08:26.080><c> thinking</c><00:08:26.319><c> in</c><00:08:26.479><c> a</c><00:08:26.639><c> certain</c><00:08:26.879><c> direction</c>
+model's thinking in a certain direction
+model's thinking in a certain direction
+is<00:08:27.680><c> provide</c><00:08:28.000><c> a</c><00:08:28.240><c> template</c><00:08:28.639><c> with</c><00:08:28.879><c> blank</c><00:08:29.360><c> steps</c>
+is provide a template with blank steps
+is provide a template with blank steps
+that<00:08:30.400><c> triggers</c><00:08:30.960><c> a</c><00:08:31.280><c> chain</c><00:08:31.599><c> of</c><00:08:31.759><c> thought</c>
+that triggers a chain of thought
+that triggers a chain of thought
+automatically<00:08:33.279><c> because</c><00:08:33.599><c> the</c><00:08:33.839><c> model's</c>
+automatically because the model's
+automatically because the model's
+objective<00:08:34.800><c> immediately</c><00:08:35.440><c> becomes</c><00:08:35.919><c> filling</c>
+objective immediately becomes filling
+objective immediately becomes filling
+the<00:08:36.479><c> structure</c><00:08:36.880><c> you've</c><00:08:37.120><c> laid</c><00:08:37.360><c> out</c><00:08:37.839><c> and</c><00:08:38.159><c> that</c>
+the structure you've laid out and that
+the structure you've laid out and that
+would<00:08:38.640><c> require</c><00:08:39.120><c> decomposing</c><00:08:39.760><c> the</c><00:08:40.080><c> problem.</c>
+would require decomposing the problem.
+would require decomposing the problem.
+So<00:08:40.880><c> let's</c><00:08:41.120><c> say</c><00:08:41.279><c> you're</c><00:08:41.519><c> root</c><00:08:41.760><c> causing</c><00:08:42.240><c> a</c>
+So let's say you're root causing a
+So let's say you're root causing a
+technical<00:08:42.959><c> issue</c><00:08:43.519><c> and</c><00:08:43.760><c> you</c><00:08:44.000><c> have</c><00:08:44.399><c> a</c><00:08:44.720><c> series</c><00:08:44.959><c> of</c>
+technical issue and you have a series of
+technical issue and you have a series of
+questions<00:08:45.680><c> you</c><00:08:45.839><c> know</c><00:08:46.000><c> the</c><00:08:46.160><c> model</c><00:08:46.480><c> needs</c><00:08:46.720><c> to</c>
+questions you know the model needs to
+questions you know the model needs to
+think<00:08:46.959><c> through</c><00:08:47.200><c> if</c><00:08:47.440><c> it's</c><00:08:47.600><c> going</c><00:08:47.680><c> to</c><00:08:47.760><c> do</c><00:08:47.920><c> this</c>
+think through if it's going to do this
+think through if it's going to do this
+correctly.<00:08:49.040><c> You</c><00:08:49.200><c> can</c><00:08:49.360><c> literally</c><00:08:49.839><c> list</c><00:08:50.160><c> the</c>
+correctly. You can literally list the
+correctly. You can literally list the
+question<00:08:50.720><c> with</c><00:08:50.880><c> a</c><00:08:51.120><c> blank</c><00:08:51.760><c> in</c><00:08:52.080><c> sequence</c><00:08:52.480><c> in</c><00:08:52.720><c> the</c>
+question with a blank in sequence in the
+question with a blank in sequence in the
+order<00:08:53.040><c> you</c><00:08:53.279><c> think</c><00:08:53.440><c> it</c><00:08:53.600><c> should</c><00:08:53.760><c> be</c><00:08:53.920><c> correctly</c>
+order you think it should be correctly
+order you think it should be correctly
+done<00:08:54.560><c> and</c><00:08:54.800><c> the</c><00:08:55.040><c> model</c><00:08:55.279><c> will</c><00:08:55.519><c> start</c><00:08:55.680><c> to</c>
+done and the model will start to
+done and the model will start to
+structure<00:08:56.320><c> its</c><00:08:56.560><c> thinking</c><00:08:57.040><c> around</c><00:08:57.440><c> that</c>
+structure its thinking around that
+structure its thinking around that
+scaffolding.<00:08:58.800><c> So</c><00:08:59.040><c> this</c><00:08:59.200><c> is</c><00:08:59.360><c> really</c><00:08:59.680><c> effective</c>
+scaffolding. So this is really effective
+scaffolding. So this is really effective
+for<00:09:00.560><c> problems</c><00:09:00.880><c> that</c><00:09:01.120><c> are</c><00:09:01.279><c> quantitative</c><00:09:02.240><c> for</c>
+for problems that are quantitative for
+for problems that are quantitative for
+technical<00:09:02.959><c> problems</c><00:09:03.839><c> because</c><00:09:04.080><c> it</c><00:09:04.320><c> creates</c><00:09:04.560><c> a</c>
+technical problems because it creates a
+technical problems because it creates a
+natural<00:09:05.279><c> progression</c><00:09:06.080><c> from</c><00:09:06.320><c> the</c><00:09:06.560><c> breakdown</c>
+natural progression from the breakdown
+natural progression from the breakdown
+of<00:09:07.120><c> the</c><00:09:07.279><c> problem</c><00:09:07.680><c> to</c><00:09:07.920><c> the</c><00:09:08.160><c> solution.</c><00:09:08.560><c> And</c><00:09:08.720><c> that</c>
+of the problem to the solution. And that
+of the problem to the solution. And that
+makes<00:09:09.040><c> it</c><00:09:09.200><c> much</c><00:09:09.440><c> easier</c><00:09:09.760><c> to</c><00:09:10.000><c> understand</c><00:09:10.320><c> what</c>
+makes it much easier to understand what
+makes it much easier to understand what
+the<00:09:10.720><c> model</c><00:09:10.880><c> is</c><00:09:11.120><c> thinking</c><00:09:11.279><c> and</c><00:09:11.519><c> to</c><00:09:11.680><c> find</c><00:09:11.839><c> out</c><00:09:12.000><c> if</c>
+the model is thinking and to find out if
+the model is thinking and to find out if
+you're<00:09:12.399><c> actually</c><00:09:12.640><c> in</c><00:09:12.880><c> the</c><00:09:13.040><c> right</c><00:09:13.200><c> territory</c>
+you're actually in the right territory
+you're actually in the right territory
+from<00:09:14.720><c> a</c><00:09:15.760><c> structure</c><00:09:16.160><c> of</c><00:09:16.320><c> thought</c><00:09:16.560><c> perspective.</c>
+from a structure of thought perspective.
+from a structure of thought perspective.
+Is<00:09:17.200><c> the</c><00:09:17.360><c> model</c><00:09:17.600><c> on</c><00:09:17.839><c> the</c><00:09:18.000><c> right</c><00:09:18.160><c> track</c><00:09:18.399><c> here</c><00:09:18.640><c> or</c>
+Is the model on the right track here or
+Is the model on the right track here or
+not?<00:09:19.360><c> Reference</c><00:09:19.839><c> class</c><00:09:20.160><c> priming</c><00:09:20.560><c> is</c><00:09:20.800><c> another</c>
+not? Reference class priming is another
+not? Reference class priming is another
+advanced<00:09:21.519><c> technique</c><00:09:21.920><c> here.</c><00:09:22.399><c> Reference</c><00:09:22.880><c> class</c>
+advanced technique here. Reference class
+advanced technique here. Reference class
+priming<00:09:23.680><c> provides</c><00:09:24.080><c> examples</c><00:09:24.480><c> of</c><00:09:24.640><c> reasoning</c>
+priming provides examples of reasoning
+priming provides examples of reasoning
+quality<00:09:25.600><c> and</c><00:09:25.839><c> asks</c><00:09:26.160><c> the</c><00:09:26.320><c> model</c><00:09:26.560><c> to</c><00:09:26.800><c> match</c><00:09:27.040><c> that</c>
+quality and asks the model to match that
+quality and asks the model to match that
+explicit<00:09:28.080><c> reasoning</c><00:09:28.560><c> bar.</c><00:09:29.120><c> So</c><00:09:29.279><c> let's</c><00:09:29.519><c> say</c>
+explicit reasoning bar. So let's say
+explicit reasoning bar. So let's say
+you're<00:09:29.839><c> using</c><00:09:30.000><c> the</c><00:09:30.240><c> model's</c><00:09:30.640><c> own</c><00:09:30.959><c> best</c><00:09:31.279><c> output</c>
+you're using the model's own best output
+you're using the model's own best output
+as<00:09:31.839><c> a</c><00:09:32.000><c> quality</c><00:09:32.320><c> benchmark</c><00:09:33.200><c> rather</c><00:09:33.519><c> than</c>
+as a quality benchmark rather than
+as a quality benchmark rather than
+relying<00:09:34.480><c> on</c><00:09:34.720><c> human</c><00:09:35.040><c> provided</c><00:09:35.519><c> examples.</c><00:09:36.160><c> LLMs</c>
+relying on human provided examples. LLMs
+relying on human provided examples. LLMs
+are<00:09:36.880><c> trained</c><00:09:37.040><c> to</c><00:09:37.279><c> continue</c><00:09:37.600><c> patterns</c><00:09:38.240><c> and</c>
+are trained to continue patterns and
+are trained to continue patterns and
+when<00:09:38.640><c> you</c><00:09:38.800><c> show</c><00:09:38.959><c> it</c><00:09:39.120><c> an</c><00:09:39.360><c> example</c><00:09:39.600><c> of</c>
+when you show it an example of
+when you show it an example of
+highquality<00:09:40.399><c> reasoning</c><00:09:41.279><c> whether</c><00:09:41.600><c> provided</c>
+highquality reasoning whether provided
+highquality reasoning whether provided
+by<00:09:42.240><c> humans</c><00:09:42.640><c> or</c><00:09:42.959><c> another</c><00:09:43.360><c> model</c><00:09:43.680><c> and</c><00:09:43.839><c> you</c><00:09:44.080><c> ask</c>
+by humans or another model and you ask
+by humans or another model and you ask
+it<00:09:44.480><c> to</c><00:09:44.720><c> provide</c><00:09:45.200><c> analysis</c><00:09:45.760><c> that</c><00:09:46.000><c> matches</c><00:09:46.320><c> the</c>
+it to provide analysis that matches the
+it to provide analysis that matches the
+standard<00:09:47.279><c> you</c><00:09:47.519><c> are</c><00:09:47.839><c> priming</c><00:09:48.560><c> the</c>
+standard you are priming the
+standard you are priming the
+distribution<00:09:49.519><c> of</c><00:09:49.680><c> the</c><00:09:49.839><c> model</c><00:09:50.160><c> toward</c><00:09:50.560><c> that</c>
+distribution of the model toward that
+distribution of the model toward that
+level<00:09:50.959><c> of</c><00:09:51.200><c> depth.</c><00:09:51.839><c> This</c><00:09:52.080><c> is</c><00:09:52.240><c> really</c><00:09:52.560><c> different</c>
+level of depth. This is really different
+level of depth. This is really different
+from<00:09:53.200><c> sort</c><00:09:53.440><c> of</c><00:09:53.519><c> traditional</c><00:09:54.000><c> fshot</c>
+from sort of traditional fshot
+from sort of traditional fshot
+prompting.<00:09:55.040><c> You're</c><00:09:55.200><c> not</c><00:09:55.279><c> showing</c><00:09:55.519><c> input</c>
+prompting. You're not showing input
+prompting. You're not showing input
+output<00:09:56.320><c> pairs</c><00:09:56.800><c> here</c><00:09:57.200><c> to</c><00:09:57.519><c> teach</c><00:09:57.680><c> the</c><00:09:57.920><c> model</c>
+output pairs here to teach the model
+output pairs here to teach the model
+what<00:09:58.399><c> to</c><00:09:58.560><c> do.</c><00:09:58.720><c> But</c><00:09:58.880><c> instead,</c><00:09:59.120><c> you're</c>
+what to do. But instead, you're
+what to do. But instead, you're
+providing<00:09:59.760><c> examples</c><00:10:00.160><c> of</c><00:10:00.480><c> quality</c><00:10:00.880><c> reasoning</c>
+providing examples of quality reasoning
+providing examples of quality reasoning
+and<00:10:01.600><c> asking</c><00:10:01.920><c> the</c><00:10:02.160><c> model</c><00:10:02.640><c> to</c><00:10:02.959><c> meet</c><00:10:03.200><c> that</c><00:10:03.440><c> bar</c><00:10:03.680><c> of</c>
+and asking the model to meet that bar of
+and asking the model to meet that bar of
+quality.<00:10:04.720><c> Without</c><00:10:05.120><c> priming,</c><00:10:05.680><c> outputs</c><00:10:06.160><c> can</c>
+quality. Without priming, outputs can
+quality. Without priming, outputs can
+vary<00:10:06.800><c> wildly</c><00:10:07.360><c> on</c><00:10:07.680><c> quality</c><00:10:08.000><c> and</c><00:10:08.160><c> format,</c><00:10:08.480><c> and</c>
+vary wildly on quality and format, and
+vary wildly on quality and format, and
+it<00:10:08.800><c> can</c><00:10:08.959><c> be</c><00:10:09.120><c> difficult</c><00:10:09.360><c> to</c><00:10:09.600><c> control</c><00:10:09.920><c> for</c><00:10:10.160><c> that</c>
+it can be difficult to control for that
+it can be difficult to control for that
+directly<00:10:10.720><c> with</c><00:10:10.959><c> a</c><00:10:11.120><c> prompt.</c><00:10:11.519><c> And</c><00:10:11.680><c> so,</c>
+directly with a prompt. And so,
+directly with a prompt. And so,
+sometimes<00:10:12.480><c> having</c><00:10:12.800><c> an</c><00:10:13.120><c> example</c><00:10:13.760><c> can</c><00:10:14.079><c> push</c><00:10:14.399><c> the</c>
+sometimes having an example can push the
+sometimes having an example can push the
+model<00:10:15.279><c> toward</c><00:10:15.680><c> producing</c><00:10:16.240><c> much</c><00:10:16.480><c> more</c>
+model toward producing much more
+model toward producing much more
+consistent<00:10:17.200><c> quality</c><00:10:17.600><c> across</c><00:10:17.920><c> an</c><00:10:18.160><c> overall</c>
+consistent quality across an overall
+consistent quality across an overall
+document<00:10:19.040><c> set.</c><00:10:19.519><c> Another</c><00:10:19.839><c> technique</c><00:10:20.240><c> that</c><00:10:20.480><c> I</c>
+document set. Another technique that I
+document set. Another technique that I
+want<00:10:20.720><c> to</c><00:10:20.880><c> call</c><00:10:21.040><c> out</c><00:10:21.519><c> is</c><00:10:22.079><c> around</c><00:10:22.560><c> perspective</c>
+want to call out is around perspective
+want to call out is around perspective
+engineering.<00:10:24.079><c> So,</c><00:10:24.240><c> if</c><00:10:24.399><c> we</c><00:10:24.480><c> talked</c><00:10:24.720><c> about</c>
+engineering. So, if we talked about
+engineering. So, if we talked about
+reasoning,<00:10:25.360><c> I</c><00:10:25.519><c> gave</c><00:10:25.680><c> you</c><00:10:25.839><c> a</c><00:10:26.000><c> few</c><00:10:26.160><c> techniques</c>
+reasoning, I gave you a few techniques
+reasoning, I gave you a few techniques
+here.<00:10:27.200><c> Perspective</c><00:10:27.839><c> engineering</c><00:10:28.399><c> is</c><00:10:28.640><c> really</c>
+here. Perspective engineering is really
+here. Perspective engineering is really
+cool.<00:10:29.279><c> Single</c><00:10:29.680><c> perspective</c><00:10:30.160><c> analysis</c><00:10:30.720><c> will</c>
+cool. Single perspective analysis will
+cool. Single perspective analysis will
+have<00:10:31.120><c> blind</c><00:10:31.440><c> spots</c><00:10:31.760><c> determined</c><00:10:32.160><c> by</c><00:10:32.320><c> the</c>
+have blind spots determined by the
+have blind spots determined by the
+model's<00:10:32.800><c> default</c><00:10:33.200><c> reasoning</c><00:10:33.519><c> mode.</c><00:10:33.839><c> So</c>
+model's default reasoning mode. So
+model's default reasoning mode. So
+advanced<00:10:34.480><c> prompters</c><00:10:35.200><c> will</c><00:10:35.519><c> push</c><00:10:35.760><c> the</c>
+advanced prompters will push the
+advanced prompters will push the
+perspective<00:10:36.480><c> of</c><00:10:36.640><c> the</c><00:10:36.800><c> model</c><00:10:37.120><c> to</c><00:10:37.360><c> generate</c>
+perspective of the model to generate
+perspective of the model to generate
+competing<00:10:38.240><c> viewpoints</c><00:10:38.800><c> on</c><00:10:39.040><c> different</c>
+competing viewpoints on different
+competing viewpoints on different
+priorities<00:10:40.079><c> and</c><00:10:40.320><c> that</c><00:10:40.480><c> leads</c><00:10:40.720><c> to</c><00:10:40.880><c> higher</c>
+priorities and that leads to higher
+priorities and that leads to higher
+quality<00:10:41.519><c> thinking</c><00:10:41.839><c> as</c><00:10:42.079><c> well.</c><00:10:42.399><c> One</c><00:10:42.640><c> example</c><00:10:42.880><c> is</c>
+quality thinking as well. One example is
+quality thinking as well. One example is
+a<00:10:43.200><c> multi-persona</c><00:10:44.000><c> debate.</c><00:10:44.560><c> So</c><00:10:44.800><c> let's</c><00:10:45.040><c> say</c><00:10:45.200><c> you</c>
+a multi-persona debate. So let's say you
+a multi-persona debate. So let's say you
+want<00:10:45.680><c> to</c><00:10:45.920><c> simulate</c><00:10:46.480><c> the</c><00:10:46.720><c> perspective</c><00:10:47.120><c> of</c>
+want to simulate the perspective of
+want to simulate the perspective of
+three<00:10:47.680><c> different</c><00:10:47.920><c> experts.</c><00:10:48.800><c> You</c><00:10:49.040><c> actually</c>
+three different experts. You actually
+three different experts. You actually
+can<00:10:50.160><c> instantiate</c><00:10:50.959><c> three</c><00:10:51.200><c> experts.</c><00:10:51.680><c> You</c><00:10:51.839><c> can</c>
+can instantiate three experts. You can
+can instantiate three experts. You can
+just<00:10:52.079><c> say</c><00:10:52.480><c> three</c><00:10:52.720><c> experts</c><00:10:53.040><c> with</c><00:10:53.279><c> conflicting</c>
+just say three experts with conflicting
+just say three experts with conflicting
+priorities<00:10:54.240><c> need</c><00:10:54.399><c> to</c><00:10:54.560><c> debate.</c><00:10:55.040><c> These</c><00:10:55.279><c> are</c><00:10:55.360><c> the</c>
+priorities need to debate. These are the
+priorities need to debate. These are the
+personas,<00:10:56.079><c> right?</c><00:10:56.160><c> Persona</c><00:10:56.720><c> has</c><00:10:56.880><c> priority</c><00:10:57.279><c> X,</c>
+personas, right? Persona has priority X,
+personas, right? Persona has priority X,
+persona<00:10:58.079><c> 2</c><00:10:58.240><c> has</c><00:10:58.480><c> priority</c><00:10:58.800><c> Y,</c><00:10:59.120><c> persona</c><00:10:59.519><c> 3</c><00:10:59.680><c> has</c>
+persona 2 has priority Y, persona 3 has
+persona 2 has priority Y, persona 3 has
+priority<00:11:00.320><c> Z.</c><00:11:00.800><c> They</c><00:11:01.040><c> must</c><00:11:01.200><c> argue</c><00:11:01.600><c> for</c><00:11:01.839><c> their</c>
+priority Z. They must argue for their
+priority Z. They must argue for their
+preference<00:11:02.720><c> and</c><00:11:03.040><c> critique</c><00:11:03.360><c> the</c><00:11:03.600><c> others</c>
+preference and critique the others
+preference and critique the others
+positions.<00:11:04.640><c> After</c><00:11:04.959><c> debate,</c><00:11:05.440><c> you</c><00:11:05.600><c> must</c>
+positions. After debate, you must
+positions. After debate, you must
+synthesize<00:11:06.320><c> a</c><00:11:06.560><c> recommendation</c><00:11:06.959><c> that</c>
+synthesize a recommendation that
+synthesize a recommendation that
+addresses<00:11:07.760><c> all</c><00:11:07.920><c> of</c><00:11:08.079><c> their</c><00:11:08.320><c> concerns.</c><00:11:09.040><c> You</c><00:11:09.279><c> can</c>
+addresses all of their concerns. You can
+addresses all of their concerns. You can
+do<00:11:09.680><c> this</c><00:11:09.920><c> when</c><00:11:10.160><c> you</c><00:11:10.320><c> have</c><00:11:10.560><c> something</c><00:11:10.880><c> where</c>
+do this when you have something where
+do this when you have something where
+you<00:11:11.519><c> need</c><00:11:11.680><c> a</c><00:11:12.000><c> vigorous</c><00:11:12.480><c> debate,</c><00:11:13.200><c> but</c><00:11:13.440><c> you</c>
+you need a vigorous debate, but you
+you need a vigorous debate, but you
+don't<00:11:13.839><c> know</c><00:11:14.079><c> how</c><00:11:14.240><c> to</c><00:11:14.399><c> push</c><00:11:14.640><c> the</c><00:11:14.800><c> LLM</c><00:11:15.360><c> to</c><00:11:15.519><c> get</c>
+don't know how to push the LLM to get
+don't know how to push the LLM to get
+there.<00:11:16.240><c> A</c><00:11:16.480><c> good</c><00:11:16.640><c> example</c><00:11:17.040><c> is</c><00:11:17.440><c> costbenefit</c>
+there. A good example is costbenefit
+there. A good example is costbenefit
+analysis<00:11:18.720><c> for</c><00:11:18.959><c> vendors,</c><00:11:19.440><c> right?</c><00:11:19.600><c> If</c><00:11:19.760><c> you're</c>
+analysis for vendors, right? If you're
+analysis for vendors, right? If you're
+trying<00:11:19.920><c> to</c><00:11:20.079><c> figure</c><00:11:20.160><c> out</c><00:11:20.320><c> if</c><00:11:20.480><c> you</c><00:11:20.640><c> buy</c><00:11:21.360><c> with</c><00:11:21.600><c> a</c>
+trying to figure out if you buy with a
+trying to figure out if you buy with a
+vendor<00:11:22.079><c> or</c><00:11:22.240><c> if</c><00:11:22.399><c> you</c><00:11:22.560><c> do</c><00:11:22.640><c> a</c><00:11:22.880><c> different</c>
+vendor or if you do a different
+vendor or if you do a different
+approach,<00:11:23.680><c> you</c><00:11:23.920><c> can</c><00:11:24.160><c> simulate</c><00:11:24.640><c> that</c><00:11:24.880><c> whole</c>
+approach, you can simulate that whole
+approach, you can simulate that whole
+conversation<00:11:25.680><c> and</c><00:11:25.839><c> it's</c><00:11:26.079><c> not</c><00:11:26.240><c> the</c><00:11:26.399><c> same</c><00:11:26.560><c> as</c>
+conversation and it's not the same as
+conversation and it's not the same as
+having<00:11:26.959><c> the</c><00:11:27.120><c> seauite</c><00:11:27.680><c> talk</c><00:11:27.839><c> about</c><00:11:28.000><c> it,</c><00:11:28.160><c> but</c><00:11:28.399><c> it</c>
+having the seauite talk about it, but it
+having the seauite talk about it, but it
+is<00:11:28.880><c> great</c><00:11:29.279><c> preparation</c><00:11:30.160><c> and</c><00:11:30.399><c> it</c><00:11:30.560><c> helps</c><00:11:30.720><c> you</c><00:11:30.880><c> to</c>
+is great preparation and it helps you to
+is great preparation and it helps you to
+expose<00:11:31.600><c> perspectives</c><00:11:32.160><c> and</c><00:11:32.399><c> thinking</c><00:11:32.720><c> you</c>
+expose perspectives and thinking you
+expose perspectives and thinking you
+might<00:11:33.120><c> not</c><00:11:33.519><c> be</c><00:11:33.760><c> aware</c><00:11:34.000><c> of</c><00:11:34.160><c> otherwise</c><00:11:34.880><c> is</c><00:11:35.040><c> an</c>
+might not be aware of otherwise is an
+might not be aware of otherwise is an
+example<00:11:35.760><c> of</c><00:11:36.160><c> taking</c><00:11:36.560><c> a</c><00:11:36.880><c> very</c><00:11:37.279><c> human</c>
+example of taking a very human
+example of taking a very human
+conversational<00:11:38.959><c> technique</c><00:11:39.600><c> like</c><00:11:40.000><c> debate</c><00:11:40.720><c> and</c>
+conversational technique like debate and
+conversational technique like debate and
+actually<00:11:41.440><c> deliberately</c><00:11:42.160><c> putting</c><00:11:42.480><c> it</c><00:11:42.800><c> into</c>
+actually deliberately putting it into
+actually deliberately putting it into
+the<00:11:43.920><c> chat.</c><00:11:44.399><c> deliberately</c><00:11:45.200><c> getting</c><00:11:45.440><c> the</c><00:11:45.680><c> chat</c>
+the chat. deliberately getting the chat
+the chat. deliberately getting the chat
+to<00:11:46.160><c> work</c><00:11:46.320><c> like</c><00:11:46.560><c> a</c><00:11:46.720><c> human</c><00:11:46.959><c> and</c><00:11:47.200><c> argue</c><00:11:47.600><c> back</c><00:11:47.760><c> and</c>
+to work like a human and argue back and
+to work like a human and argue back and
+forth<00:11:48.160><c> in</c><00:11:48.480><c> ways</c><00:11:48.640><c> that</c><00:11:48.800><c> help</c><00:11:49.040><c> us</c><00:11:49.279><c> to</c><00:11:49.440><c> learn</c><00:11:49.920><c> and</c>
+forth in ways that help us to learn and
+forth in ways that help us to learn and
+make<00:11:50.399><c> better</c><00:11:50.720><c> decisions.</c><00:11:51.440><c> Now,</c><00:11:51.680><c> critically,</c>
+make better decisions. Now, critically,
+make better decisions. Now, critically,
+personas<00:11:52.720><c> do</c><00:11:52.880><c> need</c><00:11:53.200><c> specific</c><00:11:54.079><c> potentially</c>
+personas do need specific potentially
+personas do need specific potentially
+conflicting<00:11:55.200><c> priorities.</c><00:11:55.760><c> You</c><00:11:55.920><c> can't</c><00:11:56.079><c> just</c>
+conflicting priorities. You can't just
+conflicting priorities. You can't just
+vanilla<00:11:57.360><c> instantiate</c><00:11:58.079><c> them</c><00:11:58.240><c> with</c><00:11:58.480><c> no</c>
+vanilla instantiate them with no
+vanilla instantiate them with no
+conflicts<00:11:59.200><c> and</c><00:11:59.360><c> expect</c><00:11:59.680><c> good</c><00:11:59.920><c> results</c><00:12:00.240><c> here.</c>
+conflicts and expect good results here.
+conflicts and expect good results here.
+Another<00:12:00.959><c> technique</c><00:12:01.279><c> that</c><00:12:01.519><c> I</c><00:12:01.760><c> think</c><00:12:01.839><c> is</c><00:12:02.079><c> really</c>
+Another technique that I think is really
+Another technique that I think is really
+important<00:12:02.560><c> to</c><00:12:02.800><c> call</c><00:12:02.959><c> out</c><00:12:03.200><c> is</c><00:12:03.600><c> temperature</c>
+important to call out is temperature
+important to call out is temperature
+simulation.<00:12:04.800><c> Now,</c><00:12:05.040><c> temperature</c><00:12:05.519><c> is</c><00:12:05.760><c> this</c>
+simulation. Now, temperature is this
+simulation. Now, temperature is this
+idea<00:12:06.560><c> that</c><00:12:06.880><c> the</c><00:12:07.120><c> model</c><00:12:07.839><c> uh</c><00:12:08.000><c> is</c><00:12:08.320><c> more</c>
+idea that the model uh is more
+idea that the model uh is more
+deterministic,<00:12:09.440><c> more</c><00:12:09.680><c> focused</c><00:12:10.079><c> when</c><00:12:10.240><c> it's</c>
+deterministic, more focused when it's
+deterministic, more focused when it's
+low<00:12:10.720><c> temperature</c><00:12:11.120><c> or</c><00:12:11.360><c> cold,</c><00:12:11.920><c> and</c><00:12:12.160><c> more</c>
+low temperature or cold, and more
+low temperature or cold, and more
+creative<00:12:12.800><c> when</c><00:12:12.959><c> it's</c><00:12:13.200><c> hot.</c><00:12:13.760><c> That's</c>
+creative when it's hot. That's
+creative when it's hot. That's
+traditionally<00:12:14.959><c> controllable</c><00:12:15.440><c> via</c><00:12:15.680><c> the</c><00:12:15.920><c> API,</c>
+traditionally controllable via the API,
+traditionally controllable via the API,
+but<00:12:17.200><c> you</c><00:12:17.440><c> can</c><00:12:17.600><c> actually</c><00:12:17.920><c> do</c><00:12:18.160><c> that</c><00:12:18.480><c> in</c><00:12:18.720><c> the</c><00:12:18.880><c> chat</c>
+but you can actually do that in the chat
+but you can actually do that in the chat
+indirectly.<00:12:20.639><c> One</c><00:12:20.880><c> way</c><00:12:21.040><c> to</c><00:12:21.279><c> do</c><00:12:21.360><c> it</c><00:12:21.600><c> is</c><00:12:21.760><c> to</c><00:12:22.000><c> have</c>
+indirectly. One way to do it is to have
+indirectly. One way to do it is to have
+the<00:12:22.399><c> model</c><00:12:22.720><c> roleplay</c><00:12:23.200><c> at</c><00:12:23.440><c> different</c>
+the model roleplay at different
+the model roleplay at different
+temperatures.<00:12:24.240><c> So</c><00:12:24.399><c> you</c><00:12:24.560><c> could</c><00:12:24.720><c> say,</c><00:12:25.120><c> I</c><00:12:25.360><c> want</c><00:12:25.440><c> a</c>
+temperatures. So you could say, I want a
+temperatures. So you could say, I want a
+junior<00:12:25.920><c> analyst</c><00:12:26.399><c> who</c><00:12:26.560><c> is</c><00:12:26.720><c> uncertain</c><00:12:27.279><c> and</c><00:12:27.519><c> who</c>
+junior analyst who is uncertain and who
+junior analyst who is uncertain and who
+overexplains<00:12:28.800><c> to</c><00:12:29.040><c> look</c><00:12:29.200><c> at</c><00:12:29.360><c> this</c><00:12:29.600><c> problem</c>
+overexplains to look at this problem
+overexplains to look at this problem
+first.<00:12:30.560><c> I</c><00:12:30.720><c> want</c><00:12:30.880><c> a</c><00:12:31.040><c> confident</c><00:12:31.519><c> expert</c><00:12:31.839><c> who</c><00:12:32.079><c> is</c>
+first. I want a confident expert who is
+first. I want a confident expert who is
+concise<00:12:32.639><c> and</c><00:12:32.880><c> direct.</c><00:12:33.680><c> That</c><00:12:33.839><c> would</c><00:12:34.000><c> be</c><00:12:34.079><c> a</c>
+concise and direct. That would be a
+concise and direct. That would be a
+cooler<00:12:34.720><c> temperature.</c><00:12:36.000><c> Uh</c><00:12:36.240><c> and</c><00:12:36.399><c> then</c><00:12:36.560><c> I</c><00:12:36.720><c> want</c>
+cooler temperature. Uh and then I want
+cooler temperature. Uh and then I want
+you<00:12:36.959><c> to</c><00:12:37.120><c> synthesize</c><00:12:37.760><c> both</c><00:12:38.000><c> perspectives</c><00:12:38.639><c> and</c>
+you to synthesize both perspectives and
+you to synthesize both perspectives and
+highlight<00:12:39.279><c> where</c><00:12:39.600><c> uncertainty</c><00:12:40.079><c> is</c><00:12:40.240><c> warranted</c>
+highlight where uncertainty is warranted
+highlight where uncertainty is warranted
+and<00:12:40.800><c> where</c><00:12:40.959><c> confidence</c><00:12:41.279><c> is</c><00:12:41.519><c> justified.</c><00:12:42.000><c> We're</c>
+and where confidence is justified. We're
+and where confidence is justified. We're
+basically<00:12:42.560><c> giving</c><00:12:42.800><c> the</c><00:12:43.040><c> model</c><00:12:43.600><c> a</c><00:12:43.839><c> low</c>
+basically giving the model a low
+basically giving the model a low
+temperature<00:12:44.480><c> pass,</c><00:12:44.800><c> a</c><00:12:44.959><c> high</c><00:12:45.120><c> temperature</c>
+temperature pass, a high temperature
+temperature pass, a high temperature
+pass,<00:12:45.680><c> and</c><00:12:45.920><c> asking</c><00:12:46.160><c> it</c><00:12:46.320><c> to</c><00:12:46.480><c> synthesize.</c><00:12:47.279><c> I</c>
+pass, and asking it to synthesize. I
+pass, and asking it to synthesize. I
+think<00:12:47.519><c> that</c><00:12:47.760><c> what's</c><00:12:48.079><c> interesting</c><00:12:48.320><c> here</c><00:12:48.560><c> is</c>
+think that what's interesting here is
+think that what's interesting here is
+that<00:12:48.959><c> we</c><00:12:49.120><c> can</c><00:12:49.279><c> take</c><00:12:49.519><c> a</c><00:12:49.760><c> lot</c><00:12:49.839><c> of</c><00:12:49.920><c> the</c><00:12:50.160><c> techniques</c>
+that we can take a lot of the techniques
+that we can take a lot of the techniques
+that<00:12:50.639><c> we</c><00:12:50.880><c> see</c><00:12:51.040><c> in</c><00:12:51.200><c> the</c><00:12:51.360><c> API</c><00:12:51.920><c> and</c><00:12:52.160><c> simulate</c><00:12:52.639><c> them</c>
+that we see in the API and simulate them
+that we see in the API and simulate them
+effectively<00:12:53.440><c> as</c><00:12:53.680><c> advanced</c><00:12:54.079><c> prompters</c><00:12:54.560><c> in</c><00:12:54.800><c> the</c>
+effectively as advanced prompters in the
+effectively as advanced prompters in the
+chat<00:12:55.440><c> to</c><00:12:55.680><c> get</c><00:12:55.839><c> where</c><00:12:56.000><c> we</c><00:12:56.160><c> want</c><00:12:56.240><c> to</c><00:12:56.320><c> go.</c><00:12:56.560><c> I</c><00:12:56.800><c> hope</c>
+chat to get where we want to go. I hope
+chat to get where we want to go. I hope
+this<00:12:57.040><c> has</c><00:12:57.200><c> been</c><00:12:57.360><c> helpful</c><00:12:57.519><c> for</c><00:12:57.680><c> you.</c><00:12:58.000><c> There</c><00:12:58.160><c> are</c>
+this has been helpful for you. There are
+this has been helpful for you. There are
+probably<00:12:58.480><c> other</c><00:12:58.720><c> advanced</c><00:12:59.120><c> prompting</c>
+probably other advanced prompting
+probably other advanced prompting
+techniques<00:12:59.839><c> I</c><00:13:00.000><c> could</c><00:13:00.160><c> get</c><00:13:00.320><c> into.</c><00:13:00.800><c> I</c><00:13:01.040><c> don't</c>
+techniques I could get into. I don't
+techniques I could get into. I don't
+want<00:13:01.279><c> to</c><00:13:01.360><c> make</c><00:13:01.519><c> this</c><00:13:01.760><c> overwhelming,</c><00:13:02.480><c> but</c>
+want to make this overwhelming, but
+want to make this overwhelming, but
+these<00:13:03.040><c> are</c><00:13:03.120><c> the</c><00:13:03.360><c> kinds</c><00:13:03.600><c> of</c><00:13:03.760><c> mental</c><00:13:04.160><c> models</c>
+these are the kinds of mental models
+these are the kinds of mental models
+that<00:13:04.560><c> advanced</c><00:13:04.959><c> prompters</c><00:13:05.440><c> find</c><00:13:05.680><c> difficult</c>
+that advanced prompters find difficult
+that advanced prompters find difficult
+to<00:13:06.240><c> articulate,</c><00:13:07.200><c> but</c><00:13:07.440><c> they</c><00:13:07.760><c> inform</c><00:13:08.240><c> a</c><00:13:08.480><c> lot</c><00:13:08.560><c> of</c>
+to articulate, but they inform a lot of
+to articulate, but they inform a lot of
+productivity.<00:13:09.279><c> They're</c><00:13:09.440><c> very</c><00:13:09.680><c> highly</c>
+productivity. They're very highly
+productivity. They're very highly
+leveraged<00:13:10.560><c> examples.</c><00:13:11.279><c> If</c><00:13:11.519><c> you're</c><00:13:11.680><c> interested</c>
+leveraged examples. If you're interested
+leveraged examples. If you're interested
+in<00:13:12.079><c> diving</c><00:13:12.320><c> in</c><00:13:12.480><c> further,</c><00:13:12.720><c> the</c><00:13:12.880><c> writeup</c><00:13:13.279><c> has</c><00:13:13.360><c> a</c>
+in diving in further, the writeup has a
+in diving in further, the writeup has a
+lot<00:13:13.680><c> more.</c><00:13:13.920><c> It</c><00:13:14.079><c> has</c><00:13:14.240><c> sort</c><00:13:14.399><c> of</c><00:13:14.480><c> examples</c><00:13:14.800><c> of</c><00:13:14.959><c> the</c>
+lot more. It has sort of examples of the
+lot more. It has sort of examples of the
+prompts,<00:13:15.600><c> etc.</c><00:13:16.000><c> Enjoy.</c><00:13:16.480><c> Good</c><00:13:16.720><c> luck</c>
+prompts, etc. Enjoy. Good luck
+prompts, etc. Enjoy. Good luck
+prompting.<00:13:17.440><c> It's</c><00:13:17.600><c> so</c><00:13:17.839><c> powerful.</c><00:13:18.399><c> We</c><00:13:18.560><c> should</c>
+prompting. It's so powerful. We should
+prompting. It's so powerful. We should
+learn<00:13:18.880><c> more</c><00:13:19.120><c> about</c><00:13:19.279><c> it.</c>

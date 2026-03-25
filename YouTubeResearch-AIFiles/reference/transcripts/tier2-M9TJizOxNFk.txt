@@ -1,0 +1,1888 @@
+Today<00:00:00.480><c> we're</c><00:00:00.719><c> going</c><00:00:00.719><c> to</c><00:00:00.880><c> look</c><00:00:00.960><c> at</c><00:00:01.199><c> which</c><00:00:01.520><c> AI</c>
+Today we're going to look at which AI
+Today we're going to look at which AI
+strategy<00:00:02.560><c> is</c><00:00:02.800><c> going</c><00:00:02.960><c> to</c><00:00:03.120><c> win</c><00:00:03.360><c> in</c><00:00:03.520><c> 2026.</c><00:00:04.240><c> There</c>
+strategy is going to win in 2026. There
+strategy is going to win in 2026. There
+are<00:00:04.560><c> really</c><00:00:04.799><c> two</c><00:00:05.120><c> theories</c><00:00:05.520><c> about</c><00:00:05.759><c> how</c><00:00:06.000><c> to</c>
+are really two theories about how to
+are really two theories about how to
+build<00:00:06.400><c> AI</c><00:00:06.799><c> safely</c><00:00:07.200><c> and</c><00:00:07.440><c> at</c><00:00:07.680><c> scale.</c><00:00:08.000><c> Two</c>
+build AI safely and at scale. Two
+build AI safely and at scale. Two
+strategies,<00:00:08.880><c> two</c><00:00:09.120><c> philosophies</c><00:00:09.760><c> that</c><00:00:10.000><c> have</c>
+strategies, two philosophies that have
+strategies, two philosophies that have
+been<00:00:10.400><c> diverging</c><00:00:11.120><c> since</c><00:00:11.519><c> 2021</c><00:00:12.400><c> and</c><00:00:12.559><c> they've</c>
+been diverging since 2021 and they've
+been diverging since 2021 and they've
+now<00:00:13.040><c> produced</c><00:00:13.440><c> completely</c><00:00:13.920><c> different</c>
+now produced completely different
+now produced completely different
+companies,<00:00:14.719><c> completely</c><00:00:15.120><c> different</c><00:00:15.440><c> products</c>
+companies, completely different products
+companies, completely different products
+and<00:00:16.000><c> increasingly</c><00:00:16.800><c> different</c><00:00:17.359><c> markets.</c><00:00:17.920><c> I'm</c>
+and increasingly different markets. I'm
+and increasingly different markets. I'm
+talking<00:00:18.480><c> about</c><00:00:18.880><c> Claude</c><00:00:19.359><c> and</c><00:00:19.520><c> I'm</c><00:00:19.680><c> talking</c>
+talking about Claude and I'm talking
+talking about Claude and I'm talking
+about<00:00:20.320><c> Chat</c><00:00:20.640><c> GPT.</c><00:00:21.359><c> One</c><00:00:21.600><c> theory</c><00:00:21.920><c> says</c><00:00:22.240><c> you</c>
+about Chat GPT. One theory says you
+about Chat GPT. One theory says you
+learn<00:00:22.640><c> by</c><00:00:22.880><c> deploying,</c><00:00:23.680><c> ship</c><00:00:24.080><c> fast,</c><00:00:24.480><c> get</c>
+learn by deploying, ship fast, get
+learn by deploying, ship fast, get
+feedback<00:00:25.039><c> from</c><00:00:25.279><c> millions</c><00:00:25.600><c> of</c><00:00:25.760><c> users</c><00:00:26.080><c> and</c>
+feedback from millions of users and
+feedback from millions of users and
+iterate<00:00:26.720><c> and</c><00:00:26.960><c> the</c><00:00:27.119><c> public</c><00:00:27.359><c> is</c><00:00:27.599><c> effectively</c>
+iterate and the public is effectively
+iterate and the public is effectively
+your<00:00:28.240><c> red</c><00:00:28.480><c> team</c><00:00:28.720><c> for</c><00:00:28.960><c> safety.</c><00:00:29.519><c> The</c><00:00:29.760><c> other</c>
+your red team for safety. The other
+your red team for safety. The other
+theory<00:00:30.320><c> says</c><00:00:30.560><c> you</c><00:00:30.800><c> must</c><00:00:31.119><c> understand</c><00:00:31.599><c> before</c>
+theory says you must understand before
+theory says you must understand before
+you<00:00:32.079><c> deploy.</c><00:00:32.559><c> You</c><00:00:32.800><c> must</c><00:00:32.960><c> prove</c><00:00:33.200><c> it's</c><00:00:33.440><c> safe</c>
+you deploy. You must prove it's safe
+you deploy. You must prove it's safe
+first.<00:00:34.160><c> The</c><00:00:34.399><c> lab</c><00:00:34.719><c> is</c><00:00:34.960><c> the</c><00:00:35.200><c> lab,</c><00:00:35.840><c> not</c><00:00:36.079><c> the</c>
+first. The lab is the lab, not the
+first. The lab is the lab, not the
+world.<00:00:36.880><c> Open</c><00:00:37.280><c> AAI</c><00:00:37.680><c> bet</c><00:00:38.079><c> on</c><00:00:38.320><c> the</c><00:00:38.640><c> ship</c><00:00:38.879><c> it</c><00:00:39.120><c> fast</c>
+world. Open AAI bet on the ship it fast
+world. Open AAI bet on the ship it fast
+strategy.<00:00:40.000><c> Enthropic</c><00:00:40.719><c> bet</c><00:00:41.120><c> on</c><00:00:41.360><c> the</c><00:00:41.520><c> ship</c><00:00:41.840><c> it</c>
+strategy. Enthropic bet on the ship it
+strategy. Enthropic bet on the ship it
+carefully<00:00:42.640><c> strategy.</c><00:00:43.200><c> And</c><00:00:43.440><c> by</c><00:00:43.680><c> January</c><00:00:44.239><c> 2020,</c>
+carefully strategy. And by January 2020,
+carefully strategy. And by January 2020,
+we<00:00:45.280><c> can</c><00:00:45.520><c> finally</c><00:00:46.079><c> see</c><00:00:46.719><c> what</c><00:00:47.039><c> each</c><00:00:47.360><c> bet</c><00:00:47.760><c> has</c>
+we can finally see what each bet has
+we can finally see what each bet has
+produced<00:00:48.399><c> in</c><00:00:48.640><c> the</c><00:00:48.800><c> market.</c><00:00:49.120><c> And</c><00:00:49.360><c> more</c>
+produced in the market. And more
+produced in the market. And more
+importantly,<00:00:50.000><c> we</c><00:00:50.239><c> can</c><00:00:50.399><c> start</c><00:00:50.559><c> to</c><00:00:50.719><c> see</c><00:00:51.280><c> which</c>
+importantly, we can start to see which
+importantly, we can start to see which
+strategy<00:00:52.160><c> is</c><00:00:52.399><c> winning</c><00:00:52.960><c> for</c><00:00:53.280><c> whom.</c><00:00:53.840><c> And</c><00:00:54.000><c> here's</c>
+strategy is winning for whom. And here's
+strategy is winning for whom. And here's
+what<00:00:54.559><c> most</c><00:00:54.800><c> people</c><00:00:55.120><c> get</c><00:00:55.280><c> wrong.</c><00:00:55.920><c> This</c><00:00:56.239><c> is</c><00:00:56.480><c> not</c>
+what most people get wrong. This is not
+what most people get wrong. This is not
+a<00:00:56.879><c> story</c><00:00:57.039><c> about</c><00:00:57.280><c> one</c><00:00:57.520><c> company</c><00:00:57.840><c> being</c><00:00:58.160><c> reckless</c>
+a story about one company being reckless
+a story about one company being reckless
+and<00:00:58.719><c> one</c><00:00:58.960><c> being</c><00:00:59.199><c> cautious.</c><00:00:59.600><c> I</c><00:00:59.760><c> think</c><00:00:59.840><c> that's</c><00:01:00.000><c> a</c>
+and one being cautious. I think that's a
+and one being cautious. I think that's a
+gross<00:01:00.480><c> oversimplification.</c><00:01:01.920><c> Both</c><00:01:02.320><c> Sam</c><00:01:02.640><c> Alman</c>
+gross oversimplification. Both Sam Alman
+gross oversimplification. Both Sam Alman
+and<00:01:03.280><c> Daario</c><00:01:03.680><c> Amade</c><00:01:04.479><c> believe</c><00:01:04.960><c> safety</c><00:01:05.519><c> matters.</c>
+and Daario Amade believe safety matters.
+and Daario Amade believe safety matters.
+They<00:01:06.560><c> just</c><00:01:06.720><c> have</c><00:01:06.960><c> fundamentally</c><00:01:07.600><c> different</c>
+They just have fundamentally different
+They just have fundamentally different
+theories<00:01:08.320><c> about</c><00:01:08.640><c> how</c><00:01:08.799><c> you</c><00:01:09.040><c> achieve</c><00:01:09.280><c> it.</c><00:01:09.760><c> And</c>
+theories about how you achieve it. And
+theories about how you achieve it. And
+those<00:01:10.240><c> theories</c><00:01:10.640><c> trace</c><00:01:11.040><c> back</c><00:01:11.280><c> to</c><00:01:11.600><c> who</c><00:01:11.840><c> those</c>
+those theories trace back to who those
+those theories trace back to who those
+two<00:01:12.400><c> leaders</c><00:01:12.799><c> are,</c><00:01:13.360><c> where</c><00:01:13.600><c> they</c><00:01:13.840><c> came</c><00:01:14.080><c> from,</c>
+two leaders are, where they came from,
+two leaders are, where they came from,
+and<00:01:14.960><c> what</c><00:01:15.200><c> they</c><00:01:15.439><c> learned</c><00:01:16.320><c> before</c><00:01:16.720><c> they</c>
+and what they learned before they
+and what they learned before they
+touched<00:01:17.360><c> AI.</c><00:01:17.759><c> For</c><00:01:18.000><c> 2</c><00:01:18.240><c> years,</c><00:01:18.640><c> really</c><00:01:18.960><c> from</c>
+touched AI. For 2 years, really from
+touched AI. For 2 years, really from
+late<00:01:19.439><c> 2023</c><00:01:20.240><c> to</c><00:01:20.880><c> late</c><00:01:21.119><c> 2025,</c><00:01:21.840><c> the</c><00:01:22.159><c> entire</c><00:01:22.400><c> AI</c>
+late 2023 to late 2025, the entire AI
+late 2023 to late 2025, the entire AI
+conversation<00:01:23.520><c> was</c><00:01:23.759><c> organized</c><00:01:24.240><c> around</c><00:01:24.560><c> a</c>
+conversation was organized around a
+conversation was organized around a
+single<00:01:25.040><c> question.</c><00:01:25.759><c> Which</c><00:01:26.240><c> model</c><00:01:26.640><c> is</c><00:01:26.960><c> better?</c>
+single question. Which model is better?
+single question. Which model is better?
+Benchmark<00:01:27.840><c> comparisons,</c><00:01:28.479><c> arena</c><00:01:28.799><c> scores,</c>
+Benchmark comparisons, arena scores,
+Benchmark comparisons, arena scores,
+vibes<00:01:29.520><c> testing.</c><00:01:30.080><c> The</c><00:01:30.240><c> question</c><00:01:30.640><c> made</c><00:01:30.880><c> sense</c>
+vibes testing. The question made sense
+vibes testing. The question made sense
+when<00:01:31.759><c> both</c><00:01:32.079><c> companies</c><00:01:32.560><c> seemed</c><00:01:32.880><c> to</c><00:01:33.040><c> be</c><00:01:33.200><c> racing</c>
+when both companies seemed to be racing
+when both companies seemed to be racing
+toward<00:01:34.159><c> the</c><00:01:34.479><c> exact</c><00:01:34.799><c> same</c><00:01:35.119><c> finish</c><00:01:35.439><c> line.</c><00:01:36.000><c> But</c>
+toward the exact same finish line. But
+toward the exact same finish line. But
+sometime<00:01:36.479><c> in</c><00:01:36.720><c> late</c><00:01:36.880><c> 2024,</c><00:01:37.759><c> the</c><00:01:37.920><c> paths</c><00:01:38.640><c> forked</c>
+sometime in late 2024, the paths forked
+sometime in late 2024, the paths forked
+and<00:01:39.759><c> they</c><00:01:40.000><c> kept</c><00:01:40.240><c> forking</c><00:01:40.640><c> through</c><00:01:40.799><c> 2025</c><00:01:41.439><c> and</c>
+and they kept forking through 2025 and
+and they kept forking through 2025 and
+it<00:01:41.759><c> just</c><00:01:41.920><c> took</c><00:01:42.079><c> a</c><00:01:42.240><c> while</c><00:01:42.320><c> to</c><00:01:42.560><c> figure</c><00:01:42.720><c> it</c><00:01:42.880><c> out.</c>
+it just took a while to figure it out.
+it just took a while to figure it out.
+By<00:01:43.520><c> January</c><00:01:44.079><c> 2026,</c><00:01:44.880><c> the</c><00:01:45.119><c> divergence</c><00:01:45.680><c> has</c><00:01:45.920><c> be</c>
+By January 2026, the divergence has be
+By January 2026, the divergence has be
+become<00:01:46.640><c> so</c><00:01:46.960><c> complete</c><00:01:47.840><c> that</c><00:01:48.240><c> comparing</c><00:01:48.880><c> Claude</c>
+become so complete that comparing Claude
+become so complete that comparing Claude
+and<00:01:49.360><c> Chad</c><00:01:49.680><c> GPT,</c><00:01:50.320><c> I</c><00:01:50.640><c> find,</c><00:01:50.960><c> is</c><00:01:51.200><c> like</c><00:01:51.439><c> asking</c>
+and Chad GPT, I find, is like asking
+and Chad GPT, I find, is like asking
+whether<00:01:52.799><c> a</c><00:01:53.119><c> hospital</c><00:01:53.600><c> or</c><00:01:53.840><c> a</c><00:01:54.079><c> television</c>
+whether a hospital or a television
+whether a hospital or a television
+studio<00:01:55.040><c> is</c><00:01:55.439><c> better,</c><00:01:55.920><c> quote</c><00:01:56.159><c> unquote.</c><00:01:56.960><c> They're</c>
+studio is better, quote unquote. They're
+studio is better, quote unquote. They're
+both<00:01:57.520><c> buildings.</c><00:01:58.079><c> They</c><00:01:58.240><c> both</c><00:01:58.399><c> use</c>
+both buildings. They both use
+both buildings. They both use
+electricity,<00:01:59.680><c> but</c><00:01:59.920><c> they</c><00:02:00.159><c> serve</c><00:02:00.479><c> entirely</c>
+electricity, but they serve entirely
+electricity, but they serve entirely
+different<00:02:01.360><c> purposes.</c><00:02:01.840><c> And</c><00:02:02.000><c> I</c><00:02:02.159><c> think</c><00:02:02.240><c> that's</c>
+different purposes. And I think that's
+different purposes. And I think that's
+increasingly<00:02:03.040><c> true</c><00:02:03.200><c> of</c><00:02:03.439><c> Claude</c><00:02:03.759><c> and</c><00:02:03.920><c> Chat</c>
+increasingly true of Claude and Chat
+increasingly true of Claude and Chat
+GPT.<00:02:04.880><c> Here's</c><00:02:05.119><c> what</c><00:02:05.360><c> most</c><00:02:05.680><c> people</c><00:02:05.920><c> miss.</c><00:02:06.640><c> This</c>
+GPT. Here's what most people miss. This
+GPT. Here's what most people miss. This
+divergence<00:02:07.600><c> was</c><00:02:07.920><c> not</c><00:02:08.319><c> an</c><00:02:08.640><c> accident</c><00:02:09.440><c> of</c>
+divergence was not an accident of
+divergence was not an accident of
+strategy.<00:02:10.239><c> It</c><00:02:10.479><c> was</c><00:02:10.640><c> not</c><00:02:11.039><c> a</c><00:02:11.360><c> result</c><00:02:11.680><c> of</c><00:02:11.920><c> market</c>
+strategy. It was not a result of market
+strategy. It was not a result of market
+positioning.<00:02:12.959><c> I</c><00:02:13.200><c> believe</c><00:02:13.440><c> it</c><00:02:13.599><c> was</c><00:02:13.760><c> inevitable</c>
+positioning. I believe it was inevitable
+positioning. I believe it was inevitable
+from<00:02:14.560><c> the</c><00:02:14.720><c> moment</c><00:02:14.959><c> these</c><00:02:15.360><c> companies</c><00:02:15.760><c> were</c>
+from the moment these companies were
+from the moment these companies were
+founded<00:02:16.720><c> because</c><00:02:17.040><c> it's</c><00:02:17.280><c> encoded</c><00:02:17.840><c> into</c><00:02:18.160><c> the</c>
+founded because it's encoded into the
+founded because it's encoded into the
+DNA<00:02:18.959><c> of</c><00:02:19.200><c> the</c><00:02:19.440><c> leaders</c><00:02:19.840><c> of</c><00:02:20.000><c> the</c><00:02:20.160><c> companies.</c><00:02:20.640><c> Sam</c>
+DNA of the leaders of the companies. Sam
+DNA of the leaders of the companies. Sam
+Alman<00:02:21.280><c> and</c><00:02:21.360><c> Daario</c><00:02:21.760><c> Amade</c><00:02:22.640><c> are</c><00:02:22.879><c> not</c><00:02:23.599><c> different</c>
+Alman and Daario Amade are not different
+Alman and Daario Amade are not different
+CEOs<00:02:24.560><c> with</c><00:02:24.800><c> different</c><00:02:25.120><c> business</c><00:02:25.440><c> plan.</c>
+CEOs with different business plan.
+CEOs with different business plan.
+They're<00:02:26.000><c> different</c><00:02:26.400><c> kinds</c><00:02:26.720><c> of</c><00:02:26.879><c> people</c><00:02:27.200><c> with</c>
+They're different kinds of people with
+They're different kinds of people with
+different<00:02:27.680><c> theories</c><00:02:28.080><c> of</c><00:02:28.239><c> how</c><00:02:28.400><c> progress</c><00:02:28.879><c> works</c>
+different theories of how progress works
+different theories of how progress works
+and<00:02:29.599><c> most</c><00:02:29.840><c> critically</c><00:02:30.319><c> different</c><00:02:30.560><c> theories</c>
+and most critically different theories
+and most critically different theories
+of<00:02:31.040><c> how</c><00:02:31.360><c> safety</c><00:02:31.840><c> happens</c><00:02:32.160><c> in</c><00:02:32.400><c> artificial</c>
+of how safety happens in artificial
+of how safety happens in artificial
+intelligence.<00:02:33.599><c> And</c><00:02:33.840><c> so</c><00:02:34.000><c> to</c><00:02:34.239><c> understand</c><00:02:34.800><c> why</c>
+intelligence. And so to understand why
+intelligence. And so to understand why
+these<00:02:35.360><c> two</c><00:02:35.519><c> companies</c><00:02:35.920><c> diverge</c><00:02:36.400><c> so</c>
+these two companies diverge so
+these two companies diverge so
+completely,<00:02:37.200><c> you</c><00:02:37.440><c> have</c><00:02:37.519><c> to</c><00:02:37.760><c> understand</c><00:02:38.480><c> where</c>
+completely, you have to understand where
+completely, you have to understand where
+these<00:02:39.040><c> two</c><00:02:39.200><c> men</c><00:02:39.519><c> came</c><00:02:39.680><c> from.</c><00:02:40.160><c> Daario</c><00:02:40.640><c> was</c><00:02:40.879><c> born</c>
+these two men came from. Daario was born
+these two men came from. Daario was born
+in<00:02:41.200><c> San</c><00:02:41.440><c> Francisco</c><00:02:41.920><c> in</c><00:02:42.160><c> the</c><00:02:42.319><c> early</c><00:02:42.640><c> 90s.</c><00:02:43.440><c> His</c>
+in San Francisco in the early 90s. His
+in San Francisco in the early 90s. His
+dad<00:02:43.920><c> was</c><00:02:44.080><c> an</c><00:02:44.239><c> Italian-American</c><00:02:45.040><c> leather</c>
+dad was an Italian-American leather
+dad was an Italian-American leather
+craftsman.<00:02:46.239><c> His</c><00:02:46.480><c> mom</c><00:02:46.640><c> worked</c><00:02:46.879><c> as</c><00:02:47.040><c> a</c><00:02:47.200><c> project</c>
+craftsman. His mom worked as a project
+craftsman. His mom worked as a project
+manager<00:02:48.000><c> for</c><00:02:48.160><c> libraries.</c><00:02:48.640><c> I</c><00:02:48.720><c> guess</c><00:02:48.879><c> that</c><00:02:49.040><c> was</c>
+manager for libraries. I guess that was
+manager for libraries. I guess that was
+before<00:02:49.440><c> product</c><00:02:49.760><c> management.</c><00:02:50.480><c> It's</c><00:02:50.879><c> a</c>
+before product management. It's a
+before product management. It's a
+household<00:02:51.440><c> that</c><00:02:51.680><c> valued</c><00:02:52.000><c> craftsmanship.</c><00:02:52.720><c> It</c>
+household that valued craftsmanship. It
+household that valued craftsmanship. It
+valued<00:02:53.280><c> systematic</c><00:02:53.920><c> thinking,</c><00:02:54.560><c> attention</c><00:02:55.040><c> to</c>
+valued systematic thinking, attention to
+valued systematic thinking, attention to
+detail.<00:02:56.080><c> But</c><00:02:56.239><c> what</c><00:02:56.560><c> really</c><00:02:56.879><c> set</c><00:02:57.120><c> Amade</c><00:02:57.680><c> apart</c>
+detail. But what really set Amade apart
+detail. But what really set Amade apart
+was<00:02:58.239><c> his</c><00:02:58.480><c> orientation</c><00:02:59.040><c> toward</c><00:02:59.440><c> knowledge.</c><00:02:59.920><c> In</c>
+was his orientation toward knowledge. In
+was his orientation toward knowledge. In
+interviews,<00:03:00.640><c> he's</c><00:03:00.879><c> been</c><00:03:01.040><c> remarkably</c><00:03:01.599><c> clear</c>
+interviews, he's been remarkably clear
+interviews, he's been remarkably clear
+about<00:03:02.080><c> this.</c><00:03:02.640><c> I</c><00:03:02.879><c> was</c><00:03:03.040><c> interested</c><00:03:03.599><c> almost</c>
+about this. I was interested almost
+about this. I was interested almost
+entirely<00:03:04.560><c> in</c><00:03:04.800><c> math</c><00:03:05.120><c> and</c><00:03:05.280><c> physics.</c><00:03:05.760><c> He</c><00:03:06.000><c> said,</c>
+entirely in math and physics. He said,
+entirely in math and physics. He said,
+writing<00:03:06.959><c> some</c><00:03:07.280><c> website</c><00:03:07.840><c> actually</c><00:03:08.239><c> had</c><00:03:08.560><c> no</c>
+writing some website actually had no
+writing some website actually had no
+interest<00:03:09.280><c> to</c><00:03:09.599><c> me</c><00:03:10.159><c> whatsoever.</c><00:03:11.040><c> I</c><00:03:11.280><c> was</c>
+interest to me whatsoever. I was
+interest to me whatsoever. I was
+interested<00:03:11.680><c> in</c><00:03:12.000><c> discovering</c><00:03:12.640><c> fundamental</c>
+interested in discovering fundamental
+interested in discovering fundamental
+scientific<00:03:14.080><c> truth.</c><00:03:14.640><c> Think</c><00:03:14.879><c> about</c><00:03:15.040><c> that</c><00:03:15.280><c> for</c>
+scientific truth. Think about that for
+scientific truth. Think about that for
+just<00:03:15.680><c> a</c><00:03:15.920><c> second.</c><00:03:16.480><c> This</c><00:03:16.720><c> is</c><00:03:16.879><c> the</c><00:03:17.120><c> CEO</c><00:03:17.599><c> of</c><00:03:17.760><c> one</c><00:03:17.920><c> of</c>
+just a second. This is the CEO of one of
+just a second. This is the CEO of one of
+the<00:03:18.159><c> most</c><00:03:18.400><c> valuable</c><00:03:18.959><c> artificial</c>
+the most valuable artificial
+the most valuable artificial
+intelligence<00:03:20.000><c> companies</c><00:03:20.319><c> on</c><00:03:20.560><c> the</c><00:03:20.720><c> planet</c><00:03:21.280><c> who</c>
+intelligence companies on the planet who
+intelligence companies on the planet who
+has<00:03:21.760><c> shipped</c><00:03:22.080><c> a</c><00:03:22.319><c> product</c><00:03:22.640><c> that</c><00:03:22.959><c> numerous</c>
+has shipped a product that numerous
+has shipped a product that numerous
+people<00:03:23.760><c> are</c><00:03:24.000><c> using</c><00:03:24.239><c> to</c><00:03:24.480><c> build</c><00:03:24.720><c> websites.</c><00:03:25.440><c> And</c>
+people are using to build websites. And
+people are using to build websites. And
+he's<00:03:25.920><c> telling</c><00:03:26.080><c> you</c><00:03:26.319><c> that</c><00:03:26.480><c> the</c><00:03:26.720><c> entire</c><00:03:27.200><c> culture</c>
+he's telling you that the entire culture
+he's telling you that the entire culture
+of<00:03:27.840><c> the</c><00:03:28.080><c> valley,</c><00:03:28.400><c> the</c><00:03:28.640><c> apps,</c><00:03:28.959><c> the</c><00:03:29.120><c> products,</c>
+of the valley, the apps, the products,
+of the valley, the apps, the products,
+the<00:03:29.599><c> startups,</c><00:03:30.480><c> has</c><00:03:30.959><c> held</c><00:03:31.599><c> no</c><00:03:31.920><c> appeal</c><00:03:32.319><c> to</c><00:03:32.480><c> him</c>
+the startups, has held no appeal to him
+the startups, has held no appeal to him
+whatsoever.<00:03:34.239><c> He's</c><00:03:34.560><c> not</c><00:03:34.799><c> drawn</c><00:03:35.200><c> to</c><00:03:35.519><c> building</c>
+whatsoever. He's not drawn to building
+whatsoever. He's not drawn to building
+the<00:03:36.159><c> things</c><00:03:36.400><c> that</c><00:03:36.720><c> people</c><00:03:36.959><c> are</c><00:03:37.200><c> using</c>
+the things that people are using
+the things that people are using
+day-to-day,<00:03:38.080><c> the</c><00:03:38.319><c> things</c><00:03:38.480><c> that</c><00:03:38.720><c> drive</c><00:03:38.959><c> the</c>
+day-to-day, the things that drive the
+day-to-day, the things that drive the
+valuations,<00:03:40.080><c> ironically,</c><00:03:40.720><c> right?</c><00:03:40.879><c> He's</c><00:03:41.040><c> a</c>
+valuations, ironically, right? He's a
+valuations, ironically, right? He's a
+CEO<00:03:41.519><c> of</c><00:03:41.680><c> a</c><00:03:41.920><c> startup.</c><00:03:42.480><c> He's</c><00:03:42.799><c> drawn</c><00:03:43.120><c> to</c>
+CEO of a startup. He's drawn to
+CEO of a startup. He's drawn to
+understanding<00:03:44.319><c> how</c><00:03:45.040><c> things</c><00:03:45.760><c> work.</c><00:03:46.319><c> He's</c><00:03:46.560><c> a</c>
+understanding how things work. He's a
+understanding how things work. He's a
+scientist.<00:03:47.360><c> Amade</c><00:03:47.920><c> started</c><00:03:48.159><c> at</c><00:03:48.319><c> Caltech</c>
+scientist. Amade started at Caltech
+scientist. Amade started at Caltech
+studying<00:03:49.280><c> physics,</c><00:03:49.840><c> transferred</c><00:03:50.239><c> to</c>
+studying physics, transferred to
+studying physics, transferred to
+Stanford<00:03:50.799><c> to</c><00:03:50.959><c> complete</c><00:03:51.200><c> his</c><00:03:51.440><c> bachelor's</c>
+Stanford to complete his bachelor's
+Stanford to complete his bachelor's
+degree,<00:03:52.080><c> and</c><00:03:52.239><c> then</c><00:03:52.640><c> went</c><00:03:52.640><c> went</c><00:03:52.799><c> on</c><00:03:52.959><c> to</c>
+degree, and then went went on to
+degree, and then went went on to
+Princeton<00:03:53.360><c> for</c><00:03:53.599><c> his</c><00:03:53.760><c> PhD.</c><00:03:54.480><c> And</c><00:03:54.640><c> there</c><00:03:54.879><c> he</c>
+Princeton for his PhD. And there he
+Princeton for his PhD. And there he
+studied<00:03:55.519><c> something</c><00:03:55.920><c> deeply</c><00:03:56.560><c> relevant</c><00:03:56.959><c> to</c><00:03:57.200><c> his</c>
+studied something deeply relevant to his
+studied something deeply relevant to his
+future<00:03:57.760><c> work.</c><00:03:58.159><c> The</c><00:03:58.400><c> electrphysiology</c><00:03:59.439><c> of</c>
+future work. The electrphysiology of
+future work. The electrphysiology of
+neural<00:04:00.080><c> circuits.</c><00:04:00.799><c> He</c><00:04:01.040><c> was</c><00:04:01.280><c> literally</c><00:04:01.840><c> trying</c>
+neural circuits. He was literally trying
+neural circuits. He was literally trying
+to<00:04:02.400><c> understand</c><00:04:02.959><c> how</c><00:04:03.280><c> biological</c><00:04:04.159><c> neurons</c>
+to understand how biological neurons
+to understand how biological neurons
+process<00:04:05.360><c> information</c><00:04:06.000><c> and</c><00:04:06.239><c> how</c><00:04:06.480><c> brains</c><00:04:06.879><c> work</c>
+process information and how brains work
+process information and how brains work
+at<00:04:07.360><c> the</c><00:04:07.519><c> level</c><00:04:07.760><c> of</c><00:04:07.920><c> individual</c><00:04:08.560><c> cells</c><00:04:09.040><c> and</c>
+at the level of individual cells and
+at the level of individual cells and
+their<00:04:09.360><c> collective</c><00:04:09.840><c> behavior.</c><00:04:10.560><c> But</c><00:04:10.720><c> something</c>
+their collective behavior. But something
+their collective behavior. But something
+tragic<00:04:11.360><c> happened</c><00:04:11.599><c> at</c><00:04:11.840><c> Princeton</c><00:04:12.159><c> that</c><00:04:12.319><c> has</c>
+tragic happened at Princeton that has
+tragic happened at Princeton that has
+shaped<00:04:13.040><c> everything</c><00:04:13.360><c> that</c><00:04:13.519><c> has</c><00:04:13.760><c> come</c><00:04:13.920><c> since</c>
+shaped everything that has come since
+shaped everything that has come since
+for<00:04:14.400><c> him.</c><00:04:14.720><c> His</c><00:04:14.959><c> father</c><00:04:15.200><c> died</c><00:04:15.599><c> of</c><00:04:15.840><c> a</c><00:04:16.000><c> rare</c>
+for him. His father died of a rare
+for him. His father died of a rare
+illness.<00:04:16.959><c> And</c><00:04:17.199><c> just</c><00:04:17.519><c> four</c><00:04:17.840><c> years</c><00:04:18.079><c> later,</c><00:04:18.560><c> a</c>
+illness. And just four years later, a
+illness. And just four years later, a
+medical<00:04:19.199><c> breakthrough</c><00:04:19.680><c> turned</c><00:04:20.000><c> that</c>
+medical breakthrough turned that
+medical breakthrough turned that
+previously<00:04:20.880><c> fatal</c><00:04:21.280><c> disease</c><00:04:21.680><c> into</c><00:04:22.000><c> one</c><00:04:22.160><c> that</c>
+previously fatal disease into one that
+previously fatal disease into one that
+was<00:04:22.800><c> nearly</c><00:04:23.199><c> curable.</c><00:04:24.000><c> that</c><00:04:24.240><c> the</c><00:04:24.560><c> timing</c><00:04:25.120><c> is</c>
+was nearly curable. that the timing is
+was nearly curable. that the timing is
+so<00:04:25.759><c> painful</c><00:04:26.400><c> and</c><00:04:26.800><c> is</c><00:04:27.120><c> familiar</c><00:04:27.520><c> to</c><00:04:27.680><c> anyone</c><00:04:28.000><c> who</c>
+so painful and is familiar to anyone who
+so painful and is familiar to anyone who
+has<00:04:28.400><c> suffered</c><00:04:28.800><c> from</c><00:04:29.120><c> a</c><00:04:29.360><c> chronic</c><00:04:29.759><c> disease.</c><00:04:30.560><c> The</c>
+has suffered from a chronic disease. The
+has suffered from a chronic disease. The
+cure<00:04:31.600><c> can</c><00:04:31.919><c> exist</c><00:04:32.639><c> at</c><00:04:32.960><c> the</c><00:04:33.199><c> wrong</c><00:04:33.520><c> point</c><00:04:33.840><c> in</c>
+cure can exist at the wrong point in
+cure can exist at the wrong point in
+time.<00:04:34.400><c> The</c><00:04:34.639><c> cure</c><00:04:35.040><c> can</c><00:04:35.280><c> come</c><00:04:35.840><c> too</c><00:04:36.320><c> late.</c><00:04:36.800><c> And</c><00:04:36.960><c> it</c>
+time. The cure can come too late. And it
+time. The cure can come too late. And it
+seems<00:04:37.520><c> like</c><00:04:37.759><c> this</c><00:04:38.000><c> experience</c><00:04:38.479><c> really</c>
+seems like this experience really
+seems like this experience really
+crystallized<00:04:39.440><c> something</c><00:04:39.680><c> for</c><00:04:39.919><c> him</c><00:04:40.479><c> because</c>
+crystallized something for him because
+crystallized something for him because
+ever<00:04:41.360><c> since</c><00:04:42.320><c> we've</c><00:04:42.639><c> seen</c><00:04:42.880><c> a</c><00:04:43.120><c> focus</c><00:04:43.440><c> in</c><00:04:43.680><c> his</c>
+ever since we've seen a focus in his
+ever since we've seen a focus in his
+career<00:04:44.560><c> on</c><00:04:44.880><c> scientific</c><00:04:45.440><c> advancement</c><00:04:46.160><c> on</c><00:04:46.320><c> the</c>
+career on scientific advancement on the
+career on scientific advancement on the
+value<00:04:46.800><c> of</c><00:04:47.120><c> scientific</c><00:04:47.840><c> knowledge.</c><00:04:48.479><c> Amade</c>
+value of scientific knowledge. Amade
+value of scientific knowledge. Amade
+subsequently<00:04:49.680><c> shifted</c><00:04:50.000><c> his</c><00:04:50.320><c> research</c><00:04:50.720><c> focus</c>
+subsequently shifted his research focus
+subsequently shifted his research focus
+from<00:04:51.280><c> theoretical</c><00:04:51.840><c> physics</c><00:04:52.240><c> toward</c><00:04:52.560><c> bioysics</c>
+from theoretical physics toward bioysics
+from theoretical physics toward bioysics
+and<00:04:53.520><c> computational</c><00:04:54.160><c> neuroscience</c><00:04:55.199><c> work</c><00:04:55.440><c> that</c>
+and computational neuroscience work that
+and computational neuroscience work that
+addressed<00:04:56.000><c> human</c><00:04:56.400><c> illness</c><00:04:57.040><c> directly.</c><00:04:58.000><c> Now</c>
+addressed human illness directly. Now
+addressed human illness directly. Now
+when<00:04:59.040><c> he</c><00:04:59.280><c> went</c><00:04:59.440><c> on</c><00:04:59.600><c> to</c><00:04:59.759><c> found</c><00:05:00.000><c> a</c><00:05:00.240><c> company</c><00:05:00.639><c> that</c>
+when he went on to found a company that
+when he went on to found a company that
+philosophy<00:05:01.680><c> stayed</c><00:05:02.000><c> with</c><00:05:02.240><c> him</c><00:05:02.880><c> in</c><00:05:03.040><c> fact</c><00:05:03.360><c> I</c>
+philosophy stayed with him in fact I
+philosophy stayed with him in fact I
+would<00:05:03.680><c> argue</c><00:05:03.919><c> it</c><00:05:04.240><c> continues</c><00:05:04.639><c> to</c><00:05:04.880><c> define</c><00:05:05.840><c> a</c><00:05:06.160><c> lot</c>
+would argue it continues to define a lot
+would argue it continues to define a lot
+of<00:05:06.560><c> anthropics</c><00:05:07.520><c> build</c><00:05:07.919><c> approach</c><00:05:08.240><c> and</c>
+of anthropics build approach and
+of anthropics build approach and
+philosophy<00:05:09.039><c> and</c><00:05:09.199><c> a</c><00:05:09.360><c> lot</c><00:05:09.440><c> of</c><00:05:09.600><c> what</c><00:05:09.840><c> we</c><00:05:10.000><c> can</c><00:05:10.240><c> in</c>
+philosophy and a lot of what we can in
+philosophy and a lot of what we can in
+turn<00:05:10.800><c> expect</c><00:05:11.280><c> from</c><00:05:11.600><c> them</c><00:05:12.479><c> in</c><00:05:12.960><c> 2026</c><00:05:13.680><c> and</c>
+turn expect from them in 2026 and
+turn expect from them in 2026 and
+beyond.<00:05:14.560><c> Now</c><00:05:14.800><c> let's</c><00:05:15.199><c> revisit</c><00:05:15.600><c> Sam</c><00:05:15.840><c> Alman.</c>
+beyond. Now let's revisit Sam Alman.
+beyond. Now let's revisit Sam Alman.
+Let's<00:05:16.560><c> contrast</c><00:05:17.039><c> this.</c><00:05:17.520><c> Alman</c><00:05:17.919><c> was</c><00:05:18.160><c> born</c><00:05:18.320><c> in</c>
+Let's contrast this. Alman was born in
+Let's contrast this. Alman was born in
+1985<00:05:19.520><c> in</c><00:05:19.759><c> St.</c><00:05:20.000><c> Louis,</c><00:05:20.320><c> Missouri.</c><00:05:20.800><c> He</c><00:05:21.039><c> learned</c>
+1985 in St. Louis, Missouri. He learned
+1985 in St. Louis, Missouri. He learned
+to<00:05:21.440><c> program</c><00:05:21.759><c> very,</c><00:05:22.000><c> very</c><00:05:22.320><c> early</c><00:05:22.639><c> at</c><00:05:22.880><c> 8.</c><00:05:23.360><c> He</c>
+to program very, very early at 8. He
+to program very, very early at 8. He
+went<00:05:23.680><c> on</c><00:05:23.840><c> to</c><00:05:24.000><c> Stanford</c><00:05:24.400><c> to</c><00:05:24.639><c> study</c><00:05:24.880><c> computer</c>
+went on to Stanford to study computer
+went on to Stanford to study computer
+science<00:05:26.160><c> and</c><00:05:26.400><c> then</c><00:05:26.639><c> immediately</c><00:05:27.120><c> dropped</c><00:05:27.440><c> out</c>
+science and then immediately dropped out
+science and then immediately dropped out
+and<00:05:27.759><c> founded</c><00:05:28.160><c> a</c><00:05:28.720><c> company,</c><00:05:29.120><c> a</c><00:05:29.360><c> social</c>
+and founded a company, a social
+and founded a company, a social
+networking<00:05:30.080><c> app</c><00:05:30.240><c> that</c><00:05:30.479><c> failed.</c><00:05:30.960><c> The</c><00:05:31.199><c> market</c>
+networking app that failed. The market
+networking app that failed. The market
+wasn't<00:05:31.759><c> ready.</c><00:05:32.080><c> User</c><00:05:32.320><c> retention</c><00:05:32.639><c> was</c><00:05:32.800><c> low.</c>
+wasn't ready. User retention was low.
+wasn't ready. User retention was low.
+We've<00:05:33.280><c> all</c><00:05:33.360><c> been</c><00:05:33.520><c> there.</c><00:05:34.320><c> Certainly,</c><00:05:34.639><c> most</c>
+We've all been there. Certainly, most
+We've all been there. Certainly, most
+founders<00:05:35.199><c> have</c><00:05:35.440><c> been</c><00:05:35.520><c> in</c><00:05:35.680><c> places</c><00:05:35.919><c> where</c><00:05:36.160><c> they</c>
+founders have been in places where they
+founders have been in places where they
+failed.<00:05:36.960><c> But</c><00:05:37.280><c> Altman</c><00:05:37.840><c> was</c><00:05:38.080><c> different</c><00:05:38.320><c> than</c><00:05:38.479><c> a</c>
+failed. But Altman was different than a
+failed. But Altman was different than a
+lot<00:05:38.800><c> of</c><00:05:38.960><c> other</c><00:05:39.120><c> founders.</c><00:05:39.759><c> He</c><00:05:40.000><c> did</c><00:05:40.240><c> not</c>
+lot of other founders. He did not
+lot of other founders. He did not
+experience<00:05:40.960><c> that</c><00:05:41.199><c> failure</c><00:05:41.680><c> as</c><00:05:42.240><c> a</c><00:05:42.479><c> cautionary</c>
+experience that failure as a cautionary
+experience that failure as a cautionary
+tale<00:05:43.600><c> about</c><00:05:43.919><c> moving</c><00:05:44.240><c> too</c><00:05:44.560><c> fast.</c><00:05:44.880><c> He</c>
+tale about moving too fast. He
+tale about moving too fast. He
+experienced<00:05:45.520><c> it</c><00:05:45.680><c> as</c><00:05:45.840><c> a</c><00:05:46.000><c> lesson</c><00:05:46.479><c> in</c><00:05:46.880><c> iteration.</c>
+experienced it as a lesson in iteration.
+experienced it as a lesson in iteration.
+Failure<00:05:48.160><c> is</c><00:05:48.479><c> simply</c><00:05:48.880><c> an</c><00:05:49.199><c> opportunity</c><00:05:49.600><c> to</c>
+Failure is simply an opportunity to
+Failure is simply an opportunity to
+begin<00:05:50.160><c> again.</c><00:05:50.479><c> He</c><00:05:50.720><c> said</c><00:05:51.120><c> this</c><00:05:51.280><c> time</c><00:05:51.520><c> more</c>
+begin again. He said this time more
+begin again. He said this time more
+intelligently.<00:05:52.639><c> And</c><00:05:52.800><c> so</c><00:05:52.960><c> he</c><00:05:53.120><c> joined</c><00:05:53.360><c> Y</c>
+intelligently. And so he joined Y
+intelligently. And so he joined Y
+Combinator<00:05:54.400><c> and</c><00:05:54.639><c> became</c><00:05:54.880><c> first</c><00:05:55.120><c> a</c><00:05:55.360><c> partner</c>
+Combinator and became first a partner
+Combinator and became first a partner
+and<00:05:55.759><c> then</c><00:05:55.919><c> the</c><00:05:56.080><c> president</c><00:05:56.320><c> of</c><00:05:56.479><c> YC.</c><00:05:57.360><c> And</c><00:05:57.759><c> Y</c>
+and then the president of YC. And Y
+and then the president of YC. And Y
+Combinator<00:05:58.560><c> has</c><00:05:58.800><c> shaped</c><00:05:59.199><c> so</c><00:05:59.520><c> much</c><00:05:59.680><c> of</c>
+Combinator has shaped so much of
+Combinator has shaped so much of
+OpenAI's<00:06:00.720><c> approach.</c><00:06:01.120><c> Ship</c><00:06:01.440><c> fast,</c><00:06:01.919><c> get</c><00:06:02.160><c> user</c>
+OpenAI's approach. Ship fast, get user
+OpenAI's approach. Ship fast, get user
+feedback,<00:06:02.960><c> iterate.</c><00:06:03.440><c> These</c><00:06:03.600><c> are</c><00:06:03.759><c> things</c><00:06:03.840><c> that</c>
+feedback, iterate. These are things that
+feedback, iterate. These are things that
+Y<00:06:04.319><c> Combinator</c><00:06:05.039><c> teaches</c><00:06:05.680><c> that</c><00:06:06.000><c> OpenAI</c><00:06:06.639><c> also</c>
+Y Combinator teaches that OpenAI also
+Y Combinator teaches that OpenAI also
+deeply<00:06:07.440><c> believes</c><00:06:07.759><c> in.</c><00:06:08.160><c> And</c><00:06:08.400><c> under</c><00:06:08.639><c> Sam's</c>
+deeply believes in. And under Sam's
+deeply believes in. And under Sam's
+leadership,<00:06:09.440><c> Y</c><00:06:09.680><c> Combinator</c><00:06:10.240><c> became</c><00:06:10.479><c> one</c><00:06:10.639><c> of</c>
+leadership, Y Combinator became one of
+leadership, Y Combinator became one of
+the<00:06:10.800><c> most</c><00:06:10.960><c> influential</c><00:06:11.520><c> institutions</c><00:06:12.000><c> in</c><00:06:12.240><c> the</c>
+the most influential institutions in the
+the most influential institutions in the
+valley.<00:06:12.800><c> It</c><00:06:13.039><c> launched</c><00:06:13.280><c> Airbnb,</c><00:06:13.919><c> launched</c>
+valley. It launched Airbnb, launched
+valley. It launched Airbnb, launched
+Dropbox,<00:06:14.880><c> it</c><00:06:15.120><c> launched</c><00:06:15.520><c> Reddit.</c><00:06:16.000><c> It</c><00:06:16.240><c> trained</c>
+Dropbox, it launched Reddit. It trained
+Dropbox, it launched Reddit. It trained
+a<00:06:16.720><c> generation</c><00:06:17.199><c> of</c><00:06:17.440><c> founders</c><00:06:17.919><c> to</c><00:06:18.160><c> think</c><00:06:18.400><c> in</c>
+a generation of founders to think in
+a generation of founders to think in
+terms<00:06:18.800><c> of</c><00:06:19.039><c> velocity</c><00:06:19.520><c> and</c><00:06:19.840><c> scale.</c><00:06:20.160><c> Arguably,</c>
+terms of velocity and scale. Arguably,
+terms of velocity and scale. Arguably,
+it<00:06:21.039><c> wrote</c><00:06:21.280><c> the</c><00:06:21.600><c> book</c><00:06:22.000><c> on</c><00:06:22.319><c> entrepreneurship</c><00:06:23.280><c> in</c>
+it wrote the book on entrepreneurship in
+it wrote the book on entrepreneurship in
+the<00:06:23.680><c> valley.</c><00:06:24.080><c> And</c><00:06:24.240><c> so</c><00:06:24.400><c> when</c><00:06:24.560><c> Altman</c>
+the valley. And so when Altman
+the valley. And so when Altman
+co-founded<00:06:25.759><c> OpenAI</c><00:06:26.319><c> in</c><00:06:26.560><c> 2015</c><00:06:27.199><c> and</c><00:06:27.520><c> later</c>
+co-founded OpenAI in 2015 and later
+co-founded OpenAI in 2015 and later
+became<00:06:28.240><c> CEO,</c><00:06:28.880><c> he</c><00:06:29.199><c> brought</c><00:06:29.440><c> that</c><00:06:29.680><c> worldview</c>
+became CEO, he brought that worldview
+became CEO, he brought that worldview
+with<00:06:30.400><c> him.</c><00:06:30.880><c> Move</c><00:06:31.120><c> fast,</c><00:06:31.680><c> ship</c><00:06:32.000><c> experiments,</c>
+with him. Move fast, ship experiments,
+with him. Move fast, ship experiments,
+capture<00:06:33.039><c> market</c><00:06:33.280><c> share,</c><00:06:33.680><c> learn</c><00:06:33.840><c> from</c><00:06:34.080><c> users</c>
+capture market share, learn from users
+capture market share, learn from users
+at<00:06:34.639><c> scale.</c><00:06:35.199><c> Are</c><00:06:35.360><c> you</c><00:06:35.520><c> seeing</c><00:06:35.680><c> the</c><00:06:35.919><c> difference</c>
+at scale. Are you seeing the difference
+at scale. Are you seeing the difference
+here?<00:06:36.639><c> Daario</c><00:06:37.199><c> is</c><00:06:37.360><c> a</c><00:06:37.600><c> scientist</c><00:06:38.000><c> who</c><00:06:38.240><c> became</c>
+here? Daario is a scientist who became
+here? Daario is a scientist who became
+an<00:06:38.720><c> entrepreneur.</c><00:06:39.360><c> the</c><00:06:39.600><c> instinct</c><00:06:40.000><c> to</c>
+an entrepreneur. the instinct to
+an entrepreneur. the instinct to
+understand<00:06:40.800><c> before</c><00:06:41.199><c> deploying</c><00:06:41.919><c> to</c>
+understand before deploying to
+understand before deploying to
+understand<00:06:42.720><c> how</c><00:06:43.360><c> the</c><00:06:43.759><c> value</c><00:06:44.160><c> that</c><00:06:44.479><c> you</c><00:06:44.800><c> build</c>
+understand how the value that you build
+understand how the value that you build
+actually<00:06:45.840><c> shapes</c><00:06:46.240><c> the</c><00:06:46.479><c> world</c><00:06:46.720><c> around</c><00:06:46.960><c> you</c><00:06:47.440><c> and</c>
+actually shapes the world around you and
+actually shapes the world around you and
+Sam<00:06:48.000><c> as</c><00:06:48.240><c> an</c><00:06:48.400><c> entrepreneur</c><00:06:48.960><c> who</c><00:06:49.199><c> became</c><00:06:49.360><c> a</c><00:06:49.520><c> tech</c>
+Sam as an entrepreneur who became a tech
+Sam as an entrepreneur who became a tech
+leader<00:06:50.000><c> the</c><00:06:50.160><c> instinct</c><00:06:50.479><c> to</c><00:06:50.720><c> deploy</c><00:06:51.199><c> in</c><00:06:51.520><c> order</c>
+leader the instinct to deploy in order
+leader the instinct to deploy in order
+to<00:06:51.919><c> understand</c><00:06:52.880><c> to</c><00:06:53.120><c> actually</c><00:06:53.440><c> learn</c><00:06:53.759><c> directly</c>
+to understand to actually learn directly
+to understand to actually learn directly
+from<00:06:54.479><c> users</c><00:06:54.880><c> to</c><00:06:55.039><c> just</c><00:06:55.199><c> ship</c><00:06:55.440><c> it.</c><00:06:55.840><c> I'm</c><00:06:56.160><c> not</c>
+from users to just ship it. I'm not
+from users to just ship it. I'm not
+trying<00:06:56.479><c> to</c><00:06:56.639><c> make</c><00:06:56.720><c> a</c><00:06:56.880><c> case</c><00:06:57.039><c> that</c><00:06:57.280><c> either</c><00:06:57.520><c> of</c>
+trying to make a case that either of
+trying to make a case that either of
+these<00:06:57.840><c> orientations</c><00:06:58.479><c> is</c><00:06:58.720><c> wrong.</c><00:06:59.039><c> I</c><00:06:59.280><c> think</c>
+these orientations is wrong. I think
+these orientations is wrong. I think
+that's<00:06:59.599><c> an</c><00:06:59.840><c> impoverished</c><00:07:00.479><c> view.</c><00:07:00.880><c> I'm</c><00:07:01.199><c> making</c>
+that's an impoverished view. I'm making
+that's an impoverished view. I'm making
+the<00:07:01.599><c> case</c><00:07:01.759><c> that</c><00:07:01.919><c> they're</c><00:07:02.240><c> different</c><00:07:02.560><c> theories</c>
+the case that they're different theories
+the case that they're different theories
+of<00:07:03.360><c> how</c><00:07:03.599><c> progress</c><00:07:04.160><c> happens</c><00:07:04.479><c> and</c><00:07:04.720><c> they</c><00:07:05.039><c> lead</c><00:07:05.280><c> to</c>
+of how progress happens and they lead to
+of how progress happens and they lead to
+radically<00:07:06.000><c> different</c><00:07:06.240><c> organizations.</c><00:07:07.199><c> And</c>
+radically different organizations. And
+radically different organizations. And
+because<00:07:07.680><c> of</c><00:07:07.919><c> this</c><00:07:08.240><c> moment</c><00:07:08.639><c> in</c><00:07:08.960><c> time,</c><00:07:09.599><c> these</c>
+because of this moment in time, these
+because of this moment in time, these
+two<00:07:10.479><c> leaders</c><00:07:10.960><c> and</c><00:07:11.199><c> their</c><00:07:11.440><c> different</c>
+two leaders and their different
+two leaders and their different
+philosophies<00:07:12.639><c> are</c><00:07:12.960><c> actually</c><00:07:13.280><c> shaping</c><00:07:14.160><c> the</c>
+philosophies are actually shaping the
+philosophies are actually shaping the
+future<00:07:14.800><c> of</c><00:07:14.960><c> artificial</c><00:07:15.520><c> intelligence</c><00:07:16.080><c> and</c>
+future of artificial intelligence and
+future of artificial intelligence and
+the<00:07:16.560><c> way</c><00:07:16.639><c> we</c><00:07:16.880><c> will</c><00:07:17.039><c> all</c><00:07:17.280><c> work.</c><00:07:17.680><c> It</c><00:07:17.840><c> is</c><00:07:18.000><c> worth</c>
+the way we will all work. It is worth
+the way we will all work. It is worth
+understanding<00:07:18.880><c> the</c><00:07:19.039><c> way</c><00:07:19.199><c> they</c><00:07:19.440><c> think</c><00:07:19.599><c> and</c><00:07:19.840><c> it</c>
+understanding the way they think and it
+understanding the way they think and it
+is<00:07:20.160><c> worth</c><00:07:20.479><c> considering</c><00:07:21.440><c> where</c><00:07:21.759><c> they</c><00:07:21.919><c> are</c>
+is worth considering where they are
+is worth considering where they are
+taking<00:07:22.319><c> their</c><00:07:22.560><c> companies</c><00:07:22.960><c> as</c><00:07:23.120><c> a</c><00:07:23.280><c> result.</c><00:07:23.840><c> And</c>
+taking their companies as a result. And
+taking their companies as a result. And
+that's<00:07:24.160><c> what</c><00:07:24.319><c> we'll</c><00:07:24.479><c> get</c><00:07:24.560><c> to</c><00:07:24.720><c> at</c><00:07:24.880><c> the</c><00:07:25.039><c> end</c><00:07:25.120><c> of</c>
+that's what we'll get to at the end of
+that's what we'll get to at the end of
+this<00:07:25.360><c> video.</c><00:07:25.759><c> I</c><00:07:26.000><c> do</c><00:07:26.240><c> want</c><00:07:26.319><c> to</c><00:07:26.479><c> spend</c><00:07:26.720><c> a</c><00:07:26.880><c> moment</c>
+this video. I do want to spend a moment
+this video. I do want to spend a moment
+talking<00:07:27.520><c> about</c><00:07:27.759><c> the</c><00:07:28.080><c> different</c><00:07:28.479><c> theories</c><00:07:28.960><c> of</c>
+talking about the different theories of
+talking about the different theories of
+safety<00:07:29.759><c> that</c><00:07:30.000><c> these</c><00:07:30.240><c> leaders</c><00:07:30.639><c> have</c><00:07:30.880><c> because</c><00:07:31.120><c> I</c>
+safety that these leaders have because I
+safety that these leaders have because I
+think<00:07:31.360><c> it's</c><00:07:31.599><c> widely</c><00:07:32.080><c> misunderstood.</c><00:07:33.360><c> Most</c><00:07:33.680><c> AI</c>
+think it's widely misunderstood. Most AI
+think it's widely misunderstood. Most AI
+coverage<00:07:34.400><c> gets</c><00:07:34.560><c> this</c><00:07:34.800><c> wrong.</c><00:07:35.039><c> I</c><00:07:35.280><c> believe</c><00:07:35.520><c> the</c>
+coverage gets this wrong. I believe the
+coverage gets this wrong. I believe the
+standard<00:07:36.080><c> narrative</c><00:07:36.400><c> is</c><00:07:36.639><c> that</c><00:07:36.880><c> some</c>
+standard narrative is that some
+standard narrative is that some
+companies<00:07:37.680><c> care</c><00:07:37.919><c> about</c><00:07:38.160><c> safety</c><00:07:38.560><c> and</c><00:07:38.800><c> some</c><00:07:39.039><c> do</c>
+companies care about safety and some do
+companies care about safety and some do
+not.<00:07:39.520><c> I</c><00:07:39.759><c> think</c><00:07:39.840><c> that's</c><00:07:40.160><c> incorrect.</c><00:07:41.039><c> Open</c><00:07:41.360><c> AI</c>
+not. I think that's incorrect. Open AI
+not. I think that's incorrect. Open AI
+ships<00:07:42.080><c> fast</c><00:07:42.400><c> because</c><00:07:42.560><c> they're</c><00:07:42.800><c> reckless</c><00:07:43.280><c> goes</c>
+ships fast because they're reckless goes
+ships fast because they're reckless goes
+the<00:07:43.680><c> prevailing</c><00:07:44.160><c> narrative.</c><00:07:44.880><c> Anthropic</c><00:07:45.520><c> ship</c>
+the prevailing narrative. Anthropic ship
+the prevailing narrative. Anthropic ship
+slow<00:07:46.080><c> because</c><00:07:46.319><c> they're</c><00:07:46.560><c> cautious</c><00:07:46.960><c> goes</c><00:07:47.199><c> the</c>
+slow because they're cautious goes the
+slow because they're cautious goes the
+prevailing<00:07:47.840><c> narrative.</c><00:07:48.479><c> Let's</c><00:07:48.720><c> not</c><00:07:48.880><c> read</c><00:07:49.120><c> it</c>
+prevailing narrative. Let's not read it
+prevailing narrative. Let's not read it
+that<00:07:49.440><c> way.</c><00:07:49.919><c> Both</c><00:07:50.240><c> Sam</c><00:07:50.560><c> and</c><00:07:50.720><c> Daario</c><00:07:51.360><c> believe</c><00:07:51.759><c> AI</c>
+that way. Both Sam and Daario believe AI
+that way. Both Sam and Daario believe AI
+safety<00:07:52.560><c> is</c><00:07:52.720><c> critically</c><00:07:53.199><c> important.</c><00:07:53.520><c> But</c><00:07:53.680><c> they</c>
+safety is critically important. But they
+safety is critically important. But they
+have<00:07:54.160><c> very</c><00:07:54.479><c> different</c><00:07:54.879><c> theories</c><00:07:55.440><c> about</c><00:07:55.680><c> how</c>
+have very different theories about how
+have very different theories about how
+you<00:07:56.080><c> achieve</c><00:07:56.400><c> it.</c><00:07:56.879><c> Sam</c><00:07:57.280><c> believes</c><00:07:57.599><c> that</c><00:07:57.919><c> safety</c>
+you achieve it. Sam believes that safety
+you achieve it. Sam believes that safety
+emerges<00:07:59.280><c> from</c><00:08:00.080><c> deployment.</c><00:08:00.960><c> And</c><00:08:01.120><c> that's</c><00:08:01.360><c> not</c>
+emerges from deployment. And that's not
+emerges from deployment. And that's not
+negligence<00:08:02.240><c> dressed</c><00:08:02.560><c> up</c><00:08:02.720><c> as</c><00:08:02.960><c> strategy.</c><00:08:03.440><c> It's</c>
+negligence dressed up as strategy. It's
+negligence dressed up as strategy. It's
+a<00:08:03.919><c> coherent</c><00:08:04.400><c> philosophy</c><00:08:04.800><c> and</c><00:08:05.039><c> it</c><00:08:05.199><c> comes</c>
+a coherent philosophy and it comes
+a coherent philosophy and it comes
+directly<00:08:05.680><c> from</c><00:08:06.000><c> YC</c><00:08:06.560><c> training.</c><00:08:07.120><c> At</c><00:08:07.360><c> YC,</c><00:08:07.840><c> you</c>
+directly from YC training. At YC, you
+directly from YC training. At YC, you
+learn<00:08:08.240><c> that</c><00:08:08.400><c> you</c><00:08:08.560><c> can</c><00:08:08.720><c> theorize</c><00:08:09.280><c> forever</c><00:08:09.680><c> in</c>
+learn that you can theorize forever in
+learn that you can theorize forever in
+the<00:08:10.000><c> garage,</c><00:08:10.800><c> but</c><00:08:11.039><c> you</c><00:08:11.280><c> won't</c><00:08:11.599><c> actually</c>
+the garage, but you won't actually
+the garage, but you won't actually
+understand<00:08:12.479><c> your</c><00:08:12.800><c> product</c><00:08:13.280><c> until</c><00:08:13.840><c> users</c>
+understand your product until users
+understand your product until users
+interact<00:08:14.720><c> with</c><00:08:14.960><c> it.</c><00:08:15.199><c> The</c><00:08:15.520><c> market</c><00:08:15.840><c> teaches</c><00:08:16.240><c> you</c>
+interact with it. The market teaches you
+interact with it. The market teaches you
+what<00:08:16.720><c> you</c><00:08:16.960><c> cannot</c><00:08:17.360><c> learn</c><00:08:17.680><c> otherwise.</c><00:08:18.479><c> Real</c>
+what you cannot learn otherwise. Real
+what you cannot learn otherwise. Real
+world<00:08:19.120><c> feedback</c><00:08:19.599><c> is</c><00:08:20.080><c> a</c><00:08:20.160><c> hundred</c><00:08:20.639><c> a</c><00:08:20.720><c> thousand</c>
+world feedback is a hundred a thousand
+world feedback is a hundred a thousand
+times<00:08:21.520><c> more</c><00:08:21.840><c> valuable</c><00:08:22.240><c> than</c><00:08:22.479><c> any</c><00:08:22.800><c> amount</c><00:08:23.039><c> of</c>
+times more valuable than any amount of
+times more valuable than any amount of
+internal<00:08:23.680><c> testing.</c><00:08:24.319><c> And</c><00:08:24.479><c> Sam</c><00:08:24.720><c> has</c><00:08:24.879><c> applied</c>
+internal testing. And Sam has applied
+internal testing. And Sam has applied
+this<00:08:25.440><c> exact</c><00:08:25.840><c> framework</c><00:08:26.160><c> to</c><00:08:26.400><c> AI</c><00:08:26.720><c> safety.</c><00:08:27.120><c> In</c>
+this exact framework to AI safety. In
+this exact framework to AI safety. In
+his<00:08:27.520><c> writing,</c><00:08:27.759><c> he's</c><00:08:28.080><c> been</c><00:08:28.160><c> very</c><00:08:28.479><c> explicit</c><00:08:28.960><c> and</c>
+his writing, he's been very explicit and
+his writing, he's been very explicit and
+I<00:08:29.360><c> quote,</c><00:08:29.520><c> "The</c><00:08:29.919><c> best</c><00:08:30.080><c> way</c><00:08:30.160><c> to</c><00:08:30.319><c> make</c><00:08:30.479><c> an</c><00:08:30.639><c> AI</c>
+I quote, "The best way to make an AI
+I quote, "The best way to make an AI
+system<00:08:31.360><c> safe</c><00:08:31.680><c> is</c><00:08:32.000><c> by</c><00:08:32.240><c> iteratively</c><00:08:32.880><c> and</c>
+system safe is by iteratively and
+system safe is by iteratively and
+gradually<00:08:33.680><c> releasing</c><00:08:34.080><c> it</c><00:08:34.320><c> into</c><00:08:34.640><c> the</c><00:08:34.880><c> world,</c>
+gradually releasing it into the world,
+gradually releasing it into the world,
+giving<00:08:35.599><c> society</c><00:08:36.159><c> time</c><00:08:36.399><c> to</c><00:08:36.560><c> adapt</c><00:08:36.880><c> and</c>
+giving society time to adapt and
+giving society time to adapt and
+co-evolve<00:08:37.599><c> with</c><00:08:37.839><c> technology."</c><00:08:38.640><c> And</c><00:08:38.719><c> at</c>
+co-evolve with technology." And at
+co-evolve with technology." And at
+Davos,<00:08:39.360><c> he</c><00:08:39.519><c> expanded</c><00:08:40.320><c> iterative</c><00:08:40.800><c> development</c>
+Davos, he expanded iterative development
+Davos, he expanded iterative development
+means<00:08:41.519><c> that</c><00:08:41.760><c> society</c><00:08:42.159><c> can</c><00:08:42.399><c> get</c><00:08:42.560><c> used</c><00:08:42.800><c> to</c><00:08:42.959><c> the</c>
+means that society can get used to the
+means that society can get used to the
+technology.<00:08:43.919><c> let</c><00:08:44.240><c> society</c><00:08:44.640><c> and</c><00:08:44.880><c> technology</c>
+technology. let society and technology
+technology. let society and technology
+co-evolve<00:08:46.080><c> and</c><00:08:46.640><c> sort</c><00:08:46.880><c> of</c><00:08:47.040><c> step</c><00:08:47.279><c> by</c><00:08:47.600><c> step</c><00:08:47.839><c> get</c>
+co-evolve and sort of step by step get
+co-evolve and sort of step by step get
+there<00:08:48.240><c> with</c><00:08:48.399><c> a</c><00:08:48.560><c> very</c><00:08:48.800><c> tight</c><00:08:49.040><c> feedback</c><00:08:49.360><c> loop.</c>
+there with a very tight feedback loop.
+there with a very tight feedback loop.
+That<00:08:49.839><c> sounds</c><00:08:50.080><c> like</c><00:08:50.240><c> YC.</c><00:08:50.959><c> In</c><00:08:51.120><c> Sam's</c><00:08:51.519><c> framework,</c>
+That sounds like YC. In Sam's framework,
+That sounds like YC. In Sam's framework,
+the<00:08:52.160><c> public</c><00:08:52.480><c> is</c><00:08:53.200><c> in</c><00:08:53.360><c> a</c><00:08:53.519><c> way</c><00:08:53.760><c> a</c><00:08:54.000><c> testing</c>
+the public is in a way a testing
+the public is in a way a testing
+environment.<00:08:54.800><c> And</c><00:08:54.959><c> I</c><00:08:55.120><c> don't</c><00:08:55.200><c> want</c><00:08:55.360><c> to</c><00:08:55.440><c> suggest</c>
+environment. And I don't want to suggest
+environment. And I don't want to suggest
+that<00:08:55.839><c> they're</c><00:08:56.080><c> not</c><00:08:56.240><c> doing</c><00:08:56.399><c> internal</c><00:08:56.800><c> testing</c>
+that they're not doing internal testing
+that they're not doing internal testing
+on<00:08:57.200><c> these</c><00:08:57.440><c> models.</c><00:08:57.760><c> OpenAI</c><00:08:58.320><c> does</c><00:08:58.640><c> extensive</c>
+on these models. OpenAI does extensive
+on these models. OpenAI does extensive
+internal<00:08:59.680><c> testing</c><00:08:59.920><c> on</c><00:09:00.160><c> models</c><00:09:00.560><c> before</c>
+internal testing on models before
+internal testing on models before
+releasing<00:09:01.200><c> it.</c><00:09:01.760><c> They</c><00:09:02.000><c> produce</c><00:09:02.480><c> model</c><00:09:02.800><c> cards</c>
+releasing it. They produce model cards
+releasing it. They produce model cards
+listing<00:09:03.519><c> safety</c><00:09:03.920><c> features</c><00:09:04.320><c> and</c><00:09:04.560><c> the</c><00:09:04.720><c> work</c>
+listing safety features and the work
+listing safety features and the work
+they've<00:09:05.120><c> done</c><00:09:05.279><c> to</c><00:09:05.440><c> test</c><00:09:05.600><c> it.</c><00:09:05.839><c> And</c><00:09:05.920><c> they've</c><00:09:06.160><c> got</c>
+they've done to test it. And they've got
+they've done to test it. And they've got
+a<00:09:06.399><c> whole</c><00:09:06.640><c> safety</c><00:09:07.040><c> framework</c><00:09:07.440><c> in</c><00:09:07.600><c> place.</c><00:09:07.839><c> So</c>
+a whole safety framework in place. So
+a whole safety framework in place. So
+don't<00:09:08.399><c> read</c><00:09:09.040><c> this</c><00:09:09.360><c> larger</c><00:09:09.839><c> philosophical</c>
+don't read this larger philosophical
+don't read this larger philosophical
+statement<00:09:11.519><c> as</c><00:09:11.839><c> saying</c><00:09:12.080><c> they</c><00:09:12.399><c> don't</c><00:09:12.640><c> think</c>
+statement as saying they don't think
+statement as saying they don't think
+about<00:09:13.120><c> safety</c><00:09:13.519><c> before</c><00:09:13.760><c> model</c><00:09:14.080><c> release</c>
+about safety before model release
+about safety before model release
+because<00:09:14.480><c> that</c><00:09:14.640><c> would</c><00:09:14.800><c> be</c><00:09:14.880><c> incorrect.</c><00:09:15.519><c> But</c>
+because that would be incorrect. But
+because that would be incorrect. But
+once<00:09:16.160><c> teams</c><00:09:16.560><c> have</c><00:09:16.720><c> tested,</c><00:09:17.120><c> once</c><00:09:17.360><c> the</c><00:09:17.519><c> model</c>
+once teams have tested, once the model
+once teams have tested, once the model
+is<00:09:17.920><c> deemed</c><00:09:18.240><c> safe</c><00:09:18.480><c> enough</c><00:09:18.720><c> to</c><00:09:18.959><c> release,</c><00:09:19.920><c> after</c>
+is deemed safe enough to release, after
+is deemed safe enough to release, after
+that<00:09:21.040><c> they</c><00:09:21.360><c> do</c><00:09:21.680><c> collect</c><00:09:22.080><c> feedback</c><00:09:22.480><c> from</c><00:09:22.800><c> users</c>
+that they do collect feedback from users
+that they do collect feedback from users
+and<00:09:23.519><c> obsessively</c><00:09:24.399><c> iterate</c><00:09:24.880><c> to</c><00:09:25.040><c> improve</c><00:09:25.440><c> the</c>
+and obsessively iterate to improve the
+and obsessively iterate to improve the
+product.<00:09:26.320><c> As</c><00:09:26.640><c> millions</c><00:09:27.040><c> of</c><00:09:27.200><c> users</c><00:09:27.680><c> discover</c>
+product. As millions of users discover
+product. As millions of users discover
+problems<00:09:28.480><c> and</c><00:09:28.800><c> report</c><00:09:29.040><c> them,</c><00:09:29.440><c> OpenAI</c><00:09:30.160><c> fixes</c>
+problems and report them, OpenAI fixes
+problems and report them, OpenAI fixes
+them.<00:09:30.800><c> I</c><00:09:31.040><c> think</c><00:09:31.120><c> the</c><00:09:31.360><c> launch</c><00:09:31.519><c> of</c><00:09:31.680><c> chat</c><00:09:32.080><c> GPT</c>
+them. I think the launch of chat GPT
+them. I think the launch of chat GPT
+health<00:09:32.880><c> is</c><00:09:33.120><c> a</c><00:09:33.279><c> good</c><00:09:33.440><c> example</c><00:09:33.680><c> of</c><00:09:33.839><c> this</c><00:09:34.160><c> as</c><00:09:34.480><c> they</c>
+health is a good example of this as they
+health is a good example of this as they
+have<00:09:35.040><c> seen</c><00:09:35.760><c> the</c><00:09:36.080><c> way</c><00:09:36.399><c> users</c><00:09:36.880><c> have</c><00:09:37.040><c> interacted</c>
+have seen the way users have interacted
+have seen the way users have interacted
+with<00:09:38.160><c> chat</c><00:09:38.560><c> GPT</c><00:09:39.040><c> around</c><00:09:39.279><c> health</c><00:09:39.600><c> matters.</c>
+with chat GPT around health matters.
+with chat GPT around health matters.
+They<00:09:40.560><c> have</c><00:09:40.720><c> listened</c><00:09:41.040><c> to</c><00:09:41.279><c> feedback,</c><00:09:42.000><c> iterated</c>
+They have listened to feedback, iterated
+They have listened to feedback, iterated
+and<00:09:42.959><c> launched</c><00:09:43.360><c> a</c><00:09:43.680><c> dedicated</c><00:09:44.399><c> product</c><00:09:45.120><c> that</c>
+and launched a dedicated product that
+and launched a dedicated product that
+allows<00:09:45.920><c> you</c><00:09:46.080><c> in</c><00:09:46.320><c> a</c><00:09:46.560><c> secure</c><00:09:46.880><c> environment</c><00:09:47.440><c> to</c>
+allows you in a secure environment to
+allows you in a secure environment to
+upload<00:09:48.080><c> your</c><00:09:48.320><c> records</c><00:09:48.959><c> and</c><00:09:49.200><c> chat</c><00:09:49.440><c> with</c><00:09:49.600><c> chat</c>
+upload your records and chat with chat
+upload your records and chat with chat
+GPT.<00:09:50.720><c> In</c><00:09:50.959><c> other</c><00:09:51.040><c> words,</c><00:09:51.279><c> they</c><00:09:51.519><c> took</c><00:09:51.680><c> what</c>
+GPT. In other words, they took what
+GPT. In other words, they took what
+users<00:09:52.240><c> were</c><00:09:52.480><c> already</c><00:09:52.800><c> doing,</c><00:09:53.440><c> went</c><00:09:53.680><c> through</c>
+users were already doing, went through
+users were already doing, went through
+the<00:09:54.000><c> pain</c><00:09:54.160><c> points</c><00:09:54.399><c> with</c><00:09:54.560><c> the</c><00:09:54.720><c> existing</c><00:09:55.040><c> chat</c>
+the pain points with the existing chat
+the pain points with the existing chat
+GPT<00:09:55.839><c> process</c><00:09:56.480><c> and</c><00:09:56.720><c> shipped</c><00:09:57.120><c> something</c>
+GPT process and shipped something
+GPT process and shipped something
+quickly.<00:09:58.080><c> This</c><00:09:58.240><c> is</c><00:09:58.399><c> Weiss's</c><00:09:59.040><c> core</c><00:09:59.279><c> lesson</c>
+quickly. This is Weiss's core lesson
+quickly. This is Weiss's core lesson
+applied<00:10:00.000><c> to</c><00:10:00.160><c> the</c><00:10:00.399><c> most</c><00:10:00.560><c> important</c><00:10:00.959><c> technology</c>
+applied to the most important technology
+applied to the most important technology
+in<00:10:01.680><c> human</c><00:10:01.920><c> history.</c><00:10:02.640><c> You</c><00:10:02.880><c> learn</c><00:10:03.040><c> what's</c><00:10:03.360><c> safe</c>
+in human history. You learn what's safe
+in human history. You learn what's safe
+by<00:10:03.839><c> deploying,</c><00:10:04.880><c> not</c><00:10:05.120><c> just</c><00:10:05.360><c> by</c><00:10:05.680><c> theorizing.</c>
+by deploying, not just by theorizing.
+by deploying, not just by theorizing.
+But<00:10:06.720><c> Daario</c><00:10:07.279><c> believes</c><00:10:07.600><c> the</c><00:10:07.760><c> opposite.</c><00:10:08.240><c> For</c>
+But Daario believes the opposite. For
+But Daario believes the opposite. For
+Daario,<00:10:09.040><c> safety</c><00:10:09.360><c> is</c><00:10:09.519><c> a</c><00:10:09.760><c> precondition</c><00:10:10.560><c> for</c>
+Daario, safety is a precondition for
+Daario, safety is a precondition for
+deployment,<00:10:11.680><c> not</c><00:10:11.920><c> something</c><00:10:12.160><c> that</c><00:10:12.480><c> emerges</c>
+deployment, not something that emerges
+deployment, not something that emerges
+from<00:10:13.200><c> it.</c><00:10:13.839><c> You</c><00:10:14.320><c> understand</c><00:10:15.120><c> before</c><00:10:15.440><c> you</c>
+from it. You understand before you
+from it. You understand before you
+release.<00:10:16.240><c> You</c><00:10:16.480><c> demonstrate</c><00:10:17.120><c> safety</c>
+release. You demonstrate safety
+release. You demonstrate safety
+affirmatively<00:10:18.480><c> before</c><00:10:18.880><c> scaling.</c><00:10:19.360><c> This</c><00:10:19.519><c> is</c>
+affirmatively before scaling. This is
+affirmatively before scaling. This is
+the<00:10:19.760><c> company</c><00:10:20.000><c> that</c><00:10:20.240><c> invented</c><00:10:20.800><c> constitutional</c>
+the company that invented constitutional
+the company that invented constitutional
+AI.<00:10:22.320><c> You</c><00:10:22.560><c> don't</c><00:10:22.800><c> treat</c><00:10:23.040><c> the</c><00:10:23.279><c> public</c><00:10:23.519><c> as</c><00:10:23.760><c> your</c>
+AI. You don't treat the public as your
+AI. You don't treat the public as your
+red<00:10:24.160><c> team.</c><00:10:24.399><c> You</c><00:10:24.640><c> treat</c><00:10:24.800><c> them</c><00:10:24.959><c> as</c><00:10:25.200><c> people</c><00:10:25.360><c> who</c>
+red team. You treat them as people who
+red team. You treat them as people who
+deserve<00:10:25.920><c> to</c><00:10:26.079><c> know</c><00:10:26.160><c> the</c><00:10:26.399><c> system</c><00:10:26.720><c> works</c><00:10:27.360><c> before</c>
+deserve to know the system works before
+deserve to know the system works before
+you<00:10:27.839><c> put</c><00:10:27.920><c> it</c><00:10:28.079><c> in</c><00:10:28.160><c> their</c><00:10:28.320><c> hands.</c><00:10:28.800><c> In</c><00:10:28.959><c> his</c><00:10:29.200><c> essay,</c>
+you put it in their hands. In his essay,
+you put it in their hands. In his essay,
+Machines<00:10:29.920><c> of</c><00:10:30.079><c> Love</c><00:10:30.240><c> and</c><00:10:30.399><c> Grace,</c><00:10:30.959><c> Daario</c>
+Machines of Love and Grace, Daario
+Machines of Love and Grace, Daario
+articulated<00:10:32.079><c> something</c><00:10:32.399><c> really</c><00:10:32.720><c> critical.</c>
+articulated something really critical.
+articulated something really critical.
+The<00:10:33.440><c> basic</c><00:10:33.920><c> development</c><00:10:34.480><c> of</c><00:10:34.720><c> AI</c><00:10:35.120><c> technology</c>
+The basic development of AI technology
+The basic development of AI technology
+and<00:10:35.839><c> many</c><00:10:36.079><c> of</c><00:10:36.160><c> its</c><00:10:36.399><c> benefits</c><00:10:36.880><c> seems</c>
+and many of its benefits seems
+and many of its benefits seems
+inevitable<00:10:37.680><c> and</c><00:10:37.920><c> is</c><00:10:38.160><c> fundamentally</c><00:10:38.720><c> driven</c>
+inevitable and is fundamentally driven
+inevitable and is fundamentally driven
+by<00:10:39.279><c> powerful</c><00:10:39.680><c> market</c><00:10:40.000><c> forces</c><00:10:40.720><c> and</c><00:10:40.959><c> the</c><00:10:41.200><c> risks</c>
+by powerful market forces and the risks
+by powerful market forces and the risks
+are<00:10:41.920><c> not</c><00:10:42.399><c> predetermined.</c><00:10:43.519><c> This</c><00:10:43.680><c> is</c><00:10:43.760><c> an</c>
+are not predetermined. This is an
+are not predetermined. This is an
+argument<00:10:44.320><c> about</c><00:10:44.480><c> leverage,</c><00:10:44.959><c> right?</c><00:10:45.200><c> The</c>
+argument about leverage, right? The
+argument about leverage, right? The
+market<00:10:45.680><c> will</c><00:10:46.000><c> handle</c><00:10:46.240><c> the</c><00:10:46.480><c> benefits</c>
+market will handle the benefits
+market will handle the benefits
+automatically.<00:10:47.680><c> According</c><00:10:48.000><c> to</c><00:10:48.240><c> Daario,</c>
+automatically. According to Daario,
+automatically. According to Daario,
+companies<00:10:49.279><c> will</c><00:10:49.519><c> automatically</c><00:10:50.240><c> compete</c><00:10:50.560><c> to</c>
+companies will automatically compete to
+companies will automatically compete to
+make<00:10:50.959><c> AI</c><00:10:51.279><c> more</c><00:10:51.519><c> useful.</c><00:10:51.839><c> the</c><00:10:52.160><c> market</c><00:10:52.320><c> will</c><00:10:52.560><c> do</c>
+make AI more useful. the market will do
+make AI more useful. the market will do
+its<00:10:52.959><c> job</c><00:10:53.120><c> and</c><00:10:53.360><c> doesn't</c><00:10:53.600><c> need</c><00:10:53.839><c> advocates</c><00:10:54.320><c> per</c>
+its job and doesn't need advocates per
+its job and doesn't need advocates per
+Dario.<00:10:55.120><c> But</c><00:10:55.279><c> the</c><00:10:55.600><c> risks,</c><00:10:56.399><c> that's</c><00:10:56.640><c> where</c>
+Dario. But the risks, that's where
+Dario. But the risks, that's where
+Daario<00:10:57.360><c> says</c><00:10:57.680><c> they</c><00:10:57.920><c> require</c><00:10:58.399><c> active</c>
+Daario says they require active
+Daario says they require active
+intervention.<00:10:59.600><c> Those</c><00:10:59.920><c> require</c><00:11:00.399><c> someone</c><00:11:00.720><c> who</c>
+intervention. Those require someone who
+intervention. Those require someone who
+can<00:11:01.120><c> pump</c><00:11:01.360><c> the</c><00:11:01.600><c> brakes</c><00:11:01.920><c> to</c><00:11:02.079><c> insist</c><00:11:02.480><c> on</c>
+can pump the brakes to insist on
+can pump the brakes to insist on
+understanding<00:11:03.279><c> before</c><00:11:03.680><c> deployment.</c><00:11:04.480><c> And</c>
+understanding before deployment. And
+understanding before deployment. And
+that's<00:11:04.880><c> where</c><00:11:05.120><c> focused</c><00:11:05.680><c> effort</c><00:11:06.240><c> actually</c>
+that's where focused effort actually
+that's where focused effort actually
+changes<00:11:07.040><c> outcomes</c><00:11:07.760><c> and</c><00:11:08.000><c> that's</c><00:11:08.240><c> part</c><00:11:08.399><c> of</c>
+changes outcomes and that's part of
+changes outcomes and that's part of
+where<00:11:08.640><c> he</c><00:11:08.800><c> sees</c><00:11:09.120><c> anthropic's</c><00:11:09.680><c> role.</c><00:11:10.160><c> This</c><00:11:10.399><c> is</c>
+where he sees anthropic's role. This is
+where he sees anthropic's role. This is
+why<00:11:10.800><c> Anthropic</c><00:11:11.440><c> built</c><00:11:11.680><c> AI</c><00:11:12.000><c> safety</c><00:11:12.399><c> levels</c>
+why Anthropic built AI safety levels
+why Anthropic built AI safety levels
+modeled<00:11:13.440><c> on</c><00:11:13.680><c> biosafety</c><00:11:14.480><c> levels</c><00:11:14.800><c> for</c><00:11:15.040><c> handling</c>
+modeled on biosafety levels for handling
+modeled on biosafety levels for handling
+pathogens.<00:11:16.320><c> At</c><00:11:16.560><c> ASL3,</c><00:11:17.519><c> for</c><00:11:17.600><c> example,</c><00:11:18.480><c> systems</c>
+pathogens. At ASL3, for example, systems
+pathogens. At ASL3, for example, systems
+can<00:11:19.120><c> meaningfully</c><00:11:19.680><c> assist</c><00:11:20.000><c> in</c><00:11:20.320><c> creating</c>
+can meaningfully assist in creating
+can meaningfully assist in creating
+bioweapons,<00:11:21.600><c> and</c><00:11:21.839><c> Anthropic</c><00:11:22.480><c> would</c><00:11:22.640><c> have</c><00:11:22.800><c> to</c>
+bioweapons, and Anthropic would have to
+bioweapons, and Anthropic would have to
+commit<00:11:23.200><c> to</c><00:11:23.440><c> demonstrating</c><00:11:24.000><c> no</c><00:11:24.399><c> meaningful</c>
+commit to demonstrating no meaningful
+commit to demonstrating no meaningful
+catastrophic<00:11:25.680><c> misuse</c><00:11:26.160><c> risk</c><00:11:26.800><c> before</c>
+catastrophic misuse risk before
+catastrophic misuse risk before
+deployment.<00:11:28.240><c> In</c><00:11:28.399><c> other</c><00:11:28.560><c> words,</c><00:11:28.720><c> the</c><00:11:28.959><c> standard</c>
+deployment. In other words, the standard
+deployment. In other words, the standard
+is<00:11:29.440><c> not</c><00:11:29.680><c> we</c><00:11:29.920><c> tested</c><00:11:30.240><c> it</c><00:11:30.480><c> and</c><00:11:30.800><c> didn't</c><00:11:31.120><c> find</c><00:11:31.279><c> any</c>
+is not we tested it and didn't find any
+is not we tested it and didn't find any
+problems.<00:11:32.079><c> It</c><00:11:32.399><c> we</c><00:11:32.640><c> can</c><00:11:32.800><c> prove</c><00:11:33.040><c> it's</c><00:11:33.200><c> safe.</c><00:11:33.680><c> And</c>
+problems. It we can prove it's safe. And
+problems. It we can prove it's safe. And
+if<00:11:34.320><c> scaling</c><00:11:35.040><c> outpaces</c><00:11:35.680><c> their</c><00:11:36.000><c> ability</c><00:11:36.240><c> to</c>
+if scaling outpaces their ability to
+if scaling outpaces their ability to
+ensure<00:11:36.880><c> safety,</c><00:11:37.360><c> Anthropic</c><00:11:38.079><c> is</c><00:11:38.240><c> very</c><00:11:38.399><c> clear</c>
+ensure safety, Anthropic is very clear
+ensure safety, Anthropic is very clear
+saying<00:11:39.120><c> they're</c><00:11:39.360><c> willing</c><00:11:39.600><c> to</c><00:11:39.760><c> pause</c>
+saying they're willing to pause
+saying they're willing to pause
+training.<00:11:40.399><c> They're</c><00:11:40.560><c> willing</c><00:11:40.800><c> to</c><00:11:40.959><c> slow</c><00:11:41.200><c> down,</c>
+training. They're willing to slow down,
+training. They're willing to slow down,
+they're<00:11:42.000><c> not</c><00:11:42.079><c> going</c><00:11:42.160><c> to</c><00:11:42.240><c> be</c><00:11:42.320><c> in</c><00:11:42.480><c> a</c><00:11:42.640><c> rush</c><00:11:42.800><c> about</c>
+they're not going to be in a rush about
+they're not going to be in a rush about
+it.<00:11:43.519><c> Compare</c><00:11:44.000><c> this</c><00:11:44.160><c> to</c><00:11:44.399><c> what</c><00:11:44.640><c> happened</c><00:11:44.880><c> at</c>
+it. Compare this to what happened at
+it. Compare this to what happened at
+OpenAI<00:11:45.680><c> when</c><00:11:45.920><c> Google</c><00:11:46.160><c> launched</c><00:11:46.480><c> Gemini.</c><00:11:47.200><c> Sam</c>
+OpenAI when Google launched Gemini. Sam
+OpenAI when Google launched Gemini. Sam
+reportedly<00:11:48.079><c> declared</c><00:11:48.480><c> Code</c><00:11:48.800><c> Red</c><00:11:49.200><c> and</c>
+reportedly declared Code Red and
+reportedly declared Code Red and
+accelerated<00:11:50.000><c> the</c><00:11:50.320><c> release</c><00:11:50.720><c> of</c><00:11:50.959><c> Chat</c><00:11:51.360><c> GPT</c><00:11:52.560><c> 5.2,</c>
+accelerated the release of Chat GPT 5.2,
+accelerated the release of Chat GPT 5.2,
+pushing<00:11:54.240><c> the</c><00:11:54.399><c> launch</c><00:11:54.640><c> forward</c><00:11:54.880><c> in</c><00:11:55.120><c> one</c><00:11:55.200><c> of</c>
+pushing the launch forward in one of
+pushing the launch forward in one of
+OpenAI's<00:11:56.079><c> fastest</c><00:11:56.560><c> turnarounds</c><00:11:57.120><c> ever.</c><00:11:57.600><c> When</c>
+OpenAI's fastest turnarounds ever. When
+OpenAI's fastest turnarounds ever. When
+competitive<00:11:58.480><c> pressure</c><00:11:58.800><c> hits,</c><00:11:59.120><c> OpenAI</c><00:11:59.839><c> has</c><00:12:00.079><c> a</c>
+competitive pressure hits, OpenAI has a
+competitive pressure hits, OpenAI has a
+history<00:12:00.800><c> of</c><00:12:01.120><c> speeding</c><00:12:01.600><c> up.</c><00:12:02.079><c> Enthropic</c><00:12:02.800><c> has</c>
+history of speeding up. Enthropic has
+history of speeding up. Enthropic has
+committed<00:12:03.600><c> with</c><00:12:03.839><c> governance</c><00:12:04.240><c> structures</c><00:12:04.640><c> to</c>
+committed with governance structures to
+committed with governance structures to
+enforce<00:12:05.120><c> it</c><00:12:05.680><c> to</c><00:12:06.160><c> potentially</c><00:12:06.720><c> slow</c><00:12:07.040><c> down.</c>
+enforce it to potentially slow down.
+enforce it to potentially slow down.
+These<00:12:07.680><c> are</c><00:12:07.839><c> different</c><00:12:08.160><c> epistemologies.</c>
+These are different epistemologies.
+These are different epistemologies.
+These<00:12:09.440><c> are</c><00:12:09.600><c> entirely</c><00:12:10.160><c> different</c><00:12:10.560><c> ways</c><00:12:10.959><c> of</c>
+These are entirely different ways of
+These are entirely different ways of
+seeing<00:12:11.440><c> the</c><00:12:11.680><c> world.</c><00:12:12.000><c> And</c><00:12:12.240><c> here's</c><00:12:12.560><c> something</c>
+seeing the world. And here's something
+seeing the world. And here's something
+most<00:12:13.200><c> people</c><00:12:13.519><c> don't</c><00:12:13.680><c> know.</c><00:12:14.160><c> Mario</c><00:12:14.720><c> joined</c>
+most people don't know. Mario joined
+most people don't know. Mario joined
+OpenAI<00:12:15.839><c> in</c><00:12:16.079><c> 2016</c><00:12:16.720><c> as</c><00:12:16.959><c> a</c><00:12:17.120><c> vice</c><00:12:17.440><c> president</c><00:12:17.760><c> of</c>
+OpenAI in 2016 as a vice president of
+OpenAI in 2016 as a vice president of
+research.<00:12:18.560><c> He</c><00:12:18.800><c> helped</c><00:12:19.200><c> write</c><00:12:19.519><c> OpenAI's</c>
+research. He helped write OpenAI's
+research. He helped write OpenAI's
+original<00:12:20.720><c> charter.</c><00:12:21.279><c> For</c><00:12:21.519><c> four</c><00:12:21.760><c> years,</c><00:12:22.079><c> he</c>
+original charter. For four years, he
+original charter. For four years, he
+played<00:12:22.480><c> a</c><00:12:22.639><c> central</c><00:12:22.959><c> role</c><00:12:23.120><c> in</c><00:12:23.360><c> building</c><00:12:23.680><c> GPT2</c>
+played a central role in building GPT2
+played a central role in building GPT2
+and<00:12:24.639><c> GPT3.</c><00:12:25.920><c> Ultimately,</c><00:12:26.720><c> he</c><00:12:27.040><c> left</c><00:12:28.000><c> to</c><00:12:28.240><c> found</c>
+and GPT3. Ultimately, he left to found
+and GPT3. Ultimately, he left to found
+Anthropic<00:12:30.000><c> because</c><00:12:30.560><c> he</c><00:12:30.880><c> believed</c><00:12:31.760><c> in</c><00:12:32.000><c> a</c>
+Anthropic because he believed in a
+Anthropic because he believed in a
+different<00:12:32.800><c> vision</c><00:12:33.760><c> that</c><00:12:34.079><c> was</c><00:12:34.240><c> more</c><00:12:34.399><c> in</c><00:12:34.560><c> line</c>
+different vision that was more in line
+different vision that was more in line
+with<00:12:34.959><c> his</c><00:12:35.200><c> long-term</c><00:12:35.760><c> perspective</c><00:12:36.320><c> that</c><00:12:36.560><c> we</c>
+with his long-term perspective that we
+with his long-term perspective that we
+need<00:12:36.959><c> to</c><00:12:37.120><c> derisk</c><00:12:37.680><c> AI</c><00:12:38.480><c> before</c><00:12:39.040><c> launching</c><00:12:39.519><c> into</c>
+need to derisk AI before launching into
+need to derisk AI before launching into
+the<00:12:40.000><c> world.</c><00:12:40.399><c> So,</c><00:12:40.639><c> Enthropic</c><00:12:41.279><c> is</c><00:12:41.440><c> not</c><00:12:41.600><c> Dario's</c>
+the world. So, Enthropic is not Dario's
+the world. So, Enthropic is not Dario's
+first<00:12:42.480><c> attempt</c><00:12:42.800><c> at</c><00:12:42.959><c> building</c><00:12:43.120><c> an</c><00:12:43.360><c> AI</c><00:12:43.680><c> safety</c>
+first attempt at building an AI safety
+first attempt at building an AI safety
+company.<00:12:44.399><c> It's</c><00:12:44.639><c> actually</c><00:12:44.880><c> his</c><00:12:45.200><c> second</c><00:12:45.680><c> and</c>
+company. It's actually his second and
+company. It's actually his second and
+he's<00:12:46.160><c> learned</c><00:12:46.399><c> from</c><00:12:46.560><c> that</c><00:12:46.720><c> and</c><00:12:46.959><c> that's</c><00:12:47.200><c> why</c><00:12:47.360><c> he</c>
+he's learned from that and that's why he
+he's learned from that and that's why he
+built<00:12:47.760><c> Anthropic</c><00:12:48.399><c> with</c><00:12:48.480><c> the</c><00:12:48.639><c> checks</c><00:12:48.959><c> and</c>
+built Anthropic with the checks and
+built Anthropic with the checks and
+balances<00:12:49.600><c> he</c><00:12:49.920><c> did</c><00:12:50.399><c> to</c><00:12:50.639><c> make</c><00:12:50.880><c> governance</c>
+balances he did to make governance
+balances he did to make governance
+crisis<00:12:52.000><c> easier</c><00:12:52.399><c> to</c><00:12:52.639><c> manage</c><00:12:52.959><c> in</c><00:12:53.120><c> an</c><00:12:53.360><c> age</c><00:12:53.519><c> where</c>
+crisis easier to manage in an age where
+crisis easier to manage in an age where
+AI<00:12:54.079><c> incentives</c><00:12:54.560><c> are</c><00:12:54.720><c> very</c><00:12:54.959><c> powerful.</c><00:12:55.360><c> One</c><00:12:55.519><c> of</c>
+AI incentives are very powerful. One of
+AI incentives are very powerful. One of
+the<00:12:55.760><c> things</c><00:12:55.920><c> I</c><00:12:56.240><c> find</c><00:12:56.560><c> most</c><00:12:56.959><c> interesting</c><00:12:57.440><c> about</c>
+the things I find most interesting about
+the things I find most interesting about
+this<00:12:58.000><c> whole</c><00:12:58.320><c> conversation</c><00:12:59.200><c> is</c><00:12:59.519><c> that</c><00:12:59.680><c> the</c>
+this whole conversation is that the
+this whole conversation is that the
+product<00:13:00.480><c> visions</c><00:13:00.959><c> of</c><00:13:01.120><c> these</c><00:13:01.440><c> companies</c>
+product visions of these companies
+product visions of these companies
+reflect<00:13:02.880><c> this</c><00:13:03.200><c> perspective</c><00:13:03.680><c> on</c><00:13:04.000><c> safety</c><00:13:04.480><c> and</c>
+reflect this perspective on safety and
+reflect this perspective on safety and
+experimentation.<00:13:06.079><c> Anthropic</c><00:13:06.800><c> has</c><00:13:07.040><c> bet</c><00:13:07.760><c> that</c>
+experimentation. Anthropic has bet that
+experimentation. Anthropic has bet that
+intelligence<00:13:08.720><c> is</c><00:13:08.959><c> a</c><00:13:09.200><c> vertical,</c><00:13:09.920><c> a</c><00:13:10.240><c> specialty</c>
+intelligence is a vertical, a specialty
+intelligence is a vertical, a specialty
+that<00:13:11.279><c> certain</c><00:13:11.680><c> customers</c><00:13:12.160><c> will</c><00:13:12.399><c> pay</c><00:13:12.720><c> enormous</c>
+that certain customers will pay enormous
+that certain customers will pay enormous
+premiums<00:13:14.000><c> for.</c><00:13:14.399><c> And</c><00:13:14.560><c> so</c><00:13:14.720><c> they</c><00:13:14.959><c> decided</c><00:13:15.279><c> to</c>
+premiums for. And so they decided to
+premiums for. And so they decided to
+strip<00:13:16.000><c> distractions</c><00:13:16.639><c> away.</c><00:13:17.120><c> No</c><00:13:17.360><c> video</c>
+strip distractions away. No video
+strip distractions away. No video
+generation<00:13:18.079><c> from</c><00:13:18.399><c> Anthropic,</c><00:13:19.120><c> no</c><00:13:19.360><c> image</c>
+generation from Anthropic, no image
+generation from Anthropic, no image
+generation<00:13:20.079><c> from</c><00:13:20.399><c> Anthropic,</c><00:13:21.120><c> no</c><00:13:21.360><c> companion</c>
+generation from Anthropic, no companion
+generation from Anthropic, no companion
+chatbot<00:13:22.720><c> in</c><00:13:22.959><c> the</c><00:13:23.200><c> way</c><00:13:23.839><c> that</c><00:13:24.160><c> Gemini</c><00:13:24.800><c> and</c><00:13:24.959><c> Chat</c>
+chatbot in the way that Gemini and Chat
+chatbot in the way that Gemini and Chat
+GPT<00:13:25.760><c> are</c><00:13:26.000><c> seeking</c><00:13:26.320><c> to</c><00:13:26.480><c> be</c><00:13:26.639><c> companionable.</c>
+GPT are seeking to be companionable.
+GPT are seeking to be companionable.
+They<00:13:27.920><c> poured</c><00:13:28.320><c> everything</c><00:13:28.800><c> into</c><00:13:29.200><c> reasoning</c>
+They poured everything into reasoning
+They poured everything into reasoning
+density,<00:13:30.240><c> into</c><00:13:30.560><c> code</c><00:13:30.880><c> reliability,</c><00:13:31.680><c> into</c>
+density, into code reliability, into
+density, into code reliability, into
+interpretability,<00:13:32.880><c> into</c><00:13:33.120><c> reducing</c>
+interpretability, into reducing
+interpretability, into reducing
+hallucination<00:13:34.399><c> and</c><00:13:34.560><c> complex</c><00:13:34.959><c> domains,</c><00:13:35.600><c> into</c>
+hallucination and complex domains, into
+hallucination and complex domains, into
+tool<00:13:36.320><c> use.</c><00:13:37.279><c> And</c><00:13:37.440><c> that</c><00:13:37.760><c> paid</c><00:13:38.079><c> off</c><00:13:38.959><c> because</c><00:13:39.279><c> by</c>
+tool use. And that paid off because by
+tool use. And that paid off because by
+2026<00:13:40.639><c> has</c><00:13:40.800><c> become</c><00:13:41.600><c> the</c><00:13:41.920><c> core</c><00:13:42.240><c> operating</c>
+2026 has become the core operating
+2026 has become the core operating
+system<00:13:43.040><c> for</c><00:13:43.360><c> much</c><00:13:43.760><c> cognitive</c><00:13:44.320><c> labor</c><00:13:44.639><c> among</c>
+system for much cognitive labor among
+system for much cognitive labor among
+the<00:13:45.120><c> professional</c><00:13:45.600><c> classes.</c><00:13:46.320><c> If</c><00:13:46.480><c> a</c><00:13:46.639><c> lawyer</c>
+the professional classes. If a lawyer
+the professional classes. If a lawyer
+can't<00:13:47.200><c> afford</c><00:13:47.600><c> hallucinated</c><00:13:48.240><c> citations,</c><00:13:48.880><c> so</c>
+can't afford hallucinated citations, so
+can't afford hallucinated citations, so
+often<00:13:49.519><c> they</c><00:13:49.680><c> turn</c><00:13:49.920><c> to</c><00:13:50.079><c> Claude.</c><00:13:50.480><c> If</c><00:13:50.639><c> the</c>
+often they turn to Claude. If the
+often they turn to Claude. If the
+developer<00:13:51.279><c> has</c><00:13:51.440><c> to</c><00:13:51.600><c> write</c><00:13:51.920><c> production</c><00:13:52.320><c> code,</c>
+developer has to write production code,
+developer has to write production code,
+they<00:13:52.800><c> turn</c><00:13:52.959><c> to</c><00:13:53.120><c> Claude.</c><00:13:53.680><c> If</c><00:13:53.920><c> an</c><00:13:54.079><c> analyst</c><00:13:54.480><c> has</c>
+they turn to Claude. If an analyst has
+they turn to Claude. If an analyst has
+to<00:13:54.800><c> synthesize</c><00:13:55.360><c> market</c><00:13:55.680><c> intelligence,</c><00:13:56.240><c> you</c>
+to synthesize market intelligence, you
+to synthesize market intelligence, you
+guessed<00:13:56.560><c> it,</c><00:13:56.800><c> they</c><00:13:57.040><c> turn</c><00:13:57.519><c> to</c><00:13:57.760><c> Claude.</c>
+guessed it, they turn to Claude.
+guessed it, they turn to Claude.
+Ironically,<00:13:59.279><c> by</c><00:13:59.600><c> betting</c><00:14:00.160><c> on</c><00:14:00.720><c> code</c><00:14:01.519><c> as</c><00:14:01.760><c> a</c><00:14:02.000><c> way</c>
+Ironically, by betting on code as a way
+Ironically, by betting on code as a way
+to<00:14:02.560><c> manipulate</c><00:14:03.519><c> computing</c><00:14:04.480><c> and</c><00:14:04.800><c> making</c><00:14:05.120><c> sure</c>
+to manipulate computing and making sure
+to manipulate computing and making sure
+that<00:14:05.519><c> they</c><00:14:05.760><c> got</c><00:14:05.920><c> that</c><00:14:06.160><c> right</c><00:14:06.480><c> through</c><00:14:06.880><c> Claude</c>
+that they got that right through Claude
+that they got that right through Claude
+code,<00:14:07.760><c> through</c><00:14:07.920><c> the</c><00:14:08.079><c> chatbot,</c><00:14:08.639><c> more</c><00:14:08.800><c> recently</c>
+code, through the chatbot, more recently
+code, through the chatbot, more recently
+through<00:14:09.279><c> the</c><00:14:09.440><c> extension</c><00:14:09.839><c> in</c><00:14:10.079><c> Chrome.</c><00:14:10.800><c> What</c>
+through the extension in Chrome. What
+through the extension in Chrome. What
+Daario<00:14:11.760><c> has</c><00:14:12.000><c> done</c><00:14:12.480><c> is</c><00:14:13.120><c> create</c><00:14:13.519><c> the</c><00:14:13.839><c> closest</c>
+Daario has done is create the closest
+Daario has done is create the closest
+thing<00:14:14.639><c> we've</c><00:14:14.959><c> seen</c><00:14:15.360><c> to</c><00:14:15.680><c> a</c><00:14:15.920><c> generalpurpose</c>
+thing we've seen to a generalpurpose
+thing we've seen to a generalpurpose
+agent<00:14:17.440><c> to</c><00:14:17.760><c> help</c><00:14:18.079><c> professionals</c><00:14:18.720><c> do</c><00:14:18.959><c> their</c>
+agent to help professionals do their
+agent to help professionals do their
+work<00:14:19.440><c> more</c><00:14:19.680><c> effectively.</c><00:14:20.480><c> That</c><00:14:20.959><c> focus</c><00:14:21.519><c> is</c>
+work more effectively. That focus is
+work more effectively. That focus is
+what<00:14:22.160><c> paid</c><00:14:22.560><c> off</c><00:14:23.120><c> in</c><00:14:23.440><c> the</c><00:14:23.680><c> tremendous</c><00:14:24.480><c> boom</c><00:14:24.959><c> in</c>
+what paid off in the tremendous boom in
+what paid off in the tremendous boom in
+claude<00:14:25.680><c> code</c><00:14:26.079><c> usage</c><00:14:26.800><c> that</c><00:14:27.120><c> we</c><00:14:27.360><c> saw</c><00:14:27.519><c> in</c><00:14:27.760><c> the</c>
+claude code usage that we saw in the
+claude code usage that we saw in the
+last<00:14:28.160><c> month</c><00:14:28.399><c> of</c><00:14:28.720><c> 2025</c><00:14:29.360><c> and</c><00:14:29.600><c> into</c><00:14:29.920><c> January</c>
+last month of 2025 and into January
+last month of 2025 and into January
+2026.<00:14:31.279><c> Now,</c><00:14:31.519><c> OpenAI</c><00:14:32.079><c> has</c><00:14:32.320><c> bet</c><00:14:32.560><c> the</c><00:14:32.720><c> opposite.</c>
+2026. Now, OpenAI has bet the opposite.
+2026. Now, OpenAI has bet the opposite.
+The<00:14:33.440><c> idea</c><00:14:33.680><c> of</c><00:14:33.920><c> experimentation</c><00:14:34.880><c> of</c><00:14:35.120><c> YC</c><00:14:35.680><c> like</c>
+The idea of experimentation of YC like
+The idea of experimentation of YC like
+fast<00:14:36.240><c> shipping</c><00:14:36.880><c> has</c><00:14:37.199><c> translated</c><00:14:37.760><c> into</c><00:14:38.000><c> a</c>
+fast shipping has translated into a
+fast shipping has translated into a
+culture<00:14:38.800><c> where</c><00:14:39.120><c> you're</c><00:14:39.360><c> encouraged</c><00:14:39.680><c> to</c><00:14:39.839><c> ship</c>
+culture where you're encouraged to ship
+culture where you're encouraged to ship
+your<00:14:40.320><c> experiments.</c><00:14:41.199><c> And</c><00:14:41.440><c> so,</c><00:14:42.000><c> fundamentally,</c>
+your experiments. And so, fundamentally,
+your experiments. And so, fundamentally,
+the<00:14:42.959><c> philosophy</c><00:14:43.519><c> I</c><00:14:43.760><c> see</c><00:14:43.839><c> is</c><00:14:44.000><c> that</c><00:14:44.240><c> OpenAI</c><00:14:44.880><c> sees</c>
+the philosophy I see is that OpenAI sees
+the philosophy I see is that OpenAI sees
+intelligence<00:14:45.760><c> as</c><00:14:46.000><c> a</c><00:14:46.160><c> horizontal</c><00:14:46.720><c> interface</c>
+intelligence as a horizontal interface
+intelligence as a horizontal interface
+that<00:14:47.519><c> touches</c><00:14:48.000><c> absolutely</c><00:14:48.639><c> everything</c><00:14:48.959><c> in</c>
+that touches absolutely everything in
+that touches absolutely everything in
+human<00:14:49.519><c> life.</c><00:14:50.000><c> And</c><00:14:50.160><c> so</c><00:14:50.399><c> AI</c><00:14:50.800><c> is</c><00:14:51.040><c> treated</c><00:14:51.360><c> sort</c><00:14:51.519><c> of</c>
+human life. And so AI is treated sort of
+human life. And so AI is treated sort of
+like<00:14:51.839><c> a</c><00:14:52.079><c> consumer</c><00:14:52.560><c> super</c><00:14:52.959><c> app.</c><00:14:53.360><c> Sora</c><00:14:53.839><c> for</c>
+like a consumer super app. Sora for
+like a consumer super app. Sora for
+video,<00:14:54.480><c> chat</c><00:14:54.880><c> GPT</c><00:14:55.360><c> health</c><00:14:55.600><c> for</c><00:14:55.839><c> medical</c>
+video, chat GPT health for medical
+video, chat GPT health for medical
+consultation.<00:14:57.199><c> There's</c><00:14:57.360><c> a</c><00:14:57.519><c> search</c>
+consultation. There's a search
+consultation. There's a search
+integration.<00:14:58.560><c> Voice</c><00:14:58.800><c> is</c><00:14:58.959><c> now</c><00:14:59.199><c> there.</c><00:14:59.440><c> We</c><00:14:59.600><c> have</c>
+integration. Voice is now there. We have
+integration. Voice is now there. We have
+image<00:15:00.079><c> generation</c><00:15:00.480><c> in</c><00:15:00.639><c> chat</c><00:15:00.959><c> GPT.</c><00:15:01.920><c> There's</c><00:15:02.160><c> a</c>
+image generation in chat GPT. There's a
+image generation in chat GPT. There's a
+browser.<00:15:03.120><c> Chat</c><00:15:03.519><c> GPT</c><00:15:04.079><c> isn't</c><00:15:04.480><c> really</c><00:15:04.720><c> a</c>
+browser. Chat GPT isn't really a
+browser. Chat GPT isn't really a
+chatbot.<00:15:05.760><c> It's</c><00:15:05.920><c> a</c><00:15:06.079><c> doctor.</c><00:15:06.560><c> It's</c><00:15:06.639><c> a</c>
+chatbot. It's a doctor. It's a
+chatbot. It's a doctor. It's a
+filmmaker.<00:15:07.440><c> It's</c><00:15:07.600><c> a</c><00:15:07.760><c> search</c><00:15:08.000><c> engine.</c><00:15:08.399><c> It's</c><00:15:08.560><c> a</c>
+filmmaker. It's a search engine. It's a
+filmmaker. It's a search engine. It's a
+coding<00:15:09.120><c> assistant.</c><00:15:09.680><c> It's</c><00:15:10.160><c> it's</c><00:15:10.800><c> everything.</c>
+coding assistant. It's it's everything.
+coding assistant. It's it's everything.
+It's<00:15:11.920><c> a</c><00:15:12.079><c> life</c><00:15:12.480><c> flare.</c><00:15:12.959><c> And</c><00:15:13.360><c> I</c><00:15:13.680><c> believe</c><00:15:14.079><c> this</c>
+It's a life flare. And I believe this
+It's a life flare. And I believe this
+very<00:15:14.880><c> intentionally</c><00:15:15.680><c> goes</c><00:15:16.079><c> back</c><00:15:16.720><c> to</c><00:15:16.959><c> the</c><00:15:17.279><c> way</c>
+very intentionally goes back to the way
+very intentionally goes back to the way
+the<00:15:17.760><c> company</c><00:15:18.240><c> thinks,</c><00:15:18.639><c> the</c><00:15:18.800><c> way</c><00:15:19.040><c> Sam</c><00:15:19.440><c> thinks</c>
+the company thinks, the way Sam thinks
+the company thinks, the way Sam thinks
+about<00:15:20.000><c> launching,</c><00:15:20.399><c> which</c><00:15:20.560><c> is</c><00:15:20.720><c> that</c><00:15:20.880><c> you</c>
+about launching, which is that you
+about launching, which is that you
+launch,<00:15:21.600><c> you</c><00:15:21.839><c> see</c><00:15:22.000><c> what</c><00:15:22.240><c> works</c><00:15:22.480><c> and</c><00:15:22.639><c> you</c>
+launch, you see what works and you
+launch, you see what works and you
+double<00:15:23.120><c> down.</c><00:15:23.360><c> It's</c><00:15:23.519><c> it's</c><00:15:23.839><c> as</c><00:15:24.000><c> if</c><00:15:24.399><c> OpenAI</c><00:15:25.519><c> is</c>
+double down. It's it's as if OpenAI is
+double down. It's it's as if OpenAI is
+incubating<00:15:26.880><c> a</c><00:15:27.199><c> series</c><00:15:27.600><c> of</c><00:15:27.839><c> Y</c><00:15:28.240><c> Combinator</c>
+incubating a series of Y Combinator
+incubating a series of Y Combinator
+companies<00:15:29.600><c> inside</c><00:15:30.079><c> itself</c><00:15:30.800><c> and</c><00:15:30.959><c> they're</c>
+companies inside itself and they're
+companies inside itself and they're
+going<00:15:31.279><c> to</c><00:15:31.440><c> try</c><00:15:31.680><c> and</c><00:15:31.839><c> see</c><00:15:32.000><c> what</c><00:15:32.320><c> works</c><00:15:32.560><c> and</c><00:15:32.880><c> then</c>
+going to try and see what works and then
+going to try and see what works and then
+scale<00:15:33.600><c> what</c><00:15:33.839><c> works</c><00:15:34.160><c> well</c><00:15:34.399><c> and</c><00:15:34.880><c> not</c><00:15:35.199><c> scale</c><00:15:35.600><c> what</c>
+scale what works well and not scale what
+scale what works well and not scale what
+doesn't<00:15:36.079><c> work</c><00:15:36.320><c> well.</c><00:15:36.639><c> I</c><00:15:37.040><c> believe</c><00:15:37.360><c> that</c><00:15:37.600><c> if</c><00:15:37.839><c> you</c>
+doesn't work well. I believe that if you
+doesn't work well. I believe that if you
+look<00:15:38.160><c> at</c><00:15:38.240><c> these</c><00:15:38.480><c> two</c><00:15:38.720><c> product</c><00:15:39.040><c> visions,</c><00:15:39.839><c> what</c>
+look at these two product visions, what
+look at these two product visions, what
+you're<00:15:40.320><c> going</c><00:15:40.399><c> to</c><00:15:40.560><c> see</c><00:15:40.720><c> is</c><00:15:40.959><c> that</c><00:15:41.120><c> we're</c><00:15:41.440><c> no</c>
+you're going to see is that we're no
+you're going to see is that we're no
+longer<00:15:42.000><c> in</c><00:15:42.399><c> one</c><00:15:42.800><c> AI</c><00:15:43.279><c> economy.</c><00:15:43.920><c> This</c><00:15:44.160><c> is</c><00:15:44.320><c> such</c><00:15:44.480><c> a</c>
+longer in one AI economy. This is such a
+longer in one AI economy. This is such a
+big<00:15:44.880><c> revolution.</c><00:15:45.680><c> I</c><00:15:46.000><c> am</c><00:15:46.160><c> not</c><00:15:46.320><c> interested</c><00:15:46.639><c> in</c>
+big revolution. I am not interested in
+big revolution. I am not interested in
+picking<00:15:47.199><c> sides.</c><00:15:47.680><c> I</c><00:15:47.920><c> am</c><00:15:48.000><c> not</c><00:15:48.160><c> interested</c><00:15:48.480><c> in</c>
+picking sides. I am not interested in
+picking sides. I am not interested in
+picking<00:15:48.959><c> winners.</c><00:15:49.680><c> It</c><00:15:49.920><c> is</c><00:15:50.000><c> a</c><00:15:50.240><c> big</c><00:15:50.399><c> enough</c>
+picking winners. It is a big enough
+picking winners. It is a big enough
+world<00:15:50.959><c> where</c><00:15:51.279><c> everybody</c><00:15:51.600><c> is</c><00:15:51.759><c> going</c><00:15:51.839><c> to</c><00:15:52.000><c> win</c><00:15:52.160><c> in</c>
+world where everybody is going to win in
+world where everybody is going to win in
+AI.<00:15:53.040><c> We're</c><00:15:53.360><c> no</c><00:15:53.519><c> longer</c><00:15:53.759><c> in</c><00:15:54.079><c> one</c><00:15:54.320><c> AI</c><00:15:54.720><c> economy.</c>
+AI. We're no longer in one AI economy.
+AI. We're no longer in one AI economy.
+We're<00:15:55.440><c> in</c><00:15:55.680><c> at</c><00:15:55.759><c> least</c><00:15:56.160><c> two</c><00:15:56.560><c> operating</c><00:15:57.040><c> under</c>
+We're in at least two operating under
+We're in at least two operating under
+very<00:15:57.680><c> different</c><00:15:57.920><c> rules.</c><00:15:58.560><c> Economy</c><00:15:59.199><c> one</c><00:15:59.680><c> is</c>
+very different rules. Economy one is
+very different rules. Economy one is
+focused<00:16:00.480><c> on</c><00:16:01.120><c> extremely</c><00:16:02.160><c> rapid</c><00:16:02.800><c> generation</c><00:16:03.519><c> of</c>
+focused on extremely rapid generation of
+focused on extremely rapid generation of
+abundant<00:16:04.560><c> intelligence.</c><00:16:05.519><c> If</c><00:16:05.759><c> your</c><00:16:06.000><c> work</c>
+abundant intelligence. If your work
+abundant intelligence. If your work
+involves<00:16:07.040><c> producing</c><00:16:07.600><c> outputs,</c><00:16:08.320><c> content,</c>
+involves producing outputs, content,
+involves producing outputs, content,
+media,<00:16:09.440><c> drafts,</c><00:16:09.920><c> creative</c><00:16:10.240><c> exploration,</c><00:16:10.800><c> and</c>
+media, drafts, creative exploration, and
+media, drafts, creative exploration, and
+yes,<00:16:11.360><c> code</c><00:16:11.680><c> through</c><00:16:11.920><c> codecs,</c><00:16:12.720><c> you</c><00:16:12.880><c> live</c><00:16:13.040><c> in</c>
+yes, code through codecs, you live in
+yes, code through codecs, you live in
+OpenAI's<00:16:14.000><c> world.</c><00:16:14.560><c> They're</c><00:16:14.880><c> driving</c><00:16:15.199><c> marginal</c>
+OpenAI's world. They're driving marginal
+OpenAI's world. They're driving marginal
+cost<00:16:16.000><c> towards</c><00:16:16.399><c> zero.</c><00:16:17.040><c> Sora</c><00:16:17.519><c> means</c><00:16:17.680><c> that</c><00:16:17.839><c> video</c>
+cost towards zero. Sora means that video
+cost towards zero. Sora means that video
+that<00:16:18.399><c> costs</c><00:16:18.720><c> thousands</c><00:16:19.519><c> takes</c><00:16:19.839><c> a</c><00:16:20.000><c> few</c>
+that costs thousands takes a few
+that costs thousands takes a few
+minutes.<00:16:20.399><c> Now,</c><00:16:20.720><c> chat</c><00:16:21.040><c> GPT</c><00:16:21.519><c> health</c><00:16:21.759><c> means</c><00:16:22.000><c> you</c>
+minutes. Now, chat GPT health means you
+minutes. Now, chat GPT health means you
+can<00:16:22.240><c> triage</c><00:16:22.720><c> at</c><00:16:22.880><c> the</c><00:16:23.040><c> kitchen</c><00:16:23.360><c> table.</c><00:16:24.000><c> And</c>
+can triage at the kitchen table. And
+can triage at the kitchen table. And
+yes,<00:16:24.639><c> they're</c><00:16:24.959><c> producing</c><00:16:25.440><c> tools</c><00:16:25.759><c> that</c><00:16:26.000><c> help</c>
+yes, they're producing tools that help
+yes, they're producing tools that help
+you<00:16:26.320><c> get</c><00:16:26.639><c> Excel</c><00:16:27.120><c> and</c><00:16:27.440><c> Word</c><00:16:27.759><c> docs</c><00:16:28.079><c> done.</c><00:16:28.480><c> And</c>
+you get Excel and Word docs done. And
+you get Excel and Word docs done. And
+there's<00:16:29.040><c> always</c><00:16:29.360><c> the</c><00:16:29.600><c> code</c><00:16:29.839><c> review</c><00:16:30.079><c> that</c><00:16:30.320><c> you</c>
+there's always the code review that you
+there's always the code review that you
+can<00:16:30.560><c> do</c><00:16:30.639><c> with</c><00:16:30.800><c> codecs.</c><00:16:31.519><c> And</c><00:16:31.759><c> the</c><00:16:31.920><c> strategic</c>
+can do with codecs. And the strategic
+can do with codecs. And the strategic
+imperative<00:16:32.959><c> for</c><00:16:33.199><c> them</c><00:16:33.600><c> is</c><00:16:33.920><c> that</c><00:16:34.320><c> you</c><00:16:35.040><c> drive</c>
+imperative for them is that you drive
+imperative for them is that you drive
+the<00:16:36.160><c> chat</c><00:16:36.639><c> GPT</c><00:16:37.360><c> surface</c><00:16:38.079><c> across</c><00:16:38.560><c> as</c><00:16:38.959><c> many</c>
+the chat GPT surface across as many
+the chat GPT surface across as many
+facets<00:16:39.920><c> of</c><00:16:40.079><c> a</c><00:16:40.320><c> user's</c><00:16:40.720><c> life</c><00:16:40.880><c> as</c><00:16:41.120><c> you</c><00:16:41.360><c> can</c><00:16:42.000><c> in</c>
+facets of a user's life as you can in
+facets of a user's life as you can in
+order<00:16:42.560><c> to</c><00:16:42.800><c> drive</c><00:16:43.199><c> deep</c><00:16:43.680><c> habitual</c><00:16:44.639><c> adoption.</c>
+order to drive deep habitual adoption.
+order to drive deep habitual adoption.
+And<00:16:45.680><c> the</c><00:16:45.920><c> market</c><00:16:46.240><c> will</c><00:16:46.480><c> handle</c><00:16:47.199><c> the</c><00:16:47.519><c> benefit</c>
+And the market will handle the benefit
+And the market will handle the benefit
+and<00:16:48.320><c> which</c><00:16:48.639><c> ones</c><00:16:49.040><c> win</c><00:16:49.440><c> automatically.</c><00:16:50.560><c> You're</c>
+and which ones win automatically. You're
+and which ones win automatically. You're
+just<00:16:50.959><c> trying</c><00:16:51.120><c> to</c><00:16:51.279><c> put</c><00:16:51.440><c> as</c><00:16:51.680><c> many</c><00:16:51.920><c> shots</c><00:16:52.320><c> on</c><00:16:52.480><c> the</c>
+just trying to put as many shots on the
+just trying to put as many shots on the
+board<00:16:53.199><c> for</c><00:16:53.600><c> adoption</c><00:16:54.160><c> across</c><00:16:54.639><c> different</c><00:16:54.959><c> use</c>
+board for adoption across different use
+board for adoption across different use
+cases<00:16:55.440><c> in</c><00:16:55.600><c> a</c><00:16:55.759><c> user's</c><00:16:56.160><c> life</c><00:16:56.320><c> as</c><00:16:56.560><c> you</c><00:16:56.800><c> possibly</c>
+cases in a user's life as you possibly
+cases in a user's life as you possibly
+can,<00:16:57.519><c> as</c><00:16:57.759><c> quickly</c><00:16:58.079><c> as</c><00:16:58.240><c> you</c><00:16:58.399><c> can.</c><00:16:58.560><c> I</c><00:16:58.800><c> think</c>
+can, as quickly as you can. I think
+can, as quickly as you can. I think
+that's<00:16:59.120><c> the</c><00:16:59.360><c> cleanest</c><00:16:59.839><c> explanation</c><00:17:00.560><c> I</c><00:17:00.880><c> can</c>
+that's the cleanest explanation I can
+that's the cleanest explanation I can
+see<00:17:01.279><c> of</c><00:17:01.519><c> the</c><00:17:01.680><c> open</c><00:17:01.920><c> AI</c><00:17:02.240><c> strategy.</c><00:17:02.720><c> Meanwhile,</c>
+see of the open AI strategy. Meanwhile,
+see of the open AI strategy. Meanwhile,
+economy<00:17:04.000><c> 2</c><00:17:04.319><c> is</c><00:17:04.559><c> about</c><00:17:04.880><c> managing</c><00:17:05.439><c> complexity.</c>
+economy 2 is about managing complexity.
+economy 2 is about managing complexity.
+This<00:17:06.640><c> is</c><00:17:06.720><c> very</c><00:17:06.959><c> much</c><00:17:07.120><c> a</c><00:17:07.439><c> professional</c><00:17:08.000><c> working</c>
+This is very much a professional working
+This is very much a professional working
+environment,<00:17:08.880><c> right?</c><00:17:09.120><c> If</c><00:17:09.280><c> your</c><00:17:09.439><c> work</c>
+environment, right? If your work
+environment, right? If your work
+involves<00:17:10.240><c> exercising</c><00:17:10.880><c> judgment,</c><00:17:11.439><c> if</c><00:17:11.600><c> it</c>
+involves exercising judgment, if it
+involves exercising judgment, if it
+involves<00:17:12.160><c> production</c><00:17:12.720><c> code</c><00:17:13.120><c> or</c><00:17:13.439><c> legal</c>
+involves production code or legal
+involves production code or legal
+analysis<00:17:14.240><c> or</c><00:17:14.559><c> high</c><00:17:14.799><c> stakes</c><00:17:15.199><c> decisions</c><00:17:15.600><c> or</c>
+analysis or high stakes decisions or
+analysis or high stakes decisions or
+anything<00:17:16.160><c> where</c><00:17:16.559><c> errors</c><00:17:16.799><c> are</c><00:17:16.959><c> expensive,</c><00:17:17.839><c> you</c>
+anything where errors are expensive, you
+anything where errors are expensive, you
+often<00:17:18.319><c> are</c><00:17:18.480><c> living</c><00:17:18.640><c> in</c><00:17:18.880><c> anthropics</c><00:17:19.439><c> world.</c>
+often are living in anthropics world.
+often are living in anthropics world.
+Claude<00:17:20.160><c> doesn't</c><00:17:20.480><c> replace</c><00:17:20.799><c> the</c><00:17:21.039><c> expert,</c><00:17:21.439><c> but</c>
+Claude doesn't replace the expert, but
+Claude doesn't replace the expert, but
+it<00:17:21.839><c> does</c><00:17:22.079><c> amplify,</c><00:17:22.720><c> it</c><00:17:22.880><c> does</c><00:17:23.039><c> augment</c><00:17:23.600><c> them.</c>
+it does amplify, it does augment them.
+it does amplify, it does augment them.
+It<00:17:24.319><c> becomes</c><00:17:24.559><c> a</c><00:17:24.799><c> bicycle</c><00:17:25.360><c> for</c><00:17:25.600><c> the</c><00:17:25.839><c> mind</c><00:17:26.000><c> of</c><00:17:26.240><c> the</c>
+It becomes a bicycle for the mind of the
+It becomes a bicycle for the mind of the
+expert.<00:17:27.120><c> And</c><00:17:27.280><c> so</c><00:17:27.439><c> the</c><00:17:27.679><c> strategic</c><00:17:28.079><c> imperative</c>
+expert. And so the strategic imperative
+expert. And so the strategic imperative
+there<00:17:28.880><c> is</c><00:17:29.120><c> adoption</c><00:17:29.679><c> quality.</c><00:17:30.559><c> How</c><00:17:30.799><c> do</c><00:17:30.880><c> you</c>
+there is adoption quality. How do you
+there is adoption quality. How do you
+learn<00:17:31.280><c> to</c><00:17:31.520><c> collaborate</c><00:17:31.919><c> with</c><00:17:32.160><c> AI</c><00:17:32.559><c> while</c>
+learn to collaborate with AI while
+learn to collaborate with AI while
+enhancing<00:17:33.280><c> and</c><00:17:33.520><c> preserving</c><00:17:33.919><c> your</c><00:17:34.160><c> judgment?</c>
+enhancing and preserving your judgment?
+enhancing and preserving your judgment?
+That's<00:17:34.880><c> a</c><00:17:35.120><c> lot</c><00:17:35.200><c> of</c><00:17:35.280><c> the</c><00:17:35.520><c> secret</c><00:17:35.840><c> sauce</c><00:17:36.160><c> in</c><00:17:36.320><c> the</c>
+That's a lot of the secret sauce in the
+That's a lot of the secret sauce in the
+claude<00:17:36.880><c> experience.</c><00:17:37.760><c> You</c><00:17:37.919><c> see</c><00:17:38.080><c> how</c><00:17:38.240><c> these</c><00:17:38.480><c> are</c>
+claude experience. You see how these are
+claude experience. You see how these are
+very<00:17:38.960><c> different.</c><00:17:39.520><c> It's</c><00:17:39.760><c> not</c><00:17:39.919><c> even</c><00:17:40.160><c> the</c><00:17:40.400><c> same</c>
+very different. It's not even the same
+very different. It's not even the same
+user<00:17:41.120><c> at</c><00:17:41.360><c> this</c><00:17:41.520><c> point.</c><00:17:41.919><c> One</c><00:17:42.160><c> thing</c><00:17:42.240><c> I</c><00:17:42.480><c> will</c>
+user at this point. One thing I will
+user at this point. One thing I will
+call<00:17:42.799><c> out</c><00:17:43.039><c> where</c><00:17:43.360><c> both</c><00:17:43.679><c> companies</c><00:17:44.080><c> are</c>
+call out where both companies are
+call out where both companies are
+playing<00:17:44.559><c> and</c><00:17:44.720><c> I</c><00:17:44.880><c> think</c><00:17:45.120><c> differences</c><00:17:45.600><c> are</c>
+playing and I think differences are
+playing and I think differences are
+misunderstood.<00:17:46.799><c> Codeex</c><00:17:47.280><c> versus</c><00:17:47.679><c> clawed</c>
+misunderstood. Codeex versus clawed
+misunderstood. Codeex versus clawed
+code,<00:17:48.480><c> I</c><00:17:48.720><c> would</c><00:17:48.880><c> argue,</c><00:17:49.520><c> are</c><00:17:49.840><c> also</c><00:17:50.320><c> not</c><00:17:50.640><c> as</c>
+code, I would argue, are also not as
+code, I would argue, are also not as
+directly<00:17:51.520><c> competing</c><00:17:52.000><c> as</c><00:17:52.320><c> people</c><00:17:52.640><c> like</c><00:17:52.880><c> to</c>
+directly competing as people like to
+directly competing as people like to
+think<00:17:53.600><c> because</c><00:17:54.000><c> of</c><00:17:54.160><c> the</c><00:17:54.480><c> focus</c><00:17:54.960><c> of</c><00:17:55.760><c> anthropic</c>
+think because of the focus of anthropic
+think because of the focus of anthropic
+on<00:17:57.120><c> using</c><00:17:57.840><c> code</c><00:17:58.320><c> as</c><00:17:58.559><c> a</c><00:17:58.799><c> tool</c><00:17:59.520><c> that</c><00:17:59.840><c> allows</c><00:18:00.160><c> you</c>
+on using code as a tool that allows you
+on using code as a tool that allows you
+to<00:18:00.480><c> do</c><00:18:00.720><c> anything</c><00:18:01.200><c> across</c><00:18:01.520><c> the</c><00:18:01.840><c> computing</c>
+to do anything across the computing
+to do anything across the computing
+ecosystem.<00:18:03.280><c> Claude</c><00:18:03.679><c> code</c><00:18:04.000><c> has</c><00:18:04.240><c> effectively</c>
+ecosystem. Claude code has effectively
+ecosystem. Claude code has effectively
+become,<00:18:05.200><c> as</c><00:18:05.360><c> I</c><00:18:05.520><c> mentioned</c><00:18:05.840><c> earlier</c><00:18:06.080><c> in</c><00:18:06.320><c> the</c>
+become, as I mentioned earlier in the
+become, as I mentioned earlier in the
+video,<00:18:07.200><c> the</c><00:18:07.520><c> first</c><00:18:08.080><c> generalpurpose</c><00:18:09.120><c> agent.</c>
+video, the first generalpurpose agent.
+video, the first generalpurpose agent.
+At<00:18:10.160><c> the</c><00:18:10.320><c> same</c><00:18:10.559><c> time,</c><00:18:11.200><c> Codeex</c><00:18:11.760><c> has</c><00:18:12.000><c> been</c>
+At the same time, Codeex has been
+At the same time, Codeex has been
+obsessed<00:18:13.120><c> with</c><00:18:13.520><c> code</c><00:18:14.080><c> quality,</c><00:18:14.960><c> especially</c>
+obsessed with code quality, especially
+obsessed with code quality, especially
+at<00:18:16.080><c> scale.</c><00:18:16.720><c> Codeex</c><00:18:17.280><c> is</c><00:18:17.520><c> not</c><00:18:17.679><c> as</c><00:18:17.919><c> fast</c><00:18:18.240><c> at</c><00:18:18.480><c> cloud</c>
+at scale. Codeex is not as fast at cloud
+at scale. Codeex is not as fast at cloud
+code<00:18:19.039><c> at</c><00:18:19.280><c> many</c><00:18:19.520><c> problems,</c><00:18:20.320><c> but</c><00:18:20.640><c> OpenAI</c><00:18:21.360><c> has</c>
+code at many problems, but OpenAI has
+code at many problems, but OpenAI has
+bet<00:18:22.559><c> through</c><00:18:22.799><c> their</c><00:18:23.120><c> deep</c><00:18:23.440><c> interaction</c><00:18:24.080><c> YC</c>
+bet through their deep interaction YC
+bet through their deep interaction YC
+style<00:18:25.039><c> with</c><00:18:25.200><c> engineers</c><00:18:25.679><c> and</c><00:18:25.840><c> users,</c>
+style with engineers and users,
+style with engineers and users,
+including<00:18:26.640><c> engineers</c><00:18:27.280><c> at</c><00:18:27.360><c> at</c><00:18:27.520><c> OpenAI</c><00:18:28.080><c> who</c><00:18:28.320><c> use</c>
+including engineers at at OpenAI who use
+including engineers at at OpenAI who use
+it<00:18:28.640><c> all</c><00:18:28.720><c> the</c><00:18:28.960><c> time,</c><00:18:29.440><c> that</c><00:18:29.760><c> you</c><00:18:30.080><c> need</c><00:18:30.320><c> to</c><00:18:30.559><c> ship</c>
+it all the time, that you need to ship
+it all the time, that you need to ship
+correct<00:18:31.520><c> code</c><00:18:32.320><c> in</c><00:18:32.640><c> order</c><00:18:32.720><c> to</c><00:18:32.960><c> build</c><00:18:33.280><c> something</c>
+correct code in order to build something
+correct code in order to build something
+useful.<00:18:34.320><c> And</c><00:18:34.480><c> that</c><00:18:34.720><c> if</c><00:18:34.880><c> you</c><00:18:35.120><c> take</c><00:18:35.280><c> a</c><00:18:35.440><c> little</c>
+useful. And that if you take a little
+useful. And that if you take a little
+bit<00:18:35.760><c> longer,</c><00:18:36.080><c> but</c><00:18:36.240><c> you</c><00:18:36.400><c> have</c><00:18:36.480><c> a</c><00:18:36.720><c> higher</c>
+bit longer, but you have a higher
+bit longer, but you have a higher
+confidence<00:18:37.360><c> in</c><00:18:37.600><c> correctness,</c><00:18:38.160><c> it's</c><00:18:38.400><c> going</c><00:18:38.480><c> to</c>
+confidence in correctness, it's going to
+confidence in correctness, it's going to
+be<00:18:38.720><c> worth</c><00:18:38.880><c> it.</c><00:18:39.120><c> And</c><00:18:39.360><c> Codeex</c><00:18:39.919><c> is</c><00:18:40.240><c> renowned</c><00:18:40.880><c> for</c>
+be worth it. And Codeex is renowned for
+be worth it. And Codeex is renowned for
+high<00:18:41.520><c> quality</c><00:18:42.000><c> code</c><00:18:42.240><c> reviews,</c><00:18:42.640><c> for</c><00:18:42.880><c> finding</c>
+high quality code reviews, for finding
+high quality code reviews, for finding
+bugs.<00:18:43.600><c> People</c><00:18:43.840><c> will</c><00:18:44.080><c> still</c><00:18:44.240><c> say,</c><00:18:44.400><c> "Put</c><00:18:44.720><c> your</c>
+bugs. People will still say, "Put your
+bugs. People will still say, "Put your
+Claude<00:18:45.200><c> Code</c><00:18:45.520><c> code</c><00:18:46.000><c> into</c><00:18:46.320><c> Codeex</c><00:18:46.799><c> for</c><00:18:47.039><c> a</c>
+Claude Code code into Codeex for a
+Claude Code code into Codeex for a
+review<00:18:47.679><c> and</c><00:18:47.919><c> you'll</c><00:18:48.160><c> benefit."</c><00:18:48.880><c> And</c><00:18:49.039><c> what</c><00:18:49.200><c> I</c>
+review and you'll benefit." And what I
+review and you'll benefit." And what I
+see<00:18:49.520><c> is</c><00:18:49.679><c> a</c><00:18:49.840><c> just</c><00:18:50.080><c> strikingly</c><00:18:50.720><c> different</c>
+see is a just strikingly different
+see is a just strikingly different
+vision<00:18:51.600><c> of</c><00:18:51.840><c> where</c><00:18:52.080><c> engineers</c><00:18:52.559><c> are</c><00:18:52.720><c> going</c><00:18:52.799><c> to</c>
+vision of where engineers are going to
+vision of where engineers are going to
+be<00:18:53.039><c> spending</c><00:18:53.280><c> their</c><00:18:53.520><c> time.</c><00:18:53.840><c> Are</c><00:18:54.000><c> you</c><00:18:54.160><c> going</c><00:18:54.240><c> to</c>
+be spending their time. Are you going to
+be spending their time. Are you going to
+be<00:18:54.480><c> spending</c><00:18:54.720><c> your</c><00:18:54.960><c> time</c><00:18:55.520><c> planning</c><00:18:56.240><c> really</c>
+be spending your time planning really
+be spending your time planning really
+carefully<00:18:57.039><c> and</c><00:18:57.200><c> then</c><00:18:57.440><c> thoughtfully</c><00:18:58.000><c> giving</c><00:18:58.240><c> a</c>
+carefully and then thoughtfully giving a
+carefully and then thoughtfully giving a
+problem<00:18:58.640><c> to</c><00:18:58.799><c> codeex</c><00:18:59.280><c> to</c><00:18:59.360><c> chew</c><00:18:59.600><c> on?</c><00:19:00.160><c> or</c><00:19:00.400><c> are</c><00:19:00.640><c> you</c>
+problem to codeex to chew on? or are you
+problem to codeex to chew on? or are you
+going<00:19:00.880><c> to</c><00:19:01.039><c> be</c><00:19:01.200><c> more</c><00:19:01.360><c> iterative</c><00:19:02.080><c> and</c><00:19:02.400><c> give</c><00:19:02.720><c> work</c>
+going to be more iterative and give work
+going to be more iterative and give work
+to<00:19:03.200><c> Claude</c><00:19:03.600><c> code</c><00:19:04.160><c> or</c><00:19:04.400><c> maybe</c><00:19:04.640><c> even</c><00:19:04.880><c> have</c><00:19:05.120><c> Claude</c>
+to Claude code or maybe even have Claude
+to Claude code or maybe even have Claude
+code<00:19:05.760><c> interview</c><00:19:06.160><c> you</c><00:19:06.559><c> discover</c><00:19:06.960><c> the</c>
+code interview you discover the
+code interview you discover the
+parameters<00:19:07.679><c> of</c><00:19:07.840><c> the</c><00:19:08.080><c> work</c><00:19:08.559><c> and</c><00:19:08.799><c> then</c><00:19:09.360><c> focus</c>
+parameters of the work and then focus
+parameters of the work and then focus
+your<00:19:10.080><c> agent</c><00:19:10.400><c> on</c><00:19:10.640><c> the</c><00:19:10.799><c> agreed</c><00:19:11.200><c> direction.</c>
+your agent on the agreed direction.
+your agent on the agreed direction.
+These<00:19:12.160><c> are</c><00:19:12.320><c> different</c><00:19:12.640><c> visions</c><00:19:12.960><c> for</c><00:19:13.200><c> how</c><00:19:13.360><c> we</c>
+These are different visions for how we
+These are different visions for how we
+allocate<00:19:14.000><c> our</c><00:19:14.240><c> time</c><00:19:14.480><c> in</c><00:19:14.720><c> the</c><00:19:14.880><c> future</c><00:19:15.440><c> and</c><00:19:15.600><c> I</c>
+allocate our time in the future and I
+allocate our time in the future and I
+think<00:19:15.840><c> that</c><00:19:16.080><c> code</c><00:19:16.400><c> is</c><00:19:16.640><c> becoming</c><00:19:17.039><c> one</c><00:19:17.200><c> of</c><00:19:17.280><c> the</c>
+think that code is becoming one of the
+think that code is becoming one of the
+first<00:19:17.840><c> places</c><00:19:18.640><c> where</c><00:19:19.360><c> we</c><00:19:19.760><c> see</c><00:19:20.160><c> the</c><00:19:20.480><c> direct</c>
+first places where we see the direct
+first places where we see the direct
+impact<00:19:21.360><c> on</c><00:19:21.679><c> our</c><00:19:21.919><c> time</c><00:19:22.160><c> and</c><00:19:22.400><c> our</c><00:19:22.640><c> work</c><00:19:23.200><c> from</c>
+impact on our time and our work from
+impact on our time and our work from
+these<00:19:24.080><c> divergent</c><00:19:24.720><c> companies</c><00:19:25.120><c> and</c><00:19:25.360><c> company</c>
+these divergent companies and company
+these divergent companies and company
+strategies.<00:19:26.480><c> In</c><00:19:26.720><c> 2026,</c><00:19:27.520><c> I</c><00:19:27.760><c> would</c><00:19:27.919><c> love</c><00:19:28.080><c> it</c><00:19:28.320><c> if</c>
+strategies. In 2026, I would love it if
+strategies. In 2026, I would love it if
+we<00:19:28.799><c> stopped</c><00:19:29.200><c> asking</c><00:19:29.679><c> which</c><00:19:30.000><c> AI</c><00:19:30.400><c> is</c><00:19:30.640><c> better</c><00:19:31.039><c> and</c>
+we stopped asking which AI is better and
+we stopped asking which AI is better and
+started<00:19:31.679><c> asking</c><00:19:32.400><c> what</c><00:19:32.720><c> work</c><00:19:33.039><c> are</c><00:19:33.200><c> we</c><00:19:33.440><c> doing</c>
+started asking what work are we doing
+started asking what work are we doing
+with<00:19:33.919><c> AI</c><00:19:34.320><c> and</c><00:19:34.559><c> what's</c><00:19:34.880><c> useful.</c><00:19:35.679><c> Stop</c><00:19:35.919><c> being</c><00:19:36.080><c> so</c>
+with AI and what's useful. Stop being so
+with AI and what's useful. Stop being so
+competitive,<00:19:36.880><c> right?</c><00:19:37.360><c> I</c><00:19:37.600><c> think</c><00:19:37.760><c> Sam</c><00:19:38.160><c> built</c>
+competitive, right? I think Sam built
+competitive, right? I think Sam built
+something<00:19:38.640><c> that</c><00:19:38.799><c> I</c><00:19:39.039><c> would</c><00:19:39.120><c> describe</c><00:19:39.440><c> as</c><00:19:39.600><c> an</c>
+something that I would describe as an
+something that I would describe as an
+engine<00:19:40.000><c> of</c><00:19:40.240><c> abundance,</c><00:19:40.799><c> right?</c><00:19:41.120><c> Intelligence</c>
+engine of abundance, right? Intelligence
+engine of abundance, right? Intelligence
+everywhere,<00:19:42.720><c> safety</c><00:19:43.200><c> emerging</c><00:19:43.679><c> from</c>
+everywhere, safety emerging from
+everywhere, safety emerging from
+deployment,<00:19:44.480><c> millions</c><00:19:44.880><c> of</c><00:19:45.120><c> users</c><00:19:45.840><c> who</c><00:19:46.080><c> are</c>
+deployment, millions of users who are
+deployment, millions of users who are
+using<00:19:46.559><c> the</c><00:19:46.799><c> product</c><00:19:46.960><c> and</c><00:19:47.280><c> giving</c><00:19:47.600><c> useful</c>
+using the product and giving useful
+using the product and giving useful
+feedback<00:19:49.200><c> on</c><00:19:49.520><c> a</c><00:19:49.840><c> daily</c><00:19:50.160><c> basis.</c><00:19:50.880><c> And</c><00:19:51.360><c> all</c><00:19:51.520><c> of</c>
+feedback on a daily basis. And all of
+feedback on a daily basis. And all of
+that<00:19:51.919><c> YC</c><00:19:52.480><c> training</c><00:19:52.720><c> and</c><00:19:52.960><c> launch</c><00:19:53.280><c> instincts</c>
+that YC training and launch instincts
+that YC training and launch instincts
+are<00:19:54.000><c> leading</c><00:19:54.240><c> to</c><00:19:54.400><c> chat</c><00:19:54.799><c> GPT</c><00:19:55.360><c> becoming</c><00:19:55.919><c> a</c><00:19:56.240><c> super</c>
+are leading to chat GPT becoming a super
+are leading to chat GPT becoming a super
+app<00:19:57.280><c> for</c><00:19:57.919><c> hundreds</c><00:19:58.320><c> of</c><00:19:58.480><c> millions</c><00:19:58.880><c> of</c><00:19:59.039><c> people.</c>
+app for hundreds of millions of people.
+app for hundreds of millions of people.
+Daario<00:20:00.240><c> built</c><00:20:00.640><c> a</c><00:20:01.120><c> precise</c><00:20:01.679><c> lever</c><00:20:02.080><c> for</c>
+Daario built a precise lever for
+Daario built a precise lever for
+judgment.<00:20:03.200><c> It's</c><00:20:03.440><c> like</c><00:20:03.600><c> the</c><00:20:03.840><c> intelligence</c><00:20:04.480><c> is</c>
+judgment. It's like the intelligence is
+judgment. It's like the intelligence is
+deep<00:20:05.120><c> before</c><00:20:05.440><c> it</c><00:20:05.679><c> became</c><00:20:06.080><c> broad.</c><00:20:06.799><c> And</c><00:20:07.039><c> he</c><00:20:07.200><c> is</c>
+deep before it became broad. And he is
+deep before it became broad. And he is
+focused<00:20:08.000><c> on</c><00:20:08.400><c> bending</c><00:20:08.880><c> the</c><00:20:09.120><c> arc</c><00:20:09.360><c> of</c><00:20:09.520><c> the</c>
+focused on bending the arc of the
+focused on bending the arc of the
+artificial<00:20:10.240><c> intelligence</c><00:20:10.880><c> universe</c><00:20:11.520><c> towards</c>
+artificial intelligence universe towards
+artificial intelligence universe towards
+systems<00:20:12.320><c> that</c><00:20:12.559><c> have</c><00:20:12.640><c> a</c><00:20:12.880><c> deep</c><00:20:13.200><c> coherence</c>
+systems that have a deep coherence
+systems that have a deep coherence
+within<00:20:14.160><c> themselves.</c><00:20:14.720><c> systems</c><00:20:15.039><c> that</c><00:20:15.280><c> have</c>
+within themselves. systems that have
+within themselves. systems that have
+integrity,<00:20:16.000><c> systems</c><00:20:16.480><c> that</c><00:20:16.720><c> have</c><00:20:17.039><c> structure,</c>
+integrity, systems that have structure,
+integrity, systems that have structure,
+and<00:20:18.320><c> yes,</c><00:20:18.559><c> an</c><00:20:18.799><c> AI</c><00:20:19.200><c> that</c><00:20:19.360><c> has</c><00:20:19.520><c> a</c><00:20:19.760><c> moral</c><00:20:20.080><c> core.</c>
+and yes, an AI that has a moral core.
+and yes, an AI that has a moral core.
+And<00:20:20.960><c> so</c><00:20:21.520><c> everything</c><00:20:22.080><c> he's</c><00:20:22.559><c> done</c><00:20:23.280><c> has</c><00:20:23.600><c> led</c><00:20:23.919><c> to</c>
+And so everything he's done has led to
+And so everything he's done has led to
+Claude<00:20:24.640><c> becoming</c><00:20:25.120><c> the</c><00:20:25.360><c> operating</c><00:20:25.919><c> system</c><00:20:26.240><c> for</c>
+Claude becoming the operating system for
+Claude becoming the operating system for
+very<00:20:26.960><c> high</c><00:20:27.280><c> stakes</c><00:20:27.679><c> work,</c><00:20:28.159><c> not</c><00:20:28.320><c> just</c><00:20:28.559><c> coding</c>
+very high stakes work, not just coding
+very high stakes work, not just coding
+work,<00:20:29.120><c> but</c><00:20:29.360><c> knowledge</c><00:20:29.679><c> work</c><00:20:29.840><c> in</c><00:20:30.080><c> general,</c>
+work, but knowledge work in general,
+work, but knowledge work in general,
+legal<00:20:30.559><c> work</c><00:20:30.799><c> comes</c><00:20:31.039><c> to</c><00:20:31.200><c> mind.</c><00:20:31.600><c> Work</c><00:20:31.760><c> that</c>
+legal work comes to mind. Work that
+legal work comes to mind. Work that
+involves<00:20:32.480><c> creating</c><00:20:32.880><c> board</c><00:20:33.200><c> decks,</c><00:20:33.600><c> anything</c>
+involves creating board decks, anything
+involves creating board decks, anything
+that<00:20:34.000><c> has</c><00:20:34.159><c> to</c><00:20:34.320><c> be</c><00:20:34.400><c> precise</c><00:20:34.880><c> and</c><00:20:35.120><c> correct.</c><00:20:35.840><c> Now,</c>
+that has to be precise and correct. Now,
+that has to be precise and correct. Now,
+both<00:20:36.400><c> believe</c><00:20:36.720><c> AI</c><00:20:37.039><c> can</c><00:20:37.280><c> be</c><00:20:37.360><c> transformative.</c>
+both believe AI can be transformative.
+both believe AI can be transformative.
+both<00:20:38.720><c> believe</c><00:20:39.120><c> safety</c><00:20:39.520><c> matters.</c><00:20:40.159><c> But</c><00:20:40.320><c> these</c>
+both believe safety matters. But these
+both believe safety matters. But these
+fundamentally<00:20:41.360><c> different</c><00:20:41.679><c> approaches</c><00:20:42.240><c> to</c>
+fundamentally different approaches to
+fundamentally different approaches to
+how<00:20:42.720><c> they</c><00:20:43.039><c> think</c><00:20:43.360><c> about</c><00:20:43.760><c> artificial</c>
+how they think about artificial
+how they think about artificial
+intelligence,<00:20:44.960><c> how</c><00:20:45.120><c> you</c><00:20:45.360><c> achieve</c><00:20:45.679><c> safety</c><00:20:46.000><c> in</c>
+intelligence, how you achieve safety in
+intelligence, how you achieve safety in
+the<00:20:46.320><c> world,</c><00:20:46.559><c> how</c><00:20:46.799><c> you</c><00:20:46.960><c> should</c><00:20:47.120><c> operate</c><00:20:47.440><c> a</c>
+the world, how you should operate a
+the world, how you should operate a
+company<00:20:47.919><c> that</c><00:20:48.159><c> is</c><00:20:48.400><c> launching</c><00:20:48.799><c> high</c>
+company that is launching high
+company that is launching high
+consequence<00:20:49.919><c> intelligence,</c><00:20:50.880><c> how</c><00:20:51.039><c> you</c>
+consequence intelligence, how you
+consequence intelligence, how you
+balance<00:20:51.679><c> speed</c><00:20:51.919><c> and</c><00:20:52.159><c> caution.</c><00:20:52.880><c> These</c><00:20:53.120><c> are</c>
+balance speed and caution. These are
+balance speed and caution. These are
+shaping<00:20:53.760><c> our</c><00:20:54.080><c> whole</c><00:20:54.320><c> world.</c><00:20:54.880><c> I</c><00:20:55.120><c> think</c><00:20:55.280><c> the</c>
+shaping our whole world. I think the
+shaping our whole world. I think the
+general<00:20:55.919><c> intelligence</c><00:20:56.559><c> race</c><00:20:57.120><c> is</c><00:20:57.440><c> something</c>
+general intelligence race is something
+general intelligence race is something
+that<00:20:57.919><c> the</c><00:20:58.240><c> press</c><00:20:58.559><c> likes</c><00:20:58.880><c> to</c><00:20:59.039><c> talk</c><00:20:59.280><c> about,</c><00:20:59.840><c> but</c>
+that the press likes to talk about, but
+that the press likes to talk about, but
+more<00:21:00.480><c> and</c><00:21:00.640><c> more</c><00:21:00.880><c> these</c><00:21:01.280><c> days,</c><00:21:01.600><c> I</c><00:21:01.840><c> think</c><00:21:01.919><c> it's</c>
+more and more these days, I think it's
+more and more these days, I think it's
+an<00:21:02.320><c> unhelpful</c><00:21:03.039><c> characterization.</c><00:21:04.159><c> The</c><00:21:04.400><c> same</c>
+an unhelpful characterization. The same
+an unhelpful characterization. The same
+thing<00:21:04.720><c> happened</c><00:21:04.960><c> with</c><00:21:05.200><c> the</c><00:21:05.360><c> automobile</c>
+thing happened with the automobile
+thing happened with the automobile
+market.<00:21:06.559><c> We</c><00:21:06.880><c> talked</c><00:21:07.200><c> about</c><00:21:07.440><c> which</c><00:21:07.760><c> car</c><00:21:08.080><c> was</c>
+market. We talked about which car was
+market. We talked about which car was
+best<00:21:08.799><c> when</c><00:21:09.120><c> cars</c><00:21:09.600><c> were</c><00:21:09.840><c> first</c><00:21:10.400><c> launched.</c><00:21:11.280><c> We</c>
+best when cars were first launched. We
+best when cars were first launched. We
+talked<00:21:11.760><c> about</c><00:21:12.000><c> whether</c><00:21:12.480><c> Apple</c><00:21:12.799><c> and</c><00:21:13.120><c> Windows</c>
+talked about whether Apple and Windows
+talked about whether Apple and Windows
+were<00:21:13.919><c> best</c><00:21:14.240><c> when</c><00:21:14.559><c> Apple</c><00:21:14.880><c> and</c><00:21:15.039><c> Windows</c><00:21:15.520><c> were</c><00:21:15.919><c> in</c>
+were best when Apple and Windows were in
+were best when Apple and Windows were in
+a<00:21:16.400><c> war</c><00:21:16.559><c> in</c><00:21:16.720><c> the</c><00:21:16.799><c> '90s.</c><00:21:17.200><c> But</c><00:21:17.360><c> as</c><00:21:17.600><c> we</c><00:21:17.840><c> grew</c><00:21:18.159><c> up,</c><00:21:18.559><c> as</c>
+a war in the '90s. But as we grew up, as
+a war in the '90s. But as we grew up, as
+the<00:21:19.039><c> market</c><00:21:19.440><c> matured,</c><00:21:20.320><c> which</c><00:21:20.559><c> is</c><00:21:20.799><c> best</c><00:21:21.280><c> became</c>
+the market matured, which is best became
+the market matured, which is best became
+meaningless<00:21:22.320><c> because</c><00:21:22.559><c> the</c><00:21:22.880><c> products</c>
+meaningless because the products
+meaningless because the products
+differentiated<00:21:24.000><c> to</c><00:21:24.240><c> serve</c><00:21:24.480><c> different</c><00:21:24.799><c> needs.</c>
+differentiated to serve different needs.
+differentiated to serve different needs.
+We<00:21:25.760><c> are</c><00:21:26.080><c> getting</c><00:21:26.320><c> there</c><00:21:26.640><c> faster</c><00:21:27.039><c> with</c><00:21:27.200><c> AI</c>
+We are getting there faster with AI
+We are getting there faster with AI
+because<00:21:27.919><c> everything</c><00:21:28.240><c> is</c><00:21:28.480><c> faster</c><00:21:28.799><c> with</c><00:21:28.960><c> AI.</c><00:21:29.600><c> If</c>
+because everything is faster with AI. If
+because everything is faster with AI. If
+you<00:21:30.080><c> are</c><00:21:30.320><c> into</c><00:21:30.720><c> a</c><00:21:30.960><c> world</c><00:21:31.520><c> where</c><00:21:31.840><c> you</c><00:21:32.159><c> need</c><00:21:32.400><c> to</c>
+you are into a world where you need to
+you are into a world where you need to
+touch<00:21:33.679><c> everything</c><00:21:34.080><c> and</c><00:21:34.320><c> have</c><00:21:34.480><c> the</c><00:21:34.640><c> whole</c>
+touch everything and have the whole
+touch everything and have the whole
+ecosystem<00:21:35.520><c> make</c><00:21:35.760><c> sense</c><00:21:36.000><c> and</c><00:21:36.240><c> talk</c><00:21:36.400><c> to</c><00:21:36.559><c> itself</c>
+ecosystem make sense and talk to itself
+ecosystem make sense and talk to itself
+and<00:21:37.200><c> generate</c><00:21:37.520><c> a</c><00:21:37.760><c> lot</c><00:21:37.919><c> a</c><00:21:38.080><c> lot</c><00:21:38.240><c> a</c><00:21:38.400><c> lot</c><00:21:38.720><c> across</c>
+and generate a lot a lot a lot across
+and generate a lot a lot a lot across
+many<00:21:39.360><c> different</c><00:21:39.600><c> media</c><00:21:39.919><c> and</c><00:21:40.080><c> forms,</c><00:21:40.720><c> you're</c>
+many different media and forms, you're
+many different media and forms, you're
+probably<00:21:41.280><c> in</c><00:21:41.520><c> Sam</c><00:21:41.760><c> Alman's</c><00:21:42.240><c> world.</c><00:21:42.720><c> If</c><00:21:42.880><c> you're</c>
+probably in Sam Alman's world. If you're
+probably in Sam Alman's world. If you're
+in<00:21:43.120><c> a</c><00:21:43.280><c> world</c><00:21:43.440><c> where</c><00:21:43.600><c> you're</c><00:21:43.840><c> managing</c>
+in a world where you're managing
+in a world where you're managing
+complexity<00:21:44.799><c> and</c><00:21:44.960><c> it's</c><00:21:45.200><c> very</c><00:21:45.360><c> high</c><00:21:45.520><c> judgment</c>
+complexity and it's very high judgment
+complexity and it's very high judgment
+and<00:21:46.080><c> you</c><00:21:46.159><c> have</c><00:21:46.240><c> to</c><00:21:46.400><c> amplify</c><00:21:46.960><c> your</c><00:21:47.200><c> thinking,</c>
+and you have to amplify your thinking,
+and you have to amplify your thinking,
+you're<00:21:47.840><c> often</c><00:21:48.159><c> in</c><00:21:48.320><c> Daario's</c><00:21:48.880><c> world.</c><00:21:49.440><c> And</c><00:21:49.760><c> I</c>
+you're often in Daario's world. And I
+you're often in Daario's world. And I
+know<00:21:50.240><c> that</c><00:21:50.559><c> many</c><00:21:50.799><c> of</c><00:21:50.960><c> us</c><00:21:51.120><c> are</c><00:21:51.280><c> in</c><00:21:51.520><c> both.</c><00:21:51.919><c> And</c>
+know that many of us are in both. And
+know that many of us are in both. And
+that's<00:21:52.320><c> why</c><00:21:52.480><c> I</c><00:21:52.720><c> keep</c><00:21:52.960><c> emphasizing</c><00:21:53.919><c> I</c><00:21:54.320><c> don't</c>
+that's why I keep emphasizing I don't
+that's why I keep emphasizing I don't
+think<00:21:55.200><c> there's</c><00:21:55.520><c> only</c><00:21:55.760><c> one</c><00:21:56.000><c> winner</c><00:21:56.400><c> here.</c><00:21:56.880><c> But</c>
+think there's only one winner here. But
+think there's only one winner here. But
+I<00:21:57.200><c> think</c><00:21:57.280><c> it's</c><00:21:57.600><c> worth</c><00:21:58.080><c> understanding</c><00:21:58.720><c> the</c>
+I think it's worth understanding the
+I think it's worth understanding the
+different<00:21:59.520><c> philosophies</c><00:22:00.720><c> because</c><00:22:00.960><c> they're</c>
+different philosophies because they're
+different philosophies because they're
+going<00:22:01.440><c> to</c><00:22:01.600><c> shape</c><00:22:01.919><c> the</c><00:22:02.159><c> kinds</c><00:22:02.320><c> of</c><00:22:02.559><c> products</c><00:22:02.880><c> we</c>
+going to shape the kinds of products we
+going to shape the kinds of products we
+get.<00:22:03.760><c> You</c><00:22:04.000><c> should</c><00:22:04.240><c> not</c><00:22:04.559><c> expect</c><00:22:05.520><c> Claude</c><00:22:06.000><c> to</c>
+get. You should not expect Claude to
+get. You should not expect Claude to
+come<00:22:06.320><c> out</c><00:22:06.480><c> with</c><00:22:06.640><c> an</c><00:22:06.799><c> image</c><00:22:07.039><c> generator</c><00:22:07.520><c> very</c>
+come out with an image generator very
+come out with an image generator very
+soon.<00:22:08.320><c> You</c><00:22:08.559><c> should</c><00:22:08.720><c> not</c><00:22:08.960><c> expect</c><00:22:09.200><c> a</c><00:22:09.440><c> video</c>
+soon. You should not expect a video
+soon. You should not expect a video
+generator.<00:22:10.640><c> Claude</c><00:22:11.039><c> is</c><00:22:11.200><c> a</c><00:22:11.360><c> focused</c><00:22:11.840><c> company.</c>
+generator. Claude is a focused company.
+generator. Claude is a focused company.
+Claude<00:22:12.640><c> is</c><00:22:12.880><c> going</c><00:22:12.960><c> to</c><00:22:13.200><c> keep</c><00:22:13.679><c> shipping</c>
+Claude is going to keep shipping
+Claude is going to keep shipping
+extraordinarily<00:22:15.440><c> extraordinary</c><00:22:16.159><c> tool</c>
+extraordinarily extraordinary tool
+extraordinarily extraordinary tool
+calling<00:22:16.960><c> agents.</c><00:22:17.600><c> On</c><00:22:17.840><c> the</c><00:22:18.000><c> other</c><00:22:18.159><c> hand,</c><00:22:18.640><c> you</c>
+calling agents. On the other hand, you
+calling agents. On the other hand, you
+should<00:22:18.960><c> expect</c><00:22:19.280><c> OpenAI</c><00:22:19.919><c> to</c><00:22:20.080><c> keep</c>
+should expect OpenAI to keep
+should expect OpenAI to keep
+experimenting<00:22:21.280><c> aggressively.</c><00:22:22.000><c> I</c><00:22:22.320><c> expect</c><00:22:22.640><c> an</c>
+experimenting aggressively. I expect an
+experimenting aggressively. I expect an
+OpenAI<00:22:23.760><c> produced</c><00:22:24.320><c> film</c><00:22:24.960><c> to</c><00:22:25.280><c> be</c><00:22:25.440><c> in</c><00:22:25.760><c> the</c><00:22:26.000><c> race</c>
+OpenAI produced film to be in the race
+OpenAI produced film to be in the race
+for<00:22:27.280><c> an</c><00:22:27.600><c> animation</c><00:22:28.159><c> award</c><00:22:28.640><c> in</c><00:22:28.880><c> the</c><00:22:29.039><c> next</c>
+for an animation award in the next
+for an animation award in the next
+couple<00:22:29.440><c> of</c><00:22:29.679><c> years.</c><00:22:30.000><c> They</c><00:22:30.240><c> are</c><00:22:30.400><c> going</c><00:22:30.480><c> to</c><00:22:30.640><c> keep</c>
+couple of years. They are going to keep
+couple of years. They are going to keep
+pushing<00:22:31.200><c> the</c><00:22:31.440><c> boundaries</c><00:22:31.840><c> wherever</c><00:22:32.159><c> they</c><00:22:32.400><c> can</c>
+pushing the boundaries wherever they can
+pushing the boundaries wherever they can
+find<00:22:32.720><c> them</c><00:22:33.360><c> because</c><00:22:33.679><c> that</c><00:22:33.919><c> is</c><00:22:34.080><c> what</c><00:22:34.240><c> they</c><00:22:34.480><c> do</c>
+find them because that is what they do
+find them because that is what they do
+as<00:22:34.720><c> a</c><00:22:34.880><c> company.</c><00:22:35.120><c> They</c><00:22:35.360><c> try</c><00:22:35.440><c> and</c><00:22:35.600><c> experiment.</c>
+as a company. They try and experiment.
+as a company. They try and experiment.
+They<00:22:36.320><c> try</c><00:22:36.400><c> and</c><00:22:36.640><c> drive.</c><00:22:36.960><c> They</c><00:22:37.039><c> try</c><00:22:37.200><c> and</c><00:22:37.360><c> get</c>
+They try and drive. They try and get
+They try and drive. They try and get
+feedback<00:22:38.000><c> rapidly</c><00:22:38.480><c> and</c><00:22:38.720><c> they</c><00:22:38.880><c> try</c><00:22:38.960><c> and</c>
+feedback rapidly and they try and
+feedback rapidly and they try and
+evolve.<00:22:39.600><c> You</c><00:22:39.760><c> should</c><00:22:39.840><c> expect</c><00:22:40.080><c> the</c><00:22:40.320><c> same</c><00:22:40.480><c> thing</c>
+evolve. You should expect the same thing
+evolve. You should expect the same thing
+as<00:22:40.799><c> they</c><00:22:40.960><c> play</c><00:22:41.120><c> in</c><00:22:41.280><c> the</c><00:22:41.440><c> education</c><00:22:41.919><c> space,</c><00:22:42.559><c> uh</c>
+as they play in the education space, uh
+as they play in the education space, uh
+the<00:22:42.799><c> same</c><00:22:42.960><c> thing</c><00:22:43.039><c> in</c><00:22:43.280><c> the</c><00:22:43.440><c> health</c><00:22:43.679><c> space.</c><00:22:44.320><c> and</c>
+the same thing in the health space. and
+the same thing in the health space. and
+they're<00:22:44.720><c> just</c><00:22:44.880><c> going</c><00:22:45.039><c> to</c><00:22:45.120><c> keep</c><00:22:45.360><c> shipping</c>
+they're just going to keep shipping
+they're just going to keep shipping
+because<00:22:46.400><c> effectively</c><00:22:46.960><c> they're</c><00:22:47.200><c> the</c><00:22:47.360><c> Y</c>
+because effectively they're the Y
+because effectively they're the Y
+combinator<00:22:48.159><c> of</c><00:22:48.240><c> AI.</c><00:22:48.799><c> I</c><00:22:48.960><c> hope</c><00:22:49.120><c> this</c><00:22:49.360><c> video</c><00:22:49.600><c> has</c>
+combinator of AI. I hope this video has
+combinator of AI. I hope this video has
+given<00:22:50.080><c> you</c><00:22:50.240><c> a</c><00:22:50.400><c> sense</c><00:22:50.640><c> of</c><00:22:50.799><c> how</c><00:22:50.960><c> the</c><00:22:51.200><c> leadership</c>
+given you a sense of how the leadership
+given you a sense of how the leadership
+at<00:22:51.840><c> these</c><00:22:52.080><c> two</c><00:22:52.320><c> companies</c><00:22:52.720><c> is</c><00:22:53.039><c> shaping</c><00:22:53.360><c> the</c>
+at these two companies is shaping the
+at these two companies is shaping the
+culture,<00:22:54.080><c> the</c><00:22:54.240><c> strategy,</c><00:22:54.799><c> and</c><00:22:55.120><c> ultimately</c>
+culture, the strategy, and ultimately
+culture, the strategy, and ultimately
+the<00:22:55.679><c> AI</c><00:22:56.080><c> that</c><00:22:56.559><c> more</c><00:22:56.720><c> than</c><00:22:56.880><c> a</c><00:22:57.039><c> billion</c><00:22:57.360><c> of</c><00:22:57.440><c> us</c>
+the AI that more than a billion of us
+the AI that more than a billion of us
+are<00:22:57.840><c> already</c><00:22:58.080><c> touching</c><00:22:58.400><c> every</c><00:22:58.720><c> day.</c><00:22:59.200><c> I</c><00:22:59.440><c> think</c>
+are already touching every day. I think
+are already touching every day. I think
+it's<00:22:59.840><c> worth</c><00:23:00.080><c> understanding</c><00:23:00.559><c> the</c>
+it's worth understanding the
+it's worth understanding the
+differences,<00:23:01.280><c> and</c><00:23:01.440><c> I</c><00:23:01.520><c> think</c><00:23:01.600><c> it's</c><00:23:01.840><c> worth</c>
+differences, and I think it's worth
+differences, and I think it's worth
+understanding<00:23:02.480><c> how</c><00:23:02.720><c> those</c><00:23:03.039><c> differences</c>
+understanding how those differences
+understanding how those differences
+shape<00:23:04.159><c> what</c><00:23:04.400><c> we</c><00:23:04.559><c> can</c><00:23:04.799><c> expect</c><00:23:05.039><c> in</c><00:23:05.280><c> the</c><00:23:05.440><c> next</c>
+shape what we can expect in the next
+shape what we can expect in the next
+year.<00:23:05.919><c> I'm</c><00:23:06.240><c> curious</c><00:23:06.880><c> which</c><00:23:07.039><c> do</c><00:23:07.200><c> you</c><00:23:07.360><c> lean</c>
+year. I'm curious which do you lean
+year. I'm curious which do you lean
+toward<00:23:07.840><c> open</c><00:23:08.080><c> AI</c><00:23:08.480><c> or</c><00:23:08.960><c> or</c><00:23:09.280><c> anthropic?</c>

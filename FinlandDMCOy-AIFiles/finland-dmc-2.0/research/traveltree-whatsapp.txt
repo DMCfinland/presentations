@@ -1,0 +1,14 @@
+Hi! We've been using Travel Tree at Finland DMC since 2022 and are considering upgrading to Pro.
+
+Before we do, a few quick questions about the API:
+
+1. Can we create itineraries via API and get back a shareable link?
+2. Can we read/export our component library (1000+ items) as JSON or CSV?
+3. Can we add/update components via API?
+4. Can pricing be set via API?
+5. Do you have webhooks — e.g. notify us when a client views an itinerary?
+6. Can the TT builder be embedded in another web app via iframe?
+
+We're building some internal tools and would love to keep Travel Tree as the itinerary layer rather than build around it.
+
+Patrick Heiskanen · Finland DMC Oy

@@ -1,0 +1,47 @@
+ACCEPTANCE CRITERIA — Mistral Large Best Practices Guide
+
+C1: PROMPTING PATTERNS
+The document must describe at least 5 distinct, named prompting patterns specific to
+Mistral Large (e.g., "Role-lock pattern", "Chain-of-custody pattern"). Generic advice
+applicable to any LLM ("be specific", "give examples") does not count. Each pattern must
+include: a name, a description of what it solves, and at least one concrete example prompt
+or prompt snippet.
+
+C2: PARAMETER GUIDANCE
+The document must include specific numeric parameter recommendations for at least 3 different
+use case types (e.g., factual extraction, creative generation, code production). Must cover
+temperature with specific values/ranges. Must identify at least one parameter combination to
+avoid with a concrete explanation of the failure it causes.
+
+C3: STRUCTURED OUTPUT AND FUNCTION CALLING
+The document must cover Mistral's JSON mode and/or function/tool calling with a concrete
+invocation example (code snippet or API call structure). Must state when to use structured
+output vs free-form, and include at least one known failure mode of structured output with a
+mitigation strategy. "Use JSON mode when you need JSON" does not count as a concrete example.
+
+C4: FAILURE MODES
+The document must identify at least 3 named failure modes specific to Mistral Large behavior
+(not generic LLM hallucination warnings). For each failure mode: (a) describe the condition
+under which it occurs, (b) provide a concrete mitigation strategy or prompt-level fix.
+
+C5: MODEL SELECTION GUIDANCE
+The document must address when to choose Mistral Large over at least 2 alternatives
+(e.g., Mistral Small, Mistral Nemo, Claude Sonnet, GPT-4o) for at least 3 specific task
+types. Reasoning must be task-specific — not just "Mistral Large is better for complex tasks."
+
+C6: SYSTEM PROMPT STRUCTURE
+The document must provide a concrete system prompt template or structural pattern for
+Mistral Large. Must note at least one way Mistral Large handles system prompts differently
+from other major models (e.g., instruction following quirks, role adherence behavior).
+A generic "write a clear system prompt" instruction does not satisfy this criterion.
+
+C7: CONTEXT WINDOW OPTIMIZATION
+The document must address how to use Mistral Large's long context window effectively.
+Must include at least one concrete strategy for: document ordering, context budget
+management, or retrieval/chunking for long-context tasks. Must state the context window
+size as a reference anchor.
+
+C8: ACTIONABLE FORMAT
+Every major section (minimum 5 sections) must contain at least one copy-paste-ready
+artifact: a prompt snippet, a code block, an API call pattern, or a configuration
+example. Description-only sections with no concrete artifact fail this criterion.

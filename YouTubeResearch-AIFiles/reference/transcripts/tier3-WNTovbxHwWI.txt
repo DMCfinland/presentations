@@ -1,0 +1,613 @@
+Claude<00:00:00.560><c> 4</c><00:00:00.800><c> is</c><00:00:00.960><c> out</c><00:00:01.120><c> and</c><00:00:01.360><c> I</c><00:00:01.600><c> want</c><00:00:01.680><c> to</c><00:00:01.839><c> talk</c><00:00:02.080><c> about</c>
+Claude 4 is out and I want to talk about
+Claude 4 is out and I want to talk about
+it.<00:00:02.960><c> I</c><00:00:03.360><c> got</c><00:00:03.520><c> early</c><00:00:03.840><c> access,</c><00:00:04.400><c> specifically</c><00:00:04.880><c> I</c>
+it. I got early access, specifically I
+it. I got early access, specifically I
+got<00:00:05.120><c> early</c><00:00:05.440><c> access</c><00:00:05.680><c> to</c><00:00:05.920><c> Opus.</c><00:00:06.480><c> It's</c><00:00:06.640><c> a</c>
+got early access to Opus. It's a
+got early access to Opus. It's a
+phenomenal<00:00:07.279><c> model</c><00:00:07.600><c> and</c><00:00:07.759><c> I</c><00:00:07.919><c> want</c><00:00:08.080><c> to</c><00:00:08.160><c> tell</c><00:00:08.240><c> you</c>
+phenomenal model and I want to tell you
+phenomenal model and I want to tell you
+about<00:00:08.639><c> it,</c><00:00:09.040><c> but</c><00:00:09.280><c> it's</c><00:00:09.519><c> really</c><00:00:09.760><c> easy</c><00:00:09.920><c> to</c><00:00:10.160><c> say</c>
+about it, but it's really easy to say
+about it, but it's really easy to say
+it's<00:00:10.559><c> a</c><00:00:10.800><c> phenomenal</c><00:00:11.360><c> model.</c><00:00:11.920><c> I</c><00:00:12.160><c> want</c><00:00:12.240><c> to</c><00:00:12.400><c> give</c>
+it's a phenomenal model. I want to give
+it's a phenomenal model. I want to give
+you<00:00:12.639><c> some</c><00:00:12.880><c> meaningful</c><00:00:13.440><c> differences</c><00:00:13.840><c> that</c><00:00:14.080><c> I'm</c>
+you some meaningful differences that I'm
+you some meaningful differences that I'm
+observing<00:00:14.799><c> and</c><00:00:15.120><c> reflecting</c><00:00:15.519><c> on</c><00:00:15.920><c> versus</c>
+observing and reflecting on versus
+observing and reflecting on versus
+particularly<00:00:16.960><c> Chat</c><00:00:17.359><c> GPTO3</c><00:00:18.240><c> and</c><00:00:18.400><c> Gemini</c><00:00:18.960><c> 2.5</c>
+particularly Chat GPTO3 and Gemini 2.5
+particularly Chat GPTO3 and Gemini 2.5
+Pro.<00:00:20.400><c> Those</c><00:00:20.560><c> are</c><00:00:20.720><c> the</c><00:00:20.880><c> other</c><00:00:21.119><c> models</c><00:00:21.359><c> that</c><00:00:21.600><c> I</c>
+Pro. Those are the other models that I
+Pro. Those are the other models that I
+think<00:00:21.840><c> are</c><00:00:21.920><c> in</c><00:00:22.080><c> a</c><00:00:22.240><c> similar</c><00:00:22.760><c> class.</c><00:00:23.840><c> In</c><00:00:24.080><c> this</c>
+think are in a similar class. In this
+think are in a similar class. In this
+situation,<00:00:25.039><c> the</c><00:00:25.279><c> places</c><00:00:25.680><c> where</c><00:00:25.920><c> I</c><00:00:26.160><c> think</c>
+situation, the places where I think
+situation, the places where I think
+Claude<00:00:26.800><c> 4</c><00:00:27.039><c> really</c><00:00:27.359><c> shines</c><00:00:27.760><c> are</c><00:00:28.000><c> at</c><00:00:28.240><c> coding</c><00:00:29.119><c> and</c>
+Claude 4 really shines are at coding and
+Claude 4 really shines are at coding and
+at<00:00:30.880><c> working</c><00:00:31.279><c> within</c><00:00:31.760><c> the</c><00:00:32.000><c> integration</c>
+at working within the integration
+at working within the integration
+environment<00:00:33.360><c> that</c><00:00:33.680><c> Claude</c><00:00:34.160><c> sets</c><00:00:34.480><c> up</c><00:00:34.800><c> in</c><00:00:35.120><c> the</c>
+environment that Claude sets up in the
+environment that Claude sets up in the
+chat<00:00:35.640><c> itself.</c><00:00:36.640><c> I</c><00:00:37.040><c> know</c><00:00:37.280><c> that</c><00:00:37.520><c> it</c><00:00:37.760><c> is</c>
+chat itself. I know that it is
+chat itself. I know that it is
+relatively<00:00:38.480><c> easy</c><00:00:38.800><c> for</c><00:00:39.040><c> people</c><00:00:39.280><c> with</c><00:00:39.520><c> a</c><00:00:39.840><c> coding</c>
+relatively easy for people with a coding
+relatively easy for people with a coding
+background<00:00:41.440><c> to</c><00:00:42.399><c> build</c><00:00:42.960><c> in</c><00:00:43.680><c> fully</c>
+background to build in fully
+background to build in fully
+integrated<00:00:45.760><c> LLM</c><00:00:46.399><c> applications</c><00:00:47.120><c> now</c><00:00:47.360><c> that</c><00:00:47.680><c> can</c>
+integrated LLM applications now that can
+integrated LLM applications now that can
+do<00:00:48.079><c> things</c><00:00:48.399><c> like</c><00:00:48.800><c> search</c><00:00:49.120><c> your</c><00:00:49.360><c> email</c><00:00:49.680><c> or</c>
+do things like search your email or
+do things like search your email or
+handle<00:00:50.239><c> your</c><00:00:50.480><c> calendar.</c><00:00:51.559><c> But</c><00:00:52.559><c> if</c><00:00:52.879><c> you</c><00:00:53.280><c> are</c>
+handle your calendar. But if you are
+handle your calendar. But if you are
+someone<00:00:54.160><c> who</c><00:00:54.480><c> doesn't</c><00:00:54.879><c> know</c><00:00:55.039><c> how</c><00:00:55.199><c> to</c><00:00:55.280><c> do</c><00:00:55.440><c> that</c>
+someone who doesn't know how to do that
+someone who doesn't know how to do that
+or<00:00:55.840><c> has</c><00:00:56.079><c> never</c><00:00:56.320><c> worked</c><00:00:56.640><c> with</c><00:00:56.800><c> code</c><00:00:57.399><c> before,</c><00:00:58.399><c> it</c>
+or has never worked with code before, it
+or has never worked with code before, it
+is<00:00:58.800><c> an</c><00:00:59.039><c> absolute</c><00:01:00.120><c> breakthrough</c><00:01:01.120><c> to</c><00:01:01.359><c> have</c><00:01:01.520><c> a</c>
+is an absolute breakthrough to have a
+is an absolute breakthrough to have a
+model<00:01:02.079><c> that</c><00:01:02.320><c> is</c><00:01:02.480><c> not</c><00:01:02.719><c> only</c><00:01:02.960><c> integrated</c>
+model that is not only integrated
+model that is not only integrated
+natively<00:01:04.159><c> with</c><00:01:04.479><c> Gmail</c><00:01:04.960><c> and</c><00:01:05.320><c> Gcal,</c><00:01:06.320><c> but</c><00:01:06.640><c> which</c>
+natively with Gmail and Gcal, but which
+natively with Gmail and Gcal, but which
+also<00:01:07.360><c> is</c><00:01:07.600><c> able</c><00:01:07.920><c> to</c><00:01:08.320><c> operate</c><00:01:08.960><c> against</c><00:01:09.439><c> them</c>
+also is able to operate against them
+also is able to operate against them
+successfully<00:01:10.640><c> at</c><00:01:10.880><c> very</c><00:01:11.280><c> complex</c><00:01:11.760><c> tasks.</c>
+successfully at very complex tasks.
+successfully at very complex tasks.
+This<00:01:13.760><c> was</c><00:01:13.920><c> something</c><00:01:14.159><c> I</c><00:01:14.479><c> actually</c><00:01:14.799><c> called</c><00:01:15.040><c> out</c>
+This was something I actually called out
+This was something I actually called out
+uh<00:01:15.920><c> when</c><00:01:16.159><c> Cloud</c><00:01:16.560><c> 3.7</c><00:01:17.280><c> came</c><00:01:17.520><c> out</c><00:01:17.840><c> and</c><00:01:18.240><c> Gcal</c><00:01:18.960><c> and</c>
+uh when Cloud 3.7 came out and Gcal and
+uh when Cloud 3.7 came out and Gcal and
+Gmail<00:01:19.680><c> were</c><00:01:20.040><c> integrated.</c><00:01:21.040><c> I</c><00:01:21.840><c> really</c><00:01:22.240><c> really</c>
+Gmail were integrated. I really really
+Gmail were integrated. I really really
+tried<00:01:24.320><c> to</c><00:01:25.200><c> make</c><00:01:25.680><c> that</c><00:01:26.159><c> integration</c><00:01:26.880><c> work</c><00:01:27.119><c> for</c>
+tried to make that integration work for
+tried to make that integration work for
+me.<00:01:27.600><c> I</c><00:01:27.840><c> wanted</c><00:01:28.080><c> to</c><00:01:28.320><c> build</c><00:01:28.479><c> a</c><00:01:28.720><c> custom</c><00:01:29.119><c> dashboard</c>
+me. I wanted to build a custom dashboard
+me. I wanted to build a custom dashboard
+for<00:01:30.000><c> my</c><00:01:30.240><c> next</c><00:01:30.479><c> day.</c><00:01:30.799><c> I</c><00:01:31.040><c> wanted</c><00:01:31.280><c> to</c><00:01:31.600><c> sort</c><00:01:31.840><c> of</c>
+for my next day. I wanted to sort of
+for my next day. I wanted to sort of
+show<00:01:32.400><c> like</c><00:01:32.720><c> what</c><00:01:32.960><c> are</c><00:01:33.040><c> my</c><00:01:33.280><c> calendar</c>
+show like what are my calendar
+show like what are my calendar
+conflicts?<00:01:34.799><c> Where</c><00:01:35.040><c> do</c><00:01:35.119><c> I</c><00:01:35.280><c> have</c><00:01:35.439><c> email</c>
+conflicts? Where do I have email
+conflicts? Where do I have email
+insights<00:01:36.159><c> that</c><00:01:36.400><c> feed</c><00:01:36.640><c> into</c><00:01:36.799><c> the</c><00:01:37.040><c> calendar?</c><00:01:37.360><c> I</c>
+insights that feed into the calendar? I
+insights that feed into the calendar? I
+had<00:01:37.680><c> all</c><00:01:37.759><c> these</c><00:01:38.360><c> dreams.</c><00:01:39.360><c> None</c><00:01:39.600><c> of</c><00:01:39.759><c> that</c>
+had all these dreams. None of that
+had all these dreams. None of that
+worked<00:01:40.240><c> with</c><00:01:40.479><c> Sonnet</c><00:01:40.960><c> 3.7.</c><00:01:41.920><c> It</c><00:01:42.240><c> just</c><00:01:42.479><c> wasn't</c>
+worked with Sonnet 3.7. It just wasn't
+worked with Sonnet 3.7. It just wasn't
+good<00:01:42.960><c> enough.</c><00:01:43.759><c> It</c><00:01:44.000><c> was</c><00:01:44.159><c> short</c><00:01:44.400><c> on</c><00:01:44.799><c> searching</c>
+good enough. It was short on searching
+good enough. It was short on searching
+the<00:01:45.439><c> email</c><00:01:45.680><c> and</c><00:01:45.920><c> calendar</c><00:01:46.320><c> in</c><00:01:46.560><c> particular.</c><00:01:47.119><c> I</c>
+the email and calendar in particular. I
+the email and calendar in particular. I
+got<00:01:47.520><c> the</c><00:01:47.680><c> sense</c><00:01:47.920><c> it</c><00:01:48.159><c> wasn't</c><00:01:48.399><c> necessarily</c>
+got the sense it wasn't necessarily
+got the sense it wasn't necessarily
+intelligence.<00:01:49.680><c> I</c><00:01:49.840><c> got</c><00:01:50.000><c> the</c><00:01:50.159><c> sense</c><00:01:50.320><c> it</c><00:01:50.560><c> was</c><00:01:51.040><c> a</c>
+intelligence. I got the sense it was a
+intelligence. I got the sense it was a
+lot<00:01:51.280><c> of</c><00:01:51.439><c> it</c><00:01:51.600><c> was</c><00:01:51.759><c> just</c><00:01:51.920><c> like</c><00:01:52.240><c> they</c><00:01:52.720><c> just</c><00:01:52.880><c> didn't</c>
+lot of it was just like they just didn't
+lot of it was just like they just didn't
+have<00:01:53.200><c> the</c><00:01:53.360><c> tokens</c><00:01:53.759><c> to</c><00:01:53.920><c> push</c><00:01:54.159><c> through</c><00:01:54.320><c> and</c>
+have the tokens to push through and
+have the tokens to push through and
+call.<00:01:55.759><c> That's</c><00:01:56.159><c> been</c><00:01:56.399><c> resolved</c><00:01:56.960><c> now.</c><00:01:57.439><c> I</c><00:01:57.759><c> had</c>
+call. That's been resolved now. I had
+call. That's been resolved now. I had
+the<00:01:58.320><c> same</c><00:01:58.719><c> challenge</c><00:01:59.200><c> for</c><00:01:59.520><c> Claude</c><00:01:59.920><c> 4</c><00:02:00.320><c> because</c>
+the same challenge for Claude 4 because
+the same challenge for Claude 4 because
+why<00:02:00.880><c> not</c><00:02:01.040><c> be</c><00:02:01.399><c> consistent?</c><00:02:02.399><c> And</c><00:02:02.640><c> Claude</c><00:02:03.040><c> 4</c><00:02:03.280><c> came</c>
+why not be consistent? And Claude 4 came
+why not be consistent? And Claude 4 came
+through<00:02:03.759><c> and</c><00:02:03.920><c> it</c><00:02:04.159><c> built</c><00:02:04.399><c> in</c><00:02:04.719><c> one</c><00:02:04.960><c> shot</c><00:02:05.439><c> exactly</c>
+through and it built in one shot exactly
+through and it built in one shot exactly
+what<00:02:06.159><c> I</c><00:02:06.399><c> wanted</c><00:02:06.880><c> and</c><00:02:07.280><c> more.</c><00:02:07.680><c> It</c><00:02:08.000><c> was</c><00:02:08.080><c> able</c><00:02:08.319><c> to</c>
+what I wanted and more. It was able to
+what I wanted and more. It was able to
+identify<00:02:09.039><c> strategic</c><00:02:09.599><c> issues</c><00:02:10.399><c> stemming</c><00:02:10.800><c> from</c>
+identify strategic issues stemming from
+identify strategic issues stemming from
+email<00:02:11.440><c> and</c><00:02:11.680><c> calendar</c><00:02:12.480><c> that</c><00:02:12.800><c> I</c><00:02:13.040><c> needed</c><00:02:13.280><c> to</c><00:02:13.520><c> pay</c>
+email and calendar that I needed to pay
+email and calendar that I needed to pay
+attention
+attention
+attention
+to<00:02:15.680><c> that</c><00:02:16.480><c> might</c><00:02:16.720><c> not</c><00:02:16.879><c> have</c><00:02:17.040><c> been</c><00:02:17.280><c> flagged</c><00:02:17.599><c> in</c>
+to that might not have been flagged in
+to that might not have been flagged in
+my<00:02:18.080><c> brain</c><00:02:18.400><c> otherwise.</c><00:02:19.360><c> It</c><00:02:19.760><c> identified</c>
+my brain otherwise. It identified
+my brain otherwise. It identified
+calendar<00:02:20.720><c> conflicts.</c><00:02:21.200><c> It</c><00:02:21.360><c> was</c><00:02:21.440><c> able</c><00:02:21.599><c> to</c><00:02:21.760><c> color</c>
+calendar conflicts. It was able to color
+calendar conflicts. It was able to color
+code<00:02:22.319><c> meetings</c><00:02:22.640><c> on</c><00:02:22.800><c> its</c><00:02:22.959><c> own.</c><00:02:23.200><c> This</c><00:02:23.360><c> one's</c>
+code meetings on its own. This one's
+code meetings on its own. This one's
+critical,<00:02:24.200><c> right?</c><00:02:25.200><c> It</c><00:02:25.520><c> did</c><00:02:25.680><c> all</c><00:02:25.920><c> of</c><00:02:26.000><c> that</c><00:02:26.160><c> and</c>
+critical, right? It did all of that and
+critical, right? It did all of that and
+produced<00:02:26.720><c> a</c><00:02:26.879><c> fully</c><00:02:27.200><c> functioning</c><00:02:27.680><c> app</c><00:02:27.840><c> in</c>
+produced a fully functioning app in
+produced a fully functioning app in
+about<00:02:28.640><c> 180</c><00:02:29.160><c> seconds.</c><00:02:30.160><c> It</c><00:02:30.319><c> was</c><00:02:30.480><c> really</c>
+about 180 seconds. It was really
+about 180 seconds. It was really
+impressive.<00:02:31.200><c> And</c><00:02:31.360><c> then</c><00:02:31.520><c> it</c><00:02:31.680><c> went</c><00:02:31.760><c> through</c><00:02:31.920><c> and</c>
+impressive. And then it went through and
+impressive. And then it went through and
+did<00:02:32.239><c> a</c><00:02:32.400><c> very</c><00:02:32.560><c> complex</c><00:02:32.959><c> email</c><00:02:33.280><c> analysis</c><00:02:33.840><c> task</c>
+did a very complex email analysis task
+did a very complex email analysis task
+for<00:02:34.480><c> me.</c><00:02:35.200><c> And</c><00:02:35.440><c> so</c><00:02:35.840><c> I</c><00:02:36.160><c> don't</c><00:02:36.319><c> want</c><00:02:36.480><c> to</c><00:02:36.640><c> underell</c>
+for me. And so I don't want to underell
+for me. And so I don't want to underell
+that.<00:02:37.440><c> I</c><00:02:37.599><c> think</c><00:02:37.760><c> people</c><00:02:38.000><c> look</c><00:02:38.160><c> at</c><00:02:38.239><c> it</c><00:02:38.319><c> and</c><00:02:38.480><c> they</c>
+that. I think people look at it and they
+that. I think people look at it and they
+say,<00:02:38.720><c> "Well,</c><00:02:39.040><c> technically</c><00:02:39.680><c> you</c><00:02:40.000><c> can</c><00:02:40.239><c> do</c><00:02:40.640><c> Gmail</c>
+say, "Well, technically you can do Gmail
+say, "Well, technically you can do Gmail
+and<00:02:41.360><c> calendar</c><00:02:41.760><c> integration</c><00:02:42.239><c> with</c><00:02:42.560><c> other</c>
+and calendar integration with other
+and calendar integration with other
+tools<00:02:43.440><c> for</c><00:02:44.080><c> Chad</c><00:02:44.480><c> GPT</c><00:02:45.200><c> or</c><00:02:45.440><c> for</c><00:02:45.680><c> Gemini."</c><00:02:46.400><c> That</c>
+tools for Chad GPT or for Gemini." That
+tools for Chad GPT or for Gemini." That
+is<00:02:46.720><c> all</c><00:02:47.040><c> true,</c><00:02:48.000><c> but</c><00:02:48.400><c> having</c><00:02:48.879><c> a</c><00:02:49.560><c> cuttingedge</c>
+is all true, but having a cuttingedge
+is all true, but having a cuttingedge
+reasoning<00:02:51.120><c> model</c><00:02:51.440><c> like</c><00:02:51.680><c> this</c><00:02:51.920><c> with</c><00:02:52.239><c> native</c>
+reasoning model like this with native
+reasoning model like this with native
+one-click<00:02:53.760><c> slide</c><00:02:54.080><c> the</c><00:02:54.319><c> toggle</c><00:02:54.800><c> integration</c>
+one-click slide the toggle integration
+one-click slide the toggle integration
+is<00:02:55.680><c> a</c><00:02:55.920><c> really</c><00:02:56.160><c> big</c><00:02:56.519><c> deal.</c><00:02:57.519><c> It</c><00:02:57.840><c> is</c><00:02:58.000><c> something</c>
+is a really big deal. It is something
+is a really big deal. It is something
+that<00:02:58.480><c> is</c><00:02:58.720><c> going</c><00:02:58.959><c> to</c><00:02:59.120><c> be</c><00:02:59.440><c> really</c><00:02:59.840><c> really</c><00:03:00.160><c> worth</c>
+that is going to be really really worth
+that is going to be really really worth
+it<00:03:00.560><c> to</c><00:03:00.800><c> me</c><00:03:01.360><c> because</c><00:03:01.760><c> literally</c><00:03:02.159><c> I</c><00:03:02.480><c> have</c><00:03:02.640><c> daily</c>
+it to me because literally I have daily
+it to me because literally I have daily
+application<00:03:03.680><c> for</c><00:03:03.920><c> it.</c>
+application for it.
+application for it.
+I<00:03:05.519><c> just</c><00:03:05.680><c> need</c><00:03:05.840><c> to</c><00:03:06.000><c> build</c><00:03:06.239><c> the</c><00:03:06.480><c> briefing</c><00:03:06.879><c> for</c>
+I just need to build the briefing for
+I just need to build the briefing for
+tomorrow.<00:03:07.599><c> Right?</c><00:03:07.840><c> It</c><00:03:08.000><c> becomes</c><00:03:08.319><c> something</c>
+tomorrow. Right? It becomes something
+tomorrow. Right? It becomes something
+that<00:03:08.720><c> is</c><00:03:08.959><c> much</c><00:03:09.200><c> closer</c><00:03:09.519><c> to</c><00:03:09.760><c> a</c><00:03:09.920><c> personal</c>
+that is much closer to a personal
+that is much closer to a personal
+assistant.<00:03:11.599><c> And</c><00:03:11.760><c> this</c><00:03:11.920><c> is</c><00:03:12.080><c> where</c><00:03:12.239><c> some</c><00:03:12.480><c> of</c>
+assistant. And this is where some of
+assistant. And this is where some of
+those<00:03:12.720><c> differences</c><00:03:13.200><c> start</c><00:03:13.440><c> to</c><00:03:13.640><c> emerge.</c><00:03:14.640><c> If</c>
+those differences start to emerge. If
+those differences start to emerge. If
+Claude<00:03:15.599><c> is</c><00:03:15.840><c> framed</c><00:03:16.239><c> as</c><00:03:16.400><c> a</c><00:03:16.640><c> personal</c>
+Claude is framed as a personal
+Claude is framed as a personal
+assistant,<00:03:18.480><c> 03</c><00:03:19.040><c> is</c><00:03:19.280><c> powerful</c><00:03:19.840><c> because</c><00:03:20.159><c> of</c><00:03:20.319><c> the</c>
+assistant, 03 is powerful because of the
+assistant, 03 is powerful because of the
+memory<00:03:21.040><c> feature,</c><00:03:21.519><c> which</c><00:03:21.760><c> is</c><00:03:21.920><c> also</c><00:03:22.080><c> a</c><00:03:22.319><c> personal</c>
+memory feature, which is also a personal
+memory feature, which is also a personal
+thing,<00:03:23.200><c> but</c><00:03:23.440><c> a</c><00:03:23.680><c> different</c><00:03:23.920><c> kind</c><00:03:24.080><c> of</c><00:03:24.239><c> personal</c>
+thing, but a different kind of personal
+thing, but a different kind of personal
+thing.<00:03:25.120><c> I</c><00:03:25.440><c> really</c><00:03:25.760><c> enjoy</c><00:03:26.080><c> that</c><00:03:26.319><c> chat</c><00:03:26.640><c> GPT</c><00:03:27.280><c> has</c>
+thing. I really enjoy that chat GPT has
+thing. I really enjoy that chat GPT has
+memory.<00:03:27.920><c> I</c><00:03:28.080><c> know</c><00:03:28.239><c> people</c><00:03:28.400><c> have</c><00:03:28.560><c> very</c><00:03:28.800><c> mixed</c>
+memory. I know people have very mixed
+memory. I know people have very mixed
+feelings<00:03:29.360><c> about</c><00:03:29.519><c> this,</c><00:03:29.760><c> but</c><00:03:30.000><c> I</c><00:03:30.239><c> find</c><00:03:30.400><c> it</c>
+feelings about this, but I find it
+feelings about this, but I find it
+really<00:03:30.799><c> useful.</c><00:03:31.519><c> I</c><00:03:31.840><c> can</c><00:03:32.000><c> refer</c><00:03:32.239><c> back</c><00:03:32.400><c> to</c>
+really useful. I can refer back to
+really useful. I can refer back to
+previous<00:03:33.120><c> conversations.</c><00:03:33.840><c> Even</c><00:03:34.080><c> if</c><00:03:34.239><c> it's</c><00:03:34.400><c> not</c>
+previous conversations. Even if it's not
+previous conversations. Even if it's not
+perfect,<00:03:34.879><c> it's</c><00:03:35.120><c> very</c><00:03:35.360><c> helpful.</c><00:03:36.159><c> I</c><00:03:36.400><c> also</c><00:03:36.560><c> find</c>
+perfect, it's very helpful. I also find
+perfect, it's very helpful. I also find
+that<00:03:36.959><c> 03</c><00:03:37.440><c> is</c><00:03:37.680><c> extremely</c><00:03:38.239><c> rigorous</c><00:03:38.720><c> and</c>
+that 03 is extremely rigorous and
+that 03 is extremely rigorous and
+logical,<00:03:40.239><c> and</c><00:03:40.640><c> I</c><00:03:40.959><c> appreciate</c><00:03:41.440><c> that</c><00:03:41.680><c> for</c>
+logical, and I appreciate that for
+logical, and I appreciate that for
+certain<00:03:42.200><c> tasks.</c><00:03:43.200><c> It</c><00:03:43.440><c> helps</c><00:03:43.760><c> me</c><00:03:44.000><c> to</c><00:03:44.159><c> think</c>
+certain tasks. It helps me to think
+certain tasks. It helps me to think
+through<00:03:44.640><c> complex</c><00:03:45.120><c> ideas</c><00:03:45.440><c> in</c><00:03:45.680><c> a</c><00:03:45.840><c> way</c><00:03:45.920><c> that</c>
+through complex ideas in a way that
+through complex ideas in a way that
+other<00:03:46.400><c> models</c><00:03:46.720><c> don't</c><00:03:47.040><c> right</c><00:03:47.280><c> now.</c><00:03:48.239><c> Gemini</c><00:03:48.799><c> 2.5</c>
+other models don't right now. Gemini 2.5
+other models don't right now. Gemini 2.5
+Pro,<00:03:50.239><c> the</c><00:03:50.480><c> large</c><00:03:51.040><c> context</c><00:03:51.519><c> window</c><00:03:51.840><c> is</c>
+Pro, the large context window is
+Pro, the large context window is
+helpful.<00:03:52.480><c> I</c><00:03:52.720><c> appreciate</c><00:03:53.120><c> that</c><00:03:53.360><c> the</c><00:03:53.599><c> team</c>
+helpful. I appreciate that the team
+helpful. I appreciate that the team
+there<00:03:54.000><c> is</c><00:03:54.239><c> shipping</c><00:03:54.640><c> quickly.</c><00:03:55.040><c> I</c><00:03:55.280><c> think</c><00:03:55.440><c> they</c>
+there is shipping quickly. I think they
+there is shipping quickly. I think they
+just<00:03:55.840><c> launched</c><00:03:56.480><c> uh</c><00:03:56.640><c> another</c><00:03:56.959><c> deep</c><00:03:57.280><c> research</c>
+just launched uh another deep research
+just launched uh another deep research
+product<00:03:58.000><c> in</c><00:03:58.239><c> their</c><00:03:58.400><c> AI</c><00:03:58.799><c> ultra</c><00:03:59.200><c> package</c>
+product in their AI ultra package
+product in their AI ultra package
+yesterday<00:04:00.560><c> or</c><00:04:00.720><c> the</c><00:04:00.879><c> day</c><00:04:01.040><c> before.</c><00:04:01.360><c> I</c><00:04:01.519><c> lose</c>
+yesterday or the day before. I lose
+yesterday or the day before. I lose
+track.<00:04:02.080><c> It's</c><00:04:02.239><c> all</c><00:04:02.400><c> evolving</c><00:04:02.879><c> so</c><00:04:03.120><c> fast.</c><00:04:04.080><c> Um</c><00:04:04.640><c> and</c>
+track. It's all evolving so fast. Um and
+track. It's all evolving so fast. Um and
+it's<00:04:05.120><c> very</c><00:04:05.280><c> good</c><00:04:05.360><c> at</c><00:04:05.959><c> coding.</c><00:04:06.959><c> It's</c><00:04:07.200><c> also</c><00:04:07.519><c> good</c>
+it's very good at coding. It's also good
+it's very good at coding. It's also good
+at<00:04:07.840><c> sort</c><00:04:08.000><c> of</c><00:04:08.159><c> thinking</c><00:04:08.400><c> through</c><00:04:08.640><c> larger</c>
+at sort of thinking through larger
+at sort of thinking through larger
+context<00:04:09.439><c> windows</c><00:04:09.760><c> and</c><00:04:10.000><c> really</c><00:04:10.239><c> understanding</c>
+context windows and really understanding
+context windows and really understanding
+what's<00:04:10.959><c> going</c><00:04:11.120><c> on.</c><00:04:12.319><c> And</c><00:04:12.640><c> so</c><00:04:13.439><c> when</c><00:04:13.760><c> I</c><00:04:13.920><c> look</c><00:04:14.000><c> at</c>
+what's going on. And so when I look at
+what's going on. And so when I look at
+this<00:04:14.400><c> model</c><00:04:14.720><c> suite</c><00:04:15.160><c> overall</c><00:04:16.160><c> right</c><00:04:16.479><c> now,</c><00:04:16.880><c> if</c><00:04:17.120><c> I</c>
+this model suite overall right now, if I
+this model suite overall right now, if I
+had<00:04:17.519><c> to</c><00:04:18.040><c> pick</c><00:04:19.040><c> bundles</c><00:04:19.519><c> that</c><00:04:19.840><c> I</c><00:04:20.000><c> would</c><00:04:20.160><c> be</c>
+had to pick bundles that I would be
+had to pick bundles that I would be
+willing<00:04:20.639><c> to</c><00:04:20.799><c> pay</c><00:04:21.040><c> for,</c><00:04:22.000><c> I</c><00:04:22.240><c> think</c><00:04:22.639><c> Chat</c><00:04:22.960><c> GPT</c>
+willing to pay for, I think Chat GPT
+willing to pay for, I think Chat GPT
+Pro,<00:04:23.759><c> the</c><00:04:24.000><c> memory</c><00:04:24.400><c> feature</c><00:04:24.880><c> and</c><00:04:25.040><c> everyday</c>
+Pro, the memory feature and everyday
+Pro, the memory feature and everyday
+model<00:04:25.680><c> I</c><00:04:25.840><c> would</c><00:04:26.000><c> reach</c><00:04:26.240><c> for</c><00:04:26.560><c> makes</c><00:04:26.800><c> a</c><00:04:26.960><c> ton</c><00:04:27.120><c> of</c>
+model I would reach for makes a ton of
+model I would reach for makes a ton of
+sense.
+sense.
+sense.
+I<00:04:28.880><c> think</c><00:04:29.120><c> Claude</c><00:04:30.080><c> with</c><00:04:30.400><c> this</c><00:04:30.720><c> release</c><00:04:31.199><c> with</c>
+I think Claude with this release with
+I think Claude with this release with
+Claude<00:04:32.000><c> 4</c><00:04:32.720><c> is</c><00:04:33.040><c> making</c><00:04:33.280><c> a</c><00:04:33.600><c> strong</c><00:04:34.199><c> case</c><00:04:35.199><c> as</c><00:04:35.600><c> a</c>
+Claude 4 is making a strong case as a
+Claude 4 is making a strong case as a
+personal<00:04:37.160><c> assistant</c><00:04:38.160><c> with</c><00:04:38.560><c> Claude</c><00:04:39.040><c> 4</c><00:04:39.759><c> uh</c>
+personal assistant with Claude 4 uh
+personal assistant with Claude 4 uh
+accessing<00:04:40.800><c> your</c><00:04:41.040><c> Gmail</c><00:04:41.440><c> and</c><00:04:41.520><c> your</c><00:04:41.680><c> calendar.</c>
+accessing your Gmail and your calendar.
+accessing your Gmail and your calendar.
+There's<00:04:42.320><c> a</c><00:04:42.479><c> lot</c><00:04:42.639><c> you</c><00:04:42.880><c> can</c><00:04:43.040><c> do</c><00:04:43.120><c> there</c><00:04:43.360><c> and</c>
+There's a lot you can do there and
+There's a lot you can do there and
+actually<00:04:44.080><c> it</c><00:04:44.240><c> would</c><00:04:44.400><c> be</c><00:04:44.560><c> much</c><00:04:44.800><c> more</c><00:04:45.040><c> powerful</c>
+actually it would be much more powerful
+actually it would be much more powerful
+if<00:04:45.680><c> they</c><00:04:45.919><c> would</c><00:04:46.080><c> allow</c><00:04:46.400><c> Claude</c><00:04:46.800><c> to</c><00:04:46.960><c> write</c><00:04:47.280><c> back</c>
+if they would allow Claude to write back
+if they would allow Claude to write back
+and<00:04:47.840><c> I</c><00:04:48.000><c> expect</c><00:04:48.320><c> them</c><00:04:48.560><c> to</c><00:04:48.800><c> do</c><00:04:48.960><c> that</c>
+and I expect them to do that
+and I expect them to do that
+soon.<00:04:51.360><c> But</c><00:04:51.600><c> regardless,</c><00:04:52.080><c> it's</c><00:04:52.320><c> a</c><00:04:52.479><c> strong</c>
+soon. But regardless, it's a strong
+soon. But regardless, it's a strong
+model.<00:04:53.040><c> It's</c><00:04:53.280><c> also</c><00:04:53.440><c> a</c><00:04:53.680><c> good</c><00:04:53.919><c> coding</c><00:04:54.320><c> model</c><00:04:54.560><c> and</c>
+model. It's also a good coding model and
+model. It's also a good coding model and
+I<00:04:54.960><c> don't</c><00:04:55.040><c> want</c><00:04:55.199><c> to</c><00:04:55.280><c> underell</c><00:04:55.759><c> that</c><00:04:55.919><c> here.</c><00:04:56.160><c> I</c>
+I don't want to underell that here. I
+I don't want to underell that here. I
+think<00:04:56.479><c> it's</c><00:04:56.720><c> notable</c><00:04:57.120><c> that</c><00:04:57.360><c> the</c><00:04:57.600><c> anthropic</c>
+think it's notable that the anthropic
+think it's notable that the anthropic
+team<00:04:58.479><c> is</c><00:04:59.040><c> continuing</c><00:04:59.520><c> their</c><00:04:59.840><c> tradition</c><00:05:00.520><c> of</c>
+team is continuing their tradition of
+team is continuing their tradition of
+building<00:05:01.919><c> on</c><00:05:02.400><c> coding</c><00:05:02.880><c> models.</c><00:05:03.759><c> Uh</c><00:05:04.080><c> so</c><00:05:04.320><c> it</c>
+building on coding models. Uh so it
+building on coding models. Uh so it
+launched<00:05:05.040><c> today</c><00:05:05.440><c> in</c><00:05:06.039><c> lovable.dev.</c><00:05:07.039><c> It</c>
+launched today in lovable.dev. It
+launched today in lovable.dev. It
+launched<00:05:07.520><c> in</c><00:05:07.759><c> cursor.</c><00:05:08.479><c> I</c><00:05:08.720><c> don't</c><00:05:08.800><c> think</c><00:05:08.880><c> it's</c>
+launched in cursor. I don't think it's
+launched in cursor. I don't think it's
+out<00:05:09.199><c> in</c><00:05:09.360><c> Windsurf</c><00:05:09.840><c> but</c><00:05:10.000><c> I</c><00:05:10.160><c> think</c><00:05:10.240><c> it</c><00:05:10.400><c> will</c><00:05:10.479><c> be</c>
+out in Windsurf but I think it will be
+out in Windsurf but I think it will be
+soon.<00:05:12.400><c> And</c><00:05:12.560><c> the</c><00:05:12.800><c> point</c>
+soon. And the point
+soon. And the point
+is<00:05:14.479><c> if</c><00:05:14.720><c> you</c><00:05:14.960><c> want</c><00:05:15.039><c> to</c><00:05:15.199><c> do</c><00:05:15.360><c> a</c><00:05:15.600><c> complex</c><00:05:15.919><c> coding</c>
+is if you want to do a complex coding
+is if you want to do a complex coding
+task<00:05:16.560><c> that</c><00:05:16.800><c> requires</c><00:05:17.120><c> a</c><00:05:17.360><c> lot</c><00:05:17.440><c> of</c><00:05:17.520><c> sequential</c>
+task that requires a lot of sequential
+task that requires a lot of sequential
+thinking<00:05:18.720><c> like</c><00:05:19.039><c> multi-step</c><00:05:19.960><c> reasoning,</c>
+thinking like multi-step reasoning,
+thinking like multi-step reasoning,
+Claude<00:05:21.360><c> 4</c><00:05:21.520><c> is</c><00:05:21.680><c> a</c><00:05:21.840><c> great</c><00:05:22.000><c> choice.</c><00:05:22.800><c> It</c><00:05:23.039><c> goes</c>
+Claude 4 is a great choice. It goes
+Claude 4 is a great choice. It goes
+beyond<00:05:23.680><c> just</c><00:05:23.919><c> an</c><00:05:24.160><c> outline</c><00:05:24.560><c> of</c><00:05:24.720><c> thought</c><00:05:25.199><c> and</c>
+beyond just an outline of thought and
+beyond just an outline of thought and
+then<00:05:25.680><c> reasoning</c><00:05:26.160><c> and</c><00:05:26.400><c> then</c><00:05:26.560><c> self-reflection</c>
+then reasoning and then self-reflection
+then reasoning and then self-reflection
+and<00:05:27.520><c> then</c><00:05:27.680><c> results.</c><00:05:28.160><c> I</c><00:05:28.400><c> actually</c><00:05:28.639><c> have</c><00:05:28.880><c> seen</c>
+and then results. I actually have seen
+and then results. I actually have seen
+it<00:05:29.360><c> in</c><00:05:29.680><c> solving</c><00:05:30.160><c> tasks.</c><00:05:31.120><c> Go</c><00:05:31.440><c> step</c><00:05:31.680><c> after</c><00:05:32.080><c> step</c>
+it in solving tasks. Go step after step
+it in solving tasks. Go step after step
+after<00:05:32.639><c> step</c><00:05:33.240><c> consistently.</c><00:05:34.240><c> And</c><00:05:34.479><c> that</c><00:05:34.720><c> shows</c>
+after step consistently. And that shows
+after step consistently. And that shows
+up<00:05:35.120><c> in</c><00:05:35.360><c> the</c><00:05:35.520><c> way</c><00:05:35.680><c> Dario</c><00:05:36.080><c> Amade</c><00:05:36.639><c> talked</c><00:05:36.880><c> about</c>
+up in the way Dario Amade talked about
+up in the way Dario Amade talked about
+the<00:05:37.199><c> model.</c><00:05:37.520><c> Apparently</c><00:05:37.840><c> during</c><00:05:38.160><c> testing</c>
+the model. Apparently during testing
+the model. Apparently during testing
+they<00:05:38.800><c> were</c><00:05:38.960><c> able</c><00:05:39.199><c> to</c><00:05:39.360><c> solve</c><00:05:39.759><c> a</c><00:05:40.080><c> a</c><00:05:40.400><c> coding</c>
+they were able to solve a a coding
+they were able to solve a a coding
+challenge<00:05:41.039><c> that</c><00:05:41.280><c> took</c><00:05:41.520><c> seven</c><00:05:41.840><c> hours</c><00:05:42.080><c> for</c><00:05:42.240><c> the</c>
+challenge that took seven hours for the
+challenge that took seven hours for the
+model<00:05:42.720><c> to</c><00:05:42.880><c> solve</c>
+model to solve
+model to solve
+independently.<00:05:44.639><c> If</c><00:05:44.800><c> that</c><00:05:45.039><c> holds</c><00:05:45.280><c> up,</c><00:05:45.520><c> that's</c>
+independently. If that holds up, that's
+independently. If that holds up, that's
+a<00:05:46.000><c> new</c><00:05:46.240><c> record</c><00:05:46.639><c> for</c><00:05:47.199><c> independent</c><00:05:48.000><c> work</c><00:05:48.240><c> by</c><00:05:48.479><c> an</c>
+a new record for independent work by an
+a new record for independent work by an
+agent.<00:05:49.280><c> 7</c><00:05:49.520><c> hours</c><00:05:49.759><c> is</c><00:05:50.000><c> a</c><00:05:50.160><c> really</c><00:05:50.479><c> long</c><00:05:50.720><c> time</c><00:05:50.880><c> for</c>
+agent. 7 hours is a really long time for
+agent. 7 hours is a really long time for
+an<00:05:51.199><c> AI</c><00:05:51.440><c> agent</c><00:05:52.160><c> to</c><00:05:52.479><c> work</c><00:05:52.840><c> independently.</c><00:05:53.840><c> And</c>
+an AI agent to work independently. And
+an AI agent to work independently. And
+if<00:05:54.960><c> we</c><00:05:55.120><c> are</c><00:05:55.280><c> getting</c><00:05:55.440><c> to</c><00:05:55.600><c> the</c><00:05:55.759><c> point</c><00:05:55.919><c> where</c><00:05:56.080><c> we</c>
+if we are getting to the point where we
+if we are getting to the point where we
+can<00:05:56.400><c> measure</c><00:05:56.720><c> in</c><00:05:57.039><c> longer</c><00:05:57.360><c> chunks</c><00:05:57.680><c> of</c><00:05:57.840><c> hours,</c>
+can measure in longer chunks of hours,
+can measure in longer chunks of hours,
+there's<00:05:58.800><c> a</c><00:05:59.039><c> lot</c><00:05:59.199><c> more</c><00:05:59.520><c> interesting</c><00:06:00.080><c> tasks</c>
+there's a lot more interesting tasks
+there's a lot more interesting tasks
+that<00:06:00.720><c> we</c><00:06:00.880><c> can</c><00:06:00.960><c> give</c><00:06:01.120><c> to</c><00:06:01.280><c> these</c><00:06:01.520><c> models.</c><00:06:02.320><c> And</c>
+that we can give to these models. And
+that we can give to these models. And
+that's<00:06:02.720><c> another</c><00:06:02.960><c> area</c><00:06:03.199><c> where</c><00:06:03.440><c> I</c><00:06:03.600><c> don't</c><00:06:03.759><c> think</c>
+that's another area where I don't think
+that's another area where I don't think
+we've<00:06:04.080><c> begun</c><00:06:04.400><c> to</c><00:06:04.560><c> cr</c><00:06:05.039><c> scratch</c><00:06:05.360><c> the</c><00:06:05.600><c> surface</c><00:06:05.919><c> of</c>
+we've begun to cr scratch the surface of
+we've begun to cr scratch the surface of
+what<00:06:06.240><c> Claude</c><00:06:06.720><c> 4</c><00:06:06.960><c> can</c><00:06:07.120><c> do.</c><00:06:07.280><c> And</c><00:06:07.440><c> I</c><00:06:07.600><c> look</c><00:06:07.759><c> forward</c>
+what Claude 4 can do. And I look forward
+what Claude 4 can do. And I look forward
+to<00:06:08.240><c> seeing</c><00:06:08.400><c> in</c><00:06:08.560><c> the</c><00:06:08.720><c> next</c><00:06:08.880><c> few</c><00:06:09.039><c> days</c><00:06:09.280><c> kind</c><00:06:09.440><c> of</c>
+to seeing in the next few days kind of
+to seeing in the next few days kind of
+how<00:06:09.759><c> that</c><00:06:10.000><c> starts</c><00:06:10.240><c> to</c><00:06:10.400><c> evolve</c><00:06:10.639><c> as</c><00:06:10.880><c> I</c><00:06:11.120><c> play</c><00:06:11.199><c> with</c>
+how that starts to evolve as I play with
+how that starts to evolve as I play with
+it<00:06:11.520><c> more</c><00:06:11.680><c> as</c><00:06:11.919><c> others</c><00:06:12.160><c> play</c><00:06:12.319><c> with</c><00:06:12.479><c> it</c><00:06:12.759><c> more.</c><00:06:13.840><c> And</c>
+it more as others play with it more. And
+it more as others play with it more. And
+so<00:06:14.240><c> for</c><00:06:14.479><c> now,</c><00:06:14.720><c> if</c><00:06:14.960><c> you</c><00:06:15.120><c> take</c><00:06:15.280><c> anything</c><00:06:15.600><c> away</c>
+so for now, if you take anything away
+so for now, if you take anything away
+from<00:06:16.080><c> this,</c><00:06:16.720><c> take</c><00:06:16.960><c> away</c><00:06:17.199><c> the</c><00:06:17.440><c> idea</c><00:06:17.680><c> that</c>
+from this, take away the idea that
+from this, take away the idea that
+Claude<00:06:18.400><c> 4</c><00:06:18.800><c> is</c><00:06:19.440><c> very</c><00:06:19.759><c> very</c><00:06:20.000><c> strong</c><00:06:20.160><c> at</c>
+Claude 4 is very very strong at
+Claude 4 is very very strong at
+autonomous<00:06:21.120><c> multi-step</c><00:06:21.759><c> coding</c><00:06:22.080><c> and</c>
+autonomous multi-step coding and
+autonomous multi-step coding and
+thinking,<00:06:22.560><c> which</c><00:06:22.720><c> I</c><00:06:22.880><c> called</c><00:06:23.120><c> out</c><00:06:23.520><c> and</c><00:06:23.759><c> also</c>
+thinking, which I called out and also
+thinking, which I called out and also
+take<00:06:24.240><c> away</c><00:06:24.479><c> that</c><00:06:24.720><c> product</c><00:06:25.039><c> insight</c><00:06:26.000><c> that</c><00:06:26.240><c> they</c>
+take away that product insight that they
+take away that product insight that they
+are<00:06:26.639><c> choosing</c><00:06:26.960><c> to</c><00:06:27.120><c> release</c><00:06:27.440><c> it</c><00:06:27.680><c> with</c><00:06:28.000><c> a</c><00:06:28.400><c> native</c>
+are choosing to release it with a native
+are choosing to release it with a native
+integration.<00:06:29.680><c> Uh</c><00:06:29.919><c> it</c><00:06:30.160><c> has</c><00:06:30.400><c> web</c><00:06:30.639><c> search,</c><00:06:31.319><c> Gcal,</c>
+integration. Uh it has web search, Gcal,
+integration. Uh it has web search, Gcal,
+Gmail.<00:06:33.520><c> Um</c><00:06:34.240><c> I</c><00:06:34.479><c> think</c><00:06:34.560><c> it</c><00:06:34.720><c> has</c><00:06:34.880><c> G</c><00:06:35.199><c> drive</c>
+Gmail. Um I think it has G drive
+Gmail. Um I think it has G drive
+integration<00:06:35.919><c> so</c><00:06:36.080><c> you</c><00:06:36.160><c> can</c><00:06:36.240><c> search</c><00:06:36.479><c> across</c>
+integration so you can search across
+integration so you can search across
+your<00:06:36.960><c> docs</c><00:06:37.360><c> as</c><00:06:37.800><c> well.</c><00:06:38.800><c> This</c><00:06:38.960><c> is</c><00:06:39.199><c> powerful</c>
+your docs as well. This is powerful
+your docs as well. This is powerful
+stuff.<00:06:40.319><c> This</c><00:06:40.639><c> makes</c><00:06:40.960><c> it</c><00:06:41.280><c> a</c><00:06:42.080><c> strong</c><00:06:42.479><c> reasoning</c>
+stuff. This makes it a strong reasoning
+stuff. This makes it a strong reasoning
+model<00:06:43.280><c> that</c><00:06:43.639><c> is</c><00:06:44.639><c> focused</c><00:06:45.280><c> on</c><00:06:45.520><c> where</c><00:06:45.759><c> we</c><00:06:46.000><c> spend</c>
+model that is focused on where we spend
+model that is focused on where we spend
+a<00:06:46.400><c> lot</c><00:06:46.479><c> of</c><00:06:46.639><c> our</c><00:06:46.800><c> time.</c><00:06:47.039><c> I</c><00:06:47.199><c> think</c><00:06:47.280><c> if</c><00:06:47.520><c> they</c><00:06:47.680><c> added</c>
+a lot of our time. I think if they added
+a lot of our time. I think if they added
+slack,<00:06:48.319><c> it</c><00:06:48.479><c> would</c><00:06:48.560><c> be</c><00:06:48.720><c> even</c><00:06:48.960><c> more</c><00:06:49.120><c> powerful,</c>
+slack, it would be even more powerful,
+slack, it would be even more powerful,
+right?<00:06:52.039><c> But</c><00:06:53.039><c> taking</c><00:06:53.440><c> all</c><00:06:53.600><c> of</c><00:06:53.759><c> that</c><00:06:54.720><c> in</c>
+right? But taking all of that in
+right? But taking all of that in
+stride,<00:06:56.639><c> you</c><00:06:56.960><c> want</c><00:06:57.199><c> to</c><00:06:57.520><c> be</c><00:06:57.680><c> in</c><00:06:57.919><c> a</c><00:06:58.160><c> place</c><00:06:58.960><c> where</c>
+stride, you want to be in a place where
+stride, you want to be in a place where
+you<00:06:59.599><c> can</c><00:06:59.919><c> use</c><00:07:00.240><c> these</c><00:07:00.639><c> reasoning</c><00:07:01.080><c> models</c><00:07:02.080><c> and</c>
+you can use these reasoning models and
+you can use these reasoning models and
+actually<00:07:03.280><c> get</c><00:07:03.680><c> value</c><00:07:04.599><c> back.</c><00:07:05.599><c> And</c><00:07:05.759><c> that's</c><00:07:06.000><c> what</c>
+actually get value back. And that's what
+actually get value back. And that's what
+I<00:07:06.319><c> want</c><00:07:06.400><c> to</c><00:07:06.560><c> call</c><00:07:06.800><c> out.</c><00:07:07.120><c> So</c><00:07:07.440><c> be</c><00:07:07.599><c> really</c><00:07:08.000><c> honest</c>
+I want to call out. So be really honest
+I want to call out. So be really honest
+with<00:07:08.560><c> yourself.</c><00:07:09.759><c> Is</c><00:07:10.000><c> this</c><00:07:10.160><c> an</c><00:07:10.400><c> everyday</c>
+with yourself. Is this an everyday
+with yourself. Is this an everyday
+reasoning<00:07:11.199><c> model</c><00:07:11.440><c> for</c><00:07:11.599><c> you?</c><00:07:11.840><c> Is</c><00:07:12.000><c> this</c><00:07:12.160><c> a</c>
+reasoning model for you? Is this a
+reasoning model for you? Is this a
+special<00:07:12.639><c> occasion</c><00:07:13.120><c> model?</c><00:07:13.440><c> For</c><00:07:13.680><c> me,</c><00:07:13.840><c> I've</c>
+special occasion model? For me, I've
+special occasion model? For me, I've
+been<00:07:14.240><c> pretty</c><00:07:14.479><c> transparent.</c><00:07:15.039><c> I</c><00:07:15.199><c> think</c><00:07:15.479><c> 03</c><00:07:16.479><c> is</c><00:07:17.199><c> a</c>
+been pretty transparent. I think 03 is a
+been pretty transparent. I think 03 is a
+pretty<00:07:17.759><c> powerful</c><00:07:18.240><c> model</c><00:07:18.560><c> for</c><00:07:18.960><c> logical</c>
+pretty powerful model for logical
+pretty powerful model for logical
+thinking.<00:07:19.840><c> I</c><00:07:20.000><c> appreciate</c><00:07:20.400><c> the</c><00:07:20.639><c> memory.</c><00:07:21.440><c> Uh,</c>
+thinking. I appreciate the memory. Uh,
+thinking. I appreciate the memory. Uh,
+and<00:07:22.000><c> Claude</c><00:07:22.479><c> 4</c><00:07:23.000><c> is</c><00:07:24.000><c> something</c><00:07:24.319><c> I'm</c><00:07:24.560><c> still</c>
+and Claude 4 is something I'm still
+and Claude 4 is something I'm still
+living<00:07:24.960><c> into,</c><00:07:25.280><c> but</c><00:07:25.520><c> it</c><00:07:25.680><c> looks</c><00:07:25.840><c> incredible</c><00:07:26.240><c> for</c>
+living into, but it looks incredible for
+living into, but it looks incredible for
+complex<00:07:27.039><c> coding</c><00:07:27.440><c> tasks</c><00:07:27.919><c> and</c><00:07:28.080><c> it</c><00:07:28.319><c> looks</c>
+complex coding tasks and it looks
+complex coding tasks and it looks
+really,<00:07:28.800><c> really</c><00:07:29.039><c> good</c><00:07:29.199><c> as</c><00:07:29.360><c> a</c><00:07:29.520><c> daily</c><00:07:29.840><c> personal</c>
+really, really good as a daily personal
+really, really good as a daily personal
+assistant.<00:07:30.960><c> And</c><00:07:31.199><c> so,</c><00:07:31.360><c> I</c><00:07:31.599><c> might</c><00:07:31.759><c> end</c><00:07:31.919><c> up</c><00:07:32.080><c> being</c>
+assistant. And so, I might end up being
+assistant. And so, I might end up being
+a<00:07:32.400><c> two</c><00:07:32.560><c> model</c><00:07:32.880><c> person</c><00:07:33.120><c> and</c><00:07:33.360><c> orchestrating</c>
+a two model person and orchestrating
+a two model person and orchestrating
+between<00:07:34.240><c> them.</c><00:07:34.880><c> You</c><00:07:35.120><c> need</c><00:07:35.199><c> to</c><00:07:35.440><c> decide</c><00:07:35.680><c> what's</c>
+between them. You need to decide what's
+between them. You need to decide what's
+worth<00:07:36.160><c> it</c><00:07:36.319><c> for</c><00:07:36.479><c> you,</c><00:07:36.639><c> but</c><00:07:36.800><c> I</c><00:07:37.039><c> wanted</c><00:07:37.199><c> to</c><00:07:37.360><c> give</c>
+worth it for you, but I wanted to give
+worth it for you, but I wanted to give
+you<00:07:37.599><c> a</c><00:07:37.840><c> sense.</c><00:07:38.880><c> These</c><00:07:39.199><c> are</c><00:07:39.360><c> all</c><00:07:39.599><c> great</c><00:07:39.840><c> models.</c>
+you a sense. These are all great models.
+you a sense. These are all great models.
+There's<00:07:40.639><c> not</c><00:07:40.800><c> really</c><00:07:41.120><c> a</c><00:07:41.360><c> bad</c><00:07:41.639><c> choice,</c><00:07:42.639><c> but</c>
+There's not really a bad choice, but
+There's not really a bad choice, but
+understand<00:07:43.680><c> some</c><00:07:43.919><c> of</c><00:07:44.000><c> the</c><00:07:44.160><c> nuances</c><00:07:44.639><c> that</c><00:07:44.880><c> you</c>
+understand some of the nuances that you
+understand some of the nuances that you
+would<00:07:45.280><c> get</c><00:07:45.759><c> as</c><00:07:46.000><c> you</c><00:07:46.240><c> dig</c><00:07:46.479><c> into</c><00:07:46.720><c> this.</c><00:07:47.599><c> I'll</c><00:07:47.840><c> add</c>
+would get as you dig into this. I'll add
+would get as you dig into this. I'll add
+one<00:07:48.319><c> more</c><00:07:48.560><c> tidbit</c>
+one more tidbit
+one more tidbit
+tidbit.<00:07:51.280><c> Claude</c><00:07:52.080><c> 4</c><00:07:52.560><c> Opus</c><00:07:53.120><c> seems</c><00:07:53.440><c> to</c><00:07:53.599><c> be</c><00:07:53.840><c> very</c>
+tidbit. Claude 4 Opus seems to be very
+tidbit. Claude 4 Opus seems to be very
+good<00:07:54.319><c> at</c><00:07:54.720><c> understanding</c><00:07:55.599><c> writing,</c><00:07:56.160><c> but</c><00:07:56.400><c> I</c><00:07:56.560><c> am</c>
+good at understanding writing, but I am
+good at understanding writing, but I am
+not<00:07:56.879><c> yet</c><00:07:57.120><c> as</c><00:07:57.360><c> convinced</c><00:07:57.759><c> of</c><00:07:58.000><c> its</c><00:07:58.319><c> writing</c>
+not yet as convinced of its writing
+not yet as convinced of its writing
+ability.<00:07:59.280><c> And</c><00:07:59.440><c> I</c><00:07:59.599><c> want</c><00:07:59.680><c> to</c><00:07:59.840><c> kind</c><00:08:00.000><c> of</c><00:08:00.080><c> like</c>
+ability. And I want to kind of like
+ability. And I want to kind of like
+tease<00:08:00.639><c> that</c><00:08:00.800><c> apart</c><00:08:01.520><c> because</c><00:08:01.759><c> it</c><00:08:02.000><c> may</c><00:08:02.160><c> have</c>
+tease that apart because it may have
+tease that apart because it may have
+phenomenal<00:08:02.800><c> reading</c><00:08:03.199><c> comprehension</c><00:08:03.759><c> skills</c>
+phenomenal reading comprehension skills
+phenomenal reading comprehension skills
+and<00:08:04.479><c> I</c><00:08:04.720><c> still</c><00:08:04.879><c> need</c><00:08:05.039><c> to</c><00:08:05.199><c> understand</c><00:08:05.440><c> how</c><00:08:05.680><c> it</c>
+and I still need to understand how it
+and I still need to understand how it
+writes.<00:08:06.080><c> And</c><00:08:06.240><c> so</c><00:08:06.319><c> that's</c><00:08:06.479><c> an</c><00:08:06.639><c> area</c><00:08:06.800><c> of</c><00:08:06.960><c> active</c>
+writes. And so that's an area of active
+writes. And so that's an area of active
+investigation<00:08:07.919><c> for</c><00:08:08.160><c> me.</c>

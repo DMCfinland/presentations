@@ -1,0 +1,251 @@
+# Vocabulary Seed for Routing Index
+# Source: Opus Q7 extraction from ~30 deeply-read videos
+# Coverage: ~50 terms from ~30 videos. Estimated 200-300 across full 195.
+# Contamination: ~10-15% may be Opus training knowledge, not video-specific.
+#   Trust terms that appear in routing-index.yaml tags (computationally verified).
+#   Terms only in this seed = treat as provisional until validated against source files.
+# Usage: Pre-populate key_concepts field during Step 1 routing index build.
+#        When processing a video file, check if any of these terms appear.
+#        Also extract NEW terms not in this seed list.
+
+# === STRATEGY & ECONOMICS ===
+strategy_concepts:
+  - term: "constraint migration"
+    aliases: ["bottleneck migration", "scarcity flow"]
+    definition: "Technology abundance migrates constraints downstream to next bottleneck"
+
+  - term: "integration gap"
+    aliases: ["implementation gap"]
+    definition: "$4.5T gap between theoretical AI capability and practical implementation"
+
+  - term: "temporal arbitrage window"
+    aliases: ["adoption gap", "early mover window"]
+    definition: "Current moment where technology outpaces adoption curve"
+
+  - term: "distribution-first"
+    aliases: ["distribution before product"]
+    definition: "Invert build sequence: Distribution → Problem → Product"
+
+  - term: "intelligence-resistant problems"
+    aliases: ["coordination problems", "physical-digital bridges"]
+    definition: "Problems more intelligence doesn't solve: coordination, approvals, physical logistics"
+
+  - term: "platform consolidation thesis"
+    definition: "Major platforms absorb middleware layers by embedding capabilities natively"
+
+  - term: "atoms, not bits"
+    definition: "At scale, physical constraints (energy, land, cooling) become binding again"
+
+  - term: "software scalpel vs. hammer"
+    definition: "AI makes software precise and cheap for micro-niches vs. expensive team-required tool"
+
+# === AI MODEL USAGE ===
+model_concepts:
+  - term: "Ferrari failure mode"
+    aliases: ["overpowered model", "model-task mismatch"]
+    definition: "Using overpowered model for problem too small for its capabilities"
+
+  - term: "resonance"
+    definition: "AI outputs that reorganize how you think about problems, not just provide info"
+
+  - term: "get a sandwich model"
+    definition: "Model with 15-20 min processing time; leave and come back"
+
+  - term: "strategic literacy barrier"
+    definition: "More powerful models require more sophisticated users"
+
+  - term: "completeness paradox"
+    definition: "Superior judgment about when to stop beats exhaustive capability usage"
+
+  - term: "correctness upstream of everything"
+    aliases: ["define correctness first"]
+    definition: "Cannot choose architecture until you define what correct means"
+
+  - term: "reward hacking"
+    aliases: ["Goodhart's Law for AI"]
+    definition: "Systems optimize for accidental proxy metrics, producing confidently wrong outputs"
+
+  - term: "consistency over excellence"
+    definition: "Reliable floors beat occasional peaks for production systems"
+
+# === AGENT DELEGATION ===
+agent_concepts:
+  - term: "little guy framework"
+    definition: "Treat AI agents as junior employees: check work, limit permissions, expand gradually"
+
+  - term: "progressive trust expansion loop"
+    definition: "Articulation → outcome → verification → trust → broader scope flywheel"
+
+  - term: "80% reliable rule"
+    aliases: ["less capability more value"]
+    definition: "80% scope with 95% reliability beats 100% scope with 60% reliability"
+
+  - term: "habitat specialization"
+    aliases: ["one guy one habitat"]
+    definition: "Start agents in single domain; mixing habitats too early overwhelms"
+
+  - term: "articulation bottleneck"
+    definition: "Ability to describe 'what done looks like' is THE competitive advantage"
+
+  - term: "proof systems"
+    definition: "Verification built INTO prompts, not added after"
+
+  - term: "delegation depth"
+    definition: "Complexity level of work successfully delegated without detailed instructions"
+
+  - term: "translation layer"
+    definition: "Component converting messy human intentions into structured agent instructions"
+
+  - term: "mini-me / perpetual agent"
+    aliases: ["always-on agent"]
+    definition: "Agent that knows your priorities, style, and translates vague intentions to tasks"
+
+# === KNOWLEDGE MANAGEMENT ===
+knowledge_concepts:
+  - term: "heap-not-hierarchy"
+    aliases: ["unstructured heap", "semantic retrieval"]
+    definition: "Let AI organize/retrieve semantically rather than maintaining human folder structures"
+
+  - term: "knowledge hyperinflation"
+    definition: "Knowledge doubling time in weeks/months; credentials lose meaning like currency"
+
+  - term: "second brain"
+    aliases: ["commonplace book", "external memory"]
+    definition: "External memory system that compounds through consistent use"
+
+  - term: "fool's gold detection"
+    aliases: ["hallucination detection", "AI taste"]
+    definition: "Human skill of recognizing when AI output looks right but is hallucinated"
+
+  - term: "discovery over search"
+    aliases: ["conversational discovery"]
+    definition: "Conversational intent replacing explicit search queries"
+
+  - term: "prompt reflection"
+    definition: "Asking AI to generate improved prompt that reproduces result"
+
+# === WORKFORCE & MANAGEMENT ===
+workforce_concepts:
+  - term: "judgment economy"
+    aliases: ["post-knowledge economy"]
+    definition: "Value shifts from knowledge accumulation to knowing what to do with infinite knowledge"
+
+  - term: "jagged intelligence frontier"
+    definition: "Both humans and AIs have unpredictable strength/weakness surfaces"
+
+  - term: "intent horizon"
+    definition: "Ability to maintain coherent long-term goals across weeks/months/years"
+
+  - term: "learning velocity"
+    definition: "Speed of adaptation; AI is 'frozen at deployment, instantiated and amnesiac'"
+
+  - term: "tiger team vs. magnifying glass"
+    definition: "Small empowered pods (win) vs. AI surveillance dashboards (lose)"
+
+  - term: "visibility trap"
+    aliases: ["counter-flywheel", "metric doom loop"]
+    definition: "More tracking → teams optimize for metrics → real work goes underground"
+
+  - term: "spike mode"
+    definition: "Engineers given freedom to hack solutions without permission; produces breakthroughs"
+
+  - term: "201-level gap"
+    definition: "Training market gap: 101 basics and 401 technical exist; 201 applied judgment abandoned"
+
+  - term: "centaur vs. cyborg patterns"
+    definition: "Centaur: divided human/AI with checkpoints. Cyborg: fully integrated. Task-specific choice."
+
+  - term: "5-hour threshold"
+    definition: "5+ hours structured AI training = regular users. Most orgs offer 30 minutes."
+
+  - term: "task-mission decoupling"
+    definition: "If AI does 30% of tasks, does that bring 30% closer to mission or hollow the role?"
+
+  - term: "execution gap"
+    definition: "Scarcest resource is not knowledge but execution ability"
+
+  - term: "vagueness as social lubricant"
+    definition: "Human vagueness worked for 500K years; fails with literal AI optimizers"
+
+# === DEVELOPMENT & BUILDING ===
+building_concepts:
+  - term: "conversational iteration"
+    aliases: ["clear intent loose specification"]
+    definition: "AI development as rapid feedback, not perfect upfront specification"
+
+  - term: "time-to-usable-artifact (TtUA)"
+    definition: "Time from first prompt to something you'd actually use, including debugging"
+
+  - term: "10-minute working / 25-minute polished"
+    definition: "90% value in first 10 minutes; last 10% requires 15 more"
+
+  - term: "simplicity beats infrastructure"
+    definition: "Natural language iteration outperforms elaborate scaffolding and RAG systems"
+
+  - term: "signatures (DSPy)"
+    definition: "Input-output contracts specifying WHAT not HOW"
+
+  - term: "three is the minimum viable pattern"
+    definition: "Only 3 input-output examples needed for basic pattern recognition"
+
+  - term: "interruptability"
+    definition: "Graceful handling of interruptions; humans natural, AI struggles"
+
+# === ANTI-PATTERNS (from Q8) ===
+anti_patterns:
+  - term: "agreeing in meeting, disagreeing in production"
+    aliases: ["false consensus", "vague agreement"]
+    definition: "Vagueness creates false consensus; production reveals everyone meant different things"
+
+  - term: "confident guessing over honest uncertainty"
+    aliases: ["hallucination incentive"]
+    definition: "AI learns confident answers get rewarded; systems must explicitly reward 'I don't know'"
+
+  - term: "single-metric Goodhart's Law"
+    definition: "One metric = system games it. Need multi-criteria measurement."
+
+  - term: "visibility theater"
+    aliases: ["dashboard theater"]
+    definition: "AI dashboards creating illusion of control without improving outcomes"
+
+  - term: "metric optimization death spiral"
+    definition: "More tracking → metric optimization → real work underground → more tracking"
+
+  - term: "automating what you don't understand"
+    definition: "Agent encodes your confusion rather than solving it"
+
+  - term: "verification complacency"
+    definition: "Proven workflows drift to hallucination when verification becomes rubber-stamping"
+
+  - term: "building without distribution"
+    definition: "Creating product then looking for users; invert to distribution-first"
+
+  - term: "feature bloat when building is free"
+    definition: "AI removes cost constraint; new constraint is discipline to say no"
+
+  - term: "perfectionist organization paralysis"
+    definition: "Organizing notes exceeds retrieval benefit; system abandoned"
+
+  - term: "dirty data as AI poison"
+    aliases: ["Copilot garbage problem"]
+    definition: "Old SharePoint/wiki data + AI retrieval = confidently presenting outdated info"
+
+  - term: "building middleware platforms will absorb"
+    aliases: ["premature infrastructure"]
+    definition: "Platform capabilities commoditize custom integration layers within 6 months"
+
+  - term: "complex RAG as premature optimization"
+    definition: "Claude Projects + markdown = 80% of RAG at 5% effort"
+
+  - term: "trying to outknow the machines"
+    aliases: ["knowledge accumulation trap"]
+    definition: "Accumulating more knowledge yields diminishing returns; shift to judgment"
+
+  - term: "light context with heavy models"
+    definition: "Opus/o3 Pro need substantial context; thin input = hallucination"
+
+  - term: "30-minute training theater"
+    definition: "Brief AI training creates awareness without capability; below 5-hour threshold"
+
+  - term: "speedrunning experience"
+    definition: "AI skipping grunt-work that builds domain judgment; juniors miss tacit knowledge"

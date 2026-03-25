@@ -1,0 +1,1345 @@
+Claude<00:00:00.560><c> versus</c><00:00:00.880><c> Codex.</c><00:00:01.760><c> Who</c><00:00:02.000><c> wins?</c><00:00:02.560><c> If</c><00:00:02.720><c> you're</c>
+Claude versus Codex. Who wins? If you're
+Claude versus Codex. Who wins? If you're
+not<00:00:03.120><c> familiar</c><00:00:03.360><c> with</c><00:00:03.600><c> it,</c><00:00:04.080><c> Claude</c><00:00:04.400><c> and</c><00:00:04.560><c> Codex</c>
+not familiar with it, Claude and Codex
+not familiar with it, Claude and Codex
+are<00:00:05.279><c> the</c><00:00:05.520><c> premier</c><00:00:06.000><c> agents</c><00:00:06.480><c> from</c><00:00:06.799><c> two</c><00:00:06.960><c> of</c><00:00:07.120><c> the</c>
+are the premier agents from two of the
+are the premier agents from two of the
+major<00:00:07.600><c> model</c><00:00:07.919><c> makers.</c><00:00:08.559><c> They</c><00:00:08.880><c> are</c><00:00:09.360><c> in</c><00:00:09.599><c> the</c>
+major model makers. They are in the
+major model makers. They are in the
+command<00:00:10.160><c> line,</c><00:00:10.480><c> so</c><00:00:10.639><c> it's</c><00:00:10.880><c> somewhat</c><00:00:11.280><c> scary</c><00:00:11.519><c> to</c>
+command line, so it's somewhat scary to
+command line, so it's somewhat scary to
+people,<00:00:12.480><c> but</c><00:00:12.719><c> they</c><00:00:13.280><c> illustrate</c><00:00:14.000><c> two</c>
+people, but they illustrate two
+people, but they illustrate two
+competing<00:00:15.120><c> visions</c><00:00:15.679><c> of</c><00:00:16.000><c> where</c><00:00:16.320><c> agents</c><00:00:16.800><c> are</c>
+competing visions of where agents are
+competing visions of where agents are
+going.<00:00:17.359><c> And</c><00:00:17.520><c> I've</c><00:00:17.840><c> seen</c><00:00:18.080><c> them</c><00:00:18.320><c> both,</c><00:00:18.640><c> and</c><00:00:18.880><c> I've</c>
+going. And I've seen them both, and I've
+going. And I've seen them both, and I've
+played<00:00:19.279><c> with</c><00:00:19.439><c> them</c><00:00:19.680><c> both,</c><00:00:19.840><c> and</c><00:00:20.080><c> I</c><00:00:20.240><c> have</c><00:00:20.320><c> a</c>
+played with them both, and I have a
+played with them both, and I have a
+sense<00:00:20.720><c> of</c><00:00:20.960><c> what</c><00:00:21.359><c> is</c><00:00:22.000><c> actually</c><00:00:22.560><c> unfolding</c><00:00:23.519><c> in</c>
+sense of what is actually unfolding in
+sense of what is actually unfolding in
+terms<00:00:23.920><c> of</c><00:00:24.160><c> strategy.</c><00:00:24.720><c> And</c><00:00:24.880><c> I</c><00:00:25.039><c> want</c><00:00:25.119><c> to</c><00:00:25.439><c> lay</c><00:00:25.519><c> out</c>
+terms of strategy. And I want to lay out
+terms of strategy. And I want to lay out
+how<00:00:26.560><c> different</c><00:00:26.960><c> they</c><00:00:27.359><c> are,</c><00:00:27.920><c> give</c><00:00:28.080><c> you</c><00:00:28.240><c> a</c><00:00:28.480><c> sense</c>
+how different they are, give you a sense
+how different they are, give you a sense
+of<00:00:28.800><c> which</c><00:00:29.039><c> one</c><00:00:29.199><c> you</c><00:00:29.359><c> might</c><00:00:29.519><c> want</c><00:00:29.679><c> to</c><00:00:29.840><c> pick</c><00:00:30.000><c> for</c>
+of which one you might want to pick for
+of which one you might want to pick for
+particular<00:00:30.720><c> tasks.</c><00:00:31.519><c> And</c><00:00:31.679><c> then</c><00:00:31.920><c> in</c><00:00:32.160><c> addition,</c>
+particular tasks. And then in addition,
+particular tasks. And then in addition,
+if<00:00:33.200><c> you're</c><00:00:33.360><c> not</c><00:00:33.440><c> a</c><00:00:33.680><c> command</c><00:00:34.000><c> line</c><00:00:34.239><c> person</c><00:00:34.480><c> or</c><00:00:34.640><c> a</c>
+if you're not a command line person or a
+if you're not a command line person or a
+terminal<00:00:35.200><c> person,</c><00:00:35.600><c> you're</c><00:00:35.760><c> like,</c><00:00:35.840><c> "Oh</c><00:00:36.079><c> my</c>
+terminal person, you're like, "Oh my
+terminal person, you're like, "Oh my
+god,<00:00:36.640><c> that's</c><00:00:36.960><c> scary."</c><00:00:37.680><c> Fine.</c><00:00:38.320><c> We're</c><00:00:38.559><c> going</c><00:00:38.719><c> to</c>
+god, that's scary." Fine. We're going to
+god, that's scary." Fine. We're going to
+talk<00:00:39.120><c> about</c><00:00:39.360><c> how</c><00:00:39.680><c> those</c><00:00:40.000><c> visions</c><00:00:40.879><c> actually</c>
+talk about how those visions actually
+talk about how those visions actually
+play<00:00:41.920><c> out</c><00:00:42.640><c> into</c><00:00:43.280><c> differing</c><00:00:43.840><c> perspectives</c><00:00:44.719><c> on</c>
+play out into differing perspectives on
+play out into differing perspectives on
+non-command<00:00:46.480><c> line</c><00:00:46.719><c> agents</c><00:00:47.200><c> beyond</c><00:00:47.680><c> Claude,</c>
+non-command line agents beyond Claude,
+non-command line agents beyond Claude,
+beyond<00:00:48.559><c> Codeex,</c><00:00:49.120><c> what</c><00:00:49.280><c> other</c><00:00:49.440><c> tools</c><00:00:49.840><c> are</c><00:00:50.000><c> out</c>
+beyond Codeex, what other tools are out
+beyond Codeex, what other tools are out
+there<00:00:50.320><c> and</c><00:00:50.640><c> how</c><00:00:51.120><c> are</c><00:00:51.440><c> they</c><00:00:51.760><c> evolving</c><00:00:52.399><c> in</c><00:00:52.640><c> line</c>
+there and how are they evolving in line
+there and how are they evolving in line
+with<00:00:52.960><c> these</c><00:00:53.199><c> visions?</c><00:00:53.680><c> Because</c><00:00:54.000><c> as</c><00:00:54.239><c> you'll</c>
+with these visions? Because as you'll
+with these visions? Because as you'll
+see,<00:00:54.960><c> these</c><00:00:55.360><c> are</c><00:00:55.760><c> fundamentally</c><00:00:57.120><c> different</c>
+see, these are fundamentally different
+see, these are fundamentally different
+approaches<00:00:58.879><c> to</c><00:00:59.120><c> the</c><00:00:59.359><c> most</c><00:00:59.760><c> important</c>
+approaches to the most important
+approaches to the most important
+artificial<00:01:00.800><c> intelligence</c><00:01:01.440><c> question</c><00:01:02.160><c> of</c><00:01:02.480><c> 2026</c>
+artificial intelligence question of 2026
+artificial intelligence question of 2026
+and<00:01:03.440><c> 2027</c><00:01:04.479><c> and</c><00:01:04.799><c> actually</c><00:01:05.119><c> 2025.</c><00:01:05.840><c> Here,</c><00:01:06.080><c> here</c>
+and 2027 and actually 2025. Here, here
+and 2027 and actually 2025. Here, here
+we<00:01:06.400><c> are.</c><00:01:06.799><c> So,</c><00:01:07.439><c> let's</c><00:01:07.760><c> start</c><00:01:07.920><c> with</c><00:01:08.159><c> Claude.</c>
+we are. So, let's start with Claude.
+we are. So, let's start with Claude.
+Claude<00:01:08.960><c> was</c><00:01:09.119><c> the</c><00:01:09.360><c> first</c><00:01:09.600><c> one</c><00:01:09.840><c> that</c><00:01:10.080><c> came</c><00:01:10.240><c> on</c>
+Claude was the first one that came on
+Claude was the first one that came on
+the<00:01:10.640><c> scene.</c><00:01:11.280><c> Claude's</c><00:01:11.840><c> approach</c><00:01:12.720><c> really</c>
+the scene. Claude's approach really
+the scene. Claude's approach really
+evolved<00:01:14.000><c> out</c><00:01:14.320><c> of</c><00:01:14.560><c> the</c><00:01:14.880><c> roots</c><00:01:15.680><c> of</c><00:01:15.920><c> the</c><00:01:16.159><c> Claude</c>
+evolved out of the roots of the Claude
+evolved out of the roots of the Claude
+code<00:01:17.439><c> product.</c><00:01:18.000><c> It</c><00:01:18.240><c> was</c><00:01:18.479><c> built</c><00:01:19.119><c> as</c><00:01:19.520><c> an</c>
+code product. It was built as an
+code product. It was built as an
+internal<00:01:20.479><c> enabler,</c><00:01:21.040><c> an</c><00:01:21.280><c> internal</c><00:01:21.759><c> tool</c><00:01:22.799><c> at</c>
+internal enabler, an internal tool at
+internal enabler, an internal tool at
+claude,<00:01:23.680><c> at</c><00:01:24.080><c> anthropic.</c><00:01:24.880><c> And</c><00:01:25.119><c> the</c><00:01:25.360><c> goal</c><00:01:25.840><c> was</c>
+claude, at anthropic. And the goal was
+claude, at anthropic. And the goal was
+simply<00:01:26.560><c> to</c><00:01:26.960><c> give</c><00:01:27.600><c> internal</c><00:01:28.080><c> Enthropic</c>
+simply to give internal Enthropic
+simply to give internal Enthropic
+employees<00:01:29.680><c> access</c><00:01:30.080><c> to</c><00:01:30.400><c> a</c><00:01:30.799><c> really</c><00:01:31.200><c> useful</c>
+employees access to a really useful
+employees access to a really useful
+general<00:01:32.320><c> purpose</c><00:01:32.720><c> agent</c><00:01:33.360><c> in</c><00:01:33.600><c> the</c><00:01:33.840><c> command</c>
+general purpose agent in the command
+general purpose agent in the command
+line.<00:01:34.560><c> And</c><00:01:34.960><c> initially</c><00:01:35.840><c> it</c><00:01:36.079><c> was</c><00:01:36.560><c> released</c><00:01:36.960><c> to</c>
+line. And initially it was released to
+line. And initially it was released to
+everyone<00:01:37.520><c> in</c><00:01:37.759><c> the</c><00:01:37.920><c> rest</c><00:01:38.000><c> of</c><00:01:38.159><c> the</c><00:01:38.320><c> world</c><00:01:38.479><c> as</c>
+everyone in the rest of the world as
+everyone in the rest of the world as
+clawed<00:01:39.200><c> code</c><00:01:40.000><c> because</c><00:01:40.720><c> Anthropic</c><00:01:41.360><c> made</c><00:01:41.520><c> the</c>
+clawed code because Anthropic made the
+clawed code because Anthropic made the
+smart<00:01:42.320><c> inference</c><00:01:42.960><c> that</c><00:01:43.520><c> most</c><00:01:43.920><c> people</c><00:01:44.400><c> who</c><00:01:44.720><c> sit</c>
+smart inference that most people who sit
+smart inference that most people who sit
+there<00:01:45.119><c> and</c><00:01:45.360><c> type</c><00:01:45.680><c> text</c><00:01:46.000><c> into</c><00:01:46.240><c> a</c><00:01:46.399><c> command</c><00:01:46.640><c> line</c>
+there and type text into a command line
+there and type text into a command line
+are<00:01:47.200><c> going</c><00:01:47.280><c> to</c><00:01:47.360><c> be</c><00:01:47.520><c> familiar</c><00:01:47.920><c> enough</c><00:01:48.479><c> to</c><00:01:48.720><c> not</c>
+are going to be familiar enough to not
+are going to be familiar enough to not
+be<00:01:49.040><c> scared</c><00:01:49.280><c> of</c><00:01:49.360><c> the</c><00:01:49.520><c> word</c><00:01:49.759><c> code</c><00:01:50.320><c> and</c><00:01:50.560><c> they</c>
+be scared of the word code and they
+be scared of the word code and they
+might<00:01:50.960><c> use</c><00:01:51.040><c> it</c><00:01:51.200><c> for</c><00:01:51.439><c> coding</c><00:01:52.000><c> which</c><00:01:52.320><c> lots</c><00:01:52.640><c> of</c>
+might use it for coding which lots of
+might use it for coding which lots of
+the<00:01:52.960><c> technical</c><00:01:53.360><c> team</c><00:01:53.439><c> at</c><00:01:53.680><c> Anthropic</c><00:01:54.240><c> was</c>
+the technical team at Anthropic was
+the technical team at Anthropic was
+doing<00:01:54.640><c> anyway.</c><00:01:55.360><c> So</c><00:01:55.600><c> call</c><00:01:55.759><c> it</c><00:01:55.920><c> Claude</c><00:01:56.320><c> code.</c>
+doing anyway. So call it Claude code.
+doing anyway. So call it Claude code.
+It's<00:01:56.720><c> a</c><00:01:56.799><c> simplifier.</c><00:01:57.600><c> But</c><00:01:57.920><c> people</c><00:01:58.399><c> don't</c><00:01:58.719><c> know</c>
+It's a simplifier. But people don't know
+It's a simplifier. But people don't know
+that<00:01:59.759><c> Claude</c><00:02:00.719><c> was</c><00:02:01.360><c> being</c><00:02:01.920><c> used</c><00:02:02.399><c> by</c><00:02:02.640><c> the</c>
+that Claude was being used by the
+that Claude was being used by the
+marketing<00:02:03.360><c> team</c><00:02:03.520><c> at</c><00:02:03.680><c> Anthropic,</c><00:02:04.640><c> is</c><00:02:04.880><c> being</c>
+marketing team at Anthropic, is being
+marketing team at Anthropic, is being
+used<00:02:05.360><c> by</c><00:02:05.520><c> the</c><00:02:05.759><c> legal</c><00:02:06.079><c> team</c><00:02:06.240><c> at</c><00:02:06.399><c> Anthropic,</c><00:02:07.040><c> is</c>
+used by the legal team at Anthropic, is
+used by the legal team at Anthropic, is
+being<00:02:07.360><c> used</c><00:02:07.520><c> by</c><00:02:07.759><c> lots</c><00:02:08.080><c> of</c><00:02:08.239><c> teams</c><00:02:08.479><c> at</c><00:02:08.640><c> Anthropic</c>
+being used by lots of teams at Anthropic
+being used by lots of teams at Anthropic
+as<00:02:09.679><c> a</c><00:02:09.920><c> general</c><00:02:10.399><c> purpose</c><00:02:10.800><c> agent.</c><00:02:11.599><c> And</c><00:02:11.840><c> that</c>
+as a general purpose agent. And that
+as a general purpose agent. And that
+gives<00:02:12.800><c> us</c><00:02:13.200><c> our</c><00:02:13.599><c> first</c><00:02:14.000><c> clue</c><00:02:14.800><c> into</c><00:02:15.200><c> the</c><00:02:15.520><c> vision</c>
+gives us our first clue into the vision
+gives us our first clue into the vision
+that<00:02:16.160><c> Claude</c><00:02:16.640><c> has</c><00:02:17.120><c> and</c><00:02:17.520><c> what</c><00:02:17.840><c> they</c><00:02:18.160><c> see</c><00:02:18.640><c> as</c>
+that Claude has and what they see as
+that Claude has and what they see as
+important<00:02:19.680><c> for</c><00:02:19.920><c> agents</c><00:02:20.319><c> to</c><00:02:20.480><c> do.</c><00:02:20.640><c> And</c><00:02:20.800><c> this</c><00:02:20.959><c> is</c>
+important for agents to do. And this is
+important for agents to do. And this is
+important<00:02:21.440><c> because</c><00:02:21.680><c> we're</c><00:02:22.000><c> all</c><00:02:22.239><c> going</c><00:02:22.400><c> to</c><00:02:22.480><c> be</c>
+important because we're all going to be
+important because we're all going to be
+living<00:02:22.959><c> with</c><00:02:23.280><c> agents</c><00:02:24.080><c> now</c><00:02:24.800><c> through</c><00:02:25.200><c> who</c><00:02:25.440><c> knows</c>
+living with agents now through who knows
+living with agents now through who knows
+when,<00:02:25.920><c> right?</c><00:02:26.160><c> as</c><00:02:26.400><c> long</c><00:02:26.480><c> as</c><00:02:26.560><c> we</c><00:02:26.720><c> have</c><00:02:26.879><c> this</c><00:02:27.040><c> AI</c>
+when, right? as long as we have this AI
+when, right? as long as we have this AI
+moment.<00:02:28.000><c> Claude</c><00:02:28.879><c> envisions</c><00:02:29.680><c> agents</c><00:02:30.319><c> as</c><00:02:30.720><c> loops</c>
+moment. Claude envisions agents as loops
+moment. Claude envisions agents as loops
+that<00:02:31.440><c> are</c><00:02:31.680><c> smart</c><00:02:32.400><c> with</c><00:02:32.720><c> tools.</c><00:02:33.360><c> And</c><00:02:33.760><c> let</c><00:02:33.920><c> me</c>
+that are smart with tools. And let me
+that are smart with tools. And let me
+get<00:02:34.239><c> into</c><00:02:34.400><c> that.</c><00:02:34.959><c> Essentially,</c><00:02:35.519><c> what</c><00:02:35.840><c> Claude</c>
+get into that. Essentially, what Claude
+get into that. Essentially, what Claude
+thinks<00:02:36.640><c> an</c><00:02:36.879><c> agent</c><00:02:37.280><c> should</c><00:02:37.519><c> be,</c><00:02:37.840><c> what</c>
+thinks an agent should be, what
+thinks an agent should be, what
+Anthropic<00:02:38.720><c> thinks</c><00:02:38.879><c> an</c><00:02:39.120><c> agent</c><00:02:39.440><c> should</c><00:02:39.680><c> be,</c><00:02:39.920><c> is</c>
+Anthropic thinks an agent should be, is
+Anthropic thinks an agent should be, is
+a<00:02:41.040><c> tool</c><00:02:41.760><c> that</c><00:02:42.080><c> can</c><00:02:42.480><c> go</c><00:02:42.720><c> out,</c><00:02:43.360><c> be</c><00:02:43.599><c> a</c><00:02:43.760><c> general</c>
+a tool that can go out, be a general
+a tool that can go out, be a general
+purpose<00:02:44.480><c> agent,</c><00:02:44.959><c> collect</c><00:02:45.360><c> other</c><00:02:45.599><c> tools</c>
+purpose agent, collect other tools
+purpose agent, collect other tools
+through<00:02:46.160><c> the</c><00:02:46.319><c> model</c><00:02:46.640><c> context</c><00:02:47.120><c> protocol</c>
+through the model context protocol
+through the model context protocol
+approach<00:02:47.840><c> with</c><00:02:48.319><c> which</c><00:02:48.480><c> Anthropic</c><00:02:49.120><c> also</c>
+approach with which Anthropic also
+approach with which Anthropic also
+pioneered,<00:02:50.319><c> and</c><00:02:50.640><c> come</c><00:02:50.879><c> back</c><00:02:51.440><c> and</c><00:02:51.680><c> do</c><00:02:51.920><c> a</c><00:02:52.080><c> task</c>
+pioneered, and come back and do a task
+pioneered, and come back and do a task
+and<00:02:52.640><c> check</c><00:02:52.800><c> in</c><00:02:52.959><c> with</c><00:02:53.120><c> you.</c><00:02:53.519><c> And</c><00:02:53.760><c> so</c><00:02:53.920><c> think</c><00:02:54.080><c> of</c>
+and check in with you. And so think of
+and check in with you. And so think of
+it<00:02:54.400><c> as</c><00:02:55.120><c> Anthropic's</c><00:02:55.920><c> vision</c><00:02:56.239><c> is</c><00:02:56.879><c> the</c><00:02:57.120><c> agent</c><00:02:57.599><c> is</c>
+it as Anthropic's vision is the agent is
+it as Anthropic's vision is the agent is
+going<00:02:58.480><c> to</c><00:02:58.640><c> go</c><00:02:58.879><c> help</c><00:02:59.040><c> you</c><00:02:59.280><c> with</c><00:02:59.599><c> writing,</c><00:03:00.160><c> going</c>
+going to go help you with writing, going
+going to go help you with writing, going
+to<00:03:00.480><c> go</c><00:03:00.640><c> help</c><00:03:00.800><c> you</c><00:03:00.959><c> with</c><00:03:01.120><c> Excel,</c><00:03:01.599><c> going</c><00:03:01.760><c> to</c><00:03:01.840><c> go</c>
+to go help you with Excel, going to go
+to go help you with Excel, going to go
+help<00:03:02.159><c> you</c><00:03:02.319><c> with</c><00:03:02.480><c> code,</c><00:03:02.800><c> it</c><00:03:03.040><c> kind</c><00:03:03.200><c> of</c><00:03:03.280><c> doesn't</c>
+help you with code, it kind of doesn't
+help you with code, it kind of doesn't
+care.<00:03:04.319><c> It's</c><00:03:04.560><c> designed</c><00:03:04.879><c> to</c><00:03:05.120><c> be</c><00:03:05.280><c> general</c>
+care. It's designed to be general
+care. It's designed to be general
+purpose<00:03:06.319><c> and</c><00:03:06.560><c> it</c><00:03:06.879><c> can</c><00:03:07.120><c> call</c><00:03:07.360><c> the</c><00:03:07.599><c> tools</c><00:03:07.920><c> it</c>
+purpose and it can call the tools it
+purpose and it can call the tools it
+needs<00:03:08.319><c> to</c><00:03:08.480><c> call</c><00:03:08.800><c> smartly</c><00:03:09.280><c> to</c><00:03:09.440><c> get</c><00:03:09.519><c> that</c><00:03:09.760><c> done.</c>
+needs to call smartly to get that done.
+needs to call smartly to get that done.
+So<00:03:10.400><c> if</c><00:03:10.560><c> it</c><00:03:10.800><c> needs</c><00:03:10.959><c> to</c><00:03:11.120><c> go</c><00:03:11.360><c> get</c><00:03:11.599><c> like</c><00:03:11.840><c> a</c><00:03:12.159><c> Python</c>
+So if it needs to go get like a Python
+So if it needs to go get like a Python
+library<00:03:13.120><c> to</c><00:03:13.440><c> do</c><00:03:13.760><c> mathematical</c><00:03:14.560><c> calculations</c>
+library to do mathematical calculations
+library to do mathematical calculations
+so<00:03:15.519><c> it</c><00:03:15.680><c> can</c><00:03:15.760><c> get</c><00:03:15.920><c> into</c><00:03:16.159><c> Excel,</c><00:03:16.720><c> it'll</c><00:03:17.040><c> do</c><00:03:17.120><c> that,</c>
+so it can get into Excel, it'll do that,
+so it can get into Excel, it'll do that,
+right?<00:03:17.920><c> If</c><00:03:18.159><c> it</c><00:03:18.319><c> needs</c><00:03:18.480><c> to</c><00:03:18.640><c> go</c><00:03:18.959><c> understand</c><00:03:19.840><c> and</c>
+right? If it needs to go understand and
+right? If it needs to go understand and
+remember<00:03:20.640><c> the</c><00:03:20.879><c> skill</c><00:03:21.200><c> it's</c><00:03:21.440><c> using</c><00:03:21.760><c> to</c><00:03:22.000><c> code</c><00:03:22.560><c> uh</c>
+remember the skill it's using to code uh
+remember the skill it's using to code uh
+a<00:03:22.959><c> React</c><00:03:23.440><c> component</c><00:03:24.239><c> for</c><00:03:24.480><c> coding,</c><00:03:25.040><c> it'll</c><00:03:25.360><c> go</c>
+a React component for coding, it'll go
+a React component for coding, it'll go
+do<00:03:25.760><c> that.</c><00:03:26.080><c> You</c><00:03:26.319><c> get</c><00:03:26.400><c> the</c><00:03:26.640><c> idea.</c><00:03:27.200><c> It</c><00:03:27.519><c> calls</c>
+do that. You get the idea. It calls
+do that. You get the idea. It calls
+tools<00:03:28.319><c> and</c><00:03:28.720><c> increasingly</c><00:03:29.440><c> those</c><00:03:29.599><c> tool</c><00:03:29.920><c> calls</c>
+tools and increasingly those tool calls
+tools and increasingly those tool calls
+are<00:03:30.400><c> very</c><00:03:30.560><c> transparent</c><00:03:31.200><c> through</c><00:03:31.440><c> this</c><00:03:31.680><c> MCP</c>
+are very transparent through this MCP
+are very transparent through this MCP
+concept<00:03:32.879><c> where</c><00:03:33.120><c> you</c><00:03:33.280><c> can</c><00:03:33.360><c> call</c><00:03:33.519><c> in</c><00:03:33.680><c> a</c><00:03:33.840><c> tool</c>
+concept where you can call in a tool
+concept where you can call in a tool
+through<00:03:34.319><c> a</c><00:03:34.560><c> special</c><00:03:34.959><c> server.</c><00:03:35.440><c> And</c><00:03:35.599><c> so</c><00:03:36.159><c> it</c><00:03:36.400><c> can</c>
+through a special server. And so it can
+through a special server. And so it can
+go<00:03:36.720><c> search</c><00:03:36.959><c> the</c><00:03:37.120><c> web</c><00:03:37.360><c> through</c><00:03:37.519><c> an</c><00:03:37.680><c> MCP.</c><00:03:38.640><c> It</c><00:03:38.879><c> can</c>
+go search the web through an MCP. It can
+go search the web through an MCP. It can
+go<00:03:39.280><c> call</c><00:03:39.599><c> in</c><00:03:40.319><c> your</c><00:03:40.640><c> Figma</c><00:03:41.200><c> designs</c><00:03:41.680><c> through</c><00:03:41.920><c> an</c>
+go call in your Figma designs through an
+go call in your Figma designs through an
+MCP.<00:03:42.879><c> It</c><00:03:43.040><c> can</c><00:03:43.200><c> call</c><00:03:43.440><c> in</c><00:03:43.760><c> lots</c><00:03:44.080><c> and</c><00:03:44.239><c> lots</c><00:03:44.480><c> of</c>
+MCP. It can call in lots and lots of
+MCP. It can call in lots and lots of
+things<00:03:45.200><c> that</c><00:03:45.519><c> will</c><00:03:45.680><c> help</c><00:03:45.840><c> you</c><00:03:46.080><c> do</c><00:03:46.319><c> work.</c><00:03:46.959><c> But</c>
+things that will help you do work. But
+things that will help you do work. But
+the<00:03:47.440><c> core</c><00:03:47.680><c> of</c><00:03:47.840><c> the</c><00:03:48.000><c> agent</c><00:03:48.400><c> loop</c><00:03:48.799><c> is</c><00:03:49.280><c> very</c>
+the core of the agent loop is very
+the core of the agent loop is very
+simple.<00:03:50.319><c> It</c><00:03:50.480><c> is</c><00:03:50.879><c> you</c><00:03:51.120><c> ask</c><00:03:51.360><c> the</c><00:03:51.599><c> agent</c><00:03:51.840><c> to</c><00:03:52.000><c> go</c><00:03:52.159><c> do</c>
+simple. It is you ask the agent to go do
+simple. It is you ask the agent to go do
+a<00:03:52.560><c> general</c><00:03:52.879><c> purpose</c><00:03:53.280><c> task</c><00:03:53.599><c> for</c><00:03:53.840><c> you.</c><00:03:54.239><c> The</c>
+a general purpose task for you. The
+a general purpose task for you. The
+agent<00:03:54.799><c> is</c><00:03:55.120><c> smart</c><00:03:55.360><c> enough</c><00:03:56.080><c> to</c><00:03:56.480><c> infer</c><00:03:57.360><c> this</c><00:03:57.519><c> is</c>
+agent is smart enough to infer this is
+agent is smart enough to infer this is
+what<00:03:57.920><c> Nate</c><00:03:58.319><c> wants</c><00:03:58.640><c> and</c><00:03:58.799><c> it</c><00:03:58.959><c> goes</c><00:03:59.120><c> off</c><00:03:59.360><c> and</c><00:03:59.519><c> it</c>
+what Nate wants and it goes off and it
+what Nate wants and it goes off and it
+calls<00:03:59.920><c> the</c><00:04:00.080><c> tool</c><00:04:00.239><c> and</c><00:04:00.480><c> it</c><00:04:00.640><c> does</c><00:04:00.720><c> the</c><00:04:00.879><c> work</c><00:04:01.040><c> and</c>
+calls the tool and it does the work and
+calls the tool and it does the work and
+it<00:04:01.360><c> comes</c><00:04:01.599><c> back.</c><00:04:02.000><c> This</c><00:04:02.319><c> makes</c><00:04:03.040><c> working</c><00:04:03.519><c> with</c>
+it comes back. This makes working with
+it comes back. This makes working with
+Claude<00:04:04.879><c> feel</c><00:04:05.760><c> very</c><00:04:06.560><c> collaborative.</c><00:04:07.360><c> It</c><00:04:07.599><c> feels</c>
+Claude feel very collaborative. It feels
+Claude feel very collaborative. It feels
+colleial<00:04:08.879><c> for</c><00:04:09.120><c> lack</c><00:04:09.280><c> of</c><00:04:09.439><c> a</c><00:04:09.599><c> better</c><00:04:09.840><c> term.</c><00:04:10.400><c> And</c>
+colleial for lack of a better term. And
+colleial for lack of a better term. And
+what<00:04:11.280><c> what</c><00:04:11.680><c> Anthropic</c><00:04:12.400><c> wants</c><00:04:12.799><c> is</c><00:04:13.040><c> a</c><00:04:13.280><c> vision</c><00:04:13.840><c> of</c>
+what what Anthropic wants is a vision of
+what what Anthropic wants is a vision of
+the<00:04:14.319><c> future</c><00:04:14.799><c> where</c><00:04:15.120><c> we</c><00:04:15.360><c> are</c><00:04:15.519><c> working</c>
+the future where we are working
+the future where we are working
+collaboratively<00:04:17.040><c> with</c><00:04:17.519><c> agents.</c><00:04:18.400><c> We</c><00:04:18.639><c> have</c><00:04:18.720><c> our</c>
+collaboratively with agents. We have our
+collaboratively with agents. We have our
+mini<00:04:19.280><c> mi,</c><00:04:19.600><c> our</c><00:04:19.759><c> agents.</c><00:04:20.479><c> Those</c><00:04:20.720><c> agents</c><00:04:21.120><c> may</c>
+mini mi, our agents. Those agents may
+mini mi, our agents. Those agents may
+have<00:04:21.440><c> sub</c><00:04:21.680><c> agents</c><00:04:22.079><c> which</c><00:04:22.240><c> is</c><00:04:22.400><c> something</c>
+have sub agents which is something
+have sub agents which is something
+Claude<00:04:23.120><c> specifically</c><00:04:23.840><c> enables</c><00:04:24.400><c> now.</c><00:04:24.960><c> So</c><00:04:25.120><c> you</c>
+Claude specifically enables now. So you
+Claude specifically enables now. So you
+can<00:04:25.440><c> have</c><00:04:25.680><c> a</c><00:04:25.919><c> master</c><00:04:26.400><c> claude</c><00:04:26.720><c> agent</c><00:04:27.120><c> running</c>
+can have a master claude agent running
+can have a master claude agent running
+mini<00:04:28.000><c> mi</c><00:04:28.320><c> of</c><00:04:28.479><c> itself</c><00:04:29.280><c> with</c><00:04:29.520><c> different</c>
+mini mi of itself with different
+mini mi of itself with different
+context.<00:04:30.320><c> If</c><00:04:30.479><c> that</c><00:04:30.639><c> gives</c><00:04:30.800><c> you</c><00:04:30.880><c> a</c><00:04:31.040><c> headache,</c>
+context. If that gives you a headache,
+context. If that gives you a headache,
+don't<00:04:31.680><c> worry</c><00:04:31.840><c> about</c><00:04:31.919><c> it.</c><00:04:32.240><c> You</c><00:04:32.400><c> don't</c><00:04:32.479><c> have</c><00:04:32.639><c> to</c>
+don't worry about it. You don't have to
+don't worry about it. You don't have to
+do<00:04:32.880><c> it.</c><00:04:33.440><c> But</c><00:04:33.600><c> you</c><00:04:33.840><c> can,</c><00:04:34.400><c> right?</c><00:04:34.639><c> And</c><00:04:34.880><c> the</c>
+do it. But you can, right? And the
+do it. But you can, right? And the
+vision<00:04:35.360><c> is</c><00:04:35.680><c> that</c><00:04:35.919><c> this</c><00:04:36.160><c> general</c><00:04:36.560><c> purpose</c>
+vision is that this general purpose
+vision is that this general purpose
+agent<00:04:37.199><c> is</c><00:04:37.440><c> sort</c><00:04:37.600><c> of</c><00:04:37.759><c> scalable</c><00:04:38.160><c> and</c><00:04:38.400><c> helps</c><00:04:38.639><c> you</c>
+agent is sort of scalable and helps you
+agent is sort of scalable and helps you
+to<00:04:38.960><c> be</c><00:04:39.120><c> more</c><00:04:39.280><c> effective.</c><00:04:39.759><c> helps</c><00:04:40.000><c> you</c><00:04:40.160><c> to</c><00:04:40.240><c> do</c>
+to be more effective. helps you to do
+to be more effective. helps you to do
+your<00:04:40.560><c> job</c><00:04:41.040><c> and</c><00:04:41.280><c> helps</c><00:04:41.600><c> you</c><00:04:41.759><c> to</c><00:04:42.560><c> complete</c>
+your job and helps you to complete
+your job and helps you to complete
+higher<00:04:43.360><c> quality</c><00:04:43.680><c> work.</c><00:04:44.400><c> This</c><00:04:45.040><c> makes</c><00:04:45.520><c> a</c><00:04:45.840><c> lot</c><00:04:46.000><c> of</c>
+higher quality work. This makes a lot of
+higher quality work. This makes a lot of
+sense<00:04:46.720><c> when</c><00:04:47.040><c> you</c><00:04:47.280><c> think</c><00:04:47.680><c> about</c><00:04:48.000><c> the</c><00:04:48.320><c> approach</c>
+sense when you think about the approach
+sense when you think about the approach
+to<00:04:48.960><c> the</c><00:04:49.199><c> releases</c><00:04:49.680><c> that</c><00:04:49.919><c> Enthropic</c><00:04:50.560><c> has</c><00:04:50.720><c> had</c>
+to the releases that Enthropic has had
+to the releases that Enthropic has had
+so<00:04:51.120><c> far,</c><00:04:51.360><c> right?</c><00:04:51.600><c> Like</c><00:04:52.000><c> they've</c><00:04:52.400><c> not</c><00:04:52.720><c> just</c>
+so far, right? Like they've not just
+so far, right? Like they've not just
+released<00:04:53.520><c> clawed</c><00:04:54.000><c> code.</c><00:04:54.720><c> They've</c><00:04:55.040><c> focused</c><00:04:55.360><c> on</c>
+released clawed code. They've focused on
+released clawed code. They've focused on
+releases<00:04:56.160><c> that</c><00:04:56.720><c> further</c><00:04:57.280><c> this</c><00:04:57.840><c> general</c>
+releases that further this general
+releases that further this general
+purpose<00:04:59.040><c> agent</c><00:04:59.360><c> in</c><00:04:59.520><c> a</c><00:04:59.680><c> loop</c><00:04:59.919><c> with</c><00:05:00.160><c> tools</c><00:05:00.560><c> kind</c>
+purpose agent in a loop with tools kind
+purpose agent in a loop with tools kind
+of<00:05:00.960><c> vision.</c><00:05:01.680><c> Excel</c><00:05:02.160><c> comes</c><00:05:02.400><c> to</c><00:05:02.639><c> mind.</c><00:05:02.960><c> The</c>
+of vision. Excel comes to mind. The
+of vision. Excel comes to mind. The
+PowerPoint<00:05:03.759><c> release</c><00:05:04.080><c> comes</c><00:05:04.320><c> to</c><00:05:04.479><c> mind.</c><00:05:04.880><c> talked</c>
+PowerPoint release comes to mind. talked
+PowerPoint release comes to mind. talked
+about<00:05:05.440><c> those</c><00:05:05.759><c> on</c><00:05:06.000><c> this</c><00:05:06.240><c> channel</c><00:05:06.720><c> and</c><00:05:07.199><c> it's</c>
+about those on this channel and it's
+about those on this channel and it's
+been<00:05:08.240><c> super</c><00:05:08.720><c> important</c><00:05:09.600><c> to</c><00:05:09.919><c> see</c><00:05:10.639><c> that</c><00:05:11.039><c> Claude</c>
+been super important to see that Claude
+been super important to see that Claude
+has<00:05:11.759><c> built</c><00:05:12.160><c> not</c><00:05:12.560><c> a</c><00:05:12.880><c> specialurpose</c><00:05:13.600><c> Excel</c>
+has built not a specialurpose Excel
+has built not a specialurpose Excel
+agent,<00:05:14.479><c> not</c><00:05:14.720><c> a</c><00:05:14.880><c> specialurpose</c><00:05:15.680><c> code</c><00:05:16.000><c> agent,</c>
+agent, not a specialurpose code agent,
+agent, not a specialurpose code agent,
+but<00:05:16.960><c> a</c><00:05:17.199><c> general</c><00:05:17.680><c> purpose</c><00:05:18.400><c> large</c><00:05:18.720><c> language</c>
+but a general purpose large language
+but a general purpose large language
+model<00:05:19.440><c> that</c><00:05:19.680><c> is</c><00:05:19.840><c> able</c><00:05:20.000><c> to</c><00:05:20.160><c> call</c><00:05:20.320><c> the</c><00:05:20.479><c> tools</c><00:05:20.800><c> it</c>
+model that is able to call the tools it
+model that is able to call the tools it
+needs<00:05:21.600><c> to</c><00:05:21.919><c> get</c><00:05:22.080><c> all</c><00:05:22.240><c> of</c><00:05:22.400><c> these</c><00:05:22.720><c> different</c>
+needs to get all of these different
+needs to get all of these different
+tasks<00:05:23.280><c> done.</c><00:05:23.520><c> You're</c><00:05:23.759><c> not</c><00:05:23.840><c> really</c><00:05:24.080><c> calling</c><00:05:24.400><c> a</c>
+tasks done. You're not really calling a
+tasks done. You're not really calling a
+different<00:05:25.039><c> claude</c><00:05:25.759><c> for</c><00:05:26.000><c> these</c><00:05:26.320><c> different</c>
+different claude for these different
+different claude for these different
+things.<00:05:27.199><c> And</c><00:05:27.440><c> in</c><00:05:27.680><c> fact,</c><00:05:28.000><c> Anthropic</c><00:05:28.720><c> has</c><00:05:28.960><c> sort</c>
+things. And in fact, Anthropic has sort
+things. And in fact, Anthropic has sort
+of<00:05:29.520><c> belatedly</c><00:05:30.320><c> realized</c><00:05:31.280><c> that</c><00:05:31.759><c> maybe</c><00:05:32.000><c> they</c>
+of belatedly realized that maybe they
+of belatedly realized that maybe they
+shouldn't<00:05:32.479><c> have</c><00:05:32.639><c> branded</c><00:05:32.960><c> this</c><00:05:33.199><c> Claude</c><00:05:33.520><c> code</c>
+shouldn't have branded this Claude code
+shouldn't have branded this Claude code
+and<00:05:33.840><c> they</c><00:05:34.000><c> started</c><00:05:34.160><c> to</c><00:05:34.400><c> walk</c><00:05:34.560><c> back</c><00:05:34.800><c> the</c><00:05:34.960><c> Claude</c>
+and they started to walk back the Claude
+and they started to walk back the Claude
+code<00:05:35.520><c> branding</c><00:05:35.840><c> just</c><00:05:36.000><c> a</c><00:05:36.160><c> touch</c><00:05:36.400><c> and</c><00:05:36.560><c> they're</c>
+code branding just a touch and they're
+code branding just a touch and they're
+just<00:05:36.960><c> calling</c><00:05:37.199><c> it</c><00:05:37.360><c> sort</c><00:05:37.600><c> of</c><00:05:38.000><c> a</c><00:05:38.160><c> claude</c><00:05:38.560><c> agent</c>
+just calling it sort of a claude agent
+just calling it sort of a claude agent
+SDK<00:05:39.520><c> these</c><00:05:39.840><c> days</c><00:05:40.240><c> and</c><00:05:40.800><c> that's</c><00:05:41.039><c> fine,</c><00:05:41.440><c> right?</c>
+SDK these days and that's fine, right?
+SDK these days and that's fine, right?
+Like<00:05:41.919><c> people</c><00:05:42.160><c> will</c><00:05:42.320><c> still</c><00:05:42.560><c> probably</c><00:05:42.720><c> call</c><00:05:42.880><c> it</c>
+Like people will still probably call it
+Like people will still probably call it
+Claude<00:05:43.360><c> Code</c><00:05:43.600><c> or</c><00:05:43.759><c> they'll</c><00:05:44.400><c> what</c><00:05:44.400><c> whatever</c><00:05:44.880><c> it</c>
+Claude Code or they'll what whatever it
+Claude Code or they'll what whatever it
+the<00:05:45.280><c> the</c><00:05:45.680><c> point</c><00:05:45.759><c> is</c><00:05:46.000><c> that</c><00:05:46.160><c> the</c><00:05:46.320><c> general</c>
+the the point is that the general
+the the point is that the general
+purposeness<00:05:47.360><c> is</c><00:05:47.600><c> intact</c><00:05:48.320><c> and</c><00:05:48.639><c> Anthropic</c><00:05:49.280><c> is</c>
+purposeness is intact and Anthropic is
+purposeness is intact and Anthropic is
+recognizing<00:05:50.080><c> how</c><00:05:50.320><c> powerful</c><00:05:50.639><c> it</c><00:05:50.800><c> is</c><00:05:50.880><c> and</c>
+recognizing how powerful it is and
+recognizing how powerful it is and
+they're<00:05:51.199><c> and</c><00:05:51.360><c> they're</c><00:05:51.600><c> building</c><00:05:51.840><c> against</c><00:05:52.160><c> it.</c>
+they're and they're building against it.
+they're and they're building against it.
+Let's<00:05:52.960><c> move</c><00:05:53.199><c> over</c><00:05:53.759><c> to</c><00:05:54.000><c> Codeex.</c><00:05:54.880><c> Codex</c><00:05:55.440><c> is</c><00:05:55.680><c> such</c>
+Let's move over to Codeex. Codex is such
+Let's move over to Codeex. Codex is such
+a<00:05:56.160><c> different</c><00:05:56.400><c> vision.</c><00:05:57.120><c> Codeex</c><00:05:57.759><c> is</c><00:05:58.400><c> a</c><00:05:58.720><c> linear</c>
+a different vision. Codeex is a linear
+a different vision. Codeex is a linear
+flow<00:06:00.000><c> vision</c><00:06:00.400><c> of</c><00:06:00.639><c> tasking.</c><00:06:01.199><c> It's</c><00:06:01.440><c> not</c><00:06:01.600><c> just</c><00:06:01.759><c> in</c>
+flow vision of tasking. It's not just in
+flow vision of tasking. It's not just in
+codeex.<00:06:02.720><c> It's</c><00:06:02.960><c> also</c><00:06:03.199><c> in</c><00:06:03.360><c> the</c><00:06:03.600><c> agent</c><00:06:04.000><c> builder</c>
+codeex. It's also in the agent builder
+codeex. It's also in the agent builder
+that<00:06:04.800><c> OpenAI</c><00:06:05.600><c> released.</c><00:06:06.400><c> You</c><00:06:06.800><c> see</c><00:06:07.440><c> an</c><00:06:07.759><c> agent</c>
+that OpenAI released. You see an agent
+that OpenAI released. You see an agent
+fundamentally<00:06:09.280><c> in</c><00:06:09.520><c> a</c><00:06:09.759><c> linear</c><00:06:10.240><c> flow</c><00:06:10.880><c> according</c>
+fundamentally in a linear flow according
+fundamentally in a linear flow according
+to<00:06:11.520><c> most</c><00:06:11.840><c> of</c><00:06:11.919><c> what</c><00:06:12.160><c> OpenAI</c><00:06:12.800><c> has</c><00:06:12.960><c> been</c>
+to most of what OpenAI has been
+to most of what OpenAI has been
+releasing<00:06:13.600><c> and</c><00:06:13.759><c> it's</c><00:06:14.160><c> structured.</c><00:06:15.120><c> And</c>
+releasing and it's structured. And
+releasing and it's structured. And
+what's<00:06:15.680><c> interesting</c><00:06:16.400><c> is</c><00:06:16.639><c> that</c><00:06:16.800><c> that</c><00:06:17.120><c> is</c><00:06:17.360><c> also</c>
+what's interesting is that that is also
+what's interesting is that that is also
+not<00:06:18.240><c> coincidentally</c><00:06:19.600><c> how</c><00:06:20.000><c> people</c><00:06:20.400><c> find</c><00:06:20.800><c> chat</c>
+not coincidentally how people find chat
+not coincidentally how people find chat
+GPT<00:06:21.759><c> works</c><00:06:22.000><c> really</c><00:06:22.240><c> well.</c><00:06:22.560><c> when</c><00:06:22.800><c> you're</c>
+GPT works really well. when you're
+GPT works really well. when you're
+calling<00:06:23.120><c> it</c><00:06:23.280><c> in</c><00:06:23.440><c> the</c><00:06:23.600><c> API,</c><00:06:24.160><c> when</c><00:06:24.319><c> you're</c>
+calling it in the API, when you're
+calling it in the API, when you're
+asking<00:06:24.720><c> it</c><00:06:24.880><c> to</c><00:06:25.039><c> do</c><00:06:25.199><c> things,</c><00:06:25.520><c> even</c><00:06:25.680><c> if</c><00:06:25.840><c> you're</c>
+asking it to do things, even if you're
+asking it to do things, even if you're
+prompting<00:06:26.479><c> it</c><00:06:26.720><c> in</c><00:06:26.960><c> the</c><00:06:27.199><c> chatbot,</c><00:06:28.160><c> giving</c><00:06:28.479><c> it</c>
+prompting it in the chatbot, giving it
+prompting it in the chatbot, giving it
+the<00:06:29.039><c> structure</c><00:06:30.080><c> to</c><00:06:30.319><c> do</c><00:06:30.560><c> this</c><00:06:30.720><c> and</c><00:06:30.960><c> then</c><00:06:31.199><c> come</c>
+the structure to do this and then come
+the structure to do this and then come
+back<00:06:31.600><c> to</c><00:06:31.840><c> me</c><00:06:32.240><c> really</c><00:06:32.560><c> helps.</c><00:06:32.960><c> I've</c><00:06:33.199><c> talked</c><00:06:33.440><c> a</c>
+back to me really helps. I've talked a
+back to me really helps. I've talked a
+fair<00:06:33.919><c> bit</c><00:06:34.479><c> about</c><00:06:34.800><c> how</c><00:06:35.120><c> prompts</c><00:06:35.600><c> sensitive</c>
+fair bit about how prompts sensitive
+fair bit about how prompts sensitive
+chat<00:06:36.400><c> GPT5</c><00:06:37.199><c> is.</c><00:06:37.440><c> That's</c><00:06:37.680><c> another</c><00:06:38.080><c> way</c><00:06:38.240><c> of</c>
+chat GPT5 is. That's another way of
+chat GPT5 is. That's another way of
+saying<00:06:39.199><c> it</c><00:06:39.440><c> is</c><00:06:39.759><c> dependent</c><00:06:40.560><c> on</c><00:06:40.960><c> you</c><00:06:41.759><c> to</c>
+saying it is dependent on you to
+saying it is dependent on you to
+structure<00:06:42.639><c> an</c><00:06:42.880><c> ask</c><00:06:43.520><c> and</c><00:06:43.680><c> it</c><00:06:43.840><c> will</c><00:06:44.000><c> go</c><00:06:44.080><c> and</c><00:06:44.240><c> do</c><00:06:44.319><c> a</c>
+structure an ask and it will go and do a
+structure an ask and it will go and do a
+task<00:06:44.639><c> and</c><00:06:44.880><c> come</c><00:06:45.039><c> back.</c><00:06:45.440><c> That</c><00:06:46.080><c> a</c><00:06:46.479><c> and</c><00:06:46.720><c> so</c><00:06:47.199><c> you</c>
+task and come back. That a and so you
+task and come back. That a and so you
+might<00:06:47.600><c> think,</c><00:06:47.840><c> oh,</c><00:06:48.000><c> is</c><00:06:48.160><c> that</c><00:06:48.240><c> a</c><00:06:48.400><c> loop,</c><00:06:48.639><c> Nate?</c>
+might think, oh, is that a loop, Nate?
+might think, oh, is that a loop, Nate?
+Are<00:06:49.039><c> we</c><00:06:49.280><c> saying</c><00:06:49.440><c> the</c><00:06:49.680><c> same</c><00:06:49.840><c> thing?</c><00:06:50.160><c> It's</c><00:06:50.400><c> not.</c>
+Are we saying the same thing? It's not.
+Are we saying the same thing? It's not.
+It's<00:06:51.520><c> not</c><00:06:51.759><c> because</c><00:06:52.240><c> a</c><00:06:52.560><c> chat</c><00:06:52.960><c> GPT</c><00:06:53.520><c> workflow,</c>
+It's not because a chat GPT workflow,
+It's not because a chat GPT workflow,
+whether<00:06:54.160><c> it's</c><00:06:54.319><c> the</c><00:06:54.479><c> agent</c><00:06:54.880><c> builder</c><00:06:55.199><c> or</c>
+whether it's the agent builder or
+whether it's the agent builder or
+whether<00:06:55.520><c> it's</c><00:06:55.680><c> the</c><00:06:55.919><c> way</c><00:06:56.000><c> you</c><00:06:56.160><c> think</c><00:06:56.319><c> about</c>
+whether it's the way you think about
+whether it's the way you think about
+codecs,<00:06:57.440><c> it's</c><00:06:57.759><c> framed</c><00:06:58.319><c> as</c><00:06:58.880><c> beginning</c><00:06:59.360><c> and</c>
+codecs, it's framed as beginning and
+codecs, it's framed as beginning and
+end.<00:07:00.000><c> It's</c><00:07:00.240><c> framed</c><00:07:00.639><c> as</c><00:07:00.960><c> a</c><00:07:01.199><c> line,</c><00:07:01.599><c> not</c><00:07:01.919><c> a</c>
+end. It's framed as a line, not a
+end. It's framed as a line, not a
+circle.<00:07:02.720><c> And</c><00:07:02.800><c> I</c><00:07:02.960><c> know</c><00:07:03.039><c> that</c><00:07:03.280><c> sounds</c><00:07:03.520><c> silly,</c>
+circle. And I know that sounds silly,
+circle. And I know that sounds silly,
+but<00:07:04.000><c> it</c><00:07:04.080><c> it</c><00:07:04.400><c> matters</c><00:07:04.639><c> a</c><00:07:04.880><c> lot</c><00:07:05.199><c> because</c><00:07:06.000><c> Claude</c>
+but it it matters a lot because Claude
+but it it matters a lot because Claude
+feels<00:07:07.120><c> like</c><00:07:07.520><c> and</c><00:07:07.919><c> acts</c><00:07:08.319><c> like</c><00:07:08.639><c> it's</c><00:07:08.960><c> always</c><00:07:09.360><c> on,</c>
+feels like and acts like it's always on,
+feels like and acts like it's always on,
+always<00:07:10.319><c> in</c><00:07:10.479><c> a</c><00:07:10.639><c> loop</c><00:07:10.880><c> being</c><00:07:11.120><c> your</c><00:07:11.280><c> general</c>
+always in a loop being your general
+always in a loop being your general
+assistant.<00:07:12.400><c> Codeex</c><00:07:13.199><c> and</c><00:07:13.599><c> even</c><00:07:14.000><c> a</c><00:07:14.240><c> lot</c><00:07:14.319><c> of</c><00:07:14.400><c> the</c>
+assistant. Codeex and even a lot of the
+assistant. Codeex and even a lot of the
+chat<00:07:14.880><c> GPT5</c><00:07:15.680><c> conversations</c><00:07:16.319><c> I</c><00:07:16.560><c> have</c><00:07:16.639><c> in</c><00:07:16.800><c> the</c>
+chat GPT5 conversations I have in the
+chat GPT5 conversations I have in the
+chatbot<00:07:17.759><c> is</c><00:07:18.080><c> much</c><00:07:18.400><c> more</c><00:07:18.800><c> taskoriented.</c><00:07:19.759><c> it's</c>
+chatbot is much more taskoriented. it's
+chatbot is much more taskoriented. it's
+in<00:07:20.240><c> line</c><00:07:20.479><c> with</c><00:07:20.720><c> that</c><00:07:20.960><c> agent</c><00:07:21.440><c> builder</c><00:07:21.759><c> vision</c>
+in line with that agent builder vision
+in line with that agent builder vision
+that<00:07:22.560><c> they</c><00:07:22.720><c> outlined</c><00:07:23.120><c> at</c><00:07:23.360><c> dev</c><00:07:23.680><c> day</c><00:07:23.919><c> this</c><00:07:24.240><c> week</c>
+that they outlined at dev day this week
+that they outlined at dev day this week
+where<00:07:24.960><c> it</c><00:07:25.440><c> needs</c><00:07:25.919><c> structured</c><00:07:26.560><c> context</c><00:07:27.520><c> a</c>
+where it needs structured context a
+where it needs structured context a
+prompt<00:07:28.560><c> maybe</c><00:07:28.800><c> an</c><00:07:29.039><c> input</c><00:07:29.440><c> like</c><00:07:29.599><c> a</c><00:07:29.840><c> document</c>
+prompt maybe an input like a document
+prompt maybe an input like a document
+and<00:07:30.800><c> then</c><00:07:30.960><c> it's</c><00:07:31.120><c> going</c><00:07:31.199><c> to</c><00:07:31.280><c> go</c><00:07:31.440><c> and</c><00:07:31.599><c> do</c><00:07:31.759><c> the</c>
+and then it's going to go and do the
+and then it's going to go and do the
+task<00:07:32.160><c> and</c><00:07:32.400><c> finish</c><00:07:32.639><c> it</c><00:07:32.880><c> and</c><00:07:33.120><c> get</c><00:07:33.280><c> it</c><00:07:33.440><c> done</c>
+task and finish it and get it done
+task and finish it and get it done
+correctly<00:07:34.479><c> and</c><00:07:34.639><c> when</c><00:07:34.880><c> you</c><00:07:35.039><c> are</c><00:07:35.280><c> building</c>
+correctly and when you are building
+correctly and when you are building
+agent<00:07:36.240><c> flows</c><00:07:36.880><c> at</c><00:07:37.039><c> the</c><00:07:37.280><c> enterprise</c><00:07:37.759><c> level</c><00:07:38.160><c> that</c>
+agent flows at the enterprise level that
+agent flows at the enterprise level that
+can<00:07:38.479><c> be</c><00:07:38.639><c> very</c><00:07:38.880><c> helpful</c><00:07:39.360><c> right</c><00:07:39.840><c> you</c><00:07:40.160><c> can</c><00:07:40.240><c> go</c><00:07:40.479><c> out</c>
+can be very helpful right you can go out
+can be very helpful right you can go out
+and<00:07:41.120><c> have</c><00:07:41.360><c> confidence</c><00:07:41.840><c> that</c><00:07:42.400><c> chat</c><00:07:42.800><c> GPT</c><00:07:43.280><c> and</c>
+and have confidence that chat GPT and
+and have confidence that chat GPT and
+the<00:07:43.599><c> API</c><00:07:44.000><c> will</c><00:07:44.160><c> do</c><00:07:44.319><c> exactly</c><00:07:44.720><c> what</c><00:07:44.880><c> you</c><00:07:45.039><c> tell</c><00:07:45.199><c> it</c>
+the API will do exactly what you tell it
+the API will do exactly what you tell it
+to<00:07:45.440><c> do</c><00:07:45.599><c> with</c><00:07:45.840><c> the</c><00:07:46.000><c> context</c><00:07:46.400><c> and</c><00:07:46.639><c> come</c><00:07:46.800><c> back</c><00:07:46.960><c> and</c>
+to do with the context and come back and
+to do with the context and come back and
+the<00:07:47.280><c> task</c><00:07:47.520><c> will</c><00:07:47.680><c> be</c><00:07:47.759><c> done</c><00:07:47.919><c> the</c><00:07:48.080><c> ticket</c><00:07:48.319><c> will</c><00:07:48.479><c> be</c>
+the task will be done the ticket will be
+the task will be done the ticket will be
+triaged<00:07:49.039><c> whatever</c><00:07:49.360><c> you're</c><00:07:49.599><c> tackling.</c><00:07:50.319><c> So</c><00:07:50.720><c> if</c>
+triaged whatever you're tackling. So if
+triaged whatever you're tackling. So if
+you<00:07:51.199><c> think</c><00:07:51.440><c> about</c><00:07:51.599><c> that,</c><00:07:52.240><c> look</c><00:07:52.400><c> at</c><00:07:52.560><c> how</c><00:07:52.800><c> that</c>
+you think about that, look at how that
+you think about that, look at how that
+changes<00:07:54.080><c> how</c><00:07:54.400><c> we</c><00:07:54.720><c> work</c><00:07:54.960><c> with</c><00:07:55.199><c> agents.</c><00:07:56.080><c> That</c>
+changes how we work with agents. That
+changes how we work with agents. That
+vision<00:07:56.639><c> is</c><00:07:56.800><c> so</c><00:07:57.039><c> different,</c><00:07:57.520><c> right?</c><00:07:58.000><c> We</c><00:07:58.319><c> need</c>
+vision is so different, right? We need
+vision is so different, right? We need
+to<00:07:58.639><c> take</c><00:07:58.800><c> the</c><00:07:59.039><c> load</c><00:07:59.440><c> of</c><00:07:59.840><c> managing</c><00:08:00.240><c> the</c>
+to take the load of managing the
+to take the load of managing the
+context.<00:08:01.039><c> We</c><00:08:01.199><c> need</c><00:08:01.280><c> to</c><00:08:01.440><c> make</c><00:08:01.520><c> sure</c><00:08:01.599><c> it's</c><00:08:01.919><c> crisp</c>
+context. We need to make sure it's crisp
+context. We need to make sure it's crisp
+and<00:08:02.479><c> clear.</c><00:08:03.120><c> It</c><00:08:03.280><c> is</c><00:08:03.520><c> implicitly,</c><00:08:04.960><c> I</c><00:08:05.199><c> would</c>
+and clear. It is implicitly, I would
+and clear. It is implicitly, I would
+argue,<00:08:05.919><c> a</c><00:08:06.240><c> vision</c><00:08:06.960><c> of</c><00:08:07.440><c> developers</c><00:08:08.720><c> building</c>
+argue, a vision of developers building
+argue, a vision of developers building
+meaningful<00:08:11.039><c> scaled</c><00:08:11.680><c> agents</c><00:08:12.160><c> that</c><00:08:12.560><c> do</c>
+meaningful scaled agents that do
+meaningful scaled agents that do
+specific<00:08:13.360><c> work</c><00:08:13.759><c> tasks</c><00:08:14.479><c> at</c><00:08:14.720><c> the</c><00:08:15.120><c> big</c><00:08:15.440><c> company,</c>
+specific work tasks at the big company,
+specific work tasks at the big company,
+enterprise,<00:08:16.639><c> maybe</c><00:08:16.879><c> middlesiz</c><00:08:17.440><c> company</c>
+enterprise, maybe middlesiz company
+enterprise, maybe middlesiz company
+scale.<00:08:18.400><c> And</c><00:08:18.879><c> if</c><00:08:19.120><c> you</c><00:08:19.280><c> want</c><00:08:19.440><c> to</c><00:08:19.599><c> pull</c><00:08:19.759><c> it</c><00:08:20.000><c> down</c>
+scale. And if you want to pull it down
+scale. And if you want to pull it down
+and<00:08:20.639><c> you</c><00:08:20.879><c> start</c><00:08:21.039><c> to</c><00:08:21.199><c> look</c><00:08:21.360><c> at</c><00:08:21.520><c> the</c><00:08:21.919><c> uh</c><00:08:22.080><c> chat</c><00:08:22.479><c> GPT</c>
+and you start to look at the uh chat GPT
+and you start to look at the uh chat GPT
+inapp<00:08:23.919><c> store</c><00:08:24.479><c> experience,</c><00:08:25.520><c> they're</c><00:08:25.840><c> also</c>
+inapp store experience, they're also
+inapp store experience, they're also
+suggesting<00:08:26.560><c> that</c><00:08:26.800><c> we</c><00:08:27.120><c> consumers</c><00:08:28.080><c> will</c><00:08:28.400><c> have</c>
+suggesting that we consumers will have
+suggesting that we consumers will have
+that<00:08:28.879><c> implicitly</c><00:08:29.599><c> by</c><00:08:29.919><c> having</c><00:08:30.080><c> these</c><00:08:30.400><c> apps</c>
+that implicitly by having these apps
+that implicitly by having these apps
+that<00:08:30.960><c> do</c><00:08:31.120><c> things</c><00:08:31.360><c> for</c><00:08:31.520><c> us.</c><00:08:31.759><c> And</c><00:08:31.919><c> it</c><00:08:32.080><c> will</c><00:08:32.399><c> also</c>
+that do things for us. And it will also
+that do things for us. And it will also
+feel<00:08:33.120><c> like</c><00:08:33.599><c> I</c><00:08:33.839><c> want</c><00:08:33.919><c> to</c><00:08:34.000><c> go</c><00:08:34.159><c> check</c><00:08:34.399><c> my</c>
+feel like I want to go check my
+feel like I want to go check my
+QuickBooks<00:08:35.120><c> as</c><00:08:35.360><c> a</c><00:08:35.519><c> small</c><00:08:35.760><c> business</c><00:08:36.000><c> owner</c><00:08:36.320><c> and</c>
+QuickBooks as a small business owner and
+QuickBooks as a small business owner and
+I<00:08:36.640><c> can</c><00:08:36.800><c> do</c><00:08:36.880><c> that</c><00:08:37.120><c> or</c><00:08:37.360><c> you</c><00:08:37.440><c> know</c><00:08:37.599><c> I</c><00:08:37.839><c> want</c><00:08:37.919><c> to</c><00:08:38.080><c> go</c>
+I can do that or you know I want to go
+I can do that or you know I want to go
+and<00:08:38.479><c> and</c><00:08:38.959><c> look</c><00:08:39.279><c> at</c><00:08:39.839><c> how</c><00:08:40.159><c> my</c><00:08:40.800><c> uh</c><00:08:40.959><c> Spotify</c>
+and and look at how my uh Spotify
+and and look at how my uh Spotify
+streams<00:08:41.839><c> are</c><00:08:41.919><c> doing</c><00:08:42.080><c> as</c><00:08:42.320><c> a</c><00:08:42.479><c> creator</c><00:08:42.800><c> and</c><00:08:42.959><c> then</c>
+streams are doing as a creator and then
+streams are doing as a creator and then
+you<00:08:43.279><c> can</c><00:08:43.360><c> go</c><00:08:43.440><c> and</c><00:08:43.680><c> do</c><00:08:43.760><c> that.</c><00:08:44.159><c> Right?</c><00:08:44.640><c> Fine.</c><00:08:45.600><c> The</c>
+you can go and do that. Right? Fine. The
+you can go and do that. Right? Fine. The
+the<00:08:46.720><c> point</c><00:08:47.279><c> is</c><00:08:47.519><c> that</c><00:08:47.760><c> the</c><00:08:48.080><c> task</c><00:08:48.480><c> is</c><00:08:48.720><c> what</c>
+the point is that the task is what
+the point is that the task is what
+matters<00:08:49.600><c> and</c><00:08:49.920><c> accomplishing</c><00:08:50.640><c> the</c><00:08:50.880><c> task</c><00:08:51.120><c> is</c>
+matters and accomplishing the task is
+matters and accomplishing the task is
+the<00:08:51.680><c> definition</c><00:08:52.160><c> of</c><00:08:52.480><c> success</c><00:08:53.040><c> for</c><00:08:53.279><c> the</c><00:08:53.440><c> agent.</c>
+the definition of success for the agent.
+the definition of success for the agent.
+Whereas<00:08:54.800><c> at</c><00:08:55.120><c> anthropic</c><00:08:55.839><c> and</c><00:08:56.080><c> with</c><00:08:56.320><c> claude</c>
+Whereas at anthropic and with claude
+Whereas at anthropic and with claude
+code,<00:08:57.120><c> it</c><00:08:57.440><c> feels</c><00:08:57.839><c> more</c><00:08:58.480><c> like</c><00:08:59.120><c> working</c>
+code, it feels more like working
+code, it feels more like working
+together<00:09:00.399><c> and</c><00:09:00.640><c> getting</c><00:09:00.959><c> stuff</c><00:09:01.200><c> done</c><00:09:01.519><c> over</c>
+together and getting stuff done over
+together and getting stuff done over
+time<00:09:02.720><c> is</c><00:09:03.040><c> the</c><00:09:03.360><c> purpose</c><00:09:03.920><c> and</c><00:09:04.160><c> we</c><00:09:04.399><c> are</c><00:09:04.640><c> building</c>
+time is the purpose and we are building
+time is the purpose and we are building
+a<00:09:05.120><c> collaborative</c><00:09:05.680><c> relationship</c><00:09:06.240><c> with</c><00:09:06.480><c> claude</c>
+a collaborative relationship with claude
+a collaborative relationship with claude
+code<00:09:07.040><c> and</c><00:09:07.200><c> claude</c><00:09:07.519><c> code</c><00:09:07.839><c> does</c><00:09:08.000><c> many</c><00:09:08.240><c> things</c>
+code and claude code does many things
+code and claude code does many things
+for<00:09:08.640><c> us.</c><00:09:08.959><c> I</c><00:09:09.360><c> think</c><00:09:09.519><c> that</c><00:09:09.920><c> shows</c><00:09:10.240><c> up</c><00:09:10.480><c> a</c><00:09:10.720><c> bit</c><00:09:11.040><c> in</c>
+for us. I think that shows up a bit in
+for us. I think that shows up a bit in
+the<00:09:11.519><c> way</c><00:09:11.839><c> responses</c><00:09:12.560><c> come</c><00:09:12.720><c> through.</c><00:09:13.040><c> I</c><00:09:13.279><c> have</c>
+the way responses come through. I have
+the way responses come through. I have
+given<00:09:14.560><c> identical</c><00:09:15.200><c> asks</c><00:09:16.080><c> to</c><00:09:16.560><c> claude</c><00:09:17.040><c> code</c><00:09:17.680><c> and</c>
+given identical asks to claude code and
+given identical asks to claude code and
+to<00:09:18.160><c> codeex</c><00:09:18.959><c> just</c><00:09:19.200><c> to</c><00:09:19.360><c> see</c><00:09:19.519><c> what</c><00:09:19.760><c> would</c><00:09:20.000><c> happen.</c>
+to codeex just to see what would happen.
+to codeex just to see what would happen.
+And<00:09:20.800><c> what</c><00:09:20.959><c> I</c><00:09:21.200><c> find</c><00:09:21.760><c> is</c><00:09:22.000><c> that</c><00:09:22.240><c> claude</c><00:09:22.720><c> code</c>
+And what I find is that claude code
+And what I find is that claude code
+tries<00:09:24.000><c> to</c><00:09:24.240><c> take</c><00:09:24.560><c> that</c><00:09:24.880><c> general</c><00:09:25.360><c> agent</c><00:09:25.680><c> in</c><00:09:25.839><c> a</c>
+tries to take that general agent in a
+tries to take that general agent in a
+loop<00:09:26.240><c> with</c><00:09:26.399><c> tools</c><00:09:26.720><c> approach</c><00:09:26.959><c> where</c><00:09:27.120><c> it</c><00:09:27.279><c> will</c>
+loop with tools approach where it will
+loop with tools approach where it will
+throw<00:09:27.680><c> multiple</c><00:09:28.080><c> tools</c><00:09:28.399><c> at</c><00:09:28.560><c> the</c><00:09:28.800><c> problem.</c><00:09:29.200><c> It</c>
+throw multiple tools at the problem. It
+throw multiple tools at the problem. It
+will<00:09:29.600><c> come</c><00:09:29.760><c> back</c><00:09:29.920><c> with</c><00:09:30.080><c> a</c><00:09:30.240><c> thorough</c><00:09:30.640><c> analysis</c>
+will come back with a thorough analysis
+will come back with a thorough analysis
+of<00:09:31.440><c> the</c><00:09:31.600><c> problem</c><00:09:32.240><c> and</c><00:09:32.399><c> I</c><00:09:32.640><c> intentionally</c><00:09:32.959><c> made</c>
+of the problem and I intentionally made
+of the problem and I intentionally made
+it<00:09:33.200><c> a</c><00:09:33.360><c> very</c><00:09:33.519><c> open-ended</c><00:09:34.080><c> analysis</c><00:09:34.640><c> prompt</c><00:09:35.120><c> and</c>
+it a very open-ended analysis prompt and
+it a very open-ended analysis prompt and
+it<00:09:35.519><c> will</c><00:09:35.600><c> give</c><00:09:35.680><c> me</c><00:09:35.839><c> a</c><00:09:36.000><c> really</c><00:09:36.240><c> full</c><00:09:36.399><c> readout</c>
+it will give me a really full readout
+it will give me a really full readout
+and<00:09:37.360><c> codeex</c><00:09:38.000><c> is</c><00:09:38.240><c> going</c><00:09:38.399><c> to</c><00:09:38.480><c> take</c><00:09:38.640><c> the</c><00:09:38.800><c> approach</c>
+and codeex is going to take the approach
+and codeex is going to take the approach
+of<00:09:39.279><c> this</c><00:09:39.440><c> is</c><00:09:39.519><c> a</c><00:09:39.680><c> task</c><00:09:39.920><c> I</c><00:09:40.160><c> need</c><00:09:40.240><c> to</c><00:09:40.320><c> get</c><00:09:40.480><c> done</c><00:09:40.640><c> and</c>
+of this is a task I need to get done and
+of this is a task I need to get done and
+it<00:09:41.040><c> will</c><00:09:41.200><c> come</c><00:09:41.360><c> back</c><00:09:41.839><c> quickly</c><00:09:42.399><c> token</c>
+it will come back quickly token
+it will come back quickly token
+efficiently<00:09:43.680><c> and</c><00:09:43.920><c> it</c><00:09:44.080><c> will</c><00:09:44.240><c> give</c><00:09:44.399><c> me</c><00:09:44.560><c> a</c><00:09:45.200><c> pretty</c>
+efficiently and it will give me a pretty
+efficiently and it will give me a pretty
+much<00:09:45.760><c> correct</c><00:09:46.240><c> but</c><00:09:46.480><c> extremely</c><00:09:47.040><c> short</c><00:09:47.200><c> and</c>
+much correct but extremely short and
+much correct but extremely short and
+succinct<00:09:47.920><c> analysis.</c><00:09:49.040><c> This</c><00:09:49.360><c> is</c><00:09:49.920><c> why</c><00:09:50.720><c> codeex</c><00:09:51.360><c> is</c>
+succinct analysis. This is why codeex is
+succinct analysis. This is why codeex is
+leaning<00:09:52.000><c> on</c><00:09:52.320><c> some</c><00:09:52.640><c> custom</c><00:09:53.120><c> modeling</c><00:09:53.519><c> of</c><00:09:53.760><c> GPT5</c>
+leaning on some custom modeling of GPT5
+leaning on some custom modeling of GPT5
+that<00:09:55.120><c> particular</c><00:09:55.600><c> command</c><00:09:55.920><c> line</c><00:09:56.080><c> interface.</c>
+that particular command line interface.
+that particular command line interface.
+If<00:09:56.640><c> you're</c><00:09:56.800><c> typing</c><00:09:57.040><c> in</c><00:09:57.200><c> the</c><00:09:57.279><c> terminal</c><00:09:57.680><c> to</c>
+If you're typing in the terminal to
+If you're typing in the terminal to
+codeex,<00:09:58.399><c> it's</c><00:09:58.640><c> not</c><00:09:58.880><c> GPT5</c><00:09:59.760><c> vanilla.</c><00:10:00.480><c> It's</c><00:10:00.720><c> a</c>
+codeex, it's not GPT5 vanilla. It's a
+codeex, it's not GPT5 vanilla. It's a
+special<00:10:01.279><c> model.</c><00:10:02.000><c> It's</c><00:10:02.240><c> a</c><00:10:02.480><c> special</c><00:10:02.880><c> model</c>
+special model. It's a special model
+special model. It's a special model
+that's<00:10:04.000><c> designed</c><00:10:04.800><c> to</c><00:10:05.120><c> be</c><00:10:05.360><c> token</c><00:10:05.920><c> efficient</c>
+that's designed to be token efficient
+that's designed to be token efficient
+with<00:10:07.040><c> specific</c><00:10:07.680><c> problems.</c><00:10:08.399><c> And</c><00:10:08.640><c> so</c><00:10:09.120><c> in</c><00:10:09.360><c> this</c>
+with specific problems. And so in this
+with specific problems. And so in this
+case,<00:10:09.760><c> when</c><00:10:09.920><c> I</c><00:10:10.080><c> gave</c><00:10:10.240><c> Codex</c><00:10:10.720><c> the</c><00:10:10.880><c> analysis,</c><00:10:11.600><c> it</c>
+case, when I gave Codex the analysis, it
+case, when I gave Codex the analysis, it
+came<00:10:12.080><c> back</c><00:10:12.640><c> and</c><00:10:12.880><c> it</c><00:10:13.040><c> was</c><00:10:13.120><c> like,</c><00:10:13.279><c> oh,</c><00:10:13.440><c> I</c><00:10:13.680><c> don't</c>
+came back and it was like, oh, I don't
+came back and it was like, oh, I don't
+need<00:10:13.839><c> a</c><00:10:14.079><c> lot</c><00:10:14.160><c> of</c><00:10:14.240><c> tokens</c><00:10:14.560><c> for</c><00:10:14.640><c> this.</c><00:10:14.880><c> I'm</c><00:10:15.120><c> just</c>
+need a lot of tokens for this. I'm just
+need a lot of tokens for this. I'm just
+going<00:10:15.279><c> to</c><00:10:15.360><c> give</c><00:10:15.519><c> you</c><00:10:15.680><c> exactly</c><00:10:16.079><c> what</c><00:10:16.240><c> you</c><00:10:16.480><c> need.</c>
+going to give you exactly what you need.
+going to give you exactly what you need.
+And<00:10:16.880><c> it</c><00:10:17.040><c> was</c><00:10:17.120><c> like</c><00:10:17.680><c> 15</c><00:10:18.079><c> lines,</c><00:10:18.560><c> right?</c><00:10:19.040><c> And</c>
+And it was like 15 lines, right? And
+And it was like 15 lines, right? And
+clogged<00:10:19.680><c> code</c><00:10:19.920><c> came</c><00:10:20.079><c> back</c><00:10:20.160><c> and</c><00:10:20.399><c> it</c><00:10:20.480><c> was</c><00:10:20.560><c> like</c>
+clogged code came back and it was like
+clogged code came back and it was like
+eight<00:10:20.959><c> pages.</c><00:10:21.440><c> People</c><00:10:22.240><c> think</c><00:10:22.480><c> about</c><00:10:22.640><c> that</c>
+eight pages. People think about that
+eight pages. People think about that
+from<00:10:23.200><c> a</c><00:10:23.760><c> token</c><00:10:24.240><c> consumption</c><00:10:24.800><c> perspective</c><00:10:25.279><c> and</c>
+from a token consumption perspective and
+from a token consumption perspective and
+that<00:10:25.680><c> can</c><00:10:25.839><c> be</c><00:10:25.920><c> very</c><00:10:26.160><c> helpful.</c><00:10:26.560><c> Right?</c><00:10:26.800><c> If</c>
+that can be very helpful. Right? If
+that can be very helpful. Right? If
+you're<00:10:27.120><c> doing</c><00:10:27.279><c> this</c><00:10:27.519><c> hundreds</c><00:10:28.000><c> of</c><00:10:28.160><c> times</c><00:10:28.720><c> as</c>
+you're doing this hundreds of times as
+you're doing this hundreds of times as
+codeex<00:10:29.440><c> is</c><00:10:29.600><c> often</c><00:10:29.920><c> envisioned</c><00:10:30.399><c> it,</c><00:10:30.880><c> you</c><00:10:31.040><c> know</c>
+codeex is often envisioned it, you know
+codeex is often envisioned it, you know
+that<00:10:31.440><c> they</c><00:10:31.680><c> envision</c><00:10:32.000><c> this</c><00:10:32.160><c> working</c><00:10:32.320><c> at</c><00:10:32.480><c> big</c>
+that they envision this working at big
+that they envision this working at big
+company<00:10:33.040><c> scales.</c><00:10:33.760><c> That's</c><00:10:33.920><c> super</c><00:10:34.320><c> efficient,</c>
+company scales. That's super efficient,
+company scales. That's super efficient,
+right?<00:10:34.800><c> I</c><00:10:35.040><c> get</c><00:10:35.200><c> exactly</c><00:10:35.519><c> what</c><00:10:35.680><c> I</c><00:10:35.839><c> need.</c><00:10:36.000><c> I</c>
+right? I get exactly what I need. I
+right? I get exactly what I need. I
+don't<00:10:36.399><c> need</c><00:10:36.480><c> anything</c><00:10:36.800><c> more.</c><00:10:37.360><c> And</c><00:10:37.519><c> then</c><00:10:38.000><c> the</c>
+don't need anything more. And then the
+don't need anything more. And then the
+other<00:10:38.480><c> side</c><00:10:38.640><c> of</c><00:10:38.880><c> codeex</c><00:10:39.360><c> kicks</c><00:10:39.600><c> in.</c><00:10:39.920><c> If</c><00:10:40.079><c> you</c>
+other side of codeex kicks in. If you
+other side of codeex kicks in. If you
+have<00:10:40.320><c> a</c><00:10:40.480><c> very</c><00:10:40.800><c> difficult</c><00:10:41.279><c> problem,</c><00:10:41.760><c> if</c><00:10:41.920><c> you</c>
+have a very difficult problem, if you
+have a very difficult problem, if you
+have<00:10:42.240><c> something</c><00:10:42.480><c> where</c><00:10:42.720><c> you</c><00:10:42.880><c> need</c><00:10:43.040><c> codec</c><00:10:43.600><c> to</c>
+have something where you need codec to
+have something where you need codec to
+work<00:10:43.920><c> independently</c><00:10:44.640><c> for</c><00:10:44.880><c> a</c><00:10:45.040><c> long</c><00:10:45.200><c> period</c><00:10:45.360><c> of</c>
+work independently for a long period of
+work independently for a long period of
+time<00:10:45.680><c> on</c><00:10:45.839><c> a</c><00:10:46.000><c> very</c><00:10:46.240><c> hard</c><00:10:46.480><c> problem,</c><00:10:46.880><c> especially</c>
+time on a very hard problem, especially
+time on a very hard problem, especially
+a<00:10:47.760><c> coding</c><00:10:48.240><c> problem,</c><00:10:48.880><c> it's</c><00:10:49.120><c> a</c><00:10:49.279><c> specialized</c>
+a coding problem, it's a specialized
+a coding problem, it's a specialized
+agent<00:10:50.240><c> for</c><00:10:50.480><c> coding.</c><00:10:50.880><c> it</c><00:10:51.040><c> will</c><00:10:51.200><c> go</c><00:10:51.360><c> against</c>
+agent for coding. it will go against
+agent for coding. it will go against
+that<00:10:51.839><c> task</c><00:10:52.000><c> and</c><00:10:52.160><c> it</c><00:10:52.320><c> will</c><00:10:52.480><c> solve</c><00:10:52.640><c> it.</c><00:10:52.800><c> It's</c>
+that task and it will solve it. It's
+that task and it will solve it. It's
+it's<00:10:53.200><c> sort</c><00:10:53.360><c> of</c><00:10:53.440><c> like</c><00:10:53.600><c> it</c><00:10:53.839><c> was</c><00:10:54.160><c> designed</c>
+it's sort of like it was designed
+it's sort of like it was designed
+specifically<00:10:55.360><c> to</c><00:10:55.680><c> target</c><00:10:56.640><c> high</c><00:10:57.120><c> impact</c>
+specifically to target high impact
+specifically to target high impact
+coding<00:10:58.320><c> problems</c><00:10:59.040><c> in</c><00:10:59.360><c> large</c><00:10:59.680><c> code</c><00:10:59.920><c> bases</c><00:11:00.240><c> at</c>
+coding problems in large code bases at
+coding problems in large code bases at
+enterprise<00:11:01.040><c> scale.</c><00:11:01.680><c> But</c><00:11:01.839><c> it</c><00:11:02.079><c> all</c><00:11:02.240><c> keeps</c>
+enterprise scale. But it all keeps
+enterprise scale. But it all keeps
+coming<00:11:02.800><c> back</c><00:11:03.200><c> to</c><00:11:03.600><c> codeex</c><00:11:04.160><c> being</c><00:11:04.399><c> designed</c>
+coming back to codeex being designed
+coming back to codeex being designed
+along<00:11:05.120><c> with</c><00:11:05.279><c> the</c><00:11:05.440><c> rest</c><00:11:05.600><c> of</c><00:11:05.680><c> the</c><00:11:05.839><c> chat</c><00:11:06.240><c> GPT</c>
+along with the rest of the chat GPT
+along with the rest of the chat GPT
+agent<00:11:07.120><c> vision</c><00:11:07.920><c> as</c><00:11:08.480><c> we</c><00:11:08.800><c> give</c><00:11:09.360><c> the</c><00:11:10.079><c> LLM</c><00:11:10.560><c> a</c><00:11:10.720><c> task</c>
+agent vision as we give the LLM a task
+agent vision as we give the LLM a task
+and<00:11:11.680><c> it</c><00:11:11.839><c> goes</c><00:11:12.000><c> and</c><00:11:12.240><c> does</c><00:11:12.399><c> it</c><00:11:12.640><c> and</c><00:11:12.880><c> it</c>
+and it goes and does it and it
+and it goes and does it and it
+accomplishes<00:11:13.680><c> it</c><00:11:13.839><c> and</c><00:11:14.079><c> there's</c><00:11:14.240><c> an</c><00:11:14.399><c> endpoint</c>
+accomplishes it and there's an endpoint
+accomplishes it and there's an endpoint
+to<00:11:14.959><c> that.</c><00:11:15.279><c> I</c><00:11:15.519><c> think</c><00:11:15.680><c> this</c><00:11:15.839><c> is</c><00:11:16.000><c> really</c>
+to that. I think this is really
+to that. I think this is really
+important.<00:11:16.640><c> I</c><00:11:16.880><c> think</c><00:11:16.959><c> it's</c><00:11:17.200><c> important</c><00:11:17.519><c> not</c>
+important. I think it's important not
+important. I think it's important not
+just<00:11:18.079><c> for</c><00:11:18.399><c> whether</c><00:11:18.720><c> you</c><00:11:18.959><c> pick</c><00:11:19.279><c> claude</c><00:11:19.680><c> or</c>
+just for whether you pick claude or
+just for whether you pick claude or
+codeex<00:11:20.320><c> which</c><00:11:20.480><c> we'll</c><00:11:20.720><c> get</c><00:11:20.880><c> into.</c><00:11:21.600><c> It's</c><00:11:21.920><c> also</c>
+codeex which we'll get into. It's also
+codeex which we'll get into. It's also
+important<00:11:22.720><c> for</c><00:11:23.040><c> how</c><00:11:23.279><c> we</c><00:11:23.600><c> think</c><00:11:23.760><c> about</c><00:11:24.160><c> how</c><00:11:24.399><c> we</c>
+important for how we think about how we
+important for how we think about how we
+want<00:11:24.800><c> to</c><00:11:24.959><c> collaborate</c><00:11:25.360><c> with</c><00:11:25.600><c> AI</c><00:11:26.000><c> going</c>
+want to collaborate with AI going
+want to collaborate with AI going
+forward<00:11:26.959><c> because</c><00:11:27.519><c> we</c><00:11:27.760><c> have</c><00:11:27.920><c> to</c><00:11:28.079><c> kind</c><00:11:28.240><c> of</c><00:11:28.560><c> pick</c>
+forward because we have to kind of pick
+forward because we have to kind of pick
+a<00:11:28.959><c> vision</c><00:11:29.200><c> that</c><00:11:29.360><c> we</c><00:11:29.600><c> want</c><00:11:29.680><c> to</c><00:11:29.839><c> sign</c><00:11:30.000><c> up</c><00:11:30.160><c> for</c><00:11:30.399><c> and</c>
+a vision that we want to sign up for and
+a vision that we want to sign up for and
+it<00:11:30.880><c> leaks</c><00:11:31.279><c> into</c><00:11:31.600><c> the</c><00:11:31.760><c> rest</c><00:11:31.920><c> of</c><00:11:32.079><c> the</c><00:11:32.240><c> Asian</c>
+it leaks into the rest of the Asian
+it leaks into the rest of the Asian
+ecosystem.<00:11:33.440><c> So</c><00:11:33.680><c> if</c><00:11:33.839><c> you</c><00:11:34.000><c> want</c><00:11:34.320><c> to</c><00:11:34.720><c> pick</c>
+ecosystem. So if you want to pick
+ecosystem. So if you want to pick
+Claude,<00:11:36.000><c> you're</c><00:11:36.240><c> sort</c><00:11:36.480><c> of</c><00:11:36.640><c> voting</c><00:11:37.040><c> for</c><00:11:37.600><c> a</c>
+Claude, you're sort of voting for a
+Claude, you're sort of voting for a
+future<00:11:38.880><c> where</c><00:11:39.279><c> you</c><00:11:39.680><c> want</c><00:11:40.000><c> to</c><00:11:40.399><c> collaborate</c>
+future where you want to collaborate
+future where you want to collaborate
+with<00:11:41.360><c> AI</c><00:11:41.839><c> almost</c><00:11:42.160><c> like</c><00:11:42.399><c> a</c><00:11:42.560><c> peer</c><00:11:43.040><c> and</c><00:11:43.279><c> you</c><00:11:43.519><c> want</c>
+with AI almost like a peer and you want
+with AI almost like a peer and you want
+to<00:11:43.920><c> be</c><00:11:44.079><c> able</c><00:11:44.399><c> to</c><00:11:44.720><c> give</c><00:11:45.440><c> your</c><00:11:45.839><c> claude</c><00:11:46.399><c> a</c><00:11:46.880><c> number</c>
+to be able to give your claude a number
+to be able to give your claude a number
+of<00:11:47.360><c> different</c><00:11:47.600><c> tasks</c><00:11:48.000><c> to</c><00:11:48.240><c> go</c><00:11:48.399><c> after</c><00:11:48.640><c> during</c>
+of different tasks to go after during
+of different tasks to go after during
+the<00:11:49.120><c> day</c><00:11:49.200><c> and</c><00:11:49.440><c> it</c><00:11:49.680><c> will</c><00:11:49.839><c> pick</c><00:11:50.000><c> up</c><00:11:50.160><c> the</c><00:11:50.320><c> tools</c><00:11:50.640><c> it</c>
+the day and it will pick up the tools it
+the day and it will pick up the tools it
+needs<00:11:50.959><c> and</c><00:11:51.120><c> it</c><00:11:51.279><c> will</c><00:11:51.360><c> go</c><00:11:51.600><c> get</c><00:11:51.680><c> them</c><00:11:51.839><c> done</c><00:11:52.000><c> and</c>
+needs and it will go get them done and
+needs and it will go get them done and
+come<00:11:52.320><c> back.</c><00:11:52.640><c> That</c><00:11:52.800><c> is</c><00:11:52.959><c> very</c><00:11:53.279><c> broadly</c><00:11:53.680><c> the</c>
+come back. That is very broadly the
+come back. That is very broadly the
+vision<00:11:54.160><c> that</c><00:11:54.320><c> we</c><00:11:54.480><c> are</c><00:11:54.640><c> starting</c><00:11:54.880><c> to</c><00:11:55.040><c> see</c><00:11:55.200><c> come</c>
+vision that we are starting to see come
+vision that we are starting to see come
+together<00:11:55.839><c> from</c><00:11:56.240><c> anthropic.</c><00:11:57.120><c> On</c><00:11:57.279><c> the</c><00:11:57.440><c> other</c>
+together from anthropic. On the other
+together from anthropic. On the other
+hand,<00:11:58.160><c> if</c><00:11:58.399><c> you</c><00:11:58.560><c> are</c><00:11:58.720><c> someone</c><00:11:58.959><c> who's</c><00:11:59.279><c> like</c><00:11:59.519><c> no</c>
+hand, if you are someone who's like no
+hand, if you are someone who's like no
+really<00:12:00.160><c> I</c><00:12:00.399><c> need</c><00:12:00.560><c> to</c><00:12:00.800><c> build</c><00:12:01.600><c> production</c>
+really I need to build production
+really I need to build production
+systems.<00:12:02.880><c> I</c><00:12:03.120><c> need</c><00:12:03.200><c> to</c><00:12:03.360><c> make</c><00:12:03.519><c> sure</c><00:12:03.600><c> I</c><00:12:03.920><c> have</c>
+systems. I need to make sure I have
+systems. I need to make sure I have
+exactly<00:12:04.640><c> what</c><00:12:04.880><c> I</c><00:12:05.040><c> need</c><00:12:05.200><c> for</c><00:12:05.360><c> this</c><00:12:05.519><c> agent.</c><00:12:05.920><c> It</c>
+exactly what I need for this agent. It
+exactly what I need for this agent. It
+needs<00:12:06.240><c> to</c><00:12:06.399><c> be</c><00:12:06.560><c> done</c><00:12:06.959><c> correctly</c><00:12:07.440><c> every</c><00:12:07.760><c> time.</c><00:12:08.079><c> I</c>
+needs to be done correctly every time. I
+needs to be done correctly every time. I
+cannot<00:12:08.639><c> fool</c><00:12:08.959><c> around</c><00:12:09.279><c> with</c><00:12:09.760><c> did</c><00:12:09.920><c> the</c><00:12:10.079><c> clawed</c>
+cannot fool around with did the clawed
+cannot fool around with did the clawed
+code<00:12:10.720><c> come</c><00:12:10.880><c> back</c><00:12:11.120><c> with</c><00:12:11.279><c> the</c><00:12:11.440><c> right</c><00:12:11.680><c> eight</c>
+code come back with the right eight
+code come back with the right eight
+pages<00:12:12.240><c> of</c><00:12:12.399><c> analysis</c><00:12:12.880><c> or</c><00:12:13.120><c> not.</c><00:12:13.360><c> It</c><00:12:13.519><c> must</c><00:12:13.760><c> be</c>
+pages of analysis or not. It must be
+pages of analysis or not. It must be
+correct<00:12:14.240><c> every</c><00:12:14.560><c> time.</c><00:12:15.040><c> I</c><00:12:15.279><c> want,</c><00:12:15.680><c> for</c><00:12:15.839><c> lack</c><00:12:16.079><c> of</c>
+correct every time. I want, for lack of
+correct every time. I want, for lack of
+a<00:12:16.320><c> better</c><00:12:16.560><c> term,</c><00:12:17.120><c> more</c><00:12:17.519><c> deterministic</c>
+a better term, more deterministic
+a better term, more deterministic
+intelligence.<00:12:19.360><c> Fine.</c><00:12:20.079><c> That's</c><00:12:20.399><c> fine.</c><00:12:20.959><c> At</c><00:12:21.279><c> that</c>
+intelligence. Fine. That's fine. At that
+intelligence. Fine. That's fine. At that
+point,<00:12:22.240><c> you</c><00:12:22.560><c> need</c><00:12:22.800><c> to</c><00:12:23.360><c> sign</c><00:12:23.600><c> up</c><00:12:23.760><c> with</c><00:12:23.920><c> codecs.</c>
+point, you need to sign up with codecs.
+point, you need to sign up with codecs.
+You<00:12:25.120><c> need</c><00:12:25.200><c> to</c><00:12:25.440><c> sign</c><00:12:25.600><c> up</c><00:12:25.839><c> not</c><00:12:26.000><c> just</c><00:12:26.160><c> with</c>
+You need to sign up not just with
+You need to sign up not just with
+codecs,<00:12:26.720><c> but</c><00:12:26.880><c> that's</c><00:12:27.120><c> something</c><00:12:27.279><c> that</c>
+codecs, but that's something that
+codecs, but that's something that
+implies<00:12:27.920><c> an</c><00:12:28.160><c> agent</c><00:12:28.639><c> builder</c><00:12:28.959><c> world,</c><00:12:29.360><c> right?</c>
+implies an agent builder world, right?
+implies an agent builder world, right?
+where<00:12:30.079><c> you</c><00:12:30.320><c> are</c><00:12:30.480><c> deterministically</c><00:12:31.440><c> saying</c>
+where you are deterministically saying
+where you are deterministically saying
+this<00:12:32.000><c> is</c><00:12:32.160><c> exactly</c><00:12:32.480><c> what</c><00:12:32.720><c> I</c><00:12:32.800><c> want</c><00:12:32.959><c> and</c><00:12:33.120><c> I</c><00:12:33.200><c> want</c>
+this is exactly what I want and I want
+this is exactly what I want and I want
+to<00:12:33.360><c> get</c><00:12:33.440><c> it</c><00:12:33.600><c> done.</c><00:12:33.920><c> I'm</c><00:12:34.240><c> not</c><00:12:34.480><c> here</c><00:12:34.800><c> to</c><00:12:35.040><c> tell</c><00:12:35.200><c> you</c>
+to get it done. I'm not here to tell you
+to get it done. I'm not here to tell you
+which<00:12:35.760><c> is</c><00:12:36.000><c> better</c><00:12:36.240><c> or</c><00:12:36.480><c> worse.</c><00:12:36.800><c> I'm</c><00:12:37.040><c> actually</c>
+which is better or worse. I'm actually
+which is better or worse. I'm actually
+here<00:12:37.440><c> to</c><00:12:37.839><c> give</c><00:12:38.079><c> you</c><00:12:38.320><c> a</c><00:12:38.560><c> sense</c><00:12:38.800><c> of</c><00:12:38.959><c> the</c>
+here to give you a sense of the
+here to give you a sense of the
+underlying<00:12:40.480><c> Asian</c><00:12:40.880><c> agent</c><00:12:41.360><c> vision</c><00:12:42.160><c> so</c><00:12:42.399><c> you</c><00:12:42.720><c> can</c>
+underlying Asian agent vision so you can
+underlying Asian agent vision so you can
+look<00:12:43.120><c> at</c><00:12:43.279><c> it</c><00:12:43.440><c> and</c><00:12:43.680><c> say</c><00:12:43.839><c> for</c><00:12:44.079><c> yourself</c><00:12:44.880><c> this</c><00:12:45.040><c> is</c>
+look at it and say for yourself this is
+look at it and say for yourself this is
+what<00:12:45.360><c> I</c><00:12:45.519><c> need</c><00:12:45.600><c> for</c><00:12:45.839><c> my</c><00:12:46.000><c> tool</c><00:12:46.240><c> set.</c><00:12:46.800><c> The</c><00:12:47.040><c> agent</c>
+what I need for my tool set. The agent
+what I need for my tool set. The agent
+market<00:12:47.839><c> is</c><00:12:48.079><c> so</c><00:12:48.320><c> big.</c><00:12:48.720><c> It</c><00:12:48.959><c> is</c><00:12:49.200><c> absolutely</c>
+market is so big. It is absolutely
+market is so big. It is absolutely
+possible<00:12:50.399><c> we</c><00:12:50.639><c> have</c><00:12:50.800><c> multiple</c><00:12:51.200><c> winners</c><00:12:51.519><c> here,</c>
+possible we have multiple winners here,
+possible we have multiple winners here,
+right?<00:12:52.000><c> We</c><00:12:52.160><c> have</c><00:12:52.320><c> codeex</c><00:12:52.800><c> winning</c><00:12:53.120><c> maybe</c><00:12:53.279><c> for</c>
+right? We have codeex winning maybe for
+right? We have codeex winning maybe for
+enterprise<00:12:54.000><c> workflows</c><00:12:54.880><c> and</c><00:12:55.120><c> for</c><00:12:55.600><c> highly</c>
+enterprise workflows and for highly
+enterprise workflows and for highly
+deterministic<00:12:56.800><c> workflows</c><00:12:57.200><c> where</c><00:12:57.360><c> you</c><00:12:57.519><c> need</c>
+deterministic workflows where you need
+deterministic workflows where you need
+to<00:12:57.760><c> get</c><00:12:57.839><c> it</c><00:12:58.000><c> right</c><00:12:58.240><c> every</c><00:12:58.560><c> single</c><00:12:58.800><c> time</c><00:12:59.200><c> or</c><00:12:59.440><c> for</c>
+to get it right every single time or for
+to get it right every single time or for
+workflows<00:13:00.000><c> that</c><00:13:00.160><c> are</c><00:13:00.320><c> extremely</c><00:13:00.720><c> complex</c><00:13:01.200><c> and</c>
+workflows that are extremely complex and
+workflows that are extremely complex and
+accomplishment<00:13:01.920><c> looks</c><00:13:02.160><c> like</c><00:13:02.320><c> solving</c><00:13:02.639><c> this</c>
+accomplishment looks like solving this
+accomplishment looks like solving this
+really<00:13:03.040><c> tricky</c><00:13:03.279><c> bug</c><00:13:03.519><c> in</c><00:13:03.680><c> this</c><00:13:03.839><c> really</c>
+really tricky bug in this really
+really tricky bug in this really
+particular<00:13:04.480><c> place</c><00:13:05.040><c> and</c><00:13:05.200><c> then</c><00:13:05.440><c> you</c><00:13:05.600><c> may</c><00:13:05.760><c> have</c><00:13:05.839><c> a</c>
+particular place and then you may have a
+particular place and then you may have a
+winner<00:13:06.320><c> with</c><00:13:06.560><c> Claude</c><00:13:07.279><c> where</c><00:13:07.680><c> Claude</c><00:13:08.079><c> is</c><00:13:08.240><c> a</c>
+winner with Claude where Claude is a
+winner with Claude where Claude is a
+general<00:13:08.959><c> purpose</c><00:13:09.279><c> agent</c><00:13:09.600><c> that</c><00:13:09.839><c> works</c><00:13:10.000><c> really</c>
+general purpose agent that works really
+general purpose agent that works really
+effectively<00:13:10.800><c> for</c><00:13:10.959><c> you</c><00:13:11.360><c> and</c><00:13:11.600><c> different</c><00:13:11.839><c> people</c>
+effectively for you and different people
+effectively for you and different people
+will<00:13:12.320><c> have</c><00:13:12.480><c> different</c><00:13:12.720><c> opinions</c><00:13:13.040><c> on</c><00:13:13.279><c> that.</c>
+will have different opinions on that.
+will have different opinions on that.
+The<00:13:14.079><c> rest</c><00:13:14.240><c> of</c><00:13:14.399><c> the</c><00:13:14.560><c> agent</c><00:13:14.959><c> ecosystem</c><00:13:15.839><c> is</c>
+The rest of the agent ecosystem is
+The rest of the agent ecosystem is
+falling<00:13:16.720><c> into</c><00:13:16.959><c> one</c><00:13:17.120><c> of</c><00:13:17.200><c> those</c><00:13:17.360><c> camps.</c><00:13:17.839><c> If</c><00:13:18.000><c> you</c>
+falling into one of those camps. If you
+falling into one of those camps. If you
+look<00:13:18.240><c> at</c><00:13:18.399><c> N8N,</c><00:13:19.200><c> NAND</c><00:13:19.839><c> is</c><00:13:20.000><c> a</c><00:13:20.160><c> drag</c><00:13:20.320><c> and</c><00:13:20.560><c> drop</c>
+look at N8N, NAND is a drag and drop
+look at N8N, NAND is a drag and drop
+agent<00:13:21.040><c> builder</c><00:13:21.279><c> or</c><00:13:21.440><c> you</c><00:13:21.600><c> can</c><00:13:21.680><c> use</c><00:13:21.839><c> JSON</c><00:13:22.240><c> to</c>
+agent builder or you can use JSON to
+agent builder or you can use JSON to
+program<00:13:22.720><c> it.</c><00:13:22.959><c> I've</c><00:13:23.120><c> talked</c><00:13:23.360><c> about</c><00:13:23.519><c> it</c><00:13:23.680><c> before.</c>
+program it. I've talked about it before.
+program it. I've talked about it before.
+It's<00:13:24.480><c> really</c><00:13:24.720><c> cool.</c><00:13:25.040><c> One</c><00:13:25.200><c> of</c><00:13:25.279><c> the</c><00:13:25.440><c> things</c>
+It's really cool. One of the things
+It's really cool. One of the things
+that's<00:13:25.839><c> nice</c><00:13:26.079><c> after</c><00:13:26.320><c> the</c><00:13:26.560><c> agent</c><00:13:26.880><c> builder</c>
+that's nice after the agent builder
+that's nice after the agent builder
+launch<00:13:27.440><c> is</c><00:13:27.680><c> that</c><00:13:27.920><c> NAND</c><00:13:28.560><c> doesn't</c><00:13:28.800><c> lock</c><00:13:29.120><c> lock</c>
+launch is that NAND doesn't lock lock
+launch is that NAND doesn't lock lock
+you<00:13:29.519><c> into</c><00:13:29.680><c> the</c><00:13:29.839><c> OpenAI</c><00:13:30.480><c> ecosystem</c><00:13:30.959><c> and</c><00:13:31.200><c> people</c>
+you into the OpenAI ecosystem and people
+you into the OpenAI ecosystem and people
+appreciate<00:13:31.839><c> that.</c><00:13:32.480><c> Well,</c><00:13:33.040><c> it</c><00:13:33.360><c> still</c><00:13:33.760><c> has</c><00:13:34.399><c> the</c>
+appreciate that. Well, it still has the
+appreciate that. Well, it still has the
+same<00:13:35.279><c> vision</c><00:13:35.680><c> of</c><00:13:35.920><c> the</c><00:13:36.079><c> agent</c><00:13:36.480><c> that</c><00:13:36.720><c> OpenAI</c>
+same vision of the agent that OpenAI
+same vision of the agent that OpenAI
+has.<00:13:37.760><c> They</c><00:13:38.000><c> go</c><00:13:38.160><c> and</c><00:13:38.320><c> they</c><00:13:38.480><c> do</c><00:13:38.639><c> a</c><00:13:38.800><c> task</c><00:13:39.120><c> and</c><00:13:39.279><c> they</c>
+has. They go and they do a task and they
+has. They go and they do a task and they
+come<00:13:39.680><c> back.</c><00:13:40.240><c> They</c><00:13:40.399><c> go</c><00:13:40.480><c> and</c><00:13:40.639><c> they</c><00:13:40.720><c> do</c><00:13:40.800><c> a</c><00:13:40.959><c> task</c>
+come back. They go and they do a task
+come back. They go and they do a task
+and<00:13:41.279><c> it's</c><00:13:41.519><c> accomplished,</c><00:13:42.160><c> right?</c><00:13:42.399><c> It's</c><00:13:42.639><c> not</c><00:13:42.800><c> a</c>
+and it's accomplished, right? It's not a
+and it's accomplished, right? It's not a
+ongoing<00:13:43.839><c> conversation.</c><00:13:44.880><c> It's</c><00:13:45.200><c> not</c><00:13:45.279><c> an</c>
+ongoing conversation. It's not an
+ongoing conversation. It's not an
+ongoing<00:13:45.920><c> general</c><00:13:46.320><c> purpose</c><00:13:47.040><c> piece</c><00:13:47.279><c> of</c><00:13:47.519><c> work.</c>
+ongoing general purpose piece of work.
+ongoing general purpose piece of work.
+They<00:13:48.160><c> go</c><00:13:48.240><c> and</c><00:13:48.399><c> get</c><00:13:48.560><c> it</c><00:13:48.720><c> done</c><00:13:48.880><c> and</c><00:13:49.120><c> that's</c><00:13:49.360><c> it.</c>
+They go and get it done and that's it.
+They go and get it done and that's it.
+Right?<00:13:50.160><c> You</c><00:13:50.480><c> can</c><00:13:50.639><c> grade</c><00:13:51.360><c> whether</c><00:13:51.680><c> the</c><00:13:51.839><c> agent</c>
+Right? You can grade whether the agent
+Right? You can grade whether the agent
+got<00:13:52.320><c> it</c><00:13:52.560><c> done</c><00:13:52.720><c> correctly</c><00:13:53.120><c> or</c><00:13:53.360><c> not</c><00:13:53.519><c> with</c><00:13:53.760><c> NAD</c>
+got it done correctly or not with NAD
+got it done correctly or not with NAD
+and<00:13:54.720><c> with</c><00:13:54.880><c> any</c><00:13:55.040><c> of</c><00:13:55.120><c> OpenAI's</c><00:13:55.839><c> agents.</c><00:13:56.160><c> And</c>
+and with any of OpenAI's agents. And
+and with any of OpenAI's agents. And
+there<00:13:56.399><c> are</c><00:13:56.480><c> others</c><00:13:56.800><c> too.</c><00:13:57.120><c> Lindy.ai</c><00:13:58.240><c> comes</c><00:13:58.560><c> to</c>
+there are others too. Lindy.ai comes to
+there are others too. Lindy.ai comes to
+mind.<00:13:59.279><c> Very</c><00:13:59.600><c> consumer</c><00:14:00.160><c> focused,</c><00:14:00.639><c> but</c><00:14:00.880><c> the</c>
+mind. Very consumer focused, but the
+mind. Very consumer focused, but the
+agents<00:14:01.760><c> do</c><00:14:02.000><c> things</c><00:14:02.240><c> and</c><00:14:02.480><c> they</c><00:14:02.639><c> either</c><00:14:02.959><c> do</c><00:14:03.120><c> them</c>
+agents do things and they either do them
+agents do things and they either do them
+correctly<00:14:03.680><c> or</c><00:14:03.839><c> incorrectly</c><00:14:04.399><c> and</c><00:14:04.639><c> then</c><00:14:04.800><c> it's</c>
+correctly or incorrectly and then it's
+correctly or incorrectly and then it's
+done.<00:14:05.279><c> It's</c><00:14:05.440><c> it's</c><00:14:05.760><c> a</c><00:14:05.920><c> linear</c><00:14:06.399><c> flow.</c><00:14:07.199><c> Whereas</c>
+done. It's it's a linear flow. Whereas
+done. It's it's a linear flow. Whereas
+there<00:14:08.320><c> are</c><00:14:08.480><c> others</c><00:14:09.279><c> who</c><00:14:09.519><c> are</c><00:14:09.760><c> building</c><00:14:10.240><c> much</c>
+there are others who are building much
+there are others who are building much
+more<00:14:10.880><c> collaborative</c><00:14:11.440><c> agents.</c><00:14:11.760><c> And</c><00:14:12.000><c> what's</c>
+more collaborative agents. And what's
+more collaborative agents. And what's
+interesting<00:14:13.040><c> is</c><00:14:13.279><c> that</c><00:14:13.440><c> they're</c><00:14:13.760><c> not</c><00:14:14.079><c> just</c><00:14:14.480><c> for</c>
+interesting is that they're not just for
+interesting is that they're not just for
+work.<00:14:15.120><c> Like</c><00:14:15.360><c> what's</c><00:14:15.680><c> what's</c><00:14:16.079><c> interesting</c>
+work. Like what's what's interesting
+work. Like what's what's interesting
+about<00:14:16.560><c> Anthropic</c><00:14:17.120><c> is</c><00:14:17.279><c> they're</c><00:14:17.519><c> going</c><00:14:17.680><c> after</c>
+about Anthropic is they're going after
+about Anthropic is they're going after
+the<00:14:18.160><c> working</c><00:14:18.560><c> world,</c><00:14:19.199><c> but</c><00:14:19.760><c> some</c><00:14:20.000><c> of</c><00:14:20.160><c> the</c>
+the working world, but some of the
+the working world, but some of the
+people<00:14:20.639><c> building</c><00:14:21.360><c> agents</c><00:14:22.079><c> not</c><00:14:22.399><c> in</c><00:14:22.720><c> the</c>
+people building agents not in the
+people building agents not in the
+working<00:14:23.360><c> world</c><00:14:23.920><c> are</c><00:14:24.240><c> adopting</c><00:14:25.120><c> a</c><00:14:25.519><c> very</c>
+working world are adopting a very
+working world are adopting a very
+similar<00:14:26.240><c> approach.</c><00:14:26.880><c> So</c><00:14:27.120><c> as</c><00:14:27.279><c> an</c><00:14:27.440><c> example,</c><00:14:28.240><c> the</c>
+similar approach. So as an example, the
+similar approach. So as an example, the
+tool<00:14:29.040><c> AI</c><00:14:29.519><c> companion</c><00:14:30.160><c> has</c><00:14:30.480><c> taken</c><00:14:30.800><c> off</c><00:14:31.279><c> in</c><00:14:31.519><c> the</c>
+tool AI companion has taken off in the
+tool AI companion has taken off in the
+last<00:14:32.160><c> couple</c><00:14:32.399><c> of</c><00:14:32.639><c> months.</c><00:14:33.120><c> It's</c><00:14:33.360><c> not</c><00:14:33.600><c> a</c>
+last couple of months. It's not a
+last couple of months. It's not a
+working<00:14:34.240><c> thing.</c><00:14:34.959><c> It's</c><00:14:35.199><c> an</c><00:14:35.440><c> always</c><00:14:35.760><c> on</c><00:14:36.000><c> AI</c>
+working thing. It's an always on AI
+working thing. It's an always on AI
+companion<00:14:36.880><c> you</c><00:14:37.120><c> can</c><00:14:37.279><c> talk</c><00:14:37.519><c> to</c><00:14:37.920><c> and</c><00:14:38.800><c> it</c><00:14:39.199><c> feels</c>
+companion you can talk to and it feels
+companion you can talk to and it feels
+very<00:14:40.079><c> much</c><00:14:40.399><c> like</c><00:14:40.639><c> a</c><00:14:40.880><c> sort</c><00:14:41.120><c> of</c><00:14:41.279><c> generalpurpose</c>
+very much like a sort of generalpurpose
+very much like a sort of generalpurpose
+conversational<00:14:43.199><c> agent</c><00:14:44.000><c> except</c><00:14:44.320><c> in</c><00:14:44.560><c> this</c><00:14:44.720><c> case</c>
+conversational agent except in this case
+conversational agent except in this case
+the<00:14:45.120><c> agent's</c><00:14:45.600><c> job</c><00:14:45.839><c> is</c><00:14:46.079><c> not</c><00:14:46.240><c> to</c><00:14:46.560><c> operate</c><00:14:46.959><c> tools</c>
+the agent's job is not to operate tools
+the agent's job is not to operate tools
+and<00:14:47.440><c> build</c><00:14:47.600><c> you</c><00:14:47.760><c> Excel</c><00:14:48.079><c> files.</c><00:14:48.399><c> The</c><00:14:48.560><c> agent's</c>
+and build you Excel files. The agent's
+and build you Excel files. The agent's
+job<00:14:49.199><c> is</c><00:14:49.440><c> actually</c><00:14:49.760><c> to</c><00:14:50.320><c> call</c><00:14:50.560><c> upon</c><00:14:50.800><c> its</c>
+job is actually to call upon its
+job is actually to call upon its
+internal<00:14:51.360><c> resources</c><00:14:51.920><c> and</c><00:14:52.240><c> be</c><00:14:52.480><c> an</c><00:14:52.720><c> interesting</c>
+internal resources and be an interesting
+internal resources and be an interesting
+conversational<00:14:53.760><c> partner.</c><00:14:54.320><c> And</c><00:14:54.399><c> so</c><00:14:54.560><c> Enthropic</c>
+conversational partner. And so Enthropic
+conversational partner. And so Enthropic
+has<00:14:55.199><c> picked</c><00:14:55.360><c> the</c><00:14:55.519><c> harder</c><00:14:55.760><c> version,</c><00:14:56.000><c> right?</c>
+has picked the harder version, right?
+has picked the harder version, right?
+Like<00:14:56.320><c> they</c><00:14:56.480><c> have</c><00:14:56.560><c> to</c><00:14:56.639><c> get</c><00:14:56.800><c> the</c><00:14:56.880><c> tool</c><00:14:57.519><c> calls</c>
+Like they have to get the tool calls
+Like they have to get the tool calls
+right.<00:14:58.079><c> They</c><00:14:58.240><c> have</c><00:14:58.320><c> to</c><00:14:58.480><c> sort</c><00:14:58.560><c> of</c><00:14:58.639><c> build</c><00:14:58.800><c> the</c>
+right. They have to sort of build the
+right. They have to sort of build the
+outputs<00:14:59.360><c> and</c><00:14:59.519><c> come</c><00:14:59.680><c> back</c><00:14:59.839><c> to</c><00:14:59.920><c> you.</c><00:15:00.480><c> But</c><00:15:00.639><c> the</c>
+outputs and come back to you. But the
+outputs and come back to you. But the
+loop<00:15:01.040><c> is</c><00:15:01.199><c> there.</c><00:15:01.760><c> It's</c><00:15:01.920><c> always</c><00:15:02.160><c> on.</c><00:15:02.399><c> It</c>
+loop is there. It's always on. It
+loop is there. It's always on. It
+listens.<00:15:02.959><c> It</c><00:15:03.120><c> comes</c><00:15:03.279><c> back.</c><00:15:03.519><c> The</c><00:15:03.680><c> loop</c><00:15:03.920><c> is</c>
+listens. It comes back. The loop is
+listens. It comes back. The loop is
+there.<00:15:04.399><c> We</c><00:15:04.720><c> are</c><00:15:04.880><c> going</c><00:15:05.040><c> to</c><00:15:05.199><c> see</c><00:15:05.519><c> a</c><00:15:05.839><c> great</c><00:15:06.160><c> split</c>
+there. We are going to see a great split
+there. We are going to see a great split
+in<00:15:06.880><c> 2026</c><00:15:08.000><c> between</c><00:15:08.399><c> people,</c><00:15:09.120><c> enterprises</c><00:15:10.160><c> who</c>
+in 2026 between people, enterprises who
+in 2026 between people, enterprises who
+want<00:15:10.720><c> to</c><00:15:10.959><c> have</c><00:15:11.600><c> generalurpose</c>
+want to have generalurpose
+want to have generalurpose
+conversational<00:15:13.680><c> agents</c><00:15:14.160><c> that</c><00:15:14.480><c> run</c><00:15:15.120><c> sort</c><00:15:15.360><c> of</c>
+conversational agents that run sort of
+conversational agents that run sort of
+always<00:15:15.839><c> on</c><00:15:16.079><c> and</c><00:15:16.240><c> they're</c><00:15:16.480><c> calling</c><00:15:16.800><c> tools</c><00:15:17.279><c> and</c>
+always on and they're calling tools and
+always on and they're calling tools and
+they're<00:15:17.839><c> able</c><00:15:18.000><c> to</c><00:15:18.160><c> accomplish</c><00:15:18.639><c> multiple</c>
+they're able to accomplish multiple
+they're able to accomplish multiple
+tasks<00:15:19.360><c> for</c><00:15:19.519><c> you</c><00:15:19.920><c> like</c><00:15:20.240><c> cloud</c><00:15:20.560><c> code</c><00:15:20.880><c> and</c><00:15:21.279><c> a</c>
+tasks for you like cloud code and a
+tasks for you like cloud code and a
+specific<00:15:22.800><c> vision</c><00:15:23.199><c> of</c><00:15:23.440><c> the</c><00:15:23.680><c> future</c><00:15:24.320><c> that</c><00:15:24.639><c> is</c>
+specific vision of the future that is
+specific vision of the future that is
+all<00:15:25.199><c> about</c><00:15:25.600><c> deterministically,</c>
+all about deterministically,
+all about deterministically,
+intelligently<00:15:27.920><c> solving</c><00:15:28.320><c> hard</c><00:15:28.560><c> tasks</c><00:15:28.880><c> and</c>
+intelligently solving hard tasks and
+intelligently solving hard tasks and
+being<00:15:29.279><c> able</c><00:15:29.440><c> to</c><00:15:29.600><c> say</c><00:15:29.839><c> done.</c><00:15:30.240><c> a</c><00:15:30.480><c> linear</c><00:15:30.959><c> vision</c>
+being able to say done. a linear vision
+being able to say done. a linear vision
+of<00:15:31.440><c> the</c><00:15:31.600><c> agentic</c><00:15:32.320><c> future.</c><00:15:32.880><c> And</c><00:15:33.120><c> that</c><00:15:33.279><c> matters</c>
+of the agentic future. And that matters
+of the agentic future. And that matters
+a<00:15:33.760><c> lot</c><00:15:33.920><c> because</c><00:15:34.160><c> it</c><00:15:34.320><c> it</c><00:15:34.639><c> shapes</c><00:15:35.040><c> your</c><00:15:35.279><c> and</c><00:15:35.519><c> my</c>
+a lot because it it shapes your and my
+a lot because it it shapes your and my
+day,<00:15:36.079><c> right?</c><00:15:36.320><c> Like,</c><00:15:36.560><c> is</c><00:15:36.800><c> my</c><00:15:37.040><c> day</c><00:15:37.199><c> going</c><00:15:37.360><c> to</c><00:15:37.519><c> be</c>
+day, right? Like, is my day going to be
+day, right? Like, is my day going to be
+working<00:15:37.920><c> with</c><00:15:38.240><c> Claude</c><00:15:38.639><c> code</c><00:15:38.959><c> and</c><00:15:39.120><c> sort</c><00:15:39.279><c> of</c>
+working with Claude code and sort of
+working with Claude code and sort of
+collaborating<00:15:39.920><c> together?</c><00:15:40.320><c> Is</c><00:15:40.480><c> my</c><00:15:40.639><c> day</c><00:15:40.800><c> going</c>
+collaborating together? Is my day going
+collaborating together? Is my day going
+to<00:15:41.120><c> be</c><00:15:41.279><c> defining</c><00:15:41.680><c> a</c><00:15:42.000><c> bunch</c><00:15:42.079><c> of</c><00:15:42.240><c> very</c><00:15:42.560><c> specific</c>
+to be defining a bunch of very specific
+to be defining a bunch of very specific
+accomplishments<00:15:43.519><c> that</c><00:15:43.760><c> they</c><00:15:43.920><c> need</c><00:15:44.000><c> to</c><00:15:44.160><c> get</c>
+accomplishments that they need to get
+accomplishments that they need to get
+done<00:15:44.800><c> for</c><00:15:45.120><c> codeex?</c><00:15:46.000><c> We're</c><00:15:46.160><c> going</c><00:15:46.240><c> to</c><00:15:46.399><c> all</c><00:15:46.639><c> find</c>
+done for codeex? We're going to all find
+done for codeex? We're going to all find
+out<00:15:47.040><c> together.</c><00:15:47.440><c> Enterprises</c><00:15:48.000><c> are</c><00:15:48.160><c> going</c><00:15:48.240><c> to</c>
+out together. Enterprises are going to
+out together. Enterprises are going to
+pick<00:15:48.560><c> different</c><00:15:48.800><c> sides.</c><00:15:49.199><c> People</c><00:15:49.440><c> are</c><00:15:49.680><c> going</c>
+pick different sides. People are going
+pick different sides. People are going
+to<00:15:49.920><c> have</c><00:15:50.160><c> strong</c><00:15:50.560><c> strong</c><00:15:50.880><c> preferences,</c><00:15:51.680><c> but</c>
+to have strong strong preferences, but
+to have strong strong preferences, but
+at least<00:15:52.240><c> we</c><00:15:52.399><c> should</c><00:15:52.639><c> understand</c><00:15:52.880><c> what</c><00:15:53.040><c> the</c>
+at least we should understand what the
+at least we should understand what the
+stakes<00:15:53.519><c> are,</c><00:15:53.759><c> right?</c><00:15:54.000><c> like</c><00:15:54.240><c> we</c><00:15:54.399><c> should</c><00:15:54.560><c> ladder</c>
+stakes are, right? like we should ladder
+stakes are, right? like we should ladder
+back<00:15:55.199><c> and</c><00:15:55.440><c> not</c><00:15:55.680><c> just</c><00:15:55.920><c> look</c><00:15:56.160><c> at</c><00:15:56.720><c> what</c><00:15:57.040><c> happened</c>
+back and not just look at what happened
+back and not just look at what happened
+with<00:15:57.519><c> agent</c><00:15:57.920><c> builder,</c><00:15:58.480><c> not</c><00:15:58.720><c> just</c><00:15:58.959><c> look</c><00:15:59.120><c> at</c><00:15:59.440><c> is</c>
+with agent builder, not just look at is
+with agent builder, not just look at is
+codeex<00:16:00.160><c> good</c><00:16:00.320><c> or</c><00:16:00.480><c> bad</c><00:16:00.639><c> on</c><00:16:00.800><c> its</c><00:16:01.040><c> own,</c><00:16:01.519><c> but</c>
+codeex good or bad on its own, but
+codeex good or bad on its own, but
+actually<00:16:02.079><c> understand</c><00:16:02.480><c> what</c><00:16:02.639><c> are</c><00:16:02.800><c> the</c>
+actually understand what are the
+actually understand what are the
+competing<00:16:03.360><c> visions</c><00:16:03.759><c> of</c><00:16:04.000><c> our</c><00:16:04.320><c> future</c><00:16:04.720><c> of</c><00:16:04.800><c> the</c>
+competing visions of our future of the
+competing visions of our future of the
+agentic<00:16:05.600><c> AI</c><00:16:06.000><c> future</c><00:16:06.639><c> and</c><00:16:06.880><c> which</c><00:16:07.199><c> do</c><00:16:07.360><c> we</c><00:16:07.519><c> want</c>
+agentic AI future and which do we want
+agentic AI future and which do we want
+to<00:16:07.839><c> sign</c><00:16:08.000><c> up</c><00:16:08.160><c> for.</c><00:16:08.720><c> So</c><00:16:09.120><c> I'm</c><00:16:09.360><c> going</c><00:16:09.440><c> to</c><00:16:09.519><c> do</c><00:16:09.680><c> more</c>
+to sign up for. So I'm going to do more
+to sign up for. So I'm going to do more
+of<00:16:10.000><c> a</c><00:16:10.160><c> deep</c><00:16:10.320><c> dive</c><00:16:10.639><c> on</c><00:16:10.880><c> on</c><00:16:11.279><c> codec</c><00:16:11.759><c> soon.</c><00:16:12.000><c> I've</c>
+of a deep dive on on codec soon. I've
+of a deep dive on on codec soon. I've
+done<00:16:12.480><c> on</c><00:16:12.800><c> some</c><00:16:13.040><c> on</c><00:16:13.199><c> claude</c><00:16:13.600><c> code.</c><00:16:13.839><c> I</c><00:16:14.000><c> wrote</c><00:16:14.160><c> a</c>
+done on some on claude code. I wrote a
+done on some on claude code. I wrote a
+guide<00:16:14.639><c> on</c><00:16:15.440><c> how</c><00:16:15.839><c> claude</c><00:16:16.240><c> code</c><00:16:16.880><c> can</c><00:16:17.120><c> help</c><00:16:17.279><c> you</c><00:16:17.519><c> as</c>
+guide on how claude code can help you as
+guide on how claude code can help you as
+a<00:16:17.920><c> non-technical</c><00:16:18.800><c> person.</c><00:16:19.360><c> But</c><00:16:19.839><c> if</c><00:16:20.079><c> you</c><00:16:20.240><c> are</c>
+a non-technical person. But if you are
+a non-technical person. But if you are
+curious<00:16:20.800><c> about</c><00:16:21.040><c> which</c><00:16:21.279><c> to</c><00:16:21.519><c> choose,</c><00:16:21.839><c> I</c><00:16:22.079><c> would</c>
+curious about which to choose, I would
+curious about which to choose, I would
+invite<00:16:22.560><c> you</c><00:16:23.040><c> to</c><00:16:23.360><c> ask</c><00:16:23.680><c> yourself,</c><00:16:24.399><c> how</c><00:16:24.560><c> do</c><00:16:24.720><c> you</c>
+invite you to ask yourself, how do you
+invite you to ask yourself, how do you
+want<00:16:24.880><c> to</c><00:16:25.040><c> spend</c><00:16:25.279><c> your</c><00:16:25.440><c> day?</c><00:16:26.000><c> Do</c><00:16:26.160><c> you</c><00:16:26.320><c> want</c><00:16:26.480><c> to</c>
+want to spend your day? Do you want to
+want to spend your day? Do you want to
+evolve<00:16:27.120><c> the</c><00:16:27.440><c> task</c><00:16:28.000><c> together</c><00:16:28.399><c> with</c><00:16:28.720><c> the</c><00:16:28.880><c> AI,</c>
+evolve the task together with the AI,
+evolve the task together with the AI,
+more<00:16:29.519><c> of</c><00:16:29.600><c> a</c><00:16:29.759><c> cloud</c><00:16:30.079><c> code</c><00:16:30.320><c> approach,</c><00:16:30.800><c> and</c><00:16:31.120><c> work</c>
+more of a cloud code approach, and work
+more of a cloud code approach, and work
+organically<00:16:31.920><c> back</c><00:16:32.079><c> and</c><00:16:32.320><c> forth,</c><00:16:32.880><c> or</c><00:16:33.040><c> do</c><00:16:33.279><c> you</c>
+organically back and forth, or do you
+organically back and forth, or do you
+really<00:16:33.759><c> need</c><00:16:34.079><c> the</c><00:16:34.399><c> precision</c><00:16:35.040><c> and</c><00:16:35.600><c> you're</c>
+really need the precision and you're
+really need the precision and you're
+willing<00:16:36.079><c> to</c><00:16:36.240><c> do</c><00:16:36.399><c> the</c><00:16:36.639><c> structure</c><00:16:37.360><c> that</c><00:16:37.680><c> gets</c>
+willing to do the structure that gets
+willing to do the structure that gets
+you<00:16:38.399><c> a</c><00:16:39.040><c> codeex-like</c><00:16:39.920><c> experience?</c><00:16:40.880><c> I</c><00:16:41.120><c> think</c>
+you a codeex-like experience? I think
+you a codeex-like experience? I think
+those<00:16:41.600><c> are</c><00:16:42.079><c> underweighted</c><00:16:43.279><c> reasons</c><00:16:43.680><c> to</c><00:16:43.920><c> pick</c>
+those are underweighted reasons to pick
+those are underweighted reasons to pick
+one<00:16:44.399><c> or</c><00:16:44.639><c> the</c><00:16:44.720><c> other.</c><00:16:45.040><c> I</c><00:16:45.199><c> think</c><00:16:45.360><c> most</c><00:16:45.600><c> people</c>
+one or the other. I think most people
+one or the other. I think most people
+are<00:16:46.000><c> asking</c><00:16:46.399><c> which</c><00:16:46.639><c> is</c><00:16:46.800><c> the</c><00:16:46.959><c> better</c><00:16:47.279><c> coding</c>
+are asking which is the better coding
+are asking which is the better coding
+agent<00:16:48.160><c> per</c><00:16:48.320><c> se,</c><00:16:48.880><c> but</c><00:16:49.120><c> I</c><00:16:49.360><c> think</c><00:16:49.519><c> that's</c><00:16:49.759><c> kind</c><00:16:50.000><c> of</c>
+agent per se, but I think that's kind of
+agent per se, but I think that's kind of
+the<00:16:50.320><c> wrong</c><00:16:50.560><c> question</c><00:16:51.199><c> because</c><00:16:51.440><c> it's</c><00:16:51.680><c> going</c><00:16:51.759><c> to</c>
+the wrong question because it's going to
+the wrong question because it's going to
+go<00:16:52.000><c> back</c><00:16:52.160><c> and</c><00:16:52.399><c> forth</c><00:16:52.560><c> and</c><00:16:52.800><c> you'll</c><00:16:53.040><c> have</c><00:16:53.120><c> to</c>
+go back and forth and you'll have to
+go back and forth and you'll have to
+look<00:16:53.360><c> at</c><00:16:53.519><c> SWEBench</c><00:16:54.160><c> scores</c><00:16:54.480><c> and</c><00:16:54.880><c> argue</c><00:16:55.279><c> over</c>
+look at SWEBench scores and argue over
+look at SWEBench scores and argue over
+which<00:16:55.759><c> one</c><00:16:55.920><c> is</c><00:16:56.079><c> better</c><00:16:56.320><c> for</c><00:16:56.560><c> which</c><00:16:56.800><c> code</c>
+which one is better for which code
+which one is better for which code
+language,<00:16:57.600><c> etc.</c><00:16:58.079><c> It's</c><00:16:58.320><c> more</c><00:16:58.560><c> interesting</c><00:16:58.959><c> to</c>
+language, etc. It's more interesting to
+language, etc. It's more interesting to
+say<00:16:59.600><c> these</c><00:17:00.000><c> trajectories</c><00:17:00.639><c> are</c><00:17:00.880><c> fundamentally</c>
+say these trajectories are fundamentally
+say these trajectories are fundamentally
+different.<00:17:02.079><c> Which</c><00:17:02.240><c> one</c><00:17:02.399><c> do</c><00:17:02.560><c> I</c><00:17:02.720><c> want</c><00:17:02.800><c> to</c><00:17:02.880><c> sign</c>
+different. Which one do I want to sign
+different. Which one do I want to sign
+up<00:17:03.279><c> for?</c><00:17:03.759><c> What's</c><00:17:04.000><c> your</c><00:17:04.240><c> aentic</c><00:17:04.720><c> vision</c><00:17:05.039><c> of</c><00:17:05.280><c> the</c>
+up for? What's your aentic vision of the
+up for? What's your aentic vision of the
+future?

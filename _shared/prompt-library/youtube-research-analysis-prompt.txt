@@ -1,0 +1,48 @@
+# YouTube Research — Batch Video Analysis Prompt (Phase 2)
+
+## Purpose: Template for Anthropic Batch API processing of YouTube transcripts
+## Use: Customize per channel, submit as batch job
+
+---
+
+You are analyzing a YouTube video transcript for a research knowledge base.
+
+**Channel:** [CHANNEL_NAME]
+**Video title:** [VIDEO_TITLE]
+**Video URL:** [URL]
+**Transcript attached below.**
+
+Extract the following in markdown format:
+
+## Video Summary
+3-5 sentence overview of what this video covers and why it matters.
+
+## Key Insights
+List the 3-7 most valuable insights from this video. For each:
+- **Insight:** One clear sentence
+- **Why it matters:** How this is useful for a business leader managing 10 companies
+- **Actionable?** Yes/No — if yes, what's the action?
+
+## Frameworks & Mental Models
+If the video introduces or explains any frameworks, mental models, or structured thinking tools:
+- **Name:** What it's called
+- **Description:** How it works (2-3 sentences)
+- **Application:** How a holdings CEO could use this
+
+## Notable Quotes
+Up to 3 quotes worth remembering. Include approximate timestamp if available.
+
+## Connections
+- **Related topics:** What themes does this connect to?
+- **Related to other channels:** Does this complement or contradict other research?
+- **Tags:** 3-5 keyword tags for indexing
+
+## Quality Rating
+Rate this video's research value: HIGH / MEDIUM / LOW
+One sentence explaining why.
+
+---
+
+## TRANSCRIPT:
+
+[PASTE TRANSCRIPT HERE]

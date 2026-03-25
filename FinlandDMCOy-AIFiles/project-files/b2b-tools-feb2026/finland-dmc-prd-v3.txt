@@ -1,0 +1,797 @@
+PRODUCT REQUIREMENTS DOCUMENT | VERSION 3.0
+
+Finland DMC “Company 2.0” AI Implementation
+
+Claude Teams → Router Architecture → In-Context Knowledge → Feedback
+Flywheel
+
+Finland DMC Oy | February 2026 | Supersedes PRD v2.0
+
++-----------------------------------------------------------------------+
+| CHANGELOG FROM v2.0                                                   |
+|                                                                       |
+| 1. CORRECTED: Project conversations are private. Staff cannot see     |
+| each other’s chats. Feedback must go to external channel.             |
+|                                                                       |
+| 2. CORRECTED: RAG will NOT activate for your project sizes (~12–15K   |
+| tokens). All files load in-context. This is optimal.                  |
+|                                                                       |
+| 3. REVISED: Architecture reduced to 4–5 projects (not 10). One email  |
+| project with 10 examples, not 10 email projects.                      |
+|                                                                       |
+| 4. ADDED: Model selection strategy — Sonnet 4.5 default, Opus for     |
+| complex tasks. Router recommends model.                               |
+|                                                                       |
+| 5. ADDED: Second Brain data sinks via Teams channels (#ai-feedback,   |
+| #client-intel, #supplier-notes).                                      |
+|                                                                       |
+| 6. ADDED: Context budget math — typical conversation uses ~20K of     |
+| 200K tokens (10%). Massive headroom.                                  |
+|                                                                       |
+| 7. ADDED: File ordering strategy — instructions first, examples last, |
+| matching LLM attention pattern.                                       |
+|                                                                       |
+| 8. FLAGGED FOR IMPROVEMENT: M365 search query optimization needs      |
+| deeper research (see Section 8).                                      |
++-----------------------------------------------------------------------+
+
+1. Executive Summary
+
+Finland DMC Oy will implement Claude Teams ($25/user/month, 5 users =
+€125/month) as the AI backbone for a 5-person destination management
+company. The system uses a Router Architecture with in-context Project
+Knowledge (not RAG) and a continuous feedback flywheel to improve output
+quality week-over-week.
+
+  ------------------------- ---------------------------------------------
+  Decision                  Outcome
+
+  Platform                  Claude Teams only. Copilot deferred to Month
+                            2–3 (call transcription evaluation).
+
+  Architecture              1 Router project (Sonnet) + 3–4 execution
+                            projects (Sonnet/Opus). All in-context, no
+                            RAG.
+
+  Context mode              In-context (direct loading). Project files
+                            ~12–15K tokens per project. RAG threshold:
+                            ~200K tokens. Not triggered.
+
+  Default model             Sonnet 4.5 for 80–90% of work. Opus 4.5/4.6
+                            for complex proposals, itineraries, pricing.
+                            Manual switch via dropdown.
+
+  Feedback channel          #ai-feedback Teams channel. Claude searches
+                            via M365 connector on Friday.
+
+  Data layer                M365 connector (read-only) for shared
+                            mailbox, SharePoint, Teams channels. Teams
+                            channels as structured data sinks.
+
+  Cost                      €125/month. ROI: ~15 hrs/week saved × €30/hr
+                            = €1,950/month value. 15x payback.
+  ------------------------- ---------------------------------------------
+
+2. System Architecture
+
+2.1 The Router Architecture
+
+Why Router: Staff always starts in one place. Router classifies the
+task, prepares a context-rich prompt, recommends a model, and directs to
+the right execution project. Handles trivial tasks directly. Eliminates
+decision fatigue.
+
++-----------------------------------------------------------------------+
+| SYSTEM FLOW                                                           |
+|                                                                       |
+| Staff opens DMC Router (always the starting point)                    |
+|                                                                       |
+| ↓                                                                     |
+|                                                                       |
+| Staff describes the task + pastes email/context                       |
+|                                                                       |
+| ↓                                                                     |
+|                                                                       |
+| Router (Sonnet 4.5) analyzes and responds:                            |
+|                                                                       |
+| • Task type: “Follow-up email to returning VIP client”                |
+|                                                                       |
+| • Project: “Client Communications”                                    |
+|                                                                       |
+| • Model: “Sonnet is fine for this” or “Switch to Opus — complex       |
+| itinerary”                                                            |
+|                                                                       |
+| • Pre-filled prompt: Ready to paste, with client name/dates/context   |
+| injected                                                              |
+|                                                                       |
+| ↓                                                                     |
+|                                                                       |
+| Staff opens execution project → Pastes pre-filled prompt              |
+|                                                                       |
+| ↓                                                                     |
+|                                                                       |
+| Execution project (Sonnet/Opus) drafts output using:                  |
+|                                                                       |
+| • Project Knowledge: golden prompt, tone guide, examples,             |
+| DO’s/DON’Ts, best lines (in-context)                                  |
+|                                                                       |
+| • M365 search: client history, past proposals, phone notes from Teams |
+| channels                                                              |
+|                                                                       |
+| ↓                                                                     |
+|                                                                       |
+| Staff reviews output → Rates quality → Posts feedback to #ai-feedback |
+| → Sends/uses output                                                   |
++-----------------------------------------------------------------------+
+
+2.2 Project Inventory
+
+  ----------------- --------------------------------- --------------------
+  Project           Purpose                           Model
+
+  DMC Router        Task classification, prompt       Sonnet 4.5
+                    preparation, trivial tasks, model 
+                    recommendation                    
+
+  Client            All email types (inquiry,         Sonnet 4.5 default,
+  Communications    follow-up, complaint, cold        Opus for complex
+                    outreach, confirmation,           
+                    logistics, etc.)                  
+
+  Proposals &       Custom proposals, multi-day       Opus 4.5/4.6
+  Itineraries       itineraries, program design       
+
+  Pricing &         Pricing calculations, margin      Sonnet/Opus by
+  Analysis          analysis, capacity planning,      complexity
+                    spreadsheets                      
+
+  Internal Ops      Meeting notes, supplier briefs,   Sonnet 4.5
+  (optional)        team communications               
+  ----------------- --------------------------------- --------------------
+
+Total: 4–5 projects. Patrick updates 2–3 files per project on Fridays.
+~15 minutes. Manageable for a 5-person company without IT staff.
+
+2.3 Router: Why Sonnet, Not Opus
+
+The Router performs pattern matching and template assembly, not deep
+creative reasoning. Sonnet 4.5 handles classification and prompt
+preparation at 90% of Opus quality and 2x the speed. Saving Opus quota
+for revenue-generating tasks (proposals, complex emails) is the smart
+allocation. Router adds no M365 search — it stays fast and light. Deep
+context retrieval happens in the execution project where it’s actually
+needed.
+
+3. Context Architecture: In-Context, Not RAG
+
+3.1 Why RAG Won’t Activate
+
+Claude Projects RAG activates automatically when uploaded files approach
+the 200,000-token context window limit. Our project files total ~12–15K
+tokens. That’s 7% of the limit. RAG will not activate. All files load
+directly into every conversation.
+
+3.2 Why In-Context Is Superior for Our Use Case
+
+  ------------------------- ---------------------------------------------
+  Factor                    In-Context Advantage
+
+  Retrieval risk            Zero. Claude sees ALL files every time.
+                            Nothing can be missed. RAG can fail to
+                            retrieve the right chunk.
+
+  Cross-referencing         Claude can compare a cold outreach example
+                            with a complaint response simultaneously to
+                            calibrate tone. RAG would retrieve only 1–2
+                            matches.
+
+  Latency                   No search step. Files are already loaded. RAG
+                            adds retrieval overhead.
+
+  Attention quality         Research shows curated, relevant context
+                            outperforms comprehensive context. At 12K
+                            tokens, all our files are relevant. No
+                            dilution.
+
+  Lost-in-the-middle        This effect (30%+ accuracy loss) occurs at
+                            20–30+ documents / 100K+ tokens. We have 6–8
+                            files at 12K tokens. Not a factor.
+  ------------------------- ---------------------------------------------
+
++-----------------------------------------------------------------------+
+| WHEN WOULD WE NEED RAG?                                               |
+|                                                                       |
+| Only if project files grow past ~150K tokens. This would require      |
+| uploading 100+ example emails, full supplier catalogs, entire service |
+| databases. Unlikely for a 5-person DMC.                               |
+|                                                                       |
+| If we ever reach this scale, the Router architecture already supports |
+| splitting: create more specialized execution projects (e.g., separate |
+| Complaint Emails project). Each stays under the threshold. In-context |
+| continues to work.                                                    |
++-----------------------------------------------------------------------+
+
+3.3 Context Budget Per Conversation
+
+  ------------------------- ---------------------------------------------
+  Component                 Tokens (approximate)
+
+  System prompt (custom     ~1,500
+  instructions)             
+
+  Tone guide                ~2,000
+
+  Golden prompt template    ~1,000
+
+  DO’s and DON’Ts           ~800
+
+  Best Lines & Phrases      ~1,000
+
+  10 example emails         ~7,000
+
+  Staff’s pasted prompt +   ~2,000
+  email chain               
+
+  M365 search results       ~5,000–20,000
+  (client history)          
+
+  TOTAL INPUT               ~20,300–35,300
+
+  Claude’s output (email    ~500–1,000
+  draft)                    
+
+  REMAINING FOR             ~164,000–179,000 (82–90% free)
+  CONVERSATION              
+  ------------------------- ---------------------------------------------
+
+Massive headroom. Even with M365 returning extensive client history, we
+use at most 18% of the context window. No optimization needed at current
+scale.
+
+3.4 File Ordering Strategy
+
+Research (Stanford “Lost in the Middle” paper) shows LLMs attend best to
+content at the beginning and end of context, with weaker attention in
+the middle. Optimize by placing critical instruction files first and
+reference examples last:
+
+  ------------------------- ---------------------------------------------
+  Position                  File
+
+  System prompt (always     Golden prompt template + core instructions
+  first)                    
+
+  Files 1–2 (near top)      DO’s and DON’Ts + Tone guide (always
+                            critical, always needed)
+
+  File 3 (middle)           Best Lines & Phrases (reference material,
+                            drawn from as needed)
+
+  Files 4–13 (near end)     10 example emails (Claude matches the closest
+                            to current task)
+  ------------------------- ---------------------------------------------
+
+File naming: Use clear, descriptive names.
+“Example_Email_Cold_Outreach.txt” not “example1.txt”. Helps both Claude
+and Patrick identify files during Friday updates.
+
+4. Model Selection Strategy
+
+4.1 Available Models on Teams Plan
+
+On Claude Teams, users manually switch models via a dropdown selector at
+the top of the chat interface. Selection persists until changed.
+Available: Opus 4.6, Opus 4.5, Sonnet 4.5, Haiku 4.5.
+
+  ----------------- --------------------------------- --------------------
+  Model             Adaptive Thinking?                Best For
+
+  Opus 4.6          YES — fully adaptive. Adjusts     Complex proposals,
+                    reasoning depth automatically. No multi-day
+                    prompt instructions needed.       itineraries, deep
+                                                      analysis
+
+  Opus 4.5          Extended thinking available but   Complex work when
+                    not fully adaptive. Benefits from 4.6 quota is limited
+                    “analyze first” instructions      
+                    (already in v3 golden prompt).    
+
+  Sonnet 4.5        Extended thinking available, not  80–90% of daily
+                    adaptive. v3 golden prompt’s      work: emails, simple
+                    “analyze first” step compensates. proposals, internal
+                                                      ops
+
+  Haiku 4.5         No extended thinking. Fast and    Quick internal
+                    cheap.                            lookups only. Not
+                                                      for client-facing
+                                                      work.
+  ----------------- --------------------------------- --------------------
+
+4.2 Model Assignment by Task
+
+  ------------------------- ---------------------------------------------
+  Task                      Model
+
+  DMC Router                Sonnet 4.5. Classification + template
+                            filling. Fast, cheap, effective.
+
+  Simple email replies      Sonnet 4.5. Golden prompt + examples do the
+                            heavy lifting.
+
+  Complex                   Opus 4.5 or 4.6. Deep reasoning justifies
+  proposals/itineraries     premium cost.
+
+  Pricing analysis          Sonnet 4.5 for simple. Opus for
+                            multi-variable optimization.
+
+  Friday review analysis    Sonnet 4.5. Structured compilation, not
+                            creative reasoning.
+
+  Quick internal questions  Sonnet 4.5 or Haiku 4.5.
+  ------------------------- ---------------------------------------------
+
+Router model recommendation: The Router’s pre-filled prompt includes a
+model suggestion. Staff clicks the dropdown in 3 seconds. Claude.ai
+cannot auto-switch models, but the recommendation eliminates decision
+fatigue.
+
+Teams auto-fallback: On Teams, the default model allocation uses Opus
+for ~20% of usage before falling back to Sonnet automatically. Even if
+staff forgets to switch, the system manages budget.
+
+5. Data Layer: Two Tiers + Second Brain
+
+5.1 Tier 1: Project Knowledge (Static, In-Context)
+
+Files uploaded to each Claude Project. Loaded directly into every
+conversation. Updated manually by Patrick after Friday review.
+
+  ------------------------- ---------------------------------------------
+  File                      Content
+
+  Golden prompt template    v3 dynamic prompt with analyze-first logic,
+                            email classification, and adaptive response
+                            framework
+
+  Tone of voice guide       Brand voice specifications, personality
+                            descriptors, formality levels by context
+
+  DO’s and DON’Ts           Hard rules from feedback patterns. Grows
+                            weekly. Week 1 starter provided.
+
+  Best Lines & Phrases      Proven language extracted from 4/4-rated
+                            outputs. 1 master doc copied to each project.
+
+  Example outputs (3–10)    One per email/task subtype. Seeded from
+                            3-year email archive Week 1–2. Replaced with
+                            Claude-generated best work over time.
+  ------------------------- ---------------------------------------------
+
+5.2 Tier 2: M365 Connector (Dynamic, On-Demand)
+
+Read-only search access to live M365 data. Triggered by golden prompt
+instructions: “Search our M365 for past interactions with [Client
+Name].” Returns relevant snippets, not full documents.
+
+  ------------------------- ---------------------------------------------
+  Data Source               What Claude Finds
+
+  Shared Outlook mailbox    All past client emails. Shared mailbox =
+                            complete history regardless of who
+                            sent/received.
+
+  SharePoint / OneDrive     Past proposals, itineraries, contracts,
+                            pricing sheets. Must be cloud-stored, not
+                            local.
+
+  Teams channels            #ai-feedback (staff ratings), #client-intel
+                            (phone notes), #supplier-notes (supplier
+                            info)
+
+  Teams meetings            Future: Copilot call transcriptions (Month
+                            2–3 evaluation)
+  ------------------------- ---------------------------------------------
+
++-----------------------------------------------------------------------+
+| [NEEDS IMPROVEMENT] M365 SEARCH QUERY OPTIMIZATION                    |
+|                                                                       |
+| Current status: The golden prompt tells Claude to “search M365 for    |
+| past interactions with [Client Name].” This works but may not be      |
+| optimal.                                                              |
+|                                                                       |
+| Open questions for next Opus session to research and resolve:         |
+|                                                                       |
+| • What is the exact search syntax supported by Claude’s M365          |
+| connector? (KQL? Natural language? Filters?)                          |
+|                                                                       |
+| • Can we filter by date range, mailbox folder, file type, or Teams    |
+| channel name?                                                         |
+|                                                                       |
+| • How many results are returned per search? Can we control this?      |
+|                                                                       |
+| • What is the token cost of M365 search results? How much context do  |
+| they consume?                                                         |
+|                                                                       |
+| • Can Claude do multiple sequential searches (e.g., first Outlook,    |
+| then SharePoint, then Teams)?                                         |
+|                                                                       |
+| • How should the golden prompt instruct Claude to search efficiently  |
+| — broad then narrow? Specific queries?                                |
+|                                                                       |
+| • Does the shared mailbox name need to be specified, or does the      |
+| connector auto-detect it?                                             |
+|                                                                       |
+| • How does the connector handle Finnish-language content? Is it       |
+| bilingual?                                                            |
+|                                                                       |
+| This section is flagged for improvement. The handoff prompt (attached |
+| separately) asks next Opus to research and fill these gaps.           |
++-----------------------------------------------------------------------+
+
+5.3 Second Brain: Teams Channels as Data Sinks
+
+Lightweight intelligence capture via Microsoft Teams channels. All
+searchable by Claude via M365 connector. Zero extra tooling required.
+
+  ----------------- --------------------------------- --------------------
+  Channel           Staff Posts                       Claude Uses For
+
+  #ai-feedback      Rating (1–4/4) + brief note after Friday review:
+                    each Claude task                  pattern analysis,
+                                                      prompt improvement
+                                                      recommendations
+
+  #client-intel     Phone call summaries, WhatsApp    Email
+                    notes, trade show contacts        personalization,
+                                                      proposal context,
+                                                      returning client
+                                                      recognition
+
+  #supplier-notes   Supplier pricing changes,         Proposal pricing,
+                    availability, performance notes   activity
+                                                      recommendations,
+                                                      supplier selection
+
+  #best-practices   Great prompts discovered, clever  Team knowledge
+                    techniques, time-saving tips      sharing, prompt
+                                                      library inspiration
+  ----------------- --------------------------------- --------------------
+
+Phone calls (interim): Staff writes 2–3 sentence summary in
+#client-intel after each call. 30 seconds. Captures 80% of value at 0%
+cost.
+
+Phone calls (Month 2–3): Evaluate Copilot for auto-transcription if 5+
+calls/week. €90–105/month for 5 users. Justified specifically for data
+capture, not email drafting.
+
+6. Feedback System & Friday Review
+
+6.1 Why Feedback Can’t Stay in Claude Conversations
+
+Critical constraint: In shared Claude Projects, each member’s
+conversations are private. Patrick cannot see staff conversations unless
+they are manually shared one by one. This makes in-conversation feedback
+invisible for Friday review.
+
+Solution: Staff types feedback in the Claude conversation (Claude
+responds “✅ Logged” per system prompt instruction, using ~2 tokens).
+Then staff copies the same 1–2 line feedback to #ai-feedback Teams
+channel. Claude searches this channel on Friday.
+
+6.2 System Prompt Instruction for Minimal Token Usage
+
++-----------------------------------------------------------------------+
+| ADD TO EVERY PROJECT’S CUSTOM INSTRUCTIONS                            |
+|                                                                       |
+| FEEDBACK HANDLING:                                                    |
+|                                                                       |
+| When the user’s message starts with “FEEDBACK:” or contains a rating  |
+| like “3/4” or “4/4” at the end of a conversation after a task is      |
+| complete:                                                             |
+|                                                                       |
+| • Respond ONLY with: “✅ Logged.”                                     |
+|                                                                       |
+| • Do NOT elaborate, ask follow-up questions, or summarize.            |
+|                                                                       |
+| • The feedback value is in the human’s words, not Claude’s response.  |
++-----------------------------------------------------------------------+
+
+6.3 Friday Review Workflow (15 Minutes)
+
+Who: Patrick. When: Friday afternoon. Where: New Claude conversation
+(any project).
+
+1.  Pull staff feedback (3 min): Ask Claude to search #ai-feedback Teams
+    channel for this week’s messages. Group by task type, rating
+    distribution, common issues.
+
+2.  Pull client reply data (3 min): Ask Claude to search shared Outlook
+    mailbox for client replies this week. Analyze: positive responses,
+    follow-up questions (gaps in our emails), negative signals.
+
+3.  Identify improvements (4 min): Ask Claude to cross-reference both
+    datasets. Recommend top 3 prompt changes, new DO’s/DON’Ts, best
+    lines to save.
+
+4.  Update Project Knowledge (3 min): Patrick edits relevant files in
+    claude.ai Project settings. Manual upload of updated files.
+
+5.  Notify team (2 min): Quick message to #ai-feedback: “Week X updates:
+    [what changed and why]. Try the updated email prompt.”
+
+Flywheel: Staff feedback + client reply data → Prompt improvements →
+Better outputs → Higher ratings + better client responses → More data →
+Better prompts. Compounds weekly.
+
+7. Project Knowledge: File Specifications
+
+7.1 Client Communications Project
+
+  ------------------------------ --------------------------------- --------------------
+  File                           Contents                          ~Tokens
+
+  System prompt                  v3 golden prompt: analyze-first,  1,500
+                                 classify email type, adapt        
+                                 response, M365 search             
+                                 instructions, feedback handling   
+
+  Tone_Guide.txt                 Brand voice, personality,         2,000
+                                 formality by context,             
+                                 greeting/closing conventions      
+
+  DOs_and_DONTs.txt              Hard rules. Grows weekly from     800
+                                 feedback. Week 1 starter: 10      
+                                 rules.                            
+
+  Best_Lines.txt                 Proven language. 1 master doc.    1,000
+                                 Starts empty Week 1, seeded from  
+                                 3-year archive Week 2.            
+
+  Example_New_Inquiry.txt        Best example of handling a new    700
+                                 group inquiry                     
+
+  Example_Follow_Up.txt          Best example of a follow-up to    700
+                                 warm lead                         
+
+  Example_Complaint.txt          Best example of complaint/issue   700
+                                 response                          
+
+  Example_Cold_Outreach.txt      Best example of cold sales email  700
+
+  Example_Logistics.txt          Best example of quick             400
+                                 logistics/date answer             
+
+  Example_Returning_Client.txt   Best example of email to known    700
+                                 repeat client                     
+
+  Example_Booking_Confirm.txt    Best example of booking           500
+                                 confirmation                      
+
+  Example_Price_Quote.txt        Best example of pricing           700
+                                 communication                     
+
+  TOTAL                                                            ~10,400
+  ------------------------------ --------------------------------- --------------------
+
+10,400 tokens = 5.2% of context window. Far below RAG threshold. All
+files loaded in-context. Maximum quality. Claude reads everything,
+misses nothing, cross-references freely.
+
+7.2 Best Lines Document: One Master, Multi-Project
+
+One master Best_Lines.txt file. Copied to each project that produces
+client-facing text (Client Communications, Proposals). Updated once on
+Friday, copied to 2–3 projects. Separate from golden prompts — the
+prompt is the instruction, Best Lines is the vocabulary library. Claude
+weaves best lines into prompt-driven outputs naturally.
+
+7.3 Seeding from 3-Year Email Archive
+
+1.  Week 1: Ask Claude to search Outlook shared mailbox for the 20 most
+    recent client proposal emails. Claude analyzes: best openers,
+    strongest CTAs, most effective personalization, patterns in emails
+    that led to bookings.
+
+2.  Week 2: From Claude’s analysis, manually select the best emails as
+    Project Knowledge example files. Populate Best_Lines.txt with
+    extracted patterns. System is now seeded with 3 years of proven
+    human intelligence.
+
+3.  Week 3+: Flywheel takes over. Claude-generated 4/4-rated outputs
+    gradually replace human examples. Best lines grow from weekly Friday
+    reviews. System improves beyond the human baseline.
+
+8. M365 Search Optimization [NEEDS RESEARCH]
+
+This section contains our current best understanding but needs deeper
+research. The attached handoff prompt asks the next Opus session to
+research and fill these gaps.
+
+8.1 What We Know
+
+- Claude’s M365 connector provides read-only search access to Outlook,
+  SharePoint, OneDrive, and Teams.
+
+- Search is query-based: Claude sends a search query and receives
+  relevant snippets/summaries, not full documents.
+
+- Results are injected into the conversation context alongside Project
+  Knowledge.
+
+- Each user sees only what their M365 permissions allow.
+
+- All team files must be in SharePoint/OneDrive (cloud-stored), not
+  local desktops.
+
+- Shared mailbox provides unified client email history regardless of
+  which staff member sent/received.
+
+8.2 What We Need to Know
+
+- Search syntax: Does the connector support KQL (Keyword Query
+  Language), natural language queries, or both? Can we use operators
+  like “from:client@email.com” or “date:2025-01”?
+
+- Result volume: How many results does a single search return? Top 5?
+  Top 10? Can we control this?
+
+- Token cost: How much context do returned search results consume? A
+  5-result search might inject 2K tokens or 20K tokens — this matters
+  for budget.
+
+- Sequential searches: Can Claude do multiple M365 searches in one
+  conversation? (e.g., first Outlook for emails, then Teams for phone
+  notes, then SharePoint for past proposals)
+
+- Filtering: Can we filter by mailbox, folder, date range, file type,
+  Teams channel name?
+
+- Shared mailbox: Does Claude auto-detect the shared mailbox, or must
+  the golden prompt specify the mailbox address?
+
+- Language: How does the connector handle Finnish-language email
+  content? Does search work in Finnish? Does it handle mixed
+  Finnish/English?
+
+- Freshness: What is the indexing delay? Minutes? Hours? Does a
+  just-received email show up immediately?
+
+8.3 Current Golden Prompt M365 Search Instructions
+
++-----------------------------------------------------------------------+
+| CURRENT (to be improved by next Opus session)                         |
+|                                                                       |
+| CONTEXT SEARCH:                                                       |
+|                                                                       |
+| Before drafting, search our M365 for all past interactions with       |
+| [Client Name].                                                        |
+|                                                                       |
+| Look for: previous bookings, preferences, issues, trip history, key   |
+| contacts.                                                             |
+|                                                                       |
+| Also search #client-intel Teams channel for any phone call notes      |
+| about this client.                                                    |
+|                                                                       |
+| Use this intelligence to personalize your response.                   |
++-----------------------------------------------------------------------+
+
+The handoff prompt asks next Opus to research the exact M365 connector
+capabilities and rewrite these search instructions with proper syntax,
+filtering, and multi-step search logic.
+
+9. Implementation Timeline
+
+  ----------------- --------------------------------- --------------------
+  When              What                              Who
+
+  Monday            Sign up Claude Teams (5 seats).   Patrick
+                    Enable M365 connector (requires   
+                    Global Admin). Patrick as admin.  
+
+  Tue–Wed           Create 4 projects. Upload starter Patrick
+                    files (tone guide, v3 prompt,     
+                    starter DO’s/DON’Ts, placeholder  
+                    examples). Create Teams channels  
+                    (#ai-feedback, #client-intel,     
+                    #supplier-notes).                 
+
+  Thursday          Team connects M365 accounts. Seed Patrick + Team
+                    examples from 3-year archive:     
+                    Claude analyzes best emails.      
+
+  Friday            90-min team training. Practice    All 5 members
+                    Router → Project workflow.        
+                    Establish feedback habit. First   
+                    real tasks.                       
+
+  Week 2            Daily use. Feedback flowing to    All
+                    #ai-feedback. Continue archive    
+                    analysis. Select best examples.   
+
+  Week 3            First Friday review cycle. Update Patrick
+                    prompts from feedback data. Begin 
+                    replacing starter examples.       
+
+  Month 2           Evaluate Copilot need (call       Patrick
+                    volume). Build CEO dashboard from 
+                    feedback data. Refine golden      
+                    prompts.                          
+
+  Month 3           Assess system: 70%+ Perfect/Good  Patrick
+                    ratings? Time savings quantified? 
+                    Expand to new flywheels.          
+  ----------------- --------------------------------- --------------------
+
+10. Compounding Flywheels
+
+  ------------------- --------------------------------- --------------------
+  Flywheel            Mechanism                         Build When
+
+  Email quality       Staff feedback + client replies → Week 1 (now)
+                      Better prompts → Better emails →  
+                      Higher conversion                 
+
+  Client intelligence Phone notes + emails compound →   Week 1 (now)
+                      Deeper personalization → More     
+                      repeat bookings                   
+
+  Best practices      Best lines grow weekly → New      Week 2
+                      staff writes at senior level →    
+                      Quality floor rises               
+
+  Historical mining   3 years of emails → Patterns      Week 1–2
+                      extracted → System seeded with    
+                      proven intelligence               
+
+  Proposal win rate   Win/loss tracking → Winner        Month 2
+                      analysis → Better proposals →     
+                      Higher conversion                 
+
+  Staff capability    Daily AI use → Better prompting → Automatic
+                      Better feedback → Faster          
+                      improvement cycle                 
+
+  Cross-pollination   Email best practices inform       Month 2+
+                      proposals → Proposal wins inform  
+                      pricing → System learns across    
+                      tasks                             
+  ------------------- --------------------------------- --------------------
+
+11. Success Metrics
+
+  ------------------------- ---------------------------------------------
+  Metric                    Target
+
+  30-day: Email response    Under 5 minutes (from 15–25 manual)
+  time                      
+
+  30-day: Proposal creation Under 30 minutes
+  time                      
+
+  30-day: Golden prompts    10+
+  active                    
+
+  30-day: Feedback ratings  50+
+  collected                 
+
+  30-day: Daily active      All 5 members
+  users                     
+
+  90-day: Perfect/Good      70%+
+  rating                    
+
+  90-day: Prompt iterations 3+ full Friday review cycles
+  completed                 
+
+  90-day: Team consensus    Would not revert to pre-AI workflow
+  ------------------------- ---------------------------------------------
+
++:---------------------------------------------------------------------:+
+| PRD v3.0 COMPLETE                                                     |
+|                                                                       |
+| Next step: Improve M365 search section using attached handoff prompt  |
++-----------------------------------------------------------------------+
+
+Finland DMC Oy | PRD v3.0 | February 2026 | Prepared with Claude Opus
+4.6

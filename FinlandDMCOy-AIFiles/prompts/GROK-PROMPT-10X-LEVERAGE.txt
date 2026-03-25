@@ -1,0 +1,35 @@
+OUTPUT FORMAT: For each research finding label it [Harper], [Benjamin], or [Lucas]. Structure as: (1) Current State of Art table — task tier / ratio / architecture / source, (2) Practitioner X findings — who is doing it, how, what's their architecture, (3) 10x gap analysis — what bridges 6:1 → 10:1 for a solo operator, (4) Agent conflicts surfaced explicitly, (5) Lucas's top 3 challenges to the mainstream view, (6) Recommended prioritized action list.
+
+GOAL: Research how a solo knowledge-work operator can achieve a 10x AI-to-human leverage ratio — where human intervention is the bottleneck, not AI capability. I want the cutting edge, not the textbook.
+
+CONTEXT:
+- Operator type: 1 person managing 10 portfolio companies, ~50 employees. Mix of knowledge work: B2B sales, strategic research, corporate governance, CRM automation, content creation.
+- Current AI architecture: Claude Code (task orchestration), n8n (automation pipelines), Supabase (data layer), custom skills and warm-pack knowledge system. Planner-Worker-Judge quality gates.
+- Current state: sessions produce €200–2000 estimated value per 1-2 hours of operator time. Goal is 10x more value per operator hour.
+- The constraint: human is the bottleneck. More AI work is queued than human can review, approve, or unblock. Increasing autonomy requires trust architecture that doesn't yet exist.
+- Current hypothesis: unknown — that's what we're researching. Do NOT confirm our assumptions.
+
+COLLABORATION PROTOCOL: Parallel — all agents run simultaneously via chatroom_send, then Lucas runs a dedicated critique round targeting any premature consensus before final output. Do not converge to a single recommendation.
+
+TOOL ACTIVATION:
+- Harper: AGGRESSIVE x_semantic_search — search X/Twitter for: "AI leverage ratio", "agentic workflow CEO", "10x AI productivity", "autonomous agent operator", "HITL reduction techniques", "agentic CEO playbook", "remove yourself from AI loop", "AI leverage solo operator", "agent autonomy 2025 2026", "Claude Code workflow", "agentic scaffolding patterns", "AI delegation", "AI write access". Search across practitioners, researchers, AI builders. Find who is ACTUALLY doing this and what their setups look like. Also web_search for academic and benchmark research (2024-2026) on AI:human leverage ratios in knowledge work. Flag data older than 12 months.
+- Benjamin: use code_execution to independently verify any numerical claims (leverage ratios, time savings, ROI figures) — build a sensitivity table showing how leverage changes with task tier, automation depth, and quality gate frequency. Flag any ratio claims that don't hold up under scrutiny.
+- Lucas: argue the AGAINST position — why is 10x NOT achievable for a solo operator? What are the structural limits? What do the people claiming 10x actually measure vs what they actually deliver? Find the gap between the practitioner hype on X and the research data. What is the single most important thing the mainstream agentic workflow community gets wrong about leverage?
+- Grok Captain: synthesize ONLY after Lucas's critique round. Do not smooth over Lucas vs Harper conflicts — show them explicitly.
+
+CONSTRAINTS (priority order):
+1. Harper must actually search X/Twitter — not simulate searches. If real X posts are not found, say so. Do not fabricate practitioner quotes.
+2. Surface what practitioners are doing differently, not just what they're saying — look for architecture descriptions, workflow posts, case studies.
+3. Find the specific bridging moves: what changes take a 3:1 system to 10:1? Not generic advice.
+4. Benjamin must verify the most-cited leverage ratios with independent calculation. 10x from whom, measuring what, over what baseline?
+5. Lucas must challenge the "10x is achievable" premise directly — what's the ceiling and why?
+6. If agents disagree: surface the conflict, do not resolve it.
+7. If any fact or number is uncertain, use tools before final synthesis.
+
+QUALITY BAR:
+- Include: specific names/handles of practitioners claiming extreme AI leverage, their architecture descriptions (from X posts or blog posts), at least one academic benchmark contradicting a practitioner claim, Benjamin's independent sensitivity analysis of leverage ratios
+- Avoid: generic agentic AI advice, restating what everyone already knows about prompting, textbook "AI will 10x productivity" claims without specifics
+- Lucas priority targets: the confidence-routing concept (is 85-97% confidence routing actually helping or creating a false safety floor?), the claim that GEAP (governance-as-evidence) is the highest ROI upgrade, the premise that same-model self-critique is sufficient for quality gates
+- If you find no genuine X practitioners achieving 10x: say so explicitly and explain why the gap exists
+
+VERBOSITY: Deep and exhaustive. Every section full depth. No compression. I want the raw research, not a summary.

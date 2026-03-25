@@ -1,0 +1,13 @@
+{
+  "batch_id": "msgbatch_01GRRy4huNEP5EtFVwvisYq9",
+  "batch_file": "batch-job-tier3-20260210-211926.jsonl",
+  "uploaded_at": "2026-02-10T21:34:32.388651",
+  "status": "ended",
+  "request_counts": {
+    "canceled": 0,
+    "errored": 0,
+    "expired": 0,
+    "processing": 0,
+    "succeeded": 85
+  },
+  "last_checked": 

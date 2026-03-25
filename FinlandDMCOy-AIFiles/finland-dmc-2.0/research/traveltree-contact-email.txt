@@ -1,0 +1,37 @@
+Subject: API and integration questions — Finland DMC Oy (potential Pro upgrade)
+
+Hi Travel Tree team,
+
+We've been using Travel Tree at Finland DMC since 2022 and love it —
+it's central to how we present proposals to our clients.
+
+We're considering upgrading to Pro and building some internal tools
+around Travel Tree. Before we commit, a few specific questions:
+
+CREATING & READING ITINERARIES:
+1. Can we create a new itinerary via the API by sending structured data
+   and receive back a shareable itinerary link?
+2. Can we read an existing itinerary's content via the API
+   (activities, days, structure)?
+3. Can pricing be set or updated via the API?
+
+OUR COMPONENT LIBRARY:
+4. Can we export our component library (activities, accommodations,
+   experiences we've built up) as a data file — JSON, CSV or similar?
+5. Can we add or update components in our library via the API?
+
+EVENTS & NOTIFICATIONS:
+6. Does Travel Tree send event notifications (webhooks or similar) when
+   a client views an itinerary or takes an action on it?
+
+EMBEDDING:
+7. Is it possible to embed the Travel Tree builder or itinerary view
+   inside another web application using an iframe or similar?
+
+We're a 5-person DMC covering Finland and Lapland. Happy to jump on
+a quick call if that's easier.
+
+Best regards,
+Patrick Heiskanen
+Finland DMC Oy
+sales@finland-dmc.com

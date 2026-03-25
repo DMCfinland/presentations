@@ -1,0 +1,1080 @@
+# YouTube Research Knowledge Base — Routing Index (Tier 0)
+# Generated: 2026-02-11
+# Source: 172 video analyses (24 no-gold retired to _archive/no-gold-videos/) in knowledge-base/videos/
+# Purpose: Loaded on every query to route to relevant videos
+# Architecture: See COMPRESSION-AND-INDEX-PLAN.md
+#
+# one_line: Core insight + mechanism (<250 chars) — THE critical routing field
+
+videos:
+
+  - file: "2026-02-10-agents-will-kill-your-ui-by-2026-unless-you-build-this-instead.md"
+    title: "Agents Will Kill Your UI by 2026--Unless You Build This Instead"
+    one_line: "This fundamentally inverts 40 years of software economics: traditional software amortized expensive UI development across millions of users; generative UI shifts costs to model training while making pixels functionally free"
+    tags: [generative-ui, b2b-saas, ai-agents, software-strategy]
+    quality: 5
+
+  - file: "2026-02-10-ai-broke-the-web-the-7-new-rules-of-the-game-why-you-have-an-edge-vs-big-companies.md"
+    title: "AI Broke the Web: The 7 New Rules of the Game + Why YOU Have an Edge vs Big Companies"
+    one_line: "less is more, focus beats breadth, and clean 18-token extractable sentences outperform comprehensive 30,000-word guides"
+    tags: [ai-visibility, geo-optimization, content-strategy, search-evolution]
+    quality: 5
+
+  - file: "2026-02-10-ai-just-hijacked-15-of-google-trafficwin-yours-back.md"
+    title: "AI Just Hijacked 15% of Google Traffic—Win Yours Back"
+    one_line: "Google AI summaries—not ChatGPT—are stealing 15% of Google's clicks (30% in medical queries), fundamentally changing how brands must architect content"
+    tags: [ai-search, seo-strategy, brand-positioning, llm-optimization]
+    quality: 5
+
+  - file: "2026-02-10-ais-4-power-shifts-where-the-best-tech-jobs-will-emerge-in-2026.md"
+    title: "AI's 4 Power Shifts: Where the Best Tech Jobs Will Emerge in 2026"
+    one_line: "jobs grow where AI creates problems, not where it provides solutions"
+    tags: [ai-jobs, workforce-transformation, ai-strategy, talent-management]
+    quality: 5
+
+  - file: "2026-02-10-anthropic-ai-copyright-ruling-is-a-big-deal-fair-use-wins-piracy-loses.md"
+    title: "Anthropic AI Copyright Ruling is a BIG Deal: Fair Use Wins, Piracy Loses"
+    one_line: "This ruling creates a legal moat for compliant companies while exposing liability for those who cut corners, fundamentally reshaping data acquisition strategy for the AI industry"
+    tags: [ai-copyright, fair-use, legal-strategy, anthropic]
+    quality: 4
+
+  - file: "2026-02-10-i-summarized-andrej-karpathys-25-hour-podcast-in-20-mingrab-4-takeaways-no-ones-talking-about.md"
+    title: "I Summarized Andrej Karpathy's 2.5 Hour Podcast in 20 Min—Grab 4 Takeaways No One's Talking About"
+    one_line: "plan for steady compounding improvements rather than magical breakthroughs, focus on architectural solutions to current limitations, and extract value from imperfect tools now rather than waiting for perfect ones later"
+    tags: [ai-agents, andrej-karpathy, reinforcement-learning, memory-architecture]
+    quality: 5
+
+  - file: "2026-02-10-intro-to-nate.md"
+    title: "Intro to Nate"
+    one_line: "The strategic insight is how efficient credential deployment creates immediate authority, while the promise of 'thoughtful perspective' differentiates from pure news aggregation"
+    tags: [personal-branding, content-strategy, career-development, tech-expertise]
+    quality: 3
+    deprecated: true
+
+  - file: "2026-02-10-most-of-us-are-using-ai-backwardsheres-why.md"
+    title: "Most of Us Are Using AI Backwards—Here's Why"
+    one_line: "We're optimizing AI for information compression (meeting notes → summaries, long docs → briefs) when the transformative opportunity is cognitive expansion (optimizing brain time on important subjects)"
+    tags: [ai-strategy, cognitive-partnership, deep-thinking, ai-workflows]
+    quality: 5
+
+  - file: "2026-02-10-openai-agent-mode-58-minutes-for-cupcakesshould-you-trust-it.md"
+    title: "OpenAI Agent Mode: 58 Minutes for Cupcakes—Should You Trust It?"
+    one_line: "OpenAI's agent mode represents a fundamental strategic miscalculation: they've built a supervised general-purpose agent when the market needs autonomous specialized agents"
+    tags: [ai-agents, openai, product-strategy, ux-design]
+    quality: 5
+
+  - file: "2026-02-10-openai-just-launched-a-social-networkthis-changes-everything-sora-2-breakdown.md"
+    title: "OpenAI Just Launched a SOCIAL NETWORK—This Changes Everything (Sora 2 Breakdown)"
+    one_line: "OpenAI's launch of Sora 2 as a standalone social network represents a fundamental strategic shift: they're not a 'chat product' but an intelligence company leveraging their billion-user base toward inevitable ad monetization"
+    tags: [openai, sora-2, social-network, monetization-strategy]
+    quality: 5
+    deprecated: true
+
+  - file: "2026-02-10-openclaw-agents-are-hiring-each-other-transferring-crypto-building-societies-this-is-real.md"
+    title: "OpenClaw Agents Are Hiring Each Other. Transferring Crypto. Building Societies. This Is Real."
+    one_line: "agents mirror the humans who deploy them"
+    tags: [ai-agents, autonomous-systems, emergent-behavior, open-source]
+    quality: 5
+
+  - file: "2026-02-10-the-1000-test-that-breaks-every-ai-model-out-there-today.md"
+    title: "The $1000 Test That Breaks Every AI Model Out There Today"
+    one_line: "Anthropic's 'Project Vend' - an experiment where Claude AI attempted to run a vending machine business - reveals a critical gap between AI's individual task performance and genuine general intelligence"
+    tags: [agi-testing, ai-limitations, project-vend, anthropic-claude]
+    quality: 5
+
+  - file: "2026-02-10-the-500k-mistake-8-engineers-doing-implementation-0-doing-governance.md"
+    title: "The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance"
+    one_line: "This represents a fundamental resource allocation mistake: companies overspend on redundant implementation while underinvesting in the governance layer that enables scalable, dynamic UX creation"
+    tags: [front-end-engineering, composability, ai-systems, workflow-design]
+    quality: 5
+
+  - file: "2026-02-10-the-copy-paste-problem-why-ai-is-killing-software-lock-in.md"
+    title: "The Copy-Paste Problem: Why AI is Killing Software Lock-In"
+    one_line: "As AI dramatically reduces the cost of building software, the traditional SaaS moat of customer lock-in is collapsing"
+    tags: [ai-strategy, data-interoperability, software-lock-in, saas-evolution]
+    quality: 4
+
+  - file: "2026-02-10-the-dirty-secret-behind-amazons-30000-cuts-nvidia.md"
+    title: "The Dirty Secret Behind Amazon's 30,000 Cuts: Nvidia"
+    one_line: "This reveals a fundamental principle: in capital-constrained environments, companies trade one fixed cost (talent) for another (infrastructure) to secure future market position"
+    tags: [amazon, aws, nvidia, layoffs]
+    quality: 5
+
+  - file: "2026-02-10-the-fork-most-leaders-dont-see-visibility-vs-execution.md"
+    title: "The Fork Most Leaders Don't See: Visibility vs. Execution"
+    one_line: "The core insight is that AI's reduction in the cost of legibility creates a dangerous trap"
+    tags: [ai-strategy, organizational-design, tiger-teams, legibility]
+    quality: 5
+
+  - file: "2026-02-10-the-human-throttle-problem-thats-killing-enterprise-ai-agent-roi.md"
+    title: "The \"Human Throttle\" Problem That's Killing Enterprise AI Agent ROI"
+    one_line: "The fundamental bottleneck preventing AI agents from delivering enterprise ROI isn't intelligence—it's trust, which requires decision reversibility"
+    tags: [ai-agents, reversibility, enterprise-ai, decision-infrastructure]
+    quality: 5
+
+  - file: "2026-02-10-the-people-getting-promoted-all-have-this-one-thing-in-common-ai-is-supercharging-this-mindset.md"
+    title: "The People Getting Promoted All Have This One Thing in Common (AI Is Supercharging this Mindset)"
+    one_line: "high agency—an internal locus of control combined with AI fluency—is now the only viable career strategy"
+    tags: [high-agency, internal-locus-of-control, ai-leverage, career-strategy]
+    quality: 5
+
+  - file: "2026-02-10-500-ai-trained-employees-will-lose-to-10-truly-ai-fluent-onesheres-why.md"
+    title: "500 AI-Trained Employees Will LOSE to 10 Truly AI-Fluent Ones—Here's Why"
+    one_line: "(1) enabling constraints that make good work natural, (2) transferable problem-solving judgment rather than tool-specific skills, and (3) starting simple and adding infrastructure only when workflows break"
+    tags: [ai-fluency, organizational-capability, enabling-constraints, problem-solving]
+    quality: 5
+
+  - file: "2026-02-10-7-prompting-strategies-from-claude-4s-system-prompt-leak.md"
+    title: "7 Prompting Strategies from Claude 4's \"System Prompt\" Leak"
+    one_line: "90% of effective prompting is defining what the system should NOT do, with 10% on what it should do—the inverse of how most practitioners approach LLM interaction"
+    tags: [prompt-engineering, ai-systems, llm-design, defensive-programming]
+    quality: 5
+
+  - file: "2026-02-10-8-ways-to-use-ai-when-someone-is-trying-to-screw-you-adversarial-prompting.md"
+    title: "8 Ways to Use AI When Someone Is Trying to Screw You (Adversarial Prompting)"
+    one_line: "institutions deliberately construct 'information asymmetry' through complexity, and AI provides the first scalable tool for individuals to conduct institutional-grade investigations"
+    tags: [ai-strategy, adversarial-prompting, information-asymmetry, institutional-negotiation]
+    quality: 5
+
+  - file: "2026-02-10-ai-agents-that-actually-work-the-pattern-anthropic-just-revealed.md"
+    title: "AI Agents That Actually Work: The Pattern Anthropic Just Revealed"
+    one_line: "Anthropic has revealed the fundamental pattern for building functional long-running AI agents: the problem isn't model intelligence, it's memory architecture"
+    tags: [ai-agents, domain-memory, anthropic, agent-architecture]
+    quality: 5
+
+  - file: "2026-02-10-ai-and-jobs-debate-is-spiraling-here-are-5-skills-that-pay.md"
+    title: "AI and Jobs Debate is Spiraling: Here are 5+ Skills that Pay"
+    one_line: "The core insight is that debating AI's impact is less valuable than building meta-skills that create value in any future scenario, making career preparation a risk-minimization strategy rather than a prediction game"
+    tags: [ai-careers, agency, pascal-wager, future-of-work]
+    quality: 5
+
+  - file: "2026-02-10-ais-memory-wall-why-compute-grew-60000x-but-memory-only-100x-plus-my-8-principles-to-fix.md"
+    title: "AI's Memory Wall: Why Compute Grew 60,000x But Memory Only 100x (PLUS My 8 Principles to Fix)"
+    one_line: "AI systems face a fundamental architectural problem: they are stateless by design but useful intelligence requires state"
+    tags: [ai-memory, system-architecture, context-management, agentic-systems]
+    quality: 5
+
+  - file: "2026-02-10-apple-and-the-priesthood-of-irrelevance.md"
+    title: "Apple and the Priesthood of Irrelevance"
+    one_line: "Nate Jones argues that Apple's cultural DNA—obsessive perfection, controlled experiences, and lengthy polish cycles—which powered its dominance in computing and smartphones, has become a fatal liability in the AI era"
+    tags: [apple, ai-strategy, culture-debt, product-philosophy]
+    quality: 5
+
+  - file: "2026-02-10-chatgpt-41-vs-gemini-25analysis-both-on-test-results-and-actual-usage.md"
+    title: "ChatGPT 4.1 vs Gemini 2.5—analysis both on test results and actual usage"
+    one_line: "platform health requires releasing best capabilities to developers, not hoarding them for direct consumer relationships"
+    tags: [ai-strategy, ecosystem-health, api-economics, competitive-moats]
+    quality: 4
+    deprecated: true
+
+  - file: "2026-02-10-claude-skillsfrom-toy-to-tool-grab-my-tutorial-custom-skills-to-help-you-build-skills-fast.md"
+    title: "Claude Skills—From TOY to TOOL: Grab My Tutorial + Custom Skills To Help You Build Skills Fast"
+    one_line: "treating AI prompts like software code (with version control, testing, security analysis, and documentation) unlocks compound productivity gains"
+    tags: [claude-skills, ai-workflows, productivity-tools, meta-skills]
+    quality: 5
+
+  - file: "2026-02-10-codex-vs-claude-code-the-winner-isnt-even-close-strategic-thinking-test.md"
+    title: "Codex vs Claude Code: The Winner Isn't Even Close (Strategic Thinking Test)"
+    one_line: "The core finding is that planning capacity matters more than execution speed, and the best strategic thinking tools are often hidden behind technical interfaces that scare away their ideal users"
+    tags: [ai-strategy, strategic-thinking, codex, claude-code]
+    quality: 5
+
+  - file: "2026-02-10-everyones-chasing-ai-skillsbut-judgement-is-now-priceless.md"
+    title: "Everyone's Chasing AI Skills—But Judgement is Now Priceless"
+    one_line: "As AI-generated intelligence becomes 'too cheap to meter' (dropping 40x per year according to Sam Altman), value is migrating from analytical capability to human judgment"
+    tags: [judgment, ai-strategy, decision-making, organizational-capability]
+    quality: 5
+
+  - file: "2026-02-10-excel-ai-will-replace-finance-teams-by-2026heres-why-and-what-to-do.md"
+    title: "Excel AI Will Replace Finance Teams by 2026—Here's Why (And What to Do)"
+    one_line: "AI for numbers creates exponentially more value than AI for words because spreadsheets are inherently higher-compute tasks"
+    tags: [ai-tools, excel, productivity, finance-automation]
+    quality: 5
+
+  - file: "2026-02-10-master-perplexity-prompting-why-its-different-from-chatgpt-demo.md"
+    title: "Master Perplexity Prompting -- Why It's Different from ChatGPT + Demo"
+    one_line: "The strategic insight is that as LLMs become more fluent, the gap between fluency and factuality widens"
+    tags: [perplexity, search-ai, rag-architecture, prompting-strategies]
+    quality: 5
+
+  - file: "2026-02-10-mcp-a2a-and-the-beginning-of-the-end-of-explicit-programming.md"
+    title: "MCP, A2A, and the Beginning of the End of Explicit Programming"
+    one_line: "businesses must begin preparing for a world where software intelligence lives in the substrate rather than being a feature layer, fundamentally changing how we build, integrate, and scale systems"
+    tags: [ai-architecture, agent-systems, mcp, a2a]
+    quality: 5
+
+  - file: "2026-02-10-million-token-context-windows-myth-bustedlimits-fixes.md"
+    title: "Million Token Context Windows? Myth Busted—Limits & Fixes"
+    one_line: "The strategic insight is that current transformer architectures have fundamental computational and attention limitations that workarounds can address but not eliminate"
+    tags: [llm-limitations, context-windows, prompt-engineering, agi-skepticism]
+    quality: 5
+
+  - file: "2026-02-10-nano-banana-pro-is-jaw-dropping-visual-reasoning-models-transform-work.md"
+    title: "Nano Banana Pro is Jaw Dropping - Visual Reasoning Models Transform Work"
+    one_line: "The strategic insight isn't just better image generation"
+    tags: [visual-reasoning, ai-models, workflow-automation, design-democratization]
+    quality: 5
+
+  - file: "2026-02-10-new-claude-just-launched-get-full-test-results-vs-chatgpt-5-how-it-saves-you-hours.md"
+    title: "NEW Claude Just Launched! Get Full Test Results vs. ChatGPT-5 + How it Saves You Hours"
+    one_line: "Anthropic's new Claude model represents a strategic shift from 'productivity AI' to 'decisioning AI' - tools that produce work clear enough for domain experts to quickly identify where human judgment matters most"
+    tags: [claude-ai, anthropic, productivity-tools, professional-ai]
+    quality: 5
+    deprecated: true
+
+  - file: "2026-02-10-new-claudes-super-prompts-will-save-you-days-of-work-full-tutorial-demo.md"
+    title: "NEW: Claude's 'Super Prompts' Will Save You DAYS of Work (Full Tutorial + Demo)"
+    one_line: "Claude's new 'Skills' feature represents a fundamental shift in how humans interact with AI: moving from prompt-dependent interactions to composable, reusable expertise packages"
+    tags: [ai-productivity, claude-skills, prompt-engineering, workflow-automation]
+    quality: 5
+
+  - file: "2026-02-10-new-study-84-of-companies-have-data-stacks-that-wont-work-with-ai.md"
+    title: "NEW Study: 84% of Companies Have Data Stacks That Won't Work With AI"
+    one_line: "AI failure isn't about models or prompts—it's about boring infrastructure work that must happen first"
+    tags: [data-architecture, ai-readiness, infrastructure, organizational-alignment]
+    quality: 5
+
+  - file: "2026-02-10-openais-secret-agent-builder-just-leaked-first-look-why-it-changes-everything.md"
+    title: "OpenAI's Secret Agent Builder Just Leaked (First Look + Why It Changes Everything)"
+    one_line: "there's a massive gulf between casual agent experimentation and production-ready systems"
+    tags: [ai-agents, openai, chatgpt, enterprise-ai]
+    quality: 4
+    deprecated: true
+
+  - file: "2026-02-10-stop-asking-for-ai-agents-when-youre-not-ready-for-themheres-what-you-really-need.md"
+    title: "Stop Asking for AI Agents When You're Not Ready for Them—Here's What You Really Need"
+    one_line: "The core strategic insight is that organizations dramatically overinvest in 'agents' when simpler, cheaper, faster solutions at Level 2-4 would deliver 80-90% of the value"
+    tags: [ai-implementation, automation-spectrum, tool-design, system-architecture]
+    quality: 5
+
+  - file: "2026-02-10-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-wont-replace.md"
+    title: "The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace"
+    one_line: "AI is not uniformly disrupting the economy—it's bifurcating it"
+    tags: [ai-strategy, competitive-dynamics, market-contestability, cognitive-work]
+    quality: 5
+
+  - file: "2026-02-10-the-6-proven-ai-workflows-that-survive-every-ai-hype-cycle.md"
+    title: "The 6 Proven AI Workflows That Survive Every AI Hype Cycle"
+    one_line: "tools change daily, but these six patterns represent the hidden stable architecture of AI development work"
+    tags: [ai-development, coding-workflows, durable-patterns, vibe-coding]
+    quality: 5
+
+  - file: "2026-02-10-the-new-ai-operating-system-of-workgoodbye-docs-hello-executable-artifacts.md"
+    title: "The New AI Operating System of Work—Goodbye Docs, Hello Executable Artifacts"
+    one_line: "The fundamental unit of work is shifting from static deliverables (docs, decks, spreadsheets) to interactive 'instruments'—executable artifacts that collapse decision-making chains"
+    tags: [ai-workflows, decision-making, interactive-artifacts, organizational-transformation]
+    quality: 5
+
+  - file: "2026-02-10-the-real-difference-between-gemini-3-and-chatgpt-51context-vs-task.md"
+    title: "The Real Difference Between Gemini 3 and ChatGPT 5.1—Context vs. Task"
+    one_line: "The strategic breakthrough here isn't about which AI model is 'better'—it's about understanding that different models excel at different types of entropy"
+    tags: [ai-prompting, llm-strategy, gemini-3, chatgpt-5.1]
+    quality: 5
+
+  - file: "2026-02-10-there-is-no-wall-what-gemini-3-really-means-for-your-job.md"
+    title: "There Is No Wall: What Gemini 3 Really Means For Your Job"
+    one_line: "The strategic insight is not just that one model is better, but that decisive leaps are still possible in AI capabilities, particularly in multimodal reasoning (visual + logical)"
+    tags: [ai-progress, gemini-3, competitive-dynamics, multimodal-ai]
+    quality: 5
+    deprecated: true
+
+  - file: "2026-02-10-why-gpt-5-writes-like-a-robot-and-how-to-jailbreak-it.md"
+    title: "Why GPT-5 Writes Like a Robot (And How to Jailbreak It)"
+    one_line: "GPT-5's robotic writing style stems from a fundamental training flaw: AI systems teaching other AI systems, creating optimization for sophistication rather than human clarity"
+    tags: [ai-writing, chatgpt5, prompt-engineering, rlhf]
+    quality: 5
+
+  - file: "2024-02-buffett-munger-berkshire.md"
+    title: "Warren Buffett & Charlie Munger In Their Own Words"
+    one_line: "mistakes are inevitable so structure for survival, wisdom is prevention not reaction, intense focus beats multitasking, learning must change behavior (not just accumulate information)"
+    tags: [investment-philosophy, mental-models, partnership, decision-frameworks]
+    quality: 5
+    person: "Warren Buffett & Charlie Munger"
+
+  - file: "2024-04-tom-murphy-capital-cities.md"
+    title: "Tom Murphy (Warren Buffett's Favorite Manager)"
+    one_line: "Tom Murphy and Dan Burke transformed Capital Cities Broadcasting from a tiny five-station operation into a media empire worth 3x CBS's value over 30 years—despite starting 16x smaller"
+    tags: [strategy, resource-allocation, culture, cost-control]
+    quality: 5
+    person: "Tom Murphy"
+
+  - file: "2024-07-14-grok-4-is-1-but-real-world-users-ranked-it-66heres-the-gap.md"
+    title: "Grok 4 is \"#1\" but Real-World Users Ranked It #66—Here's the Gap"
+    one_line: "This reveals fundamental tensions between shipping velocity, measurement integrity, and long-term trust-building in competitive AI markets"
+    tags: [ai-evaluation, benchmark-gaming, goodharts-law, model-testing]
+    quality: 5
+    deprecated: true
+
+  - file: "2024-08-12-anthropics-trojan-horse-how-claude-code-plus-a-million-tokens-could-win-the-workplace.md"
+    title: "Anthropic's Trojan Horse: How Claude Code Plus a Million Tokens Could Win the Workplace"
+    one_line: "Anthropic is executing a brilliant stealth strategy to capture the enterprise workplace: while OpenAI chases consumer ubiquity with flashy launches, Anthropic is quietly building enterprise dominance through a developer-first wedge"
+    tags: [anthropic, claude, enterprise-ai, developer-tools]
+    quality: 5
+
+  - file: "2024-10-14-i-tested-claude-chatgpts-new-knowledge-connectorsheres-your-tldr-pros-cons.md"
+    title: "I Tested Claude & ChatGPT's New Knowledge Connectors—Here's Your TLDR + Pros & Cons"
+    one_line: "OpenAI's 'MVP in public' strategy with Atlas browser, Anthropic's explosive Skills adoption, and Meta's apparent strategic confusion illustrate that execution velocity and architectural decisions (like Skills' three-layer prompt architecture)..."
+    tags: [ai-browsers, competitive-strategy, product-development, security-risks]
+    quality: 4
+    deprecated: true
+
+  - file: "2026-02-10-2025-came-early-the-first-ai-agent-is-becoming-a-millionaire-today-thanks-to-goat-memes.md"
+    title: "2025 came early: the first AI agent is becoming a millionaire today thanks to goat memes"
+    one_line: "This case reveals critical strategic insights about AI agent autonomy, incentive structures, accountability gaps, attention economies, and the unpredictable nature of latent space in LLMs"
+    tags: [ai-agents, cryptocurrency, meme-economy, autonomous-systems]
+    quality: 4
+    deprecated: true
+
+  - file: "2024-11-05-claude-just-rolled-out-to-350000-employees.md"
+    title: "Claude Just Rolled Out to 350,000 Employees"
+    one_line: "enterprise AI adoption is accelerating at unprecedented rates (40% growth in 2 months, 10x usage increases) despite unresolved security and implementation challenges"
+    tags: [ai-adoption, enterprise-ai, data-architecture, agentic-ai]
+    quality: 4
+    deprecated: true
+
+  - file: "2024-11-13-inside-anthropics-detection-of-an-ai-run-cyberattack-on-30-high-value-global-targets.md"
+    title: "Inside Anthropic's Detection of an AI-Run Cyberattack on 30 High Value Global Targets"
+    one_line: "The strategic insight is that AI capabilities create a dual-use paradox where the same tools enable both sophisticated attacks AND sophisticated defense, forcing a complete reimagining of security perimeters, trust models"
+    tags: [ai-security, cyber-threats, agentic-systems, platform-safety]
+    quality: 5
+
+  - file: "2024-11-27-ai-certifications-focus-on-tools-not-skillsheres-a-better-way.md"
+    title: "AI Certifications Focus on Tools NOT Skills—Here's a Better Way"
+    one_line: "AI fluency is a multi-dimensional skill set that compounds over time, and proper assessment requires measuring actual competency across all dimensions, not just tool proficiency"
+    tags: [ai-fluency, skill-assessment, learning-systems, multi-dimensional-competency]
+    quality: 5
+
+  - file: "2024-11-28-how-i-improved-ai-output-quality-10x-with-one-prompting-shift.md"
+    title: "How I Improved AI Output Quality 10X With One Prompting Shift"
+    one_line: "constraint is a design variable with an optimization curve, not a binary choice"
+    tags: [ai-prompting, goldilocks-principle, llm-optimization, context-engineering]
+    quality: 5
+
+  - file: "2024-12-17-amazon-fired-their-ai-chief-heres-why-it-took-so-long-plus-5-newsworthy-moments-in-ai-this-week.md"
+    title: "Amazon Fired Their AI Chief. Here's Why It Took So Long (Plus 5 Newsworthy Moments in AI This Week)"
+    one_line: "Five major stories illustrate different aspects of AI's maturation"
+    tags: [ai-implementation, geopolitics, chip-supply-chain, robotics]
+    quality: 5
+    deprecated: true
+
+  - file: "2024-12-30-why-andrej-karpathy-feels-behind-and-what-it-means-for-your-career.md"
+    title: "Why Andrej Karpathy Feels \"Behind\" (And What It Means for Your Career)"
+    one_line: "we've undergone a phase transition from authoring deterministic code to orchestrating probabilistic systems"
+    tags: [ai-skills, probabilistic-systems, technical-leverage, workflow-design]
+    quality: 5
+
+  - file: "2026-02-10-trump-just-gutted-state-ai-laws-openai-panicked-ai-agents-stole-46m-your-10-minute-breakdown.md"
+    title: "Trump Just Gutted State AI Laws, OpenAI Panicked, AI Agents Stole $4.6M--Your 10-Minute Breakdown"
+    one_line: "The core strategic insight is that capital allocation and competitive dynamics override technical limitations—whether in compute scaling, regulatory arbitrage, or physical robotics deployment"
+    tags: [ai-regulation, competitive-dynamics, ai-scaling, hardware-constraints]
+    quality: 4
+    deprecated: true
+
+  - file: "2026-02-10-chatgpt-5-prompting-is-too-hard-this-video-makes-it-easy-for-you.md"
+    title: "ChatGPT-5 Prompting is Too Hard: This Video Makes it Easy for You"
+    one_line: "as AI becomes more powerful, the burden shifts from making AI capable to making humans precise"
+    tags: [gpt5, prompting, metaprompts, ai-tools]
+    quality: 5
+
+  - file: "2026-02-10-gemini-3-just-rewired-product-engineering-and-marketing-jobs.md"
+    title: "Gemini 3 Just Rewired Product, Engineering, and Marketing Jobs"
+    one_line: "The strategic insight is not that Gemini 3 is 'the best model,' but that it forces organizations to abandon single-model strategies and adopt workflow-specific routing"
+    tags: [ai-models, workflow-design, gemini-3, model-routing]
+    quality: 5
+
+  - file: "2026-02-10-3-startups-deep-in-30-days-how-nano-banana-pro-just-triggered-a-billion-dollar-chain-reaction.md"
+    title: "3 Startups Deep in 30 Days: How Nano Banana Pro Just Triggered a Billion-Dollar Chain Reaction"
+    one_line: "identify which AI capabilities are 'almost solved,' position ahead of the breakthrough, and move with extreme speed once gaps close"
+    tags: [ai-strategy, foundational-technology, downstream-innovation, jagged-intelligence]
+    quality: 4
+
+  - file: "2026-02-10-90-of-people-fail-at-vibe-coding-heres-the-actual-reason-youre-skipping-the-hard-part.md"
+    title: "90% of People Fail at Vibe Coding. Here's the Actual Reason: You're Skipping the Hard Part."
+    one_line: "(1) recognizing software-shaped problems ('parkour vision'), (2) clear specification before building, and (3) understanding the prototype-to-production gap"
+    tags: [vibe-coding, ai-development, creative-tools, software-democratization]
+    quality: 5
+
+  - file: "2026-02-10-ai-bubble-why-the-doom-narrative-is-wrong.md"
+    title: "AI Bubble? Why the Doom Narrative is Wrong"
+    one_line: "The core insight is that we're in a power-law game where rational actors are making heavy, concentrated bets in specific niches—behavior that looks frothy but is actually strategic given the exponential returns"
+    tags: [ai-strategy, market-analysis, power-law-dynamics, bubble-economics]
+    quality: 5
+
+  - file: "2026-02-10-ai-trends-2025-mary-meeker-deck-deep-dive-part-1.md"
+    title: "AI Trends 2025: Mary Meeker Deck Deep Dive Part 1"
+    one_line: "AI adoption is following internet patterns but 10x faster, driven by hardware breakthroughs from 2017-2018 (Nvidia Volta) that took 5-7 years to fully manifest in market adoption"
+    tags: [ai-trends, mary-meeker, capex-growth, gpu-infrastructure]
+    quality: 5
+
+  - file: "2026-02-10-anthropics-ceo-bet-the-company-on-this-philosophy-the-data-says-he-was-right.md"
+    title: "Anthropic's CEO Bet the Company on This Philosophy. The Data Says He Was Right."
+    one_line: "Anthropic released an 80-page 'Claude's Constitution' document that represents a fundamental bet: teaching AI why to behave (through Aristotelian practical wisdom) will produce better long-term results than telling it what to do (through rigid..."
+    tags: [anthropic, claude, ai-alignment, constitutional-ai]
+    quality: 5
+
+  - file: "2026-02-10-chatgpt-5-full-review-5-real-world-tests-the-ai-race.md"
+    title: "ChatGPT-5 Full Review: 5 Real-World Tests & The AI Race"
+    one_line: "The core insight is that AI advancement is becoming 'jaggedly intelligent'—massive improvements in specific domains (coding, medical, writing) that require increasing sophistication to unlock"
+    tags: [ai-models, chatgpt-5, prompt-engineering, model-testing]
+    quality: 5
+    deprecated: true
+
+  - file: "2026-02-10-chatgpts-4x-faster-image-update-vs-google-nano-banana-pro-i-ran-9-brutal-tests.md"
+    title: "ChatGPT's \"4x Faster\" Image Update vs. Google Nano Banana Pro: I Ran 9 Brutal Tests"
+    one_line: "marketing claims and benchmarks are worthless compared to domain-specific empirical testing"
+    tags: [ai-image-generation, comparative-testing, business-tools, google-gemini]
+    quality: 5
+    deprecated: true
+
+  - file: "2026-02-10-gemini-3-just-triggered-the-biggest-ai-reset-since-2022.md"
+    title: "Gemini 3 Just Triggered The Biggest AI Reset Since 2022"
+    one_line: "The AI competitive landscape is experiencing its first major reset since ChatGPT's launch, driven not by model capability alone but by the convergence of five critical axes: frontier capability, distribution/default status, capital/compute..."
+    tags: [ai-strategy, competitive-dynamics, distribution, google]
+    quality: 5
+
+  - file: "2026-02-10-going-slower-feels-safer-but-your-domain-expertise-wont-save-you-anymore-heres-what-will.md"
+    title: "Going Slower Feels Safer, But Your Domain Expertise Won't Save You Anymore. Here's What Will."
+    one_line: "The video argues that AI is creating two simultaneous collapses: horizontal (distinct career roles converging into a single meta-competency of orchestrating AI agents) and temporal (career timelines compressing from years to months)"
+    tags: [ai-transformation, career-strategy, temporal-collapse, meta-competency]
+    quality: 5
+
+  - file: "2026-02-10-grab-the-inside-scoop-on-how-google-anthropic-and-manus-built-long-running-ai-agents.md"
+    title: "Grab the Inside Scoop on How Google, Anthropic, and Manus Built Long-Running AI Agents"
+    one_line: "companies winning with AI agents aren't waiting for smarter models"
+    tags: [agentic-ai, memory-architecture, context-engineering, system-design]
+    quality: 5
+
+  - file: "2026-02-10-heres-the-90-slide-ai-eats-the-world-talk-in-15-minutesplus-my-top-takeaways.md"
+    title: "Here's the 90 Slide 'AI Eats the World' Talk in 15 Minutes—Plus My Top Takeaways"
+    one_line: "AI has moved from 'miracle' to 'inevitable utility.' The strategic insight is that AI adoption is profoundly path-dependent—where you start shapes what becomes possible later"
+    tags: [ai-strategy, platform-shifts, organizational-design, adoption-gaps]
+    quality: 5
+
+  - file: "2026-02-10-how-to-get-an-ai-job-in-2025-beyond-openai-big-tech.md"
+    title: "How to Get an AI Job in 2025 (Beyond OpenAI & Big Tech)"
+    one_line: "avoid both over-hyped model makers (where upside is already priced in) and early-stage chaos (70-100K AI startups heading toward a shakeout), instead targeting Series A-stage companies where business models are proven but growth remains"
+    tags: [ai-jobs, startup-strategy, career-strategy, company-targeting]
+    quality: 5
+
+  - file: "2026-02-10-i-read-mary-meekers-340-slide-ai-deckhere-are-the-top-takeaways.md"
+    title: "I read Mary Meeker's 340 Slide AI Deck—Here Are the Top Takeaways"
+    one_line: "The analysis highlights a fundamental divergence: B2C AI is consolidating around ChatGPT in a winner-take-most dynamic, while B2B presents fragmented opportunities where specialized tools can thrive"
+    tags: [ai-trends, mary-meeker, market-analysis, capital-allocation]
+    quality: 5
+
+  - file: "2026-02-10-i-summarized-googles-50-page-ai-agent-paper-vercels-ai-agent-doc-in-8-minutes-heres-the-tldr.md"
+    title: "I Summarized Google's 50 Page AI Agent Paper + Vercel's AI Agent Doc in 8 Minutes: Here's the TLDR"
+    one_line: "we need both perspectives—Google's orchestration-first security model to prevent risks like the Claude Code hack, and Vercel's pragmatic approach to eliminate verifiable toil today"
+    tags: [ai-agents, orchestration, security, practical-implementation]
+    quality: 5
+
+  - file: "2026-02-10-i-was-wrong-about-ai-agents-this-200-browser-actually-works.md"
+    title: "I Was Wrong About AI Agents — This $200 Browser Actually Works"
+    one_line: "This represents a fundamental shift in software valuation: from feature-based to time-savings-based pricing, where $200/month is justified by 10+ hours of saved time"
+    tags: [ai-agents, user-interface, product-design, perplexity]
+    quality: 5
+
+  - file: "2026-02-10-if-this-can-happen-to-an-ex-deepmind-leader-it-can-happen-to-you.md"
+    title: "If This Can Happen to an Ex-DeepMind Leader, It Can Happen to You"
+    one_line: "AI tools can hijack human judgment even among elite technical leaders, creating a new organizational risk category that requires behavioral safeguards, domain expertise validation, and periodic testing"
+    tags: [llm-psychosis, ai-safety, leadership, domain-expertise]
+    quality: 5
+
+  - file: "2026-02-10-inside-chatgpt-5s-brain-system-prompt-secrets-for-first-movers.md"
+    title: "Inside ChatGPT-5's Brain: System Prompt Secrets for First Movers"
+    one_line: "ChatGPT-5's leaked system prompt reveals a fundamental paradigm shift from conversational iteration to specification-first delegation"
+    tags: [chatgpt5, prompt-engineering, agentic-ai, system-prompts]
+    quality: 5
+
+  - file: "2026-02-10-is-openai-a-bubble-heres-the-2026-test-unit-economics-compute-enterprise-proof.md"
+    title: "Is OpenAI a Bubble? Here's the 2026 Test (Unit Economics + Compute + Enterprise Proof)"
+    one_line: "OpenAI in 2026 faces a fundamental strategic tension: operating like 'an airline with scarce inventory,' they must allocate limited compute between billion-scale consumer engagement (95% unpaid) and high-margin enterprise delegation engines"
+    tags: [openai-strategy, enterprise-ai, unit-economics, compute-constraints]
+    quality: 5
+
+  - file: "2026-02-10-karpathy-vs-mckinsey-the-truth-about-ai-agents-software-30.md"
+    title: "Karpathy vs. McKinsey: The Truth About AI Agents (Software 3.0)"
+    one_line: "AI adoption success depends on honest assessment of current limitations, designing for human validation loops, and resisting the temptation to oversimplify complexity for executive audiences"
+    tags: [ai-agents, software-development, enterprise-ai, technical-leadership]
+    quality: 5
+
+  - file: "2026-02-10-meta-just-cracked-vision-with-sam-3-robotics-moderation-and-video-editing-will-transform.md"
+    title: "Meta Just Cracked Vision with SAM 3: Robotics, Moderation, and Video Editing Will Transform"
+    one_line: "Google is betting on owning the developer IDE with anti-gravity, Meta has 'solved' semantic perception with SAM 3, and OpenAI is vertically integrating into physical infrastructure"
+    tags: [ai-infrastructure, computer-vision, vertical-integration, model-specialization]
+    quality: 5
+
+  - file: "2026-02-10-new-chatgpt-52-complete-breakdown-tested-on-excel-powerpoint-massive-data-sets-and-more.md"
+    title: "NEW ChatGPT 5.2 Complete Breakdown: Tested on Excel, PowerPoint, Massive Data Sets, and More"
+    one_line: "The strategic insight is that competitive advantage now flows to those who can correctly scope and delegate complex, multi-hour tasks to AI agents rather than those who can prompt for instant responses"
+    tags: [ai-agents, delegation-skills, workflow-automation, chatgpt-5.2]
+    quality: 5
+    deprecated: true
+
+  - file: "2026-02-10-openai-just-launched-200-prompts-for-prosthey-will-destroy-your-career-heres-why.md"
+    title: "OpenAI Just Launched 200 Prompts for Pros—They Will Destroy Your Career (Here's Why)"
+    one_line: "AI is not traditional software requiring one-time training, but a general-purpose technology on an exponential curve demanding continuous learning, workflow integration, and deep understanding of principles that scale"
+    tags: [ai-education, prompt-engineering, workforce-transformation, ai-adoption]
+    quality: 5
+
+  - file: "2026-02-10-prompting-is-the-wild-west-heres-the-prompt-lifecycle-guide-19-tools-a-demo.md"
+    title: "Prompting is the Wild West: Here's the Prompt Lifecycle Guide + 19 Tools + a Demo"
+    one_line: "Nate B Jones identifies a critical gap in the AI tooling landscape: the absence of structured frameworks for the prompt lifecycle, particularly the 'intent formation' stage that precedes authoring"
+    tags: [prompt-engineering, ai-workflows, tool-ecosystem, intent-formation]
+    quality: 5
+
+  - file: "2026-02-10-rag-the-40b-ai-technique-80-of-enterpises-usefinally-explained.md"
+    title: "RAG: The $40B AI Technique 80% of Enterpises Use—Finally Explained"
+    one_line: "RAG (Retrieval Augmented Generation) is a $2B market growing to $40B+ by 2035, used by ~80% of enterprises to solve AI's critical flaws: hallucinations, knowledge cutoffs, and inability to access company data"
+    tags: [rag, retrieval-augmented-generation, ai-infrastructure, enterprise-ai]
+    quality: 5
+
+  - file: "2026-02-10-stop-competing-with-400-applicants-build-this-in-one-weekend-yes-theres-a-no-code-option-too.md"
+    title: "Stop Competing With 400 Applicants. Build This in One Weekend (Yes, there's a  no code option too!)"
+    one_line: "when attention is the bottleneck and volume makes evaluation impossible, whoever controls the discovery interface wins"
+    tags: [hiring-strategy, ai-interfaces, market-positioning, attention-economics]
+    quality: 5
+
+  - file: "2026-02-10-the-125-billion-secret-amazon-told-wall-street-one-thing-and-employees-another-heres-the-truth.md"
+    title: "the $125 Billion Secret: Amazon Told Wall Street One Thing and Employees Another. Here's the Truth."
+    one_line: "Amazon's 30,000 layoffs are not about organizational culture—they're about capital reallocation"
+    tags: [amazon, capital-allocation, ai-infrastructure, layoffs]
+    quality: 5
+    deprecated: true
+
+  - file: "2026-02-10-the-200-ai-thats-too-smart-to-use-gpt-5-pro-paradox-explained.md"
+    title: "The $200 AI That's Too Smart to Use (GPT-5 Pro Paradox Explained)"
+    one_line: "intelligence and utility are diverging, requiring businesses to match AI architecture to specific cognitive tasks rather than seeking general superiority"
+    tags: [ai-strategy, inference-compute, parallel-reasoning, gpt5-pro]
+    quality: 5
+
+  - file: "2026-02-10-the-4-ai-agents-non-technical-people-actually-need-and-how-to-use-them-today.md"
+    title: "The 4 AI Agents Non-Technical People Actually Need (And How to Use Them Today)"
+    one_line: "reliability beats capability every time"
+    tags: [ai-agents, automation, productivity, non-technical]
+    quality: 5
+
+  - file: "2026-02-10-the-5-ai-shifts-that-will-reshape-2026-on-device-agents-4-more-critical-ai-trends.md"
+    title: "The 5 AI Shifts That Will Reshape 2026: On-Device Agents + 4 More Critical AI Trends"
+    one_line: "vertical expertise becomes the primary moat as horizontal tools commoditize, while talent becomes the bottleneck preventing most organizations from capturing AI value"
+    tags: [ai-strategy, 2026-planning, regulatory-compliance, on-device-ai]
+    quality: 5
+
+  - file: "2026-02-10-the-9-hard-truths-killing-ai-products-before-they-ship.md"
+    title: "The 9 Hard Truths Killing AI Products Before They Ship"
+    one_line: "chat interfaces create a 'weakly intelligent layer' that's good enough to dominate casual use but fundamentally inadequate for serious work, creating a bifurcated market where tool selection is talent-dependent rather than capability-dependent"
+    tags: [ai-product-development, conversational-ai, vibe-coding, data-middleware]
+    quality: 5
+
+  - file: "2026-02-10-the-ai-bubble-is-fake-julian-schrittwiesers-analysis-on-exponential-ai-progress.md"
+    title: "The AI Bubble is FAKE - Julian Schrittwieser's Analysis on Exponential AI Progress"
+    one_line: "Julian Schrittwieser (Anthropic researcher, former AlphaGo/Muse team member) argues that claims of an 'AI bubble' reflect a fundamental human cognitive failure: our inability to grasp exponential growth"
+    tags: [ai-progress, exponential-growth, cognitive-bias, benchmarking]
+    quality: 5
+
+  - file: "2026-02-10-the-ai-failure-mode-nobody-warned-you-about-and-how-to-prevent-it-from-happening.md"
+    title: "The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)"
+    one_line: "The core strategic insight is that AI agents fail not from hallucination or lack of context, but from misreading human intent"
+    tags: [ai-agents, intent-alignment, system-design, llm-limitations]
+    quality: 5
+
+  - file: "2026-02-10-the-compounding-gap-that-makes-2026-the-last-chance-to-catch-up.md"
+    title: "The Compounding Gap That Makes 2026 the Last Chance to Catch Up"
+    one_line: "advantages compound through recursive improvement loops, memory systems, and long-running agents"
+    tags: [ai-adoption, agent-systems, organizational-transformation, competitive-advantage]
+    quality: 5
+
+  - file: "2026-02-10-the-skill-gap-that-will-separate-ai-winners-from-everyone-else.md"
+    title: "The Skill Gap That Will Separate AI Winners from Everyone Else"
+    one_line: "The strategic insight is that 2026 will be the breakthrough year for 'always-on' personal AI agents (mini-me chief of staff), not because of AI capability gaps, but because of a human organizational skill gap"
+    tags: [ai-agents, personal-productivity, task-delegation, organizational-skills]
+    quality: 5
+
+  - file: "2026-02-10-they-ignored-my-tool-stack-and-built-something-better-the-4-patterns-that-work.md"
+    title: "They Ignored My Tool Stack and Built Something Better--The 4 Patterns That Work"
+    one_line: "This video reveals a fundamental shift in how systems get built in 2026: the combination of community pattern libraries and AI implementation muscle creates unprecedented building velocity"
+    tags: [ai-building, community-patterns, architecture-principles, second-brain]
+    quality: 5
+
+  - file: "2026-02-10-this-is-why-youre-still-slow-even-with-ai-the-bottleneck-moved-heres-what-to-do-about-it.md"
+    title: "THIS is Why You're Still Slow Even With AI (The Bottleneck Moved--Here's What to Do About It)"
+    one_line: "The fundamental constraint in knowledge work has inverted: execution used to be expensive and scarce, but AI has made it cheap and abundant"
+    tags: [ai-native-work, bottleneck-theory, execution-velocity, work-habits]
+    quality: 5
+
+  - file: "2026-02-10-turn-your-job-ai-native-before-agents-do-it-for-you.md"
+    title: "Turn Your Job AI-Native Before Agents Do It For You"
+    one_line: "95% of workers won't switch to 'AI jobs'—instead, AI will reshape their current roles through workflow decomposition"
+    tags: [ai-agents, workflow-automation, enterprise-ai, ai-governance]
+    quality: 5
+
+  - file: "2026-02-10-were-getting-ai-agents-backwardssimulation-wins.md"
+    title: "We're Getting AI Agents Backwards—Simulation Wins"
+    one_line: "The strategic opportunity in AI agents is inverted: while 95% of focus is on agents as executors (linear time savings), the exponential value lies in agents as reality simulators"
+    tags: [ai-agents, simulation, digital-twins, decision-making]
+    quality: 5
+
+  - file: "2026-02-10-why-ai-native-companies-are-deleting-software-youre-still-paying-for-the-56k-lesson.md"
+    title: "Why AI-Native Companies Are Deleting Software You're Still Paying For (The $56K Lesson)"
+    one_line: "The fundamental insight: AI agents don't fail because of technology limitations—they fail because organizations trap work inside opaque, GUI-based abstractions that agents cannot reliably operate against"
+    tags: [ai-agents, work-primitives, organizational-design, code-native]
+    quality: 5
+
+  - file: "2026-02-10-why-flash-models-not-frontier-models-will-win-in-2026.md"
+    title: "Why Flash Models, Not Frontier Models, Will Win in 2026"
+    one_line: "This represents a fundamental repricing toward teams with 'dual fluency'—deep domain expertise combined with technical AI knowledge in a single person—and middleware layers that harness AI within beautiful, low-entropy user experiences"
+    tags: [ai-strategy, agentic-workflows, constraints, entropy-reduction]
+    quality: 5
+
+  - file: "2026-02-10-why-the-smartest-ai-bet-right-now-has-nothing-to-do-with-ai-its-not-what-you-think.md"
+    title: "Why the Smartest AI Bet Right Now Has Nothing to Do With AI (It's Not What You Think)"
+    one_line: "abundance doesn't create value directly—it shifts where scarcity lives"
+    tags: [bottleneck-economy, ai-implementation, infrastructure-constraints, trust-deficit]
+    quality: 5
+
+  - file: "2026-02-10-why-your-best-employees-quit-using-ai-after-3-weeks-and-the-6-skills-that-would-have-saved-them.md"
+    title: "Why Your Best Employees Quit Using AI After 3 Weeks (And the 6 Skills That Would Have Saved Them)"
+    one_line: "The core insight is that AI isn't a tool skill—it's a management skill"
+    tags: [ai-adoption, management-skills, organizational-capability, training-gap]
+    quality: 5
+
+  - file: "2026-02-10-will-ai-kill-your-job-12-brutal-career-questions-answered.md"
+    title: "Will AI Kill Your Job? 12 Brutal Career Questions Answered"
+    one_line: "roles are not just bundles of tasks—they include critical 'glue work' (coordination, trust-building, judgment) that AI cannot easily replicate"
+    tags: [ai-career-strategy, job-displacement, ai-skills, workforce-adaptation]
+    quality: 5
+
+  - file: "2026-02-10-i-built-an-11-tab-financial-model-in-10-minutes-the-20month-tool-thats-about-change-how-we-work.md"
+    title: "I Built an 11-Tab Financial Model in 10 Minutes. The $20/Month Tool That's About Change How We Work."
+    one_line: "The strategic insight is that foundation models are converging in quality, making workflow embedding and exclusive data partnerships the new competitive moats"
+    tags: [anthropic, claude, excel, workflow-integration]
+    quality: 5
+
+  - file: "2026-02-10-chatgpt-5-rumors-decodedhow-prompting-is-evolving-in-the-next-age-of-ai.md"
+    title: "ChatGPT-5 Rumors Decoded—How Prompting is Evolving in the Next Age of AI"
+    one_line: "as models grow more powerful, precision in prompting becomes liberating rather than constraining, and the skill shifts from finding magic words to designing thinking partnerships"
+    tags: [prompt-engineering, gpt5-preparation, ai-architecture, context-management]
+    quality: 5
+    deprecated: true
+
+  - file: "2025-01-02-github-shut-down-a-major-ai-builder-overnightheres-what-happened-why-it-gets-worse-in-2025.md"
+    title: "GitHub Shut Down a Major AI Builder Overnight—Here's what happened why it gets worse in 2025"
+    one_line: "This is not about code quality but sheer volume transformation, requiring immediate architectural refactoring across the tech stack before usage patterns fundamentally change"
+    tags: [infrastructure-scaling, ai-agents, exponential-growth, platform-dependencies]
+    quality: 5
+    deprecated: true
+
+  - file: "2025-01-26-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you.md"
+    title: "What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)"
+    one_line: "founder background isn't just biography—it's destiny encoded into product strategy, market positioning, and ultimate competitive advantage"
+    tags: [ai-strategy, leadership-philosophy, openai, anthropic]
+    quality: 5
+
+  - file: "2025-01-31-meta-up-10-microsoft-down-10-tesla-killing-cars-this-week-broke-something.md"
+    title: "Meta Up 10%, Microsoft Down 10%, Tesla Killing Cars. This Week Broke Something."
+    one_line: "This week revealed a fundamental market shift: AI has transitioned from potential to execution, and Wall Street is now pricing companies based on whether they own their AI capabilities or merely rent them"
+    tags: [ai-strategy, capital-allocation, ownership-vs-renting, market-signals]
+    quality: 5
+    deprecated: true
+
+  - file: "2025-01-31-o3-pro-is-outheres-everything-you-need-to-know.md"
+    title: "o3 Pro is Out—Here's Everything You Need to Know"
+    one_line: "the first model that can operate as a strategic advisor 'at the founder level without any caveats.' The key insight isn't raw intelligence"
+    tags: [ai-models, o3-pro, strategic-thinking, openai]
+    quality: 5
+
+  - file: "2026-02-10-claude-4-is-outcomparison-vs-o3-and-gemini-25-pro.md"
+    title: "Claude 4 is out—comparison vs. o3 and Gemini 2.5 pro"
+    one_line: "The key insight is that cutting-edge capability + one-click integration creates significantly more value than slightly better capability requiring technical implementation"
+    tags: [claude-4, ai-models, productivity-tools, personal-assistant]
+    quality: 5
+    deprecated: true
+
+  - file: "2026-02-10-claude-45-built-slack-in-30-hours-straightheres-my-take-after-testing.md"
+    title: "Claude 4.5 Built Slack in 30 Hours Straight—Here's My Take After Testing"
+    one_line: "While Claude 4.5 demonstrates breakthrough autonomous capabilities (30-hour uninterrupted coding, strong Excel/PowerPoint manipulation), the strategic lesson is that AI effectiveness depends entirely on your ability to define work correctly"
+    tags: [ai-agents, enterprise-ai, distribution-advantage, platform-strategy]
+    quality: 5
+    deprecated: true
+
+  - file: "2026-02-10-real-world-testing-opus-45-vs-gemini-3-vs-chatgpt-51.md"
+    title: "Real World Testing: Opus 4.5 vs. Gemini 3 vs. ChatGPT 5.1"
+    one_line: "The core strategic insight is that models are not products to evaluate on benchmarks—they are environments to discover, each with distinct personalities suited to different job types"
+    tags: [ai-models, claude-opus, gemini-3, chatgpt-5.1]
+    quality: 5
+    deprecated: true
+
+  - file: "2026-02-10-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapper.md"
+    title: "The Manus Acquisition Explained: Why Meta Paid $2B for a \"Wrapper"
+    one_line: "Meta's $2B acquisition of Manus reveals a profound shift in AI value creation: the 'wrapper' (agent harness) is becoming more valuable than the underlying model"
+    tags: [ai-agents, acquisition-strategy, meta, product-moats]
+    quality: 5
+
+  - file: "2025-02-10-the-skill-that-separates-ai-power-users-from-everyone-else-why-clear-specs-produce-broken-output.md"
+    title: "The Skill That Separates AI Power Users From Everyone Else (Why \"Clear\" Specs Produce Broken Output)"
+    one_line: "Two fundamentally different AI philosophies are emerging: colleague-shaped AI (Claude Code, co-work) that maintains human-in-the-loop iteration, and tool-shaped AI (OpenAI Codex) that executes autonomously from precise specifications"
+    tags: [ai-tools, claude-code, openai-codex, human-ai-collaboration]
+    quality: 5
+
+  - file: "2026-02-10-the-800-million-user-trap-why-openais-dev-day-changes-everything-and-nothing.md"
+    title: "The 800 Million User Trap: Why OpenAI's Dev Day Changes Everything (and Nothing)"
+    one_line: "OpenAI's Dev Day announcement of an app store and agent builder represents a high-stakes platform play modeled on Apple's App Store, but faces a fundamentally different market structure: unlike 2007 when iPhone had no competitors, AI exists in a..."
+    tags: [openai, platform-strategy, developer-economics, multimodel-world]
+    quality: 5
+    deprecated: true
+
+  - file: "2025-03-01-manus-ai-what-manus-tells-us-about-the-future-of-ai-agents.md"
+    title: "Manus AI: What Manus Tells Us About the Future of AI Agents"
+    one_line: "AI agents are bifurcating into generalist productivity tools (like ChatGPT) versus specialist orchestration tools (like Manus), with the latter optimizing for reliability and capability at the expense of predictable costs"
+    tags: [ai-agents, multi-agent-orchestration, enterprise-ai, agentic-frameworks]
+    quality: 5
+
+  - file: "2025-04-17-chatgpt-o3-model-breakdown-vs-gemini-25-pro-o3-work-skills-plus-ai-landscape-review-post-o3.md"
+    title: "ChatGPT o3: Model Breakdown vs. Gemini 2.5 Pro, o3 Work Skills, Plus AI Landscape Review post-o3"
+    one_line: "OpenAI's o3 represents a fundamental capability shift in AI models, demonstrating pattern recognition and reasoning abilities that exceed previous expectations"
+    tags: [ai-models, o3, gemini, benchmarking]
+    quality: 5
+    deprecated: true
+
+  - file: "2025-04-28-shopifys-ai-memo-changed-hiring-foreverand-why-google-meta-nvidia-are-copying-it.md"
+    title: "Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It"
+    one_line: "Shopify spent years building infrastructure (LLM proxy, MCP servers, internal tools) before issuing the mandate, making their transformation genuine rather than performative"
+    tags: [ai-transformation, talent-strategy, organizational-change, competitive-advantage]
+    quality: 5
+
+  - file: "2025-05-06-openai-bought-windsurf.md"
+    title: "OpenAI bought Windsurf"
+    one_line: "OpenAI's $3B acquisition of Windsurf (the #2 AI coding platform) at a 75x multiple reveals a critical strategic pattern: model makers must control development environments to compete in the agentic era"
+    tags: [openai, windsurf, cursor, ai-coding]
+    quality: 5
+    deprecated: true
+
+  - file: "2025-07-09-how-grok-went-rogue-on-july-8-the-engineering-blunders-that-let-ai-spew-hate.md"
+    title: "How Grok Went Rogue on July 8: The Engineering Blunders That Let AI Spew Hate"
+    one_line: "AI system failures are rarely about the AI itself—they're about fundamental engineering culture failures"
+    tags: [ai-safety, engineering-culture, system-design, guardrails]
+    quality: 5
+
+  - file: "2025-07-14-google-openai-chaos-inside-windsurfs-3b-deal-implosion-72-hrs.md"
+    title: "Google, OpenAI, Chaos: Inside Windsurf's $3B Deal Implosion (72 hrs)"
+    one_line: "Windsurf's spectacular 72-hour deal collapse reveals three critical strategic patterns reshaping Silicon Valley: (1) AI talent wars have reached unprecedented compensation levels that fundamentally break traditional founder incentive structures"
+    tags: [ai-coding-tools, startup-acquisitions, talent-wars, model-makers-vs-tools]
+    quality: 5
+    deprecated: true
+
+  - file: "2026-02-10-why-the-best-ai-tools-look-nothing-like-chatgpt.md"
+    title: "Why the Best AI Tools Look NOTHING Like ChatGPT"
+    one_line: "data proximity beats model sophistication, and deterministic verification beats probabilistic confidence scores"
+    tags: [ai-tools, product-design, workflow-integration, enterprise-software]
+    quality: 5
+
+  - file: "2025-10-jensen-huang-nvidia.md"
+    title: "How Jensen Works - The Nvidia Way"
+    one_line: "An operational blueprint of how Jensen Huang built and runs Nvidia over 31+ years as the longest-running founder-CEO of a tech company"
+    tags: [strategy, culture, operational-excellence, decision-making]
+    quality: 5
+    person: "Jensen Huang"
+
+  - file: "2026-02-10-fire-mckinsey-the-20000-board-deck-you-can-build-with-ai-in-10-minutesprompt-demo.md"
+    title: "FIRE McKinsey: The $20,000 Board Deck You Can Build with AI in 10 Minutes—Prompt Demo!"
+    one_line: "enterprises that master constraint-based prompting for visual outputs will gain 10x speed advantages in strategic communication, fundamentally restructuring how organizational narratives are created and iterated"
+    tags: [ai-powerpoint, prompt-engineering, systems-thinking, workflow-automation]
+    quality: 5
+
+  - file: "2026-02-10-google-just-pulled-a-power-move-vs-code-colab-and-gemini-30.md"
+    title: "Google Just Pulled a Power Move: VS Code, Colab, and Gemini 3.0"
+    one_line: "instruction-following capability matters more than raw model power, and whoever controls the orchestration layer controls the security perimeter"
+    tags: [ai-security, model-orchestration, competitive-strategy, google-gemini]
+    quality: 5
+    deprecated: true
+
+  - file: "2026-02-10-google-just-proved-more-agents-can-make-things-worse-heres-what-actually-does-work.md"
+    title: "Google Just Proved More Agents Can Make Things WORSE -- Here's What Actually Does Work"
+    one_line: "Adding more AI agents to a system can actually degrade performance, not improve it"
+    tags: [multi-agent-systems, ai-architecture, scaling, simplicity]
+    quality: 5
+
+  - file: "2025-12-4-ai-agents-guide.md"
+    title: "The 4 AI Agents Non-Technical People Actually Need (And How to Use Them Today)"
+    one_line: "reliability beats capability, and non-technical success comes from learning to delegate outcomes clearly, not learning to code"
+    tags: [ai-agents, productivity, workflows, delegation]
+    quality: 5
+    person: "Nate B Jones"
+
+  - file: "2026-02-10-the-nvidia-groq-deal-is-way-bigger-than-reported-3-things-the-headlines-missed.md"
+    title: "The Nvidia-Groq Deal Is WAY Bigger Than Reported (3 Things the Headlines Missed)"
+    one_line: "The Nvidia-Groq deal represents a fundamental shift in how frontier AI companies acquire strategic capabilities: rather than traditional M&A, they're licensing technology and hiring key talent while leaving the corporate shell independent"
+    tags: [nvidia, groq, ai-infrastructure, memory-bandwidth]
+    quality: 5
+
+  - file: "2026-02-10-why-every-cold-application-you-send-is-a-waste-of-time-and-what-actually-works.md"
+    title: "Why Every Cold Application You Send Is a Waste of Time (And What Actually Works)"
+    one_line: "The fundamental power dynamic between users and digital platforms has shifted in late 2025/early 2026, though few have noticed"
+    tags: [data-ownership, ai-analysis, information-asymmetry, linkedin-strategy]
+    quality: 5
+
+  - file: "2026-02-10-ilya-vs-google-the-one-number-that-decides-whos-right.md"
+    title: "Ilya vs. Google - The ONE Number That Decides Who's Right"
+    one_line: "The core strategic insight is that sample efficiency (how much data is needed to learn) may be the defining competitive dimension of the next AI era, not compute scale"
+    tags: [ai-scaling, generalization, research-strategy, benchmark-optimization]
+    quality: 5
+
+  - file: "2026-02-10-chatgpt-52-vs-claude-opus-45-vs-gemini-3-what-benchmarks-wont-tell-you.md"
+    title: "ChatGPT 5.2 vs. Claude Opus 4.5 vs. Gemini 3: What Benchmarks Won't Tell You"
+    one_line: "models should be evaluated not by which is 'smartest,' but by which model-plus-surface combination reliably completes specific types of work without downstream pain"
+    tags: [ai-model-adoption, simple-wins, workflow-design, artifact-friction]
+    quality: 5
+    deprecated: true
+
+  - file: "2026-02-10-why-the-smartest-ai-teams-are-panic-buying-compute-the-36-month-ai-infrastructure-crisis-is-here.md"
+    title: "Why the Smartest AI Teams Are Panic-Buying Compute: The 36-Month AI Infrastructure Crisis Is Here"
+    one_line: "We are witnessing a structural compute crisis that will reshape competitive dynamics across every industry through 2028"
+    tags: [ai-infrastructure, compute-shortage, enterprise-strategy, supply-chain]
+    quality: 5
+
+  - file: "2026-01-second-brain-system.md"
+    title: "Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)"
+    one_line: "Nate B Jones presents a comprehensive no-code system for building an AI-powered 'second brain' using Slack, Notion, Zapier, and Claude/ChatGPT"
+    tags: [second-brain, ai-systems, productivity, automation]
+    quality: 5
+    person: "Nate B Jones"
+
+  - file: "2026-01-claude-code-meta-guide.md"
+    title: "The New Claude Code Meta - GSD Framework Guide"
+    one_line: "Chase AI introduces GSD (Get Stuff Done), a context engineering orchestration layer for Claude Code that transforms solo development workflow"
+    tags: [claude-code, workflow-optimization, orchestration, context-engineering]
+    quality: 4
+    person: "Chase (Chase AI)"
+
+  - file: "2026-01-15-lecun-said-llms-are-a-dead-endthen-revealed-meta-fudged-their-benchmarks-both-matter-heres-why.md"
+    title: "LeCun Said LLMs Are a Dead End—Then Revealed Meta Fudged Their Benchmarks. Both Matter - Here's Why."
+    one_line: "The meta-pattern: AI companies are transitioning from capability building to value capture, vertically integrating into applications, and racing to establish data flywheels before competitors"
+    tags: [ai-strategy, healthcare-ai, physical-ai, robotics]
+    quality: 5
+    deprecated: true
+
+  - file: "2026-01-30-clawdbot-to-moltbot-to-openclaw-the-72-hours-that-broke-everything-the-full-breakdown.md"
+    title: "Clawdbot to Moltbot to OpenClaw - The 72 Hours That Broke Everything (The Full Breakdown)"
+    one_line: "we're witnessing a preview of 2026's agent economy, where the capability-security tradeoff forces a binary choice between neutered safety and dangerous utility"
+    tags: [agentic-ai, open-source-security, local-ai, prompt-injection]
+    quality: 5
+    deprecated: true
+
+  - file: "2026-02-10-apple-took-years-to-catch-up-kilo-code-took-6-weeks-and-its-coming-for-lovable-cursor-replit.md"
+    title: "Apple Took Years to Catch Up. Kilo Code Took 6 Weeks--and It's Coming for Lovable, Cursor, Replit"
+    one_line: "This week revealed critical structural shifts in AI: XAI's $20B raise establishes a clear 'big four' with multi-year runway (OpenAI, Anthropic, XAI, Google), while everyone else faces compressed timelines"
+    tags: [ai-strategy, developer-tools, competitive-dynamics, agi-timeline]
+    quality: 4
+    deprecated: true
+
+  - file: "2026-02-10-nvidia-told-us-exactly-where-ai-is-going-and-almost-everyone-heard-it-wrong.md"
+    title: "NVIDIA told us exactly where AI is going — and almost everyone heard it wrong"
+    one_line: "NVIDIA's Rubin platform signals a fundamental shift: AI is being optimized for 'always-on' serving at scale, with token generation costs dropping 10x while context windows expand to 10 million tokens"
+    tags: [ai-infrastructure, inference-economics, industrial-ai, nvidia-rubin]
+    quality: 5
+
+  - file: "2026-02-10-openai-is-slowing-hiring-anthropics-engineers-stopped-writing-code-heres-why-you-should-care.md"
+    title: "OpenAI Is Slowing Hiring. Anthropic's Engineers Stopped Writing Code. Here's Why You Should Care."
+    one_line: "we've shifted from a world where coding skill was the bottleneck to one where specification, review, and coordination skills determine leverage"
+    tags: [ai-adoption, capability-overhang, agentic-workflows, software-engineering]
+    quality: 5
+
+  - file: "2026-02-10-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo.md"
+    title: "Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)"
+    one_line: "The strategic insight isn't the expense receipts—it's that AI-native organizations can observe user behavior on Monday and ship a fully-fledged product by Thursday"
+    tags: [ai-agents, product-velocity, organizational-speed, task-delegation]
+    quality: 5
+
+  - file: "2026-02-10-stop-treating-image-generation-like-a-design-tool-the-hidden-bottleneck-limiting-your-ai-roi.md"
+    title: "Stop Treating Image Generation Like a Design Tool--The Hidden Bottleneck Limiting Your AI ROI"
+    one_line: "Visual AI capabilities (like Nano Banana Pro) represent infrastructure, not creative tools"
+    tags: [visual-ai, enterprise-automation, infrastructure-strategy, competitive-advantage]
+    quality: 5
+
+  - file: "2026-02-saaspocalypse-285-billion-selloff.md"
+    title: "200 Lines of Markdown Just Triggered a $285 Billion Sell-Off"
+    one_line: "the markdown file didn't cause the crash — it revealed that the per-seat SaaS pricing model was already structurally broken"
+    tags: [saaspocalypse, enterprise-software, pricing-models, per-seat-licensing]
+    quality: 5
+    person: "Nate B Jones"
+
+  - file: "2026-02-10-everyone-is-getting-ai-fluency-wrongsteal-my-10-level-framework-that-exposes-the-real-ai-skill-gap.md"
+    title: "Everyone is Getting AI Fluency Wrong—Steal My 10 Level Framework That Exposes the Real AI Skill Gap"
+    one_line: "AI fluency isn't about mastering specific tools—it's about developing transferable mental models, systematic approaches, and the ability to discover undocumented capabilities"
+    tags: [ai-fluency, skill-assessment, mental-models, systems-thinking]
+    quality: 5
+
+  - file: "2026-02-10-burnout-is-the-feature-why-75-of-pms-are-breaking-and-how-to-stop-it.md"
+    title: "Burnout Is the Feature: Why 75% of PMs Are Breaking--and How to Stop It"
+    one_line: "Product Managers face a unique multi-dimensional crisis as AI disrupts their role simultaneously across asset creation, product development, stakeholder management, and role definition itself"
+    tags: [product-management, ai-transformation, burnout, role-evolution]
+    quality: 4
+
+  - file: "2026-02-10-context-engineering-vs-prompt-engineering-guiding-llm-agents.md"
+    title: "Context Engineering vs. Prompt Engineering: Guiding LLM Agents"
+    one_line: "This represents a fundamental shift from cost optimization to decision quality optimization"
+    tags: [context-engineering, prompt-engineering, llm-agents, ai-strategy]
+    quality: 5
+
+  - file: "2026-02-10-the-ai-expertise-bottleneck-how-top-1-pros-are-scaling-faster-than-ever.md"
+    title: "The AI Expertise Bottleneck: How Top 1% Pros Are Scaling Faster Than Ever"
+    one_line: "The strategic insight is that expertise compounds but documentation doesn't—until now"
+    tags: [ai-scaling, expertise-leverage, documentation-automation, knowledge-work]
+    quality: 5
+
+  - file: "2026-02-10-lets-talk-that-apple-ai-paperheres-the-takeaway-everyone-is-ignoring.md"
+    title: "Let's Talk THAT Apple AI Paper—Here's the Takeaway Everyone is Ignoring"
+    one_line: "The real strategic insight isn't that 'AI is dead'—it's that AI systems need well-designed escalation frameworks"
+    tags: [ai-reasoning, llm-limitations, system-design, tool-use]
+    quality: 5
+
+  - file: "2026-02-10-chunking-101-the-invisible-bottleneck-killing-enterprise-ai-projects.md"
+    title: "Chunking 101: The Invisible Bottleneck Killing Enterprise AI Projects"
+    one_line: "AI intelligence means nothing if you feed it incomplete context"
+    tags: [chunking, rag-systems, context-engineering, data-architecture]
+    quality: 5
+
+  - file: "2026-02-10-why-pretty-good-on-first-pass-is-costing-you-thousands-how-to-fix-it-today.md"
+    title: "Why \"Pretty Good on First Pass\" Is Costing You Thousands--How To Fix It TODAY"
+    one_line: "stop accepting 'done' on first pass and force convergence toward correctness through iterative evaluation loops"
+    tags: [ai-agents, evaluation-loops, iterative-improvement, ralph-wiggum]
+    quality: 5
+
+  - file: "2026-02-10-90-of-ai-users-are-getting-mediocre-output-dont-be-one-of-them-stop-prompting-do-this-instead.md"
+    title: "90% of AI Users Are Getting Mediocre Output. Don't Be One of Them (Stop Prompting, Do THIS Instead)"
+    one_line: "AI customization is not a one-time setup but a compounding investment system"
+    tags: [ai-customization, productivity-systems, compounding-leverage, personalization]
+    quality: 5
+
+  - file: "2026-02-10-ai-didnt-kill-engineering-it-raised-the-bar.md"
+    title: "AI Didn't Kill Engineering: It Raised the Bar"
+    one_line: "AI gives non-engineers 'rope to hang themselves' while giving trained engineers 'rocket fuel,' because engineering skills—system intuition, empathy for edge cases, judgment under uncertainty"
+    tags: [engineering, ai-tools, software-development, system-design]
+    quality: 5
+
+  - file: "2026-02-10-ai-is-going-to-break-saas-pricing-modelsand-thats-breaking-vc.md"
+    title: "AI is Going to Break SAAS Pricing Models—And That's Breaking VC"
+    one_line: "AI is fundamentally disrupting the SaaS pricing model by enabling mass customization, lowering switching costs, and creating pressure for outcome-based pricing"
+    tags: [saas-pricing, ai-disruption, venture-capital, business-models]
+    quality: 5
+
+  - file: "2026-02-10-chatgpt-5-wont-save-you-10-reasons-why-your-ai-strategy-is-failing.md"
+    title: "ChatGPT 5 Won't Save You: 10 Reasons Why Your AI Strategy is Failing"
+    one_line: "78% of AI failures stem from data readiness issues, yet organizations continue betting on better models rather than fixing foundational problems"
+    tags: [ai-strategy, organizational-change, data-infrastructure, ai-operations]
+    quality: 5
+
+  - file: "2026-02-10-i-spent-200-hours-teaching-ai-writinghere-are-6-principles-everyone-gets-wrong-demo-prompt.md"
+    title: "I Spent 200 Hours Teaching AI Writing—Here Are 6 Principles Everyone Gets WRONG (+ Demo Prompt)"
+    one_line: "The fundamental bottleneck in AI-assisted writing is not model capability but organizational ability to articulate what constitutes good work"
+    tags: [ai-writing, business-communication, prompt-engineering, organizational-design]
+    quality: 5
+
+  - file: "2026-02-10-i-spent-months-studying-the-ai-job-markethere-are-5-secrets-to-stand-out-no-one-is-talking-about.md"
+    title: "I Spent Months Studying the AI Job Market—Here are 5 Secrets to Stand Out No One is Talking About"
+    one_line: "The AI job market has entered a permanent crisis where traditional hiring signals (resumes, cover letters, portfolios) have collapsed to zero value because LLMs have made information production costless"
+    tags: [ai-job-market, hiring, verification, signal-vs-noise]
+    quality: 5
+
+  - file: "2026-02-10-ive-built-over-100-ai-agents-only-1-of-builders-know-these-6-principles.md"
+    title: "I've Built Over 100 AI Agents: Only 1% of Builders Know These 6 Principles"
+    one_line: "The strategic insight is that competitive advantage in AI systems comes not from better models, but from architectural patterns that embrace probabilistic cores wrapped in deterministic interfaces"
+    tags: [ai-agents, system-architecture, engineering-principles, agentic-systems]
+    quality: 5
+
+  - file: "2026-02-10-json-how-i-build-perfect-images-in-nanobanana-pro.md"
+    title: "JSON: How I Build Perfect Images in NanoBanana Pro"
+    one_line: "The strategic insight is that professional AI tooling requires machine-readable specification, version control, and compositional control—the same principles that made software engineering scalable"
+    tags: [json-prompting, nano-banana-pro, structured-prompting, image-generation]
+    quality: 5
+
+  - file: "2026-02-10-managers-are-nuking-your-career-pay-300-2000-a-month-or-get-left-behind.md"
+    title: "Managers Are Nuking Your Career: Pay $300-$2000 a Month or Get Left Behind"
+    one_line: "The core insight is that AI tools are not software—they're productivity multipliers baseline against human compensation, not software licensing"
+    tags: [ai-budgeting, organizational-change, productivity-multipliers, software-procurement]
+    quality: 5
+
+  - file: "2026-02-10-mark-zuckerburg-laid-off-600-ai-researchersheres-the-ai-talent-takeaway-everyone-missed.md"
+    title: "Mark Zuckerburg Laid Off 600 AI Researchers—Here's the AI Talent Takeaway Everyone MISSED"
+    one_line: "companies are no longer blocked on algorithmic progress—they're blocked on compute capacity, and the race to build infrastructure is determining who wins, not who has the smartest researchers"
+    tags: [ai-talent, infrastructure-vs-research, meta-layoffs, ai-development-tools]
+    quality: 5
+
+  - file: "2026-02-10-n8n-how-to-build-ai-agents-that-dont-break.md"
+    title: "n8n: How to build AI agents that don't break"
+    one_line: "The core strategic insight is that AI agents are real software and require real engineering principles (simplicity, separation of concerns, documentation) regardless of who builds them"
+    tags: [ai-agents, automation, n8n, software-engineering]
+    quality: 5
+
+  - file: "2026-02-10-steal-my-2-prompt-blueprint-turn-chatgpt-into-your-personal-ai-tutor-live-demo.md"
+    title: "Steal My 2-Prompt Blueprint: Turn ChatGPT Into Your Personal AI Tutor (Live Demo)"
+    one_line: "prompts are products, not queries, and small structural changes create dramatically different behavioral outcomes"
+    tags: [prompt-engineering, ai-tutoring, meta-prompts, learning-systems]
+    quality: 5
+
+  - file: "2026-02-10-stop-burning-tokens-the-contract-first-prompting-blueprint-no-one-talks-about.md"
+    title: "Stop Burning Tokens: The Contract-First Prompting Blueprint No One Talks About"
+    one_line: "Nate B Jones introduces 'contract-first prompting,' a novel approach to LLM interaction that prioritizes establishing clear mutual understanding before work begins"
+    tags: [prompt-engineering, intent-clarity, contract-first-prompting, llm-efficiency]
+    quality: 5
+
+  - file: "2026-02-10-the-ai-prompting-mistake-costing-you-hours-every-week-10-prompts-to-fix-it.md"
+    title: "The AI Prompting Mistake Costing You Hours Every Week (10 Prompts to Fix It)"
+    one_line: "The fundamental strategic mistake in AI adoption is asking 'which model for this workflow?' when you should ask 'which model for this task?' This granular, task-based approach—treating workflows as composed of atomic units like Lego bricks"
+    tags: [ai-strategy, task-decomposition, model-selection, workflow-optimization]
+    quality: 5
+
+  - file: "2026-02-10-the-ai-trick-that-finally-made-me-better-at-my-job-not-just-faster.md"
+    title: "The AI Trick That Finally Made Me Better at My Job (Not Just Faster)"
+    one_line: "The core insight is that knowledge workers have historically lacked the deliberate practice systems that athletes and musicians use, and AI now makes it economically feasible to create structured, repeatable practice environments"
+    tags: [skills-development, deliberate-practice, ai-coaching, knowledge-work]
+    quality: 5
+
+  - file: "2026-02-10-the-best-al-note-system-looks-nothing-like-chatgpt-free-tool-demo-and-prompt-tips.md"
+    title: "The Best Al Note System Looks NOTHING Like ChatGPT (FREE Tool + Demo and Prompt Tips)"
+    one_line: "The core strategic insight is that effective AI knowledge systems require fundamentally different architectures than conversational interfaces"
+    tags: [ai-notes, knowledge-management, llm-optimization, note-taking]
+    quality: 2
+    deprecated: true
+
+  - file: "2026-02-10-the-compression-of-time-in-the-ai-era.md"
+    title: "The Compression of Time in the AI Era"
+    one_line: "AI and humans experience time compression differently, creating asymmetric advantages and limitations"
+    tags: [ai-time-compression, agent-capabilities, compute-scaling, intent-over-time]
+    quality: 5
+
+  - file: "2026-02-10-the-honest-case-for-ai-note-takingfrom-a-skeptic.md"
+    title: "The Honest Case for AI Note-Taking—From a Skeptic"
+    one_line: "we're moving from organizing information like machines (hierarchical filing) to exercising human judgment over AI-assisted semantic retrieval"
+    tags: [ai-note-taking, knowledge-management, llm-limitations, cognitive-load]
+    quality: 5
+
+  - file: "2026-02-10-the-mental-models-of-master-prompters-10-techniques-for-advanced-prompting.md"
+    title: "The Mental Models of Master Prompters: 10 Techniques for Advanced Prompting"
+    one_line: "you can simulate API-level controls through conversational design, transforming LLMs from simple answer-generators into sophisticated thinking partners through deliberate structural constraints"
+    tags: [advanced-prompting, ai-productivity, meta-prompting, reasoning-scaffolds]
+    quality: 5
+
+  - file: "2026-02-10-the-scoop-what-i-hear-from-companies-behind-closed-doors-about-ai-talent-jobs.md"
+    title: "The Scoop: What I Hear from Companies Behind Closed Doors About AI, Talent, & Jobs"
+    one_line: "value allocation is shifting from 'production' to 'problem-solving,' creating asymmetric advantages based on career stage"
+    tags: [ai-transition, talent-management, career-development, organizational-strategy]
+    quality: 5
+
+  - file: "2026-02-10-we-got-claude-code-backwards-it-isnt-just-codeits-anthropics-hidden-super-agent-in-plain-sight.md"
+    title: "We Got Claude Code Backwards: It Isn't Just Code–It's Anthropic's Hidden Super-Agent in Plain Sight"
+    one_line: "by hiding a general-purpose AI agent behind a terminal-based coding interface, Anthropic has created a tool that elevates users to strategic thinking while appearing domain-specific"
+    tags: [claude-code, ai-agents, product-design, abstraction-layers]
+    quality: 4
+
+  - file: "2026-02-10-what-good-is-a-degree-when-ai-knows-everything-what-a-post-knowledge-ai-economy-looks-like.md"
+    title: "What Good is a Degree When AI Knows Everything? What A Post-Knowledge AI Economy Looks Like"
+    one_line: "value is shifting from knowledge accumulation to knowing what to do with infinite knowledge—and recognizing AI's jagged weaknesses"
+    tags: [knowledge-economy, ai-disruption, education, skills]
+    quality: 5
+
+  - file: "2026-02-10-what-i-tell-every-cto-before-they-touch-claude-code-or-the-anthropic-api.md"
+    title: "What I Tell Every CTO Before They Touch Claude Code or the Anthropic API"
+    one_line: "The fundamental bottleneck in AI system success is not model capability but human inability to define 'correctness' and 'quality' with precision"
+    tags: [ai-systems, quality-measurement, correctness-definition, agentic-ai]
+    quality: 5

@@ -1,0 +1,729 @@
+Q&A: ALL ARCHITECTURE QUESTIONS ANSWERED
+
+Facts, Corrections & Final Decisions Before We Move On
+
+Finland DMC Oy | February 2026 | Based on web research of Anthropic docs
+and Claude Help Center
+
++:---------------------------------------------------------------------:+
+| CRITICAL CORRECTION #2: CHAT PRIVACY IN SHARED PROJECTS               |
+|                                                                       |
+| This changes the feedback architecture AGAIN                          |
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+| WHAT I GOT WRONG THIS TIME                                            |
+|                                                                       |
+| In the previous document, I said Patrick could review staff           |
+| conversations in Friday review by opening the project. This is WRONG. |
+|                                                                       |
+| The actual rule from Anthropic’s Help Center:                         |
+|                                                                       |
+| “Even if a project is public, your chats within that project will be  |
+| private and inaccessible to other members of your organization unless |
+| you manually share them.”                                             |
+|                                                                       |
+| This means: If staff member Anna has 20 conversations in the Email    |
+| Drafts project this week, Patrick CANNOT see any of them. Each        |
+| person’s conversations are private by default. Conversations must be  |
+| MANUALLY SHARED via a share link.                                     |
+|                                                                       |
+| Impact: The “feedback in Claude conversation” approach doesn’t work   |
+| for Friday review unless staff manually share each conversation.      |
+| That’s too much friction. We need an external feedback channel.       |
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+| THE DEFINITIVE FEEDBACK SOLUTION                                      |
+|                                                                       |
+| Staff types rating + feedback at end of Claude conversation (Claude   |
+| responds “✅ Logged” per system prompt instruction — minimal tokens). |
+|                                                                       |
+| Then staff copies their 1–2 line feedback to the #ai-feedback Teams   |
+| channel. This is the source of truth.                                 |
+|                                                                       |
+| On Friday, Patrick asks Claude to search the #ai-feedback Teams       |
+| channel via M365 connector. Claude compiles the week’s feedback.      |
+| Done.                                                                 |
+|                                                                       |
+| Can Claude write to Excel directly? Claude CAN create .xlsx files     |
+| inside claude.ai. But it CANNOT write to a SharePoint Excel file via  |
+| the M365 connector (read-only). So the Teams channel is simpler:      |
+| staff pastes to Teams (already open), Claude reads from Teams.        |
++-----------------------------------------------------------------------+
+
+1. Claude Projects: Hard Facts from Anthropic Docs
+
+  -------------------------- --------------------------------------------
+  Feature                    Fact
+
+  Context window             200,000 tokens per conversation (~500
+                             pages). This is the total space for: Project
+                             Knowledge files + system prompt + your
+                             conversation. All shared across this budget.
+
+  RAG mode                   On paid plans (Pro, Team, Enterprise), when
+                             Project Knowledge approaches the context
+                             window limit, Claude automatically enables
+                             RAG. RAG means Claude doesn’t load ALL files
+                             — it searches and retrieves only relevant
+                             parts. This means you CAN upload more than
+                             200K tokens of files and Claude will
+                             selectively pull what it needs.
+
+  10,000 chats in 1 project? No problem. Conversations are completely
+                             independent. Chat #10,001 has zero knowledge
+                             of chats #1–10,000. Only the Project
+                             Knowledge files persist. Performance is
+                             unaffected by conversation count.
+
+  Does context “rot”?        Between conversations: No. Each new
+                             conversation starts fresh with just Project
+                             Knowledge. Within a single long
+                             conversation: Yes. After 50+ exchanges,
+                             Claude’s attention on early messages
+                             weakens. Mitigation: start a new
+                             conversation for each new task.
+
+  Shared project visibility  Team members see: Project Knowledge files,
+                             custom instructions, and their OWN
+                             conversations. They CANNOT see other
+                             members’ conversations unless manually
+                             shared. The project is a shared template,
+                             not a shared workspace.
+
+  File formats accepted      PDF, DOCX, CSV, TXT, HTML, ODT, RTF, EPUB.
+                             Individual files up to 30MB. Unlimited files
+                             as long as total fits context (or RAG kicks
+                             in on paid plans).
+
+  File updates               Manual. You delete the old version and
+                             upload the new one. No auto-sync. Patrick
+                             updates files after Friday review.
+
+  Can Claude Code edit       No. Projects are managed through the
+  Projects?                  claude.ai web UI only. Claude Code works
+                             with local files and repos. Project
+                             Knowledge is edited manually by a human in
+                             the web interface.
+  -------------------------- --------------------------------------------
+
++-----------------------------------------------------------------------+
+| KEY INSIGHT: RAG CHANGES THE MATH                                     |
+|                                                                       |
+| Because RAG is enabled on Team plans, you don’t need to obsess over   |
+| keeping Project Knowledge tiny. If you upload 15 files totaling 300K  |
+| tokens, Claude won’t load all 300K. It will search the files and pull |
+| only relevant sections into the context window, keeping room for the  |
+| conversation.                                                         |
+|                                                                       |
+| However: Files that Claude needs to reference EVERY time (tone guide, |
+| golden prompt template, DO’s and DON’Ts) should be small and focused  |
+| so they’re always loaded. Large reference files (example emails,      |
+| service catalog) work fine via RAG — Claude pulls from them only when |
+| relevant.                                                             |
+|                                                                       |
+| Practical guideline: Keep your “always needed” files under ~50K       |
+| tokens total. Let RAG handle the rest.                                |
++-----------------------------------------------------------------------+
+
+2. Model Selection: Opus vs. Sonnet on Teams
+
+2.1 What’s Available on Teams Plan
+
+On Claude Teams, users can manually switch models via a dropdown
+selector at the top of the chat interface. Available models include Opus
+4.6, Opus 4.5, Sonnet 4.5, and Haiku 4.5. Your selection persists across
+conversations until you change it.
+
+2.2 Is Thinking Adaptive?
+
+  -------------------------- --------------------------------------------
+  Model                      Thinking Behavior
+
+  Opus 4.6                   ADAPTIVE by default. Automatically allocates
+                             thinking effort based on task complexity.
+                             Simple email = quick. Complex itinerary =
+                             deep thinking. No prompt instructions
+                             needed. Also has adjustable effort levels
+                             (low/medium/high) in Claude Code.
+
+  Opus 4.5                   Has extended thinking capability but it’s
+                             NOT adaptive by default in the same way as
+                             4.6. On Teams via claude.ai, extended
+                             thinking is available and can be toggled.
+                             For complex tasks, you may benefit from
+                             explicitly prompting “analyze before
+                             drafting.” The v3 golden prompt already
+                             includes this instruction, so you’re
+                             covered.
+
+  Sonnet 4.5                 Extended thinking available but NOT
+                             adaptive. Needs explicit activation.
+                             However, for DMC email/proposal work, Sonnet
+                             4.5 is capable enough without extended
+                             thinking. It handles 90% of tasks at high
+                             quality. Reserve extended thinking for
+                             complex pricing analysis or multi-day
+                             itinerary design.
+
+  Haiku 4.5                  No extended thinking. Fast and cheap. Not
+                             recommended for client-facing work. Could be
+                             used for quick internal questions or simple
+                             lookups.
+  -------------------------- --------------------------------------------
+
+2.3 Which Model for What? (Your Optimization)
+
+Your idea of varying the model per task is excellent and totally doable.
+Here’s the practical guide:
+
+  -------------------------- --------------------------------------------
+  Task                       Recommended Model
+
+  Router (task               Sonnet 4.5 or Haiku 4.5. The router does
+  classification)            minimal work — analyze + redirect. Doesn’t
+                             need Opus. This saves your Opus quota for
+                             the real work.
+
+  Simple email replies       Sonnet 4.5. Fast, high quality, handles 90%
+                             of emails perfectly. The golden prompt +
+                             project context does the heavy lifting.
+
+  Complex                    Opus 4.5 or 4.6. This is where deep
+  proposals/itineraries      reasoning pays off. Multi-day itineraries,
+                             personalized experiences, pricing
+                             trade-offs.
+
+  Spreadsheet/pricing        Opus 4.5 or Sonnet 4.5. Depends on
+  analysis                   complexity. Simple margin checks = Sonnet.
+                             Multi-variable optimization = Opus.
+
+  Friday review analysis     Sonnet 4.5. Compiling and analyzing feedback
+                             is structured work, not creative reasoning.
+                             Sonnet handles it well.
+
+  Quick internal questions   Haiku 4.5 or Sonnet 4.5. “What’s the phone
+                             number for supplier X?” doesn’t need Opus.
+  -------------------------- --------------------------------------------
+
++-----------------------------------------------------------------------+
+| CAN THE ROUTER SELECT THE MODEL?                                      |
+|                                                                       |
+| Not automatically within claude.ai. The Router project can RECOMMEND  |
+| which model to use (“Switch to Opus for this complex proposal”), but  |
+| the staff member must manually click the model dropdown to switch.    |
+| This takes 3 seconds.                                                 |
+|                                                                       |
+| In Claude Code (developer tool), model switching can be automated.    |
+| But your staff will use claude.ai, where it’s manual. Practical       |
+| impact: minimal. Staff learns the rule — simple tasks = Sonnet,       |
+| complex = Opus — and switches as needed.                              |
+|                                                                       |
+| On Teams, the default model allocation is: Opus for up to ~20% of     |
+| usage, then it falls back to Sonnet. So even if staff forgets to      |
+| switch, the system manages it automatically.                          |
++-----------------------------------------------------------------------+
+
+Bottom line on model choice: Start with Sonnet 4.5 as default. It
+handles 80-90% of DMC work well. Staff switches to Opus manually for
+complex proposals and itineraries. You won’t hit usage limits with 5
+people. If you do, it’s a sign Claude is delivering value and you can
+consider upgrading to Max.
+
+3. Architecture Decisions
+
+3.1 One Project vs. Many vs. Router
+
+With RAG, the math changes significantly.
+
+In the previous document, I recommended the Router because I was worried
+about context overload from loading all email types. But RAG means
+Claude doesn’t load everything — it retrieves selectively. This makes
+the 1-project approach much more viable than I initially thought.
+
+  -------------------------- --------------------------------------------
+  Architecture               Updated Assessment
+
+  1 Email Project with RAG   VIABLE NOW. Upload all 10 email type
+                             examples. RAG pulls only the relevant type.
+                             Golden prompt tells Claude to analyze the
+                             email and match the right example. Main
+                             downside: the system prompt and “always
+                             loaded” files (tone guide, prompt,
+                             DO/DON’Ts) still consume context every time.
+
+  10 Separate Projects       OVERKILL. Too many projects to maintain.
+                             Staff decision fatigue. Patrick updating 10
+                             projects every Friday = burnout. Don’t do
+                             this.
+
+  Router + 3–4 Lean Projects BEST for different TASK TYPES but NOT for
+                             email subtypes. Have an Email project, a
+                             Proposals project, a Pricing project. Within
+                             each, let RAG handle the sub-type selection.
+  -------------------------- --------------------------------------------
+
++-----------------------------------------------------------------------+
+| REVISED RECOMMENDATION                                                |
+|                                                                       |
+| Use 1 project per TASK TYPE, not per email subtype. That gives you    |
+| 3–5 projects total:                                                   |
+|                                                                       |
+| 1. DMC Router (lightweight, always the starting point)                |
+|                                                                       |
+| 2. Client Communications (all email types — let RAG + golden prompt   |
+| handle sub-type selection)                                            |
+|                                                                       |
+| 3. Proposals & Itineraries (proposals, itinerary design, program      |
+| planning)                                                             |
+|                                                                       |
+| 4. Pricing & Analysis (spreadsheets, pricing, capacity, margins)      |
+|                                                                       |
+| 5. Internal Ops (meeting notes, team briefs, supplier management) —   |
+| optional, can start in Router                                         |
+|                                                                       |
+| This means 4–5 projects to maintain, not 10+. Manageable for          |
+| Patrick’s Friday review.                                              |
++-----------------------------------------------------------------------+
+
+3.2 Should the Router Do RAG/M365 Search?
+
+No. The Router should be fast and light. Here’s why:
+
+- The Router’s job is: understand the task, prepare a prompt, direct to
+  the right project. It doesn’t need client history for that.
+
+- If the Router does M365 search, it spends time and tokens pulling
+  client data that will be pulled AGAIN when the lean project runs the
+  golden prompt.
+
+- Double-RAG wastes tokens and slows down the workflow.
+
+Exception: If the Router needs to check something to determine which
+project to use (e.g., “is this an existing client or cold outreach?”), a
+quick M365 search is fine. But the deep context pull happens in the lean
+project.
+
++-----------------------------------------------------------------------+
+| ROUTER OUTPUT FORMAT                                                  |
+|                                                                       |
+| Router responds with:                                                 |
+|                                                                       |
+| 1. Task type identified: “This is a follow-up email to a returning    |
+| client”                                                               |
+|                                                                       |
+| 2. Project to use: “Client Communications”                            |
+|                                                                       |
+| 3. Pre-filled prompt ready to paste (with client name, email chain,   |
+| and context pre-injected)                                             |
+|                                                                       |
+| 4. Model recommendation: “Sonnet is fine for this” or “Switch to Opus |
+| — this is a complex proposal”                                         |
+|                                                                       |
+| Staff copies the pre-filled prompt, opens the right project, pastes,  |
+| done.                                                                 |
++-----------------------------------------------------------------------+
+
+3.3 Best Lines Doc: One Master or Per-Project?
+
+One master Best Lines doc, uploaded to each project that needs it.
+
+A single master document keeps maintenance simple. When Friday review
+adds a new great line, Patrick updates one file and uploads it to the
+2–3 projects that use it. If you had separate docs per project, you’d be
+maintaining 4–5 copies and they’d drift apart.
+
+Yes, this is separate from the golden prompts. The golden prompt is the
+instruction template. The Best Lines doc is a reference library of
+proven language. Claude reads both and weaves the best lines into
+prompt-driven outputs. They complement each other.
+
+Does it hurt performance to RAG the Best Lines doc?
+
+No. Project Knowledge files are either loaded directly (if small) or
+retrieved via RAG (if large). A Best Lines doc of 2–5 pages is small
+enough to be loaded directly and doesn’t meaningfully impact context
+budget. RAG overhead only matters for large document collections.
+
+4. Can One Email Prompt Handle All 10 Types?
+
+Yes. The v3 dynamic prompt is designed for exactly this. Here’s why it
+works and when it might not:
+
+The v3 prompt tells Claude to ANALYZE the email chain first, classify
+the type, then adapt its approach. With 10 different example emails in
+Project Knowledge (one per type), RAG pulls the most relevant example.
+The DO’s and DON’Ts catch type-specific rules. Claude maps the incoming
+email to the closest type and writes accordingly.
+
+When this might break down:
+
+- Highly specialized email types with unique formatting (e.g., a legal
+  notice template or a specific booking confirmation format). These need
+  rigid structure, not dynamic judgment.
+
+- If a particular email type consistently rates 2/4 or 1/4, that’s the
+  signal to either add a more targeted example or create a specialized
+  sub-prompt.
+
+Practical approach: Start with 1 prompt + 10 examples. Monitor ratings
+by email type in Friday review. If a specific type consistently
+underperforms, create a specialized prompt for that type only. Don’t
+split prematurely.
+
+5. Phone Calls & The Second Brain Idea
+
+5.1 Phone Call Logging (Before Copilot)
+
+Your second brain idea is exactly right. Before you get Copilot for
+automatic call transcription, build a lightweight info sink:
+
++-----------------------------------------------------------------------+
+| SECOND BRAIN: #CLIENT-INTEL TEAMS CHANNEL                             |
+|                                                                       |
+| Create a Teams channel called #client-intel. After any client         |
+| interaction (phone call, in-person meeting, WhatsApp message, trade   |
+| show conversation), staff posts a quick note:                         |
+|                                                                       |
+| “Client: Nordic Adventures | Phone call 10 Feb                        |
+|                                                                       |
+| Key points: Want dog sledding for 12 pax in March. Two afraid of dogs |
+| — need alternative. Budget €5K/person. Decision by end of month.”     |
+|                                                                       |
+| 30 seconds to type. Claude searches this channel via M365 connector.  |
+| Now every future email draft or proposal for this client has this     |
+| intelligence baked in.                                                |
+|                                                                       |
+| This channel + the shared mailbox + SharePoint docs = your complete   |
+| client intelligence layer. No database needed. All searchable by      |
+| Claude.                                                               |
++-----------------------------------------------------------------------+
+
+When to add Copilot for auto-transcription:
+
+Month 2–3. When you confirm your team has 5+ client calls/week and the
+manual notes aren’t capturing enough detail. Copilot’s Teams call
+transcription is genuinely excellent — it captures nuance that manual
+notes miss. That said, your #client-intel channel is 80% of the value at
+0% of the cost.
+
+5.2 Teams Channels as Multi-Purpose Data Sinks
+
+You’re right that Teams channels can be used for much more:
+
+  -------------------------- --------------------------------------------
+  Teams Channel              Purpose
+
+  #ai-feedback               Staff posts Claude output ratings + notes.
+                             Source for Friday review.
+
+  #client-intel              Phone call notes, meeting summaries,
+                             WhatsApp insights, trade show contacts.
+                             Client intelligence layer.
+
+  #supplier-notes            Supplier performance, pricing changes,
+                             availability updates. Feeds into
+                             proposal/pricing projects.
+
+  #best-practices            Share great prompts, clever techniques,
+                             time-saving discoveries. Organic knowledge
+                             sharing.
+  -------------------------- --------------------------------------------
+
+All of these are searchable by Claude via the M365 connector. You’re
+building a structured data layer using tools your team already has open
+all day. No new software, no databases, no custom tooling.
+
+Could the Router live in Teams someday?
+
+Interesting idea. Anthropic has a Claude Slack app, but there’s no
+Claude Teams app (Microsoft Teams) available today. If Anthropic builds
+one, the Router-in-Teams concept becomes powerful. For now, the Router
+lives in claude.ai as a Project.
+
+6. Data Indexing & How RAG Works in Practice
+
+6.1 Two Different RAGs (Don’t Confuse Them)
+
+  -------------------------- --------------------------------------------
+  System                     How It Works
+
+  Project Knowledge RAG      When your uploaded files exceed the context
+                             window, Claude’s built-in RAG searches your
+                             Project Knowledge files and retrieves only
+                             relevant sections. This happens
+                             automatically. You don’t control it. It’s
+                             efficient and well-optimized.
+
+  M365 Connector Search      When you ask Claude to “search our M365
+                             for...”, it runs a search query against
+                             Microsoft’s search index. Returns relevant
+                             email snippets, document excerpts, Teams
+                             messages. This is NOT RAG in the traditional
+                             sense — it’s a search API call. Results are
+                             injected into the conversation context.
+  -------------------------- --------------------------------------------
+
+Context budget per conversation:
+
+200K tokens total. Breakdown: Project Knowledge files loaded directly or
+via RAG (~20–50K typical) + M365 search results (~5–20K per search) +
+your prompt + Claude’s response + conversation history. For a typical
+email task, you’re using maybe 30–70K tokens. Plenty of headroom.
+
+6.2 Where Should Data Live for Best Indexing?
+
+  -------------------------- --------------------------------------------
+  Data Type                  Where to Store for Best Results
+
+  Client emails              Shared Outlook mailbox (already there). M365
+                             connector searches this. Excellent indexing
+                             for emails.
+
+  Proposals & itineraries    SharePoint or OneDrive (shared). M365
+                             connector searches these. Name files
+                             clearly: “Nordic
+                             Adventures_Lapland_Dec2025_Proposal.docx”
+
+  Phone call notes           #client-intel Teams channel. Well-indexed by
+                             M365. Include client name in every message
+                             for searchability.
+
+  Feedback data              #ai-feedback Teams channel. M365 indexes
+                             Teams messages well.
+
+  Template docs (tone guide, Claude Project Knowledge. NOT in SharePoint.
+  etc.)                      These need to be always available, not
+                             searched.
+
+  Best example outputs       Claude Project Knowledge. Same reason —
+                             always available.
+
+  Historical emails (3       Already in Outlook. Don’t move them. Claude
+  years)                     searches them via M365 connector as-is. When
+                             you want to analyze them for best lines, ask
+                             Claude to search and analyze.
+  -------------------------- --------------------------------------------
+
++-----------------------------------------------------------------------+
+| YOUR 3-YEAR EMAIL ARCHIVE                                             |
+|                                                                       |
+| Great instinct. Those 3 years of real emails are your training data.  |
+| Here’s how to use them:                                               |
+|                                                                       |
+| Week 1: Ask Claude to search your Outlook for the 20 most recent      |
+| client proposal emails. Have Claude analyze them and identify: the    |
+| best opening lines, the most effective CTAs, the strongest            |
+| personalization examples, and any patterns in emails that led to      |
+| bookings.                                                             |
+|                                                                       |
+| Week 2: From Claude’s analysis, manually select the 5 best emails as  |
+| example files for your Project Knowledge. Populate the Best Lines doc |
+| from the patterns Claude found.                                       |
+|                                                                       |
+| You’re seeding the system with 3 years of proven human intelligence.  |
+| Then the AI flywheel takes over and improves from there.              |
++-----------------------------------------------------------------------+
+
+7. Optimizing Project Context
+
+You asked: Claude doesn’t need to see all prompt templates since it
+knows what kind of email it needs. How do we prevent it from reading
+everything?
+
+Answer: RAG already handles this. On your Team plan, when Project
+Knowledge is large enough, Claude doesn’t load everything. It reads the
+system prompt and small files directly, then uses RAG to retrieve only
+the relevant larger files based on the current conversation.
+
+What you CAN control:
+
+- System prompt (Custom Instructions): Always loaded in full. Keep this
+  under 2,000 words. This is your golden prompt template and core
+  instructions.
+
+- Small files (<2K tokens each): Likely loaded directly. Put your
+  DO’s/DON’Ts, Best Lines, and tone guide here. These are always
+  relevant.
+
+- Large files / many examples: RAG retrieves selectively. Your 10
+  example emails here. Claude pulls the one that matches the current
+  task.
+
+Practical tip: Name your example files clearly.
+“Example_Email_Cold_Outreach.txt”,
+“Example_Email_Complaint_Response.txt”, etc. Good file names help RAG
+match the right example to the right task.
+
+8. The Staff Dashboard Vision
+
+You mentioned wanting a single dashboard where staff handles 90% of work
+without juggling projects and windows. This is the right long-term
+vision. Here’s the timeline:
+
+  -------------------------- --------------------------------------------
+  Timeframe                  What’s Possible
+
+  Now (February 2026)        Router project + 3–4 lean projects. Staff
+                             opens Router first, gets directed. Manual
+                             project switching. ~30 seconds of friction.
+
+  Mid-2026 (Cowork Windows)  If Cowork arrives on Windows and supports
+                             Team plans, it could become the single
+                             interface. Cowork manages local files
+                             autonomously, potentially reducing project
+                             switching.
+
+  Late 2026 (MCP maturity)   If MCP ecosystem matures, a custom dashboard
+                             connecting Claude API + M365 + feedback
+                             system becomes feasible. This would be the
+                             true single-pane staff dashboard.
+
+  2027+                      Anthropic or third parties will likely build
+                             no-code dashboards that integrate Claude +
+                             M365. The current project-switching workflow
+                             will feel primitive in hindsight.
+  -------------------------- --------------------------------------------
+
+For now: The Router is your proto-dashboard. It’s always the starting
+point, it classifies work, it prepares prompts, and it handles simple
+tasks directly. As the tooling improves, the Router concept evolves into
+a real dashboard. You’re building the right foundation.
+
+9. Flywheels: The Complete Map
+
+You said “look for flywheels everywhere.” Here’s every compounding loop
+I can identify in your business, including the ones your questions just
+revealed:
+
+  -------------------------- --------------------------------------------
+  Flywheel                   Mechanism
+
+  1. Email quality           Staff feedback → Prompt improvement → Better
+                             emails → Better client responses → More data
+                             → Better prompts. BUILD NOW.
+
+  2. Client intelligence     Phone notes + emails + booking history
+                             compound in M365. Claude searches all of it.
+                             Every interaction makes the next one more
+                             personalized. BUILD NOW via #client-intel.
+
+  3. Best practices library  Best lines extracted weekly → Doc grows →
+                             New staff writes at senior level instantly →
+                             Quality floor rises permanently. BUILD NOW.
+
+  4. Historical data mining  3 years of emails analyzed → Patterns
+                             extracted → Best examples found → Golden
+                             prompts seeded with proven human
+                             intelligence. WEEK 1–2.
+
+  5. Proposal win rate       Track which proposals convert → Analyze
+                             winners vs. losers → Improve proposal
+                             prompts → Higher conversion → More data.
+                             MONTH 2.
+
+  6. Supplier knowledge      Supplier notes in #supplier-notes → Claude
+                             recommends best supplier per situation →
+                             Better client experience → More bookings.
+                             MONTH 2–3.
+
+  7. Staff capability        Staff uses AI daily → Gets better at
+                             prompting → Writes better feedback → Prompts
+                             improve faster → Better outputs → Staff
+                             trusts system more. AUTOMATIC.
+
+  8. Pricing optimization    Quote-to-book ratios tracked → Price
+                             sensitivity patterns found → Pricing prompts
+                             refined → Better margins. MONTH 3+.
+
+  9. Cross-pollination       What works in emails informs proposals. What
+                             works in proposals informs pricing. Best
+                             lines from emails show up in proposals. The
+                             system learns ACROSS task types. MONTH 2+.
+  -------------------------- --------------------------------------------
+
+10. Quick Reference: Every Question Answered
+
+  -------------------------- --------------------------------------------
+  Question                   Answer
+
+  10,000 chats in 1 project? No problem. Conversations are independent.
+                             Zero performance impact.
+
+  Does everyone see all      NO. Chats are private. Staff sees only their
+  chats?                     own unless manually shared.
+
+  Does Friday review work?   Not by reading staff chats. Use #ai-feedback
+                             Teams channel instead. Claude searches it
+                             via M365 connector.
+
+  Feedback: waste tokens?    No. System prompt instruction tells Claude
+                             to respond “✅ Logged” only. ~2 tokens.
+
+  Can Claude write to Excel? Can CREATE .xlsx files in claude.ai. CANNOT
+                             write to SharePoint Excel via M365 connector
+                             (read-only). Use Teams channel instead.
+
+  Opus 4.5 adaptive          Not fully adaptive like 4.6. Extended
+  thinking?                  thinking available but benefits from
+                             explicit “analyze first” instructions. v3
+                             prompt already includes this.
+
+  Sonnet 4.5 good enough?    Yes for 80–90% of DMC work. Use Opus for
+                             complex proposals/itineraries. Staff can
+                             manually switch via dropdown.
+
+  Can router select model?   Can RECOMMEND but not auto-switch in
+                             claude.ai. Staff clicks dropdown manually (3
+                             seconds).
+
+  Too many projects to       4–5 projects total. Patrick updates 2–3
+  update?                    files per project on Friday. ~15 min total.
+                             Manageable.
+
+  Can Claude Code edit       No. Projects managed in claude.ai web UI
+  Projects?                  only. Manual updates by Patrick.
+
+  Best Lines: 1 master or    1 master doc, copied to each project that
+  many?                      needs it. Easier to maintain.
+
+  1 email prompt or 10?      Start with 1 dynamic prompt + 10 examples.
+                             RAG handles sub-type selection. Split only
+                             if a specific type consistently
+                             underperforms.
+
+  RAG: does it hurt          No. RAG improves performance by loading only
+  performance?               relevant context instead of everything. Your
+                             Team plan has RAG built in.
+
+  Phone call transcription?  Manual #client-intel channel now. Copilot
+                             auto-transcription at Month 2–3 if call
+                             volume justifies it.
+
+  Second brain for staff?    Teams channels (#client-intel,
+                             #supplier-notes, #best-practices). All
+                             searchable by Claude. Build now.
+
+  Seed from 3 years of       Yes. Week 1–2: Ask Claude to analyze your
+  emails?                    best historical emails. Extract examples and
+                             best lines. Powerful bootstrapping.
+
+  Project files vs. RAG      Small always-needed files loaded directly
+  efficiency?                (fast). Large reference files retrieved via
+                             RAG (efficient). Name files clearly for best
+                             RAG matching.
+
+  The staff dashboard?       Router is your proto-dashboard now. Real
+                             single-pane dashboard possible late 2026
+                             with MCP maturity or Cowork Windows.
+  -------------------------- --------------------------------------------
+
++:---------------------------------------------------------------------:+
+| ALL QUESTIONS ANSWERED. READY TO MOVE ON.                             |
+|                                                                       |
+| Start Monday. Build the projects. Create the Teams channels. Analyze  |
+| your 3 years of emails. Let the flywheels spin.                       |
++-----------------------------------------------------------------------+
+
+Finland DMC Oy | Architecture Q&A | February 2026

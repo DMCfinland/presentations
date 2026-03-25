@@ -1,0 +1,1003 @@
+I<00:00:00.400><c> think</c><00:00:00.480><c> that</c><00:00:00.719><c> this</c><00:00:00.880><c> is</c><00:00:01.040><c> one</c><00:00:01.280><c> of</c><00:00:01.360><c> the</c><00:00:01.520><c> biggest</c>
+I think that this is one of the biggest
+I think that this is one of the biggest
+pieces<00:00:02.159><c> of</c><00:00:02.320><c> news</c><00:00:02.560><c> in</c><00:00:02.800><c> the</c><00:00:02.960><c> entire</c><00:00:03.280><c> year.</c>
+pieces of news in the entire year.
+pieces of news in the entire year.
+Claude<00:00:04.560><c> launched</c><00:00:04.960><c> a</c><00:00:05.200><c> way</c><00:00:05.279><c> for</c><00:00:05.600><c> us</c><00:00:05.759><c> to</c><00:00:06.000><c> get</c><00:00:06.240><c> past</c>
+Claude launched a way for us to get past
+Claude launched a way for us to get past
+the<00:00:06.799><c> tyranny</c><00:00:07.200><c> of</c><00:00:07.359><c> the</c><00:00:07.520><c> prompt</c><00:00:08.000><c> and</c><00:00:08.240><c> I</c><00:00:08.400><c> worked</c>
+the tyranny of the prompt and I worked
+the tyranny of the prompt and I worked
+out<00:00:08.800><c> a</c><00:00:09.040><c> way</c><00:00:09.519><c> to</c><00:00:09.840><c> use</c><00:00:10.160><c> that</c><00:00:10.480><c> same</c><00:00:10.719><c> technique</c>
+out a way to use that same technique
+out a way to use that same technique
+outside<00:00:11.920><c> Claude</c><00:00:12.320><c> in</c><00:00:12.480><c> Chad</c><00:00:12.800><c> GPT</c><00:00:13.200><c> in</c><00:00:13.360><c> Gemini</c><00:00:13.679><c> and</c>
+outside Claude in Chad GPT in Gemini and
+outside Claude in Chad GPT in Gemini and
+other<00:00:14.080><c> places.</c><00:00:14.719><c> We're</c><00:00:14.880><c> going</c><00:00:14.960><c> to</c><00:00:15.120><c> dive</c><00:00:15.280><c> into</c>
+other places. We're going to dive into
+other places. We're going to dive into
+the<00:00:15.679><c> whole</c><00:00:15.839><c> thing,</c><00:00:16.400><c> but</c><00:00:16.640><c> the</c><00:00:16.880><c> first</c><00:00:17.520><c> piece</c><00:00:17.920><c> I</c>
+the whole thing, but the first piece I
+the whole thing, but the first piece I
+want<00:00:18.400><c> you</c><00:00:18.560><c> to</c><00:00:18.720><c> realize</c><00:00:19.359><c> is</c><00:00:19.600><c> that</c><00:00:20.080><c> everything</c>
+want you to realize is that everything
+want you to realize is that everything
+has<00:00:20.640><c> been</c><00:00:20.800><c> prompt</c><00:00:21.199><c> dependent</c><00:00:21.600><c> and</c><00:00:21.840><c> that</c><00:00:22.080><c> has</c>
+has been prompt dependent and that has
+has been prompt dependent and that has
+made<00:00:22.640><c> hard</c><00:00:23.039><c> work</c><00:00:23.359><c> really</c><00:00:23.840><c> difficult.</c>
+made hard work really difficult.
+made hard work really difficult.
+Basically,<00:00:24.960><c> if</c><00:00:25.119><c> you</c><00:00:25.279><c> want</c><00:00:25.359><c> to</c><00:00:25.439><c> do</c><00:00:25.600><c> something</c>
+Basically, if you want to do something
+Basically, if you want to do something
+complicated<00:00:26.560><c> like</c><00:00:26.720><c> a</c><00:00:26.960><c> PowerPoint</c><00:00:27.359><c> or</c><00:00:27.599><c> an</c>
+complicated like a PowerPoint or an
+complicated like a PowerPoint or an
+Excel<00:00:28.080><c> or</c><00:00:28.320><c> a</c><00:00:28.480><c> full</c><00:00:28.720><c> financial</c><00:00:29.199><c> analysis,</c><00:00:30.080><c> it's</c>
+Excel or a full financial analysis, it's
+Excel or a full financial analysis, it's
+possible,<00:00:30.800><c> but</c><00:00:31.039><c> it's</c><00:00:31.279><c> really</c><00:00:31.599><c> been</c><00:00:31.920><c> prompt</c>
+possible, but it's really been prompt
+possible, but it's really been prompt
+dependent.<00:00:33.120><c> And</c><00:00:33.440><c> anything</c><00:00:33.760><c> we</c><00:00:34.079><c> can</c><00:00:34.239><c> do</c><00:00:34.480><c> that</c>
+dependent. And anything we can do that
+dependent. And anything we can do that
+makes<00:00:34.960><c> it</c><00:00:35.360><c> slightly</c><00:00:36.239><c> easier,</c><00:00:37.040><c> slightly</c><00:00:37.600><c> less</c>
+makes it slightly easier, slightly less
+makes it slightly easier, slightly less
+dependent<00:00:38.320><c> on</c><00:00:38.480><c> the</c><00:00:38.640><c> prompt</c><00:00:38.960><c> is</c><00:00:39.120><c> a</c><00:00:39.360><c> really</c><00:00:39.520><c> big</c>
+dependent on the prompt is a really big
+dependent on the prompt is a really big
+deal<00:00:40.000><c> because</c><00:00:40.239><c> it</c><00:00:40.559><c> makes</c><00:00:40.719><c> it</c><00:00:41.120><c> so</c><00:00:41.360><c> much</c><00:00:41.520><c> easier</c>
+deal because it makes it so much easier
+deal because it makes it so much easier
+for<00:00:42.079><c> so</c><00:00:42.320><c> many</c><00:00:42.480><c> more</c><00:00:42.719><c> people</c><00:00:43.360><c> to</c><00:00:43.680><c> do</c><00:00:43.920><c> that</c><00:00:44.239><c> hard</c>
+for so many more people to do that hard
+for so many more people to do that hard
+work.<00:00:45.200><c> That</c><00:00:45.520><c> is</c><00:00:45.840><c> what</c><00:00:46.239><c> we</c><00:00:46.480><c> got</c><00:00:46.879><c> today</c><00:00:47.200><c> from</c>
+work. That is what we got today from
+work. That is what we got today from
+Claude.<00:00:48.160><c> It's</c><00:00:48.480><c> called</c><00:00:48.719><c> the</c><00:00:48.960><c> skills</c><00:00:49.520><c> launch.</c>
+Claude. It's called the skills launch.
+Claude. It's called the skills launch.
+And<00:00:50.399><c> the</c><00:00:50.719><c> idea</c><00:00:51.120><c> is</c><00:00:51.600><c> that</c><00:00:51.920><c> you</c><00:00:52.160><c> have</c><00:00:52.320><c> these</c>
+And the idea is that you have these
+And the idea is that you have these
+composable<00:00:53.440><c> Lego</c><00:00:53.840><c> bricks.</c><00:00:54.399><c> They're</c><00:00:54.640><c> called</c>
+composable Lego bricks. They're called
+composable Lego bricks. They're called
+capabilities<00:00:55.680><c> in</c><00:00:55.920><c> your</c><00:00:56.160><c> settings</c><00:00:56.480><c> section.</c>
+capabilities in your settings section.
+capabilities in your settings section.
+I'm<00:00:57.120><c> going</c><00:00:57.280><c> to</c><00:00:57.360><c> show</c><00:00:57.440><c> you</c><00:00:57.600><c> here</c><00:00:57.760><c> in</c><00:00:58.000><c> a</c><00:00:58.160><c> second.</c>
+I'm going to show you here in a second.
+I'm going to show you here in a second.
+And<00:00:59.039><c> all</c><00:00:59.280><c> you</c><00:00:59.520><c> have</c><00:00:59.680><c> to</c><00:00:59.840><c> do</c><00:01:00.800><c> is</c><00:01:01.520><c> enable</c>
+And all you have to do is enable
+And all you have to do is enable
+capabilities<00:01:03.120><c> that</c><00:01:03.600><c> Claude</c><00:01:04.080><c> can</c><00:01:04.400><c> call</c><00:01:05.119><c> in</c><00:01:05.439><c> any</c>
+capabilities that Claude can call in any
+capabilities that Claude can call in any
+conversation<00:01:06.960><c> in</c><00:01:07.360><c> any</c><00:01:08.000><c> combination.</c><00:01:08.880><c> And</c><00:01:09.119><c> so</c>
+conversation in any combination. And so
+conversation in any combination. And so
+I'll<00:01:09.840><c> give</c><00:01:09.920><c> you</c><00:01:10.080><c> a</c><00:01:10.320><c> specific</c><00:01:10.640><c> example.</c><00:01:11.280><c> One</c><00:01:11.520><c> of</c>
+I'll give you a specific example. One of
+I'll give you a specific example. One of
+the<00:01:11.760><c> things</c><00:01:11.840><c> that</c><00:01:12.080><c> has</c><00:01:12.240><c> been</c><00:01:12.479><c> difficult</c><00:01:12.799><c> for</c>
+the things that has been difficult for
+the things that has been difficult for
+people<00:01:13.360><c> to</c><00:01:13.520><c> do</c><00:01:13.760><c> with</c><00:01:14.080><c> AI</c><00:01:14.799><c> has</c><00:01:15.119><c> been</c><00:01:15.439><c> a</c>
+people to do with AI has been a
+people to do with AI has been a
+complicated<00:01:16.240><c> task</c><00:01:16.640><c> like</c><00:01:16.960><c> figuring</c><00:01:17.360><c> out</c><00:01:17.520><c> a</c><00:01:17.840><c> job</c>
+complicated task like figuring out a job
+complicated task like figuring out a job
+search<00:01:18.560><c> strategy.</c><00:01:19.520><c> So</c><00:01:19.759><c> let's</c><00:01:20.000><c> say</c><00:01:20.400><c> you</c><00:01:20.560><c> need</c>
+search strategy. So let's say you need
+search strategy. So let's say you need
+to<00:01:20.960><c> identify</c><00:01:21.360><c> candidate</c><00:01:21.759><c> job</c><00:01:22.080><c> postings.</c><00:01:22.880><c> You</c>
+to identify candidate job postings. You
+to identify candidate job postings. You
+need<00:01:23.200><c> to</c><00:01:23.280><c> compose</c><00:01:23.600><c> a</c><00:01:23.840><c> resume</c><00:01:24.240><c> that</c><00:01:24.479><c> fits</c><00:01:24.799><c> those</c>
+need to compose a resume that fits those
+need to compose a resume that fits those
+job<00:01:25.360><c> postings.</c><00:01:26.159><c> You</c><00:01:26.320><c> need</c><00:01:26.479><c> to</c><00:01:26.640><c> make</c><00:01:26.720><c> sure</c><00:01:26.880><c> that</c>
+job postings. You need to make sure that
+job postings. You need to make sure that
+your<00:01:27.280><c> search</c><00:01:27.600><c> strategy</c><00:01:28.159><c> actually</c><00:01:28.479><c> works</c><00:01:28.720><c> for</c>
+your search strategy actually works for
+your search strategy actually works for
+those<00:01:29.200><c> jobs.</c><00:01:29.759><c> That</c><00:01:29.920><c> your</c><00:01:30.080><c> targeting</c><00:01:30.479><c> strategy</c>
+those jobs. That your targeting strategy
+those jobs. That your targeting strategy
+works<00:01:31.200><c> for</c><00:01:31.360><c> outreach.</c><00:01:32.000><c> This</c><00:01:32.159><c> is</c><00:01:32.400><c> complicated</c>
+works for outreach. This is complicated
+works for outreach. This is complicated
+work.<00:01:33.520><c> Normally</c><00:01:34.079><c> it</c><00:01:34.320><c> would</c><00:01:34.479><c> take</c><00:01:34.560><c> a</c><00:01:34.720><c> lot</c><00:01:34.799><c> of</c>
+work. Normally it would take a lot of
+work. Normally it would take a lot of
+prompts.<00:01:35.439><c> It</c><00:01:35.600><c> would</c><00:01:35.759><c> take</c><00:01:35.920><c> many</c><00:01:36.159><c> prompts</c><00:01:36.400><c> in</c><00:01:36.560><c> a</c>
+prompts. It would take many prompts in a
+prompts. It would take many prompts in a
+row.<00:01:36.960><c> Some</c><00:01:37.119><c> people</c><00:01:37.360><c> sign</c><00:01:37.600><c> up</c><00:01:37.759><c> for</c><00:01:37.920><c> tools</c><00:01:38.320><c> and</c>
+row. Some people sign up for tools and
+row. Some people sign up for tools and
+services<00:01:38.880><c> for</c><00:01:39.119><c> this.</c><00:01:39.680><c> What</c><00:01:39.920><c> you</c><00:01:40.159><c> can</c><00:01:40.320><c> do</c><00:01:40.560><c> with</c>
+services for this. What you can do with
+services for this. What you can do with
+Claude<00:01:41.600><c> is</c><00:01:41.920><c> you</c><00:01:42.240><c> can</c><00:01:42.479><c> make</c><00:01:43.119><c> skills</c><00:01:43.920><c> that</c><00:01:44.320><c> refer</c>
+Claude is you can make skills that refer
+Claude is you can make skills that refer
+to<00:01:45.040><c> this</c><00:01:45.360><c> complicated</c><00:01:45.920><c> work</c><00:01:46.159><c> and</c><00:01:46.399><c> give</c><00:01:46.640><c> Claude</c>
+to this complicated work and give Claude
+to this complicated work and give Claude
+special<00:01:47.439><c> instructions</c><00:01:47.920><c> to</c><00:01:48.159><c> do</c><00:01:48.240><c> it</c><00:01:48.479><c> well.</c><00:01:48.720><c> Like</c>
+special instructions to do it well. Like
+special instructions to do it well. Like
+your<00:01:49.119><c> job</c><00:01:49.360><c> search</c><00:01:49.680><c> strategy</c><00:01:50.320><c> could</c><00:01:50.640><c> instruct</c>
+your job search strategy could instruct
+your job search strategy could instruct
+Claude<00:01:51.680><c> specifically</c><00:01:52.159><c> what</c><00:01:52.399><c> sites</c><00:01:52.720><c> you</c>
+Claude specifically what sites you
+Claude specifically what sites you
+prefer,<00:01:53.520><c> what</c><00:01:53.840><c> job</c><00:01:54.079><c> family</c><00:01:54.399><c> and</c><00:01:54.640><c> roles</c><00:01:54.960><c> you</c>
+prefer, what job family and roles you
+prefer, what job family and roles you
+prefer,<00:01:55.439><c> what</c><00:01:55.600><c> levels</c><00:01:56.000><c> you</c><00:01:56.159><c> prefer,</c><00:01:56.479><c> what</c>
+prefer, what levels you prefer, what
+prefer, what levels you prefer, what
+compensation<00:01:57.280><c> you</c><00:01:57.439><c> want.</c><00:01:58.000><c> And</c><00:01:58.159><c> all</c><00:01:58.320><c> of</c><00:01:58.399><c> that</c>
+compensation you want. And all of that
+compensation you want. And all of that
+would<00:01:58.799><c> be</c><00:01:58.960><c> stored</c><00:01:59.680><c> inside</c><00:02:00.560><c> this</c><00:02:00.960><c> Lego</c><00:02:01.360><c> brick</c>
+would be stored inside this Lego brick
+would be stored inside this Lego brick
+of<00:02:02.159><c> context</c><00:02:02.960><c> that</c><00:02:03.280><c> Claude</c><00:02:03.680><c> can</c><00:02:03.840><c> go</c><00:02:03.920><c> and</c><00:02:04.159><c> call.</c>
+of context that Claude can go and call.
+of context that Claude can go and call.
+Not<00:02:05.040><c> when</c><00:02:05.280><c> you</c><00:02:05.439><c> have</c><00:02:05.600><c> to</c><00:02:05.680><c> tag</c><00:02:05.920><c> it.</c><00:02:06.159><c> You</c><00:02:06.320><c> don't</c>
+Not when you have to tag it. You don't
+Not when you have to tag it. You don't
+have<00:02:06.560><c> to</c><00:02:06.719><c> remember</c><00:02:07.040><c> it.</c><00:02:07.600><c> You</c><00:02:07.920><c> just</c><00:02:08.080><c> have</c><00:02:08.239><c> to</c>
+have to remember it. You just have to
+have to remember it. You just have to
+say,<00:02:09.039><c> "Hey,</c><00:02:09.440><c> I'm</c><00:02:09.679><c> trying</c><00:02:09.840><c> to</c><00:02:10.000><c> think</c><00:02:10.160><c> about</c>
+say, "Hey, I'm trying to think about
+say, "Hey, I'm trying to think about
+what<00:02:10.640><c> job</c><00:02:10.879><c> search</c><00:02:11.360><c> strategy</c><00:02:11.840><c> I</c><00:02:12.080><c> should</c><00:02:12.319><c> use</c>
+what job search strategy I should use
+what job search strategy I should use
+for<00:02:12.800><c> this</c><00:02:13.040><c> week."</c><00:02:13.599><c> And</c><00:02:13.680><c> then</c><00:02:13.840><c> give</c><00:02:14.000><c> it</c><00:02:14.239><c> some</c>
+for this week." And then give it some
+for this week." And then give it some
+context<00:02:14.720><c> about</c><00:02:14.959><c> your</c><00:02:15.200><c> last</c><00:02:15.440><c> few</c><00:02:15.599><c> weeks,</c><00:02:15.920><c> your</c>
+context about your last few weeks, your
+context about your last few weeks, your
+learnings.<00:02:16.720><c> Help</c><00:02:16.959><c> me</c><00:02:17.120><c> figure</c><00:02:17.280><c> it</c><00:02:17.440><c> out.</c><00:02:17.920><c> Claude</c>
+learnings. Help me figure it out. Claude
+learnings. Help me figure it out. Claude
+will<00:02:18.480><c> look</c><00:02:18.640><c> at</c><00:02:18.800><c> that</c><00:02:19.040><c> initial</c><00:02:19.440><c> prompt,</c>
+will look at that initial prompt,
+will look at that initial prompt,
+understand<00:02:20.640><c> you're</c><00:02:20.879><c> talking</c><00:02:21.040><c> about</c><00:02:21.280><c> job</c>
+understand you're talking about job
+understand you're talking about job
+search,<00:02:21.920><c> and</c><00:02:22.160><c> go</c><00:02:22.319><c> dig</c><00:02:22.560><c> up</c><00:02:22.720><c> a</c><00:02:22.879><c> skill</c><00:02:23.440><c> and</c><00:02:23.680><c> use</c><00:02:23.840><c> it</c>
+search, and go dig up a skill and use it
+search, and go dig up a skill and use it
+on<00:02:24.319><c> the</c><00:02:24.480><c> fly.</c><00:02:25.120><c> It's</c><00:02:25.440><c> super</c><00:02:25.760><c> intuitive.</c><00:02:26.560><c> And</c>
+on the fly. It's super intuitive. And
+on the fly. It's super intuitive. And
+the<00:02:27.040><c> magical</c><00:02:27.599><c> thing</c><00:02:27.840><c> is</c><00:02:28.480><c> because</c><00:02:29.120><c> of</c><00:02:29.440><c> the</c><00:02:29.760><c> way</c>
+the magical thing is because of the way
+the magical thing is because of the way
+they've<00:02:30.800><c> simplified</c><00:02:31.280><c> the</c><00:02:31.440><c> the</c><00:02:31.920><c> file</c>
+they've simplified the the file
+they've simplified the the file
+structure,<00:02:32.560><c> the</c><00:02:32.800><c> Lego</c><00:02:33.120><c> brick,</c><00:02:33.360><c> it's</c><00:02:33.599><c> just</c><00:02:33.680><c> a</c>
+structure, the Lego brick, it's just a
+structure, the Lego brick, it's just a
+markdown<00:02:34.400><c> file.</c><00:02:35.040><c> you</c><00:02:35.360><c> can</c><00:02:35.680><c> use</c><00:02:35.920><c> this</c><00:02:36.319><c> other</c>
+markdown file. you can use this other
+markdown file. you can use this other
+places<00:02:37.360><c> and</c><00:02:37.519><c> that's</c><00:02:37.680><c> what</c><00:02:37.760><c> I</c><00:02:38.000><c> figured</c><00:02:38.239><c> out.</c><00:02:38.400><c> So</c>
+places and that's what I figured out. So
+places and that's what I figured out. So
+I'm<00:02:38.720><c> going</c><00:02:38.800><c> to</c><00:02:38.879><c> show</c><00:02:38.959><c> you</c><00:02:39.120><c> that</c><00:02:39.360><c> too.</c><00:02:39.599><c> You</c><00:02:39.760><c> can</c>
+I'm going to show you that too. You can
+I'm going to show you that too. You can
+use<00:02:39.920><c> it</c><00:02:40.000><c> in</c><00:02:40.160><c> Chad</c><00:02:40.400><c> GPT</c><00:02:40.800><c> in</c><00:02:40.959><c> Gemini.</c><00:02:41.680><c> And</c><00:02:41.840><c> what</c>
+use it in Chad GPT in Gemini. And what
+use it in Chad GPT in Gemini. And what
+this<00:02:42.400><c> does</c><00:02:42.879><c> is</c><00:02:43.200><c> it</c><00:02:43.519><c> makes</c><00:02:44.000><c> the</c><00:02:44.480><c> whole</c><00:02:45.200><c> process</c>
+this does is it makes the whole process
+this does is it makes the whole process
+of<00:02:46.160><c> doing</c><00:02:46.400><c> a</c><00:02:46.800><c> difficult</c><00:02:47.519><c> complicated</c>
+of doing a difficult complicated
+of doing a difficult complicated
+multi-step<00:02:48.879><c> piece</c><00:02:49.120><c> of</c><00:02:49.280><c> work</c><00:02:49.760><c> so</c><00:02:50.080><c> much</c><00:02:50.239><c> easier.</c>
+multi-step piece of work so much easier.
+multi-step piece of work so much easier.
+And<00:02:50.800><c> so</c><00:02:50.959><c> this</c><00:02:51.200><c> is</c><00:02:51.360><c> not</c><00:02:51.599><c> just</c><00:02:51.760><c> a</c><00:02:52.000><c> story</c><00:02:52.800><c> about</c>
+And so this is not just a story about
+And so this is not just a story about
+can<00:02:53.680><c> we</c><00:02:53.840><c> make</c><00:02:54.080><c> PowerPoints</c><00:02:54.800><c> easier,</c><00:02:55.200><c> can</c><00:02:55.360><c> we</c>
+can we make PowerPoints easier, can we
+can we make PowerPoints easier, can we
+make<00:02:55.599><c> Excel</c><00:02:56.000><c> easier,</c><00:02:56.400><c> can</c><00:02:56.480><c> we</c><00:02:56.640><c> make</c><00:02:56.959><c> job</c>
+make Excel easier, can we make job
+make Excel easier, can we make job
+search<00:02:57.680><c> easier.</c><00:02:58.239><c> It's</c><00:02:58.480><c> a</c><00:02:58.720><c> story</c><00:02:59.680><c> about</c><00:03:00.560><c> can</c><00:03:00.959><c> we</c>
+search easier. It's a story about can we
+search easier. It's a story about can we
+do<00:03:01.840><c> hard</c><00:03:02.239><c> work</c><00:03:02.879><c> with</c><00:03:03.200><c> much</c><00:03:03.440><c> less</c><00:03:03.760><c> effort.</c><00:03:04.159><c> It's</c>
+do hard work with much less effort. It's
+do hard work with much less effort. It's
+like<00:03:04.879><c> Claude</c><00:03:05.440><c> gave</c><00:03:05.680><c> us</c><00:03:05.920><c> a</c><00:03:06.239><c> lever,</c><00:03:06.800><c> a</c><00:03:07.040><c> 10X</c><00:03:07.519><c> lever</c>
+like Claude gave us a lever, a 10X lever
+like Claude gave us a lever, a 10X lever
+on<00:03:08.159><c> our</c><00:03:08.400><c> prompting.</c><00:03:09.120><c> And</c><00:03:09.280><c> so</c><00:03:09.760><c> without</c><00:03:10.159><c> further</c>
+on our prompting. And so without further
+on our prompting. And so without further
+ado,<00:03:10.959><c> I'm</c><00:03:11.280><c> going</c><00:03:11.360><c> to</c><00:03:11.440><c> jump</c><00:03:11.680><c> in.</c><00:03:12.000><c> And</c><00:03:12.159><c> the</c><00:03:12.319><c> first</c>
+ado, I'm going to jump in. And the first
+ado, I'm going to jump in. And the first
+thing<00:03:12.640><c> I'm</c><00:03:12.879><c> going</c><00:03:12.959><c> to</c><00:03:13.040><c> show</c><00:03:13.200><c> you</c><00:03:13.360><c> is</c><00:03:13.680><c> sort</c><00:03:13.840><c> of</c>
+thing I'm going to show you is sort of
+thing I'm going to show you is sort of
+the<00:03:14.000><c> the</c><00:03:14.400><c> settings</c><00:03:14.800><c> page,</c><00:03:15.120><c> how</c><00:03:15.360><c> this</c><00:03:15.519><c> actually</c>
+the the settings page, how this actually
+the the settings page, how this actually
+looks<00:03:16.080><c> when</c><00:03:16.239><c> you</c><00:03:16.480><c> when</c><00:03:16.720><c> you</c><00:03:16.879><c> sign</c><00:03:17.040><c> up</c><00:03:17.200><c> for</c><00:03:17.360><c> it.</c>
+looks when you when you sign up for it.
+looks when you when you sign up for it.
+But<00:03:17.920><c> we</c><00:03:18.159><c> won't</c><00:03:18.319><c> spend</c><00:03:18.720><c> much</c><00:03:19.040><c> time</c><00:03:19.200><c> there.</c>
+But we won't spend much time there.
+But we won't spend much time there.
+We're<00:03:19.680><c> going</c><00:03:19.760><c> to</c><00:03:19.840><c> spend</c><00:03:20.000><c> most</c><00:03:20.159><c> of</c><00:03:20.239><c> our</c><00:03:20.480><c> time</c>
+We're going to spend most of our time
+We're going to spend most of our time
+diving<00:03:20.959><c> into</c><00:03:21.360><c> how</c><00:03:21.519><c> you</c><00:03:21.760><c> create</c><00:03:22.000><c> these</c><00:03:22.319><c> because</c>
+diving into how you create these because
+diving into how you create these because
+the<00:03:22.800><c> magic</c><00:03:23.040><c> of</c><00:03:23.200><c> this</c><00:03:23.760><c> is</c><00:03:23.920><c> that</c><00:03:24.159><c> you</c><00:03:24.400><c> are</c><00:03:24.560><c> not</c>
+the magic of this is that you are not
+the magic of this is that you are not
+locked<00:03:25.040><c> in</c><00:03:25.519><c> to</c><00:03:25.760><c> whatever</c><00:03:26.480><c> the</c><00:03:26.640><c> Anthropic</c><00:03:27.280><c> and</c>
+locked in to whatever the Anthropic and
+locked in to whatever the Anthropic and
+Claude<00:03:27.760><c> team</c><00:03:28.000><c> give</c><00:03:28.239><c> you.</c><00:03:28.800><c> You</c><00:03:29.040><c> can</c><00:03:29.280><c> make</c><00:03:29.519><c> these</c>
+Claude team give you. You can make these
+Claude team give you. You can make these
+yourself.<00:03:30.720><c> And</c><00:03:30.879><c> I</c><00:03:31.120><c> can</c><00:03:31.280><c> make</c><00:03:31.440><c> them</c><00:03:31.680><c> for</c><00:03:31.840><c> you.</c>
+yourself. And I can make them for you.
+yourself. And I can make them for you.
+And<00:03:32.239><c> I</c><00:03:32.400><c> have.</c><00:03:32.640><c> I'm</c><00:03:32.879><c> making</c><00:03:33.040><c> them</c><00:03:33.200><c> for</c><00:03:33.360><c> you.</c>
+And I have. I'm making them for you.
+And I have. I'm making them for you.
+It's<00:03:33.920><c> so</c><00:03:34.159><c> exciting</c><00:03:34.640><c> because</c><00:03:34.959><c> we</c><00:03:35.280><c> can</c>
+It's so exciting because we can
+It's so exciting because we can
+basically<00:03:36.000><c> make</c><00:03:36.480><c> these</c><00:03:36.879><c> big</c><00:03:37.200><c> packages</c><00:03:38.400><c> that</c>
+basically make these big packages that
+basically make these big packages that
+help<00:03:39.040><c> us</c><00:03:39.599><c> to</c><00:03:40.000><c> effectively</c><00:03:40.720><c> do</c><00:03:41.360><c> lots</c><00:03:41.599><c> and</c><00:03:41.840><c> lots</c>
+help us to effectively do lots and lots
+help us to effectively do lots and lots
+of<00:03:42.239><c> complex</c><00:03:42.640><c> work.</c><00:03:42.879><c> Another</c><00:03:43.200><c> example</c><00:03:43.440><c> is</c>
+of complex work. Another example is
+of complex work. Another example is
+vendor<00:03:44.239><c> AI</c><00:03:44.720><c> vendor</c><00:03:45.120><c> risk</c><00:03:45.440><c> estimation,</c><00:03:46.080><c> AI</c>
+vendor AI vendor risk estimation, AI
+vendor AI vendor risk estimation, AI
+vendor<00:03:46.640><c> build</c><00:03:46.959><c> by</c><00:03:47.200><c> solution</c><00:03:47.519><c> estimates,</c>
+vendor build by solution estimates,
+vendor build by solution estimates,
+super<00:03:48.480><c> complicated</c><00:03:49.040><c> work.</c><00:03:49.440><c> You</c><00:03:49.680><c> can</c><00:03:49.760><c> have</c><00:03:49.840><c> a</c>
+super complicated work. You can have a
+super complicated work. You can have a
+skill<00:03:50.319><c> for</c><00:03:50.480><c> that</c><00:03:50.720><c> now.</c><00:03:51.200><c> You</c><00:03:51.360><c> don't</c><00:03:51.519><c> have</c><00:03:51.599><c> to</c>
+skill for that now. You don't have to
+skill for that now. You don't have to
+write<00:03:51.920><c> a</c><00:03:52.080><c> gigantic</c><00:03:52.560><c> prompt</c><00:03:52.799><c> in</c><00:03:53.040><c> the</c><00:03:53.120><c> same</c><00:03:53.280><c> way</c>
+write a gigantic prompt in the same way
+write a gigantic prompt in the same way
+you<00:03:53.599><c> did.</c><00:03:54.239><c> You</c><00:03:54.400><c> can</c><00:03:54.560><c> just</c><00:03:54.959><c> say,</c><00:03:55.120><c> "Hey,</c><00:03:55.519><c> please</c>
+you did. You can just say, "Hey, please
+you did. You can just say, "Hey, please
+assess<00:03:56.159><c> this</c><00:03:56.400><c> vendor."</c><00:03:57.120><c> And</c><00:03:57.360><c> it</c><00:03:57.599><c> will</c><00:03:57.760><c> call</c>
+assess this vendor." And it will call
+assess this vendor." And it will call
+the<00:03:58.239><c> skill.</c><00:03:58.799><c> It</c><00:03:58.959><c> will</c><00:03:59.120><c> be</c><00:03:59.280><c> so</c><00:03:59.519><c> much</c><00:03:59.760><c> more</c>
+the skill. It will be so much more
+the skill. It will be so much more
+intuitive.<00:04:00.400><c> I'm</c><00:04:00.640><c> so</c><00:04:00.879><c> excited</c><00:04:01.120><c> for</c><00:04:01.360><c> this.</c><00:04:01.680><c> All</c>
+intuitive. I'm so excited for this. All
+intuitive. I'm so excited for this. All
+right.<00:04:02.159><c> So,</c><00:04:02.319><c> with</c><00:04:02.480><c> that</c><00:04:02.640><c> in</c><00:04:02.799><c> mind,</c><00:04:02.959><c> let's</c>
+right. So, with that in mind, let's
+right. So, with that in mind, let's
+check<00:04:03.280><c> out</c><00:04:03.360><c> that</c><00:04:03.599><c> Claude</c><00:04:03.920><c> capability</c><00:04:04.400><c> screen.</c>
+check out that Claude capability screen.
+check out that Claude capability screen.
+Okay.<00:04:05.040><c> Here</c><00:04:05.200><c> we</c><00:04:05.280><c> are.</c><00:04:05.519><c> We</c><00:04:05.680><c> are</c><00:04:05.920><c> looking</c><00:04:06.159><c> at</c><00:04:06.400><c> the</c>
+Okay. Here we are. We are looking at the
+Okay. Here we are. We are looking at the
+skills<00:04:07.200><c> that</c><00:04:07.439><c> are</c><00:04:07.599><c> in</c><00:04:07.840><c> Claude.</c><00:04:08.239><c> Now,</c><00:04:08.480><c> this</c><00:04:08.560><c> is</c>
+skills that are in Claude. Now, this is
+skills that are in Claude. Now, this is
+my<00:04:08.959><c> Claude</c><00:04:09.760><c> and</c><00:04:10.080><c> I</c><00:04:10.400><c> want</c><00:04:10.480><c> to</c><00:04:10.640><c> show</c><00:04:10.799><c> you</c><00:04:11.200><c> that</c>
+my Claude and I want to show you that
+my Claude and I want to show you that
+there<00:04:11.680><c> are</c><00:04:11.920><c> both</c><00:04:12.400><c> standard</c><00:04:12.879><c> skills</c><00:04:13.280><c> and</c>
+there are both standard skills and
+there are both standard skills and
+custom<00:04:14.080><c> skills</c><00:04:14.400><c> here.</c><00:04:14.879><c> Standard</c><00:04:15.280><c> skills,</c>
+custom skills here. Standard skills,
+custom skills here. Standard skills,
+you're<00:04:15.760><c> going</c><00:04:15.840><c> to</c><00:04:15.920><c> see</c><00:04:16.079><c> brand</c><00:04:16.400><c> guidelines,</c>
+you're going to see brand guidelines,
+you're going to see brand guidelines,
+canvas<00:04:17.759><c> design,</c><00:04:18.400><c> MCP</c><00:04:19.040><c> builder.</c><00:04:19.359><c> These</c><00:04:19.600><c> are</c>
+canvas design, MCP builder. These are
+canvas design, MCP builder. These are
+all<00:04:19.919><c> skills</c><00:04:20.239><c> that</c><00:04:20.479><c> Claude</c><00:04:20.959><c> provides</c><00:04:21.359><c> for</c><00:04:21.600><c> us</c>
+all skills that Claude provides for us
+all skills that Claude provides for us
+as<00:04:22.160><c> a</c><00:04:22.320><c> way</c><00:04:22.400><c> of</c><00:04:22.639><c> getting</c><00:04:22.800><c> this</c><00:04:23.120><c> whole</c><00:04:23.280><c> ecosystem</c>
+as a way of getting this whole ecosystem
+as a way of getting this whole ecosystem
+started.<00:04:25.280><c> I</c><00:04:25.680><c> created</c><00:04:26.479><c> prompting</c><00:04:26.960><c> pattern</c>
+started. I created prompting pattern
+started. I created prompting pattern
+library<00:04:27.680><c> and</c><00:04:27.840><c> it</c><00:04:28.000><c> says</c><00:04:28.160><c> so</c><00:04:28.320><c> added</c><00:04:28.639><c> by</c><00:04:28.800><c> me</c><00:04:29.040><c> right</c>
+library and it says so added by me right
+library and it says so added by me right
+59<00:04:29.759><c> minutes</c><00:04:29.919><c> ago.</c><00:04:30.479><c> and</c><00:04:30.639><c> it</c><00:04:30.880><c> says</c><00:04:31.040><c> what</c><00:04:31.199><c> it</c><00:04:31.360><c> is</c>
+59 minutes ago. and it says what it is
+59 minutes ago. and it says what it is
+and<00:04:32.320><c> it's</c><00:04:32.639><c> basically</c><00:04:33.040><c> a</c><00:04:33.280><c> file</c><00:04:33.600><c> of</c><00:04:33.919><c> prompting</c>
+and it's basically a file of prompting
+and it's basically a file of prompting
+best<00:04:34.639><c> practices</c><00:04:35.120><c> so</c><00:04:35.280><c> that</c><00:04:35.440><c> if</c><00:04:35.680><c> I</c><00:04:36.240><c> talk</c><00:04:36.479><c> about</c>
+best practices so that if I talk about
+best practices so that if I talk about
+how<00:04:36.880><c> I</c><00:04:37.120><c> want</c><00:04:37.280><c> to</c><00:04:37.440><c> create</c><00:04:37.600><c> a</c><00:04:37.840><c> great</c><00:04:38.000><c> prompt,</c><00:04:38.639><c> it</c>
+how I want to create a great prompt, it
+how I want to create a great prompt, it
+will<00:04:39.040><c> just</c><00:04:39.199><c> invoke</c><00:04:39.600><c> prompting</c><00:04:40.080><c> pattern</c>
+will just invoke prompting pattern
+will just invoke prompting pattern
+library<00:04:40.720><c> and</c><00:04:40.960><c> make</c><00:04:41.120><c> that</c><00:04:41.280><c> so</c><00:04:41.520><c> much</c><00:04:41.680><c> easier.</c>
+library and make that so much easier.
+library and make that so much easier.
+This<00:04:42.560><c> is</c><00:04:42.720><c> super</c><00:04:43.120><c> easy</c><00:04:43.440><c> to</c><00:04:43.840><c> enable.</c><00:04:44.479><c> All</c><00:04:44.639><c> you</c>
+This is super easy to enable. All you
+This is super easy to enable. All you
+have<00:04:45.040><c> to</c><00:04:45.199><c> do</c><00:04:46.080><c> is</c><00:04:46.800><c> just</c><00:04:47.120><c> enable</c><00:04:47.520><c> the</c><00:04:47.759><c> skill</c>
+have to do is just enable the skill
+have to do is just enable the skill
+section<00:04:48.320><c> at</c><00:04:48.560><c> the</c><00:04:48.720><c> top</c><00:04:49.520><c> and</c><00:04:49.840><c> then</c><00:04:50.080><c> enable</c><00:04:50.479><c> these</c>
+section at the top and then enable these
+section at the top and then enable these
+toggles<00:04:51.280><c> piece</c><00:04:51.520><c> by</c><00:04:51.759><c> piece</c><00:04:52.080><c> down</c><00:04:52.320><c> here</c><00:04:52.720><c> and</c>
+toggles piece by piece down here and
+toggles piece by piece down here and
+you're<00:04:53.120><c> done.</c><00:04:53.680><c> All</c><00:04:53.680><c> right,</c><00:04:54.080><c> I</c><00:04:54.400><c> want</c><00:04:54.479><c> to</c><00:04:54.639><c> show</c>
+you're done. All right, I want to show
+you're done. All right, I want to show
+you<00:04:55.120><c> an</c><00:04:55.440><c> actual</c><00:04:55.919><c> skill</c><00:04:56.160><c> that</c><00:04:56.400><c> I'm</c><00:04:56.560><c> building.</c>
+you an actual skill that I'm building.
+you an actual skill that I'm building.
+So,<00:04:57.360><c> I</c><00:04:57.520><c> said,</c><00:04:57.680><c> "Claude,</c><00:04:58.240><c> can</c><00:04:58.400><c> you</c><00:04:58.560><c> help</c><00:04:58.720><c> me</c>
+So, I said, "Claude, can you help me
+So, I said, "Claude, can you help me
+build<00:04:59.199><c> a</c><00:04:59.440><c> skill</c><00:04:59.680><c> for</c><00:04:59.919><c> strategizing</c><00:05:00.639><c> job</c>
+build a skill for strategizing job
+build a skill for strategizing job
+search?"<00:05:01.199><c> And</c><00:05:01.360><c> I</c><00:05:01.520><c> want</c><00:05:01.600><c> you</c><00:05:01.759><c> to</c><00:05:02.000><c> note</c><00:05:02.320><c> that</c>
+search?" And I want you to note that
+search?" And I want you to note that
+this<00:05:02.800><c> is</c><00:05:02.960><c> not</c><00:05:03.120><c> the</c><00:05:03.280><c> world's</c><00:05:03.680><c> best</c><00:05:04.080><c> prompt.</c><00:05:04.639><c> And</c>
+this is not the world's best prompt. And
+this is not the world's best prompt. And
+I<00:05:05.040><c> did</c><00:05:05.199><c> that</c><00:05:05.360><c> on</c><00:05:05.680><c> purpose.</c><00:05:06.160><c> I</c><00:05:06.400><c> wanted</c><00:05:06.560><c> to</c><00:05:06.720><c> call</c>
+I did that on purpose. I wanted to call
+I did that on purpose. I wanted to call
+out<00:05:07.120><c> that</c><00:05:07.280><c> it's</c><00:05:07.520><c> possible</c><00:05:07.919><c> to</c><00:05:08.240><c> build</c><00:05:08.479><c> a</c><00:05:08.720><c> good</c>
+out that it's possible to build a good
+out that it's possible to build a good
+skill<00:05:09.520><c> and</c><00:05:09.759><c> it</c><00:05:10.000><c> doesn't</c><00:05:10.160><c> have</c><00:05:10.320><c> to</c><00:05:10.479><c> be</c><00:05:10.639><c> perfect.</c>
+skill and it doesn't have to be perfect.
+skill and it doesn't have to be perfect.
+The<00:05:11.520><c> prompt</c><00:05:11.759><c> doesn't</c><00:05:12.000><c> have</c><00:05:12.160><c> to</c><00:05:12.240><c> be</c><00:05:12.320><c> perfect.</c>
+The prompt doesn't have to be perfect.
+The prompt doesn't have to be perfect.
+So,<00:05:12.720><c> I</c><00:05:12.880><c> I</c><00:05:13.199><c> just</c><00:05:13.360><c> laid</c><00:05:13.759><c> out</c><00:05:14.240><c> a</c><00:05:14.560><c> bunch</c><00:05:14.960><c> of</c><00:05:15.280><c> things</c>
+So, I I just laid out a bunch of things
+So, I I just laid out a bunch of things
+that<00:05:15.680><c> I</c><00:05:15.840><c> wanted,</c><00:05:16.160><c> guidance</c><00:05:16.479><c> on</c><00:05:16.639><c> how</c><00:05:16.800><c> to</c>
+that I wanted, guidance on how to
+that I wanted, guidance on how to
+interview<00:05:17.199><c> the</c><00:05:17.360><c> user,</c><00:05:17.919><c> how</c><00:05:18.080><c> to</c><00:05:18.240><c> target</c><00:05:18.479><c> the</c>
+interview the user, how to target the
+interview the user, how to target the
+job,<00:05:19.199><c> etc.</c><00:05:19.680><c> And</c><00:05:19.840><c> so,</c><00:05:20.240><c> Claude</c><00:05:20.639><c> then</c><00:05:20.800><c> starts</c><00:05:21.120><c> to</c>
+job, etc. And so, Claude then starts to
+job, etc. And so, Claude then starts to
+think<00:05:21.520><c> about</c><00:05:21.840><c> how</c><00:05:22.080><c> to</c><00:05:22.320><c> create</c><00:05:22.639><c> skills.</c><00:05:23.039><c> And</c><00:05:23.199><c> it</c>
+think about how to create skills. And it
+think about how to create skills. And it
+turns<00:05:23.600><c> out</c><00:05:23.680><c> that</c><00:05:24.000><c> one</c><00:05:24.160><c> of</c><00:05:24.240><c> the</c><00:05:24.400><c> things</c><00:05:24.479><c> that</c>
+turns out that one of the things that
+turns out that one of the things that
+Enthropic<00:05:25.280><c> released,</c><00:05:25.520><c> which</c><00:05:25.759><c> I</c><00:05:25.919><c> think</c><00:05:26.000><c> is</c>
+Enthropic released, which I think is
+Enthropic released, which I think is
+really<00:05:26.400><c> smart,</c><00:05:26.720><c> is</c><00:05:27.039><c> documentation</c><00:05:27.680><c> for</c>
+really smart, is documentation for
+really smart, is documentation for
+Claude<00:05:28.479><c> on</c><00:05:28.880><c> creating</c><00:05:29.360><c> skills.</c><00:05:29.919><c> So</c><00:05:30.160><c> Claude</c>
+Claude on creating skills. So Claude
+Claude on creating skills. So Claude
+read<00:05:30.960><c> the</c><00:05:31.199><c> instruction</c><00:05:31.600><c> manual</c><00:05:32.000><c> for</c><00:05:32.240><c> creating</c>
+read the instruction manual for creating
+read the instruction manual for creating
+these<00:05:32.800><c> this</c><00:05:33.120><c> skill</c><00:05:33.759><c> and</c><00:05:33.919><c> then</c><00:05:34.160><c> came</c><00:05:34.320><c> back</c><00:05:34.560><c> and</c>
+these this skill and then came back and
+these this skill and then came back and
+said,<00:05:34.880><c> "This</c><00:05:35.120><c> is</c><00:05:35.280><c> really</c><00:05:35.520><c> great.</c><00:05:35.759><c> I</c><00:05:36.000><c> see</c><00:05:36.160><c> this.</c>
+said, "This is really great. I see this.
+said, "This is really great. I see this.
+I<00:05:36.720><c> have</c><00:05:36.880><c> some</c><00:05:37.120><c> questions.</c><00:05:37.600><c> Here's</c><00:05:37.840><c> some</c>
+I have some questions. Here's some
+I have some questions. Here's some
+questions<00:05:38.320><c> about</c><00:05:38.560><c> how</c><00:05:38.720><c> I</c><00:05:38.880><c> should</c><00:05:38.960><c> analyze</c><00:05:39.360><c> the</c>
+questions about how I should analyze the
+questions about how I should analyze the
+company's<00:05:39.919><c> news</c><00:05:40.560><c> strategies</c><00:05:40.960><c> that</c><00:05:41.199><c> are</c><00:05:41.360><c> most</c>
+company's news strategies that are most
+company's news strategies that are most
+important,<00:05:42.560><c> etc."</c><00:05:43.039><c> I</c><00:05:43.280><c> came</c><00:05:43.440><c> back</c><00:05:43.600><c> with</c><00:05:43.840><c> a</c>
+important, etc." I came back with a
+important, etc." I came back with a
+response.<00:05:44.720><c> I</c><00:05:44.880><c> gave</c><00:05:45.039><c> it</c><00:05:45.280><c> some</c><00:05:45.520><c> examples.</c><00:05:46.080><c> I</c><00:05:46.240><c> had</c>
+response. I gave it some examples. I had
+response. I gave it some examples. I had
+an<00:05:46.560><c> LLM</c><00:05:47.039><c> help</c><00:05:47.199><c> me</c><00:05:47.280><c> build</c><00:05:47.520><c> some</c><00:05:47.680><c> of</c><00:05:47.759><c> this</c><00:05:48.240><c> and</c>
+an LLM help me build some of this and
+an LLM help me build some of this and
+then<00:05:48.560><c> said,</c><00:05:48.720><c> "Great,</c><00:05:49.120><c> excellent</c><00:05:49.520><c> details.</c>
+then said, "Great, excellent details.
+then said, "Great, excellent details.
+I'm<00:05:50.400><c> going</c><00:05:50.479><c> to</c><00:05:50.560><c> start</c><00:05:50.800><c> building."</c><00:05:51.120><c> And</c><00:05:51.360><c> so</c><00:05:51.600><c> it</c>
+I'm going to start building." And so it
+I'm going to start building." And so it
+has<00:05:52.000><c> now</c><00:05:52.240><c> spent</c><00:05:52.560><c> the</c><00:05:52.800><c> last</c><00:05:53.120><c> five</c><00:05:53.360><c> or</c><00:05:53.520><c> so</c>
+has now spent the last five or so
+has now spent the last five or so
+minutes<00:05:54.320><c> building</c><00:05:54.639><c> this</c><00:05:54.960><c> skill</c><00:05:55.520><c> and</c><00:05:55.759><c> it</c><00:05:55.919><c> comes</c>
+minutes building this skill and it comes
+minutes building this skill and it comes
+back<00:05:56.320><c> with</c><00:05:56.479><c> a</c><00:05:56.639><c> job</c><00:05:57.360><c> search</c><00:05:57.759><c> strategist</c><00:05:58.400><c> zip</c>
+back with a job search strategist zip
+back with a job search strategist zip
+file.<00:05:59.280><c> It's</c><00:05:59.440><c> a</c><00:05:59.680><c> complete</c><00:06:00.080><c> skill</c><00:06:00.720><c> done.</c><00:06:01.199><c> It's</c>
+file. It's a complete skill done. It's
+file. It's a complete skill done. It's
+as<00:06:01.680><c> easy</c><00:06:01.840><c> as</c><00:06:02.000><c> that.</c><00:06:02.320><c> I</c><00:06:02.560><c> can</c><00:06:02.720><c> now</c><00:06:03.039><c> download</c><00:06:03.520><c> this</c>
+as easy as that. I can now download this
+as easy as that. I can now download this
+zip<00:06:04.160><c> file</c><00:06:04.639><c> and</c><00:06:05.120><c> re-upload</c><00:06:05.759><c> it</c><00:06:06.319><c> to</c><00:06:06.639><c> Claude</c><00:06:07.280><c> in</c>
+zip file and re-upload it to Claude in
+zip file and re-upload it to Claude in
+the<00:06:07.680><c> capabilities</c><00:06:08.400><c> section</c><00:06:09.120><c> and</c><00:06:09.360><c> I</c><00:06:09.520><c> will</c><00:06:09.759><c> have</c>
+the capabilities section and I will have
+the capabilities section and I will have
+a<00:06:10.319><c> usable</c><00:06:10.720><c> job</c><00:06:11.039><c> search</c><00:06:11.360><c> strategist</c><00:06:11.919><c> skill.</c>
+a usable job search strategist skill.
+a usable job search strategist skill.
+Now,<00:06:12.560><c> if</c><00:06:12.720><c> I</c><00:06:12.880><c> want</c><00:06:12.960><c> to</c><00:06:13.120><c> make</c><00:06:13.199><c> it</c><00:06:13.440><c> better,</c><00:06:13.919><c> which</c>
+Now, if I want to make it better, which
+Now, if I want to make it better, which
+is<00:06:14.319><c> always</c><00:06:14.479><c> one</c><00:06:14.639><c> of</c><00:06:14.720><c> the</c><00:06:14.880><c> things</c><00:06:14.960><c> I</c><00:06:15.199><c> focus</c><00:06:15.440><c> on,</c>
+is always one of the things I focus on,
+is always one of the things I focus on,
+I<00:06:16.319><c> always</c><00:06:16.800><c> think</c><00:06:17.039><c> about</c><00:06:17.680><c> how</c><00:06:17.919><c> I</c><00:06:18.080><c> can</c><00:06:18.319><c> evaluate</c>
+I always think about how I can evaluate
+I always think about how I can evaluate
+this<00:06:19.120><c> skill</c><00:06:19.360><c> through</c><00:06:19.520><c> the</c><00:06:19.680><c> lens</c><00:06:19.919><c> of</c><00:06:20.080><c> another</c>
+this skill through the lens of another
+this skill through the lens of another
+LLM.<00:06:21.039><c> And</c><00:06:21.199><c> so,</c><00:06:21.440><c> I</c><00:06:22.080><c> can</c><00:06:22.319><c> take</c><00:06:22.639><c> this</c><00:06:23.039><c> skill</c><00:06:23.600><c> over</c>
+LLM. And so, I can take this skill over
+LLM. And so, I can take this skill over
+to<00:06:24.080><c> chat</c><00:06:24.479><c> GPT</c><00:06:24.960><c> and</c><00:06:25.120><c> I</c><00:06:25.280><c> can</c><00:06:25.360><c> say,</c><00:06:25.440><c> "Hey,</c><00:06:25.759><c> can</c><00:06:25.919><c> you</c>
+to chat GPT and I can say, "Hey, can you
+to chat GPT and I can say, "Hey, can you
+just<00:06:26.319><c> crack</c><00:06:26.639><c> open</c><00:06:26.880><c> this</c><00:06:27.120><c> zip</c><00:06:27.360><c> file,</c><00:06:27.680><c> look</c>
+just crack open this zip file, look
+just crack open this zip file, look
+inside,<00:06:28.560><c> and</c><00:06:28.880><c> can</c><00:06:29.120><c> you</c><00:06:29.759><c> assess</c><00:06:30.720><c> whether</c><00:06:30.960><c> or</c>
+inside, and can you assess whether or
+inside, and can you assess whether or
+not<00:06:31.360><c> this</c><00:06:31.600><c> is</c><00:06:31.759><c> high</c><00:06:32.000><c> quality</c><00:06:32.479><c> and</c><00:06:32.880><c> make</c>
+not this is high quality and make
+not this is high quality and make
+specific<00:06:33.840><c> recommendations</c><00:06:34.479><c> for</c><00:06:34.720><c> how</c><00:06:34.880><c> to</c>
+specific recommendations for how to
+specific recommendations for how to
+improve<00:06:35.360><c> it?"</c><00:06:35.759><c> And</c><00:06:35.840><c> then</c><00:06:36.000><c> I</c><00:06:36.160><c> can</c><00:06:36.319><c> pull</c><00:06:36.479><c> that</c>
+improve it?" And then I can pull that
+improve it?" And then I can pull that
+Chad<00:06:36.960><c> GPT</c><00:06:37.360><c> critique,</c><00:06:37.919><c> bring</c><00:06:38.160><c> it</c><00:06:38.400><c> back</c><00:06:38.720><c> into</c>
+Chad GPT critique, bring it back into
+Chad GPT critique, bring it back into
+Claude,<00:06:39.440><c> and</c><00:06:39.680><c> have</c><00:06:39.840><c> Claude</c><00:06:40.319><c> further</c><00:06:40.720><c> improve</c>
+Claude, and have Claude further improve
+Claude, and have Claude further improve
+the<00:06:41.360><c> skill.</c><00:06:41.919><c> So,</c><00:06:42.319><c> I'm</c><00:06:42.560><c> not</c><00:06:42.800><c> just</c><00:06:42.960><c> sitting</c><00:06:43.120><c> here</c>
+the skill. So, I'm not just sitting here
+the skill. So, I'm not just sitting here
+taking<00:06:43.600><c> what</c><00:06:43.759><c> Claude</c><00:06:44.080><c> gives</c><00:06:44.319><c> me.</c><00:06:44.479><c> I'm</c>
+taking what Claude gives me. I'm
+taking what Claude gives me. I'm
+actually<00:06:44.800><c> trying</c><00:06:44.960><c> to</c><00:06:45.039><c> use</c><00:06:45.199><c> a</c><00:06:45.360><c> multi</c><00:06:45.680><c> LLM</c>
+actually trying to use a multi LLM
+actually trying to use a multi LLM
+strategy<00:06:46.880><c> to</c><00:06:47.120><c> make</c><00:06:47.280><c> this</c><00:06:47.520><c> skill</c><00:06:47.840><c> as</c><00:06:48.000><c> useful</c><00:06:48.319><c> as</c>
+strategy to make this skill as useful as
+strategy to make this skill as useful as
+I<00:06:48.720><c> possibly</c><00:06:49.039><c> can.</c><00:06:49.520><c> Now,</c><00:06:49.759><c> let's</c><00:06:50.000><c> jump</c><00:06:50.160><c> over</c><00:06:50.319><c> to</c>
+I possibly can. Now, let's jump over to
+I possibly can. Now, let's jump over to
+chat<00:06:50.800><c> GPT</c><00:06:51.280><c> and</c><00:06:51.440><c> I'll</c><00:06:51.680><c> show</c><00:06:51.840><c> you</c><00:06:52.479><c> how</c><00:06:52.720><c> I</c><00:06:53.039><c> can</c><00:06:53.280><c> use</c>
+chat GPT and I'll show you how I can use
+chat GPT and I'll show you how I can use
+a<00:06:54.400><c> skill</c><00:06:54.720><c> that</c><00:06:54.960><c> I</c><00:06:55.120><c> developed</c><00:06:55.520><c> in</c><00:06:55.759><c> Claude</c><00:06:56.080><c> for</c>
+a skill that I developed in Claude for
+a skill that I developed in Claude for
+Claude<00:06:56.960><c> in</c><00:06:57.199><c> Chat</c><00:06:57.600><c> GPT.</c><00:06:58.160><c> All</c><00:06:58.240><c> right,</c><00:06:58.479><c> here</c><00:06:58.560><c> we</c>
+Claude in Chat GPT. All right, here we
+Claude in Chat GPT. All right, here we
+are<00:06:58.800><c> in</c><00:06:58.960><c> chat</c><00:06:59.199><c> GPT.</c><00:07:00.160><c> You</c><00:07:00.400><c> see</c><00:07:00.560><c> that</c><00:07:00.800><c> I've</c>
+are in chat GPT. You see that I've
+are in chat GPT. You see that I've
+uploaded<00:07:01.360><c> a</c><00:07:01.599><c> zip</c><00:07:01.919><c> file.</c><00:07:02.160><c> This</c><00:07:02.319><c> is</c><00:07:02.560><c> literally</c>
+uploaded a zip file. This is literally
+uploaded a zip file. This is literally
+the<00:07:03.280><c> exact</c><00:07:03.759><c> same</c><00:07:04.080><c> zip</c><00:07:04.479><c> file</c><00:07:04.639><c> that</c><00:07:04.880><c> I</c><00:07:05.120><c> would</c>
+the exact same zip file that I would
+the exact same zip file that I would
+upload<00:07:06.000><c> if</c><00:07:06.240><c> I</c><00:07:06.479><c> was</c><00:07:06.560><c> in</c><00:07:06.720><c> CLA.</c><00:07:07.280><c> I</c><00:07:07.520><c> am</c><00:07:07.680><c> uploading</c>
+upload if I was in CLA. I am uploading
+upload if I was in CLA. I am uploading
+it<00:07:08.240><c> per</c><00:07:08.479><c> chat</c><00:07:08.880><c> because</c><00:07:09.120><c> that's</c><00:07:09.280><c> how</c><00:07:09.440><c> chat</c><00:07:09.759><c> GPT</c>
+it per chat because that's how chat GPT
+it per chat because that's how chat GPT
+works.<00:07:10.720><c> And</c><00:07:10.880><c> all</c><00:07:11.039><c> I</c><00:07:11.199><c> say</c><00:07:11.280><c> is,</c><00:07:11.440><c> "Using</c><00:07:11.840><c> this</c>
+works. And all I say is, "Using this
+works. And all I say is, "Using this
+file,<00:07:12.319><c> can</c><00:07:12.479><c> you</c><00:07:12.560><c> help</c><00:07:12.720><c> me</c><00:07:12.880><c> come</c><00:07:12.960><c> up</c><00:07:13.120><c> with</c><00:07:13.280><c> a</c>
+file, can you help me come up with a
+file, can you help me come up with a
+really<00:07:13.680><c> strong</c><00:07:13.919><c> prompt</c><00:07:14.240><c> for</c><00:07:14.400><c> instructing</c><00:07:14.720><c> an</c>
+really strong prompt for instructing an
+really strong prompt for instructing an
+LLM<00:07:15.360><c> to</c><00:07:15.440><c> build</c><00:07:15.599><c> a</c><00:07:15.759><c> PowerPoint?</c><00:07:16.240><c> You'll</c><00:07:16.400><c> need</c>
+LLM to build a PowerPoint? You'll need
+LLM to build a PowerPoint? You'll need
+to<00:07:16.639><c> crack</c><00:07:16.800><c> open</c><00:07:17.120><c> the</c><00:07:17.280><c> file</c><00:07:17.520><c> to</c><00:07:17.680><c> do</c><00:07:17.840><c> so."</c><00:07:18.240><c> So,</c><00:07:18.400><c> it</c>
+to crack open the file to do so." So, it
+to crack open the file to do so." So, it
+opens<00:07:18.880><c> the</c><00:07:19.120><c> file</c><00:07:19.520><c> and</c><00:07:19.759><c> it</c><00:07:20.000><c> immediately</c><00:07:20.479><c> comes</c>
+opens the file and it immediately comes
+opens the file and it immediately comes
+up<00:07:20.880><c> with</c><00:07:21.039><c> a</c><00:07:21.280><c> very</c><00:07:21.520><c> strong</c><00:07:21.840><c> PowerPoint.</c><00:07:22.479><c> I</c>
+up with a very strong PowerPoint. I
+up with a very strong PowerPoint. I
+don't<00:07:22.960><c> have</c><00:07:23.120><c> to</c><00:07:23.280><c> give</c><00:07:23.440><c> it</c><00:07:23.680><c> all</c><00:07:23.840><c> of</c><00:07:24.000><c> this.</c><00:07:24.479><c> It</c>
+don't have to give it all of this. It
+don't have to give it all of this. It
+reads<00:07:25.120><c> it</c><00:07:25.280><c> in</c><00:07:25.520><c> the</c><00:07:25.759><c> file.</c><00:07:26.319><c> And</c><00:07:26.560><c> so,</c><00:07:27.039><c> look,</c><00:07:27.360><c> I</c>
+reads it in the file. And so, look, I
+reads it in the file. And so, look, I
+love<00:07:27.680><c> the</c><00:07:27.919><c> cloud</c><00:07:28.240><c> interface.</c><00:07:28.720><c> It's</c><00:07:28.880><c> very</c>
+love the cloud interface. It's very
+love the cloud interface. It's very
+intuitive<00:07:29.599><c> for</c><00:07:29.759><c> it</c><00:07:29.919><c> to</c><00:07:30.080><c> call</c><00:07:30.319><c> in</c><00:07:30.479><c> the</c><00:07:30.639><c> skills.</c>
+intuitive for it to call in the skills.
+intuitive for it to call in the skills.
+I<00:07:31.199><c> think</c><00:07:31.280><c> that's</c><00:07:31.440><c> a</c><00:07:31.680><c> lovely</c><00:07:32.000><c> touch.</c><00:07:32.720><c> But</c><00:07:32.880><c> I</c><00:07:33.199><c> can</c>
+I think that's a lovely touch. But I can
+I think that's a lovely touch. But I can
+use<00:07:34.000><c> the</c><00:07:34.400><c> exact</c><00:07:35.280><c> same</c><00:07:36.080><c> files</c><00:07:36.560><c> in</c><00:07:36.800><c> a</c><00:07:36.960><c> chat,</c><00:07:37.199><c> GPT</c>
+use the exact same files in a chat, GPT
+use the exact same files in a chat, GPT
+chat,<00:07:38.240><c> and</c><00:07:38.479><c> get</c><00:07:38.639><c> a</c><00:07:38.880><c> great</c><00:07:39.039><c> result.</c><00:07:39.599><c> I</c><00:07:39.840><c> can</c><00:07:39.919><c> use</c>
+chat, and get a great result. I can use
+chat, and get a great result. I can use
+them<00:07:40.240><c> in</c><00:07:40.319><c> a</c><00:07:40.400><c> Gemini</c><00:07:40.880><c> chat</c><00:07:41.039><c> and</c><00:07:41.280><c> get</c><00:07:41.360><c> a</c><00:07:41.520><c> great</c>
+them in a Gemini chat and get a great
+them in a Gemini chat and get a great
+result.<00:07:42.240><c> And</c><00:07:42.400><c> nobody</c><00:07:42.800><c> is</c><00:07:43.039><c> talking</c><00:07:43.280><c> about</c>
+result. And nobody is talking about
+result. And nobody is talking about
+that.<00:07:44.240><c> Nobody</c><00:07:44.560><c> is</c><00:07:44.800><c> saying</c><00:07:45.039><c> that</c><00:07:45.280><c> really</c><00:07:45.520><c> what</c>
+that. Nobody is saying that really what
+that. Nobody is saying that really what
+has<00:07:46.000><c> been</c><00:07:46.160><c> invented</c><00:07:46.639><c> is</c><00:07:46.960><c> a</c><00:07:47.199><c> way</c><00:07:47.360><c> of</c><00:07:47.599><c> working</c>
+has been invented is a way of working
+has been invented is a way of working
+with<00:07:48.240><c> AI</c><00:07:48.560><c> that</c><00:07:48.800><c> gives</c><00:07:48.960><c> you</c><00:07:49.120><c> composable</c><00:07:49.599><c> Lego</c>
+with AI that gives you composable Lego
+with AI that gives you composable Lego
+bricks.<00:07:50.319><c> I</c><00:07:50.560><c> think</c><00:07:50.639><c> that's</c><00:07:50.880><c> fantastic.</c><00:07:51.599><c> And</c><00:07:51.759><c> so</c>
+bricks. I think that's fantastic. And so
+bricks. I think that's fantastic. And so
+you<00:07:52.080><c> can</c><00:07:52.240><c> just</c><00:07:52.400><c> pop</c><00:07:52.560><c> this</c><00:07:52.800><c> in</c><00:07:53.280><c> and</c><00:07:53.599><c> all</c><00:07:53.759><c> you</c>
+you can just pop this in and all you
+you can just pop this in and all you
+have<00:07:54.160><c> to</c><00:07:54.319><c> do</c><00:07:54.479><c> is</c><00:07:54.720><c> build</c><00:07:54.960><c> the</c><00:07:55.199><c> ones</c><00:07:55.360><c> you</c><00:07:55.599><c> want.</c>
+have to do is build the ones you want.
+have to do is build the ones you want.
+And<00:07:55.919><c> I</c><00:07:56.080><c> gave</c><00:07:56.240><c> you</c><00:07:56.400><c> some</c><00:07:56.560><c> of</c><00:07:56.639><c> those</c><00:07:56.800><c> tips</c><00:07:57.039><c> on</c><00:07:57.280><c> how</c>
+And I gave you some of those tips on how
+And I gave you some of those tips on how
+you<00:07:57.520><c> build</c><00:07:57.680><c> them.</c><00:07:57.919><c> You</c><00:07:58.080><c> literally</c><00:07:58.479><c> just</c><00:07:58.720><c> say</c>
+you build them. You literally just say
+you build them. You literally just say
+what<00:07:59.199><c> you</c><00:07:59.360><c> want</c><00:07:59.599><c> and</c><00:07:59.919><c> work</c><00:08:00.080><c> with</c><00:08:00.319><c> Claude</c><00:08:00.720><c> to</c>
+what you want and work with Claude to
+what you want and work with Claude to
+build<00:08:01.039><c> it.</c><00:08:01.440><c> And</c><00:08:01.680><c> Claude</c><00:08:02.000><c> has</c><00:08:02.240><c> the</c><00:08:02.400><c> skill</c>
+build it. And Claude has the skill
+build it. And Claude has the skill
+creation.<00:08:03.360><c> And</c><00:08:03.520><c> you</c><00:08:03.680><c> could</c><00:08:03.919><c> do</c><00:08:04.000><c> the</c><00:08:04.240><c> same</c>
+creation. And you could do the same
+creation. And you could do the same
+thing<00:08:04.560><c> with</c><00:08:04.800><c> chat</c><00:08:05.039><c> GPT</c><00:08:05.520><c> to</c><00:08:05.680><c> be</c><00:08:05.759><c> honest.</c><00:08:06.080><c> You</c>
+thing with chat GPT to be honest. You
+thing with chat GPT to be honest. You
+can<00:08:06.400><c> say,</c><00:08:06.879><c> "I</c><00:08:07.199><c> want</c><00:08:07.360><c> you</c><00:08:07.520><c> to</c><00:08:07.599><c> create</c><00:08:07.759><c> a</c>
+can say, "I want you to create a
+can say, "I want you to create a
+markdown<00:08:08.319><c> file."</c><00:08:08.639><c> The</c><00:08:08.800><c> markdown</c><00:08:09.199><c> file</c><00:08:09.440><c> needs</c>
+markdown file." The markdown file needs
+markdown file." The markdown file needs
+to<00:08:09.759><c> be</c><00:08:09.919><c> a</c><00:08:10.080><c> complete</c><00:08:10.479><c> clear</c><00:08:11.120><c> set</c><00:08:11.280><c> of</c>
+to be a complete clear set of
+to be a complete clear set of
+instructions<00:08:12.400><c> to</c><00:08:12.720><c> help</c><00:08:13.440><c> a</c><00:08:13.919><c> LLM</c><00:08:14.639><c> accomplish</c><00:08:15.280><c> a</c>
+instructions to help a LLM accomplish a
+instructions to help a LLM accomplish a
+very<00:08:15.759><c> complex</c><00:08:16.160><c> task.</c><00:08:16.639><c> In</c><00:08:16.879><c> addition,</c><00:08:17.199><c> please</c>
+very complex task. In addition, please
+very complex task. In addition, please
+create<00:08:17.680><c> these</c><00:08:17.919><c> other</c><00:08:18.080><c> file</c><00:08:18.319><c> types</c><00:08:18.560><c> that</c><00:08:18.720><c> help</c>
+create these other file types that help
+create these other file types that help
+the<00:08:18.960><c> LLM</c><00:08:19.440><c> do</c><00:08:19.599><c> the</c><00:08:19.759><c> task.</c><00:08:20.080><c> If</c><00:08:20.240><c> it's</c><00:08:20.400><c> an</c><00:08:20.560><c> analysis</c>
+the LLM do the task. If it's an analysis
+the LLM do the task. If it's an analysis
+uh<00:08:22.319><c> file,</c><00:08:22.639><c> you</c><00:08:22.800><c> may</c><00:08:22.960><c> want</c><00:08:23.120><c> to</c><00:08:23.280><c> give</c><00:08:23.440><c> the</c><00:08:23.840><c> LLM</c>
+uh file, you may want to give the LLM
+uh file, you may want to give the LLM
+some<00:08:24.560><c> specific</c><00:08:25.360><c> instructions</c><00:08:26.000><c> about</c><00:08:26.240><c> how</c><00:08:26.479><c> to</c>
+some specific instructions about how to
+some specific instructions about how to
+analyze,<00:08:27.360><c> etc.</c><00:08:28.319><c> And</c><00:08:28.479><c> then</c><00:08:28.560><c> you</c><00:08:28.720><c> put</c><00:08:28.800><c> it</c><00:08:28.960><c> all</c>
+analyze, etc. And then you put it all
+analyze, etc. And then you put it all
+together<00:08:29.360><c> into</c><00:08:29.680><c> a</c><00:08:29.840><c> zip</c><00:08:30.080><c> file</c><00:08:30.479><c> and</c><00:08:30.720><c> you're</c>
+together into a zip file and you're
+together into a zip file and you're
+done.<00:08:31.120><c> And</c><00:08:31.280><c> you</c><00:08:31.440><c> have</c><00:08:31.520><c> your</c><00:08:31.759><c> skill</c><00:08:32.159><c> and</c><00:08:32.399><c> you</c>
+done. And you have your skill and you
+done. And you have your skill and you
+can<00:08:32.800><c> upload</c><00:08:33.120><c> that</c><00:08:33.360><c> and</c><00:08:33.599><c> say,</c><00:08:33.680><c> "Hey,</c><00:08:34.000><c> refer</c><00:08:34.240><c> to</c>
+can upload that and say, "Hey, refer to
+can upload that and say, "Hey, refer to
+this<00:08:34.640><c> skill.</c><00:08:34.959><c> This</c><00:08:35.039><c> is</c><00:08:35.200><c> how</c><00:08:35.360><c> I</c><00:08:35.519><c> like</c><00:08:35.680><c> things</c>
+this skill. This is how I like things
+this skill. This is how I like things
+done."<00:08:36.399><c> You</c><00:08:36.719><c> might</c><00:08:36.880><c> be</c><00:08:37.039><c> wondering</c><00:08:37.360><c> now</c><00:08:38.399><c> what</c>
+done." You might be wondering now what
+done." You might be wondering now what
+things<00:08:39.279><c> should</c><00:08:39.599><c> be</c><00:08:40.000><c> skills.</c><00:08:40.959><c> What</c><00:08:41.200><c> things</c>
+things should be skills. What things
+things should be skills. What things
+should<00:08:41.519><c> be</c><00:08:41.760><c> skills?</c><00:08:42.240><c> The</c><00:08:42.479><c> answer</c><00:08:42.800><c> is</c><00:08:43.039><c> quite</c>
+should be skills? The answer is quite
+should be skills? The answer is quite
+simple.<00:08:43.919><c> If</c><00:08:44.080><c> it</c><00:08:44.320><c> is</c><00:08:44.480><c> something</c><00:08:45.120><c> that</c><00:08:45.519><c> you</c>
+simple. If it is something that you
+simple. If it is something that you
+would<00:08:46.000><c> want</c><00:08:46.320><c> to</c><00:08:46.640><c> onboard</c><00:08:47.279><c> someone</c><00:08:47.680><c> with,</c>
+would want to onboard someone with,
+would want to onboard someone with,
+let's<00:08:48.240><c> say</c><00:08:48.640><c> you</c><00:08:48.959><c> have</c><00:08:49.120><c> an</c><00:08:49.360><c> employee</c><00:08:49.920><c> and</c><00:08:50.160><c> you</c>
+let's say you have an employee and you
+let's say you have an employee and you
+want<00:08:50.480><c> to</c><00:08:50.640><c> onboard</c><00:08:51.040><c> them</c><00:08:51.200><c> and</c><00:08:51.440><c> train</c><00:08:51.680><c> them,</c>
+want to onboard them and train them,
+want to onboard them and train them,
+super<00:08:52.399><c> easy.</c><00:08:53.120><c> Just</c><00:08:53.839><c> give</c><00:08:54.080><c> them</c><00:08:54.399><c> a</c><00:08:54.720><c> skill.</c>
+super easy. Just give them a skill.
+super easy. Just give them a skill.
+That's<00:08:55.519><c> what</c><00:08:55.680><c> this</c><00:08:55.839><c> is</c><00:08:56.000><c> for.</c><00:08:56.240><c> That's</c><00:08:56.399><c> the</c>
+That's what this is for. That's the
+That's what this is for. That's the
+level<00:08:56.720><c> we're</c><00:08:56.959><c> at.</c><00:08:57.200><c> If</c><00:08:57.360><c> it's</c><00:08:57.519><c> a</c><00:08:57.600><c> one-off</c><00:08:58.080><c> task,</c>
+level we're at. If it's a one-off task,
+level we're at. If it's a one-off task,
+if<00:08:58.800><c> you're</c><00:08:58.959><c> not</c><00:08:59.120><c> going</c><00:08:59.200><c> to</c><00:08:59.360><c> repeat</c><00:08:59.680><c> it,</c><00:09:00.160><c> if</c>
+if you're not going to repeat it, if
+if you're not going to repeat it, if
+it's<00:09:00.480><c> not</c><00:09:00.640><c> very</c><00:09:00.880><c> high</c><00:09:01.120><c> value,</c><00:09:01.839><c> don't</c><00:09:02.000><c> do</c><00:09:02.160><c> a</c>
+it's not very high value, don't do a
+it's not very high value, don't do a
+skill.<00:09:02.640><c> It's</c><00:09:02.880><c> just</c><00:09:03.040><c> too</c><00:09:03.200><c> much</c><00:09:03.360><c> trouble.</c><00:09:04.000><c> But</c>
+skill. It's just too much trouble. But
+skill. It's just too much trouble. But
+if<00:09:04.640><c> it's</c><00:09:04.880><c> something</c><00:09:05.040><c> where</c><00:09:05.200><c> it's</c><00:09:05.360><c> like,</c><00:09:05.440><c> "No,</c>
+if it's something where it's like, "No,
+if it's something where it's like, "No,
+I'm<00:09:05.920><c> going</c><00:09:06.000><c> to</c><00:09:06.080><c> be</c><00:09:06.240><c> doing</c><00:09:06.399><c> this</c><00:09:06.640><c> repeatedly."</c>
+I'm going to be doing this repeatedly."
+I'm going to be doing this repeatedly."
+If<00:09:07.680><c> I</c><00:09:07.839><c> had</c><00:09:08.080><c> someone</c><00:09:08.399><c> doing</c><00:09:08.640><c> this</c><00:09:08.800><c> for</c><00:09:08.959><c> me,</c><00:09:09.279><c> I</c>
+If I had someone doing this for me, I
+If I had someone doing this for me, I
+would<00:09:09.680><c> give</c><00:09:09.839><c> them</c><00:09:10.080><c> some</c><00:09:10.399><c> training.</c><00:09:10.800><c> I</c><00:09:10.959><c> would</c>
+would give them some training. I would
+would give them some training. I would
+give<00:09:11.200><c> them</c><00:09:11.360><c> some</c><00:09:11.519><c> onboarding</c><00:09:12.080><c> materials.</c>
+give them some onboarding materials.
+give them some onboarding materials.
+That's<00:09:13.200><c> when</c><00:09:13.440><c> you</c><00:09:13.680><c> need</c><00:09:14.080><c> the</c><00:09:14.399><c> skill.</c><00:09:14.880><c> And</c><00:09:15.120><c> the</c>
+That's when you need the skill. And the
+That's when you need the skill. And the
+beauty<00:09:15.680><c> of</c><00:09:16.000><c> the</c><00:09:16.240><c> whole</c><00:09:16.399><c> ecosystem</c><00:09:17.040><c> is</c><00:09:17.279><c> that</c><00:09:17.440><c> we</c>
+beauty of the whole ecosystem is that we
+beauty of the whole ecosystem is that we
+can<00:09:17.760><c> all</c><00:09:18.000><c> just</c><00:09:18.240><c> like</c><00:09:18.480><c> create</c><00:09:18.800><c> the</c><00:09:19.040><c> skills</c><00:09:19.279><c> and</c>
+can all just like create the skills and
+can all just like create the skills and
+trade<00:09:19.760><c> them</c><00:09:19.920><c> around</c><00:09:20.160><c> and</c><00:09:20.399><c> they'll</c><00:09:20.720><c> grow.</c><00:09:21.600><c> And</c>
+trade them around and they'll grow. And
+trade them around and they'll grow. And
+I<00:09:22.160><c> think</c><00:09:22.240><c> that</c><00:09:22.480><c> that</c><00:09:22.720><c> is</c><00:09:22.959><c> part</c><00:09:23.200><c> of</c><00:09:23.279><c> what</c><00:09:23.600><c> makes</c>
+I think that that is part of what makes
+I think that that is part of what makes
+this<00:09:24.080><c> so</c><00:09:24.320><c> powerful</c><00:09:24.640><c> is</c><00:09:24.880><c> that</c><00:09:25.040><c> it's</c><00:09:25.279><c> not</c><00:09:25.519><c> locked</c>
+this so powerful is that it's not locked
+this so powerful is that it's not locked
+into<00:09:26.399><c> anthropic.</c><00:09:27.040><c> People</c><00:09:27.279><c> will</c><00:09:27.519><c> come</c><00:09:27.680><c> up</c><00:09:27.839><c> with</c>
+into anthropic. People will come up with
+into anthropic. People will come up with
+ways<00:09:28.240><c> to</c><00:09:28.480><c> use</c><00:09:28.640><c> these</c><00:09:28.880><c> exact</c><00:09:29.200><c> files</c><00:09:29.600><c> and</c><00:09:29.760><c> other</c>
+ways to use these exact files and other
+ways to use these exact files and other
+interfaces.<00:09:30.560><c> I</c><00:09:30.880><c> guarantee</c><00:09:31.519><c> that</c><00:09:31.839><c> people</c><00:09:32.160><c> will</c>
+interfaces. I guarantee that people will
+interfaces. I guarantee that people will
+come<00:09:32.480><c> up</c><00:09:32.640><c> with</c><00:09:32.880><c> ways</c><00:09:33.120><c> to</c><00:09:33.279><c> use</c><00:09:33.360><c> these</c><00:09:33.680><c> exact</c>
+come up with ways to use these exact
+come up with ways to use these exact
+same<00:09:34.399><c> Claude</c><00:09:34.880><c> skills</c><00:09:35.519><c> folders</c><00:09:36.000><c> and</c><00:09:36.240><c> files</c><00:09:36.720><c> in</c>
+same Claude skills folders and files in
+same Claude skills folders and files in
+a<00:09:37.360><c> dozen</c><00:09:37.680><c> other</c><00:09:37.839><c> tools</c><00:09:38.160><c> in</c><00:09:38.399><c> the</c><00:09:38.560><c> next</c><00:09:38.720><c> month</c>
+a dozen other tools in the next month
+a dozen other tools in the next month
+because<00:09:39.279><c> they're</c><00:09:39.519><c> so</c><00:09:39.760><c> powerful.</c><00:09:40.399><c> So,</c><00:09:40.560><c> I'm</c>
+because they're so powerful. So, I'm
+because they're so powerful. So, I'm
+really<00:09:41.040><c> excited</c><00:09:41.360><c> about</c><00:09:41.519><c> this.</c><00:09:42.080><c> If</c><00:09:42.320><c> you</c><00:09:42.480><c> are</c>
+really excited about this. If you are
+really excited about this. If you are
+asking<00:09:43.120><c> me</c><00:09:43.680><c> what</c><00:09:43.920><c> is</c><00:09:44.080><c> the</c><00:09:44.240><c> catch,</c><00:09:44.959><c> where</c><00:09:45.200><c> do</c><00:09:45.360><c> I</c>
+asking me what is the catch, where do I
+asking me what is the catch, where do I
+need<00:09:45.680><c> to</c><00:09:45.760><c> be</c><00:09:45.920><c> careful?</c><00:09:46.560><c> I</c><00:09:46.720><c> would</c><00:09:46.880><c> tell</c><00:09:47.040><c> you</c>
+need to be careful? I would tell you
+need to be careful? I would tell you
+this.<00:09:47.680><c> We</c><00:09:48.080><c> were</c><00:09:48.480><c> using</c><00:09:49.360><c> the</c><00:09:49.760><c> skills</c><00:09:50.640><c> before</c><00:09:51.120><c> we</c>
+this. We were using the skills before we
+this. We were using the skills before we
+knew<00:09:51.600><c> they</c><00:09:51.839><c> existed.</c><00:09:52.560><c> So,</c><00:09:52.880><c> when</c><00:09:53.120><c> I</c><00:09:53.360><c> did</c><00:09:53.519><c> my</c>
+knew they existed. So, when I did my
+knew they existed. So, when I did my
+video<00:09:54.080><c> on</c><00:09:54.320><c> Excel,</c><00:09:54.880><c> when</c><00:09:55.040><c> I</c><00:09:55.120><c> did</c><00:09:55.279><c> my</c><00:09:55.440><c> video</c><00:09:55.680><c> on</c>
+video on Excel, when I did my video on
+video on Excel, when I did my video on
+PowerPoint,<00:09:56.880><c> Claude</c><00:09:57.279><c> was</c><00:09:57.600><c> using</c><00:09:57.920><c> those</c>
+PowerPoint, Claude was using those
+PowerPoint, Claude was using those
+skills.<00:09:58.720><c> And</c><00:09:58.880><c> what</c><00:09:59.040><c> I</c><00:09:59.279><c> found</c><00:09:59.440><c> in</c><00:09:59.760><c> practice</c>
+skills. And what I found in practice
+skills. And what I found in practice
+weeks<00:10:00.640><c> ago</c><00:10:00.959><c> and</c><00:10:01.279><c> since</c><00:10:01.519><c> as</c><00:10:01.760><c> I've</c><00:10:02.000><c> been</c><00:10:02.160><c> working</c>
+weeks ago and since as I've been working
+weeks ago and since as I've been working
+with<00:10:02.480><c> those</c><00:10:02.720><c> tools</c><00:10:03.120><c> daily</c><00:10:03.680><c> is</c><00:10:04.000><c> that</c><00:10:04.560><c> even</c>
+with those tools daily is that even
+with those tools daily is that even
+though<00:10:05.519><c> the</c><00:10:05.839><c> skills</c><00:10:06.320><c> are</c><00:10:06.560><c> like</c><00:10:06.800><c> a</c><00:10:07.120><c> massive</c><00:10:07.600><c> 10x</c>
+though the skills are like a massive 10x
+though the skills are like a massive 10x
+step<00:10:08.399><c> up</c><00:10:08.800><c> in</c><00:10:09.120><c> helping</c><00:10:09.360><c> you</c><00:10:09.519><c> get</c><00:10:09.760><c> stuff</c><00:10:09.920><c> done.</c><00:10:10.160><c> I</c>
+step up in helping you get stuff done. I
+step up in helping you get stuff done. I
+like<00:10:11.200><c> watch</c><00:10:11.440><c> the</c><00:10:11.680><c> video</c><00:10:11.839><c> on</c><00:10:12.080><c> powerpoints.</c>
+like watch the video on powerpoints.
+like watch the video on powerpoints.
+Like<00:10:12.959><c> it</c><00:10:13.200><c> creates</c><00:10:13.600><c> incredible</c><00:10:14.079><c> powerpoints</c>
+Like it creates incredible powerpoints
+Like it creates incredible powerpoints
+that<00:10:14.880><c> save</c><00:10:15.120><c> days</c><00:10:15.440><c> of</c><00:10:15.519><c> work.</c><00:10:15.760><c> Like</c><00:10:15.920><c> it's</c><00:10:16.000><c> a</c><00:10:16.160><c> it's</c>
+that save days of work. Like it's a it's
+that save days of work. Like it's a it's
+a<00:10:16.480><c> phenomenal</c><00:10:16.880><c> job.</c><00:10:17.519><c> You</c><00:10:17.839><c> still</c><00:10:18.399><c> need</c><00:10:18.640><c> to</c>
+a phenomenal job. You still need to
+a phenomenal job. You still need to
+prompt<00:10:19.440><c> well.</c><00:10:19.920><c> It</c><00:10:20.160><c> does</c><00:10:20.320><c> not</c><00:10:20.560><c> get</c><00:10:20.800><c> you</c><00:10:21.040><c> away</c>
+prompt well. It does not get you away
+prompt well. It does not get you away
+from<00:10:21.600><c> prompting</c><00:10:22.000><c> well</c><00:10:22.240><c> when</c><00:10:22.399><c> you</c><00:10:22.560><c> do</c><00:10:22.720><c> serious</c>
+from prompting well when you do serious
+from prompting well when you do serious
+work.<00:10:23.680><c> Prompting</c><00:10:24.240><c> well</c><00:10:24.880><c> is</c><00:10:25.200><c> like</c><00:10:25.600><c> giving</c><00:10:26.320><c> this</c>
+work. Prompting well is like giving this
+work. Prompting well is like giving this
+massive<00:10:27.279><c> cool</c><00:10:27.760><c> skill</c><00:10:28.160><c> package</c><00:10:28.959><c> clear</c>
+massive cool skill package clear
+massive cool skill package clear
+direction.<00:10:29.839><c> And</c><00:10:30.000><c> so</c><00:10:30.160><c> it</c><00:10:30.399><c> doesn't</c><00:10:30.560><c> have</c><00:10:30.720><c> to</c><00:10:30.800><c> be</c>
+direction. And so it doesn't have to be
+direction. And so it doesn't have to be
+as<00:10:31.200><c> long</c><00:10:31.360><c> a</c><00:10:31.600><c> prompt,</c><00:10:32.079><c> but</c><00:10:32.320><c> it</c><00:10:32.480><c> has</c><00:10:32.640><c> to</c><00:10:32.720><c> be</c><00:10:32.800><c> very</c>
+as long a prompt, but it has to be very
+as long a prompt, but it has to be very
+clear<00:10:33.360><c> and</c><00:10:33.600><c> unambiguous</c><00:10:34.320><c> about</c><00:10:34.560><c> where</c><00:10:34.800><c> you</c>
+clear and unambiguous about where you
+clear and unambiguous about where you
+want<00:10:35.040><c> to</c><00:10:35.200><c> take</c><00:10:35.440><c> all</c><00:10:35.600><c> of</c><00:10:35.680><c> this</c><00:10:35.920><c> power,</c><00:10:36.320><c> all</c><00:10:36.480><c> of</c>
+want to take all of this power, all of
+want to take all of this power, all of
+this<00:10:36.800><c> context</c><00:10:37.279><c> you've</c><00:10:37.519><c> got.</c><00:10:38.160><c> So</c><00:10:38.959><c> that's</c><00:10:39.279><c> if</c>
+this context you've got. So that's if
+this context you've got. So that's if
+you<00:10:39.519><c> want</c><00:10:39.680><c> to</c><00:10:39.760><c> catch,</c><00:10:40.240><c> that's</c><00:10:40.480><c> the</c><00:10:40.640><c> catch.</c><00:10:40.959><c> You</c>
+you want to catch, that's the catch. You
+you want to catch, that's the catch. You
+still<00:10:41.279><c> got</c><00:10:41.440><c> to</c><00:10:41.519><c> be</c><00:10:41.680><c> clear</c><00:10:41.839><c> in</c><00:10:42.079><c> what</c><00:10:42.240><c> you're</c>
+still got to be clear in what you're
+still got to be clear in what you're
+asking<00:10:42.720><c> for,</c><00:10:43.279><c> but</c><00:10:43.920><c> you</c><00:10:44.160><c> don't</c><00:10:44.399><c> have</c><00:10:44.560><c> to</c><00:10:44.720><c> be</c><00:10:44.880><c> as</c>
+asking for, but you don't have to be as
+asking for, but you don't have to be as
+lengthy<00:10:45.440><c> as</c><00:10:45.600><c> you</c><00:10:45.839><c> used</c><00:10:46.000><c> to</c><00:10:46.160><c> have</c><00:10:46.320><c> to</c><00:10:46.480><c> be.</c><00:10:46.800><c> Like</c>
+lengthy as you used to have to be. Like
+lengthy as you used to have to be. Like
+if<00:10:47.200><c> I</c><00:10:47.360><c> had</c><00:10:47.519><c> to</c><00:10:47.680><c> do</c><00:10:47.760><c> a</c><00:10:48.000><c> complicated</c><00:10:48.399><c> piece</c><00:10:48.640><c> of</c>
+if I had to do a complicated piece of
+if I had to do a complicated piece of
+work<00:10:48.959><c> like</c><00:10:49.200><c> the</c><00:10:49.440><c> job</c><00:10:49.680><c> search</c><00:10:50.000><c> thing,</c><00:10:50.560><c> I</c><00:10:50.720><c> would</c>
+work like the job search thing, I would
+work like the job search thing, I would
+honestly<00:10:51.200><c> not</c><00:10:51.440><c> even</c><00:10:51.600><c> do</c><00:10:51.680><c> it</c><00:10:51.839><c> in</c><00:10:52.000><c> one</c><00:10:52.160><c> chat.</c><00:10:52.560><c> I</c>
+honestly not even do it in one chat. I
+honestly not even do it in one chat. I
+would<00:10:52.959><c> just</c><00:10:53.120><c> do</c><00:10:53.200><c> it</c><00:10:53.279><c> in</c><00:10:53.519><c> multiple</c><00:10:53.839><c> chats,</c>
+would just do it in multiple chats,
+would just do it in multiple chats,
+right?<00:10:54.720><c> And</c><00:10:54.880><c> you</c><00:10:55.040><c> ask</c><00:10:55.279><c> for</c><00:10:55.360><c> this</c><00:10:55.519><c> and</c><00:10:55.680><c> then</c><00:10:55.760><c> you</c>
+right? And you ask for this and then you
+right? And you ask for this and then you
+ask<00:10:56.000><c> for</c><00:10:56.160><c> this</c><00:10:56.240><c> and</c><00:10:56.399><c> then</c><00:10:56.480><c> you</c><00:10:56.640><c> ask</c><00:10:56.720><c> for</c><00:10:56.800><c> this,</c>
+ask for this and then you ask for this,
+ask for this and then you ask for this,
+like<00:10:57.200><c> help</c><00:10:57.360><c> me</c><00:10:57.440><c> with</c><00:10:57.600><c> my</c><00:10:57.760><c> resume,</c><00:10:58.160><c> help</c><00:10:58.320><c> me</c>
+like help me with my resume, help me
+like help me with my resume, help me
+with<00:10:58.560><c> my</c><00:10:58.720><c> job</c><00:10:58.959><c> search,</c><00:10:59.440><c> etc.</c><00:10:59.920><c> And</c><00:11:00.079><c> you</c><00:11:00.240><c> have</c><00:11:00.399><c> to</c>
+with my job search, etc. And you have to
+with my job search, etc. And you have to
+sort<00:11:00.720><c> of</c><00:11:00.880><c> reinvent</c><00:11:01.360><c> the</c><00:11:01.600><c> prompt</c><00:11:01.839><c> and</c><00:11:02.079><c> reinvent</c>
+sort of reinvent the prompt and reinvent
+sort of reinvent the prompt and reinvent
+the<00:11:02.640><c> context</c><00:11:02.959><c> every</c><00:11:03.279><c> time.</c><00:11:03.760><c> The</c><00:11:04.000><c> power</c><00:11:04.160><c> of</c>
+the context every time. The power of
+the context every time. The power of
+this<00:11:04.800><c> is</c><00:11:05.120><c> you</c><00:11:05.279><c> can</c><00:11:05.440><c> do</c><00:11:05.600><c> that</c><00:11:05.839><c> much</c><00:11:06.079><c> more</c>
+this is you can do that much more
+this is you can do that much more
+complicated<00:11:06.959><c> work</c><00:11:07.440><c> in</c><00:11:07.760><c> a</c><00:11:08.000><c> much</c><00:11:08.480><c> less</c><00:11:09.040><c> heavy</c>
+complicated work in a much less heavy
+complicated work in a much less heavy
+lift<00:11:10.000><c> way.</c><00:11:10.560><c> That</c><00:11:10.800><c> is</c><00:11:10.959><c> why</c><00:11:11.120><c> I</c><00:11:11.440><c> call</c><00:11:11.600><c> them</c><00:11:11.839><c> super</c>
+lift way. That is why I call them super
+lift way. That is why I call them super
+prompts<00:11:12.800><c> because</c><00:11:13.200><c> it's</c><00:11:13.440><c> like</c><00:11:13.680><c> we've</c><00:11:14.000><c> taken</c>
+prompts because it's like we've taken
+prompts because it's like we've taken
+this<00:11:14.640><c> load</c><00:11:14.959><c> that</c><00:11:15.200><c> we've</c><00:11:15.519><c> all</c><00:11:15.680><c> had</c><00:11:15.839><c> to</c><00:11:16.079><c> carry</c>
+this load that we've all had to carry
+this load that we've all had to carry
+for<00:11:16.560><c> prompting</c><00:11:17.040><c> for</c><00:11:17.279><c> so</c><00:11:17.600><c> long</c><00:11:18.079><c> and</c><00:11:18.320><c> it's</c><00:11:18.480><c> like</c>
+for prompting for so long and it's like
+for prompting for so long and it's like
+lifted<00:11:19.040><c> it.</c><00:11:19.200><c> It's</c><00:11:19.360><c> like</c><00:11:19.519><c> yes,</c><00:11:19.760><c> you</c><00:11:19.920><c> still</c><00:11:20.079><c> have</c>
+lifted it. It's like yes, you still have
+lifted it. It's like yes, you still have
+to<00:11:20.320><c> be</c><00:11:20.480><c> clear.</c><00:11:21.120><c> It's</c><00:11:21.440><c> good</c><00:11:21.600><c> to</c><00:11:21.760><c> be</c><00:11:21.920><c> clear</c><00:11:22.160><c> about</c>
+to be clear. It's good to be clear about
+to be clear. It's good to be clear about
+what<00:11:22.480><c> you</c><00:11:22.640><c> want.</c><00:11:22.880><c> It's</c><00:11:23.040><c> good</c><00:11:23.120><c> to</c><00:11:23.279><c> bring</c><00:11:23.440><c> your</c>
+what you want. It's good to bring your
+what you want. It's good to bring your
+specific<00:11:24.160><c> context.</c><00:11:24.959><c> Bring</c><00:11:25.200><c> that</c><00:11:25.440><c> specific</c>
+specific context. Bring that specific
+specific context. Bring that specific
+job<00:11:26.240><c> description,</c><00:11:26.720><c> right?</c><00:11:27.120><c> Bring</c><00:11:27.360><c> the</c>
+job description, right? Bring the
+job description, right? Bring the
+specific<00:11:28.000><c> experience</c><00:11:28.399><c> you</c><00:11:28.640><c> have</c><00:11:28.720><c> that</c><00:11:28.959><c> nobody</c>
+specific experience you have that nobody
+specific experience you have that nobody
+else<00:11:29.360><c> has,</c><00:11:29.760><c> right?</c><00:11:30.240><c> But</c><00:11:30.800><c> you</c><00:11:31.040><c> don't</c><00:11:31.200><c> have</c><00:11:31.360><c> to</c>
+else has, right? But you don't have to
+else has, right? But you don't have to
+carry<00:11:31.839><c> as</c><00:11:32.000><c> heavy</c><00:11:32.240><c> a</c><00:11:32.399><c> load</c><00:11:32.640><c> on</c><00:11:32.880><c> just</c><00:11:33.120><c> explaining</c>
+carry as heavy a load on just explaining
+carry as heavy a load on just explaining
+everything<00:11:34.079><c> in</c><00:11:34.320><c> exhaustive</c><00:11:34.880><c> detail</c><00:11:35.440><c> as</c><00:11:35.680><c> you</c>
+everything in exhaustive detail as you
+everything in exhaustive detail as you
+used<00:11:36.160><c> to</c><00:11:36.320><c> have</c><00:11:36.480><c> to.</c><00:11:36.800><c> And</c><00:11:36.959><c> that</c><00:11:37.200><c> is</c><00:11:37.440><c> a</c><00:11:37.839><c> huge</c>
+used to have to. And that is a huge
+used to have to. And that is a huge
+breakthrough<00:11:38.720><c> for</c><00:11:38.880><c> all</c><00:11:39.040><c> of</c><00:11:39.120><c> us.</c><00:11:39.360><c> I</c><00:11:39.600><c> am</c><00:11:39.760><c> so</c>
+breakthrough for all of us. I am so
+breakthrough for all of us. I am so
+excited<00:11:40.240><c> for</c><00:11:40.320><c> that.</c><00:11:40.560><c> So,</c><00:11:40.720><c> I'm</c><00:11:40.959><c> putting</c>
+excited for that. So, I'm putting
+excited for that. So, I'm putting
+together<00:11:41.920><c> a</c><00:11:42.320><c> whole</c><00:11:42.720><c> set</c><00:11:43.200><c> of</c><00:11:43.519><c> Claude</c><00:11:43.920><c> skills</c>
+together a whole set of Claude skills
+together a whole set of Claude skills
+that<00:11:44.480><c> you</c><00:11:44.640><c> can</c><00:11:44.720><c> use</c><00:11:44.800><c> in</c><00:11:45.040><c> chat</c><00:11:45.279><c> GPT</c><00:11:45.760><c> and</c><00:11:45.839><c> Gemini.</c>
+that you can use in chat GPT and Gemini.
+that you can use in chat GPT and Gemini.
+You<00:11:46.480><c> can</c><00:11:46.560><c> use</c><00:11:46.640><c> them</c><00:11:46.800><c> in</c><00:11:46.959><c> Claude,</c><00:11:47.279><c> of</c><00:11:47.440><c> course.</c><00:11:47.839><c> I</c>
+You can use them in Claude, of course. I
+You can use them in Claude, of course. I
+can't<00:11:48.240><c> wait</c><00:11:48.399><c> to</c><00:11:48.560><c> show</c><00:11:48.720><c> them</c><00:11:48.880><c> to</c><00:11:49.040><c> you.</c><00:11:49.360><c> I'll</c>
+can't wait to show them to you. I'll
+can't wait to show them to you. I'll
+have<00:11:49.760><c> them</c><00:11:49.920><c> out</c><00:11:50.079><c> with</c><00:11:50.240><c> this</c><00:11:50.480><c> video</c><00:11:50.640><c> on</c><00:11:50.800><c> the</c>
+have them out with this video on the
+have them out with this video on the
+substack.<00:11:51.519><c> It's</c><00:11:51.760><c> going</c><00:11:51.839><c> to</c><00:11:51.920><c> be</c><00:11:52.079><c> great.</c><00:11:52.320><c> We</c><00:11:52.480><c> are</c>
+substack. It's going to be great. We are
+substack. It's going to be great. We are
+just<00:11:52.800><c> at</c><00:11:52.959><c> the</c><00:11:53.120><c> beginning</c><00:11:53.279><c> of</c><00:11:53.440><c> this</c><00:11:53.600><c> and</c><00:11:53.839><c> I</c><00:11:54.000><c> want</c>
+just at the beginning of this and I want
+just at the beginning of this and I want
+to<00:11:54.240><c> give</c><00:11:54.320><c> you</c><00:11:54.480><c> like</c><00:11:54.720><c> a</c><00:11:54.880><c> great</c><00:11:55.120><c> get</c><00:11:55.360><c> started</c>
+to give you like a great get started
+to give you like a great get started
+pack<00:11:56.000><c> so</c><00:11:56.160><c> you're</c><00:11:56.320><c> off</c><00:11:56.480><c> to</c><00:11:56.640><c> the</c><00:11:56.800><c> races</c><00:11:57.120><c> on</c><00:11:57.279><c> using</c>
+pack so you're off to the races on using
+pack so you're off to the races on using
+cloud<00:11:57.839><c> skills.</c><00:11:58.320><c> Have</c><00:11:58.560><c> fun</c><00:11:58.640><c> with</c><00:11:58.800><c> your</c><00:11:58.959><c> new</c>
+cloud skills. Have fun with your new
+cloud skills. Have fun with your new
+super<00:11:59.440><c> prompting</c><00:11:59.839><c> powers.</c>

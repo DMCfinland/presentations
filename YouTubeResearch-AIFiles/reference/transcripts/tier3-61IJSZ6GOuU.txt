@@ -1,0 +1,1222 @@
+AI<00:00:00.480><c> has</c><00:00:00.719><c> dropped</c><00:00:01.040><c> the</c><00:00:01.199><c> cost</c><00:00:01.439><c> of</c><00:00:01.680><c> business</c>
+AI has dropped the cost of business
+AI has dropped the cost of business
+writing<00:00:02.320><c> to</c><00:00:02.560><c> nearly</c><00:00:02.879><c> zero.</c><00:00:03.360><c> And</c><00:00:03.600><c> most</c><00:00:03.760><c> of</c><00:00:03.919><c> the</c>
+writing to nearly zero. And most of the
+writing to nearly zero. And most of the
+businesses<00:00:04.560><c> I</c><00:00:04.880><c> work</c><00:00:05.040><c> with</c><00:00:05.279><c> or</c><00:00:05.520><c> know</c><00:00:05.680><c> about</c><00:00:06.000><c> are</c>
+businesses I work with or know about are
+businesses I work with or know about are
+drowning<00:00:06.720><c> in</c><00:00:07.040><c> AI</c><00:00:07.520><c> documents</c><00:00:07.919><c> and</c><00:00:08.240><c> have</c><00:00:08.480><c> huge</c>
+drowning in AI documents and have huge
+drowning in AI documents and have huge
+issues<00:00:09.360><c> with</c><00:00:09.599><c> AI</c><00:00:10.080><c> business</c><00:00:10.480><c> writing.</c><00:00:11.280><c> This</c>
+issues with AI business writing. This
+issues with AI business writing. This
+video<00:00:12.080><c> is</c><00:00:12.400><c> how</c><00:00:12.639><c> you</c><00:00:12.880><c> troubleshoot</c><00:00:13.519><c> those.</c>
+video is how you troubleshoot those.
+video is how you troubleshoot those.
+What<00:00:14.240><c> the</c><00:00:14.480><c> principles</c><00:00:14.960><c> are</c><00:00:15.200><c> for</c><00:00:15.360><c> using</c><00:00:15.599><c> AI</c>
+What the principles are for using AI
+What the principles are for using AI
+well<00:00:16.320><c> in</c><00:00:16.560><c> business</c><00:00:16.880><c> writing</c><00:00:17.279><c> situations.</c><00:00:17.840><c> And</c>
+well in business writing situations. And
+well in business writing situations. And
+then<00:00:18.080><c> I'm</c><00:00:18.240><c> going</c><00:00:18.320><c> to</c><00:00:18.400><c> walk</c><00:00:18.720><c> through</c><00:00:19.279><c> an</c><00:00:19.680><c> actual</c>
+then I'm going to walk through an actual
+then I'm going to walk through an actual
+example<00:00:20.400><c> of</c><00:00:20.560><c> a</c><00:00:20.720><c> prompt</c><00:00:21.039><c> I'm</c><00:00:21.279><c> using</c><00:00:21.920><c> that</c><00:00:22.160><c> sets</c>
+example of a prompt I'm using that sets
+example of a prompt I'm using that sets
+a<00:00:22.720><c> much</c><00:00:22.960><c> higher</c><00:00:23.279><c> bar</c><00:00:23.600><c> for</c><00:00:23.840><c> AI</c><00:00:24.160><c> business</c>
+a much higher bar for AI business
+a much higher bar for AI business
+writing<00:00:24.800><c> than</c><00:00:24.960><c> I've</c><00:00:25.119><c> typically</c><00:00:25.519><c> seen.</c><00:00:26.160><c> And</c>
+writing than I've typically seen. And
+writing than I've typically seen. And
+we'll<00:00:26.560><c> just</c><00:00:26.720><c> go</c><00:00:26.800><c> through</c><00:00:26.960><c> it.</c><00:00:27.199><c> So,</c><00:00:27.359><c> first</c>
+we'll just go through it. So, first
+we'll just go through it. So, first
+let's<00:00:28.080><c> get</c><00:00:28.160><c> into</c><00:00:28.400><c> the</c><00:00:28.560><c> principles.</c><00:00:29.039><c> The</c><00:00:29.279><c> first</c>
+let's get into the principles. The first
+let's get into the principles. The first
+thing<00:00:29.519><c> I</c><00:00:29.679><c> want</c><00:00:29.760><c> you</c><00:00:29.920><c> to</c><00:00:30.080><c> keep</c><00:00:30.160><c> in</c><00:00:30.400><c> mind</c><00:00:30.560><c> overall</c>
+thing I want you to keep in mind overall
+thing I want you to keep in mind overall
+is<00:00:31.279><c> that</c><00:00:31.439><c> the</c><00:00:31.679><c> real</c><00:00:31.920><c> bottleneck</c><00:00:32.399><c> in</c><00:00:32.640><c> AI</c>
+is that the real bottleneck in AI
+is that the real bottleneck in AI
+assisted<00:00:33.440><c> writing</c><00:00:33.840><c> is</c><00:00:34.160><c> never</c><00:00:34.480><c> capability</c><00:00:35.040><c> of</c>
+assisted writing is never capability of
+assisted writing is never capability of
+AI.<00:00:35.760><c> People</c><00:00:36.079><c> think</c><00:00:36.239><c> it's</c><00:00:36.480><c> the</c><00:00:36.719><c> model.</c><00:00:37.120><c> It's</c>
+AI. People think it's the model. It's
+AI. People think it's the model. It's
+not<00:00:37.600><c> the</c><00:00:37.840><c> model.</c><00:00:38.480><c> Don't</c><00:00:38.800><c> let</c><00:00:39.120><c> anyone</c><00:00:39.520><c> tell</c><00:00:39.600><c> you</c>
+not the model. Don't let anyone tell you
+not the model. Don't let anyone tell you
+it's<00:00:40.000><c> the</c><00:00:40.160><c> model.</c><00:00:40.640><c> It's</c><00:00:40.960><c> organizational</c>
+it's the model. It's organizational
+it's the model. It's organizational
+ability<00:00:42.239><c> to</c><00:00:42.559><c> articulate</c><00:00:43.200><c> what</c><00:00:43.520><c> constitutes</c>
+ability to articulate what constitutes
+ability to articulate what constitutes
+good<00:00:44.480><c> work.</c><00:00:44.879><c> And</c><00:00:45.120><c> typically</c><00:00:46.079><c> that</c><00:00:46.320><c> means</c>
+good work. And typically that means
+good work. And typically that means
+we've<00:00:46.879><c> relied</c><00:00:47.280><c> on</c><00:00:47.520><c> individuals</c><00:00:48.160><c> to</c><00:00:48.399><c> have</c>
+we've relied on individuals to have
+we've relied on individuals to have
+instincts<00:00:49.760><c> for</c><00:00:50.000><c> what</c><00:00:50.320><c> constitutes</c><00:00:50.960><c> good</c><00:00:51.200><c> work</c>
+instincts for what constitutes good work
+instincts for what constitutes good work
+instead<00:00:52.239><c> of</c><00:00:52.879><c> actual</c><00:00:54.239><c> structured</c><00:00:55.199><c> information</c>
+instead of actual structured information
+instead of actual structured information
+about<00:00:56.239><c> what</c><00:00:56.480><c> constitute</c><00:00:56.960><c> good</c><00:00:57.199><c> work.</c><00:00:57.440><c> AI</c>
+about what constitute good work. AI
+about what constitute good work. AI
+forces<00:00:58.320><c> tacet</c><00:00:58.800><c> knowledge</c><00:00:59.039><c> into</c><00:00:59.359><c> explicit</c>
+forces tacet knowledge into explicit
+forces tacet knowledge into explicit
+standards<00:01:00.239><c> and</c><00:01:00.480><c> that</c><00:01:00.640><c> is</c><00:01:00.800><c> very</c><00:01:01.120><c> very</c><00:01:01.520><c> hard</c><00:01:02.000><c> for</c>
+standards and that is very very hard for
+standards and that is very very hard for
+most<00:01:02.640><c> businesses.</c><00:01:03.280><c> You</c><00:01:03.520><c> cannot</c><00:01:03.840><c> rely</c><00:01:04.080><c> on</c><00:01:04.320><c> I</c>
+most businesses. You cannot rely on I
+most businesses. You cannot rely on I
+know<00:01:04.720><c> it</c><00:01:04.879><c> when</c><00:01:05.119><c> I</c><00:01:05.280><c> see</c><00:01:05.439><c> it</c><00:01:05.680><c> because</c><00:01:05.920><c> AI</c><00:01:06.320><c> cannot</c>
+know it when I see it because AI cannot
+know it when I see it because AI cannot
+read<00:01:06.880><c> your</c><00:01:07.119><c> mind.</c><00:01:07.360><c> It</c><00:01:07.520><c> is</c><00:01:07.680><c> not</c><00:01:07.840><c> that</c><00:01:08.080><c> good.</c>
+read your mind. It is not that good.
+read your mind. It is not that good.
+It's<00:01:08.479><c> never</c><00:01:08.720><c> going</c><00:01:08.880><c> to</c><00:01:08.960><c> be</c><00:01:09.040><c> that</c><00:01:09.280><c> good.</c><00:01:09.840><c> Every</c>
+It's never going to be that good. Every
+It's never going to be that good. Every
+quality<00:01:10.640><c> criteria</c><00:01:11.680><c> needs</c><00:01:11.920><c> to</c><00:01:12.080><c> be</c><00:01:12.240><c> concrete</c>
+quality criteria needs to be concrete
+quality criteria needs to be concrete
+enough<00:01:13.360><c> to</c><00:01:13.680><c> specify,</c><00:01:14.479><c> to</c><00:01:14.720><c> test,</c><00:01:15.119><c> and</c><00:01:15.280><c> to</c>
+enough to specify, to test, and to
+enough to specify, to test, and to
+verify.<00:01:16.400><c> That</c><00:01:16.640><c> is</c><00:01:16.799><c> the</c><00:01:17.040><c> only</c><00:01:17.360><c> way</c><00:01:17.600><c> through</c><00:01:17.840><c> on</c>
+verify. That is the only way through on
+verify. That is the only way through on
+the<00:01:18.159><c> business</c><00:01:18.400><c> writing</c><00:01:18.720><c> side.</c><00:01:18.880><c> And</c><00:01:19.040><c> if</c><00:01:19.200><c> people</c>
+the business writing side. And if people
+the business writing side. And if people
+say,<00:01:19.520><c> "Well,</c><00:01:19.759><c> I</c><00:01:19.920><c> don't</c><00:01:20.080><c> have</c><00:01:20.240><c> time</c><00:01:20.320><c> for</c><00:01:20.479><c> that."</c>
+say, "Well, I don't have time for that."
+say, "Well, I don't have time for that."
+I've<00:01:20.960><c> got</c><00:01:21.119><c> to</c><00:01:21.200><c> ask</c><00:01:21.439><c> you,</c><00:01:21.759><c> do</c><00:01:21.920><c> you</c><00:01:22.080><c> have</c><00:01:22.240><c> time</c>
+I've got to ask you, do you have time
+I've got to ask you, do you have time
+for<00:01:22.640><c> the</c><00:01:22.799><c> business</c><00:01:23.119><c> writing</c><00:01:23.520><c> you're</c><00:01:23.680><c> drowning</c>
+for the business writing you're drowning
+for the business writing you're drowning
+in?<00:01:24.720><c> because</c><00:01:25.439><c> I</c><00:01:25.759><c> have</c><00:01:26.000><c> lost</c><00:01:26.400><c> track</c><00:01:26.880><c> of</c><00:01:27.119><c> the</c>
+in? because I have lost track of the
+in? because I have lost track of the
+number<00:01:27.680><c> of</c><00:01:28.000><c> people</c><00:01:28.560><c> who</c><00:01:28.799><c> are</c><00:01:28.960><c> like</c><00:01:29.439><c> I</c><00:01:29.680><c> cannot</c>
+number of people who are like I cannot
+number of people who are like I cannot
+keep<00:01:30.240><c> up</c><00:01:30.320><c> with</c><00:01:30.479><c> the</c><00:01:30.720><c> business</c><00:01:30.960><c> writing.</c><00:01:31.280><c> It</c><00:01:31.439><c> is</c>
+keep up with the business writing. It is
+keep up with the business writing. It is
+too<00:01:31.759><c> much</c><00:01:32.000><c> like</c><00:01:32.400><c> people</c><00:01:32.640><c> are</c><00:01:32.880><c> sending</c><00:01:33.119><c> me</c><00:01:33.280><c> AI</c>
+too much like people are sending me AI
+too much like people are sending me AI
+slop<00:01:34.159><c> at</c><00:01:34.400><c> work.</c><00:01:35.040><c> Well,</c><00:01:35.520><c> the</c><00:01:35.840><c> quality</c><00:01:36.159><c> criteria</c>
+slop at work. Well, the quality criteria
+slop at work. Well, the quality criteria
+needs<00:01:36.960><c> to</c><00:01:37.119><c> be</c><00:01:37.200><c> defined</c><00:01:37.520><c> to</c><00:01:37.680><c> make</c><00:01:37.840><c> that</c><00:01:38.079><c> go</c>
+needs to be defined to make that go
+needs to be defined to make that go
+away.<00:01:38.799><c> So,</c><00:01:38.960><c> what</c><00:01:39.119><c> does</c><00:01:39.280><c> that</c><00:01:39.439><c> actually</c><00:01:39.680><c> look</c>
+away. So, what does that actually look
+away. So, what does that actually look
+like?<00:01:40.159><c> First,</c><00:01:40.720><c> understand</c><00:01:41.759><c> that</c><00:01:42.079><c> there</c><00:01:42.240><c> is</c><00:01:42.400><c> a</c>
+like? First, understand that there is a
+like? First, understand that there is a
+specification<00:01:43.439><c> bottleneck.</c><00:01:44.159><c> The</c><00:01:44.479><c> barrier</c><00:01:44.799><c> is</c>
+specification bottleneck. The barrier is
+specification bottleneck. The barrier is
+not<00:01:45.360><c> how</c><00:01:45.600><c> fast</c><00:01:45.840><c> can</c><00:01:46.079><c> I</c><00:01:46.240><c> write</c><00:01:46.399><c> this</c><00:01:46.640><c> anymore.</c>
+not how fast can I write this anymore.
+not how fast can I write this anymore.
+It<00:01:47.280><c> is</c><00:01:47.439><c> how</c><00:01:47.600><c> clearly</c><00:01:48.000><c> can</c><00:01:48.159><c> I</c><00:01:48.399><c> articulate</c><00:01:49.119><c> what</c>
+It is how clearly can I articulate what
+It is how clearly can I articulate what
+I<00:01:49.759><c> need.</c><00:01:50.720><c> Every</c><00:01:51.119><c> time</c><00:01:51.439><c> you</c><00:01:51.759><c> have</c><00:01:52.000><c> ambiguity</c><00:01:52.640><c> in</c>
+I need. Every time you have ambiguity in
+I need. Every time you have ambiguity in
+your<00:01:53.119><c> specs</c><00:01:53.439><c> for</c><00:01:53.600><c> a</c><00:01:53.759><c> doc,</c><00:01:54.399><c> that</c><00:01:54.720><c> is</c><00:01:54.960><c> amplified</c>
+your specs for a doc, that is amplified
+your specs for a doc, that is amplified
+through<00:01:55.840><c> generation.</c><00:01:56.399><c> It</c><00:01:56.640><c> is</c><00:01:56.720><c> not</c><00:01:56.960><c> reduced.</c>
+through generation. It is not reduced.
+through generation. It is not reduced.
+People<00:01:58.000><c> sometimes</c><00:01:58.479><c> think</c><00:01:58.880><c> AI</c><00:01:59.280><c> can</c><00:01:59.600><c> reduce</c>
+People sometimes think AI can reduce
+People sometimes think AI can reduce
+ambiguity<00:02:00.719><c> by</c><00:02:00.960><c> adding</c><00:02:01.280><c> detail,</c><00:02:01.920><c> but</c><00:02:02.159><c> anyone</c>
+ambiguity by adding detail, but anyone
+ambiguity by adding detail, but anyone
+who's<00:02:02.719><c> worked</c><00:02:02.960><c> with</c><00:02:03.040><c> AI</c><00:02:03.360><c> a</c><00:02:03.520><c> lot</c><00:02:03.680><c> will</c><00:02:03.920><c> tell</c><00:02:04.000><c> you</c>
+who's worked with AI a lot will tell you
+who's worked with AI a lot will tell you
+it<00:02:04.719><c> doesn't</c><00:02:04.960><c> reduce</c><00:02:05.280><c> ambiguity,</c><00:02:06.000><c> it</c><00:02:06.320><c> enhances</c>
+it doesn't reduce ambiguity, it enhances
+it doesn't reduce ambiguity, it enhances
+it.<00:02:07.119><c> And</c><00:02:07.280><c> when</c><00:02:07.439><c> it</c><00:02:07.600><c> adds</c><00:02:07.920><c> helpful</c><00:02:08.319><c> detail,</c><00:02:08.720><c> it</c>
+it. And when it adds helpful detail, it
+it. And when it adds helpful detail, it
+makes<00:02:09.119><c> it</c><00:02:09.280><c> worse.</c><00:02:09.759><c> So</c><00:02:09.920><c> the</c><00:02:10.160><c> organizations</c>
+makes it worse. So the organizations
+makes it worse. So the organizations
+that<00:02:10.959><c> succeed</c><00:02:11.520><c> are</c><00:02:11.920><c> actually</c><00:02:12.400><c> not</c><00:02:12.720><c> those</c><00:02:13.040><c> with</c>
+that succeed are actually not those with
+that succeed are actually not those with
+the<00:02:13.360><c> best</c><00:02:13.599><c> writers.</c><00:02:14.000><c> I</c><00:02:14.160><c> know</c><00:02:14.239><c> that's</c><00:02:14.480><c> very</c>
+the best writers. I know that's very
+the best writers. I know that's very
+counterintuitive.<00:02:15.760><c> They</c><00:02:16.080><c> are</c><00:02:16.239><c> those</c><00:02:16.480><c> who</c><00:02:16.720><c> can</c>
+counterintuitive. They are those who can
+counterintuitive. They are those who can
+articulate<00:02:18.000><c> the</c><00:02:18.400><c> quality</c><00:02:18.959><c> standards</c>
+articulate the quality standards
+articulate the quality standards
+explicitly<00:02:20.560><c> enough</c><00:02:20.879><c> to</c><00:02:21.200><c> encode</c><00:02:21.760><c> them</c><00:02:22.239><c> in</c>
+explicitly enough to encode them in
+explicitly enough to encode them in
+prompts<00:02:22.800><c> that</c><00:02:22.959><c> you</c><00:02:23.120><c> can</c><00:02:23.200><c> work</c><00:02:23.360><c> with.</c><00:02:23.599><c> Now,</c>
+prompts that you can work with. Now,
+prompts that you can work with. Now,
+writers<00:02:24.319><c> can</c><00:02:24.560><c> absolutely</c><00:02:25.120><c> help</c><00:02:25.280><c> with</c><00:02:25.520><c> that.</c>
+writers can absolutely help with that.
+writers can absolutely help with that.
+Good<00:02:26.319><c> writers</c><00:02:26.720><c> are</c><00:02:26.879><c> hard</c><00:02:27.120><c> to</c><00:02:27.280><c> find,</c><00:02:27.840><c> but</c><00:02:28.480><c> we</c>
+Good writers are hard to find, but we
+Good writers are hard to find, but we
+are<00:02:28.959><c> moving</c><00:02:29.440><c> from</c><00:02:30.239><c> raw</c><00:02:30.640><c> ability</c><00:02:30.959><c> to</c><00:02:31.200><c> generate</c>
+are moving from raw ability to generate
+are moving from raw ability to generate
+text<00:02:32.000><c> according</c><00:02:32.400><c> to</c><00:02:32.720><c> a</c><00:02:33.040><c> congruent</c><00:02:34.000><c> prompt</c>
+text according to a congruent prompt
+text according to a congruent prompt
+framework<00:02:35.040><c> or</c><00:02:35.280><c> a</c><00:02:35.440><c> congruent</c><00:02:35.920><c> template</c><00:02:36.400><c> as</c><00:02:36.640><c> a</c>
+framework or a congruent template as a
+framework or a congruent template as a
+goal.<00:02:37.200><c> And</c><00:02:37.440><c> we're</c><00:02:37.599><c> getting</c><00:02:37.840><c> into</c><00:02:38.160><c> a</c><00:02:38.400><c> world</c>
+goal. And we're getting into a world
+goal. And we're getting into a world
+where<00:02:39.200><c> we</c><00:02:39.920><c> are</c><00:02:40.160><c> just</c><00:02:40.480><c> needing</c><00:02:40.720><c> to</c><00:02:40.959><c> specify</c><00:02:41.840><c> our</c>
+where we are just needing to specify our
+where we are just needing to specify our
+requirements<00:02:42.959><c> really,</c><00:02:43.280><c> really</c><00:02:43.519><c> clearly.</c><00:02:43.840><c> It</c>
+requirements really, really clearly. It
+requirements really, really clearly. It
+reminds<00:02:44.400><c> me</c><00:02:44.560><c> of</c><00:02:44.640><c> like</c><00:02:44.879><c> wearing</c><00:02:45.200><c> a</c><00:02:45.360><c> product</c><00:02:45.680><c> hat</c>
+reminds me of like wearing a product hat
+reminds me of like wearing a product hat
+and<00:02:46.160><c> defining</c><00:02:46.640><c> product</c><00:02:46.959><c> requirements.</c><00:02:47.599><c> Very,</c>
+and defining product requirements. Very,
+and defining product requirements. Very,
+very<00:02:48.160><c> similar</c><00:02:48.560><c> except</c><00:02:48.879><c> now</c><00:02:49.120><c> your</c><00:02:49.440><c> product</c><00:02:49.760><c> is</c>
+very similar except now your product is
+very similar except now your product is
+the<00:02:50.160><c> dock.</c><00:02:50.640><c> You</c><00:02:50.879><c> also</c><00:02:51.280><c> have</c><00:02:51.519><c> a</c><00:02:51.920><c> fundamental</c>
+the dock. You also have a fundamental
+the dock. You also have a fundamental
+evaluation<00:02:53.680><c> issue</c><00:02:54.480><c> because</c><00:02:54.800><c> of</c><00:02:54.959><c> the</c><00:02:55.200><c> number</c>
+evaluation issue because of the number
+evaluation issue because of the number
+of<00:02:55.519><c> prompts.</c><00:02:55.920><c> I've</c><00:02:56.160><c> talked</c><00:02:56.400><c> in</c><00:02:56.560><c> the</c><00:02:56.720><c> past</c>
+of prompts. I've talked in the past
+of prompts. I've talked in the past
+about<00:02:57.120><c> how</c><00:02:57.280><c> we</c><00:02:57.440><c> have</c><00:02:57.599><c> this</c><00:02:57.840><c> issue</c><00:02:58.080><c> with</c>
+about how we have this issue with
+about how we have this issue with
+résumés.<00:02:59.120><c> Really,</c><00:02:59.440><c> it's</c><00:02:59.680><c> with</c><00:02:59.920><c> all</c><00:03:00.160><c> knowledge</c>
+résumés. Really, it's with all knowledge
+résumés. Really, it's with all knowledge
+work<00:03:00.800><c> in</c><00:03:00.959><c> the</c><00:03:01.120><c> business.</c><00:03:01.760><c> We</c><00:03:02.080><c> don't</c><00:03:02.319><c> have</c><00:03:02.480><c> time</c>
+work in the business. We don't have time
+work in the business. We don't have time
+to<00:03:03.519><c> evaluate</c><00:03:04.319><c> everything</c><00:03:04.720><c> that</c><00:03:05.040><c> got</c><00:03:05.360><c> done,</c>
+to evaluate everything that got done,
+to evaluate everything that got done,
+which<00:03:06.400><c> means</c><00:03:07.120><c> that</c><00:03:07.360><c> we</c><00:03:07.680><c> have</c><00:03:07.840><c> to</c><00:03:08.000><c> figure</c><00:03:08.159><c> out</c>
+which means that we have to figure out
+which means that we have to figure out
+how<00:03:08.480><c> to</c><00:03:08.640><c> scale</c><00:03:09.120><c> evaluation.</c><00:03:09.840><c> That</c><00:03:10.080><c> is</c><00:03:10.239><c> one</c><00:03:10.400><c> of</c>
+how to scale evaluation. That is one of
+how to scale evaluation. That is one of
+the<00:03:10.720><c> fundamental</c><00:03:11.360><c> challenges</c><00:03:12.000><c> for</c>
+the fundamental challenges for
+the fundamental challenges for
+businesses<00:03:12.720><c> that</c><00:03:12.959><c> want</c><00:03:13.120><c> to</c><00:03:13.280><c> go</c><00:03:13.440><c> faster.</c><00:03:14.239><c> And</c><00:03:14.480><c> I</c>
+businesses that want to go faster. And I
+businesses that want to go faster. And I
+believe<00:03:15.120><c> firmly</c><00:03:15.519><c> that</c><00:03:15.840><c> scaling</c><00:03:16.319><c> evaluation</c>
+believe firmly that scaling evaluation
+believe firmly that scaling evaluation
+means<00:03:17.840><c> putting</c><00:03:18.159><c> AI</c><00:03:18.640><c> on</c><00:03:18.879><c> the</c><00:03:19.120><c> evaluation</c><00:03:19.840><c> side,</c>
+means putting AI on the evaluation side,
+means putting AI on the evaluation side,
+not<00:03:20.480><c> just</c><00:03:20.640><c> the</c><00:03:21.280><c> writing</c><00:03:21.760><c> side.</c><00:03:22.080><c> And</c><00:03:22.239><c> I</c><00:03:22.400><c> want</c><00:03:22.560><c> to</c>
+not just the writing side. And I want to
+not just the writing side. And I want to
+talk<00:03:22.800><c> about</c><00:03:22.959><c> that</c><00:03:23.200><c> a</c><00:03:23.440><c> little</c><00:03:23.519><c> bit</c><00:03:23.680><c> more</c>
+talk about that a little bit more
+talk about that a little bit more
+because<00:03:25.120><c> I</c><00:03:25.280><c> I</c><00:03:25.680><c> think</c><00:03:25.840><c> we</c><00:03:26.080><c> miss</c><00:03:26.319><c> that.</c><00:03:26.879><c> It</c><00:03:27.120><c> is</c>
+because I I think we miss that. It is
+because I I think we miss that. It is
+absolutely<00:03:28.000><c> possible.</c><00:03:28.400><c> I've</c><00:03:28.640><c> done</c><00:03:28.720><c> it.</c><00:03:28.879><c> I've</c>
+absolutely possible. I've done it. I've
+absolutely possible. I've done it. I've
+written<00:03:29.360><c> I'm</c><00:03:29.519><c> writing</c><00:03:29.680><c> a</c><00:03:29.920><c> prompt</c><00:03:30.159><c> for</c><00:03:30.319><c> this</c>
+written I'm writing a prompt for this
+written I'm writing a prompt for this
+article<00:03:31.200><c> to</c><00:03:31.440><c> talk</c><00:03:31.680><c> through</c><00:03:32.000><c> how</c><00:03:32.239><c> you</c><00:03:32.400><c> evaluate</c>
+article to talk through how you evaluate
+article to talk through how you evaluate
+and<00:03:33.920><c> build</c><00:03:34.239><c> a</c><00:03:34.480><c> prompt.</c><00:03:34.959><c> Build</c><00:03:35.200><c> a</c><00:03:35.519><c> Claude</c><00:03:36.080><c> skill</c>
+and build a prompt. Build a Claude skill
+and build a prompt. Build a Claude skill
+that<00:03:36.799><c> helps</c><00:03:37.120><c> you</c><00:03:37.360><c> to</c><00:03:37.599><c> evaluate.</c><00:03:38.080><c> I've</c><00:03:38.319><c> done</c>
+that helps you to evaluate. I've done
+that helps you to evaluate. I've done
+it.<00:03:38.720><c> I'm</c><00:03:38.959><c> doing</c><00:03:39.120><c> it.</c><00:03:39.360><c> it.</c><00:03:39.680><c> You</c><00:03:39.920><c> can</c><00:03:40.560><c> make</c><00:03:40.959><c> your</c>
+it. I'm doing it. it. You can make your
+it. I'm doing it. it. You can make your
+job<00:03:41.680><c> so</c><00:03:42.000><c> much</c><00:03:42.159><c> easier</c><00:03:42.799><c> if</c><00:03:43.040><c> you</c><00:03:43.200><c> are</c><00:03:43.440><c> just</c>
+job so much easier if you are just
+job so much easier if you are just
+willing<00:03:43.920><c> to</c><00:03:44.080><c> let</c><00:03:44.319><c> AI</c><00:03:44.640><c> take</c><00:03:44.799><c> a</c><00:03:44.959><c> first</c><00:03:45.200><c> pass</c><00:03:45.519><c> and</c>
+willing to let AI take a first pass and
+willing to let AI take a first pass and
+give<00:03:45.920><c> it</c><00:03:46.159><c> really</c><00:03:46.400><c> clear</c><00:03:46.720><c> requirements</c><00:03:47.120><c> on</c>
+give it really clear requirements on
+give it really clear requirements on
+what<00:03:47.440><c> good</c><00:03:47.760><c> looks</c><00:03:47.920><c> like.</c><00:03:48.239><c> I</c><00:03:48.480><c> also</c><00:03:48.720><c> want</c><00:03:48.879><c> to</c><00:03:49.040><c> go</c>
+what good looks like. I also want to go
+what good looks like. I also want to go
+beyond<00:03:49.599><c> just</c><00:03:50.080><c> hey</c><00:03:50.319><c> you</c><00:03:50.560><c> need</c><00:03:50.640><c> to</c><00:03:50.799><c> specify.</c><00:03:51.760><c> The</c>
+beyond just hey you need to specify. The
+beyond just hey you need to specify. The
+other<00:03:52.480><c> core</c><00:03:52.799><c> issue</c><00:03:53.280><c> is</c><00:03:53.519><c> that</c><00:03:53.760><c> we</c><00:03:54.000><c> typically</c>
+other core issue is that we typically
+other core issue is that we typically
+have<00:03:55.360><c> longstanding</c><00:03:56.480><c> information</c>
+have longstanding information
+have longstanding information
+architecture<00:03:57.599><c> problems</c><00:03:58.080><c> in</c><00:03:58.319><c> our</c><00:03:58.480><c> documents</c>
+architecture problems in our documents
+architecture problems in our documents
+at<00:03:59.200><c> work</c><00:03:59.680><c> that</c><00:03:59.920><c> we</c><00:04:00.159><c> just</c><00:04:00.400><c> paper</c><00:04:00.799><c> over</c><00:04:01.360><c> and</c><00:04:01.680><c> that</c>
+at work that we just paper over and that
+at work that we just paper over and that
+we<00:04:02.480><c> are</c><00:04:02.640><c> not</c><00:04:02.879><c> going</c><00:04:02.959><c> to</c><00:04:03.120><c> be</c><00:04:03.200><c> able</c><00:04:03.280><c> to</c><00:04:03.439><c> paper</c>
+we are not going to be able to paper
+we are not going to be able to paper
+over<00:04:04.080><c> when</c><00:04:04.319><c> AI</c><00:04:04.640><c> is</c><00:04:04.879><c> writing.</c><00:04:05.200><c> Because</c>
+over when AI is writing. Because
+over when AI is writing. Because
+fundamentally<00:04:06.000><c> what</c><00:04:06.159><c> AI</c><00:04:06.560><c> does</c><00:04:06.799><c> is</c><00:04:07.040><c> it</c><00:04:07.360><c> exposes</c>
+fundamentally what AI does is it exposes
+fundamentally what AI does is it exposes
+information<00:04:09.439><c> asymmetries,</c>
+information asymmetries,
+information asymmetries,
+informationational<00:04:11.280><c> vagueness</c><00:04:12.080><c> that</c>
+informationational vagueness that
+informationational vagueness that
+previously<00:04:13.120><c> hid</c><00:04:13.360><c> in</c><00:04:13.599><c> a</c><00:04:13.760><c> lot</c><00:04:13.840><c> of</c><00:04:13.920><c> our</c><00:04:14.159><c> writing</c>
+previously hid in a lot of our writing
+previously hid in a lot of our writing
+because<00:04:15.120><c> people</c><00:04:15.439><c> wrote</c><00:04:15.680><c> it</c><00:04:15.760><c> and</c><00:04:15.920><c> you</c><00:04:16.079><c> just</c>
+because people wrote it and you just
+because people wrote it and you just
+assumed<00:04:16.560><c> that</c><00:04:16.799><c> people</c><00:04:17.040><c> were</c><00:04:17.199><c> doing</c><00:04:17.359><c> their</c>
+assumed that people were doing their
+assumed that people were doing their
+best<00:04:17.840><c> thinking.</c><00:04:18.400><c> One</c><00:04:18.639><c> of</c><00:04:18.720><c> the</c><00:04:18.959><c> good</c><00:04:19.199><c> things</c>
+best thinking. One of the good things
+best thinking. One of the good things
+about<00:04:19.759><c> the</c><00:04:20.000><c> AI</c><00:04:20.400><c> age</c><00:04:21.199><c> is</c><00:04:21.519><c> we</c><00:04:22.000><c> now</c><00:04:23.040><c> don't</c><00:04:23.440><c> assume</c>
+about the AI age is we now don't assume
+about the AI age is we now don't assume
+that<00:04:24.080><c> everyone's</c><00:04:24.560><c> doing</c><00:04:24.720><c> their</c><00:04:24.960><c> best</c>
+that everyone's doing their best
+that everyone's doing their best
+thinking<00:04:25.520><c> which</c><00:04:25.759><c> means</c><00:04:25.919><c> we</c><00:04:26.160><c> critique</c><00:04:26.639><c> more</c>
+thinking which means we critique more
+thinking which means we critique more
+which<00:04:27.199><c> is</c><00:04:27.360><c> actually</c><00:04:27.840><c> healthy.</c><00:04:28.639><c> So</c><00:04:29.040><c> when</c><00:04:29.280><c> we're</c>
+which is actually healthy. So when we're
+which is actually healthy. So when we're
+critiquing<00:04:30.160><c> I</c><00:04:30.320><c> want</c><00:04:30.400><c> us</c><00:04:30.560><c> to</c><00:04:30.720><c> think</c><00:04:30.880><c> of</c><00:04:31.040><c> a</c><00:04:31.280><c> few</c>
+critiquing I want us to think of a few
+critiquing I want us to think of a few
+things<00:04:31.600><c> in</c><00:04:31.759><c> this</c><00:04:32.080><c> information</c><00:04:32.479><c> architecture</c>
+things in this information architecture
+things in this information architecture
+bucket.<00:04:33.919><c> One</c><00:04:34.400><c> documents</c><00:04:35.120><c> really</c><00:04:35.600><c> ought</c><00:04:35.759><c> to</c><00:04:35.919><c> be</c>
+bucket. One documents really ought to be
+bucket. One documents really ought to be
+written<00:04:36.320><c> for</c><00:04:36.560><c> goals</c><00:04:36.800><c> and</c><00:04:37.040><c> decisions</c><00:04:37.520><c> and</c><00:04:37.759><c> they</c>
+written for goals and decisions and they
+written for goals and decisions and they
+aren't<00:04:38.400><c> always.</c><00:04:38.960><c> And</c><00:04:39.120><c> so</c><00:04:39.280><c> if</c><00:04:39.520><c> you</c><00:04:39.680><c> can't</c><00:04:40.000><c> tell</c>
+aren't always. And so if you can't tell
+aren't always. And so if you can't tell
+if<00:04:40.639><c> this</c><00:04:40.880><c> document</c><00:04:41.600><c> enables</c><00:04:42.160><c> person</c><00:04:42.560><c> X</c><00:04:42.880><c> to</c>
+if this document enables person X to
+if this document enables person X to
+make<00:04:43.440><c> choice</c><00:04:43.919><c> Y</c><00:04:44.400><c> or</c><00:04:44.639><c> if</c><00:04:44.800><c> this</c><00:04:45.120><c> well</c><00:04:45.440><c> structured</c>
+make choice Y or if this well structured
+make choice Y or if this well structured
+information<00:04:46.880><c> enables</c><00:04:47.280><c> you</c><00:04:47.440><c> to</c><00:04:47.680><c> make</c><00:04:47.759><c> a</c><00:04:48.080><c> big</c>
+information enables you to make a big
+information enables you to make a big
+decision,<00:04:48.880><c> if</c><00:04:49.120><c> you</c><00:04:49.280><c> if</c><00:04:49.520><c> you</c><00:04:49.680><c> don't</c><00:04:49.759><c> know</c><00:04:49.919><c> what</c>
+decision, if you if you don't know what
+decision, if you if you don't know what
+it<00:04:50.320><c> looks</c><00:04:50.479><c> like</c><00:04:50.639><c> and</c><00:04:50.880><c> why</c><00:04:51.120><c> you're</c><00:04:51.440><c> reading</c><00:04:51.759><c> it,</c>
+it looks like and why you're reading it,
+it looks like and why you're reading it,
+it's<00:04:52.479><c> it</c><00:04:52.800><c> was</c><00:04:52.880><c> going</c><00:04:53.040><c> to</c><00:04:53.120><c> be</c><00:04:53.280><c> useless</c><00:04:53.680><c> anyway,</c>
+it's it was going to be useless anyway,
+it's it was going to be useless anyway,
+right?<00:04:54.320><c> But</c><00:04:54.479><c> now</c><00:04:54.560><c> we</c><00:04:54.720><c> blame</c><00:04:54.960><c> the</c><00:04:55.120><c> AI.</c><00:04:55.759><c> Your</c>
+right? But now we blame the AI. Your
+right? But now we blame the AI. Your
+goal<00:04:56.240><c> at</c><00:04:56.479><c> this</c><00:04:56.639><c> point</c><00:04:57.120><c> is</c><00:04:57.440><c> actually</c><00:04:57.680><c> to</c><00:04:58.160><c> get</c>
+goal at this point is actually to get
+goal at this point is actually to get
+rid<00:04:58.560><c> of</c><00:04:58.720><c> that</c><00:04:58.960><c> vagueness</c><00:04:59.440><c> you</c><00:04:59.600><c> tolerated</c><00:05:00.160><c> in</c>
+rid of that vagueness you tolerated in
+rid of that vagueness you tolerated in
+the<00:05:00.400><c> past</c><00:05:00.560><c> in</c><00:05:00.800><c> the</c><00:05:00.960><c> business</c><00:05:01.520><c> and</c><00:05:01.840><c> define</c>
+the past in the business and define
+the past in the business and define
+theformational<00:05:03.840><c> architecture</c><00:05:04.800><c> of</c><00:05:05.040><c> the</c>
+theformational architecture of the
+theformational architecture of the
+document.<00:05:06.080><c> Your</c><00:05:06.560><c> structure</c><00:05:07.280><c> is</c><00:05:07.840><c> the</c><00:05:08.160><c> business</c>
+document. Your structure is the business
+document. Your structure is the business
+logic,<00:05:09.360><c> not</c><00:05:09.520><c> just</c><00:05:09.680><c> a</c><00:05:09.919><c> template.</c><00:05:10.400><c> So</c><00:05:10.639><c> many</c>
+logic, not just a template. So many
+logic, not just a template. So many
+times<00:05:11.199><c> if</c><00:05:11.520><c> someone</c><00:05:11.759><c> gives</c><00:05:12.000><c> you</c><00:05:12.240><c> like</c><00:05:12.479><c> a</c>
+times if someone gives you like a
+times if someone gives you like a
+product<00:05:12.960><c> requirements</c><00:05:13.600><c> document</c><00:05:14.000><c> or</c><00:05:14.240><c> if</c><00:05:14.400><c> they</c>
+product requirements document or if they
+product requirements document or if they
+give<00:05:14.720><c> you</c><00:05:14.960><c> a</c><00:05:15.280><c> business</c><00:05:15.759><c> memo</c><00:05:16.400><c> or</c><00:05:16.720><c> a</c><00:05:16.960><c> press</c>
+give you a business memo or a press
+give you a business memo or a press
+release,<00:05:18.000><c> when</c><00:05:18.240><c> they</c><00:05:18.400><c> give</c><00:05:18.479><c> it</c><00:05:18.639><c> to</c><00:05:18.800><c> a</c><00:05:18.960><c> human,</c>
+release, when they give it to a human,
+release, when they give it to a human,
+you<00:05:19.520><c> get</c><00:05:19.600><c> a</c><00:05:19.840><c> template.</c><00:05:20.720><c> You</c><00:05:20.960><c> actually</c><00:05:21.600><c> don't</c>
+you get a template. You actually don't
+you get a template. You actually don't
+get<00:05:22.479><c> the</c><00:05:22.880><c> logical</c><00:05:23.600><c> underpinnings</c><00:05:24.400><c> of</c><00:05:24.639><c> the</c><00:05:24.880><c> doc</c>
+get the logical underpinnings of the doc
+get the logical underpinnings of the doc
+and<00:05:25.840><c> people</c><00:05:26.240><c> end</c><00:05:26.479><c> up</c><00:05:26.639><c> learning</c><00:05:26.960><c> it</c><00:05:27.199><c> from</c>
+and people end up learning it from
+and people end up learning it from
+experience.<00:05:28.320><c> Templates</c><00:05:28.800><c> just</c><00:05:29.039><c> let</c><00:05:29.199><c> you</c><00:05:29.360><c> fill</c>
+experience. Templates just let you fill
+experience. Templates just let you fill
+in<00:05:29.680><c> the</c><00:05:29.840><c> boxes</c><00:05:30.240><c> without</c><00:05:30.560><c> thinking.</c><00:05:30.960><c> And</c><00:05:31.120><c> when</c>
+in the boxes without thinking. And when
+in the boxes without thinking. And when
+you<00:05:31.520><c> hand</c><00:05:31.840><c> AI</c><00:05:32.320><c> only</c><00:05:32.720><c> a</c><00:05:33.039><c> template</c><00:05:33.520><c> in</c><00:05:33.759><c> the</c>
+you hand AI only a template in the
+you hand AI only a template in the
+prompt,<00:05:34.720><c> that</c><00:05:34.960><c> is</c><00:05:35.039><c> what</c><00:05:35.199><c> you</c><00:05:35.440><c> get.</c><00:05:35.680><c> And</c><00:05:35.919><c> that</c>
+prompt, that is what you get. And that
+prompt, that is what you get. And that
+is<00:05:36.240><c> why</c><00:05:36.560><c> so</c><00:05:36.800><c> often</c><00:05:37.120><c> when</c><00:05:37.280><c> I'm</c><00:05:37.520><c> called</c><00:05:37.680><c> in</c><00:05:37.919><c> to</c>
+is why so often when I'm called in to
+is why so often when I'm called in to
+help<00:05:38.240><c> with</c><00:05:38.479><c> business</c><00:05:38.800><c> writing</c><00:05:39.120><c> prompts,</c>
+help with business writing prompts,
+help with business writing prompts,
+people<00:05:40.240><c> say,</c><00:05:40.479><c> "I</c><00:05:40.880><c> don't</c><00:05:41.039><c> know</c><00:05:41.120><c> what</c><00:05:41.360><c> I</c><00:05:41.600><c> did</c>
+people say, "I don't know what I did
+people say, "I don't know what I did
+wrong.<00:05:42.560><c> I</c><00:05:42.800><c> gave</c><00:05:42.960><c> it</c><00:05:43.120><c> the</c><00:05:43.360><c> template</c><00:05:43.680><c> and</c><00:05:43.919><c> it</c>
+wrong. I gave it the template and it
+wrong. I gave it the template and it
+filled<00:05:44.320><c> out</c><00:05:44.479><c> the</c><00:05:44.639><c> template</c><00:05:45.039><c> and</c><00:05:45.199><c> it's</c>
+filled out the template and it's
+filled out the template and it's
+terrible.<00:05:46.320><c> It's</c><00:05:46.720><c> crap."</c><00:05:47.520><c> Well,</c><00:05:48.000><c> you</c><00:05:48.320><c> didn't</c>
+terrible. It's crap." Well, you didn't
+terrible. It's crap." Well, you didn't
+give<00:05:48.800><c> it</c><00:05:48.960><c> the</c><00:05:49.120><c> the</c><00:05:49.680><c> business</c><00:05:50.160><c> logic.</c><00:05:50.720><c> You</c>
+give it the the business logic. You
+give it the the business logic. You
+didn't<00:05:51.120><c> give</c><00:05:51.280><c> it</c><00:05:51.520><c> a</c><00:05:51.680><c> a</c><00:05:52.160><c> decision</c><00:05:52.639><c> interface</c><00:05:53.120><c> to</c>
+didn't give it a a decision interface to
+didn't give it a a decision interface to
+work<00:05:53.600><c> against.</c><00:05:54.000><c> You</c><00:05:54.160><c> didn't</c><00:05:54.240><c> give</c><00:05:54.400><c> it</c><00:05:54.560><c> a</c><00:05:54.720><c> goal</c>
+work against. You didn't give it a goal
+work against. You didn't give it a goal
+for<00:05:55.199><c> the</c><00:05:55.360><c> document.</c><00:05:56.080><c> That's</c><00:05:56.320><c> why</c><00:05:56.479><c> your</c>
+for the document. That's why your
+for the document. That's why your
+writing<00:05:57.039><c> is</c><00:05:57.280><c> terrible.</c><00:05:57.919><c> If</c><00:05:58.160><c> you</c><00:05:58.240><c> don't</c><00:05:58.400><c> give</c>
+writing is terrible. If you don't give
+writing is terrible. If you don't give
+it<00:05:58.720><c> that</c><00:05:58.880><c> intent,</c><00:05:59.680><c> the</c><00:05:59.919><c> business</c><00:06:00.240><c> writing</c><00:06:00.560><c> is</c>
+it that intent, the business writing is
+it that intent, the business writing is
+going<00:06:00.800><c> to</c><00:06:00.960><c> fail.</c><00:06:01.520><c> So,</c><00:06:02.000><c> the</c><00:06:02.240><c> other</c><00:06:02.479><c> piece</c><00:06:02.720><c> here,</c>
+going to fail. So, the other piece here,
+going to fail. So, the other piece here,
+this<00:06:03.199><c> is</c><00:06:03.360><c> very</c><00:06:03.600><c> counterintuitive.</c><00:06:04.800><c> You</c><00:06:05.120><c> can't</c>
+this is very counterintuitive. You can't
+this is very counterintuitive. You can't
+just<00:06:05.840><c> give</c><00:06:06.000><c> it</c><00:06:06.160><c> a</c><00:06:06.319><c> goal</c><00:06:06.479><c> and</c><00:06:06.720><c> give</c><00:06:06.880><c> it</c><00:06:07.039><c> business</c>
+just give it a goal and give it business
+just give it a goal and give it business
+logic.<00:06:07.759><c> In</c><00:06:08.000><c> my</c><00:06:08.160><c> experience,</c><00:06:08.880><c> you</c><00:06:09.199><c> also</c><00:06:09.759><c> have</c>
+logic. In my experience, you also have
+logic. In my experience, you also have
+to<00:06:10.240><c> give</c><00:06:10.960><c> good</c><00:06:11.919><c> failure</c><00:06:12.960><c> tests.</c><00:06:14.160><c> You</c><00:06:14.560><c> have</c><00:06:14.880><c> to</c>
+to give good failure tests. You have to
+to give good failure tests. You have to
+insist<00:06:17.039><c> that</c><00:06:17.440><c> you</c><00:06:17.759><c> know</c><00:06:18.240><c> what</c><00:06:18.639><c> bad</c><00:06:19.039><c> looks</c>
+insist that you know what bad looks
+insist that you know what bad looks
+like.<00:06:19.680><c> Isn't</c><00:06:19.919><c> that</c><00:06:20.080><c> funny?</c><00:06:20.400><c> Isn't</c><00:06:20.639><c> that</c>
+like. Isn't that funny? Isn't that
+like. Isn't that funny? Isn't that
+counterintuitive?<00:06:21.440><c> But</c><00:06:21.600><c> if</c><00:06:21.759><c> you're</c><00:06:21.919><c> trying</c>
+counterintuitive? But if you're trying
+counterintuitive? But if you're trying
+to<00:06:22.240><c> tell</c><00:06:22.400><c> the</c><00:06:22.639><c> AI</c><00:06:23.360><c> how</c><00:06:23.600><c> to</c><00:06:23.759><c> do</c><00:06:23.919><c> something</c><00:06:24.319><c> well,</c>
+to tell the AI how to do something well,
+to tell the AI how to do something well,
+it<00:06:25.199><c> really</c><00:06:25.520><c> helps</c><00:06:25.840><c> if</c><00:06:26.160><c> you</c><00:06:26.240><c> have</c><00:06:26.479><c> five</c><00:06:26.639><c> to</c>
+it really helps if you have five to
+it really helps if you have five to
+seven<00:06:27.199><c> examples</c><00:06:27.680><c> of</c><00:06:27.919><c> the</c><00:06:28.160><c> kinds</c><00:06:28.479><c> of</c><00:06:28.720><c> quality</c>
+seven examples of the kinds of quality
+seven examples of the kinds of quality
+problems<00:06:29.680><c> you</c><00:06:30.000><c> have</c><00:06:30.160><c> with</c><00:06:30.400><c> these</c><00:06:30.800><c> kinds</c><00:06:31.039><c> of</c>
+problems you have with these kinds of
+problems you have with these kinds of
+documents.<00:06:31.520><c> It's</c><00:06:31.680><c> like,</c><00:06:31.840><c> wow,</c><00:06:32.160><c> this</c>
+documents. It's like, wow, this
+documents. It's like, wow, this
+technical<00:06:33.120><c> specification</c><00:06:34.000><c> document</c><00:06:34.960><c> is</c>
+technical specification document is
+technical specification document is
+really<00:06:36.319><c> overspeced</c><00:06:37.280><c> on</c><00:06:37.600><c> the</c><00:06:38.240><c> design</c><00:06:38.960><c> and</c>
+really overspeced on the design and
+really overspeced on the design and
+insists<00:06:39.840><c> on</c><00:06:40.000><c> a</c><00:06:40.160><c> microservices</c><00:06:40.960><c> architecture</c>
+insists on a microservices architecture
+insists on a microservices architecture
+when<00:06:41.840><c> we</c><00:06:42.000><c> don't</c><00:06:42.240><c> use</c><00:06:42.400><c> that.</c><00:06:43.039><c> Great.</c><00:06:43.440><c> That's</c><00:06:43.680><c> a</c>
+when we don't use that. Great. That's a
+when we don't use that. Great. That's a
+failure<00:06:44.400><c> example.</c><00:06:44.880><c> Or</c><00:06:45.120><c> this</c><00:06:45.440><c> press</c><00:06:45.840><c> release,</c>
+failure example. Or this press release,
+failure example. Or this press release,
+it<00:06:46.800><c> is</c><00:06:47.120><c> way</c><00:06:47.440><c> too</c><00:06:47.680><c> hypy</c><00:06:48.240><c> and</c><00:06:48.560><c> I</c><00:06:48.880><c> hate</c><00:06:49.039><c> the</c><00:06:49.199><c> hype</c>
+it is way too hypy and I hate the hype
+it is way too hypy and I hate the hype
+in<00:06:49.600><c> this</c><00:06:49.759><c> press</c><00:06:50.000><c> release.</c><00:06:50.479><c> It</c><00:06:50.720><c> doesn't</c>
+in this press release. It doesn't
+in this press release. It doesn't
+respect<00:06:51.280><c> the</c><00:06:51.600><c> actual</c><00:06:52.000><c> product</c><00:06:52.319><c> capabilities.</c>
+respect the actual product capabilities.
+respect the actual product capabilities.
+This<00:06:53.600><c> executive</c><00:06:54.240><c> summary</c><00:06:54.639><c> and</c><00:06:54.880><c> this</c>
+This executive summary and this
+This executive summary and this
+executive<00:06:55.520><c> memo</c><00:06:56.240><c> is</c><00:06:56.560><c> too</c><00:06:56.800><c> vague.</c><00:06:57.280><c> I</c><00:06:57.520><c> need</c><00:06:57.759><c> more</c>
+executive memo is too vague. I need more
+executive memo is too vague. I need more
+specificity.<00:06:59.199><c> understand</c><00:06:59.840><c> where</c><00:07:00.160><c> your</c>
+specificity. understand where your
+specificity. understand where your
+organization<00:07:01.199><c> today</c><00:07:01.680><c> fails</c><00:07:02.160><c> to</c><00:07:02.319><c> communicate</c>
+organization today fails to communicate
+organization today fails to communicate
+information<00:07:03.440><c> and</c><00:07:03.680><c> you</c><00:07:03.840><c> will</c><00:07:04.160><c> understand</c><00:07:05.280><c> how</c>
+information and you will understand how
+information and you will understand how
+to<00:07:06.160><c> work</c><00:07:06.400><c> with</c><00:07:06.560><c> AI</c><00:07:06.960><c> to</c><00:07:07.120><c> write</c><00:07:07.360><c> better.</c><00:07:08.080><c> This</c><00:07:08.400><c> is</c>
+to work with AI to write better. This is
+to work with AI to write better. This is
+I'm<00:07:08.960><c> going</c><00:07:09.039><c> to</c><00:07:09.199><c> repeat</c><00:07:09.440><c> it</c><00:07:09.599><c> again</c><00:07:10.000><c> a</c><00:07:10.319><c> people</c>
+I'm going to repeat it again a people
+I'm going to repeat it again a people
+problem<00:07:11.039><c> at</c><00:07:11.280><c> root.</c><00:07:11.599><c> It</c><00:07:11.759><c> is</c><00:07:11.919><c> not</c><00:07:12.080><c> the</c><00:07:12.319><c> model's</c>
+problem at root. It is not the model's
+problem at root. It is not the model's
+fault<00:07:13.120><c> here</c><00:07:13.440><c> people.</c><00:07:14.000><c> It</c><00:07:14.240><c> is</c><00:07:14.479><c> our</c><00:07:14.880><c> ability</c><00:07:15.680><c> in</c>
+fault here people. It is our ability in
+fault here people. It is our ability in
+organizations<00:07:17.280><c> to</c><00:07:18.000><c> communicate</c><00:07:18.880><c> intent</c>
+organizations to communicate intent
+organizations to communicate intent
+clearly<00:07:20.479><c> that</c><00:07:20.800><c> is</c><00:07:21.039><c> governing</c><00:07:21.440><c> our</c><00:07:21.680><c> ability</c><00:07:21.919><c> to</c>
+clearly that is governing our ability to
+clearly that is governing our ability to
+work<00:07:22.240><c> with</c><00:07:22.479><c> AI</c><00:07:23.039><c> and</c><00:07:23.280><c> we're</c><00:07:23.520><c> not</c><00:07:23.680><c> doing</c><00:07:23.840><c> it</c>
+work with AI and we're not doing it
+work with AI and we're not doing it
+well.<00:07:24.240><c> I</c><00:07:24.479><c> want</c><00:07:24.560><c> to</c><00:07:24.720><c> tease</c><00:07:25.039><c> out</c><00:07:25.199><c> some</c><00:07:25.360><c> of</c><00:07:25.440><c> the</c>
+well. I want to tease out some of the
+well. I want to tease out some of the
+organizational<00:07:26.240><c> dynamics</c><00:07:26.880><c> too.</c>
+organizational dynamics too.
+organizational dynamics too.
+Specifically,<00:07:28.240><c> one</c><00:07:28.400><c> of</c><00:07:28.479><c> the</c><00:07:28.720><c> things</c><00:07:28.800><c> that</c>
+Specifically, one of the things that
+Specifically, one of the things that
+I've<00:07:29.199><c> noticed</c><00:07:29.440><c> that's</c><00:07:29.759><c> subtle</c><00:07:30.000><c> but</c><00:07:30.319><c> painful.</c>
+I've noticed that's subtle but painful.
+I've noticed that's subtle but painful.
+We<00:07:31.199><c> are</c><00:07:31.360><c> converging</c><00:07:31.919><c> on</c><00:07:32.160><c> voice</c><00:07:32.720><c> because</c><00:07:32.960><c> of</c><00:07:33.199><c> AI</c>
+We are converging on voice because of AI
+We are converging on voice because of AI
+and<00:07:33.840><c> that</c><00:07:34.080><c> is</c><00:07:34.319><c> leading</c><00:07:34.720><c> to</c>
+and that is leading to
+and that is leading to
+informationational<00:07:36.160><c> loss</c><00:07:36.560><c> in</c><00:07:36.880><c> business</c>
+informationational loss in business
+informationational loss in business
+systems.<00:07:38.080><c> So,</c><00:07:38.319><c> we</c><00:07:38.560><c> have</c><00:07:39.039><c> an</c><00:07:39.280><c> AI</c><00:07:39.680><c> default</c><00:07:40.080><c> voice</c>
+systems. So, we have an AI default voice
+systems. So, we have an AI default voice
+and<00:07:40.560><c> too</c><00:07:40.800><c> few</c><00:07:41.120><c> people</c><00:07:41.599><c> understand</c><00:07:42.080><c> how</c><00:07:42.240><c> to</c>
+and too few people understand how to
+and too few people understand how to
+push<00:07:42.720><c> that</c><00:07:42.960><c> voice</c><00:07:43.280><c> into</c><00:07:43.599><c> something</c><00:07:43.840><c> that</c>
+push that voice into something that
+push that voice into something that
+communicates<00:07:44.960><c> their</c><00:07:45.120><c> their</c><00:07:45.360><c> intent</c><00:07:45.840><c> clearly.</c>
+communicates their their intent clearly.
+communicates their their intent clearly.
+I'm<00:07:46.400><c> not</c><00:07:46.560><c> talking</c><00:07:46.800><c> about</c><00:07:47.199><c> style</c><00:07:47.680><c> here.</c><00:07:48.240><c> I'm</c>
+I'm not talking about style here. I'm
+I'm not talking about style here. I'm
+talking<00:07:48.880><c> about</c><00:07:49.199><c> the</c><00:07:49.440><c> ability</c><00:07:49.919><c> to</c><00:07:50.560><c> communicate</c>
+talking about the ability to communicate
+talking about the ability to communicate
+clearly<00:07:51.759><c> with</c><00:07:52.080><c> what</c><00:07:52.400><c> really</c><00:07:52.720><c> matters.</c><00:07:53.440><c> And</c><00:07:53.680><c> I</c>
+clearly with what really matters. And I
+clearly with what really matters. And I
+think<00:07:53.919><c> the</c><00:07:54.160><c> default</c><00:07:54.560><c> voice</c><00:07:54.800><c> that</c><00:07:54.960><c> AI</c><00:07:55.360><c> has</c>
+think the default voice that AI has
+think the default voice that AI has
+obscures<00:07:56.560><c> that,</c><00:07:56.800><c> right?</c><00:07:57.039><c> The</c><00:07:57.199><c> default</c><00:07:57.520><c> voice</c>
+obscures that, right? The default voice
+obscures that, right? The default voice
+is<00:07:58.000><c> diplomatically</c><00:07:58.800><c> hedged.</c><00:07:59.440><c> It's</c><00:07:59.759><c> pseudo</c>
+is diplomatically hedged. It's pseudo
+is diplomatically hedged. It's pseudo
+comprehensive.<00:08:01.199><c> It's</c><00:08:01.440><c> stylistically</c>
+comprehensive. It's stylistically
+comprehensive. It's stylistically
+extremely<00:08:03.280><c> bland.</c><00:08:04.080><c> And</c><00:08:04.240><c> you</c><00:08:04.400><c> don't</c><00:08:04.560><c> have</c><00:08:04.639><c> the</c>
+extremely bland. And you don't have the
+extremely bland. And you don't have the
+ability<00:08:05.039><c> to</c><00:08:05.199><c> carry</c><00:08:05.520><c> conviction</c><00:08:06.240><c> with</c><00:08:06.479><c> that</c>
+ability to carry conviction with that
+ability to carry conviction with that
+voice.<00:08:07.039><c> If</c><00:08:07.199><c> you</c><00:08:07.360><c> want</c><00:08:07.440><c> to</c><00:08:07.599><c> make</c><00:08:07.680><c> a</c><00:08:07.840><c> bet,</c><00:08:08.400><c> you</c>
+voice. If you want to make a bet, you
+voice. If you want to make a bet, you
+don't<00:08:08.800><c> have</c><00:08:08.879><c> the</c><00:08:09.039><c> ability</c><00:08:09.280><c> to</c><00:08:09.599><c> articulate</c>
+don't have the ability to articulate
+don't have the ability to articulate
+real<00:08:10.639><c> specificity,</c><00:08:11.360><c> but</c><00:08:11.599><c> in</c><00:08:11.759><c> the</c><00:08:11.919><c> same</c>
+real specificity, but in the same
+real specificity, but in the same
+document<00:08:13.440><c> to</c><00:08:13.680><c> articulate</c><00:08:14.240><c> this</c><00:08:14.560><c> area</c><00:08:14.800><c> is</c>
+document to articulate this area is
+document to articulate this area is
+vague<00:08:15.280><c> and</c><00:08:15.440><c> uncertain,</c><00:08:15.840><c> and</c><00:08:16.000><c> I</c><00:08:16.160><c> want</c><00:08:16.240><c> to</c><00:08:16.319><c> admit</c>
+vague and uncertain, and I want to admit
+vague and uncertain, and I want to admit
+that<00:08:16.800><c> upfront.</c><00:08:17.440><c> Good</c><00:08:17.759><c> quality</c><00:08:18.240><c> writing</c><00:08:18.800><c> has</c>
+that upfront. Good quality writing has
+that upfront. Good quality writing has
+that<00:08:19.520><c> range.</c><00:08:20.479><c> And</c><00:08:20.720><c> AI,</c><00:08:21.520><c> if</c><00:08:21.759><c> you</c><00:08:21.919><c> just</c><00:08:22.240><c> prompt</c>
+that range. And AI, if you just prompt
+that range. And AI, if you just prompt
+it<00:08:22.879><c> vanilla,</c><00:08:23.759><c> does</c><00:08:24.000><c> not.</c><00:08:24.720><c> And</c><00:08:24.879><c> that</c><00:08:25.120><c> leads</c><00:08:25.360><c> to</c>
+it vanilla, does not. And that leads to
+it vanilla, does not. And that leads to
+critical<00:08:26.000><c> information</c><00:08:26.479><c> loss.</c><00:08:26.800><c> And</c><00:08:26.960><c> that</c><00:08:27.120><c> is</c>
+critical information loss. And that is
+critical information loss. And that is
+part<00:08:27.360><c> of</c><00:08:27.440><c> why</c><00:08:27.680><c> businesses</c><00:08:28.080><c> feel</c><00:08:28.319><c> like</c><00:08:28.400><c> they're</c>
+part of why businesses feel like they're
+part of why businesses feel like they're
+drowning.<00:08:29.199><c> This</c><00:08:29.520><c> information</c><00:08:30.000><c> is</c><00:08:30.240><c> not</c><00:08:30.560><c> super</c>
+drowning. This information is not super
+drowning. This information is not super
+high<00:08:31.120><c> quality.</c><00:08:31.759><c> And</c><00:08:31.919><c> I'm</c><00:08:32.080><c> going</c><00:08:32.159><c> to</c><00:08:32.240><c> say</c>
+high quality. And I'm going to say
+high quality. And I'm going to say
+again,<00:08:32.640><c> it</c><00:08:32.800><c> is</c><00:08:33.039><c> absolutely</c><00:08:33.599><c> possible</c><00:08:33.919><c> to</c><00:08:34.159><c> do</c>
+again, it is absolutely possible to do
+again, it is absolutely possible to do
+that.<00:08:34.959><c> You</c><00:08:35.120><c> can</c><00:08:35.279><c> make</c><00:08:35.519><c> highquality</c><00:08:36.159><c> documents</c>
+that. You can make highquality documents
+that. You can make highquality documents
+with<00:08:36.719><c> AI.</c><00:08:37.200><c> The</c><00:08:37.360><c> last</c><00:08:37.519><c> thing</c><00:08:37.599><c> I</c><00:08:37.839><c> want</c><00:08:37.919><c> to</c><00:08:38.000><c> call</c>
+with AI. The last thing I want to call
+with AI. The last thing I want to call
+out<00:08:38.399><c> before</c><00:08:38.640><c> I</c><00:08:38.880><c> go</c><00:08:39.039><c> over</c><00:08:39.360><c> and</c><00:08:39.599><c> I</c><00:08:39.919><c> show</c><00:08:40.719><c> what</c><00:08:40.959><c> I</c>
+out before I go over and I show what I
+out before I go over and I show what I
+mean<00:08:41.519><c> is</c><00:08:41.919><c> iteration</c><00:08:42.719><c> diagnosis.</c><00:08:43.839><c> So</c><00:08:44.159><c> this</c><00:08:44.399><c> is</c>
+mean is iteration diagnosis. So this is
+mean is iteration diagnosis. So this is
+sounds<00:08:44.800><c> really</c><00:08:45.040><c> complicated</c><00:08:45.440><c> but</c><00:08:45.680><c> very</c>
+sounds really complicated but very
+sounds really complicated but very
+simply<00:08:46.480><c> we</c><00:08:46.720><c> need</c><00:08:46.880><c> to</c><00:08:47.040><c> diagnose</c><00:08:48.000><c> the</c><00:08:48.320><c> failure</c>
+simply we need to diagnose the failure
+simply we need to diagnose the failure
+of<00:08:49.120><c> people</c><00:08:49.440><c> to</c><00:08:49.680><c> iterate</c><00:08:50.240><c> well</c><00:08:50.480><c> with</c><00:08:50.800><c> writing.</c>
+of people to iterate well with writing.
+of people to iterate well with writing.
+In<00:08:51.600><c> other</c><00:08:51.760><c> words,</c><00:08:52.240><c> people</c><00:08:52.640><c> are</c><00:08:52.959><c> trying</c><00:08:53.519><c> to</c><00:08:53.760><c> say</c>
+In other words, people are trying to say
+In other words, people are trying to say
+make<00:08:54.320><c> it</c><00:08:54.560><c> better</c><00:08:54.880><c> on</c><00:08:55.120><c> their</c><00:08:55.360><c> business</c>
+make it better on their business
+make it better on their business
+documents<00:08:56.160><c> and</c><00:08:56.320><c> that</c><00:08:56.480><c> is</c><00:08:56.640><c> all</c><00:08:56.800><c> they're</c>
+documents and that is all they're
+documents and that is all they're
+writing<00:08:57.360><c> and</c><00:08:57.600><c> it's</c><00:08:57.920><c> terrible</c><00:08:58.399><c> and</c><00:08:58.640><c> it's</c><00:08:58.880><c> not</c>
+writing and it's terrible and it's not
+writing and it's terrible and it's not
+working.<00:08:59.839><c> But</c><00:09:00.000><c> no</c><00:09:00.160><c> one</c><00:09:00.320><c> knows</c><00:09:00.560><c> how</c><00:09:00.720><c> to</c><00:09:00.880><c> do</c><00:09:00.959><c> it</c>
+working. But no one knows how to do it
+working. But no one knows how to do it
+better<00:09:01.680><c> unless</c><00:09:02.000><c> they're</c><00:09:02.320><c> educated.</c><00:09:03.040><c> And</c><00:09:03.200><c> what</c>
+better unless they're educated. And what
+better unless they're educated. And what
+they<00:09:03.680><c> don't</c><00:09:03.920><c> realize</c><00:09:04.560><c> is</c><00:09:04.800><c> that</c><00:09:04.959><c> it</c><00:09:05.200><c> is</c><00:09:05.279><c> a</c>
+they don't realize is that it is a
+they don't realize is that it is a
+people<00:09:06.000><c> problem</c><00:09:06.560><c> to</c><00:09:06.959><c> communicate</c><00:09:07.920><c> intent</c><00:09:08.880><c> and</c>
+people problem to communicate intent and
+people problem to communicate intent and
+that<00:09:09.279><c> they</c><00:09:09.519><c> have</c><00:09:09.680><c> to</c><00:09:09.920><c> specify</c><00:09:10.320><c> their</c><00:09:10.560><c> intent</c>
+that they have to specify their intent
+that they have to specify their intent
+more<00:09:11.200><c> clearly</c><00:09:11.600><c> if</c><00:09:11.839><c> they're</c><00:09:12.080><c> not</c><00:09:12.240><c> getting</c><00:09:12.399><c> a</c>
+more clearly if they're not getting a
+more clearly if they're not getting a
+draft<00:09:12.880><c> they</c><00:09:13.120><c> like.</c><00:09:13.519><c> So</c><00:09:13.760><c> I'm</c><00:09:13.920><c> going</c><00:09:14.000><c> to</c><00:09:14.080><c> come</c>
+draft they like. So I'm going to come
+draft they like. So I'm going to come
+back<00:09:14.399><c> to</c><00:09:14.560><c> the</c><00:09:14.800><c> like</c><00:09:15.040><c> the</c><00:09:15.279><c> core</c><00:09:15.600><c> of</c><00:09:15.760><c> this</c><00:09:15.920><c> issue</c>
+back to the like the core of this issue
+back to the like the core of this issue
+and<00:09:16.480><c> then</c><00:09:16.640><c> I'm</c><00:09:16.800><c> going</c><00:09:16.880><c> to</c><00:09:17.040><c> show</c><00:09:17.279><c> you</c><00:09:17.519><c> how</c><00:09:17.680><c> I'm</c>
+and then I'm going to show you how I'm
+and then I'm going to show you how I'm
+addressing<00:09:18.240><c> it</c><00:09:18.399><c> with</c><00:09:18.640><c> a</c><00:09:18.800><c> specific</c><00:09:19.120><c> prompt.</c><00:09:19.440><c> I</c>
+addressing it with a specific prompt. I
+addressing it with a specific prompt. I
+actually<00:09:19.760><c> put</c><00:09:19.920><c> together</c><00:09:20.160><c> a</c><00:09:20.399><c> whole</c><00:09:20.560><c> bunch</c><00:09:20.640><c> of</c>
+actually put together a whole bunch of
+actually put together a whole bunch of
+prompts<00:09:21.120><c> and</c><00:09:21.200><c> a</c><00:09:21.360><c> claude</c><00:09:21.680><c> skills</c><00:09:21.920><c> for</c><00:09:22.080><c> this</c><00:09:22.240><c> cuz</c>
+prompts and a claude skills for this cuz
+prompts and a claude skills for this cuz
+I<00:09:22.640><c> want</c><00:09:22.720><c> you</c><00:09:22.880><c> to</c><00:09:22.959><c> be</c><00:09:23.120><c> equipped</c><00:09:23.600><c> and</c><00:09:23.760><c> I'm</c><00:09:23.920><c> going</c>
+I want you to be equipped and I'm going
+I want you to be equipped and I'm going
+to<00:09:24.080><c> show</c><00:09:24.160><c> you</c><00:09:24.240><c> one</c><00:09:24.399><c> of</c><00:09:24.480><c> the</c><00:09:24.560><c> prompts</c><00:09:24.800><c> and</c><00:09:24.959><c> how</c>
+to show you one of the prompts and how
+to show you one of the prompts and how
+it<00:09:25.279><c> works.</c><00:09:25.760><c> So</c><00:09:26.080><c> the</c><00:09:26.399><c> thing</c><00:09:26.560><c> to</c><00:09:26.800><c> remember</c><00:09:27.440><c> is</c>
+it works. So the thing to remember is
+it works. So the thing to remember is
+because<00:09:28.320><c> AI</c><00:09:28.720><c> assisted</c><00:09:29.120><c> writing</c><00:09:29.519><c> is</c><00:09:29.760><c> exploding</c>
+because AI assisted writing is exploding
+because AI assisted writing is exploding
+because<00:09:30.560><c> organizations</c><00:09:31.200><c> are</c><00:09:31.360><c> drowning.</c><00:09:32.000><c> We</c>
+because organizations are drowning. We
+because organizations are drowning. We
+have<00:09:32.399><c> that</c><00:09:32.640><c> AI</c><00:09:33.040><c> generation</c><00:09:33.519><c> problem.</c><00:09:33.920><c> The</c>
+have that AI generation problem. The
+have that AI generation problem. The
+cost<00:09:34.320><c> of</c><00:09:34.560><c> information</c><00:09:34.959><c> is</c><00:09:35.200><c> zero.</c><00:09:36.240><c> We</c><00:09:36.640><c> need</c><00:09:36.959><c> to</c>
+cost of information is zero. We need to
+cost of information is zero. We need to
+therefore<00:09:38.320><c> put</c><00:09:38.560><c> a</c><00:09:38.880><c> premium</c><00:09:39.519><c> on</c><00:09:39.920><c> our</c><00:09:40.320><c> intent.</c>
+therefore put a premium on our intent.
+therefore put a premium on our intent.
+Otherwise,<00:09:41.760><c> we</c><00:09:42.080><c> degradeformational</c><00:09:43.440><c> signal</c>
+Otherwise, we degradeformational signal
+Otherwise, we degradeformational signal
+through<00:09:44.000><c> our</c><00:09:44.160><c> businesses</c><00:09:44.640><c> and</c><00:09:44.800><c> it</c><00:09:45.040><c> is</c><00:09:45.200><c> hard</c><00:09:45.360><c> to</c>
+through our businesses and it is hard to
+through our businesses and it is hard to
+make<00:09:45.760><c> decisions</c><00:09:46.080><c> and</c><00:09:46.320><c> we</c><00:09:46.560><c> feel</c><00:09:46.720><c> like</c><00:09:46.880><c> we're</c>
+make decisions and we feel like we're
+make decisions and we feel like we're
+drowning<00:09:47.519><c> and</c><00:09:47.680><c> it</c><00:09:47.920><c> has</c><00:09:48.080><c> real</c><00:09:48.320><c> career</c>
+drowning and it has real career
+drowning and it has real career
+implications<00:09:49.279><c> and</c><00:09:49.519><c> real</c><00:09:49.760><c> dollars</c><00:09:50.080><c> and</c><00:09:50.240><c> cents</c>
+implications and real dollars and cents
+implications and real dollars and cents
+implications.<00:09:51.120><c> I</c><00:09:51.360><c> am</c><00:09:51.600><c> passionate</c><00:09:51.920><c> about</c><00:09:52.160><c> good</c>
+implications. I am passionate about good
+implications. I am passionate about good
+business<00:09:52.720><c> writing.</c><00:09:53.360><c> I</c><00:09:53.600><c> love</c><00:09:53.760><c> it.</c><00:09:54.320><c> It</c><00:09:54.560><c> is</c>
+business writing. I love it. It is
+business writing. I love it. It is
+getting<00:09:54.959><c> hard</c><00:09:55.200><c> to</c><00:09:55.360><c> find</c><00:09:55.760><c> because</c><00:09:56.080><c> people</c>
+getting hard to find because people
+getting hard to find because people
+don't<00:09:56.560><c> know</c><00:09:56.720><c> how</c><00:09:56.880><c> to</c><00:09:57.040><c> prompt.</c><00:09:57.600><c> Let's</c><00:09:57.839><c> get</c><00:09:57.920><c> to</c>
+don't know how to prompt. Let's get to
+don't know how to prompt. Let's get to
+an<00:09:58.240><c> actual.</c><00:09:58.720><c> Okay,</c><00:09:59.360><c> this</c><00:09:59.600><c> is</c><00:09:59.760><c> an</c><00:10:00.000><c> example</c><00:10:00.399><c> of</c><00:10:00.560><c> a</c>
+an actual. Okay, this is an example of a
+an actual. Okay, this is an example of a
+prompt<00:10:01.040><c> that</c><00:10:01.279><c> I</c><00:10:01.440><c> think</c><00:10:01.600><c> is</c><00:10:01.760><c> highquality.</c><00:10:02.560><c> It</c>
+prompt that I think is highquality. It
+prompt that I think is highquality. It
+is<00:10:02.959><c> also</c><00:10:03.279><c> designed</c><00:10:03.600><c> to</c><00:10:03.839><c> be</c><00:10:04.000><c> modular</c><00:10:04.640><c> and</c>
+is also designed to be modular and
+is also designed to be modular and
+changeable<00:10:05.440><c> so</c><00:10:05.680><c> you</c><00:10:05.839><c> can</c><00:10:06.000><c> make</c><00:10:06.080><c> it</c><00:10:06.240><c> the</c><00:10:06.399><c> way</c>
+changeable so you can make it the way
+changeable so you can make it the way
+you<00:10:06.720><c> want.</c><00:10:06.959><c> Let's</c><00:10:07.120><c> get</c><00:10:07.279><c> into</c><00:10:07.440><c> it.</c><00:10:07.600><c> This</c><00:10:07.760><c> is</c><00:10:07.920><c> for</c>
+you want. Let's get into it. This is for
+you want. Let's get into it. This is for
+meeting<00:10:08.399><c> notes.</c><00:10:08.720><c> It's</c><00:10:08.880><c> the</c><00:10:09.120><c> simplest</c>
+meeting notes. It's the simplest
+meeting notes. It's the simplest
+possible<00:10:10.000><c> one.</c><00:10:10.320><c> I</c><00:10:10.480><c> have</c><00:10:10.560><c> a</c><00:10:10.720><c> bunch</c><00:10:10.880><c> of</c><00:10:10.959><c> other</c>
+possible one. I have a bunch of other
+possible one. I have a bunch of other
+prompts<00:10:11.440><c> for</c><00:10:11.600><c> more</c><00:10:11.760><c> complex</c><00:10:12.160><c> docs.</c><00:10:12.720><c> Meeting</c>
+prompts for more complex docs. Meeting
+prompts for more complex docs. Meeting
+notes<00:10:13.360><c> are</c><00:10:13.519><c> overlooked</c><00:10:14.000><c> because</c><00:10:14.240><c> most</c><00:10:14.399><c> of</c><00:10:14.480><c> the</c>
+notes are overlooked because most of the
+notes are overlooked because most of the
+time<00:10:14.800><c> if</c><00:10:14.959><c> you</c><00:10:15.040><c> go</c><00:10:15.200><c> into</c><00:10:15.360><c> a</c><00:10:15.519><c> generic</c><00:10:15.839><c> AI</c>
+time if you go into a generic AI
+time if you go into a generic AI
+transcript<00:10:17.040><c> and</c><00:10:17.279><c> you</c><00:10:17.440><c> get</c><00:10:17.680><c> meeting</c><00:10:17.920><c> notes</c><00:10:18.480><c> is</c>
+transcript and you get meeting notes is
+transcript and you get meeting notes is
+just<00:10:18.800><c> a</c><00:10:18.959><c> generic</c><00:10:19.360><c> summary</c><00:10:19.680><c> that's</c><00:10:19.920><c> very</c>
+just a generic summary that's very
+just a generic summary that's very
+vanilla<00:10:20.560><c> of</c><00:10:20.800><c> what</c><00:10:20.959><c> was</c><00:10:21.120><c> there.</c><00:10:21.839><c> I</c><00:10:22.160><c> wanted</c><00:10:22.399><c> to</c>
+vanilla of what was there. I wanted to
+vanilla of what was there. I wanted to
+be<00:10:22.720><c> more</c><00:10:22.880><c> opinionated</c><00:10:23.519><c> because</c><00:10:23.680><c> I</c><00:10:23.920><c> wanted</c><00:10:24.000><c> to</c>
+be more opinionated because I wanted to
+be more opinionated because I wanted to
+carry<00:10:24.399><c> through</c><00:10:24.560><c> the</c><00:10:24.800><c> principle</c><00:10:25.120><c> that</c><00:10:25.360><c> you</c>
+carry through the principle that you
+carry through the principle that you
+need<00:10:25.680><c> to</c><00:10:25.839><c> have</c><00:10:26.000><c> intent</c><00:10:26.640><c> around</c><00:10:26.959><c> what</c><00:10:27.200><c> you're</c>
+need to have intent around what you're
+need to have intent around what you're
+doing.<00:10:27.839><c> So</c><00:10:28.320><c> we</c><00:10:28.560><c> have</c><00:10:28.720><c> contacts,</c><00:10:29.279><c> date,</c>
+doing. So we have contacts, date,
+doing. So we have contacts, date,
+attendees<00:10:30.320><c> which</c><00:10:30.560><c> should</c><00:10:30.720><c> be</c><00:10:30.800><c> pullable</c><00:10:31.519><c> from</c>
+attendees which should be pullable from
+attendees which should be pullable from
+the<00:10:31.920><c> meeting</c><00:10:32.160><c> note</c><00:10:32.480><c> raw</c><00:10:33.120><c> purpose</c><00:10:33.519><c> of</c><00:10:33.680><c> meeting</c>
+the meeting note raw purpose of meeting
+the meeting note raw purpose of meeting
+input<00:10:34.800><c> provided</c><00:10:35.200><c> and</c><00:10:35.440><c> you</c><00:10:35.600><c> can</c><00:10:35.680><c> paste</c><00:10:35.920><c> your</c>
+input provided and you can paste your
+input provided and you can paste your
+transcript<00:10:36.720><c> there</c><00:10:37.279><c> and</c><00:10:37.519><c> then</c><00:10:37.680><c> you're</c><00:10:38.000><c> asking</c>
+transcript there and then you're asking
+transcript there and then you're asking
+for<00:10:39.040><c> a</c><00:10:39.279><c> very</c><00:10:39.600><c> specific</c><00:10:40.000><c> output</c><00:10:40.320><c> and</c><00:10:40.480><c> you</c><00:10:40.640><c> can</c>
+for a very specific output and you can
+for a very specific output and you can
+modify<00:10:41.040><c> this</c><00:10:41.200><c> when</c><00:10:41.360><c> I</c><00:10:41.600><c> tell</c><00:10:41.680><c> you</c><00:10:41.839><c> why</c><00:10:42.000><c> I</c><00:10:42.160><c> put</c>
+modify this when I tell you why I put
+modify this when I tell you why I put
+what<00:10:42.480><c> I</c><00:10:42.640><c> did.</c><00:10:43.120><c> Your</c><00:10:43.440><c> goal</c><00:10:43.680><c> here</c><00:10:44.240><c> is</c><00:10:44.560><c> to</c><00:10:44.959><c> create</c>
+what I did. Your goal here is to create
+what I did. Your goal here is to create
+notes<00:10:46.000><c> that</c><00:10:46.320><c> help</c><00:10:46.720><c> the</c><00:10:47.040><c> team</c><00:10:48.000><c> execute,</c><00:10:48.720><c> right?</c>
+notes that help the team execute, right?
+notes that help the team execute, right?
+Execute<00:10:49.680><c> on</c><00:10:49.920><c> what</c><00:10:50.079><c> was</c><00:10:50.320><c> discussed.</c><00:10:50.800><c> There</c><00:10:50.959><c> is</c>
+Execute on what was discussed. There is
+Execute on what was discussed. There is
+a<00:10:51.279><c> specific</c><00:10:51.680><c> goal</c><00:10:51.920><c> for</c><00:10:52.079><c> this.</c><00:10:52.399><c> The</c><00:10:52.640><c> notes</c><00:10:52.959><c> are</c>
+a specific goal for this. The notes are
+a specific goal for this. The notes are
+used<00:10:53.279><c> in</c><00:10:53.519><c> and</c><00:10:53.680><c> then</c><00:10:53.839><c> there's</c><00:10:54.000><c> a</c><00:10:54.160><c> context</c><00:10:54.480><c> for</c>
+used in and then there's a context for
+used in and then there's a context for
+this,<00:10:54.880><c> right?</c><00:10:55.040><c> You</c><00:10:55.200><c> can</c><00:10:55.360><c> decide</c><00:10:55.600><c> where</c>
+this, right? You can decide where
+this, right? You can decide where
+they're<00:10:56.000><c> used.</c><00:10:56.560><c> You</c><00:10:56.800><c> then</c><00:10:57.040><c> have</c><00:10:57.200><c> a</c><00:10:57.440><c> required</c>
+they're used. You then have a required
+they're used. You then have a required
+structure.<00:10:58.320><c> Did</c><00:10:58.480><c> you</c><00:10:58.640><c> make</c><00:10:58.800><c> decisions?</c><00:10:59.680><c> Do</c>
+structure. Did you make decisions? Do
+structure. Did you make decisions? Do
+you<00:11:00.079><c> have</c><00:11:00.240><c> action</c><00:11:00.560><c> items?</c><00:11:00.959><c> Are</c><00:11:01.200><c> there</c><00:11:01.360><c> open</c>
+you have action items? Are there open
+you have action items? Are there open
+questions<00:11:02.079><c> that</c><00:11:02.320><c> were</c><00:11:02.560><c> discussed?</c><00:11:03.040><c> What</c><00:11:03.200><c> were</c>
+questions that were discussed? What were
+questions that were discussed? What were
+the<00:11:03.440><c> key</c><00:11:03.680><c> discussion</c><00:11:04.079><c> points?</c><00:11:04.640><c> The</c><00:11:04.880><c> vanilla</c>
+the key discussion points? The vanilla
+the key discussion points? The vanilla
+notes<00:11:05.600><c> I</c><00:11:05.760><c> get.</c><00:11:06.000><c> Look,</c><00:11:06.240><c> I</c><00:11:06.480><c> love</c><00:11:06.640><c> granola.</c><00:11:07.360><c> I</c>
+notes I get. Look, I love granola. I
+notes I get. Look, I love granola. I
+love<00:11:07.839><c> some</c><00:11:08.160><c> otter.</c><00:11:08.480><c> Right</c><00:11:08.720><c> there.</c><00:11:08.880><c> There's</c>
+love some otter. Right there. There's
+love some otter. Right there. There's
+these<00:11:09.360><c> AI</c><00:11:09.680><c> notes.</c><00:11:10.000><c> They</c><00:11:10.240><c> do</c><00:11:10.399><c> not</c><00:11:10.560><c> do</c><00:11:10.720><c> this.</c>
+these AI notes. They do not do this.
+these AI notes. They do not do this.
+They<00:11:11.440><c> do</c><00:11:11.680><c> not</c><00:11:12.000><c> help</c><00:11:12.240><c> you</c><00:11:12.560><c> encode</c><00:11:13.200><c> intent.</c><00:11:14.160><c> It</c>
+They do not help you encode intent. It
+They do not help you encode intent. It
+is<00:11:14.560><c> up</c><00:11:14.720><c> to</c><00:11:14.959><c> you</c><00:11:15.600><c> to</c><00:11:15.839><c> bring</c><00:11:16.079><c> this</c><00:11:16.320><c> level</c><00:11:16.560><c> of</c>
+is up to you to bring this level of
+is up to you to bring this level of
+clarity.<00:11:17.200><c> And</c><00:11:17.360><c> I</c><00:11:17.600><c> want</c><00:11:17.680><c> to</c><00:11:17.839><c> help,</c><00:11:18.800><c> but</c><00:11:19.200><c> there's</c>
+clarity. And I want to help, but there's
+clarity. And I want to help, but there's
+no<00:11:19.760><c> substitute</c><00:11:20.320><c> for</c><00:11:20.480><c> that</c><00:11:20.720><c> intent.</c><00:11:21.279><c> The</c><00:11:21.440><c> AI</c>
+no substitute for that intent. The AI
+no substitute for that intent. The AI
+won't<00:11:22.000><c> bring</c><00:11:22.240><c> it.</c><00:11:22.640><c> You</c><00:11:22.880><c> have</c><00:11:23.040><c> constraints.</c>
+won't bring it. You have constraints.
+won't bring it. You have constraints.
+You<00:11:24.880><c> have</c><00:11:25.040><c> a</c><00:11:25.279><c> total</c><00:11:25.519><c> length</c><00:11:25.760><c> that</c><00:11:26.000><c> you</c><00:11:26.079><c> have</c><00:11:26.160><c> to</c>
+You have a total length that you have to
+You have a total length that you have to
+keep<00:11:26.399><c> to.</c><00:11:26.720><c> You</c><00:11:26.880><c> have</c><00:11:27.040><c> decisions.</c><00:11:27.519><c> You</c><00:11:27.680><c> have</c><00:11:27.839><c> to</c>
+keep to. You have decisions. You have to
+keep to. You have decisions. You have to
+define<00:11:28.240><c> an</c><00:11:28.480><c> owner</c><00:11:28.800><c> by</c><00:11:29.040><c> name.</c><00:11:29.600><c> You</c><00:11:29.839><c> have</c><00:11:30.000><c> action</c>
+define an owner by name. You have action
+define an owner by name. You have action
+items.<00:11:31.200><c> You</c><00:11:31.600><c> cannot</c><00:11:32.079><c> include</c><00:11:32.640><c> pleasantries</c>
+items. You cannot include pleasantries
+items. You cannot include pleasantries
+or<00:11:33.440><c> general</c><00:11:33.760><c> discussions.</c><00:11:34.480><c> You</c><00:11:34.720><c> may</c><00:11:34.959><c> not</c>
+or general discussions. You may not
+or general discussions. You may not
+infer.<00:11:35.920><c> You</c><00:11:36.079><c> may</c><00:11:36.240><c> not</c><00:11:36.480><c> guess.</c><00:11:37.839><c> This</c><00:11:38.079><c> is</c><00:11:38.240><c> the</c>
+infer. You may not guess. This is the
+infer. You may not guess. This is the
+tone.<00:11:38.959><c> And</c><00:11:39.120><c> then</c><00:11:39.279><c> here</c><00:11:39.519><c> are</c><00:11:39.760><c> validation</c>
+tone. And then here are validation
+tone. And then here are validation
+quality<00:11:40.800><c> checks.</c><00:11:41.200><c> Every</c><00:11:41.440><c> decision</c><00:11:41.839><c> must</c><00:11:42.079><c> have</c>
+quality checks. Every decision must have
+quality checks. Every decision must have
+a<00:11:42.399><c> name</c><00:11:42.720><c> decision</c><00:11:43.040><c> maker.</c><00:11:43.440><c> Every</c><00:11:43.600><c> action</c><00:11:43.839><c> item</c>
+a name decision maker. Every action item
+a name decision maker. Every action item
+must<00:11:44.399><c> have</c><00:11:44.480><c> an</c><00:11:44.720><c> owner.</c><00:11:45.040><c> No</c><00:11:45.200><c> action</c><00:11:45.440><c> item</c><00:11:45.760><c> is</c>
+must have an owner. No action item is
+must have an owner. No action item is
+allowed<00:11:46.160><c> to</c><00:11:46.240><c> be</c><00:11:46.399><c> vague.</c><00:11:46.800><c> Open</c><00:11:47.120><c> questions</c><00:11:47.600><c> must</c>
+allowed to be vague. Open questions must
+allowed to be vague. Open questions must
+have<00:11:48.480><c> or</c><00:11:48.880><c> assigned</c><00:11:49.279><c> owners.</c><00:11:49.920><c> If</c><00:11:50.079><c> any</c><00:11:50.399><c> check</c>
+have or assigned owners. If any check
+have or assigned owners. If any check
+fails,<00:11:51.440><c> revise</c><00:11:52.240><c> before</c><00:11:52.560><c> outputting.</c><00:11:53.360><c> Is</c><00:11:53.680><c> this</c>
+fails, revise before outputting. Is this
+fails, revise before outputting. Is this
+perfect?<00:11:54.560><c> No</c><00:11:54.880><c> prompt</c><00:11:55.200><c> is</c><00:11:55.440><c> perfect.</c><00:11:56.000><c> Is</c><00:11:56.160><c> this</c>
+perfect? No prompt is perfect. Is this
+perfect? No prompt is perfect. Is this
+going<00:11:56.480><c> to</c><00:11:56.640><c> get</c><00:11:56.800><c> you</c><00:11:56.959><c> a</c><00:11:57.200><c> long</c><00:11:57.440><c> way</c><00:11:57.680><c> on</c><00:11:58.000><c> intent?</c>
+going to get you a long way on intent?
+going to get you a long way on intent?
+Yes.<00:11:58.880><c> And</c><00:11:59.040><c> then</c><00:11:59.200><c> I</c><00:11:59.360><c> want</c><00:11:59.440><c> to</c><00:11:59.519><c> get</c><00:11:59.680><c> into,</c><00:11:59.920><c> and</c><00:12:00.079><c> I</c>
+Yes. And then I want to get into, and I
+Yes. And then I want to get into, and I
+do,<00:12:00.560><c> why</c><00:12:00.800><c> the</c><00:12:00.959><c> prompt</c><00:12:01.279><c> works,</c><00:12:01.600><c> right?</c><00:12:01.839><c> It</c>
+do, why the prompt works, right? It
+do, why the prompt works, right? It
+communicates<00:12:02.720><c> purpose.</c><00:12:03.440><c> It</c><00:12:03.600><c> communicates</c>
+communicates purpose. It communicates
+communicates purpose. It communicates
+structure<00:12:04.560><c> as</c><00:12:04.880><c> logic.</c><00:12:05.200><c> And</c><00:12:05.360><c> you</c><00:12:05.519><c> can</c><00:12:05.600><c> change</c>
+structure as logic. And you can change
+structure as logic. And you can change
+that<00:12:06.000><c> structure</c><00:12:06.320><c> if</c><00:12:06.480><c> you</c><00:12:06.639><c> want</c><00:12:06.720><c> a</c><00:12:06.880><c> different</c>
+that structure if you want a different
+that structure if you want a different
+intent.<00:12:07.600><c> There's</c><00:12:07.839><c> an</c><00:12:08.000><c> eval</c><00:12:08.320><c> mode.</c><00:12:08.639><c> There's</c><00:12:08.720><c> a</c>
+intent. There's an eval mode. There's a
+intent. There's an eval mode. There's a
+failure<00:12:09.200><c> mode.</c><00:12:09.760><c> Well,</c><00:12:10.000><c> let's</c><00:12:10.240><c> look</c><00:12:10.480><c> at</c><00:12:10.800><c> how</c><00:12:10.959><c> to</c>
+failure mode. Well, let's look at how to
+failure mode. Well, let's look at how to
+customize<00:12:11.600><c> it,</c><00:12:11.839><c> right?</c><00:12:12.000><c> And</c><00:12:12.160><c> I</c><00:12:12.320><c> include</c><00:12:12.560><c> that,</c>
+customize it, right? And I include that,
+customize it, right? And I include that,
+too,<00:12:13.120><c> right?</c><00:12:13.360><c> For</c><00:12:13.600><c> your</c><00:12:13.839><c> workflow.</c><00:12:14.320><c> You</c><00:12:14.480><c> can</c>
+too, right? For your workflow. You can
+too, right? For your workflow. You can
+change<00:12:14.800><c> it</c><00:12:14.959><c> up.</c><00:12:15.360><c> You</c><00:12:15.519><c> can</c><00:12:15.680><c> change</c><00:12:15.760><c> it</c><00:12:15.920><c> to</c><00:12:16.079><c> your</c>
+change it up. You can change it to your
+change it up. You can change it to your
+organization's<00:12:16.959><c> voice.</c><00:12:17.600><c> You</c><00:12:17.760><c> can</c><00:12:17.920><c> have</c>
+organization's voice. You can have
+organization's voice. You can have
+different<00:12:18.320><c> meeting</c><00:12:18.639><c> types.</c><00:12:18.959><c> You</c><00:12:19.040><c> can</c><00:12:19.120><c> have</c><00:12:19.200><c> a</c>
+different meeting types. You can have a
+different meeting types. You can have a
+sprint<00:12:19.680><c> goal</c><00:12:19.920><c> instead.</c><00:12:20.800><c> You</c><00:12:20.959><c> can</c><00:12:21.120><c> have</c>
+sprint goal instead. You can have
+sprint goal instead. You can have
+failure<00:12:21.760><c> modes</c><00:12:22.079><c> that</c><00:12:22.240><c> are</c><00:12:22.399><c> different.</c><00:12:22.880><c> And</c>
+failure modes that are different. And
+failure modes that are different. And
+then<00:12:23.200><c> I</c><00:12:23.360><c> can</c><00:12:23.440><c> give</c><00:12:23.600><c> you</c><00:12:23.680><c> an</c><00:12:23.839><c> example</c><00:12:24.079><c> of</c><00:12:24.160><c> an</c>
+then I can give you an example of an
+then I can give you an example of an
+output,<00:12:24.639><c> right?</c><00:12:24.880><c> This</c><00:12:24.959><c> is</c><00:12:25.040><c> what</c><00:12:25.120><c> a</c><00:12:25.279><c> good</c>
+output, right? This is what a good
+output, right? This is what a good
+output<00:12:25.760><c> looks</c><00:12:26.000><c> like.</c><00:12:26.320><c> This</c><00:12:26.399><c> is</c><00:12:26.560><c> what</c><00:12:26.720><c> a</c>
+output looks like. This is what a
+output looks like. This is what a
+terrible<00:12:27.200><c> output</c><00:12:27.600><c> looks</c><00:12:27.760><c> like,</c><00:12:28.000><c> right?</c><00:12:28.240><c> And</c>
+terrible output looks like, right? And
+terrible output looks like, right? And
+this<00:12:28.560><c> is</c><00:12:28.639><c> very</c><00:12:28.880><c> similar</c><00:12:29.120><c> to</c><00:12:29.279><c> the</c><00:12:29.440><c> AI</c><00:12:29.760><c> notes</c><00:12:30.000><c> I</c>
+this is very similar to the AI notes I
+this is very similar to the AI notes I
+get<00:12:30.320><c> generically.</c><00:12:31.200><c> Frankly,</c><00:12:31.519><c> Chad</c><00:12:31.839><c> GPT</c>
+get generically. Frankly, Chad GPT
+get generically. Frankly, Chad GPT
+launched<00:12:32.560><c> a</c><00:12:32.720><c> meeting</c><00:12:32.959><c> notes</c><00:12:33.200><c> feature</c><00:12:33.440><c> that</c>
+launched a meeting notes feature that
+launched a meeting notes feature that
+looks<00:12:33.760><c> a</c><00:12:33.920><c> lot</c><00:12:34.000><c> like</c><00:12:34.160><c> that</c><00:12:34.399><c> top</c><00:12:34.639><c> part.</c><00:12:35.040><c> This</c><00:12:35.200><c> is</c>
+looks a lot like that top part. This is
+looks a lot like that top part. This is
+part<00:12:35.519><c> of</c><00:12:35.680><c> how</c><00:12:35.920><c> I</c><00:12:36.240><c> know</c><00:12:36.480><c> we're</c><00:12:36.720><c> losing</c><00:12:37.120><c> good</c>
+part of how I know we're losing good
+part of how I know we're losing good
+quality<00:12:38.160><c> business</c><00:12:38.639><c> intelligence.</c><00:12:39.360><c> Like</c><00:12:39.600><c> the</c>
+quality business intelligence. Like the
+quality business intelligence. Like the
+bottom<00:12:40.480><c> example</c><00:12:41.040><c> is</c><00:12:41.440><c> going</c><00:12:41.600><c> to</c><00:12:41.760><c> be</c><00:12:42.320><c> much</c><00:12:42.880><c> more</c>
+bottom example is going to be much more
+bottom example is going to be much more
+informative<00:12:43.920><c> for</c><00:12:44.160><c> the</c><00:12:44.399><c> business</c><00:12:45.040><c> than</c><00:12:45.360><c> the</c>
+informative for the business than the
+informative for the business than the
+top.<00:12:46.240><c> So</c><00:12:46.639><c> please,</c><00:12:47.680><c> please,</c><00:12:48.000><c> I</c><00:12:48.240><c> have</c><00:12:48.320><c> a</c><00:12:48.480><c> bunch</c>
+top. So please, please, I have a bunch
+top. So please, please, I have a bunch
+of<00:12:48.639><c> these</c><00:12:48.880><c> prompts.</c><00:12:49.760><c> I</c><00:12:50.000><c> don't</c><00:12:50.160><c> care</c><00:12:50.320><c> if</c><00:12:50.480><c> you</c>
+of these prompts. I don't care if you
+of these prompts. I don't care if you
+use<00:12:50.800><c> my</c><00:12:50.959><c> prompts</c><00:12:51.279><c> or</c><00:12:51.440><c> not,</c><00:12:51.920><c> but</c><00:12:52.480><c> please</c><00:12:53.360><c> put</c>
+use my prompts or not, but please put
+use my prompts or not, but please put
+intent
+intent
+intent
+into<00:12:56.560><c> your</c><00:12:56.959><c> business</c><00:12:57.440><c> AI</c><00:12:57.920><c> writing.</c><00:12:58.399><c> That</c><00:12:58.639><c> is</c>
+into your business AI writing. That is
+into your business AI writing. That is
+the<00:12:58.880><c> key.</c><00:12:59.040><c> And</c><00:12:59.200><c> if</c><00:12:59.440><c> prompts</c><00:12:59.760><c> help</c><00:13:00.000><c> you</c><00:13:00.160><c> scale</c>
+the key. And if prompts help you scale
+the key. And if prompts help you scale
+that<00:13:00.560><c> across</c><00:13:00.800><c> the</c><00:13:00.959><c> business,</c><00:13:01.279><c> if</c><00:13:01.440><c> Claude's</c>
+that across the business, if Claude's
+that across the business, if Claude's
+skills<00:13:02.240><c> help</c><00:13:02.480><c> you</c><00:13:02.639><c> scale</c><00:13:02.880><c> that</c><00:13:03.120><c> across</c><00:13:03.360><c> the</c>
+skills help you scale that across the
+skills help you scale that across the
+business,<00:13:03.839><c> I</c><00:13:04.000><c> built</c><00:13:04.240><c> both</c><00:13:04.399><c> of</c><00:13:04.560><c> those.</c><00:13:05.200><c> That's</c>
+business, I built both of those. That's
+business, I built both of those. That's
+great.<00:13:06.160><c> But</c><00:13:06.480><c> that</c><00:13:06.800><c> there</c><00:13:07.040><c> is</c><00:13:07.200><c> no</c><00:13:07.360><c> substitute.</c>
+great. But that there is no substitute.
+great. But that there is no substitute.
+You<00:13:08.399><c> you</c><00:13:08.959><c> cannot</c><00:13:09.760><c> get</c><00:13:10.000><c> away</c><00:13:10.399><c> from</c><00:13:10.639><c> the</c><00:13:10.959><c> need</c>
+You you cannot get away from the need
+You you cannot get away from the need
+for<00:13:11.760><c> humans</c><00:13:12.480><c> to</c><00:13:12.720><c> define</c><00:13:13.360><c> what</c><00:13:13.680><c> good</c><00:13:13.920><c> looks</c>
+for humans to define what good looks
+for humans to define what good looks
+like<00:13:14.320><c> for</c><00:13:14.560><c> AI</c><00:13:14.880><c> and</c><00:13:15.040><c> to</c><00:13:15.279><c> define</c><00:13:15.600><c> requirements.</c>
+like for AI and to define requirements.
+like for AI and to define requirements.
+And<00:13:16.560><c> to</c><00:13:16.800><c> be</c><00:13:16.959><c> honest</c><00:13:17.200><c> with</c><00:13:17.440><c> you,</c><00:13:17.760><c> that</c><00:13:17.920><c> is</c><00:13:18.000><c> the</c>
+And to be honest with you, that is the
+And to be honest with you, that is the
+thing<00:13:18.320><c> I'm</c><00:13:18.639><c> excited</c><00:13:19.040><c> about.</c><00:13:19.600><c> We</c><00:13:19.920><c> have</c><00:13:20.079><c> sat</c><00:13:20.399><c> for</c>
+thing I'm excited about. We have sat for
+thing I'm excited about. We have sat for
+a<00:13:20.800><c> long</c><00:13:20.959><c> time</c><00:13:21.200><c> with</c><00:13:21.440><c> the</c><00:13:21.600><c> assumption</c><00:13:21.920><c> that</c>
+a long time with the assumption that
+a long time with the assumption that
+human<00:13:22.720><c> best</c><00:13:23.120><c> effort</c><00:13:23.839><c> is</c><00:13:24.160><c> kind</c><00:13:24.399><c> of</c><00:13:24.480><c> the</c><00:13:24.800><c> bar</c><00:13:25.040><c> for</c>
+human best effort is kind of the bar for
+human best effort is kind of the bar for
+docs<00:13:25.760><c> and</c><00:13:25.920><c> we</c><00:13:26.079><c> just</c><00:13:26.320><c> all</c><00:13:26.480><c> have</c><00:13:26.720><c> like</c><00:13:26.880><c> I</c><00:13:27.120><c> worked</c>
+docs and we just all have like I worked
+docs and we just all have like I worked
+at<00:13:27.440><c> Amazon</c><00:13:27.839><c> and</c><00:13:28.079><c> we</c><00:13:28.240><c> had</c><00:13:28.399><c> like</c><00:13:28.480><c> a</c><00:13:28.639><c> bar</c><00:13:28.880><c> for</c><00:13:29.040><c> docs</c>
+at Amazon and we had like a bar for docs
+at Amazon and we had like a bar for docs
+that<00:13:29.519><c> floated</c><00:13:29.920><c> around</c><00:13:30.160><c> best</c><00:13:30.480><c> based</c><00:13:30.800><c> on</c><00:13:30.880><c> the</c>
+that floated around best based on the
+that floated around best based on the
+best<00:13:31.360><c> human</c><00:13:31.680><c> writer</c><00:13:32.000><c> in</c><00:13:32.320><c> the</c><00:13:32.480><c> team</c><00:13:32.720><c> in</c><00:13:32.880><c> the</c>
+best human writer in the team in the
+best human writer in the team in the
+department<00:13:33.760><c> etc.</c><00:13:34.320><c> You</c><00:13:34.560><c> don't</c><00:13:34.720><c> have</c><00:13:34.800><c> to</c><00:13:34.959><c> have</c>
+department etc. You don't have to have
+department etc. You don't have to have
+that<00:13:35.440><c> anymore.</c><00:13:36.320><c> You</c><00:13:36.480><c> can</c><00:13:36.639><c> have</c><00:13:36.720><c> a</c><00:13:36.959><c> really</c>
+that anymore. You can have a really
+that anymore. You can have a really
+consistent<00:13:37.920><c> highquality</c><00:13:38.560><c> bar</c><00:13:38.800><c> and</c><00:13:38.959><c> you</c><00:13:39.200><c> can</c>
+consistent highquality bar and you can
+consistent highquality bar and you can
+know<00:13:39.839><c> whether</c><00:13:40.160><c> someone</c><00:13:40.399><c> is</c><00:13:40.639><c> writing</c><00:13:40.880><c> to</c><00:13:41.040><c> that</c>
+know whether someone is writing to that
+know whether someone is writing to that
+bar<00:13:41.519><c> or</c><00:13:41.839><c> not.</c><00:13:42.240><c> And</c><00:13:42.480><c> people</c><00:13:42.720><c> ask</c><00:13:42.959><c> me</c><00:13:43.120><c> all</c><00:13:43.200><c> the</c>
+bar or not. And people ask me all the
+bar or not. And people ask me all the
+time,<00:13:43.600><c> well</c><00:13:43.760><c> does</c><00:13:44.000><c> this</c><00:13:44.160><c> mean</c><00:13:44.320><c> people</c><00:13:44.560><c> won't</c>
+time, well does this mean people won't
+time, well does this mean people won't
+think<00:13:45.040><c> anymore?</c><00:13:45.519><c> I</c><00:13:45.760><c> I</c><00:13:46.160><c> dare</c><00:13:46.399><c> you.</c><00:13:46.800><c> I</c><00:13:47.120><c> dare</c><00:13:47.440><c> you.</c>
+think anymore? I I dare you. I dare you.
+think anymore? I I dare you. I dare you.
+Are<00:13:48.320><c> you</c><00:13:48.480><c> going</c><00:13:48.639><c> to</c><00:13:48.800><c> think</c><00:13:49.040><c> less</c><00:13:49.519><c> if</c><00:13:49.760><c> you</c><00:13:49.920><c> go</c>
+Are you going to think less if you go
+Are you going to think less if you go
+through<00:13:50.399><c> this</c><00:13:50.639><c> process?</c><00:13:51.200><c> If</c><00:13:51.360><c> you</c><00:13:51.600><c> actually</c>
+through this process? If you actually
+through this process? If you actually
+define<00:13:52.560><c> intent</c><00:13:53.200><c> for</c><00:13:53.440><c> your</c><00:13:53.760><c> business</c><00:13:54.000><c> with</c>
+define intent for your business with
+define intent for your business with
+writing,<00:13:54.800><c> no,</c><00:13:55.279><c> you</c><00:13:55.519><c> are</c><00:13:55.680><c> going</c><00:13:55.760><c> to</c><00:13:55.920><c> think</c>
+writing, no, you are going to think
+writing, no, you are going to think
+more.<00:13:56.800><c> You</c><00:13:57.040><c> are</c><00:13:57.120><c> going</c><00:13:57.199><c> to</c><00:13:57.279><c> think</c><00:13:57.519><c> harder.</c>
+more. You are going to think harder.
+more. You are going to think harder.
+You're<00:13:58.240><c> going</c><00:13:58.320><c> to</c><00:13:58.399><c> have</c><00:13:58.560><c> to</c><00:13:58.720><c> work</c><00:13:58.959><c> harder</c><00:13:59.440><c> to</c>
+You're going to have to work harder to
+You're going to have to work harder to
+communicate<00:14:00.240><c> all</c><00:14:00.399><c> of</c><00:14:00.480><c> this</c><00:14:00.639><c> to</c><00:14:00.800><c> people</c>
+communicate all of this to people
+communicate all of this to people
+because<00:14:01.360><c> so</c><00:14:01.600><c> much</c><00:14:01.680><c> of</c><00:14:01.760><c> it</c><00:14:01.920><c> was</c><00:14:02.079><c> vague</c><00:14:02.320><c> and</c>
+because so much of it was vague and
+because so much of it was vague and
+lived<00:14:02.720><c> in</c><00:14:02.880><c> people's</c><00:14:03.199><c> heads.</c><00:14:03.760><c> Well,</c><00:14:04.079><c> not</c>
+lived in people's heads. Well, not
+lived in people's heads. Well, not
+anymore.<00:14:04.959><c> And</c><00:14:05.120><c> the</c><00:14:05.360><c> reason</c><00:14:05.519><c> why</c><00:14:05.760><c> you're</c><00:14:05.920><c> going</c>
+anymore. And the reason why you're going
+anymore. And the reason why you're going
+to<00:14:06.160><c> have</c><00:14:06.240><c> to</c><00:14:06.480><c> do</c><00:14:06.639><c> this</c><00:14:07.279><c> is</c><00:14:07.680><c> because</c><00:14:08.000><c> the</c>
+to have to do this is because the
+to have to do this is because the
+alternative<00:14:09.040><c> is</c><00:14:09.360><c> not</c><00:14:09.760><c> what</c><00:14:10.000><c> we</c><00:14:10.240><c> had</c><00:14:10.480><c> pre202</c>
+alternative is not what we had pre202
+alternative is not what we had pre202
+where<00:14:12.079><c> everyone</c><00:14:12.399><c> wrote</c><00:14:12.720><c> everything.</c><00:14:13.440><c> The</c>
+where everyone wrote everything. The
+where everyone wrote everything. The
+alternative<00:14:14.320><c> is</c><00:14:14.639><c> AI</c><00:14:15.040><c> slot</c><00:14:15.440><c> forever</c><00:14:16.160><c> because</c>
+alternative is AI slot forever because
+alternative is AI slot forever because
+AI<00:14:17.440><c> is</c><00:14:17.600><c> out</c><00:14:17.760><c> of</c><00:14:17.839><c> the</c><00:14:18.000><c> box.</c><00:14:18.560><c> Everyone's</c><00:14:19.120><c> using</c>
+AI is out of the box. Everyone's using
+AI is out of the box. Everyone's using
+it<00:14:19.760><c> and</c><00:14:20.160><c> everybody</c><00:14:20.560><c> I</c><00:14:20.800><c> know</c><00:14:20.880><c> at</c><00:14:21.120><c> work</c><00:14:21.279><c> that's</c>
+it and everybody I know at work that's
+it and everybody I know at work that's
+drowning<00:14:21.839><c> in</c><00:14:22.000><c> AI</c><00:14:22.320><c> docs,</c><00:14:22.639><c> which</c><00:14:22.800><c> is</c><00:14:22.959><c> a</c><00:14:23.120><c> lot</c><00:14:23.279><c> of</c>
+drowning in AI docs, which is a lot of
+drowning in AI docs, which is a lot of
+people.<00:14:24.079><c> Well,</c><00:14:24.639><c> that's</c><00:14:24.880><c> not</c><00:14:25.120><c> going</c><00:14:25.199><c> to</c><00:14:25.360><c> stop.</c>
+people. Well, that's not going to stop.
+people. Well, that's not going to stop.
+The<00:14:26.240><c> people</c><00:14:26.480><c> making</c><00:14:26.800><c> them</c><00:14:27.040><c> aren't</c><00:14:27.360><c> going</c><00:14:27.440><c> to</c>
+The people making them aren't going to
+The people making them aren't going to
+stop<00:14:28.160><c> because</c><00:14:28.480><c> they</c><00:14:28.720><c> think</c><00:14:28.880><c> it's</c><00:14:29.120><c> productive.</c>
+stop because they think it's productive.
+stop because they think it's productive.
+We<00:14:30.240><c> need</c><00:14:30.480><c> AI</c><00:14:30.880><c> education</c><00:14:31.440><c> that</c><00:14:31.839><c> emphasizes</c>
+We need AI education that emphasizes
+We need AI education that emphasizes
+quality,<00:14:33.360><c> that</c><00:14:33.600><c> emphasizes</c><00:14:34.560><c> the</c><00:14:34.880><c> different</c>
+quality, that emphasizes the different
+quality, that emphasizes the different
+ways<00:14:35.360><c> we</c><00:14:35.519><c> need</c><00:14:35.600><c> to</c><00:14:35.760><c> think.</c><00:14:35.920><c> I</c><00:14:36.160><c> hope</c><00:14:36.320><c> this</c><00:14:36.560><c> video</c>
+ways we need to think. I hope this video
+ways we need to think. I hope this video
+has<00:14:36.959><c> helped</c><00:14:37.120><c> you</c><00:14:37.279><c> think</c><00:14:37.519><c> about</c><00:14:37.920><c> how</c><00:14:38.240><c> our</c>
+has helped you think about how our
+has helped you think about how our
+brains<00:14:39.040><c> need</c><00:14:39.199><c> to</c><00:14:39.440><c> change</c><00:14:39.920><c> to</c><00:14:40.320><c> communicate</c>
+brains need to change to communicate
+brains need to change to communicate
+effectively<00:14:41.360><c> with</c><00:14:41.600><c> AI</c><00:14:42.240><c> when</c><00:14:42.480><c> we</c><00:14:42.720><c> are</c><00:14:42.880><c> writing.</c>
+effectively with AI when we are writing.
+effectively with AI when we are writing.
+Best<00:14:43.519><c> of</c><00:14:43.680><c> luck</c><00:14:43.920><c> out</c><00:14:44.079><c> there</c><00:14:44.240><c> and</c><00:14:44.480><c> may</c><00:14:44.720><c> you</c><00:14:45.360><c> long</c>
+Best of luck out there and may you long
+Best of luck out there and may you long
+save<00:14:46.639><c> and</c><00:14:46.959><c> long</c><00:14:47.279><c> preserve</c><00:14:47.680><c> your</c><00:14:47.920><c> business</c>
+save and long preserve your business
+save and long preserve your business
+from<00:14:48.800><c> AI</c><00:14:49.279><c> slop</c><00:14:49.680><c> and</c><00:14:50.000><c> bad</c><00:14:50.240><c> business</c><00:14:50.639><c> writing.</c><00:14:51.199><c> I</c>
+from AI slop and bad business writing. I
+from AI slop and bad business writing. I
+hope<00:14:51.519><c> these</c><00:14:51.760><c> tips</c><00:14:52.079><c> have</c><00:14:52.240><c> helped.</c>

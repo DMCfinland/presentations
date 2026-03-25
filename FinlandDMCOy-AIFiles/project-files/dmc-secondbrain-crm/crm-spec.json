@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "purpose": "Immutable project specification — Initializer output for Planner-Worker-Judge loop",
+    "version": "1.1",
+    "created": "2026-03-12",
+    "mutability": "VERSION-CONTROLLED — constraints and goal are locked. done_criteria can be made more specific (never weaker). Any change requires version bump + CHANGELOG entry below.",
+    "changelog": [
+      {
+        "version": "1.0",
+        "date": "2026-03-12",
+        "change": "Initial spec created from D1-D38 + Wave 0 gate status"
+      },
+      {
+        "version": "1.1",
+        "date": "2026-03-13",
+        "change": "Added D39-D50 to decisions_summary (Grok Opportunity Engine + architecture decisions). Updated build_state pointer (BUILD-STATE.md now exists in FinnConcierge repo — verify gate status against live Supabase before trusting)."
+      }
+    ],
+    "companion": "crm-progress.md — mutable state tracker, update every session"
+  },
+  "project": {
+    "codename": "DMC-SECONDBRAIN-CRM",
+    "owner": "Patrick Heiskanen",
+    "codebase": "FinnConcierge — ~/Desktop/FinnConcierge",
+    "supabase_url": "https://fjfztbdcjoptkwbzwoub.supabase.co",
+    "supabase_region": "eu-central-1 Frankfurt",
+    "n8n_host": "self-hosted Hetzner",
+    "timeline": {
+      "demo_day": "Week 1",
+      "staff_intro": "Week 2",
+      "mvp": "Week 8"
+    }
+  },
+  "goal": "Build a Second Brain-powered CRM for Finland DMC Oy that auto-mines 4 years of M365 email into structured client intelligence, delivers a Pipedrive-quality Kanban UI, integrates TravelTree T1+T2 APIs, and achieves near-zero manual data entry — safe for real client data from Day 1.",
+  "done_criteria": {
+    "overall": "Staff can open the Kanban, see auto-mined deals, drag a card between stages, and click through to the TravelTree itinerary — without entering any data manually.",
+    "per_wave": {
+      "wave_0": "BUILD-STATE.md exists. Git worktrees created. Supabase PITR enabled. ai_reader/ai_writer roles exist. PreCompact hook configured. Credentials verified: n8n, TravelTree API, Graph API Mail.Read token, n8n JWT.",
+      "wave_1a": "All 14 CRM tables + deal_embeddings (pgvector vector(1536)) + prompt_versions + email_draft_sessions + email_draft_iterations + prompt_evaluations exist in Supabase. Machine check: SELECT COUNT(*) FROM information_schema.tables WHERE table_schema='public' returns ≥18. RLS policies deny-by-default (ai_reader/ai_writer roles: no DELETE policy). Seed data: 107 client profiles bulk-embedded (DRY_RUN=false, DPIA signed first). SELECT COUNT(*) FROM deal_embeddings returns ≥1,070.",
+      "wave_1b": "Kanban board renders in browser with at least 3 mock deals. @dnd-kit/sortable drag-and-drop functional. Supabase Realtime card update visible without page refresh. Mobile tap-to-move stage selector works on iOS Safari.",
+      "wave_2a": "n8n email ingestion workflow live on inquiries@ mailbox. Triple-LLM pipeline (Quarantine → Validator → Privileged) processing real emails. Deals auto-created with status: unverified. Teams notification fires on new deal. DPIA signed before activation.",
+      "wave_2b": "Teams transcript daily digest running. Graph API OnlineMeetings.Read.All scope granted. Deal activities populated from meeting transcripts.",
+      "wave_3a": "Kanban UI production-ready. Staff can filter by owner, stage, client. Search across deals. Mobile PWA installable.",
+      "wave_3b": "TravelTree T1+T2 integration live. Create itinerary from deal card. Read itinerary status. New window (not iframe).",
+      "wave_4a": "Booking reference FDM-[6-char] generated server-side on deal create. 107 client profiles accessible via vector similarity search. Semantic search returns top-5 similar past deals.",
+      "wave_4b": "Email drafter UI functional. Staff can select tone, generate draft, approve or regenerate. R metric captured automatically. Prompt competition jury visible.",
+      "wave_5": "Security gates: grep -r 'service_role' src/ returns 0 results. RLS audit query returns no tables missing deny-by-default policy. All webhook endpoints return 401 on missing x-brain-key header. DPIA signed + filed. Sebastian demo recorded. Liisa onboarding session completed."
+    }
+  },
+  "constraints": {
+    "1_security_non_negotiable": "No service_role key in any agent, workflow, or environment variable exposed to frontend. JWT auth only (ai_reader / ai_writer roles).",
+    "2_gdpr_gate": "DPIA must be signed by Patrick before ANY live email mining begins (Wave 2A). Bulk-embed (Wave 1A) may proceed after DPIA is signed.",
+    "3_no_traveltree_replacement": "TravelTree must remain the source of truth for itinerary data. CRM reads and creates via API only — never replicates or replaces TT data.",
+    "4_staff_always_in_control": "No client-facing action (email send, proposal share, booking confirm) without explicit staff approval click. AI suggestions only.",
+    "5_cost_ceiling_wave3a": "$8 one-time exception for @dnd-kit + TanStack + Kanban dependencies (D26). No other paid dependencies without Patrick sign-off.",
+    "6_eu_data_residency": "All data stays in Supabase eu-central-1 Frankfurt. No data egress to US-based services for PII processing.",
+    "7_unverified_default": "All AI-enriched records default to status: unverified. Staff must touch a record to change status.",
+    "8_soft_delete_only": "Never DROP rows from deal_embeddings. Use active=false. Hard delete only via erase_contact_pii() GDPR function.",
+    "9_azure_sql_untouched": "FinnConcierge's existing 9 Azure SQL tables are NOT touched by CRM build. CRM lives entirely in the new Supabase project.",
+    "10_booking_reference_server_side": "FDM-[6-char alphanumeric] booking references generated server-side only. Never client-generated, never UUID exposed to staff."
+  },
+  "escalation_triggers": {
+    "auto_escalate_to_patrick": [
+      "Any decision that modifies the 8 security requirements in SHARED-CONTEXT.md",
+      "Any schema change that requires dropping a column or table (migrations should only ADD)",
+      "DPIA scope changes (new data categories, new LLM providers, new retention periods)",
+      "TravelTree API behavior differs from documented T1/T2 spec",
+      "Agent produces output that would be client-visible (emails, proposals) without explicit approval gate",
+      "BUILD-STATE.md shows a wave marked done but machine-checkable criteria not confirmed",
+      "A discovered KC invalidates a prior wave done state",
+      "LLM/infra cost for any wave exceeds its budget by >20%"
+    ],
+    "do_not_escalate": [
+      "TypeScript type errors — fix directly",
+      "SQL migration column ordering — use best practice",
+      "shadcn/ui component selection — use established pattern",
+      "n8n node configuration details — implement per WAVE-BUILD-AGENTS.md"
+    ]
+  },
+  "decisions_summary": {
+    "D1_D12": "See orchestration/SHARED-CONTEXT.md — architecture, stack, security, data residency",
+    "D13_D24": "See DECISIONS.md — schema details, RLS policies, n8n workflow specs",
+    "D25": "Magic link auth (Supabase email OTP, 15-min expiry, httpOnly cookie)",
+    "D26": "Wave 3A cost ceiling = $8 one-time for @dnd-kit + TanStack + Kanban",
+    "D27": "Booking reference = FDM-[6-char alphanumeric], server-side generated",
+    "D28": "Capture channel = Teams #crm-capture → Teams webhook → n8n → Supabase Edge Function → pgvector",
+    "D29": "pgvector in Wave 1A scope — deal_embeddings table vector(1536) from day 1",
+    "D30": "Memory migration two-phase: bulk-embed 107 profiles Day 1 (DPIA first), staff Q&A Phase 2",
+    "D31": "Webhook security: header-only auth (x-brain-key / Bearer), per-service keys, rate limiting on all ingest endpoints",
+    "D32": "deal_embeddings soft-delete: active boolean default true, hard-delete only via erase_contact_pii()",
+    "D33": "Atomic facts chunking: 10-20 facts per client profile before embedding = 1,070–2,140 rows Day 1",
+    "D34_D35": "DO NOT EXIST — numbering gap is real, no decisions were made at these numbers",
+    "D36": "Email drafter tables: prompt_versions, email_draft_sessions, email_draft_iterations, prompt_evaluations",
+    "D37": "R auto-capture via n8n (not manual): timestamp + prompt_version_id on email send event",
+    "D38": "Prompt competition jury system: periodic tournament between prompt versions using R metric",
+    "D39_D42": "DO NOT EXIST — numbering gap (same as D34-D35)",
+    "D43": "raw_content column on deal_embeddings — enables re-embedding without source data",
+    "D44": "Model routing abstraction layer — single /model-router Edge Function, change model in one place",
+    "D45": "Client seasonal pattern miner — weekly cron extracts booking cadence per client, powers opportunity signals",
+    "D46": "Opportunity signal priority: Anniversary > Re-engagement > Upsell > Referral > Lapsed proposal. Market signals EXCLUDED permanently.",
+    "D47": "Strategy brief = limited version: 4-section brief with 3 options + recommended + action buttons. No auto-send ever.",
+    "D48": "Market signals permanently excluded from Opportunity Engine — internal Supabase data only",
+    "D49": "Daily Opportunity Briefing on morning dashboard — n8n cron 07:00, max 3 cards per staff, push delivery",
+    "D50": "North Star confirmed — see DECISIONS.md D50 for full paragraph design target"
+  },
+  "key_files": {
+    "spec": "project-files/dmc-secondbrain-crm/crm-spec.json (THIS FILE — version-controlled)",
+    "progress": "project-files/dmc-secondbrain-crm/crm-progress.md (mutable — update every session)",
+    "build_state": "~/Desktop/FinnConcierge/BUILD-STATE.md (CREATED — Worker-generated 2026-03-13, verify gate statuses against live Supabase)",
+    "decisions": "project-files/dmc-secondbrain-crm/DECISIONS.md",
+    "shared_context": "project-files/dmc-secondbrain-crm/orchestration/SHARED-CONTEXT.md",
+    "wave_agents": "project-files/dmc-secondbrain-crm/orchestration/WAVE-BUILD-AGENTS.md",
+    "orchestration": "project-files/dmc-secondbrain-crm/orchestration/ORCHESTRATION-PLAN.md",
+    "quality_gates": "project-files/dmc-secondbrain-crm/orchestration/QUALITY-GATES.md"
+  }
+}

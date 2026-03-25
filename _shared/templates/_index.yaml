@@ -1,0 +1,59 @@
+# Templates — Routing Index
+# Source: Adapted from Everything Claude Code (ECC) hackathon winner + 1658 Holdings patterns
+# last_updated: session-54
+# Updated: 2026-03-10
+
+# These are reusable frameworks for common deliverable types.
+# Each template has a matching quality gate in quality-gates/
+# Use: grep this file by topic to find the right template before building any deliverable.
+
+templates:
+
+  - file: "pitch-deck-flow.md"
+    one_line: "12-slide investor pitch deck framework with consistency rules"
+    topics: [pitch-deck, investor, fundraising, presentations, equity]
+    use_when: "Building any investor-facing presentation, equity announcement, or company pitch"
+    applies_to: all
+    source: "ECC investor-materials skill, adapted"
+    quality_gate: "quality-gates/investor-materials-qg.md"
+
+  - file: "market-research-framework.md"
+    one_line: "Decision-oriented research with source attribution and contrarian evidence"
+    topics: [research, market, competitor, analysis, due-diligence, intelligence]
+    use_when: "Competitor analysis, supplier evaluation, market sizing, company intelligence"
+    applies_to: all
+    source: "ECC market-research skill, adapted"
+    quality_gate: "quality-gates/market-research-qg.md"
+
+  - file: "content-engine.md"
+    one_line: "One idea → platform-native content across X, LinkedIn, newsletter, video"
+    topics: [content, marketing, social, linkedin, newsletter, repurposing]
+    use_when: "Creating marketing content, repurposing assets across platforms, content calendar"
+    applies_to: [dmc, jarvisydan, arctic-cruises]
+    source: "ECC content-engine skill, adapted"
+    quality_gate: "quality-gates/content-qg.md"
+
+  - file: "de-sloppify-mining.md"
+    one_line: "Separate cleanup pass after mining — thorough extract then focused compress"
+    topics: [mining, extraction, cleanup, compression, quality, second-brain]
+    use_when: "After any mining session before building deliverables. Always run between raw extraction and final build."
+    applies_to: all
+    source: "ECC de-sloppify pattern, adapted for knowledge mining"
+    quality_gate: "quality-gates/mining-output-qg.md"
+
+  - file: "chief-of-staff-triage.md"
+    one_line: "4-tier M365 message triage across 10 companies — skip/info/meeting/action"
+    topics: [triage, email, teams, m365, chief-of-staff, second-brain, crm, automation]
+    use_when: "Designing the multi-company M365 triage pipeline, evolving the Second Brain with continuous inflow"
+    applies_to: all
+    source: "ECC chief-of-staff agent, adapted for M365 + 10 companies"
+    quality_gate: null
+    status: "TODO — design complete, implementation pending"
+
+  - file: "investor-materials.md"
+    one_line: "Single source of truth for all fundraising docs — deck, memo, model, accelerator apps"
+    topics: [investor, fundraising, financial-model, pitch, one-pager, memo, consistency]
+    use_when: "Creating or updating any investor-facing document, financial model, use-of-funds"
+    applies_to: [dmc, holdings]
+    source: "ECC investor-materials skill, adapted"
+    quality_gate: "quality-gates/investor-materials-qg.md"

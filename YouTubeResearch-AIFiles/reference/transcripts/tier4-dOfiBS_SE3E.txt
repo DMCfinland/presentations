@@ -1,0 +1,1159 @@
+Today<00:00:00.480><c> we're</c><00:00:00.800><c> going</c><00:00:00.880><c> to</c><00:00:01.120><c> address</c><00:00:01.600><c> something</c>
+Today we're going to address something
+Today we're going to address something
+that<00:00:02.240><c> I</c><00:00:02.560><c> have</c><00:00:02.879><c> never</c><00:00:03.200><c> seen</c><00:00:03.439><c> addressed</c>
+that I have never seen addressed
+that I have never seen addressed
+anywhere<00:00:04.400><c> on</c><00:00:04.640><c> the</c><00:00:04.799><c> web</c><00:00:05.120><c> and</c><00:00:05.359><c> I</c><00:00:05.600><c> cannot</c><00:00:06.000><c> figure</c>
+anywhere on the web and I cannot figure
+anywhere on the web and I cannot figure
+out<00:00:06.400><c> why.</c><00:00:07.040><c> We</c><00:00:07.359><c> have</c><00:00:07.919><c> a</c><00:00:08.160><c> dime</c><00:00:08.480><c> a</c><00:00:08.720><c> dozen</c><00:00:09.200><c> guides</c>
+out why. We have a dime a dozen guides
+out why. We have a dime a dozen guides
+for<00:00:10.080><c> using</c><00:00:10.559><c> AI</c><00:00:11.120><c> APIs.</c><00:00:12.160><c> We</c><00:00:12.480><c> have</c><00:00:12.800><c> dime</c><00:00:13.040><c> a</c><00:00:13.280><c> dozen</c>
+for using AI APIs. We have dime a dozen
+for using AI APIs. We have dime a dozen
+guides<00:00:14.000><c> for</c><00:00:14.240><c> using</c><00:00:14.480><c> the</c><00:00:14.719><c> chatbot.</c><00:00:15.360><c> And</c><00:00:15.599><c> you</c>
+guides for using the chatbot. And you
+guides for using the chatbot. And you
+know<00:00:15.839><c> what</c><00:00:16.080><c> I</c><00:00:16.400><c> cannot</c><00:00:16.800><c> find</c><00:00:17.039><c> anywhere?</c><00:00:17.760><c> I</c>
+know what I cannot find anywhere? I
+know what I cannot find anywhere? I
+cannot<00:00:18.480><c> find</c><00:00:19.119><c> a</c><00:00:19.439><c> guide</c><00:00:20.400><c> that</c><00:00:20.720><c> helps</c><00:00:21.119><c> you</c><00:00:21.680><c> if</c>
+cannot find a guide that helps you if
+cannot find a guide that helps you if
+you<00:00:22.240><c> are</c><00:00:22.480><c> a</c><00:00:22.800><c> chatbot</c><00:00:23.600><c> user</c><00:00:24.240><c> and</c><00:00:24.480><c> you</c><00:00:24.720><c> are</c>
+you are a chatbot user and you are
+you are a chatbot user and you are
+wondering<00:00:25.359><c> what</c><00:00:25.600><c> the</c><00:00:25.760><c> heck</c><00:00:26.000><c> is</c><00:00:26.160><c> going</c><00:00:26.320><c> on</c><00:00:26.480><c> with</c>
+wondering what the heck is going on with
+wondering what the heck is going on with
+these<00:00:27.039><c> people</c><00:00:27.279><c> using</c><00:00:27.519><c> the</c><00:00:27.760><c> API.</c><00:00:28.400><c> And</c><00:00:28.640><c> I'm</c><00:00:28.880><c> I'm</c>
+these people using the API. And I'm I'm
+these people using the API. And I'm I'm
+saying<00:00:29.439><c> that</c><00:00:29.760><c> because</c><00:00:30.000><c> I</c><00:00:30.240><c> think</c><00:00:30.400><c> we</c><00:00:30.640><c> have</c><00:00:30.800><c> this</c>
+saying that because I think we have this
+saying that because I think we have this
+implicit<00:00:31.679><c> assumption</c><00:00:32.320><c> still</c><00:00:32.960><c> that</c>
+implicit assumption still that
+implicit assumption still that
+developers<00:00:33.920><c> use</c><00:00:34.160><c> APIs</c><00:00:34.800><c> and</c><00:00:35.040><c> normal</c><00:00:35.440><c> people</c>
+developers use APIs and normal people
+developers use APIs and normal people
+don't.<00:00:36.800><c> That's</c><00:00:37.200><c> not</c><00:00:37.680><c> true</c><00:00:38.000><c> anymore.</c>
+don't. That's not true anymore.
+don't. That's not true anymore.
+Especially<00:00:39.680><c> after</c><00:00:40.000><c> the</c><00:00:40.239><c> launch</c><00:00:40.480><c> of</c><00:00:40.640><c> Chat</c><00:00:41.040><c> GPT5</c>
+Especially after the launch of Chat GPT5
+Especially after the launch of Chat GPT5
+when<00:00:42.000><c> it's</c><00:00:42.239><c> possible</c><00:00:42.559><c> to</c><00:00:42.800><c> literally</c><00:00:43.360><c> code</c><00:00:43.680><c> up</c>
+when it's possible to literally code up
+when it's possible to literally code up
+a<00:00:44.239><c> whole</c><00:00:44.559><c> front-end</c><00:00:45.200><c> app</c><00:00:45.600><c> in</c><00:00:45.920><c> just</c><00:00:46.079><c> a</c><00:00:46.320><c> few</c>
+a whole front-end app in just a few
+a whole front-end app in just a few
+minutes.<00:00:47.120><c> What</c><00:00:47.280><c> if</c><00:00:47.520><c> you</c><00:00:47.680><c> want</c><00:00:47.760><c> to</c><00:00:47.920><c> take</c><00:00:48.079><c> that</c>
+minutes. What if you want to take that
+minutes. What if you want to take that
+to<00:00:48.480><c> the</c><00:00:48.640><c> next</c><00:00:48.800><c> level?</c><00:00:49.200><c> What</c><00:00:49.360><c> if</c><00:00:49.520><c> you</c><00:00:49.680><c> want</c><00:00:49.760><c> to</c>
+to the next level? What if you want to
+to the next level? What if you want to
+turn<00:00:50.079><c> that</c><00:00:50.239><c> into</c><00:00:50.559><c> a</c><00:00:50.800><c> real</c><00:00:51.200><c> app?</c><00:00:51.840><c> How</c><00:00:52.000><c> do</c><00:00:52.160><c> you</c>
+turn that into a real app? How do you
+turn that into a real app? How do you
+start<00:00:52.480><c> using</c><00:00:52.719><c> the</c><00:00:52.879><c> API?</c><00:00:53.440><c> How</c><00:00:53.600><c> do</c><00:00:53.680><c> you</c><00:00:53.840><c> know</c><00:00:54.000><c> if</c>
+start using the API? How do you know if
+start using the API? How do you know if
+you<00:00:54.399><c> need</c><00:00:54.640><c> to</c><00:00:54.879><c> use</c><00:00:55.039><c> it?</c><00:00:55.360><c> How</c><00:00:55.520><c> do</c><00:00:55.680><c> you</c><00:00:55.760><c> know</c><00:00:55.920><c> if</c>
+you need to use it? How do you know if
+you need to use it? How do you know if
+you<00:00:56.320><c> might</c><00:00:56.480><c> want</c><00:00:56.640><c> to</c><00:00:56.800><c> try</c><00:00:57.120><c> using</c><00:00:57.360><c> it?</c><00:00:57.600><c> Because</c>
+you might want to try using it? Because
+you might want to try using it? Because
+it's<00:00:58.079><c> really</c><00:00:58.320><c> not</c><00:00:58.559><c> that</c><00:00:58.960><c> scary.</c><00:00:59.760><c> Especially,</c>
+it's really not that scary. Especially,
+it's really not that scary. Especially,
+it's<00:01:00.640><c> not</c><00:01:00.800><c> that</c><00:01:01.120><c> scary</c><00:01:01.440><c> in</c><00:01:01.680><c> an</c><00:01:01.840><c> age</c><00:01:02.079><c> when</c><00:01:02.399><c> LLMs</c>
+it's not that scary in an age when LLMs
+it's not that scary in an age when LLMs
+can<00:01:03.840><c> help</c><00:01:04.159><c> you</c><00:01:04.400><c> use</c><00:01:04.640><c> it.</c><00:01:05.600><c> But</c><00:01:05.840><c> still,</c><00:01:06.159><c> nobody</c>
+can help you use it. But still, nobody
+can help you use it. But still, nobody
+gives<00:01:06.720><c> you</c><00:01:06.880><c> a</c><00:01:07.040><c> guide</c><00:01:07.200><c> to</c><00:01:07.360><c> know</c><00:01:07.439><c> when</c><00:01:07.680><c> you</c>
+gives you a guide to know when you
+gives you a guide to know when you
+should<00:01:07.920><c> use</c><00:01:08.000><c> it</c><00:01:08.159><c> and</c><00:01:08.320><c> when</c><00:01:08.479><c> you</c><00:01:08.640><c> shouldn't</c><00:01:08.880><c> and</c>
+should use it and when you shouldn't and
+should use it and when you shouldn't and
+why<00:01:09.280><c> you</c><00:01:09.439><c> should</c><00:01:09.600><c> be</c><00:01:09.760><c> curious.</c><00:01:10.479><c> That's</c><00:01:10.799><c> what</c>
+why you should be curious. That's what
+why you should be curious. That's what
+this<00:01:11.600><c> video</c><00:01:12.000><c> is</c><00:01:12.320><c> for.</c><00:01:12.960><c> Everyone</c><00:01:13.439><c> will</c><00:01:13.760><c> keep</c>
+this video is for. Everyone will keep
+this video is for. Everyone will keep
+telling<00:01:14.320><c> you</c><00:01:15.040><c> use</c><00:01:15.280><c> the</c><00:01:15.520><c> API</c><00:01:16.479><c> if</c><00:01:16.799><c> you</c><00:01:16.960><c> have</c><00:01:17.119><c> a</c>
+telling you use the API if you have a
+telling you use the API if you have a
+question<00:01:17.680><c> that</c><00:01:18.000><c> they</c><00:01:18.159><c> can't</c><00:01:18.479><c> answer</c><00:01:18.880><c> in</c><00:01:19.119><c> the</c>
+question that they can't answer in the
+question that they can't answer in the
+chat<00:01:19.680><c> box,</c><00:01:20.000><c> but</c><00:01:20.159><c> no</c><00:01:20.320><c> one</c><00:01:20.479><c> will</c><00:01:20.720><c> explain</c><00:01:21.119><c> why</c>
+chat box, but no one will explain why
+chat box, but no one will explain why
+that's<00:01:21.680><c> different.</c><00:01:22.240><c> No</c><00:01:22.479><c> one</c><00:01:22.640><c> will</c><00:01:22.880><c> explain</c>
+that's different. No one will explain
+that's different. No one will explain
+how<00:01:23.360><c> to</c><00:01:23.520><c> get</c><00:01:23.680><c> there.</c><00:01:24.320><c> We're</c><00:01:24.560><c> going</c><00:01:24.640><c> to</c><00:01:24.720><c> do</c><00:01:24.799><c> it</c>
+how to get there. We're going to do it
+how to get there. We're going to do it
+here.<00:01:25.520><c> I'm</c><00:01:25.759><c> going</c><00:01:25.920><c> to</c><00:01:26.000><c> assume</c><00:01:26.880><c> you</c><00:01:27.200><c> are</c><00:01:27.360><c> paying</c>
+here. I'm going to assume you are paying
+here. I'm going to assume you are paying
+20<00:01:28.479><c> to</c><00:01:28.799><c> $25</c><00:01:29.439><c> a</c><00:01:29.680><c> month</c><00:01:29.840><c> for</c><00:01:30.080><c> something</c><00:01:30.320><c> like</c>
+20 to $25 a month for something like
+20 to $25 a month for something like
+Claude<00:01:31.040><c> or</c><00:01:31.200><c> Chatg</c><00:01:31.520><c> GPT</c><00:01:32.560><c> plus</c><00:01:33.119><c> maybe</c><00:01:33.439><c> you're</c><00:01:33.680><c> on</c>
+Claude or Chatg GPT plus maybe you're on
+Claude or Chatg GPT plus maybe you're on
+the<00:01:34.000><c> free</c><00:01:34.159><c> version.</c><00:01:34.880><c> It</c><00:01:35.200><c> works</c><00:01:35.520><c> fine.</c><00:01:36.320><c> Why</c><00:01:36.560><c> are</c>
+the free version. It works fine. Why are
+the free version. It works fine. Why are
+people<00:01:37.119><c> acting</c><00:01:37.520><c> like</c><00:01:37.759><c> you're</c><00:01:38.000><c> doing</c><00:01:38.159><c> it</c>
+people acting like you're doing it
+people acting like you're doing it
+wrong?<00:01:38.960><c> That</c><00:01:39.200><c> doesn't</c><00:01:39.439><c> seem</c><00:01:39.759><c> fair.</c><00:01:40.240><c> Well,</c>
+wrong? That doesn't seem fair. Well,
+wrong? That doesn't seem fair. Well,
+first<00:01:40.720><c> off,</c><00:01:40.960><c> you're</c><00:01:41.200><c> not</c><00:01:41.439><c> doing</c><00:01:41.600><c> it</c><00:01:41.759><c> wrong.</c>
+first off, you're not doing it wrong.
+first off, you're not doing it wrong.
+The<00:01:42.640><c> way</c><00:01:42.799><c> we</c><00:01:43.040><c> use</c><00:01:43.200><c> a</c><00:01:43.360><c> general</c><00:01:43.759><c> purpose</c>
+The way we use a general purpose
+The way we use a general purpose
+technology<00:01:45.040><c> is</c><00:01:45.360><c> what</c><00:01:45.680><c> suits</c><00:01:46.000><c> us</c><00:01:46.240><c> to</c><00:01:46.399><c> get</c><00:01:46.560><c> the</c>
+technology is what suits us to get the
+technology is what suits us to get the
+work<00:01:46.960><c> done.</c><00:01:47.280><c> And</c><00:01:47.439><c> one</c><00:01:47.680><c> thing</c><00:01:47.759><c> I</c><00:01:48.000><c> want</c><00:01:48.159><c> you</c><00:01:48.320><c> to</c>
+work done. And one thing I want you to
+work done. And one thing I want you to
+hear<00:01:48.720><c> is</c><00:01:48.880><c> that</c><00:01:49.119><c> this</c><00:01:49.520><c> video</c><00:01:50.000><c> is</c><00:01:50.240><c> about</c><00:01:50.560><c> giving</c>
+hear is that this video is about giving
+hear is that this video is about giving
+you<00:01:51.119><c> optionality.</c><00:01:52.079><c> It's</c><00:01:52.399><c> about</c><00:01:52.640><c> giving</c><00:01:52.960><c> you</c><00:01:53.680><c> a</c>
+you optionality. It's about giving you a
+you optionality. It's about giving you a
+set<00:01:54.240><c> of</c><00:01:54.479><c> tools</c><00:01:54.880><c> that</c><00:01:55.200><c> you</c><00:01:55.360><c> didn't</c><00:01:55.680><c> have</c><00:01:56.000><c> before</c>
+set of tools that you didn't have before
+set of tools that you didn't have before
+to<00:01:56.720><c> make</c><00:01:56.960><c> better</c><00:01:57.360><c> decisions.</c><00:01:58.000><c> And</c><00:01:58.240><c> so</c><00:01:58.560><c> much</c><00:01:58.799><c> of</c>
+to make better decisions. And so much of
+to make better decisions. And so much of
+the<00:01:59.280><c> value</c><00:01:59.600><c> we</c><00:01:59.840><c> get</c><00:02:00.000><c> out</c><00:02:00.159><c> of</c><00:02:00.320><c> AI</c><00:02:00.719><c> is</c><00:02:00.960><c> just</c>
+the value we get out of AI is just
+the value we get out of AI is just
+making<00:02:01.600><c> better</c><00:02:01.920><c> decisions.</c><00:02:02.640><c> And</c><00:02:02.799><c> so</c><00:02:02.960><c> that's</c>
+making better decisions. And so that's
+making better decisions. And so that's
+what<00:02:03.280><c> I</c><00:02:03.360><c> want</c><00:02:03.439><c> to</c><00:02:03.520><c> do,</c><00:02:03.920><c> lay</c><00:02:04.000><c> out</c><00:02:04.159><c> the</c>
+what I want to do, lay out the
+what I want to do, lay out the
+technology.<00:02:05.119><c> So</c><00:02:05.600><c> the</c><00:02:05.920><c> first</c><00:02:06.159><c> thing</c><00:02:06.320><c> to</c>
+technology. So the first thing to
+technology. So the first thing to
+realize,<00:02:07.200><c> the</c><00:02:07.439><c> first</c><00:02:07.759><c> fundamental</c>
+realize, the first fundamental
+realize, the first fundamental
+misunderstanding<00:02:09.200><c> that</c><00:02:09.520><c> people</c><00:02:09.759><c> who</c><00:02:10.080><c> only</c>
+misunderstanding that people who only
+misunderstanding that people who only
+use<00:02:10.640><c> the</c><00:02:10.879><c> chatbot</c><00:02:11.440><c> tend</c><00:02:11.680><c> to</c><00:02:11.920><c> think</c><00:02:12.400><c> is</c><00:02:12.640><c> they</c>
+use the chatbot tend to think is they
+use the chatbot tend to think is they
+think<00:02:13.200><c> they</c><00:02:13.520><c> are</c><00:02:13.760><c> using</c><00:02:14.160><c> the</c><00:02:14.560><c> real</c><00:02:15.040><c> product,</c>
+think they are using the real product,
+think they are using the real product,
+the<00:02:15.760><c> real</c><00:02:16.080><c> product,</c><00:02:16.560><c> quote</c><00:02:16.800><c> unquote.</c><00:02:17.440><c> If</c>
+the real product, quote unquote. If
+the real product, quote unquote. If
+you're<00:02:17.840><c> using</c><00:02:18.160><c> Claude</c><00:02:18.560><c> as</c><00:02:18.720><c> a</c><00:02:18.879><c> chatbot,</c><00:02:19.440><c> if</c>
+you're using Claude as a chatbot, if
+you're using Claude as a chatbot, if
+you're<00:02:19.760><c> using</c><00:02:20.080><c> chat</c><00:02:20.480><c> GPT</c><00:02:20.959><c> as</c><00:02:21.200><c> a</c><00:02:21.280><c> chatbot,</c><00:02:22.160><c> you</c>
+you're using chat GPT as a chatbot, you
+you're using chat GPT as a chatbot, you
+think<00:02:22.560><c> you're</c><00:02:22.800><c> using</c><00:02:22.959><c> the</c><00:02:23.200><c> real</c><00:02:23.360><c> product.</c>
+think you're using the real product.
+think you're using the real product.
+Now,<00:02:24.319><c> putting</c><00:02:24.640><c> on</c><00:02:24.879><c> my</c><00:02:25.120><c> product</c><00:02:25.440><c> manager</c><00:02:25.840><c> hat</c>
+Now, putting on my product manager hat
+Now, putting on my product manager hat
+for<00:02:26.239><c> a</c><00:02:26.400><c> second,</c><00:02:26.879><c> you</c><00:02:27.040><c> could</c><00:02:27.200><c> argue</c><00:02:27.520><c> that</c><00:02:27.680><c> you</c>
+for a second, you could argue that you
+for a second, you could argue that you
+are,<00:02:28.239><c> right?</c><00:02:28.560><c> Because</c><00:02:28.800><c> if</c><00:02:29.120><c> most</c><00:02:29.440><c> people</c><00:02:29.680><c> in</c>
+are, right? Because if most people in
+are, right? Because if most people in
+the<00:02:30.080><c> world</c><00:02:30.239><c> are</c><00:02:30.480><c> using</c><00:02:30.640><c> the</c><00:02:30.879><c> product,</c><00:02:31.200><c> you</c><00:02:31.360><c> can</c>
+the world are using the product, you can
+the world are using the product, you can
+kind<00:02:31.680><c> of</c><00:02:31.760><c> say,</c><00:02:32.000><c> well,</c><00:02:32.239><c> by</c><00:02:32.480><c> default,</c><00:02:32.879><c> it</c><00:02:33.120><c> must</c>
+kind of say, well, by default, it must
+kind of say, well, by default, it must
+be<00:02:33.519><c> the</c><00:02:33.760><c> real</c><00:02:34.000><c> thing.</c><00:02:34.480><c> But</c><00:02:34.720><c> the</c><00:02:35.040><c> reason</c><00:02:35.280><c> I</c><00:02:35.599><c> say</c>
+be the real thing. But the reason I say
+be the real thing. But the reason I say
+you're<00:02:36.239><c> not</c><00:02:36.959><c> actually</c><00:02:37.440><c> using</c><00:02:37.680><c> the</c><00:02:37.920><c> real</c>
+you're not actually using the real
+you're not actually using the real
+product,<00:02:38.800><c> is</c><00:02:39.040><c> that</c><00:02:39.200><c> the</c><00:02:39.440><c> chatbot</c><00:02:40.160><c> is</c><00:02:40.400><c> an</c>
+product, is that the chatbot is an
+product, is that the chatbot is an
+intentionally<00:02:42.160><c> limited</c><00:02:43.040><c> demo.</c><00:02:43.760><c> I'm</c><00:02:43.840><c> going</c><00:02:44.000><c> to</c>
+intentionally limited demo. I'm going to
+intentionally limited demo. I'm going to
+say<00:02:44.160><c> it</c><00:02:44.319><c> again.</c><00:02:44.879><c> The</c><00:02:45.120><c> chatbot</c><00:02:45.599><c> is</c><00:02:45.760><c> an</c>
+say it again. The chatbot is an
+say it again. The chatbot is an
+intentionally<00:02:46.720><c> limited</c><00:02:47.280><c> demo</c><00:02:48.000><c> that</c><00:02:48.319><c> is</c>
+intentionally limited demo that is
+intentionally limited demo that is
+designed<00:02:48.879><c> to</c><00:02:49.040><c> be</c><00:02:49.200><c> just</c><00:02:49.440><c> good</c><00:02:49.680><c> enough</c><00:02:49.840><c> to</c><00:02:50.000><c> hook</c>
+designed to be just good enough to hook
+designed to be just good enough to hook
+you<00:02:50.400><c> in.</c><00:02:50.959><c> That</c><00:02:51.280><c> is</c><00:02:51.599><c> actually</c><00:02:52.480><c> what</c><00:02:52.800><c> chat</c><00:02:53.200><c> GPT</c>
+you in. That is actually what chat GPT
+you in. That is actually what chat GPT
+was<00:02:54.160><c> trying</c><00:02:54.480><c> to</c><00:02:54.720><c> do</c><00:02:54.959><c> when</c><00:02:55.200><c> they</c><00:02:55.519><c> released</c><00:02:55.920><c> the</c>
+was trying to do when they released the
+was trying to do when they released the
+original<00:02:56.959><c> Chat</c><00:02:57.360><c> GPT</c><00:02:57.840><c> that</c><00:02:58.000><c> went</c><00:02:58.160><c> viral.</c><00:02:58.560><c> They</c>
+original Chat GPT that went viral. They
+original Chat GPT that went viral. They
+were<00:02:59.040><c> they</c><00:02:59.280><c> were</c><00:02:59.519><c> releasing</c><00:03:00.160><c> an</c>
+were they were releasing an
+were they were releasing an
+intentionally<00:03:01.040><c> limited</c><00:03:01.440><c> demo.</c><00:03:01.840><c> They</c><00:03:02.080><c> never</c>
+intentionally limited demo. They never
+intentionally limited demo. They never
+thought<00:03:02.400><c> it</c><00:03:02.560><c> would</c><00:03:02.720><c> get</c><00:03:02.879><c> as</c><00:03:03.040><c> big</c><00:03:03.120><c> as</c><00:03:03.280><c> it</c><00:03:03.440><c> did.</c>
+thought it would get as big as it did.
+thought it would get as big as it did.
+And<00:03:03.840><c> now</c><00:03:04.000><c> they're</c><00:03:04.239><c> stuck</c><00:03:04.400><c> with</c><00:03:04.640><c> this</c>
+And now they're stuck with this
+And now they're stuck with this
+worldwide<00:03:05.519><c> product</c><00:03:05.840><c> on</c><00:03:06.080><c> their</c><00:03:06.239><c> hands</c><00:03:06.720><c> that</c>
+worldwide product on their hands that
+worldwide product on their hands that
+was<00:03:07.120><c> meant</c><00:03:07.280><c> to</c><00:03:07.360><c> be</c><00:03:07.440><c> a</c><00:03:07.599><c> demo.</c><00:03:08.000><c> As</c><00:03:08.159><c> an</c><00:03:08.319><c> example</c><00:03:08.560><c> of</c>
+was meant to be a demo. As an example of
+was meant to be a demo. As an example of
+what<00:03:08.879><c> I</c><00:03:09.040><c> mean</c><00:03:09.120><c> by</c><00:03:09.360><c> demo,</c><00:03:09.920><c> reasoning</c><00:03:10.400><c> mode</c><00:03:10.720><c> in</c>
+what I mean by demo, reasoning mode in
+what I mean by demo, reasoning mode in
+chat<00:03:11.360><c> GPT5.</c><00:03:12.319><c> Everyone</c><00:03:12.800><c> thinks,</c><00:03:13.120><c> well,</c><00:03:13.360><c> you</c>
+chat GPT5. Everyone thinks, well, you
+chat GPT5. Everyone thinks, well, you
+have<00:03:13.680><c> three</c><00:03:13.920><c> levels,</c><00:03:14.319><c> right?</c><00:03:14.560><c> You</c><00:03:14.640><c> have</c><00:03:14.800><c> chat</c>
+have three levels, right? You have chat
+have three levels, right? You have chat
+JPG5<00:03:15.920><c> Pro,</c><00:03:16.319><c> you</c><00:03:16.480><c> have</c><00:03:16.640><c> thinking</c><00:03:16.959><c> mode,</c><00:03:17.200><c> and</c>
+JPG5 Pro, you have thinking mode, and
+JPG5 Pro, you have thinking mode, and
+you<00:03:17.519><c> have</c><00:03:17.680><c> fast</c><00:03:18.000><c> mode,</c><00:03:18.239><c> and</c><00:03:18.400><c> people</c><00:03:18.640><c> have</c>
+you have fast mode, and people have
+you have fast mode, and people have
+their<00:03:18.959><c> opinions</c><00:03:19.360><c> about</c><00:03:19.599><c> those,</c><00:03:20.080><c> etc.</c><00:03:20.480><c> We're</c>
+their opinions about those, etc. We're
+their opinions about those, etc. We're
+not<00:03:20.800><c> going</c><00:03:20.879><c> to</c><00:03:20.959><c> go</c><00:03:21.040><c> into</c><00:03:21.280><c> that.</c><00:03:21.519><c> I've</c><00:03:21.760><c> covered</c>
+not going to go into that. I've covered
+not going to go into that. I've covered
+that<00:03:22.080><c> elsewhere.</c><00:03:22.800><c> What</c><00:03:23.120><c> they</c><00:03:23.360><c> don't</c><00:03:23.680><c> realize</c>
+that elsewhere. What they don't realize
+that elsewhere. What they don't realize
+is<00:03:24.800><c> those</c><00:03:25.120><c> are</c><00:03:25.440><c> preset</c><00:03:26.159><c> levels</c><00:03:26.879><c> that</c><00:03:27.360><c> just</c><00:03:27.680><c> are</c>
+is those are preset levels that just are
+is those are preset levels that just are
+there<00:03:28.080><c> for</c><00:03:28.400><c> demoing</c><00:03:28.879><c> the</c><00:03:29.280><c> possibilities.</c><00:03:30.319><c> You</c>
+there for demoing the possibilities. You
+there for demoing the possibilities. You
+can<00:03:30.879><c> actually</c><00:03:31.280><c> go</c><00:03:31.599><c> and</c><00:03:32.000><c> set</c><00:03:32.480><c> reasoning</c>
+can actually go and set reasoning
+can actually go and set reasoning
+efforts<00:03:33.599><c> in</c><00:03:33.840><c> the</c><00:03:34.080><c> API</c><00:03:34.720><c> and</c><00:03:35.040><c> you</c><00:03:35.280><c> can</c><00:03:35.519><c> get</c><00:03:35.840><c> more</c>
+efforts in the API and you can get more
+efforts in the API and you can get more
+power<00:03:37.040><c> than</c><00:03:37.280><c> you</c><00:03:37.440><c> could</c><00:03:37.680><c> even</c><00:03:37.840><c> get</c><00:03:38.000><c> in</c><00:03:38.159><c> Chad</c>
+power than you could even get in Chad
+power than you could even get in Chad
+JPT5<00:03:39.440><c> Pro</c><00:03:39.920><c> in</c><00:03:40.159><c> the</c><00:03:40.319><c> API.</c><00:03:41.040><c> It's</c><00:03:41.280><c> a</c><00:03:41.440><c> good</c><00:03:41.680><c> example</c>
+JPT5 Pro in the API. It's a good example
+JPT5 Pro in the API. It's a good example
+of<00:03:42.319><c> how</c><00:03:42.480><c> the</c><00:03:42.720><c> API</c><00:03:43.280><c> tends</c><00:03:43.599><c> to</c><00:03:43.760><c> give</c><00:03:44.000><c> you</c><00:03:44.560><c> more</c><00:03:44.799><c> of</c>
+of how the API tends to give you more of
+of how the API tends to give you more of
+a<00:03:45.120><c> paint</c><00:03:45.519><c> palette</c><00:03:45.920><c> for</c><00:03:46.159><c> what</c><00:03:46.319><c> you</c><00:03:46.480><c> want</c><00:03:46.640><c> to</c><00:03:46.799><c> do.</c>
+a paint palette for what you want to do.
+a paint palette for what you want to do.
+It's<00:03:47.360><c> like</c><00:03:47.519><c> having</c><00:03:47.840><c> a</c><00:03:48.159><c> set</c><00:03:48.319><c> of</c><00:03:48.560><c> power</c><00:03:48.879><c> tools</c>
+It's like having a set of power tools
+It's like having a set of power tools
+instead<00:03:49.760><c> of</c><00:03:49.920><c> just</c><00:03:50.480><c> hand</c><00:03:50.799><c> tools.</c><00:03:51.360><c> If</c><00:03:51.599><c> you</c><00:03:51.680><c> know</c>
+instead of just hand tools. If you know
+instead of just hand tools. If you know
+what<00:03:52.000><c> you're</c><00:03:52.159><c> doing,</c><00:03:52.400><c> you</c><00:03:52.560><c> can</c><00:03:52.720><c> get</c><00:03:52.799><c> a</c><00:03:52.959><c> lot</c>
+what you're doing, you can get a lot
+what you're doing, you can get a lot
+more<00:03:53.280><c> done.</c><00:03:53.599><c> And</c><00:03:53.760><c> because</c><00:03:54.159><c> documentation</c><00:03:54.879><c> is</c>
+more done. And because documentation is
+more done. And because documentation is
+so<00:03:55.440><c> clean</c><00:03:55.760><c> and</c><00:03:56.080><c> so</c><00:03:56.400><c> useful</c><00:03:56.799><c> now</c><00:03:57.040><c> and</c><00:03:57.280><c> so</c>
+so clean and so useful now and so
+so clean and so useful now and so
+readable<00:03:57.920><c> by</c><00:03:58.239><c> LLMs,</c><00:03:59.120><c> even</c><00:03:59.360><c> if</c><00:03:59.680><c> you've</c><00:04:00.000><c> never</c>
+readable by LLMs, even if you've never
+readable by LLMs, even if you've never
+done<00:04:00.480><c> it</c><00:04:00.640><c> before,</c><00:04:01.439><c> yes,</c><00:04:02.319><c> you</c><00:04:02.640><c> can</c><00:04:03.040><c> use</c><00:04:03.200><c> the</c>
+done it before, yes, you can use the
+done it before, yes, you can use the
+API.<00:04:04.080><c> You</c><00:04:04.319><c> can</c><00:04:04.640><c> another</c><00:04:05.040><c> example</c><00:04:05.760><c> Gemini</c>
+API. You can another example Gemini
+API. You can another example Gemini
+gives<00:04:06.560><c> you</c><00:04:07.120><c> a</c><00:04:07.439><c> different</c><00:04:07.760><c> number</c><00:04:08.000><c> of</c><00:04:08.239><c> tokens</c>
+gives you a different number of tokens
+gives you a different number of tokens
+in<00:04:08.879><c> the</c><00:04:09.120><c> web</c><00:04:09.360><c> interface</c><00:04:09.840><c> than</c><00:04:10.080><c> they</c><00:04:10.319><c> do</c><00:04:10.400><c> in</c><00:04:10.640><c> the</c>
+in the web interface than they do in the
+in the web interface than they do in the
+API.<00:04:11.760><c> Another</c><00:04:12.159><c> example,</c><00:04:12.959><c> chat</c><00:04:13.439><c> GPT</c><00:04:14.480><c> preserves</c>
+API. Another example, chat GPT preserves
+API. Another example, chat GPT preserves
+state<00:04:15.760><c> in</c><00:04:16.079><c> the</c><00:04:16.239><c> API,</c><00:04:16.880><c> remembers</c><00:04:17.440><c> past</c>
+state in the API, remembers past
+state in the API, remembers past
+conversation<00:04:18.239><c> and</c><00:04:18.479><c> reasoning</c><00:04:18.880><c> traces</c><00:04:19.199><c> in</c><00:04:19.280><c> the</c>
+conversation and reasoning traces in the
+conversation and reasoning traces in the
+API<00:04:19.759><c> in</c><00:04:19.919><c> a</c><00:04:20.000><c> way</c><00:04:20.160><c> it</c><00:04:20.320><c> doesn't</c><00:04:20.799><c> in</c><00:04:21.359><c> the</c><00:04:21.600><c> chatbot.</c>
+API in a way it doesn't in the chatbot.
+API in a way it doesn't in the chatbot.
+These<00:04:22.479><c> are</c><00:04:22.639><c> different</c><00:04:23.040><c> products.</c><00:04:23.840><c> You</c><00:04:24.160><c> can</c>
+These are different products. You can
+These are different products. You can
+tune<00:04:25.199><c> what's</c><00:04:25.520><c> called</c><00:04:25.680><c> the</c><00:04:26.080><c> temperature</c><00:04:26.560><c> of</c>
+tune what's called the temperature of
+tune what's called the temperature of
+the<00:04:27.040><c> model</c><00:04:27.280><c> in</c><00:04:27.520><c> the</c><00:04:27.680><c> API</c><00:04:28.479><c> in</c><00:04:28.639><c> a</c><00:04:28.800><c> way</c><00:04:28.960><c> that</c><00:04:29.120><c> you</c>
+the model in the API in a way that you
+the model in the API in a way that you
+cannot<00:04:29.919><c> in</c><00:04:30.160><c> the</c><00:04:30.400><c> chatbot.</c><00:04:30.960><c> So</c><00:04:31.280><c> temperature</c><00:04:31.680><c> is</c>
+cannot in the chatbot. So temperature is
+cannot in the chatbot. So temperature is
+a<00:04:32.080><c> way</c><00:04:32.160><c> of</c><00:04:32.560><c> measuring</c><00:04:33.040><c> the</c><00:04:33.280><c> creativity</c><00:04:33.840><c> of</c><00:04:34.080><c> the</c>
+a way of measuring the creativity of the
+a way of measuring the creativity of the
+model.<00:04:34.639><c> In</c><00:04:34.880><c> the</c><00:04:35.040><c> chatbot,</c><00:04:35.840><c> Chad</c><00:04:36.240><c> GPT</c><00:04:36.880><c> just</c>
+model. In the chatbot, Chad GPT just
+model. In the chatbot, Chad GPT just
+selects<00:04:37.520><c> what</c><00:04:37.759><c> it</c><00:04:37.919><c> thinks</c><00:04:38.080><c> the</c><00:04:38.400><c> public</c><00:04:38.720><c> wants</c>
+selects what it thinks the public wants
+selects what it thinks the public wants
+and<00:04:39.280><c> gives</c><00:04:39.440><c> you</c><00:04:39.600><c> that</c><00:04:39.840><c> and</c><00:04:40.000><c> there's</c><00:04:40.240><c> no</c><00:04:40.400><c> way</c><00:04:40.560><c> to</c>
+and gives you that and there's no way to
+and gives you that and there's no way to
+change<00:04:40.960><c> it.</c><00:04:41.440><c> You</c><00:04:41.680><c> are</c><00:04:41.840><c> not</c><00:04:42.160><c> getting</c><00:04:42.720><c> the</c><00:04:42.960><c> full</c>
+change it. You are not getting the full
+change it. You are not getting the full
+model<00:04:44.000><c> capabilities</c><00:04:44.720><c> that</c><00:04:44.960><c> you</c><00:04:45.199><c> are</c><00:04:45.360><c> paying</c>
+model capabilities that you are paying
+model capabilities that you are paying
+for.<00:04:46.240><c> You're</c><00:04:46.479><c> getting</c><00:04:46.639><c> the</c><00:04:46.880><c> safe</c><00:04:47.120><c> for</c><00:04:47.280><c> the</c>
+for. You're getting the safe for the
+for. You're getting the safe for the
+general<00:04:47.840><c> public</c><00:04:48.240><c> version</c><00:04:48.479><c> of</c><00:04:48.560><c> the</c><00:04:48.720><c> AI.</c><00:04:49.280><c> And</c>
+general public version of the AI. And
+general public version of the AI. And
+that's<00:04:49.680><c> the</c><00:04:49.919><c> first</c><00:04:50.080><c> thing</c><00:04:50.160><c> I</c><00:04:50.400><c> want</c><00:04:50.479><c> to</c><00:04:50.639><c> clear</c>
+that's the first thing I want to clear
+that's the first thing I want to clear
+up<00:04:50.960><c> is</c><00:04:51.280><c> people</c><00:04:51.520><c> think</c><00:04:51.680><c> these</c><00:04:52.000><c> are</c><00:04:52.080><c> the</c><00:04:52.320><c> same</c>
+up is people think these are the same
+up is people think these are the same
+product<00:04:53.280><c> and</c><00:04:53.600><c> anyone</c><00:04:54.160><c> who</c><00:04:54.479><c> has</c><00:04:54.720><c> used</c><00:04:54.960><c> a</c><00:04:55.199><c> model</c>
+product and anyone who has used a model
+product and anyone who has used a model
+in<00:04:55.600><c> the</c><00:04:55.759><c> API</c><00:04:56.240><c> will</c><00:04:56.479><c> tell</c><00:04:56.639><c> you</c><00:04:56.960><c> it</c><00:04:57.360><c> feels</c><00:04:57.840><c> like</c><00:04:58.080><c> a</c>
+in the API will tell you it feels like a
+in the API will tell you it feels like a
+different<00:04:58.720><c> model.</c><00:04:59.199><c> I</c><00:04:59.440><c> also</c><00:04:59.759><c> want</c><00:04:59.919><c> to</c><00:05:00.080><c> call</c><00:05:00.240><c> out</c>
+different model. I also want to call out
+different model. I also want to call out
+that<00:05:01.120><c> the</c><00:05:01.520><c> the</c><00:05:02.080><c> cost</c><00:05:02.800><c> comparison</c><00:05:03.840><c> is</c><00:05:04.160><c> not</c>
+that the the cost comparison is not
+that the the cost comparison is not
+obvious<00:05:04.800><c> to</c><00:05:05.040><c> people,</c><00:05:05.360><c> but</c><00:05:05.600><c> it's</c><00:05:05.840><c> really</c>
+obvious to people, but it's really
+obvious to people, but it's really
+important<00:05:06.479><c> to</c><00:05:06.639><c> get</c><00:05:06.880><c> right.</c><00:05:07.360><c> You</c><00:05:07.919><c> can</c><00:05:08.320><c> actually</c>
+important to get right. You can actually
+important to get right. You can actually
+spend<00:05:09.759><c> less</c><00:05:10.160><c> money</c><00:05:10.560><c> in</c><00:05:10.800><c> the</c><00:05:11.039><c> API</c><00:05:11.600><c> depending</c><00:05:12.000><c> on</c>
+spend less money in the API depending on
+spend less money in the API depending on
+what<00:05:12.479><c> you</c><00:05:12.639><c> need</c><00:05:13.280><c> than</c><00:05:13.520><c> you</c><00:05:13.759><c> would</c><00:05:13.919><c> spend</c><00:05:14.160><c> for</c>
+what you need than you would spend for
+what you need than you would spend for
+just<00:05:14.720><c> $20</c><00:05:15.199><c> a</c><00:05:15.440><c> month</c><00:05:15.520><c> on</c><00:05:15.680><c> the</c><00:05:15.840><c> chatbot.</c><00:05:16.479><c> It</c>
+just $20 a month on the chatbot. It
+just $20 a month on the chatbot. It
+turns<00:05:16.960><c> out</c><00:05:17.120><c> if</c><00:05:17.360><c> you're</c><00:05:17.520><c> not</c><00:05:17.680><c> using</c><00:05:17.919><c> an</c>
+turns out if you're not using an
+turns out if you're not using an
+expensive<00:05:18.639><c> reasoning</c><00:05:19.120><c> model,</c><00:05:19.759><c> 20</c><00:05:20.080><c> bucks</c><00:05:20.960><c> gets</c>
+expensive reasoning model, 20 bucks gets
+expensive reasoning model, 20 bucks gets
+you<00:05:21.600><c> a</c><00:05:22.080><c> real</c><00:05:22.479><c> real</c><00:05:22.880><c> long</c><00:05:23.199><c> ways.</c><00:05:23.759><c> These</c><00:05:24.000><c> are</c>
+you a real real long ways. These are
+you a real real long ways. These are
+cheap,<00:05:24.479><c> cheap,</c><00:05:24.800><c> cheap</c><00:05:24.800><c> cheap</c><00:05:25.120><c> turns,</c>
+cheap, cheap, cheap cheap turns,
+cheap, cheap, cheap cheap turns,
+especially<00:05:26.240><c> for</c><00:05:26.479><c> the</c><00:05:26.639><c> smaller</c><00:05:26.960><c> GPT5</c><00:05:27.759><c> models,</c>
+especially for the smaller GPT5 models,
+especially for the smaller GPT5 models,
+especially<00:05:28.639><c> for</c><00:05:28.880><c> Gemini.</c><00:05:29.440><c> Gemini</c><00:05:29.840><c> is</c><00:05:30.000><c> really</c>
+especially for Gemini. Gemini is really
+especially for Gemini. Gemini is really
+cheap.<00:05:30.720><c> One</c><00:05:30.880><c> of</c><00:05:31.039><c> the</c><00:05:31.199><c> reasons</c><00:05:31.600><c> why</c><00:05:32.400><c> people</c><00:05:32.720><c> in</c>
+cheap. One of the reasons why people in
+cheap. One of the reasons why people in
+production<00:05:33.680><c> applications</c><00:05:34.720><c> use</c><00:05:34.960><c> the</c><00:05:35.120><c> API</c><00:05:36.000><c> is</c>
+production applications use the API is
+production applications use the API is
+because<00:05:36.639><c> you</c><00:05:36.960><c> can</c><00:05:37.199><c> closely</c><00:05:37.759><c> meter</c><00:05:38.160><c> how</c><00:05:38.400><c> much</c>
+because you can closely meter how much
+because you can closely meter how much
+it<00:05:38.800><c> costs.</c><00:05:39.280><c> And</c><00:05:39.440><c> it</c><00:05:39.600><c> turns</c><00:05:39.840><c> out</c><00:05:40.000><c> when</c><00:05:40.240><c> you're</c>
+it costs. And it turns out when you're
+it costs. And it turns out when you're
+not<00:05:40.639><c> paying</c><00:05:40.880><c> a</c><00:05:41.120><c> blanket</c><00:05:41.520><c> price</c><00:05:41.840><c> that</c><00:05:42.160><c> some</c><00:05:42.720><c> CFO</c>
+not paying a blanket price that some CFO
+not paying a blanket price that some CFO
+has<00:05:43.600><c> worked</c><00:05:43.919><c> out</c><00:05:44.160><c> that</c><00:05:44.400><c> explains</c><00:05:45.199><c> the</c><00:05:45.680><c> overall</c>
+has worked out that explains the overall
+has worked out that explains the overall
+average<00:05:46.639><c> usage</c><00:05:47.120><c> cost</c><00:05:47.919><c> for</c><00:05:48.320><c> all</c><00:05:48.720><c> users</c><00:05:49.280><c> kind</c><00:05:49.440><c> of</c>
+average usage cost for all users kind of
+average usage cost for all users kind of
+aggregated<00:05:50.160><c> out.</c><00:05:50.560><c> No,</c><00:05:51.039><c> you</c><00:05:51.280><c> just</c><00:05:51.520><c> pay</c><00:05:51.680><c> for</c>
+aggregated out. No, you just pay for
+aggregated out. No, you just pay for
+what<00:05:52.000><c> you</c><00:05:52.160><c> get.</c><00:05:52.320><c> It's</c><00:05:52.479><c> like</c><00:05:52.560><c> a</c><00:05:52.720><c> toll</c><00:05:52.960><c> road.</c><00:05:53.199><c> You</c>
+what you get. It's like a toll road. You
+what you get. It's like a toll road. You
+you<00:05:53.440><c> you</c><00:05:53.919><c> pay</c><00:05:54.080><c> the</c><00:05:54.240><c> meter</c><00:05:54.560><c> and</c><00:05:54.720><c> you</c><00:05:54.880><c> use</c><00:05:55.120><c> the</c>
+you you pay the meter and you use the
+you you pay the meter and you use the
+road.<00:05:55.840><c> That's</c><00:05:56.160><c> how</c><00:05:56.320><c> it</c><00:05:56.560><c> works.</c><00:05:56.800><c> It's</c><00:05:57.039><c> very</c>
+road. That's how it works. It's very
+road. That's how it works. It's very
+simple.<00:05:57.600><c> It's</c><00:05:57.840><c> very</c><00:05:58.000><c> transparent.</c><00:05:58.800><c> Another</c>
+simple. It's very transparent. Another
+simple. It's very transparent. Another
+example<00:05:59.759><c> of</c><00:05:59.919><c> the</c><00:06:00.240><c> utility.</c><00:06:00.960><c> You</c><00:06:01.360><c> can</c><00:06:01.680><c> actually</c>
+example of the utility. You can actually
+example of the utility. You can actually
+get<00:06:03.120><c> using</c><00:06:03.360><c> that</c><00:06:03.680><c> features</c><00:06:04.000><c> like</c><00:06:04.240><c> that</c>
+get using that features like that
+get using that features like that
+extended<00:06:04.960><c> context</c><00:06:05.520><c> window.</c><00:06:06.319><c> You</c><00:06:06.479><c> can</c><00:06:06.720><c> get</c>
+extended context window. You can get
+extended context window. You can get
+more<00:06:07.759><c> work</c><00:06:08.319><c> done</c><00:06:08.720><c> in</c><00:06:08.960><c> the</c><00:06:09.199><c> API.</c><00:06:09.840><c> This</c><00:06:10.000><c> is</c><00:06:10.160><c> going</c>
+more work done in the API. This is going
+more work done in the API. This is going
+to<00:06:10.400><c> depend</c><00:06:10.560><c> on</c><00:06:10.720><c> you.</c><00:06:10.960><c> If</c><00:06:11.120><c> you're</c><00:06:11.280><c> just</c><00:06:11.440><c> doing</c>
+to depend on you. If you're just doing
+to depend on you. If you're just doing
+recipes<00:06:12.160><c> with</c><00:06:12.319><c> Chad</c><00:06:12.639><c> GPT</c><00:06:13.120><c> and</c><00:06:13.280><c> you're</c>
+recipes with Chad GPT and you're
+recipes with Chad GPT and you're
+perfectly<00:06:13.840><c> happy,</c><00:06:14.319><c> honestly,</c><00:06:14.800><c> you're</c>
+perfectly happy, honestly, you're
+perfectly happy, honestly, you're
+probably<00:06:15.199><c> not</c><00:06:15.440><c> watching</c><00:06:15.680><c> anymore.</c><00:06:16.160><c> Let's</c>
+probably not watching anymore. Let's
+probably not watching anymore. Let's
+just<00:06:16.639><c> let's</c><00:06:16.880><c> just</c><00:06:17.039><c> be</c><00:06:17.199><c> honest.</c><00:06:17.840><c> But</c><00:06:18.240><c> if</c><00:06:18.560><c> you</c>
+just let's just be honest. But if you
+just let's just be honest. But if you
+want<00:06:18.960><c> to</c><00:06:19.120><c> do</c><00:06:19.360><c> something</c><00:06:19.600><c> that</c><00:06:19.919><c> has</c><00:06:20.960><c> a</c><00:06:21.199><c> larger</c>
+want to do something that has a larger
+want to do something that has a larger
+piece<00:06:21.840><c> of</c><00:06:22.000><c> work,</c><00:06:22.319><c> let's</c><00:06:22.560><c> say</c><00:06:22.720><c> you</c><00:06:23.039><c> want</c><00:06:23.199><c> to</c>
+piece of work, let's say you want to
+piece of work, let's say you want to
+work<00:06:24.000><c> with</c><00:06:24.479><c> Claude</c><00:06:24.880><c> in</c><00:06:25.039><c> the</c><00:06:25.280><c> million</c><00:06:25.680><c> token</c>
+work with Claude in the million token
+work with Claude in the million token
+context<00:06:26.639><c> window,</c><00:06:27.120><c> that's</c><00:06:27.360><c> going</c><00:06:27.440><c> to</c><00:06:27.600><c> be</c><00:06:27.759><c> much</c>
+context window, that's going to be much
+context window, that's going to be much
+more<00:06:28.319><c> useful</c><00:06:28.560><c> in</c><00:06:28.800><c> the</c><00:06:28.960><c> API.</c><00:06:29.680><c> You</c><00:06:29.919><c> got</c><00:06:30.000><c> to</c><00:06:30.160><c> work</c>
+more useful in the API. You got to work
+more useful in the API. You got to work
+with<00:06:30.479><c> the</c><00:06:30.639><c> API</c><00:06:31.120><c> so</c><00:06:31.280><c> that</c><00:06:31.520><c> you</c><00:06:31.680><c> can</c><00:06:31.840><c> effectively</c>
+with the API so that you can effectively
+with the API so that you can effectively
+load<00:06:32.800><c> in</c><00:06:32.960><c> the</c><00:06:33.199><c> context.</c><00:06:33.680><c> And</c><00:06:33.919><c> by</c><00:06:34.160><c> the</c><00:06:34.319><c> way,</c><00:06:34.880><c> the</c>
+load in the context. And by the way, the
+load in the context. And by the way, the
+API<00:06:36.080><c> is</c><00:06:36.400><c> how</c><00:06:36.720><c> you</c><00:06:36.960><c> more</c><00:06:37.280><c> finely</c><00:06:37.919><c> control</c><00:06:38.240><c> the</c>
+API is how you more finely control the
+API is how you more finely control the
+context<00:06:38.880><c> in</c><00:06:39.120><c> the</c><00:06:39.280><c> prompt.</c><00:06:39.840><c> If</c><00:06:40.080><c> you're</c><00:06:40.240><c> in</c><00:06:40.400><c> the</c>
+context in the prompt. If you're in the
+context in the prompt. If you're in the
+chatbot,<00:06:41.199><c> there's</c><00:06:41.360><c> a</c><00:06:41.600><c> system</c><00:06:42.000><c> prompt</c><00:06:42.400><c> there</c>
+chatbot, there's a system prompt there
+chatbot, there's a system prompt there
+that<00:06:43.199><c> you</c><00:06:43.360><c> just</c><00:06:43.680><c> cannot</c><00:06:44.080><c> get</c><00:06:44.319><c> past.</c><00:06:45.120><c> That</c><00:06:45.360><c> is</c>
+that you just cannot get past. That is
+that you just cannot get past. That is
+the<00:06:45.840><c> first</c><00:06:46.160><c> thing</c><00:06:46.319><c> the</c><00:06:46.639><c> chatbot</c><00:06:47.199><c> sees.</c><00:06:47.680><c> You've</c>
+the first thing the chatbot sees. You've
+the first thing the chatbot sees. You've
+got<00:06:48.160><c> more</c><00:06:48.560><c> control</c><00:06:49.199><c> in</c><00:06:49.520><c> the</c><00:06:49.680><c> API</c><00:06:50.560><c> over</c><00:06:50.880><c> what</c>
+got more control in the API over what
+got more control in the API over what
+you<00:06:51.280><c> make</c><00:06:51.520><c> the</c><00:06:51.680><c> system</c><00:06:52.000><c> prompt.</c><00:06:52.479><c> Again,</c><00:06:53.199><c> more</c>
+you make the system prompt. Again, more
+you make the system prompt. Again, more
+control,<00:06:54.319><c> more</c><00:06:54.639><c> tools,</c><00:06:55.360><c> power</c><00:06:55.759><c> tools,</c><00:06:56.240><c> not</c>
+control, more tools, power tools, not
+control, more tools, power tools, not
+hand<00:06:56.720><c> tools.</c><00:06:57.120><c> That's</c><00:06:57.280><c> the</c><00:06:57.440><c> metaphor</c><00:06:57.759><c> I</c><00:06:58.000><c> want</c>
+hand tools. That's the metaphor I want
+hand tools. That's the metaphor I want
+you<00:06:58.160><c> to</c><00:06:58.319><c> keep</c><00:06:58.479><c> in</c><00:06:58.639><c> mind.</c><00:06:58.880><c> One</c><00:06:59.039><c> of</c><00:06:59.120><c> the</c><00:06:59.280><c> things</c>
+you to keep in mind. One of the things
+you to keep in mind. One of the things
+that<00:07:00.080><c> you</c><00:07:00.400><c> are</c><00:07:00.639><c> going</c><00:07:00.880><c> to</c><00:07:01.120><c> find</c><00:07:01.360><c> out</c><00:07:01.840><c> is</c><00:07:02.160><c> that</c>
+that you are going to find out is that
+that you are going to find out is that
+you<00:07:02.720><c> want,</c><00:07:03.360><c> if</c><00:07:03.599><c> you're</c><00:07:03.919><c> at</c><00:07:04.160><c> all</c><00:07:04.400><c> serious</c><00:07:04.800><c> about</c>
+you want, if you're at all serious about
+you want, if you're at all serious about
+work,<00:07:05.680><c> you</c><00:07:05.919><c> want</c><00:07:06.080><c> your</c><00:07:06.319><c> chatbot</c><00:07:06.880><c> to</c><00:07:07.039><c> plug</c><00:07:07.360><c> in</c>
+work, you want your chatbot to plug in
+work, you want your chatbot to plug in
+better<00:07:08.160><c> to</c><00:07:08.479><c> other</c><00:07:08.720><c> parts</c><00:07:08.960><c> of</c><00:07:09.120><c> your</c><00:07:09.360><c> workflow.</c>
+better to other parts of your workflow.
+better to other parts of your workflow.
+You<00:07:10.479><c> want</c><00:07:11.039><c> to</c><00:07:11.280><c> not</c><00:07:11.520><c> just</c><00:07:11.759><c> spend</c><00:07:12.000><c> your</c><00:07:12.240><c> day</c>
+You want to not just spend your day
+You want to not just spend your day
+copying<00:07:12.880><c> and</c><00:07:13.039><c> pasting.</c><00:07:13.759><c> This</c><00:07:14.080><c> is</c><00:07:14.240><c> where</c>
+copying and pasting. This is where
+copying and pasting. This is where
+agents<00:07:15.360><c> come</c><00:07:15.520><c> in.</c><00:07:15.759><c> They</c><00:07:16.080><c> promise</c><00:07:16.400><c> to</c><00:07:16.560><c> take</c>
+agents come in. They promise to take
+agents come in. They promise to take
+data<00:07:17.120><c> from</c><00:07:17.280><c> X</c><00:07:17.520><c> and</c><00:07:17.759><c> put</c><00:07:17.919><c> it</c><00:07:18.080><c> into</c><00:07:18.319><c> Y.</c><00:07:19.039><c> But</c><00:07:19.280><c> you</c>
+data from X and put it into Y. But you
+data from X and put it into Y. But you
+know what?<00:07:20.080><c> A</c><00:07:20.319><c> lot</c><00:07:20.479><c> of</c><00:07:20.560><c> people</c><00:07:20.800><c> have</c><00:07:21.039><c> gotten</c>
+know what? A lot of people have gotten
+know what? A lot of people have gotten
+into<00:07:21.520><c> APIs</c><00:07:22.560><c> just</c><00:07:22.880><c> to</c><00:07:23.280><c> write</c><00:07:23.759><c> integrations</c>
+into APIs just to write integrations
+into APIs just to write integrations
+that<00:07:25.280><c> let</c><00:07:25.680><c> them</c><00:07:26.160><c> put</c><00:07:26.400><c> the</c><00:07:26.720><c> LLM</c><00:07:27.360><c> and</c><00:07:27.440><c> the</c>
+that let them put the LLM and the
+that let them put the LLM and the
+intelligence<00:07:28.319><c> where</c><00:07:28.560><c> they</c><00:07:28.880><c> want</c><00:07:29.039><c> it.</c><00:07:29.520><c> I</c><00:07:29.759><c> know</c>
+intelligence where they want it. I know
+intelligence where they want it. I know
+people<00:07:30.160><c> who</c><00:07:30.400><c> have</c><00:07:30.560><c> configured</c><00:07:31.120><c> Obsidian,</c><00:07:31.759><c> a</c>
+people who have configured Obsidian, a
+people who have configured Obsidian, a
+note-taking<00:07:32.479><c> app,</c><00:07:32.720><c> so</c><00:07:32.880><c> they</c><00:07:33.039><c> can</c><00:07:33.199><c> put</c><00:07:33.360><c> LLMs</c>
+note-taking app, so they can put LLMs
+note-taking app, so they can put LLMs
+where<00:07:34.240><c> they</c><00:07:34.400><c> want</c><00:07:34.560><c> it</c><00:07:34.720><c> in</c><00:07:34.880><c> their</c><00:07:35.039><c> notes,</c><00:07:35.520><c> and</c>
+where they want it in their notes, and
+where they want it in their notes, and
+they<00:07:35.840><c> use</c><00:07:36.000><c> the</c><00:07:36.080><c> API</c><00:07:36.479><c> for</c><00:07:36.639><c> that.</c><00:07:37.039><c> One</c><00:07:37.280><c> of</c><00:07:37.360><c> the</c>
+they use the API for that. One of the
+they use the API for that. One of the
+things<00:07:37.599><c> that</c><00:07:37.840><c> Claude</c><00:07:38.160><c> has</c><00:07:38.319><c> done</c><00:07:38.479><c> a</c><00:07:38.639><c> really</c>
+things that Claude has done a really
+things that Claude has done a really
+good<00:07:38.960><c> job</c><00:07:39.120><c> of</c><00:07:39.280><c> is</c><00:07:39.520><c> it's</c><00:07:39.840><c> democratized</c><00:07:40.720><c> access</c>
+good job of is it's democratized access
+good job of is it's democratized access
+to<00:07:41.360><c> tools</c><00:07:41.840><c> through</c><00:07:42.080><c> the</c><00:07:42.319><c> model</c><00:07:42.639><c> context</c>
+to tools through the model context
+to tools through the model context
+protocol<00:07:43.919><c> called</c><00:07:44.160><c> MCP.</c><00:07:44.880><c> And</c><00:07:45.120><c> MCP</c><00:07:45.759><c> servers</c><00:07:46.240><c> let</c>
+protocol called MCP. And MCP servers let
+protocol called MCP. And MCP servers let
+you<00:07:46.720><c> call</c><00:07:47.199><c> tools</c><00:07:47.599><c> with</c><00:07:47.759><c> your</c><00:07:48.000><c> LLM</c><00:07:48.560><c> and</c><00:07:48.720><c> do</c><00:07:48.960><c> all</c>
+you call tools with your LLM and do all
+you call tools with your LLM and do all
+sorts<00:07:49.440><c> of</c><00:07:49.599><c> things.</c><00:07:50.240><c> It's</c><00:07:50.479><c> not</c><00:07:50.720><c> very</c><00:07:50.960><c> easy</c><00:07:51.120><c> to</c>
+sorts of things. It's not very easy to
+sorts of things. It's not very easy to
+do<00:07:51.599><c> MCP</c><00:07:52.160><c> calls</c><00:07:52.479><c> in</c><00:07:52.800><c> chat</c><00:07:53.039><c> bots.</c><00:07:53.520><c> It's</c><00:07:53.759><c> barely</c>
+do MCP calls in chat bots. It's barely
+do MCP calls in chat bots. It's barely
+possible<00:07:54.639><c> in</c><00:07:54.879><c> claude</c><00:07:55.360><c> right</c><00:07:55.520><c> now.</c><00:07:55.840><c> It's</c><00:07:56.080><c> so</c>
+possible in claude right now. It's so
+possible in claude right now. It's so
+much<00:07:56.479><c> easier</c><00:07:56.800><c> in</c><00:07:56.960><c> the</c><00:07:57.120><c> API.</c><00:07:57.840><c> It's</c><00:07:58.080><c> so</c><00:07:58.319><c> much</c>
+much easier in the API. It's so much
+much easier in the API. It's so much
+easier<00:07:58.720><c> in</c><00:07:58.879><c> the</c><00:07:58.960><c> API.</c><00:07:59.680><c> In</c><00:07:59.840><c> a</c><00:08:00.080><c> sense,</c><00:08:00.879><c> one</c><00:08:01.039><c> of</c>
+easier in the API. In a sense, one of
+easier in the API. In a sense, one of
+the<00:08:01.360><c> things</c><00:08:01.520><c> I</c><00:08:01.840><c> am</c><00:08:02.000><c> observing</c><00:08:02.560><c> is</c><00:08:02.879><c> that</c><00:08:03.280><c> very</c>
+the things I am observing is that very
+the things I am observing is that very
+old<00:08:04.319><c> assumptions</c><00:08:05.199><c> about</c><00:08:05.599><c> code</c><00:08:06.400><c> are</c><00:08:06.800><c> scaring</c>
+old assumptions about code are scaring
+old assumptions about code are scaring
+people<00:08:07.680><c> and</c><00:08:08.080><c> keeping</c><00:08:08.479><c> them</c><00:08:09.039><c> from</c><00:08:09.599><c> actually</c>
+people and keeping them from actually
+people and keeping them from actually
+accessing<00:08:10.879><c> a</c><00:08:11.199><c> way</c><00:08:11.360><c> of</c><00:08:11.599><c> working</c><00:08:11.759><c> with</c><00:08:12.000><c> AI</c><00:08:12.400><c> that</c>
+accessing a way of working with AI that
+accessing a way of working with AI that
+is<00:08:12.720><c> in</c><00:08:12.879><c> many</c><00:08:13.199><c> ways</c><00:08:13.759><c> easier</c><00:08:14.240><c> than</c><00:08:14.400><c> the</c><00:08:14.639><c> chatbot.</c>
+is in many ways easier than the chatbot.
+is in many ways easier than the chatbot.
+We<00:08:15.680><c> get</c><00:08:15.840><c> nervous</c><00:08:16.240><c> around</c><00:08:16.479><c> a</c><00:08:16.720><c> terminal.</c><00:08:17.440><c> We</c><00:08:17.680><c> get</c>
+We get nervous around a terminal. We get
+We get nervous around a terminal. We get
+nervous<00:08:18.319><c> around</c><00:08:18.960><c> code.</c><00:08:19.440><c> I</c><00:08:19.680><c> get</c><00:08:19.840><c> it.</c><00:08:20.319><c> We</c><00:08:20.560><c> now</c>
+nervous around code. I get it. We now
+nervous around code. I get it. We now
+have<00:08:21.599><c> worldclass</c><00:08:22.560><c> coding</c><00:08:23.120><c> teachers</c><00:08:23.919><c> on</c><00:08:24.240><c> hand</c>
+have worldclass coding teachers on hand
+have worldclass coding teachers on hand
+and<00:08:25.039><c> they're</c><00:08:25.280><c> getting</c><00:08:25.440><c> better</c><00:08:25.680><c> and</c><00:08:25.919><c> better</c><00:08:26.080><c> at</c>
+and they're getting better and better at
+and they're getting better and better at
+teaching.<00:08:26.560><c> In</c><00:08:26.720><c> fact,</c><00:08:27.039><c> Anthropic</c><00:08:27.759><c> released</c><00:08:28.160><c> an</c>
+teaching. In fact, Anthropic released an
+teaching. In fact, Anthropic released an
+entire<00:08:29.039><c> teaching</c><00:08:29.440><c> mode</c><00:08:30.000><c> for</c><00:08:30.319><c> Claude</c><00:08:30.800><c> Code</c>
+entire teaching mode for Claude Code
+entire teaching mode for Claude Code
+just<00:08:31.759><c> this</c><00:08:32.080><c> week.</c><00:08:32.640><c> Wow,</c><00:08:33.360><c> that's</c><00:08:33.680><c> really</c><00:08:33.919><c> cool.</c>
+just this week. Wow, that's really cool.
+just this week. Wow, that's really cool.
+Or<00:08:34.479><c> maybe</c><00:08:34.640><c> it</c><00:08:34.800><c> was</c><00:08:34.880><c> this</c><00:08:35.120><c> past</c><00:08:35.360><c> week.</c><00:08:35.760><c> And</c><00:08:36.000><c> so,</c>
+Or maybe it was this past week. And so,
+Or maybe it was this past week. And so,
+it's<00:08:36.399><c> easier</c><00:08:36.640><c> and</c><00:08:36.800><c> easier</c><00:08:37.039><c> to</c><00:08:37.279><c> use</c><00:08:37.360><c> these</c>
+it's easier and easier to use these
+it's easier and easier to use these
+APIs.<00:08:38.560><c> Now,</c><00:08:39.039><c> all</c><00:08:39.200><c> of</c><00:08:39.360><c> that</c><00:08:39.599><c> being</c><00:08:39.839><c> said,</c><00:08:40.479><c> there</c>
+APIs. Now, all of that being said, there
+APIs. Now, all of that being said, there
+are<00:08:40.800><c> cases</c><00:08:41.200><c> where</c><00:08:41.760><c> maybe</c><00:08:42.000><c> you</c><00:08:42.240><c> don't</c><00:08:42.320><c> need</c><00:08:42.479><c> the</c>
+are cases where maybe you don't need the
+are cases where maybe you don't need the
+API,<00:08:43.120><c> right?</c><00:08:43.519><c> If</c><00:08:43.680><c> you</c><00:08:43.919><c> are</c><00:08:44.080><c> only</c><00:08:44.320><c> using</c><00:08:44.560><c> AI</c><00:08:44.880><c> for</c>
+API, right? If you are only using AI for
+API, right? If you are only using AI for
+brainstorming,<00:08:45.839><c> if</c><00:08:46.000><c> you're</c><00:08:46.160><c> only</c><00:08:46.399><c> using</c><00:08:46.640><c> it</c>
+brainstorming, if you're only using it
+brainstorming, if you're only using it
+for<00:08:46.959><c> casual</c><00:08:47.440><c> questions,</c><00:08:47.920><c> if</c><00:08:48.160><c> your</c><00:08:48.320><c> biggest</c>
+for casual questions, if your biggest
+for casual questions, if your biggest
+integration<00:08:49.120><c> is,</c><00:08:49.440><c> can</c><00:08:49.680><c> you</c><00:08:49.839><c> search</c><00:08:50.000><c> the</c><00:08:50.240><c> web</c>
+integration is, can you search the web
+integration is, can you search the web
+for<00:08:50.640><c> me?</c><00:08:51.200><c> I</c><00:08:51.360><c> don't</c><00:08:51.519><c> want</c><00:08:51.600><c> to</c><00:08:51.680><c> sit</c><00:08:51.920><c> here</c><00:08:52.000><c> and</c>
+for me? I don't want to sit here and
+for me? I don't want to sit here and
+pretend<00:08:52.480><c> the</c><00:08:52.640><c> API</c><00:08:52.959><c> is</c><00:08:53.120><c> going</c><00:08:53.200><c> to</c><00:08:53.279><c> be</c><00:08:53.440><c> a</c>
+pretend the API is going to be a
+pretend the API is going to be a
+breakthrough<00:08:53.920><c> for</c><00:08:54.080><c> you.</c><00:08:54.399><c> I</c><00:08:54.560><c> don't</c><00:08:54.720><c> think</c>
+breakthrough for you. I don't think
+breakthrough for you. I don't think
+that's<00:08:55.040><c> it.</c><00:08:55.279><c> If</c><00:08:55.519><c> you</c><00:08:55.760><c> love</c><00:08:56.000><c> the</c><00:08:56.240><c> back</c><00:08:56.399><c> and</c>
+that's it. If you love the back and
+that's it. If you love the back and
+forth<00:08:57.040><c> conversational</c><00:08:57.760><c> format</c><00:08:58.240><c> rather</c><00:08:58.480><c> than</c>
+forth conversational format rather than
+forth conversational format rather than
+asking<00:08:59.040><c> the</c><00:08:59.200><c> LLM</c><00:08:59.760><c> to</c><00:08:59.920><c> do</c><00:09:00.080><c> work</c><00:09:00.240><c> and</c><00:09:00.560><c> come</c><00:09:00.720><c> back</c>
+asking the LLM to do work and come back
+asking the LLM to do work and come back
+to<00:09:01.040><c> you,</c><00:09:01.519><c> the</c><00:09:01.760><c> API</c><00:09:02.160><c> may</c><00:09:02.399><c> not</c><00:09:02.560><c> be</c><00:09:02.720><c> for</c><00:09:02.880><c> you,</c><00:09:03.200><c> and</c>
+to you, the API may not be for you, and
+to you, the API may not be for you, and
+that's<00:09:03.760><c> entirely</c><00:09:04.399><c> fine.</c><00:09:04.800><c> The</c><00:09:05.040><c> whole</c><00:09:05.200><c> purpose</c>
+that's entirely fine. The whole purpose
+that's entirely fine. The whole purpose
+of<00:09:05.600><c> this</c><00:09:05.839><c> video</c><00:09:06.080><c> is</c><00:09:06.240><c> to</c><00:09:06.480><c> let</c><00:09:06.560><c> you</c><00:09:06.720><c> make</c><00:09:06.880><c> an</c>
+of this video is to let you make an
+of this video is to let you make an
+informed<00:09:07.519><c> decision.</c><00:09:08.160><c> We</c><00:09:08.399><c> all</c><00:09:08.560><c> get</c><00:09:08.720><c> to</c><00:09:08.880><c> use</c>
+informed decision. We all get to use
+informed decision. We all get to use
+this<00:09:09.279><c> tool</c><00:09:09.519><c> the</c><00:09:09.760><c> way</c><00:09:09.839><c> we</c><00:09:10.080><c> want.</c><00:09:10.640><c> I</c><00:09:10.880><c> just</c><00:09:11.040><c> don't</c>
+this tool the way we want. I just don't
+this tool the way we want. I just don't
+want<00:09:11.360><c> you</c><00:09:11.519><c> to</c><00:09:11.680><c> be</c><00:09:11.839><c> scared</c><00:09:12.000><c> of</c><00:09:12.160><c> the</c><00:09:12.320><c> API.</c><00:09:12.880><c> So,</c>
+want you to be scared of the API. So,
+want you to be scared of the API. So,
+what<00:09:13.600><c> does</c><00:09:13.760><c> an</c><00:09:14.000><c> actual</c><00:09:14.480><c> transition</c><00:09:14.959><c> into</c><00:09:15.279><c> API</c>
+what does an actual transition into API
+what does an actual transition into API
+using<00:09:16.240><c> look</c><00:09:16.480><c> like?</c><00:09:17.040><c> It's</c><00:09:18.399><c> it's</c><00:09:19.200><c> one</c><00:09:19.440><c> of</c><00:09:19.600><c> those</c>
+using look like? It's it's one of those
+using look like? It's it's one of those
+things<00:09:20.320><c> where</c><00:09:20.640><c> one</c><00:09:20.959><c> one</c><00:09:21.279><c> day</c><00:09:21.839><c> if</c><00:09:22.080><c> you're</c><00:09:22.240><c> doing</c>
+things where one one day if you're doing
+things where one one day if you're doing
+work<00:09:22.720><c> and</c><00:09:22.959><c> you're</c><00:09:23.120><c> using</c><00:09:23.440><c> chat</c><00:09:23.839><c> GPT</c><00:09:24.320><c> or</c><00:09:24.480><c> you're</c>
+work and you're using chat GPT or you're
+work and you're using chat GPT or you're
+using<00:09:24.959><c> clutter</c><00:09:25.440><c> using</c><00:09:25.760><c> Gemini</c><00:09:26.320><c> more</c><00:09:26.560><c> and</c><00:09:26.800><c> more</c>
+using clutter using Gemini more and more
+using clutter using Gemini more and more
+maybe<00:09:27.279><c> you're</c><00:09:27.440><c> using</c><00:09:27.680><c> Grock</c><00:09:28.399><c> you're</c><00:09:28.720><c> going</c><00:09:28.880><c> to</c>
+maybe you're using Grock you're going to
+maybe you're using Grock you're going to
+hit<00:09:29.519><c> a</c><00:09:29.839><c> wall</c><00:09:30.240><c> and</c><00:09:30.480><c> you're</c><00:09:30.720><c> going</c><00:09:30.880><c> to</c><00:09:31.040><c> hit</c><00:09:31.200><c> that</c>
+hit a wall and you're going to hit that
+hit a wall and you're going to hit that
+wall<00:09:31.680><c> of</c><00:09:31.920><c> frustration</c><00:09:32.880><c> where</c><00:09:33.120><c> you</c><00:09:33.360><c> have</c><00:09:33.600><c> tried</c>
+wall of frustration where you have tried
+wall of frustration where you have tried
+something<00:09:35.200><c> over</c><00:09:35.440><c> and</c><00:09:35.600><c> over</c><00:09:35.839><c> again</c><00:09:36.160><c> and</c><00:09:36.399><c> you</c>
+something over and over again and you
+something over and over again and you
+just<00:09:36.800><c> are</c><00:09:36.959><c> so</c><00:09:37.200><c> frustrated.</c><00:09:38.080><c> That's</c><00:09:38.399><c> the</c>
+just are so frustrated. That's the
+just are so frustrated. That's the
+moment<00:09:39.040><c> I</c><00:09:39.360><c> want</c><00:09:39.440><c> you</c><00:09:39.600><c> to</c><00:09:39.839><c> remember</c><00:09:40.160><c> this</c>
+moment I want you to remember this
+moment I want you to remember this
+video.<00:09:40.959><c> Let's</c><00:09:41.279><c> say</c><00:09:41.440><c> you've</c><00:09:41.839><c> really</c><00:09:42.160><c> really</c>
+video. Let's say you've really really
+video. Let's say you've really really
+tried<00:09:42.880><c> to</c><00:09:43.120><c> get</c><00:09:43.200><c> the</c><00:09:43.360><c> tone</c><00:09:43.680><c> right</c><00:09:43.920><c> and</c><00:09:44.240><c> you</c><00:09:44.399><c> just</c>
+tried to get the tone right and you just
+tried to get the tone right and you just
+can't<00:09:44.880><c> and</c><00:09:45.120><c> you</c><00:09:45.279><c> want</c><00:09:45.360><c> more</c><00:09:45.680><c> configurability</c>
+can't and you want more configurability
+can't and you want more configurability
+over<00:09:46.720><c> the</c><00:09:46.959><c> tone.</c><00:09:47.519><c> Let's</c><00:09:47.760><c> say</c><00:09:47.920><c> you've</c><00:09:48.240><c> tried</c>
+over the tone. Let's say you've tried
+over the tone. Let's say you've tried
+reasoning<00:09:48.959><c> and</c><00:09:49.120><c> you</c><00:09:49.279><c> don't</c><00:09:49.440><c> have</c><00:09:49.600><c> enough</c>
+reasoning and you don't have enough
+reasoning and you don't have enough
+reasoning<00:09:50.240><c> power.</c><00:09:50.800><c> Or</c><00:09:50.959><c> let's</c><00:09:51.200><c> say</c><00:09:51.360><c> you've</c>
+reasoning power. Or let's say you've
+reasoning power. Or let's say you've
+tried<00:09:51.839><c> to</c><00:09:52.000><c> load</c><00:09:52.240><c> a</c><00:09:52.399><c> big</c><00:09:52.560><c> piece</c><00:09:52.800><c> of</c><00:09:52.959><c> context</c><00:09:53.279><c> and</c>
+tried to load a big piece of context and
+tried to load a big piece of context and
+it's<00:09:53.760><c> just</c><00:09:53.920><c> not</c><00:09:54.160><c> working.</c><00:09:54.800><c> You</c><00:09:54.959><c> need</c><00:09:55.120><c> the</c><00:09:55.360><c> API.</c>
+it's just not working. You need the API.
+it's just not working. You need the API.
+You<00:09:56.320><c> need</c><00:09:56.480><c> the</c><00:09:56.640><c> API.</c><00:09:57.440><c> And</c><00:09:57.600><c> that's</c><00:09:57.839><c> okay</c>
+You need the API. And that's okay
+You need the API. And that's okay
+because<00:09:58.800><c> the</c><00:09:59.040><c> API</c><00:09:59.440><c> is</c><00:09:59.600><c> there</c><00:09:59.760><c> when</c><00:09:59.920><c> it's</c>
+because the API is there when it's
+because the API is there when it's
+ready.<00:10:00.720><c> The</c><00:10:00.959><c> API</c><00:10:01.519><c> is</c><00:10:01.760><c> going</c><00:10:01.920><c> to</c><00:10:02.080><c> give</c><00:10:02.240><c> you</c>
+ready. The API is going to give you
+ready. The API is going to give you
+great<00:10:02.720><c> options.</c><00:10:03.120><c> And</c><00:10:03.360><c> look,</c><00:10:03.839><c> I</c><00:10:04.080><c> would</c><00:10:04.320><c> not</c>
+great options. And look, I would not
+great options. And look, I would not
+suggest<00:10:05.279><c> if</c><00:10:05.519><c> I</c><00:10:05.680><c> were</c><00:10:05.839><c> you</c><00:10:06.399><c> that</c><00:10:06.640><c> you</c><00:10:06.959><c> switch</c>
+suggest if I were you that you switch
+suggest if I were you that you switch
+models<00:10:07.839><c> when</c><00:10:08.080><c> you</c><00:10:08.320><c> move</c><00:10:08.560><c> to</c><00:10:08.720><c> the</c><00:10:08.880><c> API.</c>
+models when you move to the API.
+models when you move to the API.
+Whatever<00:10:09.839><c> you're</c><00:10:10.160><c> currently</c><00:10:10.560><c> using,</c><00:10:10.880><c> you're</c>
+Whatever you're currently using, you're
+Whatever you're currently using, you're
+using<00:10:11.200><c> Chad</c><00:10:11.519><c> JPT,</c><00:10:12.000><c> use</c><00:10:12.160><c> the</c><00:10:12.240><c> Chad</c><00:10:12.560><c> JPT</c><00:10:12.959><c> API.</c>
+using Chad JPT, use the Chad JPT API.
+using Chad JPT, use the Chad JPT API.
+You're<00:10:13.519><c> using</c><00:10:13.760><c> Cloud,</c><00:10:14.079><c> use</c><00:10:14.240><c> the</c><00:10:14.320><c> Cloud</c><00:10:14.640><c> API.</c>
+You're using Cloud, use the Cloud API.
+You're using Cloud, use the Cloud API.
+Don't<00:10:15.519><c> make</c><00:10:15.600><c> it</c><00:10:15.839><c> complicated.</c><00:10:16.480><c> These</c><00:10:16.720><c> are</c><00:10:16.800><c> all</c>
+Don't make it complicated. These are all
+Don't make it complicated. These are all
+fine.<00:10:17.519><c> The</c><00:10:17.839><c> thing</c><00:10:18.000><c> to</c><00:10:18.240><c> call</c><00:10:18.480><c> out</c><00:10:18.800><c> is</c><00:10:19.040><c> that</c><00:10:19.279><c> you</c>
+fine. The thing to call out is that you
+fine. The thing to call out is that you
+will<00:10:19.839><c> immediately</c><00:10:20.560><c> have</c><00:10:21.440><c> so</c><00:10:21.680><c> many</c><00:10:21.920><c> more</c>
+will immediately have so many more
+will immediately have so many more
+options.<00:10:22.480><c> And</c><00:10:22.640><c> I'm</c><00:10:22.800><c> going</c><00:10:22.959><c> to</c><00:10:23.040><c> give</c><00:10:23.200><c> you</c><00:10:23.519><c> as</c><00:10:23.760><c> a</c>
+options. And I'm going to give you as a
+options. And I'm going to give you as a
+review<00:10:24.640><c> five</c><00:10:24.880><c> of</c><00:10:25.040><c> them</c><00:10:25.200><c> that</c><00:10:25.519><c> we've</c><00:10:25.839><c> talked</c>
+review five of them that we've talked
+review five of them that we've talked
+about<00:10:26.320><c> briefly</c><00:10:26.800><c> before,</c><00:10:27.120><c> but</c><00:10:27.279><c> I</c><00:10:27.440><c> want</c><00:10:27.519><c> to</c><00:10:27.680><c> kind</c>
+about briefly before, but I want to kind
+about briefly before, but I want to kind
+of<00:10:27.920><c> underline</c><00:10:28.320><c> them</c><00:10:28.560><c> so</c><00:10:28.800><c> you</c><00:10:29.120><c> actually</c><00:10:29.600><c> see</c>
+of underline them so you actually see
+of underline them so you actually see
+what<00:10:30.480><c> the</c><00:10:30.640><c> API</c><00:10:31.120><c> can</c><00:10:31.360><c> do</c><00:10:31.519><c> and</c><00:10:31.680><c> you</c><00:10:31.839><c> can</c><00:10:32.000><c> make</c><00:10:32.160><c> the</c>
+what the API can do and you can make the
+what the API can do and you can make the
+call<00:10:32.560><c> for</c><00:10:32.720><c> yourself.</c><00:10:33.440><c> Number</c><00:10:33.760><c> one</c><00:10:34.000><c> is</c>
+call for yourself. Number one is
+call for yourself. Number one is
+function<00:10:34.880><c> calling.</c><00:10:35.360><c> That</c><00:10:35.519><c> means</c><00:10:35.680><c> the</c><00:10:35.920><c> AI</c><00:10:36.240><c> can</c>
+function calling. That means the AI can
+function calling. That means the AI can
+trigger<00:10:36.800><c> actions,</c><00:10:37.440><c> not</c><00:10:37.680><c> just</c><00:10:37.839><c> generate</c><00:10:38.320><c> text.</c>
+trigger actions, not just generate text.
+trigger actions, not just generate text.
+Number<00:10:39.360><c> two,</c><00:10:40.079><c> structured</c><00:10:40.720><c> outputs.</c><00:10:41.360><c> Enable</c>
+Number two, structured outputs. Enable
+Number two, structured outputs. Enable
+the<00:10:41.920><c> AI</c><00:10:42.720><c> to</c><00:10:43.440><c> absolutely</c><00:10:44.240><c> every</c><00:10:44.560><c> time</c><00:10:44.880><c> respond</c>
+the AI to absolutely every time respond
+the AI to absolutely every time respond
+in<00:10:45.519><c> JSON,</c><00:10:46.000><c> respond</c><00:10:46.320><c> in</c><00:10:46.560><c> tables,</c><00:10:46.880><c> respond</c><00:10:47.200><c> in</c>
+in JSON, respond in tables, respond in
+in JSON, respond in tables, respond in
+whatever<00:10:47.600><c> format</c><00:10:48.000><c> you</c><00:10:48.160><c> want,</c><00:10:48.399><c> every</c><00:10:48.640><c> single</c>
+whatever format you want, every single
+whatever format you want, every single
+time.<00:10:49.440><c> Have</c><00:10:49.839><c> system</c><00:10:50.320><c> prompts</c><00:10:50.720><c> that</c><00:10:50.959><c> work.</c>
+time. Have system prompts that work.
+time. Have system prompts that work.
+Number<00:10:51.600><c> three,</c><00:10:52.160><c> web</c><00:10:52.480><c> interface</c><00:10:52.880><c> system</c>
+Number three, web interface system
+Number three, web interface system
+prompts<00:10:53.519><c> are</c><00:10:53.680><c> suggestions.</c><00:10:54.480><c> API</c><00:10:55.040><c> system</c>
+prompts are suggestions. API system
+prompts are suggestions. API system
+prompts<00:10:55.600><c> are</c><00:10:55.760><c> more</c><00:10:55.920><c> like</c><00:10:56.079><c> the</c><00:10:56.320><c> law.</c><00:10:56.959><c> Number</c>
+prompts are more like the law. Number
+prompts are more like the law. Number
+four,<00:10:57.600><c> streaming</c><00:10:58.079><c> responses.</c><00:10:58.720><c> You</c><00:10:58.880><c> can</c><00:10:59.040><c> get</c>
+four, streaming responses. You can get
+four, streaming responses. You can get
+words<00:10:59.600><c> generated</c><00:11:00.160><c> as</c><00:11:00.399><c> they're</c><00:11:00.640><c> generated.</c>
+words generated as they're generated.
+words generated as they're generated.
+You<00:11:01.279><c> don't</c><00:11:01.440><c> have</c><00:11:01.519><c> to</c><00:11:01.680><c> wait</c><00:11:01.920><c> for</c><00:11:02.160><c> complete</c>
+You don't have to wait for complete
+You don't have to wait for complete
+responses.<00:11:03.519><c> Batch</c><00:11:04.000><c> processing.</c><00:11:04.800><c> You</c><00:11:04.959><c> can</c>
+responses. Batch processing. You can
+responses. Batch processing. You can
+send<00:11:05.279><c> a</c><00:11:05.440><c> thousand</c><00:11:06.000><c> prompts</c><00:11:06.399><c> at</c><00:11:06.640><c> once</c><00:11:06.880><c> and</c><00:11:07.200><c> get</c>
+send a thousand prompts at once and get
+send a thousand prompts at once and get
+responses<00:11:08.160><c> overnight</c><00:11:08.720><c> if</c><00:11:08.959><c> you're</c><00:11:09.120><c> willing</c><00:11:09.360><c> to</c>
+responses overnight if you're willing to
+responses overnight if you're willing to
+wait.<00:11:10.079><c> There's</c><00:11:10.320><c> all</c><00:11:10.480><c> kinds</c><00:11:10.640><c> of</c><00:11:10.800><c> cool</c><00:11:11.040><c> stuff</c>
+wait. There's all kinds of cool stuff
+wait. There's all kinds of cool stuff
+you<00:11:11.440><c> can</c><00:11:11.600><c> do.</c><00:11:11.920><c> And</c><00:11:12.320><c> it's</c><00:11:12.640><c> cheaper.</c><00:11:13.279><c> It's</c>
+you can do. And it's cheaper. It's
+you can do. And it's cheaper. It's
+cheaper<00:11:14.079><c> unless</c><00:11:14.480><c> you're</c><00:11:14.640><c> using</c><00:11:14.880><c> really</c>
+cheaper unless you're using really
+cheaper unless you're using really
+expensive<00:11:15.519><c> reasoning</c><00:11:15.920><c> tokens,</c><00:11:16.160><c> but</c><00:11:16.399><c> even</c>
+expensive reasoning tokens, but even
+expensive reasoning tokens, but even
+then<00:11:16.720><c> it's</c><00:11:16.880><c> not</c><00:11:17.040><c> that</c><00:11:17.279><c> expensive.</c><00:11:18.160><c> Paying</c><00:11:18.480><c> for</c>
+then it's not that expensive. Paying for
+then it's not that expensive. Paying for
+what<00:11:19.040><c> you</c><00:11:19.279><c> use.</c><00:11:20.000><c> It</c><00:11:20.240><c> could</c><00:11:20.399><c> be</c><00:11:20.560><c> five</c><00:11:20.720><c> bucks.</c><00:11:21.040><c> It</c>
+what you use. It could be five bucks. It
+what you use. It could be five bucks. It
+could<00:11:21.279><c> be</c><00:11:21.519><c> 500</c><00:11:21.839><c> bucks.</c><00:11:22.160><c> And</c><00:11:22.320><c> that</c><00:11:22.560><c> can</c><00:11:22.640><c> feel</c>
+could be 500 bucks. And that can feel
+could be 500 bucks. And that can feel
+risky<00:11:23.200><c> to</c><00:11:23.360><c> people.</c><00:11:23.839><c> But</c><00:11:23.920><c> you</c><00:11:24.160><c> can</c><00:11:24.320><c> set</c><00:11:24.560><c> budgets</c>
+risky to people. But you can set budgets
+risky to people. But you can set budgets
+and<00:11:25.120><c> it</c><00:11:25.279><c> won't</c><00:11:25.440><c> go</c><00:11:25.600><c> past</c><00:11:25.839><c> the</c><00:11:26.000><c> budget.</c><00:11:26.399><c> Like</c>
+and it won't go past the budget. Like
+and it won't go past the budget. Like
+you<00:11:26.800><c> can</c><00:11:26.959><c> control</c><00:11:27.279><c> that</c><00:11:27.680><c> so</c><00:11:27.839><c> it</c><00:11:28.079><c> doesn't</c><00:11:28.240><c> feel</c>
+you can control that so it doesn't feel
+you can control that so it doesn't feel
+like<00:11:28.560><c> it's</c><00:11:28.720><c> too</c><00:11:28.959><c> risky.</c><00:11:29.440><c> Here's</c><00:11:29.760><c> why</c><00:11:30.000><c> this</c>
+like it's too risky. Here's why this
+like it's too risky. Here's why this
+decision<00:11:30.720><c> matters</c><00:11:31.120><c> to</c><00:11:31.360><c> you.</c><00:11:31.920><c> It's</c><00:11:32.160><c> not</c><00:11:32.320><c> just</c>
+decision matters to you. It's not just
+decision matters to you. It's not just
+about<00:11:32.720><c> the</c><00:11:32.880><c> tasks</c><00:11:33.279><c> in</c><00:11:33.519><c> front</c><00:11:33.680><c> of</c><00:11:33.760><c> you.</c><00:11:34.240><c> The</c><00:11:34.560><c> web</c>
+about the tasks in front of you. The web
+about the tasks in front of you. The web
+interface<00:11:35.600><c> is</c><00:11:36.079><c> training</c><00:11:36.560><c> you</c><00:11:36.800><c> to</c><00:11:37.040><c> think</c><00:11:37.360><c> in</c>
+interface is training you to think in
+interface is training you to think in
+chat<00:11:38.079><c> format,</c><00:11:38.720><c> question,</c><00:11:39.440><c> answer,</c><00:11:40.000><c> followup.</c>
+chat format, question, answer, followup.
+chat format, question, answer, followup.
+The<00:11:41.040><c> API</c><00:11:41.760><c> trains</c><00:11:42.079><c> you</c><00:11:42.320><c> to</c><00:11:42.480><c> think</c><00:11:42.720><c> in</c>
+The API trains you to think in
+The API trains you to think in
+workflows,<00:11:43.760><c> input,</c><00:11:44.480><c> process,</c><00:11:45.200><c> output,</c><00:11:45.760><c> and</c>
+workflows, input, process, output, and
+workflows, input, process, output, and
+then<00:11:46.160><c> integrate.</c><00:11:46.959><c> The</c><00:11:47.279><c> latter</c><00:11:47.680><c> is</c><00:11:47.920><c> more</c>
+then integrate. The latter is more
+then integrate. The latter is more
+powerful.<00:11:49.040><c> The</c><00:11:49.279><c> latter</c><00:11:49.680><c> lets</c><00:11:50.000><c> you</c><00:11:50.160><c> get</c><00:11:50.320><c> more</c>
+powerful. The latter lets you get more
+powerful. The latter lets you get more
+done.<00:11:50.959><c> And</c><00:11:51.120><c> that</c><00:11:51.279><c> is</c><00:11:51.440><c> why</c><00:11:51.600><c> I</c><00:11:51.920><c> want</c><00:11:52.079><c> you</c><00:11:52.240><c> to</c><00:11:52.480><c> know</c>
+done. And that is why I want you to know
+done. And that is why I want you to know
+what<00:11:52.880><c> it</c><00:11:53.120><c> feels</c><00:11:53.360><c> like</c><00:11:53.519><c> to</c><00:11:53.680><c> use</c><00:11:53.839><c> the</c><00:11:54.000><c> API</c><00:11:54.399><c> if</c>
+what it feels like to use the API if
+what it feels like to use the API if
+you've<00:11:54.800><c> never</c><00:11:54.880><c> done</c><00:11:55.040><c> it.</c><00:11:55.360><c> Staying</c><00:11:55.760><c> too</c><00:11:56.079><c> long</c>
+you've never done it. Staying too long
+you've never done it. Staying too long
+in<00:11:56.480><c> the</c><00:11:56.640><c> web</c><00:11:56.800><c> interface</c><00:11:57.360><c> if</c><00:11:57.600><c> you</c><00:11:57.760><c> have</c><00:11:57.920><c> dreams</c>
+in the web interface if you have dreams
+in the web interface if you have dreams
+of<00:11:58.480><c> doing</c><00:11:58.720><c> real</c><00:11:58.959><c> work</c><00:11:59.519><c> limits</c><00:11:59.920><c> your</c>
+of doing real work limits your
+of doing real work limits your
+imagination<00:12:00.720><c> about</c><00:12:01.040><c> what</c><00:12:01.360><c> is</c><00:12:01.519><c> possible.</c><00:12:02.240><c> And</c>
+imagination about what is possible. And
+imagination about what is possible. And
+that<00:12:02.640><c> matters.</c><00:12:03.360><c> matters</c><00:12:03.680><c> to</c><00:12:03.839><c> me.</c><00:12:03.920><c> I</c><00:12:04.079><c> want</c><00:12:04.160><c> you</c>
+that matters. matters to me. I want you
+that matters. matters to me. I want you
+to<00:12:04.399><c> have</c><00:12:04.480><c> the</c><00:12:04.640><c> tools</c><00:12:04.880><c> to</c><00:12:05.040><c> make</c><00:12:05.200><c> better</c>
+to have the tools to make better
+to have the tools to make better
+choices.<00:12:06.079><c> Moving</c><00:12:06.639><c> to</c><00:12:06.880><c> the</c><00:12:07.040><c> API</c><00:12:07.519><c> when</c><00:12:07.760><c> you</c><00:12:07.920><c> feel</c>
+choices. Moving to the API when you feel
+choices. Moving to the API when you feel
+like<00:12:08.560><c> you</c><00:12:08.880><c> have</c><00:12:09.040><c> to</c><00:12:09.279><c> because</c><00:12:09.519><c> it's</c><00:12:09.760><c> trendy</c>
+like you have to because it's trendy
+like you have to because it's trendy
+because<00:12:10.399><c> Nate</c><00:12:10.800><c> said</c><00:12:11.040><c> so</c><00:12:11.519><c> is</c><00:12:11.839><c> also</c><00:12:12.079><c> a</c><00:12:12.240><c> bad</c><00:12:12.480><c> idea.</c>
+because Nate said so is also a bad idea.
+because Nate said so is also a bad idea.
+I'm<00:12:13.040><c> not</c><00:12:13.120><c> here</c><00:12:13.279><c> to</c><00:12:13.440><c> make</c><00:12:13.600><c> you</c><00:12:13.839><c> move</c><00:12:14.079><c> to</c><00:12:14.240><c> the</c>
+I'm not here to make you move to the
+I'm not here to make you move to the
+API.<00:12:15.200><c> I</c><00:12:15.440><c> don't</c><00:12:15.600><c> want</c><00:12:15.680><c> you</c><00:12:15.839><c> to</c><00:12:16.000><c> waste</c><00:12:16.320><c> time</c><00:12:16.480><c> on</c>
+API. I don't want you to waste time on
+API. I don't want you to waste time on
+complexity<00:12:17.360><c> you</c><00:12:17.519><c> don't</c><00:12:17.680><c> need.</c><00:12:17.920><c> And</c><00:12:18.000><c> that's</c>
+complexity you don't need. And that's
+complexity you don't need. And that's
+why<00:12:18.240><c> I</c><00:12:18.399><c> called</c><00:12:18.639><c> out</c><00:12:18.800><c> examples</c><00:12:19.360><c> of</c><00:12:19.600><c> uses</c><00:12:20.000><c> that</c>
+why I called out examples of uses that
+why I called out examples of uses that
+don't<00:12:20.399><c> need</c><00:12:20.560><c> it.</c><00:12:20.800><c> If</c><00:12:20.959><c> you're</c><00:12:21.120><c> just</c><00:12:21.279><c> searching</c>
+don't need it. If you're just searching
+don't need it. If you're just searching
+the<00:12:21.839><c> web,</c><00:12:22.240><c> if</c><00:12:22.399><c> you're</c><00:12:22.560><c> just</c><00:12:22.720><c> having</c>
+the web, if you're just having
+the web, if you're just having
+conversations<00:12:23.680><c> back</c><00:12:23.839><c> and</c><00:12:24.000><c> forth</c><00:12:24.160><c> and</c><00:12:24.399><c> you</c>
+conversations back and forth and you
+conversations back and forth and you
+feel<00:12:24.639><c> great</c><00:12:24.880><c> about</c><00:12:25.040><c> that,</c><00:12:25.360><c> you</c><00:12:25.519><c> don't</c><00:12:25.680><c> feel</c><00:12:25.839><c> a</c>
+feel great about that, you don't feel a
+feel great about that, you don't feel a
+need<00:12:26.240><c> for</c><00:12:26.480><c> more</c><00:12:26.800><c> work,</c><00:12:27.360><c> do</c><00:12:27.600><c> not</c><00:12:27.760><c> use</c><00:12:28.000><c> the</c><00:12:28.160><c> API.</c>
+need for more work, do not use the API.
+need for more work, do not use the API.
+Use<00:12:29.120><c> this</c><00:12:29.360><c> video</c><00:12:29.600><c> as</c><00:12:29.760><c> an</c><00:12:30.000><c> excuse.</c><00:12:30.639><c> The</c><00:12:30.880><c> right</c>
+Use this video as an excuse. The right
+Use this video as an excuse. The right
+transition<00:12:31.839><c> time</c><00:12:32.399><c> is</c><00:12:32.720><c> when</c><00:12:32.959><c> you</c><00:12:33.200><c> face</c><00:12:33.600><c> the</c>
+transition time is when you face the
+transition time is when you face the
+interface<00:12:34.639><c> friction</c><00:12:35.120><c> that</c><00:12:35.360><c> I</c><00:12:35.600><c> described.</c><00:12:36.079><c> I</c>
+interface friction that I described. I
+interface friction that I described. I
+gave<00:12:36.480><c> you</c><00:12:36.639><c> some</c><00:12:36.880><c> really</c><00:12:37.200><c> tangible</c><00:12:37.680><c> pain</c>
+gave you some really tangible pain
+gave you some really tangible pain
+points<00:12:38.240><c> I've</c><00:12:38.480><c> seen.</c><00:12:39.040><c> Recognize</c><00:12:40.240><c> those</c><00:12:40.639><c> pain</c>
+points I've seen. Recognize those pain
+points I've seen. Recognize those pain
+points<00:12:41.360><c> are</c><00:12:41.600><c> not</c><00:12:41.839><c> the</c><00:12:42.399><c> fault</c><00:12:42.720><c> of</c><00:12:42.880><c> the</c><00:12:43.120><c> AI.</c>
+points are not the fault of the AI.
+points are not the fault of the AI.
+Those<00:12:44.240><c> pain</c><00:12:44.560><c> points</c><00:12:44.800><c> are</c><00:12:45.040><c> the</c><00:12:45.200><c> fault</c><00:12:45.519><c> of</c><00:12:45.760><c> the</c>
+Those pain points are the fault of the
+Those pain points are the fault of the
+demo<00:12:46.800><c> interface</c><00:12:47.360><c> you're</c><00:12:47.680><c> engaged</c><00:12:48.160><c> with.</c><00:12:48.880><c> You</c>
+demo interface you're engaged with. You
+demo interface you're engaged with. You
+can<00:12:49.519><c> have</c><00:12:50.000><c> better</c><00:12:50.399><c> AI</c><00:12:50.880><c> and</c><00:12:51.120><c> you</c><00:12:51.360><c> deserve</c><00:12:51.600><c> it.</c>
+can have better AI and you deserve it.
+can have better AI and you deserve it.
+So<00:12:52.000><c> there</c><00:12:52.160><c> you</c><00:12:52.399><c> go.</c><00:12:52.720><c> If</c><00:12:52.959><c> you</c><00:12:53.279><c> are</c><00:12:53.519><c> asking,</c>
+So there you go. If you are asking,
+So there you go. If you are asking,
+should<00:12:54.320><c> I</c><00:12:54.560><c> use</c><00:12:54.800><c> the</c><00:12:54.959><c> API?</c><00:12:55.839><c> This</c><00:12:56.079><c> is</c><00:12:56.160><c> the</c><00:12:56.480><c> this</c>
+should I use the API? This is the this
+should I use the API? This is the this
+is<00:12:56.880><c> the</c><00:12:57.120><c> answer.</c><00:12:57.680><c> If</c><00:12:57.839><c> if</c><00:12:58.000><c> if</c><00:12:58.480><c> you</c><00:12:58.639><c> are</c><00:12:58.800><c> worried</c>
+is the answer. If if if you are worried
+is the answer. If if if you are worried
+you<00:12:59.440><c> can't</c><00:12:59.760><c> use</c><00:12:59.920><c> the</c><00:13:00.160><c> API,</c><00:13:00.800><c> this</c><00:13:01.040><c> is</c><00:13:01.120><c> my</c>
+you can't use the API, this is my
+you can't use the API, this is my
+encouragement<00:13:01.839><c> that</c><00:13:02.160><c> you</c><00:13:02.320><c> can.</c><00:13:02.639><c> If</c><00:13:02.880><c> you</c><00:13:03.120><c> want</c>
+encouragement that you can. If you want
+encouragement that you can. If you want
+a<00:13:04.079><c> way</c><00:13:04.240><c> to</c><00:13:04.480><c> get</c><00:13:04.639><c> started,</c><00:13:05.440><c> this</c><00:13:05.680><c> is</c><00:13:05.920><c> how</c><00:13:06.079><c> you</c><00:13:06.320><c> do</c>
+a way to get started, this is how you do
+a way to get started, this is how you do
+it.<00:13:06.720><c> It's</c><00:13:06.959><c> very</c><00:13:07.279><c> simple.</c><00:13:07.680><c> You</c><00:13:07.839><c> go</c><00:13:08.000><c> to</c><00:13:08.240><c> your</c>
+it. It's very simple. You go to your
+it. It's very simple. You go to your
+current<00:13:08.880><c> chatbot</c><00:13:09.680><c> and</c><00:13:09.920><c> you</c><00:13:10.160><c> say,</c><00:13:10.240><c> "I</c><00:13:10.720><c> want</c><00:13:10.880><c> to</c>
+current chatbot and you say, "I want to
+current chatbot and you say, "I want to
+learn<00:13:11.120><c> to</c><00:13:11.279><c> use</c><00:13:11.440><c> the</c><00:13:11.600><c> API.</c><00:13:12.240><c> I've</c><00:13:12.560><c> never</c><00:13:12.720><c> done</c>
+learn to use the API. I've never done
+learn to use the API. I've never done
+it.<00:13:13.200><c> Give</c><00:13:13.360><c> me</c><00:13:13.600><c> step-by-step</c><00:13:14.320><c> instructions.</c>
+it. Give me step-by-step instructions.
+it. Give me step-by-step instructions.
+Please<00:13:15.600><c> use</c><00:13:15.920><c> current</c><00:13:16.240><c> documentation.</c><00:13:17.519><c> Please</c>
+Please use current documentation. Please
+Please use current documentation. Please
+search<00:13:18.720><c> the</c><00:13:18.959><c> web</c><00:13:19.440><c> and</c><00:13:19.760><c> check</c><00:13:20.000><c> your</c><00:13:20.240><c> sources</c>
+search the web and check your sources
+search the web and check your sources
+before<00:13:21.040><c> you</c><00:13:21.279><c> answer."</c><00:13:21.600><c> That</c><00:13:21.920><c> last</c><00:13:22.079><c> bit</c><00:13:22.320><c> is</c>
+before you answer." That last bit is
+before you answer." That last bit is
+really<00:13:22.880><c> important</c><00:13:23.440><c> because</c><00:13:24.079><c> LLMs</c><00:13:24.720><c> tend</c><00:13:24.959><c> to</c>
+really important because LLMs tend to
+really important because LLMs tend to
+default<00:13:25.600><c> to</c><00:13:25.920><c> training</c><00:13:26.320><c> data</c><00:13:26.639><c> from</c><00:13:26.800><c> their</c>
+default to training data from their
+default to training data from their
+cutoff<00:13:27.440><c> date,</c><00:13:28.000><c> which</c><00:13:28.240><c> is</c><00:13:28.399><c> often</c><00:13:28.959><c> early</c><00:13:29.200><c> and</c>
+cutoff date, which is often early and
+cutoff date, which is often early and
+out-of-date<00:13:29.920><c> LLM</c><00:13:30.480><c> documentation.</c><00:13:31.120><c> So,</c><00:13:31.360><c> make</c>
+out-of-date LLM documentation. So, make
+out-of-date LLM documentation. So, make
+sure<00:13:31.600><c> it</c><00:13:31.839><c> searches</c><00:13:32.160><c> the</c><00:13:32.320><c> web,</c><00:13:32.800><c> make</c><00:13:33.040><c> sure</c><00:13:33.120><c> that</c>
+sure it searches the web, make sure that
+sure it searches the web, make sure that
+it<00:13:33.600><c> finds</c><00:13:33.920><c> the</c><00:13:34.160><c> current</c><00:13:34.480><c> documentation,</c><00:13:35.279><c> and</c>
+it finds the current documentation, and
+it finds the current documentation, and
+then<00:13:35.680><c> have</c><00:13:35.839><c> it</c><00:13:36.000><c> explain</c><00:13:36.320><c> it</c><00:13:36.480><c> to</c><00:13:36.639><c> you.</c><00:13:37.120><c> Have</c><00:13:37.279><c> it</c>
+then have it explain it to you. Have it
+then have it explain it to you. Have it
+explain<00:13:37.920><c> how</c><00:13:38.160><c> to</c><00:13:38.320><c> get</c><00:13:38.480><c> started.</c><00:13:39.279><c> And</c><00:13:39.440><c> I</c><00:13:39.760><c> would</c>
+explain how to get started. And I would
+explain how to get started. And I would
+say<00:13:40.240><c> if</c><00:13:40.480><c> you</c><00:13:40.720><c> have</c><00:13:41.440><c> a</c><00:13:41.680><c> point</c><00:13:41.920><c> of</c><00:13:42.160><c> frustration,</c>
+say if you have a point of frustration,
+say if you have a point of frustration,
+be<00:13:43.360><c> honest</c><00:13:43.760><c> with</c><00:13:43.920><c> your</c><00:13:44.160><c> AI</c><00:13:44.560><c> about</c><00:13:44.720><c> the</c><00:13:44.959><c> point</c>
+be honest with your AI about the point
+be honest with your AI about the point
+of<00:13:45.360><c> frustration</c><00:13:46.000><c> and</c><00:13:46.399><c> ask</c><00:13:46.720><c> it</c><00:13:47.040><c> how</c><00:13:47.600><c> the</c><00:13:47.920><c> API</c>
+of frustration and ask it how the API
+of frustration and ask it how the API
+can<00:13:48.720><c> help</c><00:13:48.959><c> you.</c><00:13:49.279><c> It</c><00:13:49.600><c> can</c><00:13:49.839><c> actually</c><00:13:50.240><c> help</c><00:13:50.480><c> you</c>
+can help you. It can actually help you
+can help you. It can actually help you
+figure<00:13:50.959><c> out</c><00:13:51.279><c> how</c><00:13:51.519><c> to</c><00:13:51.680><c> bridge</c><00:13:52.399><c> from</c><00:13:52.720><c> your</c>
+figure out how to bridge from your
+figure out how to bridge from your
+individual<00:13:53.839><c> unique</c><00:13:54.240><c> point</c><00:13:54.560><c> of</c><00:13:54.720><c> frustration</c>
+individual unique point of frustration
+individual unique point of frustration
+to<00:13:55.920><c> a</c><00:13:56.160><c> world</c><00:13:56.320><c> where</c><00:13:56.560><c> the</c><00:13:56.720><c> API</c><00:13:57.120><c> can</c><00:13:57.279><c> help</c><00:13:57.440><c> you</c>
+to a world where the API can help you
+to a world where the API can help you
+solve<00:13:57.839><c> it.</c><00:13:58.320><c> If</c><00:13:58.480><c> you're</c><00:13:58.639><c> not</c><00:13:58.800><c> sure,</c><00:13:59.040><c> if</c><00:13:59.199><c> you're</c>
+solve it. If you're not sure, if you're
+solve it. If you're not sure, if you're
+like,<00:13:59.519><c> I'm</c><00:13:59.680><c> frustrated,</c><00:14:00.240><c> maybe</c><00:14:00.480><c> this</c><00:14:00.639><c> is</c><00:14:00.720><c> what</c>
+like, I'm frustrated, maybe this is what
+like, I'm frustrated, maybe this is what
+Nate<00:14:01.199><c> is</c><00:14:01.360><c> meaning.</c><00:14:01.839><c> Ask</c><00:14:02.079><c> the</c><00:14:02.240><c> AI</c><00:14:02.639><c> about</c><00:14:02.800><c> it.</c>
+Nate is meaning. Ask the AI about it.
+Nate is meaning. Ask the AI about it.
+The<00:14:03.279><c> API</c><00:14:03.680><c> is</c><00:14:03.920><c> not</c><00:14:04.079><c> that</c><00:14:04.320><c> scary.</c><00:14:04.800><c> That's</c><00:14:05.040><c> why</c>
+The API is not that scary. That's why
+The API is not that scary. That's why
+this<00:14:05.519><c> video</c><00:14:05.760><c> exists.</c><00:14:06.320><c> If</c><00:14:06.560><c> you're</c><00:14:06.639><c> a</c><00:14:06.800><c> developer</c>
+this video exists. If you're a developer
+this video exists. If you're a developer
+and<00:14:07.279><c> you've</c><00:14:07.519><c> watched</c><00:14:07.680><c> this</c><00:14:07.839><c> whole</c><00:14:08.000><c> darn</c>
+and you've watched this whole darn
+and you've watched this whole darn
+thing,<00:14:08.560><c> you</c><00:14:08.639><c> know</c><00:14:08.720><c> what's</c><00:14:08.959><c> here</c><00:14:09.120><c> for</c><00:14:09.279><c> you.</c>
+thing, you know what's here for you.
+thing, you know what's here for you.
+This<00:14:10.000><c> is</c><00:14:10.079><c> a</c><00:14:10.320><c> tool.</c><00:14:10.720><c> This</c><00:14:10.880><c> video</c><00:14:11.120><c> is</c><00:14:11.360><c> a</c><00:14:11.440><c> tool.</c>
+This is a tool. This video is a tool.
+This is a tool. This video is a tool.
+This<00:14:12.000><c> talk</c><00:14:12.240><c> track</c><00:14:12.560><c> is</c><00:14:12.720><c> a</c><00:14:12.959><c> tool</c><00:14:13.519><c> that</c><00:14:13.839><c> you</c><00:14:14.000><c> can</c>
+This talk track is a tool that you can
+This talk track is a tool that you can
+use<00:14:14.399><c> to</c><00:14:14.639><c> make</c><00:14:14.800><c> your</c><00:14:15.040><c> work</c><00:14:15.279><c> less</c><00:14:15.600><c> complicated</c>
+use to make your work less complicated
+use to make your work less complicated
+and<00:14:16.320><c> confusing</c><00:14:16.720><c> to</c><00:14:16.959><c> people.</c><00:14:17.680><c> This</c><00:14:17.920><c> is</c><00:14:18.079><c> how</c><00:14:18.240><c> you</c>
+and confusing to people. This is how you
+and confusing to people. This is how you
+explain<00:14:18.880><c> why</c><00:14:19.120><c> APIs</c><00:14:19.760><c> matter</c><00:14:20.320><c> to</c><00:14:20.639><c> people</c><00:14:20.800><c> who</c>
+explain why APIs matter to people who
+explain why APIs matter to people who
+don't<00:14:21.199><c> get</c><00:14:21.360><c> it.</c><00:14:21.600><c> APIs</c><00:14:22.240><c> give</c><00:14:22.480><c> you</c><00:14:22.800><c> power</c><00:14:23.199><c> tools</c>
+don't get it. APIs give you power tools
+don't get it. APIs give you power tools
+for<00:14:23.760><c> AI</c><00:14:24.399><c> and</c><00:14:24.639><c> that</c><00:14:24.880><c> and</c><00:14:25.120><c> that's</c><00:14:25.360><c> really</c>
+for AI and that and that's really
+for AI and that and that's really
+important<00:14:25.920><c> in</c><00:14:26.079><c> a</c><00:14:26.240><c> world</c><00:14:26.399><c> where</c><00:14:26.560><c> we</c><00:14:26.720><c> want</c><00:14:26.800><c> to</c>
+important in a world where we want to
+important in a world where we want to
+get<00:14:27.040><c> real</c><00:14:27.199><c> work</c><00:14:27.360><c> done.</c><00:14:27.760><c> So</c><00:14:27.920><c> there</c><00:14:28.079><c> you</c><00:14:28.240><c> go.</c>
+get real work done. So there you go.
+get real work done. So there you go.
+This<00:14:28.639><c> is</c><00:14:28.720><c> your</c><00:14:28.959><c> reason.</c><00:14:29.279><c> This</c><00:14:29.360><c> is</c><00:14:29.440><c> your</c><00:14:29.680><c> this</c>
+This is your reason. This is your this
+This is your reason. This is your this
+is<00:14:30.079><c> your</c><00:14:30.800><c> video</c><00:14:31.199><c> to</c><00:14:31.519><c> determine</c><00:14:32.160><c> whether</c><00:14:32.480><c> you</c>
+is your video to determine whether you
+is your video to determine whether you
+need<00:14:33.120><c> the</c><00:14:33.440><c> API.</c><00:14:33.920><c> And</c><00:14:34.079><c> if</c><00:14:34.160><c> you</c><00:14:34.320><c> do,</c><00:14:34.959><c> that's</c><00:14:35.199><c> how</c>
+need the API. And if you do, that's how
+need the API. And if you do, that's how
+you<00:14:35.519><c> get</c><00:14:35.680><c> started.</c><00:14:36.320><c> Cheers.</c>

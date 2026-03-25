@@ -1,0 +1,1231 @@
+simple<00:00:00.960><c> wins.</c><00:00:02.159><c> I</c><00:00:02.399><c> want</c><00:00:02.560><c> to</c><00:00:02.720><c> talk</c><00:00:02.879><c> today</c><00:00:03.200><c> about</c>
+simple wins. I want to talk today about
+simple wins. I want to talk today about
+a<00:00:03.600><c> detailed</c><00:00:04.160><c> comparison</c><00:00:04.640><c> between</c><00:00:05.040><c> Chat</c><00:00:05.440><c> GPT2</c>
+a detailed comparison between Chat GPT2
+a detailed comparison between Chat GPT2
+5.2,<00:00:07.040><c> Claude</c><00:00:07.359><c> Opus</c><00:00:07.839><c> 4.5,</c><00:00:08.800><c> and</c><00:00:09.040><c> Gemini</c><00:00:09.679><c> 3.</c><00:00:10.160><c> But</c>
+5.2, Claude Opus 4.5, and Gemini 3. But
+5.2, Claude Opus 4.5, and Gemini 3. But
+instead<00:00:10.719><c> of</c><00:00:10.880><c> just</c><00:00:11.120><c> giving</c><00:00:11.519><c> you</c><00:00:12.080><c> a</c><00:00:12.400><c> baseline</c>
+instead of just giving you a baseline
+instead of just giving you a baseline
+model<00:00:13.280><c> comparison,</c><00:00:14.080><c> I</c><00:00:14.320><c> want</c><00:00:14.480><c> to</c><00:00:14.639><c> let</c><00:00:14.880><c> you</c><00:00:15.120><c> in</c>
+model comparison, I want to let you in
+model comparison, I want to let you in
+on<00:00:16.080><c> how</c><00:00:16.720><c> I</c><00:00:17.199><c> think</c><00:00:17.760><c> about</c><00:00:18.080><c> adopting</c><00:00:18.640><c> new</c><00:00:18.880><c> models</c>
+on how I think about adopting new models
+on how I think about adopting new models
+into<00:00:19.439><c> my</c><00:00:19.680><c> workflow</c><00:00:20.480><c> because</c><00:00:20.800><c> that</c><00:00:21.199><c> is</c><00:00:21.439><c> the</c>
+into my workflow because that is the
+into my workflow because that is the
+hottest<00:00:22.320><c> topic</c><00:00:22.640><c> that</c><00:00:22.800><c> I</c><00:00:23.039><c> could</c><00:00:23.119><c> think</c><00:00:23.279><c> of</c><00:00:23.439><c> for</c>
+hottest topic that I could think of for
+hottest topic that I could think of for
+2026.<00:00:24.400><c> We're</c><00:00:24.560><c> all</c><00:00:24.720><c> going</c><00:00:24.880><c> to</c><00:00:24.960><c> have</c><00:00:25.119><c> a</c><00:00:25.279><c> lot</c><00:00:25.359><c> more</c>
+2026. We're all going to have a lot more
+2026. We're all going to have a lot more
+new<00:00:25.760><c> models.</c><00:00:26.240><c> It's</c><00:00:26.400><c> not</c><00:00:26.560><c> just</c><00:00:26.720><c> going</c><00:00:26.800><c> to</c><00:00:26.880><c> be</c>
+new models. It's not just going to be
+new models. It's not just going to be
+these<00:00:27.279><c> three.</c><00:00:27.920><c> How</c><00:00:28.160><c> do</c><00:00:28.240><c> we</c><00:00:28.400><c> think</c><00:00:28.560><c> about</c>
+these three. How do we think about
+these three. How do we think about
+adopting<00:00:29.119><c> them</c><00:00:29.279><c> in</c><00:00:29.359><c> a</c><00:00:29.519><c> way</c><00:00:29.599><c> that's</c>
+adopting them in a way that's
+adopting them in a way that's
+intelligent?<00:00:30.400><c> And</c><00:00:30.560><c> I'm</c><00:00:30.720><c> going</c><00:00:30.800><c> to</c><00:00:30.880><c> go</c><00:00:31.039><c> back</c><00:00:31.199><c> to</c>
+intelligent? And I'm going to go back to
+intelligent? And I'm going to go back to
+it.<00:00:31.679><c> Simple</c><00:00:32.239><c> wins.</c><00:00:32.719><c> It's</c><00:00:32.880><c> the</c><00:00:33.120><c> only</c><00:00:33.440><c> model</c>
+it. Simple wins. It's the only model
+it. Simple wins. It's the only model
+adoption<00:00:34.239><c> strategy</c><00:00:34.559><c> that</c><00:00:34.800><c> doesn't</c><00:00:35.040><c> rot.</c><00:00:35.440><c> And</c>
+adoption strategy that doesn't rot. And
+adoption strategy that doesn't rot. And
+I'm<00:00:35.680><c> going</c><00:00:35.760><c> to</c><00:00:35.920><c> explain</c><00:00:36.239><c> it</c><00:00:36.399><c> and</c><00:00:36.640><c> how</c><00:00:36.880><c> it</c>
+I'm going to explain it and how it
+I'm going to explain it and how it
+works.<00:00:37.520><c> And</c><00:00:37.680><c> you're</c><00:00:37.840><c> going</c><00:00:37.920><c> to</c><00:00:38.000><c> be</c><00:00:38.079><c> able</c><00:00:38.160><c> to</c>
+works. And you're going to be able to
+works. And you're going to be able to
+learn<00:00:38.480><c> it</c><00:00:38.800><c> and</c><00:00:38.960><c> use</c><00:00:39.120><c> it</c><00:00:39.200><c> for</c><00:00:39.360><c> your</c><00:00:39.520><c> workflows,</c>
+learn it and use it for your workflows,
+learn it and use it for your workflows,
+too.<00:00:40.239><c> It's</c><00:00:40.480><c> not</c><00:00:40.559><c> going</c><00:00:40.640><c> to</c><00:00:40.719><c> take</c><00:00:40.879><c> very</c><00:00:41.120><c> long.</c>
+too. It's not going to take very long.
+too. It's not going to take very long.
+The<00:00:41.760><c> way</c><00:00:41.920><c> most</c><00:00:42.239><c> people</c><00:00:42.559><c> evaluate</c><00:00:43.040><c> a</c><00:00:43.200><c> new</c><00:00:43.360><c> model</c>
+The way most people evaluate a new model
+The way most people evaluate a new model
+is<00:00:44.079><c> by</c><00:00:44.320><c> reading</c><00:00:44.559><c> a</c><00:00:44.719><c> benchmark</c><00:00:45.280><c> chart,</c><00:00:45.760><c> by</c>
+is by reading a benchmark chart, by
+is by reading a benchmark chart, by
+trying<00:00:46.239><c> a</c><00:00:46.480><c> clever</c><00:00:46.800><c> prompt,</c><00:00:47.440><c> by</c><00:00:47.600><c> feeling</c><00:00:47.920><c> a</c>
+trying a clever prompt, by feeling a
+trying a clever prompt, by feeling a
+dopamine<00:00:48.559><c> hit</c><00:00:48.879><c> or</c><00:00:49.120><c> not,</c><00:00:49.760><c> and</c><00:00:49.920><c> then</c><00:00:50.079><c> they</c>
+dopamine hit or not, and then they
+dopamine hit or not, and then they
+slowly<00:00:50.640><c> drift</c><00:00:50.960><c> back</c><00:00:51.120><c> to</c><00:00:51.280><c> whatever</c><00:00:51.600><c> tool</c><00:00:51.840><c> they</c>
+slowly drift back to whatever tool they
+slowly drift back to whatever tool they
+default<00:00:52.399><c> to.</c><00:00:52.719><c> That's</c><00:00:52.960><c> why</c><00:00:53.120><c> so</c><00:00:53.440><c> many</c><00:00:53.600><c> people</c>
+default to. That's why so many people
+default to. That's why so many people
+end<00:00:54.079><c> up</c><00:00:54.480><c> in</c><00:00:54.719><c> Chad</c><00:00:55.039><c> GPT.</c><00:00:55.600><c> It's</c><00:00:55.840><c> not</c><00:00:56.000><c> because</c><00:00:56.160><c> the</c>
+end up in Chad GPT. It's not because the
+end up in Chad GPT. It's not because the
+new<00:00:56.559><c> model</c><00:00:56.879><c> isn't</c><00:00:57.360><c> good.</c><00:00:57.920><c> It's</c><00:00:58.160><c> because</c><00:00:58.320><c> the</c>
+new model isn't good. It's because the
+new model isn't good. It's because the
+evaluation<00:00:59.359><c> isn't</c><00:00:59.840><c> real.</c><00:01:00.480><c> The</c><00:01:00.719><c> only</c>
+evaluation isn't real. The only
+evaluation isn't real. The only
+evaluation<00:01:01.920><c> that</c><00:01:02.239><c> matters</c><00:01:02.719><c> is</c><00:01:02.960><c> whether</c><00:01:03.359><c> a</c>
+evaluation that matters is whether a
+evaluation that matters is whether a
+model<00:01:03.920><c> can</c><00:01:04.159><c> deliver</c><00:01:04.479><c> a</c><00:01:04.879><c> simple</c><00:01:05.600><c> tangible</c><00:01:06.240><c> win</c>
+model can deliver a simple tangible win
+model can deliver a simple tangible win
+that<00:01:07.040><c> you</c><00:01:07.280><c> would</c><00:01:07.439><c> use</c><00:01:07.760><c> every</c><00:01:08.080><c> day.</c><00:01:08.560><c> I'm</c>
+that you would use every day. I'm
+that you would use every day. I'm
+talking<00:01:09.040><c> about</c><00:01:09.200><c> a</c><00:01:09.520><c> small</c><00:01:09.840><c> repeatable</c><00:01:10.400><c> piece</c>
+talking about a small repeatable piece
+talking about a small repeatable piece
+of<00:01:10.799><c> work</c><00:01:11.040><c> that</c><00:01:11.280><c> you</c><00:01:11.600><c> actually</c><00:01:12.000><c> do</c><00:01:12.320><c> all</c><00:01:12.479><c> the</c>
+of work that you actually do all the
+of work that you actually do all the
+time<00:01:13.200><c> where</c><00:01:13.520><c> success</c><00:01:13.920><c> is</c><00:01:14.240><c> obvious,</c><00:01:14.880><c> the</c>
+time where success is obvious, the
+time where success is obvious, the
+downside<00:01:15.520><c> is</c><00:01:15.760><c> contained,</c><00:01:16.159><c> and</c><00:01:16.320><c> the</c><00:01:16.479><c> output</c>
+downside is contained, and the output
+downside is contained, and the output
+lands<00:01:17.840><c> in</c><00:01:18.159><c> spaces</c><00:01:18.479><c> that</c><00:01:18.720><c> your</c><00:01:18.880><c> org</c><00:01:19.200><c> already</c>
+lands in spaces that your org already
+lands in spaces that your org already
+runs<00:01:19.759><c> on.</c><00:01:20.080><c> So</c><00:01:20.320><c> simple</c><00:01:20.720><c> wins</c><00:01:21.040><c> is</c><00:01:21.280><c> not</c><00:01:21.439><c> just</c><00:01:21.680><c> a</c>
+runs on. So simple wins is not just a
+runs on. So simple wins is not just a
+cute<00:01:22.080><c> productivity</c><00:01:22.640><c> slogan.</c><00:01:23.119><c> I'm</c><00:01:23.280><c> not</c>
+cute productivity slogan. I'm not
+cute productivity slogan. I'm not
+putting<00:01:23.600><c> it</c><00:01:23.680><c> on</c><00:01:23.840><c> a</c><00:01:24.000><c> t-shirt.</c><00:01:24.400><c> It's</c><00:01:24.640><c> a</c>
+putting it on a t-shirt. It's a
+putting it on a t-shirt. It's a
+discipline.<00:01:25.520><c> It</c><00:01:25.759><c> prevents</c><00:01:26.159><c> you</c><00:01:26.320><c> from</c><00:01:26.560><c> turning</c>
+discipline. It prevents you from turning
+discipline. It prevents you from turning
+model<00:01:27.360><c> choice</c><00:01:27.759><c> into</c><00:01:28.159><c> the</c><00:01:28.400><c> Mac</c><00:01:28.640><c> versus</c><00:01:29.119><c> Windows</c>
+model choice into the Mac versus Windows
+model choice into the Mac versus Windows
+wars,<00:01:30.080><c> right?</c><00:01:30.400><c> Into</c><00:01:30.640><c> an</c><00:01:30.960><c> identity.</c><00:01:31.840><c> You</c><00:01:32.079><c> need</c>
+wars, right? Into an identity. You need
+wars, right? Into an identity. You need
+to<00:01:32.640><c> not</c><00:01:33.040><c> think</c><00:01:33.360><c> that</c><00:01:33.680><c> way</c><00:01:34.159><c> to</c><00:01:34.400><c> survive</c><00:01:34.799><c> in</c><00:01:35.040><c> the</c>
+to not think that way to survive in the
+to not think that way to survive in the
+AI<00:01:35.600><c> future.</c><00:01:36.400><c> Instead,</c><00:01:37.520><c> simple</c><00:01:38.159><c> wins</c><00:01:38.880><c> forces</c>
+AI future. Instead, simple wins forces
+AI future. Instead, simple wins forces
+you<00:01:39.520><c> to</c><00:01:39.680><c> confront</c><00:01:40.400><c> real</c><00:01:41.040><c> bottlenecks</c><00:01:41.759><c> at</c><00:01:42.000><c> work</c>
+you to confront real bottlenecks at work
+you to confront real bottlenecks at work
+like<00:01:42.640><c> artifact</c><00:01:43.200><c> friction</c><00:01:43.600><c> that</c><00:01:43.840><c> you</c><00:01:44.000><c> may</c><00:01:44.159><c> have</c>
+like artifact friction that you may have
+like artifact friction that you may have
+because<00:01:44.640><c> it's</c><00:01:44.880><c> too</c><00:01:45.040><c> complicated</c><00:01:45.439><c> to</c><00:01:45.600><c> make</c>
+because it's too complicated to make
+because it's too complicated to make
+them<00:01:45.920><c> or</c><00:01:46.079><c> review</c><00:01:46.320><c> them,</c><00:01:46.640><c> like</c><00:01:46.880><c> review</c><00:01:47.280><c> burden.</c>
+them or review them, like review burden.
+them or review them, like review burden.
+It<00:01:48.240><c> gives</c><00:01:48.479><c> you</c><00:01:48.640><c> a</c><00:01:48.880><c> path</c><00:01:49.520><c> to</c><00:01:50.000><c> compound</c><00:01:50.640><c> the</c>
+It gives you a path to compound the
+It gives you a path to compound the
+adoption<00:01:51.439><c> of</c><00:01:51.680><c> models</c><00:01:52.079><c> over</c><00:01:52.399><c> time</c><00:01:52.960><c> without</c>
+adoption of models over time without
+adoption of models over time without
+pretending<00:01:54.479><c> that</c><00:01:54.720><c> you're</c><00:01:55.040><c> doing</c><00:01:55.360><c> lots</c><00:01:55.759><c> of</c>
+pretending that you're doing lots of
+pretending that you're doing lots of
+complicated<00:01:56.560><c> work</c><00:01:57.040><c> at</c><00:01:57.360><c> any</c><00:01:57.600><c> given</c><00:01:57.920><c> moment</c><00:01:58.159><c> to</c>
+complicated work at any given moment to
+complicated work at any given moment to
+test<00:01:58.719><c> out</c><00:01:58.880><c> a</c><00:01:59.040><c> model.</c><00:01:59.600><c> Because</c><00:01:59.840><c> the</c><00:02:00.079><c> deeper</c>
+test out a model. Because the deeper
+test out a model. Because the deeper
+point<00:02:00.560><c> is</c><00:02:00.799><c> that</c><00:02:01.040><c> models</c><00:02:01.520><c> should</c><00:02:01.840><c> not</c><00:02:02.000><c> be</c>
+point is that models should not be
+point is that models should not be
+viewed<00:02:02.719><c> as</c><00:02:03.040><c> a</c><00:02:03.360><c> single</c><00:02:03.759><c> ladder</c><00:02:04.159><c> of</c>
+viewed as a single ladder of
+viewed as a single ladder of
+intelligence<00:02:05.119><c> where</c><00:02:05.439><c> every</c><00:02:05.840><c> new</c><00:02:06.240><c> release</c><00:02:06.719><c> is</c>
+intelligence where every new release is
+intelligence where every new release is
+a<00:02:07.119><c> new</c><00:02:07.280><c> rung</c><00:02:07.600><c> you</c><00:02:07.920><c> have</c><00:02:08.000><c> to</c><00:02:08.160><c> reach</c><00:02:08.399><c> and</c><00:02:08.720><c> migrate</c>
+a new rung you have to reach and migrate
+a new rung you have to reach and migrate
+everything<00:02:09.599><c> to.</c><00:02:10.239><c> Instead,</c><00:02:10.959><c> think</c><00:02:11.200><c> of</c><00:02:11.360><c> them</c><00:02:11.520><c> as</c>
+everything to. Instead, think of them as
+everything to. Instead, think of them as
+different<00:02:12.480><c> shapes</c><00:02:13.120><c> of</c><00:02:13.520><c> competence</c><00:02:14.239><c> that</c><00:02:14.640><c> live</c>
+different shapes of competence that live
+different shapes of competence that live
+inside<00:02:15.599><c> different</c><00:02:15.920><c> kinds</c><00:02:16.239><c> of</c><00:02:16.480><c> surfaces.</c><00:02:17.440><c> The</c>
+inside different kinds of surfaces. The
+inside different kinds of surfaces. The
+model<00:02:18.000><c> matters,</c><00:02:18.319><c> but</c><00:02:18.560><c> the</c><00:02:18.800><c> interface</c><00:02:19.120><c> and</c><00:02:19.360><c> the</c>
+model matters, but the interface and the
+model matters, but the interface and the
+harness<00:02:20.000><c> matter</c><00:02:20.400><c> almost</c><00:02:20.720><c> as</c><00:02:20.959><c> much,</c><00:02:21.360><c> if</c><00:02:21.520><c> not</c>
+harness matter almost as much, if not
+harness matter almost as much, if not
+more.<00:02:22.400><c> And</c><00:02:22.560><c> if</c><00:02:22.800><c> you</c><00:02:23.040><c> ignore</c><00:02:23.200><c> that,</c><00:02:23.520><c> you're</c>
+more. And if you ignore that, you're
+more. And if you ignore that, you're
+going<00:02:23.760><c> to</c><00:02:23.920><c> keep</c><00:02:24.239><c> trying</c><00:02:24.560><c> to</c><00:02:24.800><c> look</c><00:02:25.040><c> for</c><00:02:25.280><c> the</c>
+going to keep trying to look for the
+going to keep trying to look for the
+best<00:02:25.840><c> model,</c><00:02:26.160><c> and</c><00:02:26.400><c> you're</c><00:02:26.560><c> going</c><00:02:26.640><c> to</c><00:02:26.800><c> feel</c>
+best model, and you're going to feel
+best model, and you're going to feel
+like<00:02:27.120><c> the</c><00:02:27.280><c> AI</c><00:02:27.599><c> is</c><00:02:27.760><c> unreliable</c><00:02:28.319><c> and</c><00:02:28.560><c> everything</c>
+like the AI is unreliable and everything
+like the AI is unreliable and everything
+is<00:02:29.120><c> changing.</c><00:02:29.840><c> If</c><00:02:30.080><c> you</c><00:02:30.239><c> lean</c><00:02:30.640><c> into</c><00:02:31.200><c> the</c><00:02:31.520><c> idea</c>
+is changing. If you lean into the idea
+is changing. If you lean into the idea
+of<00:02:32.640><c> simple</c><00:02:33.200><c> wins,</c><00:02:33.680><c> you're</c><00:02:33.840><c> going</c><00:02:33.920><c> to</c><00:02:34.080><c> end</c><00:02:34.239><c> up</c>
+of simple wins, you're going to end up
+of simple wins, you're going to end up
+with<00:02:34.560><c> a</c><00:02:34.800><c> sane</c><00:02:35.280><c> system</c><00:02:35.599><c> for</c><00:02:35.920><c> routing</c><00:02:36.239><c> work</c><00:02:36.480><c> to</c>
+with a sane system for routing work to
+with a sane system for routing work to
+different<00:02:36.959><c> models.</c><00:02:37.599><c> But</c><00:02:37.760><c> let's</c><00:02:38.080><c> make</c><00:02:38.319><c> that</c>
+different models. But let's make that
+different models. But let's make that
+more<00:02:38.800><c> specific.</c><00:02:39.680><c> What's</c><00:02:40.080><c> changing</c><00:02:40.879><c> right</c>
+more specific. What's changing right
+more specific. What's changing right
+now?<00:02:42.080><c> A</c><00:02:42.480><c> lot</c><00:02:42.560><c> of</c><00:02:42.800><c> people</c><00:02:43.440><c> are</c><00:02:43.760><c> asking</c>
+now? A lot of people are asking
+now? A lot of people are asking
+themselves<00:02:45.040><c> whether</c><00:02:45.360><c> they</c><00:02:45.599><c> should</c><00:02:45.760><c> keep</c>
+themselves whether they should keep
+themselves whether they should keep
+evaluating<00:02:46.640><c> AI</c><00:02:46.959><c> as</c><00:02:47.200><c> a</c><00:02:47.280><c> chatbot,</c><00:02:48.160><c> whether</c><00:02:48.480><c> you</c>
+evaluating AI as a chatbot, whether you
+evaluating AI as a chatbot, whether you
+should<00:02:48.800><c> still</c><00:02:49.040><c> have</c><00:02:49.200><c> an</c><00:02:49.360><c> interaction</c><00:02:49.920><c> pattern</c>
+should still have an interaction pattern
+should still have an interaction pattern
+at<00:02:50.480><c> core</c><00:02:50.800><c> that</c><00:02:51.040><c> is</c><00:02:51.519><c> prompt,</c><00:02:52.160><c> response,</c><00:02:53.120><c> tweak.</c>
+at core that is prompt, response, tweak.
+at core that is prompt, response, tweak.
+That's<00:02:54.160><c> no</c><00:02:54.319><c> longer</c><00:02:54.640><c> the</c><00:02:54.879><c> main</c><00:02:55.200><c> place</c><00:02:55.519><c> for</c>
+That's no longer the main place for
+That's no longer the main place for
+serious<00:02:56.239><c> work.</c><00:02:56.800><c> The</c><00:02:57.120><c> big</c><00:02:57.440><c> shift</c><00:02:57.760><c> with</c><00:02:58.000><c> the</c>
+serious work. The big shift with the
+serious work. The big shift with the
+current<00:02:58.480><c> generation</c><00:02:58.959><c> of</c><00:02:59.200><c> models</c><00:02:59.599><c> is</c><00:02:59.840><c> that</c><00:03:00.000><c> you</c>
+current generation of models is that you
+current generation of models is that you
+increasingly<00:03:00.959><c> need</c><00:03:01.120><c> to</c><00:03:01.360><c> hand</c><00:03:01.519><c> the</c><00:03:01.760><c> model</c><00:03:02.080><c> a</c>
+increasingly need to hand the model a
+increasingly need to hand the model a
+real<00:03:02.720><c> work</c><00:03:03.040><c> packet,</c><00:03:03.519><c> a</c><00:03:03.760><c> an</c><00:03:04.080><c> assignment</c><00:03:04.800><c> with</c><00:03:05.040><c> a</c>
+real work packet, a an assignment with a
+real work packet, a an assignment with a
+deliverable<00:03:06.080><c> and</c><00:03:06.319><c> you</c><00:03:06.640><c> need</c><00:03:06.879><c> to</c><00:03:07.200><c> expect</c><00:03:07.599><c> it</c><00:03:07.920><c> to</c>
+deliverable and you need to expect it to
+deliverable and you need to expect it to
+stay<00:03:08.800><c> coherent</c><00:03:09.519><c> long</c><00:03:09.840><c> enough</c><00:03:10.159><c> to</c><00:03:10.400><c> produce</c>
+stay coherent long enough to produce
+stay coherent long enough to produce
+something<00:03:11.200><c> that</c><00:03:11.519><c> you</c><00:03:11.760><c> could</c><00:03:11.920><c> ship</c><00:03:12.400><c> directly</c>
+something that you could ship directly
+something that you could ship directly
+after<00:03:13.200><c> a</c><00:03:13.440><c> quick</c><00:03:13.680><c> review.</c><00:03:14.640><c> That</c><00:03:14.879><c> is</c><00:03:15.120><c> explicitly</c>
+after a quick review. That is explicitly
+after a quick review. That is explicitly
+what<00:03:16.159><c> OpenAI</c><00:03:16.879><c> framed</c><00:03:17.360><c> chat</c><00:03:17.760><c> GPT</c><00:03:18.400><c> 5.2</c><00:03:19.120><c> to</c><00:03:19.360><c> do.</c>
+what OpenAI framed chat GPT 5.2 to do.
+what OpenAI framed chat GPT 5.2 to do.
+But<00:03:20.159><c> it's</c><00:03:20.400><c> not</c><00:03:20.640><c> just</c><00:03:20.959><c> OpenAI.</c><00:03:21.920><c> Opus</c><00:03:22.400><c> is</c>
+But it's not just OpenAI. Opus is
+But it's not just OpenAI. Opus is
+thinking<00:03:22.800><c> about</c><00:03:22.959><c> that.</c><00:03:23.280><c> Anthropic</c><00:03:23.920><c> is</c>
+thinking about that. Anthropic is
+thinking about that. Anthropic is
+thinking<00:03:24.239><c> about</c><00:03:24.400><c> that.</c><00:03:24.720><c> Gemini</c><00:03:25.200><c> is</c><00:03:25.360><c> thinking</c>
+thinking about that. Gemini is thinking
+thinking about that. Gemini is thinking
+about<00:03:25.840><c> that</c><00:03:26.159><c> too.</c><00:03:26.800><c> Once</c><00:03:27.120><c> you</c><00:03:27.360><c> start</c><00:03:27.599><c> operating</c>
+about that too. Once you start operating
+about that too. Once you start operating
+that<00:03:28.319><c> way,</c><00:03:28.640><c> which</c><00:03:28.959><c> model</c><00:03:29.280><c> is</c><00:03:29.519><c> the</c><00:03:29.680><c> smartest</c>
+that way, which model is the smartest
+that way, which model is the smartest
+just<00:03:30.480><c> becomes</c><00:03:30.799><c> the</c><00:03:30.959><c> incorrect</c><00:03:31.519><c> question.</c><00:03:32.319><c> The</c>
+just becomes the incorrect question. The
+just becomes the incorrect question. The
+useful<00:03:33.200><c> question</c><00:03:33.760><c> becomes</c><00:03:34.400><c> which</c><00:03:34.720><c> model</c><00:03:35.280><c> plus</c>
+useful question becomes which model plus
+useful question becomes which model plus
+its<00:03:35.920><c> surface</c><00:03:36.799><c> reliably</c><00:03:37.760><c> completes</c><00:03:38.480><c> a</c>
+its surface reliably completes a
+its surface reliably completes a
+particular<00:03:39.440><c> kind</c><00:03:39.760><c> of</c><00:03:39.920><c> work</c><00:03:40.560><c> without</c><00:03:40.959><c> a</c><00:03:41.120><c> lot</c><00:03:41.200><c> of</c>
+particular kind of work without a lot of
+particular kind of work without a lot of
+downstream<00:03:41.920><c> pain.</c><00:03:42.560><c> That's</c><00:03:42.879><c> where</c><00:03:43.040><c> the</c>
+downstream pain. That's where the
+downstream pain. That's where the
+differences<00:03:43.840><c> between</c><00:03:44.239><c> chat</c><00:03:44.560><c> GPT</c><00:03:45.200><c> 5.2,</c><00:03:45.680><c> 2,</c>
+differences between chat GPT 5.2, 2,
+differences between chat GPT 5.2, 2,
+Gemini<00:03:46.879><c> 3,</c><00:03:47.440><c> and</c><00:03:47.680><c> Claude</c><00:03:48.080><c> Opus</c><00:03:48.640><c> 4.5</c><00:03:49.440><c> really</c><00:03:49.760><c> pop</c>
+Gemini 3, and Claude Opus 4.5 really pop
+Gemini 3, and Claude Opus 4.5 really pop
+out<00:03:50.239><c> and</c><00:03:50.480><c> become</c><00:03:50.720><c> very</c><00:03:51.040><c> practical</c><00:03:51.760><c> if</c><00:03:52.080><c> you</c>
+out and become very practical if you
+out and become very practical if you
+look<00:03:52.319><c> at</c><00:03:52.480><c> them</c><00:03:52.640><c> through</c><00:03:52.879><c> the</c><00:03:53.040><c> lens</c><00:03:53.280><c> of</c><00:03:53.440><c> real</c>
+look at them through the lens of real
+look at them through the lens of real
+business<00:03:54.080><c> work.</c><00:03:54.480><c> Now,</c><00:03:54.720><c> I</c><00:03:54.879><c> know</c><00:03:55.040><c> that</c><00:03:55.280><c> most</c>
+business work. Now, I know that most
+business work. Now, I know that most
+knowledge<00:03:55.920><c> work</c><00:03:56.159><c> comes</c><00:03:56.480><c> across</c><00:03:56.799><c> as</c>
+knowledge work comes across as
+knowledge work comes across as
+complicated,<00:03:58.000><c> but</c><00:03:58.239><c> my</c><00:03:58.480><c> observation</c><00:03:59.040><c> is</c><00:03:59.200><c> that</c>
+complicated, but my observation is that
+complicated, but my observation is that
+it<00:03:59.599><c> collapses</c><00:04:00.159><c> into</c><00:04:00.480><c> a</c><00:04:00.720><c> few</c><00:04:00.959><c> recurring</c><00:04:01.519><c> pain</c>
+it collapses into a few recurring pain
+it collapses into a few recurring pain
+points<00:04:02.080><c> that</c><00:04:02.319><c> are</c><00:04:02.560><c> probably</c><00:04:03.200><c> relevant</c><00:04:03.680><c> for</c><00:04:03.920><c> us</c>
+points that are probably relevant for us
+points that are probably relevant for us
+to<00:04:04.319><c> think</c><00:04:04.480><c> about</c><00:04:05.120><c> when</c><00:04:05.360><c> it</c><00:04:05.519><c> comes</c><00:04:05.680><c> to</c><00:04:05.840><c> this</c>
+to think about when it comes to this
+to think about when it comes to this
+kind<00:04:06.319><c> of</c><00:04:06.560><c> assessment.</c><00:04:07.439><c> The</c><00:04:07.680><c> first</c><00:04:07.920><c> pain</c><00:04:08.319><c> is</c>
+kind of assessment. The first pain is
+kind of assessment. The first pain is
+bandwidth.<00:04:09.599><c> There's</c><00:04:09.840><c> just</c><00:04:10.080><c> too</c><00:04:10.400><c> much</c><00:04:10.480><c> to</c>
+bandwidth. There's just too much to
+bandwidth. There's just too much to
+read.<00:04:11.280><c> There's</c><00:04:11.519><c> too</c><00:04:11.680><c> many</c><00:04:11.840><c> inputs.</c><00:04:12.400><c> There's</c>
+read. There's too many inputs. There's
+read. There's too many inputs. There's
+not<00:04:12.720><c> enough</c><00:04:13.040><c> time</c><00:04:13.280><c> to</c><00:04:13.519><c> build</c><00:04:13.760><c> the</c><00:04:14.000><c> mental</c>
+not enough time to build the mental
+not enough time to build the mental
+model.<00:04:14.879><c> It's</c><00:04:15.120><c> one</c><00:04:15.280><c> of</c><00:04:15.360><c> those</c><00:04:15.519><c> things</c><00:04:15.599><c> where</c>
+model. It's one of those things where
+model. It's one of those things where
+you<00:04:16.000><c> have</c><00:04:16.079><c> a</c><00:04:16.320><c> dock</c><00:04:16.639><c> pack</c><00:04:16.880><c> that</c><00:04:17.120><c> you</c><00:04:17.280><c> need</c><00:04:17.359><c> to</c>
+you have a dock pack that you need to
+you have a dock pack that you need to
+read<00:04:17.680><c> to</c><00:04:17.919><c> walk</c><00:04:18.160><c> into</c><00:04:18.400><c> the</c><00:04:18.560><c> board</c><00:04:18.799><c> meeting</c><00:04:18.959><c> and</c>
+read to walk into the board meeting and
+read to walk into the board meeting and
+not<00:04:19.359><c> look</c><00:04:19.600><c> confused,</c><00:04:20.079><c> but</c><00:04:20.320><c> you</c><00:04:20.479><c> just</c><00:04:20.720><c> don't</c>
+not look confused, but you just don't
+not look confused, but you just don't
+have<00:04:21.040><c> time</c><00:04:21.199><c> on</c><00:04:21.440><c> the</c><00:04:21.600><c> plan</c><00:04:21.840><c> to</c><00:04:22.079><c> do</c><00:04:22.240><c> it.</c><00:04:22.560><c> The</c>
+have time on the plan to do it. The
+have time on the plan to do it. The
+second<00:04:23.120><c> pain</c><00:04:23.440><c> is</c><00:04:23.680><c> execution</c><00:04:24.240><c> on</c><00:04:24.479><c> those</c>
+second pain is execution on those
+second pain is execution on those
+artifacts,<00:04:25.280><c> right?</c><00:04:25.840><c> It's</c><00:04:26.080><c> work</c><00:04:26.320><c> that</c><00:04:26.560><c> has</c><00:04:26.800><c> to</c>
+artifacts, right? It's work that has to
+artifacts, right? It's work that has to
+end<00:04:27.120><c> up</c><00:04:27.199><c> in</c><00:04:27.440><c> Excel</c><00:04:28.000><c> or</c><00:04:28.240><c> a</c><00:04:28.479><c> deck</c><00:04:28.720><c> or</c><00:04:28.960><c> a</c>
+end up in Excel or a deck or a
+end up in Excel or a deck or a
+structured<00:04:29.600><c> doc.</c><00:04:30.160><c> And</c><00:04:30.320><c> the</c><00:04:30.479><c> burden</c><00:04:30.800><c> is</c><00:04:31.040><c> not</c>
+structured doc. And the burden is not
+structured doc. And the burden is not
+just<00:04:31.520><c> having</c><00:04:31.759><c> the</c><00:04:32.080><c> idea</c><00:04:32.320><c> or</c><00:04:32.560><c> a</c><00:04:32.800><c> correct</c>
+just having the idea or a correct
+just having the idea or a correct
+understanding.<00:04:33.680><c> It</c><00:04:33.919><c> is</c><00:04:34.160><c> gosh</c><00:04:34.479><c> darn</c><00:04:34.720><c> it,</c><00:04:34.960><c> we</c>
+understanding. It is gosh darn it, we
+understanding. It is gosh darn it, we
+have<00:04:35.280><c> to</c><00:04:35.440><c> make</c><00:04:35.600><c> it</c><00:04:35.759><c> all</c><00:04:35.919><c> add</c><00:04:36.160><c> up</c><00:04:36.320><c> and</c><00:04:36.560><c> make</c><00:04:36.639><c> the</c>
+have to make it all add up and make the
+have to make it all add up and make the
+deck<00:04:37.040><c> and</c><00:04:37.280><c> package</c><00:04:37.600><c> it</c><00:04:37.759><c> in</c><00:04:37.919><c> the</c><00:04:38.080><c> format</c><00:04:38.320><c> that</c>
+deck and package it in the format that
+deck and package it in the format that
+the<00:04:38.720><c> business</c><00:04:39.040><c> runs</c><00:04:39.280><c> against</c><00:04:39.840><c> or</c><00:04:40.000><c> else</c><00:04:40.240><c> the</c>
+the business runs against or else the
+the business runs against or else the
+work<00:04:40.639><c> is</c><00:04:40.800><c> not</c><00:04:41.040><c> done.</c><00:04:41.360><c> And</c><00:04:41.520><c> then</c><00:04:41.600><c> the</c><00:04:41.759><c> third</c>
+work is not done. And then the third
+work is not done. And then the third
+pain<00:04:42.240><c> is</c><00:04:42.479><c> human</c><00:04:42.720><c> ambiguity,</c><00:04:43.360><c> right?</c><00:04:43.600><c> the</c>
+pain is human ambiguity, right? the
+pain is human ambiguity, right? the
+messy<00:04:44.400><c> political</c><00:04:45.120><c> contradictory</c><00:04:45.840><c> reality</c><00:04:46.240><c> of</c>
+messy political contradictory reality of
+messy political contradictory reality of
+the<00:04:46.639><c> organization</c><00:04:47.280><c> where</c><00:04:47.520><c> tone</c><00:04:47.919><c> matters,</c>
+the organization where tone matters,
+the organization where tone matters,
+where<00:04:48.560><c> incentives</c><00:04:49.199><c> matters,</c><00:04:49.600><c> who</c><00:04:49.759><c> got</c>
+where incentives matters, who got
+where incentives matters, who got
+promoted<00:04:50.400><c> last</c><00:04:50.800><c> matters,</c><00:04:51.520><c> false</c><00:04:51.919><c> coherence</c>
+promoted last matters, false coherence
+promoted last matters, false coherence
+can<00:04:52.720><c> be</c><00:04:52.880><c> much</c><00:04:53.199><c> more</c><00:04:53.360><c> dangerous</c><00:04:53.759><c> than</c>
+can be much more dangerous than
+can be much more dangerous than
+admitting<00:04:54.560><c> uncertainty.</c><00:04:55.759><c> If</c><00:04:56.000><c> you</c><00:04:56.240><c> can</c><00:04:56.479><c> figure</c>
+admitting uncertainty. If you can figure
+admitting uncertainty. If you can figure
+out<00:04:57.199><c> which</c><00:04:57.600><c> pain</c><00:04:58.000><c> matters</c><00:04:58.479><c> most,</c><00:04:59.280><c> it's</c><00:04:59.680><c> going</c>
+out which pain matters most, it's going
+out which pain matters most, it's going
+to<00:05:00.000><c> help</c><00:05:00.320><c> you</c><00:05:00.560><c> figure</c><00:05:00.800><c> out</c><00:05:01.040><c> what</c><00:05:01.360><c> model</c><00:05:01.759><c> you</c>
+to help you figure out what model you
+to help you figure out what model you
+need<00:05:02.160><c> to</c><00:05:02.400><c> work</c><00:05:02.639><c> on.</c><00:05:03.040><c> Let</c><00:05:03.199><c> me</c><00:05:03.360><c> give</c><00:05:03.520><c> you</c><00:05:03.680><c> some</c>
+need to work on. Let me give you some
+need to work on. Let me give you some
+examples<00:05:04.240><c> from</c><00:05:04.479><c> current</c><00:05:04.800><c> leading</c><00:05:05.120><c> models.</c>
+examples from current leading models.
+examples from current leading models.
+So,<00:05:05.680><c> this</c><00:05:05.919><c> feels</c><00:05:06.160><c> like</c><00:05:06.400><c> it</c><00:05:06.560><c> it</c><00:05:06.800><c> gets</c><00:05:07.280><c> think</c><00:05:07.440><c> of</c>
+So, this feels like it it gets think of
+So, this feels like it it gets think of
+Gemini<00:05:08.400><c> 3</c><00:05:08.720><c> is</c><00:05:08.880><c> a</c><00:05:09.039><c> bandwidth</c><00:05:09.600><c> engine.</c><00:05:10.320><c> Gemini's</c>
+Gemini 3 is a bandwidth engine. Gemini's
+Gemini 3 is a bandwidth engine. Gemini's
+3's<00:05:11.759><c> superpower,</c><00:05:12.400><c> when</c><00:05:12.639><c> it's</c><00:05:12.880><c> working</c><00:05:13.120><c> well,</c>
+3's superpower, when it's working well,
+3's superpower, when it's working well,
+is<00:05:13.680><c> that</c><00:05:13.840><c> it</c><00:05:14.000><c> can</c><00:05:14.320><c> ingest</c><00:05:14.800><c> an</c><00:05:15.199><c> absolutely</c>
+is that it can ingest an absolutely
+is that it can ingest an absolutely
+absurd<00:05:16.479><c> amount</c><00:05:16.720><c> of</c><00:05:16.960><c> material</c><00:05:17.440><c> and</c><00:05:17.680><c> give</c><00:05:17.840><c> you</c><00:05:18.080><c> a</c>
+absurd amount of material and give you a
+absurd amount of material and give you a
+clean<00:05:18.720><c> overall</c><00:05:19.280><c> map.</c><00:05:19.840><c> Google</c><00:05:20.160><c> is</c><00:05:20.400><c> really</c>
+clean overall map. Google is really
+clean overall map. Google is really
+explicit<00:05:21.120><c> about</c><00:05:21.280><c> Gemini</c><00:05:21.919><c> 3's</c><00:05:22.320><c> massive</c>
+explicit about Gemini 3's massive
+explicit about Gemini 3's massive
+context<00:05:23.280><c> window.</c><00:05:23.919><c> And</c><00:05:24.160><c> the</c><00:05:24.400><c> practical</c><00:05:24.960><c> effect</c>
+context window. And the practical effect
+context window. And the practical effect
+of<00:05:25.440><c> that</c><00:05:25.840><c> million</c><00:05:26.320><c> tokens</c><00:05:26.800><c> is</c><00:05:27.120><c> that</c><00:05:27.440><c> it</c>
+of that million tokens is that it
+of that million tokens is that it
+doesn't<00:05:28.000><c> mean</c><00:05:28.080><c> that</c><00:05:28.320><c> it's</c><00:05:28.479><c> magically</c>
+doesn't mean that it's magically
+doesn't mean that it's magically
+smarter.<00:05:29.759><c> It</c><00:05:30.000><c> just</c><00:05:30.160><c> means</c><00:05:30.320><c> that</c><00:05:30.479><c> it</c><00:05:30.720><c> loses</c><00:05:30.960><c> the</c>
+smarter. It just means that it loses the
+smarter. It just means that it loses the
+thread<00:05:31.520><c> less</c><00:05:31.759><c> often</c><00:05:32.080><c> when</c><00:05:32.240><c> the</c><00:05:32.400><c> input</c><00:05:32.720><c> is</c>
+thread less often when the input is
+thread less often when the input is
+really<00:05:33.199><c> huge</c><00:05:33.440><c> and</c><00:05:33.600><c> messy</c><00:05:34.000><c> and</c><00:05:34.240><c> it</c><00:05:34.400><c> can</c><00:05:34.560><c> dig</c>
+really huge and messy and it can dig
+really huge and messy and it can dig
+into<00:05:34.960><c> a</c><00:05:35.199><c> big</c><00:05:35.440><c> synthesis</c><00:05:36.080><c> without</c><00:05:36.800><c> collapsing</c>
+into a big synthesis without collapsing
+into a big synthesis without collapsing
+into<00:05:37.600><c> shallow</c><00:05:38.080><c> summarization.</c><00:05:38.960><c> So</c><00:05:39.280><c> the</c>
+into shallow summarization. So the
+into shallow summarization. So the
+simple<00:05:39.840><c> win</c><00:05:40.400><c> simple</c><00:05:40.800><c> wins</c><00:05:41.120><c> for</c><00:05:41.360><c> Gemini</c><00:05:41.840><c> 3</c><00:05:42.080><c> is</c>
+simple win simple wins for Gemini 3 is
+simple win simple wins for Gemini 3 is
+not<00:05:42.560><c> write</c><00:05:42.880><c> my</c><00:05:43.199><c> strategy</c><00:05:43.680><c> memo.</c><00:05:44.240><c> The</c><00:05:44.479><c> simple</c>
+not write my strategy memo. The simple
+not write my strategy memo. The simple
+win<00:05:45.039><c> is</c><00:05:45.440><c> turn</c><00:05:45.680><c> this</c><00:05:45.919><c> mountain</c><00:05:46.240><c> of</c><00:05:46.400><c> stuff</c><00:05:46.639><c> into</c>
+win is turn this mountain of stuff into
+win is turn this mountain of stuff into
+some<00:05:47.120><c> kind</c><00:05:47.280><c> of</c><00:05:47.360><c> a</c><00:05:47.520><c> map</c><00:05:47.840><c> so</c><00:05:48.000><c> I</c><00:05:48.160><c> can</c><00:05:48.320><c> make</c><00:05:48.479><c> sense</c>
+some kind of a map so I can make sense
+some kind of a map so I can make sense
+of<00:05:48.880><c> it.</c><00:05:49.520><c> So</c><00:05:49.759><c> feed</c><00:05:50.160><c> those</c><00:05:50.479><c> long</c><00:05:50.800><c> docs,</c><00:05:51.199><c> feed</c><00:05:51.440><c> it</c>
+of it. So feed those long docs, feed it
+of it. So feed those long docs, feed it
+those<00:05:51.759><c> notes,</c><00:05:52.080><c> feed</c><00:05:52.320><c> it</c><00:05:52.479><c> those</c><00:05:52.639><c> screenshots,</c>
+those notes, feed it those screenshots,
+those notes, feed it those screenshots,
+feed<00:05:53.440><c> it</c><00:05:53.600><c> the</c><00:05:53.759><c> meeting</c><00:05:54.080><c> transcript</c><00:05:54.720><c> and</c><00:05:55.039><c> ask</c>
+feed it the meeting transcript and ask
+feed it the meeting transcript and ask
+for<00:05:55.440><c> an</c><00:05:55.600><c> outline</c><00:05:56.240><c> that</c><00:05:56.639><c> makes</c><00:05:56.880><c> the</c><00:05:57.199><c> problem</c>
+for an outline that makes the problem
+for an outline that makes the problem
+space<00:05:58.160><c> really</c><00:05:58.479><c> legible.</c><00:05:59.280><c> What's</c><00:05:59.680><c> being</c>
+space really legible. What's being
+space really legible. What's being
+claimed?<00:06:00.960><c> What</c><00:06:01.199><c> contradicts</c><00:06:02.240><c> what?</c><00:06:02.560><c> What's</c>
+claimed? What contradicts what? What's
+claimed? What contradicts what? What's
+missing?<00:06:03.520><c> What</c><00:06:03.759><c> what</c><00:06:04.080><c> should</c><00:06:04.240><c> I</c><00:06:04.400><c> ask</c><00:06:04.720><c> next?</c>
+missing? What what should I ask next?
+missing? What what should I ask next?
+Gemini<00:06:05.840><c> is</c><00:06:06.000><c> often</c><00:06:06.639><c> really</c><00:06:06.960><c> really</c><00:06:07.360><c> good</c><00:06:07.680><c> at</c>
+Gemini is often really really good at
+Gemini is often really really good at
+this<00:06:08.240><c> kind</c><00:06:08.400><c> of</c><00:06:08.639><c> compression</c><00:06:09.120><c> when</c><00:06:09.360><c> the</c>
+this kind of compression when the
+this kind of compression when the
+alternative<00:06:10.000><c> is</c><00:06:10.319><c> hours</c><00:06:10.560><c> and</c><00:06:10.720><c> hours</c><00:06:10.960><c> of</c>
+alternative is hours and hours of
+alternative is hours and hours of
+reading.<00:06:11.680><c> Where</c><00:06:11.919><c> Gemini</c><00:06:12.479><c> tends</c><00:06:12.720><c> to</c><00:06:12.880><c> create</c>
+reading. Where Gemini tends to create
+reading. Where Gemini tends to create
+pain<00:06:13.520><c> is</c><00:06:13.759><c> downstream.</c><00:06:14.479><c> The</c><00:06:14.800><c> business</c><00:06:15.120><c> world</c>
+pain is downstream. The business world
+pain is downstream. The business world
+is<00:06:15.680><c> still</c><00:06:16.000><c> deeply</c><00:06:16.720><c> Microsoft</c><00:06:17.600><c> Office</c><00:06:18.400><c> shaped</c>
+is still deeply Microsoft Office shaped
+is still deeply Microsoft Office shaped
+and<00:06:19.039><c> there's</c><00:06:19.360><c> often</c><00:06:19.600><c> a</c><00:06:19.840><c> conversion</c><00:06:20.400><c> tax</c><00:06:20.800><c> when</c>
+and there's often a conversion tax when
+and there's often a conversion tax when
+you<00:06:21.120><c> need</c><00:06:21.199><c> to</c><00:06:21.360><c> get</c><00:06:21.440><c> a</c><00:06:21.600><c> great</c><00:06:21.840><c> synthesis</c><00:06:22.319><c> and</c>
+you need to get a great synthesis and
+you need to get a great synthesis and
+turn<00:06:22.720><c> it</c><00:06:22.880><c> into</c><00:06:23.120><c> a</c><00:06:23.360><c> spreadsheet,</c><00:06:23.919><c> a</c><00:06:24.080><c> deck</c><00:06:24.319><c> or</c><00:06:24.479><c> a</c>
+turn it into a spreadsheet, a deck or a
+turn it into a spreadsheet, a deck or a
+document<00:06:25.120><c> in</c><00:06:25.360><c> the</c><00:06:25.520><c> exact</c><00:06:26.000><c> structure</c><00:06:26.479><c> that</c>
+document in the exact structure that
+document in the exact structure that
+your<00:06:26.960><c> org</c><00:06:27.360><c> expects.</c><00:06:28.080><c> The</c><00:06:28.319><c> model</c><00:06:28.560><c> can</c><00:06:28.800><c> be</c>
+your org expects. The model can be
+your org expects. The model can be
+brilliant<00:06:29.280><c> and</c><00:06:29.600><c> still</c><00:06:29.840><c> lose</c><00:06:30.080><c> you</c><00:06:30.400><c> time</c>
+brilliant and still lose you time
+brilliant and still lose you time
+because<00:06:30.880><c> of</c><00:06:31.039><c> the</c><00:06:31.360><c> workflow</c><00:06:31.759><c> and</c><00:06:32.000><c> its</c>
+because of the workflow and its
+because of the workflow and its
+friction.<00:06:32.720><c> So</c><00:06:32.960><c> I</c><00:06:33.199><c> don't</c><00:06:33.280><c> treat</c><00:06:33.520><c> Gemini</c><00:06:33.919><c> as</c><00:06:34.080><c> the</c>
+friction. So I don't treat Gemini as the
+friction. So I don't treat Gemini as the
+model<00:06:34.400><c> for</c><00:06:34.639><c> everything,</c><00:06:35.280><c> but</c><00:06:35.440><c> I</c><00:06:35.600><c> do</c><00:06:35.759><c> treat</c><00:06:36.000><c> it</c>
+model for everything, but I do treat it
+model for everything, but I do treat it
+as<00:06:36.240><c> a</c><00:06:36.400><c> model</c><00:06:36.639><c> I</c><00:06:36.800><c> reach</c><00:06:37.039><c> for</c><00:06:37.280><c> when</c><00:06:37.520><c> the</c>
+as a model I reach for when the
+as a model I reach for when the
+constraint<00:06:38.080><c> is</c><00:06:38.319><c> really</c><00:06:38.639><c> input</c><00:06:39.120><c> volume</c><00:06:39.520><c> and</c><00:06:39.759><c> I</c>
+constraint is really input volume and I
+constraint is really input volume and I
+want<00:06:40.160><c> clarity.</c><00:06:40.720><c> It's</c><00:06:40.960><c> a</c><00:06:41.039><c> good</c><00:06:41.199><c> bandwidth</c>
+want clarity. It's a good bandwidth
+want clarity. It's a good bandwidth
+engine.<00:06:42.000><c> Think</c><00:06:42.240><c> of</c><00:06:42.400><c> Chat</c><00:06:42.800><c> GPT</c><00:06:43.440><c> 5.2</c><00:06:44.160><c> as</c><00:06:44.400><c> an</c>
+engine. Think of Chat GPT 5.2 as an
+engine. Think of Chat GPT 5.2 as an
+artifact<00:06:45.440><c> execution</c><00:06:46.319><c> engine.</c><00:06:46.960><c> So</c><00:06:47.199><c> chat</c><00:06:47.520><c> GPT</c>
+artifact execution engine. So chat GPT
+artifact execution engine. So chat GPT
+5.2's<00:06:49.120><c> fingerprint</c><00:06:49.919><c> is</c><00:06:50.319><c> really</c><00:06:50.720><c> different</c>
+5.2's fingerprint is really different
+5.2's fingerprint is really different
+from<00:06:51.360><c> 5.1.</c><00:06:52.560><c> The</c><00:06:52.800><c> WOW</c><00:06:53.199><c> is</c><00:06:53.440><c> primarily</c><00:06:54.400><c> not</c><00:06:54.639><c> that</c>
+from 5.1. The WOW is primarily not that
+from 5.1. The WOW is primarily not that
+it<00:06:55.039><c> can</c><00:06:55.199><c> read</c><00:06:55.440><c> more,</c><00:06:55.840><c> it's</c><00:06:56.080><c> that</c><00:06:56.240><c> it</c><00:06:56.400><c> can</c><00:06:56.720><c> stay</c>
+it can read more, it's that it can stay
+it can read more, it's that it can stay
+organized<00:06:57.919><c> through</c><00:06:58.240><c> longer</c><00:06:58.720><c> assignments</c><00:06:59.280><c> and</c>
+organized through longer assignments and
+organized through longer assignments and
+return<00:07:00.479><c> businessshaped</c><00:07:01.360><c> deliverables</c><00:07:01.919><c> like</c>
+return businessshaped deliverables like
+return businessshaped deliverables like
+docs<00:07:02.560><c> or</c><00:07:02.720><c> tables</c><00:07:03.039><c> or</c><00:07:03.199><c> decks</c><00:07:03.840><c> coherently</c>
+docs or tables or decks coherently
+docs or tables or decks coherently
+without<00:07:05.120><c> falling</c><00:07:05.360><c> apart.</c><00:07:05.840><c> So,</c><00:07:06.080><c> OpenAI's</c><00:07:06.800><c> own</c>
+without falling apart. So, OpenAI's own
+without falling apart. So, OpenAI's own
+framing<00:07:07.360><c> emphasizes</c><00:07:08.160><c> professional</c><00:07:08.639><c> tasks.</c>
+framing emphasizes professional tasks.
+framing emphasizes professional tasks.
+This<00:07:09.360><c> is</c><00:07:09.520><c> what</c><00:07:09.680><c> they</c><00:07:09.919><c> built</c><00:07:10.160><c> it</c><00:07:10.319><c> for,</c><00:07:10.560><c> right?</c>
+This is what they built it for, right?
+This is what they built it for, right?
+Tool<00:07:11.120><c> use,</c><00:07:11.440><c> making</c><00:07:11.680><c> artifacts</c><00:07:12.240><c> like</c>
+Tool use, making artifacts like
+Tool use, making artifacts like
+spreadsheets<00:07:13.039><c> and</c><00:07:13.280><c> presentations.</c><00:07:14.240><c> The</c>
+spreadsheets and presentations. The
+spreadsheets and presentations. The
+simple<00:07:14.880><c> win</c><00:07:15.280><c> for</c><00:07:15.599><c> GPT</c><00:07:16.240><c> 5.2</c><00:07:16.720><c> to</c><00:07:17.039><c> is</c><00:07:17.599><c> give</c><00:07:17.759><c> it</c><00:07:18.000><c> a</c>
+simple win for GPT 5.2 to is give it a
+simple win for GPT 5.2 to is give it a
+real<00:07:18.639><c> artifact.</c><00:07:19.440><c> Give</c><00:07:19.599><c> it</c><00:07:19.759><c> a</c><00:07:20.080><c> clean,</c><00:07:20.479><c> tight</c>
+real artifact. Give it a clean, tight
+real artifact. Give it a clean, tight
+brief<00:07:21.440><c> and</c><00:07:21.759><c> get</c><00:07:22.000><c> back</c><00:07:22.319><c> something</c><00:07:23.039><c> that</c><00:07:23.280><c> looks</c>
+brief and get back something that looks
+brief and get back something that looks
+like<00:07:23.680><c> a</c><00:07:23.840><c> junior</c><00:07:24.160><c> analyst</c><00:07:24.639><c> did</c><00:07:24.800><c> all</c><00:07:24.960><c> the</c><00:07:25.120><c> work.</c>
+like a junior analyst did all the work.
+like a junior analyst did all the work.
+It's<00:07:25.759><c> not</c><00:07:26.000><c> necessarily</c><00:07:26.639><c> a</c><00:07:26.880><c> perfect</c><00:07:27.199><c> answer,</c>
+It's not necessarily a perfect answer,
+It's not necessarily a perfect answer,
+but<00:07:28.240><c> it's</c><00:07:28.479><c> a</c><00:07:28.720><c> great</c><00:07:28.960><c> work</c><00:07:29.280><c> product</c><00:07:29.599><c> that</c><00:07:29.919><c> will</c>
+but it's a great work product that will
+but it's a great work product that will
+save<00:07:30.479><c> you</c><00:07:30.880><c> hours</c><00:07:31.199><c> and</c><00:07:31.440><c> hours</c><00:07:31.680><c> and</c><00:07:31.919><c> hours</c><00:07:32.160><c> of</c>
+save you hours and hours and hours of
+save you hours and hours and hours of
+time,<00:07:32.800><c> especially</c><00:07:33.280><c> against</c><00:07:33.680><c> long</c><00:07:33.919><c> and</c>
+time, especially against long and
+time, especially against long and
+complex<00:07:34.639><c> analysis</c><00:07:35.199><c> problems.</c><00:07:35.919><c> When</c><00:07:36.160><c> GPT</c><00:07:36.800><c> 5.2</c>
+complex analysis problems. When GPT 5.2
+complex analysis problems. When GPT 5.2
+is<00:07:37.680><c> on,</c><00:07:38.080><c> it</c><00:07:38.319><c> just</c><00:07:38.639><c> it</c><00:07:39.360><c> goes.</c><00:07:39.840><c> It</c><00:07:40.000><c> feels</c><00:07:40.240><c> like</c><00:07:40.400><c> an</c>
+is on, it just it goes. It feels like an
+is on, it just it goes. It feels like an
+execution<00:07:41.120><c> engine.</c><00:07:41.520><c> It</c><00:07:41.680><c> maps,</c><00:07:42.000><c> it</c><00:07:42.160><c> checks,</c><00:07:42.560><c> it</c>
+execution engine. It maps, it checks, it
+execution engine. It maps, it checks, it
+computes,<00:07:43.120><c> it</c><00:07:43.360><c> synthesizes.</c><00:07:44.240><c> It's</c>
+computes, it synthesizes. It's
+computes, it synthesizes. It's
+incredibly<00:07:45.120><c> reliable</c><00:07:45.599><c> at</c><00:07:45.840><c> following</c>
+incredibly reliable at following
+incredibly reliable at following
+instructions.<00:07:46.880><c> It</c><00:07:47.120><c> goes</c><00:07:47.360><c> all</c><00:07:47.520><c> the</c><00:07:47.680><c> way</c><00:07:47.759><c> to</c><00:07:47.919><c> the</c>
+instructions. It goes all the way to the
+instructions. It goes all the way to the
+end<00:07:48.400><c> work</c><00:07:48.720><c> product.</c><00:07:49.280><c> It</c><00:07:49.520><c> also</c><00:07:49.840><c> benefits</c><00:07:50.319><c> from</c>
+end work product. It also benefits from
+end work product. It also benefits from
+the<00:07:50.720><c> practical</c><00:07:51.120><c> reality</c><00:07:51.520><c> that</c><00:07:51.759><c> chat</c><00:07:52.160><c> GPT's</c>
+the practical reality that chat GPT's
+the practical reality that chat GPT's
+file<00:07:53.039><c> pipeline</c><00:07:53.599><c> is</c><00:07:53.919><c> built</c><00:07:54.560><c> like</c><00:07:54.879><c> a</c><00:07:55.120><c> hand</c><00:07:55.440><c> the</c>
+file pipeline is built like a hand the
+file pipeline is built like a hand the
+artifacts<00:07:56.240><c> workflow,</c><00:07:56.800><c> right?</c><00:07:57.280><c> It</c><00:07:57.440><c> has</c><00:07:57.599><c> large</c>
+artifacts workflow, right? It has large
+artifacts workflow, right? It has large
+file<00:07:58.400><c> support.</c><00:07:58.879><c> It</c><00:07:59.120><c> has</c><00:07:59.280><c> better</c><00:07:59.520><c> tolerance</c>
+file support. It has better tolerance
+file support. It has better tolerance
+for<00:08:00.240><c> mixed</c><00:08:00.560><c> inputs</c><00:08:01.039><c> in</c><00:08:01.199><c> a</c><00:08:01.360><c> single</c><00:08:01.680><c> thread.</c>
+for mixed inputs in a single thread.
+for mixed inputs in a single thread.
+That<00:08:02.560><c> might</c><00:08:02.800><c> sound</c><00:08:03.039><c> like</c><00:08:03.280><c> boring</c><00:08:03.680><c> product</c>
+That might sound like boring product
+That might sound like boring product
+detail,<00:08:04.400><c> but</c><00:08:04.560><c> it's</c><00:08:04.720><c> the</c><00:08:04.960><c> difference</c><00:08:05.280><c> between</c>
+detail, but it's the difference between
+detail, but it's the difference between
+AI<00:08:06.160><c> as</c><00:08:06.319><c> a</c><00:08:06.479><c> toy</c><00:08:06.800><c> and</c><00:08:07.039><c> AI</c><00:08:07.360><c> as</c><00:08:07.520><c> a</c><00:08:07.680><c> part</c><00:08:07.759><c> of</c><00:08:07.919><c> my</c>
+AI as a toy and AI as a part of my
+AI as a toy and AI as a part of my
+operational<00:08:08.560><c> workflow.</c><00:08:08.960><c> It's</c><00:08:09.120><c> it's</c><00:08:09.360><c> a</c><00:08:09.520><c> big</c>
+operational workflow. It's it's a big
+operational workflow. It's it's a big
+deal.<00:08:10.000><c> Chad</c><00:08:10.319><c> GPT</c><00:08:10.800><c> 5.2's</c><00:08:11.280><c> 2's</c><00:08:11.680><c> failure</c><00:08:12.000><c> mode,</c>
+deal. Chad GPT 5.2's 2's failure mode,
+deal. Chad GPT 5.2's 2's failure mode,
+in<00:08:12.720><c> my</c><00:08:12.960><c> experience,</c><00:08:13.520><c> is</c><00:08:13.840><c> not</c><00:08:14.240><c> stupidity.</c><00:08:14.879><c> This</c>
+in my experience, is not stupidity. This
+in my experience, is not stupidity. This
+is<00:08:15.120><c> a</c><00:08:15.360><c> really</c><00:08:15.599><c> smart</c><00:08:15.919><c> model.</c><00:08:16.400><c> It's</c><00:08:16.639><c> the</c><00:08:16.879><c> danger</c>
+is a really smart model. It's the danger
+is a really smart model. It's the danger
+of<00:08:17.440><c> premature</c><00:08:18.080><c> coherence.</c><00:08:18.960><c> The</c><00:08:19.199><c> model</c><00:08:19.599><c> really</c>
+of premature coherence. The model really
+of premature coherence. The model really
+wants<00:08:20.160><c> to</c><00:08:20.319><c> make</c><00:08:20.560><c> everything</c><00:08:20.960><c> line</c><00:08:21.199><c> up.</c><00:08:21.520><c> And</c><00:08:21.680><c> if</c>
+wants to make everything line up. And if
+wants to make everything line up. And if
+your<00:08:22.160><c> underlying</c><00:08:22.639><c> reality</c><00:08:23.120><c> is</c><00:08:23.440><c> too</c><00:08:23.759><c> messy</c><00:08:24.080><c> or</c>
+your underlying reality is too messy or
+your underlying reality is too messy or
+contradictory,<00:08:25.440><c> it</c><00:08:25.840><c> may</c><00:08:26.720><c> enforce</c><00:08:27.520><c> a</c><00:08:28.080><c> clear</c>
+contradictory, it may enforce a clear
+contradictory, it may enforce a clear
+sanity<00:08:29.120><c> check</c><00:08:29.440><c> and</c><00:08:29.680><c> coherent</c><00:08:30.160><c> reality</c><00:08:31.039><c> that's</c>
+sanity check and coherent reality that's
+sanity check and coherent reality that's
+very<00:08:31.599><c> convincing,</c><00:08:32.159><c> but</c><00:08:32.479><c> that's</c><00:08:32.719><c> cleaner</c><00:08:33.120><c> than</c>
+very convincing, but that's cleaner than
+very convincing, but that's cleaner than
+the<00:08:33.519><c> truth.</c><00:08:33.839><c> And</c><00:08:34.080><c> so</c><00:08:34.240><c> the</c><00:08:34.479><c> model's</c><00:08:34.880><c> power</c>
+the truth. And so the model's power
+the truth. And so the model's power
+ironically<00:08:35.839><c> makes</c><00:08:36.080><c> this</c><00:08:36.240><c> risk</c><00:08:36.640><c> worse,</c><00:08:36.959><c> not</c>
+ironically makes this risk worse, not
+ironically makes this risk worse, not
+better,<00:08:37.599><c> because</c><00:08:37.839><c> it</c><00:08:38.000><c> can</c><00:08:38.479><c> prod</c><00:08:38.479><c> produce</c><00:08:38.800><c> a</c>
+better, because it can prod produce a
+better, because it can prod produce a
+really<00:08:39.360><c> beautiful</c><00:08:39.839><c> wrong</c><00:08:40.159><c> answer</c><00:08:40.800><c> if</c><00:08:41.120><c> your</c>
+really beautiful wrong answer if your
+really beautiful wrong answer if your
+underlying<00:08:41.839><c> reality</c><00:08:42.159><c> is</c><00:08:42.320><c> incoherent.</c><00:08:43.200><c> So</c><00:08:43.440><c> you</c>
+underlying reality is incoherent. So you
+underlying reality is incoherent. So you
+need<00:08:43.839><c> to</c><00:08:44.080><c> treat</c><00:08:44.320><c> it</c><00:08:44.720><c> like</c><00:08:45.279><c> a</c><00:08:45.519><c> junior</c><00:08:46.000><c> operator</c>
+need to treat it like a junior operator
+need to treat it like a junior operator
+and<00:08:46.720><c> give</c><00:08:46.880><c> it</c><00:08:47.040><c> really</c><00:08:47.360><c> clear</c><00:08:47.680><c> structure.</c>
+and give it really clear structure.
+and give it really clear structure.
+Understand<00:08:48.800><c> the</c><00:08:49.120><c> underlying</c><00:08:49.680><c> contradictory</c>
+Understand the underlying contradictory
+Understand the underlying contradictory
+nature<00:08:50.720><c> of</c><00:08:50.800><c> your</c><00:08:50.959><c> inputs.</c><00:08:51.440><c> Maybe</c><00:08:51.600><c> they're</c><00:08:51.839><c> not</c>
+nature of your inputs. Maybe they're not
+nature of your inputs. Maybe they're not
+there,<00:08:52.240><c> maybe</c><00:08:52.399><c> they</c><00:08:52.560><c> are</c><00:08:52.640><c> there,</c><00:08:52.800><c> but</c><00:08:53.040><c> get</c><00:08:53.200><c> it.</c>
+there, maybe they are there, but get it.
+there, maybe they are there, but get it.
+And<00:08:53.760><c> then</c><00:08:54.080><c> understand</c><00:08:54.480><c> what</c><00:08:54.720><c> you're</c><00:08:54.880><c> going</c><00:08:54.959><c> to</c>
+And then understand what you're going to
+And then understand what you're going to
+get<00:08:55.279><c> by</c><00:08:55.600><c> asking</c><00:08:55.920><c> the</c><00:08:56.160><c> model</c><00:08:56.480><c> to</c><00:08:56.800><c> step</c><00:08:57.120><c> into</c>
+get by asking the model to step into
+get by asking the model to step into
+that<00:08:57.680><c> kind</c><00:08:57.839><c> of</c><00:08:58.080><c> problem</c><00:08:58.480><c> space.</c><00:08:59.200><c> But</c><00:08:59.600><c> netnet,</c>
+that kind of problem space. But netnet,
+that kind of problem space. But netnet,
+I<00:09:00.480><c> use</c><00:09:00.720><c> GPT</c><00:09:01.360><c> 5.2</c><00:09:02.240><c> all</c><00:09:02.560><c> the</c><00:09:02.800><c> time.</c><00:09:03.120><c> It</c><00:09:03.360><c> is</c><00:09:03.440><c> a</c>
+I use GPT 5.2 all the time. It is a
+I use GPT 5.2 all the time. It is a
+great<00:09:03.760><c> daily</c><00:09:04.080><c> driver</c><00:09:04.399><c> for</c><00:09:04.640><c> me.</c><00:09:04.880><c> It</c><00:09:05.040><c> does</c><00:09:05.200><c> do</c>
+great daily driver for me. It does do
+great daily driver for me. It does do
+that<00:09:05.680><c> hard</c><00:09:05.920><c> workflow</c><00:09:06.320><c> stuff</c><00:09:06.640><c> really</c><00:09:06.880><c> well.</c>
+that hard workflow stuff really well.
+that hard workflow stuff really well.
+What<00:09:07.600><c> about</c><00:09:07.839><c> Claude</c><00:09:08.240><c> Opus</c><00:09:08.720><c> 4.5?</c><00:09:09.839><c> Think</c><00:09:10.080><c> of</c><00:09:10.240><c> it</c>
+What about Claude Opus 4.5? Think of it
+What about Claude Opus 4.5? Think of it
+as<00:09:10.560><c> a</c><00:09:10.880><c> persuasion</c><00:09:11.760><c> layer</c><00:09:12.240><c> and</c><00:09:12.560><c> an</c><00:09:12.880><c> absolute</c>
+as a persuasion layer and an absolute
+as a persuasion layer and an absolute
+agentic<00:09:14.560><c> and</c><00:09:14.800><c> harness</c><00:09:15.360><c> coding</c><00:09:16.240><c> monster.</c><00:09:17.120><c> Opus</c>
+agentic and harness coding monster. Opus
+agentic and harness coding monster. Opus
+4.5<00:09:18.959><c> is</c><00:09:19.680><c> where</c><00:09:20.560><c> you</c><00:09:20.959><c> need</c><00:09:21.279><c> to</c><00:09:21.680><c> think</c><00:09:22.320><c> about</c>
+4.5 is where you need to think about
+4.5 is where you need to think about
+writerly<00:09:23.760><c> taste.</c><00:09:24.240><c> You</c><00:09:24.480><c> need</c><00:09:24.560><c> to</c><00:09:24.800><c> think</c><00:09:24.959><c> about</c>
+writerly taste. You need to think about
+writerly taste. You need to think about
+it<00:09:25.519><c> sounds</c><00:09:25.839><c> like</c><00:09:26.080><c> a</c><00:09:26.240><c> human.</c><00:09:26.640><c> You</c><00:09:26.880><c> need</c><00:09:26.959><c> to</c>
+it sounds like a human. You need to
+it sounds like a human. You need to
+think<00:09:27.360><c> about</c><00:09:27.600><c> how</c><00:09:27.920><c> it</c><00:09:28.560><c> positions</c><00:09:29.200><c> hybrid</c>
+think about how it positions hybrid
+think about how it positions hybrid
+reasoning,<00:09:30.560><c> good</c><00:09:30.959><c> style,</c><00:09:31.519><c> a</c><00:09:31.760><c> large</c><00:09:32.160><c> context</c>
+reasoning, good style, a large context
+reasoning, good style, a large context
+window,<00:09:33.279><c> and</c><00:09:33.760><c> an</c><00:09:34.080><c> ability</c><00:09:34.560><c> to</c><00:09:35.040><c> actually</c>
+window, and an ability to actually
+window, and an ability to actually
+synthesize<00:09:36.480><c> all</c><00:09:36.720><c> of</c><00:09:36.880><c> that</c><00:09:37.120><c> together</c><00:09:37.839><c> and</c><00:09:38.240><c> come</c>
+synthesize all of that together and come
+synthesize all of that together and come
+up<00:09:38.880><c> with</c><00:09:39.360><c> text</c><00:09:39.839><c> that</c><00:09:40.160><c> is</c><00:09:40.480><c> meaningful</c><00:09:41.120><c> and</c>
+up with text that is meaningful and
+up with text that is meaningful and
+useful<00:09:42.240><c> asis</c><00:09:43.120><c> for</c><00:09:43.519><c> business</c><00:09:44.080><c> persuasive</c>
+useful asis for business persuasive
+useful asis for business persuasive
+writing.<00:09:45.360><c> So,</c><00:09:45.600><c> agentic</c><00:09:46.160><c> ability</c><00:09:46.640><c> is</c><00:09:46.959><c> not</c><00:09:47.120><c> a</c>
+writing. So, agentic ability is not a
+writing. So, agentic ability is not a
+pure<00:09:47.600><c> model</c><00:09:47.920><c> property.</c><00:09:48.399><c> It's</c><00:09:48.560><c> it's</c><00:09:48.880><c> actually</c>
+pure model property. It's it's actually
+pure model property. It's it's actually
+a<00:09:49.279><c> property</c><00:09:49.600><c> of</c><00:09:49.839><c> the</c><00:09:50.000><c> system</c><00:09:50.240><c> as</c><00:09:50.480><c> a</c><00:09:50.640><c> whole.</c><00:09:51.040><c> And</c>
+a property of the system as a whole. And
+a property of the system as a whole. And
+what<00:09:51.519><c> I'm</c><00:09:51.760><c> calling</c><00:09:52.080><c> out</c><00:09:52.320><c> here</c><00:09:52.560><c> is</c><00:09:52.800><c> that</c><00:09:53.120><c> part</c>
+what I'm calling out here is that part
+what I'm calling out here is that part
+of<00:09:53.440><c> how</c><00:09:53.680><c> Claude</c><00:09:54.000><c> Opus</c><00:09:54.399><c> 4.5</c><00:09:55.040><c> can</c><00:09:55.279><c> write</c><00:09:55.519><c> well.</c>
+of how Claude Opus 4.5 can write well.
+of how Claude Opus 4.5 can write well.
+Part<00:09:56.080><c> of</c><00:09:56.240><c> how</c><00:09:56.560><c> it</c><00:09:56.959><c> can</c><00:09:57.200><c> code</c><00:09:57.680><c> well</c><00:09:58.080><c> is</c><00:09:58.480><c> because</c>
+Part of how it can code well is because
+Part of how it can code well is because
+of<00:09:59.040><c> the</c><00:09:59.279><c> harness</c><00:10:00.000><c> that</c><00:10:00.240><c> Anthropic</c><00:10:00.959><c> has</c><00:10:01.200><c> put</c>
+of the harness that Anthropic has put
+of the harness that Anthropic has put
+around<00:10:01.600><c> the</c><00:10:01.920><c> system.</c><00:10:02.480><c> The</c><00:10:02.720><c> tool</c><00:10:03.120><c> calling,</c><00:10:03.680><c> the</c>
+around the system. The tool calling, the
+around the system. The tool calling, the
+skills<00:10:04.399><c> ability,</c><00:10:05.200><c> the</c><00:10:05.519><c> harness</c><00:10:06.160><c> and</c><00:10:06.480><c> guard</c>
+skills ability, the harness and guard
+skills ability, the harness and guard
+rails<00:10:07.200><c> let</c><00:10:07.360><c> it</c><00:10:07.600><c> operate</c><00:10:08.000><c> inside</c><00:10:08.959><c> a</c><00:10:09.440><c> loop</c><00:10:09.760><c> with</c>
+rails let it operate inside a loop with
+rails let it operate inside a loop with
+good<00:10:10.399><c> feedback</c><00:10:11.120><c> and</c><00:10:11.440><c> safe</c><00:10:11.760><c> edit</c><00:10:12.160><c> primitives.</c>
+good feedback and safe edit primitives.
+good feedback and safe edit primitives.
+And<00:10:13.040><c> Enthropic</c><00:10:13.839><c> has</c><00:10:14.000><c> been</c><00:10:14.160><c> able</c><00:10:14.399><c> to</c><00:10:14.640><c> get</c><00:10:14.800><c> to</c><00:10:15.040><c> a</c>
+And Enthropic has been able to get to a
+And Enthropic has been able to get to a
+phenomenal<00:10:16.079><c> level</c><00:10:16.399><c> of</c><00:10:16.560><c> work</c><00:10:16.880><c> quality</c><00:10:17.360><c> as</c><00:10:17.600><c> a</c>
+phenomenal level of work quality as a
+phenomenal level of work quality as a
+result.<00:10:18.480><c> And</c><00:10:18.640><c> so</c><00:10:18.880><c> a</c><00:10:19.200><c> lot</c><00:10:19.360><c> of</c><00:10:19.600><c> engineers</c><00:10:20.480><c> end</c><00:10:20.720><c> up</c>
+result. And so a lot of engineers end up
+result. And so a lot of engineers end up
+pre<00:10:21.279><c> preferring</c><00:10:22.079><c> working</c><00:10:22.399><c> with</c><00:10:22.640><c> Claude</c><00:10:22.959><c> Opus</c>
+pre preferring working with Claude Opus
+pre preferring working with Claude Opus
+4.5<00:10:24.160><c> as</c><00:10:24.399><c> they</c><00:10:24.560><c> code</c><00:10:25.279><c> because</c><00:10:26.079><c> they</c><00:10:26.399><c> get</c><00:10:26.560><c> those</c>
+4.5 as they code because they get those
+4.5 as they code because they get those
+tight<00:10:27.120><c> feedback</c><00:10:27.519><c> loops</c><00:10:28.320><c> because</c><00:10:29.200><c> it</c><00:10:29.440><c> will</c>
+tight feedback loops because it will
+tight feedback loops because it will
+work<00:10:30.079><c> with</c><00:10:30.399><c> tools</c><00:10:30.800><c> they</c><00:10:31.040><c> can</c><00:10:31.279><c> understand</c><00:10:31.600><c> and</c>
+work with tools they can understand and
+work with tools they can understand and
+call<00:10:32.560><c> because</c><00:10:32.880><c> the</c><00:10:33.120><c> harness</c><00:10:33.519><c> is</c><00:10:33.760><c> really</c><00:10:34.240><c> easy</c>
+call because the harness is really easy
+call because the harness is really easy
+to<00:10:34.640><c> work</c><00:10:34.800><c> with</c><00:10:34.959><c> and</c><00:10:35.120><c> manipulate.</c><00:10:35.600><c> You</c><00:10:35.760><c> can</c>
+to work with and manipulate. You can
+to work with and manipulate. You can
+obviously<00:10:36.240><c> put</c><00:10:36.399><c> in</c><00:10:36.560><c> your</c><00:10:36.720><c> own</c><00:10:36.800><c> markdown</c><00:10:37.279><c> files</c>
+obviously put in your own markdown files
+obviously put in your own markdown files
+if<00:10:37.760><c> you're</c><00:10:37.839><c> in</c><00:10:38.000><c> clot</c><00:10:38.399><c> code.</c><00:10:38.880><c> And</c><00:10:39.120><c> because</c><00:10:39.600><c> the</c>
+if you're in clot code. And because the
+if you're in clot code. And because the
+system<00:10:40.480><c> is</c><00:10:40.800><c> designed</c><00:10:41.440><c> to</c><00:10:41.839><c> relentlessly</c>
+system is designed to relentlessly
+system is designed to relentlessly
+follow<00:10:42.959><c> instructions</c><00:10:43.519><c> and</c><00:10:43.839><c> build</c><00:10:44.079><c> stuff,</c><00:10:44.720><c> you</c>
+follow instructions and build stuff, you
+follow instructions and build stuff, you
+have<00:10:45.040><c> to</c><00:10:45.200><c> provide</c><00:10:45.440><c> the</c><00:10:45.680><c> design</c><00:10:45.920><c> and</c>
+have to provide the design and
+have to provide the design and
+structure.<00:10:46.800><c> It's</c><00:10:47.040><c> going</c><00:10:47.120><c> to</c><00:10:47.279><c> build.</c><00:10:47.600><c> I</c><00:10:47.920><c> find</c>
+structure. It's going to build. I find
+structure. It's going to build. I find
+that<00:10:48.240><c> that's</c><00:10:48.560><c> true</c><00:10:48.880><c> with</c><00:10:49.600><c> creating</c><00:10:50.079><c> artifacts</c>
+that that's true with creating artifacts
+that that's true with creating artifacts
+as<00:10:50.959><c> well.</c><00:10:51.519><c> I</c><00:10:51.839><c> don't</c><00:10:52.000><c> get</c><00:10:52.160><c> the</c><00:10:52.399><c> same</c><00:10:52.720><c> context</c>
+as well. I don't get the same context
+as well. I don't get the same context
+window<00:10:53.600><c> advantages</c><00:10:54.320><c> I</c><00:10:54.480><c> have</c><00:10:54.640><c> with</c><00:10:54.880><c> chat</c><00:10:55.200><c> GPT</c>
+window advantages I have with chat GPT
+window advantages I have with chat GPT
+5.2<00:10:56.480><c> or</c><00:10:56.720><c> with</c><00:10:56.880><c> Gemini.</c><00:10:57.519><c> If</c><00:10:57.680><c> it's</c><00:10:57.839><c> a</c><00:10:58.000><c> truly</c><00:10:58.399><c> huge</c>
+5.2 or with Gemini. If it's a truly huge
+5.2 or with Gemini. If it's a truly huge
+piece<00:10:59.040><c> of</c><00:10:59.200><c> work,</c><00:10:59.519><c> it's</c><00:10:59.839><c> not</c><00:11:00.000><c> going</c><00:11:00.160><c> to</c><00:11:00.240><c> fit</c>
+piece of work, it's not going to fit
+piece of work, it's not going to fit
+with<00:11:00.720><c> Claude</c><00:11:01.040><c> Opus.</c><00:11:01.440><c> And</c><00:11:01.600><c> we</c><00:11:01.760><c> just</c><00:11:01.920><c> need</c><00:11:02.079><c> to</c><00:11:02.240><c> be</c>
+with Claude Opus. And we just need to be
+with Claude Opus. And we just need to be
+honest<00:11:02.640><c> about</c><00:11:02.880><c> that.</c><00:11:03.440><c> But</c><00:11:03.600><c> if</c><00:11:03.839><c> it's</c><00:11:04.000><c> something</c>
+honest about that. But if it's something
+honest about that. But if it's something
+where<00:11:04.560><c> I</c><00:11:04.800><c> need</c><00:11:04.959><c> to</c><00:11:05.120><c> craft</c><00:11:05.600><c> a</c><00:11:05.920><c> really</c><00:11:06.240><c> beautiful</c>
+where I need to craft a really beautiful
+where I need to craft a really beautiful
+persuasive<00:11:07.279><c> piece</c><00:11:07.680><c> of</c><00:11:07.920><c> business</c><00:11:08.320><c> artifact,</c>
+persuasive piece of business artifact,
+persuasive piece of business artifact,
+whether<00:11:09.120><c> that's</c><00:11:09.279><c> a</c><00:11:09.440><c> deck,</c><00:11:09.839><c> whether</c><00:11:10.079><c> that's</c><00:11:10.240><c> a</c>
+whether that's a deck, whether that's a
+whether that's a deck, whether that's a
+doc,<00:11:10.880><c> or</c><00:11:11.120><c> even</c><00:11:11.279><c> whether</c><00:11:11.519><c> that's</c><00:11:11.760><c> a</c>
+doc, or even whether that's a
+doc, or even whether that's a
+spreadsheet,<00:11:12.800><c> the</c><00:11:13.040><c> most</c><00:11:13.279><c> polished</c><00:11:13.839><c> outputs</c>
+spreadsheet, the most polished outputs
+spreadsheet, the most polished outputs
+today<00:11:15.360><c> come</c><00:11:15.600><c> from</c><00:11:16.079><c> giving</c><00:11:16.720><c> Claude</c><00:11:17.200><c> a</c><00:11:17.600><c> slice</c><00:11:18.000><c> of</c>
+today come from giving Claude a slice of
+today come from giving Claude a slice of
+context<00:11:19.040><c> that's</c><00:11:19.279><c> useful,</c><00:11:20.000><c> a</c><00:11:20.240><c> clear</c><00:11:20.480><c> set</c><00:11:20.720><c> of</c>
+context that's useful, a clear set of
+context that's useful, a clear set of
+instructions,<00:11:21.519><c> and</c><00:11:21.760><c> then</c><00:11:22.000><c> room</c><00:11:22.240><c> to</c><00:11:22.560><c> work</c><00:11:22.800><c> and</c>
+instructions, and then room to work and
+instructions, and then room to work and
+cook.<00:11:23.760><c> Claude</c><00:11:24.160><c> does</c><00:11:24.399><c> a</c><00:11:24.640><c> great</c><00:11:24.959><c> job</c><00:11:25.440><c> using</c><00:11:25.920><c> its</c>
+cook. Claude does a great job using its
+cook. Claude does a great job using its
+tools<00:11:27.040><c> to</c><00:11:27.360><c> go</c><00:11:27.600><c> to</c><00:11:27.839><c> town</c><00:11:28.320><c> and</c><00:11:28.560><c> produce</c>
+tools to go to town and produce
+tools to go to town and produce
+beautiful<00:11:29.680><c> artifacts</c><00:11:30.240><c> over</c><00:11:30.560><c> time.</c><00:11:30.800><c> That</c>
+beautiful artifacts over time. That
+beautiful artifacts over time. That
+agentic<00:11:31.600><c> harness</c><00:11:32.000><c> that</c><00:11:32.240><c> I</c><00:11:32.399><c> talk</c><00:11:32.560><c> about</c><00:11:32.800><c> for</c>
+agentic harness that I talk about for
+agentic harness that I talk about for
+coding<00:11:33.839><c> works</c><00:11:34.079><c> for</c><00:11:34.320><c> non-coding</c><00:11:35.040><c> as</c><00:11:35.200><c> well.</c>
+coding works for non-coding as well.
+coding works for non-coding as well.
+Fundamentally,<00:11:36.240><c> there</c><00:11:36.480><c> are</c><00:11:36.640><c> two</c><00:11:36.880><c> execution</c>
+Fundamentally, there are two execution
+Fundamentally, there are two execution
+lanes<00:11:37.760><c> in</c><00:11:38.000><c> modern</c><00:11:38.320><c> knowledge</c><00:11:38.640><c> work,</c><00:11:38.880><c> right?</c>
+lanes in modern knowledge work, right?
+lanes in modern knowledge work, right?
+One<00:11:39.279><c> is</c><00:11:39.440><c> the</c><00:11:39.680><c> business</c><00:11:39.920><c> artifact</c><00:11:40.480><c> lanes,</c>
+One is the business artifact lanes,
+One is the business artifact lanes,
+spreadsheets,<00:11:41.519><c> decks,</c><00:11:41.839><c> executive</c><00:11:42.320><c> briefs,</c>
+spreadsheets, decks, executive briefs,
+spreadsheets, decks, executive briefs,
+office<00:11:43.279><c> shaped</c><00:11:43.600><c> outputs.</c><00:11:44.320><c> The</c><00:11:44.560><c> other</c><00:11:44.640><c> is</c>
+office shaped outputs. The other is
+office shaped outputs. The other is
+really<00:11:45.120><c> around</c><00:11:45.440><c> software</c><00:11:45.839><c> execution,</c><00:11:46.640><c> repo</c>
+really around software execution, repo
+really around software execution, repo
+changes,<00:11:47.600><c> tool</c><00:11:47.839><c> use,</c><00:11:48.240><c> PRs,</c><00:11:48.880><c> tests,</c>
+changes, tool use, PRs, tests,
+changes, tool use, PRs, tests,
+refactors.<00:11:50.640><c> All</c><00:11:50.880><c> of</c><00:11:51.040><c> these</c><00:11:51.440><c> players</c><00:11:52.079><c> are</c>
+refactors. All of these players are
+refactors. All of these players are
+playing<00:11:52.959><c> for</c><00:11:53.279><c> both</c><00:11:53.760><c> lanes.</c><00:11:54.480><c> GPT</c><00:11:55.200><c> 5.2</c><00:11:55.839><c> 2</c><00:11:56.800><c> is</c>
+playing for both lanes. GPT 5.2 2 is
+playing for both lanes. GPT 5.2 2 is
+aggressively<00:11:58.399><c> taking</c><00:11:59.040><c> space</c><00:11:59.519><c> in</c><00:11:59.839><c> that</c><00:12:00.079><c> first</c>
+aggressively taking space in that first
+aggressively taking space in that first
+lane<00:12:00.560><c> of</c><00:12:00.800><c> business</c><00:12:01.120><c> artifact</c><00:12:01.680><c> execution</c><00:12:02.320><c> that</c>
+lane of business artifact execution that
+lane of business artifact execution that
+claude<00:12:02.959><c> opus</c><00:12:03.360><c> 4.5</c><00:12:04.480><c> was</c><00:12:04.800><c> previously</c><00:12:05.360><c> fairly</c>
+claude opus 4.5 was previously fairly
+claude opus 4.5 was previously fairly
+undisputed<00:12:06.560><c> in</c><00:12:07.040><c> and</c><00:12:07.279><c> it's</c><00:12:07.680><c> been</c><00:12:08.000><c> become</c><00:12:08.480><c> extra</c>
+undisputed in and it's been become extra
+undisputed in and it's been become extra
+useful<00:12:09.360><c> because</c><00:12:09.680><c> chat</c><00:12:10.000><c> GPT</c><00:12:10.639><c> 5.2</c><00:12:11.680><c> can</c><00:12:12.000><c> handle</c>
+useful because chat GPT 5.2 can handle
+useful because chat GPT 5.2 can handle
+those<00:12:12.720><c> really</c><00:12:13.120><c> large</c><00:12:13.440><c> initial</c><00:12:13.920><c> dumps</c><00:12:14.240><c> of</c>
+those really large initial dumps of
+those really large initial dumps of
+context<00:12:15.040><c> and</c><00:12:15.279><c> still</c><00:12:15.600><c> produce</c><00:12:16.079><c> structured</c>
+context and still produce structured
+context and still produce structured
+business<00:12:16.880><c> artifacts.</c><00:12:17.839><c> GPT</c><00:12:18.399><c> 5.2</c><00:12:19.040><c> of</c><00:12:19.200><c> course</c><00:12:19.360><c> is</c>
+business artifacts. GPT 5.2 of course is
+business artifacts. GPT 5.2 of course is
+also<00:12:20.000><c> playing</c><00:12:20.240><c> in</c><00:12:20.399><c> the</c><00:12:20.639><c> software</c><00:12:21.040><c> execution</c>
+also playing in the software execution
+also playing in the software execution
+lane.<00:12:22.240><c> It's</c><00:12:22.560><c> playing</c><00:12:22.800><c> there</c><00:12:23.120><c> through</c><00:12:23.360><c> the</c>
+lane. It's playing there through the
+lane. It's playing there through the
+codeex<00:12:24.160><c> family.</c><00:12:24.959><c> And</c><00:12:25.200><c> Codeex</c><00:12:25.760><c> is</c><00:12:26.079><c> designed</c>
+codeex family. And Codeex is designed
+codeex family. And Codeex is designed
+for<00:12:27.680><c> especially</c><00:12:28.480><c> complex</c><00:12:29.040><c> code</c><00:12:29.440><c> reviews.</c>
+for especially complex code reviews.
+for especially complex code reviews.
+It's<00:12:30.160><c> designed</c><00:12:30.560><c> for</c><00:12:30.959><c> large</c><00:12:31.440><c> complex</c><00:12:32.000><c> code</c>
+It's designed for large complex code
+It's designed for large complex code
+dependency<00:12:33.040><c> assessments.</c><00:12:34.000><c> It's</c><00:12:34.320><c> designed</c><00:12:34.720><c> to</c>
+dependency assessments. It's designed to
+dependency assessments. It's designed to
+solve<00:12:35.440><c> really</c><00:12:35.839><c> difficult</c><00:12:36.320><c> coding</c><00:12:36.800><c> problems.</c>
+solve really difficult coding problems.
+solve really difficult coding problems.
+And<00:12:37.760><c> it's</c><00:12:38.160><c> designed</c><00:12:38.560><c> to</c><00:12:38.800><c> be</c><00:12:39.040><c> really</c>
+And it's designed to be really
+And it's designed to be really
+intelligent<00:12:40.160><c> about</c><00:12:40.560><c> using</c><00:12:40.880><c> a</c><00:12:41.200><c> few</c><00:12:41.440><c> general</c>
+intelligent about using a few general
+intelligent about using a few general
+tools<00:12:42.560><c> really,</c><00:12:42.880><c> really</c><00:12:43.200><c> well.</c><00:12:43.760><c> And</c><00:12:44.000><c> so</c><00:12:44.639><c> Codeex</c>
+tools really, really well. And so Codeex
+tools really, really well. And so Codeex
+is<00:12:46.000><c> OpenAI's</c><00:12:46.800><c> answer</c><00:12:47.120><c> to</c><00:12:47.440><c> a</c><00:12:47.680><c> generalpurpose</c>
+is OpenAI's answer to a generalpurpose
+is OpenAI's answer to a generalpurpose
+agent<00:12:49.200><c> that</c><00:12:49.440><c> can</c><00:12:49.680><c> operate</c><00:12:50.079><c> against</c><00:12:50.320><c> a</c>
+agent that can operate against a
+agent that can operate against a
+codebase<00:12:51.040><c> and</c><00:12:51.279><c> solve</c><00:12:51.600><c> increasingly</c><00:12:52.320><c> complex</c>
+codebase and solve increasingly complex
+codebase and solve increasingly complex
+problems.<00:12:53.680><c> Opus</c><00:12:54.240><c> 4.5</c><00:12:55.040><c> is</c><00:12:55.279><c> increasingly</c>
+problems. Opus 4.5 is increasingly
+problems. Opus 4.5 is increasingly
+dominant<00:12:57.360><c> in</c><00:12:57.760><c> places</c><00:12:58.160><c> where</c><00:12:58.480><c> the</c><00:12:58.800><c> strong</c>
+dominant in places where the strong
+dominant in places where the strong
+harness<00:13:00.320><c> and</c><00:13:00.560><c> the</c><00:13:00.880><c> polish</c><00:13:01.279><c> it's</c><00:13:01.600><c> able</c><00:13:01.839><c> to</c>
+harness and the polish it's able to
+harness and the polish it's able to
+bring<00:13:02.320><c> from</c><00:13:02.480><c> that</c><00:13:02.720><c> harness</c><00:13:03.200><c> and</c><00:13:03.279><c> the</c><00:13:03.360><c> tools</c><00:13:03.760><c> it</c>
+bring from that harness and the tools it
+bring from that harness and the tools it
+calls<00:13:05.120><c> enables</c><00:13:05.680><c> the</c><00:13:06.000><c> model</c><00:13:06.320><c> to</c><00:13:06.959><c> build</c>
+calls enables the model to build
+calls enables the model to build
+finished<00:13:07.920><c> work</c><00:13:08.160><c> with</c><00:13:08.399><c> a</c><00:13:08.639><c> narrower</c><00:13:09.040><c> context</c>
+finished work with a narrower context
+finished work with a narrower context
+window.<00:13:10.000><c> Look,</c><00:13:10.320><c> Anthropic</c><00:13:11.040><c> has</c><00:13:11.279><c> always</c><00:13:11.680><c> been</c>
+window. Look, Anthropic has always been
+window. Look, Anthropic has always been
+memory<00:13:12.639><c> constrained.</c><00:13:13.600><c> They</c><00:13:13.920><c> are</c><00:13:14.079><c> able</c><00:13:14.399><c> to</c>
+memory constrained. They are able to
+memory constrained. They are able to
+work<00:13:14.880><c> within</c><00:13:15.200><c> the</c><00:13:15.440><c> memory</c><00:13:15.839><c> constraints</c><00:13:16.399><c> in</c><00:13:16.639><c> a</c>
+work within the memory constraints in a
+work within the memory constraints in a
+strong<00:13:17.120><c> harness</c><00:13:17.680><c> and</c><00:13:18.000><c> deliver</c>
+strong harness and deliver
+strong harness and deliver
+extraordinarily<00:13:19.600><c> polished</c><00:13:20.160><c> work.</c><00:13:20.639><c> My</c><00:13:21.200><c> sense</c>
+extraordinarily polished work. My sense
+extraordinarily polished work. My sense
+is<00:13:21.920><c> that</c><00:13:22.160><c> Opus</c><00:13:22.639><c> 4.5</c><00:13:23.760><c> after</c><00:13:24.000><c> talking</c><00:13:24.240><c> to</c><00:13:24.399><c> many</c>
+is that Opus 4.5 after talking to many
+is that Opus 4.5 after talking to many
+developers<00:13:25.360><c> is</c><00:13:25.680><c> generally</c><00:13:26.399><c> preferred</c><00:13:27.120><c> by</c>
+developers is generally preferred by
+developers is generally preferred by
+most<00:13:27.680><c> developers</c><00:13:28.399><c> due</c><00:13:28.639><c> to</c><00:13:28.800><c> the</c><00:13:29.120><c> ergonomics</c><00:13:29.600><c> of</c>
+most developers due to the ergonomics of
+most developers due to the ergonomics of
+development,<00:13:30.320><c> due</c><00:13:30.480><c> to</c><00:13:30.639><c> the</c><00:13:30.800><c> harness</c><00:13:31.120><c> it</c>
+development, due to the harness it
+development, due to the harness it
+operates<00:13:31.600><c> in,</c><00:13:31.920><c> due</c><00:13:32.079><c> to</c><00:13:32.240><c> the</c><00:13:32.399><c> ability</c><00:13:32.720><c> to</c>
+operates in, due to the ability to
+operates in, due to the ability to
+delegate<00:13:33.839><c> and</c><00:13:34.079><c> write</c><00:13:34.240><c> out</c><00:13:34.560><c> code</c><00:13:34.800><c> very</c><00:13:35.120><c> easily</c>
+delegate and write out code very easily
+delegate and write out code very easily
+across<00:13:35.839><c> sub</c><00:13:36.079><c> agents.</c><00:13:36.639><c> And</c><00:13:36.880><c> Opus</c><00:13:37.279><c> 4.5</c><00:13:37.839><c> is</c><00:13:38.079><c> also</c>
+across sub agents. And Opus 4.5 is also
+across sub agents. And Opus 4.5 is also
+very<00:13:38.800><c> slightly</c><00:13:39.200><c> ahead</c><00:13:39.680><c> now</c><00:13:40.079><c> on</c><00:13:40.399><c> artifact</c>
+very slightly ahead now on artifact
+very slightly ahead now on artifact
+creation<00:13:41.839><c> versus</c><00:13:42.320><c> chat</c><00:13:42.639><c> GPT.</c><00:13:43.519><c> That</c><00:13:43.839><c> gap</c><00:13:44.399><c> has</c>
+creation versus chat GPT. That gap has
+creation versus chat GPT. That gap has
+narrowed<00:13:45.200><c> by</c><00:13:45.440><c> about</c><00:13:45.760><c> 95%</c><00:13:46.720><c> since</c><00:13:47.040><c> GPT</c><00:13:47.680><c> 5.1</c><00:13:48.480><c> in</c>
+narrowed by about 95% since GPT 5.1 in
+narrowed by about 95% since GPT 5.1 in
+just<00:13:48.880><c> a</c><00:13:49.040><c> few</c><00:13:49.200><c> weeks.</c><00:13:49.519><c> And</c><00:13:49.680><c> so</c><00:13:49.920><c> I</c><00:13:50.079><c> do</c><00:13:50.320><c> want</c><00:13:50.399><c> to</c>
+just a few weeks. And so I do want to
+just a few weeks. And so I do want to
+call<00:13:50.720><c> out</c><00:13:51.120><c> that</c><00:13:51.440><c> even</c><00:13:51.600><c> though</c><00:13:51.839><c> Opus</c><00:13:52.240><c> 4.5</c><00:13:52.880><c> is</c>
+call out that even though Opus 4.5 is
+call out that even though Opus 4.5 is
+still<00:13:53.279><c> a</c><00:13:53.440><c> little</c><00:13:53.600><c> bit</c><00:13:53.680><c> ahead,</c><00:13:54.399><c> we</c><00:13:54.639><c> don't</c><00:13:54.720><c> know</c>
+still a little bit ahead, we don't know
+still a little bit ahead, we don't know
+how<00:13:55.120><c> long</c><00:13:55.279><c> that</c><00:13:55.440><c> will</c><00:13:55.600><c> last.</c><00:13:56.160><c> Meanwhile,</c>
+how long that will last. Meanwhile,
+how long that will last. Meanwhile,
+Gemini<00:13:57.279><c> 3</c><00:13:57.440><c> sits</c><00:13:57.680><c> a</c><00:13:57.839><c> bit</c><00:13:58.000><c> orthogonally.</c><00:13:59.040><c> It's</c>
+Gemini 3 sits a bit orthogonally. It's
+Gemini 3 sits a bit orthogonally. It's
+looking<00:14:00.000><c> at</c><00:14:00.639><c> the</c><00:14:01.120><c> pain</c><00:14:01.519><c> of</c><00:14:01.839><c> having</c><00:14:02.480><c> enormous</c>
+looking at the pain of having enormous
+looking at the pain of having enormous
+amounts<00:14:03.600><c> of</c><00:14:03.760><c> data</c><00:14:04.079><c> and</c><00:14:04.320><c> needing</c><00:14:04.560><c> a</c><00:14:04.720><c> broad</c>
+amounts of data and needing a broad
+amounts of data and needing a broad
+synthesis,<00:14:05.920><c> but</c><00:14:06.160><c> it's</c><00:14:06.399><c> not</c><00:14:06.560><c> necessarily</c>
+synthesis, but it's not necessarily
+synthesis, but it's not necessarily
+pushing<00:14:07.600><c> into</c><00:14:07.920><c> business</c><00:14:08.320><c> artifact</c><00:14:08.880><c> execution</c>
+pushing into business artifact execution
+pushing into business artifact execution
+as<00:14:09.600><c> cleanly,</c><00:14:10.079><c> except</c><00:14:10.320><c> in</c><00:14:10.560><c> the</c><00:14:10.639><c> Google</c><00:14:10.959><c> Docs</c>
+as cleanly, except in the Google Docs
+as cleanly, except in the Google Docs
+family.<00:14:12.000><c> And</c><00:14:12.160><c> it</c><00:14:12.399><c> is</c><00:14:12.639><c> not</c><00:14:13.040><c> necessarily</c>
+family. And it is not necessarily
+family. And it is not necessarily
+pushing<00:14:14.720><c> into</c><00:14:15.120><c> software</c><00:14:15.600><c> execution</c><00:14:16.399><c> unless</c>
+pushing into software execution unless
+pushing into software execution unless
+you<00:14:17.040><c> are</c><00:14:17.120><c> in</c><00:14:17.440><c> Google's</c><00:14:18.160><c> agent</c><00:14:18.639><c> development</c>
+you are in Google's agent development
+you are in Google's agent development
+kit<00:14:19.440><c> or</c><00:14:19.680><c> in</c><00:14:20.160><c> Google's</c><00:14:21.040><c> own</c><00:14:21.519><c> new</c><00:14:22.079><c> IDE,</c>
+kit or in Google's own new IDE,
+kit or in Google's own new IDE,
+anti-gravity.<00:14:24.000><c> So</c><00:14:24.880><c> think</c><00:14:25.120><c> of</c><00:14:25.279><c> it</c><00:14:25.440><c> as</c><00:14:26.160><c> Gemini</c><00:14:26.880><c> 3</c>
+anti-gravity. So think of it as Gemini 3
+anti-gravity. So think of it as Gemini 3
+is<00:14:27.440><c> something</c><00:14:27.760><c> that</c><00:14:28.000><c> pulls</c><00:14:28.320><c> you</c><00:14:28.560><c> into</c><00:14:28.880><c> the</c>
+is something that pulls you into the
+is something that pulls you into the
+Google<00:14:29.360><c> ecosystem</c><00:14:30.160><c> and</c><00:14:30.399><c> if</c><00:14:30.560><c> you're</c><00:14:30.720><c> in</c><00:14:30.880><c> the</c>
+Google ecosystem and if you're in the
+Google ecosystem and if you're in the
+Google<00:14:31.360><c> ecosystem,</c><00:14:32.160><c> you</c><00:14:32.399><c> are</c><00:14:32.560><c> going</c><00:14:32.720><c> to</c><00:14:32.880><c> have</c>
+Google ecosystem, you are going to have
+Google ecosystem, you are going to have
+these<00:14:33.360><c> lanes</c><00:14:33.760><c> of</c><00:14:34.000><c> execution</c><00:14:34.560><c> and</c><00:14:34.800><c> you'll</c><00:14:35.040><c> find</c>
+these lanes of execution and you'll find
+these lanes of execution and you'll find
+that<00:14:35.360><c> Gemini</c><00:14:35.920><c> 3</c><00:14:36.079><c> is</c><00:14:36.240><c> just</c><00:14:36.399><c> right</c><00:14:36.639><c> there</c><00:14:36.800><c> and</c>
+that Gemini 3 is just right there and
+that Gemini 3 is just right there and
+that's<00:14:37.199><c> part</c><00:14:37.360><c> of</c><00:14:37.440><c> how</c><00:14:37.600><c> they</c><00:14:37.839><c> frame.</c><00:14:38.160><c> So</c><00:14:38.399><c> this</c>
+that's part of how they frame. So this
+that's part of how they frame. So this
+is<00:14:38.720><c> not</c><00:14:38.959><c> just</c><00:14:39.120><c> about</c><00:14:39.440><c> which</c><00:14:39.680><c> model</c><00:14:40.000><c> is</c><00:14:40.240><c> best.</c>
+is not just about which model is best.
+is not just about which model is best.
+This<00:14:40.800><c> is</c><00:14:40.959><c> about</c><00:14:41.199><c> which</c><00:14:41.519><c> one</c><00:14:41.760><c> you</c><00:14:41.920><c> would</c>
+This is about which one you would
+This is about which one you would
+actually<00:14:42.480><c> use</c><00:14:42.880><c> for</c><00:14:43.120><c> the</c><00:14:43.279><c> kind</c><00:14:43.440><c> of</c><00:14:43.600><c> work</c><00:14:43.760><c> you</c>
+actually use for the kind of work you
+actually use for the kind of work you
+really<00:14:44.240><c> do.</c><00:14:44.800><c> So</c><00:14:45.120><c> again,</c><00:14:45.600><c> simple</c><00:14:46.000><c> wins.</c><00:14:46.560><c> If</c><00:14:46.720><c> I</c>
+really do. So again, simple wins. If I
+really do. So again, simple wins. If I
+am<00:14:47.120><c> testing</c><00:14:47.360><c> a</c><00:14:47.600><c> new</c><00:14:47.760><c> model</c><00:14:48.000><c> and</c><00:14:48.240><c> I</c><00:14:48.880><c> never</c>
+am testing a new model and I never
+am testing a new model and I never
+assume<00:14:49.519><c> these</c><00:14:49.760><c> things</c><00:14:50.000><c> stay</c><00:14:50.240><c> true,</c><00:14:50.560><c> I</c><00:14:50.800><c> assume</c>
+assume these things stay true, I assume
+assume these things stay true, I assume
+any<00:14:51.440><c> given</c><00:14:51.760><c> model</c><00:14:52.079><c> can</c><00:14:52.320><c> win</c><00:14:52.480><c> at</c><00:14:52.720><c> any</c><00:14:52.959><c> given</c>
+any given model can win at any given
+any given model can win at any given
+piece<00:14:53.440><c> of</c><00:14:53.600><c> this</c><00:14:53.839><c> workflow.</c><00:14:54.480><c> I</c><00:14:54.720><c> always</c><00:14:54.959><c> start</c>
+piece of this workflow. I always start
+piece of this workflow. I always start
+by<00:14:55.360><c> picking</c><00:14:55.680><c> a</c><00:14:55.920><c> simple</c><00:14:56.240><c> task</c><00:14:56.560><c> in</c><00:14:56.720><c> a</c><00:14:56.880><c> lane</c><00:14:57.199><c> where</c>
+by picking a simple task in a lane where
+by picking a simple task in a lane where
+success<00:14:57.760><c> is</c><00:14:57.920><c> obvious</c><00:14:58.160><c> and</c><00:14:58.399><c> I</c><00:14:58.560><c> can</c><00:14:58.639><c> measure</c><00:14:58.959><c> it.</c>
+success is obvious and I can measure it.
+success is obvious and I can measure it.
+And<00:14:59.600><c> increasingly</c><00:15:00.320><c> because</c><00:15:00.480><c> these</c><00:15:00.720><c> are</c>
+And increasingly because these are
+And increasingly because these are
+agentic<00:15:01.360><c> tasks,</c><00:15:01.760><c> I</c><00:15:01.920><c> give</c><00:15:02.079><c> it</c><00:15:02.240><c> a</c><00:15:02.399><c> full</c><00:15:02.639><c> agentic</c>
+agentic tasks, I give it a full agentic
+agentic tasks, I give it a full agentic
+task<00:15:03.440><c> with</c><00:15:03.600><c> a</c><00:15:03.839><c> document</c><00:15:04.240><c> packet</c><00:15:04.560><c> and</c><00:15:04.720><c> I</c><00:15:04.800><c> ask</c><00:15:04.959><c> it</c>
+task with a document packet and I ask it
+task with a document packet and I ask it
+to<00:15:05.279><c> produce</c><00:15:05.600><c> an</c><00:15:05.839><c> artifact.</c><00:15:06.639><c> I</c><00:15:06.959><c> just</c><00:15:07.360><c> look</c><00:15:07.600><c> to</c>
+to produce an artifact. I just look to
+to produce an artifact. I just look to
+test.<00:15:08.639><c> If</c><00:15:08.880><c> something</c><00:15:09.279><c> works,</c><00:15:09.680><c> I</c><00:15:09.920><c> log</c><00:15:10.160><c> it.</c><00:15:10.560><c> If</c>
+test. If something works, I log it. If
+test. If something works, I log it. If
+it<00:15:10.959><c> doesn't</c><00:15:11.199><c> work,</c><00:15:11.519><c> I</c><00:15:11.760><c> log</c><00:15:12.079><c> that.</c><00:15:12.560><c> I</c><00:15:12.880><c> don't</c><00:15:13.199><c> get</c>
+it doesn't work, I log that. I don't get
+it doesn't work, I log that. I don't get
+attached.<00:15:14.320><c> I</c><00:15:14.560><c> don't</c><00:15:14.720><c> pick</c><00:15:15.040><c> sides.</c><00:15:15.760><c> I</c><00:15:16.079><c> don't</c>
+attached. I don't pick sides. I don't
+attached. I don't pick sides. I don't
+have<00:15:16.399><c> big</c><00:15:16.639><c> emotions</c><00:15:17.120><c> about</c><00:15:17.360><c> it.</c><00:15:17.680><c> I</c><00:15:17.920><c> don't</c><00:15:18.079><c> look</c>
+have big emotions about it. I don't look
+have big emotions about it. I don't look
+for<00:15:18.480><c> the</c><00:15:18.639><c> smartest</c><00:15:19.040><c> model.</c><00:15:19.519><c> I</c><00:15:19.760><c> just</c><00:15:20.000><c> look</c><00:15:20.160><c> for,</c>
+for the smartest model. I just look for,
+for the smartest model. I just look for,
+hey,<00:15:21.199><c> what's</c><00:15:21.440><c> going</c><00:15:21.600><c> to</c><00:15:21.680><c> be</c><00:15:21.760><c> really</c><00:15:22.079><c> useful</c><00:15:22.320><c> in</c>
+hey, what's going to be really useful in
+hey, what's going to be really useful in
+PowerPoints?<00:15:23.360><c> Hey,</c><00:15:23.920><c> what's</c><00:15:24.240><c> really</c><00:15:24.480><c> useful</c>
+PowerPoints? Hey, what's really useful
+PowerPoints? Hey, what's really useful
+if<00:15:25.120><c> I'm</c><00:15:25.279><c> trying</c><00:15:25.440><c> to</c><00:15:25.600><c> spin</c><00:15:25.920><c> up</c><00:15:26.160><c> a</c><00:15:26.560><c> quick</c><00:15:26.959><c> repo</c>
+if I'm trying to spin up a quick repo
+if I'm trying to spin up a quick repo
+for<00:15:27.519><c> a</c><00:15:27.680><c> website?</c><00:15:28.320><c> Hey,</c><00:15:28.639><c> what's</c><00:15:28.880><c> really</c><00:15:29.040><c> cool</c>
+for a website? Hey, what's really cool
+for a website? Hey, what's really cool
+at<00:15:29.440><c> building</c><00:15:29.680><c> a</c><00:15:29.920><c> small</c><00:15:30.079><c> web</c><00:15:30.320><c> app?</c><00:15:30.959><c> Hey,</c><00:15:31.360><c> what's</c>
+at building a small web app? Hey, what's
+at building a small web app? Hey, what's
+really<00:15:32.000><c> helpful</c><00:15:32.320><c> for</c><00:15:32.560><c> Excel?</c><00:15:33.120><c> You</c><00:15:33.279><c> get</c><00:15:33.440><c> the</c>
+really helpful for Excel? You get the
+really helpful for Excel? You get the
+idea.<00:15:34.000><c> Look</c><00:15:34.240><c> for</c><00:15:34.480><c> those</c><00:15:34.720><c> specifics</c><00:15:35.519><c> and</c><00:15:35.839><c> just</c>
+idea. Look for those specifics and just
+idea. Look for those specifics and just
+give<00:15:36.720><c> your</c><00:15:36.880><c> model</c><00:15:37.279><c> regular</c><00:15:37.760><c> tasks.</c><00:15:38.639><c> Don't</c>
+give your model regular tasks. Don't
+give your model regular tasks. Don't
+assume<00:15:39.839><c> that</c><00:15:40.160><c> you</c><00:15:40.399><c> have</c><00:15:40.560><c> to</c><00:15:40.800><c> do</c><00:15:40.959><c> something</c>
+assume that you have to do something
+assume that you have to do something
+complicated<00:15:42.240><c> to</c><00:15:42.560><c> route</c><00:15:42.880><c> everything</c><00:15:43.199><c> to</c><00:15:43.440><c> a</c><00:15:43.600><c> new</c>
+complicated to route everything to a new
+complicated to route everything to a new
+model.<00:15:44.480><c> Simple</c><00:15:44.800><c> wins.</c><00:15:45.279><c> pick</c><00:15:45.519><c> a</c><00:15:45.680><c> simple</c><00:15:46.000><c> little</c>
+model. Simple wins. pick a simple little
+model. Simple wins. pick a simple little
+artifact<00:15:46.800><c> and</c><00:15:47.120><c> test</c><00:15:47.279><c> it.</c><00:15:47.600><c> I</c><00:15:47.760><c> hope</c><00:15:47.920><c> I've</c><00:15:48.160><c> been</c>
+artifact and test it. I hope I've been
+artifact and test it. I hope I've been
+able<00:15:48.399><c> to</c><00:15:48.560><c> give</c><00:15:48.720><c> you</c><00:15:48.880><c> a</c><00:15:49.040><c> sense</c><00:15:49.199><c> of</c><00:15:49.360><c> how</c><00:15:49.519><c> I</c><00:15:49.839><c> think</c>
+able to give you a sense of how I think
+able to give you a sense of how I think
+about<00:15:50.240><c> how</c><00:15:50.480><c> to</c><00:15:50.639><c> pick</c><00:15:50.800><c> between</c><00:15:51.120><c> these</c><00:15:51.360><c> models</c>
+about how to pick between these models
+about how to pick between these models
+and<00:15:51.920><c> at</c><00:15:52.079><c> the</c><00:15:52.240><c> same</c><00:15:52.399><c> time</c><00:15:52.639><c> a</c><00:15:52.880><c> fingertippy</c><00:15:53.600><c> feel</c>
+and at the same time a fingertippy feel
+and at the same time a fingertippy feel
+for<00:15:54.320><c> how</c><00:15:54.480><c> I</c><00:15:54.639><c> think</c><00:15:54.800><c> about</c><00:15:55.040><c> how</c><00:15:55.199><c> the</c><00:15:55.440><c> three</c>
+for how I think about how the three
+for how I think about how the three
+leading<00:15:56.480><c> model</c><00:15:56.800><c> makers</c><00:15:57.279><c> current</c><00:15:57.600><c> models</c>
+leading model makers current models
+leading model makers current models
+stack<00:15:58.639><c> up</c><00:15:59.199><c> within</c><00:15:59.519><c> that</c><00:15:59.759><c> framework.</c><00:16:00.480><c> Simple</c>
+stack up within that framework. Simple
+stack up within that framework. Simple
+wins.<00:16:01.360><c> Until</c><00:16:01.759><c> next</c><00:16:01.920><c> time</c><00:16:02.079><c> and</c><00:16:02.240><c> until</c><00:16:02.480><c> we</c><00:16:02.560><c> get</c><00:16:02.639><c> a</c>
+wins. Until next time and until we get a
+wins. Until next time and until we get a
+new<00:16:02.959><c> model,</c><00:16:03.120><c> which</c><00:16:03.360><c> is</c><00:16:03.519><c> probably</c><00:16:03.680><c> like</c><00:16:03.920><c> next</c>

@@ -1,0 +1,862 @@
+Anthropic<00:00:00.719><c> basically</c><00:00:01.040><c> shipped</c><00:00:01.360><c> a</c><00:00:01.600><c> Christmas</c>
+Anthropic basically shipped a Christmas
+Anthropic basically shipped a Christmas
+claw<00:00:02.320><c> over</c><00:00:02.480><c> the</c><00:00:02.639><c> last</c><00:00:02.879><c> couple</c><00:00:03.120><c> weeks.</c><00:00:03.679><c> Not</c><00:00:03.919><c> one</c>
+claw over the last couple weeks. Not one
+claw over the last couple weeks. Not one
+single<00:00:04.480><c> shiny</c><00:00:04.880><c> new</c><00:00:05.040><c> toy,</c><00:00:05.359><c> but</c><00:00:05.600><c> like</c><00:00:05.759><c> a</c><00:00:05.920><c> whole</c>
+single shiny new toy, but like a whole
+single shiny new toy, but like a whole
+set<00:00:06.319><c> of</c><00:00:06.480><c> parts</c><00:00:06.720><c> that</c><00:00:07.040><c> only</c><00:00:07.279><c> make</c><00:00:07.440><c> sense</c><00:00:07.680><c> when</c>
+set of parts that only make sense when
+set of parts that only make sense when
+you<00:00:08.080><c> put</c><00:00:08.160><c> them</c><00:00:08.400><c> together.</c><00:00:09.040><c> No</c><00:00:09.280><c> one's</c><00:00:09.519><c> putting</c>
+you put them together. No one's putting
+you put them together. No one's putting
+them<00:00:10.000><c> together,</c><00:00:10.400><c> though.</c><00:00:10.639><c> So,</c><00:00:10.880><c> I</c><00:00:11.120><c> want</c><00:00:11.200><c> to</c><00:00:11.360><c> put</c>
+them together, though. So, I want to put
+them together, though. So, I want to put
+them<00:00:11.679><c> together,</c><00:00:12.160><c> explain</c><00:00:12.480><c> to</c><00:00:12.639><c> you</c><00:00:12.800><c> what</c>
+them together, explain to you what
+them together, explain to you what
+Anthropic<00:00:13.840><c> is</c><00:00:14.000><c> doing,</c><00:00:14.240><c> what</c><00:00:14.400><c> their</c><00:00:14.639><c> strategy</c>
+Anthropic is doing, what their strategy
+Anthropic is doing, what their strategy
+is,<00:00:15.280><c> and</c><00:00:15.440><c> how</c><00:00:15.679><c> that</c><00:00:16.080><c> shakes</c><00:00:16.560><c> out</c><00:00:16.880><c> what</c><00:00:17.119><c> we</c>
+is, and how that shakes out what we
+is, and how that shakes out what we
+should<00:00:17.520><c> expect</c><00:00:18.000><c> in</c><00:00:18.240><c> the</c><00:00:18.400><c> new</c><00:00:18.560><c> year.</c><00:00:18.880><c> The</c>
+should expect in the new year. The
+should expect in the new year. The
+packaging<00:00:19.520><c> is</c><00:00:19.760><c> telling</c><00:00:20.080><c> here.</c><00:00:20.320><c> Instead</c><00:00:20.640><c> of</c>
+packaging is telling here. Instead of
+packaging is telling here. Instead of
+investing<00:00:21.279><c> in</c><00:00:21.600><c> one</c><00:00:21.840><c> headline</c><00:00:22.320><c> feature</c><00:00:22.880><c> inside</c>
+investing in one headline feature inside
+investing in one headline feature inside
+the<00:00:23.439><c> chat</c><00:00:23.760><c> window,</c><00:00:24.320><c> they</c><00:00:24.560><c> spent</c><00:00:24.880><c> December</c>
+the chat window, they spent December
+the chat window, they spent December
+pushing<00:00:25.760><c> Claude</c><00:00:26.160><c> forward</c><00:00:26.640><c> into</c><00:00:26.960><c> the</c><00:00:27.119><c> browser,</c>
+pushing Claude forward into the browser,
+pushing Claude forward into the browser,
+into<00:00:27.920><c> Slack</c><00:00:28.320><c> threads,</c><00:00:28.880><c> into</c><00:00:29.119><c> the</c><00:00:29.279><c> terminal,</c>
+into Slack threads, into the terminal,
+into Slack threads, into the terminal,
+onto<00:00:30.080><c> mobile.</c><00:00:30.480><c> Are</c><00:00:30.640><c> you</c><00:00:30.720><c> seeing</c><00:00:30.960><c> the</c><00:00:31.039><c> themes</c>
+onto mobile. Are you seeing the themes
+onto mobile. Are you seeing the themes
+here?<00:00:31.920><c> And</c><00:00:32.079><c> they're</c><00:00:32.640><c> doing</c><00:00:32.880><c> all</c><00:00:33.120><c> of</c><00:00:33.200><c> that</c>
+here? And they're doing all of that
+here? And they're doing all of that
+while<00:00:33.600><c> tightening</c><00:00:34.079><c> the</c><00:00:34.320><c> underlying</c><00:00:34.880><c> runtime</c>
+while tightening the underlying runtime
+while tightening the underlying runtime
+environment,<00:00:35.920><c> figuring</c><00:00:36.239><c> out</c><00:00:36.480><c> stuff</c><00:00:36.640><c> around</c>
+environment, figuring out stuff around
+environment, figuring out stuff around
+context<00:00:37.440><c> management,</c><00:00:37.840><c> around</c><00:00:38.160><c> sandboxing,</c>
+context management, around sandboxing,
+context management, around sandboxing,
+around<00:00:39.120><c> agent</c><00:00:39.520><c> ergonomics,</c><00:00:40.239><c> and</c><00:00:40.480><c> also</c>
+around agent ergonomics, and also
+around agent ergonomics, and also
+touching<00:00:41.040><c> the</c><00:00:41.280><c> organizational</c><00:00:41.920><c> layer</c><00:00:42.079><c> with</c>
+touching the organizational layer with
+touching the organizational layer with
+skills.<00:00:42.800><c> Overall,</c><00:00:43.600><c> this</c><00:00:43.840><c> is</c><00:00:43.920><c> the</c><00:00:44.160><c> move</c><00:00:44.399><c> from</c>
+skills. Overall, this is the move from
+skills. Overall, this is the move from
+the<00:00:44.800><c> assistant</c><00:00:45.280><c> you</c><00:00:45.600><c> consult</c><00:00:46.239><c> to</c><00:00:46.480><c> the</c><00:00:46.719><c> agent</c>
+the assistant you consult to the agent
+the assistant you consult to the agent
+system<00:00:47.680><c> you</c><00:00:48.000><c> run.</c><00:00:48.399><c> And</c><00:00:48.640><c> I</c><00:00:48.879><c> do</c><00:00:49.039><c> believe</c><00:00:49.280><c> that</c><00:00:49.520><c> is</c>
+system you run. And I do believe that is
+system you run. And I do believe that is
+the<00:00:49.760><c> theme</c><00:00:50.000><c> for</c><00:00:50.239><c> them</c><00:00:50.399><c> in</c><00:00:50.559><c> 2026.</c><00:00:51.520><c> Here's</c><00:00:51.840><c> what</c>
+the theme for them in 2026. Here's what
+the theme for them in 2026. Here's what
+has<00:00:52.480><c> actually</c><00:00:52.960><c> come</c><00:00:53.199><c> out</c><00:00:53.440><c> of</c><00:00:53.520><c> the</c><00:00:53.760><c> box</c><00:00:54.000><c> for</c>
+has actually come out of the box for
+has actually come out of the box for
+Christmas<00:00:54.719><c> Claude</c><00:00:55.440><c> in</c><00:00:55.680><c> the</c><00:00:55.840><c> last</c><00:00:56.079><c> couple</c><00:00:56.239><c> of</c>
+Christmas Claude in the last couple of
+Christmas Claude in the last couple of
+weeks.<00:00:57.120><c> Number</c><00:00:57.360><c> one,</c><00:00:58.000><c> Claude</c><00:00:58.559><c> in</c><00:00:58.879><c> Chrome</c>
+weeks. Number one, Claude in Chrome
+weeks. Number one, Claude in Chrome
+extension<00:01:00.320><c> was</c><00:01:00.559><c> expanded</c><00:01:01.039><c> to</c><00:01:01.199><c> all</c><00:01:01.440><c> paid</c><00:01:01.760><c> plans</c>
+extension was expanded to all paid plans
+extension was expanded to all paid plans
+with<00:01:02.239><c> deeper</c><00:01:02.640><c> agent</c><00:01:02.960><c> and</c><00:01:03.199><c> browser</c>
+with deeper agent and browser
+with deeper agent and browser
+capabilities<00:01:04.479><c> and</c><00:01:04.720><c> tight</c><00:01:05.040><c> integration</c><00:01:05.519><c> with</c>
+capabilities and tight integration with
+capabilities and tight integration with
+Claude<00:01:06.240><c> code</c><00:01:06.640><c> which</c><00:01:06.880><c> enables</c><00:01:07.520><c> browserbased</c>
+Claude code which enables browserbased
+Claude code which enables browserbased
+testing<00:01:08.560><c> and</c><00:01:08.799><c> debugging.</c><00:01:09.360><c> Like</c><00:01:09.600><c> you</c><00:01:09.760><c> can</c>
+testing and debugging. Like you can
+testing and debugging. Like you can
+basically<00:01:10.240><c> tell</c><00:01:10.479><c> cloud</c><00:01:10.880><c> code,</c><00:01:11.520><c> have</c><00:01:11.760><c> a</c><00:01:11.920><c> look</c>
+basically tell cloud code, have a look
+basically tell cloud code, have a look
+in<00:01:12.240><c> the</c><00:01:12.400><c> browser,</c><00:01:13.119><c> inspect</c><00:01:13.520><c> the</c><00:01:13.680><c> DOM,</c><00:01:14.400><c> look</c><00:01:14.560><c> at</c>
+in the browser, inspect the DOM, look at
+in the browser, inspect the DOM, look at
+the<00:01:14.960><c> console</c><00:01:15.360><c> logs,</c><00:01:16.080><c> look</c><00:01:16.240><c> at</c><00:01:16.400><c> multitab</c>
+the console logs, look at multitab
+the console logs, look at multitab
+workflows,<00:01:17.759><c> and</c><00:01:17.920><c> then</c><00:01:18.159><c> come</c><00:01:18.320><c> back</c><00:01:18.479><c> and</c><00:01:18.720><c> fix</c>
+workflows, and then come back and fix
+workflows, and then come back and fix
+it.<00:01:19.200><c> It's</c><00:01:19.439><c> huge</c><00:01:19.840><c> for</c><00:01:20.479><c> tightening</c><00:01:20.960><c> up</c><00:01:21.200><c> feedback</c>
+it. It's huge for tightening up feedback
+it. It's huge for tightening up feedback
+loops.<00:01:22.159><c> I</c><00:01:22.400><c> actually</c><00:01:22.720><c> saw</c><00:01:23.119><c> an</c><00:01:23.360><c> exchange</c><00:01:23.759><c> on</c><00:01:24.000><c> X</c>
+loops. I actually saw an exchange on X
+loops. I actually saw an exchange on X
+that<00:01:24.799><c> suggests</c><00:01:25.200><c> that</c><00:01:25.360><c> this</c><00:01:25.600><c> was</c><00:01:25.759><c> shipped</c><00:01:26.080><c> in</c>
+that suggests that this was shipped in
+that suggests that this was shipped in
+just<00:01:26.479><c> a</c><00:01:26.720><c> few</c><00:01:26.880><c> days</c><00:01:27.439><c> from</c><00:01:27.680><c> a</c><00:01:28.000><c> text</c><00:01:28.320><c> message</c><00:01:29.040><c> that</c>
+just a few days from a text message that
+just a few days from a text message that
+a<00:01:29.439><c> Claude</c><00:01:29.840><c> Code</c><00:01:30.159><c> user</c><00:01:30.479><c> sent</c><00:01:30.720><c> to</c><00:01:30.880><c> a</c><00:01:31.040><c> friend</c><00:01:31.200><c> at</c>
+a Claude Code user sent to a friend at
+a Claude Code user sent to a friend at
+Enthropic.<00:01:32.320><c> So</c><00:01:32.479><c> if</c><00:01:32.640><c> you</c><00:01:32.799><c> have</c><00:01:32.960><c> friends</c><00:01:33.200><c> at</c>
+Enthropic. So if you have friends at
+Enthropic. So if you have friends at
+Enthropic,<00:01:34.240><c> text</c><00:01:34.479><c> them</c><00:01:34.640><c> the</c><00:01:34.880><c> features</c><00:01:35.200><c> you</c>
+Enthropic, text them the features you
+Enthropic, text them the features you
+want.<00:01:35.840><c> Next,</c><00:01:36.240><c> Claude</c><00:01:36.720><c> Code</c><00:01:37.119><c> in</c><00:01:37.439><c> Slack.</c><00:01:38.320><c> It's</c>
+want. Next, Claude Code in Slack. It's
+want. Next, Claude Code in Slack. It's
+in<00:01:38.720><c> beta,</c><00:01:39.119><c> but</c><00:01:39.280><c> it</c><00:01:39.520><c> invokes</c><00:01:40.000><c> work</c><00:01:40.320><c> from</c><00:01:40.479><c> a</c>
+in beta, but it invokes work from a
+in beta, but it invokes work from a
+thread<00:01:41.040><c> by</c><00:01:41.280><c> tagging</c><00:01:41.759><c> claude.</c><00:01:42.159><c> It</c><00:01:42.320><c> creates</c><00:01:42.479><c> a</c>
+thread by tagging claude. It creates a
+thread by tagging claude. It creates a
+claude<00:01:43.119><c> code</c><00:01:43.439><c> session</c><00:01:43.920><c> from</c><00:01:44.240><c> that</c><00:01:44.479><c> context</c>
+claude code session from that context
+claude code session from that context
+and<00:01:45.119><c> then</c><00:01:45.439><c> posts</c><00:01:45.840><c> the</c><00:01:46.159><c> status</c><00:01:46.560><c> back.</c><00:01:47.119><c> This</c>
+and then posts the status back. This
+and then posts the status back. This
+reminds<00:01:47.680><c> me</c><00:01:47.840><c> of</c><00:01:48.000><c> early</c><00:01:48.399><c> 2025</c><00:01:49.200><c> when</c><00:01:49.680><c> Devon</c><00:01:50.079><c> was</c>
+reminds me of early 2025 when Devon was
+reminds me of early 2025 when Devon was
+advertising<00:01:50.799><c> the</c><00:01:51.040><c> thing</c><00:01:51.360><c> same</c><00:01:51.600><c> thing.</c><00:01:52.159><c> Now,</c>
+advertising the thing same thing. Now,
+advertising the thing same thing. Now,
+this<00:01:52.640><c> is</c><00:01:52.720><c> something</c><00:01:52.880><c> that</c><00:01:53.119><c> we're</c><00:01:53.280><c> seeing</c><00:01:53.439><c> as</c><00:01:53.600><c> a</c>
+this is something that we're seeing as a
+this is something that we're seeing as a
+larger<00:01:54.079><c> work</c><00:01:54.320><c> pattern.</c><00:01:54.720><c> I</c><00:01:54.960><c> continue</c><00:01:55.360><c> to</c><00:01:55.600><c> think</c>
+larger work pattern. I continue to think
+larger work pattern. I continue to think
+that<00:01:56.079><c> Slack</c><00:01:56.640><c> tends</c><00:01:56.960><c> to</c><00:01:57.200><c> benefit</c><00:01:58.000><c> from</c><00:01:58.240><c> a</c><00:01:58.479><c> lot</c>
+that Slack tends to benefit from a lot
+that Slack tends to benefit from a lot
+of<00:01:58.640><c> these</c><00:01:58.880><c> AI</c><00:01:59.280><c> tools</c><00:01:59.840><c> essentially</c><00:02:00.240><c> regarding</c>
+of these AI tools essentially regarding
+of these AI tools essentially regarding
+Slack<00:02:01.200><c> as</c><00:02:01.600><c> a</c><00:02:01.840><c> communications</c><00:02:02.479><c> hub.</c><00:02:03.040><c> Third,</c>
+Slack as a communications hub. Third,
+Slack as a communications hub. Third,
+organizational<00:02:04.479><c> skills</c><00:02:04.960><c> and</c><00:02:05.200><c> skills</c>
+organizational skills and skills
+organizational skills and skills
+directory.<00:02:06.479><c> This</c><00:02:06.799><c> was</c><00:02:06.880><c> a</c><00:02:07.119><c> big</c><00:02:07.360><c> issue</c><00:02:07.680><c> when</c>
+directory. This was a big issue when
+directory. This was a big issue when
+skills<00:02:08.160><c> rolled</c><00:02:08.399><c> out.</c><00:02:08.720><c> People</c><00:02:09.039><c> wanted</c><00:02:09.280><c> to</c>
+skills rolled out. People wanted to
+skills rolled out. People wanted to
+share<00:02:09.840><c> skills</c><00:02:10.239><c> with</c><00:02:10.399><c> their</c><00:02:10.720><c> teams.</c><00:02:11.440><c> Now</c><00:02:11.680><c> you</c>
+share skills with their teams. Now you
+share skills with their teams. Now you
+can<00:02:12.400><c> because</c><00:02:12.720><c> these</c><00:02:13.040><c> are</c><00:02:13.200><c> available</c><00:02:13.520><c> in</c><00:02:13.760><c> team</c>
+can because these are available in team
+can because these are available in team
+and<00:02:14.239><c> enterprise</c><00:02:14.720><c> plans</c><00:02:15.280><c> and</c><00:02:15.680><c> agent</c><00:02:16.080><c> skills</c>
+and enterprise plans and agent skills
+and enterprise plans and agent skills
+are<00:02:16.720><c> also</c><00:02:17.120><c> now</c><00:02:17.440><c> an</c><00:02:17.840><c> open</c><00:02:18.239><c> standard.</c><00:02:18.720><c> They're</c>
+are also now an open standard. They're
+are also now an open standard. They're
+portable.<00:02:19.680><c> They're</c><00:02:19.920><c> governed.</c><00:02:20.480><c> Uh</c><00:02:20.720><c> there</c><00:02:20.879><c> are</c>
+portable. They're governed. Uh there are
+portable. They're governed. Uh there are
+they're<00:02:21.520><c> described</c><00:02:21.840><c> as</c><00:02:22.080><c> packaged</c><00:02:22.560><c> workflows.</c>
+they're described as packaged workflows.
+they're described as packaged workflows.
+There's<00:02:23.760><c> a</c><00:02:24.000><c> standard</c><00:02:24.319><c> for</c><00:02:24.560><c> them</c><00:02:24.720><c> we</c><00:02:24.959><c> can</c><00:02:25.120><c> roll</c>
+There's a standard for them we can roll
+There's a standard for them we can roll
+out.<00:02:25.599><c> And</c><00:02:25.760><c> OpenAI</c><00:02:26.400><c> has</c><00:02:26.560><c> indeed</c><00:02:26.959><c> confirmed</c>
+out. And OpenAI has indeed confirmed
+out. And OpenAI has indeed confirmed
+they're<00:02:27.599><c> adding</c><00:02:27.920><c> skills</c><00:02:28.319><c> support</c><00:02:28.800><c> as</c><00:02:29.040><c> well.</c>
+they're adding skills support as well.
+they're adding skills support as well.
+Meanwhile,<00:02:30.080><c> we're</c><00:02:30.319><c> not</c><00:02:30.480><c> done.</c><00:02:31.280><c> Next,</c><00:02:31.599><c> they</c>
+Meanwhile, we're not done. Next, they
+Meanwhile, we're not done. Next, they
+rolled<00:02:32.080><c> out</c><00:02:32.239><c> claude</c><00:02:32.720><c> code</c><00:02:32.959><c> command</c><00:02:33.360><c> line</c>
+rolled out claude code command line
+rolled out claude code command line
+updates,<00:02:34.720><c> including</c><00:02:35.440><c> asynchronous</c><00:02:36.239><c> sub</c>
+updates, including asynchronous sub
+updates, including asynchronous sub
+aents,<00:02:37.040><c> including</c><00:02:37.440><c> much</c><00:02:37.760><c> faster</c><00:02:38.239><c> compaction,</c>
+aents, including much faster compaction,
+aents, including much faster compaction,
+including<00:02:39.760><c> session</c><00:02:40.160><c> naming,</c><00:02:40.720><c> including</c>
+including session naming, including
+including session naming, including
+usage<00:02:41.599><c> stats,</c><00:02:42.319><c> plus</c><00:02:42.640><c> syntax</c><00:02:43.280><c> highlighted</c>
+usage stats, plus syntax highlighted
+usage stats, plus syntax highlighted
+diffs,<00:02:44.160><c> which</c><00:02:44.400><c> is</c><00:02:44.480><c> nice</c><00:02:44.640><c> if</c><00:02:44.879><c> you're</c><00:02:44.959><c> a</c>
+diffs, which is nice if you're a
+diffs, which is nice if you're a
+developer.<00:02:45.920><c> Prompt</c><00:02:46.319><c> suggestions,</c><00:02:47.120><c> which</c><00:02:47.360><c> is</c>
+developer. Prompt suggestions, which is
+developer. Prompt suggestions, which is
+kind<00:02:47.760><c> of</c><00:02:47.920><c> eerie.</c><00:02:48.720><c> Now,</c><00:02:49.040><c> the</c><00:02:49.280><c> machine</c><00:02:49.599><c> is</c>
+kind of eerie. Now, the machine is
+kind of eerie. Now, the machine is
+telling<00:02:50.080><c> you</c><00:02:50.239><c> what</c><00:02:50.480><c> to</c><00:02:50.640><c> prompt</c><00:02:50.879><c> it,</c><00:02:51.280><c> and</c><00:02:51.599><c> a</c>
+telling you what to prompt it, and a
+telling you what to prompt it, and a
+plugins<00:02:52.239><c> marketplace.</c><00:02:53.120><c> We're</c><00:02:53.360><c> not</c><00:02:53.599><c> done.</c>
+plugins marketplace. We're not done.
+plugins marketplace. We're not done.
+They<00:02:54.560><c> also</c><00:02:54.879><c> shipped</c><00:02:55.280><c> claude</c><00:02:55.680><c> code</c><00:02:56.000><c> on</c><00:02:56.400><c> Android</c>
+They also shipped claude code on Android
+They also shipped claude code on Android
+research<00:02:57.519><c> preview.</c><00:02:58.400><c> So</c><00:02:58.480><c> you</c><00:02:58.720><c> can</c><00:02:58.879><c> initiate,</c>
+research preview. So you can initiate,
+research preview. So you can initiate,
+you<00:02:59.599><c> can</c><00:02:59.760><c> monitor</c><00:03:00.080><c> coding</c><00:03:00.480><c> tasks</c><00:03:00.879><c> on</c><00:03:01.120><c> your</c>
+you can monitor coding tasks on your
+you can monitor coding tasks on your
+mobile<00:03:01.680><c> on</c><00:03:02.080><c> Android</c><00:03:02.480><c> and</c><00:03:02.720><c> sync</c><00:03:02.959><c> it</c><00:03:03.200><c> back.</c><00:03:03.680><c> And</c>
+mobile on Android and sync it back. And
+mobile on Android and sync it back. And
+we're<00:03:04.080><c> still</c><00:03:04.319><c> not</c><00:03:04.560><c> done</c><00:03:04.800><c> because</c><00:03:05.040><c> they</c><00:03:05.280><c> have</c>
+we're still not done because they have
+we're still not done because they have
+agent<00:03:05.840><c> SDK</c><00:03:06.400><c> updates.</c><00:03:07.120><c> Very</c><00:03:07.360><c> large</c><00:03:07.680><c> context</c>
+agent SDK updates. Very large context
+agent SDK updates. Very large context
+window<00:03:08.480><c> support</c><00:03:09.280><c> 1</c><00:03:09.440><c> million</c><00:03:09.920><c> class</c><00:03:10.560><c> uh</c>
+window support 1 million class uh
+window support 1 million class uh
+context<00:03:11.200><c> window</c><00:03:11.840><c> sandboxing</c><00:03:12.640><c> a</c><00:03:12.879><c> simplified</c>
+context window sandboxing a simplified
+context window sandboxing a simplified
+TypeScript<00:03:14.000><c> interface</c><00:03:14.480><c> for</c><00:03:14.879><c> building</c>
+TypeScript interface for building
+TypeScript interface for building
+multi-turn<00:03:15.840><c> agents.</c><00:03:16.400><c> I</c><00:03:16.640><c> am</c><00:03:16.800><c> running</c><00:03:17.040><c> out</c><00:03:17.200><c> of</c>
+multi-turn agents. I am running out of
+multi-turn agents. I am running out of
+breath<00:03:17.599><c> here</c><00:03:17.840><c> guys.</c><00:03:18.000><c> They've</c><00:03:18.239><c> shipped</c><00:03:18.560><c> a</c><00:03:18.720><c> lot.</c>
+breath here guys. They've shipped a lot.
+breath here guys. They've shipped a lot.
+The<00:03:19.280><c> strategic</c><00:03:19.840><c> through</c><00:03:20.239><c> line</c><00:03:20.480><c> might</c><00:03:20.720><c> be</c><00:03:20.879><c> hard</c>
+The strategic through line might be hard
+The strategic through line might be hard
+to<00:03:21.280><c> see,</c><00:03:21.519><c> but</c><00:03:21.760><c> it's</c><00:03:22.000><c> clearer</c><00:03:22.720><c> if</c><00:03:23.040><c> you</c><00:03:23.200><c> organize</c>
+to see, but it's clearer if you organize
+to see, but it's clearer if you organize
+it<00:03:23.840><c> by</c><00:03:24.159><c> surfaces</c><00:03:24.959><c> rather</c><00:03:25.440><c> than</c><00:03:25.840><c> features.</c><00:03:26.480><c> So,</c>
+it by surfaces rather than features. So,
+it by surfaces rather than features. So,
+Anthropic<00:03:27.360><c> touched</c><00:03:27.680><c> the</c><00:03:27.920><c> browser</c><00:03:28.720><c> because</c>
+Anthropic touched the browser because
+Anthropic touched the browser because
+the<00:03:29.200><c> browser</c><00:03:29.599><c> is</c><00:03:29.840><c> where</c><00:03:30.159><c> modern</c><00:03:30.480><c> work</c><00:03:30.720><c> tends</c>
+the browser is where modern work tends
+the browser is where modern work tends
+to<00:03:31.120><c> live.</c><00:03:31.599><c> SAS</c><00:03:32.000><c> tools</c><00:03:32.319><c> live</c><00:03:32.560><c> there,</c>
+to live. SAS tools live there,
+to live. SAS tools live there,
+dashboards<00:03:33.440><c> live</c><00:03:33.680><c> there,</c><00:03:33.920><c> admin</c><00:03:34.319><c> panels</c><00:03:34.720><c> live</c>
+dashboards live there, admin panels live
+dashboards live there, admin panels live
+there,<00:03:35.200><c> forms,</c><00:03:35.920><c> all</c><00:03:36.080><c> the</c><00:03:36.239><c> messy</c><00:03:36.640><c> reality</c><00:03:37.040><c> that</c>
+there, forms, all the messy reality that
+there, forms, all the messy reality that
+isn't<00:03:37.840><c> going</c><00:03:37.920><c> to</c><00:03:38.080><c> fit</c><00:03:38.239><c> neatly</c><00:03:38.560><c> into</c><00:03:38.799><c> a</c><00:03:38.959><c> prompt.</c>
+isn't going to fit neatly into a prompt.
+isn't going to fit neatly into a prompt.
+They<00:03:39.840><c> touch</c><00:03:40.159><c> Slack</c><00:03:41.040><c> because</c><00:03:41.360><c> Slack</c><00:03:41.760><c> is</c><00:03:41.920><c> where</c>
+They touch Slack because Slack is where
+They touch Slack because Slack is where
+a<00:03:42.400><c> lot</c><00:03:42.480><c> of</c><00:03:42.720><c> comm's</c><00:03:43.120><c> work</c><00:03:43.280><c> and</c><00:03:43.519><c> engineering</c>
+a lot of comm's work and engineering
+a lot of comm's work and engineering
+work<00:03:44.239><c> starts.</c><00:03:44.640><c> Bug</c><00:03:45.040><c> reports</c><00:03:45.519><c> end</c><00:03:45.680><c> up</c><00:03:45.840><c> in</c>
+work starts. Bug reports end up in
+work starts. Bug reports end up in
+there.<00:03:46.560><c> Reproducible</c><00:03:47.280><c> steps</c><00:03:47.599><c> end</c><00:03:47.840><c> up</c><00:03:47.920><c> in</c>
+there. Reproducible steps end up in
+there. Reproducible steps end up in
+there.<00:03:48.319><c> Ownership</c><00:03:48.799><c> discussions</c><00:03:49.360><c> end</c><00:03:49.599><c> up</c><00:03:49.680><c> in</c>
+there. Ownership discussions end up in
+there. Ownership discussions end up in
+there.<00:03:50.319><c> The</c><00:03:50.640><c> urgency</c><00:03:51.120><c> ends</c><00:03:51.360><c> up</c><00:03:51.519><c> in</c><00:03:51.680><c> there,</c>
+there. The urgency ends up in there,
+there. The urgency ends up in there,
+right?<00:03:52.319><c> Like</c><00:03:52.560><c> get</c><00:03:52.720><c> this</c><00:03:52.959><c> done</c><00:03:53.120><c> now</c><00:03:53.360><c> from</c><00:03:53.519><c> your</c>
+right? Like get this done now from your
+right? Like get this done now from your
+VP.<00:03:54.080><c> That</c><00:03:54.239><c> ends</c><00:03:54.400><c> up</c><00:03:54.480><c> in</c><00:03:54.720><c> Slap.</c><00:03:55.120><c> They</c><00:03:55.360><c> double</c>
+VP. That ends up in Slap. They double
+VP. That ends up in Slap. They double
+down<00:03:55.760><c> on</c><00:03:55.920><c> the</c><00:03:56.000><c> terminal</c><00:03:56.400><c> because</c><00:03:56.560><c> it's</c><00:03:56.799><c> where</c>
+down on the terminal because it's where
+down on the terminal because it's where
+developers<00:03:57.519><c> are</c><00:03:57.760><c> already</c><00:03:58.159><c> loving</c><00:03:58.560><c> the</c>
+developers are already loving the
+developers are already loving the
+execution<00:03:59.360><c> experience,</c><00:04:00.159><c> the</c><00:04:00.400><c> ability</c><00:04:00.640><c> to</c>
+execution experience, the ability to
+execution experience, the ability to
+review<00:04:01.040><c> diffs,</c><00:04:01.519><c> the</c><00:04:01.680><c> ability</c><00:04:01.840><c> to</c><00:04:02.000><c> iterate,</c>
+review diffs, the ability to iterate,
+review diffs, the ability to iterate,
+and<00:04:02.799><c> the</c><00:04:02.959><c> command</c><00:04:03.200><c> line</c><00:04:03.439><c> upgrades</c><00:04:03.840><c> are</c>
+and the command line upgrades are
+and the command line upgrades are
+basically<00:04:04.640><c> agent</c><00:04:05.040><c> operations</c><00:04:05.760><c> work</c><00:04:06.080><c> designed</c>
+basically agent operations work designed
+basically agent operations work designed
+to<00:04:06.959><c> enable</c><00:04:07.439><c> engineers</c><00:04:07.920><c> to</c><00:04:08.159><c> run</c><00:04:08.400><c> long</c><00:04:08.799><c> running</c>
+to enable engineers to run long running
+to enable engineers to run long running
+multi-step<00:04:09.920><c> sessions.</c><00:04:10.720><c> And</c><00:04:10.879><c> they</c><00:04:11.040><c> added</c>
+multi-step sessions. And they added
+multi-step sessions. And they added
+mobile<00:04:11.760><c> to</c><00:04:12.000><c> that</c><00:04:12.239><c> because</c><00:04:12.560><c> delegation</c>
+mobile to that because delegation
+mobile to that because delegation
+doesn't<00:04:13.599><c> happen</c><00:04:13.840><c> on</c><00:04:14.080><c> a</c><00:04:14.319><c> schedule.</c><00:04:14.720><c> Work</c><00:04:14.959><c> is</c>
+doesn't happen on a schedule. Work is
+doesn't happen on a schedule. Work is
+going<00:04:15.280><c> to</c><00:04:15.360><c> show</c><00:04:15.519><c> up</c><00:04:15.680><c> in</c><00:04:15.920><c> the</c><00:04:16.079><c> middle</c><00:04:16.160><c> of</c><00:04:16.239><c> the</c>
+going to show up in the middle of the
+going to show up in the middle of the
+day<00:04:16.560><c> when</c><00:04:16.720><c> you're</c><00:04:16.959><c> taking</c><00:04:17.120><c> your</c><00:04:17.359><c> lunch</c><00:04:17.600><c> walk</c>
+day when you're taking your lunch walk
+day when you're taking your lunch walk
+and<00:04:18.320><c> the</c><00:04:18.479><c> agent</c><00:04:18.959><c> layer</c><00:04:19.199><c> has</c><00:04:19.440><c> to</c><00:04:19.600><c> travel</c><00:04:19.919><c> with</c>
+and the agent layer has to travel with
+and the agent layer has to travel with
+you.<00:04:20.479><c> Then</c><00:04:20.720><c> they</c><00:04:20.880><c> push</c><00:04:21.199><c> skills</c><00:04:21.680><c> and</c><00:04:21.919><c> the</c>
+you. Then they push skills and the
+you. Then they push skills and the
+skills<00:04:22.479><c> SDK</c><00:04:23.120><c> because</c><00:04:23.440><c> teams</c><00:04:23.919><c> don't</c><00:04:24.400><c> scale</c><00:04:24.800><c> on</c>
+skills SDK because teams don't scale on
+skills SDK because teams don't scale on
+clever<00:04:25.680><c> prompting</c><00:04:26.160><c> and</c><00:04:26.320><c> they</c><00:04:26.479><c> want</c><00:04:26.639><c> to</c><00:04:26.800><c> keep</c>
+clever prompting and they want to keep
+clever prompting and they want to keep
+pushing<00:04:27.280><c> for</c><00:04:27.520><c> standardized</c><00:04:28.160><c> procedures,</c>
+pushing for standardized procedures,
+pushing for standardized procedures,
+governance,<00:04:29.199><c> and</c><00:04:29.440><c> safe</c><00:04:29.759><c> execution</c>
+governance, and safe execution
+governance, and safe execution
+primitives<00:04:31.199><c> so</c><00:04:31.440><c> that</c><00:04:31.680><c> we</c><00:04:31.919><c> can</c><00:04:32.160><c> all</c><00:04:32.400><c> figure</c><00:04:32.560><c> out</c>
+primitives so that we can all figure out
+primitives so that we can all figure out
+how<00:04:32.880><c> to</c><00:04:32.960><c> use</c><00:04:33.120><c> these</c><00:04:33.360><c> tools</c><00:04:33.680><c> effectively.</c><00:04:34.479><c> So</c>
+how to use these tools effectively. So
+how to use these tools effectively. So
+all<00:04:35.199><c> of</c><00:04:35.280><c> that</c><00:04:35.440><c> in</c><00:04:35.600><c> mind,</c><00:04:35.840><c> you</c><00:04:36.080><c> look</c><00:04:36.240><c> across</c><00:04:36.479><c> the</c>
+all of that in mind, you look across the
+all of that in mind, you look across the
+browser,<00:04:37.040><c> across</c><00:04:37.280><c> Slack,</c><00:04:37.680><c> across</c><00:04:38.000><c> mobile,</c>
+browser, across Slack, across mobile,
+browser, across Slack, across mobile,
+etc.<00:04:39.040><c> What</c><00:04:39.440><c> makes</c><00:04:39.680><c> this</c><00:04:40.080><c> distinct</c><00:04:40.800><c> from</c><00:04:41.040><c> the</c>
+etc. What makes this distinct from the
+etc. What makes this distinct from the
+AI<00:04:41.680><c> coding</c><00:04:42.080><c> tools</c><00:04:42.800><c> that</c><00:04:43.120><c> are</c><00:04:43.440><c> also</c><00:04:43.919><c> in</c><00:04:44.160><c> the</c>
+AI coding tools that are also in the
+AI coding tools that are also in the
+space<00:04:44.960><c> with</c><00:04:45.280><c> claude</c><00:04:45.680><c> code?</c><00:04:46.000><c> Well,</c><00:04:46.240><c> Anthropic</c>
+space with claude code? Well, Anthropic
+space with claude code? Well, Anthropic
+is<00:04:47.120><c> not</c><00:04:47.360><c> trying</c><00:04:47.600><c> to</c><00:04:47.840><c> win</c><00:04:48.479><c> just</c><00:04:48.720><c> on</c><00:04:48.960><c> the</c><00:04:49.199><c> best</c>
+is not trying to win just on the best
+is not trying to win just on the best
+code<00:04:50.320><c> editing</c><00:04:50.960><c> experience</c><00:04:51.680><c> anymore.</c><00:04:52.720><c> Cursor</c>
+code editing experience anymore. Cursor
+code editing experience anymore. Cursor
+is<00:04:53.759><c> positioning</c><00:04:54.160><c> itself</c><00:04:54.560><c> as</c><00:04:54.720><c> very</c><00:04:54.960><c> much</c><00:04:55.040><c> an</c><00:04:55.280><c> AI</c>
+is positioning itself as very much an AI
+is positioning itself as very much an AI
+native<00:04:55.919><c> workstation.</c><00:04:57.040><c> It</c><00:04:57.280><c> wants</c><00:04:57.520><c> the</c>
+native workstation. It wants the
+native workstation. It wants the
+developer<00:04:58.320><c> to</c><00:04:58.560><c> stay</c><00:04:58.880><c> inside</c><00:04:59.360><c> the</c><00:04:59.600><c> IDE</c><00:05:00.479><c> and</c><00:05:00.720><c> let</c>
+developer to stay inside the IDE and let
+developer to stay inside the IDE and let
+the<00:05:01.280><c> IDE</c><00:05:01.919><c> become</c><00:05:02.720><c> agentic</c><00:05:03.600><c> for</c><00:05:03.840><c> the</c>
+the IDE become agentic for the
+the IDE become agentic for the
+developer.<00:05:04.800><c> OpenAI's</c><00:05:05.520><c> codeex</c><00:05:06.000><c> positioning</c>
+developer. OpenAI's codeex positioning
+developer. OpenAI's codeex positioning
+is<00:05:07.440><c> closer</c><00:05:07.919><c> to</c><00:05:08.160><c> a</c><00:05:08.400><c> coding</c><00:05:08.720><c> agent</c><00:05:09.199><c> through</c><00:05:09.520><c> a</c>
+is closer to a coding agent through a
+is closer to a coding agent through a
+ubiquitous<00:05:10.479><c> platform.</c><00:05:11.360><c> It's</c><00:05:11.600><c> distributed</c>
+ubiquitous platform. It's distributed
+ubiquitous platform. It's distributed
+through<00:05:12.479><c> Chad</c><00:05:12.880><c> GPT</c><00:05:13.520><c> and</c><00:05:13.759><c> all</c><00:05:13.919><c> of</c><00:05:14.080><c> its</c>
+through Chad GPT and all of its
+through Chad GPT and all of its
+surrounding<00:05:14.880><c> tooling.</c><00:05:15.680><c> There's</c><00:05:15.919><c> also,</c><00:05:16.320><c> I</c>
+surrounding tooling. There's also, I
+surrounding tooling. There's also, I
+think,<00:05:16.720><c> a</c><00:05:16.960><c> really</c><00:05:17.360><c> significant</c>
+think, a really significant
+think, a really significant
+philosophical<00:05:18.800><c> difference</c><00:05:19.280><c> between</c><00:05:19.680><c> codeex</c>
+philosophical difference between codeex
+philosophical difference between codeex
+and<00:05:20.240><c> cloud</c><00:05:20.639><c> code</c><00:05:21.199><c> that</c><00:05:21.680><c> I</c><00:05:22.000><c> don't</c><00:05:22.160><c> have</c><00:05:22.240><c> a</c><00:05:22.400><c> great</c>
+and cloud code that I don't have a great
+and cloud code that I don't have a great
+answer<00:05:22.800><c> to</c><00:05:23.039><c> who's</c><00:05:23.280><c> going</c><00:05:23.360><c> to</c><00:05:23.520><c> win</c><00:05:23.680><c> here,</c><00:05:23.840><c> but</c><00:05:24.000><c> I</c>
+answer to who's going to win here, but I
+answer to who's going to win here, but I
+think<00:05:24.240><c> it's</c><00:05:24.400><c> one</c><00:05:24.560><c> of</c><00:05:24.639><c> the</c><00:05:24.800><c> most</c><00:05:25.039><c> important</c>
+think it's one of the most important
+think it's one of the most important
+questions<00:05:25.919><c> for</c><00:05:26.160><c> us</c><00:05:26.400><c> to</c><00:05:26.639><c> ask</c><00:05:26.880><c> ourselves</c><00:05:27.680><c> in</c>
+questions for us to ask ourselves in
+questions for us to ask ourselves in
+2026.<00:05:28.800><c> And</c><00:05:28.880><c> I</c><00:05:29.039><c> think</c><00:05:29.120><c> it's</c><00:05:29.360><c> fully</c><00:05:29.680><c> possible</c>
+2026. And I think it's fully possible
+2026. And I think it's fully possible
+there<00:05:30.320><c> are</c><00:05:30.479><c> multiple</c><00:05:30.800><c> winners.</c>
+there are multiple winners.
+there are multiple winners.
+Specifically,<00:05:32.479><c> claude</c><00:05:32.880><c> code</c><00:05:33.199><c> is</c><00:05:33.440><c> configured</c>
+Specifically, claude code is configured
+Specifically, claude code is configured
+more<00:05:34.479><c> as</c><00:05:34.800><c> an</c><00:05:35.120><c> iterative</c><00:05:35.840><c> agent</c><00:05:36.320><c> in</c><00:05:36.560><c> a</c><00:05:36.720><c> loop</c>
+more as an iterative agent in a loop
+more as an iterative agent in a loop
+that<00:05:37.280><c> comes</c><00:05:37.520><c> back</c><00:05:37.680><c> and</c><00:05:37.919><c> checks</c><00:05:38.240><c> with</c><00:05:38.400><c> you</c>
+that comes back and checks with you
+that comes back and checks with you
+frequently.<00:05:39.440><c> And</c><00:05:39.680><c> Codeex</c><00:05:40.320><c> is</c><00:05:40.560><c> leaning</c><00:05:40.960><c> on</c><00:05:41.120><c> the</c>
+frequently. And Codeex is leaning on the
+frequently. And Codeex is leaning on the
+historic<00:05:41.840><c> strengths</c><00:05:42.320><c> of</c><00:05:42.560><c> OpenAI</c><00:05:43.440><c> and</c>
+historic strengths of OpenAI and
+historic strengths of OpenAI and
+inference<00:05:44.240><c> compute</c><00:05:44.960><c> and</c><00:05:45.199><c> is</c><00:05:45.759><c> leaning</c><00:05:46.320><c> on</c>
+inference compute and is leaning on
+inference compute and is leaning on
+longunning<00:05:48.240><c> delegated</c><00:05:49.039><c> tasks</c><00:05:49.600><c> with</c><00:05:50.000><c> real</c>
+longunning delegated tasks with real
+longunning delegated tasks with real
+outcomes<00:05:51.360><c> that</c><00:05:51.600><c> you</c><00:05:51.840><c> can</c><00:05:52.080><c> hand</c><00:05:52.479><c> to</c><00:05:52.720><c> a</c><00:05:52.960><c> coding</c>
+outcomes that you can hand to a coding
+outcomes that you can hand to a coding
+agent<00:05:54.000><c> over</c><00:05:54.320><c> a</c><00:05:54.479><c> period</c><00:05:54.720><c> of</c><00:05:54.960><c> time</c><00:05:55.360><c> and</c><00:05:55.600><c> it</c><00:05:55.840><c> will</c>
+agent over a period of time and it will
+agent over a period of time and it will
+just<00:05:56.160><c> come</c><00:05:56.320><c> back</c><00:05:56.560><c> with</c><00:05:56.720><c> a</c><00:05:56.960><c> correct</c><00:05:57.199><c> and</c><00:05:57.520><c> final</c>
+just come back with a correct and final
+just come back with a correct and final
+outcome.<00:05:58.479><c> In</c><00:05:58.880><c> practice,</c><00:05:59.600><c> I</c><00:05:59.919><c> see</c><00:06:00.080><c> a</c><00:06:00.240><c> future</c><00:06:00.560><c> for</c>
+outcome. In practice, I see a future for
+outcome. In practice, I see a future for
+both.<00:06:01.280><c> Meanwhile,</c><00:06:01.759><c> GitHub</c><00:06:02.160><c> Copilot</c><00:06:02.880><c> has</c><00:06:03.360><c> the</c>
+both. Meanwhile, GitHub Copilot has the
+both. Meanwhile, GitHub Copilot has the
+gravitational<00:06:04.400><c> pull</c><00:06:04.720><c> of</c><00:06:04.880><c> the</c><00:06:05.039><c> workflow,</c><00:06:05.840><c> but</c>
+gravitational pull of the workflow, but
+gravitational pull of the workflow, but
+GitHub<00:06:06.639><c> itself</c><00:06:07.440><c> is</c><00:06:07.759><c> suffering</c><00:06:08.639><c> from</c><00:06:08.960><c> getting</c>
+GitHub itself is suffering from getting
+GitHub itself is suffering from getting
+pulled<00:06:09.600><c> into</c><00:06:09.919><c> the</c><00:06:10.080><c> Microsoft</c><00:06:10.639><c> ecosystem.</c><00:06:11.360><c> I</c>
+pulled into the Microsoft ecosystem. I
+pulled into the Microsoft ecosystem. I
+don't<00:06:11.680><c> know</c><00:06:11.759><c> if</c><00:06:11.840><c> you</c><00:06:12.000><c> noticed</c><00:06:12.240><c> this,</c><00:06:12.400><c> but</c><00:06:12.639><c> they</c>
+don't know if you noticed this, but they
+don't know if you noticed this, but they
+had<00:06:12.880><c> a</c><00:06:13.039><c> very</c><00:06:13.280><c> botched</c><00:06:13.759><c> pricing</c><00:06:14.080><c> roll</c><00:06:14.319><c> out</c><00:06:14.479><c> a</c>
+had a very botched pricing roll out a
+had a very botched pricing roll out a
+couple<00:06:14.800><c> of</c><00:06:14.960><c> days</c><00:06:15.120><c> ago.</c><00:06:15.600><c> They</c><00:06:15.919><c> are</c><00:06:16.080><c> not</c><00:06:16.160><c> in</c><00:06:16.319><c> a</c>
+couple of days ago. They are not in a
+couple of days ago. They are not in a
+position<00:06:16.800><c> to</c><00:06:17.039><c> win</c><00:06:17.360><c> right</c><00:06:17.520><c> now.</c><00:06:18.000><c> Claude</c><00:06:18.400><c> Code</c>
+position to win right now. Claude Code
+position to win right now. Claude Code
+is<00:06:18.800><c> really</c><00:06:18.960><c> carving</c><00:06:19.280><c> out</c><00:06:19.440><c> its</c><00:06:19.680><c> own</c><00:06:19.840><c> center</c><00:06:20.160><c> of</c>
+is really carving out its own center of
+is really carving out its own center of
+gravity<00:06:20.639><c> in</c><00:06:20.880><c> that</c><00:06:21.039><c> complicated</c><00:06:21.600><c> ecosystem.</c>
+gravity in that complicated ecosystem.
+gravity in that complicated ecosystem.
+They're<00:06:22.960><c> interested</c><00:06:23.440><c> in</c><00:06:24.000><c> cross</c><00:06:24.400><c> surface</c>
+They're interested in cross surface
+They're interested in cross surface
+orchestration<00:06:26.080><c> plus</c><00:06:26.479><c> organizational</c>
+orchestration plus organizational
+orchestration plus organizational
+standardization<00:06:28.479><c> plus</c><00:06:29.280><c> safety</c><00:06:29.759><c> forward</c><00:06:30.479><c> tool</c>
+standardization plus safety forward tool
+standardization plus safety forward tool
+and<00:06:30.960><c> loop</c><00:06:31.199><c> agency.</c><00:06:32.080><c> In</c><00:06:32.240><c> other</c><00:06:32.319><c> words,</c><00:06:32.560><c> Claude</c>
+and loop agency. In other words, Claude
+and loop agency. In other words, Claude
+is<00:06:33.039><c> trying</c><00:06:33.199><c> to</c><00:06:33.360><c> become</c><00:06:33.680><c> the</c><00:06:34.000><c> connective</c>
+is trying to become the connective
+is trying to become the connective
+tissue<00:06:34.960><c> that</c><00:06:35.120><c> turns</c><00:06:35.440><c> really</c><00:06:35.759><c> messy</c><00:06:36.240><c> human</c>
+tissue that turns really messy human
+tissue that turns really messy human
+context<00:06:37.280><c> like</c><00:06:37.520><c> threads</c><00:06:37.919><c> or</c><00:06:38.240><c> pages</c><00:06:38.639><c> or</c><00:06:38.960><c> tickets</c>
+context like threads or pages or tickets
+context like threads or pages or tickets
+or<00:06:39.520><c> dashboards</c><00:06:40.400><c> into</c><00:06:41.039><c> all</c><00:06:41.199><c> kind</c><00:06:41.360><c> of</c><00:06:41.440><c> anon</c>
+or dashboards into all kind of anon
+or dashboards into all kind of anon
+execution<00:06:42.800><c> mindset</c><00:06:43.280><c> where</c><00:06:43.520><c> you</c><00:06:43.680><c> have</c>
+execution mindset where you have
+execution mindset where you have
+frequent<00:06:44.639><c> human</c><00:06:44.960><c> interaction</c><00:06:45.520><c> and</c><00:06:45.759><c> the</c><00:06:45.919><c> agent</c>
+frequent human interaction and the agent
+frequent human interaction and the agent
+is<00:06:46.400><c> just</c><00:06:46.560><c> off</c><00:06:46.800><c> doing</c><00:06:47.199><c> things</c><00:06:47.759><c> and</c><00:06:48.000><c> that</c><00:06:48.240><c> makes</c>
+is just off doing things and that makes
+is just off doing things and that makes
+execution<00:06:49.280><c> consistent</c><00:06:50.160><c> across</c><00:06:50.479><c> a</c><00:06:50.720><c> team.</c><00:06:51.199><c> That</c>
+execution consistent across a team. That
+execution consistent across a team. That
+last<00:06:51.680><c> point</c><00:06:51.840><c> about</c><00:06:52.080><c> safety</c><00:06:52.400><c> is</c><00:06:52.639><c> not</c><00:06:52.800><c> just</c>
+last point about safety is not just
+last point about safety is not just
+decorative.<00:06:53.600><c> Browser</c><00:06:54.000><c> agents</c><00:06:54.479><c> are</c><00:06:54.639><c> uniquely</c>
+decorative. Browser agents are uniquely
+decorative. Browser agents are uniquely
+vulnerable<00:06:55.680><c> to</c><00:06:55.919><c> prompt</c><00:06:56.240><c> injection</c><00:06:56.639><c> and</c><00:06:56.880><c> other</c>
+vulnerable to prompt injection and other
+vulnerable to prompt injection and other
+hostile<00:06:57.520><c> environment</c><00:06:58.000><c> failures.</c><00:06:58.639><c> Enthropic</c>
+hostile environment failures. Enthropic
+hostile environment failures. Enthropic
+is<00:06:59.599><c> trying</c><00:06:59.840><c> to</c><00:07:00.080><c> lean</c><00:07:00.479><c> in</c><00:07:00.960><c> on</c><00:07:01.280><c> basically</c><00:07:01.759><c> saying</c>
+is trying to lean in on basically saying
+is trying to lean in on basically saying
+safety<00:07:02.720><c> is</c><00:07:03.120><c> a</c><00:07:03.599><c> critical</c><00:07:04.080><c> capability.</c><00:07:04.800><c> It's</c>
+safety is a critical capability. It's
+safety is a critical capability. It's
+not<00:07:05.120><c> a</c><00:07:05.360><c> it's</c><00:07:05.599><c> not</c><00:07:05.759><c> a</c><00:07:05.919><c> compliance</c><00:07:06.400><c> story.</c><00:07:06.960><c> If</c>
+not a it's not a compliance story. If
+not a it's not a compliance story. If
+agents<00:07:07.520><c> are</c><00:07:07.680><c> going</c><00:07:07.840><c> to</c><00:07:08.000><c> click</c><00:07:08.240><c> buttons</c><00:07:08.639><c> and</c>
+agents are going to click buttons and
+agents are going to click buttons and
+run<00:07:09.280><c> tools,</c><00:07:10.080><c> you</c><00:07:10.400><c> have</c><00:07:10.560><c> to</c><00:07:10.720><c> enable</c><00:07:11.120><c> them</c><00:07:11.360><c> to</c><00:07:11.599><c> do</c>
+run tools, you have to enable them to do
+run tools, you have to enable them to do
+so<00:07:12.479><c> from</c><00:07:13.520><c> a</c><00:07:14.080><c> arbback</c><00:07:14.720><c> first</c><00:07:15.120><c> stance,</c><00:07:15.599><c> from</c><00:07:15.840><c> a</c>
+so from a arbback first stance, from a
+so from a arbback first stance, from a
+control<00:07:16.400><c> pane</c><00:07:16.720><c> first</c><00:07:17.039><c> stance</c><00:07:17.360><c> where</c><00:07:17.520><c> they're</c>
+control pane first stance where they're
+control pane first stance where they're
+orchestrated<00:07:18.319><c> with</c><00:07:18.560><c> the</c><00:07:18.800><c> correct</c>
+orchestrated with the correct
+orchestrated with the correct
+permissions.<00:07:19.840><c> This</c><00:07:20.000><c> is</c><00:07:20.240><c> not</c><00:07:20.400><c> quite</c><00:07:20.639><c> as</c><00:07:20.880><c> fully</c>
+permissions. This is not quite as fully
+permissions. This is not quite as fully
+fleshed<00:07:21.599><c> out</c><00:07:21.759><c> in</c><00:07:22.000><c> Enthropic's</c><00:07:22.639><c> vision</c><00:07:22.960><c> as</c><00:07:23.120><c> I</c>
+fleshed out in Enthropic's vision as I
+fleshed out in Enthropic's vision as I
+think<00:07:23.360><c> it</c><00:07:23.520><c> is</c><00:07:23.680><c> in</c><00:07:23.840><c> some</c><00:07:24.000><c> of</c><00:07:24.080><c> the</c><00:07:24.240><c> Google</c><00:07:24.479><c> white</c>
+think it is in some of the Google white
+think it is in some of the Google white
+papers<00:07:24.960><c> we've</c><00:07:25.280><c> seen</c><00:07:25.440><c> around</c><00:07:25.759><c> agent</c><00:07:26.080><c> control</c>
+papers we've seen around agent control
+papers we've seen around agent control
+panes,<00:07:27.120><c> but</c><00:07:27.280><c> I</c><00:07:27.520><c> suspect</c><00:07:27.919><c> this</c><00:07:28.240><c> is</c><00:07:28.560><c> the</c>
+panes, but I suspect this is the
+panes, but I suspect this is the
+direction<00:07:29.360><c> the</c><00:07:29.680><c> team</c><00:07:29.840><c> is</c><00:07:30.080><c> going</c><00:07:30.240><c> in.</c><00:07:30.560><c> What</c>
+direction the team is going in. What
+direction the team is going in. What
+Anthropic<00:07:31.440><c> wants</c><00:07:31.680><c> to</c><00:07:31.919><c> say</c><00:07:32.240><c> is</c><00:07:32.720><c> we</c><00:07:32.960><c> can</c><00:07:33.120><c> ship</c>
+Anthropic wants to say is we can ship
+Anthropic wants to say is we can ship
+real<00:07:33.919><c> agency</c><00:07:34.720><c> into</c><00:07:35.199><c> real</c><00:07:35.520><c> environments</c>
+real agency into real environments
+real agency into real environments
+because<00:07:36.479><c> we</c><00:07:36.800><c> are</c><00:07:36.960><c> willing</c><00:07:37.199><c> to</c><00:07:37.360><c> do</c><00:07:37.520><c> hard</c><00:07:37.840><c> work</c>
+because we are willing to do hard work
+because we are willing to do hard work
+around<00:07:38.880><c> sandboxing,</c><00:07:39.599><c> around</c><00:07:39.919><c> governance,</c>
+around sandboxing, around governance,
+around sandboxing, around governance,
+around<00:07:40.639><c> permissions,</c><00:07:41.280><c> around</c>
+around permissions, around
+around permissions, around
+constitutional<00:07:42.240><c> alignment</c><00:07:42.639><c> of</c><00:07:42.800><c> AI.</c><00:07:43.520><c> That</c><00:07:43.680><c> is</c>
+constitutional alignment of AI. That is
+constitutional alignment of AI. That is
+the<00:07:44.080><c> larger</c><00:07:44.400><c> vision</c><00:07:44.639><c> that</c><00:07:44.800><c> I</c><00:07:44.960><c> think</c><00:07:45.039><c> they're</c>
+the larger vision that I think they're
+the larger vision that I think they're
+looking<00:07:45.440><c> to</c><00:07:45.599><c> realize</c><00:07:45.919><c> in</c><00:07:46.160><c> 2026.</c><00:07:47.120><c> If</c><00:07:47.440><c> you</c><00:07:47.599><c> draw</c>
+looking to realize in 2026. If you draw
+looking to realize in 2026. If you draw
+that<00:07:48.000><c> line</c><00:07:48.240><c> forward,</c><00:07:49.199><c> this</c><00:07:49.440><c> doesn't</c><00:07:49.680><c> look</c>
+that line forward, this doesn't look
+that line forward, this doesn't look
+like<00:07:50.080><c> more</c><00:07:50.400><c> features</c><00:07:50.800><c> next</c><00:07:51.039><c> year.</c><00:07:51.360><c> Instead,</c>
+like more features next year. Instead,
+like more features next year. Instead,
+it<00:07:51.919><c> looks</c><00:07:52.080><c> like</c><00:07:52.240><c> a</c><00:07:52.560><c> lot</c><00:07:52.639><c> of</c><00:07:52.800><c> consolidation</c>
+it looks like a lot of consolidation
+it looks like a lot of consolidation
+into<00:07:54.080><c> what</c><00:07:54.240><c> is</c><00:07:54.479><c> likely</c><00:07:54.800><c> a</c><00:07:55.039><c> single</c><00:07:55.440><c> operating</c>
+into what is likely a single operating
+into what is likely a single operating
+model<00:07:56.720><c> for</c><00:07:56.960><c> agent</c><00:07:57.280><c> work.</c><00:07:57.680><c> Once</c><00:07:57.919><c> you</c><00:07:58.080><c> have</c>
+model for agent work. Once you have
+model for agent work. Once you have
+Slack<00:07:58.720><c> invocation,</c><00:07:59.520><c> you</c><00:07:59.759><c> have</c><00:07:59.919><c> browser</c>
+Slack invocation, you have browser
+Slack invocation, you have browser
+action,<00:08:00.720><c> you</c><00:08:00.800><c> have</c><00:08:00.960><c> command</c><00:08:01.280><c> line</c><00:08:01.599><c> execution,</c>
+action, you have command line execution,
+action, you have command line execution,
+and<00:08:02.400><c> you</c><00:08:02.479><c> have</c><00:08:02.639><c> mobile</c><00:08:02.960><c> initiation,</c><00:08:03.840><c> the</c>
+and you have mobile initiation, the
+and you have mobile initiation, the
+obvious<00:08:04.479><c> missing</c><00:08:04.960><c> layer</c><00:08:05.360><c> is</c><00:08:05.520><c> a</c><00:08:05.759><c> unified</c><00:08:06.160><c> work</c>
+obvious missing layer is a unified work
+obvious missing layer is a unified work
+Q,<00:08:06.960><c> a</c><00:08:07.199><c> place</c><00:08:07.360><c> where</c><00:08:07.599><c> task</c><00:08:07.919><c> route,</c><00:08:08.240><c> resume,</c>
+Q, a place where task route, resume,
+Q, a place where task route, resume,
+escalate,<00:08:09.120><c> and</c><00:08:09.360><c> audit</c><00:08:09.599><c> across</c><00:08:09.919><c> surfaces.</c><00:08:10.639><c> And</c>
+escalate, and audit across surfaces. And
+escalate, and audit across surfaces. And
+indeed,<00:08:11.759><c> there</c><00:08:11.919><c> are</c><00:08:12.160><c> rumors</c><00:08:12.879><c> that</c><00:08:13.039><c> that</c><00:08:13.280><c> is</c><00:08:13.520><c> an</c>
+indeed, there are rumors that that is an
+indeed, there are rumors that that is an
+alpha.<00:08:14.080><c> I've</c><00:08:14.319><c> seen</c><00:08:14.479><c> them</c><00:08:14.639><c> floating</c><00:08:15.039><c> around</c>
+alpha. I've seen them floating around
+alpha. I've seen them floating around
+the<00:08:15.360><c> internet.</c><00:08:15.840><c> the</c><00:08:16.160><c> command</c><00:08:16.400><c> line</c><00:08:16.720><c> session</c>
+the internet. the command line session
+the internet. the command line session
+naming,<00:08:17.840><c> the</c><00:08:18.000><c> Slack</c><00:08:18.400><c> status</c><00:08:18.720><c> callbacks,</c><00:08:19.199><c> the</c>
+naming, the Slack status callbacks, the
+naming, the Slack status callbacks, the
+browserbased<00:08:19.919><c> verification</c><00:08:20.560><c> loop,</c><00:08:21.120><c> all</c><00:08:21.360><c> of</c>
+browserbased verification loop, all of
+browserbased verification loop, all of
+those<00:08:21.680><c> point</c><00:08:21.919><c> toward</c><00:08:22.080><c> a</c><00:08:22.319><c> future</c><00:08:22.800><c> where</c><00:08:23.199><c> clawed</c>
+those point toward a future where clawed
+those point toward a future where clawed
+code<00:08:24.479><c> is</c><00:08:24.800><c> less</c><00:08:25.199><c> like</c><00:08:25.360><c> a</c><00:08:25.599><c> tool</c><00:08:25.919><c> that</c><00:08:26.160><c> I</c><00:08:26.479><c> open</c><00:08:27.280><c> and</c>
+code is less like a tool that I open and
+code is less like a tool that I open and
+an<00:08:27.759><c> more</c><00:08:28.000><c> like</c><00:08:28.160><c> an</c><00:08:28.400><c> always</c><00:08:28.639><c> on</c><00:08:28.879><c> teammate</c><00:08:29.280><c> with</c>
+an more like an always on teammate with
+an more like an always on teammate with
+a<00:08:29.520><c> nitbox.</c><00:08:30.319><c> And</c><00:08:30.560><c> so</c><00:08:30.800><c> I</c><00:08:31.039><c> suspect</c><00:08:31.440><c> that</c><00:08:31.680><c> the</c><00:08:31.919><c> next</c>
+a nitbox. And so I suspect that the next
+a nitbox. And so I suspect that the next
+competitive<00:08:32.719><c> frontier</c><00:08:33.279><c> is</c><00:08:33.519><c> really</c><00:08:33.760><c> around</c>
+competitive frontier is really around
+competitive frontier is really around
+life<00:08:34.479><c> cycle</c><00:08:34.800><c> integration.</c><00:08:35.599><c> Claude</c><00:08:36.000><c> code</c><00:08:36.320><c> is</c>
+life cycle integration. Claude code is
+life cycle integration. Claude code is
+aiming<00:08:37.279><c> to</c><00:08:37.519><c> become</c><00:08:37.919><c> meaningful</c><00:08:38.640><c> meaningfully</c>
+aiming to become meaningful meaningfully
+aiming to become meaningful meaningfully
+differentiated<00:08:40.399><c> because</c><00:08:40.719><c> it</c><00:08:41.039><c> does</c><00:08:41.279><c> not</c><00:08:41.519><c> just</c>
+differentiated because it does not just
+differentiated because it does not just
+write<00:08:42.159><c> code.</c><00:08:42.959><c> It</c><00:08:43.440><c> becomes</c><00:08:44.000><c> the</c><00:08:44.399><c> place</c><00:08:45.040><c> where</c>
+write code. It becomes the place where
+write code. It becomes the place where
+everybody<00:08:46.000><c> is</c><00:08:46.320><c> running</c><00:08:46.640><c> tests,</c><00:08:47.200><c> interpreting</c>
+everybody is running tests, interpreting
+everybody is running tests, interpreting
+failures,<00:08:48.399><c> updating</c><00:08:48.880><c> branches,</c><00:08:49.440><c> responding</c>
+failures, updating branches, responding
+failures, updating branches, responding
+to<00:08:50.240><c> review</c><00:08:50.640><c> comments,</c><00:08:51.120><c> etc.</c><00:08:51.440><c> They're</c>
+to review comments, etc. They're
+to review comments, etc. They're
+essentially<00:08:52.160><c> betting</c><00:08:52.480><c> that</c><00:08:52.720><c> that</c>
+essentially betting that that
+essentially betting that that
+interactivity<00:08:53.920><c> that</c><00:08:54.160><c> they</c><00:08:54.480><c> go</c><00:08:54.640><c> for</c><00:08:54.880><c> with</c>
+interactivity that they go for with
+interactivity that they go for with
+their<00:08:55.279><c> cloud</c><00:08:55.600><c> code</c><00:08:55.839><c> agent</c><00:08:56.160><c> model</c><00:08:56.480><c> is</c>
+their cloud code agent model is
+their cloud code agent model is
+something<00:08:57.040><c> that</c><00:08:57.279><c> will</c><00:08:57.519><c> enable</c><00:08:58.000><c> teams</c><00:08:58.800><c> to</c><00:08:59.040><c> more</c>
+something that will enable teams to more
+something that will enable teams to more
+rapidly<00:09:00.000><c> touch</c><00:09:00.399><c> work</c><00:09:00.880><c> and</c><00:09:01.120><c> will</c><00:09:01.360><c> enable</c><00:09:01.680><c> them</c>
+rapidly touch work and will enable them
+rapidly touch work and will enable them
+to<00:09:02.080><c> more</c><00:09:02.320><c> efficiently</c><00:09:02.880><c> scale</c><00:09:03.519><c> into</c><00:09:03.839><c> a</c><00:09:04.080><c> team</c>
+to more efficiently scale into a team
+to more efficiently scale into a team
+level<00:09:04.640><c> productivity</c><00:09:05.200><c> tool</c><00:09:05.519><c> in</c><00:09:05.760><c> 2026.</c>
+level productivity tool in 2026.
+level productivity tool in 2026.
+Strategically,<00:09:08.320><c> this</c><00:09:08.640><c> positions</c><00:09:09.120><c> claude</c>
+Strategically, this positions claude
+Strategically, this positions claude
+code<00:09:10.000><c> as</c><00:09:10.320><c> an</c><00:09:10.480><c> execution</c><00:09:11.200><c> layer</c><00:09:11.680><c> not</c><00:09:11.920><c> just</c><00:09:12.080><c> for</c>
+code as an execution layer not just for
+code as an execution layer not just for
+engineering<00:09:12.800><c> teams</c><00:09:13.519><c> but</c><00:09:13.839><c> beyond.</c><00:09:14.640><c> And</c><00:09:14.800><c> so</c>
+engineering teams but beyond. And so
+engineering teams but beyond. And so
+cursor<00:09:15.600><c> may</c><00:09:15.839><c> win</c><00:09:16.080><c> with</c><00:09:16.320><c> the</c><00:09:16.480><c> editor.</c><00:09:17.120><c> Copilot</c>
+cursor may win with the editor. Copilot
+cursor may win with the editor. Copilot
+may<00:09:18.160><c> be</c><00:09:18.320><c> the</c><00:09:18.560><c> default</c><00:09:18.959><c> button</c><00:09:19.200><c> for</c><00:09:19.360><c> a</c><00:09:19.519><c> lot</c><00:09:19.600><c> of</c>
+may be the default button for a lot of
+may be the default button for a lot of
+folks<00:09:19.920><c> stuff</c><00:09:20.240><c> stuck</c><00:09:20.480><c> on</c><00:09:20.720><c> Microsoft.</c><00:09:21.440><c> Codeex</c><00:09:22.320><c> I</c>
+folks stuff stuck on Microsoft. Codeex I
+folks stuff stuck on Microsoft. Codeex I
+think<00:09:22.720><c> has</c><00:09:22.880><c> a</c><00:09:23.120><c> strong</c><00:09:23.440><c> case</c><00:09:23.760><c> to</c><00:09:24.000><c> win</c><00:09:24.399><c> around</c>
+think has a strong case to win around
+think has a strong case to win around
+areas<00:09:25.519><c> where</c><00:09:25.839><c> correctness</c><00:09:26.399><c> is</c><00:09:26.720><c> valued</c><00:09:27.200><c> and</c>
+areas where correctness is valued and
+areas where correctness is valued and
+long-term<00:09:28.560><c> around</c><00:09:28.959><c> areas</c><00:09:29.360><c> where</c><00:09:30.160><c> delegated</c>
+long-term around areas where delegated
+long-term around areas where delegated
+agentic<00:09:31.680><c> execution</c><00:09:32.480><c> is</c><00:09:32.800><c> key.</c><00:09:33.200><c> If</c><00:09:33.440><c> you</c><00:09:33.600><c> need</c><00:09:33.680><c> to</c>
+agentic execution is key. If you need to
+agentic execution is key. If you need to
+be<00:09:33.920><c> in</c><00:09:34.080><c> a</c><00:09:34.240><c> position</c><00:09:34.480><c> at</c><00:09:34.720><c> the</c><00:09:34.880><c> end</c><00:09:34.959><c> of</c><00:09:35.120><c> 2026</c>
+be in a position at the end of 2026
+be in a position at the end of 2026
+where<00:09:36.080><c> your</c><00:09:36.399><c> senior</c><00:09:36.880><c> engineers</c><00:09:37.680><c> have</c><00:09:37.920><c> a</c><00:09:38.080><c> team</c>
+where your senior engineers have a team
+where your senior engineers have a team
+of<00:09:38.480><c> codeex</c><00:09:39.040><c> agents</c><00:09:39.360><c> that</c><00:09:39.600><c> can</c><00:09:39.760><c> do</c><00:09:39.920><c> very</c><00:09:40.240><c> hard</c>
+of codeex agents that can do very hard
+of codeex agents that can do very hard
+tasks<00:09:40.959><c> and</c><00:09:41.200><c> they</c><00:09:41.440><c> don't</c><00:09:41.600><c> have</c><00:09:41.680><c> to</c><00:09:41.839><c> supervise</c>
+tasks and they don't have to supervise
+tasks and they don't have to supervise
+them,<00:09:42.800><c> I</c><00:09:43.040><c> think</c><00:09:43.120><c> there's</c><00:09:43.440><c> value</c><00:09:43.680><c> on</c><00:09:43.839><c> that</c>
+them, I think there's value on that
+them, I think there's value on that
+side.<00:09:44.399><c> Claude</c><00:09:44.800><c> Code's</c><00:09:45.200><c> best</c><00:09:45.440><c> shot</c><00:09:45.680><c> is</c><00:09:45.920><c> to</c><00:09:46.080><c> win</c>
+side. Claude Code's best shot is to win
+side. Claude Code's best shot is to win
+the<00:09:46.480><c> workflow</c><00:09:46.959><c> fabric.</c><00:09:47.680><c> The</c><00:09:47.920><c> agent</c><00:09:48.240><c> that</c>
+the workflow fabric. The agent that
+the workflow fabric. The agent that
+shows<00:09:48.720><c> up</c><00:09:48.880><c> where</c><00:09:49.120><c> work</c><00:09:49.440><c> begins,</c><00:09:50.320><c> operates</c>
+shows up where work begins, operates
+shows up where work begins, operates
+where<00:09:51.040><c> work</c><00:09:51.279><c> happens</c><00:09:51.760><c> in</c><00:09:52.000><c> the</c><00:09:52.160><c> browser,</c><00:09:52.560><c> and</c>
+where work happens in the browser, and
+where work happens in the browser, and
+executes<00:09:53.360><c> where</c><00:09:53.600><c> the</c><00:09:53.760><c> work</c><00:09:53.920><c> is</c><00:09:54.160><c> done</c><00:09:54.640><c> more</c><00:09:54.880><c> and</c>
+executes where the work is done more and
+executes where the work is done more and
+more<00:09:55.120><c> in</c><00:09:55.279><c> the</c><00:09:55.360><c> terminal.</c><00:09:56.000><c> So</c><00:09:56.480><c> what</c><00:09:56.720><c> they're</c>
+more in the terminal. So what they're
+more in the terminal. So what they're
+looking<00:09:57.279><c> to</c><00:09:57.519><c> see</c><00:09:57.760><c> is</c><00:09:58.000><c> if</c><00:09:58.320><c> the</c><00:09:58.560><c> metric</c><00:09:58.959><c> that</c>
+looking to see is if the metric that
+looking to see is if the metric that
+matters<00:09:59.760><c> is</c><00:10:00.080><c> not</c><00:10:00.800><c> the</c><00:10:01.120><c> autocomplete</c><00:10:02.000><c> quality</c>
+matters is not the autocomplete quality
+matters is not the autocomplete quality
+or<00:10:02.640><c> the</c><00:10:02.800><c> next</c><00:10:02.959><c> token</c><00:10:03.360><c> generation</c><00:10:03.920><c> quality</c>
+or the next token generation quality
+or the next token generation quality
+we've<00:10:04.640><c> associated</c><00:10:05.200><c> with</c><00:10:05.839><c> chat</c><00:10:06.240><c> since</c><00:10:06.560><c> 2023.</c>
+we've associated with chat since 2023.
+we've associated with chat since 2023.
+Instead,<00:10:07.920><c> they</c><00:10:08.160><c> want</c><00:10:08.320><c> to</c><00:10:08.480><c> move</c><00:10:08.800><c> the</c><00:10:09.120><c> implicit</c>
+Instead, they want to move the implicit
+Instead, they want to move the implicit
+metric<00:10:10.080><c> for</c><00:10:10.399><c> value</c><00:10:10.640><c> of</c><00:10:10.880><c> AI</c><00:10:11.519><c> to</c><00:10:12.160><c> will</c><00:10:12.560><c> this</c>
+metric for value of AI to will this
+metric for value of AI to will this
+system<00:10:13.680><c> convert</c><00:10:14.240><c> real</c><00:10:15.200><c> messy</c><00:10:15.920><c> context</c><00:10:16.959><c> into</c>
+system convert real messy context into
+system convert real messy context into
+shipped<00:10:18.320><c> valuable</c><00:10:18.959><c> work</c><00:10:19.760><c> repeatedly</c><00:10:20.800><c> with</c>
+shipped valuable work repeatedly with
+shipped valuable work repeatedly with
+enterprise<00:10:21.600><c> safety</c><00:10:21.920><c> and</c><00:10:22.160><c> guard</c><00:10:22.480><c> rails</c><00:10:23.040><c> and</c>
+enterprise safety and guard rails and
+enterprise safety and guard rails and
+with<00:10:24.079><c> fewer</c><00:10:24.959><c> pain</c><00:10:25.680><c> and</c><00:10:26.079><c> suffering</c><00:10:26.959><c> pain</c>
+with fewer pain and suffering pain
+with fewer pain and suffering pain
+points<00:10:28.079><c> for</c><00:10:28.399><c> humans</c><00:10:28.640><c> in</c><00:10:28.800><c> the</c><00:10:28.959><c> critical</c><00:10:29.279><c> path.</c>
+points for humans in the critical path.
+points for humans in the critical path.
+Basically,<00:10:30.079><c> they</c><00:10:30.320><c> don't</c><00:10:30.480><c> want</c><00:10:30.720><c> humans</c><00:10:31.120><c> to</c><00:10:31.360><c> not</c>
+Basically, they don't want humans to not
+Basically, they don't want humans to not
+touch<00:10:32.000><c> the</c><00:10:32.240><c> work.</c><00:10:32.800><c> They</c><00:10:33.040><c> want</c><00:10:33.279><c> humans</c><00:10:33.600><c> to</c>
+touch the work. They want humans to
+touch the work. They want humans to
+touch<00:10:34.000><c> the</c><00:10:34.240><c> work</c><00:10:34.399><c> in</c><00:10:34.640><c> ways</c><00:10:34.880><c> that</c><00:10:35.120><c> enhance</c><00:10:35.519><c> it</c>
+touch the work in ways that enhance it
+touch the work in ways that enhance it
+and<00:10:36.320><c> ways</c><00:10:36.560><c> that</c><00:10:36.800><c> don't</c><00:10:37.120><c> add</c><00:10:37.680><c> burden</c><00:10:38.079><c> to</c><00:10:38.320><c> the</c>
+and ways that don't add burden to the
+and ways that don't add burden to the
+humans<00:10:38.880><c> involved.</c><00:10:39.760><c> That's</c><00:10:40.000><c> a</c><00:10:40.160><c> very</c><00:10:40.399><c> fine</c><00:10:40.640><c> line</c>
+humans involved. That's a very fine line
+humans involved. That's a very fine line
+to<00:10:41.120><c> walk</c><00:10:41.680><c> and</c><00:10:41.920><c> this</c><00:10:42.079><c> is</c><00:10:42.240><c> by</c><00:10:42.480><c> no</c><00:10:42.720><c> means</c><00:10:42.959><c> a</c>
+to walk and this is by no means a
+to walk and this is by no means a
+guaranteed<00:10:43.680><c> path,</c><00:10:44.399><c> but</c><00:10:44.640><c> this</c><00:10:44.880><c> is</c><00:10:44.959><c> what</c><00:10:45.200><c> you</c>
+guaranteed path, but this is what you
+guaranteed path, but this is what you
+can<00:10:45.519><c> infer</c><00:10:46.160><c> from</c><00:10:46.399><c> the</c><00:10:46.640><c> Christmas</c><00:10:47.120><c> cloud</c>
+can infer from the Christmas cloud
+can infer from the Christmas cloud
+ships.<00:10:47.760><c> I'd</c><00:10:47.920><c> be</c><00:10:48.079><c> curious</c><00:10:48.320><c> for</c><00:10:48.480><c> your</c><00:10:48.640><c> take.</c>
+ships. I'd be curious for your take.
+ships. I'd be curious for your take.
+Where<00:10:49.040><c> do</c><00:10:49.200><c> you</c><00:10:49.279><c> see</c><00:10:49.519><c> anthropic?</c>

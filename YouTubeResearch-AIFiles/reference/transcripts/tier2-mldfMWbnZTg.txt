@@ -1,0 +1,872 @@
+I'd<00:00:00.800><c> like</c><00:00:00.960><c> to</c><00:00:01.120><c> suggest</c><00:00:01.600><c> that</c><00:00:01.839><c> we</c><00:00:02.159><c> aren't</c>
+I'd like to suggest that we aren't
+I'd like to suggest that we aren't
+talking<00:00:03.040><c> clearly</c><00:00:03.520><c> enough</c><00:00:03.919><c> about</c><00:00:04.400><c> context</c>
+talking clearly enough about context
+talking clearly enough about context
+engineering<00:00:05.520><c> and</c><00:00:05.759><c> that</c><00:00:05.920><c> we're</c><00:00:06.080><c> getting</c><00:00:06.319><c> it</c>
+engineering and that we're getting it
+engineering and that we're getting it
+wrong<00:00:07.279><c> in</c><00:00:07.600><c> some</c><00:00:07.839><c> important</c><00:00:08.240><c> ways.</c>
+wrong in some important ways.
+wrong in some important ways.
+If<00:00:10.240><c> you</c><00:00:10.480><c> don't</c><00:00:10.719><c> know</c><00:00:10.800><c> what</c><00:00:11.040><c> context</c>
+If you don't know what context
+If you don't know what context
+engineering<00:00:12.080><c> is,</c><00:00:12.480><c> it's</c><00:00:12.800><c> kind</c><00:00:12.960><c> of</c><00:00:13.040><c> the</c>
+engineering is, it's kind of the
+engineering is, it's kind of the
+successor<00:00:13.920><c> to</c><00:00:14.080><c> the</c><00:00:14.240><c> idea</c><00:00:14.400><c> of</c><00:00:14.639><c> prompt</c>
+successor to the idea of prompt
+successor to the idea of prompt
+engineering<00:00:15.440><c> or</c><00:00:15.679><c> prompting.</c><00:00:16.880><c> Context</c>
+engineering or prompting. Context
+engineering or prompting. Context
+engineering<00:00:17.920><c> basically</c><00:00:18.320><c> says</c><00:00:18.720><c> prompts</c><00:00:19.119><c> are</c>
+engineering basically says prompts are
+engineering basically says prompts are
+great,<00:00:20.080><c> but</c><00:00:20.480><c> large</c><00:00:20.800><c> language</c><00:00:21.119><c> models</c><00:00:21.439><c> look</c><00:00:21.600><c> at</c>
+great, but large language models look at
+great, but large language models look at
+a<00:00:21.840><c> lot</c><00:00:21.920><c> more</c><00:00:22.080><c> than</c><00:00:22.240><c> prompts.</c><00:00:22.880><c> They</c><00:00:23.199><c> look</c><00:00:23.359><c> at</c><00:00:23.760><c> uh</c>
+a lot more than prompts. They look at uh
+a lot more than prompts. They look at uh
+the<00:00:24.080><c> system</c><00:00:24.400><c> instructions</c><00:00:24.960><c> they</c><00:00:25.119><c> get.</c><00:00:25.359><c> They</c>
+the system instructions they get. They
+the system instructions they get. They
+look<00:00:25.680><c> at</c><00:00:25.760><c> any</c><00:00:26.080><c> rules</c><00:00:26.320><c> that</c><00:00:26.560><c> you</c><00:00:26.800><c> have</c><00:00:27.119><c> in</c><00:00:27.439><c> your</c>
+look at any rules that you have in your
+look at any rules that you have in your
+chat<00:00:28.080><c> instance.</c><00:00:28.640><c> They</c><00:00:28.880><c> look</c><00:00:29.039><c> at</c><00:00:29.279><c> documents</c>
+chat instance. They look at documents
+chat instance. They look at documents
+that<00:00:30.000><c> you</c><00:00:30.160><c> may</c><00:00:30.320><c> have</c><00:00:30.480><c> uploaded</c><00:00:31.679><c> and</c><00:00:32.320><c> the</c>
+that you may have uploaded and the
+that you may have uploaded and the
+responsibility<00:00:33.360><c> of</c><00:00:33.600><c> the</c><00:00:33.840><c> person</c><00:00:34.239><c> who</c><00:00:34.640><c> is</c>
+responsibility of the person who is
+responsibility of the person who is
+running<00:00:35.920><c> this</c><00:00:36.320><c> job</c><00:00:37.040><c> is</c><00:00:37.280><c> to</c><00:00:37.520><c> make</c><00:00:37.680><c> sure</c><00:00:38.399><c> all</c><00:00:38.640><c> of</c>
+running this job is to make sure all of
+running this job is to make sure all of
+that<00:00:39.040><c> context</c><00:00:39.520><c> is</c><00:00:39.840><c> correct</c><00:00:40.239><c> and</c><00:00:40.559><c> leads</c><00:00:40.800><c> to</c><00:00:40.960><c> the</c>
+that context is correct and leads to the
+that context is correct and leads to the
+right<00:00:41.280><c> outcome.</c><00:00:42.320><c> So</c><00:00:42.559><c> far</c><00:00:42.800><c> so</c><00:00:43.040><c> good.</c><00:00:43.760><c> Same</c>
+right outcome. So far so good. Same
+right outcome. So far so good. Same
+page.<00:00:45.520><c> The</c><00:00:45.760><c> issue</c><00:00:46.160><c> is</c><00:00:46.399><c> this.</c><00:00:47.440><c> Most</c><00:00:47.760><c> of</c><00:00:47.920><c> the</c>
+page. The issue is this. Most of the
+page. The issue is this. Most of the
+dialogue,<00:00:48.800><c> most</c><00:00:49.039><c> of</c><00:00:49.120><c> the</c><00:00:49.360><c> discussion</c><00:00:49.840><c> I've</c>
+dialogue, most of the discussion I've
+dialogue, most of the discussion I've
+been<00:00:50.320><c> able</c><00:00:50.559><c> to</c><00:00:50.800><c> find</c><00:00:51.360><c> around</c><00:00:52.079><c> context</c>
+been able to find around context
+been able to find around context
+engineering<00:00:53.760><c> is</c><00:00:54.079><c> really</c><00:00:54.399><c> focused</c><00:00:54.800><c> on</c><00:00:55.120><c> what</c><00:00:55.360><c> I</c>
+engineering is really focused on what I
+engineering is really focused on what I
+would<00:00:55.680><c> call</c><00:00:56.079><c> part</c><00:00:56.399><c> one</c><00:00:56.640><c> or</c><00:00:56.800><c> the</c><00:00:57.039><c> smaller</c><00:00:57.360><c> part</c>
+would call part one or the smaller part
+would call part one or the smaller part
+of<00:00:57.760><c> context</c><00:00:58.239><c> engineering.</c><00:00:59.120><c> The</c><00:00:59.359><c> things</c><00:00:59.600><c> that</c>
+of context engineering. The things that
+of context engineering. The things that
+we<00:01:00.160><c> can</c><00:01:00.399><c> deterministically</c><00:01:01.600><c> control.</c><00:01:02.559><c> So</c><00:01:02.800><c> we</c>
+we can deterministically control. So we
+we can deterministically control. So we
+have<00:01:03.280><c> papers</c><00:01:03.840><c> written,</c><00:01:04.320><c> we</c><00:01:04.559><c> have</c><00:01:04.720><c> advice</c>
+have papers written, we have advice
+have papers written, we have advice
+shared,<00:01:06.320><c> all</c><00:01:06.640><c> coming</c><00:01:06.960><c> down</c><00:01:07.200><c> to</c><00:01:07.840><c> how</c><00:01:08.159><c> can</c><00:01:08.400><c> you</c>
+shared, all coming down to how can you
+shared, all coming down to how can you
+more<00:01:09.119><c> effectively</c>
+more effectively
+more effectively
+shrink<00:01:11.360><c> down</c><00:01:11.920><c> and</c><00:01:12.240><c> make</c><00:01:12.560><c> efficient</c><00:01:13.040><c> use</c><00:01:13.520><c> of</c>
+shrink down and make efficient use of
+shrink down and make efficient use of
+the<00:01:14.080><c> context</c><00:01:14.560><c> window</c><00:01:14.960><c> you</c><00:01:15.200><c> directly</c><00:01:15.840><c> send</c><00:01:16.960><c> to</c>
+the context window you directly send to
+the context window you directly send to
+the<00:01:17.920><c> large</c><00:01:18.240><c> language</c><00:01:18.640><c> model</c><00:01:19.360><c> is</c><00:01:19.520><c> this</c>
+the large language model is this
+the large language model is this
+assumption<00:01:20.159><c> that</c><00:01:20.400><c> we</c><00:01:20.560><c> are</c><00:01:20.799><c> communicating</c>
+assumption that we are communicating
+assumption that we are communicating
+with<00:01:21.520><c> a</c><00:01:21.680><c> cloud-based</c><00:01:22.240><c> model.</c><00:01:22.640><c> We</c><00:01:22.799><c> need</c><00:01:22.880><c> to</c><00:01:23.040><c> be</c>
+with a cloud-based model. We need to be
+with a cloud-based model. We need to be
+really<00:01:23.439><c> aware</c><00:01:23.680><c> of</c><00:01:23.840><c> our</c><00:01:24.080><c> token</c><00:01:24.400><c> burn.</c><00:01:25.040><c> And</c><00:01:25.280><c> so</c>
+really aware of our token burn. And so
+really aware of our token burn. And so
+you<00:01:25.680><c> have</c><00:01:25.920><c> things</c><00:01:26.240><c> like</c><00:01:26.560><c> the</c><00:01:27.119><c> uh</c><00:01:27.360><c> famous</c><00:01:27.759><c> paper</c>
+you have things like the uh famous paper
+you have things like the uh famous paper
+on<00:01:28.400><c> chain</c><00:01:28.640><c> of</c><00:01:28.880><c> draft</c><00:01:29.200><c> where</c><00:01:29.439><c> the</c><00:01:29.680><c> idea</c><00:01:30.000><c> is</c><00:01:30.640><c> that</c>
+on chain of draft where the idea is that
+on chain of draft where the idea is that
+you<00:01:31.119><c> can</c><00:01:31.200><c> get</c><00:01:31.360><c> the</c><00:01:31.520><c> LLM</c><00:01:32.079><c> to</c><00:01:32.240><c> save</c><00:01:32.400><c> a</c><00:01:32.640><c> bunch</c><00:01:32.799><c> of</c>
+you can get the LLM to save a bunch of
+you can get the LLM to save a bunch of
+tokens<00:01:33.280><c> if</c><00:01:33.600><c> you</c><00:01:33.759><c> remind</c><00:01:34.000><c> it</c><00:01:34.720><c> that</c><00:01:34.960><c> it</c><00:01:35.200><c> can</c>
+tokens if you remind it that it can
+tokens if you remind it that it can
+approximate<00:01:36.320><c> logical</c><00:01:36.880><c> thinking</c><00:01:37.200><c> by</c><00:01:37.520><c> writing</c>
+approximate logical thinking by writing
+approximate logical thinking by writing
+its<00:01:38.159><c> own</c><00:01:38.560><c> symbols</c><00:01:39.600><c> and</c><00:01:39.840><c> shorthand</c><00:01:40.880><c> instead</c><00:01:41.280><c> of</c>
+its own symbols and shorthand instead of
+its own symbols and shorthand instead of
+full<00:01:41.920><c> tokenbased</c><00:01:42.960><c> uh</c><00:01:43.200><c> English</c><00:01:43.920><c> to</c><00:01:44.159><c> write</c><00:01:44.400><c> out</c>
+full tokenbased uh English to write out
+full tokenbased uh English to write out
+chain<00:01:44.799><c> of</c><00:01:44.960><c> thought.</c><00:01:45.680><c> This</c><00:01:45.920><c> turns</c><00:01:46.079><c> out</c><00:01:46.240><c> to</c><00:01:46.399><c> save</c>
+chain of thought. This turns out to save
+chain of thought. This turns out to save
+lots<00:01:46.880><c> of</c><00:01:47.040><c> tokens</c><00:01:47.360><c> and</c><00:01:47.520><c> be</c><00:01:47.759><c> almost</c><00:01:48.000><c> as</c><00:01:48.240><c> good</c>
+lots of tokens and be almost as good
+lots of tokens and be almost as good
+because<00:01:48.720><c> it's</c><00:01:48.960><c> really</c><00:01:49.119><c> the</c><00:01:49.360><c> act</c><00:01:49.600><c> of</c><00:01:49.759><c> writing</c>
+because it's really the act of writing
+because it's really the act of writing
+things<00:01:50.399><c> down</c><00:01:51.040><c> for</c><00:01:51.280><c> the</c><00:01:51.439><c> LLM</c><00:01:51.920><c> that</c><00:01:52.079><c> helps</c><00:01:52.320><c> it</c><00:01:52.479><c> to</c>
+things down for the LLM that helps it to
+things down for the LLM that helps it to
+think<00:01:52.799><c> clearly.</c><00:01:53.600><c> Uh,</c><00:01:53.920><c> and</c><00:01:54.079><c> I</c><00:01:54.320><c> realize</c><00:01:54.640><c> I'm</c>
+think clearly. Uh, and I realize I'm
+think clearly. Uh, and I realize I'm
+using<00:01:55.040><c> some</c><00:01:55.280><c> anthropomorphizing</c><00:01:56.320><c> metaphors,</c>
+using some anthropomorphizing metaphors,
+using some anthropomorphizing metaphors,
+but<00:01:57.040><c> but</c><00:01:57.360><c> you</c><00:01:57.520><c> get</c><00:01:57.680><c> it.</c><00:01:58.240><c> Uh,</c><00:01:58.719><c> the</c><00:01:58.960><c> act</c><00:01:59.119><c> of</c>
+but but you get it. Uh, the act of
+but but you get it. Uh, the act of
+writing<00:01:59.600><c> down</c><00:01:59.840><c> the</c><00:02:00.079><c> symbols</c><00:02:00.479><c> seems</c><00:02:00.799><c> to</c><00:02:00.960><c> work</c>
+writing down the symbols seems to work
+writing down the symbols seems to work
+to<00:02:01.439><c> prompt</c><00:02:01.759><c> logical</c><00:02:02.240><c> trains</c><00:02:02.479><c> of</c><00:02:02.640><c> thought</c><00:02:02.799><c> for</c>
+to prompt logical trains of thought for
+to prompt logical trains of thought for
+the<00:02:03.119><c> LLM</c><00:02:03.759><c> in</c><00:02:04.000><c> a</c><00:02:04.159><c> similar</c><00:02:04.560><c> way</c><00:02:05.360><c> to</c><00:02:05.759><c> us</c><00:02:06.079><c> humans</c>
+the LLM in a similar way to us humans
+the LLM in a similar way to us humans
+writing<00:02:07.280><c> things</c><00:02:07.520><c> down</c><00:02:07.840><c> and</c><00:02:08.080><c> being</c><00:02:08.319><c> able</c><00:02:08.479><c> to</c>
+writing things down and being able to
+writing things down and being able to
+remember<00:02:08.879><c> as</c><00:02:09.119><c> we</c><00:02:09.280><c> go.</c>
+remember as we go.
+remember as we go.
+All<00:02:11.039><c> of</c><00:02:11.200><c> that</c><00:02:11.440><c> is</c><00:02:11.680><c> part</c><00:02:11.920><c> one,</c><00:02:12.239><c> deterministic</c>
+All of that is part one, deterministic
+All of that is part one, deterministic
+context.<00:02:14.319><c> So,</c><00:02:14.640><c> static</c><00:02:15.040><c> prompts,</c><00:02:15.840><c> knowledge</c>
+context. So, static prompts, knowledge
+context. So, static prompts, knowledge
+bases,<00:02:17.440><c> documentation,</c><00:02:18.720><c> data</c><00:02:19.040><c> feeds,</c><00:02:20.319><c> all</c>
+bases, documentation, data feeds, all
+bases, documentation, data feeds, all
+things<00:02:20.720><c> we</c><00:02:20.959><c> can</c><00:02:21.120><c> control.</c>
+things we can control.
+things we can control.
+That's<00:02:23.040><c> the</c><00:02:23.200><c> smaller</c><00:02:23.599><c> part</c><00:02:23.920><c> and</c><00:02:24.160><c> we</c><00:02:24.400><c> don't</c>
+That's the smaller part and we don't
+That's the smaller part and we don't
+talk<00:02:24.800><c> about</c><00:02:25.040><c> the</c><00:02:25.280><c> larger</c><00:02:25.599><c> part.</c><00:02:26.720><c> The</c><00:02:26.959><c> larger</c>
+talk about the larger part. The larger
+talk about the larger part. The larger
+part<00:02:27.599><c> is</c><00:02:28.000><c> probabilistic</c><00:02:29.120><c> context.</c><00:02:30.400><c> So</c><00:02:30.560><c> what</c>
+part is probabilistic context. So what
+part is probabilistic context. So what
+I'm<00:02:31.040><c> saying</c><00:02:31.280><c> is</c><00:02:32.239><c> you</c><00:02:32.640><c> have</c><00:02:33.680><c> only</c><00:02:34.000><c> a</c><00:02:34.400><c> small</c>
+I'm saying is you have only a small
+I'm saying is you have only a small
+piece<00:02:35.519><c> of</c><00:02:35.760><c> the</c><00:02:36.080><c> overall</c><00:02:36.560><c> context</c><00:02:37.360><c> that</c><00:02:37.680><c> the</c>
+piece of the overall context that the
+piece of the overall context that the
+LLM<00:02:38.560><c> uses</c><00:02:38.959><c> to</c><00:02:39.200><c> get</c><00:02:39.440><c> you</c><00:02:39.599><c> an</c><00:02:39.840><c> answer</c><00:02:40.879><c> if</c><00:02:41.280><c> you</c>
+LLM uses to get you an answer if you
+LLM uses to get you an answer if you
+have<00:02:42.000><c> any</c><00:02:42.319><c> kind</c><00:02:42.560><c> of</c><00:02:42.720><c> web</c><00:02:43.040><c> access</c><00:02:43.360><c> in</c><00:02:43.519><c> your</c><00:02:43.680><c> call</c>
+have any kind of web access in your call
+have any kind of web access in your call
+at<00:02:44.000><c> all.</c><00:02:44.239><c> Now</c><00:02:44.480><c> to</c><00:02:44.640><c> be</c><00:02:44.800><c> fair,</c><00:02:45.920><c> sometimes</c><00:02:46.480><c> you</c>
+at all. Now to be fair, sometimes you
+at all. Now to be fair, sometimes you
+have<00:02:46.959><c> no</c><00:02:47.200><c> web</c><00:02:47.440><c> access</c><00:02:47.760><c> and</c><00:02:48.000><c> you</c><00:02:48.160><c> want</c><00:02:48.319><c> it</c><00:02:48.560><c> that</c>
+have no web access and you want it that
+have no web access and you want it that
+way.<00:02:49.680><c> Sometimes</c><00:02:50.319><c> you</c><00:02:50.560><c> are</c><00:02:50.800><c> just</c><00:02:51.120><c> sending</c><00:02:52.000><c> very</c>
+way. Sometimes you are just sending very
+way. Sometimes you are just sending very
+very<00:02:52.720><c> structured</c><00:02:53.280><c> calls,</c><00:02:53.760><c> no</c><00:02:54.000><c> web</c><00:02:54.319><c> access,</c><00:02:55.360><c> no</c>
+very structured calls, no web access, no
+very structured calls, no web access, no
+external<00:02:56.080><c> tools</c><00:02:56.959><c> and</c><00:02:57.200><c> you</c><00:02:57.360><c> just</c><00:02:57.519><c> want</c><00:02:57.680><c> the</c><00:02:57.840><c> LLM</c>
+external tools and you just want the LLM
+external tools and you just want the LLM
+to<00:02:58.480><c> generate</c><00:02:58.720><c> a</c><00:02:58.959><c> response.</c><00:02:59.440><c> In</c><00:02:59.599><c> that</c><00:02:59.840><c> case,</c><00:03:00.239><c> it</c>
+to generate a response. In that case, it
+to generate a response. In that case, it
+makes<00:03:00.879><c> sense</c><00:03:01.760><c> to</c><00:03:02.080><c> microcontrol</c><00:03:03.040><c> part</c><00:03:03.360><c> one</c><00:03:04.000><c> so</c>
+makes sense to microcontrol part one so
+makes sense to microcontrol part one so
+that<00:03:04.319><c> you</c><00:03:04.560><c> get</c><00:03:04.720><c> extremely</c><00:03:05.200><c> efficient</c>
+that you get extremely efficient
+that you get extremely efficient
+responses.
+responses.
+responses.
+But<00:03:07.599><c> I</c><00:03:07.760><c> find</c><00:03:07.920><c> that</c><00:03:08.400><c> especially</c><00:03:09.280><c> as</c><00:03:09.840><c> LLMs</c><00:03:10.640><c> push</c>
+But I find that especially as LLMs push
+But I find that especially as LLMs push
+you<00:03:12.080><c> to</c><00:03:13.440><c> connect</c><00:03:13.840><c> them</c><00:03:14.159><c> to</c><00:03:14.640><c> broader</c><00:03:15.120><c> data</c>
+you to connect them to broader data
+you to connect them to broader data
+sources<00:03:15.920><c> so</c><00:03:16.159><c> they</c><00:03:16.319><c> get</c><00:03:16.560><c> smarter,</c><00:03:17.440><c> people</c><00:03:17.760><c> are</c>
+sources so they get smarter, people are
+sources so they get smarter, people are
+more<00:03:18.239><c> and</c><00:03:18.480><c> more</c><00:03:18.800><c> assuming</c><00:03:19.760><c> that</c><00:03:20.080><c> they</c><00:03:20.319><c> want</c><00:03:20.480><c> an</c>
+more and more assuming that they want an
+more and more assuming that they want an
+LLM<00:03:21.200><c> that</c><00:03:21.360><c> has</c><00:03:21.599><c> access</c><00:03:21.920><c> to</c><00:03:22.080><c> the</c><00:03:22.319><c> web.</c><00:03:22.560><c> They</c>
+LLM that has access to the web. They
+LLM that has access to the web. They
+want<00:03:22.879><c> an</c><00:03:23.040><c> LLM</c><00:03:23.440><c> that</c><00:03:23.599><c> has</c><00:03:23.840><c> access</c><00:03:24.080><c> to</c><00:03:24.239><c> what</c><00:03:24.400><c> I</c>
+want an LLM that has access to what I
+want an LLM that has access to what I
+would<00:03:24.640><c> call</c><00:03:24.879><c> non-deterministic</c><00:03:26.000><c> or</c>
+would call non-deterministic or
+would call non-deterministic or
+probabilistic<00:03:27.280><c> context.</c>
+probabilistic context.
+probabilistic context.
+And<00:03:29.280><c> when</c><00:03:29.519><c> that</c><00:03:29.840><c> happens,</c>
+And when that happens,
+And when that happens,
+the<00:03:32.879><c> number</c><00:03:33.360><c> of</c><00:03:33.680><c> tokens</c><00:03:34.239><c> of</c><00:03:34.560><c> context</c><00:03:35.760><c> is</c><00:03:36.000><c> so</c>
+the number of tokens of context is so
+the number of tokens of context is so
+much<00:03:36.400><c> greater</c><00:03:36.799><c> it's</c><00:03:36.959><c> hard</c><00:03:37.120><c> to</c><00:03:37.280><c> count.</c><00:03:38.239><c> Your</c>
+much greater it's hard to count. Your
+much greater it's hard to count. Your
+deterministic<00:03:39.519><c> context</c><00:03:40.319><c> becomes</c><00:03:40.720><c> a</c><00:03:41.040><c> drop</c><00:03:41.280><c> in</c>
+deterministic context becomes a drop in
+deterministic context becomes a drop in
+the<00:03:41.599><c> bucket</c><00:03:42.480><c> compared</c><00:03:42.879><c> to</c><00:03:43.120><c> how</c><00:03:43.360><c> much</c>
+the bucket compared to how much
+the bucket compared to how much
+probabilistic<00:03:44.400><c> context</c><00:03:45.280><c> context</c><00:03:45.760><c> the</c><00:03:45.920><c> model</c>
+probabilistic context context the model
+probabilistic context context the model
+can<00:03:46.400><c> acquire.</c><00:03:47.680><c> So</c><00:03:48.000><c> for</c><00:03:48.080><c> example,</c><00:03:49.040><c> if</c><00:03:49.280><c> I</c><00:03:49.519><c> tell</c>
+can acquire. So for example, if I tell
+can acquire. So for example, if I tell
+uh<00:03:50.400><c> a</c><00:03:50.560><c> multi-</c><00:03:50.959><c> aent</c><00:03:51.280><c> system</c><00:03:51.519><c> like</c><00:03:51.840><c> Claude</c>
+uh a multi- aent system like Claude
+uh a multi- aent system like Claude
+Opus,<00:03:53.280><c> hey</c><00:03:54.640><c> go</c><00:03:54.879><c> and</c><00:03:55.200><c> research</c><00:03:55.599><c> this</c><00:03:55.840><c> topic</c><00:03:56.159><c> and</c>
+Opus, hey go and research this topic and
+Opus, hey go and research this topic and
+then<00:03:56.480><c> I</c><00:03:56.640><c> give</c><00:03:56.799><c> it</c><00:03:56.959><c> a</c><00:03:57.120><c> word</c><00:03:57.360><c> document</c><00:03:57.599><c> that</c><00:03:57.840><c> has</c>
+then I give it a word document that has
+then I give it a word document that has
+my<00:03:58.239><c> perspective</c><00:03:58.640><c> and</c><00:03:58.879><c> I</c><00:03:58.959><c> say</c><00:03:59.200><c> go</c><00:03:59.439><c> research</c>
+my perspective and I say go research
+my perspective and I say go research
+this.<00:04:01.120><c> I</c><00:04:01.360><c> I</c><00:04:01.680><c> kid</c><00:04:01.920><c> you</c><00:04:02.080><c> not</c><00:04:02.799><c> 400,</c><00:04:03.439><c> 500,</c><00:04:03.920><c> 600</c>
+this. I I kid you not 400, 500, 600
+this. I I kid you not 400, 500, 600
+websites<00:04:04.799><c> later,</c><00:04:05.120><c> it</c><00:04:05.360><c> comes</c><00:04:05.599><c> back.</c>
+websites later, it comes back.
+websites later, it comes back.
+There<00:04:07.680><c> is</c><00:04:07.920><c> no</c><00:04:08.159><c> way</c><00:04:09.280><c> that</c><00:04:09.599><c> my</c><00:04:09.920><c> document</c><00:04:10.319><c> and</c><00:04:10.560><c> my</c>
+There is no way that my document and my
+There is no way that my document and my
+prompt<00:04:11.280><c> are</c><00:04:11.599><c> any</c><00:04:12.560><c> remotely</c><00:04:13.760><c> measurable</c>
+prompt are any remotely measurable
+prompt are any remotely measurable
+percentage<00:04:14.959><c> of</c><00:04:15.200><c> the</c><00:04:15.360><c> total</c><00:04:15.680><c> number</c><00:04:15.840><c> of</c><00:04:16.000><c> tokens</c>
+percentage of the total number of tokens
+percentage of the total number of tokens
+it<00:04:16.560><c> just</c><00:04:16.799><c> processed.</c><00:04:18.239><c> The</c><00:04:18.560><c> only</c><00:04:18.880><c> way</c><00:04:19.040><c> that</c><00:04:19.280><c> it</c>
+it just processed. The only way that it
+it just processed. The only way that it
+still<00:04:20.000><c> maintains</c><00:04:20.560><c> a</c><00:04:20.880><c> kind</c><00:04:21.040><c> of</c><00:04:21.280><c> focus</c>
+still maintains a kind of focus
+still maintains a kind of focus
+is<00:04:23.360><c> because</c><00:04:23.759><c> it</c><00:04:24.000><c> has</c><00:04:24.160><c> been</c><00:04:24.479><c> clearly</c>
+is because it has been clearly
+is because it has been clearly
+reinforcement<00:04:25.919><c> learned</c><00:04:27.040><c> and</c><00:04:27.360><c> trained</c><00:04:28.400><c> to</c>
+reinforcement learned and trained to
+reinforcement learned and trained to
+focus<00:04:29.040><c> on</c><00:04:29.199><c> the</c><00:04:29.360><c> user's</c><00:04:29.759><c> ask,</c><00:04:30.160><c> which</c><00:04:30.400><c> is</c><00:04:30.560><c> fine.</c>
+focus on the user's ask, which is fine.
+focus on the user's ask, which is fine.
+But<00:04:32.560><c> all</c><00:04:32.720><c> that</c><00:04:32.960><c> does</c><00:04:33.199><c> is</c><00:04:33.520><c> transfer</c><00:04:34.000><c> the</c>
+But all that does is transfer the
+But all that does is transfer the
+responsibility<00:04:35.680><c> for</c><00:04:36.080><c> shaping</c><00:04:36.479><c> the</c><00:04:36.720><c> model's</c>
+responsibility for shaping the model's
+responsibility for shaping the model's
+choice<00:04:37.520><c> of</c><00:04:37.840><c> probabilistic</c><00:04:38.800><c> context</c><00:04:39.919><c> to</c><00:04:40.160><c> the</c>
+choice of probabilistic context to the
+choice of probabilistic context to the
+prompt<00:04:40.720><c> itself.</c><00:04:42.080><c> And</c><00:04:42.320><c> the</c><00:04:42.479><c> prompt</c><00:04:42.800><c> is</c>
+prompt itself. And the prompt is
+prompt itself. And the prompt is
+therefore<00:04:43.280><c> not</c><00:04:43.520><c> deterministic.</c><00:04:44.400><c> The</c><00:04:44.560><c> prompt</c>
+therefore not deterministic. The prompt
+therefore not deterministic. The prompt
+itself<00:04:45.360><c> is</c><00:04:45.680><c> probabilistic.</c><00:04:46.639><c> Now</c><00:04:46.800><c> we</c><00:04:47.040><c> are</c>
+itself is probabilistic. Now we are
+itself is probabilistic. Now we are
+shaping<00:04:48.560><c> the</c>
+shaping the
+shaping the
+context<00:04:50.800><c> that</c><00:04:51.120><c> the</c><00:04:51.440><c> agent</c><00:04:52.160><c> will</c><00:04:52.479><c> go</c><00:04:52.720><c> and</c><00:04:52.960><c> grab</c>
+context that the agent will go and grab
+context that the agent will go and grab
+by<00:04:54.160><c> prompting</c><00:04:54.639><c> and</c><00:04:54.880><c> we</c><00:04:55.040><c> can't</c><00:04:55.360><c> control</c><00:04:55.680><c> it</c><00:04:56.080><c> but</c>
+by prompting and we can't control it but
+by prompting and we can't control it but
+we<00:04:56.560><c> can</c><00:04:56.800><c> shape</c><00:04:57.120><c> it</c><00:04:58.080><c> and</c><00:04:58.320><c> so</c><00:04:58.479><c> the</c><00:04:58.800><c> question</c>
+we can shape it and so the question
+we can shape it and so the question
+becomes<00:05:00.160><c> well</c><00:05:00.400><c> how</c><00:05:00.560><c> do</c><00:05:00.720><c> we</c><00:05:00.880><c> start</c><00:05:01.040><c> to</c><00:05:01.199><c> shape</c>
+becomes well how do we start to shape
+becomes well how do we start to shape
+that<00:05:01.759><c> well</c><00:05:02.400><c> and</c><00:05:02.639><c> how</c><00:05:02.880><c> do</c><00:05:02.960><c> we</c><00:05:03.120><c> start</c><00:05:03.360><c> to</c><00:05:03.600><c> craft</c>
+that well and how do we start to craft
+that well and how do we start to craft
+an<00:05:04.240><c> environment</c><00:05:05.440><c> that</c><00:05:06.080><c> enables</c><00:05:06.479><c> the</c><00:05:06.720><c> AI</c><00:05:07.120><c> to</c>
+an environment that enables the AI to
+an environment that enables the AI to
+understand<00:05:07.680><c> what</c><00:05:07.919><c> we</c><00:05:08.080><c> mean</c><00:05:09.520><c> I</c><00:05:09.759><c> think</c><00:05:10.000><c> that</c><00:05:10.240><c> is</c>
+understand what we mean I think that is
+understand what we mean I think that is
+actually<00:05:10.720><c> where</c><00:05:11.039><c> context</c><00:05:11.520><c> engineering</c><00:05:12.800><c> needs</c>
+actually where context engineering needs
+actually where context engineering needs
+to<00:05:13.280><c> go.</c><00:05:13.680><c> I</c><00:05:13.919><c> think</c><00:05:14.080><c> token</c><00:05:14.560><c> optimization</c>
+to go. I think token optimization
+to go. I think token optimization
+methods<00:05:16.400><c> are</c><00:05:16.639><c> legitimate.</c><00:05:17.440><c> They</c><00:05:17.759><c> clearly</c>
+methods are legitimate. They clearly
+methods are legitimate. They clearly
+work<00:05:18.400><c> well,</c><00:05:19.600><c> but</c><00:05:19.919><c> they</c><00:05:20.160><c> kind</c><00:05:20.400><c> of</c><00:05:20.639><c> focus</c><00:05:20.960><c> on</c>
+work well, but they kind of focus on
+work well, but they kind of focus on
+cost<00:05:21.680><c> cutting</c><00:05:22.000><c> when</c><00:05:22.320><c> I</c><00:05:22.479><c> would</c><00:05:22.639><c> like</c><00:05:22.800><c> to</c><00:05:23.039><c> see</c>
+cost cutting when I would like to see
+cost cutting when I would like to see
+how<00:05:23.840><c> we</c><00:05:24.000><c> can</c><00:05:24.160><c> get</c><00:05:24.320><c> more</c><00:05:24.639><c> correct</c><00:05:25.039><c> answers</c><00:05:25.440><c> and</c>
+how we can get more correct answers and
+how we can get more correct answers and
+more<00:05:25.919><c> useful</c><00:05:26.240><c> and</c><00:05:26.400><c> congruent</c><00:05:26.960><c> answers.</c>
+more useful and congruent answers.
+more useful and congruent answers.
+And<00:05:28.639><c> so</c><00:05:28.800><c> to</c><00:05:29.039><c> me,</c><00:05:30.080><c> especially</c><00:05:30.400><c> as</c><00:05:30.639><c> we</c><00:05:30.800><c> look</c><00:05:30.880><c> at</c><00:05:31.039><c> a</c>
+And so to me, especially as we look at a
+And so to me, especially as we look at a
+world<00:05:31.360><c> with</c><00:05:31.600><c> web</c><00:05:31.840><c> access</c><00:05:32.240><c> with</c><00:05:32.400><c> MCP</c>
+world with web access with MCP
+world with web access with MCP
+everywhere<00:05:34.000><c> with</c><00:05:34.320><c> increasing</c><00:05:34.880><c> autonomy</c><00:05:35.440><c> for</c>
+everywhere with increasing autonomy for
+everywhere with increasing autonomy for
+agents<00:05:36.400><c> net</c><00:05:36.720><c> net,</c><00:05:37.039><c> I</c><00:05:37.280><c> know</c><00:05:37.360><c> it's</c><00:05:37.600><c> not</c><00:05:37.759><c> perfect.</c>
+agents net net, I know it's not perfect.
+agents net net, I know it's not perfect.
+I<00:05:38.400><c> know</c><00:05:38.479><c> we</c><00:05:38.720><c> are</c><00:05:38.960><c> in</c><00:05:39.280><c> some</c><00:05:39.520><c> ways</c><00:05:40.320><c> a</c><00:05:40.639><c> long</c><00:05:40.880><c> way</c>
+I know we are in some ways a long way
+I know we are in some ways a long way
+from<00:05:41.280><c> a</c><00:05:41.440><c> fully</c><00:05:41.759><c> autonomous</c><00:05:42.320><c> agent.</c><00:05:43.680><c> We</c><00:05:43.919><c> still</c>
+from a fully autonomous agent. We still
+from a fully autonomous agent. We still
+want<00:05:44.240><c> to</c><00:05:44.400><c> be</c><00:05:44.479><c> in</c><00:05:44.639><c> a</c><00:05:44.880><c> place</c><00:05:45.280><c> where</c>
+want to be in a place where
+want to be in a place where
+we<00:05:47.840><c> understand</c><00:05:48.400><c> the</c><00:05:48.720><c> impact</c><00:05:49.039><c> of</c><00:05:49.199><c> our</c><00:05:49.440><c> prompt</c>
+we understand the impact of our prompt
+we understand the impact of our prompt
+on<00:05:50.160><c> the</c><00:05:50.400><c> overall</c><00:05:50.880><c> probabilistic</c><00:05:51.680><c> context.</c><00:05:52.880><c> So</c>
+on the overall probabilistic context. So
+on the overall probabilistic context. So
+here's<00:05:53.440><c> my</c><00:05:54.000><c> set</c><00:05:54.160><c> of</c><00:05:54.400><c> principles</c><00:05:54.880><c> for</c><00:05:55.039><c> you</c><00:05:55.280><c> as</c>
+here's my set of principles for you as
+here's my set of principles for you as
+you<00:05:55.680><c> think</c><00:05:55.759><c> about</c><00:05:56.000><c> this.</c><00:05:56.320><c> Number</c><00:05:56.639><c> one,</c><00:05:57.440><c> you</c>
+you think about this. Number one, you
+you think about this. Number one, you
+need<00:05:57.919><c> to</c><00:05:58.160><c> expect</c><00:05:58.639><c> discovery.</c><00:05:59.440><c> So</c><00:05:59.680><c> design</c><00:06:00.080><c> for</c>
+need to expect discovery. So design for
+need to expect discovery. So design for
+semantic<00:06:00.960><c> highways.</c><00:06:02.000><c> Think</c><00:06:02.320><c> about</c><00:06:02.560><c> it</c><00:06:02.960><c> as</c>
+semantic highways. Think about it as
+semantic highways. Think about it as
+what<00:06:04.160><c> is</c><00:06:04.319><c> the</c><00:06:04.560><c> rate</c><00:06:05.520><c> at</c><00:06:05.840><c> which</c><00:06:06.319><c> a</c><00:06:06.720><c> desired</c>
+what is the rate at which a desired
+what is the rate at which a desired
+response<00:06:08.400><c> comes</c><00:06:08.800><c> back</c><00:06:09.280><c> when</c><00:06:09.600><c> you</c><00:06:09.840><c> include</c>
+response comes back when you include
+response comes back when you include
+probabilistic<00:06:11.280><c> context.</c>
+probabilistic context.
+probabilistic context.
+Can<00:06:13.039><c> you</c><00:06:13.280><c> consistently</c><00:06:14.080><c> prompt</c><00:06:14.560><c> so</c><00:06:14.800><c> that</c><00:06:14.960><c> you</c>
+Can you consistently prompt so that you
+Can you consistently prompt so that you
+get<00:06:16.319><c> a</c><00:06:16.639><c> response</c><00:06:17.039><c> that</c><00:06:17.280><c> you</c><00:06:17.520><c> are</c><00:06:17.680><c> happy</c><00:06:18.000><c> with</c>
+get a response that you are happy with
+get a response that you are happy with
+even<00:06:19.039><c> though</c><00:06:19.360><c> the</c><00:06:19.600><c> context</c><00:06:20.080><c> window</c><00:06:20.400><c> is</c><00:06:20.560><c> not</c>
+even though the context window is not
+even though the context window is not
+tightly<00:06:21.199><c> closed</c><00:06:21.759><c> and</c><00:06:22.080><c> the</c><00:06:22.319><c> agent</c><00:06:22.720><c> can</c><00:06:22.880><c> go</c><00:06:22.960><c> and</c>
+tightly closed and the agent can go and
+tightly closed and the agent can go and
+search<00:06:23.440><c> for</c><00:06:23.680><c> things</c><00:06:24.160><c> across</c><00:06:24.639><c> MCP</c><00:06:25.280><c> servers</c><00:06:25.759><c> on</c>
+search for things across MCP servers on
+search for things across MCP servers on
+the<00:06:26.080><c> web</c><00:06:26.560><c> etc.</c>
+the web etc.
+the web etc.
+Number<00:06:28.800><c> two,</c>
+Number two,
+Number two,
+can<00:06:30.639><c> you</c><00:06:31.759><c> reliably</c><00:06:33.039><c> monitor</c><00:06:33.520><c> the</c><00:06:33.840><c> quality</c><00:06:34.240><c> of</c>
+can you reliably monitor the quality of
+can you reliably monitor the quality of
+information<00:06:35.120><c> sources</c><00:06:35.680><c> that</c><00:06:36.000><c> it's</c><00:06:36.240><c> using?</c><00:06:37.680><c> And</c>
+information sources that it's using? And
+information sources that it's using? And
+can<00:06:38.160><c> you</c><00:06:38.479><c> track</c><00:06:38.880><c> how</c><00:06:39.120><c> those</c><00:06:39.520><c> information</c>
+can you track how those information
+can you track how those information
+sources<00:06:40.560><c> are</c><00:06:40.800><c> changing</c><00:06:41.120><c> over</c><00:06:41.440><c> time?</c><00:06:41.759><c> So</c><00:06:42.000><c> for</c>
+sources are changing over time? So for
+sources are changing over time? So for
+example,<00:06:42.960><c> if</c><00:06:43.199><c> you</c><00:06:43.360><c> tell</c><00:06:43.520><c> it</c><00:06:43.759><c> to</c><00:06:44.000><c> use</c><00:06:45.199><c> reliable</c>
+example, if you tell it to use reliable
+example, if you tell it to use reliable
+and<00:06:46.160><c> verified</c><00:06:46.880><c> news</c><00:06:47.520><c> uh</c><00:06:47.680><c> sites</c><00:06:48.080><c> to</c><00:06:48.319><c> sort</c><00:06:48.560><c> of</c>
+and verified news uh sites to sort of
+and verified news uh sites to sort of
+find<00:06:49.039><c> out</c><00:06:49.199><c> the</c><00:06:49.440><c> news</c><00:06:49.680><c> on</c><00:06:49.840><c> a</c><00:06:50.080><c> particular</c><00:06:50.479><c> topic</c>
+find out the news on a particular topic
+find out the news on a particular topic
+and<00:06:52.160><c> you</c><00:06:52.400><c> audit</c><00:06:52.720><c> the</c><00:06:52.960><c> sources,</c><00:06:53.759><c> would</c><00:06:54.000><c> you</c>
+and you audit the sources, would you
+and you audit the sources, would you
+agree<00:06:54.479><c> that</c><00:06:54.720><c> those</c><00:06:54.960><c> are</c><00:06:55.120><c> reliable</c><00:06:55.600><c> and</c>
+agree that those are reliable and
+agree that those are reliable and
+verified<00:06:56.319><c> news</c><00:06:56.560><c> sites</c><00:06:56.960><c> or</c><00:06:57.199><c> do</c><00:06:57.360><c> you</c><00:06:57.520><c> find</c><00:06:57.759><c> that</c>
+verified news sites or do you find that
+verified news sites or do you find that
+it's<00:06:58.240><c> not</c><00:06:58.479><c> actually</c><00:06:58.880><c> doing</c><00:06:59.120><c> that</c><00:06:59.360><c> well?</c><00:07:00.000><c> Even</c>
+it's not actually doing that well? Even
+it's not actually doing that well? Even
+if<00:07:00.400><c> you're</c><00:07:00.639><c> happy</c><00:07:00.880><c> with</c><00:07:01.120><c> the</c><00:07:01.360><c> result,</c><00:07:01.759><c> you</c>
+if you're happy with the result, you
+if you're happy with the result, you
+find<00:07:02.080><c> the</c><00:07:02.319><c> sources</c><00:07:02.720><c> are</c><00:07:02.960><c> not</c><00:07:03.680><c> really</c><00:07:04.000><c> great,</c>
+find the sources are not really great,
+find the sources are not really great,
+which<00:07:04.560><c> by</c><00:07:04.720><c> the</c><00:07:04.880><c> way</c><00:07:05.440><c> happens</c><00:07:05.759><c> an</c><00:07:06.000><c> alarming</c>
+which by the way happens an alarming
+which by the way happens an alarming
+amount<00:07:06.720><c> of</c><00:07:06.800><c> the</c><00:07:07.039><c> time.</c><00:07:07.280><c> Like</c><00:07:07.520><c> I</c><00:07:07.759><c> look</c><00:07:07.919><c> at</c><00:07:08.240><c> uh</c>
+amount of the time. Like I look at uh
+amount of the time. Like I look at uh
+Chad<00:07:08.720><c> GPT's</c><00:07:09.280><c> deep</c><00:07:09.520><c> research.</c><00:07:10.479><c> I</c><00:07:10.720><c> am</c><00:07:10.880><c> often</c>
+Chad GPT's deep research. I am often
+Chad GPT's deep research. I am often
+happy<00:07:11.840><c> with</c><00:07:12.160><c> the</c><00:07:12.479><c> output</c><00:07:13.759><c> but</c><00:07:14.000><c> I</c><00:07:14.240><c> am</c><00:07:14.479><c> not</c><00:07:14.800><c> often</c>
+happy with the output but I am not often
+happy with the output but I am not often
+happy<00:07:16.000><c> with</c><00:07:16.240><c> the</c><00:07:16.479><c> way</c><00:07:16.639><c> it</c><00:07:16.800><c> reached</c><00:07:17.120><c> it.</c><00:07:17.360><c> The</c>
+happy with the way it reached it. The
+happy with the way it reached it. The
+sources<00:07:18.240><c> seem</c><00:07:18.720><c> quite</c><00:07:19.199><c> sketchy</c><00:07:19.680><c> at</c><00:07:19.919><c> times.</c>
+sources seem quite sketchy at times.
+sources seem quite sketchy at times.
+Maybe<00:07:22.479><c> that's</c><00:07:22.880><c> an</c><00:07:23.199><c> incidence</c><00:07:24.400><c> um</c><00:07:24.560><c> or</c><00:07:24.960><c> maybe</c>
+Maybe that's an incidence um or maybe
+Maybe that's an incidence um or maybe
+that's<00:07:25.360><c> an</c><00:07:25.599><c> artifact</c><00:07:26.080><c> of</c><00:07:26.479><c> the</c><00:07:27.120><c> reality</c><00:07:27.520><c> that</c>
+that's an artifact of the reality that
+that's an artifact of the reality that
+it's<00:07:28.080><c> testing</c><00:07:28.560><c> so</c><00:07:28.800><c> many</c><00:07:29.039><c> different</c><00:07:29.280><c> sources</c>
+it's testing so many different sources
+it's testing so many different sources
+and<00:07:30.000><c> it's</c><00:07:30.240><c> difficult</c><00:07:30.479><c> for</c><00:07:30.639><c> me</c><00:07:30.800><c> to</c><00:07:30.960><c> audit</c><00:07:31.280><c> all</c>
+and it's difficult for me to audit all
+and it's difficult for me to audit all
+600<00:07:31.919><c> or</c><00:07:32.160><c> whatever</c><00:07:32.319><c> that</c><00:07:32.560><c> it's</c><00:07:32.720><c> using.</c><00:07:33.599><c> Or</c>
+600 or whatever that it's using. Or
+600 or whatever that it's using. Or
+maybe<00:07:35.199><c> it</c><00:07:35.599><c> actually</c><00:07:36.000><c> needs</c><00:07:36.240><c> to</c><00:07:36.400><c> be</c><00:07:36.560><c> somewhat</c>
+maybe it actually needs to be somewhat
+maybe it actually needs to be somewhat
+more<00:07:37.199><c> constrained</c><00:07:38.319><c> and</c><00:07:38.639><c> we</c><00:07:38.800><c> need</c><00:07:38.880><c> to</c><00:07:39.039><c> do</c><00:07:39.199><c> more</c>
+more constrained and we need to do more
+more constrained and we need to do more
+work<00:07:39.520><c> on</c><00:07:39.759><c> prompting</c><00:07:40.240><c> to</c><00:07:40.479><c> constrain</c><00:07:41.039><c> source</c><00:07:41.840><c> uh</c>
+work on prompting to constrain source uh
+work on prompting to constrain source uh
+reliance<00:07:42.800><c> with</c><00:07:43.039><c> these</c><00:07:43.280><c> agents</c><00:07:43.840><c> even</c><00:07:44.000><c> if</c><00:07:44.240><c> only</c>
+reliance with these agents even if only
+reliance with these agents even if only
+partially.
+partially.
+partially.
+Okay.<00:07:46.880><c> Other</c><00:07:47.199><c> principles</c><00:07:47.599><c> that</c><00:07:47.840><c> I</c><00:07:48.000><c> think</c><00:07:48.160><c> are</c>
+Okay. Other principles that I think are
+Okay. Other principles that I think are
+helpful.
+helpful.
+helpful.
+Number<00:07:50.479><c> three,</c>
+Number three,
+Number three,
+you<00:07:52.560><c> really</c><00:07:53.039><c> need</c><00:07:53.280><c> to</c><00:07:53.520><c> take</c><00:07:54.319><c> uh</c><00:07:55.039><c> security</c>
+you really need to take uh security
+you really need to take uh security
+seriously<00:07:56.400><c> with</c><00:07:56.639><c> probabilistic</c><00:07:57.440><c> context.</c>
+seriously with probabilistic context.
+seriously with probabilistic context.
+There<00:07:59.360><c> will</c><00:07:59.680><c> absolutely</c><00:08:00.319><c> be</c><00:08:00.560><c> people</c><00:08:00.879><c> who</c>
+There will absolutely be people who
+There will absolutely be people who
+figure<00:08:01.520><c> out</c><00:08:02.080><c> LLM</c><00:08:02.639><c> injection</c><00:08:03.120><c> attacks</c><00:08:04.240><c> from</c>
+figure out LLM injection attacks from
+figure out LLM injection attacks from
+agents<00:08:06.000><c> doing</c><00:08:06.800><c> searches</c><00:08:07.280><c> across</c><00:08:07.599><c> the</c><00:08:07.840><c> web</c><00:08:08.080><c> and</c>
+agents doing searches across the web and
+agents doing searches across the web and
+MCP<00:08:08.879><c> servers.</c><00:08:09.440><c> It's</c><00:08:09.680><c> going</c><00:08:09.840><c> to</c><00:08:10.000><c> happen.</c><00:08:10.400><c> It</c>
+MCP servers. It's going to happen. It
+MCP servers. It's going to happen. It
+will<00:08:10.800><c> happen</c><00:08:11.039><c> this</c><00:08:11.360><c> year.</c><00:08:12.319><c> Uh</c><00:08:12.639><c> and</c><00:08:12.879><c> I'm</c><00:08:13.120><c> kind</c>
+will happen this year. Uh and I'm kind
+will happen this year. Uh and I'm kind
+of<00:08:13.360><c> surprised</c><00:08:13.680><c> it</c><00:08:13.919><c> hasn't</c><00:08:14.160><c> happened</c><00:08:14.400><c> already.</c>
+of surprised it hasn't happened already.
+of surprised it hasn't happened already.
+In<00:08:14.879><c> fact,</c><00:08:15.039><c> it</c><00:08:15.280><c> may</c><00:08:15.360><c> have</c><00:08:15.520><c> and</c><00:08:15.680><c> I</c><00:08:15.840><c> may</c><00:08:15.919><c> have</c>
+In fact, it may have and I may have
+In fact, it may have and I may have
+missed<00:08:16.319><c> it.</c><00:08:16.479><c> If</c><00:08:16.639><c> you</c><00:08:16.720><c> know</c><00:08:16.879><c> of</c><00:08:16.960><c> a</c><00:08:17.199><c> case</c><00:08:17.360><c> where</c>
+missed it. If you know of a case where
+missed it. If you know of a case where
+someone<00:08:18.000><c> used</c><00:08:18.720><c> an</c><00:08:18.960><c> MCP</c><00:08:19.599><c> server</c><00:08:20.560><c> and</c><00:08:21.360><c> uh</c><00:08:21.520><c> there</c>
+someone used an MCP server and uh there
+someone used an MCP server and uh there
+was<00:08:21.919><c> some</c><00:08:22.080><c> sort</c><00:08:22.240><c> of</c><00:08:22.400><c> prompt</c><00:08:22.720><c> injection</c><00:08:23.199><c> attack</c>
+was some sort of prompt injection attack
+was some sort of prompt injection attack
+on<00:08:23.680><c> an</c><00:08:23.919><c> LLM,</c><00:08:24.479><c> I</c><00:08:24.639><c> would</c><00:08:24.720><c> be</c><00:08:24.879><c> curious</c><00:08:25.120><c> to</c><00:08:25.360><c> see</c><00:08:25.520><c> it.</c>
+on an LLM, I would be curious to see it.
+on an LLM, I would be curious to see it.
+Regardless,<00:08:26.800><c> we</c><00:08:26.960><c> should</c><00:08:27.120><c> anticipate</c><00:08:27.680><c> that.</c>
+Regardless, we should anticipate that.
+Regardless, we should anticipate that.
+Principle<00:08:30.879><c> number</c><00:08:31.199><c> four,</c><00:08:32.080><c> I</c><00:08:32.320><c> want</c><00:08:32.479><c> to</c><00:08:32.640><c> suggest</c>
+Principle number four, I want to suggest
+Principle number four, I want to suggest
+that<00:08:33.120><c> it's</c><00:08:33.440><c> important</c><00:08:34.320><c> to</c><00:08:35.279><c> measure</c><00:08:36.719><c> overall</c>
+that it's important to measure overall
+that it's important to measure overall
+decision<00:08:40.240><c> accuracy</c><00:08:41.360><c> and</c><00:08:41.760><c> it</c><00:08:42.159><c> is</c>
+decision accuracy and it is
+decision accuracy and it is
+probably<00:08:44.320><c> more</c><00:08:44.720><c> informative</c><00:08:45.760><c> of</c><00:08:46.000><c> the</c>
+probably more informative of the
+probably more informative of the
+decision<00:08:46.800><c> accuracy</c><00:08:47.279><c> you</c><00:08:47.519><c> reach</c><00:08:47.839><c> from</c><00:08:48.080><c> the</c>
+decision accuracy you reach from the
+decision accuracy you reach from the
+reports<00:08:48.640><c> that</c><00:08:48.800><c> you</c><00:08:49.040><c> generate</c><00:08:49.360><c> with</c><00:08:49.600><c> these</c>
+reports that you generate with these
+reports that you generate with these
+methods.
+methods.
+methods.
+if<00:08:52.080><c> you</c><00:08:52.320><c> are</c><00:08:52.560><c> relevant</c><00:08:53.279><c> scoring</c><00:08:54.560><c> the</c><00:08:54.880><c> inputs</c>
+if you are relevant scoring the inputs
+if you are relevant scoring the inputs
+and<00:08:56.160><c> this</c><00:08:56.320><c> gets</c><00:08:56.560><c> back</c><00:08:56.720><c> to</c><00:08:56.880><c> source</c><00:08:57.200><c> control</c><00:08:57.519><c> but</c>
+and this gets back to source control but
+and this gets back to source control but
+now<00:08:57.839><c> you're</c><00:08:58.000><c> adding</c><00:08:58.240><c> sort</c><00:08:58.320><c> of</c><00:08:58.399><c> a</c><00:08:58.640><c> relevant</c>
+now you're adding sort of a relevant
+now you're adding sort of a relevant
+scoring<00:08:59.360><c> piece</c><00:09:00.240><c> to</c><00:09:00.560><c> the</c><00:09:00.720><c> extent</c><00:09:01.040><c> you</c><00:09:01.279><c> can</c><00:09:01.600><c> like</c>
+scoring piece to the extent you can like
+scoring piece to the extent you can like
+and<00:09:02.080><c> maybe</c><00:09:02.240><c> you</c><00:09:02.480><c> have</c><00:09:02.640><c> to</c><00:09:02.800><c> do</c><00:09:02.959><c> this</c><00:09:03.200><c> with</c><00:09:04.080><c> um</c><00:09:04.560><c> a</c>
+and maybe you have to do this with um a
+and maybe you have to do this with um a
+actual<00:09:06.080><c> eval</c><00:09:06.640><c> harness</c><00:09:07.120><c> but</c><00:09:07.279><c> to</c><00:09:07.519><c> the</c><00:09:07.680><c> extent</c>
+actual eval harness but to the extent
+actual eval harness but to the extent
+you<00:09:08.160><c> can</c><00:09:09.040><c> I</c><00:09:09.360><c> feel</c><00:09:09.680><c> like</c><00:09:10.000><c> deploying</c><00:09:10.560><c> relevant</c>
+you can I feel like deploying relevant
+you can I feel like deploying relevant
+scoring<00:09:11.440><c> on</c><00:09:11.680><c> the</c><00:09:11.839><c> sources</c>
+scoring on the sources
+scoring on the sources
+is<00:09:13.760><c> going</c><00:09:14.000><c> to</c><00:09:14.160><c> be</c><00:09:14.399><c> more</c><00:09:14.640><c> predictive</c><00:09:15.279><c> of</c><00:09:15.519><c> the</c>
+is going to be more predictive of the
+is going to be more predictive of the
+overall<00:09:16.240><c> quality</c><00:09:16.640><c> of</c><00:09:16.800><c> the</c><00:09:17.040><c> response</c><00:09:17.440><c> for</c>
+overall quality of the response for
+overall quality of the response for
+probabilistic<00:09:18.640><c> context</c><00:09:19.279><c> calls</c><00:09:20.720><c> than</c><00:09:22.000><c> just</c>
+probabilistic context calls than just
+probabilistic context calls than just
+measuring<00:09:22.959><c> traditional</c><00:09:23.519><c> precision</c><00:09:23.920><c> and</c>
+measuring traditional precision and
+measuring traditional precision and
+recall<00:09:24.959><c> because</c><00:09:25.279><c> precision</c><00:09:25.760><c> and</c><00:09:26.000><c> recall</c>
+recall because precision and recall
+recall because precision and recall
+implicitly<00:09:27.360><c> assume</c><00:09:27.839><c> a</c><00:09:28.080><c> deterministic</c>
+implicitly assume a deterministic
+implicitly assume a deterministic
+context<00:09:29.360><c> window</c><00:09:29.760><c> and</c><00:09:30.000><c> you</c><00:09:30.160><c> don't</c><00:09:30.399><c> necessarily</c>
+context window and you don't necessarily
+context window and you don't necessarily
+have<00:09:31.040><c> that</c><00:09:31.360><c> anymore.</c>
+Uh<00:09:34.720><c> number</c><00:09:35.040><c> five</c><00:09:35.279><c> is</c><00:09:35.519><c> not</c><00:09:35.680><c> that</c><00:09:35.920><c> surprising.</c>
+Uh number five is not that surprising.
+Uh number five is not that surprising.
+Uh<00:09:37.120><c> you're</c><00:09:37.360><c> you're</c><00:09:37.760><c> going</c><00:09:37.839><c> to</c><00:09:38.000><c> have</c><00:09:38.160><c> to</c>
+Uh you're you're going to have to
+Uh you're you're going to have to
+version<00:09:39.040><c> everything.</c><00:09:39.440><c> You're</c><00:09:39.680><c> going</c><00:09:39.680><c> to</c><00:09:39.839><c> have</c>
+version everything. You're going to have
+version everything. You're going to have
+to<00:09:40.080><c> test</c><00:09:40.240><c> these</c><00:09:40.480><c> prompts</c><00:09:40.800><c> and</c><00:09:40.959><c> version</c><00:09:41.279><c> them</c>
+to test these prompts and version them
+to test these prompts and version them
+carefully.<00:09:41.839><c> And</c><00:09:41.920><c> I</c><00:09:42.080><c> think</c><00:09:42.160><c> that's</c><00:09:42.320><c> really</c>
+carefully. And I think that's really
+carefully. And I think that's really
+really<00:09:42.880><c> important.</c><00:09:44.000><c> Um,</c>
+really important. Um,
+really important. Um,
+so<00:09:46.480><c> when</c><00:09:46.640><c> you</c><00:09:46.800><c> think</c><00:09:46.959><c> about</c><00:09:47.120><c> those</c><00:09:47.440><c> together,</c>
+so when you think about those together,
+so when you think about those together,
+like<00:09:48.320><c> to</c><00:09:48.560><c> me,</c><00:09:48.800><c> they</c><00:09:49.040><c> point</c><00:09:49.279><c> the</c><00:09:49.519><c> way</c><00:09:49.839><c> toward</c>
+like to me, they point the way toward
+like to me, they point the way toward
+a<00:09:51.760><c> future</c><00:09:52.160><c> where</c><00:09:52.399><c> we</c><00:09:52.640><c> are</c><00:09:52.800><c> aware</c><00:09:53.040><c> that</c><00:09:53.279><c> there</c>
+a future where we are aware that there
+a future where we are aware that there
+are<00:09:53.680><c> security</c><00:09:54.080><c> threats</c><00:09:54.480><c> on</c><00:09:54.720><c> the</c><00:09:54.880><c> open</c><00:09:55.120><c> web</c><00:09:55.600><c> and</c>
+are security threats on the open web and
+are security threats on the open web and
+across<00:09:56.399><c> MCP</c><00:09:56.959><c> servers</c><00:09:57.360><c> in</c><00:09:57.519><c> general.</c><00:09:58.320><c> We</c>
+across MCP servers in general. We
+across MCP servers in general. We
+understand<00:09:59.680><c> that</c><00:09:59.920><c> these</c><00:10:00.240><c> larger</c><00:10:00.640><c> context</c>
+understand that these larger context
+understand that these larger context
+windows<00:10:01.440><c> are</c><00:10:01.680><c> probably</c><00:10:02.000><c> beneficial</c><00:10:02.480><c> to</c>
+windows are probably beneficial to
+windows are probably beneficial to
+higher<00:10:03.040><c> quality</c><00:10:03.360><c> decisioning</c><00:10:03.839><c> by</c><00:10:04.080><c> LLMs,</c><00:10:05.279><c> but</c>
+higher quality decisioning by LLMs, but
+higher quality decisioning by LLMs, but
+we<00:10:05.839><c> need</c><00:10:06.080><c> to</c><00:10:06.720><c> design</c><00:10:07.040><c> our</c><00:10:07.279><c> eval</c>
+we need to design our eval
+we need to design our eval
+fundamentally<00:10:09.839><c> around</c><00:10:10.160><c> the</c><00:10:10.480><c> idea</c><00:10:10.880><c> that</c>
+fundamentally around the idea that
+fundamentally around the idea that
+source
+source
+source
+source<00:10:14.320><c> quality</c><00:10:15.600><c> across</c><00:10:16.000><c> this</c><00:10:16.399><c> larger</c>
+source quality across this larger
+source quality across this larger
+context<00:10:17.680><c> window</c><00:10:19.120><c> matters</c><00:10:19.680><c> a</c><00:10:20.000><c> great</c><00:10:20.320><c> deal</c><00:10:20.560><c> for</c>
+context window matters a great deal for
+context window matters a great deal for
+quality<00:10:21.200><c> of</c><00:10:21.440><c> decision.</c><00:10:22.079><c> The</c><00:10:22.240><c> probabilistic</c>
+quality of decision. The probabilistic
+quality of decision. The probabilistic
+context<00:10:23.440><c> window,</c><00:10:23.680><c> the</c><00:10:23.920><c> one</c><00:10:24.000><c> you</c><00:10:24.240><c> can't</c><00:10:24.480><c> fully</c>
+context window, the one you can't fully
+context window, the one you can't fully
+control.
+control.
+control.
+And<00:10:27.279><c> the</c><00:10:27.440><c> thing</c><00:10:27.600><c> that</c><00:10:27.839><c> matters</c><00:10:28.160><c> about</c><00:10:28.399><c> what</c>
+And the thing that matters about what
+And the thing that matters about what
+you<00:10:28.880><c> can</c><00:10:29.120><c> control,</c><00:10:29.440><c> the</c><00:10:29.680><c> deterministic</c>
+you can control, the deterministic
+you can control, the deterministic
+context<00:10:30.800><c> window,</c><00:10:31.200><c> it's</c><00:10:31.440><c> not</c><00:10:31.680><c> really</c><00:10:32.000><c> the</c>
+context window, it's not really the
+context window, it's not really the
+tokens<00:10:32.720><c> that</c><00:10:32.880><c> you</c><00:10:33.120><c> burned.</c><00:10:33.600><c> It's</c><00:10:33.760><c> not</c><00:10:33.920><c> really</c>
+tokens that you burned. It's not really
+tokens that you burned. It's not really
+the<00:10:34.320><c> efficiency,</c><00:10:34.959><c> although</c><00:10:35.360><c> it</c><00:10:35.600><c> doesn't</c><00:10:35.839><c> hurt</c>
+the efficiency, although it doesn't hurt
+the efficiency, although it doesn't hurt
+to<00:10:36.240><c> make</c><00:10:36.399><c> it</c><00:10:36.560><c> more</c><00:10:36.800><c> efficient.</c><00:10:37.360><c> Train</c><00:10:37.600><c> of</c>
+to make it more efficient. Train of
+to make it more efficient. Train of
+draft<00:10:38.160><c> is</c><00:10:38.320><c> great.</c>
+draft is great.
+draft is great.
+It's<00:10:41.279><c> it's</c><00:10:41.680><c> the</c><00:10:41.920><c> ability</c><00:10:42.320><c> to</c><00:10:42.640><c> shape</c><00:10:42.959><c> that</c>
+It's it's the ability to shape that
+It's it's the ability to shape that
+probabilistic<00:10:44.160><c> window</c><00:10:45.120><c> with</c><00:10:46.079><c> the</c><00:10:46.399><c> way</c><00:10:46.560><c> you</c>
+probabilistic window with the way you
+probabilistic window with the way you
+prompt.<00:10:47.440><c> And</c><00:10:47.600><c> so</c><00:10:47.760><c> I</c><00:10:48.000><c> gave</c><00:10:48.240><c> an</c><00:10:48.399><c> example</c><00:10:48.880><c> of</c><00:10:49.200><c> sort</c>
+prompt. And so I gave an example of sort
+prompt. And so I gave an example of sort
+of<00:10:49.920><c> that's</c><00:10:50.160><c> very</c><00:10:50.399><c> simple</c><00:10:50.640><c> that</c><00:10:50.800><c> I've</c><00:10:50.959><c> seen</c><00:10:51.120><c> a</c>
+of that's very simple that I've seen a
+of that's very simple that I've seen a
+lot<00:10:51.360><c> of</c><00:10:51.440><c> people</c><00:10:51.600><c> do</c><00:10:51.839><c> where</c><00:10:52.000><c> they're</c><00:10:52.160><c> saying</c><00:10:52.399><c> go</c>
+lot of people do where they're saying go
+lot of people do where they're saying go
+search<00:10:52.959><c> verified</c><00:10:53.519><c> news</c><00:10:53.760><c> sites,</c><00:10:54.160><c> right?</c>
+search verified news sites, right?
+search verified news sites, right?
+People<00:10:55.120><c> try</c><00:10:55.279><c> and</c><00:10:55.519><c> constrain</c><00:10:55.920><c> the</c><00:10:56.079><c> search</c>
+People try and constrain the search
+People try and constrain the search
+space.<00:10:56.640><c> Go</c><00:10:56.800><c> search</c><00:10:57.120><c> academic</c><00:10:57.680><c> articles</c><00:10:58.160><c> as</c>
+space. Go search academic articles as
+space. Go search academic articles as
+another<00:10:58.720><c> example.</c><00:11:00.160><c> We're</c><00:11:00.480><c> not</c><00:11:00.640><c> really</c><00:11:01.440><c> like</c>
+another example. We're not really like
+another example. We're not really like
+evaling<00:11:02.800><c> those</c><00:11:03.200><c> in</c><00:11:03.440><c> most</c><00:11:03.760><c> circumstances.</c>
+evaling those in most circumstances.
+evaling those in most circumstances.
+Most<00:11:04.800><c> of</c><00:11:04.880><c> the</c><00:11:05.040><c> evals</c><00:11:05.600><c> I</c><00:11:05.839><c> see</c><00:11:06.959><c> are</c><00:11:07.279><c> around</c><00:11:07.920><c> sort</c>
+Most of the evals I see are around sort
+Most of the evals I see are around sort
+of<00:11:08.160><c> the</c><00:11:08.399><c> precision,</c><00:11:09.360><c> recall,</c><00:11:10.160><c> quality</c><00:11:10.480><c> of</c>
+of the precision, recall, quality of
+of the precision, recall, quality of
+answer<00:11:11.360><c> for</c><00:11:11.920><c> specific</c><00:11:12.560><c> utterances.</c><00:11:13.519><c> Often</c>
+answer for specific utterances. Often
+answer for specific utterances. Often
+they're<00:11:14.079><c> in</c><00:11:14.240><c> customer</c><00:11:14.560><c> success</c><00:11:14.959><c> spaces</c><00:11:15.360><c> where</c>
+they're in customer success spaces where
+they're in customer success spaces where
+it's<00:11:15.680><c> a</c><00:11:15.839><c> very</c><00:11:16.000><c> deterministic</c><00:11:16.720><c> space.</c><00:11:17.600><c> I</c><00:11:17.839><c> think</c>
+it's a very deterministic space. I think
+it's a very deterministic space. I think
+Eval's<00:11:18.480><c> harnesses</c><00:11:19.200><c> need</c><00:11:19.440><c> to</c><00:11:19.760><c> evolve</c><00:11:20.160><c> and</c><00:11:20.399><c> grow</c>
+Eval's harnesses need to evolve and grow
+Eval's harnesses need to evolve and grow
+to<00:11:21.440><c> handle</c><00:11:21.760><c> a</c><00:11:22.000><c> world</c><00:11:22.160><c> where</c><00:11:22.399><c> deterministic</c>
+to handle a world where deterministic
+to handle a world where deterministic
+context<00:11:23.920><c> is</c><00:11:24.240><c> just</c><00:11:24.399><c> a</c><00:11:24.560><c> small</c><00:11:24.800><c> part</c><00:11:24.959><c> of</c><00:11:25.200><c> context</c>
+context is just a small part of context
+context is just a small part of context
+engineering.<00:11:26.480><c> And</c><00:11:26.720><c> a</c><00:11:26.880><c> lot</c><00:11:26.959><c> of</c><00:11:27.120><c> context</c>
+engineering. And a lot of context
+engineering. And a lot of context
+engineering<00:11:28.160><c> involves</c><00:11:28.640><c> thinking</c><00:11:28.959><c> about</c><00:11:29.279><c> how</c>
+engineering involves thinking about how
+engineering involves thinking about how
+to<00:11:31.040><c> shape</c><00:11:31.360><c> a</c><00:11:31.519><c> gentic</c><00:11:32.000><c> search</c><00:11:32.240><c> of</c><00:11:32.480><c> the</c><00:11:32.640><c> open</c><00:11:32.959><c> web</c>
+to shape a gentic search of the open web
+to shape a gentic search of the open web
+or<00:11:33.519><c> potentially</c><00:11:33.920><c> in</c><00:11:34.160><c> large</c><00:11:34.480><c> companies</c><00:11:34.880><c> a</c><00:11:35.120><c> very</c>
+or potentially in large companies a very
+or potentially in large companies a very
+large<00:11:35.600><c> internal</c><00:11:36.079><c> data</c><00:11:36.399><c> structure.</c><00:11:36.800><c> How</c><00:11:36.880><c> do</c>
+large internal data structure. How do
+large internal data structure. How do
+you<00:11:37.120><c> shape</c><00:11:37.920><c> sort</c><00:11:38.160><c> of</c><00:11:38.240><c> use</c><00:11:38.480><c> the</c><00:11:38.720><c> same</c>
+you shape sort of use the same
+you shape sort of use the same
+principles<00:11:39.360><c> to</c><00:11:39.600><c> shape</c><00:11:39.839><c> how</c><00:11:40.000><c> you</c><00:11:40.160><c> search</c><00:11:40.399><c> a</c>
+principles to shape how you search a
+principles to shape how you search a
+very<00:11:40.800><c> large</c><00:11:40.959><c> internal</c><00:11:41.360><c> data</c><00:11:41.680><c> structure</c><00:11:42.399><c> as</c><00:11:42.640><c> an</c>
+very large internal data structure as an
+very large internal data structure as an
+agent.
+agent.
+agent.
+So<00:11:44.959><c> I</c><00:11:45.200><c> hope</c><00:11:45.360><c> that</c><00:11:45.600><c> was</c><00:11:45.760><c> sufficiently</c><00:11:46.320><c> nerdy</c>
+So I hope that was sufficiently nerdy
+So I hope that was sufficiently nerdy
+for<00:11:46.880><c> you.</c><00:11:47.519><c> I</c><00:11:47.839><c> think</c><00:11:47.920><c> we</c><00:11:48.160><c> don't</c><00:11:48.320><c> talk</c><00:11:48.480><c> enough</c>
+for you. I think we don't talk enough
+for you. I think we don't talk enough
+about<00:11:49.040><c> context</c><00:11:49.519><c> engineering.</c><00:11:50.399><c> It's</c><00:11:50.720><c> critical</c>
+about context engineering. It's critical
+about context engineering. It's critical
+that<00:11:51.279><c> we</c><00:11:51.600><c> understand</c><00:11:52.000><c> it</c><00:11:52.320><c> better</c><00:11:53.279><c> because</c>
+that we understand it better because
+that we understand it better because
+remember<00:11:54.880><c> the</c><00:11:55.200><c> fundamental</c><00:11:55.760><c> shift</c><00:11:56.079><c> for</c><00:11:56.320><c> us</c>
+remember the fundamental shift for us
+remember the fundamental shift for us
+for<00:11:56.800><c> from</c><00:11:57.040><c> chat</c><00:11:57.279><c> bots</c><00:11:57.600><c> is</c><00:11:57.760><c> they</c><00:11:58.000><c> are</c><00:11:58.079><c> no</c><00:11:58.240><c> longer</c>
+for from chat bots is they are no longer
+for from chat bots is they are no longer
+just<00:11:58.720><c> large</c><00:11:58.959><c> language</c><00:11:59.360><c> models.</c><00:11:59.680><c> They're</c>
+just large language models. They're
+just large language models. They're
+really<00:12:00.079><c> agents</c><00:12:00.399><c> in</c><00:12:00.560><c> a</c><00:12:00.720><c> trench</c><00:12:01.040><c> code</c><00:12:01.279><c> for</c><00:12:01.519><c> most</c>
+really agents in a trench code for most
+really agents in a trench code for most
+of<00:12:01.839><c> the</c><00:12:02.000><c> frontline</c><00:12:02.480><c> chat</c><00:12:02.720><c> bots,</c><00:12:03.120><c> most</c><00:12:03.279><c> of</c><00:12:03.360><c> the</c>
+of the frontline chat bots, most of the
+of the frontline chat bots, most of the
+frontline<00:12:03.920><c> API</c><00:12:04.399><c> experiences.</c><00:12:05.440><c> They</c><00:12:05.680><c> are</c>
+frontline API experiences. They are
+frontline API experiences. They are
+using<00:12:07.120><c> guidance</c><00:12:07.920><c> tools,</c><00:12:08.720><c> scope</c><00:12:09.040><c> on</c><00:12:09.200><c> the</c><00:12:09.360><c> back</c>
+using guidance tools, scope on the back
+using guidance tools, scope on the back
+end,<00:12:09.920><c> agentified</c><00:12:10.800><c> behavior</c><00:12:11.279><c> on</c><00:12:11.519><c> the</c><00:12:11.600><c> back</c><00:12:11.839><c> end</c>
+end, agentified behavior on the back end
+end, agentified behavior on the back end
+to<00:12:12.959><c> successfully</c><00:12:13.600><c> deliver</c><00:12:14.000><c> results</c><00:12:14.320><c> to</c><00:12:14.560><c> you.</c>
+to successfully deliver results to you.
+to successfully deliver results to you.
+We<00:12:16.079><c> should</c><00:12:16.240><c> probably</c><00:12:16.720><c> have</c><00:12:17.040><c> context</c>
+We should probably have context
+We should probably have context
+engineering<00:12:18.160><c> catch</c><00:12:18.399><c> up</c><00:12:18.560><c> with</c><00:12:18.639><c> that</c><00:12:18.880><c> agentic</c>
+engineering catch up with that agentic
+engineering catch up with that agentic
+future<00:12:20.079><c> and</c><00:12:20.399><c> actually</c><00:12:20.720><c> think</c><00:12:21.040><c> about</c><00:12:22.000><c> how</c><00:12:22.320><c> we</c>
+future and actually think about how we
+future and actually think about how we
+can<00:12:23.519><c> uh</c><00:12:23.839><c> deliberately</c><00:12:24.560><c> engineer</c><00:12:25.040><c> context</c>
+can uh deliberately engineer context
+can uh deliberately engineer context
+when<00:12:26.240><c> we</c><00:12:26.399><c> can't</c><00:12:26.639><c> control</c><00:12:26.880><c> all</c><00:12:27.120><c> the</c><00:12:27.279><c> pieces.</c>
+when we can't control all the pieces.
+when we can't control all the pieces.
+And<00:12:28.240><c> I</c><00:12:28.399><c> think</c><00:12:28.480><c> that's</c><00:12:28.639><c> a</c><00:12:28.880><c> really</c><00:12:29.040><c> interesting</c>
+And I think that's a really interesting
+And I think that's a really interesting
+question.<00:12:30.160><c> Cheers.</c>

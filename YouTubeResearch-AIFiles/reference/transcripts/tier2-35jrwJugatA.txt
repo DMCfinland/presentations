@@ -1,0 +1,505 @@
+Here<00:00:00.240><c> are</c><00:00:00.400><c> the</c><00:00:00.560><c> six</c><00:00:00.719><c> AI</c><00:00:01.040><c> stories</c><00:00:01.280><c> that</c>
+Here are the six AI stories that
+Here are the six AI stories that
+mattered<00:00:01.760><c> this</c><00:00:01.920><c> week</c><00:00:02.080><c> in</c><00:00:02.320><c> less</c><00:00:02.480><c> than</c><00:00:02.639><c> 10</c>
+mattered this week in less than 10
+mattered this week in less than 10
+minutes.<00:00:03.120><c> Number</c><00:00:03.360><c> one,</c><00:00:03.679><c> prompt</c><00:00:04.080><c> injection</c>
+minutes. Number one, prompt injection
+minutes. Number one, prompt injection
+vulnerabilities.<00:00:05.839><c> Yes,</c><00:00:06.160><c> chat</c><00:00:06.480><c> GPT</c><00:00:06.960><c> is</c><00:00:07.040><c> at</c>
+vulnerabilities. Yes, chat GPT is at
+vulnerabilities. Yes, chat GPT is at
+risk.<00:00:07.759><c> Tenable</c><00:00:08.240><c> research</c><00:00:08.720><c> discovered</c><00:00:09.120><c> that</c>
+risk. Tenable research discovered that
+risk. Tenable research discovered that
+it<00:00:09.440><c> is</c><00:00:09.679><c> possible</c><00:00:10.080><c> for</c><00:00:10.320><c> you</c><00:00:10.559><c> to</c><00:00:10.719><c> do</c><00:00:10.880><c> a</c><00:00:11.120><c> search</c>
+it is possible for you to do a search
+it is possible for you to do a search
+for<00:00:11.440><c> a</c><00:00:11.599><c> given</c><00:00:11.840><c> topic</c><00:00:12.160><c> for</c><00:00:12.320><c> chat</c><00:00:12.639><c> GPT</c><00:00:13.120><c> to</c>
+for a given topic for chat GPT to
+for a given topic for chat GPT to
+trigger<00:00:13.519><c> an</c><00:00:13.679><c> internet</c><00:00:14.000><c> search</c><00:00:14.320><c> based</c><00:00:14.639><c> on</c><00:00:14.799><c> the</c>
+trigger an internet search based on the
+trigger an internet search based on the
+text<00:00:15.679><c> you</c><00:00:15.839><c> input</c><00:00:16.160><c> and</c><00:00:16.400><c> for</c><00:00:16.560><c> that</c><00:00:16.720><c> internet</c>
+text you input and for that internet
+text you input and for that internet
+search<00:00:17.359><c> to</c><00:00:17.680><c> turn</c><00:00:18.000><c> up</c><00:00:18.240><c> a</c><00:00:18.560><c> poisoned</c><00:00:19.199><c> page.</c><00:00:19.840><c> What</c>
+search to turn up a poisoned page. What
+search to turn up a poisoned page. What
+do<00:00:20.160><c> I</c><00:00:20.240><c> mean?</c><00:00:20.480><c> A</c><00:00:20.720><c> page</c><00:00:21.039><c> that</c><00:00:21.439><c> has</c><00:00:21.760><c> been</c>
+do I mean? A page that has been
+do I mean? A page that has been
+deliberately<00:00:23.039><c> played</c><00:00:23.680><c> and</c><00:00:24.000><c> designed</c><00:00:24.320><c> to</c><00:00:24.560><c> rank</c>
+deliberately played and designed to rank
+deliberately played and designed to rank
+highly<00:00:25.279><c> for</c><00:00:25.439><c> a</c><00:00:25.600><c> particular</c><00:00:26.000><c> topic.</c><00:00:26.640><c> and</c><00:00:26.880><c> then</c>
+highly for a particular topic. and then
+highly for a particular topic. and then
+search<00:00:27.519><c> GPT</c><00:00:28.000><c> which</c><00:00:28.160><c> is</c><00:00:28.240><c> the</c><00:00:28.400><c> agent</c><00:00:28.640><c> chat</c><00:00:28.960><c> GPT</c>
+search GPT which is the agent chat GPT
+search GPT which is the agent chat GPT
+uses<00:00:29.679><c> to</c><00:00:29.760><c> search</c><00:00:30.000><c> the</c><00:00:30.160><c> internet</c><00:00:30.400><c> will</c><00:00:30.640><c> find</c>
+uses to search the internet will find
+uses to search the internet will find
+that<00:00:31.039><c> page</c><00:00:31.679><c> because</c><00:00:31.920><c> you</c><00:00:32.160><c> asked</c><00:00:32.399><c> for</c><00:00:32.559><c> that</c>
+that page because you asked for that
+that page because you asked for that
+topic<00:00:33.440><c> pull</c><00:00:33.680><c> that</c><00:00:33.920><c> page's</c><00:00:34.399><c> context</c><00:00:35.280><c> inside</c>
+topic pull that page's context inside
+topic pull that page's context inside
+chat<00:00:36.239><c> GPT</c><00:00:36.800><c> to</c><00:00:37.120><c> process</c><00:00:37.520><c> it</c><00:00:37.680><c> for</c><00:00:37.920><c> you</c><00:00:38.640><c> and</c>
+chat GPT to process it for you and
+chat GPT to process it for you and
+suffer<00:00:39.360><c> a</c><00:00:39.520><c> prompt</c><00:00:39.840><c> injection</c><00:00:40.320><c> attack</c><00:00:40.879><c> in</c><00:00:41.120><c> the</c>
+suffer a prompt injection attack in the
+suffer a prompt injection attack in the
+research<00:00:41.680><c> tenable</c><00:00:42.239><c> conducted</c><00:00:42.960><c> they</c>
+research tenable conducted they
+research tenable conducted they
+discovered<00:00:43.680><c> that</c><00:00:43.840><c> that</c><00:00:44.160><c> was</c><00:00:44.480><c> good</c><00:00:44.719><c> enough</c>
+discovered that that was good enough
+discovered that that was good enough
+that<00:00:45.280><c> it</c><00:00:45.520><c> was</c><00:00:45.600><c> able</c><00:00:45.840><c> to</c><00:00:46.079><c> successfully</c><00:00:47.360><c> pull</c>
+that it was able to successfully pull
+that it was able to successfully pull
+all<00:00:48.000><c> of</c><00:00:48.160><c> your</c><00:00:48.399><c> chat</c><00:00:48.719><c> GPT</c><00:00:49.280><c> history</c><00:00:50.000><c> and</c>
+all of your chat GPT history and
+all of your chat GPT history and
+silently<00:00:50.960><c> send</c><00:00:51.200><c> it</c><00:00:51.520><c> to</c><00:00:51.760><c> an</c><00:00:52.000><c> attacker.</c><00:00:52.399><c> Now,</c>
+silently send it to an attacker. Now,
+silently send it to an attacker. Now,
+this<00:00:52.800><c> hasn't</c><00:00:53.039><c> been</c><00:00:53.199><c> documented</c><00:00:53.680><c> in</c><00:00:53.840><c> the</c><00:00:54.000><c> wild,</c>
+this hasn't been documented in the wild,
+this hasn't been documented in the wild,
+but<00:00:54.480><c> it</c><00:00:54.640><c> is</c><00:00:54.719><c> a</c><00:00:54.960><c> real</c><00:00:55.199><c> vulnerability,</c><00:00:55.760><c> and</c><00:00:56.000><c> we</c>
+but it is a real vulnerability, and we
+but it is a real vulnerability, and we
+have<00:00:56.320><c> not</c><00:00:56.399><c> seen</c><00:00:56.559><c> a</c><00:00:56.800><c> published</c><00:00:57.120><c> fix</c><00:00:57.440><c> from</c>
+have not seen a published fix from
+have not seen a published fix from
+OpenAI<00:00:58.480><c> yet.</c><00:00:59.039><c> Story</c><00:00:59.440><c> number</c><00:00:59.680><c> two,</c><00:01:00.320><c> Salesforce</c>
+OpenAI yet. Story number two, Salesforce
+OpenAI yet. Story number two, Salesforce
+surveyed<00:01:01.440><c> more</c><00:01:01.600><c> than</c><00:01:01.760><c> 6,000</c><00:01:02.399><c> data</c><00:01:02.719><c> and</c>
+surveyed more than 6,000 data and
+surveyed more than 6,000 data and
+analytics<00:01:03.520><c> leaders</c><00:01:04.000><c> globally,</c><00:01:04.799><c> and</c><00:01:05.199><c> 84%</c><00:01:06.080><c> of</c>
+analytics leaders globally, and 84% of
+analytics leaders globally, and 84% of
+them<00:01:06.479><c> say</c><00:01:06.640><c> that</c><00:01:06.880><c> their</c><00:01:07.119><c> data</c><00:01:07.520><c> strategies</c><00:01:08.159><c> need</c>
+them say that their data strategies need
+them say that their data strategies need
+a<00:01:08.720><c> complete</c><00:01:09.200><c> overhaul,</c><00:01:09.840><c> quote</c><00:01:10.080><c> unquote,</c>
+a complete overhaul, quote unquote,
+a complete overhaul, quote unquote,
+before<00:01:11.119><c> they</c><00:01:11.360><c> can</c><00:01:11.439><c> figure</c><00:01:11.600><c> out</c><00:01:11.760><c> how</c><00:01:11.920><c> to</c><00:01:12.080><c> get</c><00:01:12.240><c> AI</c>
+before they can figure out how to get AI
+before they can figure out how to get AI
+working.<00:01:13.200><c> How</c><00:01:13.360><c> do</c><00:01:13.520><c> you</c><00:01:13.680><c> read</c><00:01:13.840><c> that?</c>
+working. How do you read that?
+working. How do you read that?
+Fundamentally,<00:01:15.439><c> what</c><00:01:15.680><c> leaders</c><00:01:16.080><c> are</c><00:01:16.320><c> finally</c>
+Fundamentally, what leaders are finally
+Fundamentally, what leaders are finally
+coming<00:01:16.880><c> to</c><00:01:17.360><c> is</c><00:01:17.600><c> what</c><00:01:17.759><c> I</c><00:01:17.920><c> have</c><00:01:18.080><c> been</c><00:01:18.159><c> banging</c>
+coming to is what I have been banging
+coming to is what I have been banging
+the<00:01:18.720><c> drum</c><00:01:18.960><c> on</c><00:01:19.119><c> for</c><00:01:19.360><c> months.</c><00:01:19.920><c> You</c><00:01:20.240><c> cannot</c><00:01:20.640><c> have</c>
+the drum on for months. You cannot have
+the drum on for months. You cannot have
+solid<00:01:21.840><c> agentic</c><00:01:22.479><c> AI</c><00:01:22.960><c> strategies</c><00:01:23.439><c> at</c><00:01:23.680><c> a</c>
+solid agentic AI strategies at a
+solid agentic AI strategies at a
+business<00:01:24.159><c> level</c><00:01:24.560><c> if</c><00:01:24.880><c> you</c><00:01:25.119><c> do</c><00:01:25.439><c> not</c><00:01:25.759><c> get</c><00:01:26.320><c> your</c>
+business level if you do not get your
+business level if you do not get your
+data<00:01:26.960><c> architecture</c><00:01:27.600><c> figured</c><00:01:28.000><c> out.</c><00:01:28.320><c> There</c><00:01:28.560><c> is</c>
+data architecture figured out. There is
+data architecture figured out. There is
+no<00:01:29.840><c> shortcuts.</c><00:01:30.799><c> Traditional</c><00:01:31.280><c> data</c>
+no shortcuts. Traditional data
+no shortcuts. Traditional data
+warehouses,<00:01:32.159><c> for</c><00:01:32.240><c> example,</c><00:01:32.720><c> assume</c><00:01:33.040><c> you</c><00:01:33.280><c> can</c>
+warehouses, for example, assume you can
+warehouses, for example, assume you can
+copy<00:01:33.759><c> data</c><00:01:34.000><c> to</c><00:01:34.159><c> a</c><00:01:34.320><c> central</c><00:01:34.640><c> location,</c><00:01:35.119><c> clean</c>
+copy data to a central location, clean
+copy data to a central location, clean
+it,<00:01:35.439><c> and</c><00:01:35.680><c> analyze</c><00:01:36.079><c> it.</c><00:01:36.640><c> But</c><00:01:37.119><c> Agentic</c><00:01:37.680><c> AI</c><00:01:38.240><c> needs</c>
+it, and analyze it. But Agentic AI needs
+it, and analyze it. But Agentic AI needs
+real-time<00:01:39.040><c> access</c><00:01:39.360><c> to</c><00:01:39.520><c> source</c><00:01:39.920><c> systems</c>
+real-time access to source systems
+real-time access to source systems
+because<00:01:40.479><c> agents</c><00:01:40.799><c> can't</c><00:01:41.040><c> wait</c><00:01:41.200><c> for</c><00:01:41.360><c> overnight</c>
+because agents can't wait for overnight
+because agents can't wait for overnight
+ETL<00:01:42.159><c> jobs.</c><00:01:42.479><c> That's</c><00:01:42.640><c> just</c><00:01:42.799><c> one</c><00:01:43.040><c> tiny</c><00:01:43.439><c> example.</c>
+ETL jobs. That's just one tiny example.
+ETL jobs. That's just one tiny example.
+There's<00:01:44.159><c> so</c><00:01:44.320><c> many</c><00:01:44.479><c> others.</c><00:01:45.119><c> So,</c><00:01:45.520><c> yes,</c><00:01:45.840><c> I</c><00:01:46.079><c> think</c>
+There's so many others. So, yes, I think
+There's so many others. So, yes, I think
+they're<00:01:46.399><c> right</c><00:01:46.560><c> and</c><00:01:46.799><c> there</c><00:01:46.960><c> is</c><00:01:47.040><c> a</c><00:01:47.200><c> huge</c>
+they're right and there is a huge
+they're right and there is a huge
+opportunity<00:01:47.840><c> ahead</c><00:01:48.159><c> there.</c><00:01:48.560><c> Story</c><00:01:48.960><c> number</c>
+opportunity ahead there. Story number
+opportunity ahead there. Story number
+three,<00:01:49.920><c> we</c><00:01:50.240><c> had</c><00:01:50.799><c> three</c><00:01:51.680><c> enterprise</c><00:01:52.720><c> AI</c>
+three, we had three enterprise AI
+three, we had three enterprise AI
+platforms<00:01:53.759><c> that</c><00:01:54.000><c> are</c><00:01:54.079><c> Agentic</c><00:01:54.640><c> AI</c><00:01:54.960><c> launch</c>
+platforms that are Agentic AI launch
+platforms that are Agentic AI launch
+within<00:01:55.600><c> just</c><00:01:55.759><c> 2</c><00:01:56.000><c> days.</c><00:01:56.320><c> All</c><00:01:56.479><c> over</c><00:01:56.720><c> November</c><00:01:57.119><c> 3</c>
+within just 2 days. All over November 3
+within just 2 days. All over November 3
+and<00:01:57.439><c> 4.</c><00:01:57.680><c> Snowflake,</c><00:01:58.240><c> New</c><00:01:58.399><c> Relic,</c><00:01:58.719><c> and</c><00:01:58.880><c> Snap</c>
+and 4. Snowflake, New Relic, and Snap
+and 4. Snowflake, New Relic, and Snap
+Logic<00:01:59.759><c> all</c><00:02:00.079><c> launched</c><00:02:00.560><c> comprehensive</c><00:02:01.200><c> Agentic</c>
+Logic all launched comprehensive Agentic
+Logic all launched comprehensive Agentic
+AI<00:02:02.000><c> platforms.</c><00:02:02.799><c> Snowflake</c><00:02:03.360><c> Intelligent</c><00:02:04.399><c> went</c>
+AI platforms. Snowflake Intelligent went
+AI platforms. Snowflake Intelligent went
+G<00:02:05.119><c> with</c><00:02:05.360><c> a</c><00:02:05.520><c> thousand</c><00:02:05.840><c> customers</c><00:02:06.320><c> deploying</c>
+G with a thousand customers deploying
+G with a thousand customers deploying
+15,000<00:02:07.600><c> plus</c><00:02:07.840><c> agents</c><00:02:08.160><c> in</c><00:02:08.399><c> just</c><00:02:08.560><c> a</c><00:02:08.720><c> few</c><00:02:08.879><c> months.</c>
+15,000 plus agents in just a few months.
+15,000 plus agents in just a few months.
+New<00:02:09.520><c> Relic</c><00:02:09.840><c> and</c><00:02:10.000><c> Snap</c><00:02:10.399><c> Logic</c><00:02:10.800><c> also</c><00:02:11.200><c> launched.</c>
+New Relic and Snap Logic also launched.
+New Relic and Snap Logic also launched.
+All<00:02:12.640><c> three</c><00:02:13.120><c> prominently</c><00:02:13.840><c> feature</c><00:02:14.319><c> model</c>
+All three prominently feature model
+All three prominently feature model
+context<00:02:15.200><c> protocol</c><00:02:15.760><c> support.</c><00:02:16.400><c> This</c><00:02:16.800><c> continues</c>
+context protocol support. This continues
+context protocol support. This continues
+the<00:02:17.840><c> story</c><00:02:18.160><c> of</c><00:02:18.480><c> MCP</c><00:02:19.280><c> appearing</c><00:02:19.760><c> across</c><00:02:20.400><c> major</c>
+the story of MCP appearing across major
+the story of MCP appearing across major
+platforms<00:02:21.440><c> and</c><00:02:21.760><c> becoming</c><00:02:22.160><c> embedded</c><00:02:22.640><c> in</c><00:02:22.959><c> the</c>
+platforms and becoming embedded in the
+platforms and becoming embedded in the
+ecosystem.<00:02:24.000><c> Continuing</c><00:02:24.480><c> the</c><00:02:24.640><c> agent</c><00:02:24.959><c> story,</c>
+ecosystem. Continuing the agent story,
+ecosystem. Continuing the agent story,
+GitHub<00:02:25.760><c> agent</c><00:02:26.160><c> HQ</c><00:02:26.720><c> makes</c><00:02:27.040><c> multi-</c><00:02:27.440><c> aent</c>
+GitHub agent HQ makes multi- aent
+GitHub agent HQ makes multi- aent
+development<00:02:28.640><c> standard.</c><00:02:29.280><c> At</c><00:02:29.440><c> G</c><00:02:29.760><c> at</c><00:02:29.920><c> GitHub</c>
+development standard. At G at GitHub
+development standard. At G at GitHub
+Universe,<00:02:30.720><c> in</c><00:02:30.879><c> late</c><00:02:31.120><c> October,</c><00:02:31.599><c> Microsoft</c><00:02:32.000><c> and</c>
+Universe, in late October, Microsoft and
+Universe, in late October, Microsoft and
+GitHub<00:02:32.560><c> announced</c><00:02:32.879><c> Agent</c><00:02:33.280><c> HQ,</c><00:02:33.680><c> which</c><00:02:33.840><c> is</c><00:02:33.920><c> a</c>
+GitHub announced Agent HQ, which is a
+GitHub announced Agent HQ, which is a
+mission<00:02:34.400><c> control</c><00:02:34.640><c> for</c><00:02:34.879><c> orchestrating</c>
+mission control for orchestrating
+mission control for orchestrating
+multiple<00:02:35.760><c> AI</c><00:02:36.080><c> agents</c><00:02:36.480><c> together,</c><00:02:36.720><c> whether</c>
+multiple AI agents together, whether
+multiple AI agents together, whether
+they're<00:02:37.120><c> from</c><00:02:37.280><c> OpenAI</c><00:02:37.840><c> or</c><00:02:38.000><c> Anthropic</c><00:02:38.560><c> or</c>
+they're from OpenAI or Anthropic or
+they're from OpenAI or Anthropic or
+Google<00:02:38.959><c> or</c><00:02:39.200><c> other</c><00:02:39.360><c> places.</c><00:02:40.000><c> Developers</c><00:02:40.560><c> can</c>
+Google or other places. Developers can
+Google or other places. Developers can
+run<00:02:41.040><c> the</c><00:02:41.280><c> agents</c><00:02:41.599><c> in</c><00:02:41.840><c> parallel</c><00:02:42.480><c> and</c><00:02:42.720><c> share</c>
+run the agents in parallel and share
+run the agents in parallel and share
+configurations<00:02:43.760><c> across</c><00:02:44.080><c> teams.</c><00:02:44.800><c> that</c>
+configurations across teams. that
+configurations across teams. that
+approach<00:02:45.680><c> where</c><00:02:46.000><c> developers</c><00:02:46.560><c> don't</c><00:02:46.800><c> have</c><00:02:46.959><c> to</c>
+approach where developers don't have to
+approach where developers don't have to
+pick<00:02:47.280><c> a</c><00:02:47.519><c> model</c><00:02:47.840><c> is</c><00:02:48.160><c> going</c><00:02:48.239><c> to</c><00:02:48.480><c> increasingly</c>
+pick a model is going to increasingly
+pick a model is going to increasingly
+become<00:02:49.440><c> the</c><00:02:49.680><c> standard.</c><00:02:50.239><c> Developers</c><00:02:50.800><c> have</c><00:02:50.959><c> had</c>
+become the standard. Developers have had
+become the standard. Developers have had
+to<00:02:51.280><c> do</c><00:02:51.440><c> that</c><00:02:51.680><c> themselves</c><00:02:52.160><c> in</c><00:02:52.400><c> building</c>
+to do that themselves in building
+to do that themselves in building
+configurability<00:02:53.440><c> into</c><00:02:53.680><c> their</c><00:02:53.840><c> systems</c><00:02:54.160><c> and</c>
+configurability into their systems and
+configurability into their systems and
+now<00:02:54.480><c> we're</c><00:02:54.720><c> seeing</c><00:02:54.879><c> the</c><00:02:55.040><c> infrastructure</c>
+now we're seeing the infrastructure
+now we're seeing the infrastructure
+layer<00:02:55.920><c> pick</c><00:02:56.160><c> up</c><00:02:56.319><c> and</c><00:02:56.480><c> increasingly</c><00:02:57.120><c> that</c>
+layer pick up and increasingly that
+layer pick up and increasingly that
+expectation<00:02:58.400><c> of</c><00:02:58.640><c> optionality</c><00:02:59.280><c> is</c><00:02:59.599><c> just</c><00:03:00.000><c> comes</c>
+expectation of optionality is just comes
+expectation of optionality is just comes
+built<00:03:00.560><c> in.</c><00:03:00.879><c> Story</c><00:03:01.280><c> number</c><00:03:01.599><c> five,</c><00:03:02.400><c> Cognizant</c>
+built in. Story number five, Cognizant
+built in. Story number five, Cognizant
+deploys<00:03:03.680><c> Claude</c><00:03:04.640><c> to</c><00:03:05.200><c> 350,000</c><00:03:06.400><c> employees.</c><00:03:06.800><c> Why</c>
+deploys Claude to 350,000 employees. Why
+deploys Claude to 350,000 employees. Why
+is<00:03:07.120><c> this</c><00:03:07.360><c> news?</c><00:03:07.680><c> Because</c><00:03:07.840><c> this</c><00:03:08.080><c> is</c><00:03:08.319><c> one</c><00:03:08.879><c> of</c><00:03:09.040><c> the</c>
+is this news? Because this is one of the
+is this news? Because this is one of the
+largest<00:03:09.760><c> public</c><00:03:10.159><c> deployments</c><00:03:10.640><c> of</c><00:03:10.800><c> AI</c><00:03:11.360><c> that</c>
+largest public deployments of AI that
+largest public deployments of AI that
+has<00:03:11.760><c> been</c><00:03:11.920><c> released.</c><00:03:12.319><c> A</c><00:03:12.400><c> third</c><00:03:12.560><c> of</c><00:03:12.720><c> a</c><00:03:12.879><c> million</c>
+has been released. A third of a million
+has been released. A third of a million
+employees<00:03:13.519><c> globally.</c><00:03:14.239><c> The</c><00:03:14.560><c> partnership</c>
+employees globally. The partnership
+employees globally. The partnership
+extends<00:03:15.440><c> beyond</c><00:03:15.840><c> internal</c><00:03:16.239><c> use.</c><00:03:16.560><c> Cognizant</c>
+extends beyond internal use. Cognizant
+extends beyond internal use. Cognizant
+will<00:03:17.519><c> repackage</c><00:03:18.239><c> Claude</c><00:03:18.959><c> for</c><00:03:19.200><c> implementation</c>
+will repackage Claude for implementation
+will repackage Claude for implementation
+services<00:03:20.319><c> for</c><00:03:20.640><c> its</c><00:03:20.879><c> Fortune</c><00:03:21.360><c> 500</c><00:03:21.840><c> clients</c><00:03:22.400><c> and</c>
+services for its Fortune 500 clients and
+services for its Fortune 500 clients and
+Anthropic<00:03:23.360><c> is</c><00:03:23.840><c> uh</c><00:03:24.080><c> projecting</c><00:03:25.040><c> Cognizant</c>
+Anthropic is uh projecting Cognizant
+Anthropic is uh projecting Cognizant
+along<00:03:26.000><c> with</c><00:03:26.239><c> other</c><00:03:26.560><c> major</c><00:03:26.959><c> B2B</c><00:03:27.440><c> deals</c><00:03:27.920><c> as</c><00:03:28.239><c> a</c>
+along with other major B2B deals as a
+along with other major B2B deals as a
+key<00:03:28.800><c> reason</c><00:03:29.440><c> why</c><00:03:29.760><c> it</c><00:03:30.000><c> will</c><00:03:30.239><c> get</c><00:03:30.640><c> $70</c><00:03:30.959><c> billion</c>
+key reason why it will get $70 billion
+key reason why it will get $70 billion
+in<00:03:31.760><c> revenue</c><00:03:32.159><c> in</c><00:03:32.400><c> 2028</c><00:03:33.440><c> with</c><00:03:33.680><c> Claude</c><00:03:34.159><c> code</c>
+in revenue in 2028 with Claude code
+in revenue in 2028 with Claude code
+alone<00:03:35.440><c> approaching</c><00:03:36.000><c> a</c><00:03:36.319><c> billion</c><00:03:36.640><c> dollars</c><00:03:36.799><c> in</c>
+alone approaching a billion dollars in
+alone approaching a billion dollars in
+annualized<00:03:37.599><c> revenue</c><00:03:38.319><c> just</c><00:03:39.040><c> this</c><00:03:39.680><c> year.</c><00:03:40.400><c> So</c>
+annualized revenue just this year. So
+annualized revenue just this year. So
+the<00:03:41.120><c> deal</c><00:03:41.360><c> is</c><00:03:41.599><c> validating</c><00:03:42.000><c> a</c><00:03:42.319><c> couple</c><00:03:42.400><c> of</c>
+the deal is validating a couple of
+the deal is validating a couple of
+things.<00:03:42.879><c> One,</c><00:03:43.280><c> Anthropic</c><00:03:44.000><c> continues</c><00:03:44.319><c> to</c><00:03:44.480><c> be</c>
+things. One, Anthropic continues to be
+things. One, Anthropic continues to be
+on<00:03:44.799><c> a</c><00:03:44.959><c> terrific</c><00:03:45.440><c> growth</c><00:03:45.840><c> tear</c><00:03:46.159><c> with</c><00:03:46.400><c> B2B</c>
+on a terrific growth tear with B2B
+on a terrific growth tear with B2B
+clients.<00:03:47.360><c> They</c><00:03:47.519><c> are</c><00:03:47.680><c> picking</c><00:03:48.080><c> up</c><00:03:48.400><c> major</c><00:03:48.879><c> major</c>
+clients. They are picking up major major
+clients. They are picking up major major
+deals<00:03:49.760><c> and</c><00:03:50.000><c> they</c><00:03:50.239><c> are</c><00:03:50.560><c> elevating</c><00:03:51.200><c> their</c>
+deals and they are elevating their
+deals and they are elevating their
+revenue<00:03:52.080><c> projections</c><00:03:52.879><c> as</c><00:03:53.120><c> a</c><00:03:53.360><c> result.</c><00:03:53.760><c> The</c>
+revenue projections as a result. The
+revenue projections as a result. The
+projected<00:03:54.879><c> $70</c><00:03:55.120><c> billion</c><00:03:55.519><c> in</c><00:03:55.760><c> revenue</c><00:03:56.080><c> is</c>
+projected $70 billion in revenue is
+projected $70 billion in revenue is
+substantially<00:03:56.959><c> up</c><00:03:57.200><c> from</c><00:03:57.439><c> where</c><00:03:57.599><c> Claude</c>
+substantially up from where Claude
+substantially up from where Claude
+projected<00:03:58.480><c> revenue</c><00:03:58.959><c> just</c><00:03:59.200><c> a</c><00:03:59.439><c> few</c><00:03:59.599><c> months</c><00:03:59.760><c> ago.</c>
+projected revenue just a few months ago.
+projected revenue just a few months ago.
+I<00:04:00.480><c> think</c><00:04:00.560><c> one</c><00:04:00.799><c> thing</c><00:04:00.959><c> to</c><00:04:01.120><c> take</c><00:04:01.360><c> away</c><00:04:01.599><c> from</c><00:04:01.760><c> this</c>
+I think one thing to take away from this
+I think one thing to take away from this
+is<00:04:02.319><c> that</c><00:04:02.560><c> Cognizant</c><00:04:03.280><c> is</c><00:04:03.599><c> going</c><00:04:03.760><c> to</c><00:04:03.920><c> have</c><00:04:04.159><c> a</c>
+is that Cognizant is going to have a
+is that Cognizant is going to have a
+good<00:04:04.720><c> reputation</c><00:04:05.200><c> with</c><00:04:05.519><c> the</c><00:04:05.680><c> clients</c><00:04:06.000><c> it</c>
+good reputation with the clients it
+good reputation with the clients it
+works<00:04:06.480><c> with.</c><00:04:06.959><c> partly</c><00:04:07.360><c> because</c><00:04:07.760><c> Cognizant</c>
+works with. partly because Cognizant
+works with. partly because Cognizant
+will<00:04:08.720><c> have</c><00:04:08.879><c> deployed</c><00:04:09.280><c> the</c><00:04:09.599><c> same</c><00:04:09.760><c> tooling</c>
+will have deployed the same tooling
+will have deployed the same tooling
+internally<00:04:10.959><c> that</c><00:04:11.200><c> it</c><00:04:11.439><c> is</c><00:04:11.599><c> recommending</c>
+internally that it is recommending
+internally that it is recommending
+externally.<00:04:13.200><c> Therefore,</c><00:04:13.599><c> the</c><00:04:13.840><c> 350,000</c>
+externally. Therefore, the 350,000
+externally. Therefore, the 350,000
+deployment<00:04:15.840><c> is</c><00:04:16.160><c> both</c><00:04:16.560><c> a</c><00:04:16.959><c> customer-f</c><00:04:17.440><c> facing</c>
+deployment is both a customer-f facing
+deployment is both a customer-f facing
+asset<00:04:18.239><c> and</c><00:04:18.560><c> also</c><00:04:18.799><c> a</c><00:04:19.040><c> laboratory</c><00:04:20.079><c> for</c><00:04:20.320><c> future</c>
+asset and also a laboratory for future
+asset and also a laboratory for future
+work<00:04:20.880><c> Cognizant</c><00:04:21.519><c> can</c><00:04:21.759><c> do</c><00:04:22.240><c> because</c><00:04:22.479><c> they</c><00:04:22.720><c> can</c>
+work Cognizant can do because they can
+work Cognizant can do because they can
+do<00:04:23.120><c> the</c><00:04:23.360><c> back</c><00:04:23.600><c> office</c><00:04:23.919><c> automation</c><00:04:24.400><c> work,</c>
+do the back office automation work,
+do the back office automation work,
+whatever<00:04:24.880><c> else</c><00:04:25.040><c> they</c><00:04:25.280><c> want</c><00:04:25.360><c> to</c><00:04:25.440><c> do</c><00:04:25.600><c> with</c>
+whatever else they want to do with
+whatever else they want to do with
+Claude<00:04:26.400><c> and</c><00:04:26.639><c> then</c><00:04:26.880><c> take</c><00:04:27.040><c> that</c><00:04:27.280><c> and</c><00:04:27.520><c> repackage</c>
+Claude and then take that and repackage
+Claude and then take that and repackage
+it<00:04:28.160><c> for</c><00:04:28.400><c> front-end</c><00:04:28.880><c> selling.</c><00:04:29.360><c> Last</c><00:04:29.600><c> but</c><00:04:29.759><c> not</c>
+it for front-end selling. Last but not
+it for front-end selling. Last but not
+least,<00:04:30.160><c> story</c><00:04:30.479><c> number</c><00:04:30.720><c> six,</c><00:04:31.120><c> OpenAI</c><00:04:31.840><c> hits</c><00:04:32.240><c> 1</c>
+least, story number six, OpenAI hits 1
+least, story number six, OpenAI hits 1
+million<00:04:33.280><c> business</c><00:04:33.759><c> customers.</c><00:04:34.400><c> So</c><00:04:34.560><c> this</c>
+million business customers. So this
+million business customers. So this
+November<00:04:35.199><c> 4th,</c><00:04:35.520><c> OpenAI</c><00:04:36.160><c> announced</c><00:04:36.479><c> it</c><00:04:36.639><c> passed</c>
+November 4th, OpenAI announced it passed
+November 4th, OpenAI announced it passed
+a<00:04:37.120><c> million</c><00:04:37.360><c> business</c><00:04:37.759><c> company</c><00:04:38.400><c> customers</c>
+a million business company customers
+a million business company customers
+claiming<00:04:39.360><c> that</c><00:04:39.520><c> it</c><00:04:39.680><c> was</c><00:04:39.840><c> the</c><00:04:40.080><c> fastest</c><00:04:40.560><c> growing</c>
+claiming that it was the fastest growing
+claiming that it was the fastest growing
+business<00:04:41.360><c> platform</c><00:04:42.080><c> in</c><00:04:42.639><c> history.</c><00:04:43.199><c> For</c>
+business platform in history. For
+business platform in history. For
+context,<00:04:43.919><c> that</c><00:04:44.160><c> means</c><00:04:44.560><c> uh</c><00:04:44.720><c> that</c><00:04:44.960><c> there</c><00:04:45.199><c> are</c>
+context, that means uh that there are
+context, that means uh that there are
+about<00:04:45.919><c> 40%</c><00:04:46.560><c> growth</c><00:04:47.199><c> uh</c><00:04:47.360><c> in</c><00:04:47.600><c> 2</c><00:04:47.759><c> months</c><00:04:47.919><c> in</c><00:04:48.160><c> chat</c>
+about 40% growth uh in 2 months in chat
+about 40% growth uh in 2 months in chat
+GPT<00:04:48.960><c> for</c><00:04:49.120><c> work</c><00:04:49.360><c> seats.</c><00:04:49.919><c> So</c><00:04:50.240><c> again,</c><00:04:50.560><c> not</c>
+GPT for work seats. So again, not
+GPT for work seats. So again, not
+year-over-year,<00:04:51.440><c> 40%</c><00:04:52.000><c> growth</c><00:04:52.320><c> in</c><00:04:52.639><c> 2</c><00:04:52.800><c> months</c>
+year-over-year, 40% growth in 2 months
+year-over-year, 40% growth in 2 months
+and<00:04:53.680><c> enterprise</c><00:04:54.240><c> seats</c><00:04:54.639><c> up</c><00:04:55.759><c> year</c><00:04:56.080><c> overyear.</c>
+and enterprise seats up year overyear.
+and enterprise seats up year overyear.
+Codeex<00:04:57.280><c> usage</c><00:04:57.600><c> is</c><00:04:57.759><c> up</c><00:04:58.000><c> 10x</c><00:04:58.560><c> since</c><00:04:58.960><c> August</c><00:04:59.600><c> 10x</c>
+Codeex usage is up 10x since August 10x
+Codeex usage is up 10x since August 10x
+since<00:05:00.720><c> August.</c><00:05:01.360><c> Guys,</c><00:05:01.840><c> the</c><00:05:02.000><c> thing</c><00:05:02.160><c> to</c><00:05:02.400><c> take</c>
+since August. Guys, the thing to take
+since August. Guys, the thing to take
+away<00:05:02.800><c> here</c><00:05:03.120><c> is</c><00:05:03.520><c> really</c><00:05:03.759><c> that</c><00:05:04.000><c> the</c><00:05:04.240><c> growth</c>
+away here is really that the growth
+away here is really that the growth
+story<00:05:04.800><c> that</c><00:05:05.120><c> OpenAI</c><00:05:05.759><c> is</c><00:05:06.000><c> seeing</c><00:05:06.560><c> through</c>
+story that OpenAI is seeing through
+story that OpenAI is seeing through
+deals<00:05:07.280><c> like</c><00:05:07.520><c> this</c><00:05:08.000><c> is</c><00:05:08.320><c> part</c><00:05:08.639><c> of</c><00:05:08.880><c> why</c><00:05:09.280><c> Sam</c><00:05:09.680><c> Alman</c>
+deals like this is part of why Sam Alman
+deals like this is part of why Sam Alman
+is<00:05:10.800><c> so</c><00:05:11.360><c> optimistic</c><00:05:12.479><c> for</c><00:05:12.720><c> the</c><00:05:12.960><c> hundreds</c><00:05:13.280><c> of</c>
+is so optimistic for the hundreds of
+is so optimistic for the hundreds of
+billions<00:05:13.759><c> of</c><00:05:13.919><c> dollars</c><00:05:14.160><c> in</c><00:05:14.320><c> revenue</c><00:05:14.639><c> he</c><00:05:14.880><c> plans</c>
+billions of dollars in revenue he plans
+billions of dollars in revenue he plans
+to<00:05:15.280><c> see</c><00:05:15.440><c> by</c><00:05:15.680><c> 2030.</c><00:05:16.800><c> There's</c><00:05:17.120><c> been</c><00:05:17.280><c> a</c><00:05:17.520><c> lot</c><00:05:17.600><c> of</c>
+to see by 2030. There's been a lot of
+to see by 2030. There's been a lot of
+conversation<00:05:18.320><c> about</c><00:05:18.639><c> OpenAI</c><00:05:19.360><c> spending</c>
+conversation about OpenAI spending
+conversation about OpenAI spending
+plans,<00:05:20.000><c> their</c><00:05:20.240><c> liabilities,</c><00:05:21.039><c> who</c><00:05:21.280><c> plans</c><00:05:21.600><c> to</c>
+plans, their liabilities, who plans to
+plans, their liabilities, who plans to
+fund<00:05:22.080><c> their</c><00:05:22.320><c> data</c><00:05:22.560><c> centers,</c><00:05:23.039><c> all</c><00:05:23.120><c> of</c><00:05:23.280><c> that.</c>
+fund their data centers, all of that.
+fund their data centers, all of that.
+Part<00:05:24.080><c> of</c><00:05:24.400><c> why</c><00:05:24.800><c> they</c><00:05:25.199><c> feel</c><00:05:25.520><c> they</c><00:05:25.759><c> are</c><00:05:25.919><c> on</c><00:05:26.160><c> a</c>
+Part of why they feel they are on a
+Part of why they feel they are on a
+financially<00:05:27.120><c> secure</c><00:05:27.520><c> footing</c><00:05:28.000><c> is</c><00:05:28.320><c> because</c>
+financially secure footing is because
+financially secure footing is because
+they<00:05:29.120><c> see</c><00:05:29.919><c> absolutely</c><00:05:30.639><c> stunning</c><00:05:31.039><c> usage.</c><00:05:31.440><c> If</c>
+they see absolutely stunning usage. If
+they see absolutely stunning usage. If
+you<00:05:31.759><c> are</c><00:05:31.919><c> up</c><00:05:32.240><c> 10x</c><00:05:32.800><c> in</c><00:05:33.039><c> 90</c><00:05:33.360><c> days</c><00:05:33.600><c> on</c><00:05:33.840><c> something,</c>
+you are up 10x in 90 days on something,
+you are up 10x in 90 days on something,
+you<00:05:34.639><c> start</c><00:05:34.800><c> to</c><00:05:35.039><c> make</c><00:05:35.199><c> pretty</c><00:05:35.440><c> big</c><00:05:35.680><c> projections</c>
+you start to make pretty big projections
+you start to make pretty big projections
+pretty<00:05:36.560><c> fast</c><00:05:36.880><c> because</c><00:05:37.120><c> you</c><00:05:37.360><c> start</c><00:05:37.600><c> to</c><00:05:38.479><c> see</c><00:05:38.800><c> how</c>
+pretty fast because you start to see how
+pretty fast because you start to see how
+much<00:05:39.280><c> of</c><00:05:39.440><c> the</c><00:05:39.680><c> world</c><00:05:39.919><c> is</c><00:05:40.240><c> interested</c><00:05:40.560><c> in</c><00:05:40.720><c> your</c>
+much of the world is interested in your
+much of the world is interested in your
+product.<00:05:41.600><c> And</c><00:05:41.840><c> that's</c><00:05:42.080><c> my</c><00:05:42.320><c> main</c><00:05:42.479><c> takeaway.</c>
+product. And that's my main takeaway.
+product. And that's my main takeaway.
+Even<00:05:43.440><c> though</c><00:05:44.720><c> we</c><00:05:45.120><c> see</c><00:05:45.759><c> a</c><00:05:46.240><c> tremendous</c><00:05:47.280><c> amount</c>
+Even though we see a tremendous amount
+Even though we see a tremendous amount
+of<00:05:48.639><c> challenge</c><00:05:49.199><c> in</c><00:05:49.440><c> AI</c><00:05:49.840><c> implementation,</c><00:05:50.720><c> we</c>
+of challenge in AI implementation, we
+of challenge in AI implementation, we
+see<00:05:51.120><c> the</c><00:05:51.280><c> bugs</c><00:05:51.680><c> getting</c><00:05:51.919><c> released.</c><00:05:52.320><c> I</c><00:05:52.479><c> talked</c>
+see the bugs getting released. I talked
+see the bugs getting released. I talked
+about<00:05:52.880><c> that</c><00:05:53.039><c> at</c><00:05:53.199><c> the</c><00:05:53.360><c> top</c><00:05:53.520><c> of</c><00:05:53.680><c> this</c><00:05:53.919><c> video.</c><00:05:54.639><c> We</c>
+about that at the top of this video. We
+about that at the top of this video. We
+see<00:05:55.120><c> challenges</c><00:05:55.520><c> in</c><00:05:55.759><c> agentic</c><00:05:56.320><c> deployment.</c>
+see challenges in agentic deployment.
+see challenges in agentic deployment.
+The<00:05:57.520><c> amount</c><00:05:58.000><c> of</c><00:05:58.320><c> demand</c><00:05:59.039><c> that</c><00:05:59.360><c> we</c><00:05:59.680><c> have</c><00:05:59.840><c> for</c><00:06:00.160><c> AI</c>
+The amount of demand that we have for AI
+The amount of demand that we have for AI
+everywhere<00:06:01.680><c> I</c><00:06:01.919><c> look</c><00:06:02.160><c> is</c><00:06:02.400><c> off</c><00:06:02.560><c> the</c><00:06:02.720><c> charts.</c><00:06:03.039><c> You</c>
+everywhere I look is off the charts. You
+everywhere I look is off the charts. You
+see<00:06:03.280><c> that</c><00:06:03.440><c> in</c><00:06:03.600><c> the</c><00:06:03.759><c> anthropic</c><00:06:04.400><c> story</c><00:06:04.639><c> this</c>
+see that in the anthropic story this
+see that in the anthropic story this
+week.<00:06:05.120><c> You</c><00:06:05.280><c> see</c><00:06:05.360><c> that</c><00:06:05.520><c> in</c><00:06:05.680><c> the</c><00:06:05.840><c> open</c><00:06:06.160><c> AI</c><00:06:06.479><c> story</c>
+week. You see that in the open AI story
+week. You see that in the open AI story
+this<00:06:07.039><c> week.</c><00:06:07.759><c> There</c><00:06:08.080><c> is</c><00:06:08.560><c> no</c><00:06:08.880><c> upper</c><00:06:09.280><c> bound</c><00:06:09.600><c> that</c>
+this week. There is no upper bound that
+this week. There is no upper bound that
+we<00:06:10.080><c> have</c><00:06:10.240><c> found</c><00:06:10.639><c> for</c><00:06:10.960><c> demand</c><00:06:11.360><c> for</c>
+we have found for demand for
+we have found for demand for
+intelligence.<00:06:12.639><c> And</c><00:06:12.880><c> so</c><00:06:13.360><c> that</c><00:06:13.600><c> is</c><00:06:13.840><c> why</c><00:06:14.000><c> I</c><00:06:14.319><c> view</c>
+intelligence. And so that is why I view
+intelligence. And so that is why I view
+problems<00:06:15.280><c> like</c><00:06:15.520><c> the</c><00:06:15.759><c> one</c><00:06:16.000><c> tenable</c><00:06:16.560><c> disclosed</c>
+problems like the one tenable disclosed
+problems like the one tenable disclosed
+as<00:06:17.600><c> real,</c><00:06:18.240><c> needing</c><00:06:18.560><c> to</c><00:06:18.800><c> be</c><00:06:18.960><c> fixed,</c><00:06:19.520><c> but</c><00:06:19.840><c> not</c><00:06:20.000><c> in</c>
+as real, needing to be fixed, but not in
+as real, needing to be fixed, but not in
+any<00:06:20.479><c> way</c><00:06:20.800><c> getting</c><00:06:21.120><c> in</c><00:06:21.360><c> the</c><00:06:21.520><c> way</c><00:06:22.400><c> of</c><00:06:22.639><c> the</c><00:06:22.960><c> kind</c>
+any way getting in the way of the kind
+any way getting in the way of the kind
+of<00:06:23.680><c> demand</c><00:06:24.479><c> title</c><00:06:24.880><c> wave</c><00:06:25.199><c> that</c><00:06:25.440><c> we're</c><00:06:25.680><c> all</c>
+of demand title wave that we're all
+of demand title wave that we're all
+rushing<00:06:26.400><c> to</c><00:06:26.639><c> meet</c><00:06:26.960><c> in</c><00:06:27.199><c> the</c><00:06:27.360><c> age</c><00:06:27.520><c> of</c><00:06:27.680><c> AI.</c><00:06:28.479><c> And</c>
+rushing to meet in the age of AI. And
+rushing to meet in the age of AI. And
+that's<00:06:28.800><c> a</c><00:06:29.039><c> pretty</c><00:06:29.199><c> exciting</c><00:06:29.520><c> thing</c><00:06:29.680><c> to</c><00:06:29.840><c> be</c><00:06:29.919><c> a</c>
+that's a pretty exciting thing to be a
+that's a pretty exciting thing to be a
+part<00:06:30.160><c> of.</c><00:06:30.720><c> to</c><00:06:30.880><c> look</c><00:06:31.039><c> out</c><00:06:31.199><c> there.</c>

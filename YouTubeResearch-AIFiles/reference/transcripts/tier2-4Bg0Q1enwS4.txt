@@ -1,0 +1,1801 @@
+In<00:00:00.240><c> last</c><00:00:00.480><c> week's</c><00:00:00.719><c> executive</c><00:00:01.199><c> briefing,</c><00:00:01.600><c> I</c>
+In last week's executive briefing, I
+In last week's executive briefing, I
+argued<00:00:02.080><c> that</c><00:00:02.320><c> most</c><00:00:02.639><c> enterprise</c><00:00:03.120><c> agents</c><00:00:03.439><c> are</c>
+argued that most enterprise agents are
+argued that most enterprise agents are
+sophisticated<00:00:04.560><c> amnesiacs.</c><00:00:05.680><c> The</c><00:00:05.920><c> models</c><00:00:06.240><c> are</c>
+sophisticated amnesiacs. The models are
+sophisticated amnesiacs. The models are
+capable,<00:00:06.799><c> but</c><00:00:07.040><c> without</c><00:00:07.440><c> domain</c><00:00:07.839><c> memory,</c>
+capable, but without domain memory,
+capable, but without domain memory,
+explicit<00:00:08.720><c> goals,</c><00:00:09.280><c> progress</c><00:00:09.760><c> tracking,</c>
+explicit goals, progress tracking,
+explicit goals, progress tracking,
+operating<00:00:10.639><c> procedures,</c><00:00:11.519><c> well,</c><00:00:11.759><c> multi</c>
+operating procedures, well, multi
+operating procedures, well, multi
+session<00:00:12.480><c> work</c><00:00:12.719><c> just</c><00:00:12.880><c> turns</c><00:00:13.120><c> into</c><00:00:13.360><c> a</c><00:00:13.519><c> lot</c><00:00:13.599><c> of</c>
+session work just turns into a lot of
+session work just turns into a lot of
+thrash,<00:00:14.080><c> and</c><00:00:14.240><c> you</c><00:00:14.400><c> don't</c><00:00:14.559><c> get</c><00:00:14.719><c> very</c><00:00:15.040><c> far.</c><00:00:15.599><c> This</c>
+thrash, and you don't get very far. This
+thrash, and you don't get very far. This
+week<00:00:16.320><c> is</c><00:00:16.640><c> the</c><00:00:17.039><c> uncomfortable</c><00:00:18.160><c> followon.</c><00:00:18.960><c> Even</c>
+week is the uncomfortable followon. Even
+week is the uncomfortable followon. Even
+if<00:00:19.680><c> you</c><00:00:20.080><c> solve</c><00:00:20.480><c> for</c><00:00:20.800><c> memory,</c><00:00:21.680><c> most</c><00:00:22.080><c> companies</c>
+if you solve for memory, most companies
+if you solve for memory, most companies
+still<00:00:22.960><c> won't</c><00:00:23.279><c> get</c><00:00:23.519><c> agent</c><00:00:24.000><c> leverage</c><00:00:24.720><c> because</c>
+still won't get agent leverage because
+still won't get agent leverage because
+they<00:00:25.439><c> haven't</c><00:00:25.760><c> taught</c><00:00:26.000><c> the</c><00:00:26.320><c> organization</c><00:00:27.039><c> to</c>
+they haven't taught the organization to
+they haven't taught the organization to
+work<00:00:27.680><c> in</c><00:00:28.080><c> primitives.</c><00:00:29.119><c> Not</c><00:00:29.359><c> prompting,</c><00:00:30.160><c> not</c>
+work in primitives. Not prompting, not
+work in primitives. Not prompting, not
+tooling,<00:00:31.279><c> but</c><00:00:31.599><c> primitives.</c><00:00:32.480><c> The</c><00:00:32.719><c> shared</c>
+tooling, but primitives. The shared
+tooling, but primitives. The shared
+building<00:00:33.520><c> blocks</c><00:00:34.160><c> that</c><00:00:34.480><c> let</c><00:00:34.719><c> humans</c><00:00:35.120><c> and</c>
+building blocks that let humans and
+building blocks that let humans and
+agents<00:00:36.000><c> reliably</c><00:00:36.800><c> ship</c><00:00:37.200><c> work</c><00:00:37.760><c> without</c>
+agents reliably ship work without
+agents reliably ship work without
+heroics.<00:00:39.440><c> The</c><00:00:39.760><c> real</c><00:00:40.079><c> failure</c><00:00:40.480><c> mode</c><00:00:40.640><c> that</c><00:00:40.879><c> I</c>
+heroics. The real failure mode that I
+heroics. The real failure mode that I
+want<00:00:41.120><c> to</c><00:00:41.280><c> talk</c><00:00:41.440><c> about</c><00:00:41.680><c> this</c><00:00:41.920><c> week</c><00:00:42.399><c> is</c><00:00:42.640><c> that</c><00:00:42.960><c> AI</c>
+want to talk about this week is that AI
+want to talk about this week is that AI
+agents<00:00:44.239><c> run</c><00:00:44.480><c> into</c><00:00:44.879><c> walls</c><00:00:45.840><c> even</c><00:00:46.160><c> with</c><00:00:46.480><c> memory</c>
+agents run into walls even with memory
+agents run into walls even with memory
+because<00:00:47.840><c> the</c><00:00:48.160><c> work</c><00:00:48.640><c> that</c><00:00:48.960><c> you</c><00:00:49.280><c> have</c><00:00:50.079><c> is</c>
+because the work that you have is
+because the work that you have is
+usually<00:00:51.120><c> stuck</c><00:00:51.680><c> in</c><00:00:52.079><c> 20th</c><00:00:52.640><c> century</c><00:00:53.039><c> work</c>
+usually stuck in 20th century work
+usually stuck in 20th century work
+patterns.<00:00:54.079><c> Most</c><00:00:54.399><c> agent</c><00:00:54.800><c> deployments</c><00:00:55.360><c> are</c>
+patterns. Most agent deployments are
+patterns. Most agent deployments are
+going<00:00:55.760><c> to</c><00:00:55.920><c> stall</c><00:00:56.559><c> at</c><00:00:56.800><c> a</c><00:00:57.039><c> similar</c><00:00:57.360><c> place</c><00:00:57.680><c> where</c>
+going to stall at a similar place where
+going to stall at a similar place where
+the<00:00:58.079><c> agent</c><00:00:58.399><c> can</c><00:00:58.559><c> write</c><00:00:58.800><c> a</c><00:00:58.960><c> plausible</c><00:00:59.520><c> draft,</c>
+the agent can write a plausible draft,
+the agent can write a plausible draft,
+the<00:01:00.160><c> agent</c><00:01:00.480><c> can</c><00:01:00.719><c> summarize</c><00:01:01.199><c> a</c><00:01:01.359><c> meeting,</c><00:01:01.680><c> the</c>
+the agent can summarize a meeting, the
+the agent can summarize a meeting, the
+agent<00:01:02.160><c> can</c><00:01:02.320><c> generate</c><00:01:02.719><c> options,</c><00:01:03.199><c> propose</c>
+agent can generate options, propose
+agent can generate options, propose
+plans,<00:01:04.159><c> and</c><00:01:04.479><c> and</c><00:01:04.879><c> it</c><00:01:05.040><c> just</c><00:01:05.199><c> can't</c><00:01:05.360><c> get</c>
+plans, and and it just can't get
+plans, and and it just can't get
+farther.<00:01:06.000><c> The</c><00:01:06.159><c> wall</c><00:01:06.400><c> is</c><00:01:06.640><c> your</c><00:01:06.799><c> operating</c>
+farther. The wall is your operating
+farther. The wall is your operating
+environment.<00:01:08.159><c> In</c><00:01:08.400><c> most</c><00:01:08.720><c> Fortune</c><00:01:09.200><c> 500</c>
+environment. In most Fortune 500
+environment. In most Fortune 500
+companies<00:01:09.920><c> and</c><00:01:10.159><c> even</c><00:01:10.400><c> most</c><00:01:10.799><c> smallmedium</c>
+companies and even most smallmedium
+companies and even most smallmedium
+businesses,<00:01:12.479><c> important</c><00:01:13.119><c> work</c><00:01:13.680><c> lives</c><00:01:14.479><c> inside</c>
+businesses, important work lives inside
+businesses, important work lives inside
+opaque<00:01:16.159><c> workflows.</c><00:01:16.799><c> Let</c><00:01:16.960><c> me</c><00:01:17.040><c> give</c><00:01:17.200><c> you</c><00:01:17.360><c> some</c>
+opaque workflows. Let me give you some
+opaque workflows. Let me give you some
+examples.<00:01:18.320><c> Maybe</c><00:01:18.560><c> it's</c><00:01:18.799><c> behind</c><00:01:19.119><c> the</c><00:01:19.360><c> click</c>
+examples. Maybe it's behind the click
+examples. Maybe it's behind the click
+pads<00:01:20.159><c> in</c><00:01:20.479><c> business</c><00:01:20.880><c> software</c><00:01:21.520><c> like</c><00:01:21.759><c> behind</c><00:01:22.080><c> an</c>
+pads in business software like behind an
+pads in business software like behind an
+admin<00:01:22.799><c> portal,</c><00:01:23.439><c> behind</c><00:01:23.759><c> a</c><00:01:23.920><c> ticketing</c><00:01:24.400><c> tool,</c>
+admin portal, behind a ticketing tool,
+admin portal, behind a ticketing tool,
+behind<00:01:25.200><c> a</c><00:01:25.439><c> CMS</c><00:01:26.000><c> screen,</c><00:01:26.479><c> behind</c><00:01:26.799><c> a</c><00:01:27.040><c> dashboard.</c>
+behind a CMS screen, behind a dashboard.
+behind a CMS screen, behind a dashboard.
+Maybe<00:01:28.320><c> it's</c><00:01:28.560><c> trapped</c><00:01:28.960><c> in</c><00:01:29.360><c> a</c><00:01:29.600><c> hidden</c><00:01:30.000><c> state</c>
+Maybe it's trapped in a hidden state
+Maybe it's trapped in a hidden state
+somewhere.<00:01:30.799><c> It's</c><00:01:31.040><c> in</c><00:01:31.200><c> draft</c><00:01:31.520><c> mode.</c><00:01:31.840><c> It's</c><00:01:32.000><c> in</c>
+somewhere. It's in draft mode. It's in
+somewhere. It's in draft mode. It's in
+an<00:01:32.320><c> unpublished</c><00:01:33.040><c> version.</c><00:01:33.759><c> It's</c><00:01:34.000><c> in</c>
+an unpublished version. It's in
+an unpublished version. It's in
+permission<00:01:34.640><c> rules</c><00:01:34.960><c> that</c><00:01:35.119><c> aren't</c><00:01:35.360><c> visible</c>
+permission rules that aren't visible
+permission rules that aren't visible
+until<00:01:36.079><c> you</c><00:01:36.240><c> hit</c><00:01:36.479><c> them.</c><00:01:36.960><c> Maybe</c><00:01:37.200><c> it's</c><00:01:37.439><c> encoded</c>
+until you hit them. Maybe it's encoded
+until you hit them. Maybe it's encoded
+as<00:01:38.000><c> tribal</c><00:01:38.479><c> knowledge.</c><00:01:39.119><c> Ask</c><00:01:39.439><c> Sarah.</c>
+as tribal knowledge. Ask Sarah.
+as tribal knowledge. Ask Sarah.
+Actually,<00:01:40.640><c> finance</c><00:01:41.040><c> owns</c><00:01:41.360><c> that.</c><00:01:42.000><c> You</c><00:01:42.159><c> know</c>
+Actually, finance owns that. You know
+Actually, finance owns that. You know
+what?<00:01:42.560><c> We</c><00:01:42.799><c> don't</c><00:01:43.040><c> touch</c><00:01:43.360><c> that</c><00:01:43.680><c> system.</c><00:01:44.240><c> An</c>
+what? We don't touch that system. An
+what? We don't touch that system. An
+agent<00:01:45.119><c> cannot</c><00:01:45.759><c> reliably</c><00:01:46.560><c> operate</c><00:01:47.119><c> inside</c>
+agent cannot reliably operate inside
+agent cannot reliably operate inside
+that<00:01:48.240><c> environment.</c><00:01:49.200><c> It</c><00:01:49.439><c> cannot</c><00:01:49.840><c> advise.</c><00:01:50.479><c> It</c>
+that environment. It cannot advise. It
+that environment. It cannot advise. It
+cannot<00:01:51.040><c> draft.</c><00:01:51.520><c> And</c><00:01:51.680><c> most</c><00:01:52.000><c> important,</c><00:01:52.720><c> it</c>
+cannot draft. And most important, it
+cannot draft. And most important, it
+cannot<00:01:53.600><c> ship</c><00:01:54.079><c> with</c><00:01:54.479><c> you.</c><00:01:55.200><c> So,</c><00:01:55.439><c> you</c><00:01:55.680><c> can't</c>
+cannot ship with you. So, you can't
+cannot ship with you. So, you can't
+accelerate.<00:01:56.880><c> So,</c><00:01:57.040><c> the</c><00:01:57.280><c> company</c><00:01:57.520><c> that</c><00:01:57.840><c> buys</c>
+accelerate. So, the company that buys
+accelerate. So, the company that buys
+agents<00:01:59.119><c> is</c><00:01:59.439><c> actually</c><00:01:59.920><c> buying</c><00:02:00.719><c> a</c><00:02:01.200><c> conversation</c>
+agents is actually buying a conversation
+agents is actually buying a conversation
+layered<00:02:02.640><c> on</c><00:02:02.880><c> top</c><00:02:03.119><c> of</c><00:02:03.280><c> those</c><00:02:03.600><c> same</c>
+layered on top of those same
+layered on top of those same
+bottlenecks.<00:02:04.799><c> Now</c><00:02:05.040><c> I</c><00:02:05.200><c> want</c><00:02:05.280><c> to</c><00:02:05.439><c> give</c><00:02:05.520><c> you</c><00:02:05.680><c> a</c>
+bottlenecks. Now I want to give you a
+bottlenecks. Now I want to give you a
+case<00:02:06.079><c> study</c><00:02:06.560><c> around</c><00:02:06.880><c> how</c><00:02:07.200><c> you</c><00:02:07.360><c> can</c><00:02:07.520><c> unlock</c>
+case study around how you can unlock
+case study around how you can unlock
+this<00:02:08.160><c> and</c><00:02:08.399><c> think</c><00:02:08.640><c> differently.</c><00:02:09.360><c> Lee</c><00:02:09.679><c> Robinson</c>
+this and think differently. Lee Robinson
+this and think differently. Lee Robinson
+is<00:02:10.879><c> a</c><00:02:11.120><c> longtime</c><00:02:11.599><c> builder</c><00:02:11.920><c> and</c><00:02:12.080><c> writer.</c><00:02:12.480><c> He</c><00:02:12.640><c> was</c>
+is a longtime builder and writer. He was
+is a longtime builder and writer. He was
+previously<00:02:13.280><c> at</c><00:02:13.440><c> Versell.</c><00:02:14.080><c> He</c><00:02:14.239><c> now</c><00:02:14.480><c> works</c><00:02:14.640><c> at</c>
+previously at Versell. He now works at
+previously at Versell. He now works at
+Curser<00:02:15.520><c> teaching</c><00:02:16.000><c> about</c><00:02:16.400><c> AI.</c><00:02:17.200><c> Curser</c><00:02:17.599><c> is</c>
+Curser teaching about AI. Curser is
+Curser teaching about AI. Curser is
+obviously<00:02:18.080><c> one</c><00:02:18.239><c> of</c><00:02:18.239><c> the</c><00:02:18.400><c> breakout</c><00:02:18.800><c> companies</c>
+obviously one of the breakout companies
+obviously one of the breakout companies
+in<00:02:19.360><c> AI</c><00:02:19.680><c> assisted</c><00:02:20.080><c> coding.</c><00:02:20.560><c> The</c><00:02:20.720><c> product</c><00:02:20.959><c> is</c><00:02:21.120><c> an</c>
+in AI assisted coding. The product is an
+in AI assisted coding. The product is an
+IDE<00:02:21.920><c> designed</c><00:02:22.480><c> around</c><00:02:22.959><c> AI</c><00:02:23.440><c> agents.</c><00:02:24.000><c> If</c>
+IDE designed around AI agents. If
+IDE designed around AI agents. If
+anybody<00:02:24.640><c> is</c><00:02:24.879><c> AI</c><00:02:25.280><c> native,</c><00:02:25.760><c> you'd</c><00:02:26.080><c> think</c><00:02:26.239><c> it</c>
+anybody is AI native, you'd think it
+anybody is AI native, you'd think it
+would<00:02:26.560><c> be</c><00:02:26.720><c> Cursor.</c><00:02:27.520><c> And</c><00:02:27.680><c> in</c><00:02:27.920><c> this</c><00:02:28.080><c> case,</c>
+would be Cursor. And in this case,
+would be Cursor. And in this case,
+that's<00:02:28.959><c> true.</c><00:02:29.520><c> Just</c><00:02:29.760><c> a</c><00:02:30.000><c> few</c><00:02:30.080><c> days</c><00:02:30.239><c> ago,</c><00:02:30.720><c> Lee</c>
+that's true. Just a few days ago, Lee
+that's true. Just a few days ago, Lee
+published<00:02:31.440><c> an</c><00:02:31.680><c> essay</c><00:02:31.920><c> that</c><00:02:32.160><c> reads</c><00:02:32.560><c> like</c><00:02:32.720><c> a</c>
+published an essay that reads like a
+published an essay that reads like a
+weekend<00:02:33.440><c> project,</c><00:02:34.000><c> but</c><00:02:34.239><c> we</c><00:02:34.480><c> should</c><00:02:34.720><c> treat</c><00:02:34.959><c> it</c>
+weekend project, but we should treat it
+weekend project, but we should treat it
+as<00:02:35.519><c> more</c><00:02:35.760><c> of</c><00:02:35.840><c> a</c><00:02:36.080><c> strategic</c><00:02:36.560><c> signal.</c><00:02:36.959><c> I</c><00:02:37.120><c> think</c>
+as more of a strategic signal. I think
+as more of a strategic signal. I think
+it's<00:02:37.440><c> a</c><00:02:37.680><c> fantastic</c><00:02:38.319><c> case</c><00:02:38.560><c> study</c><00:02:39.040><c> in</c><00:02:39.280><c> how</c><00:02:39.519><c> we</c>
+it's a fantastic case study in how we
+it's a fantastic case study in how we
+can<00:02:39.840><c> make</c><00:02:40.080><c> AI</c><00:02:40.480><c> agents</c><00:02:40.959><c> native</c><00:02:41.360><c> in</c><00:02:41.599><c> non-</c><00:02:41.920><c> tech</c>
+can make AI agents native in non- tech
+can make AI agents native in non- tech
+organizations.<00:02:43.360><c> Lee</c><00:02:43.760><c> was</c><00:02:43.920><c> able</c><00:02:44.080><c> to</c><00:02:44.319><c> migrate</c>
+organizations. Lee was able to migrate
+organizations. Lee was able to migrate
+cursor.com<00:02:46.239><c> from</c><00:02:46.400><c> a</c><00:02:46.640><c> headless</c><00:02:47.120><c> CMS</c><00:02:47.760><c> or</c>
+cursor.com from a headless CMS or
+cursor.com from a headless CMS or
+content<00:02:48.400><c> management</c><00:02:48.879><c> system</c><00:02:49.599><c> right</c><00:02:49.920><c> back</c><00:02:50.080><c> to</c>
+content management system right back to
+content management system right back to
+raw<00:02:50.800><c> code</c><00:02:51.040><c> and</c><00:02:51.280><c> markdown.</c><00:02:52.000><c> Now,</c><00:02:52.319><c> for</c><00:02:52.560><c> decades,</c>
+raw code and markdown. Now, for decades,
+raw code and markdown. Now, for decades,
+we<00:02:53.200><c> would</c><00:02:53.360><c> say</c><00:02:53.599><c> that</c><00:02:53.840><c> was</c><00:02:54.000><c> regressing</c>
+we would say that was regressing
+we would say that was regressing
+capability.<00:02:55.280><c> we</c><00:02:55.519><c> would</c><00:02:55.680><c> say</c><00:02:55.920><c> we</c><00:02:56.239><c> need</c>
+capability. we would say we need
+capability. we would say we need
+marketers<00:02:57.120><c> to</c><00:02:57.440><c> have</c><00:02:57.599><c> a</c><00:02:57.840><c> CMS</c><00:02:58.480><c> so</c><00:02:58.720><c> they</c><00:02:58.959><c> can</c>
+marketers to have a CMS so they can
+marketers to have a CMS so they can
+reliably<00:02:59.840><c> make</c><00:03:00.160><c> changes.</c><00:03:01.040><c> Well,</c><00:03:01.440><c> Lee</c><00:03:01.760><c> didn't</c>
+reliably make changes. Well, Lee didn't
+reliably make changes. Well, Lee didn't
+think<00:03:02.159><c> that</c><00:03:02.319><c> was</c><00:03:02.560><c> true</c><00:03:02.720><c> anymore</c><00:03:03.200><c> and</c><00:03:03.360><c> we'll</c>
+think that was true anymore and we'll
+think that was true anymore and we'll
+get<00:03:03.760><c> into</c><00:03:04.000><c> why.</c><00:03:04.319><c> He</c><00:03:04.560><c> estimated</c><00:03:05.040><c> it</c><00:03:05.280><c> would</c><00:03:05.440><c> take</c>
+get into why. He estimated it would take
+get into why. He estimated it would take
+weeks<00:03:06.080><c> and</c><00:03:06.319><c> maybe</c><00:03:06.560><c> an</c><00:03:06.879><c> agency</c><00:03:07.519><c> and</c><00:03:07.760><c> this</c><00:03:07.920><c> is</c><00:03:08.000><c> a</c>
+weeks and maybe an agency and this is a
+weeks and maybe an agency and this is a
+guy<00:03:08.239><c> at</c><00:03:08.400><c> an</c><00:03:08.560><c> AI</c><00:03:08.879><c> native</c><00:03:09.200><c> organization,</c><00:03:09.920><c> right?</c>
+guy at an AI native organization, right?
+guy at an AI native organization, right?
+He<00:03:10.720><c> estimated</c><00:03:11.200><c> it</c><00:03:11.440><c> would</c><00:03:11.599><c> take</c><00:03:11.760><c> weeks.</c><00:03:12.319><c> He</c>
+He estimated it would take weeks. He
+He estimated it would take weeks. He
+himself<00:03:13.120><c> was</c><00:03:13.360><c> surprised</c><00:03:14.000><c> because</c><00:03:14.319><c> he</c>
+himself was surprised because he
+himself was surprised because he
+finished<00:03:15.040><c> the</c><00:03:15.360><c> job</c><00:03:15.599><c> in</c><00:03:16.000><c> three</c><00:03:16.239><c> days</c><00:03:16.480><c> over</c><00:03:16.720><c> a</c>
+finished the job in three days over a
+finished the job in three days over a
+weekend<00:03:17.599><c> using</c><00:03:18.000><c> about</c><00:03:18.480><c> $260</c><00:03:19.920><c> in</c><00:03:20.159><c> tokens</c><00:03:21.120><c> and</c>
+weekend using about $260 in tokens and
+weekend using about $260 in tokens and
+hundreds<00:03:22.239><c> of</c><00:03:22.400><c> agents.</c><00:03:23.040><c> That</c><00:03:23.280><c> is</c><00:03:23.440><c> hundreds</c><00:03:23.840><c> of</c>
+hundreds of agents. That is hundreds of
+hundreds of agents. That is hundreds of
+agent<00:03:24.319><c> pull</c><00:03:24.640><c> requests</c><00:03:25.040><c> and</c><00:03:25.280><c> calls.</c><00:03:25.599><c> I</c><00:03:25.760><c> think</c>
+agent pull requests and calls. I think
+agent pull requests and calls. I think
+300<00:03:26.319><c> and</c><00:03:26.480><c> some</c><00:03:26.800><c> before</c><00:03:27.040><c> it</c><00:03:27.200><c> was</c><00:03:27.360><c> all</c><00:03:27.519><c> done.</c><00:03:27.920><c> The</c>
+300 and some before it was all done. The
+300 and some before it was all done. The
+headline<00:03:28.720><c> is</c><00:03:28.959><c> not</c><00:03:29.200><c> AI</c><00:03:29.519><c> agents</c><00:03:29.920><c> can</c><00:03:30.080><c> code</c><00:03:30.640><c> nor</c>
+headline is not AI agents can code nor
+headline is not AI agents can code nor
+is<00:03:31.120><c> it</c><00:03:31.599><c> AI</c><00:03:31.920><c> agents</c><00:03:32.319><c> are</c><00:03:32.560><c> fast.</c><00:03:33.280><c> What</c><00:03:33.599><c> I</c><00:03:33.840><c> noticed</c>
+is it AI agents are fast. What I noticed
+is it AI agents are fast. What I noticed
+is<00:03:34.720><c> that</c><00:03:35.040><c> they</c><00:03:35.360><c> used</c><00:03:35.599><c> to</c><00:03:35.760><c> be</c><00:03:36.000><c> able</c><00:03:36.319><c> to</c><00:03:36.560><c> ask</c><00:03:36.879><c> the</c>
+is that they used to be able to ask the
+is that they used to be able to ask the
+agent<00:03:37.519><c> to</c><00:03:37.760><c> modify</c><00:03:38.239><c> the</c><00:03:38.480><c> website</c><00:03:38.959><c> directly</c><00:03:39.760><c> and</c>
+agent to modify the website directly and
+agent to modify the website directly and
+then<00:03:40.159><c> when</c><00:03:40.319><c> they</c><00:03:40.560><c> introduced</c><00:03:41.040><c> a</c><00:03:41.280><c> CMS</c><00:03:41.760><c> in</c><00:03:41.920><c> the</c>
+then when they introduced a CMS in the
+then when they introduced a CMS in the
+middle<00:03:42.319><c> which</c><00:03:42.480><c> was</c><00:03:42.640><c> a</c><00:03:42.799><c> change</c><00:03:43.120><c> cursor</c><00:03:43.680><c> made</c><00:03:43.920><c> as</c>
+middle which was a change cursor made as
+middle which was a change cursor made as
+a<00:03:44.319><c> way</c><00:03:44.400><c> of</c><00:03:44.640><c> trying</c><00:03:44.879><c> to</c><00:03:45.040><c> become</c><00:03:45.280><c> a</c><00:03:45.440><c> grown-up</c>
+a way of trying to become a grown-up
+a way of trying to become a grown-up
+marketing<00:03:46.400><c> organization,</c><00:03:47.360><c> suddenly</c><00:03:47.760><c> they</c>
+marketing organization, suddenly they
+marketing organization, suddenly they
+were<00:03:48.080><c> back</c><00:03:48.239><c> to</c><00:03:48.480><c> clicking</c><00:03:48.799><c> through</c><00:03:49.040><c> UI</c><00:03:49.519><c> menus</c>
+were back to clicking through UI menus
+were back to clicking through UI menus
+instead<00:03:50.239><c> of</c><00:03:50.400><c> just</c><00:03:50.560><c> delegating</c><00:03:51.200><c> work</c><00:03:51.440><c> to</c>
+instead of just delegating work to
+instead of just delegating work to
+agents.<00:03:52.400><c> And</c><00:03:52.640><c> so</c><00:03:53.280><c> what</c><00:03:53.599><c> Lee</c><00:03:54.000><c> realized</c><00:03:54.799><c> is</c><00:03:55.040><c> that</c>
+agents. And so what Lee realized is that
+agents. And so what Lee realized is that
+there<00:03:55.599><c> is</c><00:03:55.760><c> a</c><00:03:56.000><c> larger</c><00:03:56.480><c> lesson</c><00:03:56.879><c> here</c><00:03:57.200><c> with</c><00:03:57.519><c> AI</c>
+there is a larger lesson here with AI
+there is a larger lesson here with AI
+and<00:03:58.319><c> coding</c><00:03:58.799><c> agents.</c><00:03:59.519><c> The</c><00:03:59.760><c> cost</c><00:04:00.080><c> of</c><00:04:00.239><c> an</c>
+and coding agents. The cost of an
+and coding agents. The cost of an
+abstraction<00:04:01.519><c> has</c><00:04:01.840><c> never</c><00:04:02.080><c> been</c><00:04:02.319><c> higher.</c><00:04:02.879><c> An</c>
+abstraction has never been higher. An
+abstraction has never been higher. An
+abstraction<00:04:03.599><c> is</c><00:04:03.840><c> just</c><00:04:04.000><c> a</c><00:04:04.239><c> layer</c><00:04:04.400><c> that</c><00:04:04.560><c> hides</c>
+abstraction is just a layer that hides
+abstraction is just a layer that hides
+the<00:04:05.120><c> underlying</c><00:04:05.599><c> work</c><00:04:05.840><c> behind</c><00:04:06.159><c> a</c><00:04:06.400><c> simplified</c>
+the underlying work behind a simplified
+the underlying work behind a simplified
+interface.<00:04:07.680><c> We</c><00:04:08.000><c> needed</c><00:04:08.319><c> it</c><00:04:08.480><c> for</c><00:04:08.720><c> a</c><00:04:08.959><c> long</c><00:04:09.200><c> time</c>
+interface. We needed it for a long time
+interface. We needed it for a long time
+because<00:04:10.560><c> most</c><00:04:11.200><c> organizations</c><00:04:12.159><c> are</c><00:04:12.480><c> mostly</c>
+because most organizations are mostly
+because most organizations are mostly
+not<00:04:13.360><c> technical.</c><00:04:14.000><c> A</c><00:04:14.239><c> CMS</c><00:04:14.640><c> is</c><00:04:14.799><c> an</c><00:04:15.040><c> abstraction,</c>
+not technical. A CMS is an abstraction,
+not technical. A CMS is an abstraction,
+right?<00:04:15.760><c> It</c><00:04:15.920><c> hides</c><00:04:16.160><c> the</c><00:04:16.320><c> messy</c><00:04:16.639><c> parts.</c><00:04:16.959><c> It</c>
+right? It hides the messy parts. It
+right? It hides the messy parts. It
+hides<00:04:17.359><c> the</c><00:04:17.519><c> files,</c><00:04:17.840><c> the</c><00:04:18.000><c> structure,</c><00:04:18.400><c> the</c>
+hides the files, the structure, the
+hides the files, the structure, the
+deployment,<00:04:18.959><c> the</c><00:04:19.199><c> version</c><00:04:19.519><c> controls,</c><00:04:19.919><c> and</c>
+deployment, the version controls, and
+deployment, the version controls, and
+gives<00:04:20.479><c> humans</c><00:04:20.799><c> a</c><00:04:21.040><c> nice</c><00:04:21.280><c> friendly</c><00:04:21.680><c> screen</c><00:04:21.919><c> that</c>
+gives humans a nice friendly screen that
+gives humans a nice friendly screen that
+says<00:04:22.400><c> edit,</c><00:04:22.720><c> page,</c><00:04:22.960><c> and</c><00:04:23.199><c> publish.</c><00:04:23.840><c> For</c>
+says edit, page, and publish. For
+says edit, page, and publish. For
+decades,<00:04:24.720><c> that's</c><00:04:25.040><c> been</c><00:04:25.120><c> a</c><00:04:25.360><c> good</c><00:04:25.520><c> trade.</c><00:04:26.080><c> And</c>
+decades, that's been a good trade. And
+decades, that's been a good trade. And
+even<00:04:26.720><c> AI</c><00:04:27.199><c> native</c><00:04:27.520><c> organizations</c><00:04:28.160><c> like</c><00:04:28.479><c> cursor</c>
+even AI native organizations like cursor
+even AI native organizations like cursor
+think<00:04:29.759><c> in</c><00:04:30.080><c> those</c><00:04:30.400><c> terms,</c><00:04:30.800><c> which</c><00:04:31.199><c> I</c><00:04:31.440><c> guess</c>
+think in those terms, which I guess
+think in those terms, which I guess
+should<00:04:31.919><c> be</c><00:04:32.080><c> encouraging</c><00:04:32.560><c> to</c><00:04:32.720><c> us</c><00:04:32.960><c> because</c><00:04:33.199><c> if</c>
+should be encouraging to us because if
+should be encouraging to us because if
+cursor<00:04:34.000><c> thinks</c><00:04:34.240><c> that</c><00:04:34.479><c> way,</c><00:04:35.120><c> we</c><00:04:35.600><c> we</c><00:04:35.840><c> can</c><00:04:36.000><c> take</c>
+cursor thinks that way, we we can take
+cursor thinks that way, we we can take
+some<00:04:36.479><c> comfort</c><00:04:36.800><c> in</c><00:04:37.120><c> taking</c><00:04:37.280><c> a</c><00:04:37.520><c> minute</c><00:04:37.680><c> to</c><00:04:37.919><c> get</c>
+some comfort in taking a minute to get
+some comfort in taking a minute to get
+AI<00:04:38.479><c> native</c><00:04:38.800><c> here.</c><00:04:39.280><c> But</c><00:04:39.520><c> the</c><00:04:39.680><c> the</c><00:04:40.080><c> thing</c><00:04:40.240><c> that</c>
+AI native here. But the the thing that
+AI native here. But the the thing that
+you<00:04:40.720><c> need</c><00:04:40.880><c> to</c><00:04:41.040><c> realize</c><00:04:41.440><c> is</c><00:04:42.080><c> the</c><00:04:42.400><c> minute</c><00:04:42.639><c> you</c>
+you need to realize is the minute you
+you need to realize is the minute you
+want<00:04:43.199><c> agents,</c><00:04:44.080><c> all</c><00:04:44.240><c> that</c><00:04:44.560><c> stuff</c><00:04:44.800><c> that</c><00:04:45.040><c> you</c><00:04:45.360><c> hid</c>
+want agents, all that stuff that you hid
+want agents, all that stuff that you hid
+becomes<00:04:47.040><c> really</c><00:04:47.600><c> expensive.</c><00:04:48.479><c> That</c><00:04:48.720><c> was</c><00:04:48.880><c> Lee's</c>
+becomes really expensive. That was Lee's
+becomes really expensive. That was Lee's
+core<00:04:49.520><c> insight</c><00:04:49.840><c> is</c><00:04:50.080><c> that</c><00:04:50.320><c> before</c><00:04:50.720><c> they</c>
+core insight is that before they
+core insight is that before they
+actually<00:04:51.680><c> added</c><00:04:52.160><c> in</c><00:04:52.479><c> their</c><00:04:52.800><c> CMS</c><00:04:53.360><c> at</c><00:04:53.520><c> cursor,</c>
+actually added in their CMS at cursor,
+actually added in their CMS at cursor,
+it<00:04:54.400><c> was</c><00:04:54.720><c> actually</c><00:04:55.360><c> easier</c><00:04:55.840><c> to</c><00:04:56.160><c> update</c><00:04:56.560><c> the</c>
+it was actually easier to update the
+it was actually easier to update the
+site.<00:04:57.199><c> You</c><00:04:57.440><c> just</c><00:04:57.600><c> said</c><00:04:57.919><c> at</c><00:04:58.160><c> cursor</c><00:04:58.960><c> and</c><00:04:59.199><c> you</c>
+site. You just said at cursor and you
+site. You just said at cursor and you
+changed<00:04:59.680><c> your</c><00:04:59.919><c> marketing</c><00:05:00.400><c> copy.</c><00:05:01.040><c> And</c><00:05:01.199><c> that's</c>
+changed your marketing copy. And that's
+changed your marketing copy. And that's
+as<00:05:01.680><c> simple</c><00:05:01.919><c> as</c><00:05:02.080><c> you</c><00:05:02.320><c> want</c><00:05:02.400><c> it</c><00:05:02.639><c> to</c><00:05:02.800><c> be.</c><00:05:03.120><c> Look,</c>
+as simple as you want it to be. Look,
+as simple as you want it to be. Look,
+agents<00:05:04.000><c> don't</c><00:05:04.320><c> thrive</c><00:05:04.720><c> in</c><00:05:05.040><c> clicky</c>
+agents don't thrive in clicky
+agents don't thrive in clicky
+environments<00:05:06.080><c> where</c><00:05:06.320><c> state</c><00:05:06.639><c> is</c><00:05:06.880><c> scattered</c>
+environments where state is scattered
+environments where state is scattered
+across<00:05:07.600><c> different</c><00:05:08.080><c> screens,</c><00:05:08.639><c> different</c>
+across different screens, different
+across different screens, different
+permissions,<00:05:09.680><c> different</c><00:05:10.000><c> draft</c><00:05:10.400><c> modes,</c>
+permissions, different draft modes,
+permissions, different draft modes,
+hidden<00:05:11.120><c> dependencies,</c><00:05:11.919><c> different</c><00:05:12.160><c> roles.</c>
+hidden dependencies, different roles.
+hidden dependencies, different roles.
+Agents<00:05:13.360><c> thrive</c><00:05:13.919><c> in</c><00:05:14.240><c> environments</c><00:05:14.800><c> where</c><00:05:15.039><c> the</c>
+Agents thrive in environments where the
+Agents thrive in environments where the
+underlying<00:05:16.000><c> work</c><00:05:16.400><c> is</c><00:05:16.720><c> visible</c><00:05:17.440><c> and</c><00:05:17.840><c> editable.</c>
+underlying work is visible and editable.
+underlying work is visible and editable.
+So<00:05:18.880><c> the</c><00:05:19.039><c> CMS</c><00:05:20.000><c> stopped</c><00:05:20.400><c> being</c><00:05:20.639><c> a</c><00:05:20.880><c> helpful</c><00:05:21.199><c> tool</c>
+So the CMS stopped being a helpful tool
+So the CMS stopped being a helpful tool
+as<00:05:22.080><c> agents</c><00:05:22.479><c> gained</c><00:05:22.800><c> a</c><00:05:22.960><c> capability.</c><00:05:23.840><c> Instead,</c>
+as agents gained a capability. Instead,
+as agents gained a capability. Instead,
+it<00:05:24.720><c> became</c><00:05:25.039><c> a</c><00:05:25.280><c> wall</c><00:05:25.680><c> between</c><00:05:26.000><c> the</c><00:05:26.160><c> agent</c><00:05:26.560><c> and</c>
+it became a wall between the agent and
+it became a wall between the agent and
+the<00:05:26.960><c> work.</c><00:05:27.440><c> And</c><00:05:27.680><c> that</c><00:05:27.840><c> is</c><00:05:28.000><c> why</c><00:05:28.240><c> this</c><00:05:28.560><c> story</c>
+the work. And that is why this story
+the work. And that is why this story
+matters.<00:05:29.360><c> It's</c><00:05:29.680><c> not</c><00:05:29.840><c> really</c><00:05:30.160><c> about</c><00:05:30.400><c> a</c>
+matters. It's not really about a
+matters. It's not really about a
+website.<00:05:31.039><c> It's</c><00:05:31.199><c> not</c><00:05:31.360><c> about</c><00:05:31.600><c> CMS.</c><00:05:32.160><c> It's</c><00:05:32.400><c> not</c>
+website. It's not about CMS. It's not
+website. It's not about CMS. It's not
+even<00:05:32.720><c> about</c><00:05:32.960><c> cursor.</c><00:05:33.840><c> It's</c><00:05:34.000><c> about</c><00:05:34.240><c> the</c><00:05:34.479><c> new</c>
+even about cursor. It's about the new
+even about cursor. It's about the new
+economics<00:05:35.759><c> of</c><00:05:36.160><c> complexity.</c><00:05:37.199><c> So</c><00:05:37.440><c> Lee's</c><00:05:37.919><c> essay</c>
+economics of complexity. So Lee's essay
+economics of complexity. So Lee's essay
+is<00:05:38.240><c> unusually</c><00:05:38.800><c> valuable</c><00:05:39.199><c> because</c><00:05:39.440><c> he</c><00:05:39.680><c> doesn't</c>
+is unusually valuable because he doesn't
+is unusually valuable because he doesn't
+just<00:05:40.080><c> say</c><00:05:40.320><c> the</c><00:05:40.479><c> CMS</c><00:05:40.960><c> is</c><00:05:41.199><c> bad.</c><00:05:41.520><c> He</c><00:05:41.759><c> actually</c>
+just say the CMS is bad. He actually
+just say the CMS is bad. He actually
+lays<00:05:42.400><c> out</c><00:05:42.639><c> the</c><00:05:42.880><c> hidden</c><00:05:43.280><c> tax</c><00:05:44.000><c> that</c><00:05:44.320><c> we</c><00:05:44.639><c> don't</c>
+lays out the hidden tax that we don't
+lays out the hidden tax that we don't
+realize<00:05:45.280><c> we're</c><00:05:45.600><c> paying</c><00:05:46.240><c> by</c><00:05:46.560><c> using</c><00:05:47.039><c> these</c>
+realize we're paying by using these
+realize we're paying by using these
+abstractions.<00:05:48.560><c> If</c><00:05:48.800><c> you</c><00:05:49.039><c> strip</c><00:05:49.280><c> away</c><00:05:49.600><c> the</c>
+abstractions. If you strip away the
+abstractions. If you strip away the
+webdev<00:05:50.400><c> details,</c><00:05:51.199><c> the</c><00:05:51.440><c> list</c><00:05:51.919><c> looks</c><00:05:52.240><c> like</c><00:05:52.400><c> a</c>
+webdev details, the list looks like a
+webdev details, the list looks like a
+kind<00:05:52.880><c> of</c><00:05:53.039><c> familiar</c><00:05:53.520><c> executive</c><00:05:54.080><c> pattern.</c><00:05:54.880><c> You</c>
+kind of familiar executive pattern. You
+kind of familiar executive pattern. You
+have<00:05:55.440><c> multiple</c><00:05:56.080><c> identity</c><00:05:56.479><c> systems.</c><00:05:57.039><c> Some</c>
+have multiple identity systems. Some
+have multiple identity systems. Some
+people<00:05:57.440><c> are</c><00:05:57.600><c> in</c><00:05:57.840><c> GitHub</c><00:05:58.240><c> and</c><00:05:58.560><c> and</c><00:05:58.880><c> in</c><00:05:59.120><c> the</c><00:05:59.280><c> CMS.</c>
+people are in GitHub and and in the CMS.
+people are in GitHub and and in the CMS.
+Someone<00:06:00.639><c> always</c><00:06:00.880><c> needs</c><00:06:01.120><c> to</c><00:06:01.280><c> be</c><00:06:01.360><c> added</c><00:06:01.759><c> for</c>
+Someone always needs to be added for
+Someone always needs to be added for
+permissions.<00:06:02.639><c> There's</c><00:06:02.880><c> operational</c><00:06:03.600><c> drag.</c>
+permissions. There's operational drag.
+permissions. There's operational drag.
+There's<00:06:04.319><c> permissions</c><00:06:04.960><c> risk.</c><00:06:05.759><c> There's</c>
+There's permissions risk. There's
+There's permissions risk. There's
+preview<00:06:06.560><c> complexity,</c><00:06:07.199><c> right?</c><00:06:07.440><c> Draft</c><00:06:07.840><c> content</c>
+preview complexity, right? Draft content
+preview complexity, right? Draft content
+requires<00:06:08.720><c> special</c><00:06:09.199><c> access</c><00:06:09.600><c> paths</c><00:06:10.000><c> and</c>
+requires special access paths and
+requires special access paths and
+brittle<00:06:10.639><c> preview</c><00:06:11.120><c> logic.</c><00:06:11.840><c> Sharing</c><00:06:12.319><c> what</c>
+brittle preview logic. Sharing what
+brittle preview logic. Sharing what
+we're<00:06:12.800><c> about</c><00:06:13.039><c> to</c><00:06:13.199><c> ship</c><00:06:13.600><c> becomes</c><00:06:13.919><c> a</c><00:06:14.080><c> friction</c>
+we're about to ship becomes a friction
+we're about to ship becomes a friction
+point<00:06:14.720><c> in</c><00:06:14.960><c> and</c><00:06:15.120><c> of</c><00:06:15.280><c> itself.</c><00:06:16.000><c> And</c><00:06:16.240><c> more</c><00:06:16.479><c> moving</c>
+point in and of itself. And more moving
+point in and of itself. And more moving
+parts<00:06:17.520><c> are</c><00:06:17.840><c> required</c><00:06:18.240><c> to</c><00:06:18.479><c> keep</c><00:06:18.800><c> everything</c>
+parts are required to keep everything
+parts are required to keep everything
+fast<00:06:19.680><c> and</c><00:06:20.000><c> reliable.</c><00:06:20.639><c> The</c><00:06:20.880><c> site</c><00:06:21.199><c> wants</c><00:06:21.440><c> to</c><00:06:21.680><c> be</c>
+fast and reliable. The site wants to be
+fast and reliable. The site wants to be
+simple<00:06:22.479><c> and</c><00:06:22.720><c> it</c><00:06:22.880><c> wants</c><00:06:23.120><c> to</c><00:06:23.280><c> be</c><00:06:23.440><c> stable</c><00:06:23.680><c> and</c><00:06:23.840><c> it</c>
+simple and it wants to be stable and it
+simple and it wants to be stable and it
+wants<00:06:24.160><c> to</c><00:06:24.319><c> be</c><00:06:24.400><c> pre-built.</c><00:06:25.039><c> The</c><00:06:25.199><c> CMS</c>
+wants to be pre-built. The CMS
+wants to be pre-built. The CMS
+introduces<00:06:26.560><c> additional</c><00:06:27.120><c> uptime</c>
+introduces additional uptime
+introduces additional uptime
+dependencies,<00:06:28.560><c> additional</c><00:06:29.120><c> special</c><00:06:29.520><c> modes,</c>
+dependencies, additional special modes,
+dependencies, additional special modes,
+and<00:06:30.400><c> so</c><00:06:30.960><c> there's</c><00:06:31.280><c> a</c><00:06:31.440><c> legitimate</c><00:06:32.000><c> cost</c><00:06:32.319><c> markup</c>
+and so there's a legitimate cost markup
+and so there's a legitimate cost markup
+to<00:06:32.960><c> this</c><00:06:33.600><c> that</c><00:06:33.919><c> the</c><00:06:34.240><c> organization</c><00:06:35.120><c> pays</c><00:06:35.840><c> even</c>
+to this that the organization pays even
+to this that the organization pays even
+if<00:06:36.319><c> you're</c><00:06:36.560><c> not</c><00:06:36.800><c> thinking</c><00:06:37.120><c> about</c><00:06:37.360><c> the</c><00:06:37.520><c> agent</c>
+if you're not thinking about the agent
+if you're not thinking about the agent
+side.<00:06:38.960><c> Spent</c><00:06:39.360><c> and</c><00:06:39.600><c> lease</c><00:06:39.919><c> shares</c><00:06:40.160><c> this</c><00:06:40.400><c> cursor</c>
+side. Spent and lease shares this cursor
+side. Spent and lease shares this cursor
+spent<00:06:41.120><c> $56,000</c>
+spent $56,000
+spent $56,000
+on<00:06:43.360><c> CMS</c><00:06:44.000><c> usage</c><00:06:44.400><c> since</c><00:06:44.720><c> September,</c><00:06:45.440><c> which</c><00:06:45.680><c> is</c><00:06:46.319><c> a</c>
+on CMS usage since September, which is a
+on CMS usage since September, which is a
+really<00:06:46.960><c> hefty</c><00:06:47.440><c> markup</c><00:06:47.840><c> for</c><00:06:48.000><c> the</c><00:06:48.240><c> convenience</c>
+really hefty markup for the convenience
+really hefty markup for the convenience
+of<00:06:48.720><c> a</c><00:06:48.960><c> graphical</c><00:06:49.440><c> user</c><00:06:49.759><c> interface.</c><00:06:50.560><c> It</c><00:06:50.800><c> also</c>
+of a graphical user interface. It also
+of a graphical user interface. It also
+introduced<00:06:51.520><c> hidden</c><00:06:51.840><c> dependencies.</c><00:06:52.560><c> When</c>
+introduced hidden dependencies. When
+introduced hidden dependencies. When
+pieces<00:06:53.120><c> of</c><00:06:53.280><c> the</c><00:06:53.440><c> site</c><00:06:53.680><c> come</c><00:06:53.840><c> from</c><00:06:54.080><c> network</c>
+pieces of the site come from network
+pieces of the site come from network
+fetches<00:06:55.039><c> or</c><00:06:55.360><c> humans</c><00:06:55.840><c> can't</c><00:06:56.000><c> easily</c><00:06:56.400><c> answer</c>
+fetches or humans can't easily answer
+fetches or humans can't easily answer
+where<00:06:56.880><c> does</c><00:06:57.039><c> this</c><00:06:57.280><c> piece</c><00:06:57.440><c> of</c><00:06:57.520><c> the</c><00:06:57.759><c> site</c><00:06:58.000><c> come</c>
+where does this piece of the site come
+where does this piece of the site come
+from,<00:06:58.639><c> Lee</c><00:06:59.360><c> points</c><00:06:59.680><c> out</c><00:07:00.080><c> that</c><00:07:00.319><c> that</c><00:07:00.639><c> inability</c>
+from, Lee points out that that inability
+from, Lee points out that that inability
+to<00:07:01.759><c> completely</c><00:07:02.319><c> and</c><00:07:02.560><c> clearly</c><00:07:03.039><c> explain</c><00:07:03.440><c> what</c>
+to completely and clearly explain what
+to completely and clearly explain what
+is<00:07:03.840><c> going</c><00:07:04.000><c> on</c><00:07:04.160><c> the</c><00:07:04.400><c> site</c><00:07:04.880><c> that</c><00:07:05.199><c> introduces</c>
+is going on the site that introduces
+is going on the site that introduces
+additional<00:07:06.800><c> costs</c><00:07:07.120><c> in</c><00:07:07.440><c> time</c><00:07:07.919><c> and</c><00:07:08.240><c> knowledge</c>
+additional costs in time and knowledge
+additional costs in time and knowledge
+and<00:07:09.039><c> maintaining</c><00:07:09.759><c> hidden</c><00:07:10.240><c> state</c><00:07:10.479><c> in</c><00:07:10.720><c> our</c>
+and maintaining hidden state in our
+and maintaining hidden state in our
+heads<00:07:11.360><c> that</c><00:07:11.599><c> is</c><00:07:11.840><c> really</c><00:07:12.160><c> expensive.</c><00:07:13.280><c> So</c><00:07:13.840><c> this</c>
+heads that is really expensive. So this
+heads that is really expensive. So this
+is<00:07:14.479><c> the</c><00:07:15.039><c> actual</c><00:07:15.759><c> state</c><00:07:16.479><c> most</c><00:07:16.800><c> of</c><00:07:16.960><c> us</c><00:07:17.280><c> face</c><00:07:17.599><c> with</c>
+is the actual state most of us face with
+is the actual state most of us face with
+graphical<00:07:18.479><c> user</c><00:07:18.880><c> interfaces.</c><00:07:19.840><c> This</c><00:07:20.160><c> is</c><00:07:20.319><c> the</c>
+graphical user interfaces. This is the
+graphical user interfaces. This is the
+size<00:07:20.880><c> of</c><00:07:21.120><c> the</c><00:07:21.440><c> tax</c><00:07:22.000><c> that</c><00:07:22.319><c> we</c><00:07:22.560><c> have</c><00:07:22.800><c> been</c><00:07:23.039><c> paying</c>
+size of the tax that we have been paying
+size of the tax that we have been paying
+for<00:07:24.160><c> non-technical</c><00:07:25.199><c> people</c><00:07:25.919><c> to</c><00:07:26.240><c> use</c>
+for non-technical people to use
+for non-technical people to use
+non-technical<00:07:27.520><c> tools</c><00:07:27.840><c> that</c><00:07:28.080><c> are</c>
+non-technical tools that are
+non-technical tools that are
+abstractions<00:07:29.360><c> over</c><00:07:29.759><c> a</c><00:07:30.080><c> technical</c><00:07:30.639><c> workflow.</c>
+abstractions over a technical workflow.
+abstractions over a technical workflow.
+What<00:07:31.840><c> has</c><00:07:32.080><c> changed</c><00:07:32.880><c> is</c><00:07:33.120><c> that</c><00:07:33.360><c> it</c><00:07:33.680><c> is</c><00:07:33.840><c> now</c>
+What has changed is that it is now
+What has changed is that it is now
+absolutely<00:07:35.440><c> possible</c><00:07:36.160><c> for</c><00:07:36.479><c> non-technical</c>
+absolutely possible for non-technical
+absolutely possible for non-technical
+people<00:07:37.680><c> to</c><00:07:38.000><c> drive</c><00:07:38.400><c> technical</c><00:07:39.039><c> agents</c>
+people to drive technical agents
+people to drive technical agents
+directly<00:07:40.720><c> against</c><00:07:41.360><c> the</c><00:07:41.680><c> workflow</c><00:07:42.319><c> code</c>
+directly against the workflow code
+directly against the workflow code
+itself.<00:07:43.840><c> And</c><00:07:44.080><c> so</c><00:07:44.319><c> why</c><00:07:44.560><c> would</c><00:07:44.720><c> you</c><00:07:44.880><c> pay</c><00:07:45.120><c> the</c><00:07:45.280><c> tax</c>
+itself. And so why would you pay the tax
+itself. And so why would you pay the tax
+on<00:07:45.759><c> the</c><00:07:45.919><c> abstraction</c><00:07:46.560><c> anymore?</c><00:07:47.280><c> Why</c><00:07:47.520><c> not</c><00:07:47.759><c> move</c>
+on the abstraction anymore? Why not move
+on the abstraction anymore? Why not move
+back<00:07:48.240><c> to</c><00:07:48.479><c> the</c><00:07:48.639><c> work</c><00:07:48.880><c> surface</c><00:07:49.280><c> that</c><00:07:49.520><c> is</c><00:07:49.680><c> legible</c>
+back to the work surface that is legible
+back to the work surface that is legible
+to<00:07:50.479><c> both</c><00:07:50.720><c> humans</c><00:07:51.360><c> and</c><00:07:51.599><c> agents,</c><00:07:52.319><c> raw</c><00:07:52.720><c> code</c><00:07:53.120><c> and</c>
+to both humans and agents, raw code and
+to both humans and agents, raw code and
+marked<00:07:53.759><c> outdown?</c><00:07:54.080><c> That's</c><00:07:54.240><c> what</c><00:07:54.400><c> Lee</c><00:07:54.720><c> did.</c><00:07:54.960><c> And</c>
+marked outdown? That's what Lee did. And
+marked outdown? That's what Lee did. And
+that<00:07:55.360><c> move</c><00:07:55.680><c> collapsed</c><00:07:56.400><c> all</c><00:07:56.639><c> of</c><00:07:56.720><c> the</c>
+that move collapsed all of the
+that move collapsed all of the
+complexity<00:07:57.599><c> of</c><00:07:57.840><c> cursor's</c><00:07:58.479><c> website</c><00:07:58.960><c> into</c><00:07:59.280><c> a</c>
+complexity of cursor's website into a
+complexity of cursor's website into a
+single<00:07:59.840><c> inspectable</c><00:08:00.560><c> place.</c><00:08:01.199><c> So</c><00:08:01.360><c> if</c><00:08:01.599><c> you're</c>
+single inspectable place. So if you're
+single inspectable place. So if you're
+not<00:08:02.000><c> technical,</c><00:08:02.879><c> what</c><00:08:03.039><c> you</c><00:08:03.199><c> need</c><00:08:03.360><c> to</c>
+not technical, what you need to
+not technical, what you need to
+understand<00:08:04.080><c> is</c><00:08:04.319><c> that</c><00:08:04.560><c> the</c><00:08:04.800><c> work</c><00:08:05.039><c> moved</c><00:08:05.440><c> from</c>
+understand is that the work moved from
+understand is that the work moved from
+state<00:08:06.080><c> that</c><00:08:06.319><c> was</c><00:08:06.560><c> hidden</c><00:08:06.879><c> inside</c><00:08:07.280><c> of</c><00:08:07.440><c> a</c><00:08:07.680><c> tool</c>
+state that was hidden inside of a tool
+state that was hidden inside of a tool
+to<00:08:08.800><c> artifacts</c><00:08:09.520><c> everybody,</c><00:08:10.240><c> including</c><00:08:10.720><c> agents</c>
+to artifacts everybody, including agents
+to artifacts everybody, including agents
+can<00:08:11.599><c> see,</c><00:08:12.160><c> review,</c><00:08:12.560><c> and</c><00:08:12.879><c> undo.</c><00:08:13.520><c> And</c><00:08:13.759><c> that's</c>
+can see, review, and undo. And that's
+can see, review, and undo. And that's
+what<00:08:14.160><c> really</c><00:08:14.400><c> matters</c><00:08:14.720><c> here.</c><00:08:15.199><c> So</c><00:08:15.520><c> Curser's</c>
+what really matters here. So Curser's
+what really matters here. So Curser's
+advantage<00:08:16.560><c> isn't</c><00:08:16.960><c> really</c><00:08:17.280><c> AI</c><00:08:17.680><c> agents.</c>
+advantage isn't really AI agents.
+advantage isn't really AI agents.
+Everyone's<00:08:18.639><c> going</c><00:08:18.800><c> to</c><00:08:18.879><c> make</c><00:08:19.039><c> a</c><00:08:19.280><c> big</c><00:08:19.440><c> deal</c><00:08:19.599><c> out</c>
+Everyone's going to make a big deal out
+Everyone's going to make a big deal out
+of<00:08:19.919><c> the</c><00:08:20.080><c> fact</c><00:08:20.160><c> that</c><00:08:20.319><c> Lee</c><00:08:20.639><c> used</c><00:08:20.960><c> 300</c><00:08:21.440><c> some</c><00:08:21.680><c> agent</c>
+of the fact that Lee used 300 some agent
+of the fact that Lee used 300 some agent
+pull<00:08:22.319><c> requests.</c><00:08:23.120><c> That's</c><00:08:23.440><c> not</c><00:08:23.680><c> really</c><00:08:24.000><c> it.</c>
+pull requests. That's not really it.
+pull requests. That's not really it.
+It's<00:08:24.800><c> that</c><00:08:25.039><c> the</c><00:08:25.360><c> whole</c><00:08:25.759><c> company</c><00:08:26.240><c> is</c><00:08:26.639><c> technical</c>
+It's that the whole company is technical
+It's that the whole company is technical
+by<00:08:27.520><c> default.</c><00:08:28.160><c> Because</c><00:08:28.400><c> when</c><00:08:28.639><c> I</c><00:08:28.800><c> ask</c><00:08:29.199><c> myself</c>
+by default. Because when I ask myself
+by default. Because when I ask myself
+what<00:08:30.240><c> is</c><00:08:30.400><c> stopping</c><00:08:30.800><c> other</c><00:08:31.039><c> companies</c><00:08:31.440><c> from</c>
+what is stopping other companies from
+what is stopping other companies from
+doing<00:08:32.399><c> this,</c><00:08:33.039><c> the</c><00:08:33.360><c> thing</c><00:08:33.440><c> that</c><00:08:33.760><c> I</c><00:08:34.320><c> come</c><00:08:34.560><c> up</c>
+doing this, the thing that I come up
+doing this, the thing that I come up
+against<00:08:35.440><c> over</c><00:08:35.680><c> and</c><00:08:35.919><c> over</c><00:08:36.240><c> again</c><00:08:36.880><c> is</c><00:08:37.120><c> that</c>
+against over and over again is that
+against over and over again is that
+cursor<00:08:37.760><c> is</c><00:08:38.000><c> building</c><00:08:38.240><c> a</c><00:08:38.560><c> culture</c><00:08:38.880><c> where</c>
+cursor is building a culture where
+cursor is building a culture where
+technical<00:08:39.760><c> is</c><00:08:40.000><c> not</c><00:08:40.159><c> a</c><00:08:40.399><c> department.</c><00:08:41.039><c> It's</c><00:08:41.200><c> a</c>
+technical is not a department. It's a
+technical is not a department. It's a
+default<00:08:42.080><c> posture.</c><00:08:42.880><c> And</c><00:08:43.279><c> Lee</c><00:08:43.599><c> describes</c><00:08:43.919><c> this</c>
+default posture. And Lee describes this
+default posture. And Lee describes this
+explicitly<00:08:44.720><c> when</c><00:08:45.040><c> describing</c><00:08:45.440><c> user</c>
+explicitly when describing user
+explicitly when describing user
+management.<00:08:46.240><c> He</c><00:08:46.480><c> says</c><00:08:47.040><c> designers</c><00:08:47.680><c> are</c>
+management. He says designers are
+management. He says designers are
+developers.<00:08:48.959><c> This</c><00:08:49.200><c> is</c><00:08:49.360><c> absolutely</c><00:08:49.920><c> the</c><00:08:50.240><c> case</c>
+developers. This is absolutely the case
+developers. This is absolutely the case
+at<00:08:50.640><c> OpenAI</c><00:08:51.440><c> as</c><00:08:51.680><c> well.</c><00:08:52.240><c> And</c><00:08:52.480><c> it's</c><00:08:52.800><c> absolutely</c>
+at OpenAI as well. And it's absolutely
+at OpenAI as well. And it's absolutely
+the<00:08:53.600><c> case</c><00:08:53.760><c> at</c><00:08:54.000><c> AI</c><00:08:54.320><c> native</c><00:08:54.640><c> organizations</c><00:08:55.680><c> that</c>
+the case at AI native organizations that
+the case at AI native organizations that
+I<00:08:56.160><c> have</c><00:08:56.399><c> run</c><00:08:56.560><c> into</c><00:08:57.279><c> all</c><00:08:57.519><c> over</c><00:08:57.680><c> the</c><00:08:57.920><c> world</c><00:08:58.080><c> in</c>
+I have run into all over the world in
+I have run into all over the world in
+the<00:08:58.480><c> last</c><00:08:58.640><c> year.</c><00:08:59.120><c> It</c><00:08:59.440><c> can</c><00:08:59.680><c> sound</c><00:09:00.000><c> radical</c><00:09:00.480><c> if</c>
+the last year. It can sound radical if
+the last year. It can sound radical if
+you're<00:09:00.880><c> in</c><00:09:01.040><c> a</c><00:09:01.200><c> traditional</c><00:09:01.600><c> business,</c><00:09:01.920><c> but</c><00:09:02.240><c> at</c>
+you're in a traditional business, but at
+you're in a traditional business, but at
+Kurser<00:09:02.800><c> and</c><00:09:02.880><c> other</c><00:09:03.040><c> companies,</c><00:09:03.519><c> it's</c><00:09:03.760><c> really</c>
+Kurser and other companies, it's really
+Kurser and other companies, it's really
+just<00:09:04.240><c> normal.</c><00:09:05.040><c> It</c><00:09:05.440><c> does</c><00:09:05.680><c> not</c><00:09:06.080><c> mean</c><00:09:06.800><c> that</c><00:09:07.279><c> you</c>
+just normal. It does not mean that you
+just normal. It does not mean that you
+don't<00:09:07.839><c> have</c><00:09:08.080><c> non-technical</c><00:09:09.040><c> staff.</c><00:09:09.680><c> It</c><00:09:10.000><c> means</c>
+don't have non-technical staff. It means
+don't have non-technical staff. It means
+that<00:09:10.640><c> everybody</c><00:09:11.120><c> is</c><00:09:11.440><c> semi-technical.</c><00:09:12.800><c> And</c>
+that everybody is semi-technical. And
+that everybody is semi-technical. And
+when<00:09:13.200><c> you</c><00:09:13.440><c> talk</c><00:09:13.600><c> to</c><00:09:13.839><c> folks</c><00:09:14.480><c> like</c><00:09:14.800><c> designers,</c>
+when you talk to folks like designers,
+when you talk to folks like designers,
+which<00:09:15.600><c> I've</c><00:09:15.839><c> done,</c><00:09:16.399><c> who</c><00:09:16.720><c> are</c><00:09:16.959><c> also</c><00:09:17.519><c> committing</c>
+which I've done, who are also committing
+which I've done, who are also committing
+code,<00:09:18.800><c> they're</c><00:09:19.200><c> surprisingly</c><00:09:20.000><c> open-minded</c>
+code, they're surprisingly open-minded
+code, they're surprisingly open-minded
+about<00:09:20.800><c> it.</c><00:09:21.040><c> They</c><00:09:21.200><c> say,</c><00:09:21.440><c> you</c><00:09:21.600><c> know</c><00:09:21.680><c> what,</c><00:09:22.000><c> I</c>
+about it. They say, you know what, I
+about it. They say, you know what, I
+don't<00:09:22.640><c> worry</c><00:09:22.959><c> a</c><00:09:23.200><c> lot</c><00:09:23.440><c> about</c><00:09:23.839><c> exactly</c><00:09:24.399><c> where</c><00:09:24.800><c> my</c>
+don't worry a lot about exactly where my
+don't worry a lot about exactly where my
+job<00:09:25.440><c> family</c><00:09:25.839><c> ends</c><00:09:26.160><c> up.</c><00:09:26.640><c> I'm</c><00:09:27.040><c> interested</c><00:09:27.360><c> in</c>
+job family ends up. I'm interested in
+job family ends up. I'm interested in
+solving<00:09:28.000><c> problems.</c><00:09:28.560><c> I</c><00:09:28.800><c> bring</c><00:09:28.959><c> a</c><00:09:29.200><c> design</c>
+solving problems. I bring a design
+solving problems. I bring a design
+mindset<00:09:30.080><c> to</c><00:09:30.320><c> solving</c><00:09:30.720><c> problems.</c><00:09:31.440><c> I</c><00:09:31.680><c> happen</c><00:09:31.920><c> to</c>
+mindset to solving problems. I happen to
+mindset to solving problems. I happen to
+have<00:09:32.160><c> a</c><00:09:32.399><c> tool</c><00:09:32.640><c> set</c><00:09:32.880><c> that</c><00:09:33.120><c> allows</c><00:09:33.360><c> me</c><00:09:33.519><c> to</c>
+have a tool set that allows me to
+have a tool set that allows me to
+iterate<00:09:34.080><c> really</c><00:09:34.399><c> quickly</c><00:09:34.720><c> with</c><00:09:35.040><c> code,</c><00:09:35.519><c> which</c>
+iterate really quickly with code, which
+iterate really quickly with code, which
+keeps<00:09:36.160><c> me</c><00:09:36.480><c> closer</c><00:09:36.880><c> to</c><00:09:37.120><c> the</c><00:09:37.360><c> problem</c><00:09:37.760><c> space,</c>
+keeps me closer to the problem space,
+keeps me closer to the problem space,
+and<00:09:38.320><c> I</c><00:09:38.560><c> love</c><00:09:38.720><c> that.</c><00:09:39.360><c> That</c><00:09:39.600><c> is</c><00:09:39.760><c> the</c><00:09:40.080><c> kind</c><00:09:40.240><c> of</c>
+and I love that. That is the kind of
+and I love that. That is the kind of
+attitude<00:09:41.040><c> that</c><00:09:41.279><c> we</c><00:09:41.519><c> need</c><00:09:42.240><c> across</c><00:09:42.720><c> the</c><00:09:43.040><c> board</c>
+attitude that we need across the board
+attitude that we need across the board
+in<00:09:43.760><c> our</c><00:09:44.000><c> organizations.</c><00:09:45.040><c> By</c><00:09:45.279><c> the</c><00:09:45.360><c> way,</c><00:09:45.600><c> this</c>
+in our organizations. By the way, this
+in our organizations. By the way, this
+is<00:09:45.839><c> not</c><00:09:46.000><c> just</c><00:09:46.240><c> Lee's</c><00:09:46.640><c> personal</c><00:09:47.279><c> vibe</c><00:09:47.600><c> or</c><00:09:47.839><c> take.</c>
+is not just Lee's personal vibe or take.
+is not just Lee's personal vibe or take.
+Colossus<00:09:49.040><c> has</c><00:09:49.279><c> actually</c><00:09:49.440><c> written</c><00:09:49.760><c> up</c><00:09:49.920><c> a</c>
+Colossus has actually written up a
+Colossus has actually written up a
+comprehensive<00:09:50.720><c> profile</c><00:09:51.200><c> on</c><00:09:51.440><c> Cursor's</c><00:09:51.920><c> go</c><00:09:52.080><c> to</c>
+comprehensive profile on Cursor's go to
+comprehensive profile on Cursor's go to
+market<00:09:52.560><c> team</c><00:09:52.800><c> and</c><00:09:53.040><c> noted</c><00:09:53.360><c> that</c><00:09:53.519><c> they're</c>
+market team and noted that they're
+market team and noted that they're
+surprisingly<00:09:54.399><c> technical</c><00:09:54.880><c> and</c><00:09:55.120><c> they</c><00:09:55.279><c> use</c>
+surprisingly technical and they use
+surprisingly technical and they use
+Cursor<00:09:56.000><c> itself</c><00:09:56.399><c> for</c><00:09:56.640><c> website</c><00:09:57.120><c> updates,</c><00:09:57.600><c> for</c>
+Cursor itself for website updates, for
+Cursor itself for website updates, for
+dashboards,<00:09:58.480><c> for</c><00:09:58.640><c> internal</c><00:09:59.120><c> tooling</c><00:09:59.920><c> and</c>
+dashboards, for internal tooling and
+dashboards, for internal tooling and
+they<00:10:00.399><c> ship</c><00:10:00.640><c> that</c><00:10:00.959><c> work</c><00:10:01.200><c> directly.</c><00:10:01.680><c> They</c><00:10:01.839><c> do</c>
+they ship that work directly. They do
+they ship that work directly. They do
+not<00:10:02.160><c> route</c><00:10:02.480><c> everything</c><00:10:02.800><c> through</c>
+not route everything through
+not route everything through
+engineering.<00:10:04.000><c> And</c><00:10:04.240><c> so</c><00:10:04.640><c> if</c><00:10:04.959><c> you</c><00:10:05.200><c> think</c><00:10:05.360><c> about</c>
+engineering. And so if you think about
+engineering. And so if you think about
+it,<00:10:06.160><c> that</c><00:10:06.560><c> mindset</c><00:10:07.200><c> of</c><00:10:07.519><c> getting</c><00:10:07.839><c> as</c><00:10:08.160><c> close</c><00:10:08.399><c> to</c>
+it, that mindset of getting as close to
+it, that mindset of getting as close to
+the<00:10:08.800><c> code</c><00:10:09.120><c> as</c><00:10:09.279><c> you</c><00:10:09.519><c> can</c><00:10:09.760><c> and</c><00:10:10.000><c> allowing</c><00:10:10.399><c> the</c>
+the code as you can and allowing the
+the code as you can and allowing the
+code<00:10:10.880><c> to</c><00:10:11.200><c> establish</c><00:10:11.680><c> primitives</c><00:10:12.240><c> that</c><00:10:12.399><c> agents</c>
+code to establish primitives that agents
+code to establish primitives that agents
+can<00:10:13.040><c> build</c><00:10:13.279><c> against,</c><00:10:14.079><c> that</c><00:10:14.320><c> is</c><00:10:14.640><c> scalable</c><00:10:15.200><c> and</c>
+can build against, that is scalable and
+can build against, that is scalable and
+that<00:10:15.760><c> leads</c><00:10:16.160><c> to</c><00:10:16.640><c> surprisingly</c><00:10:17.440><c> efficient</c>
+that leads to surprisingly efficient
+that leads to surprisingly efficient
+thinking<00:10:18.720><c> because</c><00:10:19.120><c> you're</c><00:10:19.440><c> thinking</c><00:10:19.680><c> in</c>
+thinking because you're thinking in
+thinking because you're thinking in
+terms<00:10:20.079><c> of</c><00:10:20.160><c> the</c><00:10:20.399><c> core</c><00:10:20.640><c> artifacts</c><00:10:21.200><c> that</c>
+terms of the core artifacts that
+terms of the core artifacts that
+everybody<00:10:21.839><c> can</c><00:10:22.079><c> see</c><00:10:22.320><c> and</c><00:10:22.560><c> work</c><00:10:22.720><c> against.</c><00:10:23.279><c> And</c>
+everybody can see and work against. And
+everybody can see and work against. And
+so<00:10:23.600><c> internal</c><00:10:24.000><c> debates</c><00:10:24.480><c> at</c><00:10:24.560><c> Cursor</c><00:10:25.519><c> look</c><00:10:25.760><c> like</c>
+so internal debates at Cursor look like
+so internal debates at Cursor look like
+the<00:10:26.240><c> kinds</c><00:10:26.480><c> of</c><00:10:26.560><c> debates</c><00:10:26.959><c> we</c><00:10:27.120><c> all</c><00:10:27.279><c> dream</c><00:10:27.519><c> about</c>
+the kinds of debates we all dream about
+the kinds of debates we all dream about
+as<00:10:28.000><c> leader.</c><00:10:28.560><c> People</c><00:10:28.880><c> talk</c><00:10:29.120><c> about</c><00:10:29.360><c> whether</c>
+as leader. People talk about whether
+as leader. People talk about whether
+something<00:10:30.000><c> gets</c><00:10:30.240><c> used</c><00:10:30.480><c> and</c><00:10:30.640><c> if</c><00:10:30.880><c> not</c><00:10:31.279><c> they</c>
+something gets used and if not they
+something gets used and if not they
+proactively<00:10:32.160><c> move</c><00:10:32.399><c> to</c><00:10:32.640><c> kill</c><00:10:32.800><c> it.</c><00:10:33.120><c> There's</c><00:10:33.360><c> a</c>
+proactively move to kill it. There's a
+proactively move to kill it. There's a
+culture<00:10:33.839><c> of</c><00:10:34.000><c> dog</c><00:10:34.240><c> fooding</c><00:10:34.640><c> and</c><00:10:34.800><c> testing</c><00:10:35.200><c> that</c>
+culture of dog fooding and testing that
+culture of dog fooding and testing that
+keeps<00:10:35.680><c> the</c><00:10:35.920><c> defaults</c><00:10:36.480><c> continuing</c><00:10:36.959><c> to</c><00:10:37.120><c> evolve</c>
+keeps the defaults continuing to evolve
+keeps the defaults continuing to evolve
+as<00:10:37.760><c> we</c><00:10:37.920><c> try</c><00:10:38.160><c> stuff.</c><00:10:38.640><c> Cursor</c><00:10:39.040><c> has</c><00:10:39.200><c> a</c><00:10:39.360><c> pre-hip</c>
+as we try stuff. Cursor has a pre-hip
+as we try stuff. Cursor has a pre-hip
+ritual<00:10:40.320><c> called</c><00:10:40.480><c> a</c><00:10:40.720><c> fuzz</c><00:10:41.120><c> where</c><00:10:41.440><c> everyone</c>
+ritual called a fuzz where everyone
+ritual called a fuzz where everyone
+tries<00:10:42.079><c> to</c><00:10:42.240><c> break</c><00:10:42.399><c> the</c><00:10:42.640><c> release</c><00:10:42.959><c> and</c><00:10:43.200><c> then</c>
+tries to break the release and then
+tries to break the release and then
+fixes<00:10:44.000><c> land</c><00:10:44.399><c> fast</c><00:10:45.279><c> because</c><00:10:46.160><c> everyone</c><00:10:46.640><c> has</c>
+fixes land fast because everyone has
+fixes land fast because everyone has
+actually<00:10:47.279><c> tried</c><00:10:47.600><c> the</c><00:10:47.839><c> new</c><00:10:48.000><c> thing.</c><00:10:48.640><c> This</c><00:10:48.880><c> is</c>
+actually tried the new thing. This is
+actually tried the new thing. This is
+not<00:10:49.680><c> startup</c><00:10:50.160><c> chaos.</c><00:10:50.720><c> This</c><00:10:50.880><c> is</c><00:10:51.040><c> not</c><00:10:51.200><c> something</c>
+not startup chaos. This is not something
+not startup chaos. This is not something
+that's<00:10:51.839><c> impossible</c><00:10:52.320><c> to</c><00:10:52.560><c> copy</c><00:10:52.880><c> at</c><00:10:53.040><c> a</c><00:10:53.200><c> larger</c>
+that's impossible to copy at a larger
+that's impossible to copy at a larger
+scale.<00:10:54.160><c> It's</c><00:10:54.480><c> actually</c><00:10:54.640><c> a</c><00:10:54.880><c> very</c><00:10:55.120><c> coherent</c>
+scale. It's actually a very coherent
+scale. It's actually a very coherent
+operating<00:10:56.079><c> model.</c><00:10:56.480><c> is</c><00:10:56.720><c> just</c><00:10:56.880><c> foreign</c><00:10:57.279><c> to</c><00:10:57.440><c> the</c>
+operating model. is just foreign to the
+operating model. is just foreign to the
+way<00:10:57.760><c> we've</c><00:10:58.079><c> worked</c><00:10:58.399><c> before</c><00:10:59.200><c> because</c><00:10:59.600><c> 20th</c>
+way we've worked before because 20th
+way we've worked before because 20th
+century<00:11:00.399><c> defaults</c><00:11:00.959><c> are</c><00:11:01.279><c> stuck</c><00:11:01.680><c> in</c><00:11:01.920><c> the</c><00:11:02.160><c> age</c><00:11:02.560><c> of</c>
+century defaults are stuck in the age of
+century defaults are stuck in the age of
+the<00:11:03.200><c> graphical</c><00:11:03.680><c> user</c><00:11:04.000><c> interface.</c><00:11:04.720><c> So</c><00:11:04.959><c> this</c>
+the graphical user interface. So this
+the graphical user interface. So this
+model<00:11:05.519><c> emphasizes</c><00:11:06.160><c> shared</c><00:11:06.480><c> agency.</c><00:11:07.120><c> It</c>
+model emphasizes shared agency. It
+model emphasizes shared agency. It
+emphasizes<00:11:07.920><c> a</c><00:11:08.240><c> shared</c><00:11:08.640><c> substrate</c><00:11:09.200><c> of</c>
+emphasizes a shared substrate of
+emphasizes a shared substrate of
+primitives<00:11:09.920><c> and</c><00:11:10.079><c> it</c><00:11:10.320><c> emphasized</c><00:11:10.880><c> shared</c>
+primitives and it emphasized shared
+primitives and it emphasized shared
+responsibility.<00:11:12.480><c> And</c><00:11:12.640><c> that</c><00:11:12.800><c> brings</c><00:11:13.040><c> me</c><00:11:13.200><c> to</c>
+responsibility. And that brings me to
+responsibility. And that brings me to
+the<00:11:13.519><c> deeper</c><00:11:13.920><c> thesis</c><00:11:14.480><c> that</c><00:11:14.720><c> we've</c><00:11:15.040><c> been</c>
+the deeper thesis that we've been
+the deeper thesis that we've been
+circling<00:11:15.760><c> around</c><00:11:16.000><c> in</c><00:11:16.320><c> this</c><00:11:16.560><c> conversation.</c>
+circling around in this conversation.
+circling around in this conversation.
+The<00:11:17.680><c> real</c><00:11:17.920><c> thesis</c><00:11:18.560><c> is</c><00:11:18.800><c> that</c><00:11:19.360><c> code</c><00:11:19.760><c> wins</c><00:11:20.399><c> is</c><00:11:20.720><c> not</c>
+The real thesis is that code wins is not
+The real thesis is that code wins is not
+about<00:11:21.200><c> engineers.</c><00:11:21.920><c> It's</c><00:11:22.240><c> about</c><00:11:22.640><c> how</c><00:11:22.959><c> you</c>
+about engineers. It's about how you
+about engineers. It's about how you
+extend<00:11:24.320><c> legibility,</c><00:11:25.360><c> investment,</c><00:11:26.000><c> and</c>
+extend legibility, investment, and
+extend legibility, investment, and
+leverage<00:11:26.959><c> across</c><00:11:27.360><c> your</c><00:11:27.680><c> entire</c>
+leverage across your entire
+leverage across your entire
+organizations.<00:11:29.360><c> When</c><00:11:29.680><c> executives</c><00:11:30.240><c> hear</c><00:11:30.480><c> code</c>
+organizations. When executives hear code
+organizations. When executives hear code
+wins,<00:11:31.120><c> it's</c><00:11:31.360><c> often</c><00:11:31.760><c> translated</c><00:11:32.240><c> as</c><00:11:32.480><c> an</c>
+wins, it's often translated as an
+wins, it's often translated as an
+engineering<00:11:33.200><c> slogan</c><00:11:33.680><c> that</c><00:11:33.920><c> means</c><00:11:34.240><c> engineers</c>
+engineering slogan that means engineers
+engineering slogan that means engineers
+win<00:11:35.200><c> versus</c><00:11:35.680><c> design</c><00:11:36.079><c> versus</c><00:11:36.480><c> product</c><00:11:36.800><c> versus</c>
+win versus design versus product versus
+win versus design versus product versus
+business<00:11:37.600><c> because</c><00:11:37.920><c> they</c><00:11:38.160><c> can</c><00:11:38.399><c> actually</c><00:11:38.880><c> put</c>
+business because they can actually put
+business because they can actually put
+the<00:11:39.360><c> product</c><00:11:39.680><c> out</c><00:11:39.839><c> there.</c><00:11:40.320><c> In</c><00:11:40.560><c> the</c><00:11:40.640><c> agentic</c>
+the product out there. In the agentic
+the product out there. In the agentic
+era,<00:11:41.680><c> it's</c><00:11:42.000><c> different.</c><00:11:42.640><c> It</c><00:11:42.880><c> becomes</c><00:11:43.360><c> more</c><00:11:43.680><c> of</c>
+era, it's different. It becomes more of
+era, it's different. It becomes more of
+a<00:11:44.000><c> strategic</c><00:11:44.720><c> law</c><00:11:45.040><c> for</c><00:11:45.279><c> how</c><00:11:45.440><c> we</c><00:11:45.600><c> operate</c><00:11:45.920><c> our</c>
+a strategic law for how we operate our
+a strategic law for how we operate our
+businesses.<00:11:46.880><c> Work</c><00:11:47.279><c> that</c><00:11:47.680><c> can</c><00:11:47.920><c> be</c><00:11:48.240><c> expressed</c>
+businesses. Work that can be expressed
+businesses. Work that can be expressed
+in<00:11:49.519><c> codelike</c><00:11:50.160><c> form</c><00:11:50.959><c> gets</c><00:11:51.279><c> a</c><00:11:51.519><c> fast</c><00:11:51.920><c> track</c><00:11:52.320><c> to</c>
+in codelike form gets a fast track to
+in codelike form gets a fast track to
+agents<00:11:53.760><c> because</c><00:11:54.640><c> the</c><00:11:54.959><c> entire</c><00:11:55.440><c> industry</c><00:11:56.000><c> is</c>
+agents because the entire industry is
+agents because the entire industry is
+investing<00:11:56.800><c> its</c><00:11:57.120><c> best</c><00:11:57.440><c> models,</c><00:11:57.920><c> its</c><00:11:58.160><c> best</c>
+investing its best models, its best
+investing its best models, its best
+tools,<00:11:58.959><c> its</c><00:11:59.200><c> best</c><00:11:59.440><c> safety</c><00:11:59.839><c> investments</c><00:12:00.320><c> and</c>
+tools, its best safety investments and
+tools, its best safety investments and
+mechanisms<00:12:01.200><c> and</c><00:12:01.440><c> every</c><00:12:01.839><c> evaluation</c>
+mechanisms and every evaluation
+mechanisms and every evaluation
+discipline<00:12:02.959><c> they</c><00:12:03.200><c> can</c><00:12:03.360><c> find</c><00:12:03.839><c> all</c><00:12:04.320><c> into</c><00:12:04.640><c> the</c>
+discipline they can find all into the
+discipline they can find all into the
+code<00:12:05.200><c> pathway.</c><00:12:06.000><c> And</c><00:12:06.160><c> you</c><00:12:06.399><c> can</c><00:12:06.480><c> see</c><00:12:06.639><c> this</c>
+code pathway. And you can see this
+code pathway. And you can see this
+clearly<00:12:07.120><c> in</c><00:12:07.440><c> anthropics</c><00:12:08.079><c> own</c><00:12:08.320><c> engineering</c>
+clearly in anthropics own engineering
+clearly in anthropics own engineering
+guidance<00:12:09.120><c> on</c><00:12:09.279><c> longrunning</c><00:12:09.839><c> agents.</c><00:12:10.880><c> They</c>
+guidance on longrunning agents. They
+guidance on longrunning agents. They
+describe<00:12:11.519><c> the</c><00:12:11.839><c> core</c><00:12:12.079><c> long-running</c><00:12:12.800><c> problem</c>
+describe the core long-running problem
+describe the core long-running problem
+the<00:12:13.600><c> same</c><00:12:14.000><c> way.</c><00:12:14.560><c> Agents</c><00:12:15.120><c> work</c><00:12:15.440><c> in</c><00:12:15.680><c> discrete</c>
+the same way. Agents work in discrete
+the same way. Agents work in discrete
+sessions<00:12:16.560><c> and</c><00:12:16.880><c> every</c><00:12:17.120><c> new</c><00:12:17.440><c> session</c><00:12:17.760><c> begins</c>
+sessions and every new session begins
+sessions and every new session begins
+with<00:12:18.240><c> no</c><00:12:18.480><c> memory.</c><00:12:18.880><c> We</c><00:12:19.040><c> talked</c><00:12:19.279><c> about</c><00:12:19.519><c> this</c>
+with no memory. We talked about this
+with no memory. We talked about this
+last<00:12:20.240><c> week.</c><00:12:20.800><c> Their</c><00:12:21.040><c> solution</c><00:12:21.440><c> is</c><00:12:21.760><c> not</c><00:12:22.240><c> magical</c>
+last week. Their solution is not magical
+last week. Their solution is not magical
+AI<00:12:23.120><c> memory.</c><00:12:23.519><c> It's</c><00:12:23.680><c> a</c><00:12:23.920><c> disciplined</c><00:12:24.399><c> harness.</c>
+AI memory. It's a disciplined harness.
+AI memory. It's a disciplined harness.
+Right?<00:12:25.279><c> Remember</c><00:12:25.600><c> we</c><00:12:25.760><c> talked</c><00:12:26.000><c> about</c><00:12:26.079><c> an</c>
+Right? Remember we talked about an
+Right? Remember we talked about an
+initializer<00:12:26.959><c> agent,</c><00:12:27.440><c> a</c><00:12:27.600><c> coding</c><00:12:27.920><c> agent</c><00:12:28.560><c> and</c>
+initializer agent, a coding agent and
+initializer agent, a coding agent and
+clear<00:12:29.120><c> artifacts</c><00:12:29.680><c> for</c><00:12:29.839><c> the</c><00:12:30.000><c> next</c><00:12:30.240><c> session.</c><00:12:31.040><c> So</c>
+clear artifacts for the next session. So
+clear artifacts for the next session. So
+the<00:12:31.760><c> key</c><00:12:32.000><c> thing</c><00:12:32.160><c> to</c><00:12:32.480><c> remember</c><00:12:33.120><c> is</c><00:12:33.360><c> that</c><00:12:33.600><c> those</c>
+the key thing to remember is that those
+the key thing to remember is that those
+artifacts<00:12:34.480><c> are</c><00:12:34.720><c> not</c><00:12:34.959><c> just</c><00:12:35.120><c> for</c><00:12:35.360><c> agents.</c><00:12:36.240><c> The</c>
+artifacts are not just for agents. The
+artifacts are not just for agents. The
+world<00:12:36.800><c> is</c><00:12:37.120><c> being</c><00:12:37.360><c> built</c><00:12:37.680><c> where</c><00:12:37.920><c> artifacts</c><00:12:38.560><c> are</c>
+world is being built where artifacts are
+world is being built where artifacts are
+already<00:12:39.279><c> native.</c><00:12:39.760><c> The</c><00:12:40.079><c> world</c><00:12:40.320><c> is</c><00:12:40.560><c> being</c><00:12:40.800><c> built</c>
+already native. The world is being built
+already native. The world is being built
+now<00:12:41.360><c> around</c><00:12:41.680><c> code</c><00:12:42.000><c> and</c><00:12:42.320><c> repos</c><00:12:42.720><c> and</c><00:12:42.959><c> tests</c><00:12:43.279><c> and</c>
+now around code and repos and tests and
+now around code and repos and tests and
+logs<00:12:43.839><c> and</c><00:12:44.079><c> markdown</c><00:12:44.800><c> files.</c><00:12:45.600><c> So</c><00:12:45.760><c> if</c><00:12:46.000><c> a</c>
+logs and markdown files. So if a
+logs and markdown files. So if a
+workflow<00:12:46.800><c> resolves</c><00:12:47.760><c> to</c><00:12:48.320><c> artifacts</c><00:12:49.200><c> plus</c>
+workflow resolves to artifacts plus
+workflow resolves to artifacts plus
+validation<00:12:50.240><c> and</c><00:12:50.399><c> checks,</c><00:12:50.959><c> it's</c><00:12:51.279><c> likely</c><00:12:51.600><c> that</c>
+validation and checks, it's likely that
+validation and checks, it's likely that
+agents<00:12:52.240><c> can</c><00:12:52.480><c> participate</c><00:12:52.959><c> in</c><00:12:53.200><c> execution</c>
+agents can participate in execution
+agents can participate in execution
+today.<00:12:54.959><c> But</c><00:12:55.120><c> if</c><00:12:55.360><c> a</c><00:12:55.519><c> workflow</c><00:12:56.079><c> lives</c><00:12:56.399><c> inside</c><00:12:56.800><c> a</c>
+today. But if a workflow lives inside a
+today. But if a workflow lives inside a
+tool<00:12:57.440><c> user</c><00:12:57.760><c> interface</c><00:12:58.240><c> state</c><00:12:58.560><c> and</c><00:12:58.720><c> a</c>
+tool user interface state and a
+tool user interface state and a
+graphical<00:12:59.680><c> clicky</c><00:13:00.240><c> based</c><00:13:00.800><c> software</c><00:13:01.760><c> that</c>
+graphical clicky based software that
+graphical clicky based software that
+humans<00:13:02.480><c> have</c><00:13:02.639><c> to</c><00:13:02.800><c> operate</c><00:13:03.120><c> and</c><00:13:03.440><c> humans</c><00:13:03.760><c> have</c>
+humans have to operate and humans have
+humans have to operate and humans have
+to<00:13:04.079><c> remember</c><00:13:04.480><c> how</c><00:13:04.639><c> to</c><00:13:04.880><c> adjust</c><00:13:05.600><c> and</c><00:13:05.839><c> it's</c><00:13:06.079><c> all</c>
+to remember how to adjust and it's all
+to remember how to adjust and it's all
+dependent<00:13:06.800><c> on</c><00:13:07.040><c> human</c><00:13:07.360><c> memory</c><00:13:07.760><c> plus</c><00:13:08.079><c> that</c><00:13:08.320><c> GUI</c>
+dependent on human memory plus that GUI
+dependent on human memory plus that GUI
+agents<00:13:09.839><c> at</c><00:13:10.160><c> best</c><00:13:10.959><c> remain</c><00:13:11.440><c> advisers</c><00:13:12.399><c> and</c><00:13:12.639><c> this</c>
+agents at best remain advisers and this
+agents at best remain advisers and this
+is<00:13:13.120><c> why</c><00:13:14.079><c> software</c><00:13:14.639><c> is</c><00:13:14.959><c> winning</c><00:13:15.440><c> first.</c><00:13:16.079><c> It's</c>
+is why software is winning first. It's
+is why software is winning first. It's
+not<00:13:16.560><c> because</c><00:13:16.880><c> engineers</c><00:13:17.600><c> are</c><00:13:17.839><c> better</c><00:13:18.240><c> people</c>
+not because engineers are better people
+not because engineers are better people
+or<00:13:19.040><c> are</c><00:13:19.279><c> more</c><00:13:19.519><c> deserving.</c><00:13:20.320><c> It's</c><00:13:20.560><c> because</c>
+or are more deserving. It's because
+or are more deserving. It's because
+software<00:13:21.440><c> is</c><00:13:21.760><c> already</c><00:13:22.160><c> built</c><00:13:22.800><c> around</c><00:13:23.120><c> the</c>
+software is already built around the
+software is already built around the
+infrastructure<00:13:24.079><c> of</c><00:13:24.399><c> legibility.</c><00:13:25.360><c> It's</c><00:13:25.680><c> built</c>
+infrastructure of legibility. It's built
+infrastructure of legibility. It's built
+around<00:13:26.240><c> version</c><00:13:26.639><c> history</c><00:13:26.959><c> and</c><00:13:27.200><c> diffs</c><00:13:27.600><c> and</c>
+around version history and diffs and
+around version history and diffs and
+tests<00:13:28.240><c> and</c><00:13:28.560><c> rollbacks</c><00:13:29.120><c> and</c><00:13:29.360><c> audit</c><00:13:29.680><c> trails.</c><00:13:30.320><c> So</c>
+tests and rollbacks and audit trails. So
+tests and rollbacks and audit trails. So
+fundamentally<00:13:31.680><c> when</c><00:13:31.920><c> you</c><00:13:32.079><c> are</c><00:13:32.320><c> looking</c><00:13:32.560><c> at</c>
+fundamentally when you are looking at
+fundamentally when you are looking at
+composable<00:13:33.519><c> workflows,</c><00:13:34.560><c> those</c><00:13:34.720><c> are</c><00:13:34.880><c> the</c>
+composable workflows, those are the
+composable workflows, those are the
+primitives<00:13:35.519><c> you</c><00:13:35.760><c> build</c><00:13:36.000><c> around.</c><00:13:36.480><c> And</c><00:13:36.639><c> that's</c>
+primitives you build around. And that's
+primitives you build around. And that's
+what<00:13:37.120><c> Lee</c><00:13:37.440><c> saw.</c><00:13:38.000><c> Lee</c><00:13:38.320><c> saw</c><00:13:39.120><c> you</c><00:13:39.440><c> didn't</c><00:13:39.680><c> need</c>
+what Lee saw. Lee saw you didn't need
+what Lee saw. Lee saw you didn't need
+the<00:13:40.160><c> graphical</c><00:13:40.639><c> user</c><00:13:40.959><c> interface.</c><00:13:41.760><c> You</c><00:13:42.000><c> could</c>
+the graphical user interface. You could
+the graphical user interface. You could
+have<00:13:42.320><c> all</c><00:13:42.480><c> the</c><00:13:42.639><c> muscle</c><00:13:42.959><c> and</c><00:13:43.279><c> power</c><00:13:43.519><c> of</c><00:13:43.680><c> the</c>
+have all the muscle and power of the
+have all the muscle and power of the
+software<00:13:44.880><c> just</c><00:13:45.200><c> by</c><00:13:45.839><c> tagging</c><00:13:46.320><c> cursor</c><00:13:46.639><c> in</c><00:13:46.880><c> the</c>
+software just by tagging cursor in the
+software just by tagging cursor in the
+command<00:13:47.279><c> line.</c><00:13:47.839><c> And</c><00:13:48.079><c> why</c><00:13:48.320><c> did</c><00:13:48.480><c> you</c><00:13:48.639><c> need</c><00:13:48.720><c> to</c><00:13:48.880><c> do</c>
+command line. And why did you need to do
+command line. And why did you need to do
+anything<00:13:49.279><c> else</c><00:13:49.440><c> if</c><00:13:49.680><c> you</c><00:13:49.920><c> actually</c><00:13:50.240><c> decompose</c>
+anything else if you actually decompose
+anything else if you actually decompose
+the<00:13:51.120><c> workflow</c><00:13:51.600><c> down?</c><00:13:52.079><c> And</c><00:13:52.320><c> so</c><00:13:52.560><c> I</c><00:13:52.800><c> got</c><00:13:53.040><c> to</c>
+the workflow down? And so I got to
+the workflow down? And so I got to
+thinking,<00:13:54.000><c> how</c><00:13:54.160><c> do</c><00:13:54.399><c> we</c><00:13:54.639><c> as</c><00:13:55.040><c> enterprise</c>
+thinking, how do we as enterprise
+thinking, how do we as enterprise
+leaders<00:13:56.079><c> start</c><00:13:56.320><c> to</c><00:13:56.720><c> teach</c><00:13:57.360><c> our</c><00:13:57.760><c> teams</c><00:13:58.240><c> to</c>
+leaders start to teach our teams to
+leaders start to teach our teams to
+think<00:13:58.800><c> this</c><00:13:59.120><c> way?</c><00:13:59.600><c> First,</c><00:13:59.920><c> I</c><00:14:00.160><c> think</c><00:14:00.320><c> we</c><00:14:00.560><c> need</c>
+think this way? First, I think we need
+think this way? First, I think we need
+to<00:14:01.279><c> really</c><00:14:01.680><c> emphasize</c><00:14:02.800><c> an</c><00:14:03.199><c> understanding</c><00:14:04.000><c> of</c>
+to really emphasize an understanding of
+to really emphasize an understanding of
+primitives<00:14:05.279><c> as</c><00:14:05.680><c> places</c><00:14:06.160><c> where</c><00:14:06.480><c> work</c><00:14:06.800><c> lives.</c><00:14:07.279><c> A</c>
+primitives as places where work lives. A
+primitives as places where work lives. A
+primitive<00:14:07.839><c> is</c><00:14:08.000><c> not</c><00:14:08.160><c> complicated.</c><00:14:08.639><c> It's</c><00:14:08.959><c> just</c>
+primitive is not complicated. It's just
+primitive is not complicated. It's just
+a<00:14:09.360><c> small</c><00:14:09.760><c> stable</c><00:14:10.240><c> building</c><00:14:10.560><c> block</c><00:14:10.880><c> that</c><00:14:11.199><c> stays</c>
+a small stable building block that stays
+a small stable building block that stays
+useful<00:14:11.920><c> even</c><00:14:12.240><c> when</c><00:14:12.480><c> tools</c><00:14:12.959><c> change.</c><00:14:13.680><c> There</c><00:14:13.920><c> are</c>
+useful even when tools change. There are
+useful even when tools change. There are
+a<00:14:14.639><c> couple</c><00:14:14.880><c> of</c><00:14:15.120><c> basic</c><00:14:15.519><c> primitive</c><00:14:16.079><c> stacks</c><00:14:16.480><c> out</c>
+a couple of basic primitive stacks out
+a couple of basic primitive stacks out
+there<00:14:16.720><c> that</c><00:14:16.959><c> I</c><00:14:17.120><c> think</c><00:14:17.199><c> I</c><00:14:17.440><c> want</c><00:14:17.519><c> to</c><00:14:17.680><c> emphasize.</c>
+there that I think I want to emphasize.
+there that I think I want to emphasize.
+You<00:14:18.560><c> need</c><00:14:18.720><c> a</c><00:14:18.959><c> clear</c><00:14:19.199><c> definition</c><00:14:19.680><c> of</c><00:14:19.920><c> done.</c><00:14:20.480><c> You</c>
+You need a clear definition of done. You
+You need a clear definition of done. You
+need<00:14:20.720><c> a</c><00:14:20.959><c> persistent</c><00:14:21.440><c> record</c><00:14:21.760><c> of</c><00:14:22.000><c> state</c><00:14:22.240><c> or</c>
+need a persistent record of state or
+need a persistent record of state or
+domain<00:14:22.800><c> memory.</c><00:14:23.199><c> I</c><00:14:23.440><c> talked</c><00:14:23.680><c> about</c><00:14:23.839><c> that.</c><00:14:24.320><c> You</c>
+domain memory. I talked about that. You
+domain memory. I talked about that. You
+need<00:14:24.560><c> a</c><00:14:24.800><c> process</c><00:14:25.120><c> for</c><00:14:25.360><c> how</c><00:14:25.600><c> work</c><00:14:25.839><c> progresses</c>
+need a process for how work progresses
+need a process for how work progresses
+and<00:14:26.560><c> how</c><00:14:26.720><c> it's</c><00:14:26.959><c> validated.</c><00:14:27.839><c> Without</c><00:14:28.480><c> those</c>
+and how it's validated. Without those
+and how it's validated. Without those
+three<00:14:29.199><c> things,</c><00:14:29.680><c> it's</c><00:14:29.920><c> hard</c><00:14:30.079><c> to</c><00:14:30.240><c> make</c><00:14:30.320><c> an</c><00:14:30.560><c> agent</c>
+three things, it's hard to make an agent
+three things, it's hard to make an agent
+reliable.<00:14:31.680><c> But</c><00:14:31.839><c> beyond</c><00:14:32.160><c> that,</c><00:14:32.560><c> you</c><00:14:32.800><c> also</c><00:14:33.040><c> need</c>
+reliable. But beyond that, you also need
+reliable. But beyond that, you also need
+to<00:14:33.440><c> understand</c><00:14:34.399><c> how</c><00:14:35.199><c> work</c><00:14:35.519><c> gets</c><00:14:35.839><c> done</c><00:14:36.000><c> across</c>
+to understand how work gets done across
+to understand how work gets done across
+the<00:14:36.639><c> organization.</c><00:14:37.519><c> And</c><00:14:37.760><c> most</c><00:14:38.000><c> enterprises</c>
+the organization. And most enterprises
+the organization. And most enterprises
+never<00:14:38.959><c> define</c><00:14:39.279><c> this</c><00:14:39.519><c> explicitly.</c><00:14:40.160><c> And</c><00:14:40.320><c> I</c>
+never define this explicitly. And I
+never define this explicitly. And I
+think<00:14:40.639><c> we're</c><00:14:40.880><c> paying</c><00:14:41.120><c> for</c><00:14:41.279><c> that</c><00:14:41.519><c> lack</c><00:14:41.760><c> of</c>
+think we're paying for that lack of
+think we're paying for that lack of
+definition.<00:14:42.880><c> We've</c><00:14:43.199><c> been</c><00:14:43.360><c> paying</c><00:14:43.600><c> for</c><00:14:43.760><c> it</c>
+definition. We've been paying for it
+definition. We've been paying for it
+through<00:14:44.160><c> graphical</c><00:14:44.639><c> user</c><00:14:44.959><c> interfaces</c><00:14:45.600><c> where</c>
+through graphical user interfaces where
+through graphical user interfaces where
+humans<00:14:46.480><c> use</c><00:14:46.800><c> tribal</c><00:14:47.360><c> knowledge</c><00:14:48.000><c> to</c>
+humans use tribal knowledge to
+humans use tribal knowledge to
+accomplish<00:14:48.959><c> workflows</c><00:14:49.519><c> by</c><00:14:49.760><c> clicking</c><00:14:50.160><c> things.</c>
+accomplish workflows by clicking things.
+accomplish workflows by clicking things.
+That's<00:14:50.959><c> no</c><00:14:51.199><c> longer</c><00:14:51.519><c> needed</c><00:14:52.079><c> really.</c><00:14:52.720><c> And</c><00:14:52.880><c> so</c>
+That's no longer needed really. And so
+That's no longer needed really. And so
+we<00:14:53.440><c> need</c><00:14:53.600><c> to</c><00:14:53.680><c> start</c><00:14:53.920><c> to</c><00:14:54.079><c> ask</c><00:14:54.240><c> ourselves</c><00:14:54.720><c> harder</c>
+we need to start to ask ourselves harder
+we need to start to ask ourselves harder
+questions.<00:14:55.839><c> What</c><00:14:56.079><c> are</c><00:14:56.240><c> the</c><00:14:56.480><c> work</c><00:14:56.880><c> primitives</c>
+questions. What are the work primitives
+questions. What are the work primitives
+that<00:14:57.920><c> drive</c><00:14:58.480><c> operational</c><00:14:59.120><c> change</c><00:14:59.440><c> for</c><00:14:59.600><c> us?</c>
+that drive operational change for us?
+that drive operational change for us?
+For<00:15:00.240><c> example,</c><00:15:00.880><c> where's</c><00:15:01.199><c> the</c><00:15:01.360><c> thing</c><00:15:01.519><c> that</c><00:15:01.680><c> we</c>
+For example, where's the thing that we
+For example, where's the thing that we
+change?<00:15:02.399><c> That</c><00:15:02.560><c> would</c><00:15:02.720><c> be</c><00:15:02.800><c> the</c><00:15:03.040><c> system</c><00:15:03.279><c> of</c>
+change? That would be the system of
+change? That would be the system of
+record.<00:15:04.079><c> How</c><00:15:04.240><c> do</c><00:15:04.399><c> we</c><00:15:04.560><c> see</c><00:15:04.720><c> that</c><00:15:04.880><c> it</c><00:15:05.120><c> changed?</c>
+record. How do we see that it changed?
+record. How do we see that it changed?
+That's<00:15:05.920><c> a</c><00:15:06.079><c> readable</c><00:15:06.560><c> before</c><00:15:06.959><c> after</c><00:15:07.279><c> state.</c>
+That's a readable before after state.
+That's a readable before after state.
+How<00:15:08.079><c> do</c><00:15:08.160><c> we</c><00:15:08.320><c> approve</c><00:15:08.639><c> it?</c><00:15:09.120><c> That's</c><00:15:09.360><c> a</c><00:15:09.519><c> defined</c>
+How do we approve it? That's a defined
+How do we approve it? That's a defined
+gate.<00:15:10.560><c> How</c><00:15:10.720><c> do</c><00:15:10.800><c> we</c><00:15:11.279><c> prove</c><00:15:11.600><c> that</c><00:15:11.839><c> it</c><00:15:12.079><c> worked?</c>
+gate. How do we prove that it worked?
+gate. How do we prove that it worked?
+That's<00:15:12.959><c> a</c><00:15:13.120><c> check.</c><00:15:13.680><c> How</c><00:15:13.839><c> do</c><00:15:13.920><c> we</c><00:15:14.079><c> undo</c><00:15:14.399><c> it?</c>
+That's a check. How do we undo it?
+That's a check. How do we undo it?
+That's<00:15:14.720><c> a</c><00:15:14.880><c> roll</c><00:15:15.120><c> back.</c><00:15:15.519><c> How</c><00:15:15.680><c> do</c><00:15:15.760><c> we</c><00:15:15.920><c> know</c><00:15:16.160><c> who</c>
+That's a roll back. How do we know who
+That's a roll back. How do we know who
+did<00:15:16.560><c> what</c><00:15:16.800><c> and</c><00:15:16.959><c> why?</c><00:15:17.279><c> That's</c><00:15:17.519><c> traceability.</c>
+did what and why? That's traceability.
+did what and why? That's traceability.
+All<00:15:18.800><c> of</c><00:15:19.040><c> those</c><00:15:19.440><c> questions</c><00:15:19.920><c> are</c><00:15:20.240><c> questions</c>
+All of those questions are questions
+All of those questions are questions
+business<00:15:21.680><c> stakeholders</c><00:15:22.480><c> ask</c><00:15:22.959><c> all</c><00:15:23.199><c> the</c><00:15:23.360><c> time</c>
+business stakeholders ask all the time
+business stakeholders ask all the time
+when<00:15:23.839><c> vetting</c><00:15:24.320><c> software.</c><00:15:24.959><c> And</c><00:15:25.279><c> really,</c>
+when vetting software. And really,
+when vetting software. And really,
+they're<00:15:26.399><c> coding</c><00:15:27.199><c> questions.</c><00:15:28.000><c> Lee's</c><00:15:28.480><c> CMS</c><00:15:29.360><c> is</c>
+they're coding questions. Lee's CMS is
+they're coding questions. Lee's CMS is
+really<00:15:30.079><c> a</c><00:15:30.480><c> story</c><00:15:30.959><c> about</c><00:15:31.440><c> work</c><00:15:31.839><c> primitives</c>
+really a story about work primitives
+really a story about work primitives
+being<00:15:32.880><c> extended</c><00:15:33.440><c> across</c><00:15:33.760><c> a</c><00:15:34.000><c> technically</c>
+being extended across a technically
+being extended across a technically
+fluent<00:15:35.040><c> company.</c><00:15:35.680><c> He</c><00:15:35.920><c> replaced</c><00:15:36.320><c> a</c><00:15:36.560><c> UI</c><00:15:37.040><c> state</c>
+fluent company. He replaced a UI state
+fluent company. He replaced a UI state
+workflow<00:15:37.760><c> with</c><00:15:38.000><c> an</c><00:15:38.160><c> artifact</c><00:15:38.720><c> workflow</c>
+workflow with an artifact workflow
+workflow with an artifact workflow
+because<00:15:39.839><c> artifact</c><00:15:40.399><c> workflows</c><00:15:40.959><c> have</c><00:15:41.199><c> natural</c>
+because artifact workflows have natural
+because artifact workflows have natural
+review,<00:15:42.160><c> roll</c><00:15:42.399><c> back,</c><00:15:42.560><c> and</c><00:15:42.800><c> traceability</c><00:15:43.839><c> and</c>
+review, roll back, and traceability and
+review, roll back, and traceability and
+they<00:15:44.399><c> just</c><00:15:44.720><c> make</c><00:15:44.959><c> sense</c><00:15:45.600><c> when</c><00:15:45.920><c> that's</c><00:15:46.160><c> how</c>
+they just make sense when that's how
+they just make sense when that's how
+agents<00:15:46.880><c> are</c><00:15:47.199><c> being</c><00:15:47.600><c> built.</c><00:15:48.240><c> Enthropic's</c>
+agents are being built. Enthropic's
+agents are being built. Enthropic's
+longrunning<00:15:49.440><c> harness</c><00:15:49.839><c> is</c><00:15:50.079><c> the</c><00:15:50.240><c> same</c><00:15:50.480><c> work</c>
+longrunning harness is the same work
+longrunning harness is the same work
+primitive<00:15:51.279><c> story.</c><00:15:51.600><c> They</c><00:15:51.839><c> made</c><00:15:52.079><c> progress</c>
+primitive story. They made progress
+primitive story. They made progress
+reliable<00:15:53.199><c> by</c><00:15:53.440><c> insisting</c><00:15:53.839><c> on</c><00:15:54.079><c> artifact,</c>
+reliable by insisting on artifact,
+reliable by insisting on artifact,
+state,<00:15:54.959><c> and</c><00:15:55.120><c> incremental</c><00:15:55.759><c> steps.</c><00:15:56.320><c> and</c><00:15:56.560><c> they</c>
+state, and incremental steps. and they
+state, and incremental steps. and they
+were<00:15:56.880><c> fluent</c><00:15:57.199><c> enough</c><00:15:57.440><c> to</c><00:15:57.600><c> build</c><00:15:57.839><c> the</c><00:15:58.079><c> business</c>
+were fluent enough to build the business
+were fluent enough to build the business
+around<00:15:59.040><c> that.</c><00:15:59.759><c> Domain</c><00:16:00.240><c> memory</c><00:16:00.720><c> is</c><00:16:01.040><c> not</c><00:16:01.279><c> just</c>
+around that. Domain memory is not just
+around that. Domain memory is not just
+an<00:16:01.680><c> agent</c><00:16:02.079><c> technique.</c><00:16:02.880><c> It's</c><00:16:03.120><c> really</c><00:16:03.440><c> one</c><00:16:03.680><c> of</c>
+an agent technique. It's really one of
+an agent technique. It's really one of
+several<00:16:04.320><c> work</c><00:16:04.560><c> primitives.</c><00:16:05.199><c> It's</c><00:16:05.360><c> the</c>
+several work primitives. It's the
+several work primitives. It's the
+written<00:16:05.920><c> state</c><00:16:06.160><c> of</c><00:16:06.320><c> the</c><00:16:06.480><c> project.</c><00:16:07.199><c> And</c><00:16:07.360><c> so</c><00:16:07.519><c> if</c>
+written state of the project. And so if
+written state of the project. And so if
+your<00:16:07.920><c> organization</c><00:16:08.720><c> doesn't</c><00:16:09.040><c> know</c><00:16:09.360><c> how</c><00:16:10.000><c> to</c>
+your organization doesn't know how to
+your organization doesn't know how to
+write<00:16:10.800><c> state</c><00:16:11.360><c> down</c><00:16:11.839><c> in</c><00:16:12.160><c> canonical</c><00:16:12.800><c> places,</c>
+write state down in canonical places,
+write state down in canonical places,
+memory<00:16:14.000><c> itself</c><00:16:14.480><c> won't</c><00:16:14.800><c> save</c><00:16:15.120><c> you</c><00:16:15.360><c> because</c><00:16:15.680><c> the</c>
+memory itself won't save you because the
+memory itself won't save you because the
+work<00:16:16.160><c> is</c><00:16:16.480><c> still</c><00:16:17.120><c> not</c><00:16:17.839><c> legible.</c><00:16:18.639><c> So</c><00:16:18.880><c> the</c>
+work is still not legible. So the
+work is still not legible. So the
+cultural<00:16:19.519><c> pattern</c><00:16:19.839><c> that</c><00:16:20.079><c> we're</c><00:16:20.320><c> seeing</c><00:16:20.480><c> at</c>
+cultural pattern that we're seeing at
+cultural pattern that we're seeing at
+cursor<00:16:21.040><c> and</c><00:16:21.199><c> openai</c><00:16:21.759><c> that</c><00:16:21.920><c> enables</c><00:16:22.320><c> this</c><00:16:22.800><c> and</c>
+cursor and openai that enables this and
+cursor and openai that enables this and
+at<00:16:23.440><c> anthropic</c><00:16:24.000><c> and</c><00:16:24.240><c> at</c><00:16:24.480><c> other</c><00:16:24.720><c> major</c><00:16:25.120><c> studios</c>
+at anthropic and at other major studios
+at anthropic and at other major studios
+is<00:16:26.079><c> that</c><00:16:26.320><c> non-technical</c><00:16:27.440><c> people</c><00:16:27.839><c> are</c>
+is that non-technical people are
+is that non-technical people are
+learning<00:16:28.480><c> the</c><00:16:28.720><c> substrate</c><00:16:29.279><c> of</c><00:16:29.440><c> code</c><00:16:29.759><c> and</c>
+learning the substrate of code and
+learning the substrate of code and
+they're<00:16:30.240><c> learning</c><00:16:30.560><c> it</c><00:16:30.800><c> well</c><00:16:31.120><c> enough</c><00:16:31.360><c> that</c>
+they're learning it well enough that
+they're learning it well enough that
+they<00:16:31.759><c> can</c><00:16:31.920><c> commit</c><00:16:32.399><c> code.</c><00:16:32.959><c> They're</c><00:16:33.199><c> learning</c>
+they can commit code. They're learning
+they can commit code. They're learning
+it<00:16:33.600><c> well</c><00:16:33.759><c> enough</c><00:16:34.000><c> that</c><00:16:34.160><c> they</c><00:16:34.320><c> can</c><00:16:34.480><c> be</c><00:16:34.639><c> fluent</c>
+it well enough that they can be fluent
+it well enough that they can be fluent
+in<00:16:35.279><c> understanding</c><00:16:35.839><c> how</c><00:16:36.079><c> code</c><00:16:36.399><c> drives</c>
+in understanding how code drives
+in understanding how code drives
+workflows<00:16:37.600><c> and</c><00:16:37.839><c> they're</c><00:16:38.079><c> learning</c><00:16:38.399><c> it</c><00:16:38.639><c> well</c>
+workflows and they're learning it well
+workflows and they're learning it well
+enough<00:16:39.519><c> that</c><00:16:39.920><c> they</c><00:16:40.240><c> can</c><00:16:40.560><c> operate</c><00:16:41.040><c> against</c><00:16:41.279><c> the</c>
+enough that they can operate against the
+enough that they can operate against the
+code<00:16:41.759><c> with</c><00:16:42.000><c> the</c><00:16:42.160><c> help</c><00:16:42.320><c> of</c><00:16:42.480><c> agents.</c><00:16:43.199><c> By</c><00:16:43.519><c> the</c>
+code with the help of agents. By the
+code with the help of agents. By the
+way,<00:16:44.399><c> this</c><00:16:44.720><c> does</c><00:16:45.040><c> not</c><00:16:45.279><c> mean</c><00:16:45.519><c> they</c><00:16:45.759><c> learn</c><00:16:45.920><c> it</c>
+way, this does not mean they learn it
+way, this does not mean they learn it
+well<00:16:46.320><c> enough</c><00:16:46.560><c> to</c><00:16:47.120><c> authentically</c><00:16:47.920><c> correctly</c>
+well enough to authentically correctly
+well enough to authentically correctly
+write<00:16:48.720><c> JavaScript</c><00:16:49.360><c> without</c><00:16:49.759><c> help</c><00:16:49.920><c> from</c><00:16:50.079><c> an</c><00:16:50.240><c> AI</c>
+write JavaScript without help from an AI
+write JavaScript without help from an AI
+agent.<00:16:51.279><c> I'm</c><00:16:51.519><c> not</c><00:16:51.680><c> saying</c><00:16:51.839><c> they</c><00:16:52.000><c> do.</c><00:16:52.320><c> I'm</c><00:16:52.480><c> not</c>
+agent. I'm not saying they do. I'm not
+agent. I'm not saying they do. I'm not
+saying<00:16:52.720><c> they</c><00:16:52.959><c> ever</c><00:16:53.199><c> will.</c><00:16:53.519><c> I</c><00:16:53.759><c> know</c><00:16:53.920><c> lots</c><00:16:54.240><c> of</c>
+saying they ever will. I know lots of
+saying they ever will. I know lots of
+design<00:16:54.800><c> engineers</c><00:16:55.519><c> who</c><00:16:55.839><c> cannot</c><00:16:56.240><c> do</c><00:16:56.399><c> that,</c><00:16:56.639><c> but</c>
+design engineers who cannot do that, but
+design engineers who cannot do that, but
+who<00:16:57.120><c> nonetheless</c><00:16:57.839><c> commit</c><00:16:58.240><c> pull</c><00:16:58.560><c> requests.</c>
+who nonetheless commit pull requests.
+who nonetheless commit pull requests.
+So,<00:16:59.839><c> the</c><00:17:00.160><c> reason</c><00:17:00.480><c> cursor</c><00:17:00.959><c> can</c><00:17:01.120><c> kill</c><00:17:01.360><c> a</c><00:17:01.600><c> CMS</c><00:17:02.399><c> is</c>
+So, the reason cursor can kill a CMS is
+So, the reason cursor can kill a CMS is
+not<00:17:03.199><c> because</c><00:17:03.680><c> they</c><00:17:04.000><c> have</c><00:17:04.319><c> this</c><00:17:05.039><c> bias</c><00:17:05.520><c> against</c>
+not because they have this bias against
+not because they have this bias against
+graphical<00:17:06.400><c> user</c><00:17:06.799><c> interfaces.</c><00:17:07.439><c> Don't</c><00:17:07.679><c> hear</c>
+graphical user interfaces. Don't hear
+graphical user interfaces. Don't hear
+that.<00:17:08.319><c> It's</c><00:17:08.559><c> that</c><00:17:08.799><c> their</c><00:17:09.199><c> people</c><00:17:09.839><c> understand</c>
+that. It's that their people understand
+that. It's that their people understand
+that<00:17:11.120><c> they</c><00:17:11.360><c> can</c><00:17:11.600><c> operate</c><00:17:12.000><c> on</c><00:17:12.400><c> one</c><00:17:13.120><c> simple</c>
+that they can operate on one simple
+that they can operate on one simple
+underlying<00:17:14.319><c> workflow</c><00:17:14.959><c> substrate</c><00:17:15.839><c> of</c><00:17:16.079><c> code</c>
+underlying workflow substrate of code
+underlying workflow substrate of code
+and<00:17:16.640><c> common</c><00:17:16.959><c> primitives</c><00:17:17.760><c> and</c><00:17:18.000><c> that's</c><00:17:18.240><c> enough</c>
+and common primitives and that's enough
+and common primitives and that's enough
+and<00:17:19.039><c> they</c><00:17:19.280><c> can</c><00:17:19.439><c> do</c><00:17:19.600><c> that</c><00:17:19.760><c> with</c><00:17:20.000><c> agents.</c><00:17:20.640><c> And</c>
+and they can do that with agents. And
+and they can do that with agents. And
+the<00:17:21.120><c> reason</c><00:17:21.280><c> I'm</c><00:17:21.520><c> calling</c><00:17:21.839><c> this</c><00:17:22.079><c> out</c><00:17:22.400><c> today</c><00:17:23.039><c> is</c>
+the reason I'm calling this out today is
+the reason I'm calling this out today is
+that<00:17:23.439><c> I</c><00:17:23.760><c> have</c><00:17:23.839><c> a</c><00:17:24.400><c> strong</c><00:17:24.799><c> conviction</c><00:17:25.360><c> that</c>
+that I have a strong conviction that
+that I have a strong conviction that
+simple<00:17:26.400><c> wins.</c><00:17:27.439><c> If</c><00:17:27.839><c> if</c><00:17:28.160><c> you</c><00:17:28.319><c> are</c><00:17:28.559><c> working</c><00:17:28.720><c> in</c><00:17:28.960><c> a</c>
+simple wins. If if you are working in a
+simple wins. If if you are working in a
+world<00:17:29.679><c> where</c><00:17:30.480><c> you</c><00:17:30.799><c> could</c><00:17:31.039><c> have</c><00:17:31.200><c> a</c><00:17:31.440><c> more</c>
+world where you could have a more
+world where you could have a more
+complex<00:17:32.160><c> graphical</c><00:17:32.640><c> user</c><00:17:32.960><c> interface</c><00:17:33.679><c> or</c><00:17:33.919><c> a</c>
+complex graphical user interface or a
+complex graphical user interface or a
+simpler<00:17:34.720><c> substrate</c><00:17:35.280><c> that</c><00:17:35.520><c> gets</c><00:17:35.760><c> closer</c><00:17:36.080><c> to</c>
+simpler substrate that gets closer to
+simpler substrate that gets closer to
+the<00:17:36.480><c> code,</c><00:17:37.200><c> especially</c><00:17:37.919><c> given</c><00:17:38.240><c> the</c><00:17:38.400><c> pace</c><00:17:38.640><c> of</c>
+the code, especially given the pace of
+the code, especially given the pace of
+AI<00:17:39.120><c> agent</c><00:17:39.520><c> change,</c><00:17:40.240><c> I</c><00:17:40.480><c> would</c><00:17:40.640><c> opt</c><00:17:40.960><c> for</c><00:17:41.120><c> the</c>
+AI agent change, I would opt for the
+AI agent change, I would opt for the
+simpler<00:17:41.760><c> solution.</c><00:17:42.720><c> Simple</c><00:17:43.120><c> is</c><00:17:43.440><c> going</c><00:17:43.600><c> to</c><00:17:43.760><c> win</c>
+simpler solution. Simple is going to win
+simpler solution. Simple is going to win
+when<00:17:44.320><c> AI</c><00:17:44.720><c> agents</c><00:17:45.440><c> change</c><00:17:46.080><c> fast.</c><00:17:46.880><c> Simple</c><00:17:47.200><c> is</c>
+when AI agents change fast. Simple is
+when AI agents change fast. Simple is
+going<00:17:47.440><c> to</c><00:17:47.520><c> win</c><00:17:47.760><c> when</c><00:17:48.000><c> LLMs</c><00:17:48.640><c> change</c><00:17:48.960><c> fast.</c><00:17:49.760><c> If</c>
+going to win when LLMs change fast. If
+going to win when LLMs change fast. If
+you<00:17:50.160><c> can</c><00:17:50.320><c> get</c><00:17:50.559><c> to</c><00:17:50.880><c> a</c><00:17:51.120><c> a</c><00:17:51.679><c> block</c><00:17:52.080><c> of</c><00:17:52.480><c> stable</c><00:17:53.120><c> basic</c>
+you can get to a a block of stable basic
+you can get to a a block of stable basic
+work<00:17:54.000><c> primitives,</c><00:17:54.640><c> if</c><00:17:54.799><c> you</c><00:17:54.960><c> can</c><00:17:55.120><c> help</c><00:17:55.280><c> your</c>
+work primitives, if you can help your
+work primitives, if you can help your
+people<00:17:56.080><c> understand</c><00:17:56.960><c> that</c><00:17:57.280><c> they</c><00:17:57.520><c> need</c><00:17:57.679><c> to</c><00:17:57.840><c> have</c>
+people understand that they need to have
+people understand that they need to have
+mental<00:17:58.480><c> models</c><00:17:58.880><c> of</c><00:17:59.200><c> workflows</c><00:17:59.840><c> and</c><00:18:00.160><c> code</c><00:18:00.720><c> and</c>
+mental models of workflows and code and
+mental models of workflows and code and
+how<00:18:01.280><c> code</c><00:18:02.080><c> operates</c><00:18:03.039><c> to</c><00:18:03.440><c> get</c><00:18:03.840><c> work</c><00:18:04.160><c> done</c>
+how code operates to get work done
+how code operates to get work done
+through<00:18:04.799><c> read</c><00:18:05.200><c> write</c><00:18:05.360><c> on</c><00:18:05.600><c> databases,</c><00:18:06.320><c> through</c>
+through read write on databases, through
+through read write on databases, through
+approvals,<00:18:07.360><c> etc.</c><00:18:07.919><c> Even</c><00:18:08.160><c> if</c><00:18:08.320><c> they</c><00:18:08.559><c> can</c><00:18:08.720><c> never</c>
+approvals, etc. Even if they can never
+approvals, etc. Even if they can never
+write<00:18:09.280><c> that</c><00:18:09.520><c> code</c><00:18:09.760><c> individually</c><00:18:10.400><c> themselves,</c>
+write that code individually themselves,
+write that code individually themselves,
+you<00:18:11.520><c> are</c><00:18:11.679><c> going</c><00:18:11.840><c> to</c><00:18:12.000><c> be</c><00:18:12.160><c> in</c><00:18:12.320><c> a</c><00:18:12.559><c> position</c><00:18:12.960><c> where</c>
+you are going to be in a position where
+you are going to be in a position where
+you<00:18:13.360><c> can</c><00:18:13.600><c> ask</c><00:18:13.919><c> them</c><00:18:14.080><c> to</c><00:18:14.400><c> operate</c><00:18:14.799><c> agents</c><00:18:15.360><c> and</c>
+you can ask them to operate agents and
+you can ask them to operate agents and
+that's<00:18:15.919><c> going</c><00:18:16.080><c> to</c><00:18:16.240><c> give</c><00:18:16.400><c> you</c><00:18:16.640><c> a</c><00:18:16.880><c> tremendous</c>
+that's going to give you a tremendous
+that's going to give you a tremendous
+amount<00:18:18.240><c> of</c><00:18:18.559><c> freedom</c><00:18:19.200><c> to</c><00:18:19.520><c> delete</c><00:18:20.160><c> abstraction</c>
+amount of freedom to delete abstraction
+amount of freedom to delete abstraction
+layers<00:18:21.280><c> from</c><00:18:21.440><c> your</c><00:18:21.679><c> business</c><00:18:21.919><c> that</c><00:18:22.160><c> are</c>
+layers from your business that are
+layers from your business that are
+extremely<00:18:22.960><c> expensive</c><00:18:23.760><c> like</c><00:18:24.160><c> the</c><00:18:24.480><c> CMS</c><00:18:25.120><c> cursor.</c>
+extremely expensive like the CMS cursor.
+extremely expensive like the CMS cursor.
+So<00:18:25.919><c> code</c><00:18:26.320><c> wins</c><00:18:26.799><c> becomes</c><00:18:27.200><c> an</c><00:18:27.440><c> operating</c><00:18:27.919><c> model</c>
+So code wins becomes an operating model
+So code wins becomes an operating model
+for<00:18:28.480><c> the</c><00:18:28.720><c> business</c><00:18:29.039><c> as</c><00:18:29.280><c> a</c><00:18:29.440><c> whole</c><00:18:29.679><c> and</c><00:18:29.919><c> it</c>
+for the business as a whole and it
+for the business as a whole and it
+allows<00:18:30.480><c> us</c><00:18:31.120><c> to</c><00:18:31.760><c> extend</c><00:18:32.240><c> the</c><00:18:32.559><c> premise</c><00:18:32.880><c> that</c>
+allows us to extend the premise that
+allows us to extend the premise that
+simplicity<00:18:33.840><c> is</c><00:18:34.080><c> what</c><00:18:34.240><c> wins</c><00:18:34.640><c> in</c><00:18:34.720><c> the</c><00:18:34.880><c> age</c><00:18:35.120><c> of</c>
+simplicity is what wins in the age of
+simplicity is what wins in the age of
+AI.<00:18:36.000><c> The</c><00:18:36.240><c> organization</c><00:18:37.120><c> needs</c><00:18:37.440><c> to</c><00:18:37.679><c> train</c><00:18:38.080><c> more</c>
+AI. The organization needs to train more
+AI. The organization needs to train more
+people<00:18:38.799><c> to</c><00:18:39.120><c> think</c><00:18:39.440><c> and</c><00:18:39.840><c> act</c><00:18:40.080><c> in</c>
+people to think and act in
+people to think and act in
+artifact-based<00:18:41.280><c> workflows</c><00:18:41.919><c> because</c><00:18:42.240><c> that's</c>
+artifact-based workflows because that's
+artifact-based workflows because that's
+where<00:18:42.799><c> agents</c><00:18:43.360><c> are</c><00:18:43.679><c> strongest</c><00:18:44.240><c> and</c><00:18:44.480><c> that's</c>
+where agents are strongest and that's
+where agents are strongest and that's
+where<00:18:44.960><c> they're</c><00:18:45.280><c> safest.</c><00:18:46.160><c> And</c><00:18:46.400><c> this</c><00:18:46.640><c> is</c><00:18:46.720><c> the</c>
+where they're safest. And this is the
+where they're safest. And this is the
+piece<00:18:47.280><c> that</c><00:18:47.600><c> most</c><00:18:47.919><c> enterprise</c><00:18:48.400><c> leaders</c><00:18:48.799><c> are</c>
+piece that most enterprise leaders are
+piece that most enterprise leaders are
+not<00:18:49.440><c> really</c><00:18:49.840><c> ready</c><00:18:50.160><c> to</c><00:18:50.400><c> hear.</c><00:18:50.880><c> If</c><00:18:51.200><c> you</c><00:18:51.360><c> keep</c>
+not really ready to hear. If you keep
+not really ready to hear. If you keep
+your<00:18:51.919><c> workforce</c><00:18:52.559><c> in</c><00:18:52.799><c> the</c><00:18:52.960><c> 20th</c><00:18:53.360><c> century,</c><00:18:53.679><c> if</c>
+your workforce in the 20th century, if
+your workforce in the 20th century, if
+you<00:18:54.080><c> keep</c><00:18:54.240><c> them</c><00:18:54.480><c> graphical</c><00:18:55.039><c> user</c><00:18:55.360><c> interface</c>
+you keep them graphical user interface
+you keep them graphical user interface
+native<00:18:56.240><c> because</c><00:18:56.480><c> your</c><00:18:56.799><c> security</c><00:18:57.360><c> department,</c>
+native because your security department,
+native because your security department,
+your<00:18:58.160><c> IT</c><00:18:58.720><c> department</c><00:18:59.280><c> tells</c><00:18:59.520><c> you</c><00:19:00.160><c> this</c><00:19:00.400><c> is</c>
+your IT department tells you this is
+your IT department tells you this is
+what<00:19:00.720><c> we</c><00:19:00.880><c> should</c><00:19:01.120><c> do</c><00:19:01.600><c> because</c><00:19:01.919><c> it's</c><00:19:02.160><c> safe</c><00:19:02.400><c> and</c>
+what we should do because it's safe and
+what we should do because it's safe and
+only<00:19:02.799><c> the</c><00:19:03.039><c> engineers</c><00:19:03.440><c> should</c><00:19:03.600><c> commit</c><00:19:04.000><c> code.</c>
+only the engineers should commit code.
+only the engineers should commit code.
+your<00:19:04.880><c> agents</c><00:19:05.280><c> are</c><00:19:05.440><c> going</c><00:19:05.520><c> to</c><00:19:05.600><c> be</c><00:19:05.840><c> stuck</c><00:19:06.240><c> as</c>
+your agents are going to be stuck as
+your agents are going to be stuck as
+drafting<00:19:07.120><c> assistants.</c><00:19:07.840><c> You're</c><00:19:08.080><c> not</c><00:19:08.240><c> going</c><00:19:08.400><c> to</c>
+drafting assistants. You're not going to
+drafting assistants. You're not going to
+unlock<00:19:08.960><c> the</c><00:19:09.200><c> kind</c><00:19:09.360><c> of</c><00:19:09.520><c> velocity</c><00:19:10.080><c> that</c><00:19:10.320><c> you</c><00:19:10.559><c> see</c>
+unlock the kind of velocity that you see
+unlock the kind of velocity that you see
+and<00:19:11.360><c> want</c><00:19:11.760><c> from</c><00:19:12.000><c> these</c><00:19:12.320><c> AI</c><00:19:12.720><c> native</c><00:19:13.039><c> companies.</c>
+and want from these AI native companies.
+and want from these AI native companies.
+Whereas,<00:19:14.080><c> if</c><00:19:14.240><c> you</c><00:19:14.480><c> teach</c><00:19:14.799><c> your</c><00:19:15.039><c> workforce</c><00:19:15.520><c> to</c>
+Whereas, if you teach your workforce to
+Whereas, if you teach your workforce to
+be<00:19:15.919><c> artifact</c><00:19:16.559><c> native,</c><00:19:17.120><c> your</c><00:19:17.440><c> agents</c><00:19:17.919><c> can</c><00:19:18.160><c> then</c>
+be artifact native, your agents can then
+be artifact native, your agents can then
+become<00:19:18.880><c> operators</c><00:19:19.520><c> and</c><00:19:19.919><c> collaborators</c><00:19:20.640><c> with</c>
+become operators and collaborators with
+become operators and collaborators with
+your<00:19:21.200><c> teams.</c><00:19:21.919><c> And</c><00:19:22.080><c> so,</c><00:19:22.240><c> this</c><00:19:22.400><c> has</c><00:19:22.640><c> some</c>
+your teams. And so, this has some
+your teams. And so, this has some
+profound<00:19:23.360><c> implications</c><00:19:24.000><c> for</c><00:19:24.320><c> training.</c><00:19:24.799><c> It</c>
+profound implications for training. It
+profound implications for training. It
+has<00:19:25.200><c> profound</c><00:19:25.760><c> implications</c><00:19:26.240><c> for</c><00:19:26.480><c> our</c>
+has profound implications for our
+has profound implications for our
+security<00:19:27.200><c> policies.</c><00:19:27.840><c> If</c><00:19:28.080><c> the</c><00:19:28.320><c> strategic</c>
+security policies. If the strategic
+security policies. If the strategic
+claim<00:19:29.200><c> is</c><00:19:29.360><c> that</c><00:19:29.600><c> codelike</c><00:19:30.160><c> work</c><00:19:30.480><c> wins</c><00:19:31.039><c> because</c>
+claim is that codelike work wins because
+claim is that codelike work wins because
+it's<00:19:31.600><c> agentable,</c><00:19:32.640><c> then</c><00:19:32.799><c> the</c><00:19:33.039><c> logical</c>
+it's agentable, then the logical
+it's agentable, then the logical
+conclusion<00:19:34.240><c> is</c><00:19:34.480><c> that</c><00:19:34.799><c> enterprise</c><00:19:35.520><c> AI</c>
+conclusion is that enterprise AI
+conclusion is that enterprise AI
+training<00:19:36.880><c> must</c><00:19:37.679><c> transform</c><00:19:38.640><c> into</c><00:19:39.120><c> something</c>
+training must transform into something
+training must transform into something
+like<00:19:40.240><c> code</c><00:19:40.640><c> concept</c><00:19:41.120><c> training</c><00:19:41.440><c> for</c>
+like code concept training for
+like code concept training for
+non-engineers.<00:19:42.799><c> Not</c><00:19:43.039><c> learn</c><00:19:43.280><c> Python,</c><00:19:43.919><c> not</c>
+non-engineers. Not learn Python, not
+non-engineers. Not learn Python, not
+become<00:19:44.400><c> an</c><00:19:44.640><c> engineer,</c><00:19:45.280><c> but</c><00:19:45.679><c> learn</c><00:19:46.000><c> the</c>
+become an engineer, but learn the
+become an engineer, but learn the
+concepts<00:19:47.039><c> that</c><00:19:47.440><c> make</c><00:19:47.679><c> work</c><00:19:48.080><c> legible</c><00:19:48.559><c> to</c>
+concepts that make work legible to
+concepts that make work legible to
+agents.<00:19:49.600><c> Because</c><00:19:49.840><c> the</c><00:19:50.080><c> goal</c><00:19:50.320><c> is</c><00:19:50.559><c> not</c><00:19:50.720><c> to</c><00:19:50.960><c> turn</c>
+agents. Because the goal is not to turn
+agents. Because the goal is not to turn
+everybody<00:19:51.760><c> into</c><00:19:52.080><c> programmers.</c><00:19:52.720><c> The</c><00:19:52.880><c> goal</c><00:19:53.039><c> is</c>
+everybody into programmers. The goal is
+everybody into programmers. The goal is
+to<00:19:53.440><c> turn</c><00:19:53.679><c> more</c><00:19:53.919><c> of</c><00:19:54.080><c> the</c><00:19:54.320><c> company</c><00:19:54.640><c> into</c><00:19:54.960><c> people</c>
+to turn more of the company into people
+to turn more of the company into people
+who<00:19:55.440><c> can</c><00:19:55.679><c> express</c><00:19:56.160><c> work</c><00:19:56.480><c> in</c><00:19:56.720><c> a</c><00:19:56.880><c> form</c><00:19:57.360><c> that</c>
+who can express work in a form that
+who can express work in a form that
+agents<00:19:58.160><c> can</c><00:19:58.400><c> safely</c><00:19:58.880><c> act</c><00:19:59.280><c> against.</c><00:20:00.240><c> So</c><00:20:00.720><c> things</c>
+agents can safely act against. So things
+agents can safely act against. So things
+like<00:20:01.360><c> state,</c><00:20:01.919><c> what</c><00:20:02.080><c> is</c><00:20:02.240><c> the</c><00:20:02.400><c> current</c><00:20:02.640><c> status</c>
+like state, what is the current status
+like state, what is the current status
+of<00:20:03.200><c> your</c><00:20:03.360><c> work?</c><00:20:03.760><c> Where</c><00:20:03.919><c> is</c><00:20:04.080><c> that</c><00:20:04.320><c> written</c>
+of your work? Where is that written
+of your work? Where is that written
+down?<00:20:05.039><c> The</c><00:20:05.360><c> artifact,</c><00:20:05.919><c> what</c><00:20:06.080><c> is</c><00:20:06.240><c> your</c><00:20:06.480><c> system</c>
+down? The artifact, what is your system
+down? The artifact, what is your system
+of<00:20:06.960><c> record?</c><00:20:07.440><c> What</c><00:20:07.600><c> is</c><00:20:07.679><c> the</c><00:20:07.919><c> real</c><00:20:08.160><c> thing</c><00:20:08.400><c> we</c>
+of record? What is the real thing we
+of record? What is the real thing we
+ship<00:20:08.880><c> and</c><00:20:09.120><c> maintain?</c><00:20:09.600><c> Is</c><00:20:09.760><c> it</c><00:20:09.919><c> a</c><00:20:10.080><c> document,</c><00:20:10.640><c> a</c>
+ship and maintain? Is it a document, a
+ship and maintain? Is it a document, a
+data<00:20:11.120><c> set,</c><00:20:11.440><c> a</c><00:20:11.679><c> configuration,</c><00:20:12.880><c> a</c><00:20:13.200><c> product</c>
+data set, a configuration, a product
+data set, a configuration, a product
+catalog,<00:20:14.320><c> a</c><00:20:14.480><c> policy?</c><00:20:15.200><c> If</c><00:20:15.440><c> the</c><00:20:15.679><c> truth</c><00:20:16.000><c> lives</c><00:20:16.240><c> in</c>
+catalog, a policy? If the truth lives in
+catalog, a policy? If the truth lives in
+a<00:20:16.640><c> hidden</c><00:20:16.880><c> state</c><00:20:17.120><c> in</c><00:20:17.280><c> the</c><00:20:17.440><c> UI,</c><00:20:18.240><c> your</c><00:20:18.480><c> agent</c>
+a hidden state in the UI, your agent
+a hidden state in the UI, your agent
+can't<00:20:19.039><c> reliably</c><00:20:19.600><c> operate.</c><00:20:20.320><c> Another</c><00:20:20.640><c> example,</c>
+can't reliably operate. Another example,
+can't reliably operate. Another example,
+what's<00:20:21.280><c> a</c><00:20:21.520><c> change</c><00:20:21.760><c> record?</c><00:20:22.160><c> Can</c><00:20:22.320><c> we</c><00:20:22.559><c> see</c><00:20:22.720><c> what</c>
+what's a change record? Can we see what
+what's a change record? Can we see what
+changed<00:20:23.360><c> without</c><00:20:23.679><c> an</c><00:20:23.919><c> argument?</c><00:20:24.559><c> Software</c>
+changed without an argument? Software
+changed without an argument? Software
+has<00:20:25.200><c> diffs.</c><00:20:25.760><c> Enterprises</c><00:20:26.480><c> need</c><00:20:26.640><c> the</c>
+has diffs. Enterprises need the
+has diffs. Enterprises need the
+equivalent.<00:20:27.600><c> Checks.</c><00:20:28.320><c> Who</c><00:20:28.559><c> proves</c><00:20:28.880><c> this</c><00:20:29.039><c> is</c>
+equivalent. Checks. Who proves this is
+equivalent. Checks. Who proves this is
+correct?<00:20:30.000><c> It</c><00:20:30.159><c> looks</c><00:20:30.400><c> good</c><00:20:30.640><c> is</c><00:20:30.799><c> not</c><00:20:30.960><c> the</c><00:20:31.120><c> check.</c>
+correct? It looks good is not the check.
+correct? It looks good is not the check.
+A<00:20:31.600><c> check</c><00:20:31.840><c> is</c><00:20:32.080><c> something</c><00:20:32.320><c> objective,</c><00:20:32.880><c> a</c><00:20:33.039><c> test,</c>
+A check is something objective, a test,
+A check is something objective, a test,
+a<00:20:33.600><c> reconciliation,</c><00:20:34.400><c> a</c><00:20:34.640><c> policy</c><00:20:35.039><c> rule,</c><00:20:35.360><c> a</c>
+a reconciliation, a policy rule, a
+a reconciliation, a policy rule, a
+validation<00:20:36.400><c> script.</c><00:20:37.120><c> Roll</c><00:20:37.440><c> backs.</c><00:20:38.000><c> How</c><00:20:38.159><c> do</c><00:20:38.240><c> we</c>
+validation script. Roll backs. How do we
+validation script. Roll backs. How do we
+undo<00:20:38.799><c> what</c><00:20:38.960><c> we've</c><00:20:39.200><c> done?</c><00:20:39.600><c> Agents</c><00:20:40.240><c> increase</c>
+undo what we've done? Agents increase
+undo what we've done? Agents increase
+throughput.<00:20:41.120><c> Roll</c><00:20:41.360><c> back</c><00:20:41.600><c> is</c><00:20:41.760><c> how</c><00:20:41.919><c> you</c><00:20:42.080><c> keep</c>
+throughput. Roll back is how you keep
+throughput. Roll back is how you keep
+that<00:20:42.480><c> throughput</c><00:20:42.960><c> from</c><00:20:43.200><c> becoming</c><00:20:43.440><c> a</c><00:20:43.679><c> risk.</c>
+that throughput from becoming a risk.
+that throughput from becoming a risk.
+Traceability.<00:20:45.360><c> Who</c><00:20:45.600><c> changed</c><00:20:46.000><c> what?</c><00:20:46.720><c> When?</c>
+Traceability. Who changed what? When?
+Traceability. Who changed what? When?
+Why?<00:20:47.840><c> When</c><00:20:48.080><c> your</c><00:20:48.240><c> AI</c><00:20:48.559><c> workforce</c><00:20:49.280><c> grows,</c><00:20:49.760><c> this</c>
+Why? When your AI workforce grows, this
+Why? When your AI workforce grows, this
+stops<00:20:50.400><c> being</c><00:20:50.640><c> a</c><00:20:50.960><c> compliance</c><00:20:51.600><c> nicity.</c><00:20:52.320><c> It</c>
+stops being a compliance nicity. It
+stops being a compliance nicity. It
+becomes<00:20:53.120><c> existential</c><00:20:53.919><c> as</c><00:20:54.080><c> you</c><00:20:54.240><c> get</c><00:20:54.400><c> lots</c><00:20:54.640><c> and</c>
+becomes existential as you get lots and
+becomes existential as you get lots and
+lots<00:20:55.039><c> of</c><00:20:55.200><c> agents.</c><00:20:55.919><c> If</c><00:20:56.159><c> you</c><00:20:56.320><c> can</c><00:20:56.480><c> teach</c><00:20:56.720><c> these</c>
+lots of agents. If you can teach these
+lots of agents. If you can teach these
+kinds<00:20:57.360><c> of</c><00:20:57.520><c> ideas</c><00:20:57.919><c> broadly,</c><00:20:58.720><c> you</c><00:20:59.039><c> create</c><00:20:59.360><c> the</c>
+kinds of ideas broadly, you create the
+kinds of ideas broadly, you create the
+precondition<00:21:00.720><c> for</c><00:21:01.120><c> real</c><00:21:01.440><c> agent</c><00:21:01.919><c> adoption</c>
+precondition for real agent adoption
+precondition for real agent adoption
+because<00:21:02.720><c> your</c><00:21:02.960><c> organization</c><00:21:03.760><c> stops</c><00:21:04.240><c> treating</c>
+because your organization stops treating
+because your organization stops treating
+tools<00:21:05.360><c> themselves</c><00:21:06.320><c> as</c><00:21:06.720><c> sacred.</c><00:21:07.200><c> Oh,</c><00:21:07.360><c> I'm</c><00:21:07.520><c> a</c>
+tools themselves as sacred. Oh, I'm a
+tools themselves as sacred. Oh, I'm a
+Salesforce<00:21:08.240><c> guy,</c><00:21:08.559><c> right?</c><00:21:09.120><c> Because</c><00:21:09.440><c> everyone</c>
+Salesforce guy, right? Because everyone
+Salesforce guy, right? Because everyone
+understands<00:21:10.640><c> what</c><00:21:10.960><c> must</c><00:21:11.200><c> stay</c><00:21:11.520><c> true</c>
+understands what must stay true
+understands what must stay true
+underneath.<00:21:12.320><c> It's</c><00:21:12.480><c> not</c><00:21:12.640><c> Salesforce</c><00:21:13.360><c> that's</c>
+underneath. It's not Salesforce that's
+underneath. It's not Salesforce that's
+the<00:21:13.919><c> thing.</c><00:21:14.480><c> It</c><00:21:14.720><c> is</c><00:21:14.799><c> the</c><00:21:15.120><c> workflow</c><00:21:15.600><c> that's</c><00:21:15.840><c> the</c>
+the thing. It is the workflow that's the
+the thing. It is the workflow that's the
+thing.<00:21:16.320><c> And</c><00:21:16.559><c> that's</c><00:21:16.720><c> why</c><00:21:16.960><c> cursor</c><00:21:17.360><c> can</c><00:21:17.520><c> ask</c><00:21:17.760><c> do</c>
+thing. And that's why cursor can ask do
+thing. And that's why cursor can ask do
+we<00:21:18.080><c> really</c><00:21:18.240><c> need</c><00:21:18.400><c> a</c><00:21:18.559><c> CMS</c><00:21:19.200><c> and</c><00:21:19.600><c> actually</c>
+we really need a CMS and actually
+we really need a CMS and actually
+execute<00:21:20.480><c> the</c><00:21:20.720><c> deletion.</c><00:21:21.440><c> They</c><00:21:21.679><c> weren't</c><00:21:21.919><c> being</c>
+execute the deletion. They weren't being
+execute the deletion. They weren't being
+reckless.<00:21:22.559><c> They</c><00:21:22.799><c> understood</c><00:21:23.200><c> what</c><00:21:23.440><c> it</c><00:21:23.600><c> would</c>
+reckless. They understood what it would
+reckless. They understood what it would
+replace.<00:21:24.320><c> They</c><00:21:24.559><c> understood</c><00:21:24.799><c> they</c><00:21:25.039><c> could</c>
+replace. They understood they could
+replace. They understood they could
+replace<00:21:25.360><c> it</c><00:21:25.520><c> with</c><00:21:25.679><c> a</c><00:21:25.840><c> simpler</c><00:21:26.320><c> substrate</c><00:21:27.200><c> with</c>
+replace it with a simpler substrate with
+replace it with a simpler substrate with
+a<00:21:27.600><c> stronger</c><00:21:28.400><c> core</c><00:21:28.799><c> primitive</c><00:21:29.360><c> set</c><00:21:29.600><c> that</c><00:21:29.840><c> both</c>
+a stronger core primitive set that both
+a stronger core primitive set that both
+agents<00:21:30.480><c> and</c><00:21:30.640><c> humans</c><00:21:31.039><c> could</c><00:21:31.200><c> operate</c><00:21:31.600><c> against.</c>
+agents and humans could operate against.
+agents and humans could operate against.
+So<00:21:32.320><c> if</c><00:21:32.480><c> you're</c><00:21:32.640><c> a</c><00:21:32.799><c> Fortune</c><00:21:33.200><c> 500</c><00:21:33.679><c> exec,</c><00:21:34.080><c> if</c>
+So if you're a Fortune 500 exec, if
+So if you're a Fortune 500 exec, if
+you're<00:21:34.240><c> a</c><00:21:34.480><c> small</c><00:21:34.640><c> business</c><00:21:35.039><c> leader,</c><00:21:35.360><c> the</c>
+you're a small business leader, the
+you're a small business leader, the
+mistake<00:21:36.080><c> would</c><00:21:36.320><c> be</c><00:21:36.480><c> to</c><00:21:36.640><c> interpret</c><00:21:37.039><c> this</c><00:21:37.200><c> as</c>
+mistake would be to interpret this as
+mistake would be to interpret this as
+let's<00:21:37.760><c> copy</c><00:21:38.080><c> cursor</c><00:21:38.480><c> and</c><00:21:38.640><c> put</c><00:21:38.880><c> marketing</c><00:21:39.200><c> into</c>
+let's copy cursor and put marketing into
+let's copy cursor and put marketing into
+GitHub.<00:21:40.159><c> I</c><00:21:40.400><c> don't</c><00:21:40.559><c> mean</c><00:21:40.880><c> do</c><00:21:41.200><c> that</c><00:21:41.440><c> exactly.</c>
+GitHub. I don't mean do that exactly.
+GitHub. I don't mean do that exactly.
+That<00:21:42.320><c> is</c><00:21:42.480><c> not</c><00:21:42.640><c> the</c><00:21:42.880><c> point.</c><00:21:43.360><c> The</c><00:21:43.600><c> point</c><00:21:43.840><c> is</c><00:21:44.080><c> that</c>
+That is not the point. The point is that
+That is not the point. The point is that
+there<00:21:44.480><c> is</c><00:21:44.640><c> an</c><00:21:44.960><c> underlying</c><00:21:46.000><c> competitive</c>
+there is an underlying competitive
+there is an underlying competitive
+advantage<00:21:47.200><c> in</c><00:21:47.360><c> the</c><00:21:47.520><c> age</c><00:21:47.760><c> of</c><00:21:47.919><c> AI.</c><00:21:48.960><c> Primitive</c>
+advantage in the age of AI. Primitive
+advantage in the age of AI. Primitive
+primitive<00:21:50.240><c> fluency</c><00:21:51.280><c> diffuses</c><00:21:52.000><c> power.</c><00:21:52.640><c> When</c>
+primitive fluency diffuses power. When
+primitive fluency diffuses power. When
+teams<00:21:53.360><c> share</c><00:21:53.679><c> a</c><00:21:53.919><c> mental</c><00:21:54.320><c> model</c><00:21:54.720><c> of</c><00:21:55.039><c> state</c><00:21:55.360><c> of</c>
+teams share a mental model of state of
+teams share a mental model of state of
+artifacts<00:21:56.159><c> of</c><00:21:56.400><c> checks,</c><00:21:56.799><c> roll</c><00:21:57.120><c> back,</c>
+artifacts of checks, roll back,
+artifacts of checks, roll back,
+traceability,<00:21:58.640><c> the</c><00:21:58.960><c> company</c><00:21:59.360><c> gains</c><00:21:59.919><c> a</c><00:22:00.240><c> new</c>
+traceability, the company gains a new
+traceability, the company gains a new
+superpower<00:22:01.440><c> because</c><00:22:01.840><c> people</c><00:22:02.159><c> can</c><00:22:02.400><c> see</c><00:22:02.640><c> that</c><00:22:02.880><c> a</c>
+superpower because people can see that a
+superpower because people can see that a
+standard<00:22:03.520><c> tool</c><00:22:03.919><c> is</c><00:22:04.240><c> just</c><00:22:04.480><c> a</c><00:22:04.720><c> convenience</c>
+standard tool is just a convenience
+standard tool is just a convenience
+layer<00:22:05.520><c> with</c><00:22:05.679><c> a</c><00:22:05.919><c> measurable</c><00:22:06.400><c> tax.</c><00:22:07.039><c> People</c><00:22:07.440><c> can</c>
+layer with a measurable tax. People can
+layer with a measurable tax. People can
+propose<00:22:08.080><c> a</c><00:22:08.320><c> simplification</c><00:22:09.039><c> without</c>
+propose a simplification without
+propose a simplification without
+triggering<00:22:09.919><c> fear</c><00:22:10.240><c> because</c><00:22:10.400><c> they</c><00:22:10.640><c> can</c>
+triggering fear because they can
+triggering fear because they can
+articulate<00:22:11.360><c> what</c><00:22:11.600><c> stays</c><00:22:12.000><c> safe</c><00:22:12.240><c> and</c>
+articulate what stays safe and
+articulate what stays safe and
+everyone's<00:22:12.960><c> technically</c><00:22:13.440><c> fluent</c><00:22:13.760><c> enough</c><00:22:14.000><c> to</c>
+everyone's technically fluent enough to
+everyone's technically fluent enough to
+follow.<00:22:14.799><c> Work</c><00:22:15.120><c> can</c><00:22:15.280><c> be</c><00:22:15.520><c> recomposed</c><00:22:16.240><c> into</c>
+follow. Work can be recomposed into
+follow. Work can be recomposed into
+forms<00:22:16.960><c> agents</c><00:22:17.360><c> can</c><00:22:17.600><c> operate</c><00:22:17.919><c> against</c><00:22:18.320><c> instead</c>
+forms agents can operate against instead
+forms agents can operate against instead
+of<00:22:18.799><c> being</c><00:22:18.960><c> trapped</c><00:22:19.280><c> in</c><00:22:19.520><c> process.</c><00:22:20.400><c> That</c><00:22:20.640><c> is</c>
+of being trapped in process. That is
+of being trapped in process. That is
+what<00:22:21.120><c> moving</c><00:22:21.520><c> fast</c><00:22:21.919><c> looks</c><00:22:22.159><c> like</c><00:22:22.320><c> in</c><00:22:22.559><c> a</c><00:22:22.720><c> mature</c>
+what moving fast looks like in a mature
+what moving fast looks like in a mature
+agentic<00:22:23.600><c> organization.</c><00:22:24.400><c> It's</c><00:22:24.720><c> not</c><00:22:25.039><c> speed</c><00:22:25.280><c> for</c>
+agentic organization. It's not speed for
+agentic organization. It's not speed for
+its<00:22:25.760><c> own</c><00:22:25.919><c> sake.</c><00:22:26.400><c> It's</c><00:22:26.640><c> just</c><00:22:26.960><c> simpler,</c><00:22:27.600><c> less</c>
+its own sake. It's just simpler, less
+its own sake. It's just simpler, less
+hidden<00:22:28.320><c> state,</c><00:22:28.720><c> fewer</c><00:22:29.120><c> brittle</c><00:22:29.520><c> handoffs,</c>
+hidden state, fewer brittle handoffs,
+hidden state, fewer brittle handoffs,
+and<00:22:30.559><c> more</c><00:22:30.720><c> of</c><00:22:30.880><c> the</c><00:22:31.120><c> company</c><00:22:31.440><c> able</c><00:22:31.760><c> to</c><00:22:31.919><c> safely</c>
+and more of the company able to safely
+and more of the company able to safely
+ship<00:22:32.799><c> changes.</c><00:22:33.520><c> Last</c><00:22:33.840><c> week,</c><00:22:34.000><c> I</c><00:22:34.240><c> called</c><00:22:34.480><c> out</c>
+ship changes. Last week, I called out
+ship changes. Last week, I called out
+that<00:22:34.880><c> agents</c><00:22:35.280><c> fail</c><00:22:35.600><c> because</c><00:22:35.919><c> they</c><00:22:36.159><c> don't</c>
+that agents fail because they don't
+that agents fail because they don't
+remember.<00:22:37.120><c> And</c><00:22:37.280><c> you</c><00:22:37.440><c> can</c><00:22:37.600><c> fix</c><00:22:37.840><c> that</c><00:22:38.000><c> with</c>
+remember. And you can fix that with
+remember. And you can fix that with
+domain<00:22:38.720><c> memory,</c><00:22:39.280><c> but</c><00:22:39.520><c> it's</c><00:22:39.760><c> not</c><00:22:40.000><c> enough.</c><00:22:40.559><c> This</c>
+domain memory, but it's not enough. This
+domain memory, but it's not enough. This
+week,<00:22:40.960><c> I</c><00:22:41.200><c> want</c><00:22:41.280><c> to</c><00:22:41.520><c> remind</c><00:22:41.760><c> you</c><00:22:41.919><c> that</c>
+week, I want to remind you that
+week, I want to remind you that
+organizations<00:22:43.120><c> fail</c><00:22:43.520><c> because</c><00:22:43.760><c> they</c><00:22:44.080><c> don't</c>
+organizations fail because they don't
+organizations fail because they don't
+write<00:22:44.640><c> work</c><00:22:44.960><c> down</c><00:22:45.200><c> in</c><00:22:45.520><c> agent</c><00:22:45.919><c> legible</c><00:22:46.480><c> forms.</c>
+write work down in agent legible forms.
+write work down in agent legible forms.
+You<00:22:47.520><c> fix</c><00:22:47.840><c> that</c><00:22:48.080><c> by</c><00:22:48.400><c> teaching</c><00:22:48.880><c> primitive</c>
+You fix that by teaching primitive
+You fix that by teaching primitive
+fluency,<00:22:50.159><c> which</c><00:22:50.400><c> is</c><00:22:50.480><c> really</c><00:22:50.799><c> code</c><00:22:51.200><c> concept</c>
+fluency, which is really code concept
+fluency, which is really code concept
+fluency,<00:22:52.480><c> across</c><00:22:52.880><c> your</c><00:22:53.120><c> entire</c>
+fluency, across your entire
+fluency, across your entire
+organization.<00:22:54.400><c> Agent</c><00:22:54.880><c> strategy</c><00:22:55.520><c> is</c><00:22:55.760><c> not</c>
+organization. Agent strategy is not
+organization. Agent strategy is not
+really<00:22:56.320><c> a</c><00:22:56.559><c> procurement</c><00:22:57.200><c> decision.</c><00:22:58.000><c> It's</c><00:22:58.159><c> a</c>
+really a procurement decision. It's a
+really a procurement decision. It's a
+literacy<00:22:58.880><c> decision.</c><00:22:59.760><c> The</c><00:23:00.000><c> winners</c><00:23:00.480><c> won't</c><00:23:00.799><c> be</c>
+literacy decision. The winners won't be
+literacy decision. The winners won't be
+the<00:23:01.200><c> companies</c><00:23:01.520><c> that</c><00:23:01.919><c> have</c><00:23:02.240><c> agents.</c><00:23:03.039><c> They'll</c>
+the companies that have agents. They'll
+the companies that have agents. They'll
+be<00:23:03.360><c> the</c><00:23:03.600><c> companies</c><00:23:03.840><c> where</c><00:23:04.080><c> enough</c><00:23:04.480><c> people</c>
+be the companies where enough people
+be the companies where enough people
+understand<00:23:05.120><c> the</c><00:23:05.360><c> primitives</c><00:23:05.840><c> that</c><00:23:06.080><c> they</c><00:23:06.320><c> can</c>
+understand the primitives that they can
+understand the primitives that they can
+delete<00:23:07.039><c> sacred</c><00:23:07.520><c> workflows</c><00:23:08.000><c> and</c><00:23:08.240><c> frankly</c>
+delete sacred workflows and frankly
+delete sacred workflows and frankly
+notice<00:23:09.120><c> where</c><00:23:09.360><c> they're</c><00:23:09.520><c> incorrect.</c><00:23:10.480><c> And</c><00:23:10.640><c> that</c>
+notice where they're incorrect. And that
+notice where they're incorrect. And that
+will<00:23:10.960><c> allow</c><00:23:11.200><c> them</c><00:23:11.440><c> to</c><00:23:11.600><c> move</c><00:23:11.840><c> work</c><00:23:12.080><c> into</c><00:23:12.400><c> more</c>
+will allow them to move work into more
+will allow them to move work into more
+legible<00:23:13.120><c> artifacts</c><00:23:13.600><c> for</c><00:23:13.840><c> agents.</c><00:23:14.320><c> And</c><00:23:14.480><c> that</c>
+legible artifacts for agents. And that
+legible artifacts for agents. And that
+will<00:23:14.880><c> allow</c><00:23:15.120><c> them</c><00:23:15.280><c> to</c><00:23:15.440><c> unlock</c><00:23:15.840><c> agents</c>
+will allow them to unlock agents
+will allow them to unlock agents
+actually<00:23:16.799><c> operating.</c><00:23:17.679><c> And</c><00:23:17.840><c> that's</c><00:23:18.159><c> what</c>
+actually operating. And that's what
+actually operating. And that's what
+unlocks<00:23:18.880><c> 10x</c><00:23:19.360><c> speed.</c><00:23:19.840><c> Good</c><00:23:20.080><c> luck</c><00:23:20.240><c> with</c><00:23:20.320><c> your</c>
+unlocks 10x speed. Good luck with your
+unlocks 10x speed. Good luck with your
+primitives.<00:23:21.360><c> Good</c><00:23:21.520><c> luck</c><00:23:21.679><c> with</c><00:23:21.840><c> your</c><00:23:22.000><c> AI</c>
+primitives. Good luck with your AI
+primitives. Good luck with your AI
+agents.

@@ -1,0 +1,769 @@
+I<00:00:00.400><c> want</c><00:00:00.480><c> to</c><00:00:00.640><c> talk</c><00:00:00.880><c> about</c><00:00:01.199><c> reinforcement</c>
+I want to talk about reinforcement
+I want to talk about reinforcement
+learning<00:00:02.399><c> and</c><00:00:02.639><c> the</c><00:00:02.879><c> trajectory</c><00:00:03.520><c> that</c><00:00:03.679><c> that</c><00:00:04.000><c> is</c>
+learning and the trajectory that that is
+learning and the trajectory that that is
+changing<00:00:04.799><c> for</c><00:00:05.040><c> the</c><00:00:05.279><c> human</c>
+changing for the human
+changing for the human
+race.<00:00:07.040><c> I'm</c><00:00:07.359><c> talking</c><00:00:07.600><c> partly</c><00:00:08.000><c> in</c><00:00:08.240><c> response</c><00:00:08.639><c> to</c>
+race. I'm talking partly in response to
+race. I'm talking partly in response to
+yet<00:00:09.280><c> another</c><00:00:09.599><c> open</c><00:00:09.920><c> letter</c><00:00:10.320><c> basically</c><00:00:10.800><c> saying</c>
+yet another open letter basically saying
+yet another open letter basically saying
+open<00:00:12.000><c> AI</c><00:00:12.480><c> and</c><00:00:12.800><c> all</c><00:00:12.960><c> the</c><00:00:13.120><c> other</c><00:00:13.280><c> mod</c><00:00:13.840><c> major</c>
+open AI and all the other mod major
+open AI and all the other mod major
+model<00:00:14.559><c> makers</c><00:00:15.040><c> should</c><00:00:15.360><c> stop</c><00:00:15.839><c> and</c><00:00:16.160><c> not</c><00:00:16.400><c> do</c><00:00:16.560><c> any</c>
+model makers should stop and not do any
+model makers should stop and not do any
+more<00:00:16.880><c> AI</c><00:00:17.199><c> work</c><00:00:17.440><c> and</c><00:00:17.600><c> unplug</c><00:00:18.080><c> everything</c><00:00:18.720><c> and</c>
+more AI work and unplug everything and
+more AI work and unplug everything and
+we<00:00:19.119><c> should</c><00:00:19.279><c> just</c><00:00:19.439><c> go</c><00:00:19.600><c> back</c><00:00:19.760><c> to</c><00:00:19.920><c> the</c><00:00:20.080><c> way</c><00:00:20.240><c> things</c>
+we should just go back to the way things
+we should just go back to the way things
+were.<00:00:21.359><c> Needless</c><00:00:21.840><c> to</c><00:00:21.920><c> say,</c><00:00:22.080><c> if</c><00:00:22.240><c> you're</c><00:00:22.400><c> on</c><00:00:22.560><c> this</c>
+were. Needless to say, if you're on this
+were. Needless to say, if you're on this
+channel,<00:00:23.039><c> I</c><00:00:23.279><c> don't</c><00:00:23.439><c> agree.</c><00:00:23.840><c> I</c><00:00:24.080><c> think</c><00:00:24.160><c> that</c>
+channel, I don't agree. I think that
+channel, I don't agree. I think that
+that's<00:00:24.560><c> the</c><00:00:24.800><c> wrong</c><00:00:24.960><c> approach.</c><00:00:25.920><c> But</c><00:00:26.160><c> I</c><00:00:26.400><c> want</c><00:00:26.560><c> to</c>
+that's the wrong approach. But I want to
+that's the wrong approach. But I want to
+talk<00:00:26.880><c> about</c><00:00:27.039><c> how</c><00:00:27.199><c> it's</c><00:00:27.439><c> not</c><00:00:27.599><c> even</c><00:00:27.760><c> that</c><00:00:27.920><c> it's</c>
+talk about how it's not even that it's
+talk about how it's not even that it's
+incorrect.<00:00:28.640><c> is</c><00:00:28.880><c> that</c><00:00:29.039><c> it's</c><00:00:29.279><c> no</c><00:00:29.599><c> longer</c>
+incorrect. is that it's no longer
+incorrect. is that it's no longer
+something<00:00:30.320><c> that's</c>
+something that's
+something that's
+plausible.<00:00:32.239><c> Reinforcement</c><00:00:33.200><c> learning</c><00:00:33.600><c> is</c><00:00:34.360><c> why</c>
+plausible. Reinforcement learning is why
+plausible. Reinforcement learning is why
+reinforcement<00:00:36.079><c> learning</c><00:00:36.399><c> is</c><00:00:36.640><c> the</c><00:00:36.880><c> idea</c><00:00:37.840><c> that</c>
+reinforcement learning is the idea that
+reinforcement learning is the idea that
+an<00:00:38.719><c> agent,</c><00:00:39.280><c> an</c><00:00:39.520><c> AI</c><00:00:40.120><c> agent,</c><00:00:41.120><c> can</c><00:00:41.440><c> be</c><00:00:41.600><c> given</c><00:00:41.920><c> an</c>
+an agent, an AI agent, can be given an
+an agent, an AI agent, can be given an
+environment<00:00:43.200><c> and</c><00:00:43.440><c> a</c><00:00:43.680><c> reward</c><00:00:44.079><c> signal</c><00:00:44.399><c> at</c><00:00:44.640><c> its</c>
+environment and a reward signal at its
+environment and a reward signal at its
+very<00:00:45.040><c> simplest.</c><00:00:45.760><c> And</c><00:00:45.920><c> then</c><00:00:46.079><c> it</c><00:00:46.320><c> writes</c><00:00:47.239><c> itself</c>
+very simplest. And then it writes itself
+very simplest. And then it writes itself
+through<00:00:49.039><c> all</c><00:00:49.280><c> of</c><00:00:49.360><c> the</c><00:00:49.600><c> trial</c><00:00:49.840><c> and</c><00:00:50.079><c> error</c><00:00:50.239><c> that</c>
+through all of the trial and error that
+through all of the trial and error that
+follows<00:00:51.440><c> and</c><00:00:51.760><c> reshapes</c><00:00:52.480><c> the</c><00:00:52.800><c> guiding</c>
+follows and reshapes the guiding
+follows and reshapes the guiding
+policies<00:00:53.760><c> that</c><00:00:54.079><c> make</c><00:00:54.239><c> that</c><00:00:54.480><c> agent</c><00:00:54.800><c> what</c><00:00:54.960><c> it</c>
+policies that make that agent what it
+policies that make that agent what it
+is<00:00:57.160><c> to</c><00:00:58.160><c> actually</c><00:00:58.719><c> weight</c><00:00:59.039><c> itself</c><00:00:59.520><c> to</c><00:00:59.840><c> evolve</c>
+is to actually weight itself to evolve
+is to actually weight itself to evolve
+to<00:01:00.480><c> its</c><00:01:00.719><c> environment.</c><00:01:01.359><c> Essentially</c>
+to its environment. Essentially
+to its environment. Essentially
+reinforcement<00:01:03.199><c> learning</c><00:01:04.159><c> is</c><00:01:04.479><c> the</c><00:01:04.720><c> principle</c>
+reinforcement learning is the principle
+reinforcement learning is the principle
+of<00:01:05.519><c> evolution</c><00:01:06.320><c> for</c><00:01:06.799><c> machine</c><00:01:07.200><c> learning</c>
+of evolution for machine learning
+of evolution for machine learning
+agents.<00:01:08.159><c> It's</c><00:01:08.400><c> just</c><00:01:08.640><c> not</c>
+agents. It's just not
+agents. It's just not
+stoppable.<00:01:11.600><c> If</c><00:01:11.920><c> you</c><00:01:12.080><c> look</c><00:01:12.320><c> at</c><00:01:12.560><c> how</c><00:01:12.880><c> Alpha</c>
+stoppable. If you look at how Alpha
+stoppable. If you look at how Alpha
+Zero<00:01:14.960><c> learned</c><00:01:15.360><c> chess,</c><00:01:16.000><c> learned</c><00:01:16.479><c> Shogi,</c>
+Zero learned chess, learned Shogi,
+Zero learned chess, learned Shogi,
+learned<00:01:17.720><c> Go,</c><00:01:18.720><c> every</c><00:01:19.119><c> single</c><00:01:19.439><c> time</c><00:01:19.759><c> this</c><00:01:20.000><c> new</c>
+learned Go, every single time this new
+learned Go, every single time this new
+game,<00:01:20.479><c> this</c><00:01:20.720><c> new</c><00:01:20.880><c> problem</c><00:01:21.280><c> space,</c>
+game, this new problem space,
+game, this new problem space,
+increasingly
+increasingly
+increasingly
+complex,<00:01:24.479><c> all</c><00:01:24.799><c> that</c><00:01:25.200><c> happened</c><00:01:25.520><c> was</c><00:01:25.680><c> that</c><00:01:25.920><c> a</c>
+complex, all that happened was that a
+complex, all that happened was that a
+reinforcement<00:01:26.880><c> learning</c><00:01:27.200><c> agent</c><00:01:28.159><c> taught</c>
+reinforcement learning agent taught
+reinforcement learning agent taught
+itself<00:01:29.280><c> how</c><00:01:29.520><c> to</c><00:01:29.680><c> navigate</c><00:01:30.000><c> a</c><00:01:30.320><c> new</c><00:01:30.479><c> environment</c>
+itself how to navigate a new environment
+itself how to navigate a new environment
+through<00:01:32.640><c> clear</c><00:01:33.479><c> rewards</c><00:01:34.759><c> and</c><00:01:35.759><c> an</c><00:01:36.079><c> environment</c>
+through clear rewards and an environment
+through clear rewards and an environment
+it<00:01:36.720><c> could</c><00:01:36.880><c> navigate</c><00:01:37.520><c> with</c><00:01:37.759><c> the</c><00:01:37.920><c> option</c><00:01:38.240><c> to</c>
+it could navigate with the option to
+it could navigate with the option to
+write<00:01:38.720><c> itself.</c>
+write itself.
+write itself.
+Increasingly<00:01:41.680><c> when</c><00:01:41.920><c> we</c><00:01:42.240><c> think</c><00:01:42.560><c> about</c><00:01:43.439><c> the</c>
+Increasingly when we think about the
+Increasingly when we think about the
+future<00:01:44.159><c> of</c><00:01:44.400><c> AI</c><00:01:45.200><c> we</c><00:01:45.439><c> are</c><00:01:45.759><c> essentially</c><00:01:46.240><c> talking</c>
+future of AI we are essentially talking
+future of AI we are essentially talking
+about<00:01:46.799><c> this</c><00:01:47.200><c> process</c><00:01:47.680><c> of</c><00:01:48.360><c> machinedriven</c>
+about this process of machinedriven
+about this process of machinedriven
+evolution<00:01:50.079><c> and</c><00:01:50.320><c> it's</c><00:01:50.560><c> not</c><00:01:50.720><c> just</c>
+evolution and it's not just
+evolution and it's not just
+software<00:01:53.200><c> this</c><00:01:53.439><c> same</c><00:01:53.840><c> principle</c><00:01:54.479><c> applies</c><00:01:54.960><c> to</c>
+software this same principle applies to
+software this same principle applies to
+how<00:01:57.040><c> reusable</c><00:01:57.680><c> rocket</c><00:01:58.079><c> landings</c><00:01:58.560><c> can</c><00:01:58.799><c> be</c>
+how reusable rocket landings can be
+how reusable rocket landings can be
+planned<00:01:59.280><c> for</c>
+planned for
+planned for
+SpaceX<00:02:01.119><c> how</c><00:02:01.360><c> Tesla's</c><00:02:01.920><c> autopilot</c><00:02:03.079><c> works.</c>
+SpaceX how Tesla's autopilot works.
+SpaceX how Tesla's autopilot works.
+Anytime<00:02:04.880><c> we</c><00:02:05.119><c> have</c><00:02:05.280><c> an</c><00:02:05.719><c> action</c><00:02:06.719><c> that</c>
+Anytime we have an action that
+Anytime we have an action that
+influences<00:02:07.920><c> a</c><00:02:08.239><c> long</c><00:02:08.640><c> horizon</c><00:02:09.119><c> of</c>
+influences a long horizon of
+influences a long horizon of
+consequences<00:02:10.080><c> and</c><00:02:10.319><c> we</c><00:02:10.560><c> don't</c><00:02:10.720><c> have</c><00:02:10.800><c> a</c><00:02:11.039><c> defined</c>
+consequences and we don't have a defined
+consequences and we don't have a defined
+data<00:02:11.879><c> set,</c><00:02:12.879><c> we</c><00:02:13.200><c> have</c><00:02:13.520><c> almost</c><00:02:13.920><c> infinite</c>
+data set, we have almost infinite
+data set, we have almost infinite
+possibilities.<00:02:15.040><c> We</c><00:02:15.200><c> call</c><00:02:15.280><c> it</c><00:02:15.360><c> a</c>
+possibilities. We call it a
+possibilities. We call it a
+combinatorial<00:02:16.640><c> possibility</c>
+combinatorial possibility
+combinatorial possibility
+set.<00:02:19.280><c> Then</c><00:02:19.520><c> the</c><00:02:19.680><c> agent</c><00:02:20.080><c> gets</c><00:02:20.400><c> rewarded</c><00:02:20.800><c> for</c>
+set. Then the agent gets rewarded for
+set. Then the agent gets rewarded for
+taking<00:02:21.520><c> a</c><00:02:21.760><c> particular</c><00:02:22.160><c> angle</c><00:02:22.480><c> in</c><00:02:22.720><c> that</c><00:02:22.959><c> space,</c>
+taking a particular angle in that space,
+taking a particular angle in that space,
+taking<00:02:23.599><c> a</c><00:02:23.760><c> particular</c><00:02:24.520><c> trajectory.</c><00:02:25.520><c> You</c><00:02:25.760><c> can</c>
+taking a particular trajectory. You can
+taking a particular trajectory. You can
+never<00:02:26.400><c> have</c><00:02:26.640><c> enough</c><00:02:26.959><c> data</c><00:02:27.280><c> to</c><00:02:27.520><c> know</c><00:02:27.680><c> you've</c>
+never have enough data to know you've
+never have enough data to know you've
+covered<00:02:28.560><c> every</c><00:02:29.040><c> street</c><00:02:29.360><c> in</c><00:02:29.599><c> the</c><00:02:29.840><c> world</c><00:02:30.160><c> with</c>
+covered every street in the world with
+covered every street in the world with
+your<00:02:30.720><c> training</c><00:02:31.120><c> data</c><00:02:31.440><c> set</c><00:02:31.840><c> under</c><00:02:32.160><c> every</c>
+your training data set under every
+your training data set under every
+possible<00:02:32.959><c> situation.</c><00:02:33.519><c> You</c><00:02:33.680><c> go</c><00:02:33.760><c> to</c><00:02:33.840><c> the</c><00:02:34.000><c> stop</c>
+possible situation. You go to the stop
+possible situation. You go to the stop
+sign,<00:02:34.400><c> is</c><00:02:34.560><c> it</c><00:02:34.720><c> raining?</c><00:02:35.040><c> You</c><00:02:35.120><c> go</c><00:02:35.200><c> to</c><00:02:35.360><c> the</c><00:02:35.519><c> same</c>
+sign, is it raining? You go to the same
+sign, is it raining? You go to the same
+stop<00:02:35.920><c> sign,</c><00:02:36.239><c> is</c><00:02:36.319><c> it</c><00:02:36.480><c> dark?</c><00:02:36.800><c> Is</c><00:02:36.959><c> it</c><00:02:37.200><c> thundering?</c>
+stop sign, is it dark? Is it thundering?
+stop sign, is it dark? Is it thundering?
+Is<00:02:38.080><c> it</c><00:02:38.239><c> a</c><00:02:38.400><c> tornado?</c><00:02:39.200><c> Is</c><00:02:39.440><c> there</c><00:02:39.519><c> a</c><00:02:39.760><c> person</c>
+Is it a tornado? Is there a person
+Is it a tornado? Is there a person
+crossing<00:02:40.400><c> the</c><00:02:40.760><c> street?</c><00:02:41.760><c> And</c><00:02:41.920><c> then</c><00:02:42.160><c> you</c>
+crossing the street? And then you
+crossing the street? And then you
+multiply<00:02:42.720><c> that</c><00:02:42.959><c> by</c><00:02:43.120><c> all</c><00:02:43.280><c> the</c><00:02:43.440><c> intersections</c>
+multiply that by all the intersections
+multiply that by all the intersections
+in<00:02:44.080><c> the</c><00:02:44.239><c> world</c><00:02:44.319><c> and</c><00:02:44.560><c> all</c><00:02:44.640><c> the</c><00:02:44.800><c> streets</c><00:02:45.120><c> in</c><00:02:45.280><c> the</c>
+in the world and all the streets in the
+in the world and all the streets in the
+world.<00:02:47.200><c> Reinforcement</c><00:02:48.080><c> learning</c><00:02:48.560><c> is</c><00:02:48.800><c> what</c>
+world. Reinforcement learning is what
+world. Reinforcement learning is what
+enables<00:02:49.440><c> an</c><00:02:49.760><c> agent</c><00:02:50.239><c> to</c><00:02:50.560><c> navigate</c><00:02:51.120><c> those</c>
+enables an agent to navigate those
+enables an agent to navigate those
+unpredictable
+unpredictable
+unpredictable
+spaces<00:02:54.319><c> using</c><00:02:54.720><c> a</c><00:02:55.120><c> world</c><00:02:55.440><c> model</c><00:02:55.760><c> that</c><00:02:56.000><c> has</c><00:02:56.239><c> been</c>
+spaces using a world model that has been
+spaces using a world model that has been
+evolved<00:02:57.200><c> through</c><00:02:57.519><c> trial</c><00:02:57.840><c> and</c><00:02:58.160><c> error.</c><00:02:58.800><c> That</c><00:02:59.120><c> is</c>
+evolved through trial and error. That is
+evolved through trial and error. That is
+why<00:02:59.760><c> Jensen</c><00:03:00.319><c> Hang</c><00:03:00.879><c> is</c><00:03:01.120><c> so</c><00:03:01.440><c> excited</c><00:03:02.000><c> about</c><00:03:02.239><c> the</c>
+why Jensen Hang is so excited about the
+why Jensen Hang is so excited about the
+work<00:03:02.640><c> that</c><00:03:02.879><c> his</c><00:03:03.200><c> team</c><00:03:03.360><c> is</c><00:03:03.599><c> doing</c><00:03:03.680><c> at</c><00:03:04.040><c> Nvidia</c><00:03:05.040><c> to</c>
+work that his team is doing at Nvidia to
+work that his team is doing at Nvidia to
+give<00:03:05.680><c> robots</c><00:03:06.480><c> virtual</c><00:03:07.040><c> spaces</c><00:03:07.599><c> to</c><00:03:07.920><c> navigate</c>
+give robots virtual spaces to navigate
+give robots virtual spaces to navigate
+within.<00:03:09.360><c> Because</c><00:03:09.599><c> if</c><00:03:09.760><c> you</c><00:03:09.920><c> can</c><00:03:10.080><c> navigate</c><00:03:10.480><c> in</c>
+within. Because if you can navigate in
+within. Because if you can navigate in
+virtual<00:03:11.120><c> warehouses,</c><00:03:11.840><c> virtual</c><00:03:12.319><c> spaces,</c><00:03:13.200><c> you</c>
+virtual warehouses, virtual spaces, you
+virtual warehouses, virtual spaces, you
+can<00:03:13.599><c> get</c><00:03:13.760><c> to</c><00:03:13.920><c> a</c><00:03:14.159><c> point</c><00:03:14.319><c> where</c><00:03:14.560><c> the</c><00:03:14.800><c> robot</c><00:03:15.280><c> is</c>
+can get to a point where the robot is
+can get to a point where the robot is
+learning<00:03:16.000><c> very</c><00:03:16.519><c> rapidly</c><00:03:17.519><c> in</c><00:03:18.080><c> virtual</c><00:03:18.760><c> time.</c>
+learning very rapidly in virtual time.
+learning very rapidly in virtual time.
+And<00:03:20.000><c> it</c><00:03:20.239><c> takes</c><00:03:20.480><c> much</c><00:03:20.800><c> less</c><00:03:21.200><c> clock</c><00:03:21.640><c> time,</c><00:03:22.640><c> like</c>
+And it takes much less clock time, like
+And it takes much less clock time, like
+hundreds<00:03:23.280><c> of</c><00:03:23.440><c> times</c><00:03:23.840><c> less</c><00:03:24.159><c> clock</c><00:03:24.480><c> time</c><00:03:24.640><c> to</c>
+hundreds of times less clock time to
+hundreds of times less clock time to
+train<00:03:25.120><c> the</c><00:03:25.360><c> robot</c><00:03:25.680><c> than</c><00:03:25.840><c> it</c><00:03:26.000><c> would</c><00:03:26.159><c> if</c><00:03:26.319><c> you</c><00:03:26.480><c> had</c>
+train the robot than it would if you had
+train the robot than it would if you had
+a<00:03:26.800><c> physical</c><00:03:27.120><c> robot</c><00:03:27.599><c> navigating</c><00:03:28.080><c> a</c><00:03:28.319><c> physical</c>
+a physical robot navigating a physical
+a physical robot navigating a physical
+warehouse<00:03:29.680><c> because</c><00:03:29.920><c> you</c><00:03:30.159><c> can</c><00:03:30.239><c> imagine</c><00:03:30.640><c> if</c><00:03:30.879><c> the</c>
+warehouse because you can imagine if the
+warehouse because you can imagine if the
+physical<00:03:31.360><c> robot</c><00:03:31.840><c> jumps</c><00:03:32.159><c> off</c><00:03:32.319><c> the</c><00:03:32.480><c> shelves</c><00:03:33.120><c> and</c>
+physical robot jumps off the shelves and
+physical robot jumps off the shelves and
+experiences<00:03:34.080><c> a</c><00:03:34.239><c> negative</c><00:03:34.640><c> reward</c><00:03:34.959><c> by</c>
+experiences a negative reward by
+experiences a negative reward by
+crushing<00:03:35.720><c> itself,</c><00:03:36.720><c> well,</c><00:03:37.280><c> that's</c><00:03:37.599><c> going</c><00:03:37.680><c> to</c>
+crushing itself, well, that's going to
+crushing itself, well, that's going to
+take<00:03:37.920><c> a</c><00:03:38.080><c> lot</c><00:03:38.159><c> of</c><00:03:38.319><c> time</c><00:03:38.400><c> to</c><00:03:38.640><c> clean</c><00:03:38.799><c> up</c><00:03:38.959><c> and</c><00:03:39.200><c> sort</c>
+take a lot of time to clean up and sort
+take a lot of time to clean up and sort
+out.<00:03:39.680><c> Whereas</c><00:03:40.000><c> in</c><00:03:40.159><c> the</c><00:03:40.239><c> virtual</c><00:03:40.640><c> world,</c><00:03:41.040><c> if</c><00:03:41.200><c> it</c>
+out. Whereas in the virtual world, if it
+out. Whereas in the virtual world, if it
+just<00:03:41.599><c> jumps</c><00:03:41.920><c> off</c><00:03:42.080><c> the</c><00:03:42.319><c> shelf</c><00:03:42.720><c> and</c><00:03:42.959><c> it</c><00:03:43.120><c> smashes</c>
+just jumps off the shelf and it smashes
+just jumps off the shelf and it smashes
+into<00:03:43.760><c> the</c><00:03:43.920><c> floor,</c><00:03:44.159><c> it's</c><00:03:44.319><c> like</c><00:03:44.400><c> a</c><00:03:44.560><c> little</c>
+into the floor, it's like a little
+into the floor, it's like a little
+reboot<00:03:45.040><c> and</c><00:03:45.120><c> it</c><00:03:45.280><c> gets</c><00:03:45.440><c> a</c><00:03:45.599><c> negative</c><00:03:45.840><c> reward</c><00:03:46.159><c> and</c>
+reboot and it gets a negative reward and
+reboot and it gets a negative reward and
+it<00:03:46.480><c> keeps</c><00:03:46.720><c> going.</c><00:03:47.440><c> It's</c><00:03:47.680><c> super</c><00:03:47.920><c> fast.</c><00:03:48.239><c> And</c>
+it keeps going. It's super fast. And
+it keeps going. It's super fast. And
+that's<00:03:48.560><c> the</c><00:03:48.720><c> simplest</c><00:03:49.120><c> possible</c>
+that's the simplest possible
+that's the simplest possible
+explanation.<00:03:49.920><c> There's</c><00:03:50.080><c> a</c><00:03:50.239><c> lot</c><00:03:50.319><c> of</c><00:03:50.400><c> other</c>
+explanation. There's a lot of other
+explanation. There's a lot of other
+reasons<00:03:50.799><c> why</c><00:03:51.040><c> it</c><00:03:51.200><c> goes</c>
+reasons why it goes
+reasons why it goes
+faster.<00:03:53.840><c> At</c><00:03:54.000><c> the</c><00:03:54.159><c> end</c><00:03:54.319><c> of</c><00:03:54.400><c> the</c>
+faster. At the end of the
+faster. At the end of the
+day,<00:03:56.280><c> simulation</c><00:03:57.280><c> is</c><00:03:57.680><c> economically</c>
+day, simulation is economically
+day, simulation is economically
+explosive<00:03:59.040><c> for</c><00:03:59.280><c> us.</c><00:03:59.599><c> We</c><00:03:59.920><c> have</c><00:04:00.159><c> figured</c><00:04:00.680><c> out</c>
+explosive for us. We have figured out
+explosive for us. We have figured out
+that<00:04:01.920><c> if</c><00:04:02.159><c> we</c><00:04:02.319><c> can</c><00:04:02.560><c> build</c><00:04:03.439><c> moderately</c><00:04:04.319><c> faithful</c>
+that if we can build moderately faithful
+that if we can build moderately faithful
+digital
+digital
+digital
+twins,<00:04:07.040><c> we</c><00:04:07.280><c> can</c><00:04:07.439><c> evolve</c><00:04:07.920><c> so</c><00:04:08.159><c> much</c><00:04:08.400><c> faster.</c><00:04:09.120><c> And</c>
+twins, we can evolve so much faster. And
+twins, we can evolve so much faster. And
+that's<00:04:09.599><c> true</c><00:04:09.840><c> whether</c><00:04:10.080><c> it's</c><00:04:10.239><c> in</c><00:04:10.400><c> a</c><00:04:10.560><c> digital</c>
+that's true whether it's in a digital
+that's true whether it's in a digital
+warehouse<00:04:11.280><c> or</c><00:04:11.599><c> you're</c><00:04:11.760><c> simulating</c><00:04:12.239><c> a</c><00:04:12.480><c> power</c>
+warehouse or you're simulating a power
+warehouse or you're simulating a power
+grid<00:04:13.040><c> or</c><00:04:13.280><c> you're</c><00:04:13.760><c> simulating</c><00:04:14.239><c> a</c><00:04:14.560><c> supply</c><00:04:14.959><c> chain</c>
+grid or you're simulating a supply chain
+grid or you're simulating a supply chain
+or<00:04:16.799><c> whether</c><00:04:17.199><c> you</c><00:04:17.440><c> are</c><00:04:17.680><c> simulating</c><00:04:18.400><c> language</c>
+or whether you are simulating language
+or whether you are simulating language
+itself,<00:04:19.359><c> which</c><00:04:19.600><c> is</c><00:04:19.759><c> kind</c><00:04:19.919><c> of</c><00:04:20.000><c> where</c><00:04:20.400><c> large</c>
+itself, which is kind of where large
+itself, which is kind of where large
+language<00:04:21.040><c> models</c><00:04:21.440><c> come</c><00:04:22.040><c> in.</c><00:04:23.040><c> If</c><00:04:23.280><c> you</c><00:04:23.440><c> were</c><00:04:23.600><c> in</c>
+language models come in. If you were in
+language models come in. If you were in
+reinforcement<00:04:24.639><c> learning</c><00:04:25.040><c> for</c><00:04:25.520><c> an</c><00:04:25.960><c> LLM,</c><00:04:26.960><c> you</c>
+reinforcement learning for an LLM, you
+reinforcement learning for an LLM, you
+are<00:04:27.520><c> essentially</c><00:04:28.240><c> simulating</c><00:04:28.800><c> the</c><00:04:29.120><c> human</c>
+are essentially simulating the human
+are essentially simulating the human
+experience<00:04:30.000><c> of</c><00:04:30.240><c> language</c><00:04:31.040><c> and</c><00:04:31.280><c> you're</c><00:04:31.520><c> doing</c>
+experience of language and you're doing
+experience of language and you're doing
+it<00:04:32.160><c> as</c><00:04:32.400><c> a</c><00:04:32.560><c> speedrun.</c><00:04:33.199><c> You're</c><00:04:33.440><c> doing</c><00:04:33.600><c> it</c><00:04:34.000><c> extra</c>
+it as a speedrun. You're doing it extra
+it as a speedrun. You're doing it extra
+fast.<00:04:34.960><c> It</c><00:04:35.199><c> takes</c><00:04:35.440><c> us</c><00:04:35.759><c> humans</c><00:04:36.240><c> decades</c><00:04:36.720><c> to</c>
+fast. It takes us humans decades to
+fast. It takes us humans decades to
+fully<00:04:37.360><c> learn</c><00:04:37.600><c> our</c><00:04:37.840><c> languages.</c><00:04:38.800><c> And</c><00:04:39.040><c> then</c><00:04:39.520><c> if</c>
+fully learn our languages. And then if
+fully learn our languages. And then if
+we're<00:04:40.000><c> learning</c><00:04:40.240><c> multiple</c><00:04:40.639><c> languages,</c><00:04:41.600><c> even</c>
+we're learning multiple languages, even
+we're learning multiple languages, even
+more<00:04:42.680><c> time.</c><00:04:43.680><c> And</c><00:04:44.240><c> even</c><00:04:44.479><c> at</c><00:04:44.720><c> that</c><00:04:44.960><c> point,</c><00:04:45.759><c> we</c>
+more time. And even at that point, we
+more time. And even at that point, we
+may<00:04:46.240><c> be</c><00:04:46.479><c> native</c><00:04:46.880><c> speakers</c><00:04:47.199><c> in</c><00:04:47.520><c> only</c><00:04:47.680><c> one</c><00:04:47.840><c> or</c>
+may be native speakers in only one or
+may be native speakers in only one or
+two<00:04:48.160><c> or</c>
+two or
+two or
+three.<00:04:50.160><c> The</c><00:04:50.400><c> LLM</c><00:04:51.120><c> is</c><00:04:51.440><c> speedrunning</c><00:04:52.240><c> even</c><00:04:52.560><c> more</c>
+three. The LLM is speedrunning even more
+three. The LLM is speedrunning even more
+context<00:04:53.520><c> than</c><00:04:53.840><c> we've</c><00:04:54.160><c> been</c><00:04:54.240><c> able</c><00:04:54.479><c> to</c><00:04:54.639><c> acquire</c>
+context than we've been able to acquire
+context than we've been able to acquire
+in<00:04:55.199><c> our</c><00:04:55.360><c> decades</c><00:04:55.759><c> of</c><00:04:55.919><c> life</c><00:04:56.160><c> on</c><00:04:56.400><c> Earth</c><00:04:56.800><c> in</c><00:04:57.120><c> more</c>
+in our decades of life on Earth in more
+in our decades of life on Earth in more
+languages<00:04:57.840><c> than</c><00:04:58.080><c> most</c><00:04:58.320><c> of</c><00:04:58.479><c> us</c><00:04:58.639><c> are</c><00:04:58.800><c> able</c><00:04:59.040><c> to</c>
+languages than most of us are able to
+languages than most of us are able to
+learn<00:05:00.240><c> and</c><00:05:00.479><c> is</c><00:05:00.800><c> able</c>
+learn and is able
+learn and is able
+to<00:05:02.720><c> respond</c><00:05:03.520><c> with</c><00:05:03.840><c> effectively</c><00:05:04.479><c> an</c><00:05:04.800><c> evolved</c>
+to respond with effectively an evolved
+to respond with effectively an evolved
+ability<00:05:05.600><c> to</c><00:05:05.919><c> navigate</c><00:05:06.400><c> that</c><00:05:06.639><c> linguistic</c>
+ability to navigate that linguistic
+ability to navigate that linguistic
+space.<00:05:07.840><c> Language</c><00:05:08.400><c> is</c><00:05:09.039><c> a</c><00:05:09.360><c> problem</c><00:05:09.840><c> space</c><00:05:10.240><c> with</c>
+space. Language is a problem space with
+space. Language is a problem space with
+combinatorial<00:05:11.360><c> possibilities.</c><00:05:12.080><c> That's</c><00:05:12.400><c> why</c>
+combinatorial possibilities. That's why
+combinatorial possibilities. That's why
+reinforcement<00:05:13.680><c> learning</c><00:05:14.080><c> works</c><00:05:14.320><c> for</c>
+reinforcement learning works for
+reinforcement learning works for
+language.<00:05:15.440><c> And</c><00:05:15.680><c> that</c><00:05:16.120><c> fundamental</c><00:05:17.120><c> insight</c>
+language. And that fundamental insight
+language. And that fundamental insight
+is<00:05:18.160><c> also</c><00:05:18.680><c> why</c><00:05:19.680><c> people</c><00:05:20.000><c> who</c><00:05:20.240><c> stick</c><00:05:20.560><c> their</c><00:05:20.800><c> heads</c>
+is also why people who stick their heads
+is also why people who stick their heads
+in<00:05:21.199><c> the</c><00:05:21.360><c> sand</c><00:05:21.600><c> and</c><00:05:21.840><c> just</c><00:05:22.080><c> want</c><00:05:22.240><c> to</c><00:05:22.400><c> pretend</c>
+in the sand and just want to pretend
+in the sand and just want to pretend
+this<00:05:23.039><c> isn't</c><00:05:23.720><c> happening,</c><00:05:24.720><c> it's</c><00:05:25.039><c> not</c><00:05:25.199><c> going</c><00:05:25.280><c> to</c>
+this isn't happening, it's not going to
+this isn't happening, it's not going to
+work.<00:05:25.919><c> The</c><00:05:26.240><c> principle</c><00:05:26.560><c> of</c><00:05:26.720><c> evolution</c><00:05:27.199><c> is</c><00:05:27.440><c> the</c>
+work. The principle of evolution is the
+work. The principle of evolution is the
+principle<00:05:27.919><c> of</c><00:05:28.160><c> evolution.</c><00:05:29.039><c> The</c><00:05:29.280><c> agents</c><00:05:29.759><c> are</c>
+principle of evolution. The agents are
+principle of evolution. The agents are
+learning.<00:05:31.840><c> You</c><00:05:32.160><c> can't</c><00:05:32.639><c> actually</c><00:05:33.280><c> unplug</c><00:05:33.840><c> them</c>
+learning. You can't actually unplug them
+learning. You can't actually unplug them
+at<00:05:34.240><c> this</c><00:05:34.400><c> point.</c><00:05:34.639><c> I</c><00:05:34.880><c> don't</c><00:05:35.120><c> believe</c><00:05:35.280><c> it's</c>
+at this point. I don't believe it's
+at this point. I don't believe it's
+practically<00:05:36.160><c> possible.</c>
+practically possible.
+practically possible.
+And<00:05:39.120><c> even</c><00:05:39.440><c> if</c><00:05:39.600><c> you</c><00:05:39.880><c> could,</c><00:05:40.880><c> I</c><00:05:41.120><c> don't</c><00:05:41.280><c> think</c><00:05:41.440><c> it</c>
+And even if you could, I don't think it
+And even if you could, I don't think it
+would<00:05:41.840><c> help.</c><00:05:42.639><c> I</c><00:05:42.880><c> think</c><00:05:43.039><c> the</c><00:05:43.280><c> fears</c><00:05:43.680><c> that</c><00:05:43.919><c> we</c>
+would help. I think the fears that we
+would help. I think the fears that we
+have<00:05:44.720><c> are</c>
+have are
+have are
+effectively<00:05:46.560><c> the</c><00:05:46.960><c> fears</c><00:05:47.360><c> that</c><00:05:47.759><c> come</c><00:05:48.280><c> from</c>
+effectively the fears that come from
+effectively the fears that come from
+letting<00:05:49.680><c> go</c><00:05:49.919><c> of</c><00:05:50.520><c> deterministic</c><00:05:51.880><c> control</c><00:05:52.880><c> and</c>
+letting go of deterministic control and
+letting go of deterministic control and
+enabling<00:05:53.919><c> a</c><00:05:54.280><c> probabilistic</c>
+enabling a probabilistic
+enabling a probabilistic
+future.<00:05:57.039><c> I</c><00:05:57.800><c> personally</c><00:05:58.800><c> would</c><00:05:59.039><c> like</c><00:05:59.280><c> to</c><00:05:59.520><c> see</c><00:05:59.600><c> a</c>
+future. I personally would like to see a
+future. I personally would like to see a
+future<00:06:00.160><c> that</c><00:06:00.320><c> is</c><00:06:00.479><c> more</c><00:06:00.720><c> abundant,</c><00:06:01.360><c> a</c><00:06:01.600><c> future</c>
+future that is more abundant, a future
+future that is more abundant, a future
+where<00:06:02.160><c> everybody</c><00:06:02.639><c> has</c><00:06:02.880><c> more</c>
+where everybody has more
+where everybody has more
+possibilities.<00:06:04.960><c> But</c><00:06:05.199><c> I</c><00:06:05.440><c> think</c><00:06:05.520><c> the</c><00:06:05.759><c> key</c><00:06:05.919><c> to</c><00:06:06.080><c> a</c>
+possibilities. But I think the key to a
+possibilities. But I think the key to a
+lot<00:06:06.400><c> of</c><00:06:06.560><c> that</c><00:06:06.800><c> is</c><00:06:07.120><c> actually</c><00:06:07.680><c> enabling</c><00:06:08.319><c> us</c><00:06:08.639><c> to</c>
+lot of that is actually enabling us to
+lot of that is actually enabling us to
+discover<00:06:10.759><c> more</c><00:06:11.759><c> economically</c><00:06:12.639><c> beneficial</c>
+discover more economically beneficial
+discover more economically beneficial
+solutions<00:06:13.680><c> for</c><00:06:14.000><c> everyone.</c><00:06:14.560><c> And</c><00:06:14.800><c> one</c><00:06:15.039><c> of</c><00:06:15.120><c> the</c>
+solutions for everyone. And one of the
+solutions for everyone. And one of the
+most<00:06:15.600><c> efficient</c><00:06:16.000><c> ways</c><00:06:16.240><c> to</c><00:06:16.479><c> do</c><00:06:16.560><c> that</c><00:06:16.800><c> is</c>
+most efficient ways to do that is
+most efficient ways to do that is
+through<00:06:17.280><c> reinforcement</c>
+through reinforcement
+through reinforcement
+learning.<00:06:19.520><c> People</c><00:06:19.840><c> can</c><00:06:20.080><c> go</c><00:06:20.240><c> back</c><00:06:20.479><c> and</c><00:06:20.720><c> forth</c>
+learning. People can go back and forth
+learning. People can go back and forth
+on<00:06:21.199><c> the</c><00:06:21.360><c> effect</c><00:06:21.600><c> of</c><00:06:21.759><c> Amazon</c><00:06:22.319><c> on</c><00:06:22.560><c> the</c><00:06:22.720><c> labor</c>
+on the effect of Amazon on the labor
+on the effect of Amazon on the labor
+force.<00:06:23.919><c> But</c><00:06:24.160><c> from</c><00:06:24.319><c> a</c><00:06:24.560><c> consumer</c><00:06:25.240><c> perspective,</c>
+force. But from a consumer perspective,
+force. But from a consumer perspective,
+from<00:06:26.800><c> a</c><00:06:27.360><c> inflation</c><00:06:28.280><c> perspective,</c><00:06:29.280><c> from</c><00:06:29.440><c> a</c>
+from a inflation perspective, from a
+from a inflation perspective, from a
+value<00:06:30.000><c> to</c><00:06:30.240><c> the</c><00:06:30.479><c> customer</c><00:06:30.919><c> perspective,</c><00:06:31.919><c> it</c><00:06:32.160><c> is</c>
+value to the customer perspective, it is
+value to the customer perspective, it is
+literally<00:06:32.960><c> using</c><00:06:33.520><c> reinforcement</c><00:06:34.319><c> learning</c>
+literally using reinforcement learning
+literally using reinforcement learning
+to<00:06:34.960><c> deliver</c><00:06:35.520><c> extraordinary</c><00:06:36.319><c> value</c><00:06:36.639><c> to</c>
+to deliver extraordinary value to
+to deliver extraordinary value to
+customers.<00:06:39.360><c> You</c><00:06:39.600><c> can</c><00:06:39.759><c> get</c><00:06:39.919><c> your</c><00:06:40.160><c> medicine</c>
+customers. You can get your medicine
+customers. You can get your medicine
+delivered,<00:06:41.039><c> you</c><00:06:41.199><c> can</c><00:06:41.280><c> get</c><00:06:41.440><c> your</c><00:06:41.600><c> kitchen</c>
+delivered, you can get your kitchen
+delivered, you can get your kitchen
+ingredients<00:06:42.400><c> delivered,</c><00:06:42.880><c> you</c><00:06:43.039><c> can</c><00:06:43.199><c> get</c><00:06:43.280><c> your</c>
+ingredients delivered, you can get your
+ingredients delivered, you can get your
+furniture<00:06:43.919><c> delivered</c><00:06:44.720><c> very</c><00:06:45.039><c> quickly</c><00:06:45.440><c> on</c><00:06:45.759><c> your</c>
+furniture delivered very quickly on your
+furniture delivered very quickly on your
+doorstep<00:06:46.560><c> because</c><00:06:46.960><c> of</c><00:06:47.280><c> artificial</c>
+doorstep because of artificial
+doorstep because of artificial
+intelligence.<00:06:49.600><c> And</c><00:06:49.840><c> they</c><00:06:50.000><c> don't</c><00:06:50.240><c> talk</c><00:06:50.400><c> about</c>
+intelligence. And they don't talk about
+intelligence. And they don't talk about
+it<00:06:50.800><c> quite</c><00:06:51.039><c> as</c><00:06:51.280><c> bluntly</c><00:06:51.840><c> outside</c><00:06:52.319><c> the</c><00:06:52.560><c> house</c><00:06:53.039><c> as</c>
+it quite as bluntly outside the house as
+it quite as bluntly outside the house as
+it<00:06:53.600><c> really</c><00:06:53.840><c> is.</c><00:06:54.240><c> It</c><00:06:54.479><c> is</c><00:06:55.000><c> basically</c><00:06:56.000><c> a</c><00:06:56.240><c> website</c>
+it really is. It is basically a website
+it really is. It is basically a website
+with<00:06:56.800><c> a</c><00:06:56.880><c> bunch</c><00:06:57.039><c> of</c><00:06:57.120><c> artificial</c><00:06:57.600><c> intelligence</c>
+with a bunch of artificial intelligence
+with a bunch of artificial intelligence
+behind<00:06:58.479><c> it</c><00:06:58.639><c> and</c><00:06:58.880><c> then</c><00:06:59.120><c> a</c><00:06:59.360><c> bunch</c><00:06:59.520><c> of</c>
+behind it and then a bunch of
+behind it and then a bunch of
+warehouses.<00:07:00.960><c> And</c><00:07:01.120><c> the</c><00:07:01.280><c> AI,</c><00:07:02.160><c> these</c><00:07:02.479><c> multiple</c>
+warehouses. And the AI, these multiple
+warehouses. And the AI, these multiple
+AI<00:07:03.280><c> systems</c><00:07:03.680><c> are</c><00:07:03.919><c> what</c><00:07:04.199><c> keep</c><00:07:05.199><c> the</c><00:07:06.080><c> customer</c>
+AI systems are what keep the customer
+AI systems are what keep the customer
+experience<00:07:08.400><c> actually</c><00:07:09.199><c> cash</c><00:07:09.520><c> flow</c><00:07:10.000><c> efficient.</c>
+experience actually cash flow efficient.
+experience actually cash flow efficient.
+It's<00:07:10.880><c> extremely</c><00:07:11.680><c> inefficient</c><00:07:12.319><c> to</c><00:07:12.639><c> run</c><00:07:13.039><c> a</c>
+It's extremely inefficient to run a
+It's extremely inefficient to run a
+retail<00:07:13.919><c> store</c><00:07:14.400><c> online.</c>
+retail store online.
+retail store online.
+And<00:07:16.720><c> the</c><00:07:17.039><c> only</c><00:07:17.440><c> company</c><00:07:17.840><c> I</c><00:07:18.080><c> know</c><00:07:18.319><c> that</c><00:07:18.560><c> was</c>
+And the only company I know that was
+And the only company I know that was
+able<00:07:19.039><c> to</c><00:07:19.759><c> use</c><00:07:20.080><c> AI</c><00:07:20.639><c> to</c><00:07:20.880><c> run</c><00:07:21.039><c> it</c><00:07:21.280><c> so</c><00:07:21.599><c> efficiently,</c>
+able to use AI to run it so efficiently,
+able to use AI to run it so efficiently,
+they<00:07:22.560><c> generated</c><00:07:22.880><c> a</c><00:07:23.120><c> cash</c><00:07:23.360><c> flow</c><00:07:23.759><c> to</c><00:07:24.240><c> drive</c><00:07:24.639><c> the</c>
+they generated a cash flow to drive the
+they generated a cash flow to drive the
+development<00:07:25.520><c> of</c><00:07:25.759><c> a</c><00:07:26.080><c> cloud</c><00:07:26.440><c> business</c><00:07:27.440><c> was</c>
+development of a cloud business was
+development of a cloud business was
+Amazon.<00:07:28.240><c> That</c><00:07:28.400><c> is</c><00:07:28.560><c> the</c><00:07:28.800><c> opposite</c><00:07:29.199><c> of</c><00:07:29.440><c> what</c><00:07:29.759><c> you</c>
+Amazon. That is the opposite of what you
+Amazon. That is the opposite of what you
+should<00:07:30.160><c> do.</c><00:07:30.479><c> You</c><00:07:30.720><c> should</c><00:07:30.880><c> use</c><00:07:31.039><c> the</c><00:07:31.280><c> cash</c><00:07:31.520><c> flow</c>
+should do. You should use the cash flow
+should do. You should use the cash flow
+from<00:07:32.080><c> your</c><00:07:32.319><c> cloud</c><00:07:32.639><c> business</c><00:07:32.960><c> to</c><00:07:33.199><c> fund</c><00:07:33.440><c> other</c>
+from your cloud business to fund other
+from your cloud business to fund other
+bets<00:07:34.000><c> because</c><00:07:34.240><c> your</c><00:07:34.479><c> cash</c><00:07:34.720><c> flow</c><00:07:35.280><c> from</c><00:07:35.599><c> cloud</c>
+bets because your cash flow from cloud
+bets because your cash flow from cloud
+has<00:07:36.319><c> great</c><00:07:36.919><c> margin.</c><00:07:37.919><c> Of</c><00:07:38.080><c> course,</c><00:07:38.319><c> you</c><00:07:38.479><c> would</c>
+has great margin. Of course, you would
+has great margin. Of course, you would
+do<00:07:38.919><c> that.</c><00:07:39.919><c> But</c><00:07:40.000><c> that's</c><00:07:40.240><c> not</c><00:07:40.400><c> how</c><00:07:40.560><c> Amazon</c><00:07:40.960><c> did</c>
+do that. But that's not how Amazon did
+do that. But that's not how Amazon did
+it.<00:07:41.280><c> They</c><00:07:41.520><c> used</c><00:07:41.759><c> AI</c><00:07:42.080><c> to</c><00:07:42.319><c> drive</c><00:07:43.039><c> ridiculously</c>
+it. They used AI to drive ridiculously
+it. They used AI to drive ridiculously
+efficient<00:07:44.479><c> margins</c><00:07:44.880><c> and</c><00:07:45.199><c> actually</c><00:07:45.440><c> were</c><00:07:45.599><c> able</c>
+efficient margins and actually were able
+efficient margins and actually were able
+to<00:07:46.880><c> feed</c><00:07:47.120><c> other</c><00:07:47.440><c> bad</c><00:07:47.680><c> scissor</c><00:07:48.440><c> results.</c><00:07:49.440><c> My</c>
+to feed other bad scissor results. My
+to feed other bad scissor results. My
+point<00:07:49.840><c> here</c><00:07:50.160><c> is</c><00:07:50.400><c> not</c><00:07:50.479><c> to</c><00:07:50.639><c> say</c><00:07:50.800><c> Amazon</c><00:07:51.199><c> is</c><00:07:51.360><c> the</c>
+point here is not to say Amazon is the
+point here is not to say Amazon is the
+greatest<00:07:51.680><c> thing</c><00:07:51.840><c> ever.</c><00:07:52.240><c> I</c><00:07:52.479><c> don't</c><00:07:52.639><c> think</c><00:07:52.720><c> it</c>
+greatest thing ever. I don't think it
+greatest thing ever. I don't think it
+is.<00:07:53.120><c> I</c><00:07:53.280><c> think</c><00:07:53.360><c> there's</c><00:07:53.599><c> a</c><00:07:53.759><c> lot</c><00:07:53.840><c> we</c><00:07:54.080><c> can</c><00:07:54.240><c> discuss</c>
+is. I think there's a lot we can discuss
+is. I think there's a lot we can discuss
+about<00:07:54.800><c> Amazon</c><00:07:55.199><c> and</c><00:07:55.360><c> that's</c><00:07:55.520><c> another</c><00:07:55.840><c> day.</c><00:07:56.400><c> My</c>
+about Amazon and that's another day. My
+about Amazon and that's another day. My
+point<00:07:56.800><c> is</c><00:07:56.960><c> to</c><00:07:57.199><c> give</c><00:07:57.280><c> you</c><00:07:57.440><c> a</c><00:07:57.680><c> very</c><00:07:57.840><c> concrete</c>
+point is to give you a very concrete
+point is to give you a very concrete
+example<00:07:58.879><c> about</c><00:07:59.199><c> reinforcement</c><00:07:59.840><c> learning</c>
+example about reinforcement learning
+example about reinforcement learning
+that<00:08:00.319><c> I</c><00:08:00.479><c> happen</c><00:08:00.720><c> to</c><00:08:00.879><c> know</c><00:08:01.039><c> well</c><00:08:01.280><c> because</c><00:08:01.440><c> I</c>
+that I happen to know well because I
+that I happen to know well because I
+spent<00:08:02.000><c> a</c><00:08:02.160><c> half</c><00:08:02.319><c> a</c><00:08:02.560><c> decade</c><00:08:02.800><c> there,</c><00:08:03.039><c> right?</c><00:08:03.280><c> Like</c>
+spent a half a decade there, right? Like
+spent a half a decade there, right? Like
+it's<00:08:03.680><c> very</c><00:08:03.840><c> much</c><00:08:04.000><c> tip</c><00:08:04.240><c> of</c><00:08:04.319><c> the</c><00:08:04.400><c> tongue</c><00:08:04.639><c> for</c><00:08:04.879><c> me.</c>
+it's very much tip of the tongue for me.
+it's very much tip of the tongue for me.
+Reinforcement<00:08:06.800><c> learning</c><00:08:07.199><c> is</c><00:08:07.680><c> everywhere</c><00:08:08.639><c> and</c>
+Reinforcement learning is everywhere and
+Reinforcement learning is everywhere and
+reinforcement<00:08:09.759><c> learning</c><00:08:10.080><c> is</c><00:08:10.240><c> how</c><00:08:10.479><c> AI</c><00:08:10.879><c> works.</c>
+reinforcement learning is how AI works.
+reinforcement learning is how AI works.
+And<00:08:11.440><c> people</c><00:08:11.680><c> who</c><00:08:11.919><c> say</c><00:08:12.240><c> suddenly</c><00:08:12.639><c> we've</c>
+And people who say suddenly we've
+And people who say suddenly we've
+crossed<00:08:13.280><c> this</c><00:08:13.520><c> magical</c><00:08:14.000><c> horizon</c><00:08:14.479><c> on</c>
+crossed this magical horizon on
+crossed this magical horizon on
+reinforcement<00:08:15.360><c> learning,</c><00:08:16.000><c> it</c><00:08:16.240><c> just</c><00:08:16.400><c> sounds</c>
+reinforcement learning, it just sounds
+reinforcement learning, it just sounds
+so<00:08:16.879><c> strange</c><00:08:17.120><c> to</c><00:08:17.360><c> me</c><00:08:17.520><c> because</c><00:08:17.759><c> we've</c><00:08:18.000><c> had</c>
+so strange to me because we've had
+so strange to me because we've had
+reinforcement<00:08:18.800><c> learning</c><00:08:19.039><c> for</c><00:08:19.280><c> a</c><00:08:19.440><c> long</c><00:08:19.599><c> time.</c>
+reinforcement learning for a long time.
+reinforcement learning for a long time.
+And<00:08:20.000><c> none</c><00:08:20.160><c> of</c><00:08:20.240><c> these</c><00:08:20.479><c> people</c><00:08:20.720><c> have</c><00:08:20.960><c> been</c>
+And none of these people have been
+And none of these people have been
+really<00:08:21.759><c> complaining</c><00:08:22.319><c> about</c><00:08:22.560><c> the</c><00:08:22.800><c> positive</c>
+really complaining about the positive
+really complaining about the positive
+impacts.<00:08:24.479><c> Reinforcement</c><00:08:25.120><c> learning</c><00:08:25.360><c> is</c><00:08:25.599><c> how</c>
+impacts. Reinforcement learning is how
+impacts. Reinforcement learning is how
+airplanes<00:08:26.879><c> actually</c><00:08:27.199><c> stay</c><00:08:27.440><c> in</c><00:08:27.599><c> the</c><00:08:27.759><c> air</c>
+airplanes actually stay in the air
+airplanes actually stay in the air
+safely<00:08:28.720><c> and</c><00:08:28.960><c> have</c><00:08:29.199><c> minimal</c><00:08:29.599><c> downtime.</c>
+safely and have minimal downtime.
+safely and have minimal downtime.
+Reinforcement<00:08:31.199><c> learning</c><00:08:31.520><c> is</c><00:08:31.680><c> how</c><00:08:31.919><c> we</c><00:08:32.080><c> have</c>
+Reinforcement learning is how we have
+Reinforcement learning is how we have
+more<00:08:33.120><c> efficient</c><00:08:33.760><c> pricing</c><00:08:34.240><c> in</c><00:08:34.560><c> our</c><00:08:34.719><c> options</c>
+more efficient pricing in our options
+more efficient pricing in our options
+markets<00:08:35.519><c> for</c><00:08:35.680><c> oil</c><00:08:35.919><c> and</c><00:08:36.440><c> gas</c><00:08:37.440><c> which</c><00:08:37.680><c> leads</c><00:08:38.000><c> to</c>
+markets for oil and gas which leads to
+markets for oil and gas which leads to
+smoother
+smoother
+smoother
+pricing.<00:08:40.159><c> Reinforcement</c><00:08:40.880><c> learning</c><00:08:41.360><c> is</c><00:08:42.320><c> how</c>
+pricing. Reinforcement learning is how
+pricing. Reinforcement learning is how
+we<00:08:42.880><c> actually</c>
+we actually
+we actually
+understand
+understand
+understand
+the<00:08:47.519><c> engineered</c><00:08:48.399><c> reliability</c><00:08:49.040><c> of</c><00:08:49.360><c> systems</c><00:08:49.760><c> at</c>
+the engineered reliability of systems at
+the engineered reliability of systems at
+scale<00:08:50.320><c> that</c><00:08:50.640><c> keep</c><00:08:50.959><c> massive</c><00:08:51.519><c> applications</c><00:08:52.160><c> up</c>
+scale that keep massive applications up
+scale that keep massive applications up
+so<00:08:52.720><c> all</c><00:08:52.880><c> of</c><00:08:53.040><c> us</c><00:08:53.200><c> can</c><00:08:53.440><c> just</c><00:08:53.600><c> depend</c><00:08:53.920><c> on</c><00:08:54.160><c> them</c>
+so all of us can just depend on them
+so all of us can just depend on them
+instead<00:08:54.959><c> of</c><00:08:55.040><c> them</c><00:08:55.279><c> breaking</c><00:08:55.600><c> all</c><00:08:55.839><c> the</c><00:08:56.000><c> time.</c>
+instead of them breaking all the time.
+instead of them breaking all the time.
+Netflix<00:08:57.279><c> depends</c><00:08:57.600><c> on</c><00:08:57.839><c> so</c><00:08:58.000><c> much</c><00:08:58.160><c> reinforcement</c>
+Netflix depends on so much reinforcement
+Netflix depends on so much reinforcement
+learning<00:08:59.120><c> to</c><00:08:59.360><c> keep</c><00:08:59.519><c> it</c><00:08:59.680><c> up.</c><00:09:00.640><c> Uh</c><00:09:00.959><c> if</c><00:09:01.120><c> you</c><00:09:01.279><c> want</c>
+learning to keep it up. Uh if you want
+learning to keep it up. Uh if you want
+to<00:09:01.519><c> stream</c><00:09:01.839><c> live</c>
+to stream live
+to stream live
+television,<00:09:03.760><c> tons</c><00:09:04.080><c> of</c><00:09:04.320><c> reinforcement</c>
+television, tons of reinforcement
+television, tons of reinforcement
+learning<00:09:05.440><c> and</c><00:09:05.600><c> understanding</c><00:09:06.160><c> how</c><00:09:06.320><c> to</c><00:09:06.560><c> build</c>
+learning and understanding how to build
+learning and understanding how to build
+software<00:09:07.760><c> that</c><00:09:08.080><c> actually</c><00:09:08.480><c> reliably</c><00:09:09.120><c> deploys</c>
+software that actually reliably deploys
+software that actually reliably deploys
+and<00:09:09.839><c> reliably</c><00:09:10.480><c> runs</c><00:09:11.279><c> and</c><00:09:11.519><c> is</c><00:09:11.839><c> configured</c>
+and reliably runs and is configured
+and reliably runs and is configured
+optimally.<00:09:12.880><c> Now,</c><00:09:13.040><c> I'm</c><00:09:13.279><c> not</c><00:09:13.440><c> here</c><00:09:13.519><c> to</c><00:09:13.680><c> say</c><00:09:13.839><c> that</c>
+optimally. Now, I'm not here to say that
+optimally. Now, I'm not here to say that
+you<00:09:14.160><c> can</c><00:09:14.240><c> just</c><00:09:14.399><c> run</c><00:09:14.480><c> a</c><00:09:14.640><c> reinforcement</c>
+you can just run a reinforcement
+you can just run a reinforcement
+learning<00:09:15.600><c> program</c><00:09:15.839><c> and</c><00:09:16.000><c> deploy</c><00:09:16.320><c> on</c><00:09:16.560><c> 100</c>
+learning program and deploy on 100
+learning program and deploy on 100
+million<00:09:17.120><c> boxes</c><00:09:17.440><c> and</c><00:09:17.680><c> not</c><00:09:17.839><c> have</c><00:09:18.000><c> an</c><00:09:18.160><c> architect</c>
+million boxes and not have an architect
+million boxes and not have an architect
+look<00:09:18.800><c> at</c><00:09:18.959><c> it.</c><00:09:19.200><c> No</c><00:09:19.279><c> one</c><00:09:19.440><c> is</c><00:09:19.600><c> saying</c><00:09:19.760><c> that</c><00:09:19.920><c> if</c><00:09:20.160><c> you</c>
+look at it. No one is saying that if you
+look at it. No one is saying that if you
+ever<00:09:20.480><c> worked</c><00:09:20.720><c> in</c><00:09:20.880><c> that</c><00:09:21.120><c> space.</c><00:09:22.000><c> But</c>
+ever worked in that space. But
+ever worked in that space. But
+reinforcement<00:09:22.880><c> learning</c><00:09:23.200><c> does</c><00:09:23.440><c> help</c><00:09:23.600><c> us</c>
+reinforcement learning does help us
+reinforcement learning does help us
+discover<00:09:24.320><c> novel</c><00:09:24.720><c> solutions</c><00:09:25.200><c> for</c><00:09:25.440><c> difficult</c>
+discover novel solutions for difficult
+discover novel solutions for difficult
+software<00:09:26.959><c> problems</c><00:09:27.839><c> and</c><00:09:28.080><c> that</c><00:09:28.320><c> happens</c><00:09:28.560><c> all</c>
+software problems and that happens all
+software problems and that happens all
+the<00:09:28.959><c> time.</c><00:09:29.680><c> Um,</c><00:09:30.320><c> and</c><00:09:30.560><c> in</c><00:09:30.720><c> fact,</c><00:09:30.880><c> you</c><00:09:31.120><c> could</c>
+the time. Um, and in fact, you could
+the time. Um, and in fact, you could
+argue<00:09:31.519><c> that</c><00:09:31.839><c> a</c><00:09:32.000><c> lot</c><00:09:32.160><c> of</c><00:09:32.240><c> the</c><00:09:32.399><c> story</c><00:09:32.560><c> of</c><00:09:32.720><c> Alpha</c>
+argue that a lot of the story of Alpha
+argue that a lot of the story of Alpha
+Evolve<00:09:33.600><c> last</c><00:09:33.920><c> week</c><00:09:34.399><c> was</c><00:09:34.720><c> the</c><00:09:34.959><c> story</c><00:09:35.200><c> of</c><00:09:35.519><c> using</c>
+Evolve last week was the story of using
+Evolve last week was the story of using
+reinforcement<00:09:37.080><c> learning</c><00:09:38.080><c> in</c><00:09:38.920><c> Gemini</c><00:09:39.920><c> to</c>
+reinforcement learning in Gemini to
+reinforcement learning in Gemini to
+evolve<00:09:41.040><c> new</c><00:09:41.360><c> solutions</c><00:09:41.839><c> for</c><00:09:42.160><c> Google's</c>
+evolve new solutions for Google's
+evolve new solutions for Google's
+software<00:09:43.440><c> and</c><00:09:43.680><c> they</c><00:09:43.839><c> just</c><00:09:44.000><c> wanted</c><00:09:44.160><c> to</c><00:09:44.320><c> turn</c>
+software and they just wanted to turn
+software and they just wanted to turn
+into<00:09:44.640><c> a</c><00:09:44.800><c> press</c>
+into a press
+into a press
+release.<00:09:46.560><c> We</c><00:09:46.880><c> need</c><00:09:47.040><c> to</c><00:09:47.200><c> understand</c>
+release. We need to understand
+release. We need to understand
+reinforcement<00:09:48.320><c> learning</c><00:09:48.720><c> better.</c><00:09:49.519><c> We</c><00:09:49.760><c> need</c>
+reinforcement learning better. We need
+reinforcement learning better. We need
+to<00:09:50.080><c> understand</c><00:09:50.560><c> this</c><00:09:50.880><c> idea</c><00:09:51.120><c> that</c><00:09:51.360><c> an</c><00:09:51.600><c> agent,</c>
+to understand this idea that an agent,
+to understand this idea that an agent,
+if<00:09:52.399><c> given</c><00:09:52.720><c> only</c><00:09:52.959><c> an</c><00:09:53.279><c> environment</c><00:09:53.680><c> and</c><00:09:53.839><c> a</c>
+if given only an environment and a
+if given only an environment and a
+reward<00:09:54.320><c> signal,</c><00:09:54.880><c> will</c><00:09:55.200><c> write</c><00:09:55.959><c> itself</c><00:09:56.959><c> into</c><00:09:57.360><c> a</c>
+reward signal, will write itself into a
+reward signal, will write itself into a
+policy<00:09:58.080><c> that</c><00:09:58.480><c> maximizes</c><00:09:59.200><c> long</c><00:09:59.560><c> runs.</c><00:10:00.560><c> That</c>
+policy that maximizes long runs. That
+policy that maximizes long runs. That
+needs<00:10:01.040><c> to</c><00:10:01.200><c> be</c><00:10:01.279><c> as</c><00:10:01.519><c> deeply</c><00:10:01.839><c> baked</c><00:10:02.160><c> into</c>
+needs to be as deeply baked into
+needs to be as deeply baked into
+children<00:10:02.880><c> as</c><00:10:03.680><c> theory</c><00:10:03.920><c> of</c><00:10:04.000><c> evolution</c><00:10:04.480><c> is</c>
+children as theory of evolution is
+children as theory of evolution is
+today.<00:10:05.839><c> It's</c><00:10:06.160><c> actually</c><00:10:06.480><c> not</c><00:10:06.720><c> all</c><00:10:06.959><c> of</c><00:10:07.120><c> that</c>
+today. It's actually not all of that
+today. It's actually not all of that
+that<00:10:07.760><c> different</c><00:10:08.160><c> either.</c><00:10:08.720><c> Um,</c><00:10:09.279><c> I'll</c><00:10:09.519><c> get</c><00:10:09.680><c> off</c>
+that different either. Um, I'll get off
+that different either. Um, I'll get off
+my<00:10:10.000><c> soap</c><00:10:10.240><c> box</c><00:10:10.480><c> now.</c><00:10:10.640><c> I</c><00:10:10.880><c> just</c><00:10:10.959><c> think</c><00:10:11.120><c> it's</c>
+my soap box now. I just think it's
+my soap box now. I just think it's
+something<00:10:11.440><c> we</c><00:10:11.600><c> need</c><00:10:11.760><c> to</c><00:10:11.839><c> talk</c><00:10:12.000><c> about</c><00:10:12.160><c> and</c>
+something we need to talk about and
+something we need to talk about and
+understand<00:10:12.800><c> because</c><00:10:13.040><c> otherwise</c><00:10:13.519><c> we're</c><00:10:13.680><c> all</c>
+understand because otherwise we're all
+understand because otherwise we're all
+going<00:10:14.000><c> to</c><00:10:14.079><c> just</c><00:10:14.320><c> be</c><00:10:14.560><c> extremely</c><00:10:15.200><c> confused</c><00:10:16.160><c> cuz</c>
+going to just be extremely confused cuz
+going to just be extremely confused cuz
+this<00:10:16.640><c> is</c><00:10:16.800><c> one</c><00:10:16.959><c> of</c><00:10:17.040><c> the</c><00:10:17.200><c> principles</c><00:10:17.519><c> that's</c>
+this is one of the principles that's
+this is one of the principles that's
+writing<00:10:18.000><c> our</c>

@@ -1,0 +1,1297 @@
+Front-end<00:00:00.880><c> engineering</c><00:00:01.439><c> is</c><00:00:01.680><c> dead,</c><00:00:02.240><c> but</c>
+Front-end engineering is dead, but
+Front-end engineering is dead, but
+front-end<00:00:03.280><c> composability</c><00:00:04.160><c> is</c><00:00:04.480><c> not.</c><00:00:04.960><c> In</c><00:00:05.120><c> the</c>
+front-end composability is not. In the
+front-end composability is not. In the
+next<00:00:05.520><c> few</c><00:00:05.759><c> minutes,</c><00:00:06.000><c> I</c><00:00:06.240><c> want</c><00:00:06.319><c> to</c><00:00:06.560><c> lay</c><00:00:06.640><c> out</c><00:00:06.960><c> why</c>
+next few minutes, I want to lay out why
+next few minutes, I want to lay out why
+front-end<00:00:07.759><c> engineering</c><00:00:08.320><c> is</c><00:00:08.559><c> falling</c><00:00:08.800><c> apart.</c>
+front-end engineering is falling apart.
+front-end engineering is falling apart.
+And<00:00:09.360><c> so</c><00:00:09.599><c> many</c><00:00:09.760><c> engineers</c><00:00:10.160><c> I</c><00:00:10.320><c> know</c><00:00:10.480><c> are</c><00:00:10.719><c> worried</c>
+And so many engineers I know are worried
+And so many engineers I know are worried
+about<00:00:11.200><c> that</c><00:00:11.440><c> if</c><00:00:11.599><c> you're</c><00:00:11.759><c> on</c><00:00:11.920><c> the</c><00:00:12.080><c> front</c><00:00:12.240><c> end,</c>
+about that if you're on the front end,
+about that if you're on the front end,
+and<00:00:13.120><c> what</c><00:00:13.280><c> the</c><00:00:13.519><c> future</c><00:00:13.840><c> looks</c><00:00:14.000><c> like,</c><00:00:14.320><c> what</c><00:00:14.559><c> it</c>
+and what the future looks like, what it
+and what the future looks like, what it
+looks<00:00:15.120><c> like</c><00:00:15.360><c> to</c><00:00:15.759><c> move</c><00:00:16.160><c> from</c><00:00:16.640><c> a</c><00:00:16.960><c> front-end</c>
+looks like to move from a front-end
+looks like to move from a front-end
+engineering<00:00:18.240><c> role</c><00:00:18.560><c> to</c><00:00:18.800><c> a</c><00:00:19.119><c> front-end</c>
+engineering role to a front-end
+engineering role to a front-end
+composability<00:00:20.720><c> role</c><00:00:20.960><c> and</c><00:00:21.199><c> why</c><00:00:21.359><c> that's</c>
+composability role and why that's
+composability role and why that's
+shifting<00:00:22.080><c> the</c><00:00:22.320><c> skill</c><00:00:22.560><c> sets</c><00:00:22.880><c> we</c><00:00:23.119><c> need</c><00:00:23.680><c> when</c><00:00:24.000><c> we</c>
+shifting the skill sets we need when we
+shifting the skill sets we need when we
+craft<00:00:24.480><c> UX's</c><00:00:25.119><c> for</c><00:00:25.359><c> users.</c><00:00:25.920><c> So,</c><00:00:26.160><c> let's</c><00:00:26.480><c> set</c><00:00:26.640><c> the</c>
+craft UX's for users. So, let's set the
+craft UX's for users. So, let's set the
+context.<00:00:27.279><c> For</c><00:00:27.439><c> the</c><00:00:27.599><c> last</c><00:00:27.840><c> decade,</c><00:00:28.400><c> front-end</c>
+context. For the last decade, front-end
+context. For the last decade, front-end
+engineer<00:00:29.439><c> meant</c><00:00:29.679><c> something</c><00:00:29.920><c> pretty</c><00:00:30.240><c> simple,</c>
+engineer meant something pretty simple,
+engineer meant something pretty simple,
+right?<00:00:30.800><c> You</c><00:00:30.960><c> take</c><00:00:31.039><c> a</c><00:00:31.199><c> Figma</c><00:00:31.679><c> file.</c><00:00:32.000><c> You</c><00:00:32.160><c> often</c>
+right? You take a Figma file. You often
+right? You take a Figma file. You often
+open<00:00:32.640><c> up</c><00:00:32.800><c> a</c><00:00:32.960><c> React</c><00:00:33.360><c> project</c><00:00:33.680><c> or</c><00:00:34.000><c> similar.</c>
+open up a React project or similar.
+open up a React project or similar.
+You're<00:00:34.960><c> going</c><00:00:35.040><c> to</c><00:00:35.120><c> wire</c><00:00:35.360><c> up</c><00:00:35.520><c> the</c><00:00:35.680><c> state.</c>
+You're going to wire up the state.
+You're going to wire up the state.
+You're<00:00:36.239><c> going</c><00:00:36.239><c> to</c><00:00:36.399><c> wire</c><00:00:36.559><c> up</c><00:00:36.719><c> the</c><00:00:36.880><c> routing.</c>
+You're going to wire up the routing.
+You're going to wire up the routing.
+You're<00:00:37.520><c> going</c><00:00:37.600><c> to</c><00:00:37.760><c> mess</c><00:00:38.079><c> with</c><00:00:38.160><c> the</c><00:00:38.399><c> CSS.</c>
+You're going to mess with the CSS.
+You're going to mess with the CSS.
+You're<00:00:39.280><c> going</c><00:00:39.360><c> to</c><00:00:39.440><c> push</c><00:00:39.680><c> the</c><00:00:39.920><c> pixels</c><00:00:40.320><c> until</c>
+You're going to push the pixels until
+You're going to push the pixels until
+the<00:00:40.800><c> UI</c><00:00:41.280><c> exactly</c><00:00:41.840><c> matches</c><00:00:42.320><c> the</c><00:00:42.879><c> design.</c><00:00:43.760><c> That</c>
+the UI exactly matches the design. That
+the UI exactly matches the design. That
+work<00:00:44.239><c> was</c><00:00:44.399><c> labor</c><00:00:44.800><c> intensive.</c><00:00:45.440><c> It</c><00:00:45.680><c> was</c>
+work was labor intensive. It was
+work was labor intensive. It was
+bespoke.<00:00:46.719><c> Every</c><00:00:47.039><c> company</c><00:00:47.600><c> re-implemented</c>
+bespoke. Every company re-implemented
+bespoke. Every company re-implemented
+similar<00:00:48.960><c> looking</c><00:00:49.280><c> tables</c><00:00:49.600><c> and</c><00:00:49.840><c> modals</c><00:00:50.239><c> and</c>
+similar looking tables and modals and
+similar looking tables and modals and
+forms<00:00:50.800><c> and</c><00:00:50.960><c> dashboards</c><00:00:51.520><c> with</c><00:00:51.760><c> slightly</c>
+forms and dashboards with slightly
+forms and dashboards with slightly
+different<00:00:52.399><c> code.</c><00:00:53.280><c> And</c><00:00:53.760><c> you</c><00:00:53.920><c> know</c><00:00:54.239><c> we</c><00:00:54.480><c> focused</c>
+different code. And you know we focused
+different code. And you know we focused
+on<00:00:54.960><c> that</c><00:00:55.199><c> as</c><00:00:55.440><c> craft</c><00:00:56.000><c> because</c><00:00:56.239><c> it</c><00:00:56.480><c> took</c><00:00:56.719><c> humans</c>
+on that as craft because it took humans
+on that as craft because it took humans
+to<00:00:57.280><c> build</c><00:00:57.520><c> it.</c><00:00:58.000><c> But</c><00:00:58.160><c> this</c><00:00:58.399><c> is</c><00:00:58.559><c> part</c><00:00:58.800><c> of</c><00:00:58.960><c> the</c>
+to build it. But this is part of the
+to build it. But this is part of the
+larger<00:00:59.760><c> shift</c><00:01:00.239><c> in</c><00:01:00.640><c> our</c><00:01:00.879><c> AI</c><00:01:01.280><c> systems.</c><00:01:02.079><c> We</c><00:01:02.399><c> are</c>
+larger shift in our AI systems. We are
+larger shift in our AI systems. We are
+moving<00:01:03.039><c> from</c><00:01:03.440><c> a</c><00:01:03.760><c> world</c><00:01:04.400><c> where</c><00:01:05.040><c> static</c><00:01:06.080><c> defined</c>
+moving from a world where static defined
+moving from a world where static defined
+UXs<00:01:07.439><c> that</c><00:01:07.760><c> presume</c><00:01:08.240><c> the</c><00:01:08.560><c> user</c><00:01:08.880><c> will</c><00:01:09.280><c> employ</c>
+UXs that presume the user will employ
+UXs that presume the user will employ
+the<00:01:09.920><c> UX</c><00:01:10.400><c> to</c><00:01:10.640><c> get</c><00:01:10.720><c> a</c><00:01:10.960><c> job</c><00:01:11.200><c> done</c><00:01:11.760><c> are</c><00:01:12.080><c> starting</c><00:01:12.400><c> to</c>
+the UX to get a job done are starting to
+the UX to get a job done are starting to
+disappear.<00:01:13.280><c> And</c><00:01:13.439><c> we're</c><00:01:13.760><c> moving</c><00:01:14.000><c> toward</c><00:01:14.320><c> a</c>
+disappear. And we're moving toward a
+disappear. And we're moving toward a
+world<00:01:15.119><c> where</c><00:01:15.680><c> what</c><00:01:16.000><c> we're</c><00:01:16.320><c> selling</c><00:01:16.799><c> is</c><00:01:17.119><c> the</c>
+world where what we're selling is the
+world where what we're selling is the
+full<00:01:17.680><c> workflow</c><00:01:18.159><c> and</c><00:01:18.400><c> the</c><00:01:18.560><c> solution</c><00:01:18.960><c> itself.</c>
+full workflow and the solution itself.
+full workflow and the solution itself.
+if<00:01:19.840><c> we're</c><00:01:20.000><c> in</c><00:01:20.080><c> a</c><00:01:20.240><c> B2B</c><00:01:20.880><c> context</c><00:01:21.360><c> and</c><00:01:21.520><c> if</c><00:01:21.680><c> we're</c>
+if we're in a B2B context and if we're
+if we're in a B2B context and if we're
+in<00:01:21.920><c> a</c><00:01:22.080><c> BTOC</c><00:01:22.640><c> context,</c><00:01:23.119><c> we're</c><00:01:23.360><c> selling</c><00:01:23.680><c> the</c>
+in a BTOC context, we're selling the
+in a BTOC context, we're selling the
+full<00:01:24.159><c> experience</c><00:01:24.640><c> and</c><00:01:24.960><c> empowering</c><00:01:25.439><c> users</c><00:01:25.840><c> to</c>
+full experience and empowering users to
+full experience and empowering users to
+create.<00:01:26.720><c> And</c><00:01:26.880><c> so</c><00:01:27.520><c> this</c><00:01:27.759><c> just</c><00:01:28.000><c> looks</c><00:01:28.320><c> very</c>
+create. And so this just looks very
+create. And so this just looks very
+different<00:01:29.439><c> than</c><00:01:29.680><c> the</c><00:01:30.240><c> hardened</c><00:01:30.799><c> up</c><00:01:31.280><c> websites</c>
+different than the hardened up websites
+different than the hardened up websites
+we<00:01:32.079><c> created</c><00:01:32.320><c> with</c><00:01:32.560><c> front-end</c><00:01:33.119><c> engineering</c><00:01:33.680><c> in</c>
+we created with front-end engineering in
+we created with front-end engineering in
+the<00:01:34.159><c> past.</c><00:01:34.720><c> If</c><00:01:34.960><c> you</c><00:01:35.119><c> look</c><00:01:35.200><c> at</c><00:01:35.360><c> the</c><00:01:35.600><c> stack</c><00:01:35.920><c> now,</c>
+the past. If you look at the stack now,
+the past. If you look at the stack now,
+all<00:01:36.640><c> you're</c><00:01:36.880><c> trying</c><00:01:37.119><c> to</c><00:01:37.280><c> do</c><00:01:37.520><c> is</c><00:01:37.840><c> figure</c><00:01:38.079><c> out</c>
+all you're trying to do is figure out
+all you're trying to do is figure out
+how<00:01:38.479><c> to</c><00:01:38.640><c> take</c><00:01:39.200><c> things</c><00:01:39.439><c> like</c><00:01:39.840><c> next.js</c><00:01:40.400><c> JS</c><00:01:40.880><c> or</c>
+how to take things like next.js JS or
+how to take things like next.js JS or
+similar<00:01:41.680><c> tools</c><00:01:42.320><c> and</c><00:01:42.720><c> compose</c><00:01:43.360><c> them</c><00:01:43.920><c> using</c>
+similar tools and compose them using
+similar tools and compose them using
+LLMs<00:01:45.759><c> so</c><00:01:46.000><c> that</c><00:01:46.240><c> you</c><00:01:46.560><c> get</c><00:01:46.960><c> to</c><00:01:47.520><c> a</c><00:01:48.399><c> read</c><00:01:48.799><c> write</c>
+LLMs so that you get to a read write
+LLMs so that you get to a read write
+experience<00:01:50.479><c> that</c><00:01:50.799><c> is</c><00:01:51.200><c> consistent</c><00:01:52.159><c> that</c><00:01:52.479><c> is</c>
+experience that is consistent that is
+experience that is consistent that is
+role<00:01:53.360><c> appropriate</c><00:01:54.079><c> for</c><00:01:54.320><c> that</c><00:01:54.640><c> user</c><00:01:55.280><c> but</c><00:01:55.600><c> is</c>
+role appropriate for that user but is
+role appropriate for that user but is
+also<00:01:56.079><c> bespoke</c><00:01:56.640><c> to</c><00:01:56.799><c> them.</c><00:01:57.119><c> Fundamentally</c>
+also bespoke to them. Fundamentally
+also bespoke to them. Fundamentally
+we're<00:01:58.079><c> moving</c><00:01:58.479><c> toward</c><00:01:59.040><c> componentizing</c>
+we're moving toward componentizing
+we're moving toward componentizing
+everything.<00:02:01.119><c> So</c><00:02:01.439><c> systems</c><00:02:01.840><c> like</c><00:02:02.079><c> Shad</c><00:02:02.560><c> CN</c><00:02:02.960><c> and</c>
+everything. So systems like Shad CN and
+everything. So systems like Shad CN and
+others<00:02:03.439><c> give</c><00:02:03.680><c> you</c><00:02:03.920><c> accessible</c>
+others give you accessible
+others give you accessible
+production-grade<00:02:05.520><c> Lego</c><00:02:05.840><c> blocks,</c><00:02:06.240><c> right?</c>
+production-grade Lego blocks, right?
+production-grade Lego blocks, right?
+Building<00:02:06.719><c> blocks,</c><00:02:07.439><c> menus,</c><00:02:08.080><c> dialogues,</c>
+Building blocks, menus, dialogues,
+Building blocks, menus, dialogues,
+forms,<00:02:09.360><c> and</c><00:02:09.599><c> you</c><00:02:09.759><c> can</c><00:02:09.920><c> literally</c><00:02:10.800><c> begin</c><00:02:11.120><c> to</c>
+forms, and you can literally begin to
+forms, and you can literally begin to
+compose<00:02:11.840><c> with</c><00:02:12.080><c> them</c><00:02:12.480><c> using</c><00:02:12.959><c> AI.</c><00:02:13.680><c> And</c><00:02:14.239><c> you</c><00:02:14.480><c> want</c>
+compose with them using AI. And you want
+compose with them using AI. And you want
+to<00:02:14.800><c> think</c><00:02:15.040><c> of</c><00:02:15.200><c> that</c><00:02:15.440><c> as</c><00:02:15.680><c> a</c><00:02:15.920><c> jump</c><00:02:16.160><c> from</c><00:02:16.319><c> a</c>
+to think of that as a jump from a
+to think of that as a jump from a
+foundation<00:02:17.120><c> design</c><00:02:17.440><c> system,</c><00:02:17.760><c> which</c><00:02:18.000><c> we've</c>
+foundation design system, which we've
+foundation design system, which we've
+had<00:02:18.400><c> for</c><00:02:18.560><c> a</c><00:02:18.720><c> long</c><00:02:18.879><c> time,</c><00:02:19.200><c> to</c><00:02:19.360><c> a</c><00:02:19.520><c> foundation</c>
+had for a long time, to a foundation
+had for a long time, to a foundation
+composability<00:02:20.959><c> system</c><00:02:21.599><c> that</c><00:02:21.840><c> can</c><00:02:22.000><c> be</c>
+composability system that can be
+composability system that can be
+composed<00:02:22.640><c> on</c><00:02:22.800><c> the</c><00:02:22.959><c> fly</c><00:02:23.280><c> by</c><00:02:23.520><c> AI.</c><00:02:24.000><c> In</c><00:02:24.160><c> certain</c>
+composed on the fly by AI. In certain
+composed on the fly by AI. In certain
+cases,<00:02:25.040><c> the</c><00:02:25.360><c> world</c><00:02:25.760><c> I</c><00:02:25.920><c> I've</c><00:02:26.160><c> got</c><00:02:26.239><c> a</c><00:02:26.400><c> hard</c><00:02:26.640><c> news</c>
+cases, the world I I've got a hard news
+cases, the world I I've got a hard news
+for<00:02:26.959><c> you,</c><00:02:27.120><c> right?</c><00:02:27.280><c> The</c><00:02:27.440><c> world</c><00:02:27.680><c> no</c><00:02:28.000><c> longer</c>
+for you, right? The world no longer
+for you, right? The world no longer
+needs<00:02:28.720><c> armies</c><00:02:29.200><c> of</c><00:02:29.440><c> engineers</c><00:02:30.000><c> to</c><00:02:30.319><c> rebuild</c><00:02:30.720><c> the</c>
+needs armies of engineers to rebuild the
+needs armies of engineers to rebuild the
+same<00:02:31.200><c> UI</c><00:02:31.599><c> primitives.</c><00:02:32.239><c> That's</c><00:02:32.560><c> just</c><00:02:32.800><c> not</c>
+same UI primitives. That's just not
+same UI primitives. That's just not
+happening<00:02:33.760><c> anymore.</c><00:02:34.640><c> And</c><00:02:34.879><c> AI</c><00:02:35.599><c> is</c><00:02:35.840><c> just</c>
+happening anymore. And AI is just
+happening anymore. And AI is just
+accelerating<00:02:36.640><c> that.</c><00:02:37.120><c> Something</c><00:02:37.440><c> like</c><00:02:37.840><c> 41%</c><00:02:39.120><c> of</c>
+accelerating that. Something like 41% of
+accelerating that. Something like 41% of
+code<00:02:39.920><c> is</c><00:02:40.319><c> going</c><00:02:40.640><c> to</c><00:02:40.879><c> be</c><00:02:41.200><c> generated</c><00:02:42.000><c> by</c><00:02:42.319><c> AI</c><00:02:42.800><c> this</c>
+code is going to be generated by AI this
+code is going to be generated by AI this
+year.<00:02:43.760><c> Everybody</c><00:02:44.400><c> has</c><00:02:44.800><c> AI</c><00:02:45.200><c> coding</c>
+year. Everybody has AI coding
+year. Everybody has AI coding
+assistance.<00:02:46.319><c> Everybody's</c><00:02:46.959><c> got</c><00:02:47.280><c> cursor</c>
+assistance. Everybody's got cursor
+assistance. Everybody's got cursor
+installed.<00:02:48.400><c> And</c><00:02:48.560><c> these</c><00:02:48.800><c> aren't</c><00:02:48.959><c> just</c><00:02:49.200><c> toys,</c>
+installed. And these aren't just toys,
+installed. And these aren't just toys,
+right?<00:02:50.080><c> AIdriven</c><00:02:50.800><c> workflows</c><00:02:51.360><c> are</c><00:02:51.519><c> emerging</c>
+right? AIdriven workflows are emerging
+right? AIdriven workflows are emerging
+that<00:02:52.080><c> take</c><00:02:52.319><c> Figma</c><00:02:52.800><c> designs</c><00:02:53.200><c> and</c><00:02:53.519><c> output</c>
+that take Figma designs and output
+that take Figma designs and output
+complete<00:02:54.480><c> component</c><00:02:54.879><c> trees</c><00:02:55.360><c> output</c><00:02:55.840><c> usable</c>
+complete component trees output usable
+complete component trees output usable
+appshells<00:02:56.959><c> where</c><00:02:57.200><c> inagentic</c><00:02:57.920><c> coding</c>
+appshells where inagentic coding
+appshells where inagentic coding
+scenarios<00:02:58.800><c> where</c><00:02:59.440><c> your</c><00:02:59.680><c> agent</c><00:03:00.080><c> can</c><00:03:00.319><c> learn</c>
+scenarios where your agent can learn
+scenarios where your agent can learn
+your<00:03:01.280><c> UX</c><00:03:01.840><c> and</c><00:03:02.000><c> design</c><00:03:02.720><c> run</c><00:03:03.040><c> against</c><00:03:03.360><c> evals</c>
+your UX and design run against evals
+your UX and design run against evals
+until<00:03:04.159><c> the</c><00:03:04.400><c> UX</c><00:03:04.800><c> passes</c><00:03:05.440><c> and</c><00:03:05.680><c> then</c><00:03:05.920><c> ship</c><00:03:06.239><c> it.</c><00:03:06.560><c> So</c>
+until the UX passes and then ship it. So
+until the UX passes and then ship it. So
+where<00:03:07.040><c> does</c><00:03:07.200><c> that</c><00:03:07.440><c> leave</c><00:03:07.680><c> front-end</c>
+where does that leave front-end
+where does that leave front-end
+engineering<00:03:08.800><c> and</c><00:03:08.959><c> the</c><00:03:09.120><c> craft</c><00:03:09.440><c> of</c><00:03:09.680><c> front</c><00:03:09.920><c> end?</c>
+engineering and the craft of front end?
+engineering and the craft of front end?
+What<00:03:10.879><c> we're</c><00:03:11.120><c> moving</c><00:03:11.519><c> toward</c><00:03:12.080><c> is</c><00:03:12.319><c> a</c><00:03:12.560><c> world</c><00:03:12.800><c> that</c>
+What we're moving toward is a world that
+What we're moving toward is a world that
+has<00:03:13.519><c> front-end</c><00:03:14.080><c> composability.</c><00:03:15.200><c> You</c><00:03:15.440><c> need</c><00:03:15.599><c> to</c>
+has front-end composability. You need to
+has front-end composability. You need to
+be<00:03:16.000><c> really</c><00:03:16.319><c> good</c><00:03:16.480><c> at</c><00:03:16.640><c> your</c><00:03:16.800><c> primitives,</c>
+be really good at your primitives,
+be really good at your primitives,
+right?<00:03:18.159><c> the</c><00:03:18.480><c> FEGO</c><00:03:18.959><c> bricks</c><00:03:19.280><c> that</c><00:03:19.519><c> enable</c><00:03:19.840><c> you</c>
+right? the FEGO bricks that enable you
+right? the FEGO bricks that enable you
+to<00:03:20.319><c> reliably</c><00:03:20.959><c> assemble</c><00:03:21.440><c> experiences</c><00:03:22.159><c> so</c><00:03:22.400><c> that</c>
+to reliably assemble experiences so that
+to reliably assemble experiences so that
+buttons<00:03:23.120><c> and</c><00:03:23.440><c> inputs</c><00:03:23.920><c> and</c><00:03:24.159><c> dialogues</c><00:03:25.200><c> become</c>
+buttons and inputs and dialogues become
+buttons and inputs and dialogues become
+something<00:03:25.840><c> that</c><00:03:26.080><c> are</c><00:03:26.239><c> branded</c><00:03:27.040><c> but</c><00:03:27.360><c> also</c>
+something that are branded but also
+something that are branded but also
+highly<00:03:28.080><c> reusable</c><00:03:28.720><c> and</c><00:03:29.040><c> headless</c><00:03:29.599><c> so</c><00:03:29.760><c> that</c><00:03:29.920><c> you</c>
+highly reusable and headless so that you
+highly reusable and headless so that you
+can<00:03:30.239><c> put</c><00:03:30.400><c> them</c><00:03:30.640><c> together</c><00:03:31.360><c> in</c><00:03:31.680><c> ways</c><00:03:31.920><c> that</c><00:03:32.080><c> are</c>
+can put them together in ways that are
+can put them together in ways that are
+appropriate<00:03:33.280><c> for</c><00:03:34.080><c> the</c><00:03:34.400><c> customer</c><00:03:35.040><c> at</c><00:03:35.360><c> that</c>
+appropriate for the customer at that
+appropriate for the customer at that
+request<00:03:36.159><c> at</c><00:03:36.400><c> that</c><00:03:36.640><c> moment</c><00:03:36.879><c> in</c><00:03:37.200><c> time</c><00:03:37.519><c> on</c><00:03:37.760><c> that</c>
+request at that moment in time on that
+request at that moment in time on that
+screen.<00:03:38.720><c> Comet</c><00:03:39.120><c> is</c><00:03:39.280><c> obviously</c><00:03:39.680><c> a</c><00:03:39.920><c> great</c>
+screen. Comet is obviously a great
+screen. Comet is obviously a great
+example<00:03:40.480><c> here.</c><00:03:40.799><c> You</c><00:03:41.040><c> can</c><00:03:41.200><c> compose</c><00:03:41.519><c> a</c><00:03:41.760><c> UX</c><00:03:42.159><c> in</c>
+example here. You can compose a UX in
+example here. You can compose a UX in
+Comet<00:03:42.959><c> and</c><00:03:43.120><c> it</c><00:03:43.360><c> will</c><00:03:43.440><c> literally</c><00:03:43.840><c> just</c><00:03:44.000><c> spit</c>
+Comet and it will literally just spit
+Comet and it will literally just spit
+out<00:03:44.480><c> what</c><00:03:44.720><c> you</c><00:03:44.959><c> need</c><00:03:45.120><c> in</c><00:03:45.360><c> that</c><00:03:45.599><c> moment</c><00:03:46.159><c> to</c><00:03:46.560><c> take</c>
+out what you need in that moment to take
+out what you need in that moment to take
+action.<00:03:47.680><c> I</c><00:03:48.000><c> feel</c><00:03:48.159><c> like</c><00:03:48.319><c> we</c><00:03:48.560><c> are</c><00:03:48.640><c> just</c>
+action. I feel like we are just
+action. I feel like we are just
+scratching<00:03:49.200><c> the</c><00:03:49.440><c> surface</c><00:03:49.840><c> though.</c><00:03:50.080><c> I</c><00:03:50.319><c> think</c>
+scratching the surface though. I think
+scratching the surface though. I think
+low<00:03:50.879><c> code</c><00:03:51.280><c> platforms,</c><00:03:52.000><c> even</c><00:03:52.159><c> though</c><00:03:52.319><c> they're</c>
+low code platforms, even though they're
+low code platforms, even though they're
+composability<00:03:53.360><c> engines,</c><00:03:53.760><c> they</c><00:03:54.000><c> build</c>
+composability engines, they build
+composability engines, they build
+something<00:03:54.480><c> on</c><00:03:54.720><c> the</c><00:03:54.879><c> fly</c><00:03:55.040><c> for</c><00:03:55.280><c> you</c><00:03:55.440><c> when</c><00:03:55.599><c> they</c>
+something on the fly for you when they
+something on the fly for you when they
+ask<00:03:56.000><c> for</c><00:03:56.159><c> it,</c><00:03:56.720><c> are</c><00:03:57.040><c> just</c><00:03:57.280><c> the</c><00:03:57.599><c> beginning.</c><00:03:58.239><c> I</c>
+ask for it, are just the beginning. I
+ask for it, are just the beginning. I
+don't<00:03:58.879><c> believe</c><00:03:59.120><c> in</c><00:03:59.280><c> a</c><00:03:59.519><c> world</c><00:03:59.680><c> where</c><00:03:59.920><c> the</c><00:04:00.080><c> low</c>
+don't believe in a world where the low
+don't believe in a world where the low
+code<00:04:00.640><c> editors</c><00:04:01.120><c> are</c><00:04:01.360><c> really</c><00:04:01.599><c> the</c><00:04:01.840><c> ones</c><00:04:02.080><c> that</c>
+code editors are really the ones that
+code editors are really the ones that
+are<00:04:03.200><c> shoving</c><00:04:04.319><c> front-end</c><00:04:04.879><c> engineers</c><00:04:05.840><c> into</c>
+are shoving front-end engineers into
+are shoving front-end engineers into
+different<00:04:06.480><c> roles.</c><00:04:07.120><c> I</c><00:04:07.439><c> think</c><00:04:07.599><c> that</c><00:04:07.840><c> low</c><00:04:08.080><c> code</c>
+different roles. I think that low code
+different roles. I think that low code
+editors<00:04:08.879><c> point</c><00:04:09.120><c> the</c><00:04:09.360><c> way</c><00:04:09.519><c> toward</c><00:04:09.760><c> a</c>
+editors point the way toward a
+editors point the way toward a
+composability<00:04:10.640><c> world.</c><00:04:11.040><c> But</c><00:04:11.280><c> at</c><00:04:11.519><c> the</c>
+composability world. But at the
+composability world. But at the
+enterprise<00:04:12.400><c> scale,</c><00:04:13.120><c> what</c><00:04:13.360><c> I</c><00:04:13.519><c> see</c><00:04:13.599><c> in</c><00:04:13.920><c> practice</c>
+enterprise scale, what I see in practice
+enterprise scale, what I see in practice
+is<00:04:15.040><c> that</c><00:04:15.200><c> it's</c><00:04:15.439><c> agentic</c><00:04:16.000><c> workflows</c><00:04:16.880><c> driving</c>
+is that it's agentic workflows driving
+is that it's agentic workflows driving
+off<00:04:17.519><c> of</c><00:04:17.759><c> composable</c><00:04:18.479><c> building</c><00:04:18.799><c> blocks</c><00:04:19.440><c> that</c>
+off of composable building blocks that
+off of composable building blocks that
+are<00:04:20.000><c> actually</c><00:04:20.560><c> shifting</c><00:04:21.120><c> where</c><00:04:21.440><c> front-end</c>
+are actually shifting where front-end
+are actually shifting where front-end
+engineers<00:04:22.479><c> spend</c><00:04:22.720><c> their</c><00:04:22.960><c> time.</c><00:04:23.199><c> And</c><00:04:23.360><c> so</c><00:04:23.520><c> you</c>
+engineers spend their time. And so you
+engineers spend their time. And so you
+might<00:04:23.840><c> wonder,</c><00:04:24.160><c> sure,</c><00:04:24.479><c> I've</c><00:04:24.639><c> heard</c><00:04:24.880><c> about</c><00:04:25.040><c> all</c>
+might wonder, sure, I've heard about all
+might wonder, sure, I've heard about all
+of<00:04:25.440><c> this,</c><00:04:26.080><c> but</c><00:04:26.400><c> where</c><00:04:27.120><c> do</c><00:04:27.520><c> front-end</c>
+of this, but where do front-end
+of this, but where do front-end
+engineers<00:04:28.639><c> start</c><00:04:28.880><c> to</c><00:04:29.120><c> focus?</c><00:04:29.919><c> And</c><00:04:30.160><c> how</c><00:04:30.320><c> do</c>
+engineers start to focus? And how do
+engineers start to focus? And how do
+they<00:04:30.800><c> start</c><00:04:31.040><c> to</c><00:04:31.360><c> think</c><00:04:31.840><c> differently</c><00:04:32.400><c> than</c>
+they start to think differently than
+they start to think differently than
+they<00:04:32.880><c> did</c><00:04:33.040><c> before?</c><00:04:33.520><c> I</c><00:04:33.840><c> want</c><00:04:33.919><c> to</c><00:04:34.000><c> suggest</c><00:04:34.320><c> a</c><00:04:34.560><c> few</c>
+they did before? I want to suggest a few
+they did before? I want to suggest a few
+mental<00:04:35.199><c> model</c><00:04:35.520><c> shifts</c><00:04:36.240><c> that</c><00:04:36.560><c> I</c><00:04:36.800><c> am</c><00:04:36.960><c> observing</c>
+mental model shifts that I am observing
+mental model shifts that I am observing
+in<00:04:37.520><c> the</c><00:04:37.600><c> front-end</c><00:04:38.080><c> engineering</c><00:04:38.560><c> discipline</c>
+in the front-end engineering discipline
+in the front-end engineering discipline
+and<00:04:39.600><c> we'll</c><00:04:39.840><c> talk</c><00:04:40.000><c> about</c><00:04:40.240><c> their</c><00:04:40.479><c> implications.</c>
+and we'll talk about their implications.
+and we'll talk about their implications.
+So<00:04:41.360><c> number</c><00:04:41.600><c> one,</c><00:04:42.320><c> we're</c><00:04:42.639><c> moving</c><00:04:43.120><c> from</c><00:04:43.840><c> a</c><00:04:44.160><c> world</c>
+So number one, we're moving from a world
+So number one, we're moving from a world
+where<00:04:44.800><c> we</c><00:04:45.040><c> have</c><00:04:45.280><c> to</c><00:04:45.440><c> think</c><00:04:45.680><c> about</c><00:04:46.000><c> data</c>
+where we have to think about data
+where we have to think about data
+schemas<00:04:46.960><c> to</c><00:04:47.199><c> a</c><00:04:47.360><c> world</c><00:04:47.520><c> where</c><00:04:47.759><c> we</c><00:04:48.000><c> think</c><00:04:48.240><c> more</c>
+schemas to a world where we think more
+schemas to a world where we think more
+about<00:04:48.960><c> screens.</c><00:04:49.600><c> As</c><00:04:49.840><c> the</c><00:04:50.080><c> data</c><00:04:50.400><c> schemas</c><00:04:50.880><c> start</c>
+about screens. As the data schemas start
+about screens. As the data schemas start
+to<00:04:51.360><c> stabilize</c><00:04:52.160><c> underneath</c><00:04:52.639><c> and</c><00:04:52.880><c> as</c><00:04:53.040><c> it</c><00:04:53.199><c> gets</c>
+to stabilize underneath and as it gets
+to stabilize underneath and as it gets
+easier<00:04:53.759><c> to</c><00:04:54.000><c> query</c><00:04:54.400><c> them,</c><00:04:54.960><c> you</c><00:04:55.199><c> should</c><00:04:55.440><c> be</c><00:04:55.600><c> able</c>
+easier to query them, you should be able
+easier to query them, you should be able
+to<00:04:55.919><c> be</c><00:04:56.080><c> in</c><00:04:56.240><c> a</c><00:04:56.479><c> world</c><00:04:56.639><c> where</c><00:04:56.880><c> you</c><00:04:57.120><c> can</c><00:04:57.280><c> change</c>
+to be in a world where you can change
+to be in a world where you can change
+the<00:04:57.919><c> underlying</c><00:04:58.400><c> data</c><00:04:58.800><c> retrieved</c><00:04:59.360><c> and</c><00:04:59.600><c> the</c>
+the underlying data retrieved and the
+the underlying data retrieved and the
+form<00:05:00.080><c> will</c><00:05:00.320><c> just</c><00:05:00.560><c> follow</c><00:05:00.880><c> and</c><00:05:01.120><c> evolve.</c><00:05:01.600><c> And</c><00:05:01.759><c> so</c>
+form will just follow and evolve. And so
+form will just follow and evolve. And so
+your<00:05:02.479><c> job</c><00:05:02.720><c> in</c><00:05:03.040><c> that</c><00:05:03.280><c> world</c><00:05:03.680><c> is</c><00:05:03.919><c> to</c><00:05:04.160><c> think</c><00:05:04.400><c> about</c>
+your job in that world is to think about
+your job in that world is to think about
+the<00:05:04.880><c> mutability</c><00:05:05.759><c> profile</c><00:05:06.320><c> of</c><00:05:06.479><c> the</c><00:05:06.639><c> UI</c><00:05:06.960><c> schema,</c>
+the mutability profile of the UI schema,
+the mutability profile of the UI schema,
+the<00:05:07.680><c> different</c><00:05:08.080><c> ways</c><00:05:08.479><c> it</c><00:05:08.800><c> can</c><00:05:09.039><c> change</c><00:05:09.759><c> and</c>
+the different ways it can change and
+the different ways it can change and
+what<00:05:10.320><c> is</c><00:05:10.479><c> the</c><00:05:10.639><c> allowable</c><00:05:11.199><c> range</c><00:05:11.520><c> and</c><00:05:11.759><c> what</c><00:05:11.919><c> is</c>
+what is the allowable range and what is
+what is the allowable range and what is
+the<00:05:12.240><c> queryable</c><00:05:12.880><c> range</c><00:05:13.280><c> against</c><00:05:13.680><c> different</c>
+the queryable range against different
+the queryable range against different
+data<00:05:14.320><c> schemas.</c><00:05:15.039><c> So</c><00:05:15.280><c> instead</c><00:05:15.600><c> of</c><00:05:15.759><c> just</c>
+data schemas. So instead of just
+data schemas. So instead of just
+shephering<00:05:16.639><c> one</c><00:05:17.039><c> view</c><00:05:17.360><c> into</c><00:05:17.680><c> production</c><00:05:18.160><c> as</c><00:05:18.320><c> a</c>
+shephering one view into production as a
+shephering one view into production as a
+front-end<00:05:18.880><c> engineer,</c><00:05:19.440><c> you're</c><00:05:19.759><c> thinking</c>
+front-end engineer, you're thinking
+front-end engineer, you're thinking
+about<00:05:20.320><c> this</c><00:05:20.800><c> profile</c><00:05:21.440><c> of</c><00:05:21.759><c> hundreds</c><00:05:22.160><c> of</c>
+about this profile of hundreds of
+about this profile of hundreds of
+different<00:05:22.639><c> views</c><00:05:23.360><c> that</c><00:05:23.680><c> you</c><00:05:24.000><c> can</c><00:05:24.560><c> understand</c>
+different views that you can understand
+different views that you can understand
+as<00:05:25.440><c> a</c><00:05:25.680><c> range</c><00:05:26.400><c> and</c><00:05:26.720><c> build</c><00:05:27.039><c> for</c><00:05:27.440><c> overall</c><00:05:28.160><c> as</c><00:05:28.400><c> a</c>
+as a range and build for overall as a
+as a range and build for overall as a
+system<00:05:29.360><c> of</c><00:05:29.680><c> composable</c><00:05:30.400><c> engineering</c><00:05:30.960><c> blocks</c>
+system of composable engineering blocks
+system of composable engineering blocks
+rather<00:05:32.160><c> than</c><00:05:32.880><c> a</c><00:05:33.120><c> single</c><00:05:33.440><c> view.</c><00:05:34.000><c> The</c><00:05:34.240><c> second</c>
+rather than a single view. The second
+rather than a single view. The second
+one<00:05:34.639><c> is</c><00:05:34.800><c> you</c><00:05:35.039><c> should</c><00:05:35.199><c> stop</c><00:05:35.520><c> thinking</c><00:05:35.919><c> about</c>
+one is you should stop thinking about
+one is you should stop thinking about
+whether<00:05:36.560><c> you</c><00:05:36.720><c> have</c><00:05:36.880><c> got</c><00:05:37.120><c> the</c><00:05:37.360><c> exact</c><00:05:37.759><c> right</c>
+whether you have got the exact right
+whether you have got the exact right
+spacing<00:05:38.560><c> and</c><00:05:38.720><c> typography</c><00:05:39.520><c> and</c><00:05:39.840><c> move</c><00:05:40.080><c> toward</c><00:05:40.400><c> a</c>
+spacing and typography and move toward a
+spacing and typography and move toward a
+world<00:05:40.800><c> where</c><00:05:41.039><c> you</c><00:05:41.280><c> think</c><00:05:41.440><c> about</c><00:05:42.000><c> the</c><00:05:42.400><c> brand</c><00:05:42.800><c> as</c>
+world where you think about the brand as
+world where you think about the brand as
+a<00:05:43.280><c> series</c><00:05:43.600><c> of</c><00:05:43.919><c> promises</c><00:05:44.560><c> made</c><00:05:44.880><c> through</c><00:05:45.120><c> the</c>
+a series of promises made through the
+a series of promises made through the
+front<00:05:45.520><c> end.</c><00:05:46.080><c> And</c><00:05:46.320><c> all</c><00:05:46.560><c> you're</c><00:05:46.880><c> doing</c><00:05:47.039><c> is</c>
+front end. And all you're doing is
+front end. And all you're doing is
+making<00:05:47.680><c> sure</c><00:05:47.759><c> that</c><00:05:48.000><c> the</c><00:05:48.320><c> brand</c><00:05:48.800><c> system</c><00:05:49.440><c> is</c>
+making sure that the brand system is
+making sure that the brand system is
+expressed<00:05:50.479><c> reliably</c><00:05:51.360><c> across</c><00:05:51.919><c> those</c><00:05:52.160><c> hundreds</c>
+expressed reliably across those hundreds
+expressed reliably across those hundreds
+of<00:05:52.720><c> pages</c><00:05:53.039><c> we</c><00:05:53.280><c> just</c><00:05:53.520><c> talked</c><00:05:53.840><c> about.</c><00:05:54.400><c> And</c><00:05:54.560><c> so</c>
+of pages we just talked about. And so
+of pages we just talked about. And so
+you're<00:05:55.120><c> looking</c><00:05:55.360><c> and</c><00:05:55.680><c> working</c><00:05:55.919><c> with</c>
+you're looking and working with
+you're looking and working with
+designers<00:05:56.720><c> to</c><00:05:56.960><c> say,</c><00:05:57.280><c> are</c><00:05:57.440><c> we</c><00:05:57.680><c> fulfilling</c><00:05:58.080><c> the</c>
+designers to say, are we fulfilling the
+designers to say, are we fulfilling the
+brand<00:05:58.639><c> promise</c><00:05:59.360><c> in</c><00:05:59.600><c> this</c><00:05:59.919><c> range</c><00:06:00.160><c> of</c><00:06:00.400><c> use</c>
+brand promise in this range of use
+brand promise in this range of use
+cases?<00:06:01.120><c> This</c><00:06:01.360><c> is</c><00:06:01.600><c> going</c><00:06:01.680><c> to</c><00:06:01.840><c> require</c><00:06:02.479><c> even</c>
+cases? This is going to require even
+cases? This is going to require even
+more<00:06:03.440><c> close</c><00:06:03.840><c> collaboration</c><00:06:05.120><c> between</c>
+more close collaboration between
+more close collaboration between
+front-end<00:06:06.400><c> engineering</c><00:06:07.199><c> and</c><00:06:07.759><c> customers.</c>
+front-end engineering and customers.
+front-end engineering and customers.
+We've<00:06:08.560><c> always</c><00:06:08.800><c> talked</c><00:06:09.039><c> about</c><00:06:09.280><c> like</c><00:06:09.440><c> I've</c>
+We've always talked about like I've
+We've always talked about like I've
+worked<00:06:09.840><c> with</c><00:06:10.000><c> front-end</c><00:06:10.319><c> engineers,</c><00:06:10.800><c> right?</c>
+worked with front-end engineers, right?
+worked with front-end engineers, right?
+Like<00:06:11.600><c> the</c><00:06:11.919><c> sitting</c><00:06:12.240><c> with</c><00:06:12.479><c> customers</c><00:06:12.880><c> is</c><00:06:13.120><c> a</c>
+Like the sitting with customers is a
+Like the sitting with customers is a
+really<00:06:13.520><c> common</c><00:06:13.919><c> activity,</c><00:06:14.720><c> but</c><00:06:15.199><c> we</c><00:06:15.520><c> need</c><00:06:15.759><c> to</c>
+really common activity, but we need to
+really common activity, but we need to
+do<00:06:16.080><c> it</c><00:06:16.319><c> even</c><00:06:16.639><c> more</c><00:06:17.120><c> because</c><00:06:17.440><c> we</c><00:06:17.840><c> need</c><00:06:18.080><c> to</c><00:06:18.400><c> see</c>
+do it even more because we need to see
+do it even more because we need to see
+the<00:06:18.960><c> use</c><00:06:19.280><c> cases</c><00:06:19.680><c> that</c><00:06:20.000><c> work</c><00:06:20.240><c> and</c><00:06:20.560><c> the</c><00:06:20.800><c> use</c>
+the use cases that work and the use
+the use cases that work and the use
+cases<00:06:21.520><c> that</c><00:06:21.919><c> don't</c><00:06:22.639><c> across</c><00:06:22.960><c> a</c><00:06:23.199><c> much</c><00:06:23.440><c> wider</c>
+cases that don't across a much wider
+cases that don't across a much wider
+range.<00:06:24.080><c> You're</c><00:06:24.319><c> not</c><00:06:24.479><c> building</c><00:06:24.800><c> the</c><00:06:25.120><c> page</c><00:06:25.440><c> for</c>
+range. You're not building the page for
+range. You're not building the page for
+the<00:06:25.840><c> one</c><00:06:26.080><c> use</c><00:06:26.319><c> case</c><00:06:26.560><c> and</c><00:06:26.800><c> asking</c><00:06:27.120><c> that</c><00:06:27.280><c> the</c>
+the one use case and asking that the
+the one use case and asking that the
+others<00:06:27.759><c> just</c><00:06:27.919><c> be</c><00:06:28.080><c> put</c><00:06:28.240><c> on</c><00:06:28.479><c> different</c><00:06:28.639><c> pages.</c>
+others just be put on different pages.
+others just be put on different pages.
+You<00:06:29.680><c> actually</c><00:06:29.919><c> are</c><00:06:30.160><c> thinking</c><00:06:30.560><c> of</c><00:06:30.880><c> the</c><00:06:31.199><c> page</c><00:06:32.000><c> as</c>
+You actually are thinking of the page as
+You actually are thinking of the page as
+the<00:06:32.880><c> query</c><00:06:33.280><c> box</c><00:06:33.919><c> as</c><00:06:34.240><c> the</c><00:06:34.560><c> place</c><00:06:34.960><c> where</c><00:06:35.440><c> the</c>
+the query box as the place where the
+the query box as the place where the
+customer<00:06:36.080><c> can</c><00:06:36.400><c> compose</c><00:06:36.800><c> an</c><00:06:37.039><c> interface</c><00:06:37.680><c> and</c>
+customer can compose an interface and
+customer can compose an interface and
+then<00:06:38.160><c> your</c><00:06:38.479><c> job</c><00:06:38.880><c> is</c><00:06:39.120><c> to</c><00:06:39.759><c> understand</c><00:06:40.319><c> the</c><00:06:40.639><c> range</c>
+then your job is to understand the range
+then your job is to understand the range
+of<00:06:41.120><c> those</c><00:06:41.440><c> use</c><00:06:41.680><c> cases</c><00:06:42.400><c> so</c><00:06:42.639><c> that</c><00:06:42.880><c> your</c><00:06:43.199><c> system</c>
+of those use cases so that your system
+of those use cases so that your system
+can<00:06:43.840><c> respond</c><00:06:44.319><c> appropriately</c><00:06:45.120><c> across</c><00:06:45.520><c> that</c>
+can respond appropriately across that
+can respond appropriately across that
+range<00:06:46.080><c> that</c><00:06:46.319><c> requires</c><00:06:46.720><c> like</c><00:06:47.440><c> x</c><00:06:47.759><c> more</c><00:06:48.000><c> customer</c>
+range that requires like x more customer
+range that requires like x more customer
+conversations.<00:06:49.520><c> You</c><00:06:49.680><c> should</c><00:06:49.919><c> also</c><00:06:50.319><c> move</c><00:06:50.639><c> from</c>
+conversations. You should also move from
+conversations. You should also move from
+thinking<00:06:51.199><c> in</c><00:06:51.440><c> terms</c><00:06:51.600><c> of</c><00:06:51.840><c> design</c><00:06:52.240><c> patterns</c><00:06:52.800><c> to</c>
+thinking in terms of design patterns to
+thinking in terms of design patterns to
+thinking<00:06:53.520><c> in</c><00:06:53.840><c> terms</c><00:06:54.160><c> of</c><00:06:54.479><c> work</c><00:06:55.039><c> flows.</c><00:06:55.919><c> Think</c>
+thinking in terms of work flows. Think
+thinking in terms of work flows. Think
+of<00:06:56.319><c> it</c><00:06:56.560><c> as</c><00:06:57.600><c> recipes.</c><00:06:58.400><c> Right?</c><00:06:58.720><c> You</c><00:06:58.960><c> have</c>
+of it as recipes. Right? You have
+of it as recipes. Right? You have
+recipes<00:06:59.759><c> to</c><00:07:00.000><c> get</c><00:07:00.160><c> workflows</c><00:07:00.800><c> done</c><00:07:01.120><c> and</c><00:07:01.440><c> your</c>
+recipes to get workflows done and your
+recipes to get workflows done and your
+job<00:07:01.919><c> is</c><00:07:02.160><c> to</c><00:07:02.479><c> enable</c><00:07:03.120><c> as</c><00:07:03.440><c> many</c><00:07:03.919><c> good</c><00:07:04.400><c> recipes</c><00:07:04.960><c> as</c>
+job is to enable as many good recipes as
+job is to enable as many good recipes as
+you<00:07:05.440><c> can</c><00:07:05.759><c> based</c><00:07:06.080><c> on</c><00:07:06.240><c> your</c><00:07:06.479><c> data</c><00:07:06.800><c> in</c><00:07:07.120><c> brand</c>
+you can based on your data in brand
+you can based on your data in brand
+compliant<00:07:08.080><c> ways</c><00:07:08.880><c> so</c><00:07:09.120><c> that</c><00:07:09.360><c> you</c><00:07:09.680><c> can</c><00:07:10.240><c> enable</c>
+compliant ways so that you can enable
+compliant ways so that you can enable
+the<00:07:11.520><c> user</c><00:07:12.160><c> to</c><00:07:12.479><c> compose</c><00:07:12.960><c> those</c><00:07:13.199><c> on</c><00:07:13.360><c> the</c><00:07:13.520><c> fly.</c>
+the user to compose those on the fly.
+the user to compose those on the fly.
+Will<00:07:14.400><c> we</c><00:07:14.720><c> still</c><00:07:15.039><c> see</c><00:07:15.360><c> cases</c><00:07:15.840><c> where</c><00:07:16.080><c> there</c><00:07:16.240><c> are</c>
+Will we still see cases where there are
+Will we still see cases where there are
+core<00:07:16.720><c> pages</c><00:07:17.280><c> that</c><00:07:17.520><c> are</c><00:07:17.759><c> static?</c><00:07:18.240><c> I</c><00:07:18.479><c> believe</c>
+core pages that are static? I believe
+core pages that are static? I believe
+so.<00:07:19.280><c> People</c><00:07:19.520><c> don't</c><00:07:19.759><c> like</c><00:07:20.000><c> change,</c><00:07:20.319><c> right?</c>
+so. People don't like change, right?
+so. People don't like change, right?
+We're<00:07:20.720><c> going</c><00:07:20.800><c> to</c><00:07:20.960><c> see</c><00:07:21.120><c> some</c><00:07:21.280><c> static</c><00:07:21.680><c> stuff.</c>
+We're going to see some static stuff.
+We're going to see some static stuff.
+And<00:07:22.400><c> I</c><00:07:22.639><c> also</c><00:07:22.880><c> think</c><00:07:22.960><c> there's</c><00:07:23.199><c> a</c><00:07:23.440><c> case</c><00:07:23.599><c> for</c>
+And I also think there's a case for
+And I also think there's a case for
+simplicity<00:07:24.400><c> here.</c><00:07:25.039><c> If</c><00:07:25.280><c> you</c><00:07:25.520><c> have</c><00:07:25.759><c> the</c>
+simplicity here. If you have the
+simplicity here. If you have the
+simplest<00:07:26.800><c> possible</c><00:07:27.360><c> cancellation</c><00:07:28.080><c> form,</c>
+simplest possible cancellation form,
+simplest possible cancellation form,
+there<00:07:29.039><c> is</c><00:07:29.280><c> no</c><00:07:29.440><c> reason</c><00:07:29.680><c> to</c><00:07:29.919><c> reinvent</c><00:07:30.400><c> it</c><00:07:30.639><c> on</c><00:07:30.800><c> the</c>
+there is no reason to reinvent it on the
+there is no reason to reinvent it on the
+fly.<00:07:31.599><c> You</c><00:07:31.759><c> may</c><00:07:32.000><c> want</c><00:07:32.240><c> to</c><00:07:32.479><c> as</c><00:07:32.720><c> a</c><00:07:32.880><c> front-end</c>
+fly. You may want to as a front-end
+fly. You may want to as a front-end
+engineer<00:07:34.080><c> cache</c><00:07:34.479><c> that</c><00:07:34.800><c> pattern</c><00:07:35.520><c> and</c><00:07:35.759><c> call</c>
+engineer cache that pattern and call
+engineer cache that pattern and call
+that<00:07:36.319><c> pattern</c><00:07:36.639><c> when</c><00:07:36.880><c> the</c><00:07:37.039><c> user</c><00:07:37.280><c> asks</c><00:07:37.599><c> for</c><00:07:37.840><c> it.</c>
+that pattern when the user asks for it.
+that pattern when the user asks for it.
+And<00:07:38.240><c> so</c><00:07:38.560><c> I</c><00:07:38.880><c> think</c><00:07:39.039><c> we</c><00:07:39.199><c> need</c><00:07:39.360><c> to</c><00:07:39.599><c> step</c><00:07:39.840><c> away</c><00:07:40.080><c> from</c>
+And so I think we need to step away from
+And so I think we need to step away from
+this<00:07:40.560><c> idea</c><00:07:40.880><c> that</c><00:07:41.520><c> buttons</c><00:07:42.240><c> and</c><00:07:42.720><c> tables</c><00:07:43.280><c> and</c>
+this idea that buttons and tables and
+this idea that buttons and tables and
+forms<00:07:44.080><c> are</c><00:07:44.319><c> infinitely</c><00:07:45.039><c> composable</c><00:07:45.919><c> and</c>
+forms are infinitely composable and
+forms are infinitely composable and
+think<00:07:46.479><c> about</c><00:07:46.720><c> it</c><00:07:46.960><c> more</c><00:07:47.280><c> as</c><00:07:47.919><c> patterns</c><00:07:48.400><c> in</c><00:07:48.720><c> our</c>
+think about it more as patterns in our
+think about it more as patterns in our
+workflows<00:07:49.840><c> that</c><00:07:50.160><c> we</c><00:07:50.479><c> can</c><00:07:50.720><c> start</c><00:07:50.960><c> to</c><00:07:51.680><c> call</c><00:07:52.000><c> for</c>
+workflows that we can start to call for
+workflows that we can start to call for
+when<00:07:53.039><c> we</c><00:07:53.360><c> have</c><00:07:53.840><c> a</c><00:07:54.240><c> user</c><00:07:54.879><c> request.</c><00:07:55.759><c> And</c><00:07:56.000><c> that's</c>
+when we have a user request. And that's
+when we have a user request. And that's
+different<00:07:56.560><c> because</c><00:07:56.800><c> in</c><00:07:57.039><c> the</c><00:07:57.199><c> past,</c><00:07:57.440><c> like</c><00:07:57.599><c> if</c><00:07:57.759><c> I</c>
+different because in the past, like if I
+different because in the past, like if I
+wanted<00:07:58.160><c> to</c><00:07:58.319><c> cancel</c><00:07:59.280><c> my</c><00:07:59.599><c> mobile</c><00:08:00.000><c> phone,</c><00:08:00.639><c> it's</c>
+wanted to cancel my mobile phone, it's
+wanted to cancel my mobile phone, it's
+like<00:08:01.280><c> you</c><00:08:01.520><c> go</c><00:08:01.680><c> through</c><00:08:01.919><c> their</c><00:08:02.240><c> website,</c><00:08:02.720><c> it's</c>
+like you go through their website, it's
+like you go through their website, it's
+six<00:08:03.599><c> different</c><00:08:04.080><c> clicks</c><00:08:04.639><c> and</c><00:08:04.879><c> good</c><00:08:05.120><c> luck</c><00:08:05.280><c> and</c>
+six different clicks and good luck and
+six different clicks and good luck and
+you'll<00:08:05.759><c> probably</c><00:08:06.000><c> have</c><00:08:06.160><c> to</c><00:08:06.319><c> talk</c><00:08:06.479><c> to</c><00:08:06.639><c> a</c>
+you'll probably have to talk to a
+you'll probably have to talk to a
+person.<00:08:07.520><c> Now,</c><00:08:07.759><c> if</c><00:08:08.000><c> you</c><00:08:08.160><c> want</c><00:08:08.319><c> something</c><00:08:08.560><c> that</c>
+person. Now, if you want something that
+person. Now, if you want something that
+would<00:08:08.960><c> be</c><00:08:09.120><c> considered</c><00:08:09.520><c> an</c><00:08:09.759><c> edge</c><00:08:10.080><c> case</c><00:08:10.400><c> by</c><00:08:10.639><c> the</c>
+would be considered an edge case by the
+would be considered an edge case by the
+company,<00:08:11.360><c> it</c><00:08:11.520><c> is</c><00:08:11.759><c> possible</c><00:08:12.240><c> to</c><00:08:12.479><c> have</c><00:08:12.639><c> a</c><00:08:12.879><c> very</c>
+company, it is possible to have a very
+company, it is possible to have a very
+simple<00:08:13.520><c> flow</c><00:08:13.759><c> that</c><00:08:13.919><c> is</c><00:08:14.160><c> just</c><00:08:14.319><c> invoked</c><00:08:14.720><c> and</c>
+simple flow that is just invoked and
+simple flow that is just invoked and
+displayed<00:08:15.440><c> right</c><00:08:15.680><c> where</c><00:08:15.840><c> you</c><00:08:16.000><c> need</c><00:08:16.080><c> it.</c><00:08:16.479><c> I</c>
+displayed right where you need it. I
+displayed right where you need it. I
+think<00:08:16.720><c> we're</c><00:08:16.960><c> going</c><00:08:17.039><c> to</c><00:08:17.120><c> see</c><00:08:17.199><c> a</c><00:08:17.440><c> lot</c><00:08:17.520><c> more</c><00:08:17.680><c> of</c>
+think we're going to see a lot more of
+think we're going to see a lot more of
+that<00:08:18.080><c> in</c><00:08:18.319><c> 2026.</c><00:08:19.039><c> And</c><00:08:19.120><c> I</c><00:08:19.280><c> think</c><00:08:19.440><c> front-end</c>
+that in 2026. And I think front-end
+that in 2026. And I think front-end
+engineers<00:08:20.400><c> need</c><00:08:20.560><c> to</c><00:08:20.800><c> think</c><00:08:21.039><c> more</c><00:08:21.440><c> about</c><00:08:21.919><c> those</c>
+engineers need to think more about those
+engineers need to think more about those
+workflows<00:08:22.960><c> which</c><00:08:23.199><c> again</c><00:08:23.840><c> requires</c><00:08:24.319><c> sitting</c>
+workflows which again requires sitting
+workflows which again requires sitting
+and<00:08:25.199><c> thinking</c><00:08:25.599><c> with</c><00:08:25.840><c> the</c><00:08:26.080><c> customer.</c><00:08:26.560><c> One</c><00:08:26.800><c> of</c>
+and thinking with the customer. One of
+and thinking with the customer. One of
+the<00:08:27.039><c> things</c><00:08:27.120><c> that</c><00:08:27.360><c> I</c><00:08:27.680><c> I</c><00:08:28.160><c> think</c><00:08:28.319><c> is</c><00:08:28.560><c> critical</c><00:08:29.120><c> is</c>
+the things that I I think is critical is
+the things that I I think is critical is
+shifting<00:08:30.160><c> where</c><00:08:30.560><c> we</c><00:08:31.039><c> think</c><00:08:31.440><c> about</c><00:08:31.919><c> roles</c>
+shifting where we think about roles
+shifting where we think about roles
+based<00:08:32.560><c> access</c><00:08:33.039><c> controls.</c><00:08:33.919><c> This</c><00:08:34.080><c> gets</c><00:08:34.320><c> a</c>
+based access controls. This gets a
+based access controls. This gets a
+little<00:08:34.560><c> nerdy</c><00:08:35.279><c> but</c><00:08:35.519><c> the</c><00:08:35.760><c> front</c><00:08:36.000><c> end</c><00:08:36.240><c> should</c><00:08:36.479><c> no</c>
+little nerdy but the front end should no
+little nerdy but the front end should no
+longer<00:08:37.039><c> be</c><00:08:37.200><c> in</c><00:08:37.360><c> the</c><00:08:37.519><c> business</c><00:08:38.080><c> of</c><00:08:38.479><c> deciding</c>
+longer be in the business of deciding
+longer be in the business of deciding
+what<00:08:39.120><c> a</c><00:08:39.360><c> user</c><00:08:39.680><c> can</c><00:08:39.839><c> or</c><00:08:40.080><c> cannot</c><00:08:40.479><c> do.</c><00:08:40.800><c> And</c><00:08:40.959><c> in</c>
+what a user can or cannot do. And in
+what a user can or cannot do. And in
+many<00:08:41.440><c> systems</c><00:08:41.839><c> we've</c><00:08:42.159><c> had</c><00:08:42.320><c> the</c><00:08:42.479><c> idea</c><00:08:42.719><c> that</c><00:08:42.880><c> you</c>
+many systems we've had the idea that you
+many systems we've had the idea that you
+can<00:08:43.200><c> read</c><00:08:43.440><c> your</c><00:08:43.599><c> capabilities</c><00:08:44.159><c> from</c><00:08:44.399><c> the</c><00:08:44.560><c> back</c>
+can read your capabilities from the back
+can read your capabilities from the back
+end<00:08:44.880><c> or</c><00:08:45.040><c> from</c><00:08:45.279><c> policy</c><00:08:45.760><c> and</c><00:08:46.000><c> that's</c><00:08:46.320><c> great.</c><00:08:46.720><c> I</c>
+end or from policy and that's great. I
+end or from policy and that's great. I
+am<00:08:47.360><c> am</c><00:08:47.680><c> really</c><00:08:48.399><c> going</c><00:08:48.720><c> to</c><00:08:49.040><c> call</c><00:08:49.279><c> out</c><00:08:49.760><c> that</c><00:08:50.000><c> if</c>
+am am really going to call out that if
+am am really going to call out that if
+you<00:08:50.560><c> have</c><00:08:50.720><c> a</c><00:08:50.959><c> system</c><00:08:51.200><c> that</c><00:08:51.440><c> is</c><00:08:51.680><c> composable,</c>
+you have a system that is composable,
+you have a system that is composable,
+you<00:08:52.640><c> have</c><00:08:52.720><c> a</c><00:08:52.959><c> system</c><00:08:53.200><c> where</c><00:08:53.440><c> you</c><00:08:53.680><c> have</c><00:08:53.839><c> to</c>
+you have a system where you have to
+you have a system where you have to
+assume<00:08:54.480><c> agentic</c><00:08:55.120><c> users,</c><00:08:55.519><c> you</c><00:08:55.680><c> have</c><00:08:55.760><c> to</c><00:08:55.920><c> assume</c>
+assume agentic users, you have to assume
+assume agentic users, you have to assume
+human<00:08:56.720><c> users</c><00:08:57.519><c> and</c><00:08:57.839><c> we</c><00:08:58.399><c> need</c><00:08:58.959><c> a</c><00:08:59.360><c> layer</c><00:08:59.920><c> that</c>
+human users and we need a layer that
+human users and we need a layer that
+enables<00:09:00.959><c> us</c><00:09:01.360><c> to</c><00:09:02.080><c> bake</c><00:09:02.800><c> row</c><00:09:03.279><c> security</c><00:09:03.760><c> and</c>
+enables us to bake row security and
+enables us to bake row security and
+auditability<00:09:04.720><c> into</c><00:09:04.959><c> the</c><00:09:05.200><c> platform</c><00:09:05.680><c> assuming</c>
+auditability into the platform assuming
+auditability into the platform assuming
+different<00:09:07.120><c> users</c><00:09:07.600><c> are</c><00:09:07.920><c> employing</c><00:09:08.320><c> the</c><00:09:08.640><c> system</c>
+different users are employing the system
+different users are employing the system
+for<00:09:10.000><c> different</c><00:09:10.480><c> purposes</c><00:09:11.040><c> and</c><00:09:11.279><c> it's</c><00:09:11.440><c> going</c><00:09:11.519><c> to</c>
+for different purposes and it's going to
+for different purposes and it's going to
+be<00:09:11.760><c> a</c><00:09:11.920><c> sort</c><00:09:12.080><c> of</c><00:09:12.240><c> composable</c><00:09:12.959><c> experience.</c><00:09:13.760><c> This</c>
+be a sort of composable experience. This
+be a sort of composable experience. This
+is<00:09:14.080><c> going</c><00:09:14.240><c> to</c><00:09:14.320><c> impose</c><00:09:14.720><c> new</c><00:09:14.959><c> challenges</c>
+is going to impose new challenges
+is going to impose new challenges
+because<00:09:15.760><c> traditionally</c><00:09:16.320><c> with</c><00:09:16.560><c> rolesbased</c>
+because traditionally with rolesbased
+because traditionally with rolesbased
+access<00:09:17.600><c> control,</c><00:09:18.080><c> even</c><00:09:18.320><c> if</c><00:09:18.480><c> you</c><00:09:18.720><c> did</c><00:09:18.959><c> have</c>
+access control, even if you did have
+access control, even if you did have
+like<00:09:19.519><c> a</c><00:09:19.760><c> central</c><00:09:20.160><c> policy</c><00:09:20.560><c> engine</c><00:09:20.880><c> for</c>
+like a central policy engine for
+like a central policy engine for
+arbback,<00:09:22.000><c> you</c><00:09:22.240><c> would</c><00:09:22.560><c> still</c><00:09:23.440><c> assume</c><00:09:24.000><c> a</c><00:09:24.240><c> static</c>
+arbback, you would still assume a static
+arbback, you would still assume a static
+site<00:09:24.959><c> that</c><00:09:25.120><c> it</c><00:09:25.360><c> was</c><00:09:25.440><c> driving.</c><00:09:26.160><c> Well,</c><00:09:26.480><c> now</c><00:09:26.640><c> you</c>
+site that it was driving. Well, now you
+site that it was driving. Well, now you
+need<00:09:27.120><c> to</c><00:09:27.360><c> have</c><00:09:28.000><c> a</c><00:09:28.320><c> dynamic</c><00:09:28.880><c> site.</c><00:09:29.600><c> You'll</c><00:09:29.839><c> need</c>
+need to have a dynamic site. You'll need
+need to have a dynamic site. You'll need
+to<00:09:30.240><c> have</c><00:09:30.800><c> a</c><00:09:31.360><c> ability</c><00:09:31.760><c> to</c><00:09:32.080><c> maintain</c><00:09:32.720><c> rowle</c>
+to have a ability to maintain rowle
+to have a ability to maintain rowle
+security<00:09:33.600><c> and</c><00:09:33.920><c> consistency</c><00:09:34.399><c> of</c><00:09:34.640><c> data</c><00:09:35.040><c> access</c>
+security and consistency of data access
+security and consistency of data access
+even<00:09:36.240><c> though</c><00:09:36.480><c> the</c><00:09:36.800><c> site</c><00:09:37.120><c> is</c><00:09:37.440><c> dynamic.</c><00:09:38.240><c> And</c><00:09:38.560><c> I</c>
+even though the site is dynamic. And I
+even though the site is dynamic. And I
+think<00:09:39.040><c> ideally</c><00:09:39.920><c> you</c><00:09:40.160><c> want</c><00:09:40.320><c> a</c><00:09:40.640><c> degree</c><00:09:40.959><c> of</c>
+think ideally you want a degree of
+think ideally you want a degree of
+auditability.<00:09:42.160><c> Like</c><00:09:42.399><c> you</c><00:09:42.640><c> want</c><00:09:42.959><c> something</c>
+auditability. Like you want something
+auditability. Like you want something
+that<00:09:43.600><c> lets</c><00:09:43.920><c> you</c><00:09:44.160><c> say</c><00:09:44.880><c> the</c><00:09:45.200><c> agent</c><00:09:45.680><c> has</c><00:09:46.000><c> this</c>
+that lets you say the agent has this
+that lets you say the agent has this
+level<00:09:46.640><c> of</c><00:09:46.880><c> access.</c><00:09:48.080><c> The</c><00:09:48.320><c> agent</c><00:09:48.720><c> did</c><00:09:49.040><c> this</c><00:09:49.360><c> on</c>
+level of access. The agent did this on
+level of access. The agent did this on
+the<00:09:49.760><c> screen.</c><00:09:50.560><c> This</c><00:09:50.720><c> was</c><00:09:50.880><c> the</c><00:09:51.120><c> composed</c><00:09:51.680><c> view</c>
+the screen. This was the composed view
+the screen. This was the composed view
+the<00:09:52.240><c> agent</c><00:09:52.640><c> saw</c><00:09:52.959><c> and</c><00:09:53.200><c> the</c><00:09:53.360><c> agent</c><00:09:53.760><c> took</c><00:09:54.000><c> this</c>
+the agent saw and the agent took this
+the agent saw and the agent took this
+action.<00:09:54.959><c> I</c><00:09:55.200><c> think</c><00:09:55.360><c> we</c><00:09:55.680><c> humans</c><00:09:56.080><c> are</c><00:09:56.320><c> going</c><00:09:56.480><c> to</c>
+action. I think we humans are going to
+action. I think we humans are going to
+expect<00:09:57.120><c> that.</c><00:09:57.600><c> But</c><00:09:57.680><c> we</c><00:09:57.920><c> don't</c><00:09:58.160><c> really</c><00:09:58.480><c> have</c><00:09:59.120><c> a</c>
+expect that. But we don't really have a
+expect that. But we don't really have a
+way<00:09:59.600><c> to</c><00:09:59.839><c> do</c><00:10:00.000><c> that</c><00:10:00.320><c> today.</c><00:10:00.880><c> Most</c><00:10:01.120><c> of</c><00:10:01.279><c> the</c><00:10:01.519><c> replay</c>
+way to do that today. Most of the replay
+way to do that today. Most of the replay
+tools<00:10:02.480><c> are</c><00:10:02.720><c> designed</c><00:10:03.200><c> for</c><00:10:03.680><c> marketers</c><00:10:04.480><c> who</c><00:10:04.720><c> are</c>
+tools are designed for marketers who are
+tools are designed for marketers who are
+trying<00:10:05.040><c> to</c><00:10:05.279><c> understand</c><00:10:05.600><c> how</c><00:10:05.920><c> human</c><00:10:06.240><c> users</c>
+trying to understand how human users
+trying to understand how human users
+behave.<00:10:07.040><c> We</c><00:10:07.279><c> don't</c><00:10:07.519><c> have</c><00:10:07.680><c> the</c><00:10:07.920><c> idea</c><00:10:08.399><c> that</c><00:10:08.640><c> we</c>
+behave. We don't have the idea that we
+behave. We don't have the idea that we
+need<00:10:09.040><c> to</c><00:10:09.200><c> have</c><00:10:09.440><c> audit</c><00:10:09.839><c> trails</c><00:10:10.240><c> for</c><00:10:10.560><c> composable</c>
+need to have audit trails for composable
+need to have audit trails for composable
+workflows<00:10:12.240><c> and</c><00:10:12.399><c> UIs.</c><00:10:13.040><c> And</c><00:10:13.200><c> I</c><00:10:13.360><c> think</c><00:10:13.440><c> we're</c>
+workflows and UIs. And I think we're
+workflows and UIs. And I think we're
+going<00:10:13.760><c> to</c><00:10:13.839><c> need</c><00:10:14.079><c> that</c><00:10:14.240><c> in</c><00:10:14.480><c> 2026.</c><00:10:15.519><c> And</c><00:10:15.760><c> this</c>
+going to need that in 2026. And this
+going to need that in 2026. And this
+points<00:10:16.320><c> my</c><00:10:16.720><c> sort</c><00:10:16.959><c> of</c><00:10:17.440><c> way</c><00:10:17.760><c> to</c><00:10:18.000><c> the</c><00:10:18.160><c> the</c><00:10:18.560><c> fifth</c>
+points my sort of way to the the fifth
+points my sort of way to the the fifth
+thing<00:10:19.040><c> I</c><00:10:19.360><c> want</c><00:10:19.440><c> to</c><00:10:19.519><c> call</c><00:10:19.680><c> out,</c><00:10:19.920><c> which</c><00:10:20.160><c> is</c><00:10:20.240><c> that</c>
+thing I want to call out, which is that
+thing I want to call out, which is that
+you<00:10:20.720><c> need</c><00:10:20.880><c> to</c><00:10:21.120><c> think</c><00:10:21.360><c> about</c><00:10:21.680><c> AI</c><00:10:22.480><c> as</c><00:10:22.800><c> a</c>
+you need to think about AI as a
+you need to think about AI as a
+consumer,<00:10:24.399><c> not</c><00:10:24.560><c> just</c><00:10:24.800><c> something</c><00:10:25.120><c> that</c><00:10:25.360><c> helps</c>
+consumer, not just something that helps
+consumer, not just something that helps
+you<00:10:25.920><c> generate</c><00:10:26.320><c> all</c><00:10:26.480><c> of</c><00:10:26.640><c> this.</c><00:10:27.120><c> So</c><00:10:27.360><c> AI</c><00:10:27.839><c> agents</c>
+you generate all of this. So AI agents
+you generate all of this. So AI agents
+are<00:10:28.959><c> really</c><00:10:29.519><c> going</c><00:10:29.839><c> to</c><00:10:30.079><c> be</c><00:10:30.880><c> 99%</c><00:10:31.760><c> of</c><00:10:31.920><c> the</c>
+are really going to be 99% of the
+are really going to be 99% of the
+attention<00:10:32.560><c> on</c><00:10:32.880><c> your</c><00:10:33.040><c> tool,</c><00:10:33.680><c> and</c><00:10:33.920><c> they</c><00:10:34.160><c> are</c>
+attention on your tool, and they are
+attention on your tool, and they are
+going<00:10:34.399><c> to</c><00:10:34.640><c> have</c><00:10:34.880><c> different</c><00:10:35.360><c> needs.</c><00:10:35.920><c> You</c><00:10:36.160><c> need</c>
+going to have different needs. You need
+going to have different needs. You need
+to<00:10:36.480><c> think</c><00:10:36.720><c> about</c><00:10:36.959><c> whether</c><00:10:37.279><c> they</c><00:10:37.519><c> want</c><00:10:37.600><c> to</c>
+to think about whether they want to
+to think about whether they want to
+consume<00:10:38.240><c> via</c><00:10:38.560><c> APIs,</c><00:10:39.279><c> whether</c><00:10:39.519><c> you're</c><00:10:39.760><c> going</c>
+consume via APIs, whether you're going
+consume via APIs, whether you're going
+to<00:10:40.000><c> have</c><00:10:40.399><c> computer</c><00:10:40.880><c> use</c><00:10:41.120><c> agents,</c><00:10:41.920><c> whether</c>
+to have computer use agents, whether
+to have computer use agents, whether
+you're<00:10:42.480><c> going</c><00:10:42.640><c> to</c><00:10:42.880><c> allow</c><00:10:44.000><c> composability</c><00:10:44.880><c> only</c>
+you're going to allow composability only
+you're going to allow composability only
+within<00:10:45.680><c> certain</c><00:10:46.800><c> patterns</c><00:10:47.279><c> for</c><00:10:47.680><c> AI</c><00:10:48.079><c> agents,</c>
+within certain patterns for AI agents,
+within certain patterns for AI agents,
+whether<00:10:49.200><c> you</c><00:10:49.440><c> are</c><00:10:49.600><c> going</c><00:10:49.760><c> to</c><00:10:50.000><c> have</c><00:10:50.480><c> a</c>
+whether you are going to have a
+whether you are going to have a
+different<00:10:51.600><c> set</c><00:10:51.760><c> of</c><00:10:51.920><c> roles</c><00:10:52.240><c> and</c><00:10:52.399><c> permissions</c>
+different set of roles and permissions
+different set of roles and permissions
+depending<00:10:53.360><c> on</c><00:10:53.600><c> the</c><00:10:53.920><c> users</c><00:10:54.720><c> role,</c><00:10:55.120><c> the</c><00:10:55.279><c> human</c>
+depending on the users role, the human
+depending on the users role, the human
+user's<00:10:56.000><c> role,</c><00:10:56.240><c> or</c><00:10:56.480><c> depending</c><00:10:56.800><c> on</c><00:10:56.959><c> the</c><00:10:57.200><c> agents</c>
+user's role, or depending on the agents
+user's role, or depending on the agents
+role.<00:10:57.839><c> So,</c><00:10:58.079><c> do</c><00:10:58.320><c> do</c><00:10:58.800><c> agents</c><00:10:59.200><c> inherit</c>
+role. So, do do agents inherit
+role. So, do do agents inherit
+permissions<00:11:00.079><c> from</c><00:11:00.320><c> humans</c><00:11:00.720><c> but</c><00:11:00.880><c> at</c><00:11:01.120><c> a</c><00:11:01.279><c> lower</c>
+permissions from humans but at a lower
+permissions from humans but at a lower
+scope?<00:11:02.160><c> All</c><00:11:02.399><c> of</c><00:11:02.560><c> this</c><00:11:02.800><c> stuff</c><00:11:03.040><c> needs</c><00:11:03.279><c> to</c><00:11:03.440><c> be</c>
+scope? All of this stuff needs to be
+scope? All of this stuff needs to be
+thought<00:11:03.839><c> about</c><00:11:04.160><c> because</c><00:11:04.399><c> you</c><00:11:04.640><c> need</c><00:11:04.720><c> to</c><00:11:04.959><c> frame</c>
+thought about because you need to frame
+thought about because you need to frame
+AI<00:11:06.240><c> as</c><00:11:06.480><c> a</c><00:11:06.800><c> consumer</c><00:11:07.600><c> of</c><00:11:08.079><c> data.</c><00:11:08.720><c> And</c><00:11:08.959><c> this</c>
+AI as a consumer of data. And this
+AI as a consumer of data. And this
+means,<00:11:09.519><c> by</c><00:11:09.760><c> the</c><00:11:09.839><c> way,</c><00:11:10.000><c> that</c><00:11:10.240><c> if</c><00:11:10.480><c> you</c><00:11:10.800><c> want</c><00:11:11.040><c> to</c>
+means, by the way, that if you want to
+means, by the way, that if you want to
+deliver<00:11:12.160><c> on</c><00:11:12.480><c> the</c><00:11:12.720><c> promise</c><00:11:13.120><c> of</c><00:11:13.360><c> AI</c><00:11:13.760><c> agents</c><00:11:14.480><c> for</c>
+deliver on the promise of AI agents for
+deliver on the promise of AI agents for
+your<00:11:15.200><c> business,</c><00:11:15.839><c> you</c><00:11:16.160><c> need</c><00:11:16.399><c> to</c><00:11:16.720><c> figure</c><00:11:17.040><c> out</c>
+your business, you need to figure out
+your business, you need to figure out
+how<00:11:17.760><c> to</c><00:11:18.000><c> make</c><00:11:18.240><c> your</c><00:11:18.560><c> brand</c><00:11:19.040><c> promise</c><00:11:19.680><c> real,</c>
+how to make your brand promise real,
+how to make your brand promise real,
+even<00:11:20.800><c> if</c><00:11:21.120><c> the</c><00:11:21.519><c> customer</c><00:11:22.000><c> only</c><00:11:22.320><c> interacts</c><00:11:22.800><c> with</c>
+even if the customer only interacts with
+even if the customer only interacts with
+your<00:11:23.279><c> site</c><00:11:24.000><c> through</c><00:11:24.399><c> the</c><00:11:24.720><c> AI</c><00:11:25.120><c> agent.</c><00:11:25.839><c> That's</c>
+your site through the AI agent. That's
+your site through the AI agent. That's
+new<00:11:26.320><c> for</c><00:11:26.480><c> us,</c><00:11:26.720><c> too.</c><00:11:26.959><c> We're</c><00:11:27.200><c> used</c><00:11:27.360><c> to</c><00:11:27.600><c> having</c><00:11:27.839><c> a</c>
+new for us, too. We're used to having a
+new for us, too. We're used to having a
+site<00:11:28.320><c> that</c><00:11:28.560><c> the</c><00:11:28.880><c> people</c><00:11:29.360><c> can</c><00:11:29.680><c> see</c><00:11:30.079><c> and</c><00:11:30.320><c> we're</c>
+site that the people can see and we're
+site that the people can see and we're
+not<00:11:30.720><c> going</c><00:11:30.880><c> to</c><00:11:31.040><c> necessarily</c><00:11:31.760><c> have</c><00:11:31.920><c> that</c><00:11:32.160><c> in</c>
+not going to necessarily have that in
+not going to necessarily have that in
+2026.<00:11:33.120><c> You</c><00:11:33.360><c> may</c><00:11:33.600><c> have</c><00:11:34.480><c> agents</c><00:11:34.959><c> browsing</c><00:11:35.440><c> the</c>
+2026. You may have agents browsing the
+2026. You may have agents browsing the
+site<00:11:36.079><c> and</c><00:11:36.399><c> coming</c><00:11:36.720><c> back</c><00:11:36.959><c> with</c><00:11:37.200><c> the</c><00:11:37.360><c> data</c><00:11:37.680><c> the</c>
+site and coming back with the data the
+site and coming back with the data the
+person<00:11:38.160><c> needs</c><00:11:38.800><c> because</c><00:11:39.120><c> the</c><00:11:39.360><c> person</c><00:11:39.680><c> doesn't</c>
+person needs because the person doesn't
+person needs because the person doesn't
+want<00:11:40.079><c> to</c><00:11:40.240><c> look</c><00:11:40.399><c> at</c><00:11:40.560><c> your</c><00:11:40.720><c> dashboard.</c><00:11:41.279><c> They</c>
+want to look at your dashboard. They
+want to look at your dashboard. They
+just<00:11:41.600><c> want</c><00:11:41.760><c> the</c><00:11:42.000><c> outcome</c><00:11:42.399><c> and</c><00:11:42.560><c> go.</c><00:11:43.200><c> How</c><00:11:43.440><c> can</c>
+just want the outcome and go. How can
+just want the outcome and go. How can
+you<00:11:43.920><c> think</c><00:11:44.160><c> about</c><00:11:44.480><c> how</c><00:11:44.720><c> to</c><00:11:44.959><c> deliver</c>
+you think about how to deliver
+you think about how to deliver
+information<00:11:46.720><c> headlessly</c><00:11:47.519><c> and</c><00:11:47.760><c> a</c><00:11:48.000><c> brand</c>
+information headlessly and a brand
+information headlessly and a brand
+promise<00:11:48.880><c> headlessly</c><00:11:49.920><c> so</c><00:11:50.160><c> that</c><00:11:50.320><c> you</c><00:11:50.560><c> can</c><00:11:51.120><c> make</c>
+promise headlessly so that you can make
+promise headlessly so that you can make
+that<00:11:51.680><c> promise</c><00:11:52.160><c> real</c><00:11:52.720><c> and</c><00:11:53.040><c> give</c><00:11:53.200><c> the</c><00:11:53.440><c> user</c><00:11:53.760><c> what</c>
+that promise real and give the user what
+that promise real and give the user what
+they're<00:11:54.240><c> looking</c><00:11:54.399><c> for.</c><00:11:54.800><c> So</c><00:11:55.120><c> what</c><00:11:55.279><c> does</c><00:11:55.440><c> this</c>
+they're looking for. So what does this
+they're looking for. So what does this
+mean<00:11:55.839><c> for</c><00:11:56.079><c> the</c><00:11:56.240><c> front-end</c><00:11:56.959><c> engineer?</c><00:11:57.440><c> What</c>
+mean for the front-end engineer? What
+mean for the front-end engineer? What
+what<00:11:57.839><c> is</c><00:11:58.000><c> your</c><00:11:58.320><c> job</c><00:11:58.640><c> become?</c><00:11:59.440><c> First,</c><00:11:59.760><c> you're</c>
+what is your job become? First, you're
+what is your job become? First, you're
+you're<00:12:00.320><c> a</c><00:12:00.560><c> system</c><00:12:00.880><c> designer</c><00:12:01.440><c> yet.</c><00:12:01.839><c> You're</c><00:12:02.160><c> not</c>
+you're a system designer yet. You're not
+you're a system designer yet. You're not
+a<00:12:02.880><c> ticket</c><00:12:03.279><c> taker.</c><00:12:03.760><c> Your</c><00:12:04.000><c> your</c><00:12:04.240><c> leverage</c><00:12:04.560><c> is</c>
+a ticket taker. Your your leverage is
+a ticket taker. Your your leverage is
+going<00:12:04.959><c> to</c><00:12:05.120><c> lie</c><00:12:05.440><c> in</c><00:12:05.760><c> choosing</c><00:12:06.240><c> and</c><00:12:06.560><c> shaping</c><00:12:06.959><c> the</c>
+going to lie in choosing and shaping the
+going to lie in choosing and shaping the
+primitives<00:12:07.920><c> and</c><00:12:08.160><c> components,</c><00:12:08.800><c> right?</c><00:12:09.120><c> You</c>
+primitives and components, right? You
+primitives and components, right? You
+you<00:12:09.680><c> should</c><00:12:09.920><c> decide</c><00:12:10.800><c> what</c><00:12:11.040><c> is</c><00:12:11.200><c> an</c><00:12:11.360><c> acceptable</c>
+you should decide what is an acceptable
+you should decide what is an acceptable
+button<00:12:12.320><c> variant</c><00:12:12.720><c> range.</c><00:12:13.440><c> You</c><00:12:13.680><c> should</c><00:12:13.920><c> think</c>
+button variant range. You should think
+button variant range. You should think
+about<00:12:14.399><c> the</c><00:12:14.639><c> vocabulary</c><00:12:15.360><c> of</c><00:12:15.519><c> your</c><00:12:15.760><c> interface</c>
+about the vocabulary of your interface
+about the vocabulary of your interface
+across<00:12:16.639><c> both</c><00:12:16.880><c> an</c><00:12:17.120><c> API</c><00:12:17.680><c> state</c><00:12:18.160><c> and</c><00:12:18.399><c> a</c><00:12:18.639><c> visual</c>
+across both an API state and a visual
+across both an API state and a visual
+state.<00:12:19.680><c> The</c><00:12:19.920><c> second</c><00:12:20.160><c> big</c><00:12:20.480><c> thing</c><00:12:20.639><c> is</c><00:12:20.880><c> you</c>
+state. The second big thing is you
+state. The second big thing is you
+should<00:12:21.279><c> think</c><00:12:21.519><c> about</c><00:12:21.839><c> how</c><00:12:22.079><c> you</c><00:12:22.480><c> model</c>
+should think about how you model
+should think about how you model
+workflows.<00:12:23.920><c> So</c><00:12:24.160><c> instead</c><00:12:24.480><c> of</c><00:12:24.639><c> just</c><00:12:24.800><c> hand</c>
+workflows. So instead of just hand
+workflows. So instead of just hand
+coding<00:12:25.360><c> your</c><00:12:25.600><c> fields,</c><00:12:25.920><c> you</c><00:12:26.160><c> should</c><00:12:26.560><c> sit</c><00:12:26.880><c> with</c>
+coding your fields, you should sit with
+coding your fields, you should sit with
+your<00:12:27.440><c> customers</c><00:12:27.920><c> and</c><00:12:28.240><c> think</c><00:12:28.480><c> about</c><00:12:28.720><c> how</c><00:12:28.959><c> you</c>
+your customers and think about how you
+your customers and think about how you
+drive<00:12:29.600><c> dynamic</c><00:12:30.160><c> flows,</c><00:12:30.800><c> tables,</c><00:12:31.279><c> forms</c><00:12:32.079><c> so</c>
+drive dynamic flows, tables, forms so
+drive dynamic flows, tables, forms so
+that<00:12:32.480><c> it's</c><00:12:32.720><c> not</c><00:12:32.800><c> just</c><00:12:33.040><c> I'll</c><00:12:33.279><c> build</c><00:12:33.519><c> you</c><00:12:33.680><c> a</c><00:12:33.839><c> new</c>
+that it's not just I'll build you a new
+that it's not just I'll build you a new
+page.<00:12:34.399><c> It's</c><00:12:34.880><c> let's</c><00:12:35.279><c> extend</c><00:12:35.760><c> the</c><00:12:36.079><c> schema</c><00:12:36.560><c> so</c>
+page. It's let's extend the schema so
+page. It's let's extend the schema so
+the<00:12:37.040><c> system</c><00:12:37.440><c> can</c><00:12:37.760><c> produce</c><00:12:38.160><c> that</c><00:12:38.720><c> class</c><00:12:39.040><c> of</c>
+the system can produce that class of
+the system can produce that class of
+page<00:12:39.680><c> to</c><00:12:39.920><c> get</c><00:12:40.079><c> your</c><00:12:40.399><c> work</c><00:12:40.639><c> accomplished</c><00:12:41.279><c> maybe</c>
+page to get your work accomplished maybe
+page to get your work accomplished maybe
+through<00:12:41.839><c> an</c><00:12:42.079><c> agent.</c><00:12:42.720><c> Third,</c><00:12:43.120><c> you</c><00:12:43.360><c> want</c><00:12:43.600><c> to</c>
+through an agent. Third, you want to
+through an agent. Third, you want to
+integrate<00:12:45.120><c> the</c><00:12:45.440><c> tools</c><00:12:45.839><c> that</c><00:12:46.079><c> you</c><00:12:46.399><c> need</c><00:12:46.639><c> to</c><00:12:47.200><c> use</c>
+integrate the tools that you need to use
+integrate the tools that you need to use
+to<00:12:48.399><c> allow</c><00:12:48.880><c> AI</c><00:12:49.440><c> to</c><00:12:49.760><c> generate</c><00:12:50.320><c> or</c><00:12:50.639><c> modify</c><00:12:51.120><c> your</c>
+to allow AI to generate or modify your
+to allow AI to generate or modify your
+UI<00:12:52.079><c> on</c><00:12:52.320><c> the</c><00:12:52.560><c> fly.</c><00:12:53.040><c> Yes,</c><00:12:53.360><c> you're</c><00:12:53.519><c> going</c><00:12:53.600><c> to</c><00:12:53.760><c> have</c>
+UI on the fly. Yes, you're going to have
+UI on the fly. Yes, you're going to have
+guardrails<00:12:54.480><c> and</c><00:12:54.720><c> you</c><00:12:54.880><c> need</c><00:12:54.959><c> to</c><00:12:55.120><c> be</c><00:12:55.200><c> the</c><00:12:55.360><c> one</c>
+guardrails and you need to be the one
+guardrails and you need to be the one
+that<00:12:55.680><c> thinks</c><00:12:55.920><c> about</c><00:12:56.079><c> that</c><00:12:56.240><c> as</c><00:12:56.480><c> the</c><00:12:56.639><c> front-end</c>
+that thinks about that as the front-end
+that thinks about that as the front-end
+engineer.<00:12:57.839><c> You</c><00:12:58.079><c> need</c><00:12:58.240><c> to</c><00:12:58.399><c> think</c><00:12:58.639><c> about</c><00:12:58.880><c> where</c>
+engineer. You need to think about where
+engineer. You need to think about where
+AI<00:12:59.680><c> can</c><00:12:59.920><c> generate</c><00:13:00.320><c> UIs</c><00:13:00.880><c> and</c><00:13:01.120><c> where</c><00:13:01.360><c> you</c><00:13:01.519><c> want</c>
+AI can generate UIs and where you want
+AI can generate UIs and where you want
+to<00:13:01.760><c> lock</c><00:13:02.000><c> it</c><00:13:02.240><c> so</c><00:13:02.399><c> it</c><00:13:02.639><c> can't.</c><00:13:02.880><c> How</c><00:13:03.120><c> you</c><00:13:03.360><c> design</c>
+to lock it so it can't. How you design
+to lock it so it can't. How you design
+the<00:13:04.079><c> system</c><00:13:04.399><c> so</c><00:13:04.720><c> it</c><00:13:04.880><c> generates</c><00:13:05.279><c> them</c><00:13:05.519><c> in</c><00:13:05.680><c> brand</c>
+the system so it generates them in brand
+the system so it generates them in brand
+appropriate<00:13:06.560><c> ways</c><00:13:06.959><c> every</c><00:13:07.360><c> time.</c><00:13:08.000><c> Finally,</c>
+appropriate ways every time. Finally,
+appropriate ways every time. Finally,
+you<00:13:08.720><c> need</c><00:13:08.959><c> to</c><00:13:09.279><c> think</c><00:13:09.760><c> about</c><00:13:10.399><c> UX</c><00:13:11.040><c> instincts</c><00:13:11.920><c> on</c>
+you need to think about UX instincts on
+you need to think about UX instincts on
+a<00:13:12.399><c> different</c><00:13:12.720><c> level.</c><00:13:13.440><c> Someone</c><00:13:13.760><c> is</c><00:13:14.000><c> still</c>
+a different level. Someone is still
+a different level. Someone is still
+going<00:13:14.320><c> to</c><00:13:14.480><c> have</c><00:13:14.639><c> to</c><00:13:14.880><c> care</c><00:13:15.600><c> about</c><00:13:15.920><c> whether</c><00:13:16.240><c> your</c>
+going to have to care about whether your
+going to have to care about whether your
+layout<00:13:16.800><c> is</c><00:13:16.959><c> thrashing</c><00:13:17.519><c> around,</c><00:13:18.240><c> about</c>
+layout is thrashing around, about
+layout is thrashing around, about
+whether<00:13:18.800><c> you</c><00:13:18.959><c> have</c><00:13:19.200><c> massive</c><00:13:19.600><c> input</c><00:13:20.000><c> latency</c>
+whether you have massive input latency
+whether you have massive input latency
+because<00:13:20.639><c> you're</c><00:13:20.880><c> generating</c><00:13:21.600><c> a</c><00:13:21.920><c> UI</c><00:13:22.320><c> on</c><00:13:22.480><c> the</c>
+because you're generating a UI on the
+because you're generating a UI on the
+fly,<00:13:23.120><c> about</c><00:13:23.360><c> whether</c><00:13:23.680><c> you</c><00:13:23.839><c> have</c><00:13:24.000><c> keyboard</c>
+fly, about whether you have keyboard
+fly, about whether you have keyboard
+accessibility<00:13:25.200><c> if</c><00:13:25.440><c> you</c><00:13:25.519><c> have</c><00:13:25.600><c> a</c><00:13:25.680><c> thousand</c>
+accessibility if you have a thousand
+accessibility if you have a thousand
+different<00:13:26.399><c> variants</c><00:13:26.800><c> of</c><00:13:26.959><c> the</c><00:13:27.120><c> page,</c><00:13:27.839><c> about</c>
+different variants of the page, about
+different variants of the page, about
+whether<00:13:28.959><c> you</c><00:13:29.279><c> have</c><00:13:29.920><c> an</c><00:13:30.160><c> ability</c><00:13:30.800><c> to</c><00:13:31.200><c> give</c><00:13:32.399><c> a</c>
+whether you have an ability to give a
+whether you have an ability to give a
+user<00:13:33.279><c> something</c><00:13:33.600><c> that</c><00:13:33.839><c> they</c><00:13:34.160><c> find</c><00:13:34.399><c> inherently</c>
+user something that they find inherently
+user something that they find inherently
+predictable,<00:13:35.760><c> even</c><00:13:36.000><c> if</c><00:13:36.240><c> you're</c><00:13:36.480><c> generating</c>
+predictable, even if you're generating
+predictable, even if you're generating
+it.<00:13:37.360><c> Tool</c><00:13:37.680><c> chains</c><00:13:38.160><c> can't</c><00:13:38.399><c> solve</c><00:13:38.720><c> those</c><00:13:39.040><c> kinds</c>
+it. Tool chains can't solve those kinds
+it. Tool chains can't solve those kinds
+of<00:13:39.440><c> things.</c><00:13:40.000><c> You</c><00:13:40.320><c> need</c><00:13:40.480><c> to</c><00:13:40.639><c> start</c><00:13:40.880><c> thinking</c>
+of things. You need to start thinking
+of things. You need to start thinking
+about<00:13:41.600><c> those</c><00:13:41.920><c> kinds</c><00:13:42.160><c> of</c><00:13:42.240><c> things</c><00:13:42.480><c> as</c><00:13:42.880><c> patterns,</c>
+about those kinds of things as patterns,
+about those kinds of things as patterns,
+as<00:13:43.760><c> primitives,</c><00:13:44.720><c> and</c><00:13:45.120><c> build</c><00:13:45.680><c> so</c><00:13:45.920><c> that</c>
+as primitives, and build so that
+as primitives, and build so that
+downstream<00:13:46.959><c> users</c><00:13:47.760><c> can</c><00:13:48.000><c> inherit</c><00:13:48.480><c> them</c><00:13:48.639><c> by</c>
+downstream users can inherit them by
+downstream users can inherit them by
+default.<00:13:49.600><c> You</c><00:13:49.760><c> might</c><00:13:50.000><c> wonder,</c><00:13:50.399><c> are</c><00:13:50.639><c> there</c>
+default. You might wonder, are there
+default. You might wonder, are there
+places<00:13:51.120><c> where</c><00:13:51.440><c> classical</c><00:13:51.920><c> front-end</c>
+places where classical front-end
+places where classical front-end
+engineering<00:13:52.880><c> will</c><00:13:53.120><c> still</c><00:13:53.360><c> happen?</c><00:13:53.760><c> I</c><00:13:54.079><c> believe</c>
+engineering will still happen? I believe
+engineering will still happen? I believe
+there<00:13:54.560><c> are.</c><00:13:55.040><c> If</c><00:13:55.200><c> you</c><00:13:55.360><c> have</c><00:13:55.600><c> high</c><00:13:55.920><c> polish</c>
+there are. If you have high polish
+there are. If you have high polish
+consumer<00:13:56.959><c> products,</c><00:13:57.680><c> they</c><00:13:57.920><c> will</c><00:13:58.079><c> often</c><00:13:58.480><c> need</c>
+consumer products, they will often need
+consumer products, they will often need
+custom<00:13:59.279><c> rendering,</c><00:13:59.839><c> very</c><00:14:00.160><c> intricate</c>
+custom rendering, very intricate
+custom rendering, very intricate
+interactions,<00:14:01.519><c> careful</c><00:14:02.079><c> performance</c>
+interactions, careful performance
+interactions, careful performance
+tuning.<00:14:03.279><c> You're</c><00:14:03.440><c> not</c><00:14:03.600><c> going</c><00:14:03.680><c> to</c><00:14:03.760><c> get</c><00:14:03.920><c> that</c>
+tuning. You're not going to get that
+tuning. You're not going to get that
+with<00:14:04.320><c> composability.</c><00:14:05.120><c> I</c><00:14:05.360><c> think</c><00:14:05.440><c> we're</c><00:14:05.600><c> headed</c>
+with composability. I think we're headed
+with composability. I think we're headed
+toward<00:14:06.079><c> a</c><00:14:06.320><c> twoclass</c><00:14:06.880><c> world</c><00:14:07.120><c> where</c><00:14:07.360><c> you</c><00:14:07.600><c> have</c>
+toward a twoclass world where you have
+toward a twoclass world where you have
+kind<00:14:07.920><c> of</c><00:14:08.000><c> the</c><00:14:08.240><c> Dlers</c><00:14:08.800><c> and</c><00:14:08.880><c> the</c><00:14:08.959><c> Bentleys</c><00:14:09.519><c> of</c>
+kind of the Dlers and the Bentleys of
+kind of the Dlers and the Bentleys of
+the<00:14:09.839><c> world</c><00:14:10.079><c> and</c><00:14:10.240><c> websites</c><00:14:10.720><c> that</c><00:14:10.959><c> are</c>
+the world and websites that are
+the world and websites that are
+handcrafted<00:14:12.240><c> and</c><00:14:12.560><c> beautiful</c><00:14:12.880><c> and</c><00:14:13.199><c> polished</c>
+handcrafted and beautiful and polished
+handcrafted and beautiful and polished
+and<00:14:14.000><c> you</c><00:14:14.160><c> have</c><00:14:14.240><c> a</c><00:14:14.480><c> lot</c><00:14:14.639><c> of</c><00:14:14.800><c> composable</c><00:14:15.440><c> sites</c>
+and you have a lot of composable sites
+and you have a lot of composable sites
+that<00:14:15.920><c> are</c><00:14:16.079><c> very</c><00:14:16.399><c> utilitarian</c><00:14:17.440><c> but</c><00:14:17.760><c> can</c><00:14:17.920><c> still</c>
+that are very utilitarian but can still
+that are very utilitarian but can still
+deliver<00:14:18.480><c> the</c><00:14:18.720><c> brand</c><00:14:18.959><c> promise.</c><00:14:19.760><c> You're</c><00:14:20.000><c> also</c>
+deliver the brand promise. You're also
+deliver the brand promise. You're also
+going<00:14:20.560><c> to</c><00:14:20.720><c> probably</c><00:14:21.199><c> handroll</c><00:14:22.000><c> pages</c><00:14:22.480><c> where</c>
+going to probably handroll pages where
+going to probably handroll pages where
+you<00:14:22.959><c> have</c><00:14:23.279><c> extremely</c><00:14:23.920><c> high</c><00:14:24.320><c> traffic,</c><00:14:24.959><c> right?</c>
+you have extremely high traffic, right?
+you have extremely high traffic, right?
+If<00:14:25.519><c> you</c><00:14:25.760><c> need</c><00:14:26.399><c> extremely</c><00:14:27.279><c> missionritical</c>
+If you need extremely missionritical
+If you need extremely missionritical
+surfaces<00:14:28.720><c> that</c><00:14:29.040><c> have</c><00:14:29.279><c> high</c><00:14:29.519><c> traffic</c><00:14:29.839><c> loads,</c>
+surfaces that have high traffic loads,
+surfaces that have high traffic loads,
+you<00:14:30.560><c> want</c><00:14:30.720><c> someone</c><00:14:30.959><c> that</c><00:14:31.199><c> reads</c><00:14:31.600><c> every</c><00:14:31.920><c> single</c>
+you want someone that reads every single
+you want someone that reads every single
+line<00:14:32.560><c> of</c><00:14:32.800><c> that</c><00:14:33.040><c> page</c><00:14:33.519><c> before</c><00:14:33.839><c> it</c><00:14:34.079><c> hits</c><00:14:34.320><c> your</c>
+line of that page before it hits your
+line of that page before it hits your
+DOM<00:14:35.120><c> and</c><00:14:35.360><c> you</c><00:14:35.519><c> want</c><00:14:35.680><c> to</c><00:14:35.920><c> have</c><00:14:36.240><c> bespoke</c>
+DOM and you want to have bespoke
+DOM and you want to have bespoke
+attention<00:14:37.279><c> to</c><00:14:37.600><c> all</c><00:14:37.760><c> of</c><00:14:37.920><c> the</c><00:14:38.160><c> components,</c>
+attention to all of the components,
+attention to all of the components,
+error<00:14:39.120><c> states,</c><00:14:39.680><c> semantics,</c><00:14:40.399><c> your</c><00:14:40.560><c> keyboard</c>
+error states, semantics, your keyboard
+error states, semantics, your keyboard
+flows.<00:14:41.760><c> You</c><00:14:42.000><c> can't</c><00:14:42.240><c> screw</c><00:14:42.480><c> it</c><00:14:42.639><c> up</c><00:14:42.800><c> if</c><00:14:43.040><c> it's</c><00:14:43.199><c> a</c>
+flows. You can't screw it up if it's a
+flows. You can't screw it up if it's a
+healthcare<00:14:43.839><c> site,</c><00:14:44.160><c> if</c><00:14:44.320><c> it's</c><00:14:44.399><c> a</c><00:14:44.639><c> finance</c><00:14:44.959><c> site,</c>
+healthcare site, if it's a finance site,
+healthcare site, if it's a finance site,
+if<00:14:45.760><c> it's</c><00:14:45.920><c> a</c><00:14:46.160><c> very</c><00:14:46.399><c> large</c><00:14:46.720><c> hightraic</c><00:14:47.360><c> site.</c><00:14:47.920><c> And</c>
+if it's a very large hightraic site. And
+if it's a very large hightraic site. And
+like<00:14:48.639><c> that</c><00:14:48.959><c> reminds</c><00:14:49.279><c> me</c><00:14:49.519><c> if</c><00:14:49.760><c> you</c><00:14:49.839><c> have</c><00:14:50.000><c> a</c><00:14:50.160><c> heavy</c>
+like that reminds me if you have a heavy
+like that reminds me if you have a heavy
+regulation<00:14:51.839><c> safety</c><00:14:52.320><c> critical</c><00:14:52.639><c> kind</c><00:14:52.800><c> of</c>
+regulation safety critical kind of
+regulation safety critical kind of
+domain<00:14:53.839><c> you</c><00:14:54.079><c> need</c><00:14:54.240><c> to</c><00:14:54.480><c> think</c><00:14:54.880><c> about</c>
+domain you need to think about
+domain you need to think about
+auditability<00:14:56.240><c> from</c><00:14:56.480><c> day</c><00:14:56.720><c> one.</c><00:14:57.040><c> I</c><00:14:57.199><c> know</c><00:14:57.360><c> I</c>
+auditability from day one. I know I
+auditability from day one. I know I
+called<00:14:57.760><c> out</c><00:14:57.920><c> auditability</c><00:14:58.639><c> but</c><00:14:58.800><c> that</c><00:14:59.040><c> is</c>
+called out auditability but that is
+called out auditability but that is
+something<00:14:59.440><c> that</c><00:14:59.760><c> you</c><00:15:00.000><c> have</c><00:15:00.160><c> to</c><00:15:00.480><c> build</c><00:15:00.880><c> in</c><00:15:01.839><c> to</c>
+something that you have to build in to
+something that you have to build in to
+ensure<00:15:02.639><c> that</c><00:15:02.880><c> whatever</c><00:15:03.360><c> you</c><00:15:03.600><c> put</c><00:15:03.760><c> out</c><00:15:03.920><c> there</c>
+ensure that whatever you put out there
+ensure that whatever you put out there
+whether<00:15:04.399><c> it's</c><00:15:04.560><c> a</c><00:15:04.800><c> static</c><00:15:05.120><c> page</c><00:15:05.440><c> or</c><00:15:05.680><c> dynamic</c>
+whether it's a static page or dynamic
+whether it's a static page or dynamic
+flow<00:15:06.800><c> is</c><00:15:07.120><c> going</c><00:15:07.279><c> to</c><00:15:07.600><c> give</c><00:15:08.240><c> you</c><00:15:08.720><c> clarity</c><00:15:09.279><c> on</c>
+flow is going to give you clarity on
+flow is going to give you clarity on
+what<00:15:09.839><c> the</c><00:15:10.000><c> user</c><00:15:10.399><c> actually</c><00:15:10.720><c> experienced.</c><00:15:11.600><c> But</c>
+what the user actually experienced. But
+what the user actually experienced. But
+these<00:15:12.000><c> are</c><00:15:12.079><c> exceptions.</c><00:15:13.040><c> The</c><00:15:13.360><c> default</c>
+these are exceptions. The default
+these are exceptions. The default
+experience<00:15:14.720><c> is</c><00:15:14.959><c> shifting</c><00:15:15.360><c> toward</c>
+experience is shifting toward
+experience is shifting toward
+composability.<00:15:16.720><c> So</c><00:15:16.959><c> when</c><00:15:17.120><c> I</c><00:15:17.279><c> say</c><00:15:17.440><c> front-end</c>
+composability. So when I say front-end
+composability. So when I say front-end
+engineering<00:15:18.399><c> is</c><00:15:18.639><c> dead,</c><00:15:19.279><c> what</c><00:15:19.519><c> I</c><00:15:19.680><c> mean</c><00:15:19.760><c> is</c><00:15:20.000><c> that</c>
+engineering is dead, what I mean is that
+engineering is dead, what I mean is that
+the<00:15:20.480><c> era</c><00:15:20.720><c> where</c><00:15:21.040><c> most</c><00:15:21.279><c> of</c><00:15:21.440><c> the</c><00:15:21.600><c> front-end</c>
+the era where most of the front-end
+the era where most of the front-end
+engineers<00:15:22.720><c> job</c><00:15:22.959><c> was</c><00:15:23.279><c> hand</c><00:15:23.600><c> implementing</c>
+engineers job was hand implementing
+engineers job was hand implementing
+pages,<00:15:24.880><c> that's</c><00:15:25.199><c> ending.</c><00:15:25.839><c> We're</c><00:15:26.079><c> moving</c><00:15:26.320><c> to</c><00:15:26.560><c> a</c>
+pages, that's ending. We're moving to a
+pages, that's ending. We're moving to a
+world<00:15:27.040><c> where</c><00:15:27.279><c> you</c><00:15:27.519><c> have</c><00:15:27.839><c> AI</c><00:15:28.240><c> coding</c>
+world where you have AI coding
+world where you have AI coding
+assistants<00:15:29.040><c> and</c><00:15:29.360><c> frameworks</c><00:15:30.240><c> and</c>
+assistants and frameworks and
+assistants and frameworks and
+schemadriven<00:15:31.120><c> UIs</c><00:15:31.760><c> that</c><00:15:32.000><c> collapse</c><00:15:32.480><c> that</c><00:15:32.639><c> work</c>
+schemadriven UIs that collapse that work
+schemadriven UIs that collapse that work
+into<00:15:33.199><c> something</c><00:15:33.440><c> very</c><00:15:33.760><c> cheap</c><00:15:34.000><c> and</c>
+into something very cheap and
+into something very cheap and
+repeatable.<00:15:35.040><c> And</c><00:15:35.199><c> what</c><00:15:35.519><c> replaces</c><00:15:35.920><c> it</c><00:15:36.320><c> is</c><00:15:36.560><c> this</c>
+repeatable. And what replaces it is this
+repeatable. And what replaces it is this
+idea<00:15:37.040><c> of</c><00:15:37.279><c> composability</c><00:15:37.920><c> where</c><00:15:38.160><c> you're</c>
+idea of composability where you're
+idea of composability where you're
+designing<00:15:38.639><c> the</c><00:15:38.880><c> primitives,</c><00:15:39.680><c> schemas,</c><00:15:40.240><c> the</c>
+designing the primitives, schemas, the
+designing the primitives, schemas, the
+contracts<00:15:40.800><c> that</c><00:15:41.040><c> make</c><00:15:41.199><c> it</c><00:15:41.360><c> possible</c><00:15:41.760><c> for</c><00:15:42.000><c> an</c>
+contracts that make it possible for an
+contracts that make it possible for an
+org<00:15:42.959><c> to</c><00:15:43.120><c> ship</c><00:15:43.440><c> new</c><00:15:43.680><c> interfaces.</c><00:15:44.160><c> Imagine</c><00:15:44.560><c> a</c>
+org to ship new interfaces. Imagine a
+org to ship new interfaces. Imagine a
+world<00:15:44.959><c> where</c><00:15:45.199><c> you</c><00:15:45.600><c> are</c><00:15:45.920><c> enabling</c><00:15:46.720><c> your</c><00:15:47.040><c> PM</c><00:15:47.600><c> to</c>
+world where you are enabling your PM to
+world where you are enabling your PM to
+do<00:15:48.000><c> shipping</c><00:15:48.399><c> of</c><00:15:48.560><c> interfaces,</c><00:15:49.199><c> right?</c><00:15:49.440><c> We're</c>
+do shipping of interfaces, right? We're
+do shipping of interfaces, right? We're
+getting<00:15:49.839><c> into</c><00:15:50.079><c> a</c><00:15:50.240><c> world</c><00:15:50.399><c> where</c><00:15:50.560><c> the</c><00:15:50.720><c> whole</c><00:15:50.880><c> org</c>
+getting into a world where the whole org
+getting into a world where the whole org
+should<00:15:51.440><c> be</c><00:15:51.600><c> able</c><00:15:51.759><c> to</c><00:15:52.000><c> write</c><00:15:52.160><c> that</c><00:15:52.480><c> code.</c><00:15:53.040><c> And</c>
+should be able to write that code. And
+should be able to write that code. And
+so,<00:15:53.680><c> you</c><00:15:53.839><c> know,</c><00:15:54.000><c> we're</c><00:15:54.240><c> moving</c><00:15:54.480><c> from</c><00:15:54.639><c> a</c><00:15:54.880><c> world</c>
+so, you know, we're moving from a world
+so, you know, we're moving from a world
+for<00:15:55.279><c> engineers</c><00:15:55.759><c> and</c><00:15:56.079><c> and</c><00:15:56.320><c> interviews</c><00:15:56.959><c> where</c>
+for engineers and and interviews where
+for engineers and and interviews where
+it's<00:15:57.680><c> not</c><00:15:57.920><c> can</c><00:15:58.160><c> you</c><00:15:58.320><c> build</c><00:15:58.480><c> a</c><00:15:58.720><c> beautiful</c><00:15:59.120><c> React</c>
+it's not can you build a beautiful React
+it's not can you build a beautiful React
+UI,<00:16:00.079><c> please</c><00:16:00.399><c> show</c><00:16:00.560><c> me</c><00:16:00.720><c> what</c><00:16:00.880><c> you</c><00:16:01.040><c> did.</c><00:16:01.440><c> It's</c>
+UI, please show me what you did. It's
+UI, please show me what you did. It's
+help<00:16:02.000><c> me</c><00:16:02.240><c> think</c><00:16:02.399><c> about</c><00:16:02.639><c> how</c><00:16:02.880><c> you</c><00:16:03.040><c> design</c><00:16:03.360><c> a</c>
+help me think about how you design a
+help me think about how you design a
+front-end<00:16:04.000><c> ecosystem</c><00:16:05.040><c> where</c><00:16:05.360><c> designers</c><00:16:05.839><c> and</c>
+front-end ecosystem where designers and
+front-end ecosystem where designers and
+product<00:16:06.320><c> teams</c><00:16:06.560><c> and</c><00:16:06.800><c> low</c><00:16:07.040><c> code</c><00:16:07.279><c> builders</c><00:16:07.519><c> and</c>
+product teams and low code builders and
+product teams and low code builders and
+AI<00:16:08.160><c> can</c><00:16:08.320><c> all</c><00:16:08.639><c> compose</c><00:16:09.279><c> beautiful</c><00:16:09.680><c> UIs</c><00:16:10.480><c> without</c>
+AI can all compose beautiful UIs without
+AI can all compose beautiful UIs without
+reinventing<00:16:11.759><c> the</c><00:16:11.920><c> wheel,</c><00:16:12.320><c> without</c><00:16:12.639><c> wrecking</c>
+reinventing the wheel, without wrecking
+reinventing the wheel, without wrecking
+the<00:16:13.199><c> experience.</c><00:16:13.759><c> while</c><00:16:14.079><c> providing</c>
+the experience. while providing
+the experience. while providing
+auditability<00:16:15.279><c> while</c><00:16:15.519><c> ensuring</c><00:16:15.920><c> that</c><00:16:16.160><c> agents</c>
+auditability while ensuring that agents
+auditability while ensuring that agents
+can<00:16:16.800><c> access</c><00:16:17.279><c> in</c><00:16:17.519><c> role</c><00:16:17.759><c> and</c><00:16:18.000><c> permission</c>
+can access in role and permission
+can access in role and permission
+appropriate<00:16:19.040><c> ways.</c><00:16:19.600><c> And</c><00:16:19.839><c> so</c><00:16:20.160><c> yes,</c><00:16:20.560><c> front-end</c>
+appropriate ways. And so yes, front-end
+appropriate ways. And so yes, front-end
+engineering<00:16:21.360><c> is</c><00:16:21.600><c> dead,</c><00:16:21.839><c> but</c><00:16:22.240><c> long</c><00:16:22.560><c> live</c>
+engineering is dead, but long live
+engineering is dead, but long live
+front-end<00:16:23.360><c> engineering,</c><00:16:23.920><c> right?</c><00:16:24.240><c> It's</c><00:16:24.480><c> grown</c>
+front-end engineering, right? It's grown
+front-end engineering, right? It's grown
+up.<00:16:25.199><c> AI</c><00:16:25.519><c> is</c><00:16:25.759><c> simply</c><00:16:26.079><c> reshaping</c><00:16:26.560><c> the</c><00:16:26.800><c> tools</c><00:16:27.120><c> we</c>
+up. AI is simply reshaping the tools we
+up. AI is simply reshaping the tools we
+have<00:16:27.680><c> and</c><00:16:28.000><c> changing</c><00:16:28.320><c> the</c><00:16:28.480><c> demands</c><00:16:28.800><c> on</c><00:16:28.959><c> our</c>
+have and changing the demands on our
+have and changing the demands on our
+skill<00:16:29.360><c> sets.</c><00:16:30.000><c> So,</c><00:16:30.560><c> as</c><00:16:30.800><c> much</c><00:16:30.959><c> as</c><00:16:31.120><c> I</c><00:16:31.360><c> think</c>
+skill sets. So, as much as I think
+skill sets. So, as much as I think
+there's<00:16:31.680><c> a</c><00:16:31.839><c> huge</c><00:16:32.079><c> transition</c><00:16:32.560><c> ahead,</c><00:16:33.040><c> I</c><00:16:33.279><c> also</c>
+there's a huge transition ahead, I also
+there's a huge transition ahead, I also
+think<00:16:34.160><c> there's</c><00:16:34.480><c> a</c><00:16:34.639><c> lot</c><00:16:34.800><c> of</c><00:16:34.959><c> excitement</c><00:16:35.360><c> coming</c>
+think there's a lot of excitement coming
+think there's a lot of excitement coming
+because<00:16:36.000><c> we</c><00:16:36.240><c> have</c><00:16:36.399><c> never</c><00:16:36.720><c> had</c><00:16:36.880><c> the</c><00:16:37.040><c> ability</c><00:16:37.360><c> to</c>
+because we have never had the ability to
+because we have never had the ability to
+be<00:16:37.759><c> this</c><00:16:38.079><c> dynamic</c><00:16:38.880><c> about</c><00:16:39.279><c> front-end</c>
+be this dynamic about front-end
+be this dynamic about front-end
+engineering.<00:16:40.320><c> Good</c><00:16:40.560><c> luck</c><00:16:40.720><c> if</c><00:16:40.880><c> you're</c><00:16:40.959><c> a</c>
+engineering. Good luck if you're a
+engineering. Good luck if you're a
+front-end<00:16:41.440><c> engineer.</c><00:16:42.079><c> And</c><00:16:42.240><c> if</c><00:16:42.399><c> you're</c><00:16:42.560><c> not,</c>
+front-end engineer. And if you're not,
+front-end engineer. And if you're not,
+thank<00:16:43.440><c> your</c><00:16:43.600><c> front-end</c><00:16:44.000><c> engineers</c><00:16:44.480><c> and</c><00:16:44.800><c> ask</c>
+thank your front-end engineers and ask
+thank your front-end engineers and ask
+them<00:16:45.199><c> how</c><00:16:45.440><c> you</c><00:16:45.600><c> can</c><00:16:45.759><c> deploy</c><00:16:46.160><c> front</c><00:16:46.399><c> end</c><00:16:46.639><c> to</c>
+them how you can deploy front end to
+them how you can deploy front end to
+production.

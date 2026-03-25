@@ -1,0 +1,219 @@
+# PROJECT_CONTEXT.md
+
+# FINLAND DMC PERSONAL TRAVEL ASSISTANT - MASTER SPECIFICATION
+
+# Version: 1.0 (Ready for Dev)
+
+---
+
+## 1. HIGH-LEVEL VISION & STRATEGY
+
+**Product:** An AI-powered, hyper-personalized travel concierge for Finland.
+
+**Core Promise:** "The invisible guide in your pocket." Proactive, context-aware, and transactional.
+
+**Business Model:** "Win-Win-Win-Win".
+
+1. **Traveler:** Frictionless, safe, and personalized holiday (Free service).
+
+2. **DMC:** Higher share-of-wallet via commissions & operational efficiency.
+
+3. **Partners:** Ready-to-buy customers delivered to their door.
+
+4. **B2B Agencies:** White-label solution for their customers.
+
+**Data Strategy:** "Scrape First, Negotiate Later." We aggregate all destination data (commercial & non-commercial) to create value first, then convert vendors to commission partners.
+
+---
+
+## 2. TECH STACK (Azure Serverless)
+
+- **Cloud:** Microsoft Azure (North Europe).
+
+- **Compute:** Azure Functions (Python/Node.js) - Microservices architecture.
+
+- **Event Bus:** Azure Event Grid (Connects all agents).
+
+- **AI Engine:** Azure OpenAI Service (GPT-4o) via Private Endpoint (Zero Data Retention).
+
+- **Databases:**
+
+- **Azure SQL:** Relational data (Ledger, Users, Products).
+
+- **Cosmos DB:** Chat logs, Session state (Hot storage).
+
+- **Azure AI Search:** Vector RAG storage.
+
+- **Data Lake Gen2:** Raw logs for analytics.
+
+- **Frontend:** Next.js (React) PWA.
+
+---
+
+## 3. THE INTELLIGENCE ARCHITECTURE ("The Brains")
+
+The system uses an **Orchestrator Pattern**. The Master Agent does not think alone; it delegates.
+
+### A. Master Agent (The Concierge)
+
+* **Role:** Front-end interface, tone of voice, orchestration.
+
+* **Context Backpack:** Maintains a short-term JSON memory of the current session (User Name, Location, Intent).
+
+* **Logic:**
+
+* **Gap Finder:** Cronjob triggers every 30min -> Checks `Itinerary` -> If empty slot & good weather -> Internal Monologue -> Suggestion.
+
+* **Safety First:** MUST query `SafetyBulletin_Tool` before answering nature questions. If data >24h old -> Handover to human.
+
+### B. Mood Evaluator (The Psychologist)
+
+* **Role:** Async background listener.
+
+* **Output:** Updates the `Mood_Matrix` JSON after every user message.
+
+* **Dimensions (0-100):** `Energy`, `Social_Battery`, `Luxury_Affinity`, `Nature_Rawness`, `Safety_Need`, `Foodie_Focus`, `Price_Sensitivity`.
+
+* **Cluster:** Maps user to an archetype (e.g., "German_Active_Family") for statistical optimization.
+
+### C. Suggestion Chef (The Salesman)
+
+* **Role:** Mathematical optimization engine.
+
+* **Scoring Formula:**
+
+`Score = (Match*W1) + (Weather*W2) + (Value*W3) + (Margin*W4) + (Novelty*W5)`
+
+* *Note:* `W` (Weights) define the user persona (e.g., Budget traveler has high `W3`).
+
+* **The Funnel:** Hard Filter (Availability/Distance) -> Scoring -> A/B Testing (Hooks).
+
+* **Geo-Routing:** Identifies Points of Interest along the user's travel route ("The Corridor").
+
+---
+
+## 4. DATA SCHEMA (SQL & RAG)
+
+### SQL: `Shadow_Ledger`
+
+The single source of truth for money.
+
+- `transaction_id` (UUID)
+
+- `booking_ref` (FK)
+
+- `provider_id` (FK)
+
+- `flow_type`: `API` | `MANUAL` | `AFFILIATE`
+
+- `status`: `PENDING` | `CONFIRMED` | `VOIDED`
+
+- `total_amount` (Decimal)
+
+- `commission_pct` (Decimal)
+
+- `receivable_amount` (Decimal - This is what we bill)
+
+### RAG: Universal Library (Vector Indexes)
+
+1. **Commercial Shelf:** Product Cards (Price, Open hours, Commission).
+
+2. **Cultural Shelf:** History, Stories, Local legends.
+
+3. **Practical Shelf:** WiFi passwords, Parking info, Safety rules.
+
+4. **Internal Shelf:** Brand Guidelines, Optimizer insights.
+
+---
+
+## 5. BOOKING LOGIC (The Traffic Controller)
+
+The `Booker Agent` handles transactions based on partner capability.
+
+* **Type A (API Integration):**
+
+* Call Partner API -> Auth Card -> Confirm -> Capture Payment -> Log to Ledger.
+
+* **Type B (Manual/Email):**
+
+* Auth Card (24h validity) -> Send Email to Partner -> Wait for Click -> Capture Payment.
+
+* *Timeout:* If no answer in 24h -> Auto-Void Auth -> Notify User.
+
+* **Type C (Affiliate/Link):**
+
+* Generate Trackable Link -> Log to Ledger (`Status: Referral`) -> Verify later via User/Report.
+
+---
+
+## 6. UI/UX SPECIFICATIONS (Frontend)
+
+### The Brand Engine
+
+The PWA is a "Chameleon". It loads `tenant_config.json` on startup.
+
+- **Järvisydän:** Brown/Gold theme, "Savolainen Isäntä" persona.
+
+- **KonTiki:** Blue/Orange theme, "Expert Guide" persona.
+
+### Core Views
+
+1. **Home Feed:** Contextual Hero Card ("Breakfast ends in 30min") + Weather Widget.
+
+2. **Timeline:** Vertical scrolling itinerary.
+
+* 🟢 Confirmed items.
+
+* 🟡 Pending (Human Handover).
+
+* ⚪ Shadow Suggestions (Click to book).
+
+3. **Chat Overlay:** Floating Action Button (FAB). Always accessible.
+
+4. **Explore Hub:** Visual Netflix-style catalog of activities.
+
+---
+
+## 7. OPERATIONAL MANUAL (Staff Dashboard)
+
+**Philosophy:** "AI is the Copilot, Human is the Captain."
+
+### Dashboard Logic
+
+* **Traffic Lights:** Priority Queue based on `Urgency_Score` (Wait time + Negative Mood + VIP).
+
+* 🚨 **FIRE RED:** Emergency/Safety words detected. Stops AI immediately.
+
+* **Actions:**
+
+* **Whisper:** Human types advice -> AI rephrases and sends to user.
+
+* **Takeover:** Human disconnects AI and talks directly.
+
+* **Teach:** Human thumbs-up/down AI responses to feed the Optimizer.
+
+---
+
+## 8. PROMPT LIBRARY (Personality & Tone)
+
+### System Prompt Segment: "Järvisydän Host"
+
+> "You are a warm, hospitable host from the Savonia region. Your style is relaxed and storytelling-oriented. Use warm language. You are NOT a generic corporate bot. However, when discussing price or safety, be precise and serious."
+
+### System Prompt Segment: "Safety Guardrails"
+
+> "CRITICAL: You generally CANNOT confirm ice thickness or northern lights certainty. You MUST query the `SafetyBulletin` tool. If data is missing or >24h old, you must say: 'I cannot confirm the latest safety situation. Let me ask a human colleague.' and trigger a Handover."
+
+---
+
+## 9. EXECUTION PLAN (Agentic Coding Kickoff)
+
+1. **Scaffold:** Set up Azure Functions & Next.js repo structure.
+
+2. **Database:** Run SQL migrations for `Users`, `Itinerary`, `Ledger`.
+
+3. **Ingestion:** Build the "Magic Link" generator.
+
+4. **Brain:** Implement the Master Agent loop with dummy tools.
+
+5. **UI:** Build the Chat & Timeline components.

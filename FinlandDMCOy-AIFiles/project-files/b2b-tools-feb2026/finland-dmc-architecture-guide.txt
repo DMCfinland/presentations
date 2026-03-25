@@ -1,0 +1,782 @@
+ARCHITECTURE & OPERATIONS | COMPANION TO PRD v2.0
+
+System Architecture, Feedback Engine & Friday Review Workflow
+
+Finland DMC Oy | February 2026 | Answers to Patrick’s architecture
+questions
+
++:---------------------------------------------------------------------:+
+| CRITICAL CORRECTION FROM PREVIOUS DOCUMENT                            |
+|                                                                       |
+| This changes how feedback works                                       |
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+| WHAT I GOT WRONG                                                      |
+|                                                                       |
+| In the previous guide, I said Patrick could review feedback by        |
+| scrolling through project conversations on Friday. This is incorrect. |
+|                                                                       |
+| How Claude Projects actually work: Each conversation in a project is  |
+| INDEPENDENT. A new conversation sees the Project Knowledge files      |
+| (uploaded documents) but sees ZERO conversation history from other    |
+| chats. There is no cross-conversation memory within a project.        |
+|                                                                       |
+| This means: If 5 staff members have 50 conversations this week across |
+| the Email Drafts project, a new Friday Review conversation cannot     |
+| access any of them. Patrick would need to open each one individually. |
+|                                                                       |
+| Impact: We need a different feedback architecture. The solution is    |
+| simple and actually better.                                           |
++-----------------------------------------------------------------------+
+
+1. The Feedback Architecture (Corrected)
+
+1.1 How Staff Logs Feedback (Zero Extra Tokens)
+
+You’re right that Claude shouldn’t waste Opus tokens acknowledging
+feedback. The solution: add an instruction to the Project System Prompt
+(the custom instructions field in Project settings) that tells Claude
+how to handle feedback.
+
++-----------------------------------------------------------------------+
+| ADD THIS TO YOUR PROJECT SYSTEM PROMPT (Custom Instructions)          |
+|                                                                       |
+| FEEDBACK HANDLING:                                                    |
+|                                                                       |
+| When the user’s message starts with “FEEDBACK:” or contains a rating  |
+| like “3/4” or “4/4” at the end of a conversation after a task is      |
+| complete:                                                             |
+|                                                                       |
+| • Respond ONLY with: “✅ Logged.”                                     |
+|                                                                       |
+| • Do NOT elaborate, do NOT ask follow-up questions, do NOT summarize  |
+| the feedback.                                                         |
+|                                                                       |
+| • Do NOT use extended thinking for this response.                     |
+|                                                                       |
+| • This saves tokens. The feedback value is in the human’s text, not   |
+| Claude’s response.                                                    |
++-----------------------------------------------------------------------+
+
+What this looks like in practice:
+
++-----------------------------------------------------------------------+
+| STAFF MEMBER’S FINAL MESSAGE IN CONVERSATION                          |
+|                                                                       |
+| FEEDBACK: 3/4. Had to shorten the reply — client asked a quick date   |
+| question but Claude wrote a full itinerary pitch. For short           |
+| questions, match the length. Otherwise tone and personalization were  |
+| excellent.                                                            |
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+| CLAUDE’S RESPONSE (2 tokens, not 200)                                 |
+|                                                                       |
+| ✅ Logged.                                                            |
++-----------------------------------------------------------------------+
+
+The feedback now lives in the conversation. But since other
+conversations can’t see it, we need to extract it somewhere central.
+
+1.2 Where Feedback Actually Goes: The Shared Sheet
+
+Since Claude Projects don’t share conversation history, feedback must be
+extracted to a shared location Claude can read. The simplest solution: a
+shared Excel file on SharePoint.
+
+But wait — doesn’t that add friction?
+
+Minimal. Here’s the optimized flow: after Claude responds “✅ Logged”,
+the staff member copies their feedback text (which they just typed) and
+pastes it as a new row in the shared Excel. This takes 15 seconds.
+They’re already in the habit of switching to Outlook to paste the email
+reply, so one more paste into Excel is marginal.
+
+Alternative for absolute minimum friction:
+
+Staff sends their feedback to a shared Teams channel called
+“#ai-feedback.” Just paste the same feedback text as a Teams message.
+Claude can search Teams via the M365 connector on Friday. This might be
+even simpler than Excel since everyone already has Teams open.
+
+  ------------------------- ---------------------------------------------
+  Method                    Trade-off
+
+  Teams channel             Lowest friction (paste into Teams). Claude
+  #ai-feedback              searches it via M365 connector. Less
+                            structured data. Best for Weeks 1–4.
+
+  Excel on SharePoint       Slightly more friction (open Excel, paste
+                            row). More structured. Better for
+                            dashboard/trending. Best for Month 2+.
+
+  Both                      Start with Teams channel. Migrate to Excel
+                            when you need charts/trends. The Teams
+                            messages become the source for populating
+                            Excel.
+  ------------------------- ---------------------------------------------
+
++-----------------------------------------------------------------------+
+| RECOMMENDED: START WITH TEAMS CHANNEL                                 |
+|                                                                       |
+| Create a Teams channel called “#ai-feedback”. Staff paste their       |
+| feedback there after each Claude task. Simple, fast, searchable by    |
+| Claude.                                                               |
+|                                                                       |
+| At Month 2, when you want the CEO/CTO dashboard, ask Claude to read   |
+| the Teams channel and compile the data into a structured Excel. Best  |
+| of both worlds.                                                       |
++-----------------------------------------------------------------------+
+
+2. Friday Review Workflow (15 Minutes)
+
+Who: Patrick (or designated prompt librarian)
+
+When: Friday afternoon, 15 minutes
+
+Where: One new Claude conversation in the relevant project
+
++:---------------------------------------------------------------------:+
+| FRIDAY REVIEW: 5 STEPS, 15 MINUTES                                    |
+|                                                                       |
+| The engine that makes your AI system smarter every week               |
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+| STEP 1: PULL STAFF FEEDBACK (3 min)                                   |
+|                                                                       |
+| Open Claude. Start a new conversation. Paste this prompt:             |
+|                                                                       |
+| “Search our Teams channel #ai-feedback for all messages from this     |
+| week. Group them by:                                                  |
+|                                                                       |
+| • Which prompt/task type was used (email reply, proposal, itinerary,  |
+| etc.)                                                                 |
+|                                                                       |
+| • Rating distribution (count of 4/4, 3/4, 2/4, 1/4)                   |
+|                                                                       |
+| • Most common issues mentioned                                        |
+|                                                                       |
+| Present as a summary table.”                                          |
+|                                                                       |
+| Claude searches via M365 connector and compiles the week’s data.      |
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+| STEP 2: PULL CLIENT REPLY DATA (3 min)                                |
+|                                                                       |
+| In the same conversation, follow up with:                             |
+|                                                                       |
+| “Now search our Outlook shared mailbox for client replies received    |
+| this week to emails we sent. Look for:                                |
+|                                                                       |
+| • Positive responses (booking confirmations, enthusiastic replies,    |
+| moving forward)                                                       |
+|                                                                       |
+| • Follow-up questions (client needed info we didn’t include)          |
+|                                                                       |
+| • Negative signals (silence, pushback, “I’ll think about it”)         |
+|                                                                       |
+| • Any questions that multiple clients asked (pattern = gap in our     |
+| emails)                                                               |
+|                                                                       |
+| Cross-reference with the staff feedback: are the emails rated 4/4     |
+| also getting good client responses?”                                  |
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+| STEP 3: IDENTIFY PROMPT IMPROVEMENTS (4 min)                          |
+|                                                                       |
+| Continue in same conversation:                                        |
+|                                                                       |
+| “Based on both the staff feedback and client reply patterns,          |
+| recommend:                                                            |
+|                                                                       |
+| 1. The top 3 specific changes to make to our golden prompts this week |
+|                                                                       |
+| 2. Any new DO or DON’T to add to our best practices doc               |
+|                                                                       |
+| 3. Any particularly good lines or phrases from this week’s outputs    |
+| that should be saved                                                  |
+|                                                                       |
+| 4. Any prompt that needs a fundamental rethink (consistently low      |
+| ratings)                                                              |
+|                                                                       |
+| For each recommendation, explain what problem it solves and show the  |
+| specific text change.”                                                |
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+| STEP 4: UPDATE PROJECT KNOWLEDGE (3 min)                              |
+|                                                                       |
+| Based on Claude’s recommendations, Patrick updates the relevant       |
+| Project Knowledge files:                                              |
+|                                                                       |
+| • Edit the golden prompt template (fix the specific issues            |
+| identified)                                                           |
+|                                                                       |
+| • Add any new best lines/phrases to the Best Practices doc            |
+|                                                                       |
+| • If a new “Perfect” example emerged this week, add it (and remove    |
+| the weakest existing example)                                         |
+|                                                                       |
+| • Update the DO’s and DON’Ts list if new patterns were found          |
+|                                                                       |
+| This is manual file editing in the Claude Project settings. Takes 2–3 |
+| minutes.                                                              |
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+| STEP 5: NOTIFY TEAM (2 min)                                           |
+|                                                                       |
+| Quick message to #ai-feedback channel:                                |
+|                                                                       |
+| “Week [X] prompt updates: [1-2 sentence summary of what changed and   |
+| why]. Try the updated email prompt — should handle short client       |
+| questions better now.”                                                |
+|                                                                       |
+| Done. 15 minutes. System is now smarter than last week.               |
++-----------------------------------------------------------------------+
+
+The flywheel: Staff feedback + client reply data → Prompt improvements →
+Better outputs → Better ratings + better client responses → Repeat
+
+3. The Big Architecture Decision: Router vs. Separate Projects
+
+3.1 The Problem
+
+You identified this perfectly: if we have 10 different email types, each
+with 3–5 examples, that’s 30–50 example files. If they all sit in one
+project, Claude loads ALL of them into every conversation. That’s wasted
+context on 9 email types when you only need 1.
+
+But 10 separate projects means staff have to decide “which project do I
+open?” before every task. That’s friction and decision fatigue.
+
+3.2 Three Options
+
+  ------------------ ------------------------------ ----------------------
+  Architecture       How It Works                   Context Cost
+
+  A: 1 Big Project   Everything in one project. All HIGH: ~30–50 files
+                     prompts, all examples, all     loaded per
+                     context loaded always.         conversation. Most are
+                                                    irrelevant.
+
+  B: 10 Separate     One project per task type.     LOW: Only relevant
+  Projects           Staff picks the right one.     files loaded. But
+                                                    friction to choose.
+
+  C: Router + Lean   1 Router project selects the   OPTIMAL: Router is
+  Projects           task. 3–4 lean projects for    tiny. Execution
+                     execution.                     projects are focused.
+  ------------------ ------------------------------ ----------------------
+
++-----------------------------------------------------------------------+
+| RECOMMENDATION: OPTION C — THE ROUTER ARCHITECTURE                    |
+|                                                                       |
+| This is your “1 great prompt selector” idea, and it’s the right one.  |
+| Here’s how it works.                                                  |
++-----------------------------------------------------------------------+
+
+3.3 The Router Architecture in Detail
+
+Project 1: “DMC Router” (the starting point for everything)
+
+Project Knowledge contains:
+
+- A prompt map: a short document listing all available task types and
+  which project to use
+
+- Company context basics: tone guide, service catalog summary (short
+  version, not full docs)
+
+- The router system prompt (in Custom Instructions)
+
++-----------------------------------------------------------------------+
+| DMC ROUTER — CUSTOM INSTRUCTIONS (System Prompt)                      |
+|                                                                       |
+| You are the Finland DMC AI assistant. When a user comes to you with a |
+| task:                                                                 |
+|                                                                       |
+| 1. ANALYZE what they need (email reply, proposal, itinerary, pricing, |
+| presentation, internal note, etc.)                                    |
+|                                                                       |
+| 2. ASK for any missing context (client name, dates, group size, email |
+| chain, etc.)                                                          |
+|                                                                       |
+| 3. DETERMINE the task type and tell the user which specialized        |
+| project to use:                                                       |
+|                                                                       |
+| • Client emails (all types) → “Email Drafts” project                  |
+|                                                                       |
+| • Proposals & itineraries → “Proposals” project                       |
+|                                                                       |
+| • Pricing, spreadsheets, capacity → “Pricing & Analysis” project      |
+|                                                                       |
+| • Presentations & sales materials → “Presentations” project           |
+|                                                                       |
+| 4. PREPARE a ready-to-paste prompt for the user: pre-fill the golden  |
+| prompt template with the specific details they’ve given you (client   |
+| name, dates, context). The user copies this prepared prompt and       |
+| pastes it into the correct project.                                   |
+|                                                                       |
+| 5. For SIMPLE tasks that don’t need specialized examples (quick       |
+| internal notes, brainstorming, general questions): handle them        |
+| directly here. Don’t redirect for trivial tasks.                      |
+|                                                                       |
+| Keep your responses concise. Your job is routing and prompt           |
+| preparation, not execution.                                           |
++-----------------------------------------------------------------------+
+
+What this achieves:
+
+- Staff always starts in the same place (DMC Router). No decision
+  fatigue.
+
+- Router analyzes the task and either handles it directly or sends staff
+  to the right specialized project with a pre-filled prompt.
+
+- Specialized projects stay lean — only the relevant examples and
+  context loaded.
+
+- Router uses minimal context (small prompt map + basic company info).
+  Cheap and fast.
+
+Project 2: “Email Drafts” (all email types)
+
+Project Knowledge contains:
+
+- The v3 dynamic golden prompt for emails (handles ALL email types via
+  analyze-first logic)
+
+- Tone of voice guide (full version)
+
+- 3–5 example emails covering the most common types
+
+- DO’s and DON’Ts best practices document
+
+- Best lines and phrases document (built from weekly reviews)
+
++-----------------------------------------------------------------------+
+| KEY INSIGHT: ONE EMAIL PROJECT, NOT TEN                               |
+|                                                                       |
+| You asked whether to have separate projects per email type (cold      |
+| outreach, follow-up, complaint, etc.). The answer is NO. The v3       |
+| golden prompt already tells Claude to analyze the email chain and     |
+| determine the type. Claude then adapts its approach.                  |
+|                                                                       |
+| The 3–5 example emails in the project should cover DIFFERENT types —  |
+| one new inquiry, one follow-up, one complaint response, one quick     |
+| logistics answer, one cold outreach. Claude matches the closest       |
+| example to the current task. You don’t need 5 examples of each type.  |
+|                                                                       |
+| If over time you find one email type consistently underperforms, THEN |
+| consider splitting it into its own project. But start unified.        |
+| Premature optimization is a trap.                                     |
++-----------------------------------------------------------------------+
+
+Project 3: “Proposals & Itineraries”
+
+Project Knowledge contains:
+
+- Golden prompt for proposals (dynamic, like the email prompt)
+
+- Full service catalog with pricing guidelines
+
+- 2–3 example proposals rated “Perfect”
+
+- Standard terms and conditions
+
+- Seasonal activity calendar
+
+Project 4: “Pricing & Analysis”
+
+Project Knowledge contains:
+
+- Golden prompt for pricing analysis
+
+- Pricing structure and margin guidelines
+
+- Supplier rate sheets
+
+- 2–3 example analyses
+
+Project 5 (optional): “Presentations & Sales”
+
+Only create if you do enough presentations to justify it. Otherwise, the
+Router handles ad-hoc presentation requests directly.
+
+3.4 Visual Flow
+
++-----------------------------------------------------------------------+
+| HOW A TASK FLOWS THROUGH THE SYSTEM                                   |
+|                                                                       |
+| Staff opens DMC Router → Describes task                               |
+|                                                                       |
+| ↓                                                                     |
+|                                                                       |
+| Router analyzes: “This is a complaint reply to a returning client”    |
+|                                                                       |
+| ↓                                                                     |
+|                                                                       |
+| Router says: “Use Email Drafts project. Here’s your pre-filled        |
+| prompt:”                                                              |
+|                                                                       |
+| [Paste of golden prompt with client name, email chain, and context    |
+| pre-filled]                                                           |
+|                                                                       |
+| ↓                                                                     |
+|                                                                       |
+| Staff opens Email Drafts project → Pastes the pre-filled prompt       |
+|                                                                       |
+| ↓                                                                     |
+|                                                                       |
+| Claude drafts reply (searches M365 for client history, uses project   |
+| examples)                                                             |
+|                                                                       |
+| ↓                                                                     |
+|                                                                       |
+| Staff reviews → Rates → Sends → Logs feedback to #ai-feedback         |
++-----------------------------------------------------------------------+
+
+Total extra friction from router: ~30 seconds. Staff types their task
+description once. Router prepares everything. Staff pastes into the
+specialized project. The specialized project has exactly the right
+context loaded, nothing wasted.
+
+4. DO’s, DON’Ts, and Best Lines
+
+You asked two questions: should we include DO’s and DON’Ts, and does
+Claude pick up best practices from the example emails alone?
+
+Answer: Both. They serve different purposes.
+
+  ------------------------- ---------------------------------------------
+  Source                    What Claude Learns From It
+
+  Example emails (3–5)      Implicit patterns: tone, structure, length,
+                            what “great” looks like. Claude mimics these
+                            naturally. Works well for style and flow.
+
+  DO’s and DON’Ts doc       Explicit rules: things Claude must
+                            always/never do that might not be obvious
+                            from examples alone. Safety rails. Hard-won
+                            lessons from mistakes.
+
+  Best Lines & Phrases doc  Specific language that works well with your
+                            clients. Signature phrases, proven openers,
+                            effective CTAs. Claude weaves these in
+                            naturally.
+  ------------------------- ---------------------------------------------
+
+Examples teach Claude what good looks like. The DO’s/DON’Ts prevent
+specific failure modes. Best Lines give Claude proven building blocks.
+You need all three.
+
++-----------------------------------------------------------------------+
+| STARTER: DO’s AND DON’Ts (add to each project’s knowledge)            |
+|                                                                       |
+| DO’s:                                                                 |
+|                                                                       |
+| • Always reference the client’s name and specific request in the      |
+| first sentence                                                        |
+|                                                                       |
+| • Always include a concrete next step with a date (“I’ll send the     |
+| detailed itinerary by Thursday”)                                      |
+|                                                                       |
+| • Always acknowledge returning clients (“Great to hear from you       |
+| again”)                                                               |
+|                                                                       |
+| • Match the weight of the reply to the weight of their email          |
+|                                                                       |
+| • Mention specific activities/experiences, not generic descriptions   |
+|                                                                       |
+| DON’Ts:                                                               |
+|                                                                       |
+| • Never promise specific pricing without flagging “[PRICING: VERIFY   |
+| BEFORE SENDING]”                                                      |
+|                                                                       |
+| • Never confirm availability/dates without checking — say “I’ll       |
+| confirm and get back to you”                                          |
+|                                                                       |
+| • Never use “I hope this email finds you well” or similar empty       |
+| openers                                                               |
+|                                                                       |
+| • Never write more than 2 paragraphs for a simple logistics question  |
+|                                                                       |
+| • Never be defensive if the client has a complaint — acknowledge      |
+| first, solve second                                                   |
+|                                                                       |
+| (This list grows every Friday based on feedback patterns. Week 1      |
+| version above. Week 8 version will be much richer.)                   |
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+| STARTER: BEST LINES & PHRASES (grow weekly)                           |
+|                                                                       |
+| (Start empty. After Week 1, begin collecting lines from 4/4-rated     |
+| outputs. Examples of what might end up here:)                         |
+|                                                                       |
+| • Opener for returning clients: “Wonderful to hear you’re planning    |
+| another Finnish adventure”                                            |
+|                                                                       |
+| • Transition to itinerary: “Here’s a taste of what we have in mind    |
+| for your group”                                                       |
+|                                                                       |
+| • Closing with urgency: “December dates at [lodge] typically book 3–4 |
+| months in advance, so I’d recommend confirming by [date]”             |
+|                                                                       |
+| • Handling pricing: “I’m preparing a detailed quote tailored to your  |
+| group size and dates — expect it by [date]”                           |
++-----------------------------------------------------------------------+
+
+5. Thinking Effort, Skills, and Model Behavior
+
+5.1 Does Claude Need “Think Harder” Instructions?
+
+No. Claude Opus 4.6 adapts its reasoning effort automatically based on
+task complexity. A simple date-check email gets quick processing. A
+complex multi-day itinerary with pricing gets deep thinking. You don’t
+need to include instructions like “think step by step” or “use extended
+thinking.” The model handles this natively.
+
+Exception: If you’re on Sonnet 4.5 (which Teams might use for some
+conversations to manage costs), explicit “analyze before drafting”
+instructions help more. The v3 golden prompt already includes this with
+the “ANALYZE FIRST, THEN DRAFT” section, which works well on both
+models.
+
+5.2 Could Claude Skills BE the Golden Prompts?
+
+Interesting idea. Claude Skills (in claude.ai) are custom instructions
+you can apply to any conversation. They’re similar to Project system
+prompts but can be toggled on/off and shared. In theory, you could
+create a Skill called “DMC Email Drafter” that contains the golden
+prompt.
+
+However, Skills have limitations vs. Projects:
+
+- Skills are text-only instructions. They can’t include uploaded files
+  (example emails, tone guide, service catalog).
+
+- Projects can hold multiple knowledge files that Claude reads as
+  context. Skills cannot.
+
+- Skills work best for short, reusable instructions. Golden prompts that
+  need rich context work better in Projects.
+
++-----------------------------------------------------------------------+
+| VERDICT ON SKILLS                                                     |
+|                                                                       |
+| Use Skills for simple, portable instructions (e.g., “Always write in  |
+| Finland DMC’s tone” that applies everywhere).                         |
+|                                                                       |
+| Use Projects for context-rich workflows (e.g., email drafting with    |
+| examples, tone guide, client search).                                 |
+|                                                                       |
+| They’re complementary, not interchangeable. Your golden prompts live  |
+| in Projects. A general “DMC brand voice” Skill can sit on top.        |
++-----------------------------------------------------------------------+
+
+6. Phone Call Logging: Where Copilot Actually Matters
+
+Your friend is right. This is Copilot’s genuine killer feature and the
+most likely reason you’ll eventually add it. Teams calls with Copilot
+automatically get: transcription, summary, action items, and searchable
+notes. Without Copilot, phone call content is lost — it never enters the
+system.
+
+Why this matters for your AI system:
+
+Right now, if a staff member has a 20-minute phone call with a client
+about their Lapland trip preferences, that intelligence disappears.
+Claude can’t find it. Next time someone emails the client, Claude’s M365
+search misses the phone conversation entirely. The email reply is less
+personalized because key context was never captured.
+
+With Copilot on Teams calls:
+
+- Client says on the phone: “We’d love to do dog sledding but two people
+  in our group are afraid of dogs”
+
+- Copilot captures this in the meeting transcript/notes
+
+- Next time Claude searches M365 for this client, it finds the note
+
+- Claude’s email draft says: “For outdoor activities, we’ve selected
+  reindeer safari and snowmobile excursion, which the whole group can
+  enjoy”
+
+- Client is impressed we remembered. Conversion rate goes up.
+
++-----------------------------------------------------------------------+
+| COPILOT DECISION POINT                                                |
+|                                                                       |
+| Don’t add Copilot in Week 1. It’s not needed for the core workflow.   |
+|                                                                       |
+| ADD Copilot when: you’ve confirmed that phone calls are a significant |
+| data gap. If your team has 5+ client calls per week and keeps losing  |
+| intelligence, Copilot pays for itself through better email            |
+| personalization alone.                                                |
+|                                                                       |
+| Budget for this: Month 2–3 evaluation. €90–105/mo for 5 users.        |
+| Justified specifically for call transcription and the data it feeds   |
+| into your AI email system.                                            |
+|                                                                       |
+| INTERIM WORKAROUND: Staff writes a 2–3 sentence phone summary in a    |
+| Teams message to a “#client-notes” channel after each call. Claude    |
+| can search this. It’s manual but captures the critical info until     |
+| Copilot is evaluated.                                                 |
++-----------------------------------------------------------------------+
+
+7. Context Management: Keeping RAG Under Control
+
+You raised the right concern: too much context can actually hurt
+performance. Here’s how to manage it.
+
+7.1 How Project Knowledge Affects Performance
+
+The rule: Every file in Project Knowledge is loaded into Claude’s
+context window for every conversation in that project. More files = more
+context used = less room for the actual conversation = potentially
+diluted attention.
+
+  ------------------------- ---------------------------------------------
+  Project Knowledge Size    Effect on Performance
+
+  5–10 focused files (~20   Optimal. Claude reads all, applies relevant
+  pages)                    parts. No dilution.
+
+  15–25 files (~50+ pages)  Starting to crowd. Claude may miss details.
+                            Less room for conversation.
+
+  50+ files                 Too much. Claude’s attention dilutes.
+                            Performance degrades. Context window fills
+                            up.
+  ------------------------- ---------------------------------------------
+
+For your Email Drafts project, target 6–8 files max:
+
+1.  Tone of voice guide (1–2 pages)
+
+2.  DO’s and DON’Ts (1 page, grows slowly)
+
+3.  Best Lines & Phrases (1 page, grows slowly)
+
+4.  3–5 example emails (1 page each)
+
+5.  Golden prompt template (1 page)
+
+That’s roughly 8–12 pages of context. Well within the optimal range.
+Claude reads it all, attention stays sharp, and there’s plenty of room
+for the email chain and M365 search results.
+
+7.2 The 200-Chat Question
+
+200 conversations in one project does NOT affect context or performance.
+
+Each conversation is completely independent. Conversation 201 does not
+see conversations 1–200. The only thing that persists across
+conversations is the Project Knowledge files. So having lots of
+conversations is fine — they don’t accumulate or create “context rot.”
+
+What CAN rot context within a single conversation:
+
+- Very long conversations (50+ back-and-forth messages). Claude’s
+  attention on early messages weakens.
+
+- Mitigation: For new tasks, start a new conversation. Don’t reuse a
+  30-message chat for a new email.
+
+7.3 M365 Connector Search: What Gets Loaded?
+
+When Claude searches your M365 data, it doesn’t load your entire mailbox
+into context. It runs a search query and receives relevant
+snippets/summaries from matching results. This is managed by Microsoft’s
+search infrastructure, not by Claude’s context window.
+
+What this means practically:
+
+- Your shared mailbox having 10,000 emails is fine. Claude searches,
+  gets the relevant 5–10 snippets, and uses those.
+
+- The M365 search quality depends on Microsoft’s indexing.
+  Well-structured emails with clear subjects are found better.
+
+- Large attachments (50-page PDFs) are not fully loaded. Claude gets
+  metadata and key excerpts. If you need the full document, upload it
+  directly to the conversation.
+
++-----------------------------------------------------------------------+
+| SHARED MAILBOX ADVANTAGE                                              |
+|                                                                       |
+| Having a shared mailbox is excellent for this system. All client      |
+| correspondence is in one searchable location. When Claude searches    |
+| for “past emails with Nordic Adventures,” it finds everything         |
+| regardless of which staff member sent/received it. This is better     |
+| than individual mailboxes where client history is fragmented across 5 |
+| inboxes.                                                              |
++-----------------------------------------------------------------------+
+
+8. Flywheels: Where Else to Look
+
+You said “let’s look for flywheels everywhere.” Here are the compounding
+loops in your business that this AI system can power. The email feedback
+loop is just the first one.
+
+  ------------------ ------------------------------ ----------------------
+  Flywheel           How It Works                   When to Build
+
+  Email quality      Staff feedback + client        Week 1 (now)
+                     replies → Better prompts →     
+                     Better emails → Higher         
+                     conversion                     
+
+  Proposal templates Win/loss tracking on proposals Month 2
+                     → Identify what wins → Improve 
+                     proposal prompts → Higher win  
+                     rate                           
+
+  Client             Phone notes + emails + booking Month 2–3 (especially
+  intelligence       history compound → Claude      with Copilot call
+                     knows each client deeply →     transcription)
+                     Hyper-personalized service     
+
+  Itinerary design   Client feedback on trips       Month 3–4
+                     (post-trip surveys) → Update   
+                     activity recommendations →     
+                     Better itineraries → More      
+                     repeat bookings                
+
+  Pricing            Track quote-to-book ratio per  Month 4+
+  optimization       price point → Refine pricing   
+                     prompts → Better margins       
+                     without losing deals           
+
+  Best practices     Best lines/phrases grow weekly Ongoing (starts Week
+  library            → New staff instantly write at 2)
+                     senior level → Faster          
+                     onboarding → Consistent        
+                     quality                        
+
+  Supplier knowledge Log supplier performance notes Month 3+
+                     → Claude recommends best       
+                     suppliers per situation →      
+                     Better client experience       
+  ------------------ ------------------------------ ----------------------
+
+The meta-flywheel: Each individual flywheel feeds the others. Better
+client intelligence makes better proposals. Better proposals make better
+pricing. Better pricing data makes better client conversations. The
+whole system gets smarter as a network, not just as individual loops.
+
++:---------------------------------------------------------------------:+
+| START WITH ONE FLYWHEEL. LET IT PROVE THE MODEL.                      |
+|                                                                       |
+| Email feedback loop is your proof of concept. Once it works, apply    |
+| the same pattern everywhere.                                          |
++-----------------------------------------------------------------------+
+
+Finland DMC Oy | Architecture & Operations Guide | February 2026

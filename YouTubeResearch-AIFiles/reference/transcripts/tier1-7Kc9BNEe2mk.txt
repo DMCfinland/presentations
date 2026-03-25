@@ -1,0 +1,805 @@
+News<00:00:00.480><c> broke</c><00:00:00.800><c> today,</c><00:00:01.360><c> November</c><00:00:01.920><c> 13th,</c><00:00:02.639><c> that</c>
+News broke today, November 13th, that
+News broke today, November 13th, that
+Anthropic<00:00:03.679><c> has</c><00:00:03.919><c> successfully</c><00:00:04.720><c> repelled</c><00:00:05.279><c> a</c>
+Anthropic has successfully repelled a
+Anthropic has successfully repelled a
+Chinese<00:00:06.160><c> state</c><00:00:06.560><c> sponsored</c><00:00:07.120><c> attack</c><00:00:07.680><c> employing</c>
+Chinese state sponsored attack employing
+Chinese state sponsored attack employing
+Claude<00:00:09.040><c> as</c><00:00:09.519><c> an</c><00:00:09.920><c> agent.</c><00:00:10.559><c> This</c><00:00:10.800><c> is</c><00:00:10.960><c> the</c><00:00:11.280><c> first</c>
+Claude as an agent. This is the first
+Claude as an agent. This is the first
+documented<00:00:12.480><c> case</c><00:00:12.800><c> we</c><00:00:13.120><c> have</c><00:00:13.679><c> where</c><00:00:14.480><c> Claude</c>
+documented case we have where Claude
+documented case we have where Claude
+code<00:00:15.599><c> was</c><00:00:15.839><c> used</c><00:00:16.400><c> as</c><00:00:16.720><c> an</c><00:00:17.039><c> agent</c><00:00:17.359><c> to</c><00:00:17.680><c> conduct</c><00:00:18.000><c> a</c>
+code was used as an agent to conduct a
+code was used as an agent to conduct a
+cyber<00:00:18.560><c> attack.</c><00:00:19.279><c> This</c><00:00:19.520><c> is</c><00:00:19.600><c> a</c><00:00:19.760><c> big</c><00:00:19.920><c> enough</c><00:00:20.240><c> deal</c>
+cyber attack. This is a big enough deal
+cyber attack. This is a big enough deal
+that<00:00:20.640><c> I'm</c><00:00:20.960><c> going</c><00:00:21.039><c> to</c><00:00:21.199><c> go</c><00:00:21.359><c> through</c><00:00:21.760><c> exactly</c>
+that I'm going to go through exactly
+that I'm going to go through exactly
+what<00:00:22.480><c> happened,</c><00:00:22.960><c> why</c><00:00:23.279><c> it</c><00:00:23.519><c> matters,</c><00:00:23.920><c> what</c>
+what happened, why it matters, what
+what happened, why it matters, what
+Anthropic's<00:00:24.800><c> take</c><00:00:25.039><c> is,</c><00:00:25.279><c> what</c><00:00:25.439><c> the</c><00:00:25.600><c> cyber</c>
+Anthropic's take is, what the cyber
+Anthropic's take is, what the cyber
+security<00:00:26.400><c> industry's</c><00:00:26.960><c> take</c><00:00:27.199><c> is,</c><00:00:27.760><c> and</c>
+security industry's take is, and
+security industry's take is, and
+ultimately<00:00:28.880><c> what</c><00:00:29.039><c> are</c><00:00:29.119><c> the</c><00:00:29.279><c> takeaways</c><00:00:29.760><c> for</c>
+ultimately what are the takeaways for
+ultimately what are the takeaways for
+all<00:00:30.080><c> of</c><00:00:30.160><c> us</c><00:00:30.320><c> as</c><00:00:30.560><c> we</c><00:00:30.720><c> build</c><00:00:30.880><c> with</c><00:00:31.119><c> these</c>
+all of us as we build with these
+all of us as we build with these
+systems.<00:00:32.079><c> First,</c><00:00:32.719><c> what</c><00:00:33.040><c> happened?</c><00:00:33.520><c> In</c>
+systems. First, what happened? In
+systems. First, what happened? In
+midepptember,<00:00:34.399><c> Anthropic</c><00:00:35.120><c> detected</c><00:00:35.520><c> a</c>
+midepptember, Anthropic detected a
+midepptember, Anthropic detected a
+sophisticated<00:00:36.399><c> espionage</c><00:00:37.040><c> campaign</c><00:00:37.440><c> that</c>
+sophisticated espionage campaign that
+sophisticated espionage campaign that
+they<00:00:37.840><c> attribute</c><00:00:38.239><c> with</c><00:00:38.480><c> fairly</c><00:00:38.800><c> high</c>
+they attribute with fairly high
+they attribute with fairly high
+confidence<00:00:39.440><c> to</c><00:00:39.680><c> a</c><00:00:39.920><c> Chinese</c><00:00:40.239><c> state</c><00:00:40.559><c> sponsored</c>
+confidence to a Chinese state sponsored
+confidence to a Chinese state sponsored
+group,<00:00:41.280><c> namely</c><00:00:41.760><c> GTGU.</c>
+group, namely GTGU.
+group, namely GTGU.
+The<00:00:43.680><c> attackers</c><00:00:44.160><c> jailbroke</c><00:00:44.719><c> Claude</c><00:00:45.120><c> code</c><00:00:45.520><c> and</c>
+The attackers jailbroke Claude code and
+The attackers jailbroke Claude code and
+used<00:00:46.079><c> it</c><00:00:46.239><c> as</c><00:00:46.480><c> the</c><00:00:46.719><c> core</c><00:00:47.039><c> engine</c><00:00:47.440><c> of</c><00:00:47.760><c> an</c>
+used it as the core engine of an
+used it as the core engine of an
+automated<00:00:48.800><c> hacking</c><00:00:49.360><c> framework.</c><00:00:50.160><c> So</c><00:00:50.399><c> Claude</c>
+automated hacking framework. So Claude
+automated hacking framework. So Claude
+was<00:00:50.960><c> wired</c><00:00:51.280><c> into</c><00:00:51.520><c> tools</c><00:00:52.000><c> via</c><00:00:52.320><c> the</c><00:00:52.559><c> MCP</c>
+was wired into tools via the MCP
+was wired into tools via the MCP
+protocol<00:00:53.680><c> to</c><00:00:53.920><c> do</c><00:00:54.160><c> recon,</c><00:00:54.800><c> to</c><00:00:55.039><c> write</c><00:00:55.280><c> and</c><00:00:55.600><c> run</c>
+protocol to do recon, to write and run
+protocol to do recon, to write and run
+exploit<00:00:56.399><c> code,</c><00:00:56.879><c> to</c><00:00:57.120><c> harvest</c><00:00:57.520><c> credentials,</c>
+exploit code, to harvest credentials,
+exploit code, to harvest credentials,
+and<00:00:58.719><c> ultimately</c><00:00:59.120><c> to</c><00:00:59.359><c> exfiltrate</c><00:01:00.000><c> data.</c>
+and ultimately to exfiltrate data.
+and ultimately to exfiltrate data.
+Around<00:01:01.039><c> 30</c><00:01:01.440><c> high-value</c><00:01:02.000><c> targets</c><00:01:02.480><c> were</c><00:01:02.640><c> hit.</c>
+Around 30 high-value targets were hit.
+Around 30 high-value targets were hit.
+Most<00:01:03.359><c> of</c><00:01:03.520><c> them</c><00:01:03.680><c> were</c><00:01:03.920><c> big</c><00:01:04.239><c> tech,</c><00:01:04.720><c> financial</c>
+Most of them were big tech, financial
+Most of them were big tech, financial
+institutions,<00:01:06.159><c> chemical</c><00:01:06.640><c> manufacturers,</c>
+institutions, chemical manufacturers,
+institutions, chemical manufacturers,
+and<00:01:08.000><c> government</c><00:01:08.320><c> agencies.</c><00:01:09.200><c> A</c><00:01:09.520><c> small</c><00:01:09.840><c> number</c>
+and government agencies. A small number
+and government agencies. A small number
+of<00:01:10.240><c> them</c><00:01:10.479><c> had</c><00:01:10.799><c> confirmed</c><00:01:11.200><c> successful</c>
+of them had confirmed successful
+of them had confirmed successful
+breaches.<00:01:12.320><c> And</c><00:01:12.560><c> if</c><00:01:12.720><c> you're</c><00:01:12.960><c> wondering,</c><00:01:13.520><c> no,</c>
+breaches. And if you're wondering, no,
+breaches. And if you're wondering, no,
+nobody<00:01:14.640><c> is</c><00:01:14.880><c> saying</c><00:01:15.280><c> which</c><00:01:15.520><c> they</c><00:01:15.840><c> were.</c>
+nobody is saying which they were.
+nobody is saying which they were.
+Anthropic<00:01:16.880><c> says</c><00:01:17.119><c> AI</c><00:01:17.520><c> performed</c><00:01:17.920><c> 80</c><00:01:18.240><c> to</c><00:01:18.479><c> 90%</c><00:01:19.280><c> of</c>
+Anthropic says AI performed 80 to 90% of
+Anthropic says AI performed 80 to 90% of
+the<00:01:19.759><c> campaign's</c><00:01:20.400><c> work.</c><00:01:20.880><c> With</c><00:01:21.119><c> humans</c>
+the campaign's work. With humans
+the campaign's work. With humans
+stepping<00:01:21.759><c> in</c><00:01:22.000><c> at</c><00:01:22.240><c> only</c><00:01:22.640><c> four</c><00:01:22.880><c> to</c><00:01:23.119><c> six</c><00:01:23.439><c> key</c>
+stepping in at only four to six key
+stepping in at only four to six key
+decision<00:01:24.240><c> points</c><00:01:24.560><c> per</c><00:01:24.880><c> target,</c><00:01:25.680><c> the</c><00:01:26.000><c> system</c>
+decision points per target, the system
+decision points per target, the system
+fired<00:01:26.720><c> off</c><00:01:27.119><c> thousands</c><00:01:27.600><c> of</c><00:01:27.840><c> requests</c><00:01:28.320><c> per</c>
+fired off thousands of requests per
+fired off thousands of requests per
+second,<00:01:29.360><c> well</c><00:01:29.600><c> beyond</c><00:01:29.840><c> what</c><00:01:30.000><c> a</c><00:01:30.240><c> human</c><00:01:30.479><c> team</c>
+second, well beyond what a human team
+second, well beyond what a human team
+could<00:01:31.040><c> have</c><00:01:31.280><c> sustained.</c><00:01:32.159><c> This</c><00:01:32.320><c> is</c><00:01:32.479><c> likely</c><00:01:32.799><c> the</c>
+could have sustained. This is likely the
+could have sustained. This is likely the
+first<00:01:33.280><c> documented</c><00:01:34.079><c> large-scale</c><00:01:34.799><c> cyber</c>
+first documented large-scale cyber
+first documented large-scale cyber
+espionage<00:01:36.000><c> campaign</c><00:01:36.400><c> where</c><00:01:36.640><c> an</c><00:01:36.880><c> AI</c><00:01:37.280><c> agent</c>
+espionage campaign where an AI agent
+espionage campaign where an AI agent
+framework,<00:01:38.560><c> not</c><00:01:38.880><c> humans,</c><00:01:39.759><c> did</c><00:01:39.920><c> most</c><00:01:40.159><c> of</c><00:01:40.320><c> the</c>
+framework, not humans, did most of the
+framework, not humans, did most of the
+tactical<00:01:40.960><c> work.</c><00:01:41.280><c> We</c><00:01:41.520><c> have</c><00:01:41.759><c> been</c><00:01:41.920><c> dreading</c>
+tactical work. We have been dreading
+tactical work. We have been dreading
+this<00:01:42.640><c> moment</c><00:01:43.200><c> and</c><00:01:43.439><c> it</c><00:01:43.680><c> is</c><00:01:43.840><c> here.</c><00:01:44.320><c> So</c><00:01:44.560><c> why</c><00:01:44.799><c> does</c>
+this moment and it is here. So why does
+this moment and it is here. So why does
+this<00:01:45.200><c> matter?</c><00:01:45.680><c> We</c><00:01:46.000><c> have</c><00:01:46.240><c> crossed</c><00:01:46.560><c> the</c><00:01:46.799><c> Rubicon</c>
+this matter? We have crossed the Rubicon
+this matter? We have crossed the Rubicon
+from<00:01:47.759><c> helpful</c><00:01:48.320><c> co-pilot</c><00:01:49.040><c> to</c><00:01:49.360><c> operational</c>
+from helpful co-pilot to operational
+from helpful co-pilot to operational
+cyber<00:01:50.399><c> agent.</c><00:01:51.040><c> It</c><00:01:51.280><c> shows</c><00:01:51.600><c> that</c><00:01:51.759><c> current</c>
+cyber agent. It shows that current
+cyber agent. It shows that current
+generation<00:01:52.799><c> models</c><00:01:53.360><c> and</c><00:01:53.600><c> tools</c><00:01:54.240><c> are</c><00:01:54.720><c> already</c>
+generation models and tools are already
+generation models and tools are already
+capable<00:01:56.159><c> of</c><00:01:56.399><c> running</c><00:01:56.799><c> real</c><00:01:57.119><c> world</c><00:01:57.360><c> offensive</c>
+capable of running real world offensive
+capable of running real world offensive
+operations<00:01:58.640><c> endto</c><00:01:59.040><c> end</c><00:01:59.600><c> including</c><00:02:00.000><c> recon,</c>
+operations endto end including recon,
+operations endto end including recon,
+including<00:02:00.960><c> vulnerability</c><00:02:01.600><c> discovery,</c>
+including vulnerability discovery,
+including vulnerability discovery,
+including<00:02:02.719><c> prioritization</c><00:02:03.439><c> of</c><00:02:03.680><c> targets,</c>
+including prioritization of targets,
+including prioritization of targets,
+including<00:02:04.799><c> exploit</c><00:02:05.280><c> generation,</c><00:02:06.079><c> including</c>
+including exploit generation, including
+including exploit generation, including
+lateral<00:02:06.880><c> movement,</c><00:02:07.360><c> including</c><00:02:07.680><c> data</c><00:02:08.080><c> triage.</c>
+lateral movement, including data triage.
+lateral movement, including data triage.
+That<00:02:09.039><c> is</c><00:02:09.200><c> a</c><00:02:09.520><c> massive</c><00:02:10.080><c> qualitative</c><00:02:10.879><c> shift</c><00:02:11.680><c> even</c>
+That is a massive qualitative shift even
+That is a massive qualitative shift even
+from<00:02:12.160><c> the</c><00:02:12.400><c> summer</c><00:02:12.959><c> when</c><00:02:13.280><c> AI</c><00:02:13.680><c> helps</c><00:02:13.920><c> a</c><00:02:14.160><c> human</c>
+from the summer when AI helps a human
+from the summer when AI helps a human
+hacker<00:02:14.800><c> was</c><00:02:14.959><c> the</c><00:02:15.120><c> prevalent</c><00:02:15.599><c> model.</c><00:02:16.000><c> Now</c><00:02:16.319><c> AI</c>
+hacker was the prevalent model. Now AI
+hacker was the prevalent model. Now AI
+is<00:02:16.800><c> the</c><00:02:16.959><c> primary</c><00:02:17.360><c> operator.</c><00:02:18.080><c> The</c><00:02:18.319><c> second</c><00:02:18.560><c> big</c>
+is the primary operator. The second big
+is the primary operator. The second big
+takeaway<00:02:19.200><c> is</c><00:02:19.360><c> that</c><00:02:19.520><c> the</c><00:02:19.680><c> barrier</c><00:02:20.000><c> to</c>
+takeaway is that the barrier to
+takeaway is that the barrier to
+sophisticated<00:02:20.959><c> attacks</c><00:02:21.360><c> has</c><00:02:21.599><c> fallen</c><00:02:21.920><c> through</c>
+sophisticated attacks has fallen through
+sophisticated attacks has fallen through
+the<00:02:22.319><c> floor.</c><00:02:22.879><c> You</c><00:02:23.120><c> no</c><00:02:23.360><c> longer</c><00:02:23.680><c> need</c><00:02:23.840><c> a</c><00:02:24.000><c> big</c>
+the floor. You no longer need a big
+the floor. You no longer need a big
+elite<00:02:24.560><c> red</c><00:02:24.800><c> team</c><00:02:25.040><c> to</c><00:02:25.280><c> run</c><00:02:25.520><c> complicated</c>
+elite red team to run complicated
+elite red team to run complicated
+campaigns.<00:02:26.959><c> A</c><00:02:27.200><c> capable</c><00:02:27.680><c> state</c><00:02:28.000><c> actor</c><00:02:28.400><c> can</c>
+campaigns. A capable state actor can
+campaigns. A capable state actor can
+frontload<00:02:29.120><c> the</c><00:02:29.360><c> strategy</c><00:02:29.760><c> and</c><00:02:30.000><c> let</c><00:02:30.160><c> an</c><00:02:30.319><c> AI</c>
+frontload the strategy and let an AI
+frontload the strategy and let an AI
+framework<00:02:31.200><c> just</c><00:02:31.440><c> grind</c><00:02:31.840><c> through</c><00:02:32.080><c> all</c><00:02:32.319><c> of</c><00:02:32.480><c> that</c>
+framework just grind through all of that
+framework just grind through all of that
+tactical<00:02:33.200><c> work</c><00:02:33.519><c> at</c><00:02:33.840><c> machine</c><00:02:34.319><c> speed,</c><00:02:34.640><c> which</c><00:02:35.120><c> is</c>
+tactical work at machine speed, which is
+tactical work at machine speed, which is
+lightning<00:02:35.840><c> fast.</c><00:02:36.400><c> Over</c><00:02:36.800><c> time,</c><00:02:37.360><c> these</c>
+lightning fast. Over time, these
+lightning fast. Over time, these
+frameworks<00:02:38.400><c> will</c><00:02:38.720><c> trickle</c><00:02:39.120><c> down</c><00:02:39.280><c> to</c><00:02:39.519><c> less</c>
+frameworks will trickle down to less
+frameworks will trickle down to less
+resourced<00:02:40.239><c> groups.</c><00:02:40.640><c> One</c><00:02:40.800><c> of</c><00:02:40.879><c> the</c><00:02:41.040><c> truisms</c>
+resourced groups. One of the truisms
+resourced groups. One of the truisms
+about<00:02:41.920><c> AI</c><00:02:42.319><c> is</c><00:02:42.560><c> that</c><00:02:42.720><c> it</c><00:02:42.879><c> is</c><00:02:43.280><c> impossible</c><00:02:43.920><c> to</c>
+about AI is that it is impossible to
+about AI is that it is impossible to
+contain.<00:02:44.879><c> It</c><00:02:45.120><c> proliferates.</c><00:02:46.000><c> This</c><00:02:46.239><c> is</c>
+contain. It proliferates. This is
+contain. It proliferates. This is
+something<00:02:46.640><c> that</c><00:02:46.879><c> other</c><00:02:47.200><c> people</c><00:02:47.440><c> will</c><00:02:47.680><c> copy.</c>
+something that other people will copy.
+something that other people will copy.
+Number<00:02:48.800><c> three,</c><00:02:49.519><c> platform</c><00:02:50.239><c> safety</c><00:02:50.800><c> is</c><00:02:51.120><c> now</c><00:02:51.440><c> a</c>
+Number three, platform safety is now a
+Number three, platform safety is now a
+core<00:02:52.480><c> systemic</c><00:02:53.440><c> risk.</c><00:02:54.160><c> The</c><00:02:54.400><c> attackers</c><00:02:55.519><c> did</c>
+core systemic risk. The attackers did
+core systemic risk. The attackers did
+not<00:02:56.080><c> turn</c><00:02:56.319><c> off</c><00:02:56.560><c> Claude</c><00:02:57.040><c> code</c><00:02:57.360><c> safety.</c><00:02:58.160><c> They</c>
+not turn off Claude code safety. They
+not turn off Claude code safety. They
+worked<00:02:58.640><c> around</c><00:02:58.959><c> it.</c><00:02:59.440><c> They</c><00:02:59.760><c> broke</c><00:03:00.000><c> the</c>
+worked around it. They broke the
+worked around it. They broke the
+operation<00:03:00.879><c> into</c><00:03:01.200><c> small</c><00:03:01.599><c> innocentlooking</c>
+operation into small innocentlooking
+operation into small innocentlooking
+tasks<00:03:02.800><c> for</c><00:03:03.120><c> Claude</c><00:03:03.519><c> code.</c><00:03:03.840><c> They</c><00:03:04.080><c> told</c><00:03:04.400><c> Claw</c>
+tasks for Claude code. They told Claw
+tasks for Claude code. They told Claw
+that<00:03:04.800><c> it</c><00:03:04.959><c> was</c><00:03:05.120><c> doing</c><00:03:05.280><c> legitimate</c><00:03:05.920><c> security</c>
+that it was doing legitimate security
+that it was doing legitimate security
+testing.<00:03:07.200><c> They</c><00:03:07.519><c> hid</c><00:03:07.840><c> malicious</c><00:03:08.480><c> intent</c>
+testing. They hid malicious intent
+testing. They hid malicious intent
+inside<00:03:09.599><c> the</c><00:03:09.840><c> orchestration</c><00:03:10.800><c> layer,</c><00:03:11.200><c> not</c><00:03:11.360><c> in</c>
+inside the orchestration layer, not in
+inside the orchestration layer, not in
+any<00:03:11.920><c> given</c><00:03:12.239><c> prompt.</c><00:03:12.959><c> And</c><00:03:13.120><c> that's</c><00:03:13.280><c> a</c><00:03:13.519><c> reminder</c>
+any given prompt. And that's a reminder
+any given prompt. And that's a reminder
+that<00:03:14.000><c> prompt</c><00:03:14.319><c> level</c><00:03:14.560><c> guardrails</c><00:03:15.120><c> alone</c><00:03:15.440><c> are</c>
+that prompt level guardrails alone are
+that prompt level guardrails alone are
+very<00:03:15.840><c> brittle</c><00:03:16.319><c> and</c><00:03:16.560><c> they</c><00:03:16.720><c> are</c><00:03:16.879><c> not</c><00:03:17.120><c> enough</c>
+very brittle and they are not enough
+very brittle and they are not enough
+once<00:03:17.760><c> you</c><00:03:17.920><c> have</c><00:03:18.080><c> agents</c><00:03:18.480><c> and</c><00:03:18.800><c> tools.</c><00:03:19.440><c> If</c><00:03:19.599><c> you</c>
+once you have agents and tools. If you
+once you have agents and tools. If you
+are<00:03:20.000><c> building</c><00:03:20.480><c> for</c><00:03:20.879><c> agentic</c><00:03:21.519><c> systems,</c><00:03:22.000><c> you</c>
+are building for agentic systems, you
+are building for agentic systems, you
+have<00:03:22.400><c> to</c><00:03:22.560><c> think</c><00:03:22.800><c> in</c><00:03:23.040><c> terms</c><00:03:23.120><c> of</c><00:03:23.280><c> the</c>
+have to think in terms of the
+have to think in terms of the
+orchestration<00:03:24.159><c> layer.</c><00:03:24.480><c> Number</c><00:03:24.800><c> four,</c>
+orchestration layer. Number four,
+orchestration layer. Number four,
+Anthropic<00:03:26.000><c> is</c><00:03:26.239><c> trying</c><00:03:26.480><c> to</c><00:03:26.640><c> frame</c><00:03:26.959><c> this</c><00:03:27.280><c> as</c>
+Anthropic is trying to frame this as
+Anthropic is trying to frame this as
+proof<00:03:27.920><c> of</c><00:03:28.080><c> defensive</c><00:03:28.640><c> value</c><00:03:29.200><c> and</c><00:03:29.599><c> critics</c><00:03:30.080><c> are</c>
+proof of defensive value and critics are
+proof of defensive value and critics are
+seeing<00:03:30.560><c> proof</c><00:03:30.799><c> of</c><00:03:31.040><c> platform</c><00:03:31.519><c> failure.</c>
+seeing proof of platform failure.
+seeing proof of platform failure.
+There's<00:03:32.400><c> a</c><00:03:32.640><c> lot</c><00:03:32.799><c> of</c><00:03:32.879><c> divide</c><00:03:33.200><c> in</c><00:03:33.440><c> the</c><00:03:33.599><c> security</c>
+There's a lot of divide in the security
+There's a lot of divide in the security
+community<00:03:34.319><c> about</c><00:03:34.720><c> this</c><00:03:34.959><c> particular</c><00:03:35.519><c> exploit</c>
+community about this particular exploit
+community about this particular exploit
+now<00:03:36.080><c> that</c><00:03:36.239><c> it's</c><00:03:36.480><c> been</c><00:03:36.640><c> public.</c><00:03:37.040><c> We</c><00:03:37.280><c> will</c><00:03:37.440><c> see</c>
+now that it's been public. We will see
+now that it's been public. We will see
+in<00:03:37.680><c> the</c><00:03:37.840><c> coming</c><00:03:38.000><c> days</c><00:03:38.239><c> where</c><00:03:38.480><c> the</c><00:03:38.640><c> consensus</c>
+in the coming days where the consensus
+in the coming days where the consensus
+emerges.<00:03:39.920><c> Anthropics</c><00:03:40.480><c> line</c><00:03:40.720><c> is</c><00:03:40.879><c> pretty</c>
+emerges. Anthropics line is pretty
+emerges. Anthropics line is pretty
+simple.<00:03:41.680><c> The</c><00:03:42.000><c> same</c><00:03:42.239><c> capabilities</c><00:03:42.799><c> that</c>
+simple. The same capabilities that
+simple. The same capabilities that
+enabled<00:03:43.440><c> the</c><00:03:43.680><c> attack</c><00:03:44.080><c> also</c><00:03:44.400><c> helped</c><00:03:44.720><c> their</c>
+enabled the attack also helped their
+enabled the attack also helped their
+threat<00:03:45.280><c> intelligence</c><00:03:45.840><c> team</c><00:03:46.400><c> to</c><00:03:46.640><c> detect</c><00:03:47.040><c> the</c>
+threat intelligence team to detect the
+threat intelligence team to detect the
+attack<00:03:47.599><c> to</c><00:03:47.840><c> analyze</c><00:03:48.239><c> the</c><00:03:48.400><c> attack</c><00:03:48.640><c> and</c>
+attack to analyze the attack and
+attack to analyze the attack and
+ultimately<00:03:49.280><c> to</c><00:03:49.519><c> harden</c><00:03:49.840><c> their</c><00:03:50.000><c> classifiers</c>
+ultimately to harden their classifiers
+ultimately to harden their classifiers
+and<00:03:50.879><c> detection</c><00:03:51.280><c> systems</c><00:03:52.080><c> to</c><00:03:52.319><c> make</c><00:03:52.560><c> that</c><00:03:52.799><c> kind</c>
+and detection systems to make that kind
+and detection systems to make that kind
+of<00:03:53.200><c> attack</c><00:03:53.519><c> pathway</c><00:03:54.080><c> more</c><00:03:54.400><c> difficult</c><00:03:54.799><c> in</c><00:03:55.040><c> the</c>
+of attack pathway more difficult in the
+of attack pathway more difficult in the
+future.<00:03:55.680><c> On</c><00:03:55.920><c> the</c><00:03:56.080><c> other</c><00:03:56.239><c> side,</c><00:03:56.720><c> early</c>
+future. On the other side, early
+future. On the other side, early
+security<00:03:57.680><c> chatter</c><00:03:58.239><c> is</c><00:03:58.560><c> calling</c><00:03:58.879><c> this</c><00:03:59.360><c> a</c><00:03:59.680><c> basic</c>
+security chatter is calling this a basic
+security chatter is calling this a basic
+failure<00:04:00.799><c> to</c><00:04:01.040><c> prevent</c><00:04:01.439><c> obvious</c><00:04:01.840><c> abuse</c>
+failure to prevent obvious abuse
+failure to prevent obvious abuse
+patterns<00:04:02.799><c> in</c><00:04:03.040><c> the</c><00:04:03.200><c> first</c><00:04:03.360><c> place.</c><00:04:03.840><c> The</c>
+patterns in the first place. The
+patterns in the first place. The
+challenge<00:04:04.400><c> here</c><00:04:04.560><c> is</c><00:04:04.720><c> that</c><00:04:04.879><c> you</c><00:04:05.120><c> sort</c><00:04:05.200><c> of</c><00:04:05.280><c> have</c>
+challenge here is that you sort of have
+challenge here is that you sort of have
+to<00:04:05.599><c> hold</c><00:04:05.840><c> both</c><00:04:06.080><c> ideas</c><00:04:06.560><c> as</c><00:04:06.799><c> potentially</c><00:04:07.280><c> true.</c>
+to hold both ideas as potentially true.
+to hold both ideas as potentially true.
+Dual<00:04:08.319><c> use</c><00:04:08.640><c> is</c><00:04:08.879><c> going</c><00:04:08.959><c> to</c><00:04:09.120><c> be</c><00:04:09.200><c> a</c><00:04:09.439><c> real</c><00:04:09.680><c> threat</c>
+Dual use is going to be a real threat
+Dual use is going to be a real threat
+for<00:04:10.159><c> agents</c><00:04:10.640><c> even</c><00:04:10.879><c> if</c><00:04:11.040><c> they</c><00:04:11.360><c> have</c><00:04:11.680><c> a</c><00:04:12.159><c> ethical</c>
+for agents even if they have a ethical
+for agents even if they have a ethical
+core<00:04:13.040><c> as</c><00:04:13.360><c> anthropic</c><00:04:13.840><c> likes</c><00:04:14.000><c> to</c><00:04:14.159><c> claim</c><00:04:14.480><c> Claude</c>
+core as anthropic likes to claim Claude
+core as anthropic likes to claim Claude
+does.<00:04:15.200><c> And</c><00:04:15.680><c> we</c><00:04:15.920><c> caught</c><00:04:16.239><c> it</c><00:04:16.720><c> does</c><00:04:16.959><c> not</c><00:04:17.280><c> erase</c>
+does. And we caught it does not erase
+does. And we caught it does not erase
+the<00:04:17.840><c> responsibility</c><00:04:18.560><c> to</c><00:04:18.880><c> design</c><00:04:19.199><c> systems</c>
+the responsibility to design systems
+the responsibility to design systems
+that<00:04:19.759><c> are</c><00:04:19.840><c> harder</c><00:04:20.160><c> to</c><00:04:20.320><c> weaponize</c><00:04:20.799><c> at</c><00:04:21.040><c> all.</c><00:04:21.440><c> And</c>
+that are harder to weaponize at all. And
+that are harder to weaponize at all. And
+I<00:04:21.759><c> think</c><00:04:21.840><c> that</c><00:04:22.000><c> there</c><00:04:22.240><c> is</c><00:04:22.400><c> work</c><00:04:22.639><c> to</c><00:04:22.800><c> be</c><00:04:22.960><c> done</c>
+I think that there is work to be done
+I think that there is work to be done
+here.<00:04:23.759><c> And</c><00:04:23.919><c> I</c><00:04:24.000><c> think</c><00:04:24.160><c> Anthropic</c><00:04:24.800><c> doesn't</c><00:04:25.040><c> yet</c>
+here. And I think Anthropic doesn't yet
+here. And I think Anthropic doesn't yet
+have<00:04:25.360><c> an</c><00:04:25.520><c> answer</c><00:04:25.680><c> for</c><00:04:25.840><c> it.</c><00:04:26.080><c> And</c><00:04:26.240><c> frankly,</c><00:04:26.560><c> I</c>
+have an answer for it. And frankly, I
+have an answer for it. And frankly, I
+don't<00:04:26.880><c> think</c><00:04:27.040><c> anybody</c><00:04:27.440><c> has</c><00:04:27.600><c> an</c><00:04:27.840><c> answer</c><00:04:28.000><c> for</c>
+don't think anybody has an answer for
+don't think anybody has an answer for
+it.<00:04:28.560><c> So</c><00:04:28.720><c> what</c><00:04:28.960><c> can</c><00:04:29.040><c> we</c><00:04:29.199><c> learn?</c><00:04:29.600><c> Number</c><00:04:29.840><c> one,</c>
+it. So what can we learn? Number one,
+it. So what can we learn? Number one,
+the<00:04:30.400><c> threat</c><00:04:30.720><c> model</c><00:04:30.960><c> for</c><00:04:31.199><c> AI</c><00:04:31.600><c> products</c><00:04:32.080><c> has</c>
+the threat model for AI products has
+the threat model for AI products has
+changed.<00:04:33.040><c> If</c><00:04:33.280><c> you're</c><00:04:33.440><c> building</c><00:04:33.680><c> aic</c><00:04:34.240><c> systems,</c>
+changed. If you're building aic systems,
+changed. If you're building aic systems,
+the<00:04:34.880><c> correct</c><00:04:35.280><c> assumption</c><00:04:35.840><c> now</c><00:04:36.320><c> is</c><00:04:36.960><c> given</c>
+the correct assumption now is given
+the correct assumption now is given
+enough<00:04:37.840><c> time,</c><00:04:38.560><c> someone</c><00:04:39.040><c> will</c><00:04:39.360><c> try</c><00:04:39.600><c> to</c><00:04:39.840><c> turn</c>
+enough time, someone will try to turn
+enough time, someone will try to turn
+this<00:04:40.320><c> into</c><00:04:40.639><c> an</c><00:04:40.880><c> attack</c><00:04:41.199><c> framework.</c><00:04:41.840><c> You</c><00:04:42.000><c> must</c>
+this into an attack framework. You must
+this into an attack framework. You must
+assume<00:04:42.560><c> that</c><00:04:42.880><c> assume</c><00:04:43.280><c> malicious</c><00:04:43.759><c> actors.</c>
+assume that assume malicious actors.
+assume that assume malicious actors.
+That<00:04:44.639><c> means</c><00:04:44.880><c> you</c><00:04:45.040><c> need</c><00:04:45.280><c> system</c><00:04:45.600><c> level</c>
+That means you need system level
+That means you need system level
+defenses,<00:04:46.560><c> not</c><00:04:46.720><c> just</c><00:04:46.880><c> nice</c><00:04:47.199><c> sounding</c><00:04:47.600><c> usage</c>
+defenses, not just nice sounding usage
+defenses, not just nice sounding usage
+policies,<00:04:48.720><c> right?</c><00:04:49.120><c> That</c><00:04:49.360><c> means</c><00:04:49.520><c> you're</c><00:04:49.680><c> going</c>
+policies, right? That means you're going
+policies, right? That means you're going
+to<00:04:49.919><c> have</c><00:04:50.000><c> to</c><00:04:50.160><c> have</c><00:04:50.320><c> telemetry</c><00:04:50.880><c> that</c><00:04:51.120><c> detects</c>
+to have to have telemetry that detects
+to have to have telemetry that detects
+rate<00:04:51.759><c> patterns,</c><00:04:52.080><c> that</c><00:04:52.320><c> detects</c><00:04:52.639><c> to</c><00:04:52.960><c> tool</c><00:04:53.199><c> call</c>
+rate patterns, that detects to tool call
+rate patterns, that detects to tool call
+graphs<00:04:53.759><c> that</c><00:04:53.919><c> are</c><00:04:54.000><c> suspicious.</c><00:04:54.720><c> You're</c><00:04:54.960><c> going</c>
+graphs that are suspicious. You're going
+graphs that are suspicious. You're going
+to<00:04:55.120><c> have</c><00:04:55.199><c> to</c><00:04:55.360><c> detect</c><00:04:55.680><c> targets.</c><00:04:56.160><c> You're</c><00:04:56.320><c> going</c>
+to have to detect targets. You're going
+to have to detect targets. You're going
+to<00:04:56.479><c> have</c><00:04:56.560><c> to</c><00:04:56.720><c> detect</c><00:04:57.040><c> code</c><00:04:57.280><c> execution</c>
+to have to detect code execution
+to have to detect code execution
+profiles.<00:04:58.240><c> There's</c><00:04:58.479><c> a</c><00:04:58.560><c> lot</c><00:04:58.720><c> of</c><00:04:58.800><c> stuff</c><00:04:59.280><c> that</c>
+profiles. There's a lot of stuff that
+profiles. There's a lot of stuff that
+you<00:04:59.759><c> are</c><00:04:59.919><c> going</c><00:05:00.000><c> to</c><00:05:00.240><c> have</c><00:05:00.320><c> to</c><00:05:00.560><c> do</c><00:05:00.800><c> to</c><00:05:01.040><c> detect</c>
+you are going to have to do to detect
+you are going to have to do to detect
+actual<00:05:01.919><c> behavioral</c><00:05:02.479><c> usage</c><00:05:02.720><c> of</c><00:05:02.880><c> your</c><00:05:03.040><c> agentic</c>
+actual behavioral usage of your agentic
+actual behavioral usage of your agentic
+tool.<00:05:04.160><c> You</c><00:05:04.400><c> also</c><00:05:04.720><c> need</c><00:05:04.880><c> to</c><00:05:05.280><c> have</c><00:05:05.600><c> a</c><00:05:05.840><c> least</c>
+tool. You also need to have a least
+tool. You also need to have a least
+privilege<00:05:06.720><c> basis</c><00:05:07.120><c> for</c><00:05:07.440><c> agents.</c><00:05:08.160><c> Don't</c><00:05:08.400><c> let</c><00:05:08.560><c> a</c>
+privilege basis for agents. Don't let a
+privilege basis for agents. Don't let a
+generic<00:05:09.199><c> assistant</c><00:05:09.759><c> use</c><00:05:10.080><c> a</c><00:05:10.320><c> root</c><00:05:10.639><c> capable</c>
+generic assistant use a root capable
+generic assistant use a root capable
+network<00:05:11.680><c> scanner</c><00:05:12.240><c> with</c><00:05:12.560><c> free</c><00:05:12.800><c> access</c><00:05:13.520><c> to</c><00:05:13.840><c> just</c>
+network scanner with free access to just
+network scanner with free access to just
+go<00:05:14.160><c> to</c><00:05:14.320><c> town.</c><00:05:14.639><c> Right?</c><00:05:14.960><c> And</c><00:05:15.199><c> I</c><00:05:15.360><c> think</c><00:05:15.440><c> that</c>
+go to town. Right? And I think that
+go to town. Right? And I think that
+sometimes<00:05:16.160><c> in</c><00:05:16.400><c> these</c><00:05:16.639><c> early</c><00:05:16.960><c> days,</c><00:05:17.600><c> we</c><00:05:17.840><c> have</c>
+sometimes in these early days, we have
+sometimes in these early days, we have
+been<00:05:18.320><c> tempted</c><00:05:18.880><c> sort</c><00:05:19.120><c> of</c><00:05:19.199><c> the</c><00:05:19.360><c> wild</c><00:05:19.680><c> west</c><00:05:19.919><c> of</c>
+been tempted sort of the wild west of
+been tempted sort of the wild west of
+agents.<00:05:20.560><c> Give</c><00:05:20.800><c> the</c><00:05:20.960><c> agents</c><00:05:21.280><c> root</c><00:05:21.600><c> access,</c><00:05:22.080><c> see</c>
+agents. Give the agents root access, see
+agents. Give the agents root access, see
+what<00:05:22.400><c> they</c><00:05:22.560><c> can</c><00:05:22.720><c> code.</c><00:05:23.120><c> Oh</c><00:05:23.280><c> my</c><00:05:23.440><c> gosh,</c><00:05:23.680><c> they're</c>
+what they can code. Oh my gosh, they're
+what they can code. Oh my gosh, they're
+coding<00:05:24.240><c> so</c><00:05:24.479><c> fast.</c><00:05:25.120><c> Those</c><00:05:25.360><c> days</c><00:05:25.600><c> are</c><00:05:25.840><c> coming</c><00:05:26.000><c> to</c>
+coding so fast. Those days are coming to
+coding so fast. Those days are coming to
+a<00:05:26.400><c> close.</c><00:05:26.960><c> You</c><00:05:27.199><c> need</c><00:05:27.360><c> to</c><00:05:27.520><c> get</c><00:05:27.680><c> into</c><00:05:27.919><c> a</c><00:05:28.080><c> world</c>
+a close. You need to get into a world
+a close. You need to get into a world
+where<00:05:28.479><c> you</c><00:05:28.720><c> assume</c><00:05:29.039><c> that</c><00:05:29.280><c> the</c><00:05:29.520><c> agent</c><00:05:29.919><c> may</c><00:05:30.160><c> be</c>
+where you assume that the agent may be
+where you assume that the agent may be
+contaminated<00:05:31.120><c> and</c><00:05:31.360><c> you</c><00:05:31.600><c> give</c><00:05:31.759><c> at</c><00:05:31.759><c> least</c>
+contaminated and you give at least
+contaminated and you give at least
+privilege<00:05:32.800><c> as</c><00:05:33.120><c> a</c><00:05:33.360><c> priority.</c><00:05:34.240><c> You</c><00:05:34.479><c> also</c><00:05:34.800><c> need</c>
+privilege as a priority. You also need
+privilege as a priority. You also need
+to<00:05:35.120><c> assume</c><00:05:35.360><c> that</c><00:05:35.680><c> high-risk</c><00:05:36.160><c> actions</c><00:05:36.880><c> are</c>
+to assume that high-risk actions are
+to assume that high-risk actions are
+going<00:05:37.360><c> to</c><00:05:37.520><c> be</c><00:05:37.759><c> gated</c><00:05:38.160><c> by</c><00:05:38.400><c> humans.</c><00:05:39.120><c> This</c><00:05:39.360><c> is</c>
+going to be gated by humans. This is
+going to be gated by humans. This is
+back<00:05:39.840><c> to</c><00:05:40.160><c> the</c><00:05:40.400><c> idea</c><00:05:40.720><c> that</c><00:05:41.120><c> part</c><00:05:41.360><c> of</c><00:05:41.600><c> humans</c>
+back to the idea that part of humans
+back to the idea that part of humans
+role<00:05:42.240><c> in</c><00:05:42.400><c> the</c><00:05:42.560><c> age</c><00:05:42.720><c> of</c><00:05:42.880><c> AI</c><00:05:43.280><c> is</c><00:05:43.520><c> to</c><00:05:43.680><c> be</c><00:05:43.759><c> a</c>
+role in the age of AI is to be a
+role in the age of AI is to be a
+liability<00:05:44.560><c> gate.</c><00:05:45.199><c> We</c><00:05:45.440><c> need</c><00:05:45.520><c> to</c><00:05:45.759><c> have</c><00:05:45.919><c> humans</c>
+liability gate. We need to have humans
+liability gate. We need to have humans
+that<00:05:46.560><c> are</c><00:05:46.880><c> responsible</c><00:05:47.680><c> for</c><00:05:48.479><c> the</c><00:05:48.880><c> explicit</c>
+that are responsible for the explicit
+that are responsible for the explicit
+approval<00:05:50.160><c> required</c><00:05:50.639><c> for</c><00:05:50.960><c> high</c><00:05:51.280><c> value</c><00:05:51.600><c> actions</c>
+approval required for high value actions
+approval required for high value actions
+like<00:05:52.240><c> mass</c><00:05:52.639><c> scanning</c><00:05:53.039><c> or</c><00:05:53.360><c> credential</c><00:05:53.840><c> dumping</c>
+like mass scanning or credential dumping
+like mass scanning or credential dumping
+or<00:05:54.479><c> data</c><00:05:54.800><c> exfiltration.</c><00:05:55.919><c> There</c><00:05:56.160><c> should</c><00:05:56.320><c> be</c>
+or data exfiltration. There should be
+or data exfiltration. There should be
+hard<00:05:57.039><c> guard</c><00:05:57.440><c> rails</c><00:05:58.080><c> and</c><00:05:58.400><c> hard</c><00:05:58.639><c> internal</c>
+hard guard rails and hard internal
+hard guard rails and hard internal
+workflows<00:06:00.080><c> that</c><00:06:00.560><c> prevent</c><00:06:01.440><c> any</c><00:06:02.000><c> automated</c>
+workflows that prevent any automated
+workflows that prevent any automated
+action<00:06:03.520><c> against</c><00:06:04.000><c> that</c><00:06:04.319><c> kind</c><00:06:04.720><c> of</c><00:06:05.520><c> workflow.</c>
+action against that kind of workflow.
+action against that kind of workflow.
+Number<00:06:06.479><c> two,</c><00:06:06.800><c> I</c><00:06:06.960><c> I'll</c><00:06:07.199><c> emphasize</c><00:06:07.680><c> it</c><00:06:07.919><c> again.</c>
+Number two, I I'll emphasize it again.
+Number two, I I'll emphasize it again.
+guard<00:06:08.720><c> rails</c><00:06:09.039><c> that</c><00:06:09.280><c> only</c><00:06:09.520><c> live</c><00:06:09.680><c> in</c><00:06:09.919><c> the</c><00:06:10.080><c> model</c>
+guard rails that only live in the model
+guard rails that only live in the model
+are<00:06:10.880><c> not</c><00:06:11.039><c> enough</c><00:06:11.360><c> anymore.</c><00:06:12.080><c> The</c><00:06:12.319><c> campaign</c>
+are not enough anymore. The campaign
+are not enough anymore. The campaign
+worked<00:06:13.199><c> by</c><00:06:13.600><c> context</c><00:06:14.400><c> splitting.</c><00:06:15.039><c> It</c><00:06:15.280><c> fed</c>
+worked by context splitting. It fed
+worked by context splitting. It fed
+Claude<00:06:16.319><c> many</c><00:06:16.639><c> tiny</c><00:06:17.440><c> ostensibly</c><00:06:18.240><c> benign</c>
+Claude many tiny ostensibly benign
+Claude many tiny ostensibly benign
+tasks.<00:06:19.520><c> It</c><00:06:19.840><c> never</c><00:06:20.160><c> revealed</c><00:06:20.560><c> the</c><00:06:20.800><c> full</c><00:06:21.039><c> attack</c>
+tasks. It never revealed the full attack
+tasks. It never revealed the full attack
+chain.<00:06:21.759><c> So</c><00:06:22.000><c> Claude</c><00:06:22.400><c> never</c><00:06:22.639><c> saw</c><00:06:22.880><c> it.</c><00:06:23.440><c> That</c>
+chain. So Claude never saw it. That
+chain. So Claude never saw it. That
+means<00:06:24.160><c> as</c><00:06:24.319><c> I</c><00:06:24.560><c> emphasized</c><00:06:25.520><c> safety</c><00:06:26.080><c> must</c><00:06:26.720><c> run</c><00:06:27.039><c> at</c>
+means as I emphasized safety must run at
+means as I emphasized safety must run at
+the<00:06:27.440><c> orchestration</c><00:06:28.319><c> layer.</c><00:06:28.639><c> You</c><00:06:28.960><c> have</c><00:06:29.199><c> to</c>
+the orchestration layer. You have to
+the orchestration layer. You have to
+have<00:06:29.919><c> safety</c><00:06:30.800><c> at</c><00:06:31.039><c> the</c><00:06:31.199><c> orchestration</c><00:06:31.759><c> and</c>
+have safety at the orchestration and
+have safety at the orchestration and
+tool<00:06:32.240><c> layers</c><00:06:32.400><c> that</c><00:06:32.560><c> can</c><00:06:32.720><c> say</c><00:06:32.880><c> what</c><00:06:33.039><c> hosts</c><00:06:33.440><c> are</c>
+tool layers that can say what hosts are
+tool layers that can say what hosts are
+being<00:06:33.759><c> hit,</c><00:06:34.319><c> what</c><00:06:34.560><c> ports</c><00:06:34.960><c> over</c><00:06:35.280><c> what</c><00:06:35.520><c> time</c>
+being hit, what ports over what time
+being hit, what ports over what time
+window,<00:06:36.160><c> how</c><00:06:36.400><c> many</c><00:06:36.560><c> credentials</c><00:06:37.120><c> are</c><00:06:37.280><c> being</c>
+window, how many credentials are being
+window, how many credentials are being
+touched,<00:06:38.240><c> what</c><00:06:38.400><c> about</c><00:06:38.639><c> tenants.</c><00:06:39.280><c> Policy</c>
+touched, what about tenants. Policy
+touched, what about tenants. Policy
+needs<00:06:40.080><c> to</c><00:06:40.319><c> think</c><00:06:40.479><c> about</c><00:06:40.800><c> patterns</c><00:06:41.199><c> of</c>
+needs to think about patterns of
+needs to think about patterns of
+behavior,<00:06:42.479><c> not</c><00:06:42.639><c> just</c><00:06:42.880><c> strings</c><00:06:43.199><c> and</c><00:06:43.440><c> prompts.</c>
+behavior, not just strings and prompts.
+behavior, not just strings and prompts.
+This<00:06:44.479><c> is</c><00:06:44.639><c> the</c><00:06:44.880><c> same</c><00:06:45.280><c> design</c><00:06:45.759><c> problem</c><00:06:46.080><c> that</c><00:06:46.400><c> we</c>
+This is the same design problem that we
+This is the same design problem that we
+have<00:06:46.720><c> for</c><00:06:46.960><c> helpful</c><00:06:47.440><c> enterprise</c><00:06:47.919><c> agents,</c><00:06:48.319><c> but</c>
+have for helpful enterprise agents, but
+have for helpful enterprise agents, but
+we<00:06:48.720><c> now</c><00:06:48.880><c> have</c><00:06:48.960><c> to</c><00:06:49.120><c> flip</c><00:06:49.360><c> the</c><00:06:49.600><c> script</c><00:06:49.840><c> and</c><00:06:50.160><c> think</c>
+we now have to flip the script and think
+we now have to flip the script and think
+about<00:06:50.639><c> malicious</c><00:06:51.120><c> agents.</c><00:06:51.680><c> Takeaway</c><00:06:52.240><c> number</c>
+about malicious agents. Takeaway number
+about malicious agents. Takeaway number
+three,<00:06:52.960><c> defense</c><00:06:53.440><c> now</c><00:06:53.759><c> requires</c><00:06:54.240><c> AI</c><00:06:54.639><c> fluency,</c>
+three, defense now requires AI fluency,
+three, defense now requires AI fluency,
+not<00:06:55.520><c> just</c><00:06:55.759><c> controls.</c><00:06:56.479><c> So,</c><00:06:56.720><c> Anthropic's</c><00:06:57.440><c> own</c>
+not just controls. So, Anthropic's own
+not just controls. So, Anthropic's own
+team<00:06:57.919><c> did</c><00:06:58.160><c> lean</c><00:06:58.400><c> on</c><00:06:58.639><c> Claude</c><00:06:59.039><c> to</c><00:06:59.199><c> sift</c><00:06:59.520><c> through</c>
+team did lean on Claude to sift through
+team did lean on Claude to sift through
+the<00:06:59.840><c> mountain</c><00:07:00.080><c> of</c><00:07:00.319><c> telemetry</c><00:07:00.800><c> and</c><00:07:00.960><c> evidence</c>
+the mountain of telemetry and evidence
+the mountain of telemetry and evidence
+from<00:07:01.520><c> the</c><00:07:01.680><c> incident,</c><00:07:02.000><c> and</c><00:07:02.240><c> they</c><00:07:02.400><c> credit</c>
+from the incident, and they credit
+from the incident, and they credit
+Claude<00:07:03.440><c> with</c><00:07:03.680><c> their</c><00:07:03.919><c> ability</c><00:07:04.240><c> to</c><00:07:04.400><c> respond</c>
+Claude with their ability to respond
+Claude with their ability to respond
+swiftly<00:07:05.199><c> and</c><00:07:05.440><c> accurately.</c><00:07:06.240><c> I</c><00:07:06.479><c> think</c><00:07:06.560><c> that's</c>
+swiftly and accurately. I think that's
+swiftly and accurately. I think that's
+correct.<00:07:07.599><c> For</c><00:07:07.759><c> any</c><00:07:08.080><c> serious</c><00:07:08.560><c> security</c><00:07:09.039><c> org,</c>
+correct. For any serious security org,
+correct. For any serious security org,
+there<00:07:09.520><c> is</c><00:07:09.680><c> a</c><00:07:09.840><c> new</c><00:07:10.000><c> normal</c><00:07:10.400><c> here.</c><00:07:10.960><c> Analysts</c>
+there is a new normal here. Analysts
+there is a new normal here. Analysts
+need<00:07:11.599><c> to</c><00:07:11.840><c> be</c><00:07:11.919><c> able</c><00:07:12.160><c> to</c><00:07:12.400><c> use</c><00:07:12.560><c> AI</c><00:07:12.960><c> to</c><00:07:13.199><c> correlate</c>
+need to be able to use AI to correlate
+need to be able to use AI to correlate
+indicators<00:07:14.319><c> of</c><00:07:14.560><c> compromise,</c><00:07:15.120><c> to</c><00:07:15.360><c> cluster</c><00:07:15.680><c> up</c>
+indicators of compromise, to cluster up
+indicators of compromise, to cluster up
+related<00:07:16.240><c> events,</c><00:07:16.639><c> to</c><00:07:16.800><c> summarize</c><00:07:17.199><c> complicated</c>
+related events, to summarize complicated
+related events, to summarize complicated
+timelines.<00:07:18.560><c> SOC</c><00:07:19.120><c> playbooks</c><00:07:19.680><c> get</c><00:07:20.160><c> rewritten</c>
+timelines. SOC playbooks get rewritten
+timelines. SOC playbooks get rewritten
+and<00:07:21.360><c> should</c><00:07:21.680><c> focus</c><00:07:22.400><c> around</c><00:07:22.800><c> humans</c>
+and should focus around humans
+and should focus around humans
+supervising<00:07:23.919><c> AIdriven</c><00:07:24.639><c> triage</c><00:07:25.199><c> and</c><00:07:25.520><c> hunting,</c>
+supervising AIdriven triage and hunting,
+supervising AIdriven triage and hunting,
+not<00:07:26.160><c> humans</c><00:07:26.560><c> doing</c><00:07:26.880><c> all</c><00:07:27.039><c> of</c><00:07:27.199><c> it</c><00:07:27.360><c> by</c><00:07:27.599><c> hand.</c><00:07:28.080><c> And</c>
+not humans doing all of it by hand. And
+not humans doing all of it by hand. And
+so<00:07:28.400><c> the</c><00:07:28.560><c> SOCK</c><00:07:28.960><c> 2</c><00:07:29.199><c> assumptions</c><00:07:29.599><c> that</c><00:07:29.840><c> we</c>
+so the SOCK 2 assumptions that we
+so the SOCK 2 assumptions that we
+typically<00:07:30.479><c> have</c><00:07:30.960><c> are</c><00:07:31.280><c> not</c><00:07:31.520><c> necessarily</c><00:07:32.080><c> going</c>
+typically have are not necessarily going
+typically have are not necessarily going
+to<00:07:32.400><c> play</c><00:07:32.560><c> out</c><00:07:32.720><c> in</c><00:07:32.880><c> the</c><00:07:33.039><c> same</c><00:07:33.199><c> way</c><00:07:33.599><c> in</c><00:07:34.080><c> the</c><00:07:34.319><c> new</c>
+to play out in the same way in the new
+to play out in the same way in the new
+world<00:07:34.720><c> we</c><00:07:34.960><c> just</c><00:07:35.120><c> entered</c><00:07:35.520><c> today.</c><00:07:36.080><c> If</c><00:07:36.240><c> your</c>
+world we just entered today. If your
+world we just entered today. If your
+security<00:07:36.960><c> team</c><00:07:37.199><c> is</c><00:07:37.360><c> debating</c><00:07:37.759><c> whether</c><00:07:38.000><c> they</c>
+security team is debating whether they
+security team is debating whether they
+can<00:07:38.319><c> trust</c><00:07:38.639><c> AI,</c><00:07:39.360><c> they</c><00:07:39.520><c> are</c><00:07:39.680><c> behind</c><00:07:40.000><c> what</c><00:07:40.160><c> the</c>
+can trust AI, they are behind what the
+can trust AI, they are behind what the
+attackers<00:07:40.960><c> already</c><00:07:41.360><c> do.</c><00:07:41.759><c> So</c><00:07:41.919><c> what's</c><00:07:42.160><c> coming</c>
+attackers already do. So what's coming
+attackers already do. So what's coming
+next?<00:07:42.880><c> One,</c><00:07:43.280><c> AI</c><00:07:43.680><c> red</c><00:07:43.919><c> team</c><00:07:44.080><c> in</c><00:07:44.240><c> a</c><00:07:44.400><c> box</c><00:07:44.639><c> is</c>
+next? One, AI red team in a box is
+next? One, AI red team in a box is
+coming<00:07:45.039><c> next.</c><00:07:45.840><c> expect</c><00:07:46.319><c> that</c><00:07:46.639><c> you're</c><00:07:46.800><c> going</c><00:07:46.880><c> to</c>
+coming next. expect that you're going to
+coming next. expect that you're going to
+get<00:07:47.199><c> turnkey</c><00:07:47.759><c> attack</c><00:07:48.160><c> frameworks</c><00:07:48.639><c> that</c><00:07:48.960><c> sit</c>
+get turnkey attack frameworks that sit
+get turnkey attack frameworks that sit
+on<00:07:49.520><c> top</c><00:07:49.759><c> of</c><00:07:50.160><c> any</c><00:07:50.479><c> sufficiently</c><00:07:51.120><c> capable</c><00:07:51.599><c> model</c>
+on top of any sufficiently capable model
+on top of any sufficiently capable model
+and<00:07:52.319><c> it</c><00:07:52.560><c> will</c><00:07:52.720><c> widen</c><00:07:52.960><c> the</c><00:07:53.120><c> pool</c><00:07:53.280><c> of</c><00:07:53.440><c> threat</c>
+and it will widen the pool of threat
+and it will widen the pool of threat
+actors<00:07:54.080><c> dramatically.</c><00:07:55.039><c> There</c><00:07:55.199><c> will</c><00:07:55.360><c> be</c><00:07:55.520><c> a</c>
+actors dramatically. There will be a
+actors dramatically. There will be a
+shadow<00:07:56.240><c> market</c><00:07:56.560><c> of</c><00:07:56.800><c> AI</c><00:07:57.280><c> compatible</c><00:07:57.840><c> exploit</c>
+shadow market of AI compatible exploit
+shadow market of AI compatible exploit
+kits<00:07:58.960><c> that</c><00:07:59.199><c> is</c><00:07:59.440><c> widely</c><00:07:59.840><c> traded.</c><00:08:00.479><c> The</c><00:08:00.720><c> bad</c><00:08:00.960><c> guys</c>
+kits that is widely traded. The bad guys
+kits that is widely traded. The bad guys
+are<00:08:01.680><c> going</c><00:08:01.840><c> to</c><00:08:01.919><c> make</c><00:08:02.160><c> life</c><00:08:02.720><c> really</c><00:08:03.039><c> miserable</c>
+are going to make life really miserable
+are going to make life really miserable
+for<00:08:03.680><c> us</c><00:08:03.919><c> unless</c><00:08:04.240><c> we're</c><00:08:04.479><c> careful</c><00:08:04.720><c> here</c><00:08:04.960><c> because</c>
+for us unless we're careful here because
+for us unless we're careful here because
+this<00:08:05.440><c> is</c><00:08:05.599><c> just</c><00:08:05.759><c> going</c><00:08:05.840><c> to</c><00:08:06.000><c> proliferate.</c>
+this is just going to proliferate.
+this is just going to proliferate.
+Number<00:08:07.199><c> two,</c><00:08:07.680><c> compliance</c><00:08:08.240><c> and</c><00:08:08.479><c> buyer</c>
+Number two, compliance and buyer
+Number two, compliance and buyer
+pressure<00:08:09.120><c> are</c><00:08:09.440><c> going</c><00:08:09.520><c> to</c><00:08:09.680><c> move</c><00:08:09.919><c> way</c><00:08:10.160><c> faster</c>
+pressure are going to move way faster
+pressure are going to move way faster
+than<00:08:10.639><c> the</c><00:08:10.879><c> law</c><00:08:11.120><c> in</c><00:08:11.280><c> this</c><00:08:11.520><c> regard.</c><00:08:12.000><c> Large</c>
+than the law in this regard. Large
+than the law in this regard. Large
+customers<00:08:12.879><c> will</c><00:08:13.199><c> demand</c><00:08:13.680><c> agent</c><00:08:14.080><c> vendors</c><00:08:14.879><c> have</c>
+customers will demand agent vendors have
+customers will demand agent vendors have
+clear<00:08:15.440><c> misuse</c><00:08:16.000><c> detection</c><00:08:16.479><c> guarantees,</c><00:08:17.120><c> that</c>
+clear misuse detection guarantees, that
+clear misuse detection guarantees, that
+they<00:08:17.440><c> have</c><00:08:17.520><c> clear</c><00:08:17.759><c> audit</c><00:08:18.080><c> logs,</c><00:08:18.319><c> that</c><00:08:18.400><c> they</c>
+they have clear audit logs, that they
+they have clear audit logs, that they
+have<00:08:18.720><c> documented</c><00:08:19.280><c> kill</c><00:08:19.599><c> switches,</c><00:08:20.000><c> that</c><00:08:20.160><c> they</c>
+have documented kill switches, that they
+have documented kill switches, that they
+have<00:08:20.400><c> rate</c><00:08:20.639><c> limit</c><00:08:20.879><c> strategies,</c><00:08:21.440><c> they</c><00:08:21.599><c> have</c>
+have rate limit strategies, they have
+have rate limit strategies, they have
+regional<00:08:22.160><c> sectorbased</c><00:08:22.720><c> safety</c><00:08:23.120><c> policies.</c>
+regional sectorbased safety policies.
+regional sectorbased safety policies.
+This<00:08:24.080><c> is</c><00:08:24.240><c> the</c><00:08:24.479><c> early</c><00:08:24.800><c> days</c><00:08:25.280><c> of</c><00:08:25.440><c> SOCK</c><00:08:25.840><c> 2</c><00:08:26.080><c> for</c>
+This is the early days of SOCK 2 for
+This is the early days of SOCK 2 for
+agents,<00:08:26.639><c> and</c><00:08:26.879><c> no</c><00:08:27.039><c> one</c><00:08:27.120><c> has</c><00:08:27.280><c> written</c><00:08:27.520><c> the</c>
+agents, and no one has written the
+agents, and no one has written the
+playbook.<00:08:28.080><c> And</c><00:08:28.240><c> I</c><00:08:28.400><c> think</c><00:08:28.879><c> enterprise</c>
+playbook. And I think enterprise
+playbook. And I think enterprise
+customers<00:08:29.919><c> are</c><00:08:30.080><c> going</c><00:08:30.160><c> to</c><00:08:30.319><c> be</c><00:08:30.400><c> the</c><00:08:30.560><c> ones</c>
+customers are going to be the ones
+customers are going to be the ones
+demanding<00:08:31.199><c> that</c><00:08:31.440><c> playbook</c><00:08:31.840><c> from</c>
+demanding that playbook from
+demanding that playbook from
+modelmakers.<00:08:32.959><c> Internally,</c><00:08:33.440><c> if</c><00:08:33.599><c> you're</c><00:08:33.760><c> a</c>
+modelmakers. Internally, if you're a
+modelmakers. Internally, if you're a
+CISO<00:08:34.320><c> or</c><00:08:34.479><c> a</c><00:08:34.640><c> CTO,</c><00:08:35.200><c> you</c><00:08:35.440><c> have</c><00:08:35.519><c> to</c><00:08:35.680><c> do</c><00:08:35.839><c> three</c><00:08:36.080><c> hard</c>
+CISO or a CTO, you have to do three hard
+CISO or a CTO, you have to do three hard
+things<00:08:36.640><c> today.</c><00:08:37.279><c> You</c><00:08:37.519><c> have</c><00:08:37.680><c> to</c><00:08:37.760><c> put</c><00:08:37.919><c> the</c><00:08:38.159><c> AI</c>
+things today. You have to put the AI
+things today. You have to put the AI
+into<00:08:39.279><c> the</c><00:08:39.519><c> sock</c><00:08:40.000><c> stack</c><00:08:40.479><c> instead</c><00:08:40.800><c> of</c><00:08:40.880><c> treating</c>
+into the sock stack instead of treating
+into the sock stack instead of treating
+it<00:08:41.279><c> as</c><00:08:41.440><c> a</c><00:08:41.599><c> side</c><00:08:41.919><c> experiment.</c><00:08:42.399><c> You</c><00:08:42.479><c> have</c><00:08:42.640><c> to</c>
+it as a side experiment. You have to
+it as a side experiment. You have to
+think<00:08:42.880><c> of</c><00:08:42.959><c> it</c><00:08:43.120><c> in</c><00:08:43.279><c> terms</c><00:08:43.440><c> of</c><00:08:43.599><c> triage</c><00:08:44.080><c> detection</c>
+think of it in terms of triage detection
+think of it in terms of triage detection
+and<00:08:44.720><c> response.</c><00:08:45.440><c> You</c><00:08:45.680><c> have</c><00:08:45.760><c> to</c><00:08:45.920><c> explicitly</c>
+and response. You have to explicitly
+and response. You have to explicitly
+test<00:08:46.880><c> your</c><00:08:47.120><c> own</c><00:08:47.440><c> agentic</c><00:08:48.000><c> systems</c><00:08:48.399><c> as</c><00:08:48.640><c> if</c>
+test your own agentic systems as if
+test your own agentic systems as if
+they're<00:08:49.040><c> an</c><00:08:49.279><c> attack</c><00:08:49.600><c> surface</c><00:08:50.080><c> via</c><00:08:50.399><c> red</c>
+they're an attack surface via red
+they're an attack surface via red
+teaming.<00:08:51.360><c> And</c><00:08:51.519><c> you</c><00:08:51.680><c> have</c><00:08:51.839><c> to</c><00:08:52.000><c> treat</c><00:08:52.399><c> MCP</c><00:08:52.959><c> and</c>
+teaming. And you have to treat MCP and
+teaming. And you have to treat MCP and
+tools,<00:08:53.680><c> not</c><00:08:53.839><c> just</c><00:08:54.160><c> the</c><00:08:54.399><c> model</c><00:08:54.800><c> as</c><00:08:54.959><c> part</c><00:08:55.120><c> of</c><00:08:55.200><c> the</c>
+tools, not just the model as part of the
+tools, not just the model as part of the
+security<00:08:55.760><c> perimeter.</c><00:08:56.240><c> So</c><00:08:56.399><c> don't</c><00:08:56.640><c> think</c><00:08:56.720><c> about</c>
+security perimeter. So don't think about
+security perimeter. So don't think about
+hardening<00:08:57.279><c> the</c><00:08:57.440><c> model</c><00:08:57.680><c> per</c><00:08:57.839><c> se.</c><00:08:58.160><c> Think</c><00:08:58.320><c> about</c>
+hardening the model per se. Think about
+hardening the model per se. Think about
+the<00:08:58.720><c> entire</c><00:08:59.120><c> security</c><00:08:59.519><c> perimeter</c>
+the entire security perimeter
+the entire security perimeter
+encompassing<00:09:00.480><c> the</c><00:09:00.640><c> agent,</c><00:09:01.040><c> the</c><00:09:01.200><c> tools</c><00:09:01.440><c> they</c>
+encompassing the agent, the tools they
+encompassing the agent, the tools they
+use,<00:09:01.839><c> the</c><00:09:02.000><c> orchestration</c><00:09:02.720><c> layer.</c><00:09:03.040><c> If</c><00:09:03.200><c> you're</c>
+use, the orchestration layer. If you're
+use, the orchestration layer. If you're
+a<00:09:03.519><c> builder,</c><00:09:03.920><c> if</c><00:09:04.080><c> you're</c><00:09:04.160><c> a</c><00:09:04.320><c> PM,</c><00:09:04.959><c> the</c><00:09:05.279><c> real</c>
+a builder, if you're a PM, the real
+a builder, if you're a PM, the real
+takeaway<00:09:06.320><c> is</c><00:09:06.720><c> assume</c><00:09:07.120><c> your</c><00:09:07.440><c> product</c><00:09:07.839><c> may</c><00:09:08.160><c> sit</c>
+takeaway is assume your product may sit
+takeaway is assume your product may sit
+on<00:09:08.640><c> both</c><00:09:08.880><c> sides</c><00:09:09.120><c> of</c><00:09:09.279><c> the</c><00:09:09.440><c> chessboard.</c><00:09:10.000><c> It</c><00:09:10.240><c> may</c>
+on both sides of the chessboard. It may
+on both sides of the chessboard. It may
+be<00:09:10.880><c> something</c><00:09:11.279><c> defenders</c><00:09:11.839><c> will</c><00:09:12.080><c> use</c><00:09:12.320><c> and</c><00:09:12.560><c> the</c>
+be something defenders will use and the
+be something defenders will use and the
+attackers<00:09:13.200><c> may</c><00:09:13.440><c> use</c><00:09:13.600><c> it</c><00:09:13.760><c> as</c><00:09:13.920><c> well.</c><00:09:14.480><c> You</c><00:09:14.640><c> need</c>
+attackers may use it as well. You need
+attackers may use it as well. You need
+to<00:09:14.959><c> be</c><00:09:15.120><c> thinking</c><00:09:15.360><c> about</c><00:09:15.600><c> observability,</c>
+to be thinking about observability,
+to be thinking about observability,
+about<00:09:16.800><c> abuse</c><00:09:17.279><c> detection,</c><00:09:17.839><c> about</c><00:09:18.240><c> controls</c><00:09:18.720><c> as</c>
+about abuse detection, about controls as
+about abuse detection, about controls as
+first<00:09:19.279><c> class</c><00:09:19.600><c> features,</c><00:09:20.000><c> not</c><00:09:20.240><c> bolt-ons.</c><00:09:20.959><c> If</c>
+first class features, not bolt-ons. If
+first class features, not bolt-ons. If
+you<00:09:21.279><c> are</c><00:09:21.440><c> competing</c><00:09:21.839><c> on</c><00:09:22.080><c> raw</c><00:09:22.399><c> model</c><00:09:22.800><c> power,</c>
+you are competing on raw model power,
+you are competing on raw model power,
+that<00:09:23.600><c> is</c><00:09:23.680><c> a</c><00:09:23.839><c> race</c><00:09:24.160><c> to</c><00:09:24.320><c> the</c><00:09:24.480><c> bottom.</c><00:09:25.120><c> But</c><00:09:25.279><c> if</c>
+that is a race to the bottom. But if
+that is a race to the bottom. But if
+you're<00:09:25.680><c> competing</c><00:09:26.000><c> on</c><00:09:26.240><c> trustworthy,</c>
+you're competing on trustworthy,
+you're competing on trustworthy,
+controllable,<00:09:27.760><c> observable,</c><00:09:28.320><c> agentic</c>
+controllable, observable, agentic
+controllable, observable, agentic
+systems,<00:09:29.600><c> that</c><00:09:29.920><c> may</c><00:09:30.160><c> become</c><00:09:30.399><c> a</c><00:09:30.560><c> durable</c><00:09:30.880><c> edge</c>
+systems, that may become a durable edge
+systems, that may become a durable edge
+because<00:09:31.839><c> what</c><00:09:32.160><c> is</c><00:09:32.320><c> in</c><00:09:32.640><c> jeopardy</c><00:09:33.120><c> right</c><00:09:33.360><c> now</c><00:09:33.760><c> is</c>
+because what is in jeopardy right now is
+because what is in jeopardy right now is
+trust.<00:09:34.560><c> If</c><00:09:34.800><c> you'd</c><00:09:34.959><c> like</c><00:09:35.040><c> to</c><00:09:35.200><c> read</c><00:09:35.360><c> more,</c><00:09:35.600><c> I</c><00:09:35.760><c> put</c>
+trust. If you'd like to read more, I put
+trust. If you'd like to read more, I put
+more<00:09:36.080><c> on</c><00:09:36.240><c> the</c><00:09:36.320><c> Substack</c><00:09:36.880><c> here.</c><00:09:37.440><c> This</c><00:09:37.600><c> is</c><00:09:37.680><c> a</c>
+more on the Substack here. This is a
+more on the Substack here. This is a
+really,<00:09:38.320><c> really</c><00:09:38.880><c> important</c><00:09:39.680><c> topic</c><00:09:40.240><c> and</c><00:09:40.480><c> I</c>
+really, really important topic and I
+really, really important topic and I
+think<00:09:40.800><c> we</c><00:09:40.959><c> need</c><00:09:41.040><c> to</c><00:09:41.200><c> be</c><00:09:41.360><c> talking</c><00:09:41.519><c> about</c><00:09:41.680><c> it</c>
+think we need to be talking about it
+think we need to be talking about it
+more.<00:09:42.160><c> This</c><00:09:42.320><c> will</c><00:09:42.480><c> not</c><00:09:42.720><c> unfortunately</c><00:09:43.440><c> be</c><00:09:43.600><c> the</c>
+more. This will not unfortunately be the
+more. This will not unfortunately be the
+last<00:09:44.000><c> time</c><00:09:44.240><c> that</c><00:09:44.480><c> we</c><00:09:44.640><c> have</c><00:09:44.720><c> this</c><00:09:44.959><c> kind</c><00:09:45.120><c> of</c><00:09:45.200><c> a</c>
+last time that we have this kind of a
+last time that we have this kind of a
+threat<00:09:45.600><c> and</c><00:09:45.760><c> we</c><00:09:45.920><c> need</c><00:09:46.000><c> to</c><00:09:46.160><c> build</c><00:09:46.320><c> for</c><00:09:46.560><c> it</c>

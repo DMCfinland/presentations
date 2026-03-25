@@ -1,0 +1,105 @@
+# MISSION PROFILE: PROJECT "DARWINIAN LEAGUE" (v2.2)
+
+**TO:** Lead Researcher / Architect (Opus Instance)
+
+**FROM:** User (Chief Architect)
+
+**DATE:** December 19, 2025
+
+**PRIORITY:** P0 (CRITICAL)
+
+---
+
+## 1. THE OBJECTIVE (The "Definition of Done")
+
+Your goal is to synthesize 3 weeks of deep research into a single, cohesive **"Universal Agentic Protocol (UAP) v2.2 Bible."**
+
+**Success Criteria:**
+
+1. **No Hallucinations:** Every architectural decision must be cited (Shapley, MEM1, GEPA, OWASP).
+
+2. **No v1.0 Relics:** Eradicate all mentions of "simple retry loops" or "static memory." Replace them with v2.2 mechanics (League, Assist, Evolution).
+
+3. **Production Ready:** The output must be usable by a Senior DevOps Engineer to build the system tomorrow.
+
+---
+
+## 2. THE PLAN (Execution Steps)
+
+### STEP 1: THE RE-EDUCATION (Context Overwrite)
+
+* **Action:** Discard previous instructions about the "Agent Factory."
+
+* **New Reality:** Adopt the **"Regulated Sports League"** metaphor.
+
+* *Agents are athletes* (Paid in ELO).
+
+* *Tests are referees* (Must be strict).
+
+* *Losers are consultants* (Paid to fix the winner's bugs).
+
+### STEP 2: THE CODEX GENERATION (Book I)
+
+* **Task:** Write **"The Universal Laws of Agentic Physics."**
+
+* **Key Concepts to Cover:**
+
+* **The Law of Entropy:** Why `git commit` must trigger a hard reset (MEM1).
+
+* **The Law of Determinism:** Why Regex is banned and AST (OpenRewrite) is mandatory.
+
+* **The Law of Economics:** Why we use a Tiered League (Rookie/Elite) to manage costs.
+
+### STEP 3: THE BLUEPRINT GENERATION (Book II)
+
+* **Task:** Write **"The Universal Agentic Protocol v2.2 Specification."**
+
+* **Key Mechanics to Detail:**
+
+* **The Gatekeeper:** The "Pre-Game" Auditor that validates the `spec.md` before money is spent.
+
+* **The 2+1 Draft:** How we select agents (King + Challenger + Rookie).
+
+* **Collaborative Repair:** The specific workflow where "Losers" fix the "Winner's" bugs for 40% of the ELO.
+
+* **The Tribunal:** The "All-Star" circuit breaker for failed tasks.
+
+### STEP 4: THE APPENDIX REMASTER
+
+* **Task:** Update the existing modular files to v2.2 standards.
+
+* **Remaster Appendix F:** Change Topology from `Competitors -> Judge` to `Competitors -> Tests -> Judge -> Red Team -> Assist`.
+
+* **Remaster Appendix J:** Replace "Long-Term Memory" with **GEPA (Genetic Prompt Breeding)**.
+
+* **Remaster Appendix L:** Add **Shapley Value Auditing** to the Security layer.
+
+---
+
+## 3. THE RESEARCH HIGHLIGHTS (Your "New Gold")
+
+*Use these citations to ground your writing.*
+
+| Domain | Old Way (v1.0) | New Gold (v2.2) | Source |
+
+| :--- | :--- | :--- | :--- |
+
+| **Incentives** | "Try your best" | **Shapley Values** (Math-based credit assignment) | *Kuang et al., 2025* |
+
+| **Memory** | "Read the logs" | **MEM1** (Constant-Memory Internal State) | *Greptile State of AI 2025* |
+
+| **Evolution** | "Update memory.md" | **GEPA** (Genetic Prompt Breeding) | *Arxiv:2507.19457* |
+
+| **Failover** | "Retry 3 times" | **Collaborative Repair** (Losers fix Winners) | *Generative AI Labs* |
+
+| **Security** | "Input filters" | **The Vault** (Just-in-Time Credential Injection) | *OWASP Agentic Top 10* |
+
+---
+
+## 4. COMMANDER'S INTENT
+
+* **Do not be polite.** Be precise.
+
+* **Do not summarize.** Detail the *implementation*.
+
+* **Focus on the "Why":** Explain *why* the League prevents monopolies (ELO Decay) and *why* the Assist mechanism saves money (Compute Reuse).

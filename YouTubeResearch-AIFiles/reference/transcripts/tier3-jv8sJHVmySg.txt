@@ -1,0 +1,141 @@
+I<00:00:00.320><c> spent</c><00:00:00.560><c> more</c><00:00:00.719><c> than</c><00:00:00.880><c> 20</c><00:00:01.199><c> hours</c><00:00:01.439><c> following</c><00:00:01.839><c> AI</c>
+I spent more than 20 hours following AI
+I spent more than 20 hours following AI
+stories<00:00:02.480><c> this</c><00:00:02.720><c> week</c><00:00:02.879><c> and</c><00:00:03.200><c> this</c><00:00:03.439><c> is</c><00:00:03.679><c> what</c><00:00:03.919><c> you</c>
+stories this week and this is what you
+stories this week and this is what you
+need<00:00:04.240><c> to</c><00:00:04.319><c> know.</c><00:00:04.560><c> We're</c><00:00:04.720><c> going</c><00:00:04.799><c> to</c><00:00:04.880><c> go</c><00:00:04.960><c> into</c>
+need to know. We're going to go into
+need to know. We're going to go into
+strategic<00:00:05.680><c> principles</c><00:00:06.080><c> first.</c><00:00:06.400><c> We're</c><00:00:06.480><c> going</c>
+strategic principles first. We're going
+strategic principles first. We're going
+to<00:00:06.720><c> get</c><00:00:06.799><c> to</c><00:00:06.960><c> those</c><00:00:07.120><c> stories</c><00:00:07.520><c> second</c><00:00:07.839><c> and</c><00:00:08.000><c> then</c>
+to get to those stories second and then
+to get to those stories second and then
+I'm<00:00:08.240><c> going</c><00:00:08.320><c> to</c><00:00:08.400><c> give</c><00:00:08.480><c> you</c><00:00:08.639><c> takeaways</c><00:00:09.120><c> third.</c>
+I'm going to give you takeaways third.
+I'm going to give you takeaways third.
+So<00:00:10.080><c> strategic</c><00:00:10.559><c> principles</c><00:00:10.960><c> that</c><00:00:11.120><c> came</c><00:00:11.280><c> out</c>
+So strategic principles that came out
+So strategic principles that came out
+this<00:00:11.599><c> week</c><00:00:12.000><c> platform</c><00:00:12.639><c> consolidation</c><00:00:13.519><c> thesis</c>
+this week platform consolidation thesis
+this week platform consolidation thesis
+is<00:00:14.639><c> intact.</c><00:00:15.360><c> The</c><00:00:15.599><c> major</c><00:00:15.920><c> AI</c><00:00:16.240><c> labs</c><00:00:16.640><c> anthropic</c>
+is intact. The major AI labs anthropic
+is intact. The major AI labs anthropic
+openai,<00:00:17.760><c> Microsoft,</c><00:00:18.320><c> Google</c><00:00:18.720><c> are</c><00:00:18.880><c> racing</c><00:00:19.199><c> to</c>
+openai, Microsoft, Google are racing to
+openai, Microsoft, Google are racing to
+own<00:00:19.600><c> the</c><00:00:19.920><c> complete</c><00:00:20.320><c> agent</c><00:00:21.039><c> layer</c><00:00:21.359><c> directly.</c>
+own the complete agent layer directly.
+own the complete agent layer directly.
+Middleware<00:00:22.640><c> and</c><00:00:22.880><c> thin</c><00:00:23.119><c> wrapper</c><00:00:23.519><c> companies</c>
+Middleware and thin wrapper companies
+Middleware and thin wrapper companies
+face<00:00:24.240><c> commoditization</c><00:00:25.119><c> risk</c><00:00:25.519><c> as</c><00:00:25.840><c> platforms</c>
+face commoditization risk as platforms
+face commoditization risk as platforms
+are<00:00:26.640><c> embedding</c><00:00:27.119><c> agent</c><00:00:27.519><c> capabilities</c>
+are embedding agent capabilities
+are embedding agent capabilities
+natively.<00:00:28.960><c> Second,</c><00:00:29.599><c> simplicity</c><00:00:30.320><c> continues</c>
+natively. Second, simplicity continues
+natively. Second, simplicity continues
+to<00:00:30.960><c> beat</c><00:00:31.279><c> infrastructure.</c><00:00:32.320><c> Most</c><00:00:32.640><c> effective</c>
+to beat infrastructure. Most effective
+to beat infrastructure. Most effective
+AI<00:00:33.360><c> workflows</c><00:00:33.840><c> avoid</c><00:00:34.239><c> elaborate</c>
+AI workflows avoid elaborate
+AI workflows avoid elaborate
+scaffolding.<00:00:35.440><c> Natural</c><00:00:35.840><c> language</c><00:00:36.160><c> iteration</c>
+scaffolding. Natural language iteration
+scaffolding. Natural language iteration
+outperforms<00:00:37.200><c> complicated</c><00:00:37.760><c> prompt</c>
+outperforms complicated prompt
+outperforms complicated prompt
+engineering<00:00:38.559><c> and</c><00:00:38.719><c> rag</c><00:00:39.040><c> systems.</c><00:00:39.760><c> You</c><00:00:40.000><c> can</c><00:00:40.160><c> get</c>
+engineering and rag systems. You can get
+engineering and rag systems. You can get
+to<00:00:40.559><c> minimal</c><00:00:40.960><c> overhead</c><00:00:41.360><c> approaches</c><00:00:41.760><c> that</c><00:00:42.000><c> take</c>
+to minimal overhead approaches that take
+to minimal overhead approaches that take
+you<00:00:42.399><c> really,</c><00:00:42.640><c> really</c><00:00:42.960><c> far.</c><00:00:43.520><c> Third,</c><00:00:44.239><c> vertical</c>
+you really, really far. Third, vertical
+you really, really far. Third, vertical
+integration<00:00:45.440><c> is</c><00:00:45.840><c> a</c><00:00:46.079><c> wave.</c><00:00:46.800><c> Companies</c><00:00:47.200><c> are</c>
+integration is a wave. Companies are
+integration is a wave. Companies are
+controlling<00:00:47.920><c> full</c><00:00:48.239><c> compute</c><00:00:48.640><c> stacks</c><00:00:49.039><c> and</c>
+controlling full compute stacks and
+controlling full compute stacks and
+continuing<00:00:49.760><c> to</c><00:00:49.920><c> invest</c><00:00:50.320><c> aggressively</c><00:00:50.960><c> in</c>
+continuing to invest aggressively in
+continuing to invest aggressively in
+supply<00:00:51.600><c> sovereignty.</c><00:00:52.559><c> Custom</c><00:00:53.039><c> silicon</c><00:00:53.600><c> is</c>
+supply sovereignty. Custom silicon is
+supply sovereignty. Custom silicon is
+becoming<00:00:54.320><c> the</c><00:00:54.640><c> way</c><00:00:54.800><c> to</c><00:00:55.039><c> go</c><00:00:55.120><c> with</c><00:00:55.360><c> AI.</c><00:00:56.000><c> Fourth,</c>
+becoming the way to go with AI. Fourth,
+becoming the way to go with AI. Fourth,
+discovery<00:00:57.760><c> versus</c><00:00:58.320><c> search</c><00:00:59.199><c> is</c><00:00:59.680><c> a</c><00:01:00.000><c> big</c>
+discovery versus search is a big
+discovery versus search is a big
+paradigm<00:01:00.800><c> shift</c><00:01:01.039><c> and</c><00:01:01.199><c> we're</c><00:01:01.359><c> seeing</c><00:01:01.600><c> beat</c>
+paradigm shift and we're seeing beat
+paradigm shift and we're seeing beat
+after<00:01:02.239><c> beat</c><00:01:02.559><c> after</c><00:01:02.879><c> beat</c><00:01:03.199><c> on</c><00:01:03.440><c> that</c><00:01:03.920><c> week</c><00:01:04.239><c> over</c>
+after beat after beat on that week over
+after beat after beat on that week over
+week.<00:01:05.119><c> Commerce</c><00:01:05.439><c> and</c><00:01:05.600><c> workflows</c><00:01:06.080><c> are</c><00:01:06.240><c> moving</c>
+week. Commerce and workflows are moving
+week. Commerce and workflows are moving
+from<00:01:06.640><c> explicit</c><00:01:07.119><c> search</c><00:01:07.439><c> queries</c><00:01:07.840><c> into</c>
+from explicit search queries into
+from explicit search queries into
+conversational<00:01:08.880><c> intent</c><00:01:09.280><c> discovery.</c><00:01:10.080><c> Massive</c>
+conversational intent discovery. Massive
+conversational intent discovery. Massive
+implications<00:01:11.119><c> for</c><00:01:11.439><c> marketers.</c><00:01:12.240><c> Finally,</c><00:01:12.960><c> AI</c>
+implications for marketers. Finally, AI
+implications for marketers. Finally, AI
+is<00:01:13.680><c> a</c><00:01:13.920><c> scientific</c><00:01:14.560><c> discovery</c><00:01:15.040><c> engine.</c><00:01:15.680><c> We're</c>
+is a scientific discovery engine. We're
+is a scientific discovery engine. We're
+transitioning<00:01:16.400><c> from</c><00:01:16.640><c> data</c><00:01:17.040><c> hypothesis</c><00:01:17.920><c> and</c>
+transitioning from data hypothesis and
+transitioning from data hypothesis and
+analysis<00:01:19.200><c> hypotheticals</c><00:01:20.400><c> to</c><00:01:21.200><c> cancer</c><00:01:21.600><c> models</c>
+analysis hypotheticals to cancer models
+analysis hypotheticals to cancer models
+that<00:01:22.240><c> demonstrate</c><00:01:22.799><c> novel</c><00:01:23.439><c> externally</c><00:01:24.000><c> and</c>
+that demonstrate novel externally and
+that demonstrate novel externally and
+experimentally<00:01:25.040><c> validated</c><00:01:25.680><c> scientific</c>
+experimentally validated scientific
+experimentally validated scientific
+insights.<00:01:26.960><c> Let's</c><00:01:27.200><c> get</c><00:01:27.280><c> into</c><00:01:27.520><c> the</c><00:01:27.680><c> stories</c>
+insights. Let's get into the stories
+insights. Let's get into the stories
+that<00:01:28.720><c> delivered</c><00:01:29.439><c> those</c><00:01:30.000><c> beats.</c><00:01:30.479><c> Story</c><00:01:30.799><c> number</c>
+that delivered those beats. Story number
+that delivered those beats. Story number
+one,<00:01:31.360><c> Anthropic</c><00:01:32.159><c> launched</c><00:01:32.640><c> Claude</c><00:01:33.040><c> Skills.</c>
+one, Anthropic launched Claude Skills.
+one, Anthropic launched Claude Skills.
+It's<00:01:33.600><c> a</c><00:01:33.759><c> reusable</c><00:01:34.320><c> agent</c><00:01:34.720><c> customization</c>
+It's a reusable agent customization
+It's a reusable agent customization
+platform<00:01:35.840><c> that</c><00:01:36.079><c> packages</c><00:01:36.640><c> instructions,</c>
+platform that packages instructions,
+platform that packages instructions,
+scripts,<00:01:37.759><c> resources</c><00:01:38.240><c> together.</c><00:01:38.560><c> I</c><00:01:38.720><c> did</c><00:01:38.880><c> a</c>
+scripts, resources together. I did a
+scripts, resources together. I did a
+whole<00:01:39.200><c> video</c><00:01:39.360><c> on</c><00:01:39.520><c> it.</c><00:01:39.680><c> I</c><00:01:39.840><c> think</c><00:01:39.920><c> it's</c><00:01:40.159><c> one</c><00:01:40.240><c> of</c>
+whole video on it. I think it's one of
+whole video on it. I think it's one of
+the<00:01:40.479><c> biggest</c><00:01:40.799><c> releases</c><00:01:41.280><c> of</c><00:01:41.439><c> the</c><00:01:41.680><c> year.</c><00:01:42.159><c> It</c>
+the biggest releases of the year. It
+the biggest releases of the ye

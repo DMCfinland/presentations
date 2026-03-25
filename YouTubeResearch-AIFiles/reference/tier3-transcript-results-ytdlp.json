@@ -1,0 +1,610 @@
+[
+  {
+    "video_id": "ktZgXtCIYAA",
+    "title": "We Got Claude Code Backwards: It Isn't Just Code\u2013It's Anthropic's Hidden Super-Agent in Plain Sight",
+    "status": "success",
+    "word_count": 5580,
+    "cached": true
+  },
+  {
+    "video_id": "lY6voDZpu3Y",
+    "title": "Nov 2025: My Personal AI Stack\u2014Pros, Cons, and Pitfalls",
+    "status": "success",
+    "word_count": 7210,
+    "cached": true
+  },
+  {
+    "video_id": "i4Jfl1IW-_U",
+    "title": "Stop Burning Tokens: The Contract-First Prompting Blueprint No One Talks About",
+    "status": "success",
+    "word_count": 5953,
+    "cached": true
+  },
+  {
+    "video_id": "aVXtoWm1DEM",
+    "title": "Inside ChatGPT-5's Brain: System Prompt Secrets for First Movers",
+    "status": "success",
+    "word_count": 7731,
+    "cached": true
+  },
+  {
+    "video_id": "uGaHlkMW3JA",
+    "title": "The $1000 Test That Breaks Every AI Model Out There Today",
+    "status": "success",
+    "word_count": 4357,
+    "cached": true
+  },
+  {
+    "video_id": "hMKRBldkWEk",
+    "title": "Get ChatGPT-5 Ready with These Prompting Principles",
+    "status": "success",
+    "word_count": 8887,
+    "cached": true
+  },
+  {
+    "video_id": "Udc19q1o6Mg",
+    "title": "Grab the Inside Scoop on How Google, Anthropic, and Manus Built Long-Running AI Agents",
+    "status": "success",
+    "word_count": 10612,
+    "cached": true
+  },
+  {
+    "video_id": "2qHxfwvIx-I",
+    "title": "Anthropic's Trojan Horse: How Claude Code Plus a Million Tokens Could Win the Workplace",
+    "status": "success",
+    "word_count": 6390,
+    "cached": true
+  },
+  {
+    "video_id": "WKFFFumnzYI",
+    "title": "Claude Skills\u2014From TOY to TOOL: Grab My Tutorial + Custom Skills To Help You Build Skills Fast",
+    "status": "success",
+    "word_count": 13609,
+    "cached": true
+  },
+  {
+    "video_id": "Sno3eqzgmtA",
+    "title": "AI Bubble? Why the Doom Narrative is Wrong",
+    "status": "success",
+    "word_count": 7746,
+    "cached": true
+  },
+  {
+    "video_id": "SLYKFHtKR90",
+    "title": "The New AI Operating System of Work\u2014Goodbye Docs, Hello Executable Artifacts",
+    "status": "success",
+    "word_count": 9261,
+    "cached": true
+  },
+  {
+    "video_id": "XfcZujr426o",
+    "title": "How I Improved AI Output Quality 10X With One Prompting Shift",
+    "status": "success",
+    "word_count": 6935,
+    "cached": true
+  },
+  {
+    "video_id": "7RZlxqMcObE",
+    "title": "Will AI Kill Your Job? 12 Brutal Career Questions Answered",
+    "status": "success",
+    "word_count": 13501,
+    "cached": true
+  },
+  {
+    "video_id": "jv8sJHVmySg",
+    "title": "Claude Skills is BIGGER than Model Context Protocol (MCP)\u2014Here's Why",
+    "status": "success",
+    "word_count": 803,
+    "cached": true
+  },
+  {
+    "video_id": "qw7HDITpTR4",
+    "title": "The Manus Acquisition Explained: Why Meta Paid $2B for a \"Wrapper\"",
+    "status": "success",
+    "word_count": 6950,
+    "cached": true
+  },
+  {
+    "video_id": "CNw443X6dB0",
+    "title": "AI's 4 Power Shifts: Where the Best Tech Jobs Will Emerge in 2026",
+    "status": "success",
+    "word_count": 18370,
+    "cached": true
+  },
+  {
+    "video_id": "T74uZgfu6mU",
+    "title": "The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)",
+    "status": "success",
+    "word_count": 10229,
+    "cached": true
+  },
+  {
+    "video_id": "JdJE6_OU3YA",
+    "title": "AI's Memory Wall: Why Compute Grew 60,000x But Memory Only 100x (PLUS My 8 Principles to Fix)",
+    "status": "success",
+    "word_count": 14956,
+    "cached": true
+  },
+  {
+    "video_id": "hvTGYMq3pfg",
+    "title": "ChatGPT-5 Prompting is Too Hard: This Video Makes it Easy for You",
+    "status": "success",
+    "word_count": 14481,
+    "cached": true
+  },
+  {
+    "video_id": "p-ibfrMN0M8",
+    "title": "NEW Claude Just Launched! Get Full Test Results vs. ChatGPT-5 + How it Saves You Hours",
+    "status": "success",
+    "word_count": 9190,
+    "cached": true
+  },
+  {
+    "video_id": "3fQbxz--nFk",
+    "title": "The Compression of Time in the AI Era",
+    "status": "success",
+    "word_count": 6704,
+    "cached": true
+  },
+  {
+    "video_id": "WNTovbxHwWI",
+    "title": "Claude 4 is out\u2014comparison vs. o3 and Gemini 2.5 pro",
+    "status": "success",
+    "word_count": 4272,
+    "cached": true
+  },
+  {
+    "video_id": "4u48pDYxfHc",
+    "title": "JSON: How I Build Perfect Images in NanoBanana Pro",
+    "status": "success",
+    "word_count": 5912,
+    "cached": true
+  },
+  {
+    "video_id": "ckJN01g13_k",
+    "title": "How Grok Went Rogue on July 8: The Engineering Blunders That Let AI Spew Hate",
+    "status": "success",
+    "word_count": 6769,
+    "cached": true
+  },
+  {
+    "video_id": "vy9pQe-lYDE",
+    "title": "OpenAI's Secret Agent Builder Just Leaked (First Look + Why It Changes Everything)",
+    "status": "success",
+    "word_count": 3256,
+    "cached": true
+  },
+  {
+    "video_id": "IwQYVQ3MohE",
+    "title": "AI Broke the Web: The 7 New Rules of the Game + Why YOU Have an Edge vs Big Companies",
+    "status": "success",
+    "word_count": 11357,
+    "cached": true
+  },
+  {
+    "video_id": "EDcWcPueRSE",
+    "title": "I Tested Both Claude & Codex\u2014They're Building Opposite Futures",
+    "status": "success",
+    "word_count": 9607,
+    "cached": true
+  },
+  {
+    "video_id": "gtkRAXQf49k",
+    "title": "Turn Your Job AI-Native Before Agents Do It For You",
+    "status": "success",
+    "word_count": 7407,
+    "cached": true
+  },
+  {
+    "video_id": "ywIK4dNGFZU",
+    "title": "Why the Best AI Tools Look NOTHING Like ChatGPT",
+    "status": "success",
+    "word_count": 6248,
+    "cached": true
+  },
+  {
+    "video_id": "SW1s22kJ15g",
+    "title": "The Al Bubble is FAKE: 1 Summarized Julian Schrittwieser's Viral Post + Podcast in 20 minutes",
+    "status": "success",
+    "word_count": 11867,
+    "cached": true
+  },
+  {
+    "video_id": "XqwfFbuZF-0",
+    "title": "AI and Jobs Debate is Spiraling: Here are 5+ Skills that Pay",
+    "status": "success",
+    "word_count": 5863,
+    "cached": true
+  },
+  {
+    "video_id": "L32th5fXPw8",
+    "title": "The AI Expertise Bottleneck: How Top 1% Pros Are Scaling Faster Than Ever",
+    "status": "success",
+    "word_count": 5620,
+    "cached": true
+  },
+  {
+    "video_id": "6A3NOedlPWI",
+    "title": "This is the wildest AI intern story I have ever heard",
+    "status": "success",
+    "word_count": 2471,
+    "cached": true
+  },
+  {
+    "video_id": "cW9eaEcx6OY",
+    "title": "Microsoft CoPilot Decoded: 12 Flavors, 20x ROI Playbook",
+    "status": "success",
+    "word_count": 27352,
+    "cached": true
+  },
+  {
+    "video_id": "Vm_v70xhas8",
+    "title": "Managers Are Nuking Your Career: Pay $300-$2000 a Month or Get Left Behind",
+    "status": "success",
+    "word_count": 6070,
+    "cached": true
+  },
+  {
+    "video_id": "6Q76EnHVRms",
+    "title": "I Found the Easiest Way to Build Self-Optimizing AI Prompts (Beginner to Pro Path)",
+    "status": "success",
+    "word_count": 9343,
+    "cached": true
+  },
+  {
+    "video_id": "pMSXPgAUq_k",
+    "title": "Chunking 101: The Invisible Bottleneck Killing Enterprise AI Projects",
+    "status": "success",
+    "word_count": 12378,
+    "cached": true
+  },
+  {
+    "video_id": "zRr24Mku3r4",
+    "title": "n8n: How to build AI agents that don't break",
+    "status": "success",
+    "word_count": 13265,
+    "cached": true
+  },
+  {
+    "video_id": "O_VL5clgN_I",
+    "title": "Everyone's Chasing AI Skills\u2014But Judgement is Now Priceless",
+    "status": "success",
+    "word_count": 8042,
+    "cached": true
+  },
+  {
+    "video_id": "rlJmALoNl5g",
+    "title": "500 AI-Trained Employees Will LOSE to 10 Truly AI-Fluent Ones\u2014Here's Why",
+    "status": "success",
+    "word_count": 10853,
+    "cached": true
+  },
+  {
+    "video_id": "RVviMEfaJUY",
+    "title": "Why Flash Models, Not Frontier Models, Will Win in 2026",
+    "status": "success",
+    "word_count": 8674,
+    "cached": true
+  },
+  {
+    "video_id": "OVTJUykc6B0",
+    "title": "GitHub Shut Down a Major AI Builder Overnight\u2014Here's what happened why it gets worse in 2025",
+    "status": "success",
+    "word_count": 3053,
+    "cached": true
+  },
+  {
+    "video_id": "FQu4iJQeEPM",
+    "title": "Intro to Nate",
+    "status": "success",
+    "word_count": 403,
+    "cached": true
+  },
+  {
+    "video_id": "S-g778Djaas",
+    "title": "FIRE McKinsey: The $20,000 Board Deck You Can Build with AI in 10 Minutes\u2014Prompt Demo!",
+    "status": "success",
+    "word_count": 12752,
+    "cached": true
+  },
+  {
+    "video_id": "Z0wb0y5BVIY",
+    "title": "The 6 Proven AI Workflows That Survive Every AI Hype Cycle",
+    "status": "success",
+    "word_count": 12595,
+    "cached": true
+  },
+  {
+    "video_id": "LNpp73qHbJA",
+    "title": "I Summarized Google's 50 Page AI Agent Paper + Vercel's AI Agent Doc in 8 Minutes: Here's the TLDR",
+    "status": "success",
+    "word_count": 4688,
+    "cached": true
+  },
+  {
+    "video_id": "DdlMoRSojtE",
+    "title": "Everyone is Getting AI Fluency Wrong\u2014Steal My 10 Level Framework That Exposes the Real AI Skill Gap",
+    "status": "success",
+    "word_count": 8676,
+    "cached": true
+  },
+  {
+    "video_id": "61IJSZ6GOuU",
+    "title": "I Spent 200 Hours Teaching AI Writing\u2014Here Are 6 Principles Everyone Gets WRONG (+ Demo Prompt)",
+    "status": "success",
+    "word_count": 8528,
+    "cached": true
+  },
+  {
+    "video_id": "05RRGiF7QC0",
+    "title": "Master Perplexity Prompting -- Why It's Different from ChatGPT + Demo",
+    "status": "success",
+    "word_count": 11042,
+    "cached": true
+  },
+  {
+    "video_id": "hW5ne_14OQg",
+    "title": "AI Just Hijacked 15% of Google Traffic\u2014Win Yours Back",
+    "url": "https://www.youtube.com/watch?v=hW5ne_14OQg",
+    "status": "success",
+    "word_count": 8662,
+    "transcript_file": "/Users/patrickheiskanen/1658HoldingsOy-AIFiles/YouTubeResearch-AIFiles/reference/transcripts/tier3-hW5ne_14OQg.txt"
+  },
+  {
+    "video_id": "iG_CCjdyeX0",
+    "title": "Why \"Pretty Good on First Pass\" Is Costing You Thousands--How To Fix It TODAY",
+    "status": "success",
+    "word_count": 7420,
+    "cached": true
+  },
+  {
+    "video_id": "wOL3n8ErBAc",
+    "title": "2025 came early: the first AI agent is becoming a millionaire today thanks to goat memes",
+    "url": "https://www.youtube.com/watch?v=wOL3n8ErBAc",
+    "status": "success",
+    "word_count": 4172,
+    "transcript_file": "/Users/patrickheiskanen/1658HoldingsOy-AIFiles/YouTubeResearch-AIFiles/reference/transcripts/tier3-wOL3n8ErBAc.txt"
+  },
+  {
+    "video_id": "kWeLc-Dda94",
+    "title": "I've Built Over 100 AI Agents: Only 1% of Builders Know These 6 Principles",
+    "status": "success",
+    "word_count": 6249,
+    "cached": true
+  },
+  {
+    "video_id": "8m2-WKhidYk",
+    "title": "Manus AI: What Manus Tells Us About the Future of AI Agents",
+    "url": "https://www.youtube.com/watch?v=8m2-WKhidYk",
+    "status": "success",
+    "word_count": 14563,
+    "transcript_file": "/Users/patrickheiskanen/1658HoldingsOy-AIFiles/YouTubeResearch-AIFiles/reference/transcripts/tier3-8m2-WKhidYk.txt"
+  },
+  {
+    "video_id": "s1eqzfXCgXI",
+    "title": "The Fork Most Leaders Don\u2019t See: Visibility vs. Execution",
+    "status": "success",
+    "word_count": 7033,
+    "cached": true
+  },
+  {
+    "video_id": "M9MtOXeI8bc",
+    "title": "OpenAI bought Windsurf",
+    "url": "https://www.youtube.com/watch?v=M9MtOXeI8bc",
+    "status": "success",
+    "word_count": 4462,
+    "transcript_file": "/Users/patrickheiskanen/1658HoldingsOy-AIFiles/YouTubeResearch-AIFiles/reference/transcripts/tier3-M9MtOXeI8bc.txt"
+  },
+  {
+    "video_id": "lZw9G1er8eE",
+    "title": "How to Get an AI Job in 2025 (Beyond OpenAI & Big Tech)",
+    "url": "https://www.youtube.com/watch?v=lZw9G1er8eE",
+    "status": "success",
+    "word_count": 7928,
+    "transcript_file": "/Users/patrickheiskanen/1658HoldingsOy-AIFiles/YouTubeResearch-AIFiles/reference/transcripts/tier3-lZw9G1er8eE.txt"
+  },
+  {
+    "video_id": "v1Ham9sIWgo",
+    "title": "5 Big AI Updates + How I Built a $10K-Looking Travel App in 25 Minutes",
+    "status": "failed",
+    "error": "No subtitles available"
+  },
+  {
+    "video_id": "1R73pf5Taco",
+    "title": "Apple and the Priesthood of Irrelevance",
+    "url": "https://www.youtube.com/watch?v=1R73pf5Taco",
+    "status": "success",
+    "word_count": 7092,
+    "transcript_file": "/Users/patrickheiskanen/1658HoldingsOy-AIFiles/YouTubeResearch-AIFiles/reference/transcripts/tier3-1R73pf5Taco.txt"
+  },
+  {
+    "video_id": "8beAhtbnM4Y",
+    "title": "Anthropic AI Copyright Ruling is a BIG Deal: Fair Use Wins, Piracy Loses",
+    "status": "success",
+    "word_count": 3304,
+    "cached": true
+  },
+  {
+    "video_id": "V0YhpeSOuzk",
+    "title": "Prompting is the Wild West: Here's the Prompt Lifecycle Guide + 19 Tools + a Demo",
+    "url": "https://www.youtube.com/watch?v=V0YhpeSOuzk",
+    "status": "success",
+    "word_count": 9844,
+    "transcript_file": "/Users/patrickheiskanen/1658HoldingsOy-AIFiles/YouTubeResearch-AIFiles/reference/transcripts/tier3-V0YhpeSOuzk.txt"
+  },
+  {
+    "video_id": "uVZMc-i5EEs",
+    "title": "I Tracked Every AI Win & Failure in 2025. Here's What Actually Worked (9 Surprises)",
+    "url": "https://www.youtube.com/watch?v=uVZMc-i5EEs",
+    "status": "success",
+    "word_count": 8178,
+    "transcript_file": "/Users/patrickheiskanen/1658HoldingsOy-AIFiles/YouTubeResearch-AIFiles/reference/transcripts/tier3-uVZMc-i5EEs.txt"
+  },
+  {
+    "video_id": "ahHgc6GOb-M",
+    "title": "OpenAI Agent Mode: 58 Minutes for Cupcakes\u2014Should You Trust It?",
+    "url": "https://www.youtube.com/watch?v=ahHgc6GOb-M",
+    "status": "success",
+    "word_count": 6227,
+    "transcript_file": "/Users/patrickheiskanen/1658HoldingsOy-AIFiles/YouTubeResearch-AIFiles/reference/transcripts/tier3-ahHgc6GOb-M.txt"
+  },
+  {
+    "video_id": "x_fsaOnqbeo",
+    "title": "The 5 AI Shifts That Will Reshape 2026: On-Device Agents + 4 More Critical AI Trends",
+    "url": "https://www.youtube.com/watch?v=x_fsaOnqbeo",
+    "status": "success",
+    "word_count": 15236,
+    "transcript_file": "/Users/patrickheiskanen/1658HoldingsOy-AIFiles/YouTubeResearch-AIFiles/reference/transcripts/tier3-x_fsaOnqbeo.txt"
+  },
+  {
+    "video_id": "sf_OYY9lMlw",
+    "title": "ChatGPT 5 Won't Save You: 10 Reasons Why Your AI Strategy is Failing",
+    "url": "https://www.youtube.com/watch?v=sf_OYY9lMlw",
+    "status": "success",
+    "word_count": 12569,
+    "transcript_file": "/Users/patrickheiskanen/1658HoldingsOy-AIFiles/YouTubeResearch-AIFiles/reference/transcripts/tier3-sf_OYY9lMlw.txt"
+  },
+  {
+    "video_id": "nQcy-YlYpng",
+    "title": "Burnout Is the Feature: Why 75% of PMs Are Breaking--and How to Stop It",
+    "url": "https://www.youtube.com/watch?v=nQcy-YlYpng",
+    "status": "success",
+    "word_count": 7140,
+    "transcript_file": "/Users/patrickheiskanen/1658HoldingsOy-AIFiles/YouTubeResearch-AIFiles/reference/transcripts/tier3-nQcy-YlYpng.txt"
+  },
+  {
+    "video_id": "XOEMnCOTvnI",
+    "title": "The Best Al Note System Looks NOTHING Like ChatGPT (FREE Tool + Demo and Prompt Tips)",
+    "url": "https://www.youtube.com/watch?v=XOEMnCOTvnI",
+    "status": "success",
+    "word_count": 193,
+    "transcript_file": "/Users/patrickheiskanen/1658HoldingsOy-AIFiles/YouTubeResearch-AIFiles/reference/transcripts/tier3-XOEMnCOTvnI.txt"
+  },
+  {
+    "video_id": "7NjtPH8VMAU",
+    "title": "The \"Human Throttle\" Problem That's Killing Enterprise AI Agent ROI",
+    "status": "success",
+    "word_count": 10523,
+    "cached": true
+  },
+  {
+    "video_id": "biJqOrsYN70",
+    "title": "ChatGPT's \"4x Faster\" Image Update vs. Google Nano Banana Pro: I Ran 9 Brutal Tests",
+    "status": "failed",
+    "error": "No subtitles available"
+  },
+  {
+    "video_id": "BYKUwsQOA8U",
+    "title": "The A-to-Z AI Literacy Guide (2025 Edition)",
+    "status": "success",
+    "word_count": 21065,
+    "cached": true
+  },
+  {
+    "video_id": "-5zFZznthw0",
+    "title": "The Al Prompting Mistake CostingYou Hours Every Week (10 Prompts to Fix It)",
+    "url": "https://www.youtube.com/watch?v=-5zFZznthw0",
+    "status": "success",
+    "word_count": 6190,
+    "transcript_file": "/Users/patrickheiskanen/1658HoldingsOy-AIFiles/YouTubeResearch-AIFiles/reference/transcripts/tier3--5zFZznthw0.txt"
+  },
+  {
+    "video_id": "JdTgxpfCa3E",
+    "title": "The Honest Case for AI Note-Taking\u2014From a Skeptic",
+    "status": "success",
+    "word_count": 8807,
+    "cached": true
+  },
+  {
+    "video_id": "KT4v_I9zvH4",
+    "title": "I Spent Months Studying the AI Job Market\u2014Here are 5 Secrets to Stand Out No One is Talking About",
+    "url": "https://www.youtube.com/watch?v=KT4v_I9zvH4",
+    "status": "success",
+    "word_count": 9030,
+    "transcript_file": "/Users/patrickheiskanen/1658HoldingsOy-AIFiles/YouTubeResearch-AIFiles/reference/transcripts/tier3-KT4v_I9zvH4.txt"
+  },
+  {
+    "video_id": "Jl7wX80nxlo",
+    "title": "ChatGPT 4.1 vs Gemini 2.5\u2014analysis both on test results and actual usage",
+    "status": "success",
+    "word_count": 2128,
+    "cached": true
+  },
+  {
+    "video_id": "BWEAbgGZryk",
+    "title": "Why GPT-5 Writes Like a Robot (And How to Jailbreak It)",
+    "url": "https://www.youtube.com/watch?v=BWEAbgGZryk",
+    "status": "success",
+    "word_count": 12022,
+    "transcript_file": "/Users/patrickheiskanen/1658HoldingsOy-AIFiles/YouTubeResearch-AIFiles/reference/transcripts/tier3-BWEAbgGZryk.txt"
+  },
+  {
+    "video_id": "a8laYqv-CN8",
+    "title": "ChatGPT o3: Model Breakdown vs. Gemini 2.5 Pro, o3 Work Skills, Plus AI Landscape Review post-o3",
+    "url": "https://www.youtube.com/watch?v=a8laYqv-CN8",
+    "status": "success",
+    "word_count": 7270,
+    "transcript_file": "/Users/patrickheiskanen/1658HoldingsOy-AIFiles/YouTubeResearch-AIFiles/reference/transcripts/tier3-a8laYqv-CN8.txt"
+  },
+  {
+    "video_id": "HDVG8RKYX9s",
+    "title": "AI Certifications Focus on Tools NOT Skills\u2014Here's a Better Way",
+    "status": "success",
+    "word_count": 19370,
+    "cached": true
+  },
+  {
+    "video_id": "_g1LFxC31EY",
+    "title": "AI Trends 2025: Mary Meeker Deck Deep Dive Part 1",
+    "url": "https://www.youtube.com/watch?v=_g1LFxC31EY",
+    "status": "success",
+    "word_count": 21158,
+    "transcript_file": "/Users/patrickheiskanen/1658HoldingsOy-AIFiles/YouTubeResearch-AIFiles/reference/transcripts/tier3-_g1LFxC31EY.txt"
+  },
+  {
+    "video_id": "oqgk6fdjnno",
+    "title": "OpenAI Just Launched a SOCIAL NETWORK\u2014This Changes Everything (Sora 2 Breakdown)",
+    "status": "failed",
+    "error": "No subtitles available"
+  },
+  {
+    "video_id": "9IETDveRCQs",
+    "title": "NEW Study: 84% of Companies Have Data Stacks That Won't Work With AI",
+    "status": "failed",
+    "error": "No subtitles available"
+  },
+  {
+    "video_id": "bjcDgqKgvho",
+    "title": "The 9 Hard Truths Killing AI Products Before They Ship",
+    "status": "failed",
+    "error": "No subtitles available"
+  },
+  {
+    "video_id": "R-CASOusCJo",
+    "title": "Million Token Context Windows? Myth Busted\u2014Limits & Fixes",
+    "status": "failed",
+    "error": "No subtitles available"
+  },
+  {
+    "video_id": "prODjJ9oQyM",
+    "title": "The 800 Million User Trap: Why OpenAI's Dev Day Changes Everything (and Nothing)",
+    "status": "success",
+    "word_count": 12010,
+    "cached": true
+  },
+  {
+    "video_id": "obqjIoKaqdM",
+    "title": "Stop Asking for AI Agents When You're Not Ready for Them\u2014Here's What You Really Need",
+    "url": "https://www.youtube.com/watch?v=obqjIoKaqdM",
+    "status": "success",
+    "word_count": 8850,
+    "transcript_file": "/Users/patrickheiskanen/1658HoldingsOy-AIFiles/YouTubeResearch-AIFiles/reference/transcripts/tier3-obqjIoKaqdM.txt"
+  },
+  {
+    "video_id": "uCVjXKFyiEQ",
+    "title": "I Tested Claude & ChatGPT's New Knowledge Connectors\u2014Here's Your TLDR + Pros & Cons",
+    "status": "success",
+    "word_count": 5401,
+    "cached": true
+  }
+]

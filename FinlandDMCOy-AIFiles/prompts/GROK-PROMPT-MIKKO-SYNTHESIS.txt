@@ -1,0 +1,67 @@
+OUTPUT FORMAT: Structure as: (1) Who Mikko actually is — mental model, thinking style, recurring intellectual obsessions across all ventures, (2) The 7-venture pattern map — what each company was, what failed/succeeded, what the through-line is from Nokia Bell Labs to Agion, (3) Finnish YouTube deep-read — what he says in Finnish that he doesn't say in English, key claims from each show found, verbatim quotes where possible, (4) Ajattelun kiihdytin — what this concept actually is, where it appears, what it means for his personal methodology, (5) What Agion is actually building vs. what he says publicly — gap analysis, (6) Lucas's challenges — where the public narrative doesn't hold up under scrutiny, (7) The real question: is Mikko a visionary builder or a keynote narrator? Evidence for both sides. Label every data point with [Harper], [Benjamin], or [Lucas].
+
+GOAL: Deep personal study of Mikko Alasaarela as a thinker and builder. We have done two rounds of Agion/HLR research. This round focuses entirely on the MAN — his intellectual DNA, his Finnish-language content, his patterns across ventures, and whether his public persona matches what he's actually building.
+
+CONTEXT:
+- What we already know: Agion = AI-Native Governance OS, 5 AANG pillars, HLR metric (unverified), €1M revenue 6 months, Valtiokonttori customer, investors Mykkänen (Wolt) + Lahtela (Oura). Inbot shut down 2019 (not a confirmed exit). "200x personal leverage" claim not found in any indexed source.
+- What we don't know: His actual personal methodology day-to-day. What "ajattelun kiihdytin" (thinking accelerator) means. What he says in Finnish that reveals more than his English keynotes. What the connecting thread is across his 7 ventures. Whether "3 exits" is real.
+- Why it matters: If he operates at civilizational scale of thinking ("public sector as agent farm"), his mental models are worth extracting regardless of whether Agion succeeds.
+- This is a study of a person, not a product. Challenge the hagiography.
+
+<prior_research_confirmed>
+MIKKO VERIFIED PUBLIC CLAIMS:
+- Solteq podcast 2024: "tiny fraction... 1%... 10x or 1000x productivity. Most see 10-30%"
+- SHIFT Business Festival 2025: Finland world productivity leader IF faster adoption
+- #neuvottelija ep.346 Aug 2025 (host Sami Miettinen): "Julkinen sektori agenttifarmiksi"
+- Nokia Bell Labs background + EIR role on Ambion AI scaling ($30B revenue context)
+- 7 startups claimed, 3 exits claimed, aggregate >$30M raised claimed
+- Inbot: founded ~2013-2014, AI sales chatbot + InToken crypto, Berlin/Helsinki, shut down 2019
+- Norders podcast "Ajattelu tekoälyn aikakaudella" — EXISTS, no transcript found yet
+
+AGION VERIFIED:
+- Founded 2024, out of stealth Dec 2025, Helsinki
+- Co-founders: Mikko Alasaarela (Chair) + others unnamed
+- Product: Agentic OS for Sovereign Enterprise (AANG framework)
+- Zero open-source footprint — closed source entirely
+</prior_research_confirmed>
+
+COLLABORATION PROTOCOL: Parallel — Harper and Benjamin run simultaneously, then Lucas challenges. Grok Captain synthesizes after Lucas. Do not converge on a flattering conclusion about Mikko — treat him as a subject of study, not a hero.
+
+TOOL ACTIVATION:
+
+Harper — AGGRESSIVE search with grounding. Your primary job this round is Finnish-language YouTube:
+1. Search for Mikko Alasaarela's Finnish YouTube appearances: "@alasaarela" site:youtube.com, "Mikko Alasaarela" site:youtube.com, "Mikko Alasaarela" podcast Finland 2024 2025, "ajattelun kiihdytin" Mikko Alasaarela, "Mikko Alasaarela" haastattelu OR podcast OR luento 2024 2025
+2. Find all 10 Finnish YouTube shows he has appeared in. For each: title, channel, date, approximate runtime, what topic was covered, any verbatim quotes found in titles/descriptions/comments/transcripts
+3. Search specifically for: "Norders" Mikko Alasaarela podcast, Mikko Alasaarela "Solteq" podcast full, Mikko Alasaarela SHIFT 2024 OR 2025 speech, "Mikko Alasaarela" LinkedIn posts 2025 (his own writing), "@alasaarela" x.com most recent posts
+4. Search for his company history: "Mikko Alasaarela" Equel Social, "Mikko Alasaarela" Atlan, "Mikko Alasaarela" Linko, "Mikko Alasaarela" Nokia Bell Labs EIR, Inbot "acquisition" OR "exit" OR "shutdown" 2019
+5. Search for any Finnish-language articles about his thinking methodology specifically: "Mikko Alasaarela" ajattelu OR metodologia OR työtapa OR tekoäly OR henkilökohtainen tuottavuus
+
+Benjamin — Build the venture pattern analysis:
+1. Map each known venture chronologically: Nokia Bell Labs EIR → Inbot (2013-2019) → [unknown ventures] → Agion (2024-present). For each: problem being solved, technology approach, business model, outcome. Use what Harper finds.
+2. Find the invariant: what is the ONE thing that appears in every venture regardless of domain? (Not the technology — the underlying belief or mental model)
+3. Analyze the fundraising pattern: $30M+ claimed across ventures but Inbot shut down. What does this tell us about his relationship with capital vs. product-market fit?
+4. If Agion raises Series A at current revenue trajectory (€1M/6mo = €2M ARR), what is the implied valuation range? What do Finnish/Baltic SaaS multiples look like for governance tools? This is relevant context for understanding whether Agion is a real business or a funded narrative.
+
+Lucas — Challenge the public narrative hard:
+1. "3 exits" — what is the evidence? Inbot shut down. What are the other 2? If they can't be verified, this is resume inflation.
+2. "Nokia Bell Labs background" — EIR (Entrepreneur in Residence) is NOT the same as being a Bell Labs researcher. What does that actually mean on his resume?
+3. The "ajattelun kiihdytin" / "thinking accelerator" concept — if it appears only in a podcast title and nowhere else documented, is it a real methodology or a brand narrative? What distinguishes a genuine intellectual framework from a keynote persona?
+4. Finnish tech bubble context: Wolt co-founder investing in Agion — is this a real validation signal or is Finnish tech small enough that 3 people invest in everything?
+5. Civilizational scale rhetoric ("public sector as agent farm", "Finland world productivity leader") — what is the base rate for Finnish entrepreneurs making these claims vs. delivering on them?
+
+Grok Captain: Synthesize after Lucas. The final synthesis must answer: Is Mikko Alasaarela a rare systems-level thinker whose mental models are worth studying, or is he a skilled narrative architect whose ideas are compelling but not unique? Show the evidence for BOTH conclusions. Do not settle on one.
+
+CONSTRAINTS:
+1. Harper MUST find and name at least 5 of the 10 Finnish YouTube shows — titles, channels, dates. If fewer than 5 found, say explicitly what searches were run and returned nothing.
+2. Benjamin MUST map at least 4 ventures in the chronological pattern analysis — use what Harper finds, not just prior rounds.
+3. Lucas MUST address the "3 exits" claim with specific evidence or explicit statement that no evidence was found.
+4. If "ajattelun kiihdytin" appears anywhere in any source — quote it verbatim with source. If not found — say so explicitly.
+5. Do NOT repeat Agion product specs from prior rounds. This round is about the person.
+
+QUALITY BAR:
+- Include: named YouTube shows with dates, at least one verbatim Mikko quote in Finnish with translation, venture chronology with outcomes, Lucas's specific finding on "3 exits"
+- Avoid: generic "he is a visionary entrepreneur" statements without evidence, Agion product restatements from round 1-2
+- The synthesis must be useful for someone deciding whether to study Mikko's mental models further, invest time in his content, or contact him about AI infrastructure
+- If the Finnish YouTube content reveals a different Mikko than the English keynote persona — surface that gap explicitly
+
+VERBOSITY: Deep and exhaustive. Full depth on every section. No compression. Every claim sourced.

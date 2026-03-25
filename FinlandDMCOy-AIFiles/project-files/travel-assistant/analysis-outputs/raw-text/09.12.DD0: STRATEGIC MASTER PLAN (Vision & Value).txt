@@ -1,0 +1,99 @@
+DD0: STRATEGINEN VISIO & ARVOLUPAUS
+
+Projekti: Finland DMC Personal Travel Assistant Versio: 1.1 (Final Strategic Definition) Kohderyhmä: Omistajat, Johto, Sijoittajat, Avainkumppanit
+
+1. LIIKETOIMINNAN HAASTE JA RATKAISU
+
+Haaste: Matkailijan kokemus on pirstaleinen
+
+Nykyinen matkailija joutuu etsimään tietoa kymmenistä eri lähteistä: hotellin verkkosivuilta, Googlesta, sääsovelluksista ja satunnaisista esitteistä. DMC:n (Destination Management Company) näkökulmasta yhteys asiakkaaseen usein katkeaa varauksen jälkeen, jolloin arvokas lisämyynti ja asiakaskokemuksen hallinta menetetään.
+
+Ratkaisu: Finland Personal Travel Assistant
+
+Rakennamme älykkään, digitaalisen matkakumppanin, joka yhdistää paikallisen oppaan asiantuntemuksen ja huipputason conciergen palvelualttiuden. Se ei ole vain passiivinen "info-botti", vaan proaktiivinen myynti- ja palvelukanava, joka kulkee asiakkaan mukana 24/7.
+
+Ydinajatus: Palvelu ennakoi asiakkaan tarpeet – sään, sijainnin ja henkilökohtaisten mieltymysten perusteella – ennen kuin asiakas ehtii edes kysyä.
+
+2. ARVOLUPAUS SIDOSRYHMILLE (Win-Win-Win-Win)
+
+Järjestelmä on suunniteltu tuottamaan arvoa neljälle eri osapuolelle samanaikaisesti.
+
+A. Asiakas (Matkailija)
+
+- Henkilökohtainen opas taskussa: Asiakas saa kuratoituja suosituksia juuri hänelle sopivista elämyksistä. Lapsiperheelle suositellaan turvallisia aktiviteetteja, pariskunnille rauhallisia elämyksiä.
+
+- Turvallisuus ja Helppous: Yksi helppokäyttöinen sovellus (ilman latauksia tai salasanoja) hoitaa kaiken. Jos tulee hätä tai ongelma, yhteys ihmiseen on aina saatavilla.
+
+- Säävarma loma: Järjestelmä varoittaa sateesta ja ehdottaa korvaavaa sisätekemistä ajoissa, pelastaen lomapäivän.
+
+B. Finland DMC (Me)
+
+- "Share of Wallet" -kasvu: Emme tyydy pelkkään majoitusmyyntiin. Järjestelmä toimii aktiivisena myyjänä, joka ohjaa asiakkaan kulutusta myös ravintoloihin, välinevuokriin ja aktiviteetteihin paikan päällä.
+
+- Skaalautuva palvelu: Tekoäly hoitaa rutiinikysymykset (aukioloajat, hinnat, ohjeet), mikä vapauttaa henkilökunnan resurssit korkean arvon asiakaspalveluun ja myyntiin.
+
+- Ansaintamalli: Komissiotulot välitetyistä palveluista ja mahdollinen teknologian lisensointi.
+
+C. Partnerit (Palveluntarjoajat)
+
+- Valmista kauppaa: Tuomme heidän ovelleen ostovalmiita asiakkaita ilman, että heidän tarvitsee panostaa markkinointiin.
+
+- Markkinadata: Tarjoamme kumppaneillemme arvokasta palautetta (esim. "Tuotteenne kiinnostaa, mutta koetaan liian kalliiksi tälle kohderyhmälle").
+
+D. B2B-Asiakkaat (Matkatoimistot)
+
+- Kilpailuetu: Voimme tarjota matkatoimistoille (esim. KonTiki) heidän omalla brändillään varustetun sovelluksen. Tämä sitouttaa matkatoimiston käyttämään meidän palveluitamme.
+
+3. TOIMINTAMALLI JA OMINAISUUDET
+
+Proaktiivinen "Concierge"
+
+Useimmat sovellukset ovat reaktiivisia (odottavat kysymystä). Meidän järjestelmämme on proaktiivinen:
+
+- Älykäs ajoitus (Gap Finder): Järjestelmä tunnistaa tyhjät hetket asiakkaan kalenterissa ja ehdottaa sopivaa tekemistä.
+
+- Sääohjaus: Jos ennuste muuttuu sateiseksi, järjestelmä ehdottaa automaattisesti sisäaktiviteetteja (esim. kylpylä, museo) ja varoittaa ulkoilusta.
+
+- Ennakoiva huolenpito: Järjestelmä voi ehdottaa lounasta tai lepohetkeä rytmittämään päivää, varmistaen että asiakas pysyy tyytyväisenä.
+
+Datastrategia: "Kattavuus ensin, sopimukset sitten"
+
+Jotta palvelu on asiakkaalle hyödyllinen, sen on katettava koko alueen tarjonta – ei vain meidän sopimuskumppaneitamme.
+
+1.  Kattava tietokanta: Tekoäly kerää tiedot kaikista alueen kiinnostavista kohteista (myös ilmaisista luontopoluista ja pienistä kahviloista). Tämä luo asiakkaalle ylivoimaisen käyttökokemuksen.
+
+2.  Liidien generointi: Kun ohjaamme asiakkaita uusiin kohteisiin ja keräämme dataa kysynnästä, meillä on vahva neuvotteluasema solmia komissiosopimuksia näiden toimijoiden kanssa.
+
+Hybridimalli: Ihmisen ja Koneen yhteistyö
+
+Emme luota sokeasti tekoälyyn.
+
+- Tekoäly: Hoitaa datan analysoinnin, suosittelulogiikan ja rutiinikeskustelut.
+
+- Ihminen (Staff): Valvoo toimintaa ja voi milloin tahansa "ottaa ohjat" tai ohittaa tekoälyn suositukset (esim. myydäkseen varastossa olevan erän lohikeittoa). Tämä varmistaa laadun ja liiketoiminnan joustavuuden.
+
+4. TEKNOLOGIA JA TURVALLISUUS
+
+Helppokäyttöisyys (Zero-Friction)
+
+- Ei latauksia: Sovellus toimii suoraan selaimessa (PWA-teknologia), mutta tuntuu oikealta sovellukselta.
+
+- Ei salasanoja: Sisäänkirjautuminen tapahtuu turvallisella, henkilökohtaisella linkillä ("Magic Link"), joka toimitetaan varausvahvistuksen yhteydessä.
+
+Tietoturva ja Väärinkäytösten Esto
+
+Koska palvelu on ilmainen, suojaamme sen väärinkäytöltä:
+
+- Tunnistautuminen: Palvelu on avoinna vain vahvistetuille asiakkaille (varaus tai puhelinnumero). Emme tarjoa ilmaista tekoälyä ulkopuolisille.
+
+- Maksuturvallisuus: Emme käsittele tai tallenna asiakkaiden luottokorttitietoja. Maksut tapahtuvat asiakkaan oman laitteen (Apple Pay / Google Pay) ja vahvan pankkitunnistuksen kautta.
+
+5. JATKUVA KEHITYS (Oppiva Ekosysteemi)
+
+Järjestelmä on suunniteltu parantamaan itseään jokaisen asiakaskohtaamisen myötä.
+
+- A/B-Testaus: Järjestelmä kokeilee erilaisia myyntipuheita ("Hook") ja oppii tilastollisesti, mikä vetoaa parhaiten kuhunkin asiakasryhmään (esim. saksalaisiin perheisiin).
+
+- Laadunvalvonta: Ennen sesonkia ja uusien ominaisuuksien julkaisua käytämme virtuaalisia "Mystery Shoppereita" (tekoäly-testaajia) varmistamaan järjestelmän toimivuuden ääritilanteissa.
+
+Tämä on DD0. Se on selkokielinen kuvaus visiostamme, jota voimme käyttää sisäisessä viestinnässä ja kumppaneiden vakuuttamisessa

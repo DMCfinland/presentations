@@ -1,0 +1,25 @@
+{
+  "batch_file": "batch-job-opus-strategic-mining-20260210-233343.jsonl",
+  "created_at": "2026-02-10T23:33:43.636601",
+  "model": "claude-opus-4-6",
+  "extended_thinking": true,
+  "thinking_budget": 50000,
+  "max_tokens": 64000,
+  "request_count": 1,
+  "input_files": {
+    "consolidated_context": "consolidated-videos-context.md",
+    "prompt": "OPUS-DIRECT-MINING.md"
+  },
+  "stats": {
+    "total_videos": 195,
+    "total_characters": 6840283,
+    "estimated_input_tokens": 1282553,
+    "context_characters": 6834279,
+    "prompt_characters": 5866
+  },
+  "status": "created",
+  "batch_id": null,
+  "submission_time": null,
+  "completion_time": null,
+  "results_file": null
+}

@@ -1,0 +1,793 @@
+What<00:00:00.240><c> if</c><00:00:00.520><c> transformer-based</c><00:00:01.520><c> models</c><00:00:02.240><c> were</c>
+What if transformer-based models were
+What if transformer-based models were
+universal<00:00:03.679><c> learning</c><00:00:04.120><c> machines?</c><00:00:05.120><c> We</c><00:00:05.279><c> had</c><00:00:05.440><c> an</c>
+universal learning machines? We had an
+universal learning machines? We had an
+interesting<00:00:06.000><c> taste</c><00:00:06.319><c> of</c><00:00:06.400><c> that</c><00:00:06.640><c> today</c><00:00:07.040><c> with</c><00:00:07.440><c> a</c>
+interesting taste of that today with a
+interesting taste of that today with a
+little<00:00:08.800><c> tweet</c><00:00:09.280><c> from</c><00:00:09.599><c> Gautam</c><00:00:10.480><c> Kadia</c><00:00:11.040><c> at</c>
+little tweet from Gautam Kadia at
+little tweet from Gautam Kadia at
+Stripe.<00:00:11.759><c> I</c><00:00:12.000><c> want</c><00:00:12.080><c> to</c><00:00:12.240><c> go</c><00:00:12.320><c> into</c><00:00:12.559><c> it</c><00:00:12.719><c> because</c><00:00:12.960><c> I</c>
+Stripe. I want to go into it because I
+Stripe. I want to go into it because I
+think<00:00:13.280><c> it</c><00:00:13.559><c> has</c><00:00:14.559><c> profoundly</c><00:00:15.200><c> disruptive</c>
+think it has profoundly disruptive
+think it has profoundly disruptive
+implications<00:00:16.240><c> for</c><00:00:16.480><c> the</c><00:00:16.680><c> industry.</c><00:00:17.680><c> We're</c>
+implications for the industry. We're
+implications for the industry. We're
+used<00:00:18.160><c> to</c><00:00:18.400><c> thinking</c><00:00:18.640><c> of</c><00:00:18.800><c> transformers</c><00:00:19.600><c> as</c>
+used to thinking of transformers as
+used to thinking of transformers as
+languagebased.<00:00:21.600><c> The</c><00:00:21.840><c> transformer</c><00:00:22.800><c> reads</c><00:00:23.119><c> all</c>
+languagebased. The transformer reads all
+languagebased. The transformer reads all
+my<00:00:23.519><c> books</c><00:00:23.760><c> and</c><00:00:24.000><c> it's</c><00:00:24.160><c> a</c><00:00:24.320><c> large</c><00:00:24.560><c> language</c><00:00:24.880><c> model</c>
+my books and it's a large language model
+my books and it's a large language model
+transformer<00:00:25.680><c> and</c><00:00:25.920><c> it</c><00:00:26.080><c> comes</c><00:00:26.240><c> back</c><00:00:26.400><c> with</c>
+transformer and it comes back with
+transformer and it comes back with
+English<00:00:26.960><c> or</c><00:00:27.279><c> Croatian.</c><00:00:28.000><c> Well,</c><00:00:28.320><c> actually</c>
+English or Croatian. Well, actually
+English or Croatian. Well, actually
+that's<00:00:28.800><c> a</c><00:00:28.960><c> bit</c><00:00:29.119><c> of</c><00:00:29.199><c> a</c><00:00:29.359><c> joke</c><00:00:29.599><c> because</c><00:00:29.840><c> they</c>
+that's a bit of a joke because they
+that's a bit of a joke because they
+don't<00:00:30.240><c> speak</c><00:00:30.480><c> Croatian</c><00:00:31.039><c> in</c><00:00:31.279><c> some</c><00:00:31.519><c> cases</c>
+don't speak Croatian in some cases
+don't speak Croatian in some cases
+because<00:00:32.719><c> Croatians</c><00:00:33.760><c> uh</c><00:00:34.160><c> hit</c><00:00:34.399><c> decline</c><00:00:34.880><c> on</c><00:00:35.200><c> so</c>
+because Croatians uh hit decline on so
+because Croatians uh hit decline on so
+many<00:00:35.680><c> of</c><00:00:35.920><c> their</c><00:00:36.079><c> responses.</c><00:00:36.719><c> It's</c><00:00:36.880><c> a</c><00:00:37.040><c> little</c>
+many of their responses. It's a little
+many of their responses. It's a little
+sidebar,<00:00:37.680><c> but</c><00:00:37.920><c> it</c><00:00:38.239><c> is</c><00:00:38.559><c> possible</c><00:00:39.360><c> to</c><00:00:39.600><c> get</c>
+sidebar, but it is possible to get
+sidebar, but it is possible to get
+models<00:00:40.239><c> to</c><00:00:40.399><c> substantially</c><00:00:41.040><c> change</c><00:00:41.360><c> their</c>
+models to substantially change their
+models to substantially change their
+trained<00:00:42.079><c> behavior</c><00:00:42.559><c> if</c><00:00:42.800><c> enough</c><00:00:43.200><c> users</c><00:00:44.079><c> hit</c><00:00:44.399><c> a</c>
+trained behavior if enough users hit a
+trained behavior if enough users hit a
+negative<00:00:45.120><c> feedback</c><00:00:45.520><c> button.</c><00:00:45.840><c> And</c><00:00:46.000><c> in</c><00:00:46.160><c> this</c>
+negative feedback button. And in this
+negative feedback button. And in this
+case,<00:00:46.879><c> you</c><00:00:47.039><c> can</c><00:00:47.120><c> look</c><00:00:47.280><c> it</c><00:00:47.440><c> up.</c><00:00:47.760><c> There's</c><00:00:47.920><c> an</c>
+case, you can look it up. There's an
+case, you can look it up. There's an
+actual<00:00:48.399><c> story</c><00:00:48.640><c> where</c><00:00:48.800><c> a</c><00:00:48.960><c> model</c><00:00:49.200><c> stopped</c>
+actual story where a model stopped
+actual story where a model stopped
+speaking<00:00:49.840><c> Croatia</c><00:00:50.680><c> Croatian</c><00:00:51.680><c> because</c>
+speaking Croatia Croatian because
+speaking Croatia Croatian because
+Croatians<00:00:52.640><c> didn't</c><00:00:52.800><c> like</c><00:00:52.960><c> the</c><00:00:53.199><c> responses</c><00:00:53.680><c> so</c>
+Croatians didn't like the responses so
+Croatians didn't like the responses so
+much.<00:00:54.800><c> But</c><00:00:55.039><c> that</c><00:00:55.280><c> being</c><00:00:55.520><c> said,</c><00:00:56.000><c> that's</c><00:00:56.239><c> your</c>
+much. But that being said, that's your
+much. But that being said, that's your
+humor<00:00:56.719><c> for</c><00:00:56.879><c> the</c><00:00:57.039><c> day.</c><00:00:57.440><c> Let's</c><00:00:57.680><c> get</c><00:00:57.840><c> back</c><00:00:57.920><c> to</c>
+humor for the day. Let's get back to
+humor for the day. Let's get back to
+Stripe.<00:01:00.039><c> TLDDR.</c><00:01:01.039><c> Stripe</c><00:01:01.600><c> built</c><00:01:02.160><c> a</c>
+Stripe. TLDDR. Stripe built a
+Stripe. TLDDR. Stripe built a
+transformer-based<00:01:03.600><c> learning</c><00:01:04.080><c> model</c><00:01:04.720><c> to</c>
+transformer-based learning model to
+transformer-based learning model to
+detect<00:01:05.360><c> fraud</c><00:01:05.760><c> and</c><00:01:06.000><c> it</c><00:01:06.159><c> worked</c><00:01:06.400><c> really</c><00:01:06.640><c> really</c>
+detect fraud and it worked really really
+detect fraud and it worked really really
+well.<00:01:07.680><c> So</c><00:01:07.840><c> for</c><00:01:08.159><c> context,</c><00:01:08.640><c> if</c><00:01:08.880><c> you</c><00:01:09.040><c> work</c><00:01:09.119><c> in</c><00:01:09.360><c> the</c>
+well. So for context, if you work in the
+well. So for context, if you work in the
+payment
+payment
+payment
+space,<00:01:11.360><c> machine</c><00:01:11.760><c> learning</c><00:01:12.080><c> is</c><00:01:12.400><c> nothing</c><00:01:12.720><c> new.</c>
+space, machine learning is nothing new.
+space, machine learning is nothing new.
+Um,<00:01:13.680><c> and</c><00:01:14.000><c> machine</c><00:01:14.320><c> learning</c><00:01:14.640><c> models</c><00:01:15.040><c> trained</c>
+Um, and machine learning models trained
+Um, and machine learning models trained
+to<00:01:15.439><c> detect</c><00:01:15.680><c> fraud</c><00:01:16.000><c> are</c><00:01:16.240><c> nothing</c><00:01:16.479><c> new.</c><00:01:16.880><c> I</c><00:01:17.119><c> used</c>
+to detect fraud are nothing new. I used
+to detect fraud are nothing new. I used
+to<00:01:17.439><c> work</c><00:01:17.520><c> in</c><00:01:17.680><c> payments</c><00:01:18.159><c> myself.</c><00:01:18.880><c> We</c><00:01:19.119><c> use</c>
+to work in payments myself. We use
+to work in payments myself. We use
+things<00:01:19.520><c> like</c><00:01:19.759><c> payment</c><00:01:20.159><c> method,</c><00:01:20.799><c> zip</c><00:01:21.200><c> code,</c>
+things like payment method, zip code,
+things like payment method, zip code,
+lots<00:01:22.080><c> and</c><00:01:22.240><c> lots</c><00:01:22.479><c> of</c><00:01:22.640><c> other</c><00:01:23.119><c> features</c><00:01:23.600><c> of</c><00:01:23.920><c> the</c>
+lots and lots of other features of the
+lots and lots of other features of the
+payment<00:01:25.119><c> to</c><00:01:25.640><c> improve</c><00:01:26.640><c> the</c><00:01:26.880><c> ability</c><00:01:27.200><c> to</c><00:01:27.600><c> detect</c>
+payment to improve the ability to detect
+payment to improve the ability to detect
+fraud.<00:01:29.200><c> And</c><00:01:29.439><c> these</c><00:01:30.000><c> are</c><00:01:30.560><c> basically</c><00:01:31.280><c> adding</c>
+fraud. And these are basically adding
+fraud. And these are basically adding
+feature<00:01:32.000><c> by</c><00:01:32.240><c> feature</c><00:01:32.560><c> by</c><00:01:32.799><c> feature</c><00:01:33.119><c> effects</c>
+feature by feature by feature effects
+feature by feature by feature effects
+that<00:01:34.240><c> basically</c><00:01:34.720><c> work</c><00:01:35.079><c> to</c><00:01:36.079><c> maximize</c><00:01:36.560><c> the</c><00:01:36.799><c> odds</c>
+that basically work to maximize the odds
+that basically work to maximize the odds
+that<00:01:37.200><c> someone</c><00:01:37.439><c> who's</c><00:01:37.680><c> a</c><00:01:37.840><c> legitimate</c>
+that someone who's a legitimate
+that someone who's a legitimate
+purchaser<00:01:38.880><c> can</c><00:01:39.040><c> get</c><00:01:39.200><c> through</c><00:01:39.439><c> and</c><00:01:39.680><c> obviously</c>
+purchaser can get through and obviously
+purchaser can get through and obviously
+minimize<00:01:40.560><c> fraudulent</c>
+minimize fraudulent
+minimize fraudulent
+transactions.<00:01:42.799><c> But</c><00:01:42.960><c> at</c><00:01:43.119><c> the</c><00:01:43.280><c> end</c><00:01:43.360><c> of</c><00:01:43.439><c> the</c>
+transactions. But at the end of the
+transactions. But at the end of the
+day,<00:01:45.280><c> everything</c><00:01:45.600><c> is</c><00:01:45.840><c> driven</c><00:01:46.079><c> around</c><00:01:46.320><c> the</c>
+day, everything is driven around the
+day, everything is driven around the
+future.<00:01:47.840><c> Everything</c><00:01:48.360><c> requires</c><00:01:49.360><c> very</c>
+future. Everything requires very
+future. Everything requires very
+specific<00:01:50.320><c> training</c><00:01:50.640><c> in</c><00:01:50.880><c> classical</c><00:01:51.360><c> machine</c>
+specific training in classical machine
+specific training in classical machine
+learning<00:01:52.000><c> to</c><00:01:52.280><c> implement.</c><00:01:53.280><c> And</c><00:01:53.439><c> so</c><00:01:53.840><c> each</c><00:01:54.159><c> model</c>
+learning to implement. And so each model
+learning to implement. And so each model
+has<00:01:54.799><c> to</c><00:01:54.960><c> think</c><00:01:55.119><c> about</c><00:01:55.439><c> authorization</c><00:01:56.320><c> and</c>
+has to think about authorization and
+has to think about authorization and
+fraud<00:01:56.960><c> and</c><00:01:57.200><c> disputes</c>
+fraud and disputes
+fraud and disputes
+separately.<00:01:59.439><c> And</c><00:01:59.680><c> so</c><00:01:59.840><c> the</c><00:02:00.079><c> question</c><00:02:00.320><c> that</c>
+separately. And so the question that
+separately. And so the question that
+Stripe<00:02:00.880><c> asked</c><00:02:01.040><c> themselves</c><00:02:01.960><c> was</c><00:02:02.960><c> looking</c><00:02:03.200><c> at</c>
+Stripe asked themselves was looking at
+Stripe asked themselves was looking at
+how<00:02:03.680><c> transformer</c><00:02:04.240><c> architectures</c><00:02:04.960><c> actually</c>
+how transformer architectures actually
+how transformer architectures actually
+work.<00:02:05.600><c> They're</c><00:02:05.840><c> very</c><00:02:06.079><c> generalized,</c><00:02:06.719><c> right?</c>
+work. They're very generalized, right?
+work. They're very generalized, right?
+They<00:02:07.119><c> look</c><00:02:07.280><c> across</c><00:02:07.680><c> very</c><00:02:08.000><c> wide</c><00:02:08.319><c> swaths</c><00:02:08.800><c> of</c>
+They look across very wide swaths of
+They look across very wide swaths of
+data.<00:02:09.920><c> Would</c><00:02:10.080><c> an</c><00:02:10.319><c> LLM</c><00:02:10.959><c> approach</c><00:02:11.440><c> work?</c><00:02:12.640><c> And</c><00:02:12.959><c> to</c>
+data. Would an LLM approach work? And to
+data. Would an LLM approach work? And to
+be<00:02:13.640><c> honest,</c><00:02:14.920><c> it's</c><00:02:15.920><c> I'm</c><00:02:16.560><c> frankly</c><00:02:16.959><c> I</c><00:02:17.200><c> was</c>
+be honest, it's I'm frankly I was
+be honest, it's I'm frankly I was
+skeptical.<00:02:18.480><c> Like</c><00:02:18.800><c> when</c><00:02:19.040><c> I</c><00:02:19.200><c> looked</c><00:02:19.360><c> at</c><00:02:19.520><c> this,</c><00:02:19.680><c> I</c>
+skeptical. Like when I looked at this, I
+skeptical. Like when I looked at this, I
+was<00:02:20.000><c> like,</c><00:02:20.080><c> "No</c><00:02:20.400><c> way</c><00:02:20.720><c> this</c><00:02:20.959><c> actually</c><00:02:21.640><c> worked."</c>
+was like, "No way this actually worked."
+was like, "No way this actually worked."
+Because<00:02:22.959><c> I</c><00:02:23.280><c> didn't</c><00:02:23.520><c> assume</c><00:02:23.920><c> that</c><00:02:24.239><c> payments</c>
+Because I didn't assume that payments
+Because I didn't assume that payments
+were<00:02:25.520><c> like</c><00:02:25.840><c> language.</c><00:02:26.400><c> Language</c><00:02:26.879><c> has</c><00:02:27.040><c> a</c>
+were like language. Language has a
+were like language. Language has a
+grammar<00:02:27.760><c> to</c><00:02:27.920><c> it,</c><00:02:28.239><c> right?</c><00:02:28.720><c> Language</c><00:02:29.200><c> has</c><00:02:29.440><c> a</c>
+grammar to it, right? Language has a
+grammar to it, right? Language has a
+sequence<00:02:30.400><c> and</c><00:02:30.720><c> it</c><00:02:30.959><c> has</c><00:02:31.560><c> rules.</c><00:02:32.560><c> Well,</c><00:02:32.800><c> what</c>
+sequence and it has rules. Well, what
+sequence and it has rules. Well, what
+Stripe<00:02:33.440><c> is</c><00:02:34.160><c> discovering</c><00:02:34.720><c> here</c><00:02:34.959><c> is</c><00:02:35.200><c> that</c>
+Stripe is discovering here is that
+Stripe is discovering here is that
+payments<00:02:35.840><c> do,</c><00:02:36.519><c> too.</c><00:02:37.519><c> Payments</c><00:02:38.080><c> have</c><00:02:38.319><c> some</c>
+payments do, too. Payments have some
+payments do, too. Payments have some
+structural<00:02:39.360><c> similarities</c><00:02:40.080><c> to</c><00:02:40.400><c> grammar.</c>
+structural similarities to grammar.
+structural similarities to grammar.
+Now,<00:02:42.319><c> there</c><00:02:42.560><c> are</c><00:02:42.720><c> things</c><00:02:43.160><c> that</c><00:02:44.160><c> that</c><00:02:44.640><c> aren't</c>
+Now, there are things that that aren't
+Now, there are things that that aren't
+the<00:02:45.280><c> same.</c><00:02:45.760><c> Uh</c><00:02:46.080><c> there's</c><00:02:46.319><c> many</c><00:02:46.640><c> fewer</c><00:02:46.959><c> tokens,</c>
+the same. Uh there's many fewer tokens,
+the same. Uh there's many fewer tokens,
+for<00:02:47.680><c> instance.</c><00:02:48.480><c> Um</c><00:02:49.360><c> the</c><00:02:49.599><c> the</c><00:02:50.160><c> principles</c><00:02:50.640><c> that</c>
+for instance. Um the the principles that
+for instance. Um the the principles that
+organize<00:02:51.360><c> payments</c><00:02:51.840><c> are</c><00:02:52.080><c> not</c><00:02:52.319><c> really</c><00:02:52.560><c> like</c><00:02:52.800><c> as</c>
+organize payments are not really like as
+organize payments are not really like as
+rich<00:02:53.360><c> as</c><00:02:53.599><c> they</c><00:02:53.760><c> are</c><00:02:53.840><c> in</c><00:02:54.080><c> linguistic</c>
+rich as they are in linguistic
+rich as they are in linguistic
+grammar.<00:02:56.400><c> Does</c><00:02:56.560><c> it</c><00:02:56.840><c> work?</c><00:02:57.840><c> Apparently,</c><00:02:58.560><c> yes.</c>
+grammar. Does it work? Apparently, yes.
+grammar. Does it work? Apparently, yes.
+Uh<00:02:59.760><c> so</c><00:03:00.000><c> what</c><00:03:00.239><c> Stripe</c><00:03:00.640><c> did</c><00:03:00.800><c> is</c><00:03:00.959><c> they</c><00:03:01.120><c> built</c><00:03:01.360><c> a</c>
+Uh so what Stripe did is they built a
+Uh so what Stripe did is they built a
+self-supervised<00:03:03.000><c> network.</c><00:03:04.000><c> It</c><00:03:04.480><c> embeds</c>
+self-supervised network. It embeds
+self-supervised network. It embeds
+vectors<00:03:05.599><c> for</c><00:03:05.840><c> every</c>
+vectors for every
+vectors for every
+transaction.<00:03:08.319><c> It's</c><00:03:08.720><c> trained</c><00:03:09.120><c> on</c><00:03:09.519><c> at</c><00:03:09.760><c> Stripe</c>
+transaction. It's trained on at Stripe
+transaction. It's trained on at Stripe
+scale,<00:03:10.480><c> right?</c><00:03:10.640><c> So</c><00:03:10.879><c> it's</c><00:03:11.040><c> trained</c><00:03:11.360><c> at</c><00:03:11.519><c> the</c>
+scale, right? So it's trained at the
+scale, right? So it's trained at the
+scale<00:03:12.000><c> of</c><00:03:12.319><c> tens</c><00:03:12.800><c> of</c><00:03:13.120><c> billions</c><00:03:13.680><c> of</c>
+scale of tens of billions of
+scale of tens of billions of
+transactions.<00:03:16.000><c> Um,</c><00:03:16.720><c> and</c><00:03:16.959><c> it</c><00:03:17.200><c> takes</c><00:03:17.440><c> all</c><00:03:17.680><c> of</c>
+transactions. Um, and it takes all of
+transactions. Um, and it takes all of
+the<00:03:18.080><c> key</c><00:03:18.400><c> signals</c><00:03:18.800><c> for</c><00:03:19.040><c> a</c><00:03:19.200><c> particular</c>
+the key signals for a particular
+the key signals for a particular
+transaction<00:03:20.239><c> and</c><00:03:20.480><c> it</c><00:03:20.720><c> distills</c><00:03:21.120><c> it</c><00:03:21.280><c> into</c><00:03:21.519><c> a</c>
+transaction and it distills it into a
+transaction and it distills it into a
+single
+single
+single
+embedding<00:03:23.599><c> which</c><00:03:23.920><c> means</c><00:03:24.080><c> that</c><00:03:24.319><c> you</c><00:03:24.760><c> have</c><00:03:25.760><c> a</c>
+embedding which means that you have a
+embedding which means that you have a
+huge<00:03:26.480><c> distribution</c><00:03:27.360><c> of</c><00:03:27.680><c> tens</c><00:03:28.000><c> of</c><00:03:28.159><c> billions</c><00:03:28.480><c> of</c>
+huge distribution of tens of billions of
+huge distribution of tens of billions of
+payments<00:03:29.200><c> in</c><00:03:29.599><c> vector</c><00:03:30.000><c> space,</c><00:03:30.319><c> right?</c>
+payments in vector space, right?
+payments in vector space, right?
+Highdimensional<00:03:31.200><c> vector</c><00:03:31.599><c> space,</c><00:03:31.840><c> which</c><00:03:32.000><c> is</c><00:03:32.159><c> a</c>
+Highdimensional vector space, which is a
+Highdimensional vector space, which is a
+concept<00:03:32.640><c> if</c><00:03:32.959><c> you</c><00:03:33.040><c> know</c><00:03:33.200><c> large</c><00:03:33.519><c> language</c>
+concept if you know large language
+concept if you know large language
+models<00:03:34.080><c> that</c><00:03:34.239><c> you're</c><00:03:34.400><c> very</c><00:03:34.640><c> familiar</c><00:03:34.879><c> with.</c>
+models that you're very familiar with.
+models that you're very familiar with.
+And<00:03:35.519><c> if</c><00:03:35.680><c> you</c><00:03:35.760><c> don't</c><00:03:35.920><c> know</c><00:03:36.080><c> large</c><00:03:36.400><c> language</c>
+And if you don't know large language
+And if you don't know large language
+models,<00:03:37.920><c> I</c><00:03:38.080><c> don't</c><00:03:38.159><c> know,</c><00:03:38.400><c> go</c><00:03:38.560><c> read</c><00:03:38.720><c> about</c><00:03:38.879><c> it</c>
+models, I don't know, go read about it
+models, I don't know, go read about it
+on<00:03:39.120><c> the</c><00:03:39.200><c> Substack.</c><00:03:40.159><c> Uh,</c><00:03:40.879><c> but</c><00:03:41.120><c> the</c><00:03:41.360><c> location</c><00:03:41.840><c> of</c>
+on the Substack. Uh, but the location of
+on the Substack. Uh, but the location of
+the<00:03:42.360><c> embedding</c><00:03:43.360><c> ends</c><00:03:43.599><c> up</c><00:03:43.840><c> capturing</c><00:03:44.319><c> rich</c>
+the embedding ends up capturing rich
+the embedding ends up capturing rich
+data<00:03:44.879><c> the</c><00:03:45.040><c> way</c><00:03:45.120><c> the</c><00:03:45.360><c> location</c><00:03:45.680><c> of</c><00:03:45.840><c> an</c>
+data the way the location of an
+data the way the location of an
+embedding<00:03:46.319><c> for</c><00:03:46.480><c> a</c><00:03:46.640><c> word</c><00:03:46.959><c> captures</c><00:03:47.360><c> rich</c><00:03:47.599><c> data</c>
+embedding for a word captures rich data
+embedding for a word captures rich data
+with<00:03:47.920><c> LLMs.</c><00:03:48.560><c> And</c><00:03:48.720><c> that's</c><00:03:48.879><c> what</c><00:03:49.040><c> got</c><00:03:49.280><c> my</c><00:03:49.440><c> head</c>
+with LLMs. And that's what got my head
+with LLMs. And that's what got my head
+spinning<00:03:50.480><c> because</c><00:03:50.720><c> it</c><00:03:50.959><c> means</c><00:03:51.120><c> that</c><00:03:51.280><c> it's</c><00:03:51.519><c> a</c>
+spinning because it means that it's a
+spinning because it means that it's a
+generalized<00:03:52.560><c> learning</c><00:03:52.959><c> tool</c><00:03:53.280><c> in</c><00:03:53.440><c> a</c><00:03:53.599><c> way</c><00:03:53.680><c> that</c>
+generalized learning tool in a way that
+generalized learning tool in a way that
+even<00:03:54.000><c> I</c><00:03:54.239><c> hadn't</c><00:03:55.000><c> realized.</c><00:03:56.000><c> And</c><00:03:56.239><c> so</c>
+even I hadn't realized. And so
+even I hadn't realized. And so
+basically,<00:03:57.200><c> Stripe</c><00:03:57.680><c> figured</c><00:03:58.000><c> out</c><00:03:58.400><c> that</c>
+basically, Stripe figured out that
+basically, Stripe figured out that
+payments<00:03:59.439><c> relate</c><00:03:59.840><c> to</c><00:04:00.000><c> each</c><00:04:00.239><c> other</c><00:04:00.480><c> in</c>
+payments relate to each other in
+payments relate to each other in
+unexpected<00:04:01.599><c> ways</c><00:04:02.480><c> that</c><00:04:02.879><c> transformers</c><00:04:03.680><c> are</c>
+unexpected ways that transformers are
+unexpected ways that transformers are
+able<00:04:04.239><c> to</c><00:04:04.560><c> articulate</c><00:04:05.200><c> and</c><00:04:05.799><c> understand</c><00:04:06.799><c> better</c>
+able to articulate and understand better
+able to articulate and understand better
+than<00:04:07.360><c> classical</c><00:04:07.920><c> machine</c><00:04:08.239><c> learning</c>
+than classical machine learning
+than classical machine learning
+techniques.<00:04:09.519><c> and</c><00:04:09.840><c> better</c><00:04:10.080><c> than</c>
+techniques. and better than
+techniques. and better than
+humans.<00:04:12.400><c> And</c><00:04:12.560><c> so</c><00:04:13.319><c> payments</c><00:04:14.319><c> that</c><00:04:14.640><c> share</c>
+humans. And so payments that share
+humans. And so payments that share
+similarities<00:04:15.599><c> tend</c><00:04:15.840><c> to</c><00:04:15.920><c> nest</c><00:04:16.239><c> next</c><00:04:16.479><c> to</c><00:04:16.639><c> each</c>
+similarities tend to nest next to each
+similarities tend to nest next to each
+other<00:04:16.959><c> in</c><00:04:17.199><c> highdimensional</c><00:04:17.840><c> vector</c>
+other in highdimensional vector
+other in highdimensional vector
+space.<00:04:19.880><c> And</c><00:04:20.880><c> those</c><00:04:21.199><c> that</c><00:04:22.000><c> you</c><00:04:22.240><c> know</c><00:04:22.639><c> have</c><00:04:22.880><c> even</c>
+space. And those that you know have even
+space. And those that you know have even
+more<00:04:23.360><c> similarities.</c><00:04:23.919><c> Maybe</c><00:04:24.080><c> they're</c><00:04:24.320><c> from</c>
+more similarities. Maybe they're from
+more similarities. Maybe they're from
+the<00:04:24.639><c> same</c><00:04:24.800><c> bank,</c><00:04:25.280><c> maybe</c><00:04:25.440><c> they're</c><00:04:25.680><c> from</c><00:04:25.840><c> the</c>
+the same bank, maybe they're from the
+the same bank, maybe they're from the
+same<00:04:26.160><c> email</c><00:04:26.479><c> address,</c><00:04:26.960><c> maybe</c><00:04:27.120><c> they're</c><00:04:27.360><c> from</c>
+same email address, maybe they're from
+same email address, maybe they're from
+the<00:04:27.759><c> same</c><00:04:27.919><c> credit</c><00:04:28.160><c> card</c><00:04:28.400><c> number.</c><00:04:29.120><c> Those</c><00:04:29.360><c> nest</c>
+the same credit card number. Those nest
+the same credit card number. Those nest
+even<00:04:30.080><c> closer</c><00:04:30.479><c> together.</c>
+even closer together.
+even closer together.
+And<00:04:32.639><c> what's</c><00:04:33.040><c> fascinating</c><00:04:33.600><c> about</c><00:04:33.840><c> that</c><00:04:34.160><c> is</c><00:04:34.400><c> it</c>
+And what's fascinating about that is it
+And what's fascinating about that is it
+lets<00:04:34.880><c> you</c><00:04:35.120><c> start</c><00:04:35.360><c> to</c><00:04:35.600><c> consider</c><00:04:36.080><c> the</c>
+lets you start to consider the
+lets you start to consider the
+relationships
+relationships
+relationships
+between<00:04:39.280><c> payment</c><00:04:39.919><c> structures</c><00:04:40.479><c> in</c>
+between payment structures in
+between payment structures in
+highdimensional<00:04:41.680><c> space</c><00:04:42.080><c> as</c><00:04:42.479><c> potential</c><00:04:43.040><c> fraud</c>
+highdimensional space as potential fraud
+highdimensional space as potential fraud
+vectors.<00:04:44.800><c> And</c><00:04:45.040><c> so</c><00:04:45.520><c> you</c><00:04:45.759><c> can</c><00:04:46.000><c> spot</c><00:04:46.720><c> adversarial</c>
+vectors. And so you can spot adversarial
+vectors. And so you can spot adversarial
+patterns<00:04:48.000><c> and</c><00:04:48.160><c> fraud</c><00:04:48.479><c> techniques</c><00:04:49.040><c> much</c><00:04:49.280><c> more</c>
+patterns and fraud techniques much more
+patterns and fraud techniques much more
+accurately.<00:04:50.960><c> and</c><00:04:51.280><c> previously</c><00:04:51.759><c> like</c><00:04:52.000><c> it's</c><00:04:52.320><c> if</c>
+accurately. and previously like it's if
+accurately. and previously like it's if
+you<00:04:52.639><c> work</c><00:04:52.800><c> in</c><00:04:53.040><c> payments</c><00:04:53.520><c> you</c><00:04:53.680><c> know</c><00:04:53.840><c> this</c>
+you work in payments you know this
+you work in payments you know this
+there's<00:04:54.560><c> an</c><00:04:54.720><c> arms</c><00:04:55.040><c> race</c><00:04:55.280><c> that</c><00:04:55.520><c> goes</c><00:04:55.680><c> on</c><00:04:55.919><c> that's</c>
+there's an arms race that goes on that's
+there's an arms race that goes on that's
+silent<00:04:56.800><c> every</c><00:04:57.120><c> single</c><00:04:57.360><c> day</c><00:04:57.840><c> between</c>
+silent every single day between
+silent every single day between
+fraudsters<00:04:59.360><c> and</c><00:04:59.600><c> legitimate</c><00:05:00.160><c> payment</c>
+fraudsters and legitimate payment
+fraudsters and legitimate payment
+providers<00:05:00.880><c> where</c><00:05:01.120><c> the</c><00:05:01.280><c> payment</c><00:05:01.520><c> providers</c>
+providers where the payment providers
+providers where the payment providers
+are<00:05:02.000><c> the</c><00:05:02.160><c> front</c><00:05:02.320><c> line</c><00:05:02.479><c> of</c><00:05:02.639><c> defense</c><00:05:03.360><c> and</c>
+are the front line of defense and
+are the front line of defense and
+fraudsters<00:05:04.160><c> are</c><00:05:04.400><c> trying</c><00:05:04.639><c> to</c><00:05:04.880><c> run</c><00:05:05.199><c> fraudulent</c>
+fraudsters are trying to run fraudulent
+fraudsters are trying to run fraudulent
+payments<00:05:06.160><c> through</c><00:05:06.400><c> the</c><00:05:06.759><c> system</c><00:05:07.759><c> and</c><00:05:08.639><c> every</c>
+payments through the system and every
+payments through the system and every
+day<00:05:09.199><c> the</c><00:05:09.360><c> fraudsters</c><00:05:09.919><c> wake</c><00:05:10.160><c> up</c><00:05:10.240><c> and</c><00:05:10.560><c> it's</c><00:05:10.800><c> like</c>
+day the fraudsters wake up and it's like
+day the fraudsters wake up and it's like
+uh<00:05:11.600><c> wy</c><00:05:12.160><c> coyote</c><00:05:13.039><c> and</c><00:05:13.120><c> the</c><00:05:13.280><c> roadrunner</c>
+uh wy coyote and the roadrunner
+uh wy coyote and the roadrunner
+everybody's<00:05:14.400><c> trying</c><00:05:14.560><c> to</c><00:05:14.720><c> get</c><00:05:14.880><c> a</c><00:05:15.039><c> little</c><00:05:15.120><c> bit</c>
+everybody's trying to get a little bit
+everybody's trying to get a little bit
+faster<00:05:16.560><c> and</c><00:05:16.720><c> so</c><00:05:16.960><c> this</c><00:05:17.120><c> is</c><00:05:17.280><c> a</c><00:05:17.520><c> significant</c>
+faster and so this is a significant
+faster and so this is a significant
+development<00:05:18.400><c> in</c><00:05:18.639><c> this</c><00:05:18.800><c> arms</c><00:05:19.120><c> race</c><00:05:19.360><c> because</c><00:05:19.600><c> it</c>
+development in this arms race because it
+development in this arms race because it
+means<00:05:19.919><c> that</c><00:05:20.080><c> you</c><00:05:20.240><c> can</c><00:05:20.320><c> start</c><00:05:20.560><c> to</c><00:05:20.720><c> look</c><00:05:20.880><c> at</c>
+means that you can start to look at
+means that you can start to look at
+relational<00:05:21.919><c> patterns</c><00:05:22.320><c> and</c><00:05:22.560><c> attack</c><00:05:22.880><c> vectors</c>
+relational patterns and attack vectors
+relational patterns and attack vectors
+that<00:05:24.240><c> would</c><00:05:24.479><c> not</c><00:05:24.720><c> appear</c><00:05:25.120><c> in</c><00:05:25.440><c> traditional</c>
+that would not appear in traditional
+that would not appear in traditional
+machine<00:05:26.400><c> learning</c><00:05:26.720><c> techniques</c><00:05:27.120><c> that</c><00:05:27.360><c> look</c><00:05:27.520><c> at</c>
+machine learning techniques that look at
+machine learning techniques that look at
+individual<00:05:28.320><c> success</c>
+individual success
+individual success
+uh<00:05:30.880><c> goals</c><00:05:31.360><c> or</c><00:05:31.600><c> individual</c><00:05:32.240><c> that</c><00:05:32.479><c> optimize</c>
+uh goals or individual that optimize
+uh goals or individual that optimize
+against<00:05:33.199><c> individual</c><00:05:33.759><c> transaction</c><00:05:34.400><c> patterns.</c>
+against individual transaction patterns.
+against individual transaction patterns.
+So<00:05:35.600><c> for</c><00:05:35.680><c> example,</c><00:05:36.000><c> if</c><00:05:36.160><c> you're</c><00:05:36.320><c> optimizing</c>
+So for example, if you're optimizing
+So for example, if you're optimizing
+around<00:05:37.039><c> fraudulent</c><00:05:37.600><c> patterns</c><00:05:37.840><c> at</c><00:05:38.080><c> login,</c>
+around fraudulent patterns at login,
+around fraudulent patterns at login,
+you're<00:05:38.800><c> not</c><00:05:38.960><c> optimizing</c><00:05:39.520><c> at</c><00:05:39.680><c> the</c><00:05:39.840><c> same</c><00:05:40.000><c> time</c>
+you're not optimizing at the same time
+you're not optimizing at the same time
+around<00:05:40.479><c> fraudulent</c><00:05:41.039><c> patterns</c><00:05:41.360><c> at</c><00:05:41.520><c> checkout</c>
+around fraudulent patterns at checkout
+around fraudulent patterns at checkout
+or<00:05:42.400><c> fraudulent</c><00:05:43.039><c> patterns</c><00:05:43.840><c> um</c><00:05:44.560><c> with</c><00:05:45.280><c> a</c>
+or fraudulent patterns um with a
+or fraudulent patterns um with a
+particular
+particular
+particular
+uh<00:05:48.639><c> presentation</c><00:05:49.120><c> of</c><00:05:49.360><c> payment</c><00:05:49.680><c> method.</c><00:05:50.560><c> So</c>
+uh presentation of payment method. So
+uh presentation of payment method. So
+machine<00:05:51.280><c> learning</c><00:05:51.520><c> is</c><00:05:51.759><c> sort</c><00:05:51.840><c> of</c><00:05:51.919><c> like</c><00:05:52.080><c> a</c>
+machine learning is sort of like a
+machine learning is sort of like a
+scalpel<00:05:53.199><c> and</c><00:05:53.840><c> LLMs</c><00:05:54.400><c> which</c><00:05:54.560><c> are</c><00:05:54.800><c> machine</c>
+scalpel and LLMs which are machine
+scalpel and LLMs which are machine
+learning<00:05:55.360><c> but</c><00:05:55.520><c> it's</c><00:05:55.680><c> a</c><00:05:55.840><c> different</c><00:05:56.000><c> kind</c><00:05:56.160><c> of</c>
+learning but it's a different kind of
+learning but it's a different kind of
+learning<00:05:56.639><c> architecture</c><00:05:57.520><c> are</c><00:05:57.680><c> much</c><00:05:57.919><c> more</c>
+learning architecture are much more
+learning architecture are much more
+generalized<00:05:58.800><c> and</c><00:05:59.039><c> they</c><00:05:59.199><c> allow</c><00:05:59.440><c> you</c><00:05:59.600><c> to</c>
+generalized and they allow you to
+generalized and they allow you to
+capture<00:06:00.880><c> relationships</c><00:06:01.680><c> between</c><00:06:02.000><c> these</c>
+capture relationships between these
+capture relationships between these
+patterns<00:06:02.639><c> like</c><00:06:02.880><c> what</c><00:06:03.039><c> if</c><00:06:03.280><c> someone</c><00:06:03.680><c> has</c><00:06:03.919><c> a</c>
+patterns like what if someone has a
+patterns like what if someone has a
+certain<00:06:04.400><c> pattern</c><00:06:04.720><c> of</c><00:06:04.880><c> login</c><00:06:05.600><c> that</c><00:06:05.840><c> then</c>
+certain pattern of login that then
+certain pattern of login that then
+relates<00:06:06.479><c> to</c><00:06:06.639><c> a</c><00:06:06.800><c> certain</c><00:06:06.960><c> zip</c><00:06:07.280><c> code</c><00:06:07.440><c> that</c><00:06:07.919><c> then</c>
+relates to a certain zip code that then
+relates to a certain zip code that then
+relates<00:06:08.479><c> to</c><00:06:08.560><c> a</c><00:06:08.800><c> certain</c><00:06:08.960><c> payment</c><00:06:09.360><c> method.</c>
+relates to a certain payment method.
+relates to a certain payment method.
+Traditional<00:06:10.560><c> machine</c><00:06:10.880><c> learning</c><00:06:11.199><c> techniques</c>
+Traditional machine learning techniques
+Traditional machine learning techniques
+don't<00:06:12.240><c> do</c><00:06:12.319><c> a</c><00:06:12.479><c> good</c><00:06:12.639><c> job</c><00:06:12.880><c> capturing</c><00:06:13.280><c> that</c><00:06:13.520><c> stuff</c>
+don't do a good job capturing that stuff
+don't do a good job capturing that stuff
+and<00:06:14.160><c> if</c><00:06:14.319><c> you're</c><00:06:14.479><c> at</c><00:06:14.639><c> scale</c><00:06:15.039><c> you</c><00:06:15.199><c> can't</c>
+and if you're at scale you can't
+and if you're at scale you can't
+necessarily<00:06:15.840><c> pull</c><00:06:16.080><c> that</c><00:06:16.240><c> out</c><00:06:16.400><c> individually</c>
+necessarily pull that out individually
+necessarily pull that out individually
+by<00:06:17.280><c> hand</c>
+by hand
+by hand
+either.<00:06:19.280><c> And</c><00:06:19.520><c> so</c><00:06:20.080><c> another</c><00:06:20.479><c> example</c><00:06:20.720><c> that</c>
+either. And so another example that
+either. And so another example that
+Stripe<00:06:21.440><c> actually</c><00:06:21.680><c> gave</c><00:06:21.840><c> was</c><00:06:22.080><c> card</c><00:06:22.440><c> testing.</c>
+Stripe actually gave was card testing.
+Stripe actually gave was card testing.
+So<00:06:23.840><c> with</c><00:06:24.160><c> traditional</c><00:06:24.639><c> machine</c><00:06:24.960><c> learning</c>
+So with traditional machine learning
+So with traditional machine learning
+approaches
+approaches
+approaches
+um<00:06:27.360><c> you</c><00:06:27.520><c> know</c><00:06:27.600><c> where</c><00:06:27.840><c> you</c><00:06:27.919><c> engineer</c><00:06:28.240><c> a</c><00:06:28.479><c> new</c>
+um you know where you engineer a new
+um you know where you engineer a new
+feature,<00:06:29.039><c> you</c><00:06:29.199><c> label</c><00:06:29.600><c> attack</c><00:06:30.000><c> patterns,</c><00:06:30.479><c> you</c>
+feature, you label attack patterns, you
+feature, you label attack patterns, you
+retrain<00:06:31.319><c> models,</c><00:06:32.319><c> you</c><00:06:32.560><c> can</c><00:06:32.800><c> reduce</c><00:06:33.280><c> card</c>
+retrain models, you can reduce card
+retrain models, you can reduce card
+testing<00:06:34.960><c> a</c><00:06:35.199><c> fair</c><00:06:35.520><c> bit.</c><00:06:36.319><c> You</c><00:06:36.639><c> they</c><00:06:36.880><c> said</c><00:06:37.120><c> they</c>
+testing a fair bit. You they said they
+testing a fair bit. You they said they
+reduce<00:06:37.600><c> it</c><00:06:37.759><c> at</c><00:06:37.919><c> stripe</c><00:06:38.160><c> by</c><00:06:38.319><c> 80%.</c><00:06:39.440><c> But</c><00:06:39.600><c> the</c><00:06:39.840><c> most</c>
+reduce it at stripe by 80%. But the most
+reduce it at stripe by 80%. But the most
+sophisticated<00:06:40.880><c> card</c><00:06:41.199><c> testers</c><00:06:42.080><c> still</c><00:06:42.479><c> hide</c>
+sophisticated card testers still hide
+sophisticated card testers still hide
+attack<00:06:43.360><c> patterns</c><00:06:43.919><c> in</c><00:06:44.319><c> large</c><00:06:44.720><c> company</c><00:06:45.039><c> payment</c>
+attack patterns in large company payment
+attack patterns in large company payment
+volumes<00:06:46.319><c> and</c><00:06:46.560><c> it</c><00:06:46.800><c> makes</c><00:06:46.960><c> it</c><00:06:47.120><c> very</c><00:06:47.360><c> very</c>
+volumes and it makes it very very
+volumes and it makes it very very
+difficult<00:06:48.000><c> to</c><00:06:48.360><c> spot.</c><00:06:49.400><c> But</c><00:06:50.400><c> with</c><00:06:50.639><c> a</c>
+difficult to spot. But with a
+difficult to spot. But with a
+classifier<00:06:52.960><c> that</c><00:06:53.520><c> ingests</c><00:06:54.319><c> the</c><00:06:54.639><c> embeddings</c>
+classifier that ingests the embeddings
+classifier that ingests the embeddings
+from<00:06:55.440><c> the</c><00:06:55.680><c> foundation</c><00:06:56.199><c> model,</c><00:06:57.199><c> you</c><00:06:57.520><c> can</c>
+from the foundation model, you can
+from the foundation model, you can
+predict<00:06:58.639><c> if</c><00:06:58.880><c> a</c><00:06:59.199><c> particular</c><00:06:59.759><c> traffic</c><00:07:00.240><c> slice</c><00:07:00.560><c> is</c>
+predict if a particular traffic slice is
+predict if a particular traffic slice is
+going<00:07:00.880><c> to</c><00:07:00.960><c> be</c><00:07:01.120><c> under</c><00:07:01.440><c> attack.</c><00:07:01.840><c> A</c><00:07:02.000><c> particular</c>
+going to be under attack. A particular
+going to be under attack. A particular
+traffic<00:07:02.800><c> slice</c><00:07:03.120><c> from</c><00:07:03.280><c> a</c><00:07:03.520><c> from</c><00:07:03.759><c> a</c><00:07:03.919><c> large</c>
+traffic slice from a from a large
+traffic slice from a from a large
+company.<00:07:05.199><c> which</c><00:07:05.520><c> means</c><00:07:05.759><c> you</c><00:07:06.000><c> can</c><00:07:06.080><c> leverage</c>
+company. which means you can leverage
+company. which means you can leverage
+transformers<00:07:07.280><c> to</c><00:07:07.520><c> detect</c><00:07:08.000><c> patterns</c><00:07:08.560><c> in</c>
+transformers to detect patterns in
+transformers to detect patterns in
+transaction<00:07:09.759><c> sequences</c><00:07:10.400><c> like</c><00:07:10.639><c> their</c>
+transaction sequences like their
+transaction sequences like their
+sentences<00:07:12.800><c> and</c><00:07:13.039><c> this</c><00:07:13.280><c> can</c><00:07:13.440><c> be</c><00:07:13.599><c> done</c><00:07:13.840><c> according</c>
+sentences and this can be done according
+sentences and this can be done according
+to<00:07:14.319><c> Stripe</c><00:07:14.800><c> in</c><00:07:14.960><c> real</c><00:07:15.280><c> time</c><00:07:15.520><c> so</c><00:07:15.680><c> that</c><00:07:15.919><c> you</c><00:07:16.080><c> can</c>
+to Stripe in real time so that you can
+to Stripe in real time so that you can
+block<00:07:16.759><c> attacks</c><00:07:17.759><c> before</c><00:07:18.080><c> they</c><00:07:18.319><c> hit</c>
+block attacks before they hit
+block attacks before they hit
+businesses.
+businesses.
+businesses.
+So<00:07:20.880><c> what</c><00:07:21.039><c> they're</c><00:07:21.280><c> saying</c><00:07:21.880><c> is</c><00:07:22.880><c> this</c>
+So what they're saying is this
+So what they're saying is this
+particular<00:07:25.160><c> model</c><00:07:26.160><c> improved</c><00:07:26.800><c> the</c><00:07:27.039><c> detection</c>
+particular model improved the detection
+particular model improved the detection
+rate<00:07:27.919><c> for</c><00:07:28.240><c> card</c><00:07:28.560><c> testing</c><00:07:29.039><c> attacks</c><00:07:29.680><c> on</c><00:07:30.080><c> large</c>
+rate for card testing attacks on large
+rate for card testing attacks on large
+users<00:07:31.919><c> from</c><00:07:32.319><c> 59%</c><00:07:33.199><c> to</c><00:07:33.560><c> 97%</c>
+users from 59% to 97%
+users from 59% to 97%
+overnight.<00:07:37.120><c> Instant</c><00:07:37.520><c> impact</c><00:07:38.000><c> on</c><00:07:38.880><c> Stripe's</c>
+overnight. Instant impact on Stripe's
+overnight. Instant impact on Stripe's
+largest
+largest
+largest
+customers.<00:07:42.479><c> And</c><00:07:42.639><c> then</c><00:07:42.880><c> they</c><00:07:43.199><c> go</c><00:07:43.280><c> on</c><00:07:43.520><c> to</c><00:07:43.680><c> say</c>
+customers. And then they go on to say
+customers. And then they go on to say
+the<00:07:44.240><c> real</c><00:07:44.400><c> power</c><00:07:44.639><c> of</c><00:07:44.800><c> this</c><00:07:44.960><c> is</c><00:07:45.199><c> we</c><00:07:45.360><c> can</c><00:07:45.440><c> apply</c>
+the real power of this is we can apply
+the real power of this is we can apply
+these<00:07:46.000><c> same</c><00:07:46.160><c> embeddings</c><00:07:46.639><c> elsewhere.</c><00:07:47.039><c> This</c><00:07:47.120><c> is</c>
+these same embeddings elsewhere. This is
+these same embeddings elsewhere. This is
+a<00:07:47.440><c> foundation</c><00:07:47.840><c> model.</c><00:07:48.160><c> We're</c><00:07:48.319><c> going</c><00:07:48.400><c> to</c><00:07:48.560><c> apply</c>
+a foundation model. We're going to apply
+a foundation model. We're going to apply
+it<00:07:48.960><c> to</c><00:07:49.199><c> disputes.</c><00:07:50.080><c> we're</c><00:07:50.319><c> going</c><00:07:50.400><c> to</c><00:07:50.479><c> apply</c><00:07:50.639><c> it</c>
+it to disputes. we're going to apply it
+it to disputes. we're going to apply it
+to
+to
+to
+authorizations.<00:07:52.560><c> Um,</c><00:07:53.520><c> and</c><00:07:53.759><c> then</c><00:07:54.479><c> they</c><00:07:54.800><c> call</c>
+authorizations. Um, and then they call
+authorizations. Um, and then they call
+out<00:07:55.120><c> the</c><00:07:55.360><c> obvious</c><00:07:55.599><c> to</c><00:07:55.840><c> me,</c><00:07:56.000><c> which</c><00:07:56.160><c> is</c><00:07:56.240><c> that</c>
+out the obvious to me, which is that
+out the obvious to me, which is that
+payments<00:07:56.879><c> have</c><00:07:57.120><c> semantic</c><00:07:57.759><c> meaning,</c><00:07:58.479><c> like</c>
+payments have semantic meaning, like
+payments have semantic meaning, like
+words<00:07:58.960><c> in</c><00:07:59.199><c> a</c><00:07:59.360><c> sentence,</c><00:08:00.120><c> right?</c><00:08:01.120><c> If</c><00:08:01.280><c> you</c><00:08:01.520><c> make</c>
+words in a sentence, right? If you make
+words in a sentence, right? If you make
+a<00:08:01.840><c> payment,</c><00:08:02.319><c> it</c><00:08:02.639><c> has</c><00:08:02.879><c> sequential</c>
+a payment, it has sequential
+a payment, it has sequential
+dependencies<00:08:04.479><c> and</c><00:08:04.800><c> latent</c><00:08:05.360><c> feature</c>
+dependencies and latent feature
+dependencies and latent feature
+interactions<00:08:06.800><c> that</c><00:08:07.199><c> are</c><00:08:07.440><c> not</c><00:08:07.759><c> captured</c><00:08:08.400><c> by</c>
+interactions that are not captured by
+interactions that are not captured by
+manually<00:08:09.199><c> listing</c><00:08:09.599><c> features,</c><00:08:10.000><c> which</c><00:08:10.240><c> is</c>
+manually listing features, which is
+manually listing features, which is
+exactly<00:08:10.639><c> what</c><00:08:10.879><c> transformers</c><00:08:11.520><c> get</c><00:08:11.599><c> at.</c>
+exactly what transformers get at.
+exactly what transformers get at.
+Transformers<00:08:12.400><c> get</c><00:08:12.560><c> at</c><00:08:12.720><c> hidden</c><00:08:13.120><c> grammar,</c>
+Transformers get at hidden grammar,
+Transformers get at hidden grammar,
+things<00:08:13.840><c> that</c><00:08:14.000><c> we</c><00:08:14.240><c> don't</c><00:08:14.400><c> know</c><00:08:14.560><c> how</c><00:08:14.800><c> to</c>
+things that we don't know how to
+things that we don't know how to
+describe<00:08:15.919><c> that</c><00:08:16.160><c> describe</c><00:08:16.800><c> English</c><00:08:17.039><c> or</c>
+describe that describe English or
+describe that describe English or
+describe<00:08:17.680><c> another</c><00:08:18.000><c> language.</c><00:08:18.560><c> Transformers</c>
+describe another language. Transformers
+describe another language. Transformers
+are<00:08:19.280><c> very</c><00:08:19.440><c> good</c><00:08:19.520><c> at</c><00:08:19.680><c> getting</c><00:08:20.000><c> it.</c>
+are very good at getting it.
+are very good at getting it.
+And
+And
+And
+so<00:08:23.120><c> when</c><00:08:23.440><c> I</c><00:08:23.599><c> think</c><00:08:23.759><c> about</c><00:08:24.000><c> that</c><00:08:24.240><c> and</c><00:08:24.479><c> this</c><00:08:24.639><c> is</c>
+so when I think about that and this is
+so when I think about that and this is
+where<00:08:24.960><c> I</c><00:08:25.120><c> want</c><00:08:25.280><c> to</c><00:08:25.440><c> close.</c>
+where I want to close.
+where I want to close.
+Fundamentally<00:08:28.000><c> what</c><00:08:28.319><c> Stripe</c><00:08:28.800><c> has</c><00:08:29.039><c> done</c><00:08:29.440><c> is</c>
+Fundamentally what Stripe has done is
+Fundamentally what Stripe has done is
+they<00:08:30.000><c> have</c><00:08:30.240><c> shown</c><00:08:31.039><c> the</c><00:08:31.560><c> way</c><00:08:32.560><c> to</c><00:08:33.399><c> disrupt</c><00:08:34.399><c> a</c><00:08:35.039><c> an</c>
+they have shown the way to disrupt a an
+they have shown the way to disrupt a an
+industry<00:08:35.919><c> that</c><00:08:36.159><c> has</c><00:08:36.399><c> used</c><00:08:36.640><c> machine</c><00:08:36.959><c> learning,</c>
+industry that has used machine learning,
+industry that has used machine learning,
+that<00:08:37.440><c> has</c><00:08:37.599><c> used</c><00:08:37.760><c> AI,</c><00:08:38.080><c> that</c><00:08:38.320><c> has</c><00:08:38.479><c> lots</c><00:08:38.719><c> of</c>
+that has used AI, that has lots of
+that has used AI, that has lots of
+engineers,<00:08:39.360><c> that</c><00:08:39.599><c> is</c><00:08:39.760><c> super</c><00:08:40.000><c> bright,</c><00:08:40.320><c> that</c><00:08:40.479><c> is</c>
+engineers, that is super bright, that is
+engineers, that is super bright, that is
+super<00:08:40.959><c> focused</c><00:08:41.279><c> on</c><00:08:41.440><c> a</c><00:08:41.599><c> particular</c><00:08:42.000><c> problem</c>
+super focused on a particular problem
+super focused on a particular problem
+and<00:08:42.959><c> just</c><00:08:43.200><c> completely</c><00:08:43.680><c> upend</c><00:08:44.080><c> it</c><00:08:44.320><c> overnight</c>
+and just completely upend it overnight
+and just completely upend it overnight
+by<00:08:45.360><c> building</c><00:08:45.680><c> a</c><00:08:46.000><c> new</c><00:08:46.160><c> foundation</c><00:08:46.720><c> model</c><00:08:47.040><c> based</c>
+by building a new foundation model based
+by building a new foundation model based
+on<00:08:47.880><c> transformers</c><00:08:48.880><c> because</c><00:08:49.600><c> they</c><00:08:50.000><c> figured</c><00:08:50.399><c> out</c>
+on transformers because they figured out
+on transformers because they figured out
+that
+that
+that
+transformers<00:08:53.360><c> are</c><00:08:53.760><c> universal</c><00:08:54.320><c> learning</c>
+transformers are universal learning
+transformers are universal learning
+models.<00:08:55.440><c> And</c><00:08:55.680><c> so</c><00:08:55.839><c> I</c><00:08:56.080><c> want</c><00:08:56.160><c> to</c><00:08:56.320><c> ask</c><00:08:56.480><c> the</c>
+models. And so I want to ask the
+models. And so I want to ask the
+question,<00:08:57.839><c> what</c><00:08:58.240><c> other</c><00:08:58.720><c> spaces</c><00:08:59.440><c> are</c>
+question, what other spaces are
+question, what other spaces are
+vulnerable<00:09:00.240><c> to</c><00:09:00.519><c> disruption</c><00:09:01.519><c> if</c><00:09:01.839><c> we</c><00:09:02.000><c> thought</c>
+vulnerable to disruption if we thought
+vulnerable to disruption if we thought
+about<00:09:02.480><c> them</c><00:09:02.959><c> as</c><00:09:03.440><c> places</c><00:09:03.839><c> where</c><00:09:04.160><c> transformers</c>
+about them as places where transformers
+about them as places where transformers
+could<00:09:05.120><c> usefully</c>
+could usefully
+could usefully
+learn?<00:09:07.519><c> Do</c><00:09:07.920><c> healthc</c><00:09:08.240><c> care</c><00:09:08.959><c> billing</c><00:09:09.440><c> cycles</c>
+learn? Do healthc care billing cycles
+learn? Do healthc care billing cycles
+have<00:09:10.240><c> semantic</c><00:09:10.880><c> meaning?</c><00:09:11.760><c> I</c><00:09:12.000><c> bet</c><00:09:12.240><c> they</c>
+have semantic meaning? I bet they
+have semantic meaning? I bet they
+do.<00:09:14.320><c> Do</c><00:09:14.640><c> treatment</c><00:09:15.040><c> patterns</c><00:09:15.519><c> and</c><00:09:15.760><c> hospitals</c>
+do. Do treatment patterns and hospitals
+do. Do treatment patterns and hospitals
+have<00:09:16.480><c> semantic</c><00:09:16.959><c> meaning?</c><00:09:17.200><c> I</c><00:09:17.360><c> know</c><00:09:17.440><c> I'm</c>
+have semantic meaning? I know I'm
+have semantic meaning? I know I'm
+zeroing<00:09:18.000><c> in</c><00:09:18.160><c> on</c><00:09:18.320><c> on</c><00:09:18.720><c> healthcare.</c><00:09:19.200><c> That's</c>
+zeroing in on on healthcare. That's
+zeroing in on on healthcare. That's
+where<00:09:19.440><c> my</c><00:09:19.600><c> head</c><00:09:19.760><c> is</c><00:09:19.920><c> at</c><00:09:20.080><c> today,</c><00:09:21.040><c> but</c><00:09:21.279><c> that's</c>
+where my head is at today, but that's
+where my head is at today, but that's
+that's<00:09:22.399><c> just</c><00:09:22.640><c> one</c><00:09:22.920><c> example.</c><00:09:24.360><c> Obviously,</c><00:09:25.360><c> if</c>
+that's just one example. Obviously, if
+that's just one example. Obviously, if
+Strike<00:09:26.000><c> can</c><00:09:26.160><c> do</c><00:09:26.240><c> this</c><00:09:26.480><c> part</c><00:09:26.640><c> for</c><00:09:26.800><c> fintech,</c><00:09:27.360><c> you</c>
+Strike can do this part for fintech, you
+Strike can do this part for fintech, you
+can<00:09:27.600><c> see</c><00:09:27.680><c> it</c><00:09:27.839><c> on</c><00:09:28.000><c> the</c><00:09:28.160><c> stock</c><00:09:28.399><c> side</c><00:09:28.560><c> with</c><00:09:28.800><c> Robin</c>
+can see it on the stock side with Robin
+can see it on the stock side with Robin
+Hood<00:09:29.360><c> relatively</c><00:09:30.120><c> easily.</c><00:09:31.120><c> What</c><00:09:31.360><c> about</c>
+Hood relatively easily. What about
+Hood relatively easily. What about
+education?<00:09:32.640><c> Does</c><00:09:32.880><c> a</c><00:09:33.120><c> student's</c><00:09:33.600><c> grade</c>
+education? Does a student's grade
+education? Does a student's grade
+patterns<00:09:34.800><c> through</c><00:09:35.120><c> a</c><00:09:35.360><c> particular</c><00:09:35.920><c> school</c>
+patterns through a particular school
+patterns through a particular school
+trajectory<00:09:36.880><c> have</c><00:09:37.120><c> semantic</c>
+trajectory have semantic
+trajectory have semantic
+meaning?<00:09:39.600><c> What</c><00:09:40.360><c> about,</c><00:09:41.360><c> I</c><00:09:41.600><c> don't</c><00:09:41.680><c> know,</c>
+meaning? What about, I don't know,
+meaning? What about, I don't know,
+marketing?<00:09:43.279><c> Do</c><00:09:43.440><c> your</c><00:09:43.800><c> leads,</c><00:09:44.800><c> tracks,</c><00:09:45.519><c> and</c><00:09:46.080><c> or</c>
+marketing? Do your leads, tracks, and or
+marketing? Do your leads, tracks, and or
+contacts<00:09:47.120><c> through</c><00:09:47.440><c> a</c><00:09:47.760><c> particular</c><00:09:48.240><c> pattern</c>
+contacts through a particular pattern
+contacts through a particular pattern
+through<00:09:48.880><c> the</c><00:09:49.120><c> buyunnel?</c><00:09:49.839><c> Does</c><00:09:50.080><c> the</c><00:09:50.240><c> buyunnel</c>
+through the buyunnel? Does the buyunnel
+through the buyunnel? Does the buyunnel
+have<00:09:51.440><c> semantic</c><00:09:52.000><c> meaning?</c><00:09:52.720><c> You</c><00:09:52.959><c> see</c><00:09:53.120><c> where</c><00:09:53.279><c> I'm</c>
+have semantic meaning? You see where I'm
+have semantic meaning? You see where I'm
+going<00:09:53.680><c> here?</c><00:09:54.000><c> Basically,</c><00:09:54.880><c> ask</c><00:09:55.200><c> yourself</c><00:09:55.600><c> the</c>
+going here? Basically, ask yourself the
+going here? Basically, ask yourself the
+question,<00:09:57.120><c> what</c><00:09:57.440><c> has</c><00:09:57.680><c> semantic</c><00:09:58.240><c> meaning</c><00:09:59.040><c> in</c>
+question, what has semantic meaning in
+question, what has semantic meaning in
+your<00:09:59.519><c> world</c><00:09:59.839><c> that</c><00:10:00.080><c> you</c><00:10:00.600><c> thought</c><00:10:01.600><c> maybe</c><00:10:01.920><c> is</c>
+your world that you thought maybe is
+your world that you thought maybe is
+best<00:10:02.640><c> mapped</c><00:10:02.959><c> through</c><00:10:03.279><c> traditional</c><00:10:03.800><c> methods?</c>
+best mapped through traditional methods?
+best mapped through traditional methods?
+Maybe<00:10:05.040><c> it's</c><00:10:05.279><c> not.</c><00:10:05.680><c> Maybe</c><00:10:05.920><c> it</c><00:10:06.160><c> needs</c><00:10:06.399><c> a</c>
+Maybe it's not. Maybe it needs a
+Maybe it's not. Maybe it needs a
+transformer<00:10:07.200><c> model</c><00:10:07.440><c> and</c><00:10:07.680><c> we</c><00:10:07.839><c> just</c><00:10:08.000><c> haven't</c>
+transformer model and we just haven't
+transformer model and we just haven't
+built<00:10:08.399><c> one</c><00:10:08.640><c> yet.</c><00:10:09.040><c> Which</c><00:10:09.279><c> suggests</c><00:10:10.240><c> that</c><00:10:10.480><c> if</c>
+built one yet. Which suggests that if
+built one yet. Which suggests that if
+there<00:10:11.040><c> is</c><00:10:11.760><c> a</c><00:10:12.240><c> way</c><00:10:12.720><c> to</c><00:10:13.120><c> easily</c><00:10:13.839><c> build</c><00:10:14.320><c> new</c>
+there is a way to easily build new
+there is a way to easily build new
+foundational<00:10:15.279><c> models</c><00:10:15.600><c> for</c><00:10:15.760><c> these</c><00:10:16.120><c> spaces,</c>
+foundational models for these spaces,
+foundational models for these spaces,
+there's<00:10:17.440><c> huge</c><00:10:17.839><c> breakthroughs</c><00:10:18.560><c> around</c><00:10:18.800><c> the</c>
+there's huge breakthroughs around the
+there's huge breakthroughs around the
+corner.<00:10:19.920><c> So,</c><00:10:20.560><c> think</c><00:10:20.720><c> about</c><00:10:20.880><c> it.</c><00:10:21.279><c> What</c><00:10:21.519><c> in</c><00:10:21.680><c> your</c>
+corner. So, think about it. What in your
+corner. So, think about it. What in your
+space<00:10:22.800><c> is</c><00:10:23.120><c> learnable</c><00:10:23.600><c> by</c><00:10:23.920><c> transformers</c><00:10:24.640><c> that</c>
+space is learnable by transformers that
+space is learnable by transformers that
+we<00:10:25.120><c> haven't</c><00:10:25.279><c> thought</c><00:10:25.519><c> about</c>

@@ -1,0 +1,57 @@
+📄 DEVELOPER BRIEF: Finland DMC Personal Travel Assistant v0.7.
+
+Versio: 0.7 (The "White Label" Edition) | Status: Architecture Locked
+
+1. Executive Summary
+
+Rakennamme skaalautuvan, monibrändätyn (White Label) matka-assistentin, joka palvelee sekä suoria asiakkaita (Järvisydän) että B2B-partnereiden asiakkaita (esim. KonTiki).
+
+2. System Architecture Updates
+
+A. The Brand Engine (New Microservice)
+
+- Tehtävä: Hallinnoi ulkoasua ja identiteettiä.
+
+- Toiminta: UI on "tyhjä kuori", joka värittyy lennosta Configin mukaan.
+
+- Sisältö: Logot, Värikoodit (CSS Variables), Botin nimi, Äänensävy.
+
+B. Master Agent (Orchestrator)
+
+- Rooli: Front End Concierge.
+
+- Logiikka: Gap Finder (Cronjob) herättää agentin, mutta "Internal Monologue" päättää, häiritäänkö asiakasta.
+
+C. Suggestion Chef (The Salesman)
+
+- Logiikka: Hybrid Recommender (Stats + Context).
+
+- A/B Testing Hierarchy:
+
+  - Level 1: Themes (Romance vs. Adventure).
+
+  - Level 2: Hooks (Pitch v1 vs. Pitch v2).
+
+  - Wildcard: 10-20% suosituksista on "kokeiluja" datan keräämiseksi.
+
+- Scoring: Value_Score (Hinta-Laatu) korvaa pelkän hinnan.
+
+D. Mood Evaluator (The Psychologist)
+
+- Logiikka: Async Listener.
+
+- Mallinnus: Sijoittaa asiakkaat klustereihin (Family_Active, Couple_Luxury) tilastollista analyysia varten.
+
+3. Data & Analytics (Win-Win-Win)
+
+- Tavoite: Korkea NPS (Asiakas) + Korkea Kate € (DMC).
+
+- Pipeline: Kaikki interaktiot (Click, View, Book) tallennetaan Analytics_Log:iin attribuutiota ja A/B-testien analyysia varten.
+
+4. UI Architecture (Traveler App)
+
+- Teknologia: PWA (Progressive Web App).
+
+- Design: "Chameleon System". Pohja on neutraali, brändi tulee päälle kerroksena.
+
+- Benchmark: Haetaan mallia onnistuneista moderneista matkasovelluksista (Airbnb Trips, Booking.com Assistant), mutta yksinkertaistettuna.

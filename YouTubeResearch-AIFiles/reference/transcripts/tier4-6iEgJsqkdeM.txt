@@ -1,0 +1,283 @@
+one<00:00:00.199><c> of</c><00:00:00.320><c> the</c><00:00:00.480><c> things</c><00:00:00.719><c> I've</c><00:00:00.919><c> been</c><00:00:01.079><c> calling</c><00:00:01.360><c> out</c>
+one of the things I've been calling out
+one of the things I've been calling out
+is<00:00:01.680><c> that</c><00:00:01.839><c> we</c><00:00:02.040><c> really</c><00:00:02.320><c> need</c><00:00:02.520><c> to</c><00:00:02.720><c> get</c><00:00:03.080><c> past</c><00:00:03.520><c> this</c>
+is that we really need to get past this
+is that we really need to get past this
+idea<00:00:04.680><c> of</c><00:00:05.480><c> short-term</c><00:00:06.120><c> memory</c><00:00:06.560><c> context</c>
+idea of short-term memory context
+idea of short-term memory context
+windows<00:00:07.399><c> in</c><00:00:07.640><c> AI</c><00:00:08.400><c> where</c><00:00:08.599><c> you</c><00:00:08.840><c> have</c><00:00:09.040><c> a</c><00:00:09.200><c> limited</c>
+windows in AI where you have a limited
+windows in AI where you have a limited
+context<00:00:10.000><c> window</c><00:00:10.360><c> and</c><00:00:10.519><c> the</c><00:00:10.639><c> AI</c><00:00:11.000><c> just</c><00:00:11.639><c> forgets</c>
+context window and the AI just forgets
+context window and the AI just forgets
+well<00:00:13.280><c> Google</c><00:00:13.679><c> has</c><00:00:14.040><c> written</c><00:00:14.480><c> a</c>
+well Google has written a
+well Google has written a
+paper<00:00:16.320><c> that</c><00:00:16.920><c> helps</c><00:00:17.240><c> us</c><00:00:17.560><c> think</c><00:00:17.840><c> about</c><00:00:18.080><c> how</c><00:00:18.199><c> to</c>
+paper that helps us think about how to
+paper that helps us think about how to
+get<00:00:18.680><c> past</c><00:00:19.039><c> that</c><00:00:19.680><c> uh</c><00:00:19.840><c> it's</c><00:00:20.080><c> called</c>
+get past that uh it's called
+get past that uh it's called
+Titans<00:00:22.080><c> and</c><00:00:22.279><c> it's</c><00:00:22.840><c> basically</c><00:00:23.320><c> presenting</c><00:00:23.760><c> a</c>
+Titans and it's basically presenting a
+Titans and it's basically presenting a
+different<00:00:24.400><c> architecture</c><00:00:25.080><c> than</c><00:00:25.279><c> traditional</c>
+different architecture than traditional
+different architecture than traditional
+Transformer<00:00:26.519><c> based</c><00:00:26.840><c> architecture</c><00:00:27.400><c> and</c><00:00:27.560><c> large</c>
+Transformer based architecture and large
+Transformer based architecture and large
+language<00:00:28.240><c> models</c><00:00:28.760><c> I'm</c><00:00:28.840><c> going</c><00:00:28.960><c> to</c><00:00:29.080><c> try</c><00:00:29.199><c> and</c>
+language models I'm going to try and
+language models I'm going to try and
+explain<00:00:29.640><c> it</c><00:00:29.759><c> to</c><00:00:30.160><c> very</c><00:00:30.320><c> briefly</c><00:00:30.759><c> we</c><00:00:30.840><c> should</c>
+explain it to very briefly we should
+explain it to very briefly we should
+probably<00:00:31.480><c> do</c><00:00:31.640><c> a</c><00:00:31.800><c> longer</c><00:00:32.160><c> video</c><00:00:32.399><c> on</c><00:00:32.559><c> this</c><00:00:32.719><c> at</c>
+probably do a longer video on this at
+probably do a longer video on this at
+some<00:00:33.079><c> point</c><00:00:33.399><c> but</c><00:00:33.680><c> the</c><00:00:33.800><c> paper</c><00:00:34.160><c> just</c><00:00:34.360><c> came</c><00:00:34.520><c> out</c>
+some point but the paper just came out
+some point but the paper just came out
+I'm<00:00:35.000><c> still</c><00:00:35.239><c> reading</c><00:00:35.760><c> it</c><00:00:36.760><c> so</c><00:00:37.680><c> the</c><00:00:37.960><c> takeaways</c>
+I'm still reading it so the takeaways
+I'm still reading it so the takeaways
+that<00:00:38.520><c> I</c><00:00:38.640><c> have</c><00:00:38.840><c> at</c><00:00:38.960><c> the</c><00:00:39.200><c> top</c><00:00:40.200><c> right</c><00:00:40.440><c> now</c>
+that I have at the top right now
+that I have at the top right now
+Transformers<00:00:41.800><c> use</c><00:00:42.079><c> self</c><00:00:42.399><c> attention</c><00:00:43.039><c> to</c>
+Transformers use self attention to
+Transformers use self attention to
+compute<00:00:44.200><c> relationships</c><00:00:45.079><c> between</c><00:00:45.520><c> all</c><00:00:45.680><c> of</c><00:00:45.800><c> the</c>
+compute relationships between all of the
+compute relationships between all of the
+tokens<00:00:46.320><c> at</c><00:00:46.480><c> a</c><00:00:46.640><c> sequence</c><00:00:47.000><c> so</c><00:00:47.120><c> if</c><00:00:47.199><c> you</c><00:00:47.320><c> say</c><00:00:47.559><c> the</c>
+tokens at a sequence so if you say the
+tokens at a sequence so if you say the
+cat<00:00:47.960><c> jumped</c><00:00:48.280><c> over</c><00:00:48.520><c> the</c><00:00:48.680><c> dog</c><00:00:49.520><c> that's</c><00:00:49.680><c> a</c>
+cat jumped over the dog that's a
+cat jumped over the dog that's a
+sequence<00:00:50.800><c> it's</c><00:00:51.000><c> Computing</c><00:00:51.440><c> the</c><00:00:51.640><c> relationship</c>
+sequence it's Computing the relationship
+sequence it's Computing the relationship
+between<00:00:52.440><c> the</c><00:00:52.559><c> tokens</c><00:00:52.920><c> in</c><00:00:53.120><c> that</c><00:00:53.760><c> sequence</c><00:00:54.760><c> so</c>
+between the tokens in that sequence so
+between the tokens in that sequence so
+self<00:00:55.440><c> attention</c><00:00:56.440><c> is</c><00:00:56.600><c> going</c><00:00:56.800><c> to</c><00:00:57.079><c> have</c>
+self attention is going to have
+self attention is going to have
+mathematically<00:00:58.239><c> speaking</c><00:00:58.640><c> what</c><00:00:58.760><c> we</c><00:00:58.879><c> would</c>
+mathematically speaking what we would
+mathematically speaking what we would
+call<00:00:59.280><c> quadratic</c><00:01:00.000><c> complexity</c><00:01:00.719><c> in</c><00:01:00.840><c> other</c><00:01:00.960><c> words</c>
+call quadratic complexity in other words
+call quadratic complexity in other words
+it's<00:01:01.399><c> very</c><00:01:01.600><c> very</c><00:01:01.879><c> expensive</c><00:01:02.640><c> to</c><00:01:02.879><c> compute</c><00:01:03.320><c> for</c>
+it's very very expensive to compute for
+it's very very expensive to compute for
+long<00:01:04.119><c> sequences</c><00:01:05.119><c> because</c><00:01:05.320><c> you're</c>
+long sequences because you're
+long sequences because you're
+multiplying<00:01:06.240><c> across</c><00:01:06.840><c> all</c><00:01:07.000><c> of</c><00:01:07.200><c> the</c>
+multiplying across all of the
+multiplying across all of the
+relationships<00:01:09.479><c> and</c><00:01:09.640><c> Transformers</c><00:01:10.680><c> struggle</c>
+relationships and Transformers struggle
+relationships and Transformers struggle
+and<00:01:11.840><c> don't</c><00:01:12.159><c> explicitly</c><00:01:12.759><c> distinguish</c><00:01:13.280><c> between</c>
+and don't explicitly distinguish between
+and don't explicitly distinguish between
+short-term<00:01:13.960><c> and</c><00:01:14.080><c> long-term</c><00:01:14.479><c> memory</c><00:01:14.799><c> it</c><00:01:15.040><c> all</c>
+short-term and long-term memory it all
+short-term and long-term memory it all
+works<00:01:15.960><c> like</c><00:01:16.200><c> that</c><00:01:16.439><c> every</c><00:01:16.720><c> token</c><00:01:17.080><c> interacts</c>
+works like that every token interacts
+works like that every token interacts
+with<00:01:17.960><c> all</c><00:01:18.240><c> of</c><00:01:18.439><c> the</c><00:01:19.079><c> others</c><00:01:20.079><c> and</c><00:01:20.200><c> so</c><00:01:20.520><c> Titans</c><00:01:21.079><c> is</c>
+with all of the others and so Titans is
+with all of the others and so Titans is
+different<00:01:22.040><c> because</c><00:01:22.439><c> Titans</c><00:01:23.200><c> introduces</c>
+different because Titans introduces
+different because Titans introduces
+something<00:01:24.520><c> that's</c><00:01:24.720><c> closer</c><00:01:25.079><c> to</c><00:01:25.280><c> our</c><00:01:25.439><c> own</c>
+something that's closer to our own
+something that's closer to our own
+brains<00:01:27.040><c> there's</c><00:01:27.240><c> a</c><00:01:27.439><c> dual</c><00:01:27.880><c> memory</c><00:01:28.280><c> system</c><00:01:28.600><c> in</c>
+brains there's a dual memory system in
+brains there's a dual memory system in
+Titans<00:01:30.000><c> a</c><00:01:30.159><c> Titans</c><00:01:30.520><c> architecture</c><00:01:31.119><c> apparently</c>
+Titans a Titans architecture apparently
+Titans a Titans architecture apparently
+has<00:01:31.680><c> a</c><00:01:31.840><c> short-term</c><00:01:32.399><c> memory</c><00:01:33.040><c> which</c><00:01:33.200><c> is</c><00:01:33.439><c> very</c>
+has a short-term memory which is very
+has a short-term memory which is very
+similar<00:01:34.680><c> to</c><00:01:35.119><c> how</c><00:01:35.360><c> Transformers</c><00:01:36.000><c> work</c><00:01:36.280><c> today</c>
+similar to how Transformers work today
+similar to how Transformers work today
+and<00:01:37.240><c> it</c><00:01:37.360><c> focuses</c><00:01:37.799><c> on</c><00:01:38.040><c> local</c>
+and it focuses on local
+and it focuses on local
+dependencies<00:01:39.920><c> it</c><00:01:40.079><c> also</c><00:01:40.320><c> has</c><00:01:40.439><c> a</c><00:01:40.640><c> long-term</c>
+dependencies it also has a long-term
+dependencies it also has a long-term
+memory<00:01:41.880><c> which</c><00:01:42.000><c> is</c><00:01:42.119><c> a</c><00:01:42.479><c> separate</c><00:01:43.000><c> net</c><00:01:43.320><c> new</c>
+memory which is a separate net new
+memory which is a separate net new
+neural<00:01:43.920><c> module</c><00:01:44.399><c> that's</c><00:01:44.640><c> explicitly</c><00:01:45.280><c> designed</c>
+neural module that's explicitly designed
+neural module that's explicitly designed
+to<00:01:45.880><c> store</c><00:01:46.159><c> and</c><00:01:46.280><c> retrieve</c><00:01:46.719><c> information</c><00:01:47.200><c> from</c>
+to store and retrieve information from
+to store and retrieve information from
+past
+past
+past
+context<00:01:50.479><c> now</c><00:01:50.799><c> what's</c><00:01:51.040><c> interesting</c><00:01:51.640><c> is</c><00:01:52.640><c> it</c>
+context now what's interesting is it
+context now what's interesting is it
+apparently<00:01:53.759><c> works</c><00:01:54.759><c> over</c><00:01:55.200><c> longer</c><00:01:55.759><c> context</c>
+apparently works over longer context
+apparently works over longer context
+windows<00:01:58.119><c> so</c><00:01:58.439><c> titans's</c><00:01:59.280><c> long-term</c><00:02:00.000><c> memory</c><00:02:00.759><c> can</c>
+windows so titans's long-term memory can
+windows so titans's long-term memory can
+handle<00:02:01.360><c> context</c><00:02:01.799><c> lengths</c><00:02:02.240><c> exceeding</c><00:02:02.640><c> 2</c>
+handle context lengths exceeding 2
+handle context lengths exceeding 2
+million<00:02:03.399><c> tokens</c><00:02:04.399><c> it</c><00:02:04.600><c> does</c><00:02:05.000><c> that</c><00:02:05.479><c> by</c>
+million tokens it does that by
+million tokens it does that by
+efficiently
+efficiently
+efficiently
+retrieving<00:02:08.000><c> information</c><00:02:08.720><c> without</c>
+retrieving information without
+retrieving information without
+recomputing<00:02:09.920><c> the</c><00:02:10.399><c> dependencies</c><00:02:11.280><c> for</c><00:02:11.480><c> the</c>
+recomputing the dependencies for the
+recomputing the dependencies for the
+entire
+entire
+entire
+sequence<00:02:13.800><c> so</c><00:02:14.160><c> it</c><00:02:14.280><c> can</c><00:02:14.560><c> look</c><00:02:14.920><c> at</c><00:02:15.200><c> Ultra</c><00:02:15.680><c> long</c>
+sequence so it can look at Ultra long
+sequence so it can look at Ultra long
+range<00:02:16.440><c> dependencies</c><00:02:17.280><c> like</c><00:02:17.680><c> uh</c><00:02:17.840><c> relationships</c>
+range dependencies like uh relationships
+range dependencies like uh relationships
+between<00:02:18.840><c> genes</c><00:02:19.160><c> and</c><00:02:19.319><c> a</c>
+between genes and a
+between genes and a
+genome<00:02:22.200><c> now</c><00:02:22.400><c> the</c><00:02:22.560><c> nice</c><00:02:22.840><c> thing</c>
+genome now the nice thing
+genome now the nice thing
+is<00:02:25.080><c> it</c><00:02:25.280><c> enables</c><00:02:25.800><c> you</c><00:02:26.120><c> to</c><00:02:27.000><c> get</c><00:02:27.239><c> to</c><00:02:27.720><c> linear</c>
+is it enables you to get to linear
+is it enables you to get to linear
+scaling<00:02:28.959><c> versus</c><00:02:29.400><c> sort</c><00:02:29.599><c> of</c><00:02:29.920><c> the</c><00:02:30.080><c> computational</c>
+scaling versus sort of the computational
+scaling versus sort of the computational
+cost<00:02:30.959><c> of</c><00:02:31.160><c> quadratic</c><00:02:31.640><c> scaling</c><00:02:32.040><c> and</c><00:02:32.160><c> I</c><00:02:32.280><c> know</c>
+cost of quadratic scaling and I know
+cost of quadratic scaling and I know
+that<00:02:32.560><c> sounds</c><00:02:32.879><c> mathematical</c><00:02:33.519><c> but</c><00:02:33.680><c> basically</c>
+that sounds mathematical but basically
+that sounds mathematical but basically
+if<00:02:34.160><c> you're</c><00:02:34.319><c> not</c><00:02:34.920><c> Computing</c><00:02:35.920><c> all</c><00:02:36.080><c> the</c>
+if you're not Computing all the
+if you're not Computing all the
+relationships<00:02:37.080><c> all</c><00:02:37.280><c> the</c><00:02:37.640><c> time</c><00:02:38.640><c> then</c><00:02:38.760><c> you're</c>
+relationships all the time then you're
+relationships all the time then you're
+able<00:02:39.280><c> to</c><00:02:39.480><c> scale</c>
+able to scale
+able to scale
+farther<00:02:42.480><c> and</c><00:02:42.840><c> so</c><00:02:43.840><c> that's</c><00:02:44.080><c> really</c><00:02:44.440><c> exciting</c>
+farther and so that's really exciting
+farther and so that's really exciting
+I'm<00:02:45.280><c> still</c><00:02:45.480><c> digging</c><00:02:45.800><c> in</c><00:02:46.040><c> I'm</c><00:02:46.159><c> still</c><00:02:46.319><c> trying</c><00:02:46.480><c> to</c>
+I'm still digging in I'm still trying to
+I'm still digging in I'm still trying to
+figure<00:02:46.800><c> out</c><00:02:46.959><c> what</c><00:02:47.080><c> all</c><00:02:47.239><c> is</c><00:02:47.440><c> in</c><00:02:47.640><c> here</c><00:02:48.040><c> but</c>
+figure out what all is in here but
+figure out what all is in here but
+potentially<00:02:50.080><c> it</c><00:02:50.239><c> seems</c><00:02:50.599><c> to</c><00:02:51.239><c> enable</c><00:02:52.239><c> long</c>
+potentially it seems to enable long
+potentially it seems to enable long
+range<00:02:53.599><c> needle</c><00:02:54.000><c> in</c><00:02:54.120><c> a</c><00:02:54.280><c> hstack</c><00:02:54.879><c> type</c><00:02:55.080><c> memory</c>
+range needle in a hstack type memory
+range needle in a hstack type memory
+retrieval<00:02:55.920><c> that's</c><00:02:56.080><c> what</c><00:02:56.200><c> the</c><00:02:56.280><c> authors</c>
+retrieval that's what the authors
+retrieval that's what the authors
+claimed<00:02:57.000><c> they</c><00:02:57.159><c> did</c><00:02:57.440><c> they</c><00:02:57.599><c> claimed</c><00:02:57.920><c> they</c>
+claimed they did they claimed they
+claimed they did they claimed they
+tested<00:02:58.440><c> it</c><00:02:58.680><c> versus</c><00:02:59.080><c> Baseline</c><00:02:59.519><c> trans</c>
+tested it versus Baseline trans
+tested it versus Baseline trans
+Transformer<00:03:00.239><c> architecture</c><00:03:00.760><c> on</c><00:03:00.920><c> what's</c>
+Transformer architecture on what's
+Transformer architecture on what's
+called<00:03:01.239><c> a</c><00:03:01.319><c> needle</c><00:03:01.599><c> and</c><00:03:01.680><c> a</c><00:03:01.800><c> Hast</c><00:03:02.040><c> stack</c><00:03:02.319><c> task</c><00:03:03.120><c> a</c>
+called a needle and a Hast stack task a
+called a needle and a Hast stack task a
+classic<00:03:03.760><c> example</c><00:03:04.080><c> is</c><00:03:04.200><c> you</c><00:03:04.319><c> change</c><00:03:04.599><c> one</c><00:03:04.760><c> word</c>
+classic example is you change one word
+classic example is you change one word
+in<00:03:05.120><c> Moby</c><00:03:05.480><c> Dick</c><00:03:05.760><c> and</c><00:03:05.879><c> you</c><00:03:06.000><c> tell</c><00:03:06.239><c> the</c>
+in Moby Dick and you tell the
+in Moby Dick and you tell the
+Transformer<00:03:06.920><c> to</c><00:03:07.120><c> find</c><00:03:07.680><c> it</c><00:03:08.680><c> and</c><00:03:09.040><c> you</c><00:03:09.239><c> see</c><00:03:09.519><c> if</c><00:03:09.599><c> it</c>
+Transformer to find it and you see if it
+Transformer to find it and you see if it
+can<00:03:09.879><c> look</c><00:03:10.040><c> through</c><00:03:10.200><c> the</c><00:03:10.319><c> entire</c><00:03:10.640><c> context</c>
+can look through the entire context
+can look through the entire context
+window<00:03:11.360><c> and</c><00:03:11.519><c> find</c><00:03:11.680><c> it</c><00:03:11.920><c> and</c><00:03:12.080><c> they</c>
+window and find it and they
+window and find it and they
+claim<00:03:13.760><c> that</c><00:03:14.040><c> their</c><00:03:14.760><c> long-term</c><00:03:15.760><c> uh</c><00:03:16.440><c> Titan's</c>
+claim that their long-term uh Titan's
+claim that their long-term uh Titan's
+memory<00:03:18.519><c> architecture</c><00:03:19.159><c> does</c><00:03:19.440><c> better</c><00:03:19.680><c> at</c><00:03:19.879><c> that</c>
+memory architecture does better at that
+memory architecture does better at that
+than
+than
+than
+Baseline<00:03:22.360><c> um</c><00:03:22.920><c> and</c><00:03:23.120><c> they</c><00:03:23.239><c> think</c><00:03:23.480><c> that</c><00:03:23.959><c> by</c>
+Baseline um and they think that by
+Baseline um and they think that by
+explicitly<00:03:24.879><c> differentiating</c><00:03:25.760><c> what</c><00:03:26.120><c> requires</c>
+explicitly differentiating what requires
+explicitly differentiating what requires
+immediate<00:03:27.080><c> attention</c><00:03:27.400><c> in</c><00:03:27.560><c> short-term</c><00:03:28.000><c> memory</c>
+immediate attention in short-term memory
+immediate attention in short-term memory
+versus<00:03:28.680><c> long-term</c><00:03:29.159><c> attention</c>
+versus long-term attention
+versus long-term attention
+it's<00:03:30.439><c> going</c><00:03:30.560><c> to</c><00:03:30.720><c> mimic</c><00:03:31.120><c> human</c><00:03:31.959><c> abilities</c>
+it's going to mimic human abilities
+it's going to mimic human abilities
+better<00:03:32.720><c> and</c><00:03:32.920><c> allow</c><00:03:33.200><c> us</c><00:03:33.360><c> to</c><00:03:33.640><c> exceed</c>
+better and allow us to exceed
+better and allow us to exceed
+traditional<00:03:34.599><c> context</c><00:03:35.159><c> Windows</c><00:03:36.159><c> that's</c><00:03:36.360><c> what</c>
+traditional context Windows that's what
+traditional context Windows that's what
+I've<00:03:36.640><c> got</c><00:03:36.879><c> so</c><00:03:37.120><c> far</c><00:03:37.439><c> I'm</c><00:03:37.560><c> still</c><00:03:37.840><c> reading</c><00:03:38.080><c> the</c>
+I've got so far I'm still reading the
+I've got so far I'm still reading the
+paper<00:03:38.599><c> I</c><00:03:38.680><c> think</c><00:03:38.799><c> it's</c><00:03:39.040><c> potentially</c><00:03:39.640><c> very</c>
+paper I think it's potentially very
+paper I think it's potentially very
+important<00:03:40.519><c> uh</c><00:03:40.640><c> and</c><00:03:40.720><c> I</c><00:03:40.799><c> wanted</c><00:03:41.000><c> to</c><00:03:41.080><c> share</c><00:03:41.280><c> it</c>
+important uh and I wanted to share it
+important uh and I wanted to share it
+with<00:03:41.560><c> you</c><00:03:41.760><c> and</c><00:03:41.959><c> see</c><00:03:42.120><c> what</c><00:03:42.239><c> you</c><00:03:42.360><c> guys</c><00:03:42.519><c> think</c>

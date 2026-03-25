@@ -1,0 +1,931 @@
+I<00:00:00.320><c> want</c><00:00:00.400><c> to</c><00:00:00.640><c> talk</c><00:00:00.800><c> today</c><00:00:01.120><c> about</c><00:00:01.360><c> one</c><00:00:01.600><c> of</c><00:00:01.680><c> the</c>
+I want to talk today about one of the
+I want to talk today about one of the
+most<00:00:02.000><c> subtle</c><00:00:02.480><c> aspects</c><00:00:02.960><c> but</c><00:00:03.280><c> pervasive</c>
+most subtle aspects but pervasive
+most subtle aspects but pervasive
+aspects<00:00:04.319><c> of</c><00:00:04.560><c> this</c><00:00:04.799><c> AI</c><00:00:05.400><c> revolution.</c><00:00:06.400><c> AI</c>
+aspects of this AI revolution. AI
+aspects of this AI revolution. AI
+compresses
+compresses
+compresses
+time.<00:00:10.480><c> And</c><00:00:10.719><c> we</c><00:00:10.960><c> are</c><00:00:11.120><c> living</c><00:00:11.440><c> through</c><00:00:11.759><c> it,</c>
+time. And we are living through it,
+time. And we are living through it,
+right?<00:00:12.480><c> We</c><00:00:12.719><c> are</c><00:00:12.880><c> living</c><00:00:13.200><c> through</c><00:00:13.519><c> this</c><00:00:13.840><c> moment</c>
+right? We are living through this moment
+right? We are living through this moment
+where<00:00:15.200><c> we</c><00:00:15.519><c> feel</c><00:00:15.679><c> like</c><00:00:15.920><c> we're</c><00:00:16.240><c> always</c><00:00:16.720><c> trying</c>
+where we feel like we're always trying
+where we feel like we're always trying
+to<00:00:17.600><c> catch</c><00:00:18.080><c> up.</c><00:00:19.039><c> DM</c><00:00:19.439><c> after</c><00:00:19.760><c> DM,</c><00:00:20.160><c> email</c><00:00:20.480><c> after</c>
+to catch up. DM after DM, email after
+to catch up. DM after DM, email after
+email<00:00:21.119><c> I</c><00:00:21.279><c> get</c><00:00:21.439><c> is,</c><00:00:21.800><c> "Nate,</c><00:00:22.800><c> tell</c><00:00:23.039><c> me</c><00:00:23.600><c> how</c><00:00:23.840><c> I</c><00:00:24.080><c> can</c>
+email I get is, "Nate, tell me how I can
+email I get is, "Nate, tell me how I can
+keep<00:00:24.480><c> up</c><00:00:24.640><c> with</c><00:00:24.800><c> this.</c><00:00:25.199><c> The</c><00:00:25.439><c> news</c><00:00:25.680><c> drops</c><00:00:26.000><c> on</c>
+keep up with this. The news drops on
+keep up with this. The news drops on
+Tuesday.<00:00:26.640><c> The</c><00:00:26.800><c> news</c><00:00:27.039><c> drops</c><00:00:27.359><c> on</c><00:00:27.519><c> Wednesday.</c>
+Tuesday. The news drops on Wednesday.
+Tuesday. The news drops on Wednesday.
+The<00:00:28.080><c> news</c><00:00:28.320><c> drops</c><00:00:28.560><c> on</c><00:00:28.800><c> Wednesday</c><00:00:29.119><c> night.</c><00:00:29.439><c> I</c>
+The news drops on Wednesday night. I
+The news drops on Wednesday night. I
+can't<00:00:30.000><c> keep</c><00:00:30.160><c> up</c><00:00:30.320><c> with</c><00:00:30.560><c> everything.</c><00:00:31.439><c> My</c>
+can't keep up with everything. My
+can't keep up with everything. My
+prompting<00:00:32.160><c> has</c><00:00:32.399><c> to</c><00:00:32.559><c> evolve.</c><00:00:32.960><c> I</c><00:00:33.200><c> have</c><00:00:33.280><c> to</c><00:00:33.440><c> pick</c>
+prompting has to evolve. I have to pick
+prompting has to evolve. I have to pick
+up<00:00:33.840><c> agents</c><00:00:34.320><c> now.</c><00:00:34.800><c> The</c><00:00:35.040><c> list</c><00:00:35.280><c> goes</c><00:00:35.559><c> on.</c><00:00:36.559><c> We</c><00:00:36.880><c> feel</c>
+up agents now. The list goes on. We feel
+up agents now. The list goes on. We feel
+like<00:00:37.360><c> we're</c><00:00:37.600><c> living</c><00:00:37.760><c> through</c>
+like we're living through
+like we're living through
+hypercompressed<00:00:38.879><c> time</c><00:00:39.200><c> is</c><00:00:39.360><c> what</c><00:00:39.520><c> I'm</c><00:00:39.760><c> getting</c>
+hypercompressed time is what I'm getting
+hypercompressed time is what I'm getting
+at.<00:00:40.800><c> But</c><00:00:40.960><c> the</c><00:00:41.120><c> thing</c><00:00:41.280><c> I</c><00:00:41.520><c> want</c><00:00:41.600><c> to</c><00:00:41.760><c> talk</c><00:00:41.920><c> about</c>
+at. But the thing I want to talk about
+at. But the thing I want to talk about
+today<00:00:43.040><c> is</c><00:00:43.360><c> not</c><00:00:43.920><c> our</c><00:00:44.480><c> experience</c><00:00:45.200><c> of</c><00:00:45.520><c> time.</c>
+today is not our experience of time.
+today is not our experience of time.
+It's<00:00:46.559><c> the</c><00:00:46.800><c> AI's</c><00:00:47.360><c> experience</c><00:00:47.840><c> of</c><00:00:48.000><c> time</c><00:00:48.320><c> because</c>
+It's the AI's experience of time because
+It's the AI's experience of time because
+I<00:00:48.719><c> think</c><00:00:48.800><c> that's</c><00:00:49.039><c> actually</c><00:00:49.200><c> something</c><00:00:49.520><c> we</c>
+I think that's actually something we
+I think that's actually something we
+need<00:00:49.920><c> to</c><00:00:50.239><c> understand</c><00:00:51.160><c> better.</c><00:00:52.160><c> We</c><00:00:52.559><c> experience</c>
+need to understand better. We experience
+need to understand better. We experience
+time<00:00:53.360><c> the</c><00:00:53.600><c> way</c><00:00:53.680><c> our</c><00:00:53.920><c> species</c><00:00:54.320><c> has</c><00:00:54.640><c> always</c>
+time the way our species has always
+time the way our species has always
+experienced<00:00:55.440><c> time.</c><00:00:56.320><c> Going</c><00:00:56.640><c> forward,</c><00:00:57.600><c> we</c><00:00:58.000><c> have</c>
+experienced time. Going forward, we have
+experienced time. Going forward, we have
+uh<00:00:58.879><c> a</c><00:00:59.239><c> surprisingly</c><00:01:00.239><c> nonrational</c><00:01:01.199><c> perception</c>
+uh a surprisingly nonrational perception
+uh a surprisingly nonrational perception
+of<00:01:01.840><c> time.</c><00:01:02.320><c> The</c><00:01:02.559><c> older</c><00:01:02.879><c> you</c><00:01:03.120><c> get,</c><00:01:03.359><c> the</c><00:01:03.520><c> more</c><00:01:03.680><c> you</c>
+of time. The older you get, the more you
+of time. The older you get, the more you
+understand<00:01:04.320><c> the</c><00:01:04.640><c> idea</c><00:01:04.879><c> that</c><00:01:05.199><c> the</c><00:01:05.439><c> years</c><00:01:05.760><c> that</c>
+understand the idea that the years that
+understand the idea that the years that
+you've<00:01:06.240><c> had</c><00:01:06.560><c> as</c><00:01:06.799><c> an</c><00:01:07.040><c> adult</c><00:01:07.520><c> feel</c><00:01:07.920><c> shorter</c><00:01:08.560><c> than</c>
+you've had as an adult feel shorter than
+you've had as an adult feel shorter than
+the<00:01:08.960><c> years</c><00:01:09.200><c> that</c><00:01:09.360><c> you</c><00:01:09.520><c> had</c><00:01:09.680><c> as</c><00:01:09.840><c> a</c><00:01:10.080><c> kid.</c><00:01:10.640><c> So,</c><00:01:10.880><c> our</c>
+the years that you had as a kid. So, our
+the years that you had as a kid. So, our
+sense<00:01:11.360><c> of</c><00:01:11.520><c> time</c><00:01:11.760><c> is</c><00:01:12.000><c> wonky</c><00:01:12.400><c> and</c><00:01:12.560><c> tied</c><00:01:12.799><c> to</c><00:01:12.960><c> our</c>
+sense of time is wonky and tied to our
+sense of time is wonky and tied to our
+species.<00:01:13.920><c> I</c><00:01:14.159><c> could</c><00:01:14.320><c> go</c><00:01:14.479><c> on</c><00:01:14.640><c> and</c><00:01:15.000><c> on.</c><00:01:16.000><c> You</c><00:01:16.159><c> can</c>
+species. I could go on and on. You can
+species. I could go on and on. You can
+read<00:01:16.560><c> up</c><00:01:16.720><c> on</c><00:01:16.880><c> it.</c><00:01:17.759><c> AI</c><00:01:18.159><c> doesn't</c><00:01:18.400><c> have</c><00:01:18.560><c> any</c><00:01:18.720><c> of</c>
+read up on it. AI doesn't have any of
+read up on it. AI doesn't have any of
+that.<00:01:19.439><c> AI</c><00:01:19.920><c> has</c><00:01:20.159><c> logical</c><00:01:20.960><c> clockdriven</c>
+that. AI has logical clockdriven
+that. AI has logical clockdriven
+perception<00:01:22.320><c> of</c><00:01:22.560><c> time.</c><00:01:23.360><c> And</c><00:01:23.920><c> because</c><00:01:24.400><c> of</c>
+perception of time. And because of
+perception of time. And because of
+compute<00:01:25.360><c> advances,</c><00:01:26.240><c> AI</c><00:01:26.720><c> ability</c><00:01:27.200><c> to</c><00:01:27.439><c> do</c>
+compute advances, AI ability to do
+compute advances, AI ability to do
+things<00:01:28.080><c> in</c><00:01:28.400><c> time</c><00:01:28.960><c> continues</c><00:01:29.439><c> to</c><00:01:29.759><c> accelerate.</c>
+things in time continues to accelerate.
+things in time continues to accelerate.
+And<00:01:30.640><c> so</c><00:01:30.799><c> for</c><00:01:31.040><c> AI,</c><00:01:31.439><c> time</c><00:01:31.759><c> is</c><00:01:32.159><c> compressing</c><00:01:32.640><c> as</c>
+And so for AI, time is compressing as
+And so for AI, time is compressing as
+well.<00:01:33.759><c> But</c><00:01:34.320><c> it</c><00:01:34.560><c> doesn't</c><00:01:34.799><c> feel</c><00:01:35.040><c> the</c><00:01:35.280><c> same</c><00:01:35.439><c> way.</c>
+well. But it doesn't feel the same way.
+well. But it doesn't feel the same way.
+It's<00:01:36.320><c> compressing</c><00:01:36.880><c> the</c><00:01:37.200><c> work</c><00:01:37.520><c> you</c><00:01:37.759><c> can</c><00:01:37.920><c> do</c><00:01:38.079><c> in</c>
+It's compressing the work you can do in
+It's compressing the work you can do in
+a<00:01:38.479><c> unit</c><00:01:38.799><c> of</c><00:01:38.960><c> time,</c><00:01:39.360><c> not</c><00:01:39.680><c> compressing</c><00:01:40.159><c> the</c><00:01:40.400><c> time</c>
+a unit of time, not compressing the time
+a unit of time, not compressing the time
+it<00:01:40.880><c> takes</c><00:01:41.119><c> to</c><00:01:41.280><c> do</c><00:01:41.439><c> work.</c><00:01:41.680><c> I'm</c><00:01:41.840><c> going</c><00:01:41.920><c> to</c><00:01:42.000><c> say</c>
+it takes to do work. I'm going to say
+it takes to do work. I'm going to say
+that<00:01:42.400><c> one</c><00:01:42.560><c> more</c><00:01:42.799><c> time.</c><00:01:43.280><c> For</c><00:01:43.640><c> humans,</c><00:01:44.640><c> it</c><00:01:44.960><c> feels</c>
+that one more time. For humans, it feels
+that one more time. For humans, it feels
+like<00:01:45.439><c> time</c><00:01:45.759><c> is</c><00:01:46.000><c> getting</c><00:01:46.399><c> short</c><00:01:46.880><c> because</c><00:01:47.119><c> there</c>
+like time is getting short because there
+like time is getting short because there
+is<00:01:47.600><c> so</c><00:01:47.840><c> much</c><00:01:48.079><c> work</c><00:01:48.320><c> to</c><00:01:48.560><c> do.</c><00:01:49.520><c> For</c><00:01:49.759><c> AI,</c><00:01:50.479><c> it</c><00:01:50.720><c> feels</c>
+is so much work to do. For AI, it feels
+is so much work to do. For AI, it feels
+like<00:01:52.000><c> work</c><00:01:52.320><c> is</c><00:01:52.560><c> getting</c><00:01:52.880><c> compressed</c><00:01:53.360><c> in</c>
+like work is getting compressed in
+like work is getting compressed in
+because<00:01:53.840><c> there's</c><00:01:54.159><c> so</c><00:01:54.320><c> much</c><00:01:54.479><c> more</c><00:01:54.720><c> compute</c><00:01:55.439><c> and</c>
+because there's so much more compute and
+because there's so much more compute and
+time<00:01:56.079><c> is</c><00:01:56.320><c> therefore</c><00:01:56.920><c> expanding.</c><00:01:57.920><c> And</c><00:01:58.159><c> so</c><00:01:58.479><c> even</c>
+time is therefore expanding. And so even
+time is therefore expanding. And so even
+though<00:01:59.119><c> I'm</c><00:01:59.360><c> not</c><00:01:59.520><c> here</c><00:01:59.680><c> to</c><00:01:59.840><c> talk</c><00:02:00.000><c> about</c><00:02:00.079><c> the</c>
+though I'm not here to talk about the
+though I'm not here to talk about the
+interior<00:02:00.719><c> perception</c><00:02:01.119><c> of</c><00:02:01.280><c> time</c><00:02:01.439><c> for</c><00:02:01.680><c> AI,</c><00:02:02.079><c> I'll</c>
+interior perception of time for AI, I'll
+interior perception of time for AI, I'll
+leave<00:02:02.399><c> that</c><00:02:02.560><c> to</c><00:02:02.719><c> the</c><00:02:02.880><c> philosophy</c><00:02:03.520><c> students,</c>
+leave that to the philosophy students,
+leave that to the philosophy students,
+it<00:02:04.640><c> is</c><00:02:04.880><c> clear</c><00:02:05.759><c> that</c><00:02:06.079><c> we</c><00:02:06.479><c> have</c><00:02:07.040><c> a</c><00:02:07.439><c> very</c>
+it is clear that we have a very
+it is clear that we have a very
+different<00:02:08.399><c> understanding</c><00:02:08.879><c> of</c><00:02:09.119><c> what</c><00:02:09.360><c> can</c><00:02:09.520><c> be</c>
+different understanding of what can be
+different understanding of what can be
+done<00:02:09.759><c> in</c><00:02:10.000><c> a</c><00:02:10.160><c> given</c><00:02:10.319><c> unit</c><00:02:10.560><c> of</c><00:02:10.800><c> time</c><00:02:11.039><c> and</c><00:02:11.280><c> it</c><00:02:11.440><c> has</c>
+done in a given unit of time and it has
+done in a given unit of time and it has
+realworld<00:02:12.480><c> implications</c><00:02:13.200><c> for</c><00:02:13.520><c> us.</c><00:02:14.560><c> As</c><00:02:14.800><c> an</c>
+realworld implications for us. As an
+realworld implications for us. As an
+example,<00:02:16.000><c> we</c><00:02:16.400><c> are</c><00:02:16.720><c> not</c><00:02:17.120><c> very</c><00:02:17.520><c> far</c><00:02:17.840><c> along</c><00:02:18.720><c> on</c>
+example, we are not very far along on
+example, we are not very far along on
+the<00:02:19.360><c> idea</c><00:02:19.840><c> of</c><00:02:20.239><c> AI</c><00:02:20.640><c> agents</c><00:02:21.120><c> maintaining</c><00:02:21.599><c> intent</c>
+the idea of AI agents maintaining intent
+the idea of AI agents maintaining intent
+over<00:02:22.319><c> time.</c><00:02:22.959><c> It's</c><00:02:23.280><c> very</c><00:02:23.599><c> difficult</c><00:02:23.840><c> to</c><00:02:24.080><c> do</c>
+over time. It's very difficult to do
+over time. It's very difficult to do
+this.<00:02:24.879><c> The</c><00:02:25.200><c> projection</c><00:02:25.680><c> right</c><00:02:25.920><c> now</c><00:02:26.080><c> is</c><00:02:26.239><c> that</c>
+this. The projection right now is that
+this. The projection right now is that
+by<00:02:26.840><c> 2026,</c><00:02:27.840><c> maybe</c><00:02:28.480><c> we</c><00:02:28.720><c> will</c><00:02:28.879><c> get</c><00:02:29.040><c> to</c><00:02:29.200><c> a</c><00:02:29.360><c> point</c>
+by 2026, maybe we will get to a point
+by 2026, maybe we will get to a point
+where<00:02:29.680><c> an</c><00:02:29.840><c> AI</c><00:02:30.160><c> agent</c><00:02:30.480><c> can</c><00:02:30.720><c> spend</c><00:02:31.040><c> a</c><00:02:31.280><c> week</c><00:02:31.599><c> on</c><00:02:31.840><c> a</c>
+where an AI agent can spend a week on a
+where an AI agent can spend a week on a
+task,<00:02:32.400><c> which</c><00:02:32.640><c> is</c><00:02:32.720><c> a</c><00:02:32.879><c> big</c><00:02:33.120><c> deal.</c><00:02:34.080><c> I</c><00:02:34.319><c> got</c><00:02:34.400><c> to</c><00:02:34.560><c> tell</c>
+task, which is a big deal. I got to tell
+task, which is a big deal. I got to tell
+you,<00:02:35.920><c> people</c><00:02:36.239><c> at</c><00:02:36.480><c> my</c><00:02:36.720><c> work</c><00:02:37.200><c> spend</c><00:02:37.519><c> months</c><00:02:37.840><c> on</c>
+you, people at my work spend months on
+you, people at my work spend months on
+tasks.<00:02:38.959><c> We</c><00:02:39.280><c> have</c><00:02:39.440><c> to</c><00:02:39.599><c> maintain</c><00:02:40.000><c> strategic</c>
+tasks. We have to maintain strategic
+tasks. We have to maintain strategic
+alignment<00:02:41.120><c> over,</c><00:02:41.680><c> you</c><00:02:41.920><c> know,</c><00:02:42.080><c> a</c><00:02:42.319><c> year's</c><00:02:42.720><c> time.</c>
+alignment over, you know, a year's time.
+alignment over, you know, a year's time.
+We<00:02:43.280><c> have</c><00:02:43.360><c> to</c><00:02:43.519><c> look</c><00:02:43.760><c> multiple</c><00:02:44.239><c> years</c><00:02:44.480><c> into</c><00:02:44.800><c> the</c>
+We have to look multiple years into the
+We have to look multiple years into the
+future.<00:02:45.760><c> We</c><00:02:46.000><c> need</c><00:02:46.160><c> to</c><00:02:46.319><c> have</c><00:02:46.480><c> a</c><00:02:46.720><c> much</c><00:02:46.959><c> larger</c>
+future. We need to have a much larger
+future. We need to have a much larger
+sense<00:02:47.599><c> of</c><00:02:47.840><c> time.</c><00:02:48.640><c> And</c><00:02:48.879><c> when</c><00:02:49.040><c> we</c><00:02:49.200><c> do</c><00:02:49.440><c> tasks,</c><00:02:49.920><c> we</c>
+sense of time. And when we do tasks, we
+sense of time. And when we do tasks, we
+need<00:02:50.239><c> to</c><00:02:50.400><c> retain</c><00:02:51.040><c> important</c><00:02:51.680><c> context</c><00:02:52.239><c> for</c>
+need to retain important context for
+need to retain important context for
+longer<00:02:52.879><c> stretches</c><00:02:53.280><c> of</c><00:02:53.440><c> time,</c><00:02:53.680><c> too.</c><00:02:53.920><c> Now,</c><00:02:54.480><c> we</c>
+longer stretches of time, too. Now, we
+longer stretches of time, too. Now, we
+have<00:02:54.879><c> all</c><00:02:55.040><c> been</c><00:02:55.200><c> there.</c><00:02:55.920><c> The</c><00:02:56.080><c> juror</c><00:02:56.480><c> tickets</c>
+have all been there. The juror tickets
+have all been there. The juror tickets
+do<00:02:57.280><c> drop</c><00:02:57.519><c> out</c><00:02:57.680><c> of</c><00:02:57.840><c> our</c><00:02:58.000><c> brains.</c><00:02:58.480><c> We</c><00:02:58.640><c> do</c><00:02:58.800><c> forget</c>
+do drop out of our brains. We do forget
+do drop out of our brains. We do forget
+context.<00:02:59.840><c> We</c><00:03:00.080><c> are</c><00:03:00.239><c> forgetful.</c><00:03:00.879><c> And</c><00:03:01.040><c> so,</c><00:03:01.200><c> it's</c>
+context. We are forgetful. And so, it's
+context. We are forgetful. And so, it's
+important<00:03:02.000><c> not</c><00:03:02.239><c> to</c><00:03:02.400><c> judge</c><00:03:02.640><c> the</c><00:03:02.800><c> AI</c><00:03:03.120><c> too</c><00:03:03.360><c> hard</c>
+important not to judge the AI too hard
+important not to judge the AI too hard
+if<00:03:03.680><c> it</c><00:03:03.920><c> also</c><00:03:04.159><c> forgets.</c><00:03:05.280><c> But</c><00:03:05.440><c> the</c><00:03:05.680><c> point</c><00:03:05.840><c> is</c>
+if it also forgets. But the point is
+if it also forgets. But the point is
+that<00:03:06.560><c> humans</c><00:03:07.040><c> generally</c><00:03:07.599><c> speaking</c><00:03:08.000><c> are</c>
+that humans generally speaking are
+that humans generally speaking are
+better<00:03:08.640><c> at</c><00:03:08.959><c> maintaining</c><00:03:09.440><c> intent</c><00:03:09.920><c> over</c><00:03:10.159><c> time</c>
+better at maintaining intent over time
+better at maintaining intent over time
+than<00:03:11.200><c> AI</c><00:03:11.599><c> agents</c><00:03:12.080><c> right</c><00:03:12.239><c> now.</c><00:03:12.879><c> And</c><00:03:13.280><c> critically</c>
+than AI agents right now. And critically
+than AI agents right now. And critically
+AI<00:03:14.400><c> intelligence</c><00:03:15.040><c> scaling</c><00:03:15.519><c> is</c><00:03:15.760><c> happening</c>
+AI intelligence scaling is happening
+AI intelligence scaling is happening
+faster<00:03:17.120><c> than</c><00:03:17.360><c> intent</c><00:03:17.840><c> over</c><00:03:18.080><c> time</c><00:03:18.400><c> scaling.</c><00:03:19.280><c> So</c>
+faster than intent over time scaling. So
+faster than intent over time scaling. So
+in<00:03:19.760><c> intelligence</c><00:03:20.319><c> is</c><00:03:20.480><c> going</c><00:03:20.640><c> like</c><00:03:20.800><c> this,</c>
+in intelligence is going like this,
+in intelligence is going like this,
+right?<00:03:21.200><c> We</c><00:03:21.360><c> all</c><00:03:21.519><c> talk</c><00:03:21.680><c> about</c><00:03:21.840><c> it</c><00:03:21.920><c> all</c><00:03:22.000><c> the</c>
+right? We all talk about it all the
+right? We all talk about it all the
+time.<00:03:22.319><c> It's</c><00:03:22.480><c> going</c><00:03:22.640><c> vertical.</c><00:03:23.959><c> Great.</c><00:03:24.959><c> But</c>
+time. It's going vertical. Great. But
+time. It's going vertical. Great. But
+the<00:03:25.360><c> ability</c><00:03:25.760><c> to</c><00:03:26.000><c> scale</c><00:03:26.400><c> intent</c><00:03:26.800><c> over</c><00:03:27.120><c> time</c><00:03:27.280><c> is</c>
+the ability to scale intent over time is
+the ability to scale intent over time is
+moving<00:03:27.840><c> like</c><00:03:28.440><c> this.</c><00:03:29.440><c> Not</c><00:03:29.680><c> moving</c><00:03:29.920><c> very</c><00:03:30.239><c> fast.</c>
+moving like this. Not moving very fast.
+moving like this. Not moving very fast.
+And<00:03:33.200><c> the</c><00:03:33.599><c> only</c><00:03:34.080><c> reason</c><00:03:34.720><c> those</c><00:03:35.120><c> slow</c><00:03:35.519><c> advances</c>
+And the only reason those slow advances
+And the only reason those slow advances
+are<00:03:36.400><c> super</c><00:03:36.760><c> meaningful</c><00:03:37.760><c> is</c><00:03:38.120><c> because</c><00:03:39.120><c> compute</c>
+are super meaningful is because compute
+are super meaningful is because compute
+advances<00:03:40.159><c> and</c><00:03:40.480><c> intelligence</c><00:03:41.040><c> advances</c>
+advances and intelligence advances
+advances and intelligence advances
+continue<00:03:42.080><c> to</c><00:03:42.239><c> enable</c><00:03:42.560><c> the</c><00:03:42.799><c> AI</c><00:03:43.760><c> to</c><00:03:44.080><c> do</c><00:03:44.480><c> more</c>
+continue to enable the AI to do more
+continue to enable the AI to do more
+with<00:03:45.120><c> that</c><00:03:45.519><c> time.</c><00:03:46.400><c> And</c><00:03:46.560><c> I</c><00:03:46.720><c> want</c><00:03:46.879><c> to</c><00:03:46.959><c> come</c><00:03:47.200><c> up</c>
+with that time. And I want to come up
+with that time. And I want to come up
+with<00:03:48.000><c> a</c><00:03:48.640><c> little</c><00:03:48.959><c> case</c><00:03:49.280><c> study</c><00:03:49.760><c> that</c><00:03:50.080><c> I</c><00:03:50.319><c> ran</c>
+with a little case study that I ran
+with a little case study that I ran
+across<00:03:50.879><c> from</c><00:03:51.120><c> a</c><00:03:51.280><c> Sequoia</c><00:03:51.920><c> talk</c><00:03:52.720><c> given</c><00:03:53.040><c> by</c><00:03:53.200><c> Jim</c>
+across from a Sequoia talk given by Jim
+across from a Sequoia talk given by Jim
+Fan<00:03:54.000><c> who</c><00:03:54.159><c> works</c><00:03:54.400><c> at</c><00:03:54.560><c> NVIDIA.</c><00:03:56.000><c> Now,</c><00:03:56.239><c> Jim</c><00:03:56.560><c> does</c>
+Fan who works at NVIDIA. Now, Jim does
+Fan who works at NVIDIA. Now, Jim does
+robotics<00:03:57.280><c> at</c><00:03:57.519><c> NVIDIA</c><00:03:58.480><c> and</c><00:03:58.720><c> he</c><00:03:59.120><c> proposes</c>
+robotics at NVIDIA and he proposes
+robotics at NVIDIA and he proposes
+something<00:04:00.319><c> he</c><00:04:00.640><c> calls</c><00:04:01.439><c> the</c><00:04:01.760><c> physical</c><00:04:02.239><c> touring</c>
+something he calls the physical touring
+something he calls the physical touring
+test.<00:04:03.680><c> So,</c><00:04:04.000><c> if</c><00:04:04.239><c> you're</c><00:04:04.480><c> familiar</c><00:04:04.720><c> with</c><00:04:04.879><c> the</c>
+test. So, if you're familiar with the
+test. So, if you're familiar with the
+touring<00:04:05.439><c> test,</c><00:04:05.680><c> the</c><00:04:05.840><c> idea</c><00:04:06.000><c> is</c><00:04:06.239><c> you</c><00:04:06.480><c> don't</c><00:04:06.560><c> know</c>
+touring test, the idea is you don't know
+touring test, the idea is you don't know
+if<00:04:06.799><c> you're</c><00:04:07.040><c> talking</c><00:04:07.200><c> to</c><00:04:07.360><c> a</c><00:04:07.519><c> human</c><00:04:07.680><c> or</c><00:04:07.920><c> a</c><00:04:08.080><c> robot.</c>
+if you're talking to a human or a robot.
+if you're talking to a human or a robot.
+And<00:04:08.640><c> I'm</c><00:04:09.120><c> vastly</c><00:04:09.799><c> simplifying.</c><00:04:10.799><c> We</c><00:04:11.200><c> basically</c>
+And I'm vastly simplifying. We basically
+And I'm vastly simplifying. We basically
+have<00:04:12.000><c> AIs</c><00:04:12.480><c> that</c><00:04:12.720><c> pass</c><00:04:12.959><c> that</c><00:04:13.280><c> now.</c><00:04:13.760><c> Like,</c><00:04:14.000><c> you</c>
+have AIs that pass that now. Like, you
+have AIs that pass that now. Like, you
+can<00:04:14.319><c> literally</c><00:04:14.720><c> run</c><00:04:14.959><c> a</c><00:04:15.120><c> classical</c><00:04:15.599><c> touring</c>
+can literally run a classical touring
+can literally run a classical touring
+test<00:04:16.160><c> and</c><00:04:16.320><c> it</c><00:04:16.479><c> will</c><00:04:16.639><c> pass.</c><00:04:17.519><c> And</c><00:04:17.680><c> we've</c><00:04:18.000><c> mostly</c>
+test and it will pass. And we've mostly
+test and it will pass. And we've mostly
+not<00:04:18.560><c> noticed.</c><00:04:19.199><c> And</c><00:04:19.359><c> that's</c><00:04:19.680><c> really</c><00:04:20.000><c> funny</c>
+not noticed. And that's really funny
+not noticed. And that's really funny
+because<00:04:21.280><c> all</c><00:04:21.519><c> of</c><00:04:21.600><c> the</c><00:04:21.759><c> science</c><00:04:22.079><c> fiction</c><00:04:22.400><c> books</c>
+because all of the science fiction books
+because all of the science fiction books
+thought<00:04:22.880><c> that</c><00:04:23.040><c> when</c><00:04:23.199><c> a</c><00:04:23.440><c> robot</c><00:04:23.759><c> could</c><00:04:23.919><c> pass</c><00:04:24.160><c> the</c>
+thought that when a robot could pass the
+thought that when a robot could pass the
+touring<00:04:24.720><c> test,</c><00:04:25.199><c> the</c><00:04:25.440><c> whole</c><00:04:25.680><c> world</c><00:04:25.840><c> would</c>
+touring test, the whole world would
+touring test, the whole world would
+change.<00:04:26.800><c> I</c><00:04:27.040><c> guess</c><00:04:27.199><c> you</c><00:04:27.360><c> could</c><00:04:27.520><c> say</c><00:04:27.680><c> we're</c>
+change. I guess you could say we're
+change. I guess you could say we're
+living<00:04:28.000><c> through</c><00:04:28.160><c> an</c><00:04:28.320><c> AI</c><00:04:28.639><c> revolution</c><00:04:29.040><c> and</c><00:04:29.199><c> it's</c>
+living through an AI revolution and it's
+living through an AI revolution and it's
+changing.<00:04:30.160><c> I</c><00:04:30.400><c> don't</c><00:04:30.560><c> have</c><00:04:30.720><c> my</c><00:04:30.960><c> flying</c><00:04:31.280><c> cars</c>
+changing. I don't have my flying cars
+changing. I don't have my flying cars
+yet.<00:04:32.080><c> I</c><00:04:32.400><c> can't</c><00:04:32.560><c> look</c><00:04:32.720><c> out</c><00:04:32.880><c> of</c><00:04:32.960><c> the</c><00:04:33.120><c> window</c><00:04:33.360><c> of</c>
+yet. I can't look out of the window of
+yet. I can't look out of the window of
+my<00:04:33.759><c> space</c>
+my space
+my space
+castle.<00:04:35.600><c> That</c><00:04:35.919><c> being</c><00:04:36.160><c> said,</c><00:04:36.880><c> the</c><00:04:37.199><c> physical</c>
+castle. That being said, the physical
+castle. That being said, the physical
+touring<00:04:38.120><c> test</c><00:04:39.120><c> is</c><00:04:39.360><c> a</c><00:04:39.600><c> much</c><00:04:39.840><c> harder</c><00:04:40.240><c> bar</c><00:04:40.960><c> and</c><00:04:41.120><c> we</c>
+touring test is a much harder bar and we
+touring test is a much harder bar and we
+are<00:04:41.520><c> not</c><00:04:41.759><c> anywhere</c><00:04:42.160><c> close</c><00:04:42.400><c> to</c><00:04:42.560><c> passing</c><00:04:42.880><c> it.</c>
+are not anywhere close to passing it.
+are not anywhere close to passing it.
+And<00:04:43.360><c> I</c><00:04:43.520><c> suspect</c><00:04:44.400><c> that</c><00:04:44.800><c> science</c><00:04:45.120><c> fiction</c><00:04:46.080><c> has</c>
+And I suspect that science fiction has
+And I suspect that science fiction has
+sort<00:04:46.560><c> of</c><00:04:46.800><c> combined</c><00:04:47.520><c> the</c><00:04:48.400><c> conversational</c>
+sort of combined the conversational
+sort of combined the conversational
+touring<00:04:49.520><c> test</c><00:04:49.759><c> with</c><00:04:50.000><c> the</c><00:04:50.160><c> physical</c><00:04:50.479><c> touring</c>
+touring test with the physical touring
+touring test with the physical touring
+test<00:04:51.040><c> in</c><00:04:51.280><c> most</c><00:04:51.520><c> writing.</c><00:04:51.919><c> And</c><00:04:52.080><c> that's</c><00:04:52.320><c> part</c><00:04:52.479><c> of</c>
+test in most writing. And that's part of
+test in most writing. And that's part of
+the<00:04:53.040><c> disconnect</c><00:04:53.680><c> right</c><00:04:53.919><c> now</c><00:04:54.560><c> between</c><00:04:54.880><c> the</c>
+the disconnect right now between the
+the disconnect right now between the
+future<00:04:56.040><c> the</c><00:04:57.040><c> writers</c><00:04:57.440><c> of</c><00:04:57.600><c> the</c><00:04:57.840><c> 60s</c><00:04:58.160><c> and</c><00:04:58.400><c> 70s</c>
+future the writers of the 60s and 70s
+future the writers of the 60s and 70s
+and<00:04:58.880><c> 80s</c><00:04:59.120><c> envisioned</c><00:04:59.600><c> and</c><00:04:59.840><c> what</c><00:05:00.000><c> we</c><00:05:00.240><c> actually</c>
+and 80s envisioned and what we actually
+and 80s envisioned and what we actually
+have<00:05:01.759><c> because</c><00:05:02.000><c> the</c><00:05:02.320><c> physical</c><00:05:02.639><c> touring</c><00:05:03.040><c> test</c>
+have because the physical touring test
+have because the physical touring test
+requires<00:05:04.320><c> a</c><00:05:04.639><c> robot</c><00:05:05.199><c> to</c><00:05:05.440><c> be</c><00:05:05.680><c> able</c><00:05:05.919><c> to</c>
+requires a robot to be able to
+requires a robot to be able to
+physically<00:05:06.960><c> navigate</c><00:05:07.440><c> a</c><00:05:07.880><c> space</c><00:05:08.880><c> like</c><00:05:09.360><c> a</c>
+physically navigate a space like a
+physically navigate a space like a
+human.<00:05:10.960><c> And</c><00:05:11.199><c> I</c><00:05:11.440><c> give</c><00:05:11.600><c> credit</c><00:05:11.840><c> to</c><00:05:12.000><c> Jim.</c><00:05:12.479><c> don't</c>
+human. And I give credit to Jim. don't
+human. And I give credit to Jim. don't
+really<00:05:13.039><c> have</c><00:05:13.360><c> words</c><00:05:13.600><c> for</c><00:05:13.759><c> it</c><00:05:13.919><c> until</c><00:05:14.240><c> he</c>
+really have words for it until he
+really have words for it until he
+started<00:05:14.639><c> to</c><00:05:14.800><c> put</c><00:05:14.960><c> it</c><00:05:15.120><c> together.</c><00:05:15.759><c> So</c><00:05:16.000><c> he</c><00:05:16.240><c> talks</c>
+started to put it together. So he talks
+started to put it together. So he talks
+about<00:05:16.639><c> the</c><00:05:16.960><c> idea</c><00:05:17.280><c> of</c><00:05:17.520><c> like</c><00:05:17.919><c> you're</c><00:05:18.080><c> at</c><00:05:18.240><c> a</c>
+about the idea of like you're at a
+about the idea of like you're at a
+hackathon,<00:05:19.600><c> you</c><00:05:19.840><c> are</c><00:05:20.000><c> cleaning</c><00:05:20.320><c> up</c><00:05:20.560><c> after</c><00:05:20.880><c> the</c>
+hackathon, you are cleaning up after the
+hackathon, you are cleaning up after the
+next<00:05:21.280><c> morning,</c><00:05:21.680><c> it's</c><00:05:21.919><c> a</c><00:05:22.080><c> complete</c><00:05:22.320><c> mess.</c><00:05:22.639><c> Your</c>
+next morning, it's a complete mess. Your
+next morning, it's a complete mess. Your
+living<00:05:23.039><c> room</c><00:05:23.120><c> is</c><00:05:23.360><c> a</c><00:05:23.520><c> disaster.</c><00:05:23.919><c> There's</c><00:05:24.080><c> a</c>
+living room is a disaster. There's a
+living room is a disaster. There's a
+pizza<00:05:24.560><c> box</c><00:05:24.880><c> here,</c><00:05:25.120><c> there's</c><00:05:25.280><c> a</c><00:05:25.440><c> beer</c><00:05:25.759><c> can</c>
+pizza box here, there's a beer can
+pizza box here, there's a beer can
+there,<00:05:26.639><c> you</c><00:05:26.800><c> were</c><00:05:26.880><c> on</c><00:05:27.039><c> the</c><00:05:27.199><c> Balmer</c><00:05:27.680><c> curve,</c><00:05:28.320><c> you</c>
+there, you were on the Balmer curve, you
+there, you were on the Balmer curve, you
+have<00:05:28.720><c> disorganized</c><00:05:29.680><c> couch</c><00:05:30.199><c> cushions,</c><00:05:31.199><c> your</c>
+have disorganized couch cushions, your
+have disorganized couch cushions, your
+video<00:05:31.759><c> game</c><00:05:32.000><c> was</c><00:05:32.160><c> up</c><00:05:32.400><c> cuz</c><00:05:32.560><c> you</c><00:05:32.720><c> were</c><00:05:32.880><c> playing</c>
+video game was up cuz you were playing
+video game was up cuz you were playing
+video<00:05:33.440><c> games.</c><00:05:34.160><c> Everything's</c><00:05:34.479><c> a</c><00:05:34.639><c> mess.</c>
+video games. Everything's a mess.
+video games. Everything's a mess.
+And<00:05:36.400><c> what</c><00:05:36.639><c> he</c><00:05:36.800><c> wants</c><00:05:37.039><c> to</c><00:05:37.280><c> challenge</c><00:05:37.680><c> us</c><00:05:37.919><c> to</c><00:05:38.160><c> do</c>
+And what he wants to challenge us to do
+And what he wants to challenge us to do
+is<00:05:38.639><c> imagine</c><00:05:39.039><c> a</c><00:05:39.280><c> world</c><00:05:39.440><c> where</c><00:05:39.759><c> you</c><00:05:40.000><c> go</c><00:05:40.080><c> off</c><00:05:40.320><c> to</c>
+is imagine a world where you go off to
+is imagine a world where you go off to
+work.<00:05:41.680><c> You</c><00:05:42.000><c> come</c><00:05:42.160><c> back</c><00:05:42.400><c> at</c><00:05:42.759><c> 5,</c><00:05:43.759><c> everything</c><00:05:44.080><c> is</c>
+work. You come back at 5, everything is
+work. You come back at 5, everything is
+put<00:05:44.560><c> back</c><00:05:44.800><c> together.</c><00:05:45.120><c> It's</c><00:05:45.360><c> neat.</c><00:05:45.600><c> The</c><00:05:45.759><c> lamp</c>
+put back together. It's neat. The lamp
+put back together. It's neat. The lamp
+is<00:05:46.240><c> standing</c><00:05:46.560><c> up.</c><00:05:47.240><c> Now,</c><00:05:48.240><c> you</c><00:05:49.199><c> cannot</c><00:05:50.120><c> tell</c><00:05:51.120><c> if</c>
+is standing up. Now, you cannot tell if
+is standing up. Now, you cannot tell if
+it<00:05:51.759><c> was</c><00:05:51.840><c> a</c><00:05:52.080><c> robot</c><00:05:52.400><c> that</c><00:05:52.639><c> did</c><00:05:52.800><c> it</c><00:05:52.960><c> or</c><00:05:53.199><c> a</c><00:05:53.520><c> person</c>
+it was a robot that did it or a person
+it was a robot that did it or a person
+that<00:05:54.080><c> did</c><00:05:54.160><c> it</c><00:05:54.479><c> because</c><00:05:54.720><c> you</c><00:05:55.039><c> live</c><00:05:55.199><c> in</c><00:05:55.360><c> a</c><00:05:55.600><c> world</c>
+that did it because you live in a world
+that did it because you live in a world
+where<00:05:56.160><c> robots</c><00:05:56.720><c> can</c><00:05:57.039><c> do</c><00:05:57.280><c> all</c><00:05:57.520><c> of</c><00:05:57.680><c> that</c>
+where robots can do all of that
+where robots can do all of that
+complicated<00:05:58.720><c> physical</c><00:05:59.199><c> work</c><00:05:59.840><c> without</c>
+complicated physical work without
+complicated physical work without
+issues.
+issues.
+issues.
+And<00:06:02.160><c> if</c><00:06:02.400><c> you've</c><00:06:02.639><c> seen</c><00:06:02.960><c> any</c><00:06:03.280><c> footage</c><00:06:03.759><c> of</c><00:06:04.080><c> robots</c>
+And if you've seen any footage of robots
+And if you've seen any footage of robots
+lately,<00:06:05.280><c> you</c><00:06:05.639><c> know</c><00:06:06.639><c> that</c><00:06:06.960><c> we</c><00:06:07.280><c> are</c><00:06:07.440><c> not</c><00:06:07.680><c> close.</c>
+lately, you know that we are not close.
+lately, you know that we are not close.
+We<00:06:08.800><c> are</c><00:06:08.880><c> not</c><00:06:09.120><c> close</c><00:06:09.280><c> to</c><00:06:09.440><c> a</c><00:06:09.680><c> world</c><00:06:09.919><c> where</c><00:06:10.720><c> a</c>
+We are not close to a world where a
+We are not close to a world where a
+robot<00:06:11.360><c> can</c><00:06:11.600><c> go</c><00:06:11.759><c> over</c><00:06:11.919><c> to</c><00:06:12.160><c> a</c><00:06:12.319><c> beer</c><00:06:12.639><c> can,</c><00:06:13.360><c> gently</c>
+robot can go over to a beer can, gently
+robot can go over to a beer can, gently
+pick<00:06:13.919><c> it</c><00:06:14.080><c> up,</c><00:06:14.319><c> put</c><00:06:14.479><c> it</c><00:06:14.560><c> in</c><00:06:14.720><c> recycling,</c>
+pick it up, put it in recycling,
+pick it up, put it in recycling,
+navigate<00:06:15.919><c> the</c><00:06:16.160><c> whole</c><00:06:16.319><c> house</c><00:06:16.479><c> to</c><00:06:16.639><c> do</c><00:06:16.800><c> so,</c><00:06:17.120><c> dodge</c>
+navigate the whole house to do so, dodge
+navigate the whole house to do so, dodge
+the<00:06:17.600><c> dog,</c><00:06:18.319><c> avoid</c><00:06:18.639><c> the</c><00:06:18.800><c> tennis</c><00:06:19.120><c> ball</c><00:06:19.280><c> that's</c><00:06:19.520><c> on</c>
+the dog, avoid the tennis ball that's on
+the dog, avoid the tennis ball that's on
+the<00:06:19.759><c> bottom</c><00:06:19.919><c> of</c><00:06:20.080><c> the</c><00:06:20.240><c> stairs,</c><00:06:21.039><c> uh,</c><00:06:21.120><c> and</c><00:06:21.280><c> then</c>
+the bottom of the stairs, uh, and then
+the bottom of the stairs, uh, and then
+come<00:06:21.680><c> back</c><00:06:21.840><c> and</c><00:06:22.000><c> set</c><00:06:22.160><c> the</c><00:06:22.319><c> pillows</c><00:06:22.639><c> out</c><00:06:22.800><c> and</c>
+come back and set the pillows out and
+come back and set the pillows out and
+all<00:06:23.120><c> of</c><00:06:23.199><c> that.</c><00:06:24.080><c> And</c><00:06:24.240><c> do</c><00:06:24.400><c> that</c><00:06:24.560><c> for</c><00:06:24.800><c> the</c><00:06:24.960><c> entire</c>
+all of that. And do that for the entire
+all of that. And do that for the entire
+room<00:06:25.360><c> and</c><00:06:25.600><c> clean</c><00:06:25.840><c> it</c><00:06:25.919><c> up</c><00:06:26.160><c> entirely,</c>
+room and clean it up entirely,
+room and clean it up entirely,
+autonomously,<00:06:27.759><c> without</c><00:06:28.160><c> direction.</c>
+autonomously, without direction.
+autonomously, without direction.
+Now,<00:06:30.720><c> intelligence</c><00:06:31.280><c> is</c><00:06:31.520><c> scaling</c><00:06:32.000><c> really,</c>
+Now, intelligence is scaling really,
+Now, intelligence is scaling really,
+really,<00:06:32.560><c> really,</c><00:06:32.880><c> really</c><00:06:33.120><c> fast,</c><00:06:33.840><c> but</c><00:06:34.080><c> that</c>
+really, really, really fast, but that
+really, really, really fast, but that
+kind<00:06:34.479><c> of</c><00:06:34.639><c> ability</c><00:06:35.120><c> to</c><00:06:35.360><c> be</c><00:06:35.600><c> in</c><00:06:35.919><c> physical</c><00:06:36.319><c> space</c>
+kind of ability to be in physical space
+kind of ability to be in physical space
+isn't.<00:06:37.360><c> And</c><00:06:37.520><c> that's</c><00:06:37.759><c> sort</c><00:06:37.919><c> of</c><00:06:38.479><c> Jim's</c><00:06:38.960><c> point.</c>
+isn't. And that's sort of Jim's point.
+isn't. And that's sort of Jim's point.
+And<00:06:40.000><c> this</c><00:06:40.240><c> is</c><00:06:40.400><c> where</c><00:06:40.560><c> it</c><00:06:40.800><c> comes</c><00:06:41.039><c> back</c><00:06:41.199><c> to</c><00:06:41.520><c> time</c>
+And this is where it comes back to time
+And this is where it comes back to time
+and<00:06:42.000><c> AI.</c><00:06:43.120><c> Jim</c><00:06:44.039><c> suggests</c><00:06:45.039><c> that</c><00:06:45.360><c> part</c><00:06:45.600><c> of</c><00:06:45.680><c> what's</c>
+and AI. Jim suggests that part of what's
+and AI. Jim suggests that part of what's
+interesting<00:06:46.479><c> about</c><00:06:46.800><c> the</c><00:06:47.039><c> physical</c><00:06:47.440><c> touring</c>
+interesting about the physical touring
+interesting about the physical touring
+test<00:06:48.319><c> is</c><00:06:48.639><c> we</c><00:06:48.960><c> can</c><00:06:49.199><c> use</c><00:06:49.600><c> virtual</c><00:06:50.080><c> environments</c>
+test is we can use virtual environments
+test is we can use virtual environments
+like<00:06:50.720><c> the</c><00:06:50.880><c> one</c><00:06:51.120><c> Nvidia</c><00:06:51.680><c> launched</c><00:06:52.080><c> this</c><00:06:52.319><c> year</c>
+like the one Nvidia launched this year
+like the one Nvidia launched this year
+to<00:06:53.639><c> compress</c><00:06:54.639><c> a</c><00:06:55.039><c> lot</c><00:06:55.199><c> of</c><00:06:55.919><c> training</c><00:06:56.400><c> work</c><00:06:57.360><c> for</c>
+to compress a lot of training work for
+to compress a lot of training work for
+AI<00:06:59.039><c> into</c><00:06:59.360><c> a</c><00:06:59.680><c> small</c><00:07:00.160><c> amount</c><00:07:00.479><c> of</c><00:07:01.199><c> actual</c><00:07:01.840><c> clock</c>
+AI into a small amount of actual clock
+AI into a small amount of actual clock
+time.<00:07:03.440><c> And</c><00:07:03.680><c> so</c><00:07:03.840><c> he</c><00:07:04.240><c> talks</c><00:07:04.639><c> in</c><00:07:04.880><c> his</c>
+time. And so he talks in his
+time. And so he talks in his
+conversation<00:07:05.599><c> with</c><00:07:05.840><c> Ed</c><00:07:06.080><c> Sequoia</c><00:07:06.639><c> about</c><00:07:06.880><c> the</c>
+conversation with Ed Sequoia about the
+conversation with Ed Sequoia about the
+fact<00:07:07.199><c> that</c><00:07:07.360><c> they</c><00:07:07.599><c> were</c><00:07:07.759><c> able</c><00:07:08.000><c> to</c><00:07:08.319><c> at</c>
+fact that they were able to at
+fact that they were able to at
+Nvidia<00:07:10.080><c> take</c><00:07:11.039><c> 10</c><00:07:11.360><c> years</c><00:07:11.759><c> worth</c><00:07:12.160><c> of</c><00:07:12.440><c> training</c>
+Nvidia take 10 years worth of training
+Nvidia take 10 years worth of training
+in<00:07:13.919><c> like</c><00:07:14.240><c> ordinary</c><00:07:14.800><c> time</c><00:07:15.759><c> and</c><00:07:16.080><c> com</c><00:07:16.880><c> compress</c>
+in like ordinary time and com compress
+in like ordinary time and com compress
+it<00:07:17.919><c> down</c><00:07:18.240><c> to</c><00:07:18.639><c> 2</c><00:07:19.160><c> hours</c><00:07:20.160><c> 10</c><00:07:20.400><c> years</c><00:07:20.639><c> to</c><00:07:20.880><c> two</c><00:07:21.319><c> hours</c>
+it down to 2 hours 10 years to two hours
+it down to 2 hours 10 years to two hours
+in<00:07:23.199><c> a</c><00:07:23.680><c> special</c><00:07:24.080><c> simulated</c><00:07:25.000><c> environment.</c>
+in a special simulated environment.
+in a special simulated environment.
+Because<00:07:26.880><c> in</c><00:07:27.120><c> the</c><00:07:27.360><c> simulated</c><00:07:27.919><c> environment,</c>
+Because in the simulated environment,
+Because in the simulated environment,
+you<00:07:28.560><c> could</c><00:07:28.720><c> parallelize,</c><00:07:29.520><c> you</c><00:07:29.680><c> could</c><00:07:29.840><c> run</c>
+you could parallelize, you could run
+you could parallelize, you could run
+stuff<00:07:30.319><c> super</c><00:07:30.720><c> fast,</c><00:07:31.440><c> and</c><00:07:31.599><c> the</c><00:07:31.759><c> chips</c><00:07:32.000><c> and</c><00:07:32.240><c> the</c>
+stuff super fast, and the chips and the
+stuff super fast, and the chips and the
+processors<00:07:32.880><c> kept</c><00:07:33.120><c> up,</c><00:07:33.280><c> and</c><00:07:33.440><c> the</c><00:07:33.520><c> LLMs</c><00:07:34.160><c> kept</c>
+processors kept up, and the LLMs kept
+processors kept up, and the LLMs kept
+up,<00:07:35.199><c> and</c><00:07:35.440><c> there</c><00:07:35.680><c> was</c><00:07:35.840><c> no</c><00:07:36.080><c> reason</c><00:07:36.319><c> to</c><00:07:36.479><c> go</c><00:07:36.720><c> as</c>
+up, and there was no reason to go as
+up, and there was no reason to go as
+slow<00:07:37.120><c> as</c><00:07:37.360><c> you</c><00:07:37.520><c> would</c><00:07:37.599><c> go</c><00:07:37.680><c> in</c><00:07:37.919><c> the</c><00:07:38.000><c> real</c><00:07:38.240><c> world</c>
+slow as you would go in the real world
+slow as you would go in the real world
+with<00:07:39.160><c> training.</c><00:07:40.160><c> And</c><00:07:40.319><c> so,</c><00:07:40.479><c> they</c><00:07:40.720><c> were</c><00:07:40.800><c> able</c><00:07:40.960><c> to</c>
+with training. And so, they were able to
+with training. And so, they were able to
+take<00:07:41.199><c> a</c><00:07:41.440><c> 10-year</c><00:07:42.000><c> training</c><00:07:42.319><c> task</c><00:07:42.639><c> and</c>
+take a 10-year training task and
+take a 10-year training task and
+compress<00:07:43.199><c> it</c><00:07:43.280><c> to</c><00:07:43.520><c> two</c>
+compress it to two
+compress it to two
+hours.<00:07:45.759><c> That</c><00:07:46.000><c> is</c><00:07:46.160><c> the</c><00:07:46.400><c> kind</c><00:07:46.560><c> of</c><00:07:46.720><c> thing</c><00:07:46.880><c> that</c>
+hours. That is the kind of thing that
+hours. That is the kind of thing that
+gets<00:07:47.360><c> my</c><00:07:47.599><c> wheels</c><00:07:47.919><c> turning</c><00:07:48.240><c> when</c><00:07:48.479><c> I</c><00:07:48.639><c> think</c>
+gets my wheels turning when I think
+gets my wheels turning when I think
+about<00:07:49.039><c> how</c><00:07:49.360><c> AI</c><00:07:50.319><c> with</c><00:07:50.720><c> compute</c><00:07:51.280><c> scaling</c><00:07:51.759><c> is</c>
+about how AI with compute scaling is
+about how AI with compute scaling is
+going<00:07:52.160><c> to</c><00:07:52.319><c> enable</c><00:07:52.720><c> new</c><00:07:53.039><c> kinds</c><00:07:53.280><c> of</c><00:07:53.440><c> work</c><00:07:53.919><c> in</c>
+going to enable new kinds of work in
+going to enable new kinds of work in
+shorter<00:07:54.560><c> time</c><00:07:54.879><c> spans.</c><00:07:55.840><c> And</c><00:07:56.080><c> so</c><00:07:56.160><c> if</c><00:07:56.319><c> we</c><00:07:56.479><c> go</c><00:07:56.639><c> back</c>
+shorter time spans. And so if we go back
+shorter time spans. And so if we go back
+to<00:07:56.879><c> this</c><00:07:57.120><c> idea</c><00:07:57.360><c> that</c><00:07:57.599><c> for</c><00:07:57.840><c> us</c><00:07:58.639><c> work</c><00:07:58.879><c> is</c><00:07:59.120><c> growing</c>
+to this idea that for us work is growing
+to this idea that for us work is growing
+but<00:07:59.680><c> time</c><00:07:59.840><c> isn't</c><00:08:00.240><c> changing</c><00:08:00.560><c> and</c><00:08:00.720><c> for</c><00:08:00.879><c> the</c><00:08:01.400><c> AI</c>
+but time isn't changing and for the AI
+but time isn't changing and for the AI
+time<00:08:02.720><c> may</c><00:08:02.960><c> seem</c><00:08:03.199><c> to</c><00:08:03.360><c> be</c><00:08:03.520><c> expanding</c><00:08:04.080><c> because</c>
+time may seem to be expanding because
+time may seem to be expanding because
+the<00:08:04.720><c> compute</c><00:08:05.039><c> and</c><00:08:05.280><c> the</c><00:08:05.440><c> capacity</c><00:08:05.840><c> is</c>
+the compute and the capacity is
+the compute and the capacity is
+expanding<00:08:06.800><c> and</c><00:08:07.039><c> they</c><00:08:07.199><c> can</c><00:08:07.360><c> do</c><00:08:07.599><c> so</c><00:08:07.840><c> much</c><00:08:08.000><c> more</c>
+expanding and they can do so much more
+expanding and they can do so much more
+as<00:08:08.639><c> time</c><00:08:08.960><c> passes</c><00:08:09.440><c> inside</c><00:08:09.759><c> a</c><00:08:10.000><c> given</c><00:08:10.240><c> unit</c><00:08:10.479><c> of</c>
+as time passes inside a given unit of
+as time passes inside a given unit of
+time<00:08:11.599><c> that</c><00:08:12.080><c> given</c><00:08:12.560><c> a</c><00:08:12.800><c> new</c><00:08:13.039><c> Blackwell</c><00:08:13.599><c> chip</c><00:08:14.240><c> you</c>
+time that given a new Blackwell chip you
+time that given a new Blackwell chip you
+can<00:08:14.560><c> do</c><00:08:14.720><c> more</c><00:08:14.879><c> in</c><00:08:15.120><c> an</c><00:08:15.280><c> hour</c><00:08:15.440><c> as</c><00:08:15.599><c> an</c><00:08:15.759><c> LLM</c><00:08:16.400><c> than</c>
+can do more in an hour as an LLM than
+can do more in an hour as an LLM than
+you<00:08:16.800><c> could</c><00:08:16.960><c> do</c><00:08:17.120><c> before</c><00:08:17.360><c> with</c><00:08:17.520><c> an</c><00:08:17.680><c> H100.</c><00:08:18.479><c> Right?</c>
+you could do before with an H100. Right?
+you could do before with an H100. Right?
+Just<00:08:18.960><c> getting</c><00:08:19.199><c> really</c><00:08:19.520><c> physical.</c>
+Just getting really physical.
+Just getting really physical.
+So<00:08:21.680><c> when</c><00:08:21.840><c> you</c><00:08:22.000><c> think</c><00:08:22.160><c> about</c><00:08:22.319><c> it</c><00:08:22.479><c> that</c>
+So when you think about it that
+So when you think about it that
+way,<00:08:24.319><c> if</c><00:08:24.639><c> you</c><00:08:25.160><c> have</c><00:08:26.160><c> an</c><00:08:26.680><c> agent</c><00:08:27.680><c> working,</c><00:08:28.240><c> I'm</c>
+way, if you have an agent working, I'm
+way, if you have an agent working, I'm
+back<00:08:28.639><c> to</c><00:08:28.879><c> software</c><00:08:29.280><c> now.</c><00:08:29.599><c> We're</c><00:08:29.759><c> we're</c>
+back to software now. We're we're
+back to software now. We're we're
+leaving<00:08:30.319><c> robotics</c><00:08:30.800><c> behind.</c><00:08:31.120><c> We'll</c><00:08:31.280><c> do</c><00:08:31.360><c> the</c>
+leaving robotics behind. We'll do the
+leaving robotics behind. We'll do the
+robotics<00:08:32.000><c> conversation</c><00:08:32.479><c> another</c><00:08:32.800><c> time.</c><00:08:33.680><c> If</c>
+robotics conversation another time. If
+robotics conversation another time. If
+you<00:08:34.159><c> have</c><00:08:34.640><c> an</c>
+you have an
+you have an
+agent<00:08:36.479><c> and</c><00:08:36.880><c> you</c><00:08:37.279><c> are</c><00:08:37.599><c> asking</c><00:08:37.919><c> that</c><00:08:38.159><c> agent</c><00:08:38.479><c> at</c>
+agent and you are asking that agent at
+agent and you are asking that agent at
+work<00:08:38.880><c> to</c><00:08:39.120><c> do</c><00:08:39.200><c> a</c><00:08:39.440><c> task</c><00:08:39.680><c> that</c><00:08:40.080><c> normally</c><00:08:40.560><c> takes</c>
+work to do a task that normally takes
+work to do a task that normally takes
+you<00:08:41.200><c> three</c><00:08:41.440><c> months</c><00:08:42.080><c> and</c><00:08:42.320><c> the</c><00:08:42.560><c> agent</c><00:08:42.880><c> does</c><00:08:43.200><c> very</c>
+you three months and the agent does very
+you three months and the agent does very
+very<00:08:43.760><c> high</c><00:08:44.000><c> quality</c><00:08:44.480><c> work</c><00:08:44.959><c> but</c><00:08:45.279><c> has</c><00:08:45.440><c> a</c><00:08:45.600><c> short</c>
+very high quality work but has a short
+very high quality work but has a short
+ability<00:08:46.240><c> to</c><00:08:46.480><c> maintain</c><00:08:46.959><c> intent</c><00:08:47.360><c> over</c><00:08:47.680><c> time.</c>
+ability to maintain intent over time.
+ability to maintain intent over time.
+the<00:08:49.839><c> intent</c><00:08:50.320><c> over</c><00:08:50.640><c> time</c><00:08:51.040><c> may</c><00:08:51.360><c> matter</c><00:08:52.040><c> less</c>
+the intent over time may matter less
+the intent over time may matter less
+because<00:08:53.760><c> the</c><00:08:54.080><c> agent</c><00:08:54.480><c> has</c><00:08:54.720><c> all</c><00:08:54.880><c> the</c><00:08:55.040><c> tools</c><00:08:55.360><c> it</c>
+because the agent has all the tools it
+because the agent has all the tools it
+needs,<00:08:56.399><c> tremendous</c><00:08:57.120><c> compute</c><00:08:57.519><c> and</c><00:08:57.880><c> throughput</c>
+needs, tremendous compute and throughput
+needs, tremendous compute and throughput
+and<00:08:59.120><c> works</c><00:08:59.440><c> very</c><00:08:59.760><c> very</c><00:09:00.080><c> fast.</c><00:09:00.959><c> And</c><00:09:01.120><c> so</c><00:09:01.360><c> it</c><00:09:01.519><c> may</c>
+and works very very fast. And so it may
+and works very very fast. And so it may
+be<00:09:01.920><c> able</c><00:09:02.080><c> to</c><00:09:02.240><c> get</c><00:09:02.480><c> done</c><00:09:03.040><c> in</c><00:09:03.920><c> four</c><00:09:04.160><c> hours</c><00:09:04.800><c> what</c>
+be able to get done in four hours what
+be able to get done in four hours what
+would<00:09:05.279><c> take</c><00:09:05.440><c> you</c><00:09:05.760><c> three</c>
+would take you three
+would take you three
+months.<00:09:07.680><c> Now</c><00:09:08.160><c> I'm</c><00:09:08.399><c> not</c><00:09:08.560><c> here</c><00:09:08.720><c> to</c><00:09:08.880><c> say</c><00:09:09.120><c> that</c>
+months. Now I'm not here to say that
+months. Now I'm not here to say that
+means<00:09:09.600><c> the</c><00:09:09.839><c> end</c><00:09:10.080><c> of</c><00:09:10.240><c> work</c><00:09:10.959><c> because</c><00:09:11.680><c> I</c><00:09:11.920><c> believe</c>
+means the end of work because I believe
+means the end of work because I believe
+in<00:09:12.320><c> Poleani's</c><00:09:13.040><c> paradox</c><00:09:13.440><c> which</c><00:09:13.600><c> is</c><00:09:13.680><c> that</c><00:09:13.920><c> work</c>
+in Poleani's paradox which is that work
+in Poleani's paradox which is that work
+is<00:09:14.320><c> more</c><00:09:14.480><c> than</c><00:09:14.640><c> we</c><00:09:14.800><c> can</c><00:09:14.959><c> speak.</c><00:09:15.360><c> I</c><00:09:15.519><c> don't</c><00:09:15.680><c> think</c>
+is more than we can speak. I don't think
+is more than we can speak. I don't think
+work<00:09:16.080><c> can</c><00:09:16.240><c> be</c><00:09:16.399><c> efficiently</c><00:09:17.000><c> tokenized.</c><00:09:18.080><c> Um,</c>
+work can be efficiently tokenized. Um,
+work can be efficiently tokenized. Um,
+there's<00:09:18.720><c> a</c><00:09:18.880><c> lot</c><00:09:19.040><c> more</c><00:09:19.279><c> to</c><00:09:19.600><c> work</c><00:09:19.839><c> than</c><00:09:20.080><c> our</c>
+there's a lot more to work than our
+there's a lot more to work than our
+ability<00:09:20.720><c> to</c><00:09:20.959><c> describe</c><00:09:21.440><c> a</c><00:09:21.880><c> task.</c><00:09:22.880><c> I</c><00:09:23.120><c> can</c><00:09:23.200><c> leave</c>
+ability to describe a task. I can leave
+ability to describe a task. I can leave
+all<00:09:23.519><c> of</c><00:09:23.600><c> that</c><00:09:23.760><c> aside.</c><00:09:24.080><c> You</c><00:09:24.240><c> can</c><00:09:24.320><c> go</c><00:09:24.480><c> find</c><00:09:24.640><c> that</c>
+all of that aside. You can go find that
+all of that aside. You can go find that
+on<00:09:24.959><c> my</c><00:09:25.040><c> Substack</c><00:09:25.519><c> if</c><00:09:25.680><c> you</c><00:09:25.760><c> want</c><00:09:25.839><c> to</c><00:09:26.000><c> read</c><00:09:26.080><c> about</c>
+on my Substack if you want to read about
+on my Substack if you want to read about
+it.<00:09:26.399><c> I've</c><00:09:26.560><c> written</c><00:09:26.720><c> about</c><00:09:26.880><c> it</c><00:09:27.120><c> pretty</c>
+it. I've written about it pretty
+it. I've written about it pretty
+extensively.<00:09:29.279><c> But</c><00:09:29.440><c> I</c><00:09:29.680><c> do</c><00:09:29.920><c> think</c><00:09:30.640><c> that</c><00:09:30.959><c> with</c>
+extensively. But I do think that with
+extensively. But I do think that with
+the<00:09:31.519><c> right</c><00:09:32.000><c> scopes,</c><00:09:32.640><c> with</c><00:09:33.040><c> with</c><00:09:33.279><c> the</c><00:09:33.440><c> right</c>
+the right scopes, with with the right
+the right scopes, with with the right
+autonomy<00:09:34.160><c> of</c><00:09:34.399><c> decision-m</c><00:09:35.040><c> around</c><00:09:35.279><c> a</c>
+autonomy of decision-m around a
+autonomy of decision-m around a
+particular<00:09:36.080><c> problem</c><00:09:36.480><c> scope,</c><00:09:36.959><c> with</c><00:09:37.200><c> the</c><00:09:37.360><c> right</c>
+particular problem scope, with the right
+particular problem scope, with the right
+tools,<00:09:39.360><c> I</c><00:09:39.680><c> can</c><00:09:39.839><c> see</c><00:09:40.000><c> a</c><00:09:40.240><c> world</c><00:09:41.000><c> where</c><00:09:42.000><c> agents</c>
+tools, I can see a world where agents
+tools, I can see a world where agents
+become<00:09:43.120><c> incredibly</c><00:09:44.360><c> intelligent</c><00:09:45.360><c> interns.</c>
+become incredibly intelligent interns.
+become incredibly intelligent interns.
+It's<00:09:46.000><c> like</c><00:09:46.240><c> you</c><00:09:46.399><c> can</c><00:09:46.560><c> manage</c><00:09:46.880><c> an</c><00:09:47.120><c> agent</c><00:09:47.760><c> and</c>
+It's like you can manage an agent and
+It's like you can manage an agent and
+you<00:09:48.160><c> can</c><00:09:48.240><c> give</c><00:09:48.399><c> it</c><00:09:48.560><c> a</c><00:09:48.720><c> tough</c><00:09:48.959><c> task.</c><00:09:49.600><c> You</c><00:09:49.839><c> have</c>
+you can give it a tough task. You have
+you can give it a tough task. You have
+to<00:09:50.080><c> give</c><00:09:50.240><c> it</c><00:09:50.399><c> the</c><00:09:50.560><c> scope.</c><00:09:50.880><c> You</c><00:09:51.040><c> have</c><00:09:51.120><c> to</c>
+to give it the scope. You have to
+to give it the scope. You have to
+confirm<00:09:51.519><c> the</c><00:09:51.680><c> tooling</c><00:09:52.080><c> is</c><00:09:52.240><c> right.</c><00:09:52.480><c> You</c><00:09:52.640><c> have</c>
+confirm the tooling is right. You have
+confirm the tooling is right. You have
+to<00:09:52.800><c> validate</c><00:09:53.200><c> the</c><00:09:53.880><c> results.</c><00:09:54.880><c> But</c><00:09:55.440><c> it</c><00:09:55.680><c> does</c><00:09:55.839><c> an</c>
+to validate the results. But it does an
+to validate the results. But it does an
+incredible<00:09:56.480><c> amount</c><00:09:56.640><c> of</c><00:09:56.800><c> work</c><00:09:56.880><c> in</c><00:09:57.120><c> a</c><00:09:57.279><c> short</c>
+incredible amount of work in a short
+incredible amount of work in a short
+amount<00:09:57.600><c> of</c>
+amount of
+amount of
+time.<00:09:59.279><c> We</c><00:09:59.519><c> will</c><00:09:59.680><c> see</c><00:09:59.839><c> if</c><00:10:00.080><c> that's</c><00:10:00.320><c> true.</c><00:10:00.640><c> Right</c>
+time. We will see if that's true. Right
+time. We will see if that's true. Right
+now,<00:10:01.360><c> probably</c><00:10:01.760><c> the</c><00:10:02.000><c> closest</c><00:10:02.480><c> parallel</c><00:10:02.959><c> to</c>
+now, probably the closest parallel to
+now, probably the closest parallel to
+that<00:10:03.360><c> is</c><00:10:03.680><c> Devon.</c><00:10:04.480><c> Devon's</c><00:10:04.959><c> an</c><00:10:05.120><c> engineering</c>
+that is Devon. Devon's an engineering
+that is Devon. Devon's an engineering
+agent<00:10:06.320><c> and</c><00:10:06.720><c> really</c><00:10:07.120><c> Devon</c><00:10:07.600><c> acts</c><00:10:07.920><c> like</c><00:10:08.240><c> an</c>
+agent and really Devon acts like an
+agent and really Devon acts like an
+engineering<00:10:09.120><c> intern.</c><00:10:09.680><c> If</c><00:10:09.920><c> you</c><00:10:10.080><c> are</c><00:10:10.240><c> a</c><00:10:10.480><c> senior</c>
+engineering intern. If you are a senior
+engineering intern. If you are a senior
+engineer<00:10:11.279><c> and</c><00:10:11.600><c> you</c><00:10:11.760><c> know</c><00:10:11.920><c> what</c><00:10:12.080><c> you're</c><00:10:12.320><c> doing</c>
+engineer and you know what you're doing
+engineer and you know what you're doing
+and<00:10:12.800><c> you</c><00:10:12.959><c> could</c><00:10:13.040><c> code</c><00:10:13.279><c> your</c><00:10:13.440><c> way</c><00:10:13.519><c> out</c><00:10:13.680><c> of</c><00:10:13.760><c> a</c>
+and you could code your way out of a
+and you could code your way out of a
+corner,<00:10:14.959><c> Devon's</c><00:10:15.519><c> great</c><00:10:16.240><c> if</c><00:10:16.560><c> you</c><00:10:16.880><c> want</c>
+corner, Devon's great if you want
+corner, Devon's great if you want
+someone<00:10:17.600><c> who</c><00:10:17.839><c> will</c><00:10:18.000><c> pick</c><00:10:18.240><c> up</c><00:10:18.399><c> your</c><00:10:18.640><c> P3s,</c><00:10:19.440><c> your</c>
+someone who will pick up your P3s, your
+someone who will pick up your P3s, your
+SE3s<00:10:20.800><c> and</c><00:10:21.040><c> knock</c><00:10:21.279><c> those</c><00:10:21.800><c> out.</c><00:10:22.800><c> Devon's</c><00:10:23.360><c> great</c>
+SE3s and knock those out. Devon's great
+SE3s and knock those out. Devon's great
+if<00:10:24.000><c> you</c><00:10:24.240><c> want</c><00:10:24.480><c> someone</c><00:10:24.800><c> to</c><00:10:25.040><c> tackle</c><00:10:25.360><c> a</c><00:10:25.600><c> specific</c>
+if you want someone to tackle a specific
+if you want someone to tackle a specific
+defined<00:10:26.480><c> task</c><00:10:26.720><c> and</c><00:10:26.959><c> go</c><00:10:27.120><c> after</c><00:10:27.279><c> it.</c><00:10:27.519><c> If</c><00:10:27.680><c> you</c>
+defined task and go after it. If you
+defined task and go after it. If you
+want<00:10:27.920><c> someone</c><00:10:28.160><c> to</c><00:10:28.320><c> break</c><00:10:28.560><c> out</c><00:10:29.120><c> and</c><00:10:29.360><c> go</c><00:10:29.519><c> after</c>
+want someone to break out and go after
+want someone to break out and go after
+um<00:10:30.320><c> a</c><00:10:30.560><c> few</c><00:10:30.720><c> pieces</c><00:10:30.959><c> of</c><00:10:31.120><c> work</c><00:10:31.279><c> in</c><00:10:31.519><c> a</c><00:10:31.680><c> particular</c>
+um a few pieces of work in a particular
+um a few pieces of work in a particular
+area<00:10:32.560><c> you</c><00:10:32.800><c> want</c><00:10:33.040><c> to</c><00:10:33.760><c> code</c><00:10:34.000><c> in</c><00:10:34.240><c> today</c><00:10:34.560><c> and</c><00:10:34.880><c> get</c>
+area you want to code in today and get
+area you want to code in today and get
+you<00:10:35.279><c> some</c><00:10:36.079><c> pull</c><00:10:36.399><c> requests</c><00:10:36.800><c> that</c><00:10:36.959><c> you</c><00:10:37.120><c> can</c>
+you some pull requests that you can
+you some pull requests that you can
+review<00:10:37.600><c> at</c><00:10:37.760><c> the</c><00:10:37.839><c> end</c><00:10:37.920><c> of</c><00:10:38.000><c> the</c><00:10:38.160><c> day.</c><00:10:39.360><c> If</c><00:10:39.680><c> you</c>
+review at the end of the day. If you
+review at the end of the day. If you
+want<00:10:40.160><c> someone</c><00:10:40.560><c> who</c><00:10:40.880><c> will</c><00:10:41.120><c> be</c><00:10:41.360><c> your</c><00:10:41.600><c> founding</c>
+want someone who will be your founding
+want someone who will be your founding
+engineer,<00:10:42.560><c> which</c><00:10:42.800><c> some</c><00:10:43.040><c> people</c><00:10:43.279><c> have</c><00:10:43.440><c> tried</c>
+engineer, which some people have tried
+engineer, which some people have tried
+to<00:10:43.760><c> use</c><00:10:43.920><c> Devon</c><00:10:44.320><c> for,</c><00:10:44.640><c> it</c><00:10:44.800><c> is</c><00:10:44.880><c> a</c><00:10:45.040><c> bad</c><00:10:45.279><c> idea.</c>
+to use Devon for, it is a bad idea.
+to use Devon for, it is a bad idea.
+Devon<00:10:46.320><c> is</c><00:10:46.480><c> not</c><00:10:46.640><c> ready</c><00:10:46.800><c> for</c><00:10:46.959><c> that</c><00:10:47.200><c> level</c><00:10:47.440><c> of</c>
+Devon is not ready for that level of
+Devon is not ready for that level of
+responsibility,<00:10:48.640><c> Devon</c><00:10:49.040><c> cannot</c><00:10:49.760><c> decide</c><00:10:50.320><c> or</c>
+responsibility, Devon cannot decide or
+responsibility, Devon cannot decide or
+define<00:10:51.200><c> system</c>
+define system
+define system
+architectures.<00:10:53.200><c> And</c><00:10:53.519><c> people</c><00:10:53.920><c> overusing</c><00:10:54.560><c> it</c>
+architectures. And people overusing it
+architectures. And people overusing it
+that<00:10:54.880><c> way</c><00:10:55.040><c> get</c><00:10:55.279><c> frustrated.</c><00:10:56.240><c> People</c><00:10:56.560><c> also</c><00:10:56.880><c> get</c>
+that way get frustrated. People also get
+that way get frustrated. People also get
+frustrated<00:10:57.519><c> to</c><00:10:57.760><c> some</c><00:10:57.920><c> extent</c><00:10:58.320><c> because</c><00:10:58.800><c> Devon</c>
+frustrated to some extent because Devon
+frustrated to some extent because Devon
+isn't<00:10:59.519><c> perfect.</c><00:10:59.839><c> Devon</c><00:11:00.240><c> will</c><00:11:00.399><c> sometimes</c>
+isn't perfect. Devon will sometimes
+isn't perfect. Devon will sometimes
+stray<00:11:01.120><c> from</c><00:11:01.279><c> the</c><00:11:01.519><c> point.</c><00:11:02.079><c> Devon</c><00:11:02.480><c> will</c>
+stray from the point. Devon will
+stray from the point. Devon will
+sometimes<00:11:03.600><c> not</c><00:11:03.920><c> be</c><00:11:04.000><c> able</c><00:11:04.160><c> to</c><00:11:04.320><c> complete</c><00:11:04.560><c> the</c>
+sometimes not be able to complete the
+sometimes not be able to complete the
+work<00:11:04.880><c> because</c><00:11:05.120><c> Devon</c><00:11:05.519><c> runs</c><00:11:05.760><c> out</c><00:11:05.839><c> of</c><00:11:05.920><c> tokens.</c>
+work because Devon runs out of tokens.
+work because Devon runs out of tokens.
+other<00:11:07.040><c> issues</c><00:11:07.360><c> come</c><00:11:07.519><c> up</c><00:11:07.680><c> that</c><00:11:07.920><c> I</c><00:11:08.079><c> suspect</c><00:11:08.480><c> will</c>
+other issues come up that I suspect will
+other issues come up that I suspect will
+come<00:11:08.880><c> up</c><00:11:08.959><c> with</c><00:11:09.200><c> agents.</c><00:11:09.680><c> In</c><00:11:09.839><c> fact,</c><00:11:10.000><c> I</c><00:11:10.240><c> see</c>
+come up with agents. In fact, I see
+come up with agents. In fact, I see
+Devon<00:11:10.959><c> as</c><00:11:11.200><c> an</c><00:11:11.360><c> agent</c><00:11:11.680><c> as</c><00:11:11.920><c> sort</c><00:11:12.079><c> of</c><00:11:12.720><c> a</c><00:11:13.120><c> first</c>
+Devon as an agent as sort of a first
+Devon as an agent as sort of a first
+approximation<00:11:14.320><c> preview</c><00:11:14.640><c> of</c><00:11:14.880><c> what</c><00:11:15.120><c> it's</c><00:11:15.360><c> going</c>
+approximation preview of what it's going
+approximation preview of what it's going
+to<00:11:15.680><c> look</c><00:11:15.839><c> like</c><00:11:16.320><c> to</c><00:11:16.640><c> work</c><00:11:16.880><c> with</c><00:11:17.120><c> agents</c><00:11:17.519><c> in</c><00:11:17.760><c> the</c>
+to look like to work with agents in the
+to look like to work with agents in the
+future.<00:11:18.959><c> I</c><00:11:19.200><c> think</c><00:11:19.279><c> we're</c><00:11:19.519><c> going</c><00:11:19.519><c> to</c><00:11:19.600><c> have</c>
+future. I think we're going to have
+future. I think we're going to have
+running<00:11:20.000><c> out</c><00:11:20.160><c> of</c><00:11:20.240><c> token</c><00:11:20.560><c> issues.</c><00:11:20.959><c> I</c><00:11:21.120><c> think</c>
+running out of token issues. I think
+running out of token issues. I think
+we're<00:11:21.440><c> going</c><00:11:21.440><c> to</c><00:11:21.600><c> have</c><00:11:21.839><c> did</c><00:11:22.000><c> you</c><00:11:22.160><c> give</c><00:11:22.640><c> the</c>
+we're going to have did you give the
+we're going to have did you give the
+agent<00:11:23.120><c> a</c><00:11:23.360><c> clear</c><00:11:23.519><c> enough</c><00:11:23.760><c> task</c><00:11:24.079><c> issues.</c><00:11:24.560><c> I</c>
+agent a clear enough task issues. I
+agent a clear enough task issues. I
+think<00:11:24.800><c> we're</c><00:11:25.040><c> going</c><00:11:25.120><c> to</c><00:11:25.200><c> have</c><00:11:25.360><c> did</c><00:11:25.600><c> you</c><00:11:25.680><c> give</c>
+think we're going to have did you give
+think we're going to have did you give
+the<00:11:26.000><c> agent</c><00:11:26.320><c> too</c><00:11:26.480><c> much</c><00:11:26.720><c> responsibility</c>
+the agent too much responsibility
+the agent too much responsibility
+issues.<00:11:28.399><c> I</c><00:11:28.560><c> think</c><00:11:28.720><c> you're</c><00:11:28.880><c> going</c><00:11:28.959><c> to</c><00:11:29.120><c> have</c><00:11:29.600><c> did</c>
+issues. I think you're going to have did
+issues. I think you're going to have did
+you<00:11:30.000><c> scope</c><00:11:30.399><c> what</c><00:11:30.560><c> the</c><00:11:30.720><c> agent</c><00:11:31.040><c> was</c><00:11:31.279><c> working</c><00:11:31.440><c> on</c>
+you scope what the agent was working on
+you scope what the agent was working on
+to<00:11:32.000><c> the</c><00:11:32.160><c> degree</c><00:11:33.040><c> that</c><00:11:33.279><c> fit</c><00:11:33.600><c> its</c><00:11:33.920><c> intelligence</c>
+to the degree that fit its intelligence
+to the degree that fit its intelligence
+issues.<00:11:35.680><c> And</c><00:11:35.920><c> we're</c><00:11:36.160><c> all</c><00:11:36.320><c> going</c><00:11:36.399><c> to</c><00:11:36.560><c> have</c><00:11:36.640><c> to</c>
+issues. And we're all going to have to
+issues. And we're all going to have to
+be<00:11:36.959><c> figuring</c><00:11:37.279><c> that</c><00:11:37.440><c> out,</c><00:11:37.760><c> not</c><00:11:37.920><c> just</c>
+be figuring that out, not just
+be figuring that out, not just
+engineers,<00:11:38.800><c> within</c><00:11:39.120><c> the</c><00:11:39.279><c> next</c><00:11:39.440><c> year</c><00:11:39.600><c> or</c>
+engineers, within the next year or
+engineers, within the next year or
+so.<00:11:41.279><c> But</c><00:11:41.440><c> the</c><00:11:41.680><c> point</c><00:11:41.839><c> is</c><00:11:42.000><c> this.</c><00:11:42.560><c> If</c><00:11:42.720><c> you</c><00:11:42.880><c> think</c>
+so. But the point is this. If you think
+so. But the point is this. If you think
+about<00:11:43.279><c> that</c><00:11:43.519><c> time</c><00:11:43.839><c> piece</c><00:11:44.079><c> again</c><00:11:44.320><c> as</c><00:11:44.560><c> we</c><00:11:44.720><c> circle</c>
+about that time piece again as we circle
+about that time piece again as we circle
+back,<00:11:46.240><c> the</c><00:11:46.560><c> more</c><00:11:46.880><c> compute</c><00:11:47.279><c> and</c><00:11:47.519><c> the</c><00:11:47.680><c> smarter</c>
+back, the more compute and the smarter
+back, the more compute and the smarter
+these<00:11:48.399><c> models</c><00:11:48.800><c> get,</c><00:11:49.200><c> the</c><00:11:49.440><c> more</c><00:11:49.760><c> they</c><00:11:50.000><c> can</c><00:11:50.160><c> get</c>
+these models get, the more they can get
+these models get, the more they can get
+done<00:11:50.560><c> with</c><00:11:50.720><c> that</c><00:11:51.040><c> time.</c><00:11:51.360><c> And</c><00:11:51.519><c> so</c><00:11:51.760><c> it</c><00:11:52.000><c> may</c><00:11:52.160><c> be</c>
+done with that time. And so it may be
+done with that time. And so it may be
+that<00:11:53.200><c> even</c><00:11:53.440><c> if</c><00:11:53.680><c> that</c><00:11:53.920><c> intent</c><00:11:54.399><c> over</c><00:11:54.640><c> time</c><00:11:55.279><c> is</c>
+that even if that intent over time is
+that even if that intent over time is
+only<00:11:55.839><c> a</c><00:11:56.000><c> week</c><00:11:56.240><c> by</c><00:11:56.480><c> the</c><00:11:56.560><c> end</c><00:11:56.720><c> of</c><00:11:56.880><c> next</c><00:11:57.120><c> year,</c><00:11:57.920><c> it</c>
+only a week by the end of next year, it
+only a week by the end of next year, it
+is<00:11:58.399><c> enough</c><00:11:58.880><c> time</c><00:11:59.519><c> that</c><00:11:59.920><c> real</c><00:12:00.320><c> meaningful</c>
+is enough time that real meaningful
+is enough time that real meaningful
+project<00:12:01.279><c> work</c><00:12:01.519><c> can</c><00:12:01.760><c> get</c><00:12:01.920><c> done</c><00:12:02.320><c> if</c><00:12:02.640><c> we</c><00:12:02.800><c> define</c>
+project work can get done if we define
+project work can get done if we define
+that<00:12:03.440><c> scope</c><00:12:03.839><c> correctly.</c><00:12:04.800><c> And</c><00:12:05.040><c> that's</c><00:12:05.279><c> just</c>
+that scope correctly. And that's just
+that scope correctly. And that's just
+kind<00:12:05.680><c> of</c><00:12:05.760><c> weird</c><00:12:06.079><c> to</c><00:12:06.240><c> me</c><00:12:06.320><c> because</c><00:12:06.639><c> as</c><00:12:06.880><c> a</c><00:12:07.040><c> human,</c>
+kind of weird to me because as a human,
+kind of weird to me because as a human,
+I<00:12:08.160><c> don't</c><00:12:08.399><c> think</c><00:12:08.560><c> about</c><00:12:08.720><c> it</c><00:12:08.880><c> that</c><00:12:09.120><c> way.</c><00:12:09.839><c> I</c><00:12:10.079><c> don't</c>
+I don't think about it that way. I don't
+I don't think about it that way. I don't
+think<00:12:10.480><c> about</c><00:12:10.639><c> it</c><00:12:11.000><c> as</c><00:12:12.000><c> I</c><00:12:12.240><c> can</c><00:12:12.399><c> get</c><00:12:12.560><c> all</c><00:12:12.720><c> of</c><00:12:12.800><c> this</c>
+think about it as I can get all of this
+think about it as I can get all of this
+work<00:12:13.279><c> done</c><00:12:13.680><c> next</c><00:12:14.000><c> year</c><00:12:14.320><c> because</c><00:12:14.560><c> I'm</c><00:12:14.800><c> going</c><00:12:14.880><c> to</c>
+work done next year because I'm going to
+work done next year because I'm going to
+get<00:12:15.120><c> that</c><00:12:15.360><c> much</c><00:12:15.519><c> smarter.</c><00:12:16.000><c> I</c><00:12:16.240><c> mean,</c><00:12:16.800><c> sure,</c><00:12:17.200><c> I'm</c>
+get that much smarter. I mean, sure, I'm
+get that much smarter. I mean, sure, I'm
+going<00:12:17.519><c> to</c><00:12:17.600><c> try</c><00:12:17.680><c> and</c><00:12:17.920><c> read.</c><00:12:18.160><c> I'm</c><00:12:18.320><c> going</c><00:12:18.320><c> to</c><00:12:18.399><c> try</c>
+going to try and read. I'm going to try
+going to try and read. I'm going to try
+and<00:12:18.720><c> learn</c><00:12:18.880><c> from</c><00:12:19.040><c> AI.</c><00:12:19.440><c> We</c><00:12:19.600><c> all</c><00:12:19.760><c> try</c><00:12:19.839><c> and</c><00:12:20.000><c> get</c>
+and learn from AI. We all try and get
+and learn from AI. We all try and get
+smarter,<00:12:20.480><c> but</c><00:12:20.639><c> I</c><00:12:20.800><c> have</c><00:12:20.880><c> no</c><00:12:21.120><c> illusions.</c><00:12:21.519><c> I</c>
+smarter, but I have no illusions. I
+smarter, but I have no illusions. I
+can't<00:12:21.920><c> upgrade</c><00:12:22.240><c> the</c><00:12:22.399><c> CPU</c><00:12:22.800><c> up</c><00:12:23.040><c> here.</c><00:12:24.000><c> The</c>
+can't upgrade the CPU up here. The
+can't upgrade the CPU up here. The
+machine<00:12:24.639><c> can.</c><00:12:25.680><c> And</c><00:12:25.920><c> so</c><00:12:26.560><c> I</c><00:12:26.880><c> think</c><00:12:27.040><c> one</c><00:12:27.279><c> of</c><00:12:27.360><c> the</c>
+machine can. And so I think one of the
+machine can. And so I think one of the
+most<00:12:27.839><c> interesting</c><00:12:28.240><c> things</c><00:12:28.399><c> we're</c><00:12:28.639><c> not</c>
+most interesting things we're not
+most interesting things we're not
+talking<00:12:29.200><c> about</c><00:12:29.440><c> is</c><00:12:29.680><c> that</c><00:12:29.920><c> intelligence</c><00:12:30.680><c> gains</c>
+talking about is that intelligence gains
+talking about is that intelligence gains
+are<00:12:32.079><c> related</c><00:12:32.880><c> to</c><00:12:33.120><c> the</c><00:12:33.440><c> way</c><00:12:33.600><c> we</c><00:12:33.920><c> use</c><00:12:34.560><c> agent</c>
+are related to the way we use agent
+are related to the way we use agent
+intent<00:12:35.360><c> over</c><00:12:35.680><c> time.</c><00:12:36.399><c> And</c><00:12:36.560><c> we</c><00:12:36.720><c> should</c><00:12:36.959><c> probably</c>
+intent over time. And we should probably
+intent over time. And we should probably
+talk<00:12:37.600><c> about</c><00:12:37.760><c> that</c><00:12:38.000><c> more.</c><00:12:38.880><c> Chips.</c>

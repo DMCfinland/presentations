@@ -1,0 +1,66 @@
+# Pattern Map — Strategic Pattern to Video Files (inverted index)
+# Generated: 2026-02-11
+# Unique patterns: 580
+
+progressive-complexity: # (3 videos)
+  - 2025-12-4-ai-agents-guide.md
+  - 2026-02-10-rag-the-40b-ai-technique-80-of-enterpises-usefinally-explained.md
+  - 2026-02-10-the-4-ai-agents-non-technical-people-actually-need-and-how-to-use-them-today.md
+
+platform-consolidation: # (3 videos)
+  - 2026-02-10-catch-up-before-chatgpt-5-your-complete-ai-guidetimeline-ai-basics-resources-and-who-to-follow.md
+  - 2026-02-10-claude-skills-is-bigger-than-model-context-protocol-mcpheres-why.md
+  - 2026-02-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-stories.md
+
+skill-decomposition: # (2 videos)
+  - 2024-11-27-ai-certifications-focus-on-tools-not-skillsheres-a-better-way.md
+  - 2026-02-10-the-ai-trick-that-finally-made-me-better-at-my-job-not-just-faster.md
+
+constraint-as-enabler: # (2 videos)
+  - 2026-02-10-500-ai-trained-employees-will-lose-to-10-truly-ai-fluent-onesheres-why.md
+  - 2026-02-10-chatgpt-5-prompting-is-too-hard-this-video-makes-it-easy-for-you.md
+
+value-migration: # (2 videos)
+  - 2026-02-10-agents-will-kill-your-ui-by-2026-unless-you-build-this-instead.md
+  - 2026-02-10-everyones-chasing-ai-skillsbut-judgement-is-now-priceless.md
+
+separation-of-concerns: # (2 videos)
+  - 2026-02-10-ais-memory-wall-why-compute-grew-60000x-but-memory-only-100x-plus-my-8-principles-to-fix.md
+  - 2026-02-10-the-ai-failure-mode-nobody-warned-you-about-and-how-to-prevent-it-from-happening.md
+
+trust-through-transparency: # (2 videos)
+  - 2026-02-10-anthropics-ceo-bet-the-company-on-this-philosophy-the-data-says-he-was-right.md
+  - 2026-02-10-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one.md
+
+market-bifurcation: # (2 videos)
+  - 2026-02-10-apple-took-years-to-catch-up-kilo-code-took-6-weeks-and-its-coming-for-lovable-cursor-replit.md
+  - 2026-02-10-the-5-ai-shifts-that-will-reshape-2026-on-device-agents-4-more-critical-ai-trends.md
+
+infrastructure-before-features: # (2 videos)
+  - 2026-02-10-catch-up-before-chatgpt-5-your-complete-ai-guidetimeline-ai-basics-resources-and-who-to-follow.md
+  - 2026-02-10-neurips-2025-in-12-minutes-the-6-shifts-most-people-will-miss-until-its-too-late.md
+
+friction-elimination: # (2 videos)
+  - 2026-02-10-claude-skillsfrom-toy-to-tool-grab-my-tutorial-custom-skills-to-help-you-build-skills-fast.md
+  - 2026-02-10-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one.md
+
+cost-structure-inversion: # (2 videos)
+  - 2026-02-10-disposable-software-the-trend-90-of-people-are-getting-wrong-the-hidden-costs-we-need-to-consider.md
+  - 2026-02-10-this-is-why-youre-still-slow-even-with-ai-the-bottleneck-moved-heres-what-to-do-about-it.md
+
+infrastructure-as-moat: # (2 videos)
+  - 2026-02-10-i-summarized-the-313-slide-state-of-ai-report-so-you-dont-have-to-read-itheres-the-tldr.md
+  - 2026-02-10-meta-just-cracked-vision-with-sam-3-robotics-moderation-and-video-editing-will-transform.md
+
+behavioral-architecture: # (2 videos)
+  - 2026-02-10-i-tested-both-claude-codextheyre-building-opposite-futures.md
+  - 2026-02-10-why-gpt-5-writes-like-a-robot-and-how-to-jailbreak-it.md
+
+complexity-trap-avoidance: # (2 videos)
+  - 2026-02-10-n8n-how-to-build-ai-agents-that-dont-break.md
+  - 2026-02-10-openais-secret-agent-builder-just-leaked-first-look-why-it-changes-everything.md
+
+bottleneck-migration: # (2 videos)
+  - 2026-02-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-stories.md
+  - 2026-02-10-the-builders-who-figure-this-out-first-will-be-impossible-to-catch-why-you-need-an-identity-shift.md
+

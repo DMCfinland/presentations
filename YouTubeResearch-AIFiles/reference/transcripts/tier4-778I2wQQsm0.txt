@@ -1,0 +1,301 @@
+I<00:00:00.320><c> want</c><00:00:00.400><c> to</c><00:00:00.560><c> talk</c><00:00:00.719><c> about</c><00:00:00.880><c> the</c><00:00:01.040><c> idea</c><00:00:01.199><c> of</c><00:00:01.360><c> the</c>
+I want to talk about the idea of the
+I want to talk about the idea of the
+prompt<00:00:02.159><c> becoming</c><00:00:02.720><c> the</c><00:00:02.960><c> product</c><00:00:03.280><c> with</c><00:00:03.960><c> 03.</c><00:00:04.960><c> One</c>
+prompt becoming the product with 03. One
+prompt becoming the product with 03. One
+of<00:00:05.200><c> the</c><00:00:05.359><c> things</c><00:00:05.520><c> I've</c><00:00:05.839><c> been</c><00:00:06.000><c> reflecting</c><00:00:06.560><c> on</c><00:00:06.960><c> is</c>
+of the things I've been reflecting on is
+of the things I've been reflecting on is
+that<00:00:07.520><c> prompt</c><00:00:07.839><c> engineering</c><00:00:08.400><c> for</c><00:00:08.639><c> a</c><00:00:08.800><c> long</c><00:00:09.040><c> time</c>
+that prompt engineering for a long time
+that prompt engineering for a long time
+with<00:00:09.440><c> pre-trained</c><00:00:10.080><c> models</c><00:00:10.960><c> was</c><00:00:11.280><c> prompt</c>
+with pre-trained models was prompt
+with pre-trained models was prompt
+engineering<00:00:12.320><c> for</c><00:00:12.480><c> the</c><00:00:12.639><c> purpose</c><00:00:12.960><c> of</c><00:00:13.120><c> getting</c><00:00:13.360><c> a</c>
+engineering for the purpose of getting a
+engineering for the purpose of getting a
+response<00:00:13.920><c> that</c><00:00:14.080><c> you</c><00:00:14.240><c> would</c><00:00:14.320><c> then</c><00:00:14.559><c> use</c>
+response that you would then use
+response that you would then use
+somewhere<00:00:15.120><c> else.</c><00:00:16.000><c> But</c><00:00:16.160><c> with</c><00:00:16.880><c> 03</c><00:00:17.440><c> with</c><00:00:17.680><c> 04</c><00:00:18.160><c> mini</c>
+somewhere else. But with 03 with 04 mini
+somewhere else. But with 03 with 04 mini
+high,<00:00:18.720><c> the</c><00:00:18.960><c> answers</c><00:00:19.279><c> can</c><00:00:19.439><c> be</c><00:00:19.600><c> so</c><00:00:19.840><c> complete</c>
+high, the answers can be so complete
+high, the answers can be so complete
+that<00:00:20.880><c> in</c><00:00:21.119><c> some</c><00:00:21.279><c> cases</c><00:00:21.680><c> in</c><00:00:21.920><c> many</c><00:00:22.160><c> cases</c><00:00:22.640><c> you</c>
+that in some cases in many cases you
+that in some cases in many cases you
+don't<00:00:23.199><c> need</c><00:00:23.920><c> to</c><00:00:24.240><c> do</c><00:00:24.400><c> a</c><00:00:24.720><c> lot</c><00:00:24.800><c> of</c><00:00:25.119><c> reprocessing</c>
+don't need to do a lot of reprocessing
+don't need to do a lot of reprocessing
+from<00:00:26.160><c> there</c><00:00:26.320><c> on</c><00:00:26.560><c> out.</c><00:00:26.960><c> And</c><00:00:27.359><c> for</c><00:00:28.000><c> for</c><00:00:28.320><c> our</c>
+from there on out. And for for our
+from there on out. And for for our
+purposes<00:00:29.199><c> as</c><00:00:29.800><c> prompters,</c><00:00:30.800><c> the</c><00:00:31.119><c> prompt</c><00:00:31.599><c> is</c>
+purposes as prompters, the prompt is
+purposes as prompters, the prompt is
+becoming<00:00:32.480><c> our</c><00:00:32.800><c> work</c><00:00:33.200><c> product.</c><00:00:33.760><c> And</c><00:00:33.920><c> it's</c>
+becoming our work product. And it's
+becoming our work product. And it's
+worth<00:00:34.559><c> thinking</c><00:00:34.880><c> about</c><00:00:35.120><c> it</c><00:00:35.520><c> in</c><00:00:35.840><c> those</c><00:00:36.079><c> terms,</c>
+worth thinking about it in those terms,
+worth thinking about it in those terms,
+especially<00:00:37.360><c> as</c><00:00:37.600><c> you</c><00:00:38.000><c> layer</c><00:00:38.160><c> in</c><00:00:38.399><c> the</c><00:00:38.640><c> fact</c><00:00:39.120><c> that</c>
+especially as you layer in the fact that
+especially as you layer in the fact that
+these<00:00:39.680><c> newer</c><00:00:40.000><c> models</c><00:00:40.320><c> are</c><00:00:40.480><c> also</c><00:00:40.920><c> agentic.</c><00:00:41.920><c> And</c>
+these newer models are also agentic. And
+these newer models are also agentic. And
+so<00:00:42.399><c> you</c><00:00:42.640><c> can</c><00:00:42.879><c> tell</c><00:00:43.360><c> 03</c><00:00:43.840><c> or</c><00:00:44.079><c> you</c><00:00:44.160><c> can</c><00:00:44.320><c> tell</c><00:00:44.480><c> 04</c>
+so you can tell 03 or you can tell 04
+so you can tell 03 or you can tell 04
+mini<00:00:45.200><c> high</c><00:00:45.680><c> go</c><00:00:45.920><c> fetch</c><00:00:46.239><c> my</c><00:00:46.480><c> competitor</c>
+mini high go fetch my competitor
+mini high go fetch my competitor
+websites<00:00:47.440><c> every</c><00:00:47.680><c> week,</c><00:00:48.320><c> make</c><00:00:48.559><c> a</c><00:00:48.719><c> scheduled</c>
+websites every week, make a scheduled
+websites every week, make a scheduled
+task,<00:00:49.600><c> come</c><00:00:49.760><c> back</c><00:00:50.000><c> with</c><00:00:50.079><c> this,</c><00:00:50.399><c> this,</c><00:00:50.640><c> this,</c>
+task, come back with this, this, this,
+task, come back with this, this, this,
+and<00:00:50.960><c> this,</c><00:00:51.039><c> and</c><00:00:51.200><c> it</c><00:00:51.360><c> will</c><00:00:51.520><c> do</c><00:00:51.600><c> it.</c><00:00:52.399><c> They</c><00:00:52.640><c> are</c>
+and this, and it will do it. They are
+and this, and it will do it. They are
+functionally<00:00:53.840><c> agentic</c><00:00:54.320><c> models</c><00:00:54.559><c> with</c><00:00:54.719><c> a</c><00:00:54.879><c> lot</c>
+functionally agentic models with a lot
+functionally agentic models with a lot
+of<00:00:55.039><c> tool</c><00:00:55.360><c> calling</c><00:00:55.760><c> ability.</c>
+of tool calling ability.
+of tool calling ability.
+And<00:00:57.360><c> they're</c><00:00:57.600><c> not</c><00:00:57.760><c> the</c><00:00:57.920><c> only</c><00:00:58.160><c> ones.</c><00:00:58.480><c> There</c><00:00:58.640><c> are</c>
+And they're not the only ones. There are
+And they're not the only ones. There are
+other<00:00:58.879><c> models</c><00:00:59.199><c> out</c><00:00:59.359><c> there</c><00:00:59.440><c> that</c><00:00:59.600><c> are</c><00:00:59.760><c> agentic</c>
+other models out there that are agentic
+other models out there that are agentic
+as<00:01:00.399><c> well.</c><00:01:00.719><c> But</c><00:01:00.800><c> I'm</c><00:01:01.039><c> calling</c><00:01:01.359><c> them</c><00:01:01.600><c> out</c>
+as well. But I'm calling them out
+as well. But I'm calling them out
+because<00:01:02.160><c> they're</c><00:01:02.480><c> widely</c><00:01:02.920><c> distributed.</c><00:01:03.920><c> And</c>
+because they're widely distributed. And
+because they're widely distributed. And
+I'm<00:01:04.320><c> calling</c><00:01:04.640><c> them</c><00:01:04.799><c> out</c><00:01:05.519><c> because</c><00:01:06.000><c> they</c><00:01:06.840><c> are</c>
+I'm calling them out because they are
+I'm calling them out because they are
+making<00:01:08.640><c> the</c><00:01:09.040><c> underlying</c><00:01:09.760><c> technology</c><00:01:10.560><c> of</c>
+making the underlying technology of
+making the underlying technology of
+Agentic<00:01:12.000><c> tool</c><00:01:12.320><c> use</c><00:01:13.119><c> much</c><00:01:13.439><c> more</c><00:01:13.760><c> transparent</c>
+Agentic tool use much more transparent
+Agentic tool use much more transparent
+to<00:01:14.640><c> the</c><00:01:14.880><c> general</c><00:01:15.280><c> user</c><00:01:15.920><c> than</c><00:01:16.159><c> it's</c><00:01:16.479><c> been</c>
+to the general user than it's been
+to the general user than it's been
+before.
+before.
+before.
+Prior<00:01:18.560><c> to</c><00:01:18.720><c> the</c><00:01:18.880><c> launch</c><00:01:19.119><c> of</c><00:01:19.360><c> real</c><00:01:19.680><c> agentic</c><00:01:20.400><c> in</c>
+Prior to the launch of real agentic in
+Prior to the launch of real agentic in
+chatbot<00:01:22.080><c> uh</c><00:01:22.479><c> conversational</c><00:01:23.400><c> models,</c><00:01:24.400><c> you</c>
+chatbot uh conversational models, you
+chatbot uh conversational models, you
+had<00:01:24.880><c> to</c><00:01:24.960><c> go</c><00:01:25.040><c> to</c><00:01:25.320><c> N8N,</c><00:01:26.320><c> you</c><00:01:26.560><c> had</c><00:01:26.720><c> to</c><00:01:26.880><c> go</c><00:01:27.040><c> to</c>
+had to go to N8N, you had to go to
+had to go to N8N, you had to go to
+Lindy,<00:01:28.000><c> you</c><00:01:28.240><c> had</c><00:01:28.479><c> to</c><00:01:28.640><c> go</c><00:01:29.159><c> to</c><00:01:30.159><c> Langraph,</c><00:01:31.040><c> you</c>
+Lindy, you had to go to Langraph, you
+Lindy, you had to go to Langraph, you
+had<00:01:31.280><c> to</c><00:01:31.360><c> go</c><00:01:31.520><c> a</c><00:01:31.680><c> lot</c><00:01:31.759><c> of</c><00:01:31.920><c> other</c><00:01:32.159><c> places</c><00:01:32.479><c> to</c><00:01:32.720><c> get</c>
+had to go a lot of other places to get
+had to go a lot of other places to get
+agents<00:01:33.360><c> really</c><00:01:33.600><c> going</c><00:01:33.840><c> for</c><00:01:34.079><c> you</c><00:01:34.560><c> and</c><00:01:34.880><c> lots</c><00:01:35.119><c> of</c>
+agents really going for you and lots of
+agents really going for you and lots of
+people<00:01:35.520><c> did</c><00:01:35.759><c> that</c><00:01:36.000><c> and</c><00:01:36.240><c> those</c><00:01:36.479><c> businesses</c><00:01:36.880><c> are</c>
+people did that and those businesses are
+people did that and those businesses are
+doing<00:01:37.360><c> well.</c><00:01:38.240><c> But</c><00:01:38.560><c> the</c><00:01:38.960><c> mass</c><00:01:39.360><c> adoption</c>
+doing well. But the mass adoption
+doing well. But the mass adoption
+footprint<00:01:40.320><c> you</c><00:01:40.560><c> get</c><00:01:40.640><c> with</c><00:01:40.799><c> a</c><00:01:40.960><c> gentic</c><00:01:41.439><c> is</c>
+footprint you get with a gentic is
+footprint you get with a gentic is
+really<00:01:41.920><c> interesting</c><00:01:42.240><c> in</c><00:01:42.479><c> this</c><00:01:42.640><c> situation</c><00:01:43.280><c> and</c>
+really interesting in this situation and
+really interesting in this situation and
+has<00:01:43.759><c> reminded</c><00:01:44.159><c> me</c><00:01:44.240><c> of</c><00:01:44.400><c> one</c><00:01:44.560><c> of</c><00:01:44.640><c> the</c>
+has reminded me of one of the
+has reminded me of one of the
+fundamental<00:01:45.439><c> through</c><00:01:45.759><c> lines</c><00:01:46.399><c> in</c><00:01:46.720><c> product</c>
+fundamental through lines in product
+fundamental through lines in product
+from<00:01:47.439><c> technology</c><00:01:47.920><c> to</c><00:01:48.159><c> product</c><00:01:48.399><c> to</c><00:01:48.640><c> magical</c>
+from technology to product to magical
+from technology to product to magical
+customer<00:01:49.439><c> value.</c><00:01:49.759><c> You</c><00:01:49.920><c> can</c><00:01:50.000><c> trace</c><00:01:50.320><c> that</c><00:01:50.479><c> line</c>
+customer value. You can trace that line
+customer value. You can trace that line
+with<00:01:50.799><c> the</c><00:01:51.040><c> iPhone.</c><00:01:51.680><c> You</c><00:01:51.840><c> can</c><00:01:52.000><c> definitely</c>
+with the iPhone. You can definitely
+with the iPhone. You can definitely
+trace<00:01:52.640><c> it</c><00:01:52.799><c> with</c><00:01:52.960><c> chat</c><00:01:53.280><c> GPT</c><00:01:54.079><c> which</c><00:01:54.240><c> is</c><00:01:54.399><c> on</c><00:01:54.640><c> track</c>
+trace it with chat GPT which is on track
+trace it with chat GPT which is on track
+to<00:01:54.960><c> hit</c><00:01:55.119><c> a</c><00:01:55.280><c> billion</c><00:01:55.600><c> users</c><00:01:56.240><c> in</c><00:01:56.560><c> 3</c><00:01:56.880><c> years</c><00:01:57.759><c> which</c>
+to hit a billion users in 3 years which
+to hit a billion users in 3 years which
+is<00:01:58.560><c> roughly</c><00:01:58.960><c> three</c><00:01:59.200><c> times</c><00:01:59.439><c> faster</c><00:01:59.759><c> than</c>
+is roughly three times faster than
+is roughly three times faster than
+Facebook.
+Facebook.
+Facebook.
+And<00:02:02.560><c> the</c><00:02:02.799><c> thing</c><00:02:02.960><c> that</c><00:02:03.119><c> I'm</c><00:02:03.439><c> thinking</c><00:02:03.759><c> about</c><00:02:04.159><c> as</c>
+And the thing that I'm thinking about as
+And the thing that I'm thinking about as
+I<00:02:04.640><c> sort</c><00:02:04.719><c> of</c><00:02:04.880><c> meditate</c><00:02:05.200><c> on</c><00:02:05.360><c> that</c><00:02:05.520><c> idea</c><00:02:05.680><c> of</c>
+I sort of meditate on that idea of
+I sort of meditate on that idea of
+technology<00:02:06.240><c> to</c><00:02:06.479><c> product</c><00:02:06.719><c> to</c><00:02:06.960><c> customer</c><00:02:07.360><c> value</c>
+technology to product to customer value
+technology to product to customer value
+as<00:02:07.840><c> a</c><00:02:08.000><c> through</c><00:02:08.319><c> line</c><00:02:09.039><c> that</c><00:02:09.440><c> is</c><00:02:09.679><c> simpler</c><00:02:10.080><c> and</c>
+as a through line that is simpler and
+as a through line that is simpler and
+clearer<00:02:10.720><c> with</c><00:02:11.039><c> better</c>
+clearer with better
+clearer with better
+products.<00:02:13.200><c> You</c><00:02:13.440><c> know,</c><00:02:13.680><c> if</c><00:02:13.920><c> the</c><00:02:14.160><c> model</c><00:02:14.480><c> is</c>
+products. You know, if the model is
+products. You know, if the model is
+better<00:02:15.040><c> when</c><00:02:15.280><c> it's</c><00:02:15.520><c> released,</c><00:02:16.080><c> if</c><00:02:16.319><c> it</c><00:02:16.560><c> makes</c>
+better when it's released, if it makes
+better when it's released, if it makes
+that<00:02:17.040><c> line</c><00:02:17.520><c> even</c><00:02:17.840><c> simpler</c><00:02:18.239><c> and</c><00:02:18.480><c> clearer</c><00:02:18.720><c> than</c>
+that line even simpler and clearer than
+that line even simpler and clearer than
+it<00:02:19.040><c> was</c><00:02:19.120><c> when</c><00:02:19.360><c> the</c><00:02:19.520><c> last</c><00:02:19.760><c> model</c><00:02:20.080><c> was</c>
+it was when the last model was
+it was when the last model was
+out.<00:02:21.920><c> And</c><00:02:22.080><c> as</c><00:02:22.319><c> I</c><00:02:22.480><c> think</c><00:02:22.640><c> about</c><00:02:22.800><c> it,</c><00:02:23.120><c> one</c><00:02:23.280><c> of</c><00:02:23.360><c> the</c>
+out. And as I think about it, one of the
+out. And as I think about it, one of the
+things<00:02:23.680><c> that</c><00:02:23.920><c> stands</c><00:02:24.239><c> out</c><00:02:24.400><c> about</c><00:02:24.560><c> the</c><00:02:24.800><c> release</c>
+things that stands out about the release
+things that stands out about the release
+of<00:02:25.200><c> 03</c><00:02:25.599><c> and</c><00:02:25.760><c> 04</c><00:02:26.160><c> mini</c><00:02:26.400><c> high</c><00:02:26.640><c> is</c><00:02:26.800><c> they</c><00:02:27.040><c> make</c><00:02:27.200><c> this</c>
+of 03 and 04 mini high is they make this
+of 03 and 04 mini high is they make this
+idea<00:02:27.680><c> of</c><00:02:27.840><c> agents</c><00:02:28.239><c> and</c><00:02:28.480><c> tool</c><00:02:28.800><c> calling</c><00:02:29.440><c> simpler</c>
+idea of agents and tool calling simpler
+idea of agents and tool calling simpler
+and<00:02:30.000><c> clearer</c><00:02:30.319><c> than</c><00:02:30.480><c> it</c><00:02:30.920><c> was.</c><00:02:31.920><c> And</c><00:02:32.160><c> therefore,</c>
+and clearer than it was. And therefore,
+and clearer than it was. And therefore,
+they<00:02:32.959><c> challenge</c><00:02:33.280><c> us</c><00:02:33.440><c> to</c><00:02:33.599><c> prompt</c><00:02:34.000><c> differently.</c>
+they challenge us to prompt differently.
+they challenge us to prompt differently.
+Our<00:02:35.200><c> prompting</c><00:02:35.680><c> becomes</c><00:02:36.400><c> more</c><00:02:36.879><c> of</c><00:02:37.200><c> the</c><00:02:37.519><c> final</c>
+Our prompting becomes more of the final
+Our prompting becomes more of the final
+product.<00:02:38.239><c> Our</c><00:02:38.480><c> prompting</c><00:02:38.879><c> needs</c><00:02:39.120><c> to</c><00:02:39.280><c> be</c><00:02:39.440><c> clear</c>
+product. Our prompting needs to be clear
+product. Our prompting needs to be clear
+about<00:02:40.000><c> our</c><00:02:40.239><c> purpose.</c><00:02:40.560><c> Our</c><00:02:40.800><c> prompting</c><00:02:41.120><c> needs</c>
+about our purpose. Our prompting needs
+about our purpose. Our prompting needs
+to<00:02:41.519><c> be</c><00:02:41.599><c> clear</c><00:02:41.840><c> about</c><00:02:42.080><c> expected</c><00:02:42.840><c> outputs.</c><00:02:43.840><c> And</c>
+to be clear about expected outputs. And
+to be clear about expected outputs. And
+I<00:02:44.879><c> think</c><00:02:44.959><c> that</c><00:02:45.200><c> imposes</c><00:02:45.760><c> different</c><00:02:46.000><c> kind</c><00:02:46.160><c> of</c>
+I think that imposes different kind of
+I think that imposes different kind of
+work<00:02:46.560><c> responsibilities</c><00:02:47.200><c> on</c><00:02:47.440><c> us.</c><00:02:47.599><c> I</c><00:02:47.840><c> don't</c>
+work responsibilities on us. I don't
+work responsibilities on us. I don't
+think<00:02:48.080><c> we've</c><00:02:48.319><c> thought</c><00:02:48.480><c> enough</c><00:02:48.800><c> about</c><00:02:49.280><c> how</c>
+think we've thought enough about how
+think we've thought enough about how
+rumés<00:02:50.080><c> change.</c><00:02:50.560><c> I</c><00:02:50.800><c> don't</c><00:02:50.879><c> think</c><00:02:50.959><c> we've</c><00:02:51.200><c> taught</c>
+rumés change. I don't think we've taught
+rumés change. I don't think we've taught
+enough<00:02:51.680><c> about</c><00:02:52.239><c> how</c><00:02:52.480><c> work</c><00:02:52.720><c> experience</c>
+enough about how work experience
+enough about how work experience
+changes,<00:02:53.920><c> how</c><00:02:54.160><c> expectations</c><00:02:54.720><c> of</c><00:02:55.040><c> performance</c>
+changes, how expectations of performance
+changes, how expectations of performance
+change.<00:02:56.800><c> Those</c><00:02:56.959><c> are</c><00:02:57.200><c> all</c><00:02:57.760><c> really</c><00:02:58.160><c> rich</c><00:02:58.480><c> areas</c>
+change. Those are all really rich areas
+change. Those are all really rich areas
+where<00:02:59.519><c> we</c><00:02:59.840><c> need</c><00:02:59.920><c> to</c><00:03:00.080><c> figure</c><00:03:00.239><c> out</c><00:03:00.400><c> how</c><00:03:00.560><c> to</c><00:03:00.720><c> level</c>
+where we need to figure out how to level
+where we need to figure out how to level
+up.<00:03:01.200><c> And</c><00:03:01.360><c> that's</c><00:03:01.920><c> much</c><00:03:02.239><c> beyond</c><00:03:02.640><c> a</c><00:03:02.879><c> particular</c>
+up. And that's much beyond a particular
+up. And that's much beyond a particular
+model<00:03:03.599><c> release.</c><00:03:04.000><c> It</c><00:03:04.159><c> doesn't</c><00:03:04.319><c> matter</c><00:03:04.480><c> whether</c>
+model release. It doesn't matter whether
+model release. It doesn't matter whether
+03<00:03:06.000><c> ultimately</c><00:03:06.400><c> is</c><00:03:06.640><c> successful</c><00:03:07.120><c> or</c><00:03:07.360><c> is</c>
+03 ultimately is successful or is
+03 ultimately is successful or is
+retired<00:03:08.000><c> next</c><00:03:08.239><c> week.</c><00:03:08.560><c> I</c><00:03:08.720><c> don't</c><00:03:08.879><c> think</c><00:03:08.959><c> it's</c>
+retired next week. I don't think it's
+retired next week. I don't think it's
+going<00:03:09.280><c> to</c><00:03:09.360><c> get</c><00:03:09.519><c> retired</c><00:03:09.920><c> next</c><00:03:10.159><c> week.</c><00:03:10.720><c> And</c><00:03:10.879><c> it</c>
+going to get retired next week. And it
+going to get retired next week. And it
+doesn't<00:03:11.280><c> matter</c><00:03:11.440><c> if</c><00:03:11.599><c> DeepSc</c><00:03:12.159><c> drops,</c><00:03:12.720><c> you</c>
+doesn't matter if DeepSc drops, you
+doesn't matter if DeepSc drops, you
+know,<00:03:13.280><c> the</c><00:03:13.519><c> next</c><00:03:13.760><c> version</c><00:03:14.080><c> a</c><00:03:14.239><c> week</c><00:03:14.400><c> after</c><00:03:14.560><c> that</c>
+know, the next version a week after that
+know, the next version a week after that
+and<00:03:14.879><c> it's</c><00:03:15.120><c> incredible.</c><00:03:15.519><c> I'm</c><00:03:15.680><c> sure</c><00:03:15.840><c> they</c>
+and it's incredible. I'm sure they
+and it's incredible. I'm sure they
+they'll<00:03:16.319><c> do</c><00:03:16.480><c> great</c><00:03:16.720><c> things.</c><00:03:17.760><c> The</c><00:03:18.000><c> point</c><00:03:18.239><c> is</c>
+they'll do great things. The point is
+they'll do great things. The point is
+there's<00:03:19.599><c> an</c><00:03:19.760><c> arms</c><00:03:20.159><c> race</c><00:03:20.720><c> to</c><00:03:21.120><c> simplify</c><00:03:21.760><c> this</c>
+there's an arms race to simplify this
+there's an arms race to simplify this
+incredible<00:03:22.560><c> through</c><00:03:22.959><c> line</c><00:03:23.120><c> that</c><00:03:23.360><c> is</c><00:03:23.599><c> bringing</c>
+incredible through line that is bringing
+incredible through line that is bringing
+large<00:03:24.239><c> language</c><00:03:24.640><c> model</c><00:03:25.120><c> the</c><00:03:25.280><c> underlying</c>
+large language model the underlying
+large language model the underlying
+technology<00:03:26.239><c> with</c><00:03:26.480><c> tool</c><00:03:26.879><c> use</c><00:03:27.519><c> through</c><00:03:27.760><c> the</c>
+technology with tool use through the
+technology with tool use through the
+product<00:03:28.159><c> phase</c><00:03:28.560><c> to</c><00:03:28.800><c> magical</c><00:03:29.200><c> customer</c><00:03:29.599><c> value.</c>
+product phase to magical customer value.
+product phase to magical customer value.
+And<00:03:30.400><c> as</c><00:03:30.640><c> all</c><00:03:30.879><c> of</c><00:03:30.959><c> these</c><00:03:31.200><c> model</c><00:03:31.519><c> makers</c><00:03:31.920><c> compete</c>
+And as all of these model makers compete
+And as all of these model makers compete
+to<00:03:32.879><c> deliver</c><00:03:33.200><c> on</c><00:03:33.440><c> that</c><00:03:33.720><c> ecosystem,</c><00:03:34.720><c> we</c><00:03:35.040><c> have</c><00:03:35.200><c> to</c>
+to deliver on that ecosystem, we have to
+to deliver on that ecosystem, we have to
+think<00:03:35.519><c> about</c><00:03:35.760><c> how</c><00:03:36.000><c> our</c><00:03:36.480><c> prompts</c><00:03:37.040><c> change</c><00:03:37.840><c> and</c>
+think about how our prompts change and
+think about how our prompts change and
+how<00:03:38.319><c> our</c><00:03:38.640><c> prompts</c><00:03:38.959><c> are</c><00:03:39.200><c> more</c><00:03:39.360><c> and</c><00:03:39.599><c> more</c><00:03:40.159><c> our</c>
+how our prompts are more and more our
+how our prompts are more and more our
+ultimate<00:03:40.959><c> work</c><00:03:41.319><c> product.</c><00:03:42.319><c> And</c><00:03:42.560><c> that's</c><00:03:42.720><c> a</c>
+ultimate work product. And that's a
+ultimate work product. And that's a
+strange<00:03:43.280><c> thought.</c><00:03:43.519><c> I</c><00:03:43.760><c> don't</c><00:03:43.840><c> know</c><00:03:43.920><c> about</c><00:03:44.159><c> you,</c>
+strange thought. I don't know about you,
+strange thought. I don't know about you,
+but<00:03:45.040><c> I</c><00:03:45.200><c> did</c><00:03:45.360><c> not</c><00:03:45.519><c> expect</c><00:03:45.760><c> to</c><00:03:45.920><c> live</c><00:03:46.000><c> in</c><00:03:46.159><c> a</c><00:03:46.319><c> world</c>
+but I did not expect to live in a world
+but I did not expect to live in a world
+where<00:03:46.720><c> my</c><00:03:46.959><c> prompts</c><00:03:47.280><c> were</c><00:03:47.519><c> my</c><00:03:47.680><c> work</c><00:03:47.920><c> product.</c>

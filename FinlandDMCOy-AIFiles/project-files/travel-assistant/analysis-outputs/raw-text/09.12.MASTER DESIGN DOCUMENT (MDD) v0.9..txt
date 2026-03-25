@@ -1,0 +1,217 @@
+Tämä on selvä. Kirjataan visio ja tekninen toteutus yksiin kansiin.
+
+Tämä dokumentti on nyt projektin "Raamattu" (Master Design Document v0.9). Se sitoo yhteen strategian, arkkitehtuurin, tekoälyn logiikan ja käyttöliittymät. Se toimii ohjenuorana sekä johdolle että kehitystiimille.
+
+📘 MASTER DESIGN DOCUMENT (MDD)
+
+Projekti: Finland DMC Personal Travel Assistant Versio: 0.9 (Pre-Development Final Draft) Päiväys: 09.12.2025
+
+1. STRATEGINEN VISIO (The "Why")
+
+Ydinlupaus
+
+Rakennamme maailman edistyksellisimmän, hyper-personoidun matka-assistentin, joka skaalaa VIP-tason palvelun massoille. Palvelu ei ole vain passiivinen infopiste, vaan proaktiivinen Concierge, joka tuntee asiakkaan, ennakoi tarpeet ja optimoi lomakokemuksen reaaliajassa.
+
+Win-Win-Win Strategia
+
+1.  Asiakas: Saa kitkattoman loman, täydelliset suositukset (oikea aika/paikka) ja turvaa 24/7 ilman jonottamista. Tulos: Korkea NPS.
+
+2.  DMC (Me): Maksimoimme "Share of Walletin" myymällä oikeita lisäpalveluita korkealla konversiolla. Saamme skaalautuvan alustan B2B-myyntiin (White Label). Tulos: Korkea Kate €.
+
+3.  Partnerit: Saavat valmiiksi lämmitettyjä asiakkaita ja arvokasta dataa tuotteidensa laadusta.
+
+Brändistrategia (The Chameleon)
+
+Järjestelmä on "White Label" -alusta.
+
+- Järvisydän-asiakas näkee "Järvisydän Hostin" (Savolainen, lämmin).
+
+- KonTiki-asiakas näkee "KonTiki Guiden" (Saksalainen täsmällisyys, brändivärit).
+
+- Influencer-asiakas näkee suosittelijan (esim. "CyclingPro") kuratoimat vinkit.
+
+2. KÄYTTÄJÄKOKEMUS (User Experience)
+
+Onboarding & Pääsy
+
+- Zero-Login: Ei salasanoja. Sisäänkirjautuminen tapahtuu turvallisella Magic Linkillä (sähköposti/SMS), joka luodaan varauksen yhteydessä.
+
+- Security: Maksaminen ja henkilöllisyyden lisävarmistus delegoidaan laitteelle (Apple Pay / Google Pay / FaceID).
+
+Traveler UI (Matin Näkymä)
+
+Sovellus on PWA (Progressive Web App), joka toimii selaimessa mutta tuntuu sovellukselta.
+
+1.  Etusivu (The Feed):
+
+    - Hero: "Mitä tapahtuu nyt?" (Aamiainen auki / Safari alkaa 30min).
+
+    - Sää-widget: Kohdekohtainen sää ja revontuliennuste.
+
+2.  Aikajana (The Spine):
+
+    - Pystysuuntainen jana, joka yhdistää:
+
+      - 🟢 Varatut: "19:00 Illallinen".
+
+      - 🟡 Pending: "Varauspyyntö käsittelyssä...".
+
+      - ⚪ Shadow Schedule: "14:00-16:00 Vapaata" (Klikkaa tästä suosituksia).
+
+3.  Chat (The Concierge):
+
+    - Kelluva nappi, aina saatavilla. Yksi yhtenäinen persoona, joka "tietää kaiken", eikä vaihda naamiota kesken kaiken.
+
+4.  Explore (Mini-Katalogi):
+
+    - Visuaalinen selailunäkymä ("Netflix-tyyli").
+
+    - Kategoriat: "Sinulle valitut", "Resort Info", "Tapahtumat".
+
+5.  Profiili & Historia:
+
+    - "Omat tiedot" (Allergiat, kiinnostukset).
+
+    - Feedback Loop: Mahdollisuus peukuttaa/arvioida jo koettuja elämyksiä jälkikäteen.
+
+    - Emergency: [Soita 112] (Suora puhelu, ei DMC-vastuuta) ja [Soita Opas] -napit.
+
+3. JÄRJESTELMÄARKKITEHTUURI (The Stack)
+
+Järjestelmä rakentuu Microsoft Azure -pilveen (GDPR-compliant) ja hyödyntää Event-Driven Microservices -mallia.
+
+Core Components
+
+- Event Bus (Azure Event Grid): Järjestelmän hermosto. Kaikki moduulit (Chat, Varaus, Sää) keskustelevat tämän kautta.
+
+- Data Storage:
+
+  - Azure Cosmos DB: Nopea muisti (Chat-historia, Profiilit).
+
+  - Azure SQL: Relaatiodata (Varaukset, Tuotteet, Ledger).
+
+  - Data Lake: Raakadata analytiikkaa varten.
+
+- AI Engine: Azure OpenAI Service (GPT-4o) yksityisessä instanssissa.
+
+4. THE BRAINS (Tekoälyn Logiikka)
+
+Emme käytä yhtä isoa tekoälyä, vaan tiimiä erikoistuneita agentteja.
+
+A. 🛡️ Master Agent (The Concierge)
+
+- Rooli: Asiakasrajapinta ja Orkestraattori.
+
+- Toiminta:
+
+  - Pitää yllä keskustelua ja Tone of Voicea.
+
+  - Kantaa Context Backpackia (Lyhytmuisti: mistä juuri puhuttiin).
+
+  - Ei tee päätöksiä hinnoista/saatavuudesta, vaan delegoi ne Chefille tai Bookerille.
+
+  - Gap Finder: Taustaprosessi herättää Master Agentin, jos asiakkaalla on "tyhjä hetki". Master päättää sisäisellä monologilla, häiritäänkö asiakasta.
+
+B. 🧠 Mood Evaluator (The Psychologist)
+
+- Rooli: Taustakuuntelija (Async Listener).
+
+- Toiminta:
+
+  - Analysoi jokaisen viestin reaaliajassa.
+
+  - Päivittää asiakkaan Mood Matrix -profiilia:
+
+    - Energy (0-100)
+
+    - Social_Battery (0-100)
+
+    - Price_Sensitivity (Hinta vs. Laatu -tietoisuus)
+
+    - Tags (esim. Hates_Smoke, Loves_History).
+
+  - Tunnistaa negatiivisen palautteen ja aktivoi "Silent Logging" (ei spämmää kyselyillä heti).
+
+C. 👨‍🍳 Suggestion Chef (The Salesman)
+
+- Rooli: Päätöksentekijä ja Myyjä.
+
+- Logiikka (The Funnel):
+
+  1.  Hard Filter: Onko auki? Onko tilaa? Onko asiakkaalla autoa (Mobiliteetti)?
+
+  2.  Smart Score (Math): Score = (Match*W1) + (Weather*W2) + (Value*W3) + (Margin*W4) + (Novelty*W5)
+
+      - Weather: Tarkka data (mm/h). Sää suhteutetaan asiakkaan "Sissi-kertoimeen".
+
+      - Value: Hinta-laatusuhde painaa enemmän kuin pelkkä hinta.
+
+  3.  Sales Pitch (AI): Valitsee oikean Hookin (Myyntikärjen) A/B-testauksen perusteella (Champion/Challenger).
+
+5. OPERATIIVINEN TOIMINTA (Ops)
+
+Staff Dashboard (Komentokeskus)
+
+Työntekijän näkymä, jolla johdetaan tekoälyä.
+
+- Traffic Lights: Asiakkaat priorisoidaan kiireellisyyden, moodin ja VIP-statuksen mukaan. (Ei vilkkuvia valoja, rauhallinen UI).
+
+- Whisper Mode: Työntekijä voi "kuiskata" neuvoja Master Agentille (System Injection).
+
+- Takeover: Työntekijä voi ottaa keskustelun kokonaan haltuun.
+
+- Safety Net: Jos työntekijä unohtaa palauttaa botin päälle, järjestelmä tekee sen automaattisesti 10min kuluttua.
+
+Partner & Supplier Portal
+
+- Reporting: Toimittajat saavat raportin myynnistä ja asiakaspalautteesta (koostettuna, ei raakana).
+
+- Influencer Loop: Vaikuttajat näkevät, paljonko heidän suosituksensa ovat tuottaneet (Myynti + Komissio).
+
+6. DATA & JATKUVA OPPIMINEN
+
+The Optimizer Agent
+
+- Rutiinit: Päivittää joka yö Best Seller -listat ja A/B-testien voittajat.
+
+- Insight Mining: Etsii datasta uusia trendejä ("Saksalaiset kysyvät nyt sähköpyöriä -> Pitäisikö hankkia?").
+
+Feedback Loop
+
+- Kärsivällisyysmittari: Kysytään palautetta vain, kun hetki on oikea (ei heti reklamaation jälkeen).
+
+- Mystery Shopper: Synteettiset agentit (Karen, Backpacker) testaavat järjestelmää ja uusia kampanjoita ennen oikeita asiakkaita.
+
+7. ROADMAP (MVP Scope)
+
+Vaihe 1: Järvisydän Pilot (MVP)
+
+- Aika: Start + 3kk.
+
+- Sisältö:
+
+  - Ingestion (Varausvahvistus -> Magic Link).
+
+  - Master Agent (Peruskeskustelu + RAG).
+
+  - Mood & Chef (Sää- ja Mood-pohjainen suosittelu).
+
+  - Staff Dashboard (Manuaalinen varauskäsittely / API-tuki jos valmis).
+
+  - Laskutus: Shadow Ledger (Raportointi).
+
+Vaihe 2: Expansion & Automation
+
+- Sisältö:
+
+  - Holiday Builder (Ennakkovaraus).
+
+  - Integroidut maksut (Split Payment).
+
+  - Laajempi Partner-verkosto (KonTiki yms).
+
+  - Voice Mode (Puheohjaus).
+
+LOPPUSANAT: Tämä dokumentti määrittelee järjestelmän, joka on teknisesti toteutettavissa, liiketoiminnallisesti kannattava ja asiakkaalle aidosti hyödyllinen. Seuraava vaihe on siirtää tämä Development Brief -muodossa tekniselle tiimille ja aloittaa rakentaminen.
+
+Oletko valmis hyväksymään v0.9:n ja siirtymään toteutusvaiheen suunnitteluun (Tiimi, Sprintit, Työkalut)?

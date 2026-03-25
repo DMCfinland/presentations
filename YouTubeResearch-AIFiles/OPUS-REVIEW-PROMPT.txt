@@ -1,0 +1,154 @@
+I've been building a YouTube research system and model strategy framework. I thought I was working with Opus this whole time, but it turns out I've been using Sonnet 4.5 in Claude Code. Now I want YOUR strategic review (actual Opus) to validate if this makes sense.
+
+PROJECT CONTEXT:
+- CEO of 1658 Holdings (10 portfolio companies, ~50 employees)
+- Building AI workflows across companies
+- Started with YouTube Research project (189 Nate B Jones AI strategy videos)
+- Created model optimization strategy (Sonnet vs Opus)
+- Working from Mac, using Claude Code (Sonnet) for building, claude.ai for mining
+
+WHAT WE BUILT (with Sonnet 4.5 in Claude Code):
+1. Batch processing system for 189 videos (~$20)
+2. Prioritization script to identify high-value videos for Opus upgrade
+3. Comparison test framework (Sonnet vs Opus quality measurement)
+4. Model decision framework (when to use which model)
+5. Hybrid strategy: Sonnet for breadth, Opus for strategic depth
+6. Complete tracking system (model metadata, version history, archiving)
+7. 15+ Python scripts for automation
+
+CURRENT STATUS:
+- 6 videos manually analyzed (in knowledge-base/videos/)
+- 189 videos submitted to Sonnet 4.5 Batch API (processing now)
+- 2 videos in Opus comparison test (just uploaded)
+- Created comprehensive MODEL-STRATEGY.md framework
+- Plan: Review comparison results, then selectively upgrade top 20-30 videos to Opus
+
+PROJECT STRUCTURE:
+YouTubeResearch-AIFiles/
+├── ROADMAP.md                              # Project roadmap
+├── MODEL-STRATEGY.md                       # When to use which model
+├── COMPARISON-TEST.md                      # A/B test workflow
+├── OPUS-UPGRADE-WORKFLOW.md               # Selective upgrade process
+├── MODEL-TRACKING.md                       # Version tracking system
+├── knowledge-base/
+│   └── videos/                            # 6 analyzed videos
+├── batch-jobs/                            # Batch JSONL files
+│   ├── batch-job-tier1-*.jsonl           # 40 videos (Sonnet)
+│   ├── batch-job-tier2-*.jsonl           # 60 videos (Sonnet)
+│   ├── batch-job-tier3-*.jsonl           # 89 videos (Sonnet)
+│   └── batch-job-comparison-*.jsonl      # 2 videos (Opus test)
+├── scripts/                               # 15+ automation scripts
+│   ├── prepare-batch-job.py
+│   ├── upload-batch-jobs.py
+│   ├── check-batch-status.py
+│   ├── download-batch-results.py
+│   ├── process-batch-results.py
+│   ├── process-batch-results-with-tracking.py
+│   ├── prioritize-for-opus.py            # Score videos for upgrade
+│   ├── create-opus-batch.py              # Generate Opus batch
+│   ├── create-comparison-batch.py        # A/B test batch
+│   ├── compare-analyses.py               # Quality comparison
+│   ├── list-by-model.py                  # Filter by model
+│   └── prepare-opus-upgrade.py
+└── reference/
+    └── transcripts/                       # 231 video transcripts
+
+KEY DECISION FRAMEWORK (from MODEL-STRATEGY.md):
+┌─────────────────────────────────────┐
+│  🔴 OPUS 4.6 - The Strategist       │
+│  • Strategic decisions              │
+│  • Deep research & synthesis        │
+│  • High stakes & board prep         │
+│  • Pattern recognition              │
+│  Cost: $0.60-0.90 per task          │
+├─────────────────────────────────────┤
+│  🟡 SONNET 4.5 - The Executor       │
+│  • Coding & building tools          │
+│  • File organization                │
+│  • Good analysis (80% quality)      │
+│  • Daily execution work             │
+│  Cost: $0.10-0.15 per task          │
+├─────────────────────────────────────┤
+│  🟢 HAIKU 4.5 - The Processor       │
+│  • High volume simple tasks         │
+│  • Classification & tagging         │
+│  Cost: $0.02-0.05 per task          │
+└─────────────────────────────────────┘
+
+DECISION TREE:
+Is it STRATEGIC? → OPUS
+Is it HIGH-STAKES? → OPUS
+Requires DEEP REASONING? → OPUS
+Is it CODING/EXECUTION? → SONNET
+Is "good enough" OK? → SONNET
+Is it SIMPLE/HIGH-VOLUME? → HAIKU
+
+MY STATED RULE:
+"Sonnet for doing, Opus for deciding. Never cheap out on strategy."
+
+HYBRID WORKFLOW PATTERN:
+1. Sonnet analyzes 189 videos (breadth) → $20
+2. Prioritization script identifies top candidates
+3. Opus re-analyzes top 20-30 (depth) → $16-25
+4. Total: $36-45 vs $170 for all-Opus
+5. Savings: 79% while maintaining quality on critical videos
+
+COMPARISON TEST APPROACH:
+- Re-analyze 2 existing videos with Opus
+- Measure: word count, insights, quotes, strategic patterns
+- Compare quality difference
+- Decide if Opus upgrade is worth 6x cost
+- Data-driven decision rather than assumption
+
+COSTS SO FAR:
+- Sonnet batch (189 videos): ~$20 (processing)
+- Opus comparison (2 videos): ~$1 (just uploaded)
+- Estimated additional if upgrading: $16-25 (top 20-30)
+- Total project cost: $37-46
+
+STRATEGIC QUESTIONS FOR YOU (OPUS 4.6):
+
+1. OVERALL APPROACH: Does this hybrid strategy make sense, or am I being penny-wise pound-foolish?
+
+2. INITIAL CHOICE: Should I have used Opus from the start for the YouTube analysis? Or was Sonnet the right call for volume work?
+
+3. COMPARISON TEST: Is the A/B test approach smart, or should I just commit to one model and move forward?
+
+4. BLIND SPOTS: Are there strategic blind spots I'm missing by using Sonnet for execution and script-building?
+
+5. YOUR ALTERNATIVE: What would YOU have done differently as the strategist from day one?
+
+6. DECISION FRAMEWORK: Is my rule "Sonnet for doing, Opus for deciding" sound? Or am I drawing the line in the wrong place?
+
+7. SCALE QUESTIONS:
+   - When does this hybrid approach break down?
+   - At what volume does "all-Opus" become worth it?
+   - Am I optimizing for the wrong metric?
+
+8. PORTFOLIO APPLICATION: How should this model strategy apply to:
+   - Finland DMC Phase 0 (strategic AI transformation)
+   - M&A research (high stakes)
+   - Daily portfolio company support
+   - Board preparation materials
+
+9. QUALITY THRESHOLD: If Opus is only 20% better than Sonnet, but 6x more expensive, when is that worth it?
+
+10. META QUESTION: Should I have asked Opus (you) to design this system from the start, rather than building with Sonnet and asking for validation afterwards?
+
+BE BRUTALLY HONEST:
+- Where am I optimizing incorrectly?
+- What strategic errors am I making?
+- Am I overthinking this?
+- Am I underthinking the important parts?
+- What would a smart CEO do differently?
+
+WHAT I WANT FROM YOU:
+Not validation. Not encouragement. I want strategic critique.
+
+If this approach is flawed, tell me why and what to do instead.
+If I'm missing something obvious, call it out.
+If I should scrap this and start over, say so.
+
+I trust Opus for strategic decisions. This IS a strategic decision about how to use you (Opus) vs Sonnet. So I'm asking you to decide how you should be used.
+
+What's your honest assessment?

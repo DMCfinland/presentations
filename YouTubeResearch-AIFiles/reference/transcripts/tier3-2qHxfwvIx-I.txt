@@ -1,0 +1,970 @@
+Anthropic<00:00:01.040><c> is</c><00:00:01.280><c> showing</c><00:00:01.520><c> us</c><00:00:01.839><c> their</c><00:00:02.159><c> strategy</c>
+Anthropic is showing us their strategy
+Anthropic is showing us their strategy
+for<00:00:02.879><c> Claude</c><00:00:03.360><c> in</c><00:00:03.679><c> broad</c><00:00:04.000><c> daylight</c><00:00:04.480><c> and</c>
+for Claude in broad daylight and
+for Claude in broad daylight and
+everyone's<00:00:05.279><c> obsessed</c><00:00:05.680><c> with</c><00:00:05.839><c> the</c><00:00:06.000><c> Chad</c><00:00:06.319><c> GPT</c>
+everyone's obsessed with the Chad GPT
+everyone's obsessed with the Chad GPT
+launch.<00:00:07.440><c> But</c><00:00:07.600><c> look</c><00:00:07.759><c> at</c><00:00:07.919><c> what</c><00:00:08.080><c> they've</c>
+launch. But look at what they've
+launch. But look at what they've
+released<00:00:08.559><c> in</c><00:00:08.720><c> the</c><00:00:08.880><c> last</c><00:00:09.040><c> few</c><00:00:09.200><c> weeks.</c><00:00:09.440><c> They</c>
+released in the last few weeks. They
+released in the last few weeks. They
+released<00:00:10.080><c> Claude</c><00:00:10.480><c> Opus</c><00:00:11.040><c> 4.1.</c><00:00:11.840><c> It's</c><00:00:12.000><c> a</c><00:00:12.240><c> 0.1</c>
+released Claude Opus 4.1. It's a 0.1
+released Claude Opus 4.1. It's a 0.1
+release.<00:00:13.280><c> No</c><00:00:13.440><c> one's</c><00:00:13.679><c> going</c><00:00:13.759><c> to</c><00:00:13.840><c> pay</c>
+release. No one's going to pay
+release. No one's going to pay
+attention,<00:00:14.480><c> right?</c><00:00:14.799><c> But</c><00:00:15.040><c> it</c><00:00:15.360><c> delivered</c>
+attention, right? But it delivered
+attention, right? But it delivered
+meaningful<00:00:16.400><c> improvements</c><00:00:16.880><c> that</c><00:00:17.199><c> I</c><00:00:17.359><c> can</c><00:00:17.520><c> feel</c>
+meaningful improvements that I can feel
+meaningful improvements that I can feel
+every<00:00:18.080><c> day</c><00:00:18.320><c> in</c><00:00:18.560><c> Agentic</c><00:00:19.119><c> Tasks.</c><00:00:19.840><c> It</c><00:00:20.080><c> gets</c>
+every day in Agentic Tasks. It gets
+every day in Agentic Tasks. It gets
+better<00:00:20.560><c> at</c><00:00:20.800><c> realworld</c><00:00:21.439><c> coding.</c><00:00:22.160><c> And</c><00:00:22.400><c> keep</c><00:00:22.560><c> in</c>
+better at realworld coding. And keep in
+better at realworld coding. And keep in
+mind,<00:00:22.960><c> and</c><00:00:23.119><c> this</c><00:00:23.279><c> will</c><00:00:23.359><c> be</c><00:00:23.439><c> a</c><00:00:23.600><c> through</c><00:00:24.000><c> line</c>
+mind, and this will be a through line
+mind, and this will be a through line
+throughout<00:00:24.640><c> this,</c><00:00:25.279><c> anthropic</c><00:00:26.000><c> is</c><00:00:26.400><c> really</c>
+throughout this, anthropic is really
+throughout this, anthropic is really
+good<00:00:27.279><c> at</c><00:00:27.599><c> code.</c><00:00:27.920><c> And</c><00:00:28.080><c> we'll</c><00:00:28.320><c> get</c><00:00:28.400><c> into</c><00:00:28.640><c> why</c><00:00:28.880><c> and</c>
+good at code. And we'll get into why and
+good at code. And we'll get into why and
+why<00:00:29.279><c> they</c><00:00:29.439><c> picked</c><00:00:29.679><c> that</c><00:00:29.920><c> later</c><00:00:30.160><c> on</c><00:00:30.400><c> here.</c><00:00:30.880><c> Now,</c>
+why they picked that later on here. Now,
+why they picked that later on here. Now,
+it<00:00:31.359><c> tests</c><00:00:31.679><c> well,</c><00:00:32.000><c> right?</c><00:00:32.160><c> It</c><00:00:32.320><c> gets</c><00:00:32.559><c> 74</c><00:00:32.960><c> and</c><00:00:33.040><c> a</c>
+it tests well, right? It gets 74 and a
+it tests well, right? It gets 74 and a
+half%<00:00:33.680><c> on</c><00:00:34.000><c> Sweetbench,</c><00:00:34.640><c> which</c><00:00:34.800><c> is</c><00:00:34.880><c> the</c><00:00:35.040><c> bench</c>
+half% on Sweetbench, which is the bench
+half% on Sweetbench, which is the bench
+for<00:00:35.600><c> software</c><00:00:35.920><c> engineering</c><00:00:36.399><c> tasks.</c><00:00:36.960><c> And</c><00:00:37.200><c> it's</c>
+for software engineering tasks. And it's
+for software engineering tasks. And it's
+especially<00:00:38.000><c> good</c><00:00:38.160><c> at</c><00:00:38.320><c> large</c><00:00:38.559><c> codebase</c>
+especially good at large codebase
+especially good at large codebase
+navigation,<00:00:39.760><c> finding</c><00:00:40.079><c> the</c><00:00:40.239><c> right</c>
+navigation, finding the right
+navigation, finding the right
+corrections,<00:00:41.120><c> not</c><00:00:41.360><c> making</c><00:00:41.600><c> unnecessary</c>
+corrections, not making unnecessary
+corrections, not making unnecessary
+changes,<00:00:42.879><c> the</c><00:00:43.200><c> things</c><00:00:43.360><c> that</c><00:00:43.600><c> are</c><00:00:43.760><c> making</c>
+changes, the things that are making
+changes, the things that are making
+agents<00:00:44.399><c> more</c><00:00:44.640><c> useful.</c><00:00:45.040><c> Essentially,</c><00:00:45.760><c> they</c>
+agents more useful. Essentially, they
+agents more useful. Essentially, they
+roll<00:00:46.320><c> it</c><00:00:46.480><c> out.</c><00:00:47.039><c> Unlike</c><00:00:47.520><c> with</c><00:00:47.680><c> the</c><00:00:47.920><c> GPT5</c>
+roll it out. Unlike with the GPT5
+roll it out. Unlike with the GPT5
+rollout,<00:00:49.120><c> which</c><00:00:49.360><c> was</c><00:00:49.600><c> very</c><00:00:49.920><c> rocky,</c>
+rollout, which was very rocky,
+rollout, which was very rocky,
+Anthropic's<00:00:51.200><c> roll</c><00:00:51.360><c> out</c><00:00:51.520><c> is</c><00:00:51.680><c> pretty</c><00:00:51.920><c> chill.</c>
+Anthropic's roll out is pretty chill.
+Anthropic's roll out is pretty chill.
+But<00:00:52.559><c> we're</c><00:00:52.960><c> not</c><00:00:53.280><c> done</c><00:00:53.600><c> yet.</c><00:00:54.160><c> August</c><00:00:54.640><c> 12th,</c>
+But we're not done yet. August 12th,
+But we're not done yet. August 12th,
+just<00:00:55.199><c> a</c><00:00:55.440><c> few</c><00:00:55.600><c> days</c><00:00:55.920><c> later,</c><00:00:56.399><c> they</c><00:00:56.719><c> roll</c><00:00:56.960><c> out</c><00:00:57.360><c> a</c>
+just a few days later, they roll out a
+just a few days later, they roll out a
+million<00:00:58.160><c> token</c><00:00:58.640><c> context</c><00:00:59.199><c> window</c><00:00:59.600><c> for</c><00:00:59.840><c> Sonnet.</c>
+million token context window for Sonnet.
+million token context window for Sonnet.
+Huge.<00:01:01.359><c> And</c><00:01:01.520><c> Opus</c><00:01:02.000><c> 4.1</c><00:01:02.480><c> will</c><00:01:02.719><c> support</c><00:01:02.879><c> it</c><00:01:03.120><c> now,</c>
+Huge. And Opus 4.1 will support it now,
+Huge. And Opus 4.1 will support it now,
+too.<00:01:03.760><c> It's</c><00:01:04.080><c> more</c><00:01:04.239><c> than</c><00:01:04.559><c> double</c><00:01:05.199><c> the</c><00:01:06.000><c> previous</c>
+too. It's more than double the previous
+too. It's more than double the previous
+sort<00:01:06.799><c> of</c><00:01:07.040><c> flagship</c><00:01:07.600><c> AI</c><00:01:08.000><c> token</c><00:01:08.320><c> window.</c><00:01:08.640><c> Now,</c><00:01:08.799><c> I</c>
+sort of flagship AI token window. Now, I
+sort of flagship AI token window. Now, I
+grant<00:01:09.119><c> you</c><00:01:09.360><c> there</c><00:01:09.520><c> are</c><00:01:09.680><c> some</c><00:01:09.840><c> token</c><00:01:10.240><c> windows</c>
+grant you there are some token windows
+grant you there are some token windows
+that<00:01:10.799><c> are</c><00:01:11.200><c> even</c><00:01:11.520><c> bigger</c><00:01:11.760><c> than</c><00:01:11.920><c> that</c><00:01:12.479><c> that</c><00:01:12.720><c> have</c>
+that are even bigger than that that have
+that are even bigger than that that have
+kind<00:01:13.119><c> of</c><00:01:13.280><c> fallen</c><00:01:13.600><c> by</c><00:01:13.760><c> the</c><00:01:13.920><c> wayside.</c><00:01:14.640><c> So</c><00:01:14.880><c> we've</c>
+kind of fallen by the wayside. So we've
+kind of fallen by the wayside. So we've
+heard<00:01:15.439><c> mentions</c><00:01:16.080><c> of</c><00:01:16.640><c> 2</c><00:01:16.880><c> million</c><00:01:17.200><c> token</c>
+heard mentions of 2 million token
+heard mentions of 2 million token
+windows<00:01:18.000><c> for</c><00:01:18.080><c> example</c><00:01:18.640><c> out</c><00:01:18.880><c> of</c><00:01:19.040><c> llama</c><00:01:19.600><c> hasn't</c>
+windows for example out of llama hasn't
+windows for example out of llama hasn't
+gone<00:01:20.080><c> very</c><00:01:20.400><c> far.</c><00:01:20.960><c> This</c><00:01:21.200><c> is</c><00:01:21.439><c> a</c><00:01:22.000><c> and</c><00:01:22.320><c> this</c><00:01:22.479><c> is</c>
+gone very far. This is a and this is
+gone very far. This is a and this is
+what<00:01:22.720><c> I</c><00:01:22.880><c> emphasize.</c><00:01:23.360><c> This</c><00:01:23.520><c> is</c><00:01:23.680><c> a</c><00:01:23.920><c> usable</c><00:01:25.200><c> 1</c>
+what I emphasize. This is a usable 1
+what I emphasize. This is a usable 1
+million<00:01:25.840><c> token</c><00:01:26.240><c> window.</c><00:01:26.720><c> Now</c><00:01:26.960><c> is</c><00:01:27.119><c> it</c><00:01:27.360><c> perfect?</c>
+million token window. Now is it perfect?
+million token window. Now is it perfect?
+Is<00:01:27.840><c> the</c><00:01:28.080><c> recall</c><00:01:28.479><c> perfect?</c><00:01:29.040><c> No.</c><00:01:29.439><c> There</c><00:01:29.680><c> is</c><00:01:30.000><c> no</c>
+Is the recall perfect? No. There is no
+Is the recall perfect? No. There is no
+AI<00:01:30.720><c> system</c><00:01:31.200><c> that</c><00:01:31.439><c> has</c><00:01:31.680><c> perfect</c><00:01:32.000><c> recall</c><00:01:32.320><c> in</c><00:01:32.479><c> a</c>
+AI system that has perfect recall in a
+AI system that has perfect recall in a
+million<00:01:32.880><c> token</c><00:01:33.200><c> window.</c><00:01:33.920><c> But</c><00:01:34.079><c> it</c><00:01:34.320><c> is</c><00:01:34.799><c> usable</c>
+million token window. But it is usable
+million token window. But it is usable
+and<00:01:36.640><c> it</c><00:01:36.880><c> enables</c><00:01:37.200><c> you</c><00:01:37.360><c> to</c><00:01:37.600><c> put</c><00:01:37.759><c> more</c><00:01:38.079><c> of</c><00:01:38.240><c> the</c>
+and it enables you to put more of the
+and it enables you to put more of the
+codebase<00:01:39.200><c> into</c><00:01:39.600><c> consideration</c><00:01:40.240><c> for</c><00:01:40.479><c> sonnet</c>
+codebase into consideration for sonnet
+codebase into consideration for sonnet
+and<00:01:41.040><c> opus</c><00:01:41.520><c> which</c><00:01:41.759><c> matters</c><00:01:42.079><c> with</c><00:01:42.400><c> complex</c><00:01:42.799><c> code</c>
+and opus which matters with complex code
+and opus which matters with complex code
+bases.<00:01:43.439><c> So</c><00:01:43.600><c> it's</c><00:01:43.840><c> like,</c><00:01:44.320><c> you</c><00:01:44.479><c> know,</c><00:01:44.560><c> a</c>
+bases. So it's like, you know, a
+bases. So it's like, you know, a
+75,000line<00:01:46.000><c> codebase.</c><00:01:46.720><c> It</c><00:01:46.880><c> can</c><00:01:47.040><c> fit</c><00:01:47.280><c> inside</c>
+75,000line codebase. It can fit inside
+75,000line codebase. It can fit inside
+the<00:01:47.920><c> context</c><00:01:48.320><c> window</c><00:01:48.560><c> for</c><00:01:48.799><c> a</c><00:01:48.960><c> conversation</c>
+the context window for a conversation
+the context window for a conversation
+now.<00:01:50.000><c> And</c><00:01:50.159><c> so</c><00:01:50.399><c> you</c><00:01:50.640><c> can</c><00:01:50.799><c> put</c><00:01:51.280><c> all</c><00:01:51.520><c> of</c><00:01:51.680><c> that</c><00:01:51.920><c> in</c>
+now. And so you can put all of that in
+now. And so you can put all of that in
+front<00:01:52.399><c> of</c><00:01:52.960><c> Opus</c><00:01:53.439><c> 4.1</c><00:01:54.240><c> and</c><00:01:54.560><c> ask</c><00:01:54.880><c> it</c><00:01:55.439><c> to</c><00:01:55.680><c> think</c>
+front of Opus 4.1 and ask it to think
+front of Opus 4.1 and ask it to think
+through<00:01:56.399><c> and</c><00:01:56.640><c> solve</c><00:01:56.880><c> the</c><00:01:57.200><c> problem.</c><00:01:57.840><c> You</c><00:01:58.000><c> see</c>
+through and solve the problem. You see
+through and solve the problem. You see
+how<00:01:58.320><c> these</c><00:01:58.640><c> are</c><00:01:58.799><c> starting</c><00:01:59.040><c> to</c><00:01:59.280><c> build.</c><00:01:59.840><c> They</c>
+how these are starting to build. They
+how these are starting to build. They
+release<00:02:00.479><c> an</c><00:02:00.719><c> Aentic</c><00:02:01.280><c> agent.</c><00:02:01.759><c> They</c>
+release an Aentic agent. They
+release an Aentic agent. They
+immediately<00:02:02.640><c> upgrade</c><00:02:03.040><c> the</c><00:02:03.200><c> context</c><00:02:03.680><c> window</c>
+immediately upgrade the context window
+immediately upgrade the context window
+to<00:02:04.320><c> make</c><00:02:04.479><c> that</c><00:02:04.719><c> agent</c><00:02:05.280><c> more</c><00:02:05.520><c> useful.</c><00:02:06.320><c> But</c>
+to make that agent more useful. But
+to make that agent more useful. But
+we're<00:02:06.799><c> not</c><00:02:06.960><c> done</c><00:02:07.200><c> yet.</c><00:02:07.680><c> Now</c><00:02:07.920><c> they're</c><00:02:08.160><c> going</c><00:02:08.239><c> to</c>
+we're not done yet. Now they're going to
+we're not done yet. Now they're going to
+keep<00:02:08.560><c> building</c><00:02:08.800><c> the</c><00:02:09.039><c> capability.</c><00:02:09.599><c> Also,</c>
+keep building the capability. Also,
+keep building the capability. Also,
+August<00:02:10.479><c> 12th,</c><00:02:11.039><c> they</c><00:02:11.360><c> release</c><00:02:11.840><c> an</c><00:02:12.160><c> ondemand</c>
+August 12th, they release an ondemand
+August 12th, they release an ondemand
+memory<00:02:13.280><c> system</c><00:02:13.680><c> because</c><00:02:14.000><c> you</c><00:02:14.319><c> may</c><00:02:14.560><c> want</c>
+memory system because you may want
+memory system because you may want
+Claude<00:02:15.680><c> to</c><00:02:15.920><c> selectively</c><00:02:16.640><c> remember</c><00:02:17.040><c> from</c><00:02:17.360><c> past</c>
+Claude to selectively remember from past
+Claude to selectively remember from past
+conversations.<00:02:18.720><c> So,</c><00:02:18.879><c> you</c><00:02:19.040><c> can</c><00:02:19.200><c> search</c>
+conversations. So, you can search
+conversations. So, you can search
+through<00:02:19.680><c> past</c><00:02:19.920><c> conversations.</c><00:02:20.480><c> I've</c><00:02:20.720><c> talked</c>
+through past conversations. I've talked
+through past conversations. I've talked
+about<00:02:21.120><c> this</c><00:02:21.360><c> before.</c><00:02:22.080><c> And</c><00:02:22.239><c> you</c><00:02:22.400><c> can</c><00:02:22.560><c> generate</c>
+about this before. And you can generate
+about this before. And you can generate
+a<00:02:23.200><c> piece</c><00:02:23.440><c> of</c><00:02:23.680><c> context</c><00:02:24.319><c> from</c><00:02:24.560><c> those</c><00:02:24.879><c> past</c>
+a piece of context from those past
+a piece of context from those past
+conversations.<00:02:25.920><c> That's</c><00:02:26.160><c> like</c><00:02:26.319><c> a</c><00:02:26.480><c> wedge</c><00:02:26.800><c> of</c>
+conversations. That's like a wedge of
+conversations. That's like a wedge of
+context<00:02:27.440><c> to</c><00:02:27.599><c> add</c><00:02:27.760><c> to</c><00:02:28.000><c> your</c><00:02:28.160><c> current</c>
+context to add to your current
+context to add to your current
+conversation.<00:02:29.280><c> It's</c><00:02:29.520><c> not</c><00:02:29.680><c> like</c><00:02:29.840><c> chat</c><00:02:30.160><c> GPT.</c><00:02:30.640><c> It</c>
+conversation. It's not like chat GPT. It
+conversation. It's not like chat GPT. It
+doesn't<00:02:30.959><c> keep</c><00:02:31.200><c> static</c><00:02:31.599><c> memory.</c><00:02:32.319><c> You</c><00:02:32.560><c> have</c><00:02:32.800><c> to</c>
+doesn't keep static memory. You have to
+doesn't keep static memory. You have to
+use<00:02:33.280><c> your</c><00:02:33.519><c> prompt</c><00:02:34.319><c> to</c><00:02:34.720><c> angle</c><00:02:35.040><c> the</c><00:02:35.280><c> context</c><00:02:35.680><c> in</c>
+use your prompt to angle the context in
+use your prompt to angle the context in
+the<00:02:36.080><c> memory.</c><00:02:36.480><c> Again,</c><00:02:36.800><c> it</c><00:02:36.959><c> underlines</c><00:02:37.440><c> how</c>
+the memory. Again, it underlines how
+the memory. Again, it underlines how
+important<00:02:38.080><c> prompt</c><00:02:38.480><c> engineering</c><00:02:39.040><c> is.</c><00:02:39.440><c> I</c><00:02:39.760><c> never</c>
+important prompt engineering is. I never
+important prompt engineering is. I never
+expected<00:02:40.800><c> prompt</c><00:02:41.120><c> engineering</c><00:02:41.599><c> to</c><00:02:41.760><c> be</c><00:02:41.920><c> such</c><00:02:42.080><c> a</c>
+expected prompt engineering to be such a
+expected prompt engineering to be such a
+durable<00:02:42.640><c> skill</c><00:02:42.879><c> set</c><00:02:43.120><c> two</c><00:02:43.360><c> years</c><00:02:43.519><c> ago,</c><00:02:43.840><c> but</c><00:02:44.000><c> it</c>
+durable skill set two years ago, but it
+durable skill set two years ago, but it
+keeps<00:02:44.400><c> getting</c><00:02:44.720><c> more</c><00:02:45.200><c> and</c><00:02:45.440><c> more</c><00:02:45.840><c> and</c><00:02:46.160><c> more</c>
+keeps getting more and more and more
+keeps getting more and more and more
+important.<00:02:47.120><c> But</c><00:02:47.360><c> we</c><00:02:47.599><c> keep</c><00:02:47.760><c> going.</c><00:02:48.160><c> We're</c><00:02:48.319><c> not</c>
+important. But we keep going. We're not
+important. But we keep going. We're not
+done<00:02:48.720><c> yet.</c><00:02:49.120><c> You</c><00:02:49.360><c> know</c><00:02:49.440><c> what</c><00:02:49.599><c> else</c><00:02:49.760><c> has</c><00:02:50.000><c> been</c>
+done yet. You know what else has been
+done yet. You know what else has been
+happening<00:02:50.400><c> in</c><00:02:50.560><c> the</c><00:02:50.720><c> background?</c><00:02:51.519><c> Claude</c><00:02:52.000><c> code</c>
+happening in the background? Claude code
+happening in the background? Claude code
+has<00:02:52.640><c> been</c><00:02:52.800><c> getting</c><00:02:53.120><c> better.</c><00:02:53.680><c> Claude</c><00:02:54.239><c> code</c><00:02:54.560><c> can</c>
+has been getting better. Claude code can
+has been getting better. Claude code can
+now<00:02:55.120><c> run</c><00:02:55.519><c> servers</c><00:02:56.239><c> and</c><00:02:56.560><c> manage</c><00:02:57.120><c> longunning</c>
+now run servers and manage longunning
+now run servers and manage longunning
+tasks<00:02:58.239><c> in</c><00:02:58.400><c> the</c><00:02:58.560><c> background.</c><00:02:59.200><c> It</c><00:02:59.440><c> can</c><00:02:59.519><c> start</c><00:02:59.680><c> a</c>
+tasks in the background. It can start a
+tasks in the background. It can start a
+dev<00:03:00.080><c> server.</c><00:03:00.480><c> It</c><00:03:00.560><c> can</c><00:03:00.720><c> run</c><00:03:00.879><c> persistent</c><00:03:01.440><c> test</c>
+dev server. It can run persistent test
+dev server. It can run persistent test
+suites.<00:03:02.480><c> It</c><00:03:02.640><c> can</c><00:03:02.800><c> perform</c><00:03:03.200><c> builds</c><00:03:03.760><c> on</c><00:03:04.000><c> its</c>
+suites. It can perform builds on its
+suites. It can perform builds on its
+own.<00:03:04.400><c> And</c><00:03:04.480><c> you</c><00:03:04.640><c> can</c><00:03:04.720><c> just</c><00:03:04.879><c> check</c><00:03:05.040><c> in</c><00:03:05.280><c> with</c><00:03:05.360><c> it.</c>
+own. And you can just check in with it.
+own. And you can just check in with it.
+Now<00:03:06.480><c> claude</c><00:03:06.879><c> code</c><00:03:07.200><c> also</c><00:03:07.519><c> has</c><00:03:08.080><c> learning</c><00:03:08.560><c> modes.</c>
+Now claude code also has learning modes.
+Now claude code also has learning modes.
+It<00:03:09.599><c> basically</c><00:03:10.400><c> is</c><00:03:11.040><c> going</c><00:03:11.280><c> to</c><00:03:11.440><c> give</c><00:03:11.680><c> you</c>
+It basically is going to give you
+It basically is going to give you
+different<00:03:12.400><c> output</c><00:03:12.959><c> options</c><00:03:13.920><c> depending</c><00:03:14.239><c> on</c>
+different output options depending on
+different output options depending on
+what<00:03:14.640><c> you</c><00:03:14.720><c> want</c><00:03:14.879><c> from</c><00:03:15.040><c> cla</c><00:03:15.440><c> code.</c><00:03:15.680><c> You</c><00:03:15.840><c> can</c>
+what you want from cla code. You can
+what you want from cla code. You can
+have<00:03:16.159><c> explanatory</c><00:03:16.879><c> mode</c><00:03:17.120><c> where</c><00:03:17.360><c> claude</c>
+have explanatory mode where claude
+have explanatory mode where claude
+narrates<00:03:18.159><c> its</c><00:03:18.480><c> choices,</c><00:03:19.280><c> explains</c><00:03:19.760><c> what</c><00:03:20.000><c> and</c>
+narrates its choices, explains what and
+narrates its choices, explains what and
+why<00:03:20.400><c> as</c><00:03:20.640><c> it</c><00:03:20.800><c> edits,</c><00:03:21.120><c> it</c><00:03:21.280><c> commits,</c><00:03:21.680><c> it</c><00:03:21.840><c> runs</c>
+why as it edits, it commits, it runs
+why as it edits, it commits, it runs
+tools.<00:03:22.640><c> This</c><00:03:22.879><c> makes</c><00:03:23.120><c> debugging</c><00:03:23.519><c> and</c><00:03:23.760><c> code</c>
+tools. This makes debugging and code
+tools. This makes debugging and code
+review<00:03:24.319><c> easier.</c><00:03:24.640><c> It</c><00:03:24.720><c> also</c><00:03:24.959><c> helps</c><00:03:25.120><c> you</c><00:03:25.200><c> to</c>
+review easier. It also helps you to
+review easier. It also helps you to
+learn<00:03:25.440><c> if</c><00:03:25.599><c> you're</c><00:03:25.760><c> new</c><00:03:25.920><c> to</c><00:03:26.080><c> development.</c>
+learn if you're new to development.
+learn if you're new to development.
+Claude<00:03:26.959><c> also</c><00:03:27.360><c> has</c><00:03:27.680><c> learning</c><00:03:28.080><c> mode.</c><00:03:28.480><c> It's</c><00:03:28.720><c> a</c>
+Claude also has learning mode. It's a
+Claude also has learning mode. It's a
+more<00:03:29.120><c> active</c><00:03:29.599><c> educational</c><00:03:30.239><c> style</c><00:03:30.480><c> where</c>
+more active educational style where
+more active educational style where
+Claude<00:03:31.040><c> prompts</c><00:03:31.360><c> you</c><00:03:31.599><c> to</c><00:03:31.760><c> code</c><00:03:32.080><c> pieces</c>
+Claude prompts you to code pieces
+Claude prompts you to code pieces
+yourself<00:03:33.280><c> and</c><00:03:33.599><c> guides</c><00:03:33.920><c> you</c><00:03:34.400><c> by</c><00:03:34.720><c> asking</c>
+yourself and guides you by asking
+yourself and guides you by asking
+questions<00:03:35.840><c> rather</c><00:03:36.159><c> than</c><00:03:36.400><c> prescribing.</c><00:03:37.120><c> So,</c>
+questions rather than prescribing. So,
+questions rather than prescribing. So,
+it<00:03:37.440><c> builds</c><00:03:37.760><c> human</c><00:03:38.159><c> skills</c><00:03:38.560><c> alongside</c>
+it builds human skills alongside
+it builds human skills alongside
+automation.<00:03:39.920><c> These</c><00:03:40.159><c> are</c><00:03:40.239><c> now</c><00:03:40.480><c> rolled</c><00:03:40.720><c> out</c><00:03:40.799><c> to</c>
+automation. These are now rolled out to
+automation. These are now rolled out to
+claude<00:03:41.280><c> code</c><00:03:41.519><c> users</c><00:03:42.159><c> and</c><00:03:42.400><c> we're</c><00:03:42.640><c> still</c><00:03:42.879><c> not</c>
+claude code users and we're still not
+claude code users and we're still not
+done.<00:03:43.599><c> I</c><00:03:43.920><c> know</c><00:03:44.560><c> quietly.</c><00:03:45.200><c> While</c><00:03:45.440><c> GPT5</c><00:03:46.159><c> rolled</c>
+done. I know quietly. While GPT5 rolled
+done. I know quietly. While GPT5 rolled
+out,<00:03:46.560><c> Enthropic</c><00:03:47.200><c> has</c><00:03:47.360><c> released</c><00:03:47.840><c> all</c><00:03:48.080><c> of</c><00:03:48.239><c> this</c>
+out, Enthropic has released all of this
+out, Enthropic has released all of this
+stuff.<00:03:49.200><c> We're</c><00:03:49.360><c> going</c><00:03:49.440><c> to</c><00:03:49.519><c> find</c><00:03:49.680><c> the</c><00:03:49.840><c> through</c>
+stuff. We're going to find the through
+stuff. We're going to find the through
+line.<00:03:50.560><c> They've</c><00:03:50.879><c> released</c><00:03:51.200><c> hooks</c><00:03:51.599><c> and</c><00:03:51.680><c> event</c>
+line. They've released hooks and event
+line. They've released hooks and event
+system<00:03:52.239><c> management.</c><00:03:52.720><c> So</c><00:03:52.879><c> you</c><00:03:53.040><c> can</c><00:03:53.120><c> be</c><00:03:53.519><c> cloud</c>
+system management. So you can be cloud
+system management. So you can be cloud
+can<00:03:54.080><c> be</c><00:03:54.239><c> configured</c><00:03:54.720><c> with</c><00:03:54.959><c> custom</c><00:03:55.360><c> hooks</c><00:03:55.680><c> like</c>
+can be configured with custom hooks like
+can be configured with custom hooks like
+shell<00:03:56.239><c> commands</c><00:03:56.560><c> or</c><00:03:56.799><c> scripts</c><00:03:57.120><c> that</c><00:03:57.360><c> run</c>
+shell commands or scripts that run
+shell commands or scripts that run
+before<00:03:57.840><c> or</c><00:03:58.080><c> after</c><00:03:58.319><c> a</c><00:03:58.480><c> tooling</c><00:03:58.879><c> event.</c><00:03:59.360><c> They</c>
+before or after a tooling event. They
+before or after a tooling event. They
+released<00:03:59.920><c> sub</c><00:04:00.159><c> aent</c><00:04:00.640><c> systems</c><00:04:01.120><c> which</c><00:04:01.439><c> was</c><00:04:01.680><c> a</c>
+released sub aent systems which was a
+released sub aent systems which was a
+big<00:04:02.080><c> deal</c><00:04:02.319><c> at</c><00:04:02.319><c> least</c><00:04:02.560><c> in</c><00:04:02.720><c> my</c><00:04:02.959><c> corner</c><00:04:03.200><c> of</c><00:04:03.280><c> the</c>
+big deal at least in my corner of the
+big deal at least in my corner of the
+world<00:04:03.680><c> where</c><00:04:03.920><c> you</c><00:04:04.080><c> can</c><00:04:04.159><c> add</c><00:04:04.400><c> support</c><00:04:04.720><c> for</c>
+world where you can add support for
+world where you can add support for
+model<00:04:05.360><c> personalities</c><00:04:06.159><c> or</c><00:04:06.319><c> roles</c><00:04:06.879><c> inside</c>
+model personalities or roles inside
+model personalities or roles inside
+claude<00:04:07.920><c> and</c><00:04:08.159><c> mentions</c><00:04:08.959><c> so</c><00:04:09.120><c> you</c><00:04:09.280><c> can</c><00:04:09.360><c> have</c>
+claude and mentions so you can have
+claude and mentions so you can have
+multi-<00:04:09.920><c> aent</c><00:04:10.319><c> collaborative</c><00:04:10.879><c> workflows</c><00:04:11.360><c> in</c>
+multi- aent collaborative workflows in
+multi- aent collaborative workflows in
+the<00:04:11.840><c> same</c><00:04:12.080><c> project.</c><00:04:12.879><c> And</c><00:04:13.280><c> they've</c><00:04:13.680><c> even</c>
+the same project. And they've even
+the same project. And they've even
+released<00:04:14.879><c> a</c><00:04:15.760><c> micro</c><00:04:16.320><c> compact</c><00:04:16.959><c> mode</c><00:04:17.759><c> which</c>
+released a micro compact mode which
+released a micro compact mode which
+didn't<00:04:18.320><c> get</c><00:04:18.400><c> a</c><00:04:18.560><c> lot</c><00:04:18.639><c> of</c><00:04:18.720><c> attention</c><00:04:19.040><c> but</c><00:04:19.199><c> it's</c>
+didn't get a lot of attention but it's
+didn't get a lot of attention but it's
+super<00:04:19.680><c> interesting.</c><00:04:20.239><c> It</c><00:04:20.479><c> lets</c><00:04:20.720><c> users</c><00:04:21.199><c> clear</c>
+super interesting. It lets users clear
+super interesting. It lets users clear
+old<00:04:22.000><c> tool</c><00:04:22.320><c> calls</c><00:04:22.720><c> to</c><00:04:23.040><c> manage</c><00:04:23.440><c> an</c><00:04:23.759><c> extended</c>
+old tool calls to manage an extended
+old tool calls to manage an extended
+session<00:04:24.639><c> life</c><00:04:25.040><c> so</c><00:04:25.199><c> that</c><00:04:25.360><c> you</c><00:04:25.600><c> don't</c><00:04:25.840><c> have</c><00:04:26.080><c> to</c>
+session life so that you don't have to
+session life so that you don't have to
+sort<00:04:26.479><c> of</c><00:04:26.720><c> clear</c><00:04:26.960><c> the</c><00:04:27.199><c> entire</c><00:04:27.600><c> work</c><00:04:27.759><c> surface.</c>
+sort of clear the entire work surface.
+sort of clear the entire work surface.
+It's<00:04:28.400><c> like</c><00:04:28.479><c> you</c><00:04:28.639><c> can</c><00:04:28.800><c> organize</c><00:04:29.199><c> your</c><00:04:29.360><c> tools</c><00:04:29.680><c> as</c>
+It's like you can organize your tools as
+It's like you can organize your tools as
+you<00:04:30.000><c> go.</c><00:04:30.320><c> Users</c><00:04:30.720><c> can</c><00:04:30.960><c> also</c><00:04:31.280><c> now</c><00:04:32.000><c> connect</c>
+you go. Users can also now connect
+you go. Users can also now connect
+Claude<00:04:32.880><c> code</c><00:04:33.199><c> to</c><00:04:33.440><c> live</c><00:04:33.840><c> services</c><00:04:34.240><c> like</c>
+Claude code to live services like
+Claude code to live services like
+Apollo's<00:04:35.120><c> MCP</c><00:04:35.680><c> servers.</c><00:04:36.320><c> Claude</c><00:04:36.639><c> is</c><00:04:36.800><c> aware</c><00:04:37.040><c> of</c>
+Apollo's MCP servers. Claude is aware of
+Apollo's MCP servers. Claude is aware of
+persistent<00:04:37.759><c> context</c><00:04:38.160><c> from</c><00:04:38.400><c> these</c><00:04:38.639><c> servers.</c>
+persistent context from these servers.
+persistent context from these servers.
+So<00:04:39.520><c> that</c><00:04:39.759><c> can</c><00:04:39.919><c> handle</c><00:04:40.240><c> stuff</c><00:04:40.479><c> like</c>
+So that can handle stuff like
+So that can handle stuff like
+registration,<00:04:41.840><c> health</c><00:04:42.160><c> checks,</c><00:04:42.720><c> using</c><00:04:42.960><c> them</c>
+registration, health checks, using them
+registration, health checks, using them
+with<00:04:43.280><c> encoding</c><00:04:43.759><c> workflows,</c><00:04:44.320><c> things</c><00:04:44.479><c> that</c><00:04:44.639><c> you</c>
+with encoding workflows, things that you
+with encoding workflows, things that you
+need<00:04:44.960><c> for</c><00:04:45.199><c> persistent</c><00:04:45.840><c> state.</c><00:04:46.320><c> and</c><00:04:46.560><c> updated</c>
+need for persistent state. and updated
+need for persistent state. and updated
+API<00:04:47.440><c> capabilities</c><00:04:48.080><c> mean</c><00:04:48.320><c> Claude</c><00:04:48.800><c> can</c>
+API capabilities mean Claude can
+API capabilities mean Claude can
+persist,<00:04:49.600><c> cache,</c><00:04:50.000><c> and</c><00:04:50.240><c> resume</c><00:04:50.880><c> complex</c>
+persist, cache, and resume complex
+persist, cache, and resume complex
+workflows.<00:04:52.400><c> In</c><00:04:52.639><c> other</c><00:04:52.800><c> words,</c><00:04:53.280><c> all</c><00:04:53.520><c> of</c><00:04:53.680><c> this</c>
+workflows. In other words, all of this
+workflows. In other words, all of this
+stuff<00:04:54.320><c> put</c><00:04:54.560><c> together</c><00:04:55.280><c> makes</c><00:04:55.759><c> Claude</c><00:04:56.639><c> a</c><00:04:56.960><c> much</c>
+stuff put together makes Claude a much
+stuff put together makes Claude a much
+more<00:04:58.000><c> dependable</c><00:04:59.120><c> agentic</c><00:04:59.840><c> partner</c><00:05:00.320><c> in</c>
+more dependable agentic partner in
+more dependable agentic partner in
+development.<00:05:01.680><c> And</c><00:05:01.919><c> in</c><00:05:02.160><c> addition,</c><00:05:02.479><c> and</c><00:05:02.720><c> this</c>
+development. And in addition, and this
+development. And in addition, and this
+is<00:05:02.960><c> the</c><00:05:03.120><c> piece</c><00:05:03.280><c> that</c><00:05:03.440><c> a</c><00:05:03.600><c> lot</c><00:05:03.680><c> of</c><00:05:03.840><c> people</c><00:05:04.000><c> aren't</c>
+is the piece that a lot of people aren't
+is the piece that a lot of people aren't
+really<00:05:04.639><c> quite</c><00:05:04.960><c> seeing,</c><00:05:05.680><c> this</c><00:05:06.000><c> this</c><00:05:06.240><c> is</c><00:05:06.400><c> the</c>
+really quite seeing, this this is the
+really quite seeing, this this is the
+thin<00:05:06.960><c> end</c><00:05:07.199><c> of</c><00:05:07.360><c> the</c><00:05:07.520><c> wedge</c><00:05:08.320><c> for</c><00:05:08.639><c> Claude</c><00:05:09.199><c> code</c>
+thin end of the wedge for Claude code
+thin end of the wedge for Claude code
+and<00:05:10.080><c> Claude</c><00:05:10.479><c> itself</c><00:05:11.360><c> to</c><00:05:11.680><c> become</c><00:05:12.560><c> your</c><00:05:13.280><c> work</c>
+and Claude itself to become your work
+and Claude itself to become your work
+surface<00:05:14.080><c> of</c><00:05:14.320><c> choice</c><00:05:14.720><c> because</c><00:05:14.960><c> that's</c><00:05:15.280><c> of</c>
+surface of choice because that's of
+surface of choice because that's of
+course<00:05:15.680><c> the</c><00:05:15.919><c> holy</c><00:05:16.240><c> grail.</c><00:05:16.560><c> That</c><00:05:16.720><c> is</c><00:05:16.960><c> actually</c>
+course the holy grail. That is actually
+course the holy grail. That is actually
+what<00:05:17.600><c> chat</c><00:05:18.000><c> GPT5</c><00:05:19.039><c> was</c><00:05:19.280><c> aiming</c><00:05:19.600><c> to</c><00:05:19.840><c> do</c><00:05:20.400><c> was</c><00:05:20.639><c> to</c>
+what chat GPT5 was aiming to do was to
+what chat GPT5 was aiming to do was to
+become<00:05:21.199><c> a</c><00:05:21.440><c> work</c><00:05:21.680><c> surface</c><00:05:22.080><c> of</c><00:05:22.320><c> choice</c><00:05:22.960><c> and</c><00:05:23.199><c> to</c>
+become a work surface of choice and to
+become a work surface of choice and to
+lay<00:05:23.520><c> the</c><00:05:23.759><c> foundations</c><00:05:24.240><c> for</c><00:05:24.479><c> that</c><00:05:25.039><c> with</c><00:05:25.759><c> office</c>
+lay the foundations for that with office
+lay the foundations for that with office
+workers<00:05:26.800><c> everywhere.</c><00:05:27.600><c> They</c><00:05:27.919><c> want</c><00:05:28.080><c> to</c><00:05:28.320><c> replace</c>
+workers everywhere. They want to replace
+workers everywhere. They want to replace
+Windows<00:05:29.520><c> and</c><00:05:29.680><c> the</c><00:05:29.840><c> Windows</c><00:05:30.160><c> suite.</c><00:05:30.479><c> Very</c>
+Windows and the Windows suite. Very
+Windows and the Windows suite. Very
+simply,<00:05:31.280><c> very</c><00:05:31.680><c> Claude</c><00:05:32.240><c> is</c><00:05:32.560><c> actually</c><00:05:32.960><c> making</c>
+simply, very Claude is actually making
+simply, very Claude is actually making
+arguably<00:05:34.000><c> a</c><00:05:34.240><c> smarter</c><00:05:34.639><c> play</c><00:05:34.960><c> for</c><00:05:35.199><c> that</c><00:05:35.520><c> exact</c>
+arguably a smarter play for that exact
+arguably a smarter play for that exact
+same<00:05:36.479><c> prize</c><00:05:37.280><c> by</c><00:05:37.600><c> obsessively</c><00:05:38.639><c> focusing</c><00:05:39.199><c> on</c>
+same prize by obsessively focusing on
+same prize by obsessively focusing on
+code<00:05:40.400><c> first.</c><00:05:41.120><c> Now,</c><00:05:41.360><c> you</c><00:05:41.600><c> might</c><00:05:41.759><c> wonder</c><00:05:42.400><c> why</c>
+code first. Now, you might wonder why
+code first. Now, you might wonder why
+code?<00:05:43.360><c> What</c><00:05:43.600><c> is</c><00:05:43.680><c> it</c><00:05:43.919><c> about</c><00:05:44.160><c> code</c><00:05:44.560><c> that</c><00:05:44.800><c> makes</c>
+code? What is it about code that makes
+code? What is it about code that makes
+this<00:05:45.600><c> really,</c><00:05:45.919><c> really</c><00:05:46.320><c> interesting?</c><00:05:47.199><c> Code</c>
+this really, really interesting? Code
+this really, really interesting? Code
+works<00:05:48.479><c> because</c><00:05:49.360><c> it's</c><00:05:49.759><c> verifiable</c><00:05:50.479><c> and</c><00:05:50.720><c> it's</c><00:05:50.960><c> a</c>
+works because it's verifiable and it's a
+works because it's verifiable and it's a
+high<00:05:51.360><c> leverage</c><00:05:51.840><c> environment.</c><00:05:52.639><c> So,</c><00:05:52.880><c> code</c>
+high leverage environment. So, code
+high leverage environment. So, code
+provides<00:05:53.759><c> immediate</c><00:05:54.320><c> feedback</c><00:05:54.720><c> loops,</c>
+provides immediate feedback loops,
+provides immediate feedback loops,
+tests,<00:05:56.160><c> errors,</c><00:05:56.479><c> builds.</c><00:05:57.120><c> It</c><00:05:57.360><c> provides</c>
+tests, errors, builds. It provides
+tests, errors, builds. It provides
+objective<00:05:58.320><c> validation</c><00:05:59.039><c> of</c><00:05:59.280><c> the</c><00:05:59.440><c> agent</c>
+objective validation of the agent
+objective validation of the agent
+output.<00:06:00.400><c> Anthropic</c><00:06:01.039><c> can</c><00:06:01.199><c> push</c><00:06:01.440><c> the</c>
+output. Anthropic can push the
+output. Anthropic can push the
+boundaries<00:06:01.919><c> of</c><00:06:02.160><c> agentic</c><00:06:02.639><c> autonomy</c><00:06:03.280><c> knowing</c>
+boundaries of agentic autonomy knowing
+boundaries of agentic autonomy knowing
+that<00:06:03.840><c> mistakes</c><00:06:04.319><c> are</c><00:06:04.560><c> detectable</c><00:06:05.039><c> and</c>
+that mistakes are detectable and
+that mistakes are detectable and
+correctable.<00:06:06.319><c> And</c><00:06:06.560><c> code</c><00:06:06.960><c> is</c><00:06:07.280><c> also</c><00:06:08.000><c> extremely</c>
+correctable. And code is also extremely
+correctable. And code is also extremely
+high<00:06:08.880><c> leverage</c><00:06:09.520><c> from</c><00:06:10.319><c> a</c><00:06:10.639><c> work</c><00:06:10.960><c> perspective.</c>
+high leverage from a work perspective.
+high leverage from a work perspective.
+The<00:06:12.479><c> companies</c><00:06:12.960><c> that</c><00:06:13.280><c> adopt</c><00:06:14.080><c> claude</c><00:06:14.639><c> code</c><00:06:15.039><c> and</c>
+The companies that adopt claude code and
+The companies that adopt claude code and
+the<00:06:15.600><c> clawed</c><00:06:16.240><c> coding</c><00:06:16.800><c> agents</c><00:06:17.440><c> are</c><00:06:17.759><c> companies</c>
+the clawed coding agents are companies
+the clawed coding agents are companies
+that<00:06:18.960><c> you</c><00:06:19.280><c> want</c><00:06:19.520><c> to</c><00:06:19.840><c> have</c><00:06:20.319><c> as</c><00:06:20.720><c> logos</c><00:06:21.680><c> when</c><00:06:21.919><c> you</c>
+that you want to have as logos when you
+that you want to have as logos when you
+are<00:06:22.319><c> driving</c><00:06:22.720><c> broader</c><00:06:23.120><c> adoption</c><00:06:23.520><c> of</c><00:06:23.759><c> claude.</c>
+are driving broader adoption of claude.
+are driving broader adoption of claude.
+These<00:06:24.479><c> are</c><00:06:24.639><c> forward-thinking</c><00:06:25.600><c> early</c>
+These are forward-thinking early
+These are forward-thinking early
+adoption<00:06:26.479><c> companies</c><00:06:26.960><c> with</c><00:06:27.520><c> big</c><00:06:27.840><c> logos</c><00:06:28.240><c> that</c>
+adoption companies with big logos that
+adoption companies with big logos that
+people<00:06:28.639><c> are</c><00:06:28.800><c> going</c><00:06:28.880><c> to</c><00:06:29.039><c> find</c><00:06:29.280><c> sexy</c><00:06:29.600><c> and</c>
+people are going to find sexy and
+people are going to find sexy and
+attractive.<00:06:30.639><c> These</c><00:06:30.880><c> are</c><00:06:31.440><c> tech</c><00:06:31.840><c> companies,</c>
+attractive. These are tech companies,
+attractive. These are tech companies,
+right?<00:06:32.639><c> Tech</c><00:06:32.960><c> companies</c><00:06:33.360><c> have</c><00:06:33.600><c> a</c><00:06:33.759><c> lot</c><00:06:33.919><c> of</c>
+right? Tech companies have a lot of
+right? Tech companies have a lot of
+engineers.<00:06:34.720><c> Focusing</c><00:06:35.120><c> on</c><00:06:35.440><c> coding</c><00:06:36.240><c> gives</c><00:06:36.639><c> them</c>
+engineers. Focusing on coding gives them
+engineers. Focusing on coding gives them
+a<00:06:37.840><c> lot</c><00:06:38.000><c> of</c><00:06:38.160><c> leverage</c><00:06:38.560><c> with</c><00:06:38.800><c> these</c><00:06:39.039><c> tech</c>
+a lot of leverage with these tech
+a lot of leverage with these tech
+companies<00:06:40.080><c> and</c><00:06:40.319><c> they</c><00:06:40.560><c> in</c><00:06:40.800><c> turn</c><00:06:41.039><c> get</c><00:06:41.199><c> a</c><00:06:41.440><c> lot</c><00:06:41.520><c> of</c>
+companies and they in turn get a lot of
+companies and they in turn get a lot of
+feedback<00:06:42.240><c> from</c><00:06:43.120><c> looking</c><00:06:43.520><c> at</c><00:06:44.160><c> loops</c><00:06:44.560><c> that</c><00:06:44.800><c> are</c>
+feedback from looking at loops that are
+feedback from looking at loops that are
+run<00:06:45.360><c> by</c><00:06:45.840><c> code</c><00:06:46.160><c> bases</c><00:06:46.639><c> other</c><00:06:46.880><c> than</c><00:06:47.039><c> their</c><00:06:47.280><c> own.</c>
+run by code bases other than their own.
+run by code bases other than their own.
+And<00:06:47.680><c> so</c><00:06:47.840><c> one</c><00:06:48.000><c> of</c><00:06:48.160><c> the</c><00:06:48.319><c> really</c><00:06:48.639><c> interesting</c>
+And so one of the really interesting
+And so one of the really interesting
+things<00:06:49.440><c> is</c><00:06:49.840><c> even</c><00:06:50.160><c> if</c><00:06:50.319><c> it's</c><00:06:50.720><c> anonymized,</c><00:06:51.520><c> even</c>
+things is even if it's anonymized, even
+things is even if it's anonymized, even
+if<00:06:51.919><c> nobody's</c><00:06:52.400><c> stealing</c><00:06:52.720><c> anybody's</c><00:06:53.280><c> code,</c>
+if nobody's stealing anybody's code,
+if nobody's stealing anybody's code,
+Claude<00:06:54.479><c> is</c><00:06:54.800><c> still</c><00:06:55.520><c> getting</c><00:06:56.000><c> feedback</c><00:06:56.960><c> from</c>
+Claude is still getting feedback from
+Claude is still getting feedback from
+thousands<00:06:58.240><c> of</c><00:06:58.479><c> tech</c><00:06:58.800><c> companies</c><00:06:59.360><c> across</c>
+thousands of tech companies across
+thousands of tech companies across
+Silicon<00:07:00.319><c> Valley</c><00:07:00.960><c> and</c><00:07:01.280><c> using</c><00:07:01.599><c> that</c><00:07:01.840><c> to</c><00:07:02.080><c> make</c>
+Silicon Valley and using that to make
+Silicon Valley and using that to make
+their<00:07:02.400><c> coding</c><00:07:02.720><c> agent</c><00:07:03.120><c> even</c><00:07:03.360><c> better.</c><00:07:03.759><c> This</c><00:07:03.919><c> is</c>
+their coding agent even better. This is
+their coding agent even better. This is
+a<00:07:04.160><c> case</c><00:07:04.319><c> where</c><00:07:04.560><c> winners</c><00:07:05.039><c> keep</c><00:07:05.280><c> winning.</c>
+a case where winners keep winning.
+a case where winners keep winning.
+Software<00:07:06.080><c> development</c><00:07:06.560><c> is</c><00:07:06.800><c> also</c><00:07:07.199><c> extremely</c>
+Software development is also extremely
+Software development is also extremely
+iterative<00:07:08.240><c> and</c><00:07:08.560><c> requires</c><00:07:09.039><c> nuanced</c><00:07:09.520><c> reasoning</c>
+iterative and requires nuanced reasoning
+iterative and requires nuanced reasoning
+and<00:07:10.160><c> persistence</c><00:07:10.639><c> to</c><00:07:10.880><c> work</c><00:07:11.120><c> well.</c><00:07:11.680><c> If</c><00:07:11.919><c> they</c>
+and persistence to work well. If they
+and persistence to work well. If they
+can<00:07:12.319><c> tackle</c><00:07:12.800><c> those</c><00:07:13.199><c> challenges</c><00:07:13.840><c> early,</c>
+can tackle those challenges early,
+can tackle those challenges early,
+anthropics<00:07:15.199><c> agents</c><00:07:15.599><c> are</c><00:07:15.759><c> going</c><00:07:15.840><c> to</c><00:07:16.000><c> be</c><00:07:16.160><c> more</c>
+anthropics agents are going to be more
+anthropics agents are going to be more
+robust,<00:07:17.440><c> more</c><00:07:17.759><c> contextaware,</c><00:07:18.960><c> and</c><00:07:19.360><c> have</c>
+robust, more contextaware, and have
+robust, more contextaware, and have
+workflow<00:07:20.160><c> orchestration</c><00:07:20.960><c> skills</c><00:07:21.520><c> that</c><00:07:21.840><c> will</c>
+workflow orchestration skills that will
+workflow orchestration skills that will
+be<00:07:22.240><c> applicable</c><00:07:22.720><c> beyond</c><00:07:23.039><c> a</c><00:07:23.280><c> programming.</c>
+be applicable beyond a programming.
+be applicable beyond a programming.
+Again,<00:07:24.400><c> this</c><00:07:24.560><c> is</c><00:07:24.639><c> part</c><00:07:24.880><c> of</c><00:07:25.039><c> the</c><00:07:25.199><c> deliberate</c>
+Again, this is part of the deliberate
+Again, this is part of the deliberate
+play<00:07:26.000><c> on</c><00:07:26.240><c> Enthropic's</c><00:07:26.960><c> part.</c><00:07:27.440><c> Finally,</c><00:07:28.240><c> once</c>
+play on Enthropic's part. Finally, once
+play on Enthropic's part. Finally, once
+agents<00:07:29.039><c> excel</c><00:07:29.440><c> at</c><00:07:29.680><c> code,</c><00:07:30.319><c> they</c><00:07:30.560><c> can</c><00:07:30.800><c> quickly</c>
+agents excel at code, they can quickly
+agents excel at code, they can quickly
+run<00:07:31.520><c> to</c><00:07:31.759><c> adjacent</c><00:07:32.319><c> tasks</c><00:07:33.120><c> that</c><00:07:33.440><c> go</c><00:07:33.599><c> with</c><00:07:33.919><c> code</c>
+run to adjacent tasks that go with code
+run to adjacent tasks that go with code
+like<00:07:34.560><c> documentation,</c><00:07:35.440><c> parsing,</c><00:07:36.080><c> project</c>
+like documentation, parsing, project
+like documentation, parsing, project
+management,<00:07:37.440><c> automating</c><00:07:38.080><c> workflows,</c><00:07:39.120><c> even</c>
+management, automating workflows, even
+management, automating workflows, even
+non-technical<00:07:40.479><c> problem</c><00:07:40.880><c> solving</c><00:07:41.759><c> like</c><00:07:42.080><c> ad</c>
+non-technical problem solving like ad
+non-technical problem solving like ad
+optimization.<00:07:43.360><c> And</c><00:07:43.599><c> what's</c><00:07:44.000><c> interesting</c><00:07:44.639><c> is</c>
+optimization. And what's interesting is
+optimization. And what's interesting is
+that<00:07:45.280><c> internally</c><00:07:46.639><c> that</c><00:07:46.880><c> is</c><00:07:47.039><c> exactly</c><00:07:47.520><c> what</c><00:07:47.680><c> is</c>
+that internally that is exactly what is
+that internally that is exactly what is
+happening<00:07:48.080><c> at</c><00:07:48.319><c> Enthropic.</c><00:07:48.960><c> Enthropic</c><00:07:49.599><c> talks</c>
+happening at Enthropic. Enthropic talks
+happening at Enthropic. Enthropic talks
+about<00:07:50.160><c> this.</c><00:07:50.479><c> Their</c><00:07:50.800><c> marketing</c><00:07:51.199><c> team</c><00:07:51.440><c> uses</c>
+about this. Their marketing team uses
+about this. Their marketing team uses
+claude<00:07:52.240><c> code.</c><00:07:52.479><c> Their</c><00:07:52.720><c> legal</c><00:07:53.120><c> department</c><00:07:53.599><c> uses</c>
+claude code. Their legal department uses
+claude code. Their legal department uses
+cla<00:07:54.479><c> code.</c><00:07:55.039><c> They</c><00:07:55.360><c> named</c><00:07:55.680><c> it</c><00:07:55.919><c> Claude</c><00:07:56.400><c> code.</c><00:07:57.039><c> It</c>
+cla code. They named it Claude code. It
+cla code. They named it Claude code. It
+was<00:07:57.599><c> just</c><00:07:57.919><c> a</c><00:07:58.240><c> Trojan</c><00:07:58.800><c> horse</c><00:07:59.280><c> for</c><00:07:59.680><c> Claude</c>
+was just a Trojan horse for Claude
+was just a Trojan horse for Claude
+agent.<00:08:00.960><c> This</c><00:08:01.199><c> is</c><00:08:01.280><c> a</c><00:08:01.599><c> general</c><00:08:02.000><c> purpose</c><00:08:02.319><c> agent</c>
+agent. This is a general purpose agent
+agent. This is a general purpose agent
+and<00:08:03.120><c> each</c><00:08:03.360><c> of</c><00:08:03.520><c> the</c><00:08:03.759><c> releases</c><00:08:04.639><c> over</c><00:08:04.960><c> the</c><00:08:05.199><c> last</c>
+and each of the releases over the last
+and each of the releases over the last
+few<00:08:06.000><c> weeks</c><00:08:06.800><c> have</c><00:08:07.199><c> been</c><00:08:07.440><c> building</c><00:08:08.080><c> up</c><00:08:08.560><c> that</c>
+few weeks have been building up that
+few weeks have been building up that
+Agentic<00:08:09.759><c> approach.</c><00:08:10.560><c> Look</c><00:08:10.720><c> at</c><00:08:10.879><c> the</c><00:08:11.039><c> way</c><00:08:11.120><c> they</c>
+Agentic approach. Look at the way they
+Agentic approach. Look at the way they
+focused<00:08:11.680><c> on</c><00:08:11.840><c> Agentic</c><00:08:12.400><c> capabilities</c><00:08:12.879><c> with</c>
+focused on Agentic capabilities with
+focused on Agentic capabilities with
+Opus<00:08:13.599><c> 4.1.</c><00:08:14.720><c> You</c><00:08:14.960><c> need</c><00:08:15.039><c> that</c><00:08:15.280><c> for</c><00:08:15.520><c> everything</c>
+Opus 4.1. You need that for everything
+Opus 4.1. You need that for everything
+else.<00:08:16.080><c> Look</c><00:08:16.240><c> at</c><00:08:16.319><c> the</c><00:08:16.479><c> way</c><00:08:16.560><c> they</c><00:08:16.879><c> focused</c><00:08:17.199><c> on</c><00:08:17.280><c> a</c>
+else. Look at the way they focused on a
+else. Look at the way they focused on a
+usable<00:08:18.000><c> 1</c><00:08:18.160><c> million</c><00:08:18.560><c> token</c><00:08:18.960><c> context</c><00:08:19.440><c> window.</c>
+usable 1 million token context window.
+usable 1 million token context window.
+You<00:08:20.240><c> need</c><00:08:20.400><c> that</c><00:08:20.639><c> for</c><00:08:20.800><c> everything</c><00:08:21.120><c> else.</c><00:08:21.680><c> Look</c>
+You need that for everything else. Look
+You need that for everything else. Look
+at<00:08:22.000><c> the</c><00:08:22.160><c> way</c><00:08:22.240><c> they</c><00:08:22.400><c> did</c><00:08:22.560><c> memory</c><00:08:22.960><c> on</c><00:08:23.120><c> demand.</c>
+at the way they did memory on demand.
+at the way they did memory on demand.
+that<00:08:23.919><c> enables</c><00:08:24.319><c> you</c><00:08:24.479><c> to</c><00:08:24.720><c> cultivate</c><00:08:25.360><c> more</c>
+that enables you to cultivate more
+that enables you to cultivate more
+accurate<00:08:26.479><c> tool</c><00:08:26.800><c> calls</c><00:08:27.199><c> without</c><00:08:27.520><c> loading</c><00:08:27.840><c> up</c>
+accurate tool calls without loading up
+accurate tool calls without loading up
+the<00:08:28.240><c> context</c><00:08:28.639><c> window</c><00:08:28.879><c> with</c><00:08:29.039><c> a</c><00:08:29.199><c> bunch</c><00:08:29.360><c> of</c>
+the context window with a bunch of
+the context window with a bunch of
+extraneous<00:08:30.080><c> information.</c><00:08:30.960><c> Look</c><00:08:31.120><c> at</c><00:08:31.280><c> the</c><00:08:31.440><c> way</c>
+extraneous information. Look at the way
+extraneous information. Look at the way
+they<00:08:31.840><c> focused</c><00:08:32.240><c> heavily</c><00:08:32.959><c> on</c><00:08:33.200><c> the</c><00:08:33.519><c> ability</c><00:08:33.919><c> of</c>
+they focused heavily on the ability of
+they focused heavily on the ability of
+clawed<00:08:34.719><c> code</c><00:08:35.440><c> to</c><00:08:36.320><c> manage</c><00:08:37.200><c> persistent</c><00:08:38.000><c> states</c>
+clawed code to manage persistent states
+clawed code to manage persistent states
+and<00:08:39.120><c> take</c><00:08:39.599><c> independent</c><00:08:40.320><c> action.</c><00:08:40.880><c> If</c><00:08:41.039><c> you</c><00:08:41.200><c> want</c>
+and take independent action. If you want
+and take independent action. If you want
+to<00:08:41.360><c> ladder</c><00:08:41.680><c> up</c><00:08:41.839><c> all</c><00:08:42.000><c> the</c><00:08:42.159><c> technical</c><00:08:42.560><c> stuff</c>
+to ladder up all the technical stuff
+to ladder up all the technical stuff
+like<00:08:43.120><c> running</c><00:08:43.519><c> servers,</c><00:08:44.399><c> being</c><00:08:44.800><c> able</c><00:08:45.120><c> to</c>
+like running servers, being able to
+like running servers, being able to
+explain<00:08:45.839><c> what</c><00:08:46.160><c> you're</c><00:08:46.399><c> doing,</c><00:08:46.959><c> being</c><00:08:47.279><c> able</c><00:08:47.440><c> to</c>
+explain what you're doing, being able to
+explain what you're doing, being able to
+teach<00:08:48.000><c> you,</c><00:08:48.640><c> expanding</c><00:08:49.440><c> hooks</c><00:08:49.839><c> and</c><00:08:50.000><c> event</c>
+teach you, expanding hooks and event
+teach you, expanding hooks and event
+system<00:08:50.720><c> management</c><00:08:51.120><c> for</c><00:08:51.360><c> tool</c><00:08:51.680><c> calls.</c><00:08:52.399><c> This</c>
+system management for tool calls. This
+system management for tool calls. This
+is<00:08:52.800><c> not</c><00:08:53.120><c> just</c><00:08:53.440><c> stuff</c><00:08:53.760><c> that</c><00:08:54.000><c> you</c><00:08:54.320><c> need</c><00:08:54.480><c> to</c><00:08:54.720><c> know</c>
+is not just stuff that you need to know
+is not just stuff that you need to know
+how<00:08:55.120><c> to</c><00:08:55.279><c> do</c><00:08:55.760><c> for</c><00:08:56.080><c> development.</c><00:08:56.800><c> Although</c><00:08:57.120><c> that</c>
+how to do for development. Although that
+how to do for development. Although that
+is<00:08:57.600><c> true,</c><00:08:58.160><c> it</c><00:08:58.480><c> is</c><00:08:58.959><c> a</c><00:08:59.360><c> quality</c><00:09:00.080><c> of</c><00:09:00.560><c> stateful</c>
+is true, it is a quality of stateful
+is true, it is a quality of stateful
+work<00:09:01.920><c> that</c><00:09:02.240><c> you</c><00:09:02.480><c> need</c><00:09:02.720><c> to</c><00:09:02.880><c> do</c><00:09:03.120><c> any</c><00:09:03.360><c> kind</c><00:09:03.519><c> of</c>
+work that you need to do any kind of
+work that you need to do any kind of
+agentic<00:09:04.320><c> assistance</c><00:09:04.880><c> for</c><00:09:05.279><c> humans.</c><00:09:05.920><c> If</c><00:09:06.240><c> humans</c>
+agentic assistance for humans. If humans
+agentic assistance for humans. If humans
+want<00:09:07.040><c> a</c><00:09:07.360><c> useful</c><00:09:08.320><c> assistant,</c><00:09:09.040><c> it</c><00:09:09.279><c> would</c><00:09:09.440><c> look</c><00:09:09.680><c> a</c>
+want a useful assistant, it would look a
+want a useful assistant, it would look a
+lot<00:09:10.080><c> like</c><00:09:10.320><c> this.</c><00:09:10.720><c> It</c><00:09:10.959><c> just</c><00:09:11.120><c> might</c><00:09:11.279><c> not</c><00:09:11.519><c> do</c>
+lot like this. It just might not do
+lot like this. It just might not do
+coding.<00:09:12.320><c> And</c><00:09:12.480><c> that</c><00:09:12.640><c> is</c><00:09:12.800><c> the</c><00:09:12.959><c> secret</c><00:09:13.200><c> of</c><00:09:13.440><c> Claude</c>
+coding. And that is the secret of Claude
+coding. And that is the secret of Claude
+code.<00:09:14.399><c> You</c><00:09:14.640><c> might</c><00:09:14.880><c> want</c><00:09:15.120><c> a</c><00:09:15.440><c> useful</c><00:09:15.839><c> assistant</c>
+code. You might want a useful assistant
+code. You might want a useful assistant
+that<00:09:16.560><c> explains</c><00:09:16.959><c> things,</c><00:09:17.279><c> that</c><00:09:17.519><c> teaches</c><00:09:17.839><c> you</c>
+that explains things, that teaches you
+that explains things, that teaches you
+things,<00:09:18.320><c> that</c><00:09:18.480><c> helps</c><00:09:18.720><c> you</c><00:09:18.880><c> to</c><00:09:19.040><c> learn.</c><00:09:19.519><c> You</c><00:09:19.760><c> may</c>
+things, that helps you to learn. You may
+things, that helps you to learn. You may
+want<00:09:20.399><c> a</c><00:09:20.720><c> useful</c><00:09:21.360><c> assistant</c><00:09:22.080><c> that</c><00:09:22.480><c> helps</c><00:09:22.800><c> you</c>
+want a useful assistant that helps you
+want a useful assistant that helps you
+to<00:09:23.839><c> take</c><00:09:24.080><c> action</c><00:09:24.480><c> autonomously</c><00:09:25.200><c> on</c><00:09:25.440><c> your</c><00:09:25.600><c> ad</c>
+to take action autonomously on your ad
+to take action autonomously on your ad
+network.<00:09:26.320><c> You</c><00:09:26.560><c> may</c><00:09:26.800><c> want</c><00:09:27.040><c> a</c><00:09:27.360><c> useful</c><00:09:27.920><c> assistant</c>
+network. You may want a useful assistant
+network. You may want a useful assistant
+that<00:09:29.040><c> can</c><00:09:29.360><c> process</c><00:09:29.920><c> an</c><00:09:30.240><c> entire</c><00:09:30.640><c> piece</c><00:09:30.880><c> of</c><00:09:31.120><c> long</c>
+that can process an entire piece of long
+that can process an entire piece of long
+context<00:09:32.160><c> about</c><00:09:32.800><c> a</c><00:09:33.120><c> contract</c><00:09:33.519><c> you're</c>
+context about a contract you're
+context about a contract you're
+reviewing<00:09:34.480><c> and</c><00:09:34.720><c> can</c><00:09:34.880><c> give</c><00:09:35.040><c> you</c><00:09:35.279><c> really</c><00:09:35.600><c> useful</c>
+reviewing and can give you really useful
+reviewing and can give you really useful
+feedback.<00:09:36.720><c> You</c><00:09:36.959><c> may</c><00:09:37.120><c> want</c><00:09:37.279><c> a</c><00:09:37.519><c> stateful</c>
+feedback. You may want a stateful
+feedback. You may want a stateful
+assistant<00:09:38.560><c> that</c><00:09:38.959><c> remembers</c><00:09:39.360><c> the</c><00:09:39.600><c> last</c>
+assistant that remembers the last
+assistant that remembers the last
+conversation<00:09:40.399><c> you</c><00:09:40.640><c> had</c><00:09:40.880><c> or</c><00:09:41.120><c> that</c><00:09:41.360><c> remembers</c><00:09:42.160><c> a</c>
+conversation you had or that remembers a
+conversation you had or that remembers a
+live<00:09:42.880><c> feed</c><00:09:43.200><c> to</c><00:09:43.360><c> an</c><00:09:43.519><c> MCP</c><00:09:44.160><c> server</c><00:09:44.399><c> for</c><00:09:44.720><c> something</c>
+live feed to an MCP server for something
+live feed to an MCP server for something
+you<00:09:45.120><c> want</c><00:09:45.200><c> to</c><00:09:45.360><c> keep</c><00:09:45.519><c> track</c><00:09:45.680><c> of</c><00:09:46.000><c> like</c><00:09:46.320><c> add</c>
+you want to keep track of like add
+you want to keep track of like add
+updates<00:09:47.360><c> and</c><00:09:47.600><c> can</c><00:09:47.839><c> process</c><00:09:48.240><c> that</c><00:09:48.560><c> in</c><00:09:48.720><c> real</c>
+updates and can process that in real
+updates and can process that in real
+time<00:09:49.120><c> and</c><00:09:49.440><c> take</c><00:09:49.600><c> action.</c><00:09:50.320><c> All</c><00:09:50.480><c> of</c><00:09:50.640><c> these</c>
+time and take action. All of these
+time and take action. All of these
+things<00:09:51.440><c> are</c><00:09:51.680><c> on</c><00:09:51.920><c> the</c><00:09:52.160><c> horizon</c><00:09:53.120><c> thanks</c><00:09:53.440><c> to</c>
+things are on the horizon thanks to
+things are on the horizon thanks to
+today's<00:09:54.240><c> updates.</c><00:09:54.959><c> Even</c><00:09:55.279><c> though</c><00:09:55.600><c> today's</c>
+today's updates. Even though today's
+today's updates. Even though today's
+updates,<00:09:56.959><c> the</c><00:09:57.200><c> last</c><00:09:57.360><c> few</c><00:09:57.600><c> weeks</c><00:09:57.920><c> updates</c><00:09:58.640><c> are</c>
+updates, the last few weeks updates are
+updates, the last few weeks updates are
+framed<00:09:59.600><c> in</c><00:09:59.920><c> terms</c><00:10:00.320><c> of</c><00:10:00.720><c> code.</c><00:10:01.440><c> Code</c><00:10:01.680><c> is</c><00:10:01.839><c> the</c>
+framed in terms of code. Code is the
+framed in terms of code. Code is the
+Trojan<00:10:02.480><c> horse.</c><00:10:03.120><c> Code</c><00:10:03.440><c> is</c><00:10:03.680><c> what</c><00:10:03.920><c> Anthropic</c><00:10:04.720><c> is</c>
+Trojan horse. Code is what Anthropic is
+Trojan horse. Code is what Anthropic is
+choosing<00:10:05.200><c> to</c><00:10:05.440><c> use</c><00:10:05.760><c> as</c><00:10:06.000><c> the</c><00:10:06.240><c> wedge</c><00:10:06.880><c> into</c><00:10:07.200><c> the</c>
+choosing to use as the wedge into the
+choosing to use as the wedge into the
+workplace.<00:10:08.160><c> And</c><00:10:08.399><c> what's</c><00:10:08.720><c> beautiful</c><00:10:09.120><c> about</c>
+workplace. And what's beautiful about
+workplace. And what's beautiful about
+that<00:10:09.680><c> flywheel</c><00:10:10.560><c> is</c><00:10:10.880><c> because</c><00:10:11.279><c> they're</c>
+that flywheel is because they're
+that flywheel is because they're
+attracting<00:10:12.080><c> tech</c><00:10:12.399><c> companies</c><00:10:12.720><c> with</c><00:10:13.040><c> code.</c>
+attracting tech companies with code.
+attracting tech companies with code.
+They<00:10:13.920><c> are</c><00:10:14.160><c> attracting</c><00:10:14.640><c> early</c><00:10:14.959><c> adopters</c><00:10:15.519><c> who</c>
+They are attracting early adopters who
+They are attracting early adopters who
+will<00:10:16.079><c> also</c><00:10:16.880><c> be</c><00:10:17.120><c> willing</c><00:10:17.600><c> to</c><00:10:18.000><c> try</c><00:10:18.480><c> clawed</c><00:10:18.959><c> code</c>
+will also be willing to try clawed code
+will also be willing to try clawed code
+elsewhere<00:10:19.839><c> more</c><00:10:20.079><c> quickly.</c><00:10:20.480><c> Early</c><00:10:20.800><c> adopters</c>
+elsewhere more quickly. Early adopters
+elsewhere more quickly. Early adopters
+by<00:10:21.440><c> nature</c><00:10:21.760><c> are</c><00:10:22.000><c> more</c><00:10:22.240><c> fluid.</c><00:10:22.959><c> They</c><00:10:23.200><c> are</c><00:10:23.279><c> more</c>
+by nature are more fluid. They are more
+by nature are more fluid. They are more
+willing<00:10:23.760><c> to</c><00:10:24.000><c> try</c><00:10:24.240><c> new</c><00:10:24.480><c> things.</c><00:10:25.200><c> They're</c><00:10:25.519><c> more</c>
+willing to try new things. They're more
+willing to try new things. They're more
+willing<00:10:26.240><c> to</c><00:10:26.399><c> try</c><00:10:26.720><c> clawed</c><00:10:27.120><c> code</c><00:10:27.680><c> with</c><00:10:28.000><c> marketer</c>
+willing to try clawed code with marketer
+willing to try clawed code with marketer
+seats,<00:10:28.800><c> with</c><00:10:29.120><c> product</c><00:10:29.440><c> management</c><00:10:30.000><c> seats,</c>
+seats, with product management seats,
+seats, with product management seats,
+with<00:10:30.560><c> customer</c><00:10:30.959><c> success</c><00:10:31.360><c> seats,</c><00:10:31.760><c> and</c><00:10:32.000><c> see</c><00:10:32.079><c> if</c>
+with customer success seats, and see if
+with customer success seats, and see if
+that<00:10:32.480><c> general</c><00:10:32.880><c> purpose</c><00:10:33.120><c> agent</c><00:10:33.440><c> is</c><00:10:33.680><c> useful.</c>
+that general purpose agent is useful.
+that general purpose agent is useful.
+And<00:10:34.480><c> all</c><00:10:34.640><c> of</c><00:10:34.800><c> that</c><00:10:34.959><c> feeds</c><00:10:35.279><c> the</c><00:10:35.440><c> virtuous</c>
+And all of that feeds the virtuous
+And all of that feeds the virtuous
+flywheel<00:10:36.320><c> for</c><00:10:36.640><c> Anthropic.</c><00:10:37.519><c> And</c><00:10:37.760><c> so,</c><00:10:38.240><c> while</c>
+flywheel for Anthropic. And so, while
+flywheel for Anthropic. And so, while
+Chad<00:10:38.880><c> GPT5</c><00:10:39.600><c> was</c><00:10:39.839><c> having</c><00:10:40.079><c> a</c><00:10:40.480><c> rocky</c><00:10:40.959><c> week,</c>
+Chad GPT5 was having a rocky week,
+Chad GPT5 was having a rocky week,
+Anthropic<00:10:42.320><c> had</c><00:10:42.720><c> frankly</c><00:10:43.440><c> a</c><00:10:43.760><c> power</c><00:10:44.079><c> week.</c><00:10:44.640><c> They</c>
+Anthropic had frankly a power week. They
+Anthropic had frankly a power week. They
+were<00:10:45.120><c> able</c><00:10:45.279><c> to</c><00:10:45.440><c> release</c><00:10:45.760><c> a</c><00:10:46.000><c> bunch</c><00:10:46.240><c> of</c><00:10:46.399><c> pinpoint</c>
+were able to release a bunch of pinpoint
+were able to release a bunch of pinpoint
+updates<00:10:47.519><c> that</c><00:10:47.920><c> underline</c><00:10:48.480><c> that</c><00:10:48.640><c> provide</c>
+updates that underline that provide
+updates that underline that provide
+dotted<00:10:49.760><c> line</c><00:10:50.399><c> connects</c><00:10:50.959><c> to</c><00:10:51.279><c> their</c><00:10:51.680><c> longterm</c>
+dotted line connects to their longterm
+dotted line connects to their longterm
+strategy<00:10:53.839><c> of</c><00:10:54.079><c> capturing</c><00:10:54.560><c> the</c><00:10:54.800><c> workplace.</c><00:10:55.519><c> And</c>
+strategy of capturing the workplace. And
+strategy of capturing the workplace. And
+if<00:10:55.920><c> you</c><00:10:56.079><c> were</c><00:10:56.240><c> to</c><00:10:56.959><c> handicap</c><00:10:57.920><c> the</c><00:10:58.160><c> race</c><00:10:58.480><c> for</c><00:10:58.720><c> the</c>
+if you were to handicap the race for the
+if you were to handicap the race for the
+workplace<00:10:59.360><c> right</c><00:10:59.600><c> now,</c><00:11:00.079><c> I</c><00:11:00.320><c> would</c><00:11:00.560><c> say</c>
+workplace right now, I would say
+workplace right now, I would say
+Anthropic<00:11:01.920><c> is</c><00:11:02.160><c> clearly</c><00:11:02.480><c> in</c><00:11:02.640><c> the</c><00:11:02.800><c> lead.</c>
+Anthropic is clearly in the lead.
+Anthropic is clearly in the lead.
+Anthropic<00:11:03.920><c> is</c><00:11:04.320><c> more</c><00:11:04.720><c> likely</c><00:11:05.440><c> to</c><00:11:05.680><c> be</c><00:11:05.920><c> in</c><00:11:06.160><c> the</c>
+Anthropic is more likely to be in the
+Anthropic is more likely to be in the
+workplace<00:11:06.720><c> of</c><00:11:06.959><c> the</c><00:11:07.200><c> future</c><00:11:07.760><c> than</c><00:11:08.160><c> OpenAI.</c>
+workplace of the future than OpenAI.
+workplace of the future than OpenAI.
+Despite<00:11:09.360><c> OpenAI's</c><00:11:10.399><c> ubiquity,</c><00:11:11.040><c> despite</c><00:11:11.440><c> the</c>
+Despite OpenAI's ubiquity, despite the
+Despite OpenAI's ubiquity, despite the
+fact<00:11:11.760><c> that</c><00:11:12.000><c> OpenAI</c><00:11:12.720><c> has</c><00:11:12.959><c> an</c><00:11:13.200><c> edge</c><00:11:13.760><c> in</c><00:11:14.320><c> raw</c><00:11:14.720><c> user</c>
+fact that OpenAI has an edge in raw user
+fact that OpenAI has an edge in raw user
+count,<00:11:15.839><c> we</c><00:11:16.160><c> already</c><00:11:16.560><c> know</c><00:11:16.800><c> that</c><00:11:17.040><c> Anthropic</c>
+count, we already know that Anthropic
+count, we already know that Anthropic
+punches<00:11:18.160><c> above</c><00:11:18.399><c> its</c><00:11:18.640><c> weight</c><00:11:18.880><c> on</c><00:11:19.040><c> enterprise</c>
+punches above its weight on enterprise
+punches above its weight on enterprise
+contracts.<00:11:20.560><c> There</c><00:11:20.800><c> are</c><00:11:21.040><c> already</c><00:11:21.519><c> anecdotes</c>
+contracts. There are already anecdotes
+contracts. There are already anecdotes
+postGPT5
+postGPT5
+postGPT5
+of<00:11:24.000><c> companies</c><00:11:24.800><c> letting</c><00:11:25.120><c> go</c><00:11:25.279><c> of</c><00:11:25.360><c> their</c><00:11:25.600><c> GPT5</c>
+of companies letting go of their GPT5
+of companies letting go of their GPT5
+contracts<00:11:27.200><c> because</c><00:11:27.440><c> they</c><00:11:27.680><c> like</c><00:11:27.920><c> what</c><00:11:28.079><c> they</c>
+contracts because they like what they
+contracts because they like what they
+get<00:11:28.320><c> with</c><00:11:28.560><c> Cloud</c><00:11:28.880><c> Code.</c><00:11:29.279><c> None</c><00:11:29.440><c> of</c><00:11:29.600><c> this</c>
+get with Cloud Code. None of this
+get with Cloud Code. None of this
+suggests<00:11:30.320><c> that</c><00:11:30.480><c> Chat</c><00:11:30.800><c> GPT</c><00:11:31.360><c> will</c><00:11:31.519><c> not</c><00:11:31.680><c> remain</c>
+suggests that Chat GPT will not remain
+suggests that Chat GPT will not remain
+the<00:11:32.640><c> most</c><00:11:33.200><c> iconic</c><00:11:33.839><c> global</c><00:11:34.240><c> brand</c><00:11:34.480><c> for</c><00:11:34.720><c> AI</c><00:11:35.120><c> out</c>
+the most iconic global brand for AI out
+the most iconic global brand for AI out
+there.<00:11:35.760><c> I</c><00:11:36.079><c> think</c><00:11:36.240><c> they</c><00:11:36.480><c> have</c><00:11:36.959><c> handily</c><00:11:37.600><c> won</c><00:11:38.000><c> the</c>
+there. I think they have handily won the
+there. I think they have handily won the
+consumer<00:11:38.720><c> race,</c><00:11:39.279><c> but</c><00:11:39.519><c> that</c><00:11:39.760><c> doesn't</c><00:11:40.000><c> mean</c>
+consumer race, but that doesn't mean
+consumer race, but that doesn't mean
+they<00:11:40.399><c> automatically</c><00:11:40.959><c> get</c><00:11:41.120><c> the</c><00:11:41.360><c> enterprise</c>
+they automatically get the enterprise
+they automatically get the enterprise
+race<00:11:42.079><c> and</c><00:11:42.320><c> Anthropic</c><00:11:42.959><c> has</c><00:11:43.120><c> figured</c><00:11:43.360><c> that</c><00:11:43.600><c> out.</c>
+race and Anthropic has figured that out.
+race and Anthropic has figured that out.
+Keep<00:11:44.560><c> looking</c><00:11:45.120><c> at</c><00:11:45.440><c> future</c><00:11:45.839><c> releases</c><00:11:46.320><c> with</c>
+Keep looking at future releases with
+Keep looking at future releases with
+clawed<00:11:46.959><c> code.</c><00:11:47.440><c> Keep</c><00:11:47.680><c> watching</c><00:11:48.160><c> how</c><00:11:48.560><c> Anthropic</c>
+clawed code. Keep watching how Anthropic
+clawed code. Keep watching how Anthropic
+ships.<00:11:49.839><c> They</c><00:11:50.079><c> ship</c><00:11:50.399><c> frequently.</c><00:11:51.360><c> They</c><00:11:51.600><c> don't</c>
+ships. They ship frequently. They don't
+ships. They ship frequently. They don't
+necessarily<00:11:52.560><c> do</c><00:11:52.720><c> a</c><00:11:52.959><c> big</c><00:11:53.120><c> fanfare</c><00:11:53.600><c> about</c><00:11:53.839><c> it,</c>
+necessarily do a big fanfare about it,
+necessarily do a big fanfare about it,
+but<00:11:54.480><c> every</c><00:11:54.880><c> single</c><00:11:55.279><c> ship</c><00:11:55.839><c> lines</c><00:11:56.240><c> up</c>
+but every single ship lines up
+but every single ship lines up
+strategically<00:11:57.279><c> toward</c><00:11:57.680><c> that</c><00:11:57.920><c> larger</c><00:11:58.320><c> goal</c><00:11:58.800><c> of</c>
+strategically toward that larger goal of
+strategically toward that larger goal of
+capturing<00:11:59.519><c> the</c><00:11:59.680><c> workplace.</c><00:12:00.240><c> And</c><00:12:00.480><c> Claude</c><00:12:00.880><c> Code</c>
+capturing the workplace. And Claude Code
+capturing the workplace. And Claude Code
+is<00:12:01.760><c> the</c><00:12:02.000><c> agent</c><00:12:02.399><c> they're</c><00:12:02.720><c> using</c><00:12:03.360><c> to</c><00:12:03.680><c> get</c><00:12:03.839><c> that</c>
+is the agent they're using to get that
+is the agent they're using to get that
+job<00:12:04.320><c> done.</c><00:12:04.880><c> I'm</c><00:12:05.200><c> very</c><00:12:05.360><c> impressed</c><00:12:05.680><c> with</c><00:12:05.760><c> what</c>
+job done. I'm very impressed with what
+job done. I'm very impressed with what
+Anthropic<00:12:06.560><c> has</c><00:12:06.720><c> been</c><00:12:06.800><c> shipping</c><00:12:07.120><c> lately</c><00:12:07.519><c> and</c><00:12:07.760><c> I</c>
+Anthropic has been shipping lately and I
+Anthropic has been shipping lately and I
+am<00:12:08.560><c> enjoying</c><00:12:09.519><c> what</c><00:12:09.920><c> I'm</c><00:12:10.240><c> enjoying</c><00:12:10.560><c> the</c>
+am enjoying what I'm enjoying the
+am enjoying what I'm enjoying the
+polish.<00:12:11.200><c> I'm</c><00:12:11.519><c> enjoying</c><00:12:11.839><c> the</c><00:12:12.079><c> fact</c><00:12:12.160><c> that</c><00:12:12.399><c> they</c>
+polish. I'm enjoying the fact that they
+polish. I'm enjoying the fact that they
+launch<00:12:12.959><c> and</c><00:12:13.200><c> there's</c><00:12:13.440><c> not</c><00:12:13.600><c> a</c><00:12:13.760><c> big</c><00:12:14.000><c> blowback.</c>
+launch and there's not a big blowback.
+launch and there's not a big blowback.
+It's<00:12:15.040><c> quiet.</c><00:12:15.519><c> It's</c><00:12:15.839><c> consistent.</c><00:12:16.560><c> They</c><00:12:16.880><c> just</c>
+It's quiet. It's consistent. They just
+It's quiet. It's consistent. They just
+launch<00:12:17.279><c> it</c><00:12:17.440><c> and</c><00:12:17.680><c> it</c><00:12:17.920><c> works.</c><00:12:18.320><c> It's</c><00:12:18.639><c> great.</c><00:12:19.200><c> I</c>
+launch it and it works. It's great. I
+launch it and it works. It's great. I
+can<00:12:19.760><c> see</c><00:12:20.320><c> why</c><00:12:20.639><c> companies</c><00:12:21.040><c> are</c><00:12:21.200><c> saying</c><00:12:21.680><c> we're</c>
+can see why companies are saying we're
+can see why companies are saying we're
+just<00:12:22.000><c> going</c><00:12:22.079><c> to</c><00:12:22.160><c> pick</c><00:12:22.399><c> Claude.</c><00:12:22.800><c> There's</c><00:12:22.959><c> less</c>
+just going to pick Claude. There's less
+just going to pick Claude. There's less
+drama.<00:12:23.519><c> It's</c><00:12:23.760><c> just</c><00:12:23.920><c> easier.</c><00:12:24.560><c> It</c><00:12:24.800><c> codes.</c><00:12:25.279><c> And</c>
+drama. It's just easier. It codes. And
+drama. It's just easier. It codes. And
+hey,<00:12:25.760><c> by</c><00:12:25.920><c> the</c><00:12:26.000><c> way,</c><00:12:26.160><c> we</c><00:12:26.320><c> can</c><00:12:26.399><c> also</c><00:12:26.639><c> let</c><00:12:26.800><c> our</c>
+hey, by the way, we can also let our
+hey, by the way, we can also let our
+other<00:12:27.120><c> teams</c><00:12:27.360><c> use</c><00:12:27.519><c> it.</c><00:12:28.079><c> That's</c><00:12:28.320><c> a</c><00:12:28.560><c> really</c><00:12:28.880><c> good</c>
+other teams use it. That's a really good
+other teams use it. That's a really good
+play<00:12:29.440><c> for</c><00:12:29.600><c> the</c><00:12:29.760><c> workplace.</c><00:12:30.320><c> So,</c><00:12:30.560><c> hats</c><00:12:30.880><c> off</c><00:12:31.040><c> to</c>
+play for the workplace. So, hats off to
+play for the workplace. So, hats off to
+the<00:12:31.360><c> anthropic</c><00:12:31.839><c> team.</c><00:12:32.079><c> Well</c><00:12:32.240><c> done,</c><00:12:32.480><c> guys.</c>
+the anthropic team. Well done, guys.
+the anthropic team. Well done, guys.
+Looking<00:12:32.959><c> forward</c><00:12:33.120><c> to</c><00:12:33.200><c> what</c><00:12:33.360><c> you</c><00:12:33.519><c> ship</c>

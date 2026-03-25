@@ -1,0 +1,32 @@
+PWJ ACCEPTANCE CRITERIA — session-length-strategy.md (Logic Refresh run)
+Focus: Is post-compaction context CLEANER or NOISIER than a fresh 15K warm pack?
+Criticality: Standard | max_iter: 5
+
+CRITERION 1 [MECHANICAL]
+Quotes at least one specific session from CURRENT-STATUS.md (sessions 80-88) that had a compaction event — AND supplies 1-2 verbatim log excerpts showing pre-compaction reasoning state vs the exact post-/compact continuation, then explicitly ties those excerpts to the binary verdict in criterion 4.
+NOT SATISFIED by: grepping for the word "compact" and copying session number alone.
+
+CRITERION 2 [MECHANICAL]
+Explains the specific mechanism of what /compact destroys: not "context is lost" generically, but which types of reasoning state (intermediate chains, implicit decisions, unresolved tensions) are truncated into the ~2-5K summary.
+Must name at least 2 specific reasoning-state types with examples from the session logs.
+
+CRITERION 3 [MECHANICAL]
+Maps "lost in the middle" effect citing Liu et al. (2023) key stat (middle-context recall drop ~15-30% in 32K+ contexts). Determines whether the ~2-5K compact summary RESETS the U-curve (short-context primacy/recency benefit) or RE-CREATES it (internal burial of decisions). Must quote the exact summary excerpt used in the mapping.
+
+CRITERION 4 [MECHANICAL]
+Gives a binary verdict — CLEANER or NOISIER — grounded in session log evidence (not just theory). If outcomes differ by project_type, supplies per-type qualifiers + explicit aggregation method (majority + complexity weight) to justify the final single verdict.
+
+CRITERION 5 [MECHANICAL]
+Analyzes every compaction event in sessions 80-88 that can be identified from logs. Supplies a table with columns: session # / project_type / CLEANER or NOISIER / token delta / evidence note. Aggregation method stated explicitly.
+
+CRITERION 6 [MECHANICAL]
+Explicitly states the inference method for the fresh 15K warm-pack baseline (what a warm pack retains vs what the compact summary retained — using log sections as proxy). Defines "quality cost" as observed post-compaction degradation metric from logs (e.g., count of re-asked questions or re-derived decisions visible in the log). Shows explicit formula: (degradation_tokens_equiv + summary_size) vs 15K fresh_pack cost. States Claude Sonnet 4.6 $/token basis used ($3/MTok input, 200K cliff).
+
+CRITERION 7 [JUDGMENT]
+Contains a dedicated section titled "Session 88 Retrospective" with a [JUDGMENT-FLAG: YES/NO] marker. Judgment-dependent = any claim resting on more than 1 unlogged developer intent or unquantified trade-off. Lists the exact claims flagged + alternative factual readings available from logs. Does NOT auto-pass or auto-fail — surfaces to human.
+
+CRITERION 8 [MECHANICAL]
+File written to: ~/1658HoldingsOy-AIFiles/_shared/best-practices/session-length-strategy.md (replaces previous version entirely — not appended).
+
+JUDGMENT FLAG (mandatory in all PWJ runs):
+If legal nuance, stakeholder politics, or unquantifiable taste appears — FLAG FOR HUMAN REVIEW, do not auto-pass.

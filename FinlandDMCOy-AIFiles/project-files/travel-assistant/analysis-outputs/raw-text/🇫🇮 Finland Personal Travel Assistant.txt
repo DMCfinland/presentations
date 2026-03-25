@@ -1,0 +1,215 @@
+🇫🇮 Finland Personal Travel Assistant
+
+"Jokaiselle matkailijalle oma henkilökohtainen opas – 24/7"
+
+🌟 Palvelun Idea
+
+Matkailu on siirtymässä massoista yksilöihin. Enää ei riitä, että matkanjärjestäjä myy paketin ja toivottaa hyvää matkaa. Asiakas haluaa palvelua nyt, tässä ja juuri minulle.
+
+Finland Personal Travel Assistant on älykäs digitaalinen kumppani, joka kulkee asiakkaan taskussa varauksesta kotiinpaluuseen asti. Se ei ole vain infopiste, vaan aktiivinen Concierge, joka tuntee asiakkaan, ennakoi sään ja suosittelee juuri oikeaa tekemistä oikeaan aikaan.
+
+💎 Arvo Asiakkaalle (The "Wow" Factor)
+
+- Täydellinen ajoitus: "Assistentti vinkkasi, että huomenna sataa, joten varasimme Spahan paikat ajoissa. Pelastimme lomapäivän!"
+
+- Henkilökohtaisuus: Se ei tarjoa lapsiperheelle yökerhoa eikä budjettimatkailijalle ylihintaista luksusta, vaan ymmärtää arvon.
+
+- Turva ja Helppous: Yksi linkki, ei salasanoja. Jos tulee hätä tai ongelma, ihminen on vain yhden klikkauksen päässä.
+
+- Tulos: Asiakas kokee olevansa VIP-vieras, riippumatta lompakon paksuudesta.
+
+🚀 Arvo DMC:lle ja Partnereille (The Business Case)
+
+- Skaalautuvaa Hoivaa: Pystymme palvelemaan 10 000 yksittäistä asiakasta yhtä hyvin kuin yhtä ryhmää. Tekoäly hoitaa rutiinin, ihmiset hoitavat poikkeukset.
+
+- Maksimoitu Kate €: Järjestelmä ei vain palvele, se myy. Se tunnistaa hetket, jolloin asiakas on altis ostamaan (esim. sateinen iltapäivä) ja tarjoaa korkean katteen palveluita.
+
+- Datan Valtias: Opimme jatkuvasti. Tiedämme, mikä myyntipuhe puree saksalaiseen pariskuntaan ja mikä aktiviteetti tuottaa parhaan NPS:n.
+
+- Partnership Power: Voimme tarjota Matkatoimisto X:lle heidän omannäköisensä assistentin ("White Label"). Se sitoo kumppanit meihin tiukasti.
+
+Yhteenveto: Muutamme passiivisen majoitusmyynnin aktiiviseksi, 24/7 rullaavaksi elämysbisnekseksi, joka voittaa sekä sydämet (NPS) että lompakot (Kate).
+
+------------------------------------------------------------------------
+
+1. STRATEGINEN BISNESKUVAUS (The Business Case)
+
+Mikä palvelu on? Finland Personal Travel Assistant (FPTA) on hyper-personoitu, tekoälyvetoinen matkakumppani (DMC Concierge), joka skaalaa VIP-tason palvelun massoille. Se ei odota kysymyksiä, vaan ennakoi tarpeet.
+
+Strategiset hyödyt Bisnekselle (DMC & Partnerit):
+
+1.  "Share of Wallet" Maksimointi: Emme tyydy pelkkään majoitusmyyntiin. FPTA on aktiivinen myyntitykki, joka nappaa asiakkaan eurot myös ravintoloihin, aktiviteetteihin ja välinevuokriin paikan päällä – juuri silloin kun asiakas on altis ostamaan (esim. sateen alkaessa).
+
+2.  B2B-Myynnin "Killer App": Kun DMC myy palveluitaan saksalaiselle matkatoimistolle, emme myy vain hotellia. Myymme "Brändätyn Digitaalisen Oppaan" heidän asiakkailleen. Tämä sitouttaa matkatoimiston meihin (Vendor Lock-in positiivisessa mielessä).
+
+3.  Operatiivinen Tehokkuus: Vähentää respan ja oppaiden rutiinikuormaa ("Monelta aamiainen?", "Mikä on WiFi?") jopa 80%, vapauttaen ihmiset myymään ja ratkomaan oikeita ongelmia.
+
+4.  Datan Omistajuus: Keräämme ennennäkemätöntä dataa siitä, kuka matkustaja oikeasti on (Moodit, Preferenssit) ja mikä myyntipuhe (Hook) puree häneen parhaiten.
+
+2. JÄRJESTELMÄMODUULIT & ROOLIKAAVIO
+
+Tässä on pyytämäsi "Laatikko- ja Roolikaavio". Se visualisoi, kuka tekee mitäkin ja miten tieto liikkuu.
+
+Koodinpätkä
+
+graph TD
+
+%% --- PÄÄKÄYTTÄJÄT ---
+
+User((ASIAKAS / MATKAILIJA))
+
+Staff((HENKILÖSTÖ / STAFF))
+
+%% --- ETURINTAMA (FRONT END) ---
+
+subgraph "FRONT END LAYER"
+
+MasterAgent[🛡️ MASTER AGENT / CONCIERGE\n(Asiakasrajapinta, Tyyli, Kieli)]
+
+BrandEngine[🎨 BRAND ENGINE\n(Värittää UI:n & Agentin tyylin)]
+
+end
+
+%% --- AIVOT (INTELLIGENCE LAYER) ---
+
+subgraph "THE BRAIN (MICROSERVICES)"
+
+Evaluator[🧠 MOOD & EVALUATOR\n(Psykologi: Analysoi rivien välit)]
+
+Chef[👨‍🍳 SUGGESTION CHEF\n(Myyjä: Valitsee tuotteen & Myyntipuheen)]
+
+Weather[🌦️ WEATHER SERVICE\n(Fakta: mm/h & Revontulet)]
+
+Booker[📖 BOOKING & LEDGER\n(Kirjanpitäjä: Varaa & Laskee)]
+
+end
+
+%% --- TIETOKANNAT (MEMORY) ---
+
+subgraph "DATA LAYER"
+
+Context[(Backpack\nShort-Term)]
+
+Warehouse[(Product RAG\nInventory)]
+
+Profile[(User DNA\nHistory & Mood)]
+
+end
+
+%% --- LOGIIKKA ---
+
+User <-->|Chat & UI| MasterAgent
+
+Staff -->|Kuiskaus & Ohitus| MasterAgent
+
+Staff -->|Peukutus & Opetus| Evaluator
+
+MasterAgent <-->|Hae tietoa| Context
+
+MasterAgent -->|Pyydä suositus| Chef
+
+MasterAgent -->|Päivitä/Lue| Profile
+
+User -.->|Kuuntelee (Async)| Evaluator
+
+Evaluator -->|Päivittää| Profile
+
+Chef -->|Lukee| Profile
+
+Chef -->|Lukee| Weather
+
+Chef -->|Hakee tuotteet| Warehouse
+
+Chef -->|Palauttaa: Best Option| MasterAgent
+
+Booker -->|Kirjaa transaktio| Warehouse
+
+3. BRAND ENGINE: "Instant B2B Demo"
+
+Tämä on loistava idea myyntitilanteisiin.
+
+Ominaisuus: "One-Click Onboarding" Kun DMC:n myyjä tapaa potentiaalisen asiakkaan (esim. KonTiki Reisen):
+
+1.  Input: Myyjä syöttää Brand Engineen URL:n: www.kontiki.org.
+
+2.  Scraper Bot (Puppeteer): Käy sivulla taustalla.
+
+    - Hakee logon (<link rel="icon"> tai header logo).
+
+    - Hakee päävärit (CSS Analysis: mikä väri toistuu eniten?).
+
+    - Hakee Fontin.
+
+3.  Output: 5 sekunnissa luodaan Brand_Config_Preview.
+
+4.  Demo: Myyjä ojentaa tabletin asiakkaalle: "Tältä teidän oma KonTiki Assistant näyttäisi asiakkaidenne puhelimissa."
+
+    - Botti on brändätty heidän väreihinsä.
+
+    - Botti esittelee itsensä: "Guten Tag! Ich bin Ihr KonTiki Assistent."
+
+Tämä laskee myynnin kynnystä valtavasti.
+
+4. AGENT SNAPSHOTS (Detail Level)
+
+Tässä on nyt se "kaikki tai ei mitään" -listaus (Snapshot), jotta mikään hyvä idea ei katoa. Tästä voimme karsia MVP:hen.
+
+A. 🧠 Mood & Evaluator Agent (The Psychologist)
+
+- Rooli: Hiljainen tarkkailija, joka luokittelee asiakkaan.
+
+- Toimintamalli: Async Listener (Ei viivettä chattiin).
+
+- Analysoitavat Signaalit:
+
+  - Teksti: Sentimentti (Iloinen/Ärsyyntynyt), Avainsanat ("Kallis", "Lapset", "Olut").
+
+  - Meta-data: Vastausnopeus (Innostus), Kellonaika (Väsymys), Sijainti.
+
+- Output (Mood Matrix JSON):
+
+  - Segments (Cluster): Family_Active, Solo_Budget, Couple_Luxury (Tilastointia varten).
+
+  - Dynamic Moods (0-100): Energy, Hunger, Social, Nature_Tolerance (Sissi vs. Sokerista), Price_Sensitivity.
+
+  - Tags: Loves_Sauna, Hates_Smoke, Needs_Accessibility.
+
+B. 🛡️ Master Agent (The Concierge)
+
+- Rooli: Kasvot, Ääni ja Orkestraattori.
+
+- Toimintamalli:
+
+  - Internal Monologue: "Gap Finder herätti minut -> Onko nyt hyvä hetki puhua? -> Ei, Matti nukkuu -> Abort."
+
+  - Context Backpack: Pitää kädessään vain aktiivisen keskustelun tiedot (esim. Menu). Pudottaa heti kun aihe vaihtuu.
+
+  - Safety Guard: Tarkistaa "Safety Bulletin" -taulun ennen riskialttiita neuvoja (Jäätilanne). Jos tieto vanhaa -> Handover.
+
+  - Tool User: Ei arvaa. Kutsuu Chefiä suosituksiin ja Bookeria varauksiin.
+
+- Human Interface: Ottaa vastaan "Kuiskauksia" (System Injection) ja noudattaa niitä yli kaiken muun logiikan.
+
+C. 👨‍🍳 Suggestion Chef (The Salesman)
+
+- Rooli: Matemaattinen optimoija ja Myyntitykki.
+
+- Toimintamalli: The Funnel (Filter -> Score -> Pitch).
+
+- Data-lähteet:
+
+  - Lookahead: Tarkistaa huomisen varaustilanteen ("High Demand" varoitus).
+
+  - Weather: Tarkka mm/h data (Sade rankaisee ulkoilua, ellei profiili ole "Sissi").
+
+- Scoring Formula (The Math): Score = (Match*W1) + (Weather*W2) + (Value*W3) + (Margin*W4) + (Novelty*W5)
+
+  - W (Painokertoimet): Muuttuvat asiakasprofiilin mukaan (Budjettimatkaajalla W3 on iso, Luksusmatkaajalla W3 on 0).
+
+- A/B Testing Engine:
+
+  - Valitsee Teeman (Romantiikka vs. Seikkailu).
+
+  - Valitsee Hookin (Myyntipuhe v1 vs. v2).
+
+  - Käyttää Wildcard-strategiaa (Champion/Challenger) datan keräämiseen.
