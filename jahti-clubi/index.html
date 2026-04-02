@@ -1,0 +1,1286 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jahti Clubi Puerto Banús – Eksklusiivinen Yhteisomistus</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Raleway:wght@300;400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --navy-deep: #0a1628;
+            --navy-mid: #1a2d4a;
+            --mediterranean: #2a4a6b;
+            --champagne: #f4e8d3;
+            --gold-soft: #c9a962;
+            --gold-bright: #d4b872;
+            --cream: #faf7f2;
+            --slate: #6b7c93;
+            --white: #ffffff;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html, body {
+            height: 100%;
+            overflow: hidden;
+            font-family: 'Raleway', sans-serif;
+            background: var(--navy-deep);
+            color: var(--cream);
+        }
+
+        /* Presentation Container */
+        .presentation {
+            width: 100%;
+            height: 100%;
+            position: relative;
+        }
+
+        /* Individual Slides */
+        .slide {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 60px 80px;
+            opacity: 0;
+            visibility: hidden;
+            transition: opacity 0.8s cubic-bezier(0.4, 0, 0.2, 1), visibility 0.8s;
+            background: linear-gradient(135deg, var(--navy-deep) 0%, var(--navy-mid) 50%, var(--mediterranean) 100%);
+            overflow: hidden;
+        }
+
+        .slide.active {
+            opacity: 1;
+            visibility: visible;
+        }
+
+        /* Subtle texture overlay */
+        .slide::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%' height='100%' filter='url(%23noise)'/%3E%3C/svg%3E");
+            opacity: 0.03;
+            pointer-events: none;
+        }
+
+        /* Decorative corner accents */
+        .slide::after {
+            content: '';
+            position: absolute;
+            top: 30px;
+            left: 30px;
+            right: 30px;
+            bottom: 30px;
+            border: 1px solid rgba(201, 169, 98, 0.15);
+            pointer-events: none;
+        }
+
+        /* Typography */
+        h1 {
+            font-family: 'Cormorant Garamond', serif;
+            font-weight: 300;
+            font-size: clamp(2.5rem, 6vw, 5rem);
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: var(--cream);
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            font-family: 'Cormorant Garamond', serif;
+            font-weight: 400;
+            font-size: clamp(2rem, 4vw, 3.5rem);
+            letter-spacing: 0.08em;
+            color: var(--cream);
+            margin-bottom: 40px;
+            text-align: center;
+        }
+
+        h3 {
+            font-family: 'Cormorant Garamond', serif;
+            font-weight: 500;
+            font-size: clamp(1.2rem, 2vw, 1.6rem);
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            color: var(--gold-soft);
+            margin-bottom: 15px;
+        }
+
+        p {
+            font-weight: 300;
+            font-size: clamp(1rem, 1.5vw, 1.2rem);
+            line-height: 1.8;
+            color: rgba(250, 247, 242, 0.85);
+            max-width: 700px;
+            text-align: center;
+        }
+
+        .tagline {
+            font-family: 'Cormorant Garamond', serif;
+            font-style: italic;
+            font-weight: 300;
+            font-size: clamp(1.2rem, 2vw, 1.6rem);
+            color: var(--gold-soft);
+            letter-spacing: 0.05em;
+        }
+
+        /* Slide Counter */
+        .slide-counter {
+            position: fixed;
+            bottom: 40px;
+            right: 50px;
+            font-family: 'Raleway', sans-serif;
+            font-weight: 300;
+            font-size: 0.85rem;
+            letter-spacing: 0.2em;
+            color: rgba(201, 169, 98, 0.6);
+            z-index: 100;
+        }
+
+        /* Navigation Hint */
+        .nav-hint {
+            position: fixed;
+            bottom: 40px;
+            left: 50px;
+            font-weight: 300;
+            font-size: 0.75rem;
+            letter-spacing: 0.15em;
+            color: rgba(250, 247, 242, 0.3);
+            text-transform: uppercase;
+            z-index: 100;
+        }
+
+        /* Logo / Anchor */
+        .logo {
+            position: fixed;
+            top: 40px;
+            left: 50px;
+            z-index: 100;
+        }
+
+        .logo svg {
+            width: 40px;
+            height: 40px;
+            fill: var(--gold-soft);
+            opacity: 0.7;
+        }
+
+        /* ===== SLIDE 1: Title ===== */
+        .slide-1 .content {
+            text-align: center;
+            position: relative;
+            z-index: 2;
+        }
+
+        .slide-1 .hero-placeholder {
+            width: 100%;
+            max-width: 900px;
+            height: 350px;
+            margin-bottom: 50px;
+            position: relative;
+            border: 1px solid rgba(201, 169, 98, 0.3);
+            background: url('hero.jpg') center center / cover no-repeat;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+
+        .slide-1 .hero-placeholder::before {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 60%;
+            background: linear-gradient(to top, rgba(10, 22, 40, 0.9), transparent);
+        }
+
+        .slide-1 .hero-placeholder .yacht-silhouette {
+            opacity: 0.15;
+        }
+
+        .slide-1 .hero-text {
+            position: absolute;
+            bottom: 30px;
+            left: 30px;
+            text-align: left;
+        }
+
+        .slide-1 .hero-text span {
+            display: block;
+            font-family: 'Raleway', sans-serif;
+            font-weight: 300;
+            font-size: 0.8rem;
+            letter-spacing: 0.25em;
+            text-transform: uppercase;
+            color: rgba(201, 169, 98, 0.7);
+        }
+
+        .slide-1 h1 {
+            margin-bottom: 15px;
+        }
+
+        .divider {
+            width: 60px;
+            height: 1px;
+            background: var(--gold-soft);
+            margin: 25px auto;
+            opacity: 0.5;
+        }
+
+        /* ===== SLIDE 2: The Vessel ===== */
+        .slide-2 .content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 80px;
+            align-items: center;
+            max-width: 1200px;
+            width: 100%;
+        }
+
+        .slide-2 .vessel-visual {
+            position: relative;
+            height: 400px;
+            border: 1px solid rgba(201, 169, 98, 0.25);
+            background: url('alus.jpg') center center / cover no-repeat;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .slide-2 .vessel-visual svg {
+            width: 80%;
+            opacity: 0.2;
+        }
+
+        .slide-2 .vessel-badge {
+            position: absolute;
+            bottom: -20px;
+            right: 30px;
+            background: var(--navy-deep);
+            border: 1px solid var(--gold-soft);
+            padding: 10px 25px;
+        }
+
+        .slide-2 .vessel-badge span {
+            font-family: 'Cormorant Garamond', serif;
+            font-style: italic;
+            font-size: 1.1rem;
+            color: var(--gold-soft);
+        }
+
+        .slide-2 .vessel-info {
+            text-align: left;
+        }
+
+        .slide-2 .vessel-info h2 {
+            text-align: left;
+            margin-bottom: 30px;
+        }
+
+        .slide-2 .vessel-info p {
+            text-align: left;
+            margin-bottom: 25px;
+        }
+
+        .feature-list {
+            list-style: none;
+            margin: 30px 0;
+        }
+
+        .feature-list li {
+            font-weight: 300;
+            font-size: 1rem;
+            color: rgba(250, 247, 242, 0.8);
+            padding: 12px 0;
+            border-bottom: 1px solid rgba(201, 169, 98, 0.15);
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .feature-list li svg {
+            width: 16px;
+            height: 16px;
+            fill: var(--gold-soft);
+            flex-shrink: 0;
+        }
+
+        /* Enhanced Adventure Callout */
+        .adventure-callout {
+            margin-top: 40px;
+            padding: 30px 35px;
+            position: relative;
+            background: linear-gradient(135deg, rgba(201, 169, 98, 0.12), rgba(201, 169, 98, 0.04));
+            border: 1px solid var(--gold-soft);
+            box-shadow: 
+                0 0 30px rgba(201, 169, 98, 0.1),
+                inset 0 1px 0 rgba(255, 255, 255, 0.05);
+        }
+
+        .adventure-callout::before {
+            content: '';
+            position: absolute;
+            top: -1px;
+            left: 30px;
+            right: 30px;
+            height: 3px;
+            background: linear-gradient(90deg, transparent, var(--gold-soft), transparent);
+        }
+
+        .adventure-callout::after {
+            content: '✦';
+            position: absolute;
+            top: -12px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 0.9rem;
+            color: var(--gold-soft);
+            background: var(--navy-mid);
+            padding: 0 15px;
+        }
+
+        .adventure-callout h3 {
+            margin-bottom: 12px;
+            color: var(--gold-bright);
+            font-size: 1.1rem;
+            letter-spacing: 0.12em;
+        }
+
+        .adventure-callout p {
+            font-style: italic;
+            margin: 0;
+            font-size: 0.95rem;
+            color: rgba(250, 247, 242, 0.9);
+        }
+
+        /* ===== SLIDE 3: Ownership Model ===== */
+        .slide-3 .content {
+            text-align: center;
+            max-width: 1000px;
+        }
+
+        .ownership-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 40px;
+            margin-top: 50px;
+        }
+
+        .ownership-card {
+            padding: 40px 30px;
+            background: rgba(26, 45, 74, 0.4);
+            border: 1px solid rgba(201, 169, 98, 0.2);
+            transition: all 0.4s ease;
+        }
+
+        .ownership-card:hover {
+            border-color: rgba(201, 169, 98, 0.5);
+            transform: translateY(-5px);
+        }
+
+        .ownership-card .number {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 3rem;
+            font-weight: 300;
+            color: var(--gold-soft);
+            line-height: 1;
+            margin-bottom: 15px;
+        }
+
+        .ownership-card .label {
+            font-size: 0.85rem;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: rgba(250, 247, 242, 0.5);
+            margin-bottom: 20px;
+        }
+
+        .ownership-card .desc {
+            font-size: 0.95rem;
+            line-height: 1.7;
+            color: rgba(250, 247, 242, 0.75);
+        }
+
+        .slide-3 .tagline {
+            margin-top: 50px;
+            display: block;
+        }
+
+        /* ===== SLIDE 4: Costs vs Income ===== */
+        .slide-4 .content {
+            max-width: 1100px;
+            width: 100%;
+        }
+
+        .slide-4 h2 {
+            margin-bottom: 20px;
+        }
+
+        .slide-4 .intro-text {
+            text-align: center;
+            margin: 0 auto 40px auto;
+            font-size: 1rem;
+            color: rgba(250, 247, 242, 0.7);
+        }
+
+        .economics-visual {
+            display: grid;
+            grid-template-columns: 1fr auto 1fr;
+            gap: 50px;
+            align-items: stretch;
+        }
+
+        .cost-side, .income-side {
+            padding: 40px;
+            position: relative;
+        }
+
+        .cost-side {
+            background: rgba(10, 22, 40, 0.5);
+            border: 1px solid rgba(250, 247, 242, 0.1);
+        }
+
+        .income-side {
+            background: linear-gradient(135deg, rgba(201, 169, 98, 0.15), rgba(201, 169, 98, 0.05));
+            border: 1px solid rgba(201, 169, 98, 0.3);
+        }
+
+        .economics-label {
+            font-size: 0.75rem;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            color: var(--slate);
+            margin-bottom: 20px;
+        }
+
+        .income-side .economics-label {
+            color: var(--gold-soft);
+        }
+
+        .economics-value {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 3.5rem;
+            font-weight: 300;
+            color: var(--cream);
+            margin-bottom: 10px;
+        }
+
+        .income-side .economics-value {
+            color: var(--gold-soft);
+        }
+
+        .economics-detail {
+            font-size: 0.9rem;
+            color: rgba(250, 247, 242, 0.6);
+            line-height: 1.7;
+        }
+
+        .economics-breakdown {
+            margin-top: 25px;
+            padding-top: 20px;
+            border-top: 1px solid rgba(250, 247, 242, 0.1);
+        }
+
+        .breakdown-item {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.85rem;
+            color: rgba(250, 247, 242, 0.5);
+            padding: 8px 0;
+        }
+
+        .breakdown-item .value {
+            color: rgba(250, 247, 242, 0.7);
+        }
+
+        .income-side .breakdown-item .value {
+            color: var(--gold-soft);
+        }
+
+        .equals-sign {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+
+        .equals-sign svg {
+            width: 50px;
+            height: 50px;
+            fill: var(--gold-soft);
+            opacity: 0.6;
+        }
+
+        .equals-sign span {
+            font-family: 'Cormorant Garamond', serif;
+            font-style: italic;
+            font-size: 1.1rem;
+            color: var(--gold-soft);
+            text-align: center;
+        }
+
+        .result-banner {
+            margin-top: 50px;
+            padding: 25px 40px;
+            background: linear-gradient(90deg, transparent, rgba(201, 169, 98, 0.1), transparent);
+            text-align: center;
+            border-top: 1px solid rgba(201, 169, 98, 0.2);
+            border-bottom: 1px solid rgba(201, 169, 98, 0.2);
+        }
+
+        .result-banner p {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 1.4rem;
+            font-style: italic;
+            color: var(--gold-soft);
+            max-width: none;
+        }
+
+        .result-banner .profit-highlight {
+            display: block;
+            margin-top: 10px;
+            font-size: 1.1rem;
+            color: var(--cream);
+        }
+
+        /* ===== SLIDE 5: Join the Club ===== */
+        .slide-5 .content {
+            text-align: center;
+            max-width: 800px;
+        }
+
+        .slide-5 h2 {
+            margin-bottom: 30px;
+        }
+
+        .slide-5 p {
+            margin-bottom: 40px;
+        }
+
+        .cta-link {
+            display: inline-block;
+            padding: 18px 45px;
+            border: 1px solid var(--gold-soft);
+            color: var(--gold-soft);
+            text-decoration: none;
+            font-size: 0.85rem;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            transition: all 0.4s ease;
+            margin-bottom: 50px;
+        }
+
+        .cta-link:hover {
+            background: var(--gold-soft);
+            color: var(--navy-deep);
+        }
+
+        .final-note {
+            margin-top: 30px;
+            padding-top: 30px;
+            border-top: 1px solid rgba(201, 169, 98, 0.2);
+        }
+
+        .final-note p {
+            font-style: italic;
+            font-size: 1rem;
+            color: rgba(250, 247, 242, 0.6);
+        }
+
+        .club-emblem {
+            margin-top: 40px;
+            opacity: 0.3;
+        }
+
+        .club-emblem svg {
+            width: 60px;
+            height: 60px;
+            fill: var(--gold-soft);
+        }
+
+        /* ===== Animations ===== */
+        .slide.active .content > * {
+            animation: fadeUp 0.8s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+            opacity: 0;
+        }
+
+        .slide.active .content > *:nth-child(1) { animation-delay: 0.1s; }
+        .slide.active .content > *:nth-child(2) { animation-delay: 0.2s; }
+        .slide.active .content > *:nth-child(3) { animation-delay: 0.3s; }
+        .slide.active .content > *:nth-child(4) { animation-delay: 0.4s; }
+        .slide.active .content > *:nth-child(5) { animation-delay: 0.5s; }
+        .slide.active .content > *:nth-child(6) { animation-delay: 0.6s; }
+
+        @keyframes fadeUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Pulse animation for adventure callout */
+        .adventure-callout {
+            animation: subtleGlow 3s ease-in-out infinite;
+        }
+
+        @keyframes subtleGlow {
+            0%, 100% {
+                box-shadow: 0 0 30px rgba(201, 169, 98, 0.1);
+            }
+            50% {
+                box-shadow: 0 0 40px rgba(201, 169, 98, 0.2);
+            }
+        }
+
+        /* ===== Responsive ===== */
+        @media (max-width: 1024px) {
+            .slide {
+                padding: 40px;
+            }
+
+            .slide-2 .content {
+                grid-template-columns: 1fr;
+                gap: 40px;
+            }
+
+            .slide-2 .vessel-visual {
+                height: 250px;
+            }
+
+            .ownership-grid {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+
+            .economics-visual {
+                grid-template-columns: 1fr;
+                gap: 30px;
+            }
+
+            .equals-sign {
+                flex-direction: row;
+            }
+
+            .equals-sign svg {
+                transform: rotate(90deg);
+            }
+        }
+
+        /* ===== Mobile Optimizations ===== */
+        @media (max-width: 768px) {
+            /* Radikaalisti pienempi padding - "native app" -tyyli */
+            .slide {
+                padding: 20px;
+                justify-content: flex-start;
+                padding-top: 70px;
+                padding-bottom: 80px;
+                overflow-y: auto;
+                -webkit-overflow-scrolling: touch;
+            }
+
+            /* Decorative border tiiviimpi */
+            .slide::after {
+                top: 12px;
+                left: 12px;
+                right: 12px;
+                bottom: 12px;
+            }
+
+            /* Typography - merkittävästi pienempi */
+            h1 {
+                font-size: 2rem !important;
+                letter-spacing: 0.08em;
+                margin-bottom: 12px;
+            }
+
+            h2 {
+                font-size: 1.75rem !important;
+                margin-bottom: 20px;
+            }
+
+            h3 {
+                font-size: 1rem !important;
+                margin-bottom: 10px;
+            }
+
+            p {
+                font-size: 0.95rem;
+                line-height: 1.65;
+            }
+
+            .tagline {
+                font-size: 1rem !important;
+            }
+
+            /* Navigaatio selkeästi esille */
+            .slide-counter {
+                bottom: auto;
+                top: 20px;
+                right: 20px;
+                background: rgba(10, 22, 40, 0.85);
+                padding: 8px 14px;
+                border-radius: 20px;
+                border: 1px solid rgba(201, 169, 98, 0.3);
+                font-size: 0.8rem;
+                z-index: 200;
+            }
+
+            .nav-hint {
+                bottom: 25px;
+                left: 50%;
+                transform: translateX(-50%);
+                background: rgba(10, 22, 40, 0.85);
+                padding: 10px 20px;
+                border-radius: 25px;
+                border: 1px solid rgba(201, 169, 98, 0.25);
+                font-size: 0.7rem;
+                z-index: 200;
+            }
+
+            .logo {
+                top: 18px;
+                left: 20px;
+            }
+
+            .logo svg {
+                width: 32px;
+                height: 32px;
+            }
+
+            /* SLIDE 1: Title - mobiilioptimoidtu */
+            .slide-1 .content {
+                width: 100%;
+            }
+
+            .slide-1 .hero-placeholder {
+                max-width: 100%;
+                height: auto;
+                max-height: 28vh;
+                margin-bottom: 25px;
+                min-height: 150px;
+            }
+
+            .slide-1 .hero-text {
+                bottom: 15px;
+                left: 15px;
+            }
+
+            .slide-1 .hero-text span {
+                font-size: 0.7rem;
+            }
+
+            .divider {
+                width: 40px;
+                margin: 15px auto;
+            }
+
+            /* SLIDE 2: Vessel - kuva ensin, sitten teksti */
+            .slide-2 .content {
+                grid-template-columns: 1fr !important;
+                gap: 25px;
+                max-width: 100%;
+            }
+
+            .slide-2 .vessel-visual {
+                order: 1;
+                height: auto;
+                max-height: 25vh;
+                min-height: 140px;
+            }
+
+            .slide-2 .vessel-info {
+                order: 2;
+            }
+
+            .slide-2 .vessel-info h2 {
+                text-align: center;
+                margin-bottom: 10px;
+            }
+
+            .slide-2 .vessel-info h3 {
+                text-align: center;
+            }
+
+            .slide-2 .vessel-info p {
+                text-align: center;
+                margin-bottom: 15px;
+            }
+
+            .slide-2 .vessel-badge {
+                bottom: -12px;
+                right: 15px;
+                padding: 6px 15px;
+            }
+
+            .slide-2 .vessel-badge span {
+                font-size: 0.9rem;
+            }
+
+            .feature-list {
+                margin: 15px 0;
+            }
+
+            .feature-list li {
+                font-size: 0.9rem;
+                padding: 10px 0;
+                gap: 10px;
+            }
+
+            .feature-list li svg {
+                width: 14px;
+                height: 14px;
+            }
+
+            .adventure-callout {
+                margin-top: 20px;
+                padding: 20px;
+            }
+
+            .adventure-callout h3 {
+                font-size: 0.95rem;
+            }
+
+            .adventure-callout p {
+                font-size: 0.85rem;
+            }
+
+            /* SLIDE 3: Ownership - yksisarakkeinen */
+            .slide-3 .content {
+                max-width: 100%;
+            }
+
+            .ownership-grid {
+                grid-template-columns: 1fr !important;
+                gap: 15px;
+                margin-top: 25px;
+            }
+
+            .ownership-card {
+                padding: 25px 20px;
+            }
+
+            .ownership-card .number {
+                font-size: 2.2rem;
+                margin-bottom: 8px;
+            }
+
+            .ownership-card .label {
+                font-size: 0.75rem;
+                margin-bottom: 12px;
+            }
+
+            .ownership-card .desc {
+                font-size: 0.85rem;
+                line-height: 1.6;
+            }
+
+            .slide-3 .tagline {
+                margin-top: 25px;
+            }
+
+            /* SLIDE 4: Economics - yksisarakkeinen */
+            .slide-4 .content {
+                max-width: 100%;
+            }
+
+            .slide-4 .intro-text {
+                margin-bottom: 25px;
+                font-size: 0.9rem;
+            }
+
+            .economics-visual {
+                grid-template-columns: 1fr !important;
+                gap: 20px;
+            }
+
+            .cost-side, .income-side {
+                padding: 25px 20px;
+            }
+
+            .economics-label {
+                font-size: 0.7rem;
+                margin-bottom: 12px;
+            }
+
+            .economics-value {
+                font-size: 2.5rem;
+                margin-bottom: 8px;
+            }
+
+            .economics-detail {
+                font-size: 0.85rem;
+            }
+
+            .economics-breakdown {
+                margin-top: 18px;
+                padding-top: 15px;
+            }
+
+            .breakdown-item {
+                font-size: 0.8rem;
+                padding: 6px 0;
+            }
+
+            .equals-sign {
+                flex-direction: row;
+                padding: 10px 0;
+            }
+
+            .equals-sign svg {
+                width: 35px;
+                height: 35px;
+                transform: rotate(90deg);
+            }
+
+            .equals-sign span {
+                font-size: 0.9rem;
+            }
+
+            .result-banner {
+                margin-top: 25px;
+                padding: 18px 20px;
+            }
+
+            .result-banner p {
+                font-size: 1.1rem;
+            }
+
+            .result-banner .profit-highlight {
+                font-size: 0.95rem;
+            }
+
+            /* SLIDE 5: Join */
+            .slide-5 .content {
+                max-width: 100%;
+            }
+
+            .slide-5 p {
+                margin-bottom: 25px;
+            }
+
+            .cta-link {
+                padding: 15px 35px;
+                font-size: 0.8rem;
+                margin-bottom: 30px;
+            }
+
+            .final-note {
+                margin-top: 20px;
+                padding-top: 20px;
+            }
+
+            .final-note p {
+                font-size: 0.9rem;
+            }
+
+            .club-emblem {
+                margin-top: 25px;
+            }
+
+            .club-emblem svg {
+                width: 45px;
+                height: 45px;
+            }
+        }
+
+        @media (max-width: 600px) {
+            .slide::after {
+                top: 10px;
+                left: 10px;
+                right: 10px;
+                bottom: 10px;
+            }
+
+            .nav-hint {
+                display: block;
+            }
+
+            .logo {
+                top: 16px;
+                left: 16px;
+            }
+        }
+
+        /* Hide nav-hint on slide 2 */
+        .nav-hint.hide-on-slide-2 {
+            opacity: 0;
+            visibility: hidden;
+        }
+    </style>
+</head>
+<body>
+    <!-- Logo -->
+    <div class="logo">
+        <svg viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+            <path d="M25 5 L45 40 L5 40 Z" fill="none" stroke="currentColor" stroke-width="1"/>
+            <circle cx="25" cy="28" r="8" fill="none" stroke="currentColor" stroke-width="1"/>
+        </svg>
+    </div>
+
+    <!-- Navigation Hint -->
+    <div class="nav-hint">← → Navigoi</div>
+
+    <!-- Slide Counter -->
+    <div class="slide-counter">
+        <span class="current">1</span> / <span class="total">5</span>
+    </div>
+
+    <!-- Presentation -->
+    <div class="presentation">
+        
+        <!-- SLIDE 1: Title -->
+        <div class="slide slide-1 active">
+            <div class="content">
+                <div class="hero-placeholder">
+                    <div class="hero-text">
+                        <span>Fairline 64 GT "Guinevere"</span>
+                    </div>
+                </div>
+                <h1>Jahti Clubi Puerto Banús</h1>
+                <div class="divider"></div>
+                <p class="tagline">Huoletonta luksusveneilyä Espanjan auringossa</p>
+            </div>
+        </div>
+
+        <!-- SLIDE 2: The Vessel -->
+        <div class="slide slide-2">
+            <div class="content">
+                <div class="vessel-visual">
+                    <div class="vessel-badge">
+                        <span>"Guinevere"</span>
+                    </div>
+                </div>
+                <div class="vessel-info">
+                    <h2>Alus</h2>
+                    <h3>Fairline 64 GT</h3>
+                    <p>Upea 64-jalkainen moottorijahti — huolella pidetty ja valmis viemään sinut Välimeren parhaisiin kohteisiin.</p>
+                    <ul class="feature-list">
+                        <li>
+                            <svg viewBox="0 0 24 24"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"/></svg>
+                            64 jalkaa brittiläistä mestarityötä
+                        </li>
+                        <li>
+                            <svg viewBox="0 0 24 24"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"/></svg>
+                            Vuosimalli 2008, säännöllisesti modernisoitu
+                        </li>
+                        <li>
+                            <svg viewBox="0 0 24 24"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"/></svg>
+                            Täysvarusteltu pitkille risteilyille
+                        </li>
+                    </ul>
+                    <div class="adventure-callout">
+                        <h3>Kevään 2026 Siirtopurjehdus</h3>
+                        <p>Lähde mukaan unohtumattomalle matkalle, kun viemme Guineveren uuteen kotisatamaan Puerto Banúsiin. Paikkoja rajoitetusti.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- SLIDE 3: Ownership Model -->
+        <div class="slide slide-3">
+            <div class="content">
+                <h2>Fiksu Tapa Omistaa</h2>
+                <p>Nauti jahdin omistamisen parhaista puolista — ilman yksinomistajan vastuita ja kuluja. Osaomistajuus tekee luksuksesta saavutettavaa ja järkevää.</p>
+                <div class="ownership-grid">
+                    <div class="ownership-card">
+                        <div class="number">1/12</div>
+                        <div class="label">Omistusosuus</div>
+                        <div class="desc">Aito omistajuus, ei vuokrausta. Täysin velaton alus, selkeät pelisäännöt.</div>
+                    </div>
+                    <div class="ownership-card">
+                        <div class="number">€50k</div>
+                        <div class="label">Osuus velattomasta aluksesta</div>
+                        <div class="desc">Kertainvestointi ilman rahoituskuluja. Läpinäkyvä ja suoraviivainen.</div>
+                    </div>
+                    <div class="ownership-card">
+                        <div class="number">5</div>
+                        <div class="label">Viikkoa merellä</div>
+                        <div class="desc">5 kiertävää viikkoa. Käytä itse tai vuokraa haluamasi viikot.</div>
+                    </div>
+                </div>
+                <span class="tagline">Enemmän merellä, vähemmän hallintoa</span>
+            </div>
+        </div>
+
+        <!-- SLIDE 4: Economics -->
+        <div class="slide slide-4">
+            <div class="content">
+                <h2>Kulut ja Tuotot</h2>
+                <p class="intro-text">Vuosikulut ~79 000 € jaetaan tasan 12 omistajan kesken — täysin läpinäkyvästi</p>
+                <div class="economics-visual">
+                    <div class="cost-side">
+                        <div class="economics-label">Kuukausikulu / omistaja</div>
+                        <div class="economics-value">~548 €</div>
+                        <div class="economics-detail">Kattaa kaiken: sataman, vakuutukset, huollot</div>
+                        <div class="economics-breakdown">
+                            <div class="breakdown-item">
+                                <span>Laituripaikka Puerto Banús</span>
+                                <span class="value">Sisältyy</span>
+                            </div>
+                            <div class="breakdown-item">
+                                <span>Täysvakuutus</span>
+                                <span class="value">Sisältyy</span>
+                            </div>
+                            <div class="breakdown-item">
+                                <span>Huolto ja ylläpito</span>
+                                <span class="value">Sisältyy</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="equals-sign">
+                        <svg viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M10 18 L40 18 L35 13 M40 18 L35 23" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M40 32 L10 32 L15 27 M10 32 L15 37" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                        <span>Katetaan<br>charter-tuloilla</span>
+                    </div>
+                    <div class="income-side">
+                        <div class="economics-label">Mahdollinen tuotto / omistaja</div>
+                        <div class="economics-value">~350 €</div>
+                        <div class="economics-detail">Kuukausittainen lisätulo charter-vuokrauksesta</div>
+                        <div class="economics-breakdown">
+                            <div class="breakdown-item">
+                                <span>3–4 viikon vuokraus</span>
+                                <span class="value">Kattaa kulut</span>
+                            </div>
+                            <div class="breakdown-item">
+                                <span>Charter-hallinta</span>
+                                <span class="value">Hoidetaan puolestasi</span>
+                            </div>
+                            <div class="breakdown-item">
+                                <span>Tuotto sinulle</span>
+                                <span class="value">Suoraan tilille</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="result-banner">
+                    <p>Parhaimmillaan veneilet ilmaiseksi — ja tienaat samalla</p>
+                    <span class="profit-highlight">Charterilla jopa ~350 €/kk käteen kulujen jälkeen</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- SLIDE 5: Join -->
+        <div class="slide slide-5">
+            <div class="content">
+                <h2>Liity Mukaan</h2>
+                <p>Liity osaksi samanhenkistä ystäväpiiriä ja nauti Välimeren parhaista puolista — ilman omistamisen vaivaa.</p>
+                <a href="https://norskomarine.com/veneet/fairline-64-gt-936177/" target="_blank" rel="noopener" class="cta-link">Tutustu Alukseen</a>
+                <div class="final-note">
+                    <p>Vain 12 osuutta. Varaa paikkasi keväälle 2026.</p>
+                </div>
+                <div class="club-emblem">
+                    <svg viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="30" cy="30" r="28" fill="none" stroke="currentColor" stroke-width="1"/>
+                        <path d="M30 10 L33 22 L45 22 L35 30 L38 42 L30 35 L22 42 L25 30 L15 22 L27 22 Z" fill="currentColor"/>
+                    </svg>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+        // Presentation Logic
+        const slides = document.querySelectorAll('.slide');
+        const currentSpan = document.querySelector('.slide-counter .current');
+        const totalSpan = document.querySelector('.slide-counter .total');
+        const navHint = document.querySelector('.nav-hint');
+        let currentSlide = 0;
+        const totalSlides = slides.length;
+
+        totalSpan.textContent = totalSlides;
+
+        function showSlide(index) {
+            // Wrap around
+            if (index < 0) index = totalSlides - 1;
+            if (index >= totalSlides) index = 0;
+
+            // Update active class
+            slides.forEach((slide, i) => {
+                slide.classList.toggle('active', i === index);
+            });
+
+            // Hide nav-hint on slide 2 (index 1)
+            navHint.classList.toggle('hide-on-slide-2', index === 1);
+
+            currentSlide = index;
+            currentSpan.textContent = currentSlide + 1;
+        }
+
+        // Keyboard Navigation
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowRight' || e.key === ' ') {
+                e.preventDefault();
+                showSlide(currentSlide + 1);
+            } else if (e.key === 'ArrowLeft') {
+                e.preventDefault();
+                showSlide(currentSlide - 1);
+            }
+        });
+
+        // Touch Navigation
+        let touchStartX = 0;
+        let touchEndX = 0;
+
+        document.addEventListener('touchstart', (e) => {
+            touchStartX = e.changedTouches[0].screenX;
+        });
+
+        document.addEventListener('touchend', (e) => {
+            touchEndX = e.changedTouches[0].screenX;
+            handleSwipe();
+        });
+
+        function handleSwipe() {
+            const swipeThreshold = 50;
+            const diff = touchStartX - touchEndX;
+            
+            if (Math.abs(diff) > swipeThreshold) {
+                if (diff > 0) {
+                    showSlide(currentSlide + 1);
+                } else {
+                    showSlide(currentSlide - 1);
+                }
+            }
+        }
+
+        // Click Navigation (optional - click left/right sides)
+        document.addEventListener('click', (e) => {
+            const clickX = e.clientX;
+            const windowWidth = window.innerWidth;
+            
+            // Ignore clicks on links
+            if (e.target.tagName === 'A') return;
+            
+            if (clickX > windowWidth * 0.7) {
+                showSlide(currentSlide + 1);
+            } else if (clickX < windowWidth * 0.3) {
+                showSlide(currentSlide - 1);
+            }
+        });
+    </script>
+</body>
+</html>
