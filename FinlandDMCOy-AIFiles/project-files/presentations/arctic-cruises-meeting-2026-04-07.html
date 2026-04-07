@@ -1,0 +1,840 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arctic Cruises Saimaa - Projektipalaveri 7.4.2026</title>
+    <meta property="og:title" content="Arctic Cruises Saimaa — Projektipalaveri 7.4.2026">
+    <meta property="og:description" content="Arctic Cruises Saimaa — projektin tilannekatsaus, budjetti ja tehtävälista">
+    <meta property="og:image" content="images/lakeland/lkl-aerial-saimaa-autumn.jpg">
+    <link rel="stylesheet" href="template-styles-v3.css">
+
+    <style>
+        /* ---- Backgrounds ---- */
+        .cover-arctic  { background-image: url('images/lakeland/lkl-aerial-saimaa-autumn.jpg'); background-position: 50% 50%; }
+        .closing-arctic { background-image: url('images/lakeland/jys-general-sunset-champagne.jpg'); background-position: 50% 60%; }
+
+        /* ---- Meeting badge ---- */
+        .meeting-badge {
+            display: inline-block;
+            background: rgba(255,255,255,0.18);
+            border: 1px solid rgba(255,255,255,0.45);
+            color: white;
+            font-family: var(--font-body);
+            font-size: 0.72rem;
+            font-weight: 600;
+            letter-spacing: 0.16em;
+            text-transform: uppercase;
+            padding: 6px 16px;
+            border-radius: 3px;
+            margin-bottom: 22px;
+        }
+
+        /* ---- Full-content slide ---- */
+        .slide-fullcontent {
+            background: var(--cream);
+            padding: 40px 60px 36px 60px;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+        }
+
+        /* ---- Split slide (42% photo | 58% content) ---- */
+        .slide-split { display: flex; min-height: 100vh; }
+        .split-photo { width: 42%; position: relative; overflow: hidden; flex-shrink: 0; }
+        .split-photo img { width: 100%; height: 100%; object-fit: cover; object-position: var(--focal-x,50%) var(--focal-y,50%); }
+        .split-content {
+            flex: 1;
+            padding: 44px 48px 40px 48px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            background: var(--cream);
+            overflow-y: auto;
+        }
+
+        /* ---- Labels & titles ---- */
+        .section-label {
+            font-family: var(--font-body);
+            font-size: 0.7rem;
+            font-weight: 700;
+            letter-spacing: 0.16em;
+            text-transform: uppercase;
+            color: var(--brand-blue);
+            margin-bottom: 8px;
+        }
+        .slide-title {
+            font-family: var(--font-display);
+            font-size: 2.3rem;
+            font-weight: 600;
+            color: var(--text-charcoal);
+            line-height: 1.2;
+            margin-bottom: 24px;
+        }
+
+        /* ---- Laura role card ---- */
+        .role-proposal {
+            background: white;
+            border-radius: 10px;
+            border-left: 5px solid #2C7A2C;
+            padding: 26px 28px;
+            margin-top: 4px;
+        }
+        .role-label {
+            font-size: 0.7rem;
+            font-weight: 700;
+            letter-spacing: 0.14em;
+            text-transform: uppercase;
+            color: #2C7A2C;
+            margin-bottom: 6px;
+        }
+        .role-name {
+            font-family: var(--font-display);
+            font-size: 2.4rem;
+            font-weight: 400;
+            font-style: italic;
+            color: var(--text-charcoal);
+            margin-bottom: 4px;
+        }
+        .role-title-line {
+            font-size: 0.88rem;
+            color: var(--text-medium);
+            font-style: italic;
+            margin-bottom: 18px;
+        }
+        .role-list { list-style: none; padding: 0; margin: 0; }
+        .role-list li {
+            padding: 5px 0 5px 22px;
+            position: relative;
+            font-size: 0.86rem;
+            border-bottom: 1px solid var(--cream-dark);
+            line-height: 1.45;
+        }
+        .role-list li::before { content: "·"; position: absolute; left: 0; color: #2C7A2C; font-weight: 700; }
+        .support-box {
+            background: var(--cream-dark);
+            border-radius: 6px;
+            padding: 12px 16px;
+            margin-top: 16px;
+            font-size: 0.82rem;
+            color: var(--text-medium);
+        }
+
+        /* ---- 3-night itinerary cards ---- */
+        .itinerary-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; flex: 1; }
+        .itinerary-night { background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.12); display: flex; flex-direction: column; }
+        .night-header { background: var(--brand-blue); color: white; padding: 12px 16px 10px; }
+        .night-header.green { background: #2C3E2F; }
+        .night-header.teal  { background: #1a4a6b; }
+        .night-number { font-size: 0.67rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; opacity: 0.82; }
+        .night-location { font-family: var(--font-display); font-size: 1.28rem; font-weight: 600; margin-top: 2px; }
+        .night-photo { width: 100%; height: 160px; object-fit: cover; display: block; }
+        .night-body { padding: 12px 14px; flex: 1; }
+        .night-detail { font-size: 0.78rem; color: var(--text-medium); line-height: 1.5; }
+        .night-highlight { font-size: 0.78rem; font-weight: 600; color: var(--text-charcoal); margin-top: 7px; }
+
+        /* ---- Cruise day schedule ---- */
+        .cruise-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 22px; margin-top: 4px; }
+        .cruise-section h3 {
+            font-family: var(--font-body);
+            font-size: 0.74rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--brand-blue);
+            padding-bottom: 6px;
+            border-bottom: 2px solid var(--brand-blue);
+            margin-bottom: 12px;
+        }
+        .schedule-row { display: flex; gap: 12px; padding: 6px 0; border-bottom: 1px solid var(--cream-dark); align-items: flex-start; }
+        .schedule-time { font-size: 0.72rem; font-weight: 700; color: var(--brand-blue); min-width: 60px; padding-top: 2px; }
+        .schedule-event { font-size: 0.8rem; color: var(--text-charcoal); line-height: 1.4; }
+        .schedule-event .stop { font-weight: 700; }
+        .schedule-event .sub { font-size: 0.73rem; color: var(--text-medium); margin-top: 1px; }
+
+        /* ---- FAM detail schedule ---- */
+        .fam-day-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-top: 8px; }
+        .fam-day-card { background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 8px rgba(0,0,0,0.07); }
+        .fam-day-header { padding: 10px 14px 8px; }
+        .fam-day-number { font-size: 0.66rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; opacity: 0.85; }
+        .fam-day-title { font-family: var(--font-display); font-size: 1.1rem; font-weight: 600; margin-top: 2px; line-height: 1.2; }
+        .fam-day-body { padding: 10px 14px 12px; }
+        .fam-time-row { display: flex; gap: 8px; padding: 4px 0; border-bottom: 1px dotted var(--cream-dark); align-items: flex-start; }
+        .fam-time { font-size: 0.68rem; font-weight: 700; min-width: 42px; color: var(--brand-blue); padding-top: 1px; }
+        .fam-event { font-size: 0.76rem; color: var(--text-charcoal); line-height: 1.35; }
+        .fam-payer { display: inline-block; font-size: 0.62rem; font-weight: 600; padding: 1px 5px; border-radius: 2px; margin-top: 2px; }
+        .pays-city { background: #e8f0fe; color: #1a56db; }
+        .pays-visitorg { background: #e8f5e9; color: #2C7A2C; }
+        .pays-dmc { background: #fff3cd; color: #92600a; }
+
+        /* ---- Partnership cards ---- */
+        .partner-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-top: 16px; }
+        .partner-card { background: white; border: 1px solid var(--cream-dark); border-radius: 8px; padding: 18px; border-left: 4px solid var(--brand-blue); }
+        .partner-card.urgent { border-left-color: #CC0000; }
+        .partner-name { font-weight: 700; font-family: var(--font-body); font-size: 0.87rem; color: var(--text-charcoal); margin-bottom: 6px; }
+        .partner-role { font-size: 0.79rem; color: var(--text-medium); line-height: 1.5; }
+        .partner-amount { font-size: 1.02rem; font-weight: 700; color: var(--brand-blue); margin-top: 8px; }
+        .partner-amount.red { color: #CC0000; }
+
+        /* ---- Budget table ---- */
+        .budget-table { width: 100%; border-collapse: collapse; font-family: var(--font-body); font-size: 0.8rem; margin-top: 16px; }
+        .budget-table th { background: var(--text-charcoal); color: white; padding: 8px 12px; text-align: left; font-weight: 600; font-size: 0.7rem; letter-spacing: 0.07em; text-transform: uppercase; }
+        .budget-table td { padding: 7px 12px; border-bottom: 1px solid var(--cream-dark); vertical-align: middle; }
+        .budget-table tr.total td { background: var(--brand-blue); color: white; font-weight: 700; font-size: 0.85rem; }
+        .budget-table tr.funding-row td { background: rgba(44,122,44,0.08); }
+        .budget-table tr.net-row td { background: var(--text-charcoal); color: white; font-weight: 700; }
+        .confirmed-tag { background: #e8f5e9; color: #2C7A2C; font-size: 0.68rem; font-weight: 700; padding: 1px 6px; border-radius: 2px; }
+        .tbc-tag { background: #fff3cd; color: #92600a; font-size: 0.68rem; font-weight: 700; padding: 1px 6px; border-radius: 2px; }
+        .inkind-tag { background: #e8f0fe; color: #1a56db; font-size: 0.68rem; font-weight: 700; padding: 1px 6px; border-radius: 2px; }
+
+        /* ---- Task table ---- */
+        .task-table { width: 100%; border-collapse: collapse; font-family: var(--font-body); font-size: 0.8rem; }
+        .task-table th { background: var(--text-charcoal); color: white; padding: 8px 12px; text-align: left; font-weight: 600; font-size: 0.7rem; letter-spacing: 0.08em; text-transform: uppercase; }
+        .task-table td { padding: 8px 12px; border-bottom: 1px solid var(--cream-dark); vertical-align: top; }
+        .task-table tr:nth-child(even) td { background: rgba(240,232,220,0.4); }
+        .badge-critical { background: #CC0000; color: white; padding: 2px 7px; border-radius: 3px; font-size: 0.68rem; font-weight: 700; }
+        .badge-open { background: var(--cream-dark); color: var(--text-charcoal); padding: 2px 7px; border-radius: 3px; font-size: 0.68rem; font-weight: 600; }
+        .badge-tbc { background: #f0a500; color: white; padding: 2px 7px; border-radius: 3px; font-size: 0.68rem; font-weight: 600; }
+
+        /* ---- Checklist ---- */
+        .checklist { list-style: none; padding: 0; margin: 0; }
+        .checklist li { padding: 6px 0 6px 26px; position: relative; font-size: 0.86rem; border-bottom: 1px solid var(--cream-dark); line-height: 1.4; }
+        .checklist li::before { position: absolute; left: 0; top: 6px; }
+        .checklist li.done::before  { content: "✅"; }
+        .checklist li.open::before  { content: "⬜"; }
+        .checklist li.urgent::before { content: "🔴"; }
+
+        /* ---- Timeline milestones ---- */
+        .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 36px; }
+        .col-section h3 { font-family: var(--font-body); font-size: 0.74rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; color: var(--brand-blue); margin-bottom: 12px; padding-bottom: 6px; border-bottom: 2px solid var(--brand-blue); }
+        .milestone-list { list-style: none; padding: 0; position: relative; }
+        .milestone-list::before { content: ''; position: absolute; left: 17px; top: 0; bottom: 0; width: 2px; background: var(--cream-dark); }
+        .milestone-item { padding: 7px 0 7px 44px; position: relative; }
+        .milestone-item::before { content: ''; position: absolute; left: 9px; top: 12px; width: 16px; height: 16px; border-radius: 50%; background: var(--brand-blue); }
+        .milestone-item.critical::before { background: #CC0000; }
+        .milestone-item.done::before { background: #2C7A2C; }
+        .milestone-date { font-size: 0.7rem; font-weight: 700; color: var(--brand-blue); text-transform: uppercase; letter-spacing: 0.07em; }
+        .milestone-item.critical .milestone-date { color: #CC0000; }
+        .milestone-desc { font-size: 0.84rem; color: var(--text-charcoal); margin-top: 2px; font-weight: 500; }
+        .milestone-sub { font-size: 0.76rem; color: var(--text-medium); margin-top: 1px; }
+
+        /* ---- Alert boxes ---- */
+        .alert-yellow { background: #fff8e1; border-left: 4px solid #f0a500; padding: 10px 14px; border-radius: 4px; font-size: 0.82rem; color: var(--text-charcoal); margin-top: 14px; line-height: 1.5; }
+        .alert-green  { background: #e8f5e9; border-left: 4px solid #2C7A2C; padding: 10px 14px; border-radius: 4px; font-size: 0.82rem; color: var(--text-charcoal); margin-top: 14px; line-height: 1.5; }
+
+        /* ---- Stats number override ---- */
+        .stat-item .number { color: var(--brand-blue); }
+
+        /* ---- Departure cards ---- */
+        .dep-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin: 12px 0 16px; }
+        .dep-card { background: white; border-radius: 8px; text-align: center; padding: 14px 10px; box-shadow: 0 1px 6px rgba(0,0,0,0.07); border-top: 4px solid var(--brand-blue); }
+        .dep-num { font-size: 0.68rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-medium); }
+        .dep-date { font-family: var(--font-display); font-size: 1.6rem; font-weight: 600; color: var(--brand-blue); }
+        .dep-sub { font-size: 0.74rem; color: var(--text-medium); margin-top: 3px; }
+
+        /* ---- Horizontal 4-phase timeline ---- */
+        .timeline-h { display:flex; align-items:stretch; gap:0; margin:10px 0 16px; flex:1; }
+        .tl-phase { flex:1; background:white; border-radius:8px; padding:18px 16px 16px; box-shadow:0 2px 10px rgba(0,0,0,0.08); position:relative; display:flex; flex-direction:column; }
+        .tl-phase.phase-fam { flex:1.25; background:#f0f4ff; border:2px solid var(--brand-blue); }
+        .tl-num { width:30px; height:30px; border-radius:50%; display:flex; align-items:center; justify-content:center; font-weight:700; font-size:0.88rem; color:white; margin-bottom:8px; }
+        .phase-prep .tl-num      { background:#8a8a8a; }
+        .phase-fam .tl-num       { background:var(--brand-blue); }
+        .phase-catalogue .tl-num { background:var(--gold); }
+        .phase-launch .tl-num    { background:#2C7A2C; }
+        .tl-period { font-size:0.67rem; font-weight:700; text-transform:uppercase; letter-spacing:0.1em; color:var(--text-medium); margin-bottom:4px; }
+        .tl-title { font-family:var(--font-display); font-size:1.25rem; font-weight:600; color:var(--text-charcoal); margin-bottom:8px; }
+        .tl-bullets { list-style:none; padding:0; margin:0; font-size:0.77rem; color:var(--text-medium); line-height:1.6; flex:1; }
+        .tl-bullets li { padding:2px 0 2px 12px; position:relative; }
+        .tl-bullets li::before { content:"–"; position:absolute; left:0; }
+        .tl-badge { display:inline-block; background:var(--brand-blue); color:white; font-size:0.6rem; font-weight:700; letter-spacing:0.1em; text-transform:uppercase; padding:2px 7px; border-radius:3px; margin-top:8px; align-self:flex-start; }
+        .tl-arrow { display:flex; align-items:center; padding:0 8px; font-size:1.6rem; color:var(--cream-dark); font-weight:300; }
+        .tl-internal-bar { background:var(--cream-dark); border-radius:5px; padding:7px 14px; font-size:0.72rem; color:var(--text-medium); display:flex; gap:8px; flex-wrap:wrap; }
+        .tl-int-sep { color:var(--text-light); }
+
+        /* ---- FAM departure bar (3+1 layout) ---- */
+        .fam-departure-bar { background:var(--text-charcoal); color:white; border-radius:8px; padding:16px 24px; margin-top:14px; display:flex; gap:32px; align-items:center; }
+        .fam-dep-label { font-family:var(--font-display); font-size:1.2rem; font-weight:600; color:white; min-width:160px; }
+        .fam-dep-items { display:flex; gap:24px; flex:1; flex-wrap:wrap; }
+        .fam-dep-item { font-size:0.8rem; color:rgba(255,255,255,0.8); line-height:1.5; }
+
+        /* ---- Cruise schedule table ---- */
+        .cruise-header { background:var(--text-charcoal); color:white; padding:8px 14px; border-radius:6px 6px 0 0; font-size:0.74rem; font-weight:700; text-transform:uppercase; letter-spacing:0.07em; }
+        .cruise-table { width:100%; border-collapse:collapse; }
+        .cruise-table tr { border-bottom:1px solid var(--cream-dark); }
+        .ct-time { font-size:0.72rem; font-weight:700; color:var(--brand-blue); padding:6px 10px 6px 0; white-space:nowrap; vertical-align:top; width:85px; }
+        .ct-event { font-size:0.79rem; color:var(--text-charcoal); padding:6px 0; line-height:1.4; }
+        .ct-sub { font-size:0.72rem; color:var(--text-medium); }
+
+        /* ---- Net result highlight ---- */
+        .net-result-box { border:2px solid #2C7A2C; border-radius:8px; padding:16px 20px; margin-top:16px; background:#f5fbf5; }
+        .net-result-box .nr-title { font-size:0.72rem; font-weight:700; letter-spacing:0.1em; text-transform:uppercase; color:#2C7A2C; margin-bottom:6px; }
+        .net-result-box .nr-main { font-family:var(--font-display); font-size:1.6rem; font-weight:600; color:var(--text-charcoal); line-height:1.2; }
+        .net-result-box .nr-sub { font-size:0.79rem; color:var(--text-medium); margin-top:8px; }
+    </style>
+</head>
+<body>
+<div id="slide-counter" class="slide-counter"></div>
+<div id="overview-container" class="overview-container"></div>
+
+
+<!-- ============================================================ -->
+<!-- SLIDE 1: COVER                                               -->
+<!-- ============================================================ -->
+<section class="slide slide-cover cover-arctic">
+    <div class="overlay"></div>
+    <div class="content">
+        <div class="meeting-badge">Projektipalaveri — 7. huhtikuuta 2026</div>
+        <h1>Arctic Cruises<br>Saimaa</h1>
+        <p class="tagline">Risteile maailman puhtaimmissa, jääkauden muovaamissa vesissä</p>
+    </div>
+</section>
+
+
+<!-- ============================================================ -->
+<!-- SLIDE 2: LAURA — VETOVASTUU                                 -->
+<!-- ============================================================ -->
+<section class="slide slide-split">
+    <div class="split-photo">
+        <img src="images/lakeland/jys-aerial-resort-autumn.jpg"
+             style="--focal-x: 50%; --focal-y: 35%;"
+             alt="Järvisydän Resort — Arctic Cruises päätekohde">
+    </div>
+    <div class="split-content">
+        <div class="section-label">Ehdotus — Arctic Cruises -vetovastuu</div>
+        <div class="slide-title" style="font-size: 1.9rem; margin-bottom: 16px;">Kuka johtaa<br>tätä projektia?</div>
+
+        <div class="role-proposal">
+            <div class="role-label">Rooli ehdotus</div>
+            <div class="role-name">Laura</div>
+            <div class="role-title-line">Arctic Cruises Product Manager — FinlandDMC:n sisäinen erikoisrooli</div>
+
+            <ul class="role-list">
+                <li>PRD:n omistaja — aikataulu, ohjelma, hinnoittelu, varausehdot</li>
+                <li>Operaattoriyhteydenpito — pääkontakti kaikille B2B-asiakkaille</li>
+                <li>FAM-matkan koordinointi — 31.8.–3.9.2026</li>
+                <li>Visit-orgit, Sahanlahti, Järvisydän — kumppanisuhteet</li>
+                <li>Produktin kaupallinen lanseeraus 2027</li>
+            </ul>
+
+            <div class="support-box">
+                🤝 <strong>Patrick tukee:</strong> strategiset päätökset, rahoitusneuvottelut (VisitFinland, Lappeenranta kaupunki), sopimusehdot. Laura operatiivinen vetovastuullinen.
+            </div>
+        </div>
+
+        <p style="margin-top: 14px; font-size: 0.8rem; color: var(--text-medium); font-style: italic;">
+            Käsitellään tässä palaverissa — onko Laura valmis ottamaan roolin?
+        </p>
+    </div>
+</section>
+
+
+<!-- ============================================================ -->
+<!-- SLIDE 3: PROJEKTI PÄHKINÄNKUORESSA                         -->
+<!-- ============================================================ -->
+<section class="slide slide-stats">
+    <div class="photo-side">
+        <img src="images/lakeland/ms-puijo-ship.jpg"
+             style="--focal-x: 50%; --focal-y: 50%;"
+             alt="M/S Karelia laiva Saimaalla">
+    </div>
+    <div class="stats-side">
+        <h2>Projekti pähkinänkuoressa</h2>
+        <p class="intro-text">Tavoite: kansainvälinen moniöinen risteilytuote Järvi-Suomeen 2027. Vieraat yöpyvät laadukkaissa rantakohteissa — ei hyttimajoituksessa. FAM-matka syyskuu 2026 avaa operaattorisuhteet.</p>
+        <div class="stats-grid">
+            <div class="stat-item">
+                <div class="number">200</div>
+                <div class="label">M/S Karelia — matkustajakapasiteetti</div>
+            </div>
+            <div class="stat-item">
+                <div class="number">40–80</div>
+                <div class="label">Tavoite FAM-operaattoreita</div>
+            </div>
+            <div class="stat-item">
+                <div class="number">€300</div>
+                <div class="label">Net-hinta/hlö/vrk operaattoreille</div>
+            </div>
+            <div class="stat-item">
+                <div class="number">2027</div>
+                <div class="label">Ensimmäinen kaupallinen kausi</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- ============================================================ -->
+<!-- SLIDE 4: 3 YÖN FAM-OHJELMA (venues)                        -->
+<!-- ============================================================ -->
+<section class="slide slide-fullcontent">
+    <div class="section-label">FAM-matka 31.8.–3.9.2026 — pysähdykset</div>
+    <div class="slide-title">3 yön ohjelma — pysähdykset ja kohteet</div>
+
+    <div class="itinerary-grid">
+        <div class="itinerary-night">
+            <div class="night-header">
+                <div class="night-number">Yö 1 — 31.8.2026</div>
+                <div class="night-location">Lappeenranta</div>
+            </div>
+            <img src="images/lakeland/lappeenranta-harbor-sunset.jpg" class="night-photo" alt="Lappeenranta satama" style="object-position: 50% 60%;">
+            <div class="night-body">
+                <p class="night-detail">Operaattorit saapuvat HEL:stä. Check-in hotelliin. Tervetulotilaisuus ja -illallinen.</p>
+                <p class="night-highlight">🏛️ Lappeenranta kaupunki maksaa yön + illallisen</p>
+            </div>
+        </div>
+
+        <div class="itinerary-night">
+            <div class="night-header teal">
+                <div class="night-number">Yö 2 — 1.9.2026</div>
+                <div class="night-location">Sahanlahti, Puumala</div>
+            </div>
+            <img src="images/lakeland/lkl-general-sahanlahti-summer.jpg" class="night-photo" alt="Sahanlahti Resort" style="object-position: 50% 40%;">
+            <div class="night-body">
+                <p class="night-detail">M/S Karelia lähtee klo 10:00. Pysähdys Imatralla. Saapuminen Sahanlahteen klo 17:30. Verkostoitumisillallinen.</p>
+                <p class="night-highlight">🏨 Visit-organisaatiot maksavat majoituksen</p>
+            </div>
+        </div>
+
+        <div class="itinerary-night">
+            <div class="night-header green">
+                <div class="night-number">Yö 3 — 2.9.2026</div>
+                <div class="night-location">Järvisydän, Rantasalmi</div>
+            </div>
+            <img src="images/lakeland/jys-aerial-kota-autumn.jpg" class="night-photo" alt="Järvisydän Resort" style="object-position: 50% 30%;">
+            <div class="night-body">
+                <p class="night-detail">Lähtö 09:00, pysähdys Savonlinnassa. Saapuminen Järvisydämeen. Gaalailtallinen + 2027 tuote-esittely.</p>
+                <p class="night-highlight">🔥 Visit-organisaatiot maksavat majoituksen</p>
+            </div>
+        </div>
+    </div>
+
+    <p style="margin-top: 14px; font-size: 0.77rem; color: var(--text-light); font-style: italic;">
+        3.9. aamupäivällä: tilausbussi Järvisydän → Helsinki-Vantaa (klo ~10:00–13:30) · Majoitukset + kuljetukset = Visit-organisaatioiden vastuu
+    </p>
+</section>
+
+
+<!-- ============================================================ -->
+<!-- SLIDE 5: REITTI KARTALLA                                    -->
+<!-- ============================================================ -->
+<section class="slide slide-map">
+    <div class="map-side">
+        <img src="images/general/saimaa-waterway-map.jpg"
+             alt="Saimaan vesistöreitti — Arctic Cruises"
+             style="object-fit: contain; width: 100%; height: 100%; background: white; padding: 20px;">
+    </div>
+    <div class="text-side">
+        <h2>Reitti kartalla</h2>
+        <p>M/S Karelia kulkee Saimaan kanavaston sydämessä. Kolme samanaikaista silmukkaa 2027 kaudella — 18 lähtöpäivää.</p>
+        <ul class="route-list" style="margin-top: 18px;">
+            <li><strong>Lappeenranta</strong> <span class="time">Kotiasema · Lähtö</span></li>
+            <li><strong>Imatra</strong> <span class="time">90 min pysähdys · Imatrankoski</span></li>
+            <li><strong>Puumala / Sahanlahti</strong> <span class="time">Yöpyminen · 5★ resort</span></li>
+            <li><strong>Savonlinna</strong> <span class="time">90 min pysähdys · Olavinlinna</span></li>
+            <li><strong>Rantasalmi / Järvisydän</strong> <span class="time">Yöpyminen · 5★ resort</span></li>
+            <li><strong>Varkaus</strong> <span class="time">90 min pysähdys · Kanavat</span></li>
+            <li><strong>Kuopio</strong> <span class="time">Käännöspiste · 2 yötä</span></li>
+        </ul>
+        <p style="margin-top: 16px; font-size: 0.82rem; color: var(--text-medium);">
+            🌿 UNESCO Saimaan biosfäärialue &nbsp;·&nbsp; 🦭 Saimaan norppa ~530 yksilöä<br>
+            🏆 Euroopan gastronomiaregion 2024 &nbsp;·&nbsp; 🚂 HEL→LPR Pendolino ~2h30
+        </p>
+    </div>
+</section>
+
+
+<!-- ============================================================ -->
+<!-- SLIDE 6: 2027 RISTEILYN AIKATAULU + OHJELMA LAIVALLA       -->
+<!-- ============================================================ -->
+<section class="slide slide-fullcontent">
+    <div class="section-label">Kaupallinen tuote 2027</div>
+    <div class="slide-title">M/S Karelia — aikataulu &amp; ohjelma laivalla</div>
+
+    <div class="dep-grid">
+        <div class="dep-card">
+            <div class="dep-num">Lähtö 1</div>
+            <div class="dep-date">11.8.2027</div>
+            <div class="dep-sub">Ke · Lappeenranta</div>
+        </div>
+        <div class="dep-card">
+            <div class="dep-num">Lähtö 2</div>
+            <div class="dep-date">18.8.2027</div>
+            <div class="dep-sub">Ke · Lappeenranta</div>
+        </div>
+        <div class="dep-card">
+            <div class="dep-num">Lähtö 3</div>
+            <div class="dep-date">25.8.2027</div>
+            <div class="dep-sub">Ke · Lappeenranta</div>
+        </div>
+    </div>
+
+    <div class="cruise-grid">
+        <div class="cruise-section">
+            <div class="cruise-header">Päivä 1 — LPR → Imatra → Puumala</div>
+            <table class="cruise-table">
+                <tr><td class="ct-time">10:00</td><td class="ct-event"><strong>Lähtö Lappeenrannasta</strong><br><span class="ct-sub">Kapteenin tervehdys, ohjelmabriefaus, turvallisuus</span></td></tr>
+                <tr><td class="ct-time">10:30–12:00</td><td class="ct-event">Ohjattu narraatio: Saimaan kanava, norppa, saaristo<br><span class="ct-sub">Kahvi + karjalanpiirakat · avoin kansi</span></td></tr>
+                <tr><td class="ct-time">12:30–13:30</td><td class="ct-event"><strong>🛑 Imatra — 90 min</strong><br><span class="ct-sub">Imatrankoski, Valtionhotelli, kävelykierros</span></td></tr>
+                <tr><td class="ct-time">13:30–15:00</td><td class="ct-event">Lounas — Saimaa Restaurant (3 ruokalajia)<br><span class="ct-sub">Kuhaa tillikkakastikkeessa, sienimuhennos</span></td></tr>
+                <tr><td class="ct-time">15:30–16:00</td><td class="ct-event">Valinnainen: "Saimaa — The Untold Story"<br><span class="ct-sub">Salonki · maks. 25 hlöä · ei myyntitilaisuus</span></td></tr>
+                <tr><td class="ct-time">17:30</td><td class="ct-event"><strong>🏨 Saapuminen Sahanlahteen</strong><br><span class="ct-sub">Check-in · vapaata aikaa · sauna</span></td></tr>
+                <tr><td class="ct-time">19:00–21:30</td><td class="ct-event"><strong>Verkostoitumisillallinen No. 1</strong><br><span class="ct-sub">Pöytäryhmät teemoittain (luonto/kulttuuri/hyvinvointi/aktiivi)</span></td></tr>
+            </table>
+        </div>
+
+        <div class="cruise-section">
+            <div class="cruise-header">Päivä 2 — Puumala → Savonlinna → Järvisydän</div>
+            <table class="cruise-table">
+                <tr><td class="ct-time">09:00</td><td class="ct-event"><strong>Lähtö Sahanlahdesta</strong><br><span class="ct-sub">Aamukahvi · Carelia Lounge auki</span></td></tr>
+                <tr><td class="ct-time">09:30–12:00</td><td class="ct-event">Narraatio: Haukivesi, gastronomia 2024, historia<br><span class="ct-sub">Kauneinta reittiä — maksimaalinen saaristo</span></td></tr>
+                <tr><td class="ct-time">12:00–13:15</td><td class="ct-event">Lounas — Saimaa Restaurant<br><span class="ct-sub">Poronkäristys, paikallinen sienitorttu</span></td></tr>
+                <tr><td class="ct-time">13:30–15:00</td><td class="ct-event"><strong>🛑 Savonlinna — 90 min</strong><br><span class="ct-sub">Olavinlinna 1475, tori, oopperakonteksti</span></td></tr>
+                <tr><td class="ct-time">14:00–14:30</td><td class="ct-event">Valinnainen: "Miten myydä Saimaa-risteilyjä"<br><span class="ct-sub">Laura · hinnat, ryhmät, komissiot · maks. 20 hlöä</span></td></tr>
+                <tr><td class="ct-time">18:00</td><td class="ct-event"><strong>🏨 Saapuminen Järvisydämeen</strong><br><span class="ct-sub">Check-in · spa · puoli-formaali pukeutuminen</span></td></tr>
+                <tr><td class="ct-time">19:00–22:00</td><td class="ct-event"><strong>Gaalailtallinen + 2027 tuote-esittely</strong><br><span class="ct-sub">4 ruokalajia · viinipari · Laura/Patrick esittelee</span></td></tr>
+            </table>
+        </div>
+    </div>
+</section>
+
+
+<!-- ============================================================ -->
+<!-- SLIDE 7: FAM-MATKAN TARKKA AIKATAULU                       -->
+<!-- ============================================================ -->
+<section class="slide slide-fullcontent">
+    <div class="section-label">FAM-matka — tarkka aikataulu</div>
+    <div class="slide-title">31.8.–3.9.2026 — päivä kerrallaan</div>
+
+    <div class="fam-day-grid">
+
+        <div class="fam-day-card">
+            <div class="fam-day-header" style="background: var(--brand-blue); color: white;">
+                <div class="fam-day-number" style="opacity:0.8;">Päivä 0 — Ma 31.8.</div>
+                <div class="fam-day-title" style="color:white;">Lappeenranta<br>Saapuminen</div>
+            </div>
+            <div class="fam-day-body">
+                <div class="fam-time-row"><div class="fam-time">12:00–</div><div class="fam-event">Lennot HEL:iin Euroopasta<div><span class="fam-payer pays-city">Lappeenranta City</span></div></div></div>
+                <div class="fam-time-row"><div class="fam-time">15:00</div><div class="fam-event">Tilausbussi tai juna HEL → LPR<div><span class="fam-payer pays-city">Lappeenranta City</span></div></div></div>
+                <div class="fam-time-row"><div class="fam-time">17:00</div><div class="fam-event">Check-in hotelli Lappeenranta<div><span class="fam-payer pays-city">Lappeenranta City</span></div></div></div>
+                <div class="fam-time-row"><div class="fam-time">19:00</div><div class="fam-event">Tervetulotilaisuus + illallinen<div><span class="fam-payer pays-city">Lappeenranta City</span></div></div></div>
+            </div>
+        </div>
+
+        <div class="fam-day-card">
+            <div class="fam-day-header" style="background: #1a4a6b; color: white;">
+                <div class="fam-day-number" style="opacity:0.8;">Päivä 1 — Ti 1.9.</div>
+                <div class="fam-day-title" style="color:white;">M/S Karelia<br>→ Sahanlahti</div>
+            </div>
+            <div class="fam-day-body">
+                <div class="fam-time-row"><div class="fam-time">10:00</div><div class="fam-event">Laivaan · Kapteenin tervehdys<div><span class="fam-payer pays-city">M/S Karelia in-kind</span></div></div></div>
+                <div class="fam-time-row"><div class="fam-time">12:30</div><div class="fam-event">Pysähdys Imatralla — 60 min<div><span class="fam-payer pays-dmc">Finland DMC</span></div></div></div>
+                <div class="fam-time-row"><div class="fam-time">13:30</div><div class="fam-event">Lounas laivalla (3 ruokalajia)<div><span class="fam-payer pays-city">M/S Karelia in-kind</span></div></div></div>
+                <div class="fam-time-row"><div class="fam-time">17:30</div><div class="fam-event">Check-in Sahanlahti Resort<div><span class="fam-payer pays-visitorg">Visit-organisaatiot</span></div></div></div>
+                <div class="fam-time-row"><div class="fam-time">19:00</div><div class="fam-event">Verkostoitumisillallinen No. 1<div><span class="fam-payer pays-visitorg">Visit-organisaatiot</span></div></div></div>
+            </div>
+        </div>
+
+        <div class="fam-day-card">
+            <div class="fam-day-header" style="background: #2C3E2F; color: white;">
+                <div class="fam-day-number" style="opacity:0.8;">Päivä 2 — Ke 2.9.</div>
+                <div class="fam-day-title" style="color:white;">M/S Karelia<br>→ Järvisydän</div>
+            </div>
+            <div class="fam-day-body">
+                <div class="fam-time-row"><div class="fam-time">09:00</div><div class="fam-event">Lähtö Sahanlahdesta<div><span class="fam-payer pays-city">M/S Karelia in-kind</span></div></div></div>
+                <div class="fam-time-row"><div class="fam-time">12:00</div><div class="fam-event">Lounas laivalla (3 ruokalajia)<div><span class="fam-payer pays-city">M/S Karelia in-kind</span></div></div></div>
+                <div class="fam-time-row"><div class="fam-time">13:30</div><div class="fam-event">Pysähdys Savonlinnassa — 90 min<div><span class="fam-payer pays-dmc">Finland DMC</span></div></div></div>
+                <div class="fam-time-row"><div class="fam-time">18:00</div><div class="fam-event">Check-in Järvisydän Resort<div><span class="fam-payer pays-visitorg">Visit-organisaatiot</span></div></div></div>
+                <div class="fam-time-row"><div class="fam-time">19:00</div><div class="fam-event">Gaalailtallinen + 2027-esittely<div><span class="fam-payer pays-visitorg">Visit-organisaatiot</span></div></div></div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="fam-departure-bar">
+        <div class="fam-dep-label">Päivä 3 — To 3.9.<br>Kotiinlähtö</div>
+        <div class="fam-dep-items">
+            <div class="fam-dep-item">08:00 Aamiainen Järvisydämessä</div>
+            <div class="fam-dep-item">10:00 Tilausbussi JYS → Helsinki-Vantaa</div>
+            <div class="fam-dep-item">13:30 Saapuminen HEL:iin</div>
+            <div class="fam-dep-item">14:00+ Paluulennot Eurooppaan</div>
+            <div class="fam-dep-item">+48h Seurantaviesti operaattoreille</div>
+        </div>
+    </div>
+
+    <div class="alert-green" style="margin-top: 14px;">
+        🎯 <strong>Gaalailtallinen 2.9. on kriittisin hetki:</strong> Laura/Patrick esittelee 2027-tuotteen hinnat, operaattorisopimuksen ehdot ja varausjärjestelmän. Operaattorit voivat ilmoittautua ohjelmaan jo FAM-matkalla. Katalogit sulkeutuvat loka–marraskuussa.
+    </div>
+</section>
+
+
+<!-- ============================================================ -->
+<!-- SLIDE 8: KUMPPANUUSMALLI                                    -->
+<!-- ============================================================ -->
+<section class="slide slide-fullcontent">
+    <div class="section-label">Yhteistyömalli</div>
+    <div class="slide-title">Kuka tuo mitä — kumppanuusmalli</div>
+
+    <div class="partner-grid">
+        <div class="partner-card">
+            <div class="partner-name">🚢 Arctic Cruises Oy</div>
+            <div class="partner-role">M/S Karelia — kiinteät käyttökustannukset ja ruoka &amp; juoma laivalla. Projektin koordinointi. 2 lounasvuoropäivää laivalla.</div>
+            <div class="partner-amount">€20 000 (Lappeenranta City)</div>
+        </div>
+
+        <div class="partner-card">
+            <div class="partner-name">🏨 Sahanlahti Resort + Järvisydän Oy</div>
+            <div class="partner-role">F&amp;B + majoitus omissa kohteissaan. Sahanlahti: Puumala Yö 2. Järvisydän: Rantasalmi Yö 3 (gaalailtallinen + tulikattaus).</div>
+            <div class="partner-amount">~€21 000 in-kind (60 pax)</div>
+        </div>
+
+        <div class="partner-card urgent">
+            <div class="partner-name">🏛️ Visit-organisaatiot ← REKRYTOITAVA NYT</div>
+            <div class="partner-role">Majoituskustannukset Sahanlahdessa + Järvisydämessä + kuljetukset. Heidän kauttaan yhteys VisitFinlandiin ja Finnairiin lentojen rahoittamiseksi.</div>
+            <div class="partner-amount red">Teams-kutsu tällä viikolla ⚠️</div>
+        </div>
+
+        <div class="partner-card">
+            <div class="partner-name">✈️ VisitFinland + Finnair</div>
+            <div class="partner-role">FAM-vieraiden lennot HEL:iin ja takaisin. ~€250–300/hlö → 60 paxilla ~€15–18k. Yhteys kanavoidaan Visit-organisaatioiden kautta.</div>
+            <div class="partner-amount">~€15–18 000 (TBC, Visit-org hakee)</div>
+        </div>
+    </div>
+
+    <div class="alert-yellow">
+        💡 <strong>Logiikka:</strong> Visit-orgit mukaan → he hakevat VisitFinland + Finnair -rahoituksen → saadaan 40–80 kv. operaattoria FAM-matkalle → 2027 risteilyt täyttyvät. Ilman Visit-orgeja koko rahoitusketju katkeaa.
+    </div>
+</section>
+
+
+<!-- ============================================================ -->
+<!-- SLIDE 9: TALOUDELLINEN MALLI — 60 HLÖ BUDJETTI             -->
+<!-- ============================================================ -->
+<section class="slide slide-fullcontent">
+    <div class="section-label">Taloudellinen malli</div>
+    <div class="slide-title" style="margin-bottom: 6px;">FAM-matkan budjetti — 60 henkilön esimerkki</div>
+    <p style="font-size: 0.8rem; color: var(--text-medium); margin-bottom: 12px;">Lähde: FAM-BUDGET-2026.xlsx — arvio 40 + 80 pax skenaarioiden keskiarvo</p>
+
+    <table class="budget-table">
+        <thead>
+            <tr>
+                <th>Kuluerä</th>
+                <th>Maksaja</th>
+                <th style="text-align:right;">60 pax (€)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td colspan="3" style="background: var(--cream-dark); font-weight:700; font-size:0.72rem; letter-spacing:0.07em; text-transform:uppercase; padding: 5px 12px; color: var(--text-medium);">A — Lennot &amp; siirrot</td></tr>
+            <tr><td>Paluulennot Eurooppa ↔ HEL</td><td><span class="tbc-tag">TBC</span> VisitFinland/Finnair</td><td style="text-align:right;">~18 000</td></tr>
+            <tr><td>Siirto HEL → LPR (31.8.)</td><td><span class="tbc-tag">TBC</span> Lappeenranta City</td><td style="text-align:right;">~2 250</td></tr>
+            <tr><td>Siirto JYS → HEL (3.9.)</td><td><span class="tbc-tag">TBC</span> Finland DMC</td><td style="text-align:right;">~2 550</td></tr>
+
+            <tr><td colspan="3" style="background: var(--cream-dark); font-weight:700; font-size:0.72rem; letter-spacing:0.07em; text-transform:uppercase; padding: 5px 12px; color: var(--text-medium);">B — Majoitus &amp; ruokailu</td></tr>
+            <tr><td>LPR hotelli + illallinen (31.8.)</td><td><span class="confirmed-tag">✓ Varmistettu</span> Lappeenranta City</td><td style="text-align:right;">~6 000</td></tr>
+            <tr><td>Sahanlahti Resort (1.9.)</td><td><span class="tbc-tag">TBC</span> Visit-organisaatiot</td><td style="text-align:right;">~10 500</td></tr>
+            <tr><td>Järvisydän Resort (2.9.)</td><td><span class="tbc-tag">TBC</span> Visit-organisaatiot</td><td style="text-align:right;">~10 500</td></tr>
+            <tr><td>M/S Karelia lounaat (2 pv)</td><td><span class="inkind-tag">IN KIND</span> Arctic Cruises Oy</td><td style="text-align:right;">0</td></tr>
+
+            <tr><td colspan="3" style="background: var(--cream-dark); font-weight:700; font-size:0.72rem; letter-spacing:0.07em; text-transform:uppercase; padding: 5px 12px; color: var(--text-medium);">C — Ohjelma &amp; materiaalit</td></tr>
+            <tr><td>Oppaat (Imatra, Savonlinna)</td><td><span class="tbc-tag">TBC</span> Finland DMC</td><td style="text-align:right;">~1 800</td></tr>
+            <tr><td>DMC-henkilöstö (4 päivää)</td><td><span class="tbc-tag">TBC</span> Finland DMC</td><td style="text-align:right;">~3 000</td></tr>
+            <tr><td>Materiaalit + lahjat</td><td><span class="tbc-tag">TBC</span> Finland DMC</td><td style="text-align:right;">~1 800</td></tr>
+
+            <tr class="total"><td colspan="2"><strong>Bruttokustannus yhteensä</strong></td><td style="text-align:right;"><strong>~56 400</strong></td></tr>
+            <tr><td colspan="2">Varaus (10%)</td><td style="text-align:right;">~5 600</td></tr>
+            <tr class="total"><td colspan="2"><strong>KOKONAISBUDJETTI</strong></td><td style="text-align:right;"><strong>~€62 000</strong></td></tr>
+        </tbody>
+    </table>
+
+    <div class="net-result-box">
+        <div class="nr-title">Nettotulos — jos kaikki kumppanit varmistuvat</div>
+        <div class="nr-main">Nettokustannus Arctic Cruisesille ≈ <strong>€0</strong></div>
+        <div class="nr-sub">⚠️ Suurin riski: VisitFinland/Finnair-lennot TBC (~€18 000) · Lappeenranta kaupunki voi tarvittaessa joustaa ylöspäin · <span class="confirmed-tag">✓ Varmistettu</span> Lappeenranta €20 000 + M/S Karelia in-kind</div>
+    </div>
+</section>
+
+
+<!-- ============================================================ -->
+<!-- SLIDE 10: VALMIIT ASIAT                                     -->
+<!-- ============================================================ -->
+<section class="slide slide-split">
+    <div class="split-photo">
+        <img src="images/lakeland/lkl-general-saimaa-seal.jpg"
+             style="--focal-x: 50%; --focal-y: 40%;"
+             alt="Saimaan norppa">
+    </div>
+    <div class="split-content">
+        <div class="section-label">Projektin tila</div>
+        <div class="slide-title" style="font-size: 2rem; margin-bottom: 16px;">Mitä on jo tehty</div>
+
+        <ul class="checklist">
+            <li class="done">Tuotedokumentti v1.0 — PRD, reitti, ohjelma (pohja valmis)</li>
+            <li class="done">One-pager v2.0 operaattoreille</li>
+            <li class="done">Operator FAQ v1.3 — myyntiargumentit, GSTC-suunnitelma</li>
+            <li class="done">GSTC-toimintasuunnitelma v1.2</li>
+            <li class="done">FAM-budjettilaskelma — 40 + 80 pax skenaariot</li>
+            <li class="done">Outreach-pohjat (UK, DACH, Benelux)</li>
+            <li class="done">Laivan ohjelmasuunnitelma v1.6 (ship-program-fam-2026-en.md)</li>
+            <li class="done">FAM-tutkimus — 80% konversiobenchmark dokumentoitu</li>
+            <li class="done">Markkinatutkimus: DACH, Benelux, UK operaattorit</li>
+            <li class="done">Järvisydän — Green Key -sertifikaatti ✅</li>
+        </ul>
+    </div>
+</section>
+
+
+<!-- ============================================================ -->
+<!-- SLIDE 11: AVOIMET TOIMITUKSET                               -->
+<!-- ============================================================ -->
+<section class="slide slide-fullcontent">
+    <div class="section-label">Tehtävälista</div>
+    <div class="slide-title" style="margin-bottom: 18px;">Avoimet toimitukset — prioriteettijärjestyksessä</div>
+
+    <table class="task-table">
+        <thead>
+            <tr>
+                <th>Tehtävä</th>
+                <th>Kuvaus</th>
+                <th>Vastuuhenkilö</th>
+                <th>Deadline</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Teams-kutsut Visit-organisaatioille</strong></td>
+                <td style="font-size:0.76rem;color:var(--text-medium)">GoSaimaa, Visit Saimaa, Etelä-Karjala, Etelä-Savo → sopimus: majoitus + kuljetus + VF-kontakti</td>
+                <td>Patrick / Liisa</td>
+                <td>Tämä viikko</td>
+                <td><span class="badge-critical">🔴 Kriittinen</span></td>
+            </tr>
+            <tr>
+                <td><strong>Laura ottaa vetovastuun (päätös)</strong></td>
+                <td style="font-size:0.76rem;color:var(--text-medium)">Arctic Cruises Product Manager -rooli FinlandDMC:n sisällä</td>
+                <td>Patrick + Laura</td>
+                <td>Tässä palaverissa</td>
+                <td><span class="badge-critical">🔴 Päätös</span></td>
+            </tr>
+            <tr>
+                <td><strong>PRD: tarkka aikataulu + ohjelma</strong></td>
+                <td style="font-size:0.76rem;color:var(--text-medium)">M/S Karelia täsmälliset lähtöajat, pysähdykset, ohjelma laivalla</td>
+                <td>Laura / Arctic Cruises Oy</td>
+                <td>Viikko 16–17</td>
+                <td><span class="badge-open">⬜ Avoin</span></td>
+            </tr>
+            <tr>
+                <td><strong>Hinnoittelu + komissiomalli</strong></td>
+                <td style="font-size:0.76rem;color:var(--text-medium)">Net/list, komissioprosentit, deposit-rakenne, single supplement</td>
+                <td>Patrick + Laura</td>
+                <td>Viikko 17–18</td>
+                <td><span class="badge-open">⬜ Avoin</span></td>
+            </tr>
+            <tr>
+                <td><strong>Sahanlahti — Green Key -vahvistus</strong></td>
+                <td style="font-size:0.76rem;color:var(--text-medium)">Onko hakemus käynnissä? Kapasiteetti 60–80 hlöä FAM-yönä?</td>
+                <td>Sahanlahti</td>
+                <td>14.4.2026</td>
+                <td><span class="badge-tbc">🟡 TBC</span></td>
+            </tr>
+            <tr>
+                <td><strong>FAM-flyer + myyntimateriaali</strong></td>
+                <td style="font-size:0.76rem;color:var(--text-medium)">Operaattoreille toukokuussa: one-pager + hinnat + komissiot</td>
+                <td>Finland DMC</td>
+                <td>Toukokuu 2026</td>
+                <td><span class="badge-open">⬜ Avoin</span></td>
+            </tr>
+            <tr>
+                <td><strong>Operaattori-myyntipaketti</strong></td>
+                <td style="font-size:0.76rem;color:var(--text-medium)">Presentaatio + booking terms — allekirjoitetaan FAM-matkalla</td>
+                <td>Finland DMC</td>
+                <td>Elokuu 2026</td>
+                <td><span class="badge-open">⬜ Avoin</span></td>
+            </tr>
+        </tbody>
+    </table>
+</section>
+
+
+<!-- ============================================================ -->
+<!-- SLIDE 12: AIKAJANA — OPERAATTORIN POLKU                    -->
+<!-- ============================================================ -->
+<section class="slide slide-fullcontent">
+    <div class="section-label">Operaattorin polku — 2026 → 2027</div>
+    <div class="slide-title">Selkeä aikajana — mitä tapahtuu ja milloin</div>
+
+    <div class="timeline-h">
+        <div class="tl-phase phase-prep">
+            <div class="tl-num">1</div>
+            <div class="tl-period">Toukokuu 2026</div>
+            <div class="tl-title">Kuulet tuotteesta</div>
+            <ul class="tl-bullets">
+                <li>One-pager + hinnasto</li>
+                <li>Net €300 / List €400 per vrk</li>
+                <li>Komissio 25–33%</li>
+            </ul>
+        </div>
+        <div class="tl-arrow">→</div>
+        <div class="tl-phase phase-fam">
+            <div class="tl-num">2</div>
+            <div class="tl-period">31.8.–3.9.2026</div>
+            <div class="tl-title">Koet tuotteen</div>
+            <ul class="tl-bullets">
+                <li>FAM-matka täysin hostattu</li>
+                <li>Lappeenranta → Sahanlahti → Järvisydän</li>
+                <li>Ilmoittaudut 2027 ohjelmaan paikan päällä</li>
+            </ul>
+            <div class="tl-badge">AVAINHETKI</div>
+        </div>
+        <div class="tl-arrow">→</div>
+        <div class="tl-phase phase-catalogue">
+            <div class="tl-num">3</div>
+            <div class="tl-period">Loka–Marraskuu 2026</div>
+            <div class="tl-title">Katalogipäätös</div>
+            <ul class="tl-bullets">
+                <li>Vahvistat tuotteen katalogiisi</li>
+                <li>Booking terms allekirjoitettu</li>
+                <li>Varaukset auki 2027 kaudelle</li>
+            </ul>
+        </div>
+        <div class="tl-arrow">→</div>
+        <div class="tl-phase phase-launch">
+            <div class="tl-num">4</div>
+            <div class="tl-period">Elokuu 2027</div>
+            <div class="tl-title">Myyt ja lähetät</div>
+            <ul class="tl-bullets">
+                <li>3 lähtöä: 11. · 18. · 25.8.2027</li>
+                <li>M/S Karelia · 200 pax</li>
+                <li>UNESCO Saimaa · 5★ rantalomakeskukset</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="tl-internal-bar">
+        <span class="tl-int-item">Huhtikuu: Visit-orgit + VisitFinland neuvottelut</span>
+        <span class="tl-int-sep">·</span>
+        <span class="tl-int-item">Kesäkuu: lennot varmistuvat</span>
+        <span class="tl-int-sep">·</span>
+        <span class="tl-int-item">Heinäkuu: 40–80 operaattoria vahvistanut</span>
+    </div>
+</section>
+
+
+<!-- ============================================================ -->
+<!-- SLIDE 13: CLOSING                                            -->
+<!-- ============================================================ -->
+<section class="slide slide-impact closing-arctic">
+    <div class="overlay"></div>
+    <div class="content">
+        <h2>"Saimaa on maailman puhtaimpien järvien joukossa — nyt teemme siitä maailmanluokan risteilykohteen."</h2>
+        <p style="margin-top: 30px; font-size: 0.95rem; opacity: 0.85; font-family: var(--font-body); letter-spacing: 0.05em;">
+            Arctic Cruises Oy &nbsp;·&nbsp; Finland DMC Oy &nbsp;·&nbsp; Järvisydän Oy &nbsp;·&nbsp; Sahanlahti Resort
+        </p>
+        <p style="margin-top: 10px; font-size: 0.8rem; opacity: 0.65; font-family: var(--font-body);">
+            Projektipalaveri 7.4.2026 &nbsp;·&nbsp; Confidential
+        </p>
+    </div>
+</section>
+
+
+<script src="presentation-mode.js"></script>
+</body>
+</html>
