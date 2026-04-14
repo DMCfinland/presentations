@@ -108,8 +108,8 @@
         .scenario-card .scenario-detail { font-size: 0.72rem; color: rgba(255,255,255,0.5); line-height: 1.4; }
 
         .outcome-grid {
-            display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px;
-            margin: 20px auto; max-width: 480px;
+            display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px;
+            margin: 20px auto; max-width: 700px;
         }
         .outcome-item {
             background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.1);
@@ -243,7 +243,7 @@
                         <div style="font-size:2.8rem; font-weight:800; color:#fff; line-height:1;">13 vk</div>
                         <div style="font-size:0.85rem; color:rgba(255,255,255,0.6); margin-top:0.5rem;">per omistaja</div>
                     </div>
-                    <div style="text-align:center; padding:2rem 1rem; background:rgba(74,222,128,0.1); border:1px solid rgba(74,222,128,0.3); border-radius:12px;">
+                    <div style="text-align:center; padding:2rem 1rem; background:rgba(74,222,128,0.1); border:1px solid rgba(74,222,128,0.3); border-radius:12px; display:flex; align-items:center; justify-content:center;">
                         <div style="font-size:2rem; font-weight:800; color:rgba(74,222,128,0.95); line-height:1;">VELATON</div>
                     </div>
                 </div>
@@ -284,7 +284,7 @@
                         <div class="scenario-label">Bear</div>
                         <div class="scenario-value" style="color: #f87171;">&minus;2 250 &euro;/v</div>
                         <div class="scenario-detail">Majoitus 50 y&ouml;t&auml; &agrave; 1 500 &euro;<br>Charter 4 pv &agrave; 8 000 &euro;<br>1/4 tuotot: 27 500 &euro;</div>
-            <p style="font-size:0.72rem; color:rgba(255,255,255,0.4); margin-top:10px; text-align:center;">Is&auml;nn&ouml;inti (23 k&euro;) kattaa skipparit charter-p&auml;iville. Omaan k&auml;ytt&ouml;&ouml;n ei erillist&auml; miehi&szlig;t&ouml;kulua. Polttoaine: charterin tilaajan kustannus.</p>
+            <p style="font-size:0.72rem; color:rgba(255,255,255,0.4); margin-top:10px; text-align:center;">Is&auml;nn&ouml;inti (23 k&euro;) kattaa skipparit charter-p&auml;iville. Omaan k&auml;ytt&ouml;&ouml;n ei erillist&auml; miehistökulua. Polttoaine: charterin tilaajan kustannus.</p>
                     </div>
                     <div class="scenario-card base">
                         <div class="scenario-label">Base</div>
@@ -333,10 +333,11 @@
                     </div>
                 </div>
                 <div class="value-highlight">
-                    <p><strong>Majoitusvuokraus:</strong> 1 500 &euro;/y&ouml; / vene / 4 hlö &mdash; Puerto Ban&uacute;sin kes&auml;sesonki toukokuusta syyskuuhun.</p>
-                    <p><strong>Opastettu retki:</strong> 1 500 &euro;/hlö / 4 p&auml;iv&auml;&auml; &mdash; sis&auml;lt&auml;&auml; oppaan.</p>
-                    <p><strong>Charter koko p&auml;iv&auml;:</strong> 8 000 &euro; / 8 h &mdash; p&auml;iv&auml;risteilyt Costa del Solilla.</p>
-                    <p style="margin-top:16px; font-style:italic; color:rgba(74,222,128,0.85);"><strong>Aluksen peliss&auml;&auml;nn&ouml;t:</strong> Omasta k&auml;yt&ouml;st&auml; ja vuokraustoiminnasta sovitaan yhdess&auml;.</p>
+                    <div style="display:grid; grid-template-columns:1fr 1fr; gap:20px; margin-bottom:12px;">
+                        <p style="margin:0;"><strong>Majoitusvuokraus:</strong> 1 500 &euro;/y&ouml; / vene / 4 hlö &mdash; Puerto Ban&uacute;sin kes&auml;sesonki toukokuusta syyskuuhun.</p>
+                        <p style="margin:0;"><strong>Charter koko p&auml;iv&auml;:</strong> 8 000 &euro; / 8 h &mdash; p&auml;iv&auml;risteilyt Costa del Solilla.</p>
+                    </div>
+                    <p style="margin-top:8px; font-style:italic; color:rgba(74,222,128,0.85);"><strong>Aluksen peliss&auml;&auml;nn&ouml;t:</strong> Omasta k&auml;yt&ouml;st&auml; ja vuokraustoiminnasta sovitaan yhdess&auml;.</p>
                     <p><strong>Keittiö:</strong> Kivikomposiittitasot, induktioliesi, astianpesukone, t&auml;ysikokoinen j&auml;&auml;kaappi.</p>
                 </div>
             </div>
@@ -350,7 +351,7 @@
                 <p class="subtitle">
                     Pid&auml; 3 osuutta tai myy 2 osuutta &mdash; p&auml;&auml;t&ouml;s on sinun.
                 </p>
-                <div class="outcome-grid">
+                <div class="outcome-grid" style="grid-template-columns:repeat(2,1fr); max-width:480px;">
                     <div class="outcome-item">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
                             <path d="M12 2v20M17 5H9.5a3.5 3.5 0 000 7h5a3.5 3.5 0 010 7H6"/>
@@ -384,10 +385,10 @@
                 <p class="subtitle" style="max-width:600px; font-size:1.1rem; line-height:1.6;">
                     13 viikkoa vuodessa &mdash;<br>Euroopan halutuimmassa satamassa.
                 </p>
-                <div style="margin-top:40px; padding:22px 28px; border:1px solid rgba(74,222,128,0.3); border-radius:12px; background:rgba(74,222,128,0.05); text-align:center;">
-                    <p style="font-size:1.05rem; font-weight:700; color:rgba(255,255,255,0.92); margin:0 0 8px 0; letter-spacing:0.03em;">Seuraava askel</p>
-                    <p style="color:rgba(255,255,255,0.65); font-size:0.92rem; margin:0 0 14px 0;">Nautitaan veneilyst&auml; yhdess&auml; &mdash; Euroopan halutuimmassa satamassa.</p>
-                    <a href="https://norskomarine.com/en/veneet/sunseeker-manhattan-60-1020735/" target="_blank" rel="noopener" style="display:inline-block; color:rgba(74,222,128,0.9); font-size:0.85rem; text-decoration:none; border:1px solid rgba(74,222,128,0.4); border-radius:6px; padding:7px 16px; letter-spacing:0.04em; transition:all 0.2s;">Tekniset tiedot &amp; lis&auml;tiedot &rarr;</a>
+                <div style="margin-top:32px; text-align:center;">
+                    <p style="font-size:0.7rem; text-transform:uppercase; letter-spacing:0.15em; color:rgba(255,255,255,0.45); margin:0 0 10px 0;">Seuraava askel</p>
+                    <p style="color:rgba(255,255,255,0.75); font-size:0.95rem; margin:0 0 18px 0;">Nautitaan veneilyst&auml; yhdess&auml; &mdash; Euroopan halutuimmassa satamassa.</p>
+                    <a href="https://norskomarine.com/en/veneet/sunseeker-manhattan-60-1020735/" target="_blank" rel="noopener" style="display:inline-block; color:rgba(74,222,128,0.9); font-size:0.85rem; text-decoration:none; border:1px solid rgba(74,222,128,0.4); border-radius:6px; padding:7px 18px; letter-spacing:0.04em; transition:all 0.2s;">Tekniset tiedot &amp; lis&auml;tiedot &rarr;</a>
                 </div>
             </div>
 
