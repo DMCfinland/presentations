@@ -108,8 +108,8 @@
         .scenario-card .scenario-detail { font-size: 0.72rem; color: rgba(255,255,255,0.5); line-height: 1.4; }
 
         .outcome-grid {
-            display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px;
-            margin: 20px auto; max-width: 700px;
+            display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px;
+            margin: 20px auto; max-width: 480px;
         }
         .outcome-item {
             background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.1);
@@ -159,6 +159,9 @@
         }
         .slide::after {
             background: linear-gradient(to bottom, rgba(10,22,40,0.35) 0%, rgba(10,22,40,0.65) 50%, rgba(10,22,40,0.92) 100%);
+        }
+        .slide[data-slide="1"]::after {
+            background: linear-gradient(to bottom, rgba(10,22,40,0.10) 0%, rgba(10,22,40,0.35) 50%, rgba(10,22,40,0.65) 100%);
         }
 
         .nav-hint {
@@ -242,7 +245,6 @@
                     </div>
                     <div style="text-align:center; padding:2rem 1rem; background:rgba(74,222,128,0.1); border:1px solid rgba(74,222,128,0.3); border-radius:12px;">
                         <div style="font-size:2rem; font-weight:800; color:rgba(74,222,128,0.95); line-height:1;">VELATON</div>
-                        <div style="font-size:0.85rem; color:rgba(255,255,255,0.6); margin-top:0.5rem;">alus</div>
                     </div>
                 </div>
                 <p style="margin-top:1.5rem; font-size:1rem; color:rgba(255,255,255,0.75); text-align:center; letter-spacing:0.04em;">
@@ -388,38 +390,11 @@
                     <a href="https://norskomarine.com/en/veneet/sunseeker-manhattan-60-1020735/" target="_blank" rel="noopener" style="display:inline-block; color:rgba(74,222,128,0.9); font-size:0.85rem; text-decoration:none; border:1px solid rgba(74,222,128,0.4); border-radius:6px; padding:7px 16px; letter-spacing:0.04em; transition:all 0.2s;">Tekniset tiedot &amp; lis&auml;tiedot &rarr;</a>
                 </div>
             </div>
-                <!-- Slide 7: Osakaslista -->
-        <div class="slide" data-slide="7">
-            <div class="slide-content" style="text-align:center; max-width:900px; margin:0 auto;">
-                <span class="badge">Osakaslista</span>
-                <h2 style="margin-bottom:12px;">Nelj&auml; omistajaa</h2>
-                <p class="subtitle" style="margin-bottom:48px;">Yksi jahti &mdash; nelj&auml; tasavertaista osuutta &mdash; <strong style="color:rgba(74,222,128,0.95);">VELATON</strong></p>
-                <div style="display:grid; grid-template-columns:repeat(2,1fr); gap:24px; max-width:720px; margin:0 auto;">
-                    <div style="padding:36px 28px; background:rgba(255,255,255,0.05); border:1px solid rgba(201,169,98,0.3); border-radius:4px;">
-                        <div style="font-size:1.8rem; font-weight:300; color:rgba(201,169,98,0.9); margin-bottom:10px; font-family:serif; letter-spacing:0.05em;">1 / 4</div>
-                        <div style="font-size:1.15rem; color:rgba(255,255,255,0.92); letter-spacing:0.04em;">Markus</div>
-                    </div>
-                    <div style="padding:36px 28px; background:rgba(255,255,255,0.05); border:1px solid rgba(201,169,98,0.3); border-radius:4px;">
-                        <div style="font-size:1.8rem; font-weight:300; color:rgba(201,169,98,0.9); margin-bottom:10px; font-family:serif; letter-spacing:0.05em;">1 / 4</div>
-                        <div style="font-size:1.15rem; color:rgba(255,255,255,0.92); letter-spacing:0.04em;">Junno Heiskanen</div>
-                    </div>
-                    <div style="padding:36px 28px; background:rgba(255,255,255,0.05); border:1px solid rgba(201,169,98,0.3); border-radius:4px;">
-                        <div style="font-size:1.8rem; font-weight:300; color:rgba(201,169,98,0.9); margin-bottom:10px; font-family:serif; letter-spacing:0.05em;">1 / 4</div>
-                        <div style="font-size:1.15rem; color:rgba(255,255,255,0.92); letter-spacing:0.04em;">Janne R&ouml;ntynen</div>
-                    </div>
-                    <div style="padding:36px 28px; background:rgba(255,255,255,0.05); border:1px solid rgba(201,169,98,0.3); border-radius:4px;">
-                        <div style="font-size:1.8rem; font-weight:300; color:rgba(201,169,98,0.9); margin-bottom:10px; font-family:serif; letter-spacing:0.05em;">1 / 4</div>
-                        <div style="font-size:1.15rem; color:rgba(255,255,255,0.92); letter-spacing:0.04em;">Vesa Tengman</div>
-                    </div>
-                </div>
-                <p style="margin-top:40px; font-style:italic; font-size:0.88rem; color:rgba(255,255,255,0.45);">13 viikkoa merellä vuodessa &mdash; Aluksen pelisäännöt sovitaan yhdessä</p>
-            </div>
-        </div>
 
     </div>
 
     <span class="nav-hint">&larr; &rarr; Navigoi</span>
-    <div class="slide-counter"><span id="current">1</span> / <span id="total">7</span></div>
+    <div class="slide-counter"><span id="current">1</span> / <span id="total">6</span></div>
     <div class="nav-arrows">
         <button class="nav-btn" id="prevBtn" aria-label="Edellinen">
             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 18l-6-6 6-6"/></svg>
