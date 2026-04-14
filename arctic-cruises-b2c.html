@@ -1,0 +1,999 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grand Cruise on Lake Saimaa — Arctic Cruises Finland</title>
+  <meta name="description" content="The only cruise through 4,400-island Saimaa — UNESCO Global Geopark, the world's rarest seal, and Finland's finest wilderness. 3 and 7 night expedition cruises from €400 per person per night.">
+  <meta property="og:title" content="Grand Cruise on Lake Saimaa — Finland's Last Secret">
+  <meta property="og:description" content="The only cruise through the heart of Saimaa — UNESCO Geopark, Saimaa ringed seal, smoke sauna, and gala dining at the water's edge.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #faf8f3;
+      --text: #1a1a1a;
+      --accent: #2c6e4f;
+      --accent-dark: #1f5038;
+      --accent-light: rgba(44,110,79,0.08);
+      --accent-mid: rgba(44,110,79,0.15);
+      --muted: rgba(26,26,26,0.55);
+      --border: rgba(26,26,26,0.1);
+      --white: #ffffff;
+      --max: 1160px;
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body { background: var(--bg); font-family: 'Open Sans', system-ui, sans-serif; color: var(--text); line-height: 1; }
+
+    /* ── TYPOGRAPHY ── */
+    .eyebrow {
+      font-size: 0.65rem; letter-spacing: 0.22em; text-transform: uppercase;
+      font-weight: 700; color: var(--accent); display: block; margin-bottom: 12px;
+    }
+    .eyebrow-white { color: rgba(255,255,255,0.65); }
+    h1, h2, h3, h4 { font-family: 'Playfair Display', Georgia, serif; line-height: 1.1; }
+    h1 { font-size: clamp(2.8rem, 6vw, 5rem); font-weight: 700; }
+    h2 { font-size: clamp(1.8rem, 3.2vw, 2.8rem); font-weight: 600; margin-bottom: 20px; }
+    h3 { font-size: clamp(1.2rem, 2vw, 1.6rem); font-weight: 600; margin-bottom: 14px; }
+    h4 { font-size: 1rem; font-weight: 600; margin-bottom: 8px; }
+    p { font-size: 0.96rem; line-height: 1.82; color: var(--muted); margin-bottom: 18px; }
+    p:last-child { margin-bottom: 0; }
+    strong { color: var(--text); font-weight: 600; }
+    em { font-style: italic; }
+    a { color: var(--accent); }
+
+    /* ── LAYOUT ── */
+    .container { max-width: var(--max); margin: 0 auto; padding: 0 40px; }
+    .section { padding: 100px 0; }
+    .section-sm { padding: 64px 0; }
+    .split { display: grid; grid-template-columns: 1fr 1fr; gap: 0; min-height: 620px; }
+    .split-text { display: flex; flex-direction: column; justify-content: center; padding: 80px 72px; }
+    .split-img { position: relative; overflow: hidden; }
+    .split-img img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .split.reverse .split-text { order: 2; }
+    .split.reverse .split-img { order: 1; }
+
+    /* ── BUTTONS ── */
+    .btn {
+      display: inline-block; padding: 14px 32px; border-radius: 3px;
+      font-size: 0.78rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase;
+      text-decoration: none; cursor: pointer; border: none; transition: all 0.2s;
+    }
+    .btn-primary { background: var(--accent); color: white; }
+    .btn-primary:hover { background: var(--accent-dark); }
+    .btn-secondary { background: transparent; color: var(--accent); border: 1.5px solid var(--accent); }
+    .btn-secondary:hover { background: var(--accent); color: white; }
+    .btn-white { background: white; color: var(--text); }
+    .btn-white:hover { background: rgba(255,255,255,0.88); }
+    .btn-ghost-white { background: transparent; color: white; border: 1.5px solid rgba(255,255,255,0.55); }
+    .btn-ghost-white:hover { background: rgba(255,255,255,0.12); border-color: white; }
+    .btn-group { display: flex; gap: 14px; flex-wrap: wrap; margin-top: 32px; }
+
+    /* ── STATS ── */
+    .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; margin-top: 40px; }
+    .stat-n {
+      font-family: 'Playfair Display', serif; font-size: 2.4rem; font-weight: 700;
+      color: var(--accent); display: block; line-height: 1; margin-bottom: 6px;
+    }
+    .stat-l { font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--muted); font-weight: 600; }
+
+    /* ── HEADER ── */
+    .site-header {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 900;
+      background: rgba(250,248,243,0.96); backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--border);
+      height: 64px; display: flex; align-items: center;
+      transition: box-shadow 0.2s;
+    }
+    .site-header.scrolled { box-shadow: 0 2px 20px rgba(0,0,0,0.06); }
+    .header-inner {
+      max-width: var(--max); margin: 0 auto; padding: 0 40px;
+      width: 100%; display: flex; justify-content: space-between; align-items: center;
+    }
+    .header-brand { display: flex; flex-direction: column; gap: 1px; text-decoration: none; }
+    .header-brand-main { font-family: 'Playfair Display', serif; font-size: 1.05rem; font-weight: 600; color: var(--text); }
+    .header-brand-sub { font-size: 0.6rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--accent); font-weight: 700; }
+    .header-nav { display: flex; align-items: center; gap: 28px; }
+    .header-nav a { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 600; color: var(--muted); text-decoration: none; transition: color 0.15s; }
+    .header-nav a:hover { color: var(--text); }
+
+    /* ── HERO ── */
+    #hero {
+      position: relative; min-height: 100vh; display: flex; align-items: flex-end;
+      padding: 100px 0 80px;
+      background-image: url('https://gosaimaa.com/wp-content/uploads/2022/07/ms-Carelia-satamassa-.jpg');
+      background-size: cover; background-position: center 50%; color: white;
+    }
+    #hero::before {
+      content: ''; position: absolute; inset: 0;
+      background: linear-gradient(to top, rgba(0,0,0,0.82) 0%, rgba(0,0,0,0.35) 50%, rgba(0,0,0,0.1) 100%);
+    }
+    .hero-inner { position: relative; z-index: 1; max-width: 760px; padding: 0 40px; margin: 0 auto; width: 100%; }
+    .hero-kicker {
+      font-size: 0.65rem; letter-spacing: 0.25em; text-transform: uppercase;
+      font-weight: 700; color: rgba(255,255,255,0.6); margin-bottom: 20px; display: block;
+    }
+    .hero-h1 { color: white; margin-bottom: 24px; line-height: 1.05; }
+    .hero-sub {
+      font-size: clamp(1rem, 1.6vw, 1.2rem); font-weight: 300; line-height: 1.65;
+      color: rgba(255,255,255,0.82); margin-bottom: 0; max-width: 580px;
+    }
+    .hero-meta {
+      display: flex; gap: 36px; margin-top: 40px; padding-top: 28px;
+      border-top: 1px solid rgba(255,255,255,0.18);
+    }
+    .hero-meta-item { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 600; color: rgba(255,255,255,0.5); }
+    .hero-meta-item span { display: block; color: rgba(255,255,255,0.85); font-size: 0.88rem; margin-top: 3px; text-transform: none; letter-spacing: 0; font-weight: 400; }
+
+    /* ── QUOTE BLOCK ── */
+    .quote-block {
+      border-left: 3px solid var(--accent); padding: 14px 20px;
+      background: var(--accent-light); font-size: 0.9rem; line-height: 1.68;
+      color: var(--text); margin: 24px 0;
+    }
+    .quote-block p { color: var(--text); margin: 0; font-size: 0.9rem; }
+
+    /* ── CTA BAR ── */
+    .cta-bar {
+      background: var(--accent); color: white;
+      padding: 28px 0; text-align: center;
+    }
+    .cta-bar p {
+      font-size: 0.82rem; letter-spacing: 0.08em; text-transform: uppercase;
+      font-weight: 700; color: rgba(255,255,255,0.75); margin-bottom: 14px;
+    }
+
+    /* ── MOMENT CARDS ── */
+    .moments-grid {
+      display: grid; grid-template-columns: repeat(3, 1fr);
+      grid-template-rows: repeat(2, 320px);
+      gap: 8px; margin-top: 48px;
+    }
+    .moment-card { position: relative; overflow: hidden; border-radius: 4px; cursor: default; }
+    .moment-card img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform 0.5s ease; }
+    .moment-card:hover img { transform: scale(1.04); }
+    .moment-overlay {
+      position: absolute; inset: 0;
+      background: linear-gradient(to top, rgba(0,0,0,0.72) 0%, rgba(0,0,0,0.15) 55%, transparent 100%);
+    }
+    .moment-text {
+      position: absolute; bottom: 0; left: 0; right: 0; padding: 24px 20px 20px;
+    }
+    .moment-title { font-family: 'Playfair Display', serif; font-size: 1.05rem; font-weight: 600; color: white; display: block; margin-bottom: 6px; line-height: 1.2; }
+    .moment-desc { font-size: 0.76rem; color: rgba(255,255,255,0.75); line-height: 1.55; }
+
+    /* ── TEAM CARDS ── */
+    .team-intro { max-width: 660px; margin: 0 auto 48px; text-align: center; }
+    .team-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 28px; }
+    .team-card { background: white; border: 1px solid var(--border); }
+    .team-photo {
+      height: 220px; background: var(--accent-mid);
+      display: flex; align-items: center; justify-content: center; overflow: hidden;
+    }
+    .team-photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .team-photo-placeholder {
+      font-size: 0.65rem; letter-spacing: 0.15em; text-transform: uppercase;
+      font-weight: 700; color: var(--accent); opacity: 0.5; text-align: center; padding: 20px;
+    }
+    .team-info { padding: 20px; }
+    .team-role { font-size: 0.62rem; text-transform: uppercase; letter-spacing: 0.15em; font-weight: 700; color: var(--accent); margin-bottom: 6px; display: block; }
+    .team-name { font-family: 'Playfair Display', serif; font-size: 1rem; font-weight: 600; color: var(--text); margin-bottom: 10px; }
+    .team-bio { font-size: 0.8rem; line-height: 1.65; color: var(--muted); margin-bottom: 0; }
+
+    /* ── VOYAGE CHOICE ── */
+    .voyage-cards { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; margin-top: 40px; }
+    .voyage-card { background: white; border: 1px solid var(--border); padding: 44px 40px; }
+    .voyage-card.featured { border-color: var(--accent); border-width: 2px; }
+    .voyage-badge {
+      display: inline-block; background: var(--accent); color: white;
+      font-size: 0.58rem; letter-spacing: 0.18em; text-transform: uppercase;
+      font-weight: 700; padding: 4px 10px; margin-bottom: 16px; border-radius: 2px;
+    }
+    .voyage-nights { font-family: 'Playfair Display', serif; font-size: 3.5rem; font-weight: 700; color: var(--accent); line-height: 1; }
+    .voyage-nights-label { font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.12em; font-weight: 700; color: var(--muted); display: block; margin-bottom: 20px; margin-top: 4px; }
+    .voyage-name { font-family: 'Playfair Display', serif; font-size: 1.4rem; font-weight: 600; margin-bottom: 14px; }
+    .voyage-route { font-size: 0.78rem; color: var(--muted); letter-spacing: 0.04em; line-height: 1.7; margin-bottom: 20px; }
+    .voyage-desc { font-size: 0.88rem; line-height: 1.78; margin-bottom: 28px; }
+    .voyage-price { border-top: 1px solid var(--border); padding-top: 20px; display: flex; align-items: baseline; gap: 10px; }
+    .voyage-price-n { font-family: 'Playfair Display', serif; font-size: 2rem; font-weight: 700; color: var(--text); }
+    .voyage-price-label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); font-weight: 600; }
+
+    /* ── SANCTUARY ── */
+    .sanctuary-grid { display: grid; grid-template-columns: 1.1fr 1fr 1fr; gap: 1px; background: var(--border); margin-top: 48px; }
+    .sanctuary-cell { background: var(--bg); }
+    .sanctuary-img { height: 300px; overflow: hidden; }
+    .sanctuary-img img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .sanctuary-content { padding: 32px 36px 40px; }
+    .sanctuary-tag { font-size: 0.6rem; text-transform: uppercase; letter-spacing: 0.18em; font-weight: 700; color: var(--accent); display: block; margin-bottom: 10px; }
+    .sanctuary-name { font-family: 'Playfair Display', serif; font-size: 1.3rem; font-weight: 600; margin-bottom: 12px; }
+    .sanctuary-body { font-size: 0.83rem; line-height: 1.78; }
+    .sanctuary-cert { display: inline-flex; align-items: center; gap: 6px; margin-top: 16px; font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); border: 1px solid var(--accent); padding: 4px 10px; }
+
+    /* ── SPEC GRID ── */
+    .spec-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0; }
+    .spec-item { border-top: 1px solid var(--border); padding-top: 12px; }
+    .spec-val { font-size: 1rem; font-weight: 700; color: var(--text); display: block; margin-bottom: 3px; }
+    .spec-key { font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); font-weight: 600; }
+
+    /* ── ACCORDION ── */
+    .accordion-tabs { display: flex; border-bottom: 2px solid var(--border); margin-bottom: 0; }
+    .tab-btn {
+      padding: 14px 28px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase;
+      letter-spacing: 0.1em; border: none; background: none; cursor: pointer; color: var(--muted);
+      border-bottom: 2px solid transparent; margin-bottom: -2px; transition: all 0.15s;
+    }
+    .tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
+    .tab-content { display: none; padding-top: 40px; }
+    .tab-content.active { display: block; }
+    .day-block { padding: 28px 0; border-bottom: 1px solid var(--border); display: grid; grid-template-columns: 120px 1fr; gap: 32px; }
+    .day-block:last-child { border-bottom: none; }
+    .day-label { }
+    .day-num { font-family: 'Playfair Display', serif; font-size: 2rem; font-weight: 700; color: var(--accent); line-height: 1; display: block; }
+    .day-name { font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.12em; font-weight: 700; color: var(--muted); display: block; margin-top: 4px; }
+    .day-content h4 { font-family: 'Playfair Display', serif; font-size: 1.2rem; font-weight: 600; margin-bottom: 12px; color: var(--text); }
+    .day-content p { font-size: 0.9rem; line-height: 1.82; margin-bottom: 14px; }
+    .day-included { font-size: 0.76rem; color: var(--accent); font-weight: 600; background: var(--accent-light); padding: 8px 14px; display: inline-block; margin-top: 8px; }
+
+    /* ── PLAN GRID ── */
+    .plan-grid { display: grid; grid-template-columns: 1fr 1fr 1.2fr; gap: 56px; }
+    .plan-col h3 { margin-bottom: 20px; }
+    .getting-list { list-style: none; }
+    .getting-list li { padding: 10px 0; border-bottom: 1px solid var(--border); font-size: 0.88rem; line-height: 1.6; color: var(--muted); display: flex; gap: 12px; align-items: flex-start; }
+    .getting-list li strong { color: var(--text); flex-shrink: 0; min-width: 80px; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.06em; }
+
+    /* ── PRICING TABLE ── */
+    .pricing-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; margin-bottom: 20px; }
+    .pricing-table th { font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.12em; text-align: left; padding: 12px 14px; font-weight: 700; border-bottom: 2px solid var(--accent); color: var(--text); }
+    .pricing-table td { padding: 14px 14px; border-bottom: 1px solid var(--border); vertical-align: top; font-size: 0.88rem; }
+    .pricing-table tr:hover td { background: var(--accent-light); }
+    .price-big { font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: var(--accent); display: block; }
+    .price-from { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--muted); font-weight: 700; display: block; margin-bottom: 2px; }
+
+    /* ── INCLUSIONS ── */
+    .inc-table { width: 100%; border-collapse: collapse; font-size: 0.82rem; margin-top: 24px; }
+    .inc-table th { padding: 10px 12px; text-align: left; font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 700; border-bottom: 2px solid var(--accent); }
+    .inc-table th.col-inc { color: var(--accent); }
+    .inc-table th.col-sep { color: var(--muted); }
+    .inc-table td { padding: 9px 12px; border-bottom: 1px solid var(--border); font-size: 0.8rem; line-height: 1.55; vertical-align: top; }
+    .inc-table td.col-inc { color: var(--text); }
+    .inc-table td.col-sep { color: var(--muted); }
+    .check { color: var(--accent); font-weight: 700; margin-right: 6px; }
+
+    /* ── DIFFERENCE / E-E-A-T ── */
+    #difference { background: white; }
+    .diff-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 40px; margin-top: 48px; }
+    .diff-block h4 { font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.12em; font-weight: 700; color: var(--accent); margin-bottom: 12px; }
+    .diff-block p { font-size: 0.88rem; }
+    .partner-logos { display: flex; gap: 20px; align-items: center; flex-wrap: wrap; margin-top: 48px; padding-top: 40px; border-top: 1px solid var(--border); }
+    .partner-logo {
+      border: 1px solid var(--border); padding: 8px 20px;
+      font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.14em;
+      font-weight: 700; color: var(--muted);
+    }
+
+    /* ── TESTIMONIALS ── */
+    .testimonials-wrap { background: var(--bg); padding: 80px 0; }
+    .testi-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 28px; margin-top: 48px; }
+    .testi-card { background: white; padding: 36px 32px; border: 1px solid var(--border); position: relative; }
+    .testi-quote { font-family: 'Playfair Display', serif; font-size: 3rem; color: var(--accent); opacity: 0.25; line-height: 1; margin-bottom: 14px; display: block; }
+    .testi-text { font-size: 0.9rem; line-height: 1.78; color: var(--text); font-style: italic; margin-bottom: 20px; }
+    .testi-author { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 700; color: var(--muted); }
+    .testi-placeholder { opacity: 0.35; }
+    .testi-placeholder-note { font-size: 0.72rem; text-align: center; color: var(--muted); margin-top: 20px; letter-spacing: 0.08em; text-transform: uppercase; }
+
+    /* ── CLOSING ── */
+    #closing {
+      position: relative; min-height: 100vh; display: flex; align-items: center; justify-content: center;
+      text-align: center;
+      background-image: url('ArticCruises-AIFiles/lovable-photos/saimaa-islands-summer-aerial.jpg');
+      background-size: cover; background-position: center 40%; color: white;
+    }
+    #closing::before { content: ''; position: absolute; inset: 0; background: rgba(0,0,0,0.56); }
+    .closing-inner { position: relative; z-index: 1; max-width: 700px; padding: 0 40px; }
+    .closing-inner h2 { color: white; font-size: clamp(2.2rem, 4vw, 3.6rem); margin-bottom: 22px; }
+    .closing-sub { font-size: 1.08rem; font-weight: 300; line-height: 1.68; color: rgba(255,255,255,0.82); margin-bottom: 40px; }
+    .closing-contact { margin-top: 36px; padding-top: 28px; border-top: 1px solid rgba(255,255,255,0.2); }
+    .closing-contact a { color: rgba(255,255,255,0.85); font-size: 0.95rem; font-weight: 600; text-decoration: none; display: block; margin-bottom: 6px; }
+    .closing-contact span { font-size: 0.72rem; color: rgba(255,255,255,0.45); text-transform: uppercase; letter-spacing: 0.12em; }
+
+    /* ── FOOTER ── */
+    footer { background: var(--text); color: rgba(255,255,255,0.45); padding: 32px 0; }
+    .footer-inner { max-width: var(--max); margin: 0 auto; padding: 0 40px; display: flex; justify-content: space-between; align-items: center; }
+    .footer-brand { font-family: 'Playfair Display', serif; font-size: 0.95rem; color: rgba(255,255,255,0.7); }
+    .footer-meta { font-size: 0.72rem; letter-spacing: 0.08em; }
+    .footer-meta a { color: rgba(255,255,255,0.45); text-decoration: none; }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 1024px) {
+      .team-grid { grid-template-columns: repeat(2, 1fr); }
+      .plan-grid { grid-template-columns: 1fr 1fr; }
+      .plan-grid .plan-col:last-child { grid-column: 1 / -1; }
+    }
+    @media (max-width: 800px) {
+      .split { grid-template-columns: 1fr; }
+      .split .split-img { min-height: 380px; order: -1 !important; }
+      .split-text { padding: 44px 28px; }
+      .container { padding: 0 20px; }
+      .section { padding: 64px 0; }
+      .header-nav { display: none; }
+      .stats { grid-template-columns: 1fr 1fr; }
+      .moments-grid { grid-template-columns: 1fr 1fr; grid-template-rows: auto; }
+      .moment-card { height: 240px; }
+      .team-grid { grid-template-columns: 1fr 1fr; }
+      .voyage-cards { grid-template-columns: 1fr; }
+      .sanctuary-grid { grid-template-columns: 1fr; }
+      .diff-grid { grid-template-columns: 1fr; gap: 28px; }
+      .testi-grid { grid-template-columns: 1fr; }
+      .plan-grid { grid-template-columns: 1fr; }
+      .day-block { grid-template-columns: 1fr; gap: 8px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ══ STICKY HEADER ══ -->
+<header class="site-header" id="site-header">
+  <div class="header-inner">
+    <a class="header-brand" href="#hero">
+      <span class="header-brand-main">Grand Cruise on Lake Saimaa</span>
+      <span class="header-brand-sub">Arctic Cruises · Finland · 2027 Season</span>
+    </a>
+    <nav class="header-nav">
+      <a href="#wilderness">The Lake</a>
+      <a href="#moments">Moments</a>
+      <a href="#voyage">Your Voyage</a>
+      <a href="#plan">Pricing</a>
+      <a href="#closing" class="btn btn-primary" style="padding: 10px 22px; font-size: 0.7rem;">Plan Your Voyage</a>
+    </nav>
+  </div>
+</header>
+
+<!-- ══ HERO ══ -->
+<section id="hero">
+  <div class="hero-inner">
+    <span class="hero-kicker">Arctic Cruises · Saimaa UNESCO Global Geopark · 2027 Season</span>
+    <h1 class="hero-h1">Finland's<br>Last Secret.</h1>
+    <p class="hero-sub">The only cruise through the heart of Saimaa — 4,400 islands, glacial purity, and a world that exists nowhere else on Earth. Unreachable any other way.</p>
+    <div class="btn-group">
+      <a href="#wilderness" class="btn btn-white">Discover the Lake</a>
+      <a href="#plan" class="btn btn-ghost-white">From €400 per night →</a>
+    </div>
+    <div class="hero-meta">
+      <div class="hero-meta-item">Route<span>Classic 3 Nights · Full Loop 7 Nights</span></div>
+      <div class="hero-meta-item">Season<span>2027 · Bookings open January 2027</span></div>
+      <div class="hero-meta-item">FAM Cruise<span>31 Aug–3 Sep 2026</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ WILDERNESS ══ -->
+<section class="split" id="wilderness">
+  <div class="split-img">
+    <img src="ArticCruises-AIFiles/lovable-photos/saimaa-islands-autumn-aerial.jpg"
+         alt="Saimaa archipelago aerial — 4,400 islands, autumn colours, UNESCO Global Geopark Finland">
+  </div>
+  <div class="split-text">
+    <span class="eyebrow">UNESCO Global Geopark · Finland</span>
+    <h2>Step Into a World<br>That Has No Road</h2>
+    <p>Saimaa is not a lake. It is an inland sea that happens to be freshwater — 1,700 square kilometres of water so clear you can watch the bottom from ten metres up. Formed by glaciers retreating 10,000 years ago, the lake holds the geological memory of a continent.</p>
+    <p>UNESCO declared it a Global Geopark in 2021 — not for tourism, but because the geological record here is irreplaceable. No car reaches the archipelago interior. No coach tour navigates the narrow granite channels between islands. Some of these islands have never had a permanent human structure built on them.</p>
+    <p>At 5am on Saimaa the silence is a physical thing. The only sound is the bow cutting water and, sometimes, a loon calling across an empty channel. This is what wilderness means when it is not a marketing word.</p>
+    <div class="stats">
+      <div><span class="stat-n">4,400</span><span class="stat-l">Islands &amp; islets</span></div>
+      <div><span class="stat-n">1,700<span style="font-size:1.4rem">km²</span></span><span class="stat-l">Lake surface area</span></div>
+      <div><span class="stat-n">~500</span><span class="stat-l">Saimaa ringed seals</span></div>
+      <div><span class="stat-n">2021</span><span class="stat-l">UNESCO Geopark year</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ THE SEAL ══ -->
+<section class="split reverse" id="seal">
+  <div class="split-img">
+    <img src="ArticCruises-AIFiles/lovable-photos/saimaa-seal.jpg"
+         alt="Saimaa ringed seal resting on a granite rock — Pusa hispida saimensis, found nowhere else on Earth"
+         style="object-position: 40% 50%;">
+  </div>
+  <div class="split-text">
+    <span class="eyebrow">Saimaa Ringed Seal · Pusa hispida saimensis</span>
+    <h2>The Jewel Inside<br>the Wilderness</h2>
+    <p>There are roughly 500 of them left. The Saimaa ringed seal exists nowhere else on Earth. It never adapted to the open ocean. It never will. This lake is its entire world — and the wilderness you are sailing through is its home.</p>
+    <p>On calm mornings, a grey shape appears on a sun-warmed granite shelf. It rests there in the silence — ears folded, whiskers catching the light — utterly indifferent to the mist rising from the water. You are watching an animal that evolution left in paradise and forgot about.</p>
+    <div class="quote-block">
+      <p><em>"Possible natural observation — we cruise seal habitat with expert naturalists on board. We do not guarantee sightings. We guarantee you will be where they live."</em></p>
+    </div>
+    <p>Your presence here contributes — specifically. A dedicated conservation contribution from every booking funds the <strong>Finnish Association for Nature Conservation (FANC) Saimaa Seal LIFE project</strong> and <strong>Metsähallitus Parks &amp; Wildlife Finland</strong> — the two organisations responsible for creating snow drifts for pup-rearing dens and seal-safe fishing gear across the lake. Guests are invited to contribute to an active citizen-science photo-identification study on board.</p>
+    <p>You are not a spectator. You are part of the story.</p>
+  </div>
+</section>
+
+<!-- ══ CTA BAR ══ -->
+<div class="cta-bar" id="cta1">
+  <div class="container">
+    <p>2027 Season · Lake Saimaa · Finland</p>
+    <a href="#plan" class="btn btn-white">View Pricing &amp; Availability →</a>
+  </div>
+</div>
+
+<!-- ══ SIGNATURE MOMENTS ══ -->
+<section class="section" id="moments">
+  <div class="container">
+    <span class="eyebrow">Six Moments · Every Route</span>
+    <h2 style="max-width: 540px;">The Moments You<br>Will Tell People About</h2>
+    <p style="max-width: 600px; margin-top: 8px;">These cannot be scheduled. They happen because you are on the water, in the right place, with the right people.</p>
+    <div class="moments-grid">
+
+      <div class="moment-card">
+        <img src="ArticCruises-AIFiles/lovable-photos/saimaa-islands-summer-aerial.jpg"
+             alt="Dawn on Lake Saimaa — mist over water, no other boats" style="object-position: 50% 60%;">
+        <div class="moment-overlay"></div>
+        <div class="moment-text">
+          <span class="moment-title">Dawn on the Lake, Moving</span>
+          <span class="moment-desc">The ship is quiet. The mist is two metres thick. The bow cuts through silence. A loon calls once and stops. Finland at its most accurate.</span>
+        </div>
+      </div>
+
+      <div class="moment-card">
+        <img src="ArticCruises-AIFiles/lovable-photos/saimaa-seal.jpg"
+             alt="Saimaa ringed seal on a granite rock — possible natural sighting from the vessel" style="object-position: 40% 40%;">
+        <div class="moment-overlay"></div>
+        <div class="moment-text">
+          <span class="moment-title">The Seal on the Rock</span>
+          <span class="moment-desc">Your naturalist points. A grey shape — absolutely still — on granite. After thirty seconds it slides into the water. This moment is why people come back.</span>
+        </div>
+      </div>
+
+      <div class="moment-card">
+        <img src="https://gosaimaa.com/wp-content/uploads/2023/05/olavinlinna-ilmakuva-2-e1683555638713.jpg"
+             alt="Olavinlinna medieval castle Savonlinna — seen from water at dawn through morning mist" style="object-position: 50% 35%;">
+        <div class="moment-overlay"></div>
+        <div class="moment-text">
+          <span class="moment-title">Olavinlinna Through the Fog</span>
+          <span class="moment-desc">A medieval castle materialising from mist. The castle has stood since 1475. No coach offers this angle. You pass beneath its walls at eye level from the water.</span>
+        </div>
+      </div>
+
+      <div class="moment-card">
+        <img src="ArticCruises-AIFiles/lovable-photos/evening-campfire.jpg"
+             alt="Gala fire dinner at Järvisydän resort — lakeside terrace at sunset, foraged local ingredients" style="object-position: 50% 40%;">
+        <div class="moment-overlay"></div>
+        <div class="moment-text">
+          <span class="moment-title">The Fire Menu at Järvisydän</span>
+          <span class="moment-desc">The sun sets at 9:30pm. The terrace is lit with fire. Every ingredient sourced within thirty kilometres. The chef comes to the table. You eat the landscape.</span>
+        </div>
+      </div>
+
+      <div class="moment-card">
+        <img src="ArticCruises-AIFiles/lovable-photos/resort-autumn.jpg"
+             alt="Finnish smoke sauna at the lake's edge — traditional sauna culture, Saimaa" style="object-position: 50% 40%;">
+        <div class="moment-overlay"></div>
+        <div class="moment-text">
+          <span class="moment-title">Sauna → Lake at Midnight</span>
+          <span class="moment-desc">At Sahanlahti. The smoke sauna has been heating since morning. The lake is 18°C. You run off the dock. Stars are out. No other sound for twenty kilometres.</span>
+        </div>
+      </div>
+
+      <div class="moment-card">
+        <img src="ArticCruises-AIFiles/lovable-photos/kayaking-couple-2.jpg"
+             alt="Kayaking on Lake Saimaa — early morning, seal habitat zone, still water" style="object-position: 50% 30%;">
+        <div class="moment-overlay"></div>
+        <div class="moment-text">
+          <span class="moment-title">The 5:30am Kayak</span>
+          <span class="moment-desc">Your naturalist knows the seal zones. Water is glass. Air is cold. No other boats for a kilometre in any direction. FinnConcierge booked it last night while you slept.</span>
+        </div>
+      </div>
+
+    </div>
+    <div style="text-align: center; margin-top: 40px;">
+      <a href="#voyage" class="btn btn-secondary">Choose Your Route →</a>
+    </div>
+  </div>
+</section>
+
+<!-- ══ EXPEDITION TEAM ══ -->
+<section class="section" id="team" style="background: white; padding: 80px 0;">
+  <div class="container">
+    <div class="team-intro">
+      <span class="eyebrow" style="text-align: center;">On Board Every Voyage</span>
+      <h2>Your Expedition Team</h2>
+      <p>At Hurtigruten and Aurora Expeditions, the expedition team is not a supporting feature — it is the product. Every Grand Cruise on Lake Saimaa departs with a permanent expedition team. Their expertise is the difference between a beautiful boat ride and a journey that changes how you think about a place.</p>
+    </div>
+    <div class="team-grid">
+      <div class="team-card">
+        <div class="team-photo">
+          <div class="team-photo-placeholder">Photo — name TBC<br>before launch</div>
+        </div>
+        <div class="team-info">
+          <span class="team-role">Saimaa Ringed Seal Specialist</span>
+          <div class="team-name">Expedition Naturalist</div>
+          <p class="team-bio">Field researcher with direct involvement in the Saimaa Seal LIFE project and annual population census. Leads morning wildlife briefings and the on-board citizen-science photo-ID programme. Available on deck throughout all seal habitat passages.</p>
+        </div>
+      </div>
+      <div class="team-card">
+        <div class="team-photo">
+          <div class="team-photo-placeholder">Photo — name TBC<br>before launch</div>
+        </div>
+        <div class="team-info">
+          <span class="team-role">Birds &amp; Ecology</span>
+          <div class="team-name">Expedition Naturalist</div>
+          <p class="team-bio">Ornithologist and field ecologist specialising in the Finnish lakeland ecosystem. Leads daily expedition logs, evening natural-history talks, and pre-dawn kayak sessions. Has documented over 200 species in the Saimaa Geopark.</p>
+        </div>
+      </div>
+      <div class="team-card">
+        <div class="team-photo">
+          <div class="team-photo-placeholder">Photo — name TBC<br>before launch</div>
+        </div>
+        <div class="team-info">
+          <span class="team-role">Foraging &amp; Culinary Guide</span>
+          <div class="team-name">Forager-Chef</div>
+          <p class="team-bio">Works directly with the kitchens at Sahanlahti and Järvisydän on seasonal provenance. Leads guided foraging walks — chanterelles, cloudberries, juniper, shore herbs — that feed directly into that evening's menu. European Region of Gastronomy 2024 contributor.</p>
+        </div>
+      </div>
+      <div class="team-card">
+        <div class="team-photo">
+          <div class="team-photo-placeholder">Photo — name TBC<br>before launch</div>
+        </div>
+        <div class="team-info">
+          <span class="team-role">History &amp; Culture</span>
+          <div class="team-name">Expedition Historian</div>
+          <p class="team-bio">Specialist in the history of Saimaa and South Karelia — from Karelian migration routes to the 1475 founding of Olavinlinna. Leads the castle passage briefing, the canal lock descent, and evening talks on Finnish cultural identity as expressed through this landscape.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ CHOOSE YOUR VOYAGE ══ -->
+<section class="section" id="voyage">
+  <div class="container">
+    <span class="eyebrow">Classic 3 Nights · Full Loop 7 Nights</span>
+    <h2>Curate Your Voyage</h2>
+    <p style="max-width: 600px; margin-top: 8px;">Saimaa rewards those who go slowly. Choose the depth that suits you — both routes take the same wilderness seriously.</p>
+    <div class="voyage-cards">
+      <div class="voyage-card featured">
+        <span class="voyage-badge">Most Popular</span>
+        <div class="voyage-nights">3</div>
+        <span class="voyage-nights-label">Nights on the Water</span>
+        <div class="voyage-name">The Classic</div>
+        <p class="voyage-route">Lappeenranta → Puumala/Sahanlahti → Savonlinna passage → Järvisydän</p>
+        <p class="voyage-desc">Three nights is the time Saimaa needs to work on you. You depart a city dweller. By night two you have stopped checking your phone. By night three you are asking the naturalist about the bird you saw this morning. You leave a different person than the one who boarded.<br><br>Three registers of Finland: the open lake at departure, the narrow archipelago channels at Puumala, the historic waterway past Olavinlinna.</p>
+        <div class="voyage-price">
+          <div>
+            <span class="price-from">From</span>
+            <span class="price-big">€1,200</span>
+          </div>
+          <span class="voyage-price-label">per person<br>(€400/night, 2 sharing)</span>
+        </div>
+        <div style="margin-top: 24px;">
+          <a href="#itinerary" class="btn btn-primary" style="width: 100%; text-align: center;">View Full Itinerary →</a>
+        </div>
+      </div>
+      <div class="voyage-card">
+        <div class="voyage-nights">7</div>
+        <span class="voyage-nights-label">Nights on the Water</span>
+        <div class="voyage-name">The Full Loop</div>
+        <p class="voyage-route">Lappeenranta → Imatra → Puumala → Savonlinna → Järvisydän → Varkaus → Kuopio</p>
+        <p class="voyage-desc">Seven nights traces the full ring of the Saimaa system — from the southern border canal town through the industrial north to Kuopio. A journey of a genuinely different kind.<br><br>An extra day in the archipelago means a 5:30am kayak morning in seal territory. The Varkaus lock descent through bedrock adds a register of Finnish engineering that makes the wilderness feel earned.</p>
+        <div class="voyage-price">
+          <div>
+            <span class="price-from">From</span>
+            <span class="price-big">€2,800</span>
+          </div>
+          <span class="voyage-price-label">per person<br>(€400/night, 2 sharing)</span>
+        </div>
+        <div style="margin-top: 24px;">
+          <a href="#itinerary" class="btn btn-secondary" style="width: 100%; text-align: center;">View Full Itinerary →</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ YOUR SANCTUARY ══ -->
+<section style="padding: 0 0 100px;" id="sanctuary">
+  <div class="container" style="padding-top: 0;">
+    <div style="padding: 80px 0 0;">
+      <span class="eyebrow">The Ship · Two Resorts</span>
+      <h2>Your Sanctuary</h2>
+      <p style="max-width: 600px; margin-top: 8px;"><em>"The ship is your lounge between two sanctuaries."</em></p>
+    </div>
+    <div class="sanctuary-grid">
+
+      <div class="sanctuary-cell">
+        <div class="sanctuary-img">
+          <img src="https://gosaimaa.com/wp-content/uploads/2021/10/Lappeenrannan-kaupunginlahti-Carelia-matkalla-Viipuriin-scaled.jpg"
+               alt="M/S Carelia on Lake Saimaa — Finnish heritage passenger vessel, on Saimaa since 1969" style="object-position: 55% 50%;">
+        </div>
+        <div class="sanctuary-content">
+          <span class="sanctuary-tag">Your Vessel</span>
+          <div class="sanctuary-name">M/S Carelia</div>
+          <p class="sanctuary-body">Finland's last classic lake passenger vessel, on Saimaa since 1969 — purpose-built for this water. Currently undergoing comprehensive refurbishment ahead of the 2027 inaugural season, preserving authentic Finnish oak interiors and genuine character while delivering the standard the product demands.</p>
+          <p class="sanctuary-body">On board: main saloon with full bar, regional lunch daily, open top deck with 360° views, sun deck forward, FinnConcierge AI assistant (DE/EN/FR/FI), and expedition team base. The ship is not a hotel vessel — it is a working passenger craft with soul.</p>
+          <div class="spec-grid">
+            <div class="spec-item"><span class="spec-val">200</span><span class="spec-key">Passenger capacity</span></div>
+            <div class="spec-item"><span class="spec-val">1969</span><span class="spec-key">On Lake Saimaa since</span></div>
+            <div class="spec-item"><span class="spec-val">2027</span><span class="spec-key">Onboard sauna opens</span></div>
+            <div class="spec-item"><span class="spec-val">DE/EN/FR/FI</span><span class="spec-key">FinnConcierge languages</span></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="sanctuary-cell">
+        <div class="sanctuary-img">
+          <img src="https://www.jarvisydan.com/wp-content/uploads/2024/09/Saunamualima-7.jpg"
+               alt="Sahanlahti Resort — smoke sauna at the lake's edge, Puumala archipelago" style="object-position: 50% 55%;">
+        </div>
+        <div class="sanctuary-content">
+          <span class="sanctuary-tag">Night 1 · Classic / Nights 3–4 · Full Loop</span>
+          <div class="sanctuary-name">Sahanlahti Resort</div>
+          <p class="sanctuary-body">Set into a sheltered cove on Puumala island. Low buildings, Finnish birch and pine architecture, every room facing water. The smoke sauna is at the lake's edge — heated since morning when you arrive. Rowing boats and kayaks at the dock.</p>
+          <p class="sanctuary-body">The kitchen sources from the archipelago and local farms: pike-perch, chanterelles, cloudberries, rye. The cove holds the silence. In the morning the mist sits on the water and you can hear a fish jump from the dock.</p>
+        </div>
+      </div>
+
+      <div class="sanctuary-cell">
+        <div class="sanctuary-img">
+          <img src="https://www.jarvisydan.com/wp-content/uploads/2024/06/Bistro-vaaka-scaled.jpg"
+               alt="Järvisydän Resort — lakeside dining, gala fire menu, Green Key certified" style="object-position: 50% 40%;">
+        </div>
+        <div class="sanctuary-content">
+          <span class="sanctuary-tag">Final Night · All Routes</span>
+          <div class="sanctuary-name">Järvisydän Resort</div>
+          <p class="sanctuary-body"><em>Järvisydän</em> means lake heart. The ship ties up directly at the long dock. You walk off the gangway into the resort. Green Key certified, built on the principle that the landscape is the architecture.</p>
+          <p class="sanctuary-body">The gala dinner programme is the centrepiece of the route. European Region of Gastronomy 2024. The chefs work with local producers, foragers, and fishermen on seasonal provenance. The menu changes with the lake — not with the calendar.</p>
+          <div class="sanctuary-cert">Green Key Certified</div>
+          <div class="sanctuary-cert" style="margin-left: 8px;">European Region of Gastronomy 2024</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ══ DAY BY DAY ══ -->
+<section class="section" id="itinerary" style="background: white;">
+  <div class="container">
+    <span class="eyebrow">Full Itineraries</span>
+    <h2>Day by Day</h2>
+    <p style="max-width: 600px; margin-top: 8px;">Every meal, every moment, every inclusion. For those who plan carefully — and travel freely.</p>
+    <div style="margin-top: 40px;">
+      <div class="accordion-tabs">
+        <button class="tab-btn active" onclick="switchTab('classic')">Classic — 3 Nights</button>
+        <button class="tab-btn" onclick="switchTab('fullloop')">Full Loop — 7 Nights</button>
+      </div>
+
+      <!-- CLASSIC 3N -->
+      <div class="tab-content active" id="tab-classic">
+
+        <div class="day-block">
+          <div class="day-label">
+            <span class="day-num">1</span>
+            <span class="day-name">Departure</span>
+          </div>
+          <div class="day-content">
+            <h4>Lappeenranta — Cast Off</h4>
+            <p>The fortress town on the canal. Most guests arrive the evening before — the harbour, the South Karelia Museum, and the fortress walls deserve a full evening. M/S Carelia receives you at the harbour at 2pm. Expedition team introduction. Safety briefing. Cast off at 3pm.</p>
+            <p>The city falls away almost immediately. Within an hour there is nothing on any horizon except water and the dark line of forest. Your naturalist opens the sightings log. First evening: regional supper in the saloon — pike-perch from the lake, rye bread from the bakery. The light at 9pm in August is amber. The surface of the lake is glass.</p>
+            <p>Evening talk: <em>The Saimaa Geopark — a geological record 1.9 billion years old</em>.</p>
+            <span class="day-included">✓ Embarkation transfer · Dinner on board · Cabin</span>
+          </div>
+        </div>
+
+        <div class="day-block">
+          <div class="day-label">
+            <span class="day-num">2</span>
+            <span class="day-name">Archipelago</span>
+          </div>
+          <div class="day-content">
+            <h4>Puumala &amp; Sahanlahti Resort</h4>
+            <p>You wake to a different lake. The open water has given way to the archipelago. Thousands of islands narrow the channels until the ship moves between pine-covered granite walls close enough to touch. Seal briefing at 7am. Seal habitat transit 8–11am — citizen-science app open.</p>
+            <p>Sahanlahti Resort arrival at noon. Afternoon: kayak from the dock, sauna at the water's edge, optional forest foraging walk with the guide. Smoke sauna at the lake's edge, heated since 3pm. The plunge pool is the lake. Dinner: foraged chanterelles on rye, cured lake fish, cloudberry dessert. The forager-guide presents the evening's ingredients at the table.</p>
+            <span class="day-included">✓ Regional lunch on board · Resort accommodation · Dinner at Sahanlahti · Smoke sauna · Expedition team seal programme</span>
+          </div>
+        </div>
+
+        <div class="day-block">
+          <div class="day-label">
+            <span class="day-num">3</span>
+            <span class="day-name">Passage</span>
+          </div>
+          <div class="day-content">
+            <h4>Savonlinna — Olavinlinna by Water</h4>
+            <p>Re-embarkation at 9am. The naturalist has been on deck since 6:30am. Seal habitat transit from departure — the eastern channels of Puumala are among the most active seal zones on the route.</p>
+            <p>Olavinlinna appears through morning mist before you see the city. The medieval castle sits on a granite island in the middle of the channel. Your historian has been speaking for twenty minutes by the time it appears — the 1475 founding, the Russo-Swedish wars, the Opera Festival. Then silence. Then the castle. You pass beneath its walls at eye level with the foundations. No coach tour offers this angle. You do not stop. You pass through, which is the correct relationship with a medieval fortress.</p>
+            <span class="day-included">✓ Breakfast &amp; lunch on board · Historian castle passage briefing · Full day navigation</span>
+          </div>
+        </div>
+
+        <div class="day-block">
+          <div class="day-label">
+            <span class="day-num">4</span>
+            <span class="day-name">Gala Night</span>
+          </div>
+          <div class="day-content">
+            <h4>Järvisydän, Rantasalmi — The Gala</h4>
+            <p>Arrival by ship at Järvisydän at 1pm. Check-in at the resort. Afternoon at leisure — the dock, the forest trail, the lakeside spa.</p>
+            <p>Gala dinner at 7pm on the lakeside terrace. Served as the sun drops behind the treeline — 9:30pm in August, the sky still deep orange. Every dish sourced within thirty kilometres: lake fish caught this morning, venison from the forest behind you, berries picked at dawn, mushrooms from yesterday's walk. The chef comes to the table after the main course. Wine pairing included. Disembarkation the following morning, departure transfers arranged.</p>
+            <span class="day-included">✓ Resort accommodation · Gala dinner with wine pairing · Afternoon leisure</span>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- FULL LOOP 7N -->
+      <div class="tab-content" id="tab-fullloop">
+
+        <div class="day-block">
+          <div class="day-label"><span class="day-num">1</span><span class="day-name">Departure</span></div>
+          <div class="day-content">
+            <h4>Lappeenranta — as Classic, Day 1</h4>
+            <p>Departure from Lappeenranta harbour. Two evenings on the open lake before the archipelago begins — more time to settle in, adjust to the rhythm of the water.</p>
+            <span class="day-included">✓ Embarkation transfer · Dinner on board · Cabin</span>
+          </div>
+        </div>
+
+        <div class="day-block">
+          <div class="day-label"><span class="day-num">2</span><span class="day-name">Imatra</span></div>
+          <div class="day-content">
+            <h4>Imatra — The Industrial North</h4>
+            <p>The industrial north of the lake. Rapids that once powered factories. A brief stop, a harder register — Saimaa is not only silence. There is history here, a working-class Finland that makes the archipelago that follows feel richer by contrast. Evening talk: <em>The Industrial Saimaa</em>.</p>
+          </div>
+        </div>
+
+        <div class="day-block">
+          <div class="day-label"><span class="day-num">3–4</span><span class="day-name">Archipelago</span></div>
+          <div class="day-content">
+            <h4>Puumala &amp; Sahanlahti — Two Nights</h4>
+            <p>Two nights in the archipelago. The extra day allows a 5:30am kayak morning departing before dawn — water is glass, air is cold, no other boats anywhere on the lake. Your naturalist knows the seal zones. You paddle quietly. This is the session where most guest sightings occur.</p>
+            <span class="day-included">✓ Regional lunch on board · Two nights Sahanlahti · Dinners · Smoke sauna · Seal programme · Optional kayak excursion</span>
+          </div>
+        </div>
+
+        <div class="day-block">
+          <div class="day-label"><span class="day-num">5</span><span class="day-name">Castle</span></div>
+          <div class="day-content">
+            <h4>Savonlinna Passage — Olavinlinna</h4>
+            <p>Olavinlinna from the water at dawn. Optional guided visit ashore for those who want to walk the castle walls and return by tender — booked via FinnConcierge the previous evening.</p>
+          </div>
+        </div>
+
+        <div class="day-block">
+          <div class="day-label"><span class="day-num">6</span><span class="day-name">Gala Night</span></div>
+          <div class="day-content">
+            <h4>Järvisydän — The Gala</h4>
+            <p>The gala dinner as described above. In late August, the forest behind the terrace shows the first red birch leaves. The light through them onto the lake surface at 9:30pm is the image guests remember longest.</p>
+            <span class="day-included">✓ Resort accommodation · Gala dinner with wine pairing</span>
+          </div>
+        </div>
+
+        <div class="day-block">
+          <div class="day-label"><span class="day-num">7</span><span class="day-name">Canal</span></div>
+          <div class="day-content">
+            <h4>Varkaus and the Canal Descent</h4>
+            <p>The historic industrial canal. Locks and bridges cut through bedrock. The ship descends through the lock chamber. Granite walls close in. The water drops. The sky narrows to a strip above you, then opens again. Unexpectedly beautiful. Evening talk: <em>Finnish canal engineering and the Saimaa Canal</em>.</p>
+          </div>
+        </div>
+
+        <div class="day-block">
+          <div class="day-label"><span class="day-num">8</span><span class="day-name">Kuopio</span></div>
+          <div class="day-content">
+            <h4>Kuopio — Northern Saimaa</h4>
+            <p>The northern end of the route. Hilltop views from Puijo Tower. The market hall. Optional extension for those who want an additional night before returning south. This is what Saimaa looks like at its full geographic scale — and why the Full Loop is a journey of a different kind.</p>
+            <span class="day-included">✓ Disembarkation transfer · Full 7-night package complete</span>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ PLAN YOUR VOYAGE ══ -->
+<section class="section" id="plan">
+  <div class="container">
+    <span class="eyebrow">Pricing · Inclusions · Getting Here</span>
+    <h2>Plan Your Voyage</h2>
+    <div class="plan-grid" style="margin-top: 48px;">
+
+      <div class="plan-col">
+        <h3>When to Come</h3>
+        <p><strong>August — the peak.</strong> Long days, warm water (18–22°C). Seals sunning on rocks in the morning. Resort terraces open until 11pm. The light at 8pm on Saimaa in August is the reason photographers come to Finland.</p>
+        <p><strong>September — the choice of those who know.</strong> The crowds are gone. The forest starts turning — birch yellow, rowan red, against the dark pines. The water is still warm enough to swim. Seal sightings are excellent; the animals are more active before winter. The gala dinner in September, with the red birch behind the terrace, is something else entirely.</p>
+        <p style="font-size: 0.82rem; color: var(--muted);"><em>Packing: August 18–24°C days, 12–15°C evenings. September mornings are crisp — bring a fleece and light waterproof. The ship has covered deck space for all weather.</em></p>
+      </div>
+
+      <div class="plan-col">
+        <h3>Getting There</h3>
+        <ul class="getting-list">
+          <li><strong>By Train</strong>2.5 hours from Helsinki Central. Direct, comfortable, scenic. Recommended.</li>
+          <li><strong>By Coach</strong>3 hours. Multiple daily departures from Helsinki.</li>
+          <li><strong>By Air</strong>HEL → LPR, 45 minutes. Finnair seasonal schedule.</li>
+          <li><strong>Transfer</strong>Private transfer from Helsinki or HEL bookable via FinnConcierge.</li>
+        </ul>
+        <p style="font-size: 0.82rem; margin-top: 16px;">Most guests arrive the evening before and spend a night in Lappeenranta. The fortress and harbour restaurants are worth the full evening.</p>
+        <p style="font-size: 0.82rem;"><em>Helsinki-Vantaa (HEL) is the main international gateway with direct flights from DACH and UK cities.</em></p>
+      </div>
+
+      <div class="plan-col">
+        <h3>Pricing — 2027 Season</h3>
+        <table class="pricing-table">
+          <thead>
+            <tr>
+              <th>Route</th>
+              <th>Duration</th>
+              <th>From (pp)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>The Classic</td>
+              <td>3 nights</td>
+              <td><span class="price-from">from</span><span class="price-big">€1,200</span></td>
+            </tr>
+            <tr>
+              <td>The Full Loop</td>
+              <td>7 nights</td>
+              <td><span class="price-from">from</span><span class="price-big">€2,800</span></td>
+            </tr>
+            <tr>
+              <td colspan="2" style="color: var(--muted); font-size: 0.8rem;">Single supplement</td>
+              <td style="color: var(--muted); font-size: 0.88rem;">+€50/night</td>
+            </tr>
+          </tbody>
+        </table>
+        <p style="font-size: 0.8rem; margin-top: 8px;">Per person, two sharing. Includes all items below.</p>
+
+        <table class="inc-table">
+          <thead>
+            <tr>
+              <th class="col-inc">✓ Included</th>
+              <th class="col-sep">Separately</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="col-inc"><span class="check">✓</span>All resort accommodation</td>
+              <td class="col-sep">Excursions (kayak, castle visit)</td>
+            </tr>
+            <tr>
+              <td class="col-inc"><span class="check">✓</span>Regional lunch on board, daily</td>
+              <td class="col-sep">Drinks beyond gala wine pairing</td>
+            </tr>
+            <tr>
+              <td class="col-inc"><span class="check">✓</span>Gala dinner at Järvisydän + wine</td>
+              <td class="col-sep">Single supplement</td>
+            </tr>
+            <tr>
+              <td class="col-inc"><span class="check">✓</span>Expedition team, all passages</td>
+              <td class="col-sep">Travel insurance (recommended)</td>
+            </tr>
+            <tr>
+              <td class="col-inc"><span class="check">✓</span>FinnConcierge (DE/EN/FR/FI)</td>
+              <td class="col-sep">Transfer to Lappeenranta</td>
+            </tr>
+            <tr>
+              <td class="col-inc"><span class="check">✓</span>Conservation contribution (FANC)</td>
+              <td class="col-sep"></td>
+            </tr>
+            <tr>
+              <td class="col-inc"><span class="check">✓</span>Port transfers, embarkation day</td>
+              <td class="col-sep"></td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div style="margin-top: 28px; display: flex; flex-direction: column; gap: 12px;">
+          <a href="mailto:laura@finlanddmc.fi?subject=2027 Cruise Enquiry" class="btn btn-primary">Request 2027 Brochure &amp; Quote →</a>
+          <a href="mailto:laura@finlanddmc.fi" class="btn btn-secondary">Speak with a Saimaa Specialist</a>
+        </div>
+        <p style="font-size: 0.75rem; margin-top: 14px; color: var(--muted);">Laura Heikkinen · <a href="mailto:laura@finlanddmc.fi">laura@finlanddmc.fi</a> · Response within 24 hours</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ══ THE ARCTIC CRUISES DIFFERENCE ══ -->
+<section class="section" id="difference">
+  <div class="container">
+    <span class="eyebrow">Conservation · Sustainability · About Us</span>
+    <h2>The Arctic Cruises Difference</h2>
+    <p style="max-width: 680px; margin-top: 8px;">Arctic Cruises is built around a single conviction: that luxury travel and genuine conservation are not contradictions. They require each other.</p>
+    <div class="diff-grid">
+      <div class="diff-block">
+        <h4>Conservation — Named and Funded</h4>
+        <p>A dedicated conservation contribution from every booking funds the <strong>Finnish Association for Nature Conservation (FANC) Saimaa Seal LIFE project</strong> and <strong>Metsähallitus Parks &amp; Wildlife Finland</strong> — the two organisations responsible for the survival of <em>Pusa hispida saimensis</em>. Their work: artificial snow drifts for pup-rearing dens, seal-safe fishing gear replacement, and annual population monitoring. We publish an impact report each January. Our guests have access to it before, during, and after their cruise.</p>
+      </div>
+      <div class="diff-block">
+        <h4>Sustainability Built In</h4>
+        <p>The route operates within <strong>UNESCO Global Geopark Saimaa</strong> — strict environmental protocols apply to all vessel operations, including designated no-wake zones near seal habitats and zero-discharge waste management. Sahanlahti Resort: regional sourcing, traditional smoke sauna, minimal-footprint architecture. Järvisydän Resort: <strong>Green Key</strong> certified, European Region of Gastronomy 2024, all gala ingredients within 30km. FinnConcierge is designed to reduce paper waste and optimise guest schedules to minimise transport.</p>
+      </div>
+      <div class="diff-block">
+        <h4>About Arctic Cruises</h4>
+        <p>Arctic Cruises is a Finnish tourism company founded by <strong>Patrick Heiskanen</strong> and Finland DMC Oy, purpose-built for multi-night expedition cruising on Lake Saimaa. We operate in partnership with Järvisydän Oy on the southern route and are the exclusive expedition cruise operator in the Saimaa UNESCO Global Geopark. The 2027 season is our inaugural international season. The 2026 FAM inauguration sailed in September 2026.</p>
+        <p><a href="mailto:laura@finlanddmc.fi" style="font-weight: 700;">Contact Laura Heikkinen →</a></p>
+      </div>
+    </div>
+    <div class="partner-logos">
+      <span class="partner-logo">UNESCO Global Geopark Saimaa</span>
+      <span class="partner-logo">Green Key</span>
+      <span class="partner-logo">FANC — Saimaa Seal LIFE</span>
+      <span class="partner-logo">Metsähallitus</span>
+      <span class="partner-logo">European Region of Gastronomy 2024</span>
+      <span class="partner-logo">Sahanlahti Resort</span>
+      <span class="partner-logo">Järvisydän Resort</span>
+    </div>
+  </div>
+</section>
+
+<!-- ══ TESTIMONIALS ══ -->
+<div class="testimonials-wrap" id="testimonials">
+  <div class="container">
+    <span class="eyebrow">Early Guests · 2026 FAM Inauguration</span>
+    <h2 style="max-width: 500px;">What Guests Say</h2>
+    <div class="testi-grid">
+      <div class="testi-card testi-placeholder">
+        <span class="testi-quote">&ldquo;</span>
+        <p class="testi-text">Guest quote — to be added after September 2026 FAM inaugural sailing. First operators and guests to experience the full route.</p>
+        <span class="testi-author">FAM Guest Name · Country · September 2026</span>
+      </div>
+      <div class="testi-card testi-placeholder">
+        <span class="testi-quote">&ldquo;</span>
+        <p class="testi-text">Guest quote — to be added after September 2026 FAM inaugural sailing.</p>
+        <span class="testi-author">FAM Guest Name · Country · September 2026</span>
+      </div>
+      <div class="testi-card testi-placeholder">
+        <span class="testi-quote">&ldquo;</span>
+        <p class="testi-text">Guest quote — to be added after September 2026 FAM inaugural sailing.</p>
+        <span class="testi-author">FAM Guest Name · Country · September 2026</span>
+      </div>
+    </div>
+    <p class="testi-placeholder-note">Testimonials updated after FAM inauguration · September 2026</p>
+  </div>
+</div>
+
+<!-- ══ CLOSING ══ -->
+<section id="closing">
+  <div class="closing-inner">
+    <span class="eyebrow eyebrow-white" style="text-align: center; display: block; margin-bottom: 20px;">2027 Season · Limited Cabins</span>
+    <h2>A Journey That Will Linger<br>Long After You Return</h2>
+    <p class="closing-sub">Saimaa will be on lists. The seal will become a symbol. The guests who sail in the first seasons will not be following a trend. They will have found it early — before the waitlist, before the sell-outs, before the story became the story.</p>
+    <p class="closing-sub" style="margin-top: -10px;">Right now the decks are uncrowded. The guides have time for your questions. The channels are quiet in a way they will not always be.</p>
+    <p class="closing-sub" style="margin-top: -10px;"><strong style="color: white;">Finland's Last Secret. Known to few, for now.</strong></p>
+    <div class="btn-group" style="justify-content: center;">
+      <a href="mailto:laura@finlanddmc.fi?subject=2027 Grand Cruise Enquiry" class="btn btn-white">Request 2027 Brochure &amp; Quote</a>
+      <a href="mailto:laura@finlanddmc.fi" class="btn btn-ghost-white">Speak with a Saimaa Specialist</a>
+    </div>
+    <div class="closing-contact">
+      <a href="mailto:laura@finlanddmc.fi">laura@finlanddmc.fi</a>
+      <span>Laura Heikkinen · Arctic Cruises &amp; Finland DMC · Lappeenranta, Finland</span>
+    </div>
+  </div>
+</section>
+
+<!-- ══ FOOTER ══ -->
+<footer>
+  <div class="footer-inner">
+    <span class="footer-brand">Grand Cruise on Lake Saimaa</span>
+    <span class="footer-meta">© 2026 Arctic Cruises Oy &amp; Finland DMC Oy &nbsp;·&nbsp; <a href="mailto:laura@finlanddmc.fi">laura@finlanddmc.fi</a></span>
+  </div>
+</footer>
+
+<script>
+  // Sticky header
+  const header = document.getElementById('site-header');
+  window.addEventListener('scroll', () => {
+    header.classList.toggle('scrolled', window.scrollY > 80);
+  });
+
+  // Tab switching
+  function switchTab(id) {
+    document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.getElementById('tab-' + id).classList.add('active');
+    event.target.classList.add('active');
+  }
+</script>
+</body>
+</html>
