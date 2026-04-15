@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Arctic Cruises — FAM Voyage Invitation · 31 August – 3 September 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --accent: #2c6e4f;
+      --gold: #C49A6C;
+      --navy: #1a2332;
+      --cream: #faf8f4;
+      --light-grey: #f5f3ef;
+      --text: #2a2a2a;
+      --text-muted: #6b6560;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    @page {
+      size: A4 portrait;
+      margin: 0;
+    }
+
+    @media print {
+      * {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+      }
+      html, body {
+        width: 210mm;
+        height: 297mm;
+      }
+      .page {
+        page-break-after: avoid;
+      }
+    }
+
+    html, body {
+      width: 210mm;
+      min-height: 297mm;
+      background: #e8e4de;
+      font-family: 'Open Sans', sans-serif;
+      color: var(--text);
+    }
+
+    .page {
+      width: 210mm;
+      min-height: 297mm;
+      background: #fff;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* ─── HERO ─── */
+    .hero {
+      position: relative;
+      width: 100%;
+      height: 133mm; /* ~45% of 297mm */
+      overflow: hidden;
+      flex-shrink: 0;
+    }
+
+    .hero-image {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center 60%;
+      display: block;
+    }
+
+    .hero-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(
+        to bottom,
+        rgba(26, 35, 50, 0.18) 0%,
+        rgba(26, 35, 50, 0.42) 60%,
+        rgba(26, 35, 50, 0.68) 100%
+      );
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-end;
+      padding-bottom: 10mm;
+    }
+
+    .hero-eyebrow {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 300;
+      font-size: 8.5pt;
+      letter-spacing: 0.30em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 5px;
+    }
+
+    .hero-title {
+      font-family: 'Playfair Display', serif;
+      font-style: italic;
+      font-weight: 400;
+      font-size: 38pt;
+      color: #ffffff;
+      line-height: 1.08;
+      letter-spacing: 0.01em;
+      text-align: center;
+    }
+
+    .hero-subline {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 300;
+      font-size: 8pt;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: rgba(255, 255, 255, 0.80);
+      margin-top: 7px;
+    }
+
+    /* ─── BODY ─── */
+    .body-section {
+      flex: 1;
+      padding: 9mm 16mm 0 16mm;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .brand-line {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 600;
+      font-size: 6.5pt;
+      letter-spacing: 0.30em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 6mm;
+      text-align: center;
+    }
+
+    .opening-statement {
+      font-family: 'Playfair Display', serif;
+      font-weight: 400;
+      font-size: 11.5pt;
+      line-height: 1.60;
+      color: var(--navy);
+      text-align: center;
+      margin-bottom: 8mm;
+      padding: 0 4mm;
+    }
+
+    .columns {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 7mm;
+      margin-bottom: 7mm;
+    }
+
+    .col-block {
+      background: var(--light-grey);
+      padding: 6mm 7mm;
+    }
+
+    .col-heading {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 600;
+      font-size: 6pt;
+      letter-spacing: 0.28em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 5mm;
+      padding-bottom: 3mm;
+      border-bottom: 1px solid var(--gold);
+    }
+
+    .col-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .col-list li {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 300;
+      font-size: 7.5pt;
+      line-height: 1.55;
+      color: var(--text);
+      padding: 2.5mm 0;
+      border-bottom: 1px solid rgba(196, 154, 108, 0.20);
+      display: flex;
+      align-items: flex-start;
+      gap: 5px;
+    }
+
+    .col-list li:last-child {
+      border-bottom: none;
+    }
+
+    .col-list li::before {
+      content: '·';
+      color: var(--gold);
+      font-weight: 600;
+      flex-shrink: 0;
+      margin-top: 0px;
+    }
+
+    /* ─── CTA BAND ─── */
+    .cta-band {
+      background: var(--accent);
+      padding: 6.5mm 16mm;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-shrink: 0;
+    }
+
+    .cta-left {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .cta-apply {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 600;
+      font-size: 6.5pt;
+      letter-spacing: 0.30em;
+      text-transform: uppercase;
+      color: var(--gold);
+    }
+
+    .cta-email {
+      font-family: 'Playfair Display', serif;
+      font-style: italic;
+      font-size: 13pt;
+      color: #ffffff;
+      line-height: 1.2;
+    }
+
+    .cta-right {
+      text-align: right;
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+    }
+
+    .cta-deadline {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 300;
+      font-size: 7.5pt;
+      color: rgba(255, 255, 255, 0.88);
+      letter-spacing: 0.06em;
+    }
+
+    .cta-scarcity {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 600;
+      font-size: 7.5pt;
+      color: var(--gold);
+      letter-spacing: 0.08em;
+    }
+
+    /* ─── LOGO STRIP ─── */
+    .logo-strip {
+      background: var(--navy);
+      padding: 4mm 16mm;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0;
+      flex-shrink: 0;
+    }
+
+    .logo-strip-items {
+      display: flex;
+      align-items: center;
+      gap: 0;
+      flex-wrap: nowrap;
+    }
+
+    .logo-item {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 300;
+      font-size: 6pt;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: rgba(255, 255, 255, 0.60);
+      white-space: nowrap;
+    }
+
+    .logo-divider {
+      color: var(--gold);
+      margin: 0 5mm;
+      opacity: 0.60;
+      font-size: 7pt;
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+
+    <!-- HERO -->
+    <div class="hero">
+      <img
+        class="hero-image"
+        src="../../ArticCruises-AIFiles/lovable-photos/saimaa-islands-summer-aerial.jpg"
+        alt="Lake Saimaa archipelago — 4,400 islands, UNESCO Global Geopark"
+      >
+      <div class="hero-overlay">
+        <p class="hero-eyebrow">Arctic Cruises &mdash; Lake Saimaa, Finland</p>
+        <h1 class="hero-title">An Invitation</h1>
+        <p class="hero-subline">For a small number of operators &mdash; before the first international season</p>
+      </div>
+    </div>
+
+    <!-- BODY -->
+    <div class="body-section">
+
+      <p class="brand-line">Inaugural FAM Voyage &nbsp;&middot;&nbsp; 31 August – 3 September 2026 &nbsp;&middot;&nbsp; Complimentary</p>
+
+      <p class="opening-statement">
+        You are invited to be among the first 50 operators to experience<br>
+        the Grand Cruise on Lake Saimaa &mdash; before it opens to the world.
+      </p>
+
+      <div class="columns">
+        <div class="col-block">
+          <h2 class="col-heading">What you will experience</h2>
+          <ul class="col-list">
+            <li>Four days aboard M/S Carelia — Finland's last classic lake passenger vessel</li>
+            <li>The Saimaa archipelago: 4,400 islands, UNESCO Global Geopark, drinking-quality water</li>
+            <li>Possible natural observation of the Saimaa ringed seal — found nowhere else on Earth</li>
+            <li>Smoke sauna at Sahanlahti Resort and gala dinner at Järvisydän</li>
+            <li>The silence that money increasingly cannot buy</li>
+          </ul>
+        </div>
+        <div class="col-block">
+          <h2 class="col-heading">What you take home</h2>
+          <ul class="col-list">
+            <li>First-hand product knowledge before your competitors</li>
+            <li>Full media pack: high-resolution photography, copy, and product specifications</li>
+            <li>Net rates and commercial agreement, signed on board</li>
+            <li>Priority early-partner commission — 20% for agreements confirmed by 15 July 2026</li>
+          </ul>
+        </div>
+      </div>
+
+    </div><!-- /body-section -->
+
+    <!-- CTA BAND -->
+    <div class="cta-band">
+      <div class="cta-left">
+        <span class="cta-apply">Apply to join</span>
+        <span class="cta-email">laura@finlanddmc.fi</span>
+      </div>
+      <div class="cta-right">
+        <span class="cta-deadline">Deadline: 15 July 2026</span>
+        <span class="cta-scarcity">50 places only &nbsp;&mdash;&nbsp; selected operators</span>
+      </div>
+    </div>
+
+    <!-- LOGO STRIP -->
+    <div class="logo-strip">
+      <div class="logo-strip-items">
+        <span class="logo-item">GoSaimaa</span>
+        <span class="logo-divider">&middot;</span>
+        <span class="logo-item">Visit Finland</span>
+        <span class="logo-divider">&middot;</span>
+        <span class="logo-item">UNESCO Global Geopark</span>
+        <span class="logo-divider">&middot;</span>
+        <span class="logo-item">Green Key</span>
+      </div>
+    </div>
+
+  </div><!-- /page -->
+</body>
+</html>

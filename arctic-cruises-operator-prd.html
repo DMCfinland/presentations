@@ -1,0 +1,1349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Arctic Cruises — Tour Operator Product & Requirements Document · 2027 Season</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --accent: #2c6e4f;
+      --accent-dark: #1f5038;
+      --accent-light: rgba(44,110,79,0.07);
+      --accent-mid: rgba(44,110,79,0.14);
+      --navy: #1a2332;
+      --gold: #C49A6C;
+      --text: #1e2a35;
+      --muted: #5a6978;
+      --border: #d4d8dc;
+      --bg: #ffffff;
+      --bg-alt: #f7f8f9;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Open Sans', system-ui, sans-serif;
+      font-size: 9.5pt;
+      color: var(--text);
+      background: #e8e8e8;
+      line-height: 1.55;
+    }
+
+    h1, h2, h3, h4, h5 {
+      font-family: 'Playfair Display', Georgia, serif;
+      line-height: 1.15;
+    }
+
+    /* ── PRINT ── */
+    @page {
+      size: A4 portrait;
+      margin: 20mm 18mm;
+    }
+
+    @media print {
+      body {
+        background: white;
+        font-size: 9pt;
+      }
+      .doc-wrapper {
+        max-width: none;
+        padding: 0;
+        box-shadow: none;
+      }
+      .doc-header {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+      }
+      .section-label {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+      }
+      .badge {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+      }
+      .page-break {
+        page-break-before: always;
+      }
+      .no-break {
+        page-break-inside: avoid;
+      }
+      .doc-footer {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+      }
+    }
+
+    /* ── SCREEN WRAPPER ── */
+    .doc-wrapper {
+      max-width: 794px;
+      margin: 24px auto;
+      background: white;
+      box-shadow: 0 4px 40px rgba(0,0,0,0.14);
+      padding: 0;
+    }
+
+    /* ══ DOCUMENT HEADER ══ */
+    .doc-header {
+      background: var(--navy);
+      padding: 28px 36px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      gap: 20px;
+    }
+    .doc-header-left h1 {
+      font-size: 18pt;
+      color: white;
+      letter-spacing: 0.01em;
+      margin-bottom: 4px;
+    }
+    .doc-header-left .sub {
+      font-family: 'Open Sans', sans-serif;
+      font-size: 8.5pt;
+      color: rgba(255,255,255,0.65);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    .doc-header-right {
+      text-align: right;
+      flex-shrink: 0;
+    }
+    .doc-header-right .doc-type {
+      font-family: 'Open Sans', sans-serif;
+      font-size: 7.5pt;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--gold);
+      display: block;
+      margin-bottom: 4px;
+    }
+    .doc-header-right .doc-meta {
+      font-family: 'Open Sans', sans-serif;
+      font-size: 7.5pt;
+      color: rgba(255,255,255,0.5);
+      line-height: 1.7;
+    }
+
+    /* ══ GOLD BAND ══ */
+    .gold-band {
+      background: var(--gold);
+      height: 3px;
+    }
+
+    /* ══ BODY AREA ══ */
+    .doc-body {
+      padding: 28px 36px 32px;
+    }
+
+    /* ══ SECTION ══ */
+    .section {
+      margin-bottom: 26px;
+    }
+    .section:last-child {
+      margin-bottom: 0;
+    }
+
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 10px;
+      padding-bottom: 7px;
+      border-bottom: 1.5px solid var(--border);
+    }
+    .section-label {
+      background: var(--accent);
+      color: white;
+      font-family: 'Open Sans', sans-serif;
+      font-size: 7pt;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 3px 8px;
+      border-radius: 2px;
+      flex-shrink: 0;
+    }
+    .section-label.navy {
+      background: var(--navy);
+    }
+    .section-label.gold {
+      background: var(--gold);
+      color: var(--navy);
+    }
+    .section-title {
+      font-size: 11.5pt;
+      font-weight: 600;
+      color: var(--navy);
+    }
+
+    /* ══ OVERVIEW GRID ══ */
+    .overview-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      border: 1px solid var(--border);
+      border-radius: 3px;
+      overflow: hidden;
+    }
+    .ov-row {
+      display: contents;
+    }
+    .ov-row > div {
+      padding: 7px 12px;
+      border-bottom: 1px solid var(--border);
+      font-size: 8.5pt;
+      line-height: 1.4;
+    }
+    .ov-row:last-child > div {
+      border-bottom: none;
+    }
+    .ov-label {
+      background: var(--bg-alt);
+      font-weight: 600;
+      color: var(--muted);
+      text-transform: uppercase;
+      font-size: 7.5pt;
+      letter-spacing: 0.05em;
+      border-right: 1px solid var(--border);
+    }
+    .ov-value {
+      background: white;
+      color: var(--text);
+    }
+    .ov-value a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    /* ══ TABLES ══ */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 8.5pt;
+    }
+    thead th {
+      background: var(--navy);
+      color: white;
+      font-family: 'Open Sans', sans-serif;
+      font-size: 7.5pt;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      padding: 7px 10px;
+      text-align: left;
+    }
+    tbody tr:nth-child(even) {
+      background: var(--bg-alt);
+    }
+    tbody tr:nth-child(odd) {
+      background: white;
+    }
+    tbody td {
+      padding: 7px 10px;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    tbody tr:last-child td {
+      border-bottom: none;
+    }
+
+    /* ══ PRICING TABLE ══ */
+    .pricing-table thead th {
+      background: var(--accent);
+    }
+    .pricing-table .net-rate {
+      font-weight: 700;
+      color: var(--accent);
+      font-size: 9.5pt;
+    }
+    .pricing-table .list-price {
+      color: var(--muted);
+    }
+    .pricing-table .commission {
+      color: var(--gold);
+      font-weight: 700;
+    }
+
+    /* ══ TWO-COLUMN LAYOUT ══ */
+    .two-col {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    /* ══ LISTS ══ */
+    .check-list, .cross-list {
+      list-style: none;
+      padding: 0;
+    }
+    .check-list li, .cross-list li {
+      padding: 3px 0 3px 20px;
+      position: relative;
+      font-size: 8.5pt;
+      line-height: 1.45;
+    }
+    .check-list li::before {
+      content: "✓";
+      position: absolute;
+      left: 0;
+      color: var(--accent);
+      font-weight: 700;
+    }
+    .cross-list li::before {
+      content: "✗";
+      position: absolute;
+      left: 0;
+      color: #c0392b;
+      font-weight: 700;
+    }
+
+    /* ══ INFO BOX ══ */
+    .info-box {
+      background: var(--accent-light);
+      border-left: 3px solid var(--accent);
+      padding: 10px 14px;
+      border-radius: 0 3px 3px 0;
+      font-size: 8.5pt;
+      margin-top: 8px;
+    }
+    .info-box strong {
+      color: var(--accent);
+    }
+
+    .warning-box {
+      background: rgba(192,57,43,0.06);
+      border-left: 3px solid #c0392b;
+      padding: 10px 14px;
+      border-radius: 0 3px 3px 0;
+      font-size: 8.5pt;
+      margin-top: 8px;
+    }
+    .warning-box strong {
+      color: #c0392b;
+    }
+
+    .gold-box {
+      background: rgba(196,154,108,0.1);
+      border-left: 3px solid var(--gold);
+      padding: 10px 14px;
+      border-radius: 0 3px 3px 0;
+      font-size: 8.5pt;
+      margin-top: 8px;
+    }
+    .gold-box strong {
+      color: #8a5a1e;
+    }
+
+    /* ══ SPEC BOX ══ */
+    .spec-grid {
+      display: grid;
+      grid-template-columns: 140px 1fr;
+      border: 1px solid var(--border);
+      border-radius: 3px;
+      overflow: hidden;
+    }
+    .spec-grid > div {
+      padding: 6px 12px;
+      font-size: 8.5pt;
+      border-bottom: 1px solid var(--border);
+      line-height: 1.4;
+    }
+    .spec-grid > div:nth-last-child(1),
+    .spec-grid > div:nth-last-child(2) {
+      border-bottom: none;
+    }
+    .spec-key {
+      background: var(--bg-alt);
+      font-weight: 600;
+      color: var(--muted);
+      font-size: 7.5pt;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      border-right: 1px solid var(--border);
+    }
+    .spec-val {
+      background: white;
+      color: var(--text);
+    }
+
+    /* ══ RESORT CARDS ══ */
+    .resort-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+    }
+    .resort-card {
+      border: 1px solid var(--border);
+      border-radius: 3px;
+      overflow: hidden;
+    }
+    .resort-card-header {
+      background: var(--navy);
+      color: white;
+      padding: 7px 12px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .resort-card-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 9.5pt;
+      font-weight: 600;
+    }
+    .badge {
+      font-family: 'Open Sans', sans-serif;
+      font-size: 6.5pt;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 2px 6px;
+      border-radius: 2px;
+      background: var(--gold);
+      color: var(--navy);
+    }
+    .badge.green {
+      background: var(--accent);
+      color: white;
+    }
+    .resort-card-body {
+      padding: 8px 12px;
+      font-size: 8pt;
+    }
+    .resort-card-body p {
+      margin-bottom: 3px;
+      line-height: 1.45;
+    }
+    .resort-card-body strong {
+      color: var(--muted);
+      font-size: 7.5pt;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    /* ══ ROUTE TABLE ══ */
+    .route-table thead th:first-child {
+      width: 70px;
+    }
+    .route-table thead th:nth-child(2) {
+      width: 70px;
+    }
+
+    /* ══ SCHEDULE TABLE ══ */
+    .schedule-table td:first-child {
+      font-weight: 600;
+      color: var(--accent);
+      white-space: nowrap;
+    }
+
+    /* ══ BOOKING STEPS ══ */
+    .booking-steps {
+      list-style: none;
+      padding: 0;
+    }
+    .booking-steps li {
+      display: flex;
+      gap: 12px;
+      padding: 8px 0;
+      border-bottom: 1px solid var(--border);
+      font-size: 8.5pt;
+      align-items: flex-start;
+    }
+    .booking-steps li:last-child {
+      border-bottom: none;
+    }
+    .step-num {
+      flex-shrink: 0;
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      background: var(--accent);
+      color: white;
+      font-weight: 700;
+      font-size: 8pt;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 1px;
+    }
+    .step-content strong {
+      display: block;
+      color: var(--navy);
+      margin-bottom: 2px;
+    }
+
+    /* ══ CONTACTS TABLE ══ */
+    .contacts-table thead th {
+      background: var(--navy);
+    }
+
+    /* ══ CREDENTIALS ══ */
+    .cred-list {
+      list-style: none;
+      padding: 0;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 6px;
+    }
+    .cred-list li {
+      background: var(--accent-light);
+      border: 1px solid var(--accent-mid);
+      border-radius: 3px;
+      padding: 7px 10px;
+      font-size: 8pt;
+      line-height: 1.4;
+    }
+    .cred-list li strong {
+      display: block;
+      color: var(--accent);
+      font-size: 7.5pt;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-bottom: 2px;
+    }
+
+    /* ══ ASSETS LIST ══ */
+    .assets-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 8px;
+    }
+    .asset-item {
+      border: 1px solid var(--border);
+      border-radius: 3px;
+      padding: 8px 10px;
+      font-size: 8pt;
+      line-height: 1.4;
+    }
+    .asset-item strong {
+      display: block;
+      color: var(--accent);
+      font-size: 7.5pt;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      margin-bottom: 3px;
+    }
+
+    /* ══ DOCUMENT FOOTER ══ */
+    .doc-footer {
+      background: var(--navy);
+      padding: 14px 36px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 0;
+    }
+    .doc-footer .footer-left {
+      font-family: 'Open Sans', sans-serif;
+      font-size: 7.5pt;
+      color: rgba(255,255,255,0.55);
+    }
+    .doc-footer .footer-right {
+      font-family: 'Open Sans', sans-serif;
+      font-size: 7.5pt;
+      color: rgba(255,255,255,0.55);
+      text-align: right;
+    }
+    .doc-footer a {
+      color: var(--gold);
+      text-decoration: none;
+    }
+
+    /* ══ DIVIDER ══ */
+    .section-divider {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 22px 0;
+    }
+
+    /* ══ INLINE HIGHLIGHT ══ */
+    .hl-green {
+      color: var(--accent);
+      font-weight: 700;
+    }
+    .hl-gold {
+      color: #8a5a1e;
+      font-weight: 700;
+    }
+    .hl-red {
+      color: #c0392b;
+      font-weight: 700;
+    }
+
+    p {
+      font-size: 8.5pt;
+      line-height: 1.55;
+    }
+    p + p {
+      margin-top: 6px;
+    }
+
+    .small-note {
+      font-size: 7.5pt;
+      color: var(--muted);
+      margin-top: 6px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="doc-wrapper">
+
+  <!-- ══ DOCUMENT HEADER ══ -->
+  <div class="doc-header">
+    <div class="doc-header-left">
+      <h1>Grand Cruise on Lake Saimaa</h1>
+      <div class="sub">Arctic Cruises · Operated by Finland DMC Oy · Tour Operator Product &amp; Requirements Document</div>
+    </div>
+    <div class="doc-header-right">
+      <span class="doc-type">Operator PRD</span>
+      <div class="doc-meta">
+        2027 Season — Inaugural International<br>
+        Version 1.0 · April 2026<br>
+        Confidential — Trade Use Only
+      </div>
+    </div>
+  </div>
+  <div class="gold-band"></div>
+
+  <!-- ══ BODY ══ -->
+  <div class="doc-body">
+
+    <!-- ════════════════════════════
+         SECTION 1 — PRODUCT OVERVIEW
+    ════════════════════════════ -->
+    <div class="section no-break">
+      <div class="section-header">
+        <span class="section-label">01</span>
+        <span class="section-title">Product Overview</span>
+      </div>
+
+      <div class="overview-grid">
+        <div class="ov-row">
+          <div class="ov-label">Product Name</div>
+          <div class="ov-value">Grand Cruise on Lake Saimaa</div>
+        </div>
+        <div class="ov-row">
+          <div class="ov-label">Sub-Brand / Operator</div>
+          <div class="ov-value">Arctic Cruises (operated by Finland DMC Oy)</div>
+        </div>
+        <div class="ov-row">
+          <div class="ov-label">Product Type</div>
+          <div class="ov-value">Multi-day guided lake cruise with resort accommodation. <em>The vessel is a day vessel — all nights are spent at shore-based resorts, not on board.</em></div>
+        </div>
+        <div class="ov-row">
+          <div class="ov-label">Location</div>
+          <div class="ov-value">Lake Saimaa, Eastern Finland — UNESCO Global Geopark (designated 2021). 4,400 islands, 1,700 km² surface area.</div>
+        </div>
+        <div class="ov-row">
+          <div class="ov-label">Season</div>
+          <div class="ov-value">May – September 2027 (inaugural international season)</div>
+        </div>
+        <div class="ov-row">
+          <div class="ov-label">Departure</div>
+          <div class="ov-value">Every Wednesday at 09:00 from Lappeenranta Harbour</div>
+        </div>
+        <div class="ov-row">
+          <div class="ov-label">Languages</div>
+          <div class="ov-value">English / German / French / Finnish (FinnConcierge on board — AI + human)</div>
+        </div>
+        <div class="ov-row">
+          <div class="ov-label">Target Audience</div>
+          <div class="ov-value">Affluent independent travellers, nature and luxury segment, 45–65, DACH and UK primary markets</div>
+        </div>
+        <div class="ov-row">
+          <div class="ov-label">B2C Reference URL</div>
+          <div class="ov-value"><a href="https://dmcfinland.github.io/presentations/arctic-cruises-b2c.html">dmcfinland.github.io/presentations/arctic-cruises-b2c.html</a></div>
+        </div>
+        <div class="ov-row">
+          <div class="ov-label">Booking Contact</div>
+          <div class="ov-value">Laura Ilvonen · <a href="mailto:laura@finlanddmc.fi">laura@finlanddmc.fi</a> · Trade Relations &amp; Guest Experience</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ════════════════════════════
+         SECTION 2 — PRODUCT VARIANTS
+    ════════════════════════════ -->
+    <div class="section no-break">
+      <div class="section-header">
+        <span class="section-label">02</span>
+        <span class="section-title">Product Variants</span>
+      </div>
+
+      <table>
+        <thead>
+          <tr>
+            <th>Code</th>
+            <th>Product Name</th>
+            <th>Duration</th>
+            <th>Format</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>AC-DAY</strong></td>
+            <td>Lake Day Cruise</td>
+            <td>1 day (no overnight)</td>
+            <td>Day excursion. Departs 09:00, returns ~18:00. No accommodation included.</td>
+          </tr>
+          <tr>
+            <td><strong>AC-3N</strong></td>
+            <td>Saimaa Short Cruise</td>
+            <td>3 nights / 4 days</td>
+            <td>Lappeenranta → Puumala → Savonlinna → Järvisydän → return. Gala dinner included Night 2.</td>
+          </tr>
+          <tr>
+            <td><strong>AC-7N</strong></td>
+            <td>Grand Cruise on Lake Saimaa</td>
+            <td>7 nights / 8 days</td>
+            <td>Full closed loop: Lappeenranta → Kuopio → return. Flagship product. Departs Wednesday, returns following Tuesday.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ════════════════════════════
+         SECTION 3 — PRICING
+    ════════════════════════════ -->
+    <div class="section no-break">
+      <div class="section-header">
+        <span class="section-label navy">03</span>
+        <span class="section-title">Pricing — Net Rates, 2027 Season</span>
+      </div>
+
+      <p>All prices per person, EUR, based on double occupancy. Early Partner Programme applies to operators who confirm before <strong>15 July 2026</strong>.</p>
+
+      <table class="pricing-table" style="margin-top:10px;">
+        <thead>
+          <tr>
+            <th>Code</th>
+            <th>Product</th>
+            <th>List Price (B2C)</th>
+            <th>Net Rate (Operator)</th>
+            <th>Commission</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>AC-DAY</strong></td>
+            <td>Lake Day Cruise</td>
+            <td class="list-price">€400</td>
+            <td class="net-rate">€320</td>
+            <td class="commission">20%</td>
+          </tr>
+          <tr>
+            <td><strong>AC-3N</strong></td>
+            <td>Saimaa Short Cruise</td>
+            <td class="list-price">€1,200</td>
+            <td class="net-rate">€960</td>
+            <td class="commission">20%</td>
+          </tr>
+          <tr>
+            <td><strong>AC-7N</strong></td>
+            <td>Grand Cruise on Lake Saimaa</td>
+            <td class="list-price">€2,600</td>
+            <td class="net-rate">€2,080</td>
+            <td class="commission">20%</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <div class="gold-box" style="margin-top:10px;">
+        <strong>Early Partner Programme</strong><br>
+        20% commission is the Early Partner rate, available to operators who confirm before <strong>15 July 2026</strong>. Standard trade terms (15% or negotiated) apply after this date. Early partner status is first-come, limited allocation. Apply to <a href="mailto:laura@finlanddmc.fi" style="color:#8a5a1e;">laura@finlanddmc.fi</a>.
+      </div>
+
+      <div style="margin-top:10px; font-size:8.5pt; display:grid; grid-template-columns:1fr 1fr; gap:10px;">
+        <div>
+          <strong style="font-size:8pt; color:var(--muted);">Single Supplement</strong><br>
+          +€50 per night for sole occupancy of a double room (applies to all multi-night products: +€150 for AC-3N; +€350 for AC-7N)
+        </div>
+        <div>
+          <strong style="font-size:8pt; color:var(--muted);">Group Rates (10+ pax)</strong><br>
+          Enquire directly with Laura. Not communicated publicly. Negotiated on a case-by-case basis.
+        </div>
+      </div>
+
+      <div class="small-note" style="margin-top:8px;">
+        Pricing model: Net rate. Operator pays net to Arctic Cruises Oy / Finland DMC Oy and sells at own retail margin. Currency: EUR. Minimum booking: No minimum — FIT welcome.
+      </div>
+    </div>
+
+    <!-- ════════════════════════════
+         SECTION 4 — INCLUSIONS / EXCLUSIONS
+    ════════════════════════════ -->
+    <div class="section no-break">
+      <div class="section-header">
+        <span class="section-label">04</span>
+        <span class="section-title">Inclusions &amp; Exclusions</span>
+      </div>
+
+      <div class="two-col">
+        <div>
+          <p style="font-weight:700; color:var(--accent); font-size:8pt; text-transform:uppercase; letter-spacing:0.05em; margin-bottom:6px;">Included — Multi-Night Products (AC-3N / AC-7N)</p>
+          <ul class="check-list">
+            <li>All resort accommodation (double occupancy)</li>
+            <li>Full board: all breakfasts at resort, all lunches on board (regional menu), all dinners at resort</li>
+            <li>Gala dinner with wine pairing (one evening per voyage)</li>
+            <li>All on-board expert team: Captain, Founder (Saku Hyttinen), local hosts / naturalist</li>
+            <li>Smoke sauna at resort stops (Sahanlahti and Järvisydän)</li>
+            <li>FinnConcierge (AI + human personal assistant, DE/EN/FR/FI) — on board throughout</li>
+            <li>Port transfers on embarkation day</li>
+            <li>Castle passage and briefing — Olavinlinna / Savonlinna</li>
+            <li>Kuopio Puijo Tower guided visit (AC-7N only)</li>
+            <li>Conservation contribution (FANC Saimaa Seal LIFE project)</li>
+            <li>All port and harbour fees</li>
+          </ul>
+          <p style="font-weight:700; color:var(--accent); font-size:8pt; text-transform:uppercase; letter-spacing:0.05em; margin-bottom:6px; margin-top:10px;">Included — AC-DAY</p>
+          <ul class="check-list">
+            <li>Regional lunch on board</li>
+            <li>Local expert team</li>
+            <li>Archipelago passage programme</li>
+            <li>FinnConcierge</li>
+          </ul>
+        </div>
+        <div>
+          <p style="font-weight:700; color:#c0392b; font-size:8pt; text-transform:uppercase; letter-spacing:0.05em; margin-bottom:6px;">Not Included</p>
+          <ul class="cross-list">
+            <li>International flights to Helsinki (HEL)</li>
+            <li>Transfer Helsinki → Lappeenranta (bookable via FinnConcierge)</li>
+            <li>Travel insurance — mandatory; operator responsibility to advise clients</li>
+            <li>Single supplement (€50/night, see Section 3)</li>
+            <li>Optional excursions: kayak hire, Olavinlinna castle entrance fee</li>
+            <li>Personal drinks beyond gala wine pairing</li>
+            <li>Gratuities (not customary in Finland; at guest discretion)</li>
+            <li>Any costs arising from delayed or cancelled international travel connections</li>
+          </ul>
+
+          <div class="info-box" style="margin-top:10px;">
+            <strong>Operator note:</strong> Guests should budget approximately €30–50 for optional activities (kayak hire, castle entry). Recommend that pre-departure guest briefings cover the Lappeenranta departure point — not Helsinki.
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ════════════════════════════
+         SECTION 5 — VESSEL SPECIFICATION
+    ════════════════════════════ -->
+    <div class="section no-break">
+      <div class="section-header">
+        <span class="section-label">05</span>
+        <span class="section-title">Vessel Specification — M/S Carelia</span>
+      </div>
+
+      <div class="spec-grid">
+        <div class="spec-key">Name</div>
+        <div class="spec-val">M/S Carelia</div>
+
+        <div class="spec-key">Vessel Type</div>
+        <div class="spec-val"><strong>Day / excursion vessel. No overnight cabins.</strong> All nights at shore-based resorts. This is a critical distinction for guest briefing materials.</div>
+
+        <div class="spec-key">Passenger Capacity</div>
+        <div class="spec-val">200 passengers (total). Commercial target per voyage: 40–80 pax.</div>
+
+        <div class="spec-key">Heritage</div>
+        <div class="spec-val">On Lake Saimaa since 1969. Finland's last classic lake passenger vessel in international service.</div>
+
+        <div class="spec-key">Refurbishment</div>
+        <div class="spec-val">Comprehensive refit completed ahead of the 2027 inaugural season.</div>
+
+        <div class="spec-key">On-board Facilities</div>
+        <div class="spec-val">Main saloon · Bar · Regional lunch service (daily) · Open top deck · Sun deck (forward) · Covered section · FinnConcierge station</div>
+
+        <div class="spec-key">Accessibility</div>
+        <div class="spec-val">Enquire with Laura. Details confirmed ahead of booking for mobility-impaired guests.</div>
+
+        <div class="spec-key">Environmental</div>
+        <div class="spec-val">Zero-discharge waste management. Metsähallitus (National Parks Finland) environmental protocols observed throughout route.</div>
+      </div>
+
+      <div class="warning-box" style="margin-top:10px;">
+        <strong>Critical — must appear in all operator-facing materials and guest pre-departure documentation:</strong> M/S Carelia is a day vessel. There are no overnight sleeping cabins on board. All accommodation is at shore-based partner resorts. Failure to communicate this clearly will result in guest complaints.
+      </div>
+    </div>
+
+    <!-- ════════════════════════════
+         SECTION 6 — RESORT PORTFOLIO
+    ════════════════════════════ -->
+    <div class="section no-break">
+      <div class="section-header">
+        <span class="section-label">06</span>
+        <span class="section-title">Resort Portfolio</span>
+      </div>
+
+      <p style="margin-bottom:10px;">Specific resort at each stop confirmed at booking based on availability and group size. The resorts below form the curated pool.</p>
+
+      <div class="resort-grid">
+        <div class="resort-card">
+          <div class="resort-card-header">
+            <span class="resort-card-title">Sahanlahti Resort</span>
+            <span class="badge">Puumala Archipelago</span>
+          </div>
+          <div class="resort-card-body">
+            <p><strong>Position</strong> Sheltered cove, direct lake access</p>
+            <p><strong>Rooms</strong> Hotel rooms + cottages, all water-facing</p>
+            <p><strong>Sauna</strong> Smoke sauna at lake's edge</p>
+            <p><strong>Kitchen</strong> Local fish, chanterelles, cloudberries, rye</p>
+            <p><strong>Extras</strong> Rowing boats, kayaks at dock</p>
+          </div>
+        </div>
+
+        <div class="resort-card">
+          <div class="resort-card-header">
+            <span class="resort-card-title">Järvisydän Resort</span>
+            <div style="display:flex; gap:4px;">
+              <span class="badge green">Green Key</span>
+              <span class="badge">Gastronomy 2024</span>
+            </div>
+          </div>
+          <div class="resort-card-body">
+            <p><strong>Position</strong> Heinävesi — long dock, ship ties directly</p>
+            <p><strong>Sauna</strong> Smoke sauna + traditional</p>
+            <p><strong>Kitchen</strong> European Region of Gastronomy 2024 — seasonal, lake-led menu</p>
+            <p><strong>Certification</strong> Green Key certified</p>
+            <p><strong>Note</strong> Gala dinner programme held here</p>
+          </div>
+        </div>
+
+        <div class="resort-card">
+          <div class="resort-card-header">
+            <span class="resort-card-title">Kuopio Lakeside Hotels</span>
+            <span class="badge">City — Apex of Route</span>
+          </div>
+          <div class="resort-card-body">
+            <p><strong>Position</strong> City waterfront, views over northern Saimaa</p>
+            <p><strong>Notes</strong> Nights 3–4 on AC-7N. City hotel standard.</p>
+            <p><strong>Extras</strong> Puijo Tower guided visit (included). Kuopio market hall.</p>
+          </div>
+        </div>
+
+        <div class="resort-card">
+          <div class="resort-card-header">
+            <span class="resort-card-title">Alternative Resorts</span>
+            <span class="badge">By Availability</span>
+          </div>
+          <div class="resort-card-body">
+            <p><strong>Pistohiekka</strong> Puumala — alternative to Sahanlahti</p>
+            <p><strong>Okkolan Lomamökit</strong> Puumala — most authentic / rustic option</p>
+            <p style="margin-top:6px; font-style:italic; color:var(--muted);">Resort substitution confirmed at booking. Equivalent standard guaranteed.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ════════════════════════════
+         SECTION 7 — ROUTE DETAILS
+    ════════════════════════════ -->
+    <div class="section no-break">
+      <div class="section-header">
+        <span class="section-label">07</span>
+        <span class="section-title">Route Details</span>
+      </div>
+
+      <p style="font-weight:700; color:var(--navy); margin-bottom:6px; font-size:9pt;">AC-7N — Grand Cruise on Lake Saimaa (Flagship)</p>
+      <table class="route-table">
+        <thead>
+          <tr>
+            <th>Day</th>
+            <th>Weekday</th>
+            <th>Programme</th>
+            <th>Night at</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Day 1</td>
+            <td>Wednesday</td>
+            <td>Embarkation Lappeenranta 09:00 → Imatra transit → Southern archipelago passages</td>
+            <td>Sahanlahti Resort</td>
+          </tr>
+          <tr>
+            <td>Day 2</td>
+            <td>Thursday</td>
+            <td>Sahanlahti → Savonlinna (Olavinlinna castle passage + briefing) → Heinävesi waters</td>
+            <td>Järvisydän Resort</td>
+          </tr>
+          <tr>
+            <td>Day 3</td>
+            <td>Friday</td>
+            <td>Järvisydän → Varkaus canal locks → Kuopio approaches</td>
+            <td>Kuopio Lakeside</td>
+          </tr>
+          <tr>
+            <td>Day 4</td>
+            <td>Saturday</td>
+            <td>Kuopio full day — Puijo Tower guided visit, Kuopio market hall, free afternoon</td>
+            <td>Kuopio Lakeside</td>
+          </tr>
+          <tr>
+            <td>Day 5</td>
+            <td>Sunday</td>
+            <td>Kuopio → Järvisydän Resort → Gala dinner with wine pairing</td>
+            <td>Järvisydän Resort</td>
+          </tr>
+          <tr>
+            <td>Day 6</td>
+            <td>Monday</td>
+            <td>Järvisydän → Savonlinna → Sahanlahti Resort, farewell smoke sauna</td>
+            <td>Sahanlahti Resort</td>
+          </tr>
+          <tr>
+            <td>Day 7 / Return</td>
+            <td>Tuesday</td>
+            <td>Sahanlahti → return to Lappeenranta. Disembarkation by 12:00.</td>
+            <td>—</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <p style="font-weight:700; color:var(--navy); margin-bottom:6px; margin-top:14px; font-size:9pt;">AC-3N — Saimaa Short Cruise</p>
+      <table class="route-table">
+        <thead>
+          <tr>
+            <th>Day</th>
+            <th>Weekday</th>
+            <th>Programme</th>
+            <th>Night at</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Day 1</td>
+            <td>Wednesday</td>
+            <td>Embarkation Lappeenranta 09:00 → Southern archipelago → Puumala area</td>
+            <td>Sahanlahti Resort</td>
+          </tr>
+          <tr>
+            <td>Day 2</td>
+            <td>Thursday</td>
+            <td>Sahanlahti → Olavinlinna castle passage → Gala dinner</td>
+            <td>Järvisydän Resort</td>
+          </tr>
+          <tr>
+            <td>Day 3</td>
+            <td>Friday</td>
+            <td>Järvisydän → Puumala area passages → afternoon return</td>
+            <td>Järvisydän Resort</td>
+          </tr>
+          <tr>
+            <td>Day 4 / Return</td>
+            <td>Saturday</td>
+            <td>Return to Lappeenranta. Disembarkation by 12:00.</td>
+            <td>—</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <p style="font-weight:700; color:var(--navy); margin-bottom:6px; margin-top:14px; font-size:9pt;">AC-DAY — Lake Day Cruise</p>
+      <div class="info-box">
+        Lappeenranta → Southern archipelago passages → Imatra area → return Lappeenranta.<br>
+        Departs 09:00 from Lappeenranta Harbour. Returns approximately 18:00. Regional lunch on board. No accommodation.
+      </div>
+    </div>
+
+    <!-- ════════════════════════════
+         SECTION 8 — DEPARTURE SCHEDULE
+    ════════════════════════════ -->
+    <div class="section no-break">
+      <div class="section-header">
+        <span class="section-label navy">08</span>
+        <span class="section-title">Departure Schedule — 2027 Season</span>
+      </div>
+
+      <p style="margin-bottom:10px;">Every Wednesday, May–September 2027. Total: 21 Wednesday departures. All products depart 09:00 from Lappeenranta Harbour.</p>
+
+      <table class="schedule-table">
+        <thead>
+          <tr>
+            <th>Month</th>
+            <th>Wednesday Departure Dates</th>
+            <th>Count</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>May 2027</td>
+            <td>7, 14, 21, 28</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>June 2027</td>
+            <td>4, 11, 18, 25</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>July 2027</td>
+            <td>2, 9, 16, 23, 30</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>August 2027</td>
+            <td>6, 13, 20, 27</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>September 2027</td>
+            <td>3, 10, 17, 24</td>
+            <td>4</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <div class="small-note" style="margin-top:8px;">
+        Note: AC-7N voyages depart Wednesday and return the following Tuesday. AC-3N voyages depart Wednesday and return Saturday. AC-DAY voyages are same-day. Operators booking AC-7N should note the Tuesday return when building itineraries with onward connections.
+      </div>
+    </div>
+
+    <!-- ════════════════════════════
+         SECTION 9 — BOOKING PROCESS
+    ════════════════════════════ -->
+    <div class="section no-break">
+      <div class="section-header">
+        <span class="section-label">09</span>
+        <span class="section-title">Booking Process</span>
+      </div>
+
+      <ol class="booking-steps">
+        <li>
+          <span class="step-num">1</span>
+          <div class="step-content">
+            <strong>Booking Request</strong>
+            Operator submits request to Laura: departure date, party size, product code (AC-DAY / AC-3N / AC-7N), and any dietary or accessibility requirements. Email: <a href="mailto:laura@finlanddmc.fi">laura@finlanddmc.fi</a>. Response within 24 hours.
+          </div>
+        </li>
+        <li>
+          <span class="step-num">2</span>
+          <div class="step-content">
+            <strong>Availability Confirmation &amp; Proforma Invoice</strong>
+            Laura confirms availability and issues a proforma invoice including the net rate, departure date, party size, and applicable terms.
+          </div>
+        </li>
+        <li>
+          <span class="step-num">3</span>
+          <div class="step-content">
+            <strong>Deposit — 30% due within 14 days of confirmation</strong>
+            Deposit of 30% of the total net value is required to secure the booking. Payment in EUR by bank transfer.
+          </div>
+        </li>
+        <li>
+          <span class="step-num">4</span>
+          <div class="step-content">
+            <strong>Guest Details — 30 days before departure</strong>
+            Operator submits: full guest names (as passport), dietary requirements, special requests, emergency contact details.
+          </div>
+        </li>
+        <li>
+          <span class="step-num">5</span>
+          <div class="step-content">
+            <strong>Balance Payment — 60 days before departure</strong>
+            Remaining 70% of net value due 60 days before departure date.
+          </div>
+        </li>
+      </ol>
+
+      <div class="info-box" style="margin-top:10px;">
+        <strong>Cancellation terms (indicative):</strong> &gt;60 days before departure: 90% refund of deposit. 30–60 days: 50% refund. &lt;30 days: no refund. Final cancellation policy confirmed in the operator agreement. Please contact Laura to discuss specific terms for tour series bookings.
+      </div>
+    </div>
+
+    <!-- ════════════════════════════
+         SECTION 10 — OPERATIONAL REQUIREMENTS
+    ════════════════════════════ -->
+    <div class="section no-break">
+      <div class="section-header">
+        <span class="section-label navy">10</span>
+        <span class="section-title">Operational Requirements for Operators</span>
+      </div>
+
+      <div class="two-col">
+        <div>
+          <p style="font-weight:700; color:var(--accent); font-size:8pt; text-transform:uppercase; letter-spacing:0.05em; margin-bottom:6px;">What operators must communicate to guests</p>
+          <ul class="check-list">
+            <li><strong>Vessel type:</strong> M/S Carelia is a day vessel — no overnight cabins. All nights are spent at shore-based resorts.</li>
+            <li><strong>Departure point:</strong> All departures from Lappeenranta Harbour, not Helsinki. Transfer required and can be arranged via FinnConcierge.</li>
+            <li><strong>Dress code:</strong> Smart casual throughout. No formal attire required.</li>
+            <li><strong>Travel insurance:</strong> Mandatory. Operator responsibility to advise clients to purchase adequate cover before travel.</li>
+            <li><strong>Optional activities:</strong> Kayak hire and Olavinlinna castle entry are not included. Recommend guests budget €30–50 for optional extras.</li>
+            <li><strong>Fitness level:</strong> Moderate. Comfortable walking on uneven jetties and resort paths. No strenuous hiking.</li>
+            <li><strong>Weather:</strong> May–June can be cool (8–16°C). July–August warm (18–24°C). September crisp and excellent for photography.</li>
+          </ul>
+        </div>
+        <div>
+          <p style="font-weight:700; color:#c0392b; font-size:8pt; text-transform:uppercase; letter-spacing:0.05em; margin-bottom:6px;">What operators must NOT promise guests</p>
+          <ul class="cross-list">
+            <li><strong>Seal sightings:</strong> Saimaa ringed seal sightings are possible, never guaranteed. Correct language: <em>"You will cruise through seal habitat — sightings are a natural possibility."</em> Never write or say "you will see a seal."</li>
+            <li><strong>Specific resort at each stop:</strong> Resort assignment confirmed at booking; may change due to availability. Equivalent standard guaranteed. Do not name a specific resort in itinerary materials before booking confirmation.</li>
+            <li><strong>Specific weather:</strong> Do not promise conditions. Use seasonal descriptors (crisp, golden, warm, light evenings) rather than temperature guarantees.</li>
+            <li><strong>Wildlife encounters beyond seal:</strong> Osprey, white-tailed eagle, and other species may be observed — frame all as natural possibilities, not programme elements.</li>
+          </ul>
+
+          <div class="warning-box" style="margin-top:8px;">
+            <strong>Seal language rule — zero tolerance:</strong> Any material promising seal sightings as guaranteed may create grounds for complaint and undermines the conservation positioning of the product. Use only: <em>"You will cruise seal habitat."</em>
+          </div>
+        </div>
+      </div>
+
+      <div class="info-box" style="margin-top:10px;">
+        <strong>Emergency contact during voyage:</strong> Laura Ilvonen · <a href="mailto:laura@finlanddmc.fi">laura@finlanddmc.fi</a>. Phone number provided to confirmed operators at booking confirmation. Response guaranteed within 2 hours during operational season.
+      </div>
+    </div>
+
+    <!-- ════════════════════════════
+         SECTION 11 — MARKETING ASSETS
+    ════════════════════════════ -->
+    <div class="section no-break">
+      <div class="section-header">
+        <span class="section-label">11</span>
+        <span class="section-title">Marketing Assets Available to Operators</span>
+      </div>
+
+      <div class="assets-grid">
+        <div class="asset-item">
+          <strong>Photography</strong>
+          50+ high-resolution images. Usage rights included for confirmed operators. Landscape, vessel, resort, food, sauna. Available on request: <a href="mailto:laura@finlanddmc.fi">laura@finlanddmc.fi</a>
+        </div>
+        <div class="asset-item">
+          <strong>B2C Website</strong>
+          Reference website with full product narrative, route map, and team profiles.<br>
+          <a href="https://dmcfinland.github.io/presentations/arctic-cruises-b2c.html">arctic-cruises-b2c.html</a>
+        </div>
+        <div class="asset-item">
+          <strong>Route Map</strong>
+          Print-quality SVG route map available on request. Suitable for operator catalogues and digital materials.
+        </div>
+        <div class="asset-item">
+          <strong>Product Descriptions</strong>
+          Operator-ready copy in English and German. Short-form (100 words) and long-form (350 words) versions. Available on request.
+        </div>
+        <div class="asset-item">
+          <strong>FAM Trip 2026</strong>
+          31 August – 3 September 2026. Complimentary. Up to 50 selected operators. Apply by 15 July 2026 to <a href="mailto:laura@finlanddmc.fi">laura@finlanddmc.fi</a>
+        </div>
+        <div class="asset-item">
+          <strong>Partner Logos</strong>
+          UNESCO Geopark, Green Key, GoSaimaa, Visit Finland, FANC, Metsähallitus. Available for use in operator materials after booking confirmation.
+        </div>
+      </div>
+
+      <div class="gold-box" style="margin-top:10px;">
+        <strong>FAM — Priority for early partners:</strong> FAM selection prioritises operators who have confirmed Early Partner status before 15 July 2026. This is a curated selection — not open registration. Capacity: 50 operators maximum. Full itinerary: 31 Aug – 3 Sep 2026, Lappeenranta → Puumala → Savonlinna → Järvisydän → return. All included.
+      </div>
+    </div>
+
+    <!-- ════════════════════════════
+         SECTION 12 — CREDENTIALS
+    ════════════════════════════ -->
+    <div class="section no-break">
+      <div class="section-header">
+        <span class="section-label gold">12</span>
+        <span class="section-title">Credentials &amp; Certifications</span>
+      </div>
+
+      <ul class="cred-list">
+        <li>
+          <strong>UNESCO Global Geopark Saimaa</strong>
+          Designated 2021. The entire Arctic Cruises route operates within the Geopark boundary. Usable in operator marketing materials.
+        </li>
+        <li>
+          <strong>Green Key — Järvisydän Resort</strong>
+          International environmental certification for accommodation and hospitality. Järvisydän is Green Key certified.
+        </li>
+        <li>
+          <strong>European Region of Gastronomy 2024</strong>
+          Järvisydän Resort kitchen recognised under this designation. Used in gala dinner positioning.
+        </li>
+        <li>
+          <strong>FANC — Saimaa Seal LIFE Project</strong>
+          Conservation partnership with FANC (Finnish Association for Nature Conservation). Contribution included in all voyage packages.
+        </li>
+        <li>
+          <strong>Metsähallitus (National Parks Finland)</strong>
+          Environmental protocols from Finland's national parks authority observed throughout the route. Vessel and route operations adhere to Metsähallitus guidelines.
+        </li>
+        <li>
+          <strong>Zero-Discharge Vessel Operations</strong>
+          M/S Carelia operates zero-discharge waste management throughout the 2027 season.
+        </li>
+      </ul>
+
+      <div class="small-note" style="margin-top:8px;">
+        Certification logos and usage terms provided to confirmed operators. Contact Laura for the partner logo pack.
+      </div>
+    </div>
+
+    <!-- ════════════════════════════
+         SECTION 13 — CONTACTS
+    ════════════════════════════ -->
+    <div class="section no-break">
+      <div class="section-header">
+        <span class="section-label navy">13</span>
+        <span class="section-title">Contacts</span>
+      </div>
+
+      <table class="contacts-table">
+        <thead>
+          <tr>
+            <th>Role</th>
+            <th>Name</th>
+            <th>Contact</th>
+            <th>Scope</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Trade Relations &amp; Bookings</strong></td>
+            <td>Laura Ilvonen</td>
+            <td><a href="mailto:laura@finlanddmc.fi">laura@finlanddmc.fi</a></td>
+            <td>All operator enquiries, bookings, FAM applications, asset requests, emergency during voyage</td>
+          </tr>
+          <tr>
+            <td><strong>Founder &amp; Operations</strong></td>
+            <td>Saku Hyttinen</td>
+            <td>Via Laura</td>
+            <td>Product development, strategic partnership discussions, media</td>
+          </tr>
+          <tr>
+            <td><strong>DMC Parent Company</strong></td>
+            <td>Finland DMC Oy</td>
+            <td><a href="mailto:info@finlanddmc.fi">info@finlanddmc.fi</a></td>
+            <td>General company enquiries, invoicing entity</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-top:12px;">
+        <div class="info-box">
+          <strong>Early Partner Application deadline:</strong> 15 July 2026<br>
+          Email <a href="mailto:laura@finlanddmc.fi">laura@finlanddmc.fi</a> with: company name, market(s) served, expected annual pax volume, and preferred FAM dates.
+        </div>
+        <div class="info-box">
+          <strong>B2C Reference:</strong><br>
+          <a href="https://dmcfinland.github.io/presentations/arctic-cruises-b2c.html">dmcfinland.github.io/presentations/arctic-cruises-b2c.html</a><br>
+          <strong>Operated by:</strong> Finland DMC Oy · Lappeenranta, Finland
+        </div>
+      </div>
+    </div>
+
+  </div><!-- end doc-body -->
+
+  <!-- ══ DOCUMENT FOOTER ══ -->
+  <div class="gold-band"></div>
+  <div class="doc-footer">
+    <div class="footer-left">
+      Arctic Cruises · Operated by Finland DMC Oy · Lappeenranta, Finland<br>
+      Tour Operator PRD v1.0 · 2027 Season · Confidential — Trade Use Only
+    </div>
+    <div class="footer-right">
+      Trade enquiries: <a href="mailto:laura@finlanddmc.fi">laura@finlanddmc.fi</a><br>
+      Early partner deadline: 15 July 2026
+    </div>
+  </div>
+
+</div><!-- end doc-wrapper -->
+
+</body>
+</html>
