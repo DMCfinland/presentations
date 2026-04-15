@@ -7,6 +7,83 @@
 
 ## Rolling Window (Last 5 Sessions)
 
+### Session 228 | Sunseeker V5 HTML Polish — layout fixes, typos, slide removal, overlay | 2026-04-15
+
+```yaml
+session: 228
+date: 2026-04-15
+model: sonnet-4-6
+project_type: corporate-knowledge
+duration: ~45min
+cost: ~$1.50
+session_tier: 2
+attributed_value_eur: ~€300
+human_interventions: 9
+handoff_quality: 88
+longest_autonomous_task_min: 8
+first_turn_quality: high
+kb_consulted: no
+kb_topics: []
+patterns_harvested: [always-push-open-html, headless-chrome-pdf-fail]
+harvest_note: "Two patterns: (1) Always commit+push+open after HTML edit — Patrick explicit. (2) Headless Chrome fails on JS slideshows — stream timeout >60s, manual Cmd+P required."
+recon_hits: 0
+recon_used: 0
+protocol_friction: 2
+```
+
+Loaded SESSION-BRIDGE-S221-SUNSEEKER-HIONTA.md. Executed 3 rounds of surgical HTML edits on `jahti-clubi/sunseeker-v5.html` (6 slides, 1.53MB).
+
+Round 1 (bridge tasks): Slide 2 rewrite → 4 stat-cards + owner names. Slide 3 breakeven removed. Slide 4 "Itsenäinen asuminen." removed. Slide 5 Vaihtoehto A/B removed. Slide 7 removed (counter 7→6). Slide 1 overlay lightened.
+
+Round 2 (Patrick corrections): Slide 4 3-col grid restored (previous session broke it to 2-col). Majoitusvuokraus + Charter side-by-side in value-highlight. Opastettu retki removed. Typo fixed: miehißtökulua → miehistökulua. VELATON vertically centered in node. Slide 6 heavy box → lightweight (harbor visible).
+
+PDF attempt: headless Chrome `--print-to-pdf` stream closed at 60s — JS slideshow only captures slide 1. Print CSS injected to `/tmp/sunseeker-print.html` (all slides visible). Patrick does manual Cmd+P.
+
+GitHub Pages link delivered: https://dmcfinland.github.io/presentations/jahti-clubi/sunseeker-v5.html
+
+**Commits:** ccabaa4, dadc6d2, fff3071 (PDF gitignore-bypassed)
+**Bridge:** SESSION-BRIDGE-S228-SUNSEEKER-PDF.md (PDF manual instructions)
+**Warm pack:** `SESSION-BRIDGE-S228-SUNSEEKER-PDF.md`
+
+---
+
+### Session 227 | AI Coding Stack Research — 3-model pipeline, Codex model update, Cursor+xAI | 2026-04-14
+
+```yaml
+session: 227
+date: 2026-04-14
+model: sonnet-4-6
+project_type: strategic-research
+duration: ~60min
+cost: ~$2.50
+session_tier: 2
+attributed_value_eur: ~€400
+human_interventions: 8
+handoff_quality: 92
+longest_autonomous_task_min: 15
+first_turn_quality: high
+kb_consulted: no
+kb_topics: []
+patterns_harvested: [dual-model-judge-pipeline]
+harvest_note: "Two judges (Gemini + Grok 4.20) > single judge. Near-zero cost. Different company biases catch different failure classes. BP file written."
+recon_hits: 0
+recon_used: 0
+protocol_friction: 1
+```
+
+Pure AI tool research session. No project work. Full research-loop ran on Codex model options (quality: 4/5). Two Grok spars completed (Codex model comparison + Cursor/Codex/xAI architecture).
+
+Key decisions: (1) Codex CLI: switch run.sh from o3 → gpt-5.2-codex after A/B test — o3 is superseded and expensive, gpt-5.4 degrades in multi-turn agentic loops; (2) 3-model build pipeline validated: Claude orchestrator + gpt-5.2-codex/grok-code-fast-1 builder + dual judge (Gemini 3.1 + Grok 4.20); (3) Gemini 3 confirmed real — upgrade run-gemini.sh to gemini-3.1-pro-preview; (4) Grok-code-fast-1 in Cursor needs mandatory scope constraints (over-edits without file boundaries); (5) Claude Sonnet is valid as builder for complex/production work — "orchestrator only" is too absolute; (6) Cursor + xAI EU status cleared via Cursor Privacy Mode.
+
+Research outputs: research/openai-codex-models-2026/ + 2 Grok spar sessions.
+BP file: _shared/best-practices/dual-model-judge-pipeline.md
+
+**Deliverables:** SESSION-BRIDGE-S227-CODING-STACK.md (chmod 444)
+
+**Warm pack:** `SESSION-BRIDGE-S227-CODING-STACK.md`
+
+---
+
 ### Session 226 | Arctic Cruises V2 BUILD — route map + Day 1-7 timeline + Kuopio apex | 2026-04-14
 
 ```yaml
