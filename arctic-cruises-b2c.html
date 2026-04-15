@@ -378,6 +378,9 @@
     .map-stop.active .stop-outer { transform: scale(1.15); transform-origin: center; }
     .stop-label { font-family: 'Open Sans', sans-serif; font-size: 10px; fill: #1a1a1a; }
     .stop-meta { font-family: 'Open Sans', sans-serif; font-size: 8.5px; fill: rgba(26,26,26,0.55); }
+    #ship-marker { transition: transform 0.9s cubic-bezier(0.4, 0, 0.2, 1); }
+    @keyframes ship-ping { 0%,100% { r: 7; opacity: 0.5; } 50% { r: 11; opacity: 0; } }
+    .ship-ring { animation: ship-ping 2s ease-in-out infinite; }
     .return-divider {
       padding: 36px 0; text-align: center; border-top: 1px solid var(--border);
       border-bottom: 1px solid var(--border); margin: 8px 0 0;
@@ -865,6 +868,12 @@
               <circle cx="33" cy="100" r="5.5" fill="white" stroke="#2c6e4f" stroke-width="2"/>
               <circle cx="33" cy="100" r="2.5" fill="#2c6e4f"/>
               <text x="33" y="109" text-anchor="middle" font-size="4.5" font-weight="700" fill="#2c6e4f" font-family="Open Sans, sans-serif">START / END</text>
+            </g>
+            <!-- ── Ship marker — moves on scroll ── -->
+            <g id="ship-marker" transform="translate(33,100)">
+              <circle class="ship-ring" r="7" fill="none" stroke="#e8703a" stroke-width="1" opacity="0.5"/>
+              <circle r="5" fill="#e8703a" stroke="white" stroke-width="1.8"/>
+              <text text-anchor="middle" dominant-baseline="central" font-size="6" fill="white" font-family="sans-serif" dy="0.5">⛵</text>
             </g>
           </svg>
         </div>
@@ -1734,9 +1743,22 @@
     mobileNav.classList.remove('open');
   }
 
-  // ── Scroll-activated route map
+  // ── Scroll-activated route map + ship marker
   const days = document.querySelectorAll('.day-block');
   const mapStops = document.querySelectorAll('.map-stop');
+  const shipMarker = document.getElementById('ship-marker');
+
+  // Ship position for each day (SVG viewBox coordinates 0 0 100 120)
+  const shipPositions = {
+    '1': {x: 48, y: 77},  // Puumala — Night 1
+    '2': {x: 35, y: 53},  // Rantasalmi/Järvisydän — Night 2
+    '3': {x: 27, y: 40},  // Varkaus
+    '4': {x: 36, y: 17},  // Kuopio apex — Night 3+4
+    '5': {x: 35, y: 53},  // Järvisydän return — Night 5
+    '6': {x: 48, y: 77},  // Puumala return — Night 6
+    '7': {x: 33, y: 100}, // Lappeenranta — home
+  };
+
   const routeObserver = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
       if (entry.isIntersecting) {
@@ -1744,6 +1766,10 @@
         mapStops.forEach(stop => stop.classList.remove('active'));
         document.querySelectorAll(`.map-stop[data-day="${dayNum}"]`)
           .forEach(stop => stop.classList.add('active'));
+        const pos = shipPositions[dayNum];
+        if (pos && shipMarker) {
+          shipMarker.setAttribute('transform', `translate(${pos.x},${pos.y})`);
+        }
       }
     });
   }, { threshold: 0.6, rootMargin: '-10% 0px -40% 0px' });
