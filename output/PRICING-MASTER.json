@@ -1,0 +1,29 @@
+{
+  "version": "2026-04-15",
+  "source": "confirmed by Patrick, session S231",
+  "b2c_prices": {
+    "day_cruise": { "list": 400, "description": "Day on the Water — 1 day" },
+    "short_cruise": { "list": 1200, "nights": 3, "description": "Saimaa Short Cruise" },
+    "grand_cruise": { "list": 2600, "nights": 7, "description": "Grand Cruise on Lake Saimaa" }
+  },
+  "b2b_net_rates": {
+    "day_cruise": { "net": 320, "commission_pct": 20 },
+    "short_cruise": { "net": 960, "commission_pct": 20 },
+    "grand_cruise": { "net": 2080, "commission_pct": 20 }
+  },
+  "payment_terms": {
+    "deposit_pct": 30,
+    "balance_days_before": 60,
+    "early_partner_deadline": "2026-07-15"
+  },
+  "fam": {
+    "cost_to_operator": "complimentary",
+    "max_operators": 50,
+    "dates": "2026-08-31 to 2026-09-03",
+    "apply_deadline": "2026-07-15",
+    "apply_email": "laura@finlanddmc.fi"
+  },
+  "single_supplement_per_night": 50,
+  "season": "2027-05 to 2027-09",
+  "departures": "every Wednesday 09:00"
+}

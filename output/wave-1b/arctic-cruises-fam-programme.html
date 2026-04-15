@@ -1,0 +1,932 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Arctic Cruises — FAM Programme · 31 August – 3 September 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --accent: #2c6e4f;
+      --gold: #C49A6C;
+      --navy: #1a2332;
+      --cream: #faf8f4;
+      --light-grey: #f5f3ef;
+      --mid-grey: #ede9e2;
+      --text: #2a2a2a;
+      --text-muted: #6b6560;
+      --border: rgba(196, 154, 108, 0.30);
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    @page {
+      size: A4 portrait;
+      margin: 15mm 18mm;
+    }
+
+    @media print {
+      * {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+      }
+      .page-break {
+        page-break-before: always;
+      }
+      .no-break {
+        page-break-inside: avoid;
+      }
+    }
+
+    html, body {
+      font-family: 'Open Sans', sans-serif;
+      color: var(--text);
+      background: #f0ece4;
+      font-size: 9pt;
+      line-height: 1.55;
+    }
+
+    .page {
+      width: 174mm; /* 210mm - 36mm margins */
+      margin: 0 auto;
+      background: #fff;
+      padding: 14mm 16mm;
+    }
+
+    /* ─── PAGE HEADER (Page 1) ─── */
+    .doc-header {
+      border-bottom: 2px solid var(--navy);
+      padding-bottom: 6mm;
+      margin-bottom: 7mm;
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+    }
+
+    .doc-header-left h1 {
+      font-family: 'Playfair Display', serif;
+      font-weight: 700;
+      font-size: 17pt;
+      color: var(--navy);
+      line-height: 1.15;
+      letter-spacing: -0.01em;
+    }
+
+    .doc-header-left .header-sub {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 300;
+      font-size: 7.5pt;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-top: 3px;
+    }
+
+    .doc-header-right {
+      text-align: right;
+    }
+
+    .doc-header-right .date-badge {
+      font-family: 'Playfair Display', serif;
+      font-style: italic;
+      font-size: 9.5pt;
+      color: var(--text-muted);
+    }
+
+    .doc-header-right .complimentary {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 600;
+      font-size: 6.5pt;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--accent);
+      display: block;
+      margin-top: 2px;
+    }
+
+    /* ─── OVERVIEW STRIP ─── */
+    .overview-strip {
+      background: var(--navy);
+      padding: 5mm 7mm;
+      margin-bottom: 7mm;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0;
+    }
+
+    .overview-item {
+      padding: 0 5mm;
+      border-right: 1px solid rgba(255,255,255,0.15);
+    }
+
+    .overview-item:first-child {
+      padding-left: 0;
+    }
+
+    .overview-item:last-child {
+      border-right: none;
+    }
+
+    .overview-label {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 300;
+      font-size: 6pt;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--gold);
+      display: block;
+      margin-bottom: 2px;
+    }
+
+    .overview-value {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 400;
+      font-size: 7.5pt;
+      color: #ffffff;
+      line-height: 1.40;
+    }
+
+    /* ─── SECTION HEADING ─── */
+    .section-heading {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 700;
+      font-size: 6pt;
+      letter-spacing: 0.30em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 5mm;
+      padding-bottom: 2.5mm;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .section-heading::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--border);
+    }
+
+    /* ─── DAY BLOCKS ─── */
+    .day-block {
+      margin-bottom: 5.5mm;
+      display: grid;
+      grid-template-columns: 34mm 1fr;
+      gap: 0;
+    }
+
+    .day-label-col {
+      padding-right: 5mm;
+      padding-top: 1mm;
+    }
+
+    .day-number {
+      font-family: 'Playfair Display', serif;
+      font-weight: 700;
+      font-size: 20pt;
+      color: var(--mid-grey);
+      line-height: 1;
+      display: block;
+    }
+
+    .day-name {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 700;
+      font-size: 7pt;
+      color: var(--navy);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      display: block;
+      margin-top: 1px;
+    }
+
+    .day-date {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 300;
+      font-size: 6.5pt;
+      color: var(--text-muted);
+      display: block;
+      margin-top: 1px;
+    }
+
+    .day-location {
+      display: inline-block;
+      margin-top: 4px;
+      background: var(--accent);
+      color: #fff;
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 600;
+      font-size: 5.5pt;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      padding: 1.5px 5px;
+    }
+
+    .day-content-col {
+      padding: 2mm 0 2mm 5mm;
+      border-left: 2px solid var(--border);
+    }
+
+    .event-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .event-list li {
+      display: flex;
+      gap: 5mm;
+      padding: 1.5mm 0;
+      border-bottom: 1px solid rgba(196, 154, 108, 0.12);
+      align-items: flex-start;
+    }
+
+    .event-list li:last-child {
+      border-bottom: none;
+    }
+
+    .event-time {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 600;
+      font-size: 7pt;
+      color: var(--navy);
+      min-width: 12mm;
+      flex-shrink: 0;
+      padding-top: 1px;
+    }
+
+    .event-desc {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 300;
+      font-size: 7.5pt;
+      color: var(--text);
+      line-height: 1.50;
+    }
+
+    .event-desc strong {
+      font-weight: 600;
+      color: var(--navy);
+    }
+
+    .event-highlight {
+      background: rgba(44, 110, 79, 0.08);
+      border-left: 3px solid var(--accent) !important;
+      padding-left: 5px;
+      margin-left: -5px;
+    }
+
+    /* ─── DIVIDER ─── */
+    .section-divider {
+      margin: 6mm 0;
+      border: none;
+      border-top: 1px solid var(--border);
+    }
+
+    /* ─── PAGE 2 HEADER ─── */
+    .page-2-header {
+      border-bottom: 2px solid var(--navy);
+      padding-bottom: 5mm;
+      margin-bottom: 7mm;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .page-2-header .title-block h2 {
+      font-family: 'Playfair Display', serif;
+      font-weight: 600;
+      font-size: 13pt;
+      color: var(--navy);
+    }
+
+    .page-2-header .title-block span {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 300;
+      font-size: 7pt;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--accent);
+      display: block;
+      margin-top: 2px;
+    }
+
+    .page-2-header .page-label {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 300;
+      font-size: 6.5pt;
+      color: var(--text-muted);
+    }
+
+    /* ─── TWO-COL GRID (Page 2) ─── */
+    .two-col {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8mm;
+      margin-bottom: 6mm;
+    }
+
+    .info-block {
+      background: var(--light-grey);
+      padding: 5.5mm 6mm;
+    }
+
+    .info-block h3 {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 700;
+      font-size: 6pt;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 4mm;
+      padding-bottom: 2.5mm;
+      border-bottom: 1px solid var(--gold);
+    }
+
+    .info-block ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .info-block ul li {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 300;
+      font-size: 7.5pt;
+      color: var(--text);
+      line-height: 1.55;
+      padding: 2mm 0;
+      border-bottom: 1px solid rgba(196, 154, 108, 0.15);
+      display: flex;
+      align-items: flex-start;
+      gap: 5px;
+    }
+
+    .info-block ul li:last-child {
+      border-bottom: none;
+    }
+
+    .info-block ul li::before {
+      content: '–';
+      color: var(--gold);
+      flex-shrink: 0;
+    }
+
+    .info-block ul li strong {
+      font-weight: 600;
+      color: var(--navy);
+    }
+
+    /* ─── RATES BOX ─── */
+    .rates-box {
+      background: var(--navy);
+      padding: 5mm 7mm;
+      margin-bottom: 6mm;
+    }
+
+    .rates-box h3 {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 600;
+      font-size: 6pt;
+      letter-spacing: 0.28em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 4mm;
+    }
+
+    .rates-table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    .rates-table th {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 600;
+      font-size: 6pt;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.55);
+      text-align: left;
+      padding: 0 4mm 3mm 0;
+      border-bottom: 1px solid rgba(255,255,255,0.12);
+    }
+
+    .rates-table td {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 300;
+      font-size: 7.5pt;
+      color: rgba(255,255,255,0.88);
+      padding: 2.5mm 4mm 2.5mm 0;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+      vertical-align: middle;
+    }
+
+    .rates-table td:first-child {
+      font-weight: 400;
+    }
+
+    .rates-table td.net-rate {
+      font-weight: 700;
+      color: #ffffff;
+    }
+
+    .rates-table td.commission {
+      color: var(--gold);
+      font-weight: 600;
+    }
+
+    .rates-table tr:last-child td {
+      border-bottom: none;
+    }
+
+    /* ─── TEAM SECTION ─── */
+    .team-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 5mm;
+      margin-bottom: 6mm;
+    }
+
+    .team-member {
+      text-align: center;
+      padding: 4mm 3mm;
+      background: var(--light-grey);
+    }
+
+    .team-name {
+      font-family: 'Playfair Display', serif;
+      font-weight: 600;
+      font-size: 8pt;
+      color: var(--navy);
+      line-height: 1.25;
+      margin-bottom: 2px;
+    }
+
+    .team-role {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 300;
+      font-size: 6pt;
+      letter-spacing: 0.08em;
+      color: var(--text-muted);
+      line-height: 1.40;
+    }
+
+    /* ─── PARTNER LOGOS ─── */
+    .partner-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0;
+      align-items: center;
+      justify-content: center;
+      background: var(--light-grey);
+      padding: 4mm 6mm;
+      margin-bottom: 6mm;
+    }
+
+    .partner-item {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 300;
+      font-size: 5.5pt;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      padding: 2mm 4mm;
+    }
+
+    .partner-sep {
+      color: var(--gold);
+      font-size: 7pt;
+      opacity: 0.60;
+    }
+
+    /* ─── FOOTER ─── */
+    .doc-footer {
+      border-top: 1px solid var(--border);
+      padding-top: 4mm;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .footer-contact {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 300;
+      font-size: 7pt;
+      color: var(--text-muted);
+    }
+
+    .footer-contact strong {
+      font-weight: 600;
+      color: var(--navy);
+    }
+
+    .footer-scarcity {
+      font-family: 'Playfair Display', serif;
+      font-style: italic;
+      font-size: 7.5pt;
+      color: var(--accent);
+      text-align: right;
+    }
+
+    /* ─── ROUTE MAP VISUAL ─── */
+    .route-strip {
+      background: var(--cream);
+      border: 1px solid var(--border);
+      padding: 4mm 6mm;
+      margin-bottom: 5.5mm;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0;
+    }
+
+    .route-point {
+      text-align: center;
+      flex: 1;
+    }
+
+    .route-city {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 600;
+      font-size: 6.5pt;
+      color: var(--navy);
+      text-transform: uppercase;
+      letter-spacing: 0.10em;
+      display: block;
+    }
+
+    .route-detail {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 300;
+      font-size: 5.5pt;
+      color: var(--text-muted);
+      display: block;
+      margin-top: 1px;
+    }
+
+    .route-arrow {
+      font-size: 9pt;
+      color: var(--gold);
+      flex-shrink: 0;
+      padding: 0 2mm;
+    }
+  </style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════
+     PAGE 1 — OVERVIEW + DAY-BY-DAY
+     ════════════════════════════════════ -->
+<div class="page">
+
+  <!-- DOCUMENT HEADER -->
+  <div class="doc-header">
+    <div class="doc-header-left">
+      <h1>FAM Trip Programme</h1>
+      <p class="header-sub">Arctic Cruises — Lake Saimaa, Finland</p>
+    </div>
+    <div class="doc-header-right">
+      <span class="date-badge">31 August – 3 September 2026</span>
+      <span class="complimentary">Complimentary &nbsp;·&nbsp; 50 Selected Operators</span>
+    </div>
+  </div>
+
+  <!-- OVERVIEW STRIP -->
+  <div class="overview-strip">
+    <div class="overview-item">
+      <span class="overview-label">Vessel</span>
+      <span class="overview-value">M/S Carelia<br>Finland's last classic lake vessel</span>
+    </div>
+    <div class="overview-item">
+      <span class="overview-label">Departure &amp; Return</span>
+      <span class="overview-value">Lappeenranta Harbour<br>31 Aug 14:00 → 3 Sep 12:00</span>
+    </div>
+    <div class="overview-item">
+      <span class="overview-label">Languages on board</span>
+      <span class="overview-value">EN / DE / FR / FI<br>FinnConcierge AI + human</span>
+    </div>
+  </div>
+
+  <!-- ROUTE STRIP -->
+  <div class="route-strip">
+    <div class="route-point">
+      <span class="route-city">Lappeenranta</span>
+      <span class="route-detail">Embarkation</span>
+    </div>
+    <span class="route-arrow">&#8594;</span>
+    <div class="route-point">
+      <span class="route-city">Puumala</span>
+      <span class="route-detail">Sahanlahti Resort</span>
+    </div>
+    <span class="route-arrow">&#8594;</span>
+    <div class="route-point">
+      <span class="route-city">Savonlinna</span>
+      <span class="route-detail">Olavinlinna Passage</span>
+    </div>
+    <span class="route-arrow">&#8594;</span>
+    <div class="route-point">
+      <span class="route-city">Heinävesi</span>
+      <span class="route-detail">Järvisydän Resort</span>
+    </div>
+    <span class="route-arrow">&#8594;</span>
+    <div class="route-point">
+      <span class="route-city">Lappeenranta</span>
+      <span class="route-detail">Return &amp; Disembark</span>
+    </div>
+  </div>
+
+  <!-- SECTION HEADING -->
+  <h2 class="section-heading">Day-by-Day Programme</h2>
+
+  <!-- DAY 1 -->
+  <div class="day-block no-break">
+    <div class="day-label-col">
+      <span class="day-number">01</span>
+      <span class="day-name">Sunday</span>
+      <span class="day-date">31 August 2026</span>
+      <span class="day-location">Lappeenranta</span>
+    </div>
+    <div class="day-content-col">
+      <ul class="event-list">
+        <li>
+          <span class="event-time">All day</span>
+          <span class="event-desc">Arrivals — Helsinki → Lappeenranta by InterCity train (recommended, approx. 2h 30min). We suggest arriving by early afternoon.</span>
+        </li>
+        <li>
+          <span class="event-time">14:00</span>
+          <span class="event-desc">Embarkation at Lappeenranta harbour. Welcome reception on board M/S Carelia. Meet the team: Saku Hyttinen (Founder), Laura Ilvonen (Trade Relations) and the Captain.</span>
+        </li>
+        <li>
+          <span class="event-time">16:00</span>
+          <span class="event-desc">Departure. First passage through the Saimaa southern archipelago — 4,400 islands, UNESCO Global Geopark. Briefing on Saimaa ecology and seal habitats from the Captain.</span>
+        </li>
+        <li>
+          <span class="event-time">Evening</span>
+          <span class="event-desc">Dinner on board — regional fish, foraged ingredients, Finnish kitchen. Overnight: <strong>Sahanlahti Resort, Puumala.</strong></span>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- DAY 2 -->
+  <div class="day-block no-break">
+    <div class="day-label-col">
+      <span class="day-number">02</span>
+      <span class="day-name">Monday</span>
+      <span class="day-date">1 September 2026</span>
+      <span class="day-location">Järvisydän</span>
+    </div>
+    <div class="day-content-col">
+      <ul class="event-list">
+        <li>
+          <span class="event-time">Morning</span>
+          <span class="event-desc">Breakfast on board as Carelia cruises through the archipelago. Possible natural observation of the Saimaa ringed seal — approximately 500 individuals exist worldwide.</span>
+        </li>
+        <li>
+          <span class="event-time">11:00</span>
+          <span class="event-desc">Olavinlinna medieval castle passage — Savonlinna. One of Finland's most iconic views, seen from the water as the castle was designed to be approached.</span>
+        </li>
+        <li>
+          <span class="event-time">Afternoon</span>
+          <span class="event-desc">Arrive Heinävesi area. Check in at Järvisydän Resort (Green Key certified, European Region of Gastronomy 2024). Time to explore the grounds.</span>
+        </li>
+        <li>
+          <span class="event-time">19:00</span>
+          <span class="event-desc">Gala dinner on the lakeside terrace — local producers, Finnish gastronomy. The sun sets after 21:00 in late August; the sky turns orange above the water.</span>
+        </li>
+        <li>
+          <span class="event-time">Evening</span>
+          <span class="event-desc">Sauna session at Järvisydän. Overnight: <strong>Järvisydän Resort.</strong></span>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- DAY 3 -->
+  <div class="day-block no-break">
+    <div class="day-label-col">
+      <span class="day-number">03</span>
+      <span class="day-name">Tuesday</span>
+      <span class="day-date">2 September 2026</span>
+      <span class="day-location">On board</span>
+    </div>
+    <div class="day-content-col">
+      <ul class="event-list">
+        <li>
+          <span class="event-time">Morning</span>
+          <span class="event-desc">Breakfast at Järvisydän. Free time — nature walk, kayaking, or quiet time on the lake shore.</span>
+        </li>
+        <li>
+          <span class="event-time">10:30</span>
+          <span class="event-desc">Re-embark M/S Carelia. Departure from Järvisydän.</span>
+        </li>
+        <li class="event-highlight">
+          <span class="event-time">13:00</span>
+          <span class="event-desc"><strong>Commercial briefing session on board</strong> — net rates, booking process, 2027 season departures. Commercial agreements available for signature. Early-partner commission: 20% for operators who confirm by 15 July 2026.</span>
+        </li>
+        <li>
+          <span class="event-time">15:00</span>
+          <span class="event-desc">FinnConcierge product demonstration — multilingual AI and human assistant platform (DE / EN / FR / FI). Live demo of client-facing features.</span>
+        </li>
+        <li>
+          <span class="event-time">Evening</span>
+          <span class="event-desc">Smoke sauna at Sahanlahti Resort. Farewell dinner. Overnight: <strong>Sahanlahti Resort.</strong></span>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- DAY 4 -->
+  <div class="day-block no-break">
+    <div class="day-label-col">
+      <span class="day-number">04</span>
+      <span class="day-name">Wednesday</span>
+      <span class="day-date">3 September 2026</span>
+      <span class="day-location">Return</span>
+    </div>
+    <div class="day-content-col">
+      <ul class="event-list">
+        <li>
+          <span class="event-time">Morning</span>
+          <span class="event-desc">Breakfast at Sahanlahti Resort.</span>
+        </li>
+        <li>
+          <span class="event-time">09:00</span>
+          <span class="event-desc">Return cruise: Sahanlahti → Lappeenranta. Final passage through the archipelago.</span>
+        </li>
+        <li>
+          <span class="event-time">12:00</span>
+          <span class="event-desc">Arrival Lappeenranta harbour. Disembarkation.</span>
+        </li>
+        <li>
+          <span class="event-time">12:00–</span>
+          <span class="event-desc">Full digital media pack distributed — 50+ high-resolution photographs with commercial usage rights. Commercial agreements finalized. Departures: Lappeenranta → Helsinki by train.</span>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+</div><!-- /page 1 -->
+
+
+<!-- ════════════════════════════════════
+     PAGE 2 — LOGISTICS + TAKEAWAYS + TEAM
+     ════════════════════════════════════ -->
+<div class="page page-break">
+
+  <!-- PAGE 2 HEADER -->
+  <div class="page-2-header">
+    <div class="title-block">
+      <h2>Practical Information &amp; Commercial Details</h2>
+      <span>Arctic Cruises FAM 2026 — Confidential to applicants</span>
+    </div>
+    <span class="page-label">Page 2 of 2</span>
+  </div>
+
+  <!-- GETTING THERE + WHAT TO BRING -->
+  <div class="two-col" style="margin-bottom: 6mm;">
+    <div class="info-block">
+      <h3>Getting to Lappeenranta</h3>
+      <ul>
+        <li><strong>By train:</strong> Helsinki → Lappeenranta, InterCity direct (~2h 30min, recommended). Trains run regularly throughout the day.</li>
+        <li><strong>By air:</strong> Direct flights to Helsinki (HEL) from Frankfurt, Munich, Vienna, London, Amsterdam, Stockholm. 45-min onward flight to Lappeenranta (LPR) also available.</li>
+        <li><strong>Recommend arriving:</strong> Sunday 31 August, morning or midday. Embarkation is 14:00.</li>
+        <li><strong>Departures:</strong> Wednesday 3 September from noon. Return to Helsinki by early afternoon.</li>
+      </ul>
+    </div>
+    <div class="info-block">
+      <h3>What to bring</h3>
+      <ul>
+        <li>Smart casual clothing — no formal requirement on board or at resorts</li>
+        <li>Fleece or light down jacket (September evenings: 12–16°C on the water)</li>
+        <li>Light waterproof layer</li>
+        <li>Swimwear and towel (smoke sauna both evenings)</li>
+        <li>Binoculars — recommended for possible seal observation and archipelago wildlife</li>
+        <li>Camera — media rights: unlimited commercial use for promoting Arctic Cruises to your clients</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- WHAT YOU TAKE HOME -->
+  <h2 class="section-heading">What You Take Home</h2>
+  <div class="two-col" style="margin-bottom: 6mm;">
+    <div class="info-block">
+      <h3>Product &amp; commercial</h3>
+      <ul>
+        <li>Complete first-hand experience of the 3-night Short Cruise — sellable from Day 1 of 2027 season</li>
+        <li>Net rate sheet and signed commercial agreement (or option to sign by 15 July 2026)</li>
+        <li>Early-partner commission: <strong>20%</strong> for agreements confirmed by 15 July 2026</li>
+        <li>Direct contact with Saku (Founder) and Laura (Trade Relations) for all future bookings</li>
+        <li>Priority allocation on 2027 inaugural departure — first-mover access before wider release</li>
+      </ul>
+    </div>
+    <div class="info-block">
+      <h3>Media &amp; content</h3>
+      <ul>
+        <li>Full digital media pack: 50+ high-resolution photographs, commercial usage rights</li>
+        <li>Product copy and fact sheet — ready to paste into your own brochures and websites</li>
+        <li>Operators encouraged to film and photograph throughout the voyage</li>
+        <li>Tag <strong>@arcticcruisesfi</strong> and <strong>@finlanddmc</strong> in social posts</li>
+        <li>Media is delivered digitally on departure day, 3 September</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- NET RATES BOX -->
+  <div class="rates-box">
+    <h3>2027 Net Rates — Early Partner Programme</h3>
+    <table class="rates-table">
+      <thead>
+        <tr>
+          <th>Product</th>
+          <th>Duration</th>
+          <th>List price</th>
+          <th>Net to operator</th>
+          <th>Commission</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Day Cruise — Lake Saimaa</td>
+          <td>1 day</td>
+          <td>€400 pp</td>
+          <td class="net-rate">€320 pp</td>
+          <td class="commission">20%</td>
+        </tr>
+        <tr>
+          <td>Saimaa Short Cruise</td>
+          <td>3 nights</td>
+          <td>€1,200 pp</td>
+          <td class="net-rate">€960 pp</td>
+          <td class="commission">20%</td>
+        </tr>
+        <tr>
+          <td>Grand Cruise on Lake Saimaa</td>
+          <td>7 nights</td>
+          <td>€2,600 pp</td>
+          <td class="net-rate">€2,080 pp</td>
+          <td class="commission">20%</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- TEAM ON BOARD -->
+  <h2 class="section-heading" style="margin-top: 0;">Team on Board</h2>
+  <div class="team-grid" style="margin-bottom: 6mm;">
+    <div class="team-member">
+      <div class="team-name">Saku Hyttinen</div>
+      <div class="team-role">Founder, Arctic Cruises<br>20+ years on Finnish waters</div>
+    </div>
+    <div class="team-member">
+      <div class="team-name">Laura Ilvonen</div>
+      <div class="team-role">Guest Experience<br>&amp; Trade Relations</div>
+    </div>
+    <div class="team-member">
+      <div class="team-name">The Captain</div>
+      <div class="team-role">A lifetime on<br>Lake Saimaa</div>
+    </div>
+    <div class="team-member">
+      <div class="team-name">FinnConcierge</div>
+      <div class="team-role">AI + human assistant<br>DE / EN / FR / FI</div>
+    </div>
+  </div>
+
+  <!-- PARTNER LOGOS -->
+  <div class="partner-grid">
+    <span class="partner-item">GoSaimaa</span>
+    <span class="partner-sep">&middot;</span>
+    <span class="partner-item">Visit Finland</span>
+    <span class="partner-sep">&middot;</span>
+    <span class="partner-item">UNESCO Global Geopark</span>
+    <span class="partner-sep">&middot;</span>
+    <span class="partner-item">Green Key</span>
+    <span class="partner-sep">&middot;</span>
+    <span class="partner-item">European Region of Gastronomy 2024</span>
+  </div>
+
+  <!-- FOOTER -->
+  <div class="doc-footer">
+    <div class="footer-contact">
+      <strong>Questions &amp; applications:</strong>&nbsp;&nbsp;
+      laura@finlanddmc.fi<br>
+      <span style="font-size: 6.5pt;">Subject line: <em>"FAM 2026 — [Your Name] — [Company] — [Country]"</em></span><br>
+      <span style="font-size: 6.5pt;">Arctic Cruises Oy / Finland DMC Oy &nbsp;·&nbsp; Lappeenranta, Finland</span>
+    </div>
+    <div class="footer-scarcity">
+      50 places only.<br>
+      Deadline: 15 July 2026.
+    </div>
+  </div>
+
+</div><!-- /page 2 -->
+
+</body>
+</html>
