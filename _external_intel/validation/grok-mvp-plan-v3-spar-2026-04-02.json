@@ -1,0 +1,23 @@
+{
+  "source": "Grok Auto (spar mode)",
+  "date": "2026-04-02",
+  "sources_cited": 98,
+  "chat_url": "https://grok.com/chat?rid=fa5e34f3-c98b-4ac3-80b1-75bc57a5d21f",
+  "thinking_time_seconds": 44,
+  "verdict": "REJECT — over-engineered for two sales reps starting Monday",
+  "key_findings": {
+    "1_haiku_sonnet_pipeline": "Haiku underperforms on nuanced Finnish Word doc extraction. Errors compound into Sonnet synthesis. Recommend Sonnet end-to-end or regex + human spot-check.",
+    "2_dedup_logic": "company_slug + date ±14d + pax is crude. Finnish corporates routinely book multiple overlapping events. No unique deal ID or thread linking across files.",
+    "3_excel_sharepoint_md": "UX suicide. SharePoint renders .md poorly, no drag-drop kanban, tab-switching hell. Reps will ignore .md files by Wednesday.",
+    "4_pipeline_stages": "4 stages too few. Missing: qualification gate, stakeholder mapping, lost-reason codes, post-event follow-up for repeat business.",
+    "5_monday_gaps": [
+      "No real CRM (Excel + static .md = dead on arrival)",
+      "Zero rep onboarding or validation",
+      "Call/email tracking half-baked",
+      "No new lead source for outbound beyond historical orders",
+      "No integration with resort PMS/availability",
+      "Maintenance trap: who re-runs Sonnet when data changes?"
+    ],
+    "alternative_recommendation": "Scrap Obsidian/SharePoint Rube Goldberg. Use Pipedrive or HubSpot free as single source of truth. Import 1000 docs via simple Python extraction. One pipeline, one screen, mobile app. Train reps Monday. AI add-ons later."
+  }
+}

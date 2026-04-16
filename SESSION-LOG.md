@@ -7,6 +7,263 @@
 
 ## Rolling Window (Last 5 Sessions)
 
+### Session 238 | Arctic Wave 4 + V2 Spar + Operator Research | 2026-04-16
+
+```yaml
+session: 238
+date: 2026-04-16
+model: sonnet-4-6
+project_type: strategic-research
+duration: ~120min
+cost: ~$5.50
+session_tier: 2
+attributed_value_eur: ~€8000
+human_interventions: 9
+handoff_quality: 94
+longest_autonomous_task_min: 25
+first_turn_quality: high
+kb_consulted: yes
+kb_topics: [arctic-cruises, b2b-tour-operator, competitive-analysis, multi-agent-orchestration]
+patterns_harvested: [pre-spar-doc-compression, verify-ai-competitive-claims]
+harvest_note: "2 Tier B BPs. (1) pre-spar-doc-compression: parallel subagents compress large docs to 150w extracts before building Grok prompt — produces surgical spar. (2) verify-ai-competitive-claims (source: patrick): Gemini named Kontiki/Voigt Travel as DACH Saimaa competitors; web research found day-boat tours only, no multi-night onboard product. False alarm overturned. Rule: always web-verify AI competitive claims before acting."
+recon_hits: 0
+recon_used: 0
+protocol_friction: 1
+```
+
+**What happened:**
+
+Loaded S238 bridge (Arctic Wave 4 + Final Validation). All tasks completed autonomous.
+
+**Arctic Pipeline completion:**
+- Wave 4 Knowledge Bible built via subagent — 12,319 words, all 8 parts, 10 source docs synthesised. Gate checks: ✅
+- Cross-doc consistency bash checks: pricing consistent, FAM dates consistent, seal violations: 0
+- Gemini audit (false negative — first 200 lines of HTML don't include pricing sections; direct grep confirmed PASS)
+- 7 documents copied to root. Final commit `75633df`. MANIFEST-COMPLETE.md written `01a3fb0`.
+
+**Grok + Gemini V2 spar:**
+- 3 parallel subagents compressed 154KB of docs → 4.7KB Grok prompt
+- Both models: NOT READY verdict. Key findings: resort not confirmed at booking, 200-pax vessel brand mismatch, fill-rate economics fragile, "undiscovered" claim questioned.
+- Patrick corrections overrode spar: resort availability not a blocker (multiple resorts with space), 100 pax max + subsidies change economics, Lappeenranta-Kuopio route genuinely unique (last operated ~50 years ago), wilderness/unbuilt nature is the USP
+- Web research confirmed: no DACH/Benelux operator sells multi-night onboard Saimaa cruise. Segment genuinely unoccupied. Gemini confabulated competitive threat.
+
+**Operator research:**
+- 15 B2B targets identified across DACH + UK (fjord + river cruise operators)
+- Tier 1: Abercrombie & Kent, Hapag-Lloyd, Saga Cruises, PONANT, Riverside Luxury Cruises
+- Saved: `output/arctic-cruises-outreach/operator-target-list.md`
+
+**Symbols check:** `──` `══` chars are CSS comments only (not rendered). `✓` CSS checkmarks in B2B flyer — defer to lake land 2.0 brand guide for icon replacement.
+
+**Bridge for next session:** `_drafts/SESSION-BRIDGE-S240-OPERATOR-WEBSITE-RESEARCH.md`
+Study how Tier 1 operators sell online → apply to arctic-cruises-b2c.html.
+
+warm_pack: SESSION-BRIDGE-S240-OPERATOR-WEBSITE-RESEARCH.md
+
+---
+
+### Session 236 | Lake Saimaa 2.0 Conference Mining + Geopark AI PA | 2026-04-16
+
+```yaml
+session: 236
+date: 2026-04-16
+model: sonnet-4-6
+project_type: strategic-research
+duration: ~90min
+cost: ~$4.00
+session_tier: 2
+attributed_value_eur: ~€12000
+human_interventions: 7
+handoff_quality: 96
+longest_autonomous_task_min: 15
+first_turn_quality: high
+kb_consulted: yes
+kb_topics: [arctic-cruises, finnconcierge, dmc-opportunities, geopark-conference]
+patterns_harvested: [conference-transcript-opportunity-mining, international-event-dmc-prepost-entry]
+harvest_note: "2 Tier B BPs: (1) conference-transcript-opportunity-mining — mine event recordings within 24h, extract speaker needs, cross-ref portfolio. (2) international-event-dmc-prepost-entry — international conferences create pre/post programme window, contact organizer 6+ months early with ready product not pitch deck. Also: Finnish ä/ö filename bug in Gemini Files API documented in transcribe/NOTES.md."
+recon_hits: 2
+recon_used: 2
+protocol_friction: 1
+```
+
+**What happened:**
+
+Status check revealed autonomous pipeline S233-S235 already ran (SESSION-LOG has them) but CURRENT-STATUS meta is stuck at 233 — this session is S236.
+
+Patrick downloaded 5 audio files from Lake Saimaa 2.0 conference (15.4.2026, Lappeenranta). Transcribed all 5 in parallel using Gemini 2.5 Pro. Finnish ä/ö filename bug hit on SampoKaulanenJänkäResort.m4a — workaround: copy to ASCII path, documented in transcribe/NOTES.md.
+
+**Conference sessions transcribed:**
+1. GoSaimaa Lake Saimaa 2.0 hanketulokset — Riina + Jenni (2 vuoden hanke, 157 media, 200 tour ops, top market Saksa)
+2. Matkapakettilaki — Linda Nystedt KKV (DMC incoming = alihankkija, ei vakuusvelvoitetta jos ei kerää etukäteismaksuja)
+3. Saimaa UNESCO Global Geopark — Mikko Ikäheimo (KRIITTINEN: Euroopan Geopark -konferenssi 17.9.2026 Lappeenrannassa, 500+ delegaattia)
+4. Jänkä Resort / Sampo Kaulanen — TV-kauppias → Lappi luxury nature resort, US-matkanjärjestäjä, ristiinmyyntimahdollisuus
+5. Varkauden teollinen perintö — Kirsi Mutkapainto + Tytti (EU-kulttuuriperintötunnus maaliskuussa, teollisuusmatkailuhanke)
+
+**Outputs produced:**
+- `_drafts/lake-saimaa-20-2026-04-15/DAY-SUMMARY.md` — täydellinen päiväyhteenveto + toimenpidelista
+- `_drafts/geopark-ai-pa-proposal.md` — ehdotus Mikko Ikäheimolle: Saimaa Geopark Conference Assistant (white-label FinnConcierge, ilmainen pilotti, demo-strategia, 5kk timeline)
+
+**Top opportunity identified:** Geopark konferenssi 17.9.2026 — pre-conference Arctic Cruises lake cruise + Geopark AI PA demo. Patrick kontaktoi Mikon viikolla 17.
+
+warm_pack: SESSION-BRIDGE-S236-LAKE-SAIMAA-GEOPARK-PA.md
+
+---
+
+### Session 235 | Arctic Ship Animation — removed + harvested | 2026-04-16
+
+```yaml
+session: 235
+date: 2026-04-16
+model: sonnet-4-6
+project_type: build
+duration: ~25min
+cost: ~$0.80
+session_tier: 2
+attributed_value_eur: ~€0 (feature removed — saved future debug time)
+human_interventions: 3
+handoff_quality: 90
+longest_autonomous_task_min: 5
+first_turn_quality: high
+kb_consulted: no
+kb_topics: []
+patterns_harvested: [svg-offset-path-on-photo-overlay]
+harvest_note: "Tier B BP: CSS offset-path on SVG photo overlay requires visual pixel calibration — bezier paths cannot be generated from coordinates alone. Two-path swap pattern (suppress transition, swap offsetPath, reset offsetDistance) documented. Delete-and-harvest > fix-blindly when visual ROI doesn't justify debugging overhead."
+recon_hits: 0
+recon_used: 0
+protocol_friction: 1
+```
+
+**What happened:**
+Loaded bridge S234. Implemented Option A (two separate paths, JS swaps at Kuopio apex p=0.57). Patrick tested — ship not following waterway, too fast, wrong vibe for a relaxed premium presentation. Decision: remove ship element entirely, document learnings.
+
+Removed: `#ship-marker` SVG group, ship CSS (`offset-path`, `offset-rotate`, `.ship-ring`), JS path constants + swap logic. Kept: `getSectionProgress()` + scroll-driven label fade system. Removed ship legend caption.
+
+Committed in 2 commits (`5a1c93b` two-path fix, `0749357` removal). Push pending — hook blocks in terminal, use `git push --no-verify origin main`.
+
+**BP saved:** `_shared/best-practices/svg-offset-path-on-photo-overlay.md` — two-path swap code pattern preserved for future use with visually calibrated paths.
+
+---
+
+### Session 234 | Arctic Cruises Ship Animation — scroll-driven offset-path | 2026-04-16
+
+```yaml
+session: 234
+date: 2026-04-16
+model: sonnet-4-6
+project_type: build
+duration: ~120min
+cost: ~$3.50
+session_tier: 2
+attributed_value_eur: ~€600
+human_interventions: 14
+handoff_quality: 72
+longest_autonomous_task_min: 8
+first_turn_quality: high
+kb_consulted: no
+kb_topics: []
+patterns_harvested: []
+harvest_note: "No new patterns — all findings (offset-path, setAttribute vs style.transform, two-path solution) are implementation-specific to this animation. Not reusable as BPs."
+recon_hits: 0
+recon_used: 0
+protocol_friction: 2
+```
+
+**What happened:**
+Started with route map section having green clutter (lines + numbered dots). Removed all of it. Multiple ship animation iterations — emoji marker → CSS SVG marker → IntersectionObserver snapping → discovered setAttribute bug (SVG attribute vs CSS property, CSS transition can't animate setAttribute). Switched to style.transform. Then full redesign: Gemini + WebSearch spar on natural ship motion → unanimous recommendation: CSS offset-path + scroll-driven continuous motion.
+
+Rewrote to offset-path approach. Ship now follows curved bezier paths tied directly to scroll %. Kuopio 2-night apex pause implemented (ship holds at 50% path from scroll 43–57%). Savonlinna corrected to day-stop only (no overnight). Labels fade in per stop.
+
+**Remaining problem:** Ship flips upside-down on return leg. `offset-rotate: auto` follows path tangent — when path U-turns at Kuopio, tangent reverses 180°. Ship bow (pointing up) reads as inverted when heading south. Solution identified: two separate paths (OUTBOUND + RETURN), swap at apex. Fully documented in bridge.
+
+**Bridge:** `_drafts/SESSION-BRIDGE-S234-ARCTIC-SHIP-ANIMATION.md`
+**Push pending:** `git push --no-verify origin main`
+
+---
+
+### Session 233 | Riikka 7-Subagent Orchestration + Karpathy Wiki Plan | 2026-04-16
+
+```yaml
+session: 233
+date: 2026-04-16
+model: sonnet-4-6
+project_type: strategic-research
+duration: ~90min
+cost: ~$4.50
+session_tier: 2
+attributed_value_eur: ~€8000
+human_interventions: 6
+handoff_quality: 95
+longest_autonomous_task_min: 25
+first_turn_quality: high
+kb_consulted: yes
+kb_topics: [riikka-pipeline, orchestrator-execution, karpathy-wiki, obsidian-architecture]
+patterns_harvested: [research-brief-ceo-verification]
+harvest_note: "1 Tier B pattern: always verify CEO from web search — never trust the brief. S234 caught Etteplan CEO error (Kimmo Jokinen listed, Juha Näkki actual). Saved to research-brief-ceo-verification.md. Obsidian 1-vault decision confirmed (no spar needed — technical constraint, cross-vault wikilinks impossible). 2 bridges written: S239-OBSIDIAN-MIGRATION + S239-RIIKKA-GOLIVE-WIKI-GOLIVE."
+recon_hits: 2
+recon_used: 2
+protocol_friction: 1
+```
+
+**The 7-Subagent Orchestration — What Actually Happened**
+
+The Riikka Pipeline orchestration (S-ORCH-01) ran inside this session as 7 sequential subagents, each with a judge gate. This is what it looked like from the inside:
+
+Patrick pasted the launch prompt from `_drafts/RIIKKA-ORCHESTRATOR-LAUNCH-PROMPT.md`. Pre-flight confirmed all 3 source files existed, the `[X]%` blocker was detected and written to `outputs/BLOCKER-metric-needed.md`, then the pipeline ran.
+
+**What each subagent did and how long:**
+- S233 (JOT Automation): ~20 min. 4 web searches. CEO confirmed as Arto Kinnunen (registry listed Jukka Toivonen as CFO — would have been easy to confuse). Chinese owner structure = CoS bridge gap. Signal 3 (operating loss constrains hire budget).
+- S234 (Insta + Etteplan + Pressner): ~35 min. 6 searches across 3 targets. **Caught the Etteplan CEO error** — brief said "Kimmo Jokinen", web confirmed Juha Näkki (CEO since 2012). Insta CEO transition discovered: Niklas Mattsson takes over June 1, outreach window Jun 15–Jul 15. Pressner HOLD confirmed.
+- S235a (IQM Quantum): ~20 min. Signal 5/5 — co-CEO exited March 31, €50M BlackRock, NYSE IPO June 2026. Highest priority target in the pipeline.
+- S235b (Monitoring): ~10 min. 5 searches. 2 triggers fired (Insta CEO change + IQM exec departure). Etteplan, Bittium, JOT stable.
+- S235c (Bittium action): ~2 min. Read-only. Confirmed READY_TO_SEND, placeholder still present, send planned April 21 after Ahnger warmup.
+- S232 (LinkedIn content): ~12 min. 7-slide post built from research (slides anchored to real gaps found in Bittium + JOT entity pages). 5 comment templates.
+- S236 (Consolidation): ~20 min. Read all 14 output files, updated pipeline.md, wrote phase3-completion-report.md, made gate decision: **APPROVED 3/3**.
+
+**Gate result: APPROVED.** 5 VPL drafts, 2 monitoring triggers, LinkedIn content ready.
+**Zero retries.** All 7 subagents passed judge on first attempt.
+**One correction found** by the system itself (Etteplan CEO) — this is exactly what the judge pattern is for.
+
+**What was also done this session:**
+- Karpathy wiki architecture explained + HTML visualization built and opened in browser
+- Obsidian vault question answered: 1 vault, vault root = `~/1658HoldingsOy-AIFiles/` (no spar needed — technical constraint)
+- Honest gap analysis: what's built vs what's not live (Obsidian not yet pointed, MEMORY.md not migrated)
+- 2 session bridges written for S239: Obsidian migration research + Riikka/Wiki go-live
+
+warm_pack: SESSION-BRIDGE-S239-RIIKKA-GOLIVE-WIKI-GOLIVE.md
+
+---
+
+### Session 232 | S231 Context Overflow Close — Harvest + Compression | 2026-04-15
+
+```yaml
+session: 232
+date: 2026-04-15
+model: sonnet-4-6
+project_type: strategic-research
+duration: ~20min
+cost: ~$0.80
+session_tier: 2
+attributed_value_eur: ~€500
+human_interventions: 2
+handoff_quality: 97
+longest_autonomous_task_min: 5
+first_turn_quality: high
+kb_consulted: yes
+kb_topics: [riikka-pipeline, orchestrator-design, pattern-harvest]
+patterns_harvested: [finnish-ceo-cold-outreach-close, cos-proof-block-metric-required, linkedin-interest-graph-warming]
+harvest_note: "3 Tier A patterns from S231 VPL spar: (1) Finnish CEO close = direct ask, never Anglo-American risk-reversal. (2) CoS proof block needs metric %, not role title. (3) LinkedIn: follow companies/CEOs before profile signals (interest graph warming). All written to _shared/best-practices/."
+recon_hits: 2
+recon_used: 2
+protocol_friction: 1
+```
+
+Context overflow close from S231. Final Riikka orchestrator launch prompt shown (RIIKKA-ORCHESTRATOR-LAUNCH-PROMPT.md). Wrote 3 BP files + updated _index.yaml. Compression S222-S227 executed.
+
+warm_pack: RIIKKA-ORCHESTRATOR-LAUNCH-PROMPT.md
+
+---
+
+*(Sessions 231-232 archived to SESSION-ARCHIVE.md at S238 compression, 2026-04-16)*
+
 ### Session 231 | Arctic Cruises V3.3 + 7-Bridge Pipeline + Orchestrator V2 | 2026-04-15
 
 ```yaml
@@ -219,279 +476,7 @@ GitHub Pages link delivered: https://dmcfinland.github.io/presentations/jahti-cl
 
 ---
 
-### Session 227 | AI Coding Stack Research — 3-model pipeline, Codex model update, Cursor+xAI | 2026-04-14
-
-```yaml
-session: 227
-date: 2026-04-14
-model: sonnet-4-6
-project_type: strategic-research
-duration: ~60min
-cost: ~$2.50
-session_tier: 2
-attributed_value_eur: ~€400
-human_interventions: 8
-handoff_quality: 92
-longest_autonomous_task_min: 15
-first_turn_quality: high
-kb_consulted: no
-kb_topics: []
-patterns_harvested: [dual-model-judge-pipeline]
-harvest_note: "Two judges (Gemini + Grok 4.20) > single judge. Near-zero cost. Different company biases catch different failure classes. BP file written."
-recon_hits: 0
-recon_used: 0
-protocol_friction: 1
-```
-
-Pure AI tool research session. No project work. Full research-loop ran on Codex model options (quality: 4/5). Two Grok spars completed (Codex model comparison + Cursor/Codex/xAI architecture).
-
-Key decisions: (1) Codex CLI: switch run.sh from o3 → gpt-5.2-codex after A/B test — o3 is superseded and expensive, gpt-5.4 degrades in multi-turn agentic loops; (2) 3-model build pipeline validated: Claude orchestrator + gpt-5.2-codex/grok-code-fast-1 builder + dual judge (Gemini 3.1 + Grok 4.20); (3) Gemini 3 confirmed real — upgrade run-gemini.sh to gemini-3.1-pro-preview; (4) Grok-code-fast-1 in Cursor needs mandatory scope constraints (over-edits without file boundaries); (5) Claude Sonnet is valid as builder for complex/production work — "orchestrator only" is too absolute; (6) Cursor + xAI EU status cleared via Cursor Privacy Mode.
-
-Research outputs: research/openai-codex-models-2026/ + 2 Grok spar sessions.
-BP file: _shared/best-practices/dual-model-judge-pipeline.md
-
-**Deliverables:** SESSION-BRIDGE-S227-CODING-STACK.md (chmod 444)
-
-**Warm pack:** `SESSION-BRIDGE-S227-CODING-STACK.md`
-
----
-
-### Session 226 | Arctic Cruises V2 BUILD — route map + Day 1-7 timeline + Kuopio apex | 2026-04-14
-
-```yaml
-session: 226
-date: 2026-04-14
-model: sonnet-4-6
-project_type: strategic-research
-duration: ~30min
-cost: ~$1.80
-session_tier: 2
-attributed_value_eur: ~€1200
-human_interventions: 2
-handoff_quality: 96
-longest_autonomous_task_min: 18
-first_turn_quality: high
-kb_consulted: no
-kb_topics: []
-patterns_harvested: [complete-write-for-large-phase-builds]
-harvest_note: "For 8+ phase builds where >50% of file changes: single Write is safer and more auditable than 12+ sequential Edits. Verified: 17/17 checklist first pass, no rework. Tier 3 observation — tool selection."
-recon_hits: 0
-recon_used: 0
-protocol_friction: 1
-```
-
-Arctic Cruises B2C website V2 — executed pre-approved plan (glimmering-chasing-petal.md) from SESSION-BRIDGE-S225-ARCTIC-V2-BUILD.md. Single Write of complete rewritten HTML (999→~1100 lines). 8 phases executed in one operation.
-
-Key changes delivered: (1) Single product — removed 3-Night Classic entirely; (2) Hero meta updated to 7-Night Closed Loop weekly rhythm; (3) New #route-map section with inline SVG (7 stops, Kuopio r=14 apex, Lappeenranta double-ring, outbound + return paths); (4) Two-column sticky layout: SVG map left, scrollable Day 1-7 timeline right; (5) Day 3+4 Kuopio apex treatment (dark navy #1a2332); (6) Return divider "The Return — Same Waters, Different Light"; (7) Seal PRD-required phrase added; (8) IntersectionObserver scroll activation (replaced switchTab); (9) Nav Route link; (10) Pricing table Classic row removed; (11) Sanctuary tags updated.
-
-UX decision not in plan: route map + itinerary MERGED into one section (required for sticky layout to work). Correct call.
-
-Push blocked by two-layer hook system — Patrick to run `git push --no-verify origin main` manually.
-
-Verification: Explore subagent ran 17-item checklist → 17/17 PASS.
-
-**Deliverables:** `arctic-cruises-b2c.html` V2 committed `f955ebb` · SESSION-BRIDGE-S227-ARCTIC-V2-VISUAL-POLISH.md (chmod 444)
-
-**Warm pack:** `SESSION-BRIDGE-S227-ARCTIC-V2-VISUAL-POLISH.md`
-
----
-
-### Session 225 | Riikka Wiki Build — Bittium deep entity + 5 subagents + CoS letter | 2026-04-14
-
-```yaml
-session: 225
-date: 2026-04-14
-model: sonnet-4-6
-project_type: strategic-research
-duration: ~60min
-cost: ~$2.50
-session_tier: 2
-attributed_value_eur: ~€1200
-human_interventions: 4
-handoff_quality: 93
-longest_autonomous_task_min: 12
-first_turn_quality: high
-kb_consulted: yes
-kb_topics: [wiki-entity-page-pattern, you-centric-outreach]
-patterns_harvested: [subagent-bash-permission-required]
-harvest_note: "General-purpose subagents need Bash/WebFetch pre-approved — one agent (Hulkko) failed silently. Pattern: prompt subagents with permission context or handle low-priority research in main thread."
-recon_hits: 2
-recon_used: 2
-protocol_friction: 2
-```
-
-S225 = Riikka Wiki Build session. S224 was Arctic Cruises (already done); this session executed the S224 bridge mandate (Riikka wiki).
-
-5 parallel subagents launched:
-- agent-ahnger ✅ — Full Ahnger profile: Åbo Akademi ChemEng, PE (Helmet Capital 4yr), Patria 5yr VP, Bittium Jan 2025. Finland-Swede. Chairman MarshallAI. Low public profile.
-- agent-toljamo ✅ — Toljamo deep: Elektrobit 14yr (Nokia-DNA, 1996-2010), Anite/Keysight 9yr (sold wireless testing tools), HT Growth 3yr, Bittium board 2018-2025, CEO Apr 2025. Active LinkedIn, 264 comments on appointment.
-- agent-rohde ✅ — D-LBO failure confirmed: €2.9B contract, 2 test failures (May+Nov 2025), "danger to life", delayed to 2030s. Bittium = a4ESSOR partner (with R&S) → opportunity is supplementary ESSOR contracts, not head-to-head replacement. Rheinmetall = primary alternative integrator.
-- agent-q1 ✅ — FY2025 confirmed: EUR 119.3M (+40.1%), EBIT EUR 19.4M (16.3%). FY2026 guidance: EUR 140-155M / EUR 26-32M. Q1 2026 due April 29 (silent period). EBIT correction: 16.3% = margin, absolute = EUR 19.4M.
-- agent-hulkko ❌ — Bash blocked in subagent session. Hulkko = stub only.
-
-Wiki built: ~/Desktop/ai-headhunter/wiki/
-- companies/bittium.md ← full schema (strategic context, financials, transformation gap, D-LBO angle, competitive position, application angles)
-- contacts/erik-ahnger.md ← deep profile (PE→defense arc, Finland-Swede, outreach notes)
-- contacts/petri-toljamo.md ← deep profile (Nokia-DNA, Keysight CEO, board insider 6yr, key quotes)
-- applications/bittium-cos-20260414.md ← CoS application letter (FI+EN), Gemini validation pending
-- _index.md ← master index
-
-EBIT correction: internal records had "EUR 16.3M EBIT" which was wrong — 16.3% is the margin. Absolute = EUR 19.4M. Corrected in wiki.
-
-**Warm pack:** `SESSION-BRIDGE-S225-ARCTIC-V2-BUILD.md` (Arctic V2 is the next build session)
-
----
-
-### Session 224 | Arctic Cruises — B2C Website V2 spar + PRD legal review + plan approved | 2026-04-14
-
-```yaml
-session: 224
-date: 2026-04-14
-model: sonnet-4-6
-project_type: strategic-research
-duration: ~60min
-cost: ~$2.00
-session_tier: 2
-attributed_value_eur: ~€800
-human_interventions: 8
-handoff_quality: 95
-longest_autonomous_task_min: 8
-first_turn_quality: high
-kb_consulted: no
-kb_topics: []
-patterns_harvested: [grok-plan-refinement-diminishing-returns]
-harvest_note: "Grok improves plans technically in round 1 (integrate), but rounds 2+ are tone-only rewrites. Stop updating after round 1. S224 had 3 ExitPlanMode rejections — rounds 2+3 were identical content."
-recon_hits: 0
-recon_used: 0
-protocol_friction: 3
-```
-
-Arctic Cruises B2C website V2 planning session. Loaded S222 Arctic bridge, fired Gemini + Grok spars in parallel. Gemini (complete, 5/5): vertical SVG map + sticky layout + single Day 1-7 timeline = correct UX for €2,800pp. Grok website spar partial (CDP capture issue — only 1 line). Patrick also pasted a separate Grok PRD legal review (EU PTD compliance, superlatives, organiser clarity) — saved to external_intel.
-
-Plan Mode: 8 changes specified across hero, voyage section, new route map section (SVG inline, 7 stops, scroll-activated), itinerary rebuild (Days 1-7, return divider, Kuopio apex), seal disclaimer (line 404 existing text close but not exact). Grok refined plan 3× — round 1 technical (integrated: rootMargin, WCAG, SVG accessibility, pricing qualifiers), rounds 2-3 tone-only (not integrated after pattern identified).
-
-Key discoveries from live file: section is "Curate Your Voyage" (not "Choose Your Voyage"), seal section already has "We do not guarantee sightings" at line 404 but needs exact PRD phrase.
-
-**Deliverables:** SESSION-BRIDGE-S225-ARCTIC-V2-BUILD.md (chmod 444) · GEMINI+GROK spar results to external_intel · Plan approved + saved at ~/.claude/plans/glimmering-chasing-petal.md · GROK-SPAR-arctic-prd-legal-review-S222.md (PRD v3.1 action items)
-
-**Warm pack:** `SESSION-BRIDGE-S225-ARCTIC-V2-BUILD.md`
-
----
-
-### Session 223 | Riikka — Bittium syvätutkimus + 5 company entity + outreach briefing + Gemini spar | 2026-04-14
-
-```yaml
-session: 223
-date: 2026-04-14
-model: sonnet-4-6
-project_type: strategic-research
-duration: ~90min
-cost: ~$3.50
-session_tier: 2
-attributed_value_eur: ~€1500
-human_interventions: 6
-handoff_quality: 92
-longest_autonomous_task_min: 9
-first_turn_quality: high
-kb_consulted: yes
-kb_topics: [riikka-profile, bittium-outreach, company-wiki-entities]
-patterns_harvested: [you-centric-outreach-reframe]
-harvest_note: "You-centric reframe: alkuperäinen viesti 6/10 (I-centric), Gemini sparrattu versio 9/10. Kaikki cold outreach pitää aloittaa heidän haasteestaan, ei omasta hausta. Universaalisesti sovellettava."
-recon_hits: 2
-recon_used: 2
-protocol_friction: 1
-```
-
-Riikka AI headhunter S223 — täysi outreach pipeline rakennettu. Plan Mode + 5 rinnakkaista company research -subagenttiä (Bittium, Nokia Oulu, JOT Automation, Plugit Finland, ALTEN Finland). Selector valitsi Bittiumin (score 10/10) — ainoa jolla eksplisiittinen "data-driven scalable model" -pilari strategiassa, uusi CEO Petri Toljamo ja VP BD Erik Ahnger molemmat ulkopuolelta tuotuja muutosagentteja, Glassdoor 2.5/5 = transformaatioarkkitehdille täydellinen ympäristö.
-
-Bittium syvätutkimus (erillinen subagent): EUR 119.3M / 16.3% EBIT 2025, Indra-deal EUR 140M total, CMD syyskuu 2025 = 4 pilaria, Rohde & Schwarz D-LBO -epäonnistuminen Saksassa avaa markkinaraon. Kaikki johtoryhmän jäsenet uusia (2025–2026) — external-hire-aalto = muutosagendalle tilausta.
-
-Gemini 2.5 Pro spar: alkuperäinen LinkedIn DM 6/10 (I-centric), kirjoitettiin uusi 9/10 versio (You-centric: "Petri Toljamon mandaatti asettaa klassisen eksekointihaasteen insinöörivetoiselle organisaatiolle"). Grok partial capture — tekninen ongelma, yksirivinen vastaus. Pipeline-korjaukset: CoS hakusanat + kuntarekry-suodatin tiukennettu.
-
-**Deliverables:** 5 entity pagea · pipeline-tracker.yaml · bittium-briefing v2 (Gemini-sparrattu) · job_scraper.py korjattu · SESSION-BRIDGE-S223 protected
-
-**Warm pack:** `SESSION-BRIDGE-S223-RIIKKA-BITTIUM.md`
-
----
-
-### Session 222 | Tonttirahoitus — Arviokirja löytyi, vuokrasopimukset kartoitettu, pakettitilanne | 2026-04-14
-
-```yaml
-session: 222
-date: 2026-04-14
-model: sonnet-4-6
-project_type: strategic-research
-duration: ~45min
-cost: ~$1.20
-session_tier: 2
-attributed_value_eur: ~€2000
-human_interventions: 9
-handoff_quality: 85
-longest_autonomous_task_min: 6
-first_turn_quality: high
-kb_consulted: yes
-kb_topics: [tonttirahoitus, rahoituspaketti, kiinteistöarvio]
-patterns_harvested: [captive-tenant-bank-argument]
-harvest_note: "Captive tenant -argumentti: vuokranmaksun laiminlyönti = toiminnan alasajo. Järvisydän-spesifinen mutta yleisesti sovellettava kiinteistörahoituksessa."
-recon_hits: 2
-recon_used: 1
-protocol_friction: 2
-```
-
-Tonttirahoituspaketin due diligence -sessio. Löydettiin olemassa oleva arviokirja (Lahden Kiinteistönotariaatti, 15.9.2025, vakuusarvo, Markus tilaaja) — G8-tilaus peruttu, säästetään ~3vk + €2-5k. Rasitustodistus 1-169 löytyi jo arkistosta. Kiinteistötunnus haamu korjattu: bridgeissä esiintynyt 681-418-1-150 poistettu wiki-entiteetistä ja selvittaja-hakemus-luonnoksesta — oikea tunnus on **681-418-1-106** (Järvisydän, 15.4 ha). Tämä vahvistettu suoraan arviokirjasta.
-
-Vuokrasopimukset kartoitettu: toimisto+parkkialue (1-106, ~1700 m²) = **6 000 €/v**, kausi 2023–2048. Loput L1–L10 sopimukset (arviokirjasta: 10 vuokra-aluetta) lukematta — kokonaisvuokra selvitettävä Teemulta tai lukemalla sopimukset. Isän tieto 80k€ linjassa alkuperäisen S217 lähde-dokumentin kanssa — 120k€ on todennäköisesti uusi neuvottelutavoite.
-
-Teams-viesti Teemulle kirjoitettu (lyhyt, ihmismäinen). Captive tenant -argumentti muodostettu pankkia varten: parkkialueet + tiet + rantavyöhyke = Järvisydän ei toimi ilman näitä. DSCR 2.13× (80k) riittää rahoitukseen.
-
-**Paketti puuttuvat:** Sebastian HETU (17.4.) + Teemu-vastaus (30.4.) + MML-todistukset (tilata nyt) + Liite TA/V (Patrick täyttää).
-
-**Deliverables:** Kiinteistötunnus korjattu 2 tiedostossa · Teams-viesti Teemulle · captive-tenant-bank-argument.md · pakettitilanne selvillä
-
-**Warm pack:** `SESSION-BRIDGE-S222-VUOKRA80K.md` + `SESSION-BRIDGE-S222-RAHOITUSPAKETTI-FINAL.md`
-
----
-
-*(Sessions S220-S221 archived to SESSION-ARCHIVE-FULL.md + SESSION-ARCHIVE.md at S226 compression, 2026-04-14)*
-
-
-### Session 220 | Arctic Cruises — PRD v3 World-Class + B2C Website Live | 2026-04-14
-
-```yaml
-session: 220
-date: 2026-04-14
-model: sonnet-4-6
-project_type: strategic-research
-duration: ~60min
-cost: ~$2.80
-session_tier: 2
-attributed_value_eur: ~€4000
-human_interventions: 5
-handoff_quality: 93
-longest_autonomous_task_min: 20
-first_turn_quality: high
-kb_consulted: yes
-kb_topics: [arctic-cruises, b2c-product-design, web-conversion, expedition-travel, conservation-storytelling]
-patterns_harvested: []
-harvest_note: "nothing new — execution sprint from spar results. All architectural decisions made in S219 bridge. Both Grok+Gemini spars fired + integrated. PRD v3 + HTML built in sequence."
-recon_hits: 2
-recon_used: 2
-protocol_friction: 1
-```
-
-Loaded S219 Arctic B2C bridge. Fired Grok Expert (189 sources, 52s thinking) + Gemini 2.5 web conversion audit in parallel. Grok: 5 changes to 95+/100 — named conservation (FANC/Metsähallitus), expedition team, full inclusions matrix, Carelia refit framing, narrative-first storytelling. Gemini: 65/100 web readiness — section reorder (Signature Moments → position 3), 9 progressive CTAs, E-E-A-T section, hero video brief.
-
-Built PRD v3 (~3,000 words, 10 sections + appendix) integrating all findings. Then converted full PRD to world-class single-page HTML website — sticky header, 11 sections, tab accordions for itineraries, 9 CTAs, expedition team cards, E-E-A-T block, partner logos. Deployed to GitHub Pages.
-
-**Deliverables:** `ArticCruises-AIFiles/project-files/arctic-cruises-customer-prd-v3.md` · `arctic-cruises-b2c.html` (live) · 2 spar intel files · `SESSION-BRIDGE-S220-ARCTIC-B2C-LIVE.md` (chmod 444)
-
-**Live URL:** `https://dmcfinland.github.io/presentations/arctic-cruises-b2c.html`
-
-**Open placeholders:** expedition team names/photos · €X conservation amount · cabin count for 2027
-
-**Warm pack:** `SESSION-BRIDGE-S220-ARCTIC-B2C-LIVE.md`
-
----
+*(Sessions S222-S227 archived to SESSION-ARCHIVE.md at S232 compression, 2026-04-15)*
 
 ### Session 218 | Tonttirahoitus — Siivous + Kaikki doc-päivitykset + Projekti-esitys + S219 Bridge | 2026-04-13
 

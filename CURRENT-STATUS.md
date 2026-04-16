@@ -8,11 +8,11 @@
 ## Meta
 
 ```
-session_number: 232
-window_start: 223
-next_compression: 232
+session_number: 238
+window_start: 234
+next_compression: 243
 next_opus_review: 244
-last_compressed: 2026-04-14 (S220-S221 at S226)
+last_compressed: 2026-04-16 (S231-S232 at S238)
 last_opus_review: 2026-04-12 (S184 — Opus Review 10)
 phase: mature (every 30 sessions)
 ```
@@ -23,11 +23,11 @@ phase: mature (every 30 sessions)
 
 | Field | Value |
 |-------|-------|
-| **Current Phase** | S231 COMPLETE — Arctic Cruises V3.3 live + 5-bridge launch roadmap (S232-S236) + orchestrator pipeline (S237 V2, Grok+Gemini sparred). All commercial knowledge locked. |
+| **Current Phase** | S238 COMPLETE — Arctic pipeline done (7 docs, MANIFEST). Grok/Gemini spar done. 15 operator targets identified. S240 bridge written: operator website research → B2C improvements. |
 | **⚠️ KIIREINEN** | **M365 MC1266911 — Deadline 1.5.2026.** admin.microsoft.com → Copilot → AI providers → Anthropic → Enable. Sebastian tai Patrick. |
-| **Active Projects** | 1. **Arctic Cruises Launch Pipeline** ← S237 orchestrator ready. Run: `claude --dangerously-skip-permissions` + paste launch prompt<br>2. **Riikka Phase 2 ACTIVATION** ← LinkedIn + AMD + Toljamo VPL<br>3. **M365 MC1266911** ⚠️ deadline 1.5. |
-| **Last Session** | S231 — Arctic Cruises V3.3 (92/100 Gemini), 7-bridge roadmap, S237 orchestrator V2 (Grok+Gemini sparred, 4 fixes: data contract + progressive commits + structural gates + wave isolation). |
-| **Next 3 Tasks** | 1. **Run S237 orchestrator** — `claude --dangerously-skip-permissions` → paste ARCTIC-PIPELINE-LAUNCH-PROMPT.md<br>2. **Patrick: git push origin main** (Arctic V3.3 live)<br>3. **M365 MC1266911** ⚠️ deadline 1.5. |
+| **Active Projects** | 1. **Arctic Cruises website** ← S240 bridge ready (operator research → B2C improvements)<br>2. **Riikka outreach** — IQM URGENT (send by Apr 25). 5 VPL drafts ready.<br>3. **M365 MC1266911** ⚠️ deadline May 1. |
+| **Last Session** | S238 — Arctic Wave 4 complete. Grok/Gemini spar (NOT READY, Patrick corrections overrode). DACH competitors verified (none comparable). 15 operator targets identified. |
+| **Next 3 Tasks** | 1. **S240 operator website research** → B2C improvements (bridge ready)<br>2. **Riikka IQM VPL** — spar + send by Apr 25 (IPO June deadline)<br>3. **M365 MC1266911** ⚠️ deadline May 1 |
 
 ---
 
@@ -35,68 +35,50 @@ phase: mature (every 30 sessions)
 
 - [ ] **Parkkimaksu 60€** ← maksa ennen **26.4.2026**
 - [ ] **M365 MC1266911** ⚠️ ← Enable ennen 1.5.2026
-- [ ] **git push origin main** ← Arctic V3.3 not yet live (run in terminal)
-- [x] **Arctic Cruises B2C Website V3.3** ✅ — COMPLETE (1,778 lines, Gemini 92/100)
-- [ ] **Arctic Cruises Launch Pipeline S237** ← orchestrator V2 ready to run
-- [ ] **Riikka LinkedIn activation** ← Patrick → forward checklist to Riikka NOW
-- [ ] **AMD application** ← Riikka to submit within 7 days of S231
-- [ ] **Toljamo VPL** ← Riikka fill [X]% metric before sending
-- [ ] **Tonttirahoitus 17.4. outcomes** ← Sebastian HETU + kokoustulokset tallentamatta
+- [ ] **git push origin main** ← Arctic pipeline not yet pushed live
+- [x] **Arctic Pipeline 7 docs** ✅ — committed, MANIFEST written (`01a3fb0`)
+- [ ] **Arctic B2C improvements** ← S240 bridge. 5 parallel operator research agents → apply patterns
+- [ ] **✓ checkmarks B2B flyer** ← replace with brand icons (need lake land 2.0 brand guide path from Patrick)
+- [ ] **Riikka IQM VPL** ← spar + send by **Apr 25** (IPO June 2026 hard deadline)
+- [ ] **Riikka AMD application** ← submit by 2026-04-22
+- [ ] **Toljamo VPL** ← Riikka fills [X]% metric first
+- [ ] **Tonttirahoitus outcomes** ← Sebastian HETU + kokoustulokset
 - [ ] **COSME grant** ← Maakuntaliitto + DE/IE-partneri 30.4. deadline
-- [ ] **Supabase MCP** ← 15 min setup
-- [ ] **mcpvault dual vault** ← js/ vault lisäys
+- [ ] **Geopark Conference 17.9.2026** ← Patrick contacts Mikko Ikäheimo week 17
 
 ---
 
-## Context Pack — S232 (next session)
+## Context Pack — S239 (next session)
 
 ```
-warm_pack: SESSION-BRIDGE-S237-ARCTIC-ORCHESTRATOR-V2.md  # Run the pipeline
+warm_pack_primary: SESSION-BRIDGE-S240-OPERATOR-WEBSITE-RESEARCH.md
 
-key_files:
-  - ~/1658HoldingsOy-AIFiles/_drafts/ARCTIC-PIPELINE-LAUNCH-PROMPT.md          # PASTE THIS to launch
-  - ~/1658HoldingsOy-AIFiles/_drafts/SESSION-BRIDGE-S237-ARCTIC-ORCHESTRATOR-V2.md  # Full spec
-  - ~/1658HoldingsOy-AIFiles/_drafts/arctic-b2b-commercial-brief.md             # Commercial truth
-  - ~/1658HoldingsOy-AIFiles/arctic-cruises-b2c.html                            # B2C reference
+key_files_arctic:
+  - ~/1658HoldingsOy-AIFiles/arctic-cruises-b2c.html
+  - ~/1658HoldingsOy-AIFiles/output/arctic-cruises-outreach/operator-target-list.md
+  - ~/1658HoldingsOy-AIFiles/output/PRICING-MASTER.json
+  - ~/1658HoldingsOy-AIFiles/MANIFEST-COMPLETE.md
 
-arctic_pipeline_state:
-  b2c_website: "COMPLETE V3.3 — Gemini 92/100. Committed ef5a520. Push pending."
-  live_url: "https://dmcfinland.github.io/presentations/arctic-cruises-b2c.html"
-  push_command: "git push origin main (manual — hook blocks --no-verify)"
-  commercial_brief: "_drafts/arctic-b2b-commercial-brief.md ✅ (pricing locked)"
-  bridges_written: "S232-S236 ✅ (5 session specs) + S237-V2 ✅ (orchestrator)"
-  launch_prompt: "_drafts/ARCTIC-PIPELINE-LAUNCH-PROMPT.md ✅ (ready to paste)"
-  pricing_master: "NOT YET WRITTEN — orchestrator writes this at session start"
+key_files_riikka:
+  - ~/Desktop/ai-headhunter/wiki/pipeline.md
+  - ~/Desktop/ai-headhunter/wiki/companies/iqm-quantum.md   # URGENT Apr 25
+  - ~/Desktop/ai-headhunter/outputs/BLOCKER-metric-needed.md
 
-  deliverables_pipeline:
-    S232: "B2B Flyer — arctic-cruises-b2b-flyer.html"
-    S233: "FAM Pack — fam-invitation.html + fam-programme.html"
-    S234: "Operator PRD — arctic-cruises-operator-prd.html"
-    S235: "Operations Brief — booking-prd.md + laura-operations-brief.md"
-    S236: "Knowledge Bible — arctic-cruises-knowledge-bible.md"
+arctic_competitive_reality:
+  no_comparable_dach_product: true   # verified S238 web research
+  vessel_max_pax: 100
+  subsidies: true
+  usp: "WILDERNESS — unbuilt nature, Lappeenranta-Kuopio route not operated ~50 years"
+  marketing_angle: "Remote lake wilderness rare in today's world"
 
-  key_commercial_data:
-    net_rates: "Day €320 / 3N €960 / 7N €2,080 (20% early partner)"
-    fam: "31 Aug–3 Sep 2026 · Complimentary · 50 operators · Apply by 15 Jul 2026"
-    contact: "laura@finlanddmc.fi"
-    deadline: "15 July 2026 (early partner application)"
-
-riikka_system_state:
-  phase: "Phase 2 ACTIVATION — LinkedIn + AMD + Toljamo VPL ready"
-  toljamo_vpl: "SPARRED ✅ — Riikka must fill [X]% metric before sending"
-  amd_application: "Cover letter drafted ✅ — Riikka to submit by 2026-04-22"
-  linkedin_checklist: "brain/outreach/linkedin-activation-checklist-20260415.md"
-  pipeline_tracker: "~/Desktop/ai-headhunter/wiki/pipeline.md ✅"
-
-tonttirahoitus_state:
-  aikataulu: "17.4. → Teemu 30.4. → paketti 6.5. → pankki 8.5. → tarjous 1.6. → kaupat 15.6."
+operator_tier1:
+  - "Abercrombie & Kent (UK) — HNWI wilderness charters"
+  - "Hapag-Lloyd (DE) — MS Europa, German ultra-HNW discovery"
+  - "Saga Cruises (UK) — 100% 50+, fleet expanding 2027"
+  - "PONANT (DE+UK) — 92-184 pax, Smithsonian intellectual travel"
+  - "Riverside Luxury Cruises (DE) — ultra-luxury river, new-format identity"
 
 tools_confirmed:
   gemini: "bash ~/run-gemini.sh --prompt-file /tmp/prompt.txt --model gemini-2.5-pro --output-file /tmp/out.txt"
-  transcribe: "bash ~/run-transcribe.sh <audio> --format speakers --model gemini-2.5-pro --output-file /tmp/out.txt"
-
-coding_stack_v2:
-  orchestrator: "Claude Code (DDSC, architecture, autonomous + heavy builder)"
-  judge_1: "Gemini 2.5 Pro — gemini-2.5-pro (NOT gemini-3.1-pro-preview — stale reference)"
-  judge_2: "Grok Auto/Expert (adversarial spar)"
+  grok: "python3 ~/.claude/skills/grok-heavy-browser/main.py 'prompt' --model Expert --background"
 ```

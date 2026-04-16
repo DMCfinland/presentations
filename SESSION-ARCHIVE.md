@@ -3,6 +3,12 @@
 > **Load trigger:** "What happened in session N?", historical research, Opus Review metrics scan.
 > **NOT auto-loaded at startup or session review.** For active work, use SESSION-LOG.md.
 
+S227 (2026-04-14) kb:no harvest:yes cost:~$2.50 tier:2 value:~€400 — AI coding stack research: Codex gpt-5.2-codex confirmed, 3-model pipeline validated, dual-judge pattern (Gemini+Grok) harvested. gemini-3.1-pro-preview stale reference flagged.
+S226 (2026-04-14) kb:no harvest:yes cost:~$1.80 tier:2 value:~€1200 — Arctic Cruises V2 build: SVG route map + Day1-7 timeline + Kuopio apex. Single Write for large phase builds pattern. 17/17 checklist first pass, no rework.
+S225 (2026-04-14) kb:yes harvest:yes cost:~$2.50 tier:2 value:~€1200 — Riikka Wiki: 5 parallel subagents. Bittium FY2025 EUR119.3M/16.3% EBIT. D-LBO Rohde&Schwarz failure confirmed. Agent-hulkko failed silently (Bash blocked in subagent). CoS letter drafted.
+S224 (2026-04-14) kb:no harvest:yes cost:~$2.00 tier:2 value:~€800 — Arctic B2C V2 plan: Gemini+Grok spar (SVG map + sticky layout). Grok plan refinement: round 1 integrates, rounds 2+ tone-only rewrites (pattern harvested → memory).
+S223 (2026-04-14) kb:yes harvest:yes cost:~$3.50 tier:2 value:~€1500 — Riikka pipeline: 5 company entity pages + Bittium selected (score 10/10). Gemini spar: I-centric→You-centric reframe (6/10→9/10). Pipeline tracker + job scraper live.
+S222 (2026-04-14) kb:yes harvest:yes cost:~$1.20 tier:2 value:~€2000 — Tonttirahoitus: arviokirja löytyi (G8-tilaus peruttu), kiinteistötunnus 681-418-1-106 korjattu, vuokrat 80k€/v, captive-tenant-bank-argument.md kirjoitettu.
 S221 (2026-04-14) kb:no harvest:yes cost:~$1.80 tier:2 value:~€1200 — Riikka AI Headhunter MVP: 18-question survey processed, core.md+ideal-jd.md+voice-guide.md rebuilt in Riikan äänellä. Grok+Gemini spar (CoS täydellinen match). run_pipeline.py live: 54 jobs, launchd 8:00.
 S220 (2026-04-14) kb:yes harvest:yes cost:~$2.50 tier:2 value:~€800 — Sunseeker V5: Puerto Banús, 4 owners ×1/4, 13vk, VELATON läpi. Osakaslista lisätty. sed-korruptio 3× (& vs \&). html-presentation-cost-reduction.md kirjoitettu (5 strategiaa).
 S219 (2026-04-13) kb:yes harvest:yes cost:~$3.50 tier:2 value:~€3000 — Arctic Cruises: 5 deck fixes + 4× spar (45/100) + strategy pivot. Customer PRD first confirmed. Name: Grand Cruise on Lake Saimaa. Hook: Finland's Last Secret. Deck parked pending PRD. 2 Tier 1 BPs.
@@ -357,3 +363,6 @@ S3 (2026-02-11) kb:? harvest:? cost:~$3-5 tier:2 value:~€500 — Full SEO audi
 S2 (2026-02-10) kb:? harvest:? cost:$1.89 tier:1 value:? — YouTube KB foundation: 6 videos pilot, 455 videos catalogued, transcripts extracted (189 Tiers 1-3), Batch API submission.
 
 S1 (2026-02-09) kb:? harvest:? cost:$0 tier:3 value:~€2000 — Project foundation: orchestration patterns research, two-zone architecture, CLAUDE.md hierarchy. 3 custom subagents, Git + GitHub CLI.
+S232 (2026-04-15) kb:yes harvest:yes cost:~$0.80 tier:2 value:~€500 — S231 context overflow close. Riikka orchestrator launch prompt written. 3 BP files (Finnish CEO close, proof metric, LinkedIn warming). S222-S227 compressed.
+S231A (2026-04-15) kb:yes harvest:yes cost:~$6.50 tier:2 value:~€25000 — Arctic Cruises V3.3 + 5 wave bridges + Orchestrator V2 (Grok+Gemini spar, 4 critical fixes). READY_FOR_LAUNCH verdict. PRICING-MASTER.json as data contract.
+S231B (2026-04-15) kb:yes harvest:yes cost:~$4.50 tier:2 value:~€8000 — Riikka go-live plan. VPL Toljamo spar (Grok+Gemini). AMD cover letter. LinkedIn activation checklist. Pipeline tracker built.

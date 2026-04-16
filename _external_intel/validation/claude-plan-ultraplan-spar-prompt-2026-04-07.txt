@@ -1,0 +1,36 @@
+OUTPUT FORMAT: For each of the two modes (Plan Mode / Ultraplan), produce: Current state (what it actually does) / Real practitioner verdict (adoption, praise, complaints) / Security theater test (is it genuinely valuable or just prompting discipline in disguise?) / Failure modes / CEO-level strategic implications. Label every data point with [Harper], [Benjamin], or [Lucas]. End with a head-to-head comparison table and one-sentence CEO-level bet per mode.
+
+GOAL: Give me a multi-perspective deep analysis of two Claude Code features — Plan Mode and Ultraplan Mode. I want brutal honesty: are these genuinely valuable workflow tools or are they Anthropic UX polish on top of things a careful developer already does?
+
+CONTEXT:
+- Why I'm asking: I'm a CEO running a 10-company Finnish portfolio (50 employees), using Claude Code as the primary AI orchestration tool. I need to decide whether to integrate Plan Mode and/or Ultraplan into our team's standard workflow and document this in our internal AI ops guide.
+- What I currently believe: Plan Mode might be "security theater" — a careful developer who says "list all changes before executing" gets equivalent safety without mode-switching. Ultraplan might be an expensive Opus API session wrapped in browser UX that our existing multi-model pipeline (Claude + Grok + Gemini) already covers.
+- Stack context: We use Claude Code + Grok Expert (spar/validation) + Gemini (structural audit) + Codex CLI (coding tasks). Sonnet 4.6 as default model. Sessions up to 200K tokens. We already have a Tier 3 research-loop pipeline for deep architectural planning.
+- Scope: 2025-2026 evidence, EU/Finnish regulatory angle if applicable.
+
+PLAN MODE RESEARCH (do this first):
+What is Plan Mode exactly — which tools are blocked vs. available? Is the block hard (enforced at runtime) or soft (Claude can be prompted around it)? Does the restriction propagate to subagents (Agent tool calls)? Does it change the underlying model? What do practitioners actually use it for vs. what Anthropic says? Is there evidence it prevents real accidents, or do the developers who use it just be careful developers anyway (selection bias)?
+
+ULTRAPLAN RESEARCH (do this second):
+What does /ultraplan actually produce in practice — what does the output look like? Does the cloud session see the local repository files or does it work blind? What is the real cost per session — is it included in Claude Code Pro/Max subscriptions or metered separately? What is the quality delta vs. just using local Sonnet in Plan Mode for architectural planning? What are the failure modes (30-min timeout, context window limits, repo access issues)? Is it widely adopted or a niche power-user feature?
+
+COLLABORATION PROTOCOL: Parallel — Harper searches for live practitioner data, Benjamin verifies any cost/pricing claims with code_execution or official sources, Lucas argues the contrarian position (both features are unnecessary overhead for a team that already practices careful prompting). Do not converge to a consensus recommendation — show where agents disagree.
+
+TOOL ACTIVATION:
+- Harper: web_search for "claude code plan mode best practices 2026" + "claude code ultraplan production" + x_semantic_search for developer reactions since 2026-01-01. Find real X.com threads, GitHub issues, HN discussions.
+- Benjamin: use code_execution or official pricing pages to verify Ultraplan cost — is it included in subscription or billed per-use? Find the official tool list for Plan Mode (which tools are actually blocked).
+- Lucas: parallel critique round — argue that both features are solved by "just write better prompts" and that integrating special modes into team workflow adds cognitive overhead without proportional safety. At least 2 specific challenges.
+
+CONSTRAINTS (priority order):
+1. Find evidence that contradicts my hypothesis that these features are oversold — I want to be proven wrong if I'm wrong
+2. Be specific — name the exact use case where each feature provides value that prompting alone cannot
+3. Show EU/GDPR implications if any — does Ultraplan's cloud session create data residency issues for a Finnish company?
+4. If cost data is uncertain, flag it explicitly — do not guess subscription inclusions
+5. Surface agent disagreements — do not smooth them over
+
+QUALITY BAR:
+- Include: at least 2 real practitioner examples (not Anthropic docs), the pricing/subscription truth for Ultraplan, the official tool restriction list for Plan Mode
+- Avoid: restating Anthropic marketing copy as findings
+- If you find no genuine evidence either way: say so explicitly
+
+VERBOSITY: Full depth on both features. Do not summarize. I need enough to write a definitive internal ops recommendation.

@@ -1,23 +1,1305 @@
 # Best Practices & Workflows — Routing Index
-# last_updated: session-115b (grok-2round-option-c, yt-act-recording-scope)
+# last_updated: S184 (Opus Review 10: added pre-planned-session-execution-strategy; parallel-external-api-phasing promoted to Tier A)
 # Grep this file to find relevant knowledge before starting work
-# Updated: 2026-03-25
+# Updated: 2026-04-12
 
 # USAGE TRACKING: Increment `uses` and update `last_used` at session end
 # when a pattern was consulted or applied. Drives promotion/demotion decisions.
 # SCOPE: `applies_to` indicates which companies benefit (all = every company)
 #
 # CONFIDENCE SCORING (added session-54, source: ECC hackathon winner):
-#   0.3 = tentative (observed once, not yet validated)
-#   0.5 = moderate (2-3 uses, applied when topic matches)
+#   0.1 = archive candidate (floor — failed or contradicted, flag at next Opus Review)
+#   0.5 = new BP file default (starting value for all new entries)
 #   0.7 = strong (proven across projects, auto-loaded for matching types)
 #   0.9 = near-certain (battle-tested, Tier A candidate)
-# `source: patrick` corrections start at 0.7 (highest-signal), promote to 0.9 after 1 confirmation.
-# Confidence INCREASES: repeated use, no corrections, cross-project validation.
-# Confidence DECREASES: user correction, extended non-use, contradicting evidence.
-# Promotion: confidence >= 0.9 AND uses >= 3 → Tier A. Demotion: confidence < 0.3 → archive.
+#   0.95 = cap (maximum value — prevents overconfidence)
+# Starting values:
+#   New BP files: 0.5 (default)
+#   `source: patrick` files: 0.8 (highest-signal, fast-track to Tier A)
+# Adjustment rules:
+#   Each confirmed use: +0.1 (hard cap at 0.95)
+#   Each contradiction/failure: -0.2 (hard floor at 0.1)
+#   Files at 0.1 = archive candidates at next Opus Review
+# Promotion: confidence >= 0.9 AND uses >= 3 → Tier A candidate.
+# Demotion: confidence <= 0.1 → archive at next Opus Review.
 
 patterns:
+
+  # === ADDED S236 (Lake Saimaa 2.0 conference mining + Geopark AI PA) ===
+  - file: "conference-transcript-opportunity-mining.md"
+    topic: "Mine event recordings immediately — extract what each speaker needs/builds, cross-reference with your portfolio, produce opportunity list within 24h. S236: Geopark conference → AI PA proposal same day."
+    applies_to: [dmcfinland, arctic-cruises, finnconcierge, all]
+    confidence: 0.5
+    uses: 1
+    last_used: "S236"
+    source: "S236"
+
+  - file: "international-event-dmc-prepost-entry.md"
+    topic: "International conferences in your region = pre/post programme DMC opportunity. Contact organizer 6+ months early with a ready product (demo > pitch deck). Pre/post window = 24-48h, delegates arrive early, family needs programme."
+    applies_to: [dmcfinland, arctic-cruises, all-dmc]
+    confidence: 0.5
+    uses: 1
+    last_used: "S236"
+    source: "S236"
+
+  # === ADDED S235 (Arctic ship animation — remove + harvest) ===
+  - file: "svg-offset-path-on-photo-overlay.md"
+    topic: "CSS offset-path animation on SVG overlay on a photo requires visual pixel calibration — bezier control points cannot be generated from coordinates alone. Two-path swap pattern (OUTBOUND+RETURN, JS swaps at apex, suppress transition) documented. If paths feel wrong visually: delete and harvest > fix blindly."
+    applies_to: [html-presentation, arctic-cruises, animation, all]
+    confidence: 0.8
+    uses: 1
+    last_used: "S235"
+    source: "patrick+S235-empirical"
+
+  # === ADDED S233 (7-subagent Riikka orchestration run) ===
+  - file: "research-brief-ceo-verification.md"
+    topic: "Always verify CEO name from live web search — never trust the brief. S234 caught 'Kimmo Jokinen' (wrong) vs Juha Näkki (actual, 14-year tenure) for Etteplan. Brief writer may use stale data."
+    applies_to: [riikka-pipeline, company-research, executive-search, all]
+    confidence: 0.8
+    uses: 1
+    last_used: "S233"
+    source: "S233 orchestration empirical catch"
+
+  # === ADDED S231 (Riikka VPL spar + orchestrator build) ===
+  - file: "finnish-ceo-cold-outreach-close.md"
+    topic: "Finnish CEO cold outreach: remove Anglo-American risk-reversal close ('you lose nothing if it's not relevant'). Replace with direct ask: '20 minutes. I come prepared.' Risk-reversal signals sender doubts own value proposition — Finnish executive culture reads it as consultant-speak."
+    applies_to: [riikka-pipeline, executive-search, all]
+    confidence: 0.8
+    uses: 1
+    last_used: "S231"
+    source: grok-gemini-unanimous-s231
+
+  - file: "cos-proof-block-metric-required.md"
+    topic: "CoS VPL proof block must contain a concrete metric (%), not just role title. Engineering-background CEOs distrust qualitative claims. Template: 'My function ensured we hit [X]% of milestones on time.' Block outreach until sender fills real metric — never send with visible placeholder."
+    applies_to: [riikka-pipeline, executive-search, cos-outreach]
+    confidence: 0.8
+    uses: 1
+    last_used: "S231"
+    source: gemini-s231-vpl-audit
+
+  - file: "linkedin-interest-graph-warming.md"
+    topic: "LinkedIn activation: follow target companies + CEOs FIRST (Steps 1-2), then update profile signals (headline, About). LinkedIn algorithm reads interest graph before profile text signals. Wrong order = weaker recruiter matching on first algorithm pass after reactivation."
+    applies_to: [riikka-pipeline, linkedin-activation, job-search]
+    confidence: 0.8
+    uses: 1
+    last_used: "S231"
+    source: gemini-s231-linkedin-checklist
+
+  # === ADDED S230 (Riikka pipeline intelligence build) ===
+  - file: "cos-hiring-vpl-trinity.md"
+    topic: "CoS hiring requires VPL + trigger timing + prior touchpoint. VPL alone insufficient (trust-chemistry role). Nordic: touchpoint is structural, not optional. Trigger window: new CEO day 30-60, post-M&A 0-12mo, hypergrowth without ops layer."
+    applies_to: [riikka-pipeline, executive-search, all]
+    confidence: 0.8
+    uses: 0
+    last_used: "S230"
+    source: agent-research-grok-gemini-confirmed
+
+  - file: "agent-feedback-v2-loop.md"
+    topic: "Parallel agent research: run v1, identify specific failure per agent (5 words), write targeted v2 with exact correction, launch all v2 in one batch. Specific critique → 3-5× more actionable output. Generic retry → marginal improvement. S230 empirical across 16 agents."
+    applies_to: [all]
+    confidence: 0.7
+    uses: 0
+    last_used: "S230"
+    source: s230-empirical
+
+  # === ADDED S220 (Sunseeker V5 build — Patrick feedback) ===
+  - file: "html-presentation-cost-reduction.md"
+    topic: "5 strategies to reduce HTML deck build cost: (1) template separation CSS+images+content, (2) external image refs not base64, (3) version diffs not full rebuilds, (4) slide component library with {{VARIABLE}} params, (5) Python not sed for HTML edits. 100× token reduction target. Source: Patrick S220."
+    applies_to: [jahti-clubi, arctic-cruises, finland-dmc, html-presentation]
+    confidence: 0.8
+    uses: 0
+    last_used: "S220"
+    source: patrick
+
+  # === ADDED S216-AC (Arctic Cruises deck build) ===
+  - file: "contact-sheet-photo-workflow.md"
+    topic: "Before any HTML deck: build click-to-select photo contact sheet, WP REST API mining, gap cards, 'Open Say' resolution warnings, Patrick selects → then build. GoSaimaa CDN confirmed. FAM slide must be invite not info. S8 pricing always split from competitor table."
+    applies_to: [finland-dmc, arctic-cruises, html-presentation]
+    confidence: 0.8
+    uses: 1
+    last_used: "S216-AC"
+    source: patrick
+
+  # === ADDED S217 ===
+  - file: "wiki-entity-page-pattern.md"
+    topic: "Karpathy wiki entity pages for Holdings: Zone A directory (wiki/entities/), Obsidian reads Zone A as vault root, entity pages replace compression, MEMORY.md becomes pointer index. Spar-validated: Grok+Gemini 3/10 on naive approach → revised. Tier A."
+    applies_to: "all"
+    confidence: 0.8
+    uses: 1
+    last_used: "S217"
+
+  - file: "session-end-wiki-delta-stub.md"
+    topic: "Session end protocol redesign: hot session writes 5-line YAML stub + wiki_delta block only. Full harvest (BPs, entity updates, narratives) deferred to next session startup trigger. Saves cost at 100K+ token moment. Periodic Wiki Compilation Session every 10 sessions (Opus Review analogy)."
+    applies_to: "all"
+    confidence: 0.8
+    uses: 1
+    last_used: "S217"
+
+  - file: "audio-to-analysis-pipeline.md"
+    topic: "Audio recording → Gemini transcribe (speakers) → Claude screenshot (multimodal Read) → Codex analysis (gpt-5.3-codex isolated) → Claude synthesis → Gemini judge. COSME / meeting analysis pipeline. Model confirmed: gpt-5.3-codex via API 2026-04-13."
+    applies_to: "all"
+    confidence: 0.5
+    uses: 1
+    last_used: "S217"
+
+  # === ADDED S210 ===
+  - file: "karpathy-wiki-implementation-pattern.md"
+    topic: "Karpathy LLM Wiki pattern for Holdings: L1/L2/L3 architecture, entity pages → _shared/best-practices/entities/ (NOT wiki/ — invisible to /recon), brief↔wiki cycle, autonomy roadmap S210→S220. Grok+Gemini spar fit ratings included."
+    applies_to: "all"
+    confidence: 0.7
+    uses: 1
+    last_used: "S210"
+
+  - file: "wiki-brief-autonomous-ingest-cycle.md"
+    topic: "Brief↔wiki compounding cycle: /wiki query before meeting (history context), /wiki ingest after (file findings), /wiki lint weekly (pattern detection). Group sales specific: 40-80 FAM operators as entity pages → brief prep 15-30 min faster."
+    applies_to: "all"
+    confidence: 0.7
+    uses: 1
+    last_used: "S210"
+
+  - file: "wiki-index.md"
+    topic: "Master catalog of 175 BP files — 7 categories, one-line summaries. Karpathy L2 layer entry point. Updated 2026-04-13 S210. Next lint: 2026-04-20."
+    applies_to: "all"
+    confidence: 0.8
+    uses: 1
+    last_used: "S210"
+
+  # === ADDED S203 ===
+  - file: "nordic-hnwi-tone-calibration.md"
+    topic: "Nordic/Finnish HNWI buyers: facts first, aspiration last. Janteloven + transparency culture = slide order inverted vs Southern EU/US. Facts → risks → tax → aspiration only at close. Wrong order kills trust before numbers are seen. Source: Grok Expert + Gemini unanimous S203."
+    applies_to: "all"
+    confidence: 0.9
+    uses: 1
+    last_used: "S203"
+    external_validated: "Grok Expert 280s + Gemini 2.5 Pro unanimous S203"
+
+  - file: "compliance-subagent-phase1-mandatory.md"
+    topic: "Run Compliance Kill Vector subagent BEFORE building any fractional/investment deck. EU Timeshare Directive 2008/122/EC + AIFMD + FIN-FSA rules. Three triggers: usage rights >1yr, SPV/collective structure, presenting returns/ROI to Finnish buyers. Building first = potential illegal marketing material. Scoping: private sale vs public marketing matters."
+    applies_to: "all"
+    confidence: 0.9
+    uses: 1
+    last_used: "S203"
+    external_validated: "Grok Expert + Gemini unanimous highest-severity S203"
+
+  - file: "post-delivery-protocol.md"
+    topic: "Sales package workflow doesn't end at GitHub push. Phase 4: 24h receipt confirm, 72h follow-up call, objection capture → kill vector library update. Nordic rule: max 1 confirm + 1 follow-up (more = trust loss). Build V2 only for engaged prospects with specific fixable objection. Source: Gemini structural audit S203."
+    applies_to: "all"
+    confidence: 0.75
+    uses: 1
+    last_used: "S203"
+
+  # === ADDED S202 ===
+  - file: "investment-product-deck-workflow.md"
+    topic: "Full workflow: investment product sales deck — HTML + PDF + Word + email. Phase 0 LOCK (9q) + 3 Phase 1 subagents (Grok KV + Gemini + Compliance) + Phase 4 follow-up. Nordic HNWI = facts first. EU Timeshare/AIFMD compliance mandatory. Asset class table (yacht/RE/art/aircraft/vineyard). Validated S177-S203 Grok+Gemini."
+    applies_to: "all"
+    confidence: 0.85
+    uses: 2
+    last_used: "S203"
+    external_validated: "Grok Expert 280s + Gemini structural audit S203"
+
+  # === ADDED S181 ===
+  - file: "real-estate-financing-bank-package.md"
+    topic: "Complete bank financing package workflow for Finnish real estate — A-G framework, DSCR/LTV targets, bank adversarial spar (Grok+Gemini as bank officer), encumbered property pricing justification, cessio structure, full document checklist"
+    applies_to: "js, personal-finance, holdings"
+    confidence: 0.7
+    uses: 1
+    last_used: "S181"
+
+  # === ADDED S200 ===
+  - file: "research-slop-check-methodology.md"
+    topic: "4-dimension slop check for research batches — Specificity/Stack-fit/Contradiction-courage/Novel-signal. Threshold 4.0+. Subagent template included."
+    applies_to: "all"
+    confidence: 0.7
+    uses: 1
+    last_used: "S200"
+
+  - file: "overnight-scheduled-research-protocol.md"
+    topic: "Overnight research via crons + subagent isolation. CRITICAL: /compact kills cron queue silently. Write cron backups to /tmp before any compact."
+    applies_to: "all"
+    confidence: 0.9
+    uses: 2
+    last_used: "S200"
+
+  # === ADDED S196 ===
+  - file: "zero-human-project-execution-playbook.md"
+    topic: "DDSC loop for minimal-human project execution — bridge prep, parallel agents, hard gates, verification, decision trees. Case study: S196 Wave 1 (3 deliverables, 3 human turns)"
+    applies_to: "all"
+    confidence: 0.5
+    uses: 1
+    last_used: "S196"
+
+  - file: "subagent-output-verification.md"
+    topic: "Always verify subagent file output counts with python3 — declared totals unreliable (metadata + summary both wrong in S196)"
+    applies_to: "all"
+    confidence: 0.5
+    uses: 1
+    last_used: "S196"
+
+  # === ADDED S194 ===
+  - file: "b2b-net-rate-supplier-margin.md"
+    topic: "B2B pricing: net rate must include supplier margin — never set net = delivery cost"
+    applies_to: "all"
+    confidence: 0.5
+    uses: 1
+    last_used: "S194"
+    keywords: [pricing, b2b, net-rate, operator, margin, dmc, tour-operator]
+
+  # === ADDED S192 ===
+  - file: "launchagent-keychain-wrapper.md"
+    topic: "macOS LaunchAgents don't inherit shell env — wrap with bash script that loads API keys from Keychain via security find-generic-password. Prevents silent AI filter bypass."
+    tier: B
+    applies_to: all
+    confidence: 0.7
+    uses: 1
+    last_used: S192
+    tags: [macos, launchagent, keychain, api-keys, cron, python]
+
+  # === ADDED S190 ===
+  - file: "monitoring-dedup-initial-scrape.md"
+    topic: "Initial scrape + mark_seen pattern for any recurring monitoring system. Prevents day-1 alert fatigue. Two modes: initial (mark_seen=True) and daily delta (mark_seen=False). Seen-IDs stored in vault JSON."
+    tier: B
+    applies_to: all
+    confidence: 0.5
+    uses: 1
+    last_used: S190
+    tags: [monitoring, dedup, rss, scraping, cron]
+
+  # === ADDED S188 ===
+  - file: "personal-ai-project-wave-build-blueprint.md"
+    topic: "End-to-end blueprint for personal AI agent projects: 9 phases from architecture to post-project analysis. Derived from Riikka AI Headhunter (65/65 PASS, 4 sessions, ~€5K impact). Includes wave architecture, anti-gimmick evals, framing audit, AI profile extraction."
+    applies_to: [all-build-projects, personal-ai-tools]
+    confidence: 0.8
+    uses: 1
+    last_used: S188
+    source: "patrick-s188"
+
+  - file: "framing-audit-role-specific-tools.md"
+    topic: "Before demoing any AI tool that writes content on behalf of a user, run framing audit: is every output from the RIGHT perspective? Checklist: sender, audience, I/me references, SYSTEM_PROMPT role, demo slides. Discovered via Riikka headhunter→job-seeker framing error."
+    applies_to: [all-ai-writing-tools, outreach, job-search, crm]
+    confidence: 0.8
+    uses: 1
+    last_used: S188
+    source: "patrick-s188"
+
+  - file: "ai-extraction-over-manual-fill.md"
+    topic: "Never ask users to fill structured profile templates manually when AI can extract from existing docs (CV, LinkedIn). Flow: user provides source → Claude extracts → writes template → user approves in 5 min. Discovered via Riikka core.md setup."
+    applies_to: [all-personalization-tools, crm, outreach, job-search]
+    confidence: 0.8
+    uses: 1
+    last_used: S188
+    source: "patrick-s188"
+
+  # === ADDED S187 ===
+  - file: "codex-constraint-verification.md"
+    topic: "Codex builds data structures reliably but skips business logic constraints (state machine transitions, duplicate prevention). Use MUST markers in prompts; verify in evaluators with invalid-transition + duplicate-insert tests."
+    applies_to: [codex, all-coding-tasks]
+    confidence: 0.5
+    uses: 1
+    last_used: S187
+    source: "s187-empirical"
+
+  # === ADDED S184 (Opus Review 10) ===
+  - file: "pre-planned-session-execution-strategy.md"
+    topic: "DDSC Protocol — Declare-Delegate-Synthesize-Close session execution. Subagent-first for >10K output, external LLM minimum 1/session, turn budget 5-8, worktree isolation for code builds. 73% token savings vs reactive."
+    applies_to: all
+    confidence: 0.8
+    uses: 0
+    last_used: S184
+    source: "patrick-s182 + opus-review-10"
+
+  # === ADDED S179 ===
+  - file: "finnish-property-takaisinsaanti-structure.md"
+    topic: "Finnish TakSL risk analysis for property pledges — identify asset owner first, personal vs. company insolvency, lookback periods, protections"
+    applies_to: [JS, 1658Holdings, any-finnish-real-estate]
+    confidence: 0.5
+    uses: 1
+    last_used: S179
+
+  - file: "finnish-bank-financing-package-saneeraus.md"
+    topic: "Finnish bank financing package checklist + transaction sequence for property acquisition with saneeraus involvement — esisopimus, selvittäjä hyväksyntä, DSCR, cessioiminen"
+    applies_to: [JS, 1658Holdings, any-finnish-real-estate]
+    confidence: 0.5
+    uses: 1
+    last_used: S179
+
+  # === ADDED S197 ===
+  - file: "ux-channel-validation-before-build.md"
+    topic: "Validate target user's actual tools and technical capabilities before building any interaction layer — CLI, bot, dashboard, form"
+    applies_to: all
+    confidence: 0.9
+    uses: 1
+    last_used: S197
+    source: patrick
+
+  # === ADDED S177 ===
+  - file: "sales-presentation-research-first.md"
+    topic: "sales presentation best practices — research before build, yacht/hospitality/investment decks"
+    applies_to: all
+    confidence: 0.5
+    uses: 1
+    last_used: S177
+
+  - file: "~/.claude/skills/html-presentation/references/self-contained-dark-deck-template.md"
+    name: "Self-Contained Dark Deck Template"
+    topic: "html presentation, asset deck, yacht, fractional ownership, base64 images, dark theme, fullscreen, single-file, Playwright PDF"
+    applies_to: "html-presentation skill — asset/product decks (yacht, property, fractional)"
+    use_when: "Building any single-asset sales deck (yacht, property, aircraft, fractional ownership) where all images embed inline"
+    confidence: 0.9
+    uses: 1
+    last_used: S177
+    notes: "Validated on sunseeker-quarter.html. Includes: base64 regex replacement, Playwright PDF, Brokerage CDN sourcing, slide-1 flex-start rule, CTA lifestyle copy rule."
+
+  # === ADDED S169 ===
+  - file: "finnish-b2b-call-script-patterns.md"
+    topic: "Finnish B2B outbound call scripts — SPIN/Challenger failure modes + validated rewrites"
+    applies_to: [js, dmc, all]
+    confidence: 0.7
+    uses: 1
+    last_used: 2026-04-02
+    source: gemini-validation
+
+  # === ADDED S166 ===
+  - file: "crm-estimated-revenue-tier-not-exact.md"
+    one_line: "Batch-estimated revenue (from price-string heuristics) → show value_tier (high/med/low), not exact €. ±20% estimates erode sales staff trust when displayed as precise figures."
+    tags: [crm, batch-api, data-quality, js-groupsales]
+    applies_to: [js, dmc, all]
+    confidence: 0.5
+    uses: 1
+    last_used: S166
+
+  - file: "crm-template-minimum-viable-fields.md"
+    one_line: ">8-10 CRM frontmatter fields = abandonment. Build templates for current data richness, not aspirational future state. Phase 1 JS: 8 fields only."
+    tags: [crm, obsidian, template-design, js-groupsales]
+    applies_to: [js, dmc, all]
+    confidence: 0.5
+    uses: 1
+    last_used: S166
+
+  # === ADDED S163 ===
+  - file: "research-output-zone-routing.md"
+    one_line: "Research-loop full docs → Zone A workshop. Per-topic summary note (10-20 lines) → Zone B master vault for MCP/second-brain context. Eliminates Zone A/B routing tension."
+    topics: [research-loop, zone-routing, obsidian, vault, second-brain, mcp]
+    use_when: "After every research-loop that produces a final document — write summary note to ~/vaults/1658/1658-holdings/research/"
+    project_types: [strategic-research, system-maintenance]
+    applies_to: all
+    confidence: 0.5
+    uses: 0
+    last_used: 2026-04-02
+    source: s163
+
+  - file: "custom-vs-commercial-kill-switch.md"
+    one_line: "Any custom build replacing buyable SaaS needs: fixed date + 2-3 measurable user behaviors + named fallback product. Define BEFORE building."
+    topics: [custom-build, crm, kill-switch, adoption, validation, saas]
+    use_when: "Before starting any custom tool build where a commercial alternative exists at <€500/month"
+    project_types: [strategic-research, system-maintenance, corporate-knowledge]
+    applies_to: all
+    confidence: 0.5
+    uses: 1
+    last_used: 2026-04-02
+    source: s163
+
+  # === ADDED S162 ===
+  - file: "batch-api-custom-id-64-char-limit.md"
+    one_line: "Anthropic Batch API rejects custom_id > 64 chars. Finnish filenames hit 106 chars. Fix: stem[:55] + '-' + md5(stem)[:8]. Must verify download step doesn't rely on filename→stem matching."
+    topics: [batch-api, custom-id, filename, finnish, jsonl, error-recovery]
+    use_when: "Before building any Batch API JSONL from filenames or free-form strings"
+    project_types: [m365-mining, system-maintenance, corporate-knowledge]
+    applies_to: all
+    confidence: 0.7
+    uses: 1
+    last_used: 2026-04-02
+    source: empirical-s162
+
+  # === ADDED S156 ===
+  - id: ptc-session-architecture
+    file: ptc-session-architecture.md
+    description: "Pre-designed turn architecture for Claude Code. Init script batches all Turn-1 reads into one Bash call. Reduces 15-25 turns/session to 3-5 turns. ~60-75% token reduction. S158 live test: 4/5 turns, budget held."
+    applies_to: all
+    tags: [token-efficiency, session-design, session-bridge, cost-reduction, turns, init-script, haiku-subagents, ptc]
+    confidence: 0.6
+    uses: 2
+    last_used: 2026-04-02
+    source: S157
+    live_test: "S158 — 4/5 turns, $0.50 cost, budget held. Tilde bug fixed in v3.2."
+
+  # === ADDED S177 ===
+  - id: mcp-vs-local-read-token-efficiency
+    file: mcp-vs-local-read-token-efficiency.md
+    description: "MCP SharePoint read = 10-100x more tokens than local selective read (50KB Excel: ~20K tok via MCP vs 200-2K tok local). Rule: default local read, MCP only when file edited by others or not local. Bridge files embed Grok/Gemini results to avoid repeat API calls."
+    applies_to: all
+    tags: [token-efficiency, mcp, sharepoint, m365, cost-reduction, local-vs-cloud, session-bridge]
+    confidence: 0.8
+    uses: 1
+    last_used: 2026-04-11
+    source: S177 (Grok+Gemini unanimous)
+
+  # === ADDED S154 ===
+  - id: fam-document-credibility-review
+    file: fam-document-credibility-review.md
+    description: Pre-BD pass review of operator-facing documents. Three categories: stat sourcing (audience-matched?), named entities (org exists?), operational specs (actually deliverable?).
+    applies_to: all
+    tags: [fam, b2b, documents, review, credibility, tourism, operator-outreach]
+    confidence: 0.5
+    uses: 1
+    last_used: 2026-04-02
+    source: S154
+
+  # === ADDED S149-mining ===
+  - id: macos-nfd-filename-encoding
+    file: macos-nfd-filename-encoding.md
+    description: "macOS filenames use NFD Unicode — Finnish ä/ö break regex unless normalized to NFC first. unicodedata.normalize('NFC', stem) as first line."
+    topics: [python, macos, filenames, encoding, finnish, mining]
+    applies_to: [js, dmc, all]
+    confidence: 0.9
+    uses: 1
+    last_used: S149-mining
+    source: patrick
+
+  - id: zero-ai-preflight-index
+    file: zero-ai-preflight-index.md
+    description: "Build full file inventory from filename parsing (€0) before any expensive Haiku batch extraction. Catches NFD bugs, scope, and template files before spend."
+    topics: [python, mining, batch, cost, haiku]
+    applies_to: [js, dmc, all]
+    confidence: 0.8
+    uses: 1
+    last_used: S149-mining
+
+  - id: js-groupsales-mining-pipeline-patterns
+    file: js-groupsales-mining-pipeline-patterns.md
+    description: "JS group sales doc mining: 3-file deal chain, version variant output filenames, price zero-skip false match fix, keychain API key discovery."
+    topics: [python, mining, js, groupsales, haiku, excel]
+    applies_to: [js]
+    confidence: 0.8
+    uses: 3
+    last_used: S149-mining
+    source: S140-S149-mining
+
+  # === ADDED S149 ===
+  - id: gemini-audit-mode-vs-plain-mode
+    file: gemini-audit-mode-vs-plain-mode.md
+    description: "Gemini --mode audit = research-loop template only. Use plain mode for custom audit dimensions."
+    topics: [gemini, skills, tooling]
+    applies_to: all
+    confidence: 0.7
+    uses: 1
+    last_used: S149
+
+  - id: grok-browser-model-dropdown-bug
+    file: grok-browser-model-dropdown-bug.md
+    description: "Grok browser --model Expert leaves dropdown open, blocking paste. Use Auto or fix close logic."
+    topics: [grok, skills, tooling, bugs]
+    applies_to: all
+    confidence: 0.8
+    uses: 1
+    last_used: S149
+
+  # === ADDED S147 ===
+  - id: cron-limit-refresh-research-pipeline
+    file: cron-limit-refresh-research-pipeline.md
+    description: Use CronCreate to schedule research at exact usage-limit reset time. Cron prompt must be fully self-contained (file paths, task list, output locations).
+    applies_to: all
+    tags: [cron, research-loop, grok, gemini, usage-limits, scheduling]
+    confidence: 0.5
+    uses: 1
+    last_used: 2026-04-01
+    source: S147
+
+  - id: parallel-research-utilization-mapping
+    file: parallel-research-utilization-mapping.md
+    description: 11-agent parallel research (6 web + 3 Grok spars + 1 Gemini validation + 1 deep-topic). Every agent includes K1/K2/K3/K4 utilization section mapping findings to system layers.
+    applies_to: all
+    tags: [research-loop, parallel, utilization, architecture, obsidian, supabase, powerbi, multi-agent]
+    confidence: 0.5
+    uses: 1
+    last_used: 2026-04-01
+    source: S147
+
+  # === ADDED S145 ===
+  - id: gemini-api-skill-architecture
+    file: gemini-api-skill-architecture.md
+    description: API vs CDP transport choice for automation skills, CDP bring_to_front removal, exponential backoff retry, PYBIN for background processes
+    applies_to: all
+    tags: [gemini, api, cdp, automation, skills, retry, grok, research-loop]
+    confidence: 0.7
+    uses: 1
+    last_used: 2026-04-01
+
+  # === ADDED S146 (session end harvest) ===
+  - id: grok-primary-spar-not-gemini
+    file: grok-primary-spar-not-gemini.md
+    description: Grok Heavy = primary spar/audit partner for all phase gates (PLAN/EXECUTE/REVIEW). Gemini = fallback only. "Multimodal" in Patrick's context = multi-LLM stack, not visual.
+    applies_to: all
+    tags: [grok, gemini, multi-llm, sparring, quality-gates, phase-protocol]
+    confidence: 0.8
+    uses: 1
+    last_used: 2026-04-01
+    source: patrick
+
+  # === ADDED S146 (project phase system) ===
+  - id: project-phase-protocol
+    file: project-phase-protocol.md
+    description: 5-phase project lifecycle (DISCOVER→RESEARCH→PLAN→EXECUTE→REVIEW) with hard gates, tier-gated quality (Tier 1-3), carry-over protocol, multi-track support, project_sessions drift detection, and Grok/Gemini hooks. Validated by Grok spar (7 KVs) + Gemini audit (3/4 PASS).
+    applies_to: all
+    tags: [project-management, quality-gates, multi-llm, phase-separation, warm-pack, carry-over, tier-gate, cove]
+    confidence: 0.8
+    uses: 2
+    last_used: 2026-04-01
+    source: S146
+    updated: S148
+
+  - id: project-warm-pack-template
+    file: ../project-warm-pack-template.md
+    description: Template for per-project warm-pack.md — stack, phase state, hard constraints, anti-patterns, session start checklist. Copy to [Project]-AIFiles/warm-pack.md
+    applies_to: all
+    tags: [warm-pack, project-management, templates, phase-separation]
+    confidence: 0.5
+    uses: 1
+    last_used: 2026-04-01
+    source: S146
+
+  - id: project-session-log-template
+    file: ../project-session-log-template.md
+    description: Template for per-project SESSION-LOG.md — YAML meta per session (phase, decisions, blockers, verify pass rate). Separate from global SESSION-LOG.md.
+    applies_to: all
+    tags: [session-log, project-management, templates, retrospective]
+    confidence: 0.5
+    uses: 1
+    last_used: 2026-04-01
+    source: S146
+
+  # === ADDED S144 (hook fix) ===
+  - id: hook-file-protection-existsync
+    file: hook-file-protection-existsync.md
+    description: File protection hooks must check fs.existsSync before blocking — prevents new file creation being blocked alongside overwrites
+    applies_to: all
+    tags: [hooks, file-protection, claude-code, automation]
+    confidence: 0.7
+    uses: 1
+    last_used: 2026-04-01
+
+  # === ADDED S141 (cherry-pick sprint) ===
+  - id: cherry-pick-integration-log
+    file: cherry-pick-integration-log.md
+    topics: [cherry-pick, skills, agents, security, tool-evaluation, ecc, trail-of-bits, ux-ui, n8n, hooks, installation-decisions]
+    use_when: Before cherry-picking from any tool ecosystem (awesome lists, harnesses, plugin marketplaces) — check this log for what was installed, deferred, and skipped and why
+    applies_to: all
+    confidence: 0.8
+    uses: 1
+    last_used: 2026-04-01
+    source: S141
+
+  # === ADDED S141 (ruflo evaluation 2026-04-02) ===
+  - id: claude-code-wrapper-evaluation-red-flags
+    file: claude-code-wrapper-evaluation-red-flags.md
+    topics: [tool-evaluation, claude-code, wrappers, multi-agent, cost-optimization, research-loop]
+    use_when: Any viral Claude Code wrapper claims multi-agent, cost reduction, or self-learning — run 5-flag gate before committing to research
+    applies_to: all
+    confidence: 0.5
+    uses: 0
+    source: research-loop-S141
+
+  # === ADDED S139 (research queue + cherry-pick analysis) ===
+  - id: component-level-risk-not-repo-level
+    file: component-level-risk-not-repo-level.md
+    topics: [tool-evaluation, risk-assessment, cherry-pick, plugins, hooks, skills, agents, ecosystem, harness]
+    use_when: Evaluating any tool ecosystem (plugins, harnesses, awesome lists) — assess risk per component, not per repository
+    applies_to: all
+    confidence: 0.9
+    uses: 0
+    source: patrick-correction-S139
+
+  # === ADDED S137-parallel (SKILL.md patches + project phase system + quality gates) ===
+  - id: thinking-model-no-quality-floor
+    file: thinking-model-no-quality-floor.md
+    topics: [research-loop, skill-design, thinking-models, quality-gates, prompt-engineering]
+    use_when: Designing any SKILL.md pipeline with output quality checks — remove word count floors and structural retry logic for thinking models
+    applies_to: [all]
+    confidence: 0.9
+    source: patrick
+    uses: 1
+    last_used: 2026-04-01
+
+  - id: project-warm-pack-vs-type-pack
+    file: project-warm-pack-vs-type-pack.md
+    topics: [warm-packs, project-management, context-engineering, session-start, gsd]
+    use_when: Starting any session on an active project (FinnConcierge, Järvisydän, Saimaa Islands) — load project warm-pack.md before type pack
+    applies_to: [all]
+    confidence: 0.7
+    uses: 1
+    last_used: 2026-04-01
+
+  - id: spar-not-done-quality-gate
+    file: spar-not-done-quality-gate.md
+    topics: [quality-gates, validation, execute-phase, anti-slop, external-validation, grok-spar]
+    use_when: Any EXECUTE phase task — never mark done without running verify command or sparring external model if quality uncertain
+    applies_to: [all]
+    confidence: 0.9
+    source: patrick
+    uses: 1
+    last_used: 2026-04-01
+
+  # === ADDED S138C (JYS obsidian architecture + Grok spar findings) ===
+  - id: ytlaki-ai-task-assignment-trigger
+    file: ytlaki-ai-task-assignment-trigger.md
+    topics: [finnish-law, yt-laki, ai-features, staff-tools, gdpr, hospitality, legal-gate, järvisydän]
+    use_when: Before building ANY AI feature that assigns, ranks, or surfaces tasks to employees at 50+ person Finnish companies
+    applies_to: [järvisydän, all-finnish-companies]
+    confidence: 0.9
+    uses: 1
+    last_used: 2026-04-01
+
+  - id: ai-feature-tier-sequencing-trust-first
+    file: ai-feature-tier-sequencing-trust-first.md
+    topics: [ai-rollout, feature-sequencing, b2b-hospitality, staff-trust, feedback-loop, tier-3, tier-4, järvisydän]
+    use_when: Deciding which AI feature to build first for an SME — especially B2B high-value low-frequency relationships
+    applies_to: [järvisydän, all-hospitality-sme]
+    confidence: 0.9
+    uses: 1
+    last_used: 2026-04-01
+
+  - id: grok-heavy-supergrok-subscription-required
+    file: grok-heavy-supergrok-subscription-required.md
+    topics: [grok, grok-heavy, supergrok, model-selection, browser-automation, grok-heavy-browser]
+    use_when: Any time running grok-heavy-browser skill — default to Auto, not Heavy
+    applies_to: all
+    confidence: 1.0
+    uses: 1
+    last_used: 2026-04-01
+
+  # === ADDED S139 (codex data safety + build phases + context quality) ===
+  - id: context-quality-over-quantity
+    file: context-quality-over-quantity.md
+    topics: [context-engineering, agents-md, claude-md, warm-packs, performance, anti-pattern, compounding, ETH-Zurich]
+    use_when: Writing ANY context file (CLAUDE.md, AGENTS.md, warm packs). Only non-inferable human-sourced details. LLM-generated context = -3% performance.
+    applies_to: all
+    confidence: 0.9
+    uses: 1
+    last_used: 2026-04-01
+
+  - id: codex-in-build-phases
+    file: codex-in-build-phases.md
+    topics: [codex, phases, multi-model, execute, agents-md, handoff, data-safety, FinnConcierge]
+    use_when: Planning or running any multi-model build session. Codex enters EXECUTE only. Spec markdown = handoff.
+    applies_to: all
+    confidence: 0.85
+    uses: 1
+    last_used: 2026-04-01
+
+  - id: codex-data-safety-rules
+    file: codex-data-safety-rules.md
+    topics: [codex, openai, data-safety, gdpr, what-to-send, FinnConcierge, credentials, personal-data]
+    use_when: Before any Codex CLI task — run the 5-question checklist. RED list = hard stops.
+    applies_to: all
+    confidence: 0.9
+    uses: 1
+    last_used: 2026-04-01
+
+  # === ADDED S138A (multi-model build workflow + codex integration) ===
+  - id: gemini-cli-file-prompt-file-fix
+    file: gemini-cli-file-prompt-file-fix.md
+    topics: [gemini-cli, bug-fix, research-loop, audit, step-4.5]
+    use_when: Any time running gemini-cli with --file + --prompt-file. Use gemini-2.5-flash (Pro = quota 0 free tier).
+    applies_to: all
+    confidence: 1.0
+    uses: 1
+    last_used: 2026-03-31
+
+  - id: new-ai-tool-2-week-eval-gate
+    file: new-ai-tool-2-week-eval-gate.md
+    topics: [tool-adoption, codex, ai-stack, evaluation, decision-gate, review-gate]
+    use_when: Before integrating any new AI tool, plugin, or CLI into Patrick's stack
+    applies_to: all
+    confidence: 0.8
+    uses: 1
+    last_used: 2026-03-31
+
+
+  - id: multi-model-build-workflow
+    file: multi-model-build-workflow.md
+    topics: [multi-model, codex, grok-heavy, gemini, architecture, coding, build-pipeline]
+    use_when: Any coding/build project. Claude designs, Grok Heavy attacks architecture, Codex implements, Gemini audits.
+    applies_to: [coding, FinnConcierge, CRM, skills]
+    confidence: 0.9
+    uses: 1
+    source: patrick
+
+  - id: multi-model-spar-stakes-protocol
+    file: multi-model-spar-stakes-protocol.md
+    topics: [multi-model, grok-spar, gemini, stakes, validation, external-model-policy]
+    use_when: Any decision requiring external validation. Tier 1/2/3 routing. Grok spar kill-vector analysis.
+    applies_to: all
+    confidence: 0.9
+    uses: 2
+    source: patrick
+
+  # === ADDED S138A (gemini-cli bug fix + codex research) ===
+  - id: gemini-cli-file-prompt-file-fix
+    file: gemini-cli-file-prompt-file-fix.md
+    topics: [gemini-cli, bug-fix, research-loop, audit, step-4.5]
+    use_when: Any time running gemini-cli with --file + --prompt-file. Also: use gemini-2.5-flash for Step 4.5 (Pro = quota 0 on free tier)
+    applies_to: all
+    confidence: 1.0
+    uses: 1
+    last_used: 2026-03-31
+
+  # === ADDED SESSION [CURRENT] (n8n-mcp research) ===
+  - id: service-tier-decision-gate
+    file: service-tier-decision-gate.md
+    topics: [service-evaluation, self-hosting, free-tier, pilot-test, decision-gate, n8n, langfuse, infrastructure, vps, cost-optimization]
+    use_when: Before committing to self-hosting ANY service with free/hosted tier option — run 3-day pilot test to validate whether free tier actually blocks real work
+    applies_to: all
+    confidence: 0.8
+    uses: 1
+    last_used: 2026-04-01
+    source: session-133-134
+
+  - id: self-hosting-ops-burden-reality-check
+    file: self-hosting-ops-burden-reality-check.md
+    topics: [self-hosting, ops-burden, devops, docker, vps, hetzner, cost-analysis, 1-person-shop, maintenance, cve-monitoring, gdpr]
+    use_when: Before making any "self-host immediately" CEO bet or strategic recommendation — quantify 4-7 hours/month ongoing ops burden OR €200-400/month contractor cost
+    applies_to: all
+    confidence: 0.8
+    uses: 1
+    last_used: 2026-04-01
+    source: session-133-134
+
+  # === ADDED SESSION 135 ===
+  - id: multi-model-spar-stakes-protocol
+    file: multi-model-spar-stakes-protocol.md
+    topics: [grok-spar, gemini, multi-model, stakes, quality-gate, research-loop, decision-making, kill-vector-analysis, tier-1-2-3]
+    use_when: Any Grok or Gemini spar output needs structured analysis before acting; allocating external model resources; Tier 1/2/3 task classification; reading Grok kill vectors before accepting verdicts
+    applies_to: all
+    confidence: 0.8
+    uses: 1
+    last_used: 2026-03-31
+
+  # === ADDED SESSION 134 (Quality Audit + Tier Framework) ===
+  - id: research-loop-tier-framework
+    file: research-loop-tier-framework.md
+    topics: [research-loop, quality, effort-scaling, gemini-audit]
+    use_when: "Deciding how much effort to put into a research topic — stakes vs cost tradeoff"
+    applies_to: all
+    confidence: 0.7
+    uses: 1
+    last_used: session-134
+    source: session-134
+
+  # === ADDED SESSION 135 (AI Strategy Synthesis) ===
+  - id: enterprise-tool-at-startup-scale
+    file: enterprise-tool-at-startup-scale.md
+    topics: [architecture, tool-selection, scale, supabase, sqlite, langfuse, helicone, paperclip, bash, grok-spar, complexity-bias, 1-person-shop, startup-scale]
+    use_when: Any architecture decision involving a tool with "industry standard" or "production-ready" framing — especially when Claude + Patrick both agree. Trigger Grok spar before committing. Include scale context in spar target.
+    applies_to: all
+    confidence: 0.8
+    uses: 1
+    last_used: 2026-03-31
+    source: S135-batch-synthesis-31pct-correction-rate
+
+  - id: cross-cutting-research-signal
+    file: cross-cutting-research-signal.md
+    topics: [research-loop, batch-synthesis, cross-validation, multi-doc, signal-strength, paperclip, sqlite-first, mcp-security, synthesis-methodology]
+    use_when: During synthesis of any batch research run (5+ topics). Grep for patterns appearing 2+ times across independent docs. 3+ = strong signal, act on it. 2 = corroborating, 1 = single-source.
+    applies_to: all
+    confidence: 0.8
+    uses: 1
+    last_used: 2026-03-31
+    source: S135-AI-STRATEGY-SYNTHESIS
+
+  - id: sqlite-first-architecture
+    file: sqlite-first-architecture.md
+    topics: [sqlite, sqlite-vec, supabase, pgvector, vector-db, embeddings, multi-tenant, rls, gdpr, data-architecture, 1-person-shop, scale-threshold, second-brain]
+    use_when: Before any AI data storage architecture decision — default to SQLite-vec per company until: 50K+ docs, cross-company analytics needed, or concurrent team writes required.
+    applies_to: all
+    confidence: 0.8
+    uses: 1
+    last_used: 2026-03-31
+    source: S135-supabase-ai-apps-second-brain-dual-confirmation
+
+  - id: systemic-narcissism-anti-pattern
+    file: systemic-narcissism-anti-pattern.md
+    topics: [system-maintenance, infrastructure-gravity, value-events, protocol-overhead, ceo-time, 10-companies, system-theater, complexity-addiction]
+    use_when: Any time session is more about system upgrades than business results. If protocol doesn't shorten path to cash/contract/clarity, bypass it.
+    applies_to: all
+    confidence: 0.9
+    uses: 0
+    last_used: null
+    source: Gemini-S125-126-Grok-confirmed
+
+  # === ADDED SESSION 134 ===
+  - id: overnight-pipeline-parallel-recovery
+    file: overnight-pipeline-parallel-recovery.md
+    topics: [research-loop, overnight-pipeline, parallel-agents, recovery, synthesis, batch-recovery]
+    use_when: Overnight queue produced partial failures; N docs missing after run; grok-spar.md exists but no final doc; Step 4+ crash with checkpoint on disk
+    applies_to: all
+    confidence: 0.7
+    uses: 1
+    last_used: 2026-03-31
+
+  # === ADDED SESSION 131 (sandbox-injection-defense research) ===
+  - id: budget-cap-supply-chain-avoidance
+    file: budget-cap-supply-chain-avoidance.md
+    topics: [budget-caps, supply-chain, security, litellm, dependencies, api-wrappers, cost-tracking, agent-security, ipi-defense]
+    use_when: Implementing budget caps for agent workflows consuming external APIs (Anthropic, OpenAI, Gemini); overnight cron pipelines; any workflow with IPI blast-radius containment requirements
+    applies_to: all
+    confidence: 0.8
+    uses: 0
+    last_used: null
+    source: research-loop-v5.3-S131-sandbox-injection-defense
+
+  # === ADDED SESSION 129 (cli-first-orchestration research) ===
+  - id: cli-skill-standard-contract
+    file: cli-skill-standard-contract.md
+    topics: [cli, orchestration, python, typer, pydantic, subprocess, async, skill-interface, paperclip, windmill, bash, json-contract]
+    use_when: Creating new Python skill; refactoring existing skill to CLI-callable; integrating skill with orchestration layer (Paperclip, Windmill, bash loop, systemd); standardizing agent output contracts
+    applies_to: all
+    confidence: 0.8
+    uses: 0
+    last_used: null
+    source: research-loop-v5.3-S129-cli-first-orchestration
+
+  - id: oss-tool-adoption-27-day-rule
+    file: oss-tool-adoption-27-day-rule.md
+    topics: [oss, adoption, hype, production-ready, risk, orchestration, infrastructure, new-tools, staging, rollback]
+    use_when: Evaluating new OSS tool for critical infrastructure (launch date <90 days); distinguishing hype metrics (GitHub stars) from production evidence (uptime data, post-mortems); making adoption vs defer decision
+    applies_to: all
+    confidence: 0.9
+    uses: 0
+    last_used: null
+    source: research-loop-v5.3-S129-cli-first-orchestration
+
+  # === ADDED SESSION 131 (human-in-the-loop research) ===
+  - id: dynamic-blast-radius-auditing
+    file: dynamic-blast-radius-auditing.md
+    topics: [hitl, approval-gates, blast-radius, risk-assessment, agent-chaining, quarterly-audit, context-poisoning, multi-agent, owasp]
+    use_when: Before marking any agent's blast-radius tier as finalized; during Opus Review; after adding new chained workflow crossing agent boundaries; when approval gate fatigue exceeds 10 gates/day
+    applies_to: all
+    confidence: 0.7
+    uses: 0
+    last_used: null
+    source: research-loop-v5.3-S131-human-in-the-loop
+
+  - id: confidence-triggered-gates-langgraph
+    file: confidence-triggered-gates-langgraph.md
+    topics: [hitl, langgraph, approval-gates, confidence-threshold, dynamic-tuning, checkpointing, langfuse, crm, obsidian-write]
+    use_when: Implementing approval gates for high-blast agents (CRM, Obsidian, external comms); when fixed N-gate approach causes fatigue >10 gates/day; calibrating confidence thresholds after 20+ runs
+    applies_to: all
+    confidence: 0.8
+    uses: 0
+    last_used: null
+    source: research-loop-v5.3-S131-human-in-the-loop
+
+  - id: approval-fatigue-metrics
+    file: approval-fatigue-metrics.md
+    topics: [hitl, approval-gates, metrics, fatigue, rubber-stamping, visibility-score, langfuse, observability, automation-bias]
+    use_when: Any HITL workflow with >3 approval gates per session; before deploying confidence-triggered gates; during quarterly blast-radius audits; when considering raising confidence thresholds
+    applies_to: all
+    confidence: 0.8
+    uses: 0
+    last_used: null
+    source: research-loop-v5.3-S131-human-in-the-loop
+
+  # === ADDED SESSION 131 (event-driven-pipelines research) ===
+  - id: threshold-based-migration-decisions
+    file: threshold-based-migration-decisions.md
+    topics: [migration, tooling, scale-validation, decision-criteria, threshold, roi, premature-optimization, event-driven-pipelines, windmill, n8n]
+    use_when: Before migrating from Tool X to Tool Y — define quantifiable thresholds to prevent premature migration and wasted effort
+    applies_to: all
+    confidence: 0.7
+    uses: 0
+    last_used: null
+    source: research-loop-v5.3-S131-event-driven-pipelines
+
+  # === ADDED SESSION 131 (second-brain-architecture research) ===
+  - id: agent-writes-hybrid-sqlite-markdown
+    file: agent-writes-hybrid-sqlite-markdown.md
+    topics: [agent-writes, sqlite, obsidian, markdown-export, mcp-security, sync-conflicts, overnight-automation, pkm, knowledge-management, hybrid-architecture]
+    use_when: Designing agent workflows where agents write >5 notes/day AND humans need to read/edit via PKM tool (Obsidian, Notion) AND cloud sync required (OneDrive, Dropbox). Do NOT use MCP write access for overnight automation — use SQLite + export instead.
+    applies_to: all
+    confidence: 0.8
+    uses: 0
+    last_used: null
+    source: research-loop-v5.3-S131-second-brain-architecture
+
+  # === ADDED SESSION 129 (obsidian-mcp-bridge research + gsd-claude-code-integration) ===
+  - id: spar-target-reconciliation-protocol
+    file: spar-target-reconciliation-protocol.md
+    topics: [research-loop, grok-spar, multi-model, contested-outcomes, reconciliation, decision-protocol, quality-gate, empirical-benchmarking]
+    use_when: research-loop Step 4 — when Grok Step 3 VERDICT contradicts Claude Step 2 SPAR TARGET. Apply 3-path protocol (CONTESTED / UPHELD / CORRECTED) to resolve systematically.
+    applies_to: all
+    confidence: 0.9
+    uses: 4
+    last_used: session-129
+    source: research-loop-v6.0-S129-gsd-claude-code-integration
+
+  - id: ceo-bet-source-restriction
+    file: ceo-bet-source-restriction.md
+    topics: [research-loop, quality-gate, ceo-bets, actionable-takeaways, unverified-claims, contested-claims, hallucinated-metrics, strategic-decisions, gemini-audit]
+    use_when: research-loop Step 4 — before writing CEO Bets, Actionable Takeaways, or Second-Order Risks. Claims tagged [UNVERIFIED], [HALLUCINATED METRIC], or [CONTESTED] cannot justify strategic conclusions unless explicitly conditional.
+    applies_to: all
+    confidence: 0.7
+    uses: 1
+    last_used: session-129
+    source: research-loop-v6.0-S129-gsd-claude-code-integration
+
+  - id: novel-production-pattern-testing-threshold
+    file: novel-production-pattern-testing-threshold.md
+    topics: [testing, deployment-gates, novel-patterns, scale-validation, conflict-rate, portfolio-deployment, risk-mitigation, synthetic-load]
+    use_when: Before deploying any automation pattern to 2+ portfolio companies without large-scale production evidence — 4-week testing threshold with synthetic load mandatory
+    applies_to: all
+    confidence: 0.7
+    uses: 1
+    last_used: session-129
+    source: research-loop-v5.3-S129-obsidian-mcp-bridge
+
+  - id: zero-complaints-low-adoption-signal
+    file: zero-complaints-low-adoption-signal.md
+    topics: [research-interpretation, technology-evaluation, adoption-volume, risk-assessment, x-com-search, github-stars, conservative-interpretation]
+    use_when: Technology evaluation where absence of negative signals (X.com complaints, GitHub issues) is used as evidence of stability — check adoption volume indicators first
+    applies_to: all
+    confidence: 0.7
+    uses: 1
+    last_used: session-129
+    source: research-loop-v5.3-S129-obsidian-mcp-bridge
+
+  # === ADDED SESSION 134 (langfuse-observability research) ===
+  - id: observability-deployment-gates
+    file: observability-deployment-gates.md
+    topics: [observability, langfuse, gdpr, pii, compliance, deployment-gate, scale-threshold, self-hosted, yt-laki, eu-ai-act]
+    use_when: Before deploying ANY self-hosted observability (Langfuse, Grafana, DataDog) — apply 3-gate check (scale + PII + compliance)
+    applies_to: all
+    confidence: 0.8
+    uses: 0
+    last_used: null
+    source: research-loop-v5.3-S129-langfuse-observability
+
+  - id: scale-before-infrastructure
+    file: scale-before-infrastructure.md
+    topics: [infrastructure, scale, maintenance-tax, roi, deployment-strategy, interim-solutions, systemic-narcissism]
+    use_when: Before deploying ANY self-hosted infrastructure with >4 hours/month maintenance (observability, orchestration, vector DBs, message queues) — defer until scale threshold met
+    applies_to: all
+    confidence: 0.8
+    uses: 0
+    last_used: null
+    source: research-loop-v5.3-S129-langfuse-observability
+
+  # === ADDED SESSION 133 ===
+  - id: sharepoint-obsidian-knowledge-split
+    file: sharepoint-obsidian-knowledge-split.md
+    topics: [obsidian, sharepoint, knowledge-management, second-brain, portfolio, onedrive, access-control, meeting-summaries]
+    use_when: Designing knowledge architecture for multi-company portfolio — where raw files vs synthesized notes live, how to handle access control, how to scale without vault bloat
+    applies_to: all
+    confidence: 0.7
+    uses: 1
+    last_used: session-133
+    source: S133-architecture-discussion
+
+  # === ADDED SESSION 129 (critic-audit-triad research) ===
+  - id: critic-audit-oscillation-monitoring
+    file: critic-audit-oscillation-monitoring.md
+    topics: [validation, multi-round-correction, oscillation, convergence, gemini, critic-audit, quality-gate]
+    use_when: Implementing any multi-round validation loop (Claude → Gemini → Claude, 3-Wave Judge, external auditor) — monitor critique score progression to detect oscillation
+    applies_to: all
+    confidence: 0.7
+    uses: 1
+    last_used: session-129
+    source: research-loop-v5.1-critic-audit-triad
+
+  - id: gemini-api-tier-1-mandatory
+    file: gemini-api-tier-1-mandatory.md
+    topics: [gemini-api, production-readiness, rate-limits, operational-risk, overnight-batch]
+    use_when: Before first production deployment of any Gemini API integration — Tier 1 billing mandatory post-Dec 2025 free tier crisis
+    applies_to: all
+    confidence: 0.9
+    uses: 1
+    last_used: session-129
+    source: research-loop-v5.1-critic-audit-triad
+
+  - id: external-api-cove-fallback
+    file: external-api-cove-fallback.md
+    topics: [validation, cove, fallback, gemini, external-api, graceful-degradation, overnight-pipeline]
+    use_when: Building any validation layer that depends on external API (Gemini, Grok) — implement CoVe fallback for graceful degradation
+    applies_to: all
+    confidence: 0.7
+    uses: 1
+    last_used: session-129
+    source: research-loop-v5.1-critic-audit-triad
+
+  # === ADDED SESSION 131 (internal jargon trap + quality gap analysis) ===
+  - id: internal-jargon-trap
+    file: internal-jargon-trap.md
+    topics: [research-loop, search-vocabulary, anti-pattern, pipeline, quality, grok-brief]
+    use_when: Building any research brief or Step 0.5 prompt — check if topic names are internal vs industry-standard
+    applies_to: all
+    confidence: 0.8
+    uses: 1
+    last_used: session-131
+    source: gemini (2/2 independent convergence, S131)
+
+  # === ADDED SESSION 131 (research-loop v5.0 test) ===
+  - id: agents-to-code-pipeline
+    file: agents-to-code-pipeline.md
+    topics: [agents, trace, skill-generation, spec-writer, AgentTrace, pipeline, instrumentation]
+    use_when: "Building trace-to-SKILL pipeline; researching AgentTrace; designing agent execution instrumentation; before designing any trace capture schema"
+    applies_to: all
+    confidence: 0.7
+    uses: 1
+    last_used: "2026-03-31"
+    source: research-loop-v5.0-session-131
+
+  # === ADDED SESSION 130 (pattern harvest) ===
+  - id: divergent-first-research-architecture
+    file: divergent-first-research-architecture.md
+    topics: [multi-model, research, grok, claude, pipeline, architecture, agenda-setting]
+    use_when: Building any Claude+Grok research pipeline — Grok must set agenda before Claude executes
+    applies_to: all
+    confidence: 0.7
+    uses: 1
+    last_used: session-130
+    source: grok (first-principles unprompted answer, validated by architecture flip to v5.0)
+
+  # === ADDED SESSION 129 (pattern harvest) ===
+  - id: multi-model-research-cooperative
+    file: multi-model-research-cooperative.md
+    topics: [multi-model, research, grok, claude, pipeline, architecture]
+    use_when: Designing or running any multi-model research pipeline (Claude + Grok or other)
+    applies_to: all
+    confidence: 0.7
+    uses: 1
+    last_used: "2026-03-31"
+    source: patrick
+
+  # === ADDED SESSION 129 (research-loop: cronjob-claude-code) ===
+  - id: claude-code-cron-hardening
+    file: claude-code-cron-hardening.md
+    topics: [cron, automation, overnight, claude-code, headless, launchd, permissions]
+    use_when: Running Claude Code in non-interactive shell — cron, launchd, CI, tmux-detached
+    applies_to: all
+    confidence: 0.7
+    uses: 1
+    last_used: "2026-03-31"
+    source: research-loop-v2.0
+
+  # === ADDED SESSION 127-parallel (Kilocode workspace design) ===
+
+  - file: "dual-tool-workspace-zone-separation.md"
+    name: "Dual-Tool Workspace — Claude Code + Kilocode 2-zone security separation"
+    topics: [kilocode, claude-code, workspace, gdpr, data-security, zone-separation, vs-code]
+    use_when: "Using Kilocode alongside Claude Code in the same workspace. Any multi-tool AI setup where one tool has stronger data guarantees than the other."
+    applies_to: [all]
+    confidence: 0.7
+    source: "S127-parallel + Grok Heavy validation (2026-03-30)"
+    uses: 1
+    last_used: session-127-parallel
+
+  # === ADDED SESSION 129 ===
+
+  - file: "obsidian-git-archive-versioning.md"
+    name: "Obsidian Git versioning — mandatory for knowledge archives, enables rollback after AI writes"
+    topics: [obsidian, knowledge-base, git, versioning, archive, mcp]
+    use_when: "Setting up Obsidian as a knowledge archive. Before enabling any AI write access (MCP-Obsidian). Any vault meant to be durable beyond 1 year."
+    applies_to: all
+    tier: B
+    uses: 0
+    last_used: null
+    confidence: 0.5
+    source: research-loop-session-129
+
+  - file: "obsidian-property-based-archiving.md"
+    name: "Obsidian property archiving — status:archived + Bases views instead of file moves"
+    topics: [obsidian, knowledge-base, archive, properties, bases, backlinks]
+    use_when: "Archiving notes in Obsidian. When vault has >100 notes or AI integration. When file moves have caused broken backlinks."
+    applies_to: all
+    tier: B
+    uses: 0
+    last_used: null
+    confidence: 0.5
+    source: research-loop-session-129
+
+  # === ADDED SESSION 128 ===
+
+  - file: "kilocode-claude-coexistence.md"
+    name: "KiloCode + Claude Code Coexistence — hard deny session files, post-task hook state bridge"
+    topics: [kilocode, xai, grok, multi-llm, claude-code, session-protocol, config]
+    use_when: "Setting up any secondary AI CLI (KiloCode, Cursor, etc.) alongside Claude Code. When mixing xAI/Grok models with Claude workflow."
+    applies_to: all
+    tier: B
+    uses: 1
+    last_used: session-128
+    confidence: 0.7
+    source: session-128
+
+  - file: "llm-session-output-audit.md"
+    name: "LLM Session Output Audit — verify files were actually written, not just discussed"
+    topics: [kilocode, cursor, external-llm, quality-gate, file-verification, tool-use]
+    use_when: "After any session run by a secondary AI (KiloCode, Cursor, external LLM). Before trusting session output as complete. When AI claims to have created files."
+    applies_to: all
+    tier: B
+    uses: 1
+    last_used: session-128
+    confidence: 0.9
+    source: session-128
+
+  - file: "overnight-research-pipeline.md"
+    name: "Overnight Research Pipeline — 20 sessions via cron, Claude→Grok→Claude loop"
+    topics: [research-pipeline, cron, grok-browser, subagents, orchestration, overnight]
+    use_when: "Scheduling multiple AI research sessions to run overnight; building a knowledge base from automated research; using subagents to create 10+ files without LLM fatigue"
+    applies_to: all
+    tier: B
+    uses: 1
+    last_used: session-128
+    confidence: 0.7
+    source: session-128
+
+  # === ADDED SESSION 127 ===
+
+  - file: "playwright-grok-automation.md"
+    name: "Playwright + Grok.com Automation"
+    topics: [playwright, browser-automation, grok, cdp, bot-detection, xai]
+    use_when: "Automating grok.com or any Cloudflare-protected site with Playwright"
+    applies_to: all
+    tier: B
+    uses: 1
+    last_used: session-127
+    confidence: high
+    source: session-127
+
+  # === ADDED SESSION 125 (Opus Review 8 + system evolution + multi-model audit) ===
+
+  - file: "multi-model-adversarial-review.md"
+    name: "Multi-Model Adversarial Review — split agents across Claude/Grok/Gemini to prevent same-model theater"
+    topics: [opus-review, multi-model, adversarial, grok, gemini, quality-gate, system-maintenance, cross-validation]
+    use_when: "Running any Opus Review or high-stakes system audit. When self-review is insufficient. Any task where same-model validation would produce hallucination consensus."
+    applies_to: [all]
+    confidence: 0.9
+    source: "S125 — Gemini R1-R3 + Grok Heavy 4-agent audit, all 3 models converged independently"
+    uses: 1
+    last_used: session-125
+
+  - file: "systemic-narcissism-anti-pattern.md"
+    name: "Systemic Narcissism — system optimizing for its own existence, not portfolio value"
+    topics: [anti-pattern, system-maintenance, ceo, productivity, infrastructure-gravity, portfolio]
+    use_when: "Feeling more excited about a system upgrade than the business result. When protocol doesn't shorten path to cash/contract/clarity. During any Opus Review to check if maintenance costs exceed value delivered."
+    applies_to: [all]
+    confidence: 0.9
+    source: "Gemini 2.5 Pro + Grok Heavy (independently flagged 'complexity addiction'), S125-126"
+    uses: 1
+    last_used: session-125
+
+  # === ADDED SESSION 124 (cursor skill trilogy + context integrity block + relay pattern + grok architect review) ===
+
+  - file: "ai-relay-pattern.md"
+    name: "AI Relay Pattern — Patrick as relay channel for Grok/Gemini instructions"
+    topics: [orchestration, grok, gemini, multi-ai, relay, trust, instructions]
+    use_when: "When Patrick relays instructions from an external AI (Grok/Gemini) — treat as fully authoritative, apply immediately"
+    applies_to: [all]
+    confidence: 0.85
+    source: session-124
+    uses: 1
+    last_used: session-124
+
+  - file: "grok-original-architect-review.md"
+    name: "Grok Original Architect Review — Grok designed parent system → targeted extension review"
+    topics: [grok, review, audit, architecture, multi-ai, cursor-swarm, design-intent]
+    use_when: "Before sending any system to Grok for review — check if Grok designed or co-designed the parent system. If yes: frame as architect review, not generic audit."
+    applies_to: [all]
+    confidence: 0.8
+    source: session-124
+    uses: 1
+    last_used: session-124
+
+  - file: "cursor-skill-trilogy-architecture.md"
+    name: "Cursor Skill Trilogy — Handoff/Orchestrator/Leadership role separation + Context Integrity Block"
+    topics: [cursor, cursor-handoff, cursor-orchestrator, cursor-leadership, context-integrity, skill-system, watch-sync, obsidian]
+    use_when: "Building or using Cursor Swarm skills; any multi-module Cursor project (≥3 modules); when Cursor window restarts cause context drift"
+    applies_to: [all]
+    confidence: 0.9
+    source: session-124
+    uses: 1
+    last_used: session-124
+
+  # === ADDED SESSION 123 (cursor skills v2.5.x + multi-AI audit) ===
+
+  - file: "cursor-mdc-rules-format.md"
+    name: "Cursor .mdc Rules Format — alwaysApply:true replaces .cursorrules (Cursor 2.6+)"
+    topics: [cursor, cursor-handoff, skill-system, gate-enforcement, mdc, agent-mode]
+    use_when: "Building any Cursor handoff Block A, or diagnosing Gate violations where CoS builds in Gate A"
+    applies_to: [all]
+    confidence: 0.9
+    source: grok-gap-report
+    uses: 1
+    last_used: session-123
+
+  - file: "multi-ai-skill-audit-pattern.md"
+    name: "Multi-AI Skill Audit — Claude builds, Gemini audits (2x), Grok gap-report, Claude applies"
+    topics: [skill-development, audit, gemini, grok, cross-validation, quality-gate, cursor]
+    use_when: "Building any Claude Code skill with platform-specific behavior; before marking any skill production-ready"
+    applies_to: [all]
+    confidence: 0.7
+    source: session-123
+    uses: 1
+    last_used: session-123
+
+  # === ADDED SESSION 121 (contract work + document formats) ===
+
+  - file: "finnish-legal-doc-format.md"
+    name: finnish-legal-doc-format
+    description: "Järvisydän hallituspöytäkirja formaatit — Ote vs täysi ptk, python-docx, päivämäärät oikeista dokumenteista"
+    topics: [documents, contracts, jarvisydan, board-minutes, legal]
+    use_when: "Tehdään Järvisydän/1658 juridisia dokumentteja — sopimuksia, pöytäkirjoja, otteita"
+    applies_to: [jarvisydan, artic-cruises, all]
+    confidence: 0.7
+    source: patrick
+    uses: 1
+    last_used: session-121
+
+  # === ADDED SESSION 121 (presentations + saimaa-islands fix) ===
+
+  - file: "html-block-removal-no-regex.md"
+    name: "HTML Block Removal — Line-by-line skip, never regex DOTALL"
+    topic: "html, regex, presentations, python, block-removal, dangerous-pattern"
+    use_when: "Removing a named section/slide/block from an HTML file programmatically"
+    applies_to: [all]
+    confidence: 0.9
+    uses: 1
+
+  - file: "git-worktrees-gitignore-github-pages.md"
+    name: "Add .claude/worktrees/ to .gitignore for GitHub Pages repos"
+    topic: "git, github-pages, gitignore, claude-code, worktrees, build-failure"
+    use_when: "Setting up any repo that will push to GitHub Pages, or debugging a Pages build failure"
+    applies_to: [all]
+    confidence: 0.9
+    uses: 1
+
+  - file: "dach-hnw-investor-framing.md"
+    name: "DACH HNW Investor Framing — Trust signals for German family office deals"
+    topic: "presentations, investor, DACH, HNW, family-office, saimaa-islands, framing, copywriting"
+    use_when: "Building any investor presentation targeting German/Austrian/Swiss HNW audiences"
+    applies_to: [saimaa-islands, artic-cruises]
+    confidence: 0.7
+    uses: 1
+
+  # === ADDED SESSION 120 (PWJ deprecation + system cleanup) ===
+
+  - file: "cross-model-deprecation-validation.md"
+    name: "Cross-Model Deprecation Validation — Grok + Gemini before killing a system"
+    topic: "system-maintenance, orchestration, deprecation, architecture, quality-gate, CoVe"
+    use_when: "Claude diagnoses its own system failure or suggests deprecating something it built"
+    applies_to: [all]
+    confidence: 0.7
+    uses: 1
+    last_used: session-120
+
+  # === ADDED SESSION 118 (Kulusiirto municipal negotiation) ===
+
+  - file: "finnish-municipal-liikuntalaki-framing.md"
+    name: "Finnish Municipal Lobbying — Liikuntalaki 5§ framing > ROI framing"
+    topic: "municipal-negotiation, finland, lobbying, liikuntalaki, kulusiirto, infrastructure"
+    use_when: "Lobbying Finnish municipality to take over outdoor/sports infrastructure maintenance"
+    applies_to: [jarvisydan, finland-dmc]
+    confidence: 0.7
+    uses: 1
+    last_used: 2026-03-25
+    source: patrick
 
   # === ADDED SESSION 111 (CoS Bot research foundation) ===
 
@@ -239,34 +1521,7 @@ patterns:
     last_used: session-102
     source: s102
 
-  - file: "grok-post-pass-strategy-gate.md"
-    name: "Grok Post-PASS Strategic Gate"
-    topic: "pwj, grok-spar, strategic-priority, spec-validation, quality-gate"
-    use_when: "After any PWJ technical PASS on a spec with ≥10h dev effort OR production impact — run Grok spar to validate strategic priority, not just technical quality"
-    applies_to: all
-    confidence: 0.9
-    uses: 1
-    last_used: session-106
-    source: patrick
-
-  - file: "spec-activation-engineering.md"
-    name: "Spec Activation Engineering"
-    topic: "orchestration, documentation, spec management"
-    use_when: "Any spec took >30min to build AND has a build dependency chain AND will be read by a developer without session context"
-    applies_to: all
-    confidence: 0.5
-    uses: 1
-    last_used: session-102
-    source: s102
-
   # === ADDED SESSION 99 (end) ===
-
-  - file: "pwj-grok-tandem-loop.md"
-    one_line: "For high-stakes docs with both technical and political dimensions: run PWJ first (quality floor, mechanical fixes), then Grok Heavy (strategic ceiling, political blind spots). S99 validated: PWJ found 4 fixable issues, Grok found 3 strategic flaws PWJ missed (COI risk, unverifiable precedent, jurisdiction gap)."
-    topics: [pwj, grok-spar, quality-gate, strategy, municipal-negotiation, document-audit]
-    use_when: "Auditing any document before submission to external stakeholders. High-stakes proposals, municipal inputs, legal-adjacent documents. When PWJ gives GREEN but you still feel uncertain about political reception."
-    applies_to: all
-    confidence: 0.7
 
   - file: "session-bridge-opening-questions.md"
     one_line: "Include 6 explicit ALOITUSKYSYMYKSET at top of session bridge when Patrick will take real-world actions (meetings, submissions, calls) between sessions. Next Claude asks these BEFORE any action. Critical for multi-parallel-session projects."
@@ -274,40 +1529,6 @@ patterns:
     use_when: "Writing any session bridge for a project where Patrick acts between sessions (lausunto submission, partner meeting, external calls, approvals). Any project with human-action dependencies."
     applies_to: all
     confidence: 0.7
-
-  # === ADDED SESSION 97 (end) ===
-
-  - file: "pwj-first-action-failure.md"
-    one_line: "Sessions skip /pwj invocation and read files directly. Fix: '⚠️ FIRST ACTION: invoke /pwj NOW' as first line of every bridge prompt — before context, before source files, before everything."
-    topics: [pwj, session-bridge, quality-gate, prompt-design, bridge-prompt, anti-patterns]
-    use_when: "Writing any PWJ bridge prompt. Debugging why a session ran without the PWJ loop. Any bridge prompt that will be pasted into a fresh session."
-    applies_to: all
-    confidence: 0.7
-    source: "sessions-97-99 (meta session + session 1 both failed identically — systematic)"
-    uses: 0
-    last_used: null
-
-  # === ADDED SESSION 101 (end) ===
-
-  - file: "anchor-bias-cognitive-snapshots.md"
-    one_line: "Mental Model Anchors that state conclusions pre-bias Workers before analysis runs. Label directional assumptions as testable hypotheses — 'matrix decides', not 'X is the answer.'"
-    topics: [session-bridge, cognitive-snapshot, pwj, bridge-prompt, anchor-bias, quality-gate]
-    use_when: "When writing any Mental Model Anchor about which option is best/highest-value. When a bridge prompt pre-selects winners before a scoring matrix is built. Reviewing Cognitive Snapshots before delivery."
-    applies_to: all
-    confidence: 0.7
-    source: "session-101, Grok Heavy Lucas attack"
-    uses: 1
-    last_used: "2026-03-19"
-
-  - file: "realism-safeguards-implementation.md"
-    one_line: "Implementation plans need a mandatory REALISM & SAFEGUARDS section: time budget + 3 ways the plan gets read once and ignored + mitigations. Without it, PWJ-passing documents still produce zero behavior change."
-    topics: [pwj, implementation, adoption, deliverables, quality-gate, session-bridge]
-    use_when: "When building any implementation roadmap, adoption plan, or how-to guide. When deliverable structure is being defined in a bridge prompt or pwj_intake. After any plan that might sit in _drafts/ unexecuted."
-    applies_to: all
-    confidence: 0.7
-    source: "session-101, Grok Heavy Harper/Benjamin/Lucas"
-    uses: 1
-    last_used: "2026-03-19"
 
   # === ADDED SESSION 100 (end) ===
 
@@ -330,66 +1551,6 @@ patterns:
     source: "session-100, source: patrick"
     uses: 1
     last_used: "2026-03-19"
-
-  # === ADDED SESSION 99 (end) ===
-
-  - file: "pwj-stat-guardrail-n99.md"
-    one_line: "Clopper-Pearson math proof: N≥99 required (not N≥50) for zero-override CI upper bound <3%. At DMC volume 5 emails/month × 90 days = 45 examples → CI = 6.44%, nearly 2× the claimed target. Math verified Grok Heavy session 99."
-    topics: [pwj, statistics, autonomy-expansion, email-classifier, quality-gate, ci, clopper-pearson, zero-override]
-    use_when: "Any spec with zero-override graduation trigger. Done criteria with CI threshold. Before approving autonomy expansion framework. Any N≥X + <Y% CI pairing."
-    project_types: [crm-build, all]
-    applies_to: all
-    confidence: 0.9
-    source: "grok-heavy-benjamin-session-99 (math verified)"
-    uses: 1
-    last_used: "session-99"
-
-  - file: "pwj-prompt-design-pre-answered.md"
-    one_line: "PWJ bridge prompts must contain all 6 Planner intake answers pre-filled. Planning in Session N, execution in Session N+1. Missing intake = theater. Reference: SESSION-99-PROMPT.md."
-    topics: [pwj, session-bridge, bridge-prompt, orchestration, quality-gate, prompt-design]
-    use_when: "Designing any session prompt that calls for PWJ execution. Always check before writing a bridge prompt."
-    project_types: [all]
-    applies_to: all
-    confidence: 0.8
-    source: "session-99 (patrick correction — PWJ theater audit, Grok cross-validation)"
-    uses: 0
-    last_used: null
-
-  # === ADDED SESSION 97/98 BRIDGE ===
-
-  - file: "pwj-bridge-prompt-quality.md"
-    one_line: "Anti-patterns + mandatory patterns for PWJ bridge prompts: exact 'CANNOT PASS' phrase, first-pass PASS = judging failure rule, Integrated Eval Sets (Planner builds test cases during planning), Statistical Guardrails (CI not time-based), Competing Hypotheses. 5 anti-patterns with source session + consequence."
-    topics: [pwj, bridge-prompt, judge, quality-gate, eval, orchestration, session-bridge, anti-patterns, statistical-guardrails]
-    use_when: "Writing or reviewing any PWJ bridge prompt. Before spawning a Worker on any Tier 2/3 task. When designing Judge prompts. When reviewing done criteria for bridge completeness."
-    project_types: [all]
-    applies_to: all
-    confidence: 0.7
-    source: "session-99 (Gemini Senior Architect Directive, S97/98 convergent diagnosis)"
-    uses: 0
-    last_used: null
-
-  - file: "pwj-judge-templates.md"
-    one_line: "Three copy-paste ready Judge templates: (1) Search & Destroy internal — exact CANNOT PASS phrase + first-pass failure rule, (2) External Cross-Validation for Mistral/Gemini/Grok — Negative Criteria framing + Skepticism Score, (3) Competing Hypotheses — trade-off reasoning evaluation. All adversarial by design."
-    topics: [pwj, judge, quality-gate, orchestration, session-bridge, eval, competing-hypotheses, external-validation]
-    use_when: "Any time a Judge prompt is needed. Template 1 for internal review. Template 2 for external validation (mandatory for Tier 2/3). Template 3 for research/architecture tasks with competing paths."
-    project_types: [all]
-    applies_to: all
-    confidence: 0.7
-    source: "session-99 (Gemini Senior Architect Directive)"
-    uses: 0
-    last_used: null
-
-  # === ADDED SESSION 97/98 BRIDGE ===
-
-  - file: "dmccrm-validator-spec.md"
-    one_line: "Deterministic validation layer spec for DMC CRM email classifier — JSON schema, 10 if-then rules, mismatch queue, drift process, Path B trigger conditions."
-    topics: [crm-build, agents, llm, deterministic-validation, email-pipeline, supabase, n8n, typescript]
-    use_when: "Building the email classification validator OR extending CRM classification rules OR debugging LLM action overrides"
-    applies_to: [FinlandDMC]
-    confidence: 0.7
-    source: "session-bridge-challenge-1 (s97/98 boundary)"
-    uses: 0
-    last_used: null
 
   # === ADDED SESSION 97 ===
 
@@ -499,17 +1660,6 @@ patterns:
     last_used: "session-85"
     confidence: 0.7
     source: patrick
-
-  - file: "mistral-judge-system-prompt.md"
-    one_line: "Mistral Large 3 as automated PWJ Judge. System prompt v2 (Grok hardened): zero-trust, skepticism_score formula, master-key auto-FAIL, rating indeterminacy → FAIL. judge.py reads key from macOS Keychain. $0.013/call, EU-native, LOW GDPR. Criteria Hardener + Revision Prompt + agent_loop.sh included."
-    topics: [pwj, judge, mistral, quality-gate, automation, gdpr, eu-compliance]
-    use_when: "Setting up or running automated PWJ Judge. High-stakes/Critical runs where same-model Judge is insufficient. Any automated quality loop for document/analysis deliverables."
-    project_types: [system-maintenance, infrastructure, quality-gate]
-    applies_to: all
-    tier: B
-    uses: 2
-    last_used: "session-85"
-    confidence: 0.7
 
   - file: "multi-llm-design-cycle.md"
     one_line: "6-step cycle: Grok Heavy (decision research) → Gemini Deep Research (cross-validate) → Gemini (design v1) → Grok Heavy (stress-test/adversarial) → Gemini (patch+integrate) → Claude Code (document). Used for high-stakes prompt/architecture design. Validated on Mistral Judge system prompt. Near-zero cost (Grok+Gemini free + ~$2 Claude)."
@@ -753,6 +1903,46 @@ patterns:
     uses: 2
     last_used: "2026-02-18"
 
+  - file: "openpyxl-xlsm-silent-corruption.md"
+    one_line: "openpyxl silently corrupts .xlsm files — write returns success, no error, Excel shows 'problem found'. Never write/edit complex files with openpyxl. Source: claude-code#22044"
+    topics: [excel, openpyxl, xlsxwriter, xlsx, python, ai-generated-code, production-safety, file-corruption]
+    use_when: "Any task involving Python Excel generation, editing user-provided Excel files, or AI-generated Excel code"
+    project_types: [corporate-knowledge, strategic-research, system-maintenance]
+    applies_to: all
+    confidence: 0.5
+    uses: 0
+    last_used: "2026-03-31"
+
+  - file: "openpyxl-merged-cells-correction.md"
+    one_line: "openpyxl merged cells: unmerge before write (MergedCell read-only), list() for iteration, verify after save with data_only=True, recalculate row refs after insert_rows()"
+    topics: [excel, openpyxl, merged-cells, python, budget, correction-workflow, insert-rows]
+    use_when: "Correcting existing Excel files with merged cells — budget models, schedules, financial tables"
+    applies_to: all
+    confidence: 0.85
+    uses: 1
+    last_used: "2026-04-01"
+    source: "S147-arctic-cruises"
+
+  - file: "fam-document-three-pack-architecture.md"
+    one_line: "B2B FAM trip needs three documents: Itinerary (operator-facing, forwarded to clients), Ship Programme (internal ops only), Welcome 1-Pager (cold B2B outreach). Each has different audience and must-contain/must-not rules. 3-round Grok+Gemini review process included."
+    topics: [tourism, fam-trip, b2b, document-architecture, tour-operators, dach, benelux, uk, finland-dmc, arctic-cruises, operator-faq, catalogue]
+    use_when: "Building any B2B hosted FAM trip or operator product introduction materials — sets up the three-document structure from the start"
+    applies_to: [finland-dmc, artic-cruises]
+    confidence: 0.7
+    uses: 1
+    last_used: "2026-04-02"
+    source: "S151 (S148 work) — Arctic Cruises FAM2026 document build. 3 Grok spars + 3 Gemini reviews."
+
+  - file: "fam-trip-dmo-financing-framing.md"
+    one_line: "FAM trip DMO co-financing: Go Saimaa first → regional DMOs → VisitFinland/Finnair. Reframe public funding as skin-in-the-game. Single strongest DMO argument: bookable product, operator conversion. VisitFinland keywords + Finnair direct path as parallel track."
+    topics: [tourism, fam-trip, dmo, visitfinland, finnair, co-financing, skin-in-the-game, framing, nordic, finland-dmc, arctic-cruises]
+    use_when: "Any FAM trip, press trip, or hosted buyer event requiring public/DMO co-financing in Finnish/Nordic context"
+    applies_to: [finland-dmc, artic-cruises]
+    confidence: 0.8
+    uses: 1
+    last_used: "2026-04-01"
+    source: "patrick + grok-auto + gemini-2.5-pro, S147-arctic-cruises"
+
   - file: "excel-mining-protocol.md"
     one_line: "v2.0: Sniffer-first → targeted extraction. 3 Excel types (Financial/CRM/Operational). 16K-column trap documented. Script: _shared/scripts/excel-extract-smart.py"
     topics: [excel, extraction, financials, budget, cost-structure, crm, pipeline, mining, token-efficiency, sniffer]
@@ -778,16 +1968,16 @@ patterns:
     last_used: "2026-02-21"
 
   - file: "agent-orchestration-patterns.md"
-    one_line: "Task subagents vs Agent Teams vs n8n. Pre-distillation protocol for large datasets. MCP blocked in background subagents."
-    topics: [orchestration, subagents, agent-teams, n8n, parallel, context-limits, pre-distillation, mcp]
-    use_when: "Choosing between subagents/Agent Teams/n8n; planning multi-agent analysis; large datasets; MCP tools in subagents"
+    one_line: "Task subagents vs Agent Teams vs n8n. Kilo task tool parallel agents, orchestrator for large swarms (16-agent council), pre-distillation. MCP blocked in background."
+    topics: [orchestration, subagents, agent-teams, n8n, parallel, context-limits, pre-distillation, mcp, kilo, task-tool, orchestrator, swarm, 16-agent]
+    use_when: "Choosing between subagents/Agent Teams/n8n; planning multi-agent analysis; large datasets; MCP tools in subagents; Kilo task tool patterns"
     project_types: [corporate-knowledge, strategic-research, m365-mining, system-maintenance]
     applies_to: all
     tier: B
     validated: true
-    confidence: 0.7
-    uses: 3
-    last_used: "2026-02-22"
+    confidence: 0.8
+    uses: 4
+    last_used: "2026-03-30"
 
   - file: "mid-session-checkpoint.md"
     one_line: "Save intermediate results to files at natural breakpoints in sessions >30 minutes to prevent total loss on crash or context-out"
@@ -820,6 +2010,7 @@ patterns:
     project_types: [strategic-research, system-maintenance]
     applies_to: all
     tier: B
+    confidence: 0.5
 
   - file: "agentic-pipeline-security.md"
     one_line: "11 Constitutional Principles + volume/spam protection + CVE inventory + long-term maintenance for AI-automated data pipelines (email→AI→DB). Validated: Grok Heavy 2 rounds + Gemini 2 rounds + NVD CVE research."
@@ -832,10 +2023,6 @@ patterns:
     confidence: 0.7
     uses: 1
     last_used: "2026-03-16"
-    validated: true
-    confidence: 0.3
-    uses: 0
-    last_used: "2026-02-21"
 
   - file: "coding-project-preflight.md"
     one_line: "9-phase preflight checklist for AI-built coding projects. Covers: correctness definition, PRD brain files, architecture (Codex vs Claude teams), team composition (Sub-Boss 65→92%), quality gates (Judge Agent 7x), error recovery, prompt rules, cost, anti-patterns, future-proofing. Synthesized from research + YouTube KB."
@@ -972,38 +2159,20 @@ patterns:
 
   # === ADDED SESSION 70 (extracted from knowledge-management-research-2026.md) ===
 
-  - file: "question-type-routing-for-deep-dives.md"
-    one_line: "Convert Deep Dive file pointers to decision-tree routing: 'If asking X → load Y.' Removes the 'must already know what I need' retrieval barrier."
-    topics: [warm-packs, retrieval, deep-dive, routing, kb-consultation, session-protocol]
-    use_when: "Adding or updating Deep Dive sections in any warm pack; Opus review warm pack refresh; low KB consultation rate investigation"
-    project_types: [system-maintenance]
-    applies_to: all
-    tier: B
-    validated: false
-    confidence: 0.7
-    uses: 0
-    last_used: null
-    source: knowledge-management-research-2026
-
-  - file: "supersedes-field-on-new-patterns.md"
-    one_line: "When writing a new pattern that replaces old guidance, mark both files explicitly. Prevents slow-motion context poisoning from contradictory active patterns."
-    topics: [patterns, bp-files, knowledge-freshness, contradictions, system-maintenance, opus-review]
-    use_when: "Writing any new BP pattern that changes a previous recommendation; before Opus contradiction scan step"
-    project_types: [system-maintenance]
-    applies_to: all
-    tier: B
-    validated: false
-    confidence: 0.7
-    uses: 0
-    last_used: null
-    source: knowledge-management-research-2026
-
   - file: "batch-caching-system-field.md"
     one_line: "Batch API JSONL must use separate 'system' field for static content. Concatenating into user message kills cross-request prompt caching (~95% savings missed)."
     topics: [batch-api, prompt-caching, cost, jsonl, system-field, api]
     use_when: "Before submitting any Batch API job; reviewing JSONL structure; cost optimization"
     project_types: [strategic-research, m365-mining, system-maintenance]
     applies_to: all
+
+  - file: "batch-api-output-truncation-recovery.md"
+    one_line: "Batch API error JSON with 'raw' truncated at exact char limit = max_tokens hit, not model failure. 4.5% silent rate. Salvageable: delete error JSONs, raise max_tokens, resubmit."
+    topics: [batch-api, output-tokens, truncation, error-recovery, mining, jsonl]
+    use_when: "After any Batch API download; before building aggregates; inspecting error JSONs"
+    project_types: [m365-mining, system-maintenance]
+    applies_to: all
+    source: S158
     tier: B
     validated: false
     confidence: 0.8
@@ -1021,6 +2190,7 @@ patterns:
     applies_to: all
     tier: B
     validated: true
+    confidence: 0.5
 
   - file: "multi-model-architecture-validation.md"
     one_line: "6-round Grok+Gemini validation loop before spawning build agent. Scale context prevents enterprise-projection bias. One-shot path = 2 rounds + pre-flight DB checks. Includes RLS SQL pattern."
@@ -1126,19 +2296,6 @@ patterns:
     uses: 1
     last_used: "2026-03-12"
     source: patrick
-
-  - file: "gepa-correction-harvest.md"
-    one_line: "Turn every mid-session correction into a proposed Tier-B rule — GEPA-style loop converts assumption errors into permanent overrides"
-    topics: [leverage, corrections, gepa, self-improving, rules, session-end, assumption-errors, efficiency]
-    use_when: "End of any session where Patrick made a correction; any session where Claude defaulted to wrong tool/process; building correction → rule pipeline"
-    project_types: [all]
-    applies_to: all
-    tier: B
-    validated: false
-    confidence: 0.5
-    uses: 0
-    last_used: "2026-03-12"
-    source: grok-4-agent-debate
 
   - file: "vibe-coded-review-checklist.md"
     one_line: "Mock code review checklist for vibe-coded implementations before production wiring."
@@ -1317,32 +2474,6 @@ project_types:
 
   # === ADDED SESSION 73 ===
 
-  - file: "planner-worker-judge-loop.md"
-    one_line: "Full Planner-Worker-Judge spec. Worker accuracy 33% but deliverable correct. Gate vs Improvement Judge modes. Task-tier iteration caps (Tier1: 3-5, Tier2: 3+1, Tier3: 10). Initializer Asking Mode (4 human-pause triggers). Divorce Rule: Worker ≠ Judge model family for Tier 2/3. 4 Operating Rules. Epistemic Closure fix. Confidence-based routing. Anti-patterns 1-7."
-    topics: [agent-orchestration, quality-gate, subagents, planner-worker-judge, worker-accuracy, acceptance-criteria, file-manifest, divorce-rule, initializer-asking-mode, iteration-caps, epistemic-closure]
-    use_when: "Spawning a Worker for any synthesis, plan review, research, or consistency check. Designing acceptance criteria. Choosing iteration caps. Evaluating whether to use same-model or separate-model judge. Deciding when to pause and ask human before spawning."
-    project_types: [strategic-research, system-maintenance, corporate-knowledge, governance, seo-geo]
-    applies_to: all
-    tier: B
-    validated: true
-    confidence: 0.85
-    uses: 1
-    last_used: "2026-03-17"
-    source: session-73-crm-buildstate-test
-
-  - file: "pwj-lessons.md"
-    one_line: "Persistent PWJ failure log. Planner reads before spawning — 3 most recent FAILs for same task type become few-shot anti-examples in Judge rubric. Monthly human review. ShopForge Evolve pattern."
-    topics: [planner-worker-judge, self-improvement, judge-failures, rubric-calibration]
-    use_when: "Running a PWJ loop. Debugging a stuck loop. Building spawn prompts for Improvement Judge tasks. Reviewing past Judge failures."
-    project_types: [strategic-research, system-maintenance, corporate-knowledge]
-    applies_to: all
-    tier: B
-    validated: true
-    confidence: 0.9
-    uses: 1
-    last_used: "2026-03-17"
-    source: session-85-pwj-run-1
-
   - file: "time-boxing-practices.md"
     one_line: "Separate PREREQUISITE (one-time setup) from per-session steps in integration specs. Prevents false criterion failures on time constraints. Saves ~1.5 min/session in reported overhead."
     topics: [integration-spec, time-boxing, pwj-criteria, workflow, prerequisites, session-overhead]
@@ -1373,19 +2504,7 @@ project_types:
     one_line: "API privacy/GDPR guide for cross-LLM Judge. Decision: Mistral Large 3 (EU-native, no CLOUD Act, LOW risk). Grok × 2 + Gemini cross-validated. Benchmark table: Mistral 1428 Elo vs Gemini Flash 1412 vs Sonnet 4.6 1446."
     topics: [gdpr, api-privacy, cross-llm-judge, mistral, training-data-exclusion, pwj, cloud-act]
     use_when: "Setting up external LLM as automated Judge. Evaluating API privacy for EU business data. Any automated workflow sending business content to external LLM."
-
-  - file: "mistral-judge-system-prompt.md"
-    one_line: "Hardened Mistral Large 3 Judge system prompt for PWJ loop. Zero-trust + partial-completion=FAIL + AMBIGUITY PROTOCOL + skepticism_score. judge.py + shell wrapper included. Designed by Gemini, stress-tested by Grok."
-    topics: [pwj, judge, mistral, system-prompt, json-output, integration, claude-failure-modes]
-    use_when: "Wiring Mistral Large 3 as automated Judge in /pwj loop. Writing the system prompt for any external LLM Judge call. Building judge.py integration."
-    project_types: [system-maintenance, crm-build]
-    applies_to: all
-    tier: B
-    validated: true
-    confidence: 0.9
-    uses: 0
-    last_used: null
-    source: session-85-grok-api-privacy-research
+    confidence: 0.5
 
   - file: "multi-llm-design-cycle.md"
     one_line: "Multi-LLM design cycle pattern: Grok (decision/stress-test) + Gemini (design/integration) + Claude (synthesis). Eliminates same-family blind spots. Validated on Mistral Judge design session 85."
@@ -1426,19 +2545,6 @@ project_types:
     last_used: "2026-03-20"
     source: session-104-s3-anti-anchoring
 
-  - file: "exception-rule-determinism-checker.md"
-    one_line: "Template + checklist for writing deterministic exception rules (IF/AND/THEN, not judgment-based). Prevents ambiguous rules that hide implementation debt. Anti-patterns vs deterministic replacements (5 pairs)."
-    topics: [pwj-criteria, acceptance-criteria, deterministic-rules, logic, exception-handling, judgment-vs-logic]
-    use_when: "Writing an 'exception rule' or 'when NOT to apply rule X' acceptance criterion. Preventing judgment-based language (evaluate, use discretion, assess) in critical specs. PWJ Acceptance Criteria #2 (determinism) for any complex decision logic."
-    project_types: [strategic-research, system-maintenance, governance, crm-build]
-    applies_to: all
-    tier: B
-    validated: true
-    confidence: 0.8
-    uses: 1
-    last_used: "2026-03-20"
-    source: session-104-s3-anti-anchoring
-
 - file: bridge-mode-scope-calibration.md
   name: bridge-mode-scope-calibration
   description: genius-check --mode bridge on overkill lyhyille handovereille — käytä --tier 1 sen sijaan
@@ -1453,6 +2559,19 @@ project_types:
   last_used: this-window
   source: patrick
 
+  - file: "hybrid-research-implementation-split.md"
+    name: "Cursor=implementation, Claude Code=research+synthesis (Hybrid v2.5.3)"
+    topic: "cursor, claude-code, research, orchestration, hybrid, same-model-validation, web-search"
+    use_when: "Deciding where to run a task — Cursor vs Claude Code. Research/web-search/synthesis → Claude Code. File building/scripts/code → Cursor Swarm."
+    project_types: [strategic-research, system-maintenance, all]
+    applies_to: all
+    tier: B
+    validated: true
+    confidence: 0.7
+    uses: 1
+    last_used: S126
+    source: empirical (obsidian-second-brain-research M7–M10)
+
 # === TOPIC SHORTCUTS ===
 # Quick grep targets for common session types:
 #
@@ -1464,3 +2583,439 @@ project_types:
 # Security/Privacy:    grep "security\|gdpr\|privacy\|pii\|injection"
 # Cost decisions:      grep "cost\|optimization\|tokens"
 # System maintenance:  grep "system-design\|maintenance\|sessions"
+
+- name: cli-stdout-discipline
+  title: CLI Stdout Discipline for Orchestrators
+  category: system-design
+  summary: JSON stdout + stderr logging discipline — universal contract for CLI tools called by orchestrators. Prevents orchestrator parsing failures.
+  applies_to: All Python CLI skills (grok-heavy-browser, research-loop, future skills)
+  when_to_use: Any CLI tool designed to be called by Windmill/Paperclip/n8n or bash scripts
+  tier: A
+  validated: true
+  confidence: 0.9
+  uses: 0
+  last_used: S131
+  source: research/scriptable-skill-architecture (Grok + Claude unanimous)
+
+- name: contested-spar-protocol
+  title: Handling CONTESTED Claims in Research Loop Spar
+  category: research
+  summary: 3-path SPAR TARGET reconciliation protocol for research-loop Step 4 when Grok attacks without primary sources
+  applies_to: research-loop Step 4 synthesis
+  when_to_use: Every Step 4 when Grok VERDICT is directional critique without primary sources
+  tier: A
+  validated: true
+  confidence: 0.8
+  uses: 1
+  last_used: S131
+  source: research/scriptable-skill-architecture (emerged from SPAR TARGET reconciliation)
+
+# === ADDED SESSION 129 (self-healing-light research) ===
+- name: contested-architecture-presentation
+  title: Presenting Contested Architectural Decisions with Full Implementation Paths
+  category: research
+  summary: When research produces 2 legitimately defensible architectures, present BOTH with full implementation paths instead of forcing premature resolution. Let decision-maker choose based on context.
+  applies_to: Any research producing competing architectures (e.g., retry vs fail-fast, Obsidian vs SQLite, Windmill vs n8n)
+  when_to_use: SPAR reconciliation flags as OPEN/CONTESTED + decision depends on external context (monitoring availability, risk tolerance, infrastructure) researcher cannot determine
+  tier: B
+  validated: false
+  confidence: 0.7
+  uses: 1
+  last_used: S129
+  source: research/self-healing-light (Architecture 1 vs Architecture 2 with full implementation)
+
+- name: grok-spar-source-verification
+  title: Trust Score Verification for Grok Spar Claims
+  category: research
+  summary: Extend Trust Score system (1-5) from Claude Step 2 to Grok Step 3. Tag all Grok spar claims with Trust Score. Separate directionally-credible-but-unverified (Score 0) from verified (Score 3-5).
+  applies_to: research-loop Step 3 and Step 4
+  when_to_use: Every Grok spar — before applying spar-target-reconciliation-protocol. Source verification determines which reconciliation path (UPHOLD vs CORRECT).
+  tier: B
+  validated: false
+  confidence: 0.7
+  uses: 1
+  last_used: S129
+  source: research/self-healing-light (Trust Score 0 tagging for Grok claims lacking primary sources)
+
+- name: spar-target-reconciliation
+  title: SPAR TARGET RECONCILIATION — 3-Path Protocol (OPEN/UPHELD/CORRECTED)
+  category: research
+  summary: Structured reconciliation protocol for Grok Step 3 spar attacks against SPAR TARGET from Step 2. Three paths - FLAG as OPEN/CONTESTED (unresolved VERDICT), UPHOLD original claim (Grok attack lacks primary sources), or CORRECT the claim (definitive VERDICT with primary sources contradicting SPAR TARGET).
+  applies_to: research-loop Step 4 (Claude Final Synthesis)
+  when_to_use: Every research-loop run — before writing final document, apply 3-path protocol to reconcile SPAR TARGET with Grok Step 3 VERDICT
+  tier: A
+  validated: true
+  confidence: 0.9
+  uses: 1
+  last_used: S131
+  source: research/gdpr-ytlaki-compliance (SPAR TARGET CORRECTION — prevented structurally wrong claim from surviving into final document)
+
+- name: pipeline-status-artifact-dependency
+  title: PIPELINE STATUS — Mark Done Only After Artifact Confirmed Written
+  category: orchestration
+  summary: Status fields (status: done, status: complete) are metadata about physical artifacts. Write the artifact first using Write tool, confirm it exists, THEN update status. Reversing this order causes "done with no output" failures — status=done but no file on disk.
+  applies_to: Any skill or pipeline that writes files and updates a status field
+  when_to_use: Any time a skill has both a file-write step and a status-update step
+  tier: A
+  validated: true
+  confidence: 1.0
+  uses: 1
+  last_used: S134
+  source: patrick — 5 lost final docs in overnight research run, root cause confirmed
+
+- name: single-runner-lockfile
+  title: SINGLE RUNNER LOCKFILE — Prevent Concurrent Pipeline Instances
+  category: orchestration
+  summary: Any pipeline that reads+writes shared state files must use a lockfile to prevent concurrent instances. Without it, 2 runners cause race conditions, duplicate topic processing, and corrupted status fields. Pattern: check lockfile at start, write PID, remove in EXIT trap.
+  applies_to: run-research-queue.sh and any batch runner that modifies shared YAML/JSON state
+  when_to_use: Any shell script that runs a queue or batch job and shares state files with itself
+  tier: A
+  validated: true
+  confidence: 1.0
+  uses: 1
+  last_used: S134
+  source: S134 autopsy — 2 concurrent runners caused 36 Phase 1 runs for 22 topics (164% retry rate)
+
+- name: cli-browser-absolute-paths
+  title: CLI BROWSER SKILLS — Always Use Absolute Paths, Never ~/relative
+  category: tooling
+  summary: In claude -p mode, ~/relative paths in Bash permission rules do NOT match. Use /Users/patrickheiskanen/ absolute paths in both SKILL.md instructions and settings.json permission rules. Also: CDP health check must run per-topic in overnight queues, not just at queue start. Chrome can die mid-run.
+  applies_to: Any skill using grok-heavy-browser, run-grok.sh, or CDP/Playwright automation in -p mode
+  when_to_use: Building or debugging CLI browser automation skills; writing permission rules for bash wrappers
+  tier: A
+  validated: true
+  confidence: 0.9
+  uses: 1
+  last_used: S134
+  source: S134 — Mode B Grok failure: relative path ~/run-grok.sh didn't match permission rule in -p mode
+
+  # === ADDED SESSION 138B ===
+
+  - file: "fam-budget-fixed-variable-split.md"
+    description: "FAM/event budget split: fixed (public-sector in-kind) vs variable (per-participant). Seisonta scaling formula."
+    topic: "tourism, fam-trip, budget, arctic-cruises, event-planning, stakeholder-asks"
+    confidence: 0.7
+    tier: B
+    uses: 0
+    last_used: "session-138B"
+    source: "S138B — Arctic Cruises FAM 2026 Excel build"
+
+  # === ADDED SESSION 147 (JS Group Sales MVP planning) ===
+
+  - file: "gap-first-hybrid-planning-workflow.md"
+    description: "AI planner identifies gaps → categorizes 80% self-decide / 20% ask-human (max 8 decision forks). Option C validated by Grok 207 src + Reflexion paper (Shinn 2023)."
+    topic: "planning, workflow, gap-analysis, opus, build-planning, ai-agent, decision-making"
+    confidence: 0.85
+    tier: B
+    uses: 1
+    last_used: "S147"
+    source: "S140-S147 — JS Group Sales MVP 15-gap analysis session"
+
+  - file: "js-groupsales-mining-pipeline-patterns.md"
+    description: "Finnish hospitality B2B order mining: TARJOUS/TILAUSVAHVISTUS/ORDERI triple-file pattern, naming convention parsing, dedup logic, docx+pdf dual handling, two-stage Haiku→Sonnet pipeline."
+    topic: "mining, sharepoint, word-documents, hospitality, group-sales, deduplication, pipeline, haiku, sonnet"
+    confidence: 0.80
+    tier: B
+    uses: 1
+    last_used: "S147"
+    source: "S147 — JS Group Sales mining test (Interflon Finland Oy 3 samples)"
+
+  - file: "onedrive-web-download-unicode-bug.md"
+    description: "OneDrive web ZIP download silently skips Finnish/Unicode filenames (ä,ö,å) — use desktop sync at ~/Library/CloudStorage/ instead"
+    topic: "onedrive, sharepoint, files, unicode, finnish, download"
+    confidence: 0.95
+    tier: B
+    uses: 0
+    last_used: "S150"
+    source: "S150 — Patrick tried to download TIEDOSTOT 2025 from web, 153/1311 files failed"
+
+  # === ADDED S145 (Gemini prompting research + Grok focus fix) ===
+
+  - file: "cdp-browser-focus-restore.md"
+    description: "Playwright context.new_page() steals macOS focus even without bring_to_front(). Fix: AppleScript save frontmost app before CDP, restore after new_page()."
+    topic: "playwright, cdp, chrome, browser-automation, macos, focus, grok-browser-skill"
+    confidence: 0.95
+    tier: B
+    uses: 1
+    last_used: "S145"
+    source: "S145 — Grok skill still popping Chrome window after bring_to_front() removal"
+
+  - file: "gemini-prompt-architecture.md"
+    description: "Gemini 2.5 optimal config: system_instruction as API param, temperature by task type, thinking_budget per model (Flash=explicit, Pro=OMIT thinking_config entirely — NOT -1), data-first ordering."
+    topic: "gemini, prompting, system-instruction, temperature, thinking-config, thinking-budget, gemini-api-skill"
+    confidence: 0.90
+    tier: B
+    uses: 2
+    last_used: "S150"
+    source: "S145 — Gemini 2.5 prompting research + gemini-api v2.0 upgrade. S150: thinking_budget=-1 corrected to None (Gemini audit)."
+
+  - file: "gemini-schema-output-pattern.md"
+    description: "Pydantic + response_json_schema for parse-safe audit/judge verdicts. Enum Literal fields guarantee PASS/FAIL. Avoid with function calling or search grounding (known conflict on 2.5)."
+    topic: "gemini, structured-output, pydantic, json-schema, audit, judge, parse-safe, research-loop"
+    confidence: 0.90
+    tier: B
+    uses: 1
+    last_used: "S150"
+    source: "S145 — Research finding: schema-constrained > text parsing for Gemini audit calls. S150: implemented and confirmed working."
+
+  - file: "critical-dependency-fail-loud.md"
+    description: "When optional library is required for a critical mode, fail with RuntimeError immediately — never silently degrade to broken output with None."
+    topic: "python, dependency, fallback, fail-loud, pydantic, optional-import, skill-design"
+    confidence: 0.50
+    tier: B
+    uses: 1
+    last_used: "S150"
+    source: "S150 — Gemini audit finding: silent AuditResult=None fallback was opaque failure in gemini-api skill"
+
+  - file: "tour-operator-product-launch-architecture.md"
+    description: "Structure B2B product documents around the PM's 5-category mental checklist (commercial, operational, client, competitive, trust) — not the product spec. Large-capacity vessel = low occupancy is private cruise premium, not risk."
+    topic: "b2b, tour-operator, product-launch, fam-trip, catalogue, dach, benelux, uk, outbound, operator-faq, arctic-cruises"
+    confidence: 0.85
+    tier: B
+    uses: 2
+    last_used: "S152"
+    source: "S151 — Arctic Cruises FAM2026 operator package build"
+
+  # === ADDED S152 ===
+  - file: "tour-operator-group-multi-brand-gateway.md"
+    description: "Consolidated tour operator groups (DERTOUR = 11 brands, TUI etc.) = multi-catalogue gateway. One FAM invite to a group = potential slot across many specialist brands. Research group structure before outreach."
+    topic: "b2b, tour-operator, product-launch, fam-trip, dertour, operator-groups, catalogue, dach, benelux, uk, outbound, arctic-cruises, bd-strategy"
+    confidence: 0.7
+    tier: B
+    uses: 1
+    last_used: "S152"
+    source: "S152 — Arctic Cruises FAM2026 BD research, DERTOUR/Hotelplan UK acquisition Q1 2025"
+
+  - file: "fam-contract-at-event-rule.md"
+    description: "Contracts must be ready to sign AT the FAM, not sent as follow-up. Catalogue submission deadlines are 8-10 weeks post-FAM — slow procurement loop = missed catalogue year."
+    topic: "b2b, fam-trip, contracts, catalogue, tour-operator, timeline, allotment, product-launch, arctic-cruises"
+    confidence: 0.7
+    tier: B
+    uses: 1
+    last_used: "S152"
+    source: "S152 — Arctic Cruises FAM2026 timeline research, CBI/ITB catalogue cycle data"
+
+  - file: "competitor-certification-gap-monitoring.md"
+    description: "Monitor competitor sustainability certification expiry dates. Expired GSTC/Green Key credentials create predictable first-mover windows. Göta Canal: Nature's Best Sweden GSTC recognition expired Jan 2025."
+    topic: "b2b, sustainability, gstc, green-key, certification, competitor-analysis, tour-operator, fam-trip, arctic-cruises, nordic"
+    confidence: 0.6
+    tier: B
+    uses: 1
+    last_used: "S152"
+    source: "S152 — GSTC database research, Nature's Best Sweden expiry confirmed Jan 2025"
+
+  # === ADDED S150 ===
+  - file: "grok-browser-react-keyboard-type.md"
+    description: "keyboard.type() + Shift+Enter for newlines is the only method that enables Grok submit button. Native setter, clipboard paste, fill() all fail to trigger React state."
+    topic: "grok, browser-automation, playwright, cdp, react, textarea, keyboard, submit-button"
+    confidence: 0.90
+    tier: B
+    uses: 1
+    last_used: "S150"
+    source: "S150 — Empirical testing: native setter doesn't update React state; keyboard.type() does"
+
+  - file: "grok-browser-model-dropdown-escape.md"
+    description: "After Grok model picker selection, press Escape to close dropdown — it doesn't auto-close and blocks textarea interaction."
+    topic: "grok, browser-automation, playwright, cdp, model-picker, dropdown, escape"
+    confidence: 0.90
+    tier: B
+    uses: 1
+    last_used: "S150"
+    source: "S150 — Debug screenshot confirmed dropdown staying open after Expert selection"
+
+  # === ADDED S156 ===
+  - file: "gemini-convergence-claim-tracing.md"
+    description: "Gemini CHECK_2 fails when CEO Bets cite wrong claim numbers or include unverified/context claims — requires explicit Claim # citations with Trust scores directly in CEO Bet text"
+    topic: "gemini, convergence, research-loop, tier3, ceo-bets, claims-matrix, verification"
+    confidence: 0.80
+    tier: B
+    uses: 1
+    last_used: "S156"
+    source: "S156 — Arctic Cruises grants doc needed 6 Gemini rounds due to claim tracing issues"
+
+  - file: "sequential-grok-subagent-pattern.md"
+    description: "Grok CDP browser cannot be parallelized across subagents — run Steps 0-3 sequentially per topic then synthesize in main thread"
+    topic: "grok, subagents, cdp, playwright, research-loop, parallelization, browser-automation"
+    confidence: 0.80
+    tier: B
+    uses: 1
+    last_used: "S156"
+    source: "S156 — Two Tier 3 grant topics run sequentially, not in parallel"
+
+  # === ADDED S152 ===
+  - file: "onedrive-apfs-cloud-stub-detection.md"
+    description: "Reliable detection of OneDrive cloud-only stubs on macOS: ls -lO dataless flag + PK zip header check. brctl doesn't work for OneDrive. Disk >90% full = silent sync fail."
+    topic: "onedrive, macos, apfs, cloud-stubs, file-provider, extraction-pipeline"
+    confidence: 0.95
+    tier: B
+    uses: 1
+    last_used: "S152"
+    source: "S152 — empirical testing, multiple detection methods compared"
+
+  - file: "docx-extraction-text-cap.md"
+    description: "Set Haiku extraction cap to 25K+ chars. Järvisydän docs average 23K — 8K cap truncates 90% of content including services, allergies, payment terms."
+    topic: "extraction, docx, haiku, text-cap, group-sales, mining, truncation"
+    confidence: 0.95
+    tier: B
+    uses: 1
+    last_used: "S152"
+    source: "S152 — Grok spar + 50-file empirical check"
+
+  # === ADDED S165 ===
+  - file: "claude-code-mcp-config.md"
+    description: "Claude Code MCP servers go in ~/.claude/settings.json (not claude_desktop_config.json). Binary must be absolute path. npm prefix fix for macOS /usr/local permission error."
+    topic: "mcp, claude-code, settings, obsidian, mcpvault, npm, configuration"
+    confidence: 0.95
+    tier: B
+    uses: 1
+    last_used: "S165"
+    source: "S165 — empirical fix, bridge had wrong config file target"
+
+  # === ADDED SESSION 173 (Plan Mode + Ultraplan research-loop 2026-04-07) ===
+
+  - file: "claude-code-plan-mode.md"
+    name: "Claude Code Plan Mode — workflow integration, design gate, security risks, Cursor Trilogy integration"
+    topics: [claude-code, plan-mode, design-gate, cursor-handoff, security, workflow, coding]
+    use_when: "Any multi-file coding task (3+ files); before /cursor-handoff; CI read-only analysis; onboarding new developers to codebase"
+    applies_to: [all]
+    confidence: 0.85
+    tier: A
+    uses: 1
+    last_used: "S173"
+    source: "S173 — research-loop v7.0 + Gemini deep-research + Grok Expert spar 2026-04-07"
+    review_note: "Hard/soft block test pending — run once before documenting as Tier A security rule"
+
+  - file: "claude-code-ultraplan-mode.md"
+    name: "Claude Code Ultraplan Mode — best practices, GitHub security audit, EU GDPR risks, teleport-to-Cursor workflow"
+    topics: [claude-code, ultraplan, security, github, gdpr, eu, cursor-handoff, architectural-planning]
+    use_when: "Greenfield project scaffolding; large architectural refactors on GitHub-hosted repo; when local Plan Mode output is insufficient for cross-cutting changes"
+    applies_to: [all]
+    confidence: 0.80
+    tier: B
+    uses: 1
+    last_used: "S173"
+    source: "S173 — research-loop v7.0 + Gemini deep-research + Grok Expert spar 2026-04-07"
+    review_trigger: "Ultraplan exits research preview OR Anthropic publishes EU data residency guarantee"
+    blockers_for_our_stack: "FinnConcierge has no GitHub remote. PIPELINE-V2 is local vault. Push to private GitHub + ggshield pre-commit required before first use."
+
+  - file: "codex-api-key-setup.md"
+    topic: "OpenAI Codex CLI, API key, Keychain, auth.json, 401 Unauthorized, macOS setup"
+    use_when: "Setting up or troubleshooting Codex CLI. 401 errors. API key rotation. auth.json conflict."
+    applies_to: [all]
+    confidence: 0.90
+    tier: B
+    uses: 1
+    last_used: "S183"
+    source: "S183 — live debugging session, auth.json root cause found, source: patrick"
+    notes: "auth.json = #1 gotcha. Always delete before Keychain setup. Double-prefix sk-proj-sk-proj- = common paste error."
+
+  - file: "content-first-job-matching.md"
+    topic: "AI job filter, job title vs content matching, ideal job description, misleading titles, senior role detection"
+    use_when: "Building any AI-powered job matching or filtering system. When job titles don't reliably indicate seniority or scope. When pipeline misses senior roles with humble titles."
+    applies_to: [riikka, any-ai-headhunter]
+    confidence: 0.80
+    tier: B
+    uses: 1
+    last_used: "S193"
+    source: "S193 — Grok+Gemini dual-spar flagged title-first as #1 structural flaw (Gemini 3/10 rating). source: patrick"
+    notes: "Build IJD first, derive titles from it. Add title_misleading field. Chief of Staff / Strategia-assistentti must pass if content matches."
+
+  - file: "grok-prompt-file-flag.md"
+    topic: "Grok CLI prompt corruption, bash variable substitution, --prompt-file flag, long prompts"
+    use_when: "Any time sending a prompt >500 characters to Grok or Gemini via CLI. Always use --prompt-file, never bash variable."
+    applies_to: [all]
+    confidence: 0.99
+    tier: A
+    uses: 1
+    last_used: "S198"
+    source: "S198 empirical failure — bash variable corrupted 'Research' to 'ResearcYouh', Grok echoed prompt back. Immediately confirmed."
+    notes: "Write prompt to /tmp/prompt.txt first. Use: python3 ~/.claude/skills/grok-heavy-browser/main.py --prompt-file /tmp/prompt.txt"
+
+  - file: "financial-product-deck-protocol.md"
+    topic: "fractional ownership deck, physical asset sales deck, yacht presentation, financial product HTML deck"
+    use_when: "Building a sales presentation for fractional ownership of a physical asset (yacht, property, aircraft). Covers 9-slide structure, legal disclaimers, photo sourcing from brokerage CDN + Wikimedia Commons, 1-session build protocol."
+    applies_to: [DMC, holdings, JS, any-company]
+    confidence: 0.85
+    tier: B
+    uses: 1
+    last_used: "S178"
+    source: "S177-S178 — Sunseeker Manhattan 60 deck build + Grok spar process validation"
+    promote_to_tier_A_when: "Used for 2 additional asset decks without major process changes"
+
+  - file: "overnight-scheduled-research-protocol.md"
+    topic: "overnight research, cron jobs, subagent isolation, scheduled deep research, token efficiency"
+    use_when: "Planning overnight or scheduled deep research sessions with 3+ topics. Anytime using CronCreate for research tasks. Always use subagent isolation."
+    applies_to: [all]
+    confidence: 0.8
+    tier: A
+    uses: 1
+    last_used: "S199"
+    source: "S199 empirical validation — 50K token subagent, 2K main session overhead. Quality excellent."
+    notes: "Key rule: cron prompt launches Agent subagent, never runs research directly. 50-80K tokens per subagent is correct. Main session stays under 20K overhead for 8 sessions."
+
+  - file: "superpowers-plugin-workflow.md"
+    name: "Superpowers Plugin — 3-role subagent system, model-tiered dispatch, 14-skill workflow suite. Replaces manual Tier 4 design gate."
+    topics: [claude-code, superpowers, plugin, subagents, plan-mode, coding, tier4, design-gate, cursor-handoff, git-worktrees]
+    use_when: "Any multi-file coding build (3+ files); Tier 4 task; before /cursor-handoff; FinnConcierge features; JS pipeline scripts"
+    applies_to: [all]
+    confidence: 0.90
+    tier: A
+    uses: 1
+    last_used: "S202"
+    source: "S202 — skills read via GitHub API, 294k installs verified from install-counts-cache.json"
+    pending: "Install: /plugin install superpowers@claude-plugins-official"
+
+  - file: "scenery-over-species-luxury-travel.md"
+    one_line: "In luxury nature travel, lead with SCENERY not the flagship species. Species = feeling-builder. Scenery = conversion driver."
+    topics: [luxury-travel, nature-tourism, marketing, copywriting, b2c, cruise, positioning]
+    use_when: "Any nature-based luxury travel product (cruise, safari, lodge, resort). Writing hero sections or lead copy."
+    applies_to: [arctic-cruises, dmc, all]
+    confidence: 0.80
+    tier: A
+    uses: 1
+    last_used: "S229"
+    source: "S229 — Patrick correction: scenery primary, seal secondary. Arctic Cruises V3 positioning."
+
+  - file: "luxury-relaxation-vs-adventure-language.md"
+    one_line: "Expedition/Zodiac/adventure language attracts wrong audience for luxury relaxation products (55+, low activity, high spend). Audit all copy."
+    topics: [luxury-travel, copywriting, audience-signal, b2c, cruise, adventure, positioning]
+    use_when: "Writing copy for any luxury cruise, nature lodge, or travel product targeting affluent older travelers."
+    applies_to: [arctic-cruises, dmc, all]
+    confidence: 0.80
+    tier: A
+    uses: 1
+    last_used: "S229"
+    source: "S229 — Patrick correction: no Zodiac language. Wrong audience for luxury relaxation product."
+
+  - file: "dual-model-judge-pipeline.md"
+    one_line: "Two judges (Gemini 3.1 Pro + Grok 4.20 multi-agent) catch different failure classes — near-zero cost vs single-judge. Same-model bias exists at company level, not just model level."
+    topics: [quality-gate, judge, validation, gemini, grok, multi-model, coding, review, red-team, agentic]
+    use_when: "Any Tier 2+ build producing production code. Security-sensitive code. Code shipping to multiple portfolio companies."
+    applies_to: [all]
+    confidence: 0.50
+    tier: B
+    uses: 1
+    last_used: "S227"
+    source: "S227 — Grok spar validated: diversified judges (different companies) align with different-company philosophy"
+
+  - file: "pre-spar-doc-compression.md"
+    one_line: "Compress large docs via parallel subagents (150w each) before building Grok spar prompt. Produces surgical <5KB prompt with specific claims for Lucas to attack."
+    topics: [grok, spar, document-review, parallel-agents, prompt-engineering]
+    use_when: "Any Grok spar on docs >10KB each. Prevents prompt bloat, sharpens adversarial objections."
+    applies_to: [all]
+    confidence: 0.90
+    tier: B
+    uses: 1
+    last_used: "S238"
+    source: "S238 — 3 parallel subagents compressed 154KB of docs into 450w each → 4.7KB Grok prompt"
+
+  - file: "verify-ai-competitive-claims.md"
+    one_line: "When Gemini/Grok names a competitor 'already in market' — verify with web research before accepting. S238: Gemini confabulated Saimaa DACH competitors that turned out to be day-boat tours, not multi-night cruises."
+    topics: [competitive-analysis, verification, gemini, grok, market-research, hallucination]
+    use_when: "Any time external AI model claims a specific competitor exists in a niche market."
+    applies_to: [all]
+    confidence: 0.95
+    tier: B
+    uses: 1
+    last_used: "S238"
+    source: "patrick, S238 — web research overturned Gemini competitive claim"
