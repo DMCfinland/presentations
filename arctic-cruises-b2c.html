@@ -376,13 +376,6 @@
     .map-stop { display: none !important; visibility: hidden !important; opacity: 0 !important; }
     .route-line-outbound { display: none !important; }
     .route-line-return { display: none !important; }
-    /* Ship — offset-path scroll-driven motion (two-path: outbound + return) */
-    #ship-marker {
-      offset-path: path("M 33,100 C 42,98 58,86 62,82 C 63,79 53,76 48,77 C 46,70 54,60 58,52 C 56,48 43,50 35,53 C 32,50 26,46 27,40 C 27,32 33,22 36,17");
-      offset-rotate: auto;
-      offset-distance: 0%;
-    }
-    .ship-ring { opacity: 0.4; }
     .stop-label-group { transition: opacity 0.4s ease; opacity: 0; pointer-events: none; }
     .stop-label-group.visible { opacity: 1; }
     .return-divider {
@@ -897,24 +890,7 @@
               <circle cx="33" cy="100" r="2.5" fill="#2c6e4f"/>
               <text x="33" y="109" text-anchor="middle" font-size="4.5" font-weight="700" fill="#2c6e4f" font-family="Open Sans, sans-serif">START / END</text>
             </g>
-            <!-- ── Ship marker — moves on scroll ── -->
-            <g id="ship-marker">
-              <!-- Pulsing gold halo (stays fixed — not part of bobbing) -->
-              <circle class="ship-ring" r="9" fill="none" stroke="#c8a96e" stroke-width="0.9"/>
-              <!-- Ship body — bobbing animation applied here via #ship-icon -->
-              <g id="ship-icon">
-                <circle r="6.5" fill="#1c3d2b" stroke="#c8a96e" stroke-width="1.6"/>
-                <path d="M-3.8,1.8 Q0,3.4 3.8,1.8 L3,-0.2 L-3,-0.2 Z" fill="#c8a96e"/>
-                <line x1="-0.2" y1="-0.2" x2="-0.2" y2="-4.2" stroke="white" stroke-width="0.7"/>
-                <path d="M-0.2,-4 L3.2,-1 L-0.2,-0.8 Z" fill="white" opacity="0.95"/>
-              </g>
-            </g>
           </svg>
-        </div>
-        <!-- Legend -->
-        <div style="margin-top: 14px; font-size: 0.72rem; color: var(--muted); max-width: 340px; margin-left: auto; margin-right: auto; display: flex; align-items: center; gap: 8px;">
-          <svg width="16" height="16" viewBox="-8 -8 16 16"><circle r="6.5" fill="#1c3d2b" stroke="#c8a96e" stroke-width="1.4"/><path d="M-3.4,1.6 Q0,3 3.4,1.6 L2.6,-0.2 L-2.6,-0.2 Z" fill="#c8a96e"/><line x1="-0.2" y1="-0.2" x2="-0.2" y2="-3.8" stroke="white" stroke-width="0.7"/><path d="M-0.2,-3.6 L2.8,-0.9 L-0.2,-0.7 Z" fill="white"/></svg>
-          <span>Follow the M/S Carelia's journey — scroll to explore the route</span>
         </div>
       </div>
 
@@ -1773,8 +1749,7 @@
     mobileNav.classList.remove('open');
   }
 
-  // ── Scroll-driven ship — offset-path continuous motion
-  const shipMarker = document.getElementById('ship-marker');
+  // ── Scroll-driven labels — fade in/out per stop
   const stopLabels = document.querySelectorAll('.stop-label-group');
   const routeSection = document.getElementById('route-map');
 
@@ -1790,18 +1765,6 @@
     { pct: 0.98, day: '7' },   // Lappeenranta home
   ];
 
-  // Two-path solution — ship never inverts on return leg
-  const OUTBOUND_PATH = 'path("M 33,100 C 42,98 58,86 62,82 C 63,79 53,76 48,77 C 46,70 54,60 58,52 C 56,48 43,50 35,53 C 32,50 26,46 27,40 C 27,32 33,22 36,17")';
-  const RETURN_PATH   = 'path("M 36,17 C 35,23 27,35 27,40 C 27,46 31,52 35,53 C 38,52 52,50 58,52 C 60,60 52,72 48,77 C 47,80 60,81 62,82 C 65,86 44,97 33,100")';
-  let onReturnLeg = false;
-
-  // Maps scroll% → offset% within current leg (0→1)
-  function getLegOffset(p) {
-    if (p <= 0.43) return p / 0.43;   // outbound: Lappeenranta → Kuopio
-    if (p <= 0.57) return 1.0;         // Kuopio pause — hold at apex
-    return (p - 0.57) / 0.43;         // return: Kuopio → Lappeenranta
-  }
-
   function getSectionProgress() {
     const top = routeSection.offsetTop;
     const height = routeSection.offsetHeight;
@@ -1809,23 +1772,8 @@
     return Math.max(0, Math.min(1, p));
   }
 
-  function updateShip() {
+  function updateLabels() {
     const p = getSectionProgress();
-    const shouldBeReturn = p > 0.57;
-
-    // Swap path at Kuopio apex — suppress any transition during the switch
-    if (shouldBeReturn !== onReturnLeg) {
-      shipMarker.style.transition = 'none';
-      shipMarker.style.offsetPath = shouldBeReturn ? RETURN_PATH : OUTBOUND_PATH;
-      shipMarker.style.offsetDistance = '0%';
-      void shipMarker.offsetHeight; // force reflow before re-enabling
-      shipMarker.style.transition = '';
-      onReturnLeg = shouldBeReturn;
-    }
-
-    shipMarker.style.offsetDistance = `${(getLegOffset(p) * 100).toFixed(2)}%`;
-
-    // Label visibility — show closest stop within ±8%
     stopLabels.forEach(l => l.classList.remove('visible'));
     let closest = null, minDist = 0.09;
     labelStops.forEach(stop => {
@@ -1838,9 +1786,8 @@
     }
   }
 
-  shipMarker.style.offsetPath = OUTBOUND_PATH; // ensure JS path in sync with CSS initial
-  window.addEventListener('scroll', updateShip, { passive: true });
-  updateShip(); // init position
+  window.addEventListener('scroll', updateLabels, { passive: true });
+  updateLabels(); // init
 
   // ── FAQ accordion
   function toggleFaq(btn) {
