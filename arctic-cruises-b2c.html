@@ -376,9 +376,9 @@
     .map-stop { display: none !important; visibility: hidden !important; opacity: 0 !important; }
     .route-line-outbound { display: none !important; }
     .route-line-return { display: none !important; }
-    /* Ship — offset-path scroll-driven motion */
+    /* Ship — offset-path scroll-driven motion (two-path: outbound + return) */
     #ship-marker {
-      offset-path: path("M 33,100 C 50,95 65,88 62,82 C 58,80 52,79 48,77 C 46,70 55,60 58,52 C 52,52 40,54 35,53 C 30,50 24,45 27,40 C 28,30 32,22 36,17 C 32,22 28,30 27,40 C 24,45 30,50 35,53 C 40,54 52,52 58,52 C 55,60 46,70 48,77 C 50,85 42,92 33,100");
+      offset-path: path("M 33,100 C 42,98 58,86 62,82 C 63,79 53,76 48,77 C 46,70 54,60 58,52 C 56,48 43,50 35,53 C 32,50 26,46 27,40 C 27,32 33,22 36,17");
       offset-rotate: auto;
       offset-distance: 0%;
     }
@@ -1790,11 +1790,16 @@
     { pct: 0.98, day: '7' },   // Lappeenranta home
   ];
 
-  // Maps scroll% → path offset%, pausing at Kuopio for 2 nights
-  function calculateOffset(p) {
-    if (p <= 0.43) return (p / 0.43) * 0.5;
-    if (p <= 0.57) return 0.5;  // ship sits at Kuopio apex
-    return 0.5 + ((p - 0.57) / 0.43) * 0.5;
+  // Two-path solution — ship never inverts on return leg
+  const OUTBOUND_PATH = 'path("M 33,100 C 42,98 58,86 62,82 C 63,79 53,76 48,77 C 46,70 54,60 58,52 C 56,48 43,50 35,53 C 32,50 26,46 27,40 C 27,32 33,22 36,17")';
+  const RETURN_PATH   = 'path("M 36,17 C 35,23 27,35 27,40 C 27,46 31,52 35,53 C 38,52 52,50 58,52 C 60,60 52,72 48,77 C 47,80 60,81 62,82 C 65,86 44,97 33,100")';
+  let onReturnLeg = false;
+
+  // Maps scroll% → offset% within current leg (0→1)
+  function getLegOffset(p) {
+    if (p <= 0.43) return p / 0.43;   // outbound: Lappeenranta → Kuopio
+    if (p <= 0.57) return 1.0;         // Kuopio pause — hold at apex
+    return (p - 0.57) / 0.43;         // return: Kuopio → Lappeenranta
   }
 
   function getSectionProgress() {
@@ -1806,8 +1811,19 @@
 
   function updateShip() {
     const p = getSectionProgress();
-    const offset = calculateOffset(p);
-    shipMarker.style.offsetDistance = `${(offset * 100).toFixed(2)}%`;
+    const shouldBeReturn = p > 0.57;
+
+    // Swap path at Kuopio apex — suppress any transition during the switch
+    if (shouldBeReturn !== onReturnLeg) {
+      shipMarker.style.transition = 'none';
+      shipMarker.style.offsetPath = shouldBeReturn ? RETURN_PATH : OUTBOUND_PATH;
+      shipMarker.style.offsetDistance = '0%';
+      void shipMarker.offsetHeight; // force reflow before re-enabling
+      shipMarker.style.transition = '';
+      onReturnLeg = shouldBeReturn;
+    }
+
+    shipMarker.style.offsetDistance = `${(getLegOffset(p) * 100).toFixed(2)}%`;
 
     // Label visibility — show closest stop within ±8%
     stopLabels.forEach(l => l.classList.remove('visible'));
@@ -1822,6 +1838,7 @@
     }
   }
 
+  shipMarker.style.offsetPath = OUTBOUND_PATH; // ensure JS path in sync with CSS initial
   window.addEventListener('scroll', updateShip, { passive: true });
   updateShip(); // init position
 
