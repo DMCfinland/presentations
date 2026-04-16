@@ -7,6 +7,89 @@
 
 ## Rolling Window (Last 5 Sessions)
 
+### Session 239 | Arctic B2C Operator Research + Website Improvements | 2026-04-16
+
+```yaml
+session: 239
+date: 2026-04-16
+model: sonnet-4-6
+project_type: strategic-research
+duration: ~60min
+cost: ~$3.50
+session_tier: 2
+attributed_value_eur: ~€2,000
+human_interventions: 3
+handoff_quality: 92
+longest_autonomous_task_min: 15
+first_turn_quality: high
+kb_consulted: yes
+kb_topics: [scenery-over-species-luxury-travel, wildlife-usp-framing, arctic-competitive-reality]
+patterns_harvested: [luxury-pre-launch-scarcity-framing, desire-creation-before-funnel]
+harvest_note: "Tier 1: Two reusable BP patterns from spar results. (1) Fake scarcity in luxury pre-launch = brand damage — Patrick caught before models confirmed. (2) Desire creation (video/photography) precedes funnel optimization. Also: PONANT consumer hypothesis recalibrated."
+recon_hits: 2
+recon_used: 2
+protocol_friction: 1
+```
+
+S239 executed the SESSION-BRIDGE-S240 operator website research plan. Launched 6 parallel agents (5 operator site audits: A&K, Hapag-Lloyd, PONANT, Saga, Scenic + 1 B2C self-audit). All returned via training knowledge (WebFetch blocked). 
+
+**Key findings:** All 5 operators build value stack before price, show operational scarcity, have B2B portal, and use visual trust signals. Our site already strong on: hero hook, destination-first structure, seal framing, AmaWaterways price anchor. 
+
+**Applied to HTML:** (1) Fixed broken mailto: form → JS builder. (2) Hero CTA → direct inquiry. (3) "First Season in ~50 Years" badge replacing planned "High Demand" (Patrick correction + Grok/Gemini both confirmed). (4) CSS ✓ → › (brand icon TODO). **Corrected email to laura.ilvonen@finland-dmc.com throughout.**
+
+**Grok+Gemini spar:** PONANT consumer hypothesis challenged — our buyer is DACH river/lake cruise segment (Viking/AmaWaterways comparison), NOT aspirational expedition buyer. AmaWaterways price anchor confirmed correct. Two new gaps: German language version + professional video/photography.
+
+**Warm pack:** SESSION-BRIDGE-S240-OPERATOR-WEBSITE-RESEARCH.md executed. Next: German version + video brief + B2B section.
+
+---
+
+### Session 237 | Startup Protocol + Wiki Ingest + Mikko Outreach Draft | 2026-04-16
+
+```yaml
+session: 237
+date: 2026-04-16
+model: sonnet-4-6
+project_type: system-maintenance
+duration: ~30min
+cost: ~$1.20
+session_tier: 2
+attributed_value_eur: ~€300
+human_interventions: 3
+handoff_quality: 88
+longest_autonomous_task_min: 10
+first_turn_quality: high
+kb_consulted: yes
+kb_topics: [wiki-ingest, geopark-ai-pa, compression, outreach-draft]
+patterns_harvested: []
+harvest_note: "Tier 3 only: S238 autonomous session added compression archive note but skipped file writes. S237 completed Steps A/B/C: S232 appended to SESSION-ARCHIVE-FULL.md + one-liner to SESSION-ARCHIVE.md + entry replaced in SESSION-LOG.md. Single occurrence — not reusable BP. Session: startup + S239 wiki delta confirm + geopark-ai-pa entity created + Mikko outreach draft (3 BPs applied: you-centric, Finnish direct close, ready-product-wins)."
+recon_hits: 5
+recon_used: 3
+protocol_friction: 2
+```
+
+**What happened:**
+
+Startup protocol executed. S239 wiki delta was already compiled (confirmed in log — S238 autonomous pipeline). Added S237 new intel:
+- `wiki/entities/projects/geopark-ai-pa.md` created — Geopark Conference Assistant project, Mikko Ikäheimo contact, go-live 1.9.2026, timeline, open questions
+- `wiki/entities/companies/arctic-cruises.md` updated — Geopark pre-conference cruise opportunity (500+ delegates, 15-16.9.2026 empty) + US operator cross-sell (Sampo Kaulanen)
+- `wiki/NAMESPACE.md` updated (+geopark-ai-pa)
+
+Compression: S238 had added archive note to SESSION-LOG.md but skipped Steps A/B/C. Completed: S232 full entry → SESSION-ARCHIVE-FULL.md, S232 one-liner → SESSION-ARCHIVE.md, S232 removed from SESSION-LOG.md.
+
+Recon: 5 BPs surfaced. Top 3 applied: `international-event-dmc-prepost-entry` (ready product > pitch), `finnish-ceo-cold-outreach-close` (direct ask), you-centric framing (MEMORY).
+
+**Primary deliverable:** Improved Mikko Ikäheimo outreach message applying all 3 BPs:
+- THEIR challenge first (500+ delegates, pre-conference 15-16.9 empty)
+- Removed "Minulla on idea" → starts with their problem
+- Correct date reference (viime tiistaina, not "tanaankin")
+- Close: "20 minuuttia. Tulen valmistautuneena."
+
+**Blocker:** Mikko's contact details (email/Teams). Patrick has conference materials from 15.4.
+
+warm_pack: SESSION-BRIDGE-S236-LAKE-SAIMAA-GEOPARK-PA.md
+
+---
+
 ### Session 238 | Arctic Wave 4 + V2 Spar + Operator Research | 2026-04-16
 
 ```yaml
@@ -232,37 +315,7 @@ warm_pack: SESSION-BRIDGE-S239-RIIKKA-GOLIVE-WIKI-GOLIVE.md
 
 ---
 
-### Session 232 | S231 Context Overflow Close — Harvest + Compression | 2026-04-15
-
-```yaml
-session: 232
-date: 2026-04-15
-model: sonnet-4-6
-project_type: strategic-research
-duration: ~20min
-cost: ~$0.80
-session_tier: 2
-attributed_value_eur: ~€500
-human_interventions: 2
-handoff_quality: 97
-longest_autonomous_task_min: 5
-first_turn_quality: high
-kb_consulted: yes
-kb_topics: [riikka-pipeline, orchestrator-design, pattern-harvest]
-patterns_harvested: [finnish-ceo-cold-outreach-close, cos-proof-block-metric-required, linkedin-interest-graph-warming]
-harvest_note: "3 Tier A patterns from S231 VPL spar: (1) Finnish CEO close = direct ask, never Anglo-American risk-reversal. (2) CoS proof block needs metric %, not role title. (3) LinkedIn: follow companies/CEOs before profile signals (interest graph warming). All written to _shared/best-practices/."
-recon_hits: 2
-recon_used: 2
-protocol_friction: 1
-```
-
-Context overflow close from S231. Final Riikka orchestrator launch prompt shown (RIIKKA-ORCHESTRATOR-LAUNCH-PROMPT.md). Wrote 3 BP files + updated _index.yaml. Compression S222-S227 executed.
-
-warm_pack: RIIKKA-ORCHESTRATOR-LAUNCH-PROMPT.md
-
----
-
-*(Sessions 231-232 archived to SESSION-ARCHIVE.md at S238 compression, 2026-04-16)*
+*(Session 232 archived to SESSION-ARCHIVE-FULL.md + SESSION-ARCHIVE.md at S237 compression, 2026-04-16)*
 
 ### Session 231 | Arctic Cruises V3.3 + 7-Bridge Pipeline + Orchestrator V2 | 2026-04-15
 

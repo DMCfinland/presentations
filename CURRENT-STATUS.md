@@ -8,7 +8,7 @@
 ## Meta
 
 ```
-session_number: 238
+session_number: 239
 window_start: 234
 next_compression: 243
 next_opus_review: 244
@@ -23,60 +23,55 @@ phase: mature (every 30 sessions)
 
 | Field | Value |
 |-------|-------|
-| **Current Phase** | S238 COMPLETE — Arctic pipeline done (7 docs, MANIFEST). Grok/Gemini spar done. 15 operator targets identified. S240 bridge written: operator website research → B2C improvements. |
-| **⚠️ KIIREINEN** | **M365 MC1266911 — Deadline 1.5.2026.** admin.microsoft.com → Copilot → AI providers → Anthropic → Enable. Sebastian tai Patrick. |
-| **Active Projects** | 1. **Arctic Cruises website** ← S240 bridge ready (operator research → B2C improvements)<br>2. **Riikka outreach** — IQM URGENT (send by Apr 25). 5 VPL drafts ready.<br>3. **M365 MC1266911** ⚠️ deadline May 1. |
-| **Last Session** | S238 — Arctic Wave 4 complete. Grok/Gemini spar (NOT READY, Patrick corrections overrode). DACH competitors verified (none comparable). 15 operator targets identified. |
-| **Next 3 Tasks** | 1. **S240 operator website research** → B2C improvements (bridge ready)<br>2. **Riikka IQM VPL** — spar + send by Apr 25 (IPO June deadline)<br>3. **M365 MC1266911** ⚠️ deadline May 1 |
+| **Current Phase** | S239 COMPLETE — Arctic B2C operator research (5 operators) + 4 website improvements applied + Grok/Gemini spar. Email corrected. |
+| **⚠️ KIIREINEN x3** | **1. Riikka AMD** ← submit by **2026-04-22** · **2. IQM VPL** ← send by **Apr 25** · **3. M365 MC1266911** ← enable by **May 1** |
+| **Active Projects** | 1. **Arctic B2C** — 4 improvements applied. Next: German version + video brief + B2B section<br>2. **Riikka outreach** — IQM URGENT (send by Apr 25)<br>3. **Geopark AI PA** — Mikko outreach draft ready (find his email)<br>4. **M365 MC1266911** ⚠️ deadline May 1 |
+| **Last Session** | S239 — 5-operator website research (A&K, Hapag, PONANT, Saga, Scenic). 4 HTML improvements. Form fixed. Email corrected. Grok+Gemini spar: PONANT consumer hypothesis calibrated. |
+| **Next 3 Tasks** | 1. **git push** ← hook blocks, run manually in terminal<br>2. **IQM VPL** ← URGENT Apr 25<br>3. **Arctic German version** ← biggest gap per spar |
 
 ---
 
 ## Open Deliverables
 
+- [ ] **git push origin main** ← hook blocks in Claude Code — run manually in terminal
+- [ ] **Riikka AMD application** ⚠️ ← submit by **2026-04-22**
+- [ ] **IQM VPL** ⚠️ ← spar + send by **Apr 25** (IPO June 2026)
+- [ ] **M365 MC1266911** ⚠️ ← Enable by **1.5.2026** (admin.microsoft.com → Copilot → AI providers)
 - [ ] **Parkkimaksu 60€** ← maksa ennen **26.4.2026**
-- [ ] **M365 MC1266911** ⚠️ ← Enable ennen 1.5.2026
-- [ ] **git push origin main** ← Arctic pipeline not yet pushed live
-- [x] **Arctic Pipeline 7 docs** ✅ — committed, MANIFEST written (`01a3fb0`)
-- [ ] **Arctic B2C improvements** ← S240 bridge. 5 parallel operator research agents → apply patterns
-- [ ] **✓ checkmarks B2B flyer** ← replace with brand icons (need lake land 2.0 brand guide path from Patrick)
-- [ ] **Riikka IQM VPL** ← spar + send by **Apr 25** (IPO June 2026 hard deadline)
-- [ ] **Riikka AMD application** ← submit by 2026-04-22
-- [ ] **Toljamo VPL** ← Riikka fills [X]% metric first
-- [ ] **Tonttirahoitus outcomes** ← Sebastian HETU + kokoustulokset
-- [ ] **COSME grant** ← Maakuntaliitto + DE/IE-partneri 30.4. deadline
-- [ ] **Geopark Conference 17.9.2026** ← Patrick contacts Mikko Ikäheimo week 17
+- [ ] **Mikko Ikäheimo contact** ← outreach draft ready, find email (saimaa.fi)
+- [x] **Arctic B2C 4 improvements** ✅ — form fix, hero CTA, scarcity framing, email corrected (`a2aa7aa`)
+- [ ] **Arctic B2C German version** ← biggest gap per Grok spar (DACH 37% of market)
+- [ ] **Arctic B2C professional video brief** ← Gemini: desire creation before funnel
+- [ ] **Arctic B2C named naturalist** ← coordinate with Saku, add to voyages
+- [ ] **Arctic B2C B2B section** ← needs: commission %, trade contact (patrick's call)
+- [ ] **COSME grant** ← Maakuntaliitto + DE/IE-partneri **30.4.** deadline
+- [ ] **Tonttirahoitus** ← Sebastian HETU + kokoustulokset
 
 ---
 
-## Context Pack — S239 (next session)
+## Context Pack — S240
 
 ```
-warm_pack_primary: SESSION-BRIDGE-S240-OPERATOR-WEBSITE-RESEARCH.md
-
 key_files_arctic:
   - ~/1658HoldingsOy-AIFiles/arctic-cruises-b2c.html
+  - ~/1658HoldingsOy-AIFiles/output/arctic-cruises-outreach/website-improvement-spec.md
   - ~/1658HoldingsOy-AIFiles/output/arctic-cruises-outreach/operator-target-list.md
-  - ~/1658HoldingsOy-AIFiles/output/PRICING-MASTER.json
-  - ~/1658HoldingsOy-AIFiles/MANIFEST-COMPLETE.md
 
 key_files_riikka:
-  - ~/Desktop/ai-headhunter/wiki/pipeline.md
   - ~/Desktop/ai-headhunter/wiki/companies/iqm-quantum.md   # URGENT Apr 25
   - ~/Desktop/ai-headhunter/outputs/BLOCKER-metric-needed.md
 
-arctic_competitive_reality:
-  no_comparable_dach_product: true   # verified S238 web research
-  vessel_max_pax: 100
-  subsidies: true
-  usp: "WILDERNESS — unbuilt nature, Lappeenranta-Kuopio route not operated ~50 years"
-  marketing_angle: "Remote lake wilderness rare in today's world"
+arctic_consumer_framing_corrected:
+  consumer: "DACH river/lake cruise buyer — contemplative slow travel"
+  not: "Aspirational PONANT expedition buyer"
+  price_anchor: "AmaWaterways/Viking €3,500-€9,000 vs our €2,600 — CONFIRMED CORRECT"
+  ponant_role: "B2B partner target (they sell us), not consumer competitor"
 
-operator_tier1:
-  - "Abercrombie & Kent (UK) — HNWI wilderness charters"
-  - "Hapag-Lloyd (DE) — MS Europa, German ultra-HNW discovery"
-  - "Saga Cruises (UK) — 100% 50+, fleet expanding 2027"
-  - "PONANT (DE+UK) — 92-184 pax, Smithsonian intellectual travel"
-  - "Riverside Luxury Cruises (DE) — ultra-luxury river, new-format identity"
+arctic_next_gaps:
+  gap_A: "German/DACH language version — 37% of European river/lake market"
+  gap_B: "Professional video + hero photography brief to Saku/Laura"
+  gap_C: "Named naturalist per voyage — coordinate with Saku"
+  gap_D: "B2B trade section — needs: commission %, trade contact from Patrick"
 
 tools_confirmed:
   gemini: "bash ~/run-gemini.sh --prompt-file /tmp/prompt.txt --model gemini-2.5-pro --output-file /tmp/out.txt"
