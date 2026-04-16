@@ -373,15 +373,17 @@
     .route-map-layout { display: grid; grid-template-columns: 1fr 1.6fr; gap: 4rem; align-items: start; margin-top: 48px; }
     .route-map-sticky { position: sticky; top: 100px; align-self: start; }
     .route-map-svg { width: 100%; max-width: 220px; margin: 0 auto; display: block; }
-    .map-stop { display: none; }
-    .route-line-outbound { opacity: 0.28; }
-    .route-line-return { opacity: 0.15; }
-    #ship-marker { transition: transform 1s ease-in-out; }
-    @keyframes ship-ping { 0%,100% { r: 9; opacity: 0.45; } 50% { r: 14; opacity: 0; } }
-    @keyframes ship-arrive { 0% { r: 9; opacity: 0.8; } 100% { r: 18; opacity: 0; } }
-    .ship-ring { animation: ship-ping 2.4s ease-in-out infinite; }
-    .ship-arrive-ring { animation: ship-arrive 0.7s ease-out forwards; }
-    .stop-label-group { transition: opacity 0.5s ease; opacity: 0; pointer-events: none; }
+    .map-stop { display: none !important; visibility: hidden !important; opacity: 0 !important; }
+    .route-line-outbound { display: none !important; }
+    .route-line-return { display: none !important; }
+    /* Ship — offset-path scroll-driven motion */
+    #ship-marker {
+      offset-path: path("M 33,100 C 50,95 65,88 62,82 C 58,80 52,79 48,77 C 46,70 55,60 58,52 C 52,52 40,54 35,53 C 30,50 24,45 27,40 C 28,30 32,22 36,17 C 32,22 28,30 27,40 C 24,45 30,50 35,53 C 40,54 52,52 58,52 C 55,60 46,70 48,77 C 50,85 42,92 33,100");
+      offset-rotate: auto;
+      offset-distance: 0%;
+    }
+    .ship-ring { opacity: 0.4; }
+    .stop-label-group { transition: opacity 0.4s ease; opacity: 0; pointer-events: none; }
     .stop-label-group.visible { opacity: 1; }
     .return-divider {
       padding: 36px 0; text-align: center; border-top: 1px solid var(--border);
@@ -826,14 +828,9 @@
           <svg viewBox="0 0 100 120" xmlns="http://www.w3.org/2000/svg"
                style="position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible;"
                role="presentation">
-            <!-- Outbound route — subtle gold, low opacity -->
-            <polyline class="route-line-outbound"
-              points="33,100 62,82 48,77 44,65 58,52 35,53 27,40 36,17"
-              fill="none" stroke="#c8a96e" stroke-width="1.4" stroke-dasharray="2.5 3" stroke-linecap="round" stroke-linejoin="round"/>
-            <!-- Return route — even subtler -->
-            <polyline class="route-line-return"
-              points="36,17 27,40 35,53 58,52 44,65 48,77 33,100"
-              fill="none" stroke="#c8a96e" stroke-width="1" stroke-dasharray="1.5 3.5" stroke-linecap="round" stroke-linejoin="round"/>
+            <!-- Route lines hidden — ship navigates clean water -->
+            <polyline points="33,100 62,82 48,77 44,65 58,52 35,53 27,40 36,17" fill="none" stroke="none" visibility="hidden"/>
+            <polyline points="36,17 27,40 35,53 58,52 44,65 48,77 33,100" fill="none" stroke="none" visibility="hidden"/>
             <!-- City labels — appear per day on scroll -->
             <g class="stop-label-group" data-label-day="1">
               <rect x="53" y="71" width="26" height="9" rx="2" fill="rgba(28,61,43,0.82)"/>
@@ -901,17 +898,16 @@
               <text x="33" y="109" text-anchor="middle" font-size="4.5" font-weight="700" fill="#2c6e4f" font-family="Open Sans, sans-serif">START / END</text>
             </g>
             <!-- ── Ship marker — moves on scroll ── -->
-            <g id="ship-marker" transform="translate(33,100)">
-              <!-- Pulsing gold halo -->
+            <g id="ship-marker">
+              <!-- Pulsing gold halo (stays fixed — not part of bobbing) -->
               <circle class="ship-ring" r="9" fill="none" stroke="#c8a96e" stroke-width="0.9"/>
-              <!-- Dark body -->
-              <circle r="6.5" fill="#1c3d2b" stroke="#c8a96e" stroke-width="1.6"/>
-              <!-- Boat hull -->
-              <path d="M-3.8,1.8 Q0,3.4 3.8,1.8 L3,-0.2 L-3,-0.2 Z" fill="#c8a96e"/>
-              <!-- Mast -->
-              <line x1="-0.2" y1="-0.2" x2="-0.2" y2="-4.2" stroke="white" stroke-width="0.7"/>
-              <!-- Sail -->
-              <path d="M-0.2,-4 L3.2,-1 L-0.2,-0.8 Z" fill="white" opacity="0.95"/>
+              <!-- Ship body — bobbing animation applied here via #ship-icon -->
+              <g id="ship-icon">
+                <circle r="6.5" fill="#1c3d2b" stroke="#c8a96e" stroke-width="1.6"/>
+                <path d="M-3.8,1.8 Q0,3.4 3.8,1.8 L3,-0.2 L-3,-0.2 Z" fill="#c8a96e"/>
+                <line x1="-0.2" y1="-0.2" x2="-0.2" y2="-4.2" stroke="white" stroke-width="0.7"/>
+                <path d="M-0.2,-4 L3.2,-1 L-0.2,-0.8 Z" fill="white" opacity="0.95"/>
+              </g>
             </g>
           </svg>
         </div>
@@ -1777,54 +1773,57 @@
     mobileNav.classList.remove('open');
   }
 
-  // ── Scroll-activated route map + ship marker + city labels
-  const days = document.querySelectorAll('.day-block');
-  const mapStops = document.querySelectorAll('.map-stop');
+  // ── Scroll-driven ship — offset-path continuous motion
   const shipMarker = document.getElementById('ship-marker');
   const stopLabels = document.querySelectorAll('.stop-label-group');
+  const routeSection = document.getElementById('route-map');
 
-  // Ship position for each day (SVG viewBox 0 0 100 120)
-  const shipPositions = {
-    '1': {x: 48, y: 77},
-    '2': {x: 35, y: 53},
-    '3': {x: 27, y: 40},
-    '4': {x: 36, y: 17},
-    '5': {x: 35, y: 53},
-    '6': {x: 48, y: 77},
-    '7': {x: 33, y: 100},
-  };
+  // Timeline: scroll% → which label to show (±8% window)
+  const labelStops = [
+    { pct: 0.00, day: '7' },   // Lappeenranta start
+    { pct: 0.07, day: '1' },   // Puumala Night 1
+    { pct: 0.21, day: '2' },   // Järvisydän Night 2
+    { pct: 0.43, day: '4' },   // Kuopio Night 3
+    { pct: 0.57, day: '4' },   // Kuopio Night 4 (still there)
+    { pct: 0.64, day: '5' },   // Järvisydän Night 5
+    { pct: 0.86, day: '6' },   // Puumala Night 6
+    { pct: 0.98, day: '7' },   // Lappeenranta home
+  ];
 
-  function triggerArrivalPulse() {
-    const existing = shipMarker.querySelector('.ship-arrive-ring');
-    if (existing) existing.remove();
-    const ring = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-    ring.setAttribute('r', '9');
-    ring.setAttribute('fill', 'none');
-    ring.setAttribute('stroke', '#c8a96e');
-    ring.setAttribute('stroke-width', '1.2');
-    ring.classList.add('ship-arrive-ring');
-    shipMarker.prepend(ring);
-    ring.addEventListener('animationend', () => ring.remove());
+  // Maps scroll% → path offset%, pausing at Kuopio for 2 nights
+  function calculateOffset(p) {
+    if (p <= 0.43) return (p / 0.43) * 0.5;
+    if (p <= 0.57) return 0.5;  // ship sits at Kuopio apex
+    return 0.5 + ((p - 0.57) / 0.43) * 0.5;
   }
 
-  const routeObserver = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        const dayNum = entry.target.dataset.day;
-        // Move ship
-        const pos = shipPositions[dayNum];
-        if (pos && shipMarker) {
-          shipMarker.setAttribute('transform', `translate(${pos.x},${pos.y})`);
-          setTimeout(triggerArrivalPulse, 900); // fire after transition lands
-        }
-        // Swap city label
-        stopLabels.forEach(l => l.classList.remove('visible'));
-        const label = document.querySelector(`.stop-label-group[data-label-day="${dayNum}"]`);
-        if (label) label.classList.add('visible');
-      }
+  function getSectionProgress() {
+    const top = routeSection.offsetTop;
+    const height = routeSection.offsetHeight;
+    const p = (window.scrollY - top) / (height - window.innerHeight);
+    return Math.max(0, Math.min(1, p));
+  }
+
+  function updateShip() {
+    const p = getSectionProgress();
+    const offset = calculateOffset(p);
+    shipMarker.style.offsetDistance = `${(offset * 100).toFixed(2)}%`;
+
+    // Label visibility — show closest stop within ±8%
+    stopLabels.forEach(l => l.classList.remove('visible'));
+    let closest = null, minDist = 0.09;
+    labelStops.forEach(stop => {
+      const dist = Math.abs(p - stop.pct);
+      if (dist < minDist) { minDist = dist; closest = stop.day; }
     });
-  }, { threshold: 0.6, rootMargin: '-10% 0px -40% 0px' });
-  days.forEach(day => routeObserver.observe(day));
+    if (closest) {
+      const el = document.querySelector(`.stop-label-group[data-label-day="${closest}"]`);
+      if (el) el.classList.add('visible');
+    }
+  }
+
+  window.addEventListener('scroll', updateShip, { passive: true });
+  updateShip(); // init position
 
   // ── FAQ accordion
   function toggleFaq(btn) {
